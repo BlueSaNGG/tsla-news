@@ -6,6 +6,7 @@
 const NEWS_URL = "data/news.json";
 const EARNINGS_URL = "data/earnings.json";
 const ROADMAP_URL = "data/roadmap.json";
+const FLEET_URL = "data/fleet.json";
 const THESIS_URL = "data/thesis.json";
 const FIN_URL = "data/financials_annual.json";
 const PRICE_URL = "data/price_history.json";
@@ -642,6 +643,7 @@ function renderTrack() {
   renderQuarterTable();
   renderRoadmap(cachedExtra && cachedExtra.roadmap);
   renderRmCountdown();
+  renderFleet(cachedExtra && cachedExtra.fleet);
   renderValuation(cachedNews && cachedNews.market);
   renderTargets();
   renderPE();
@@ -1148,6 +1150,45 @@ function renderRmCountdown() {
   }
   el.innerHTML = '<p class="rm-countdown">下一里程碑 · <b>' + esc(nx.title) +
     "</b> " + esc(when) + "</p>";
+}
+
+/* 车队规模：德州 DMV 注册数 + 第三方活跃估计 + 预测 */
+function renderFleet(fl) {
+  const el = document.getElementById("fleet");
+  if (!el) return;
+  const reg = (fl && fl.registered) || [];
+  if (!reg.length) { el.innerHTML = '<p class="track-empty">车队数据整理中…</p>'; return; }
+  const latest = reg[reg.length - 1];
+  const act = (fl && fl.active) || {};
+  const maxT = Math.max.apply(null, reg.map(function (r) { return r.total || 0; }));
+  let html = '<div class="val-card">';
+  html += '<div class="val-row"><span>注册车辆（德州 DMV）</span><b class="num">' +
+    (latest.total != null ? latest.total + " 辆" : "—") + '</b><span class="val-sub">' +
+    esc(latest.label) + (latest.cybercab != null ? " · Cybercab " + latest.cybercab : "") +
+    (latest.model_y != null ? " / Model Y " + latest.model_y : "") + "</span></div>";
+  if (act.passenger_carrying_7d != null) {
+    html += '<div class="val-row"><span>实际载客（近7天被拍到）</span><b class="num">' +
+      act.passenger_carrying_7d + ' 辆</b><span class="val-sub">注册是数据库里的 VIN，不等于路上跑的车</span></div>';
+  }
+  reg.forEach(function (r) {
+    const w = r.total && maxT ? Math.round(r.total / maxT * 100) : 0;
+    html += '<div class="val-row"><span>' + esc(r.label) + '</span><b class="num">' +
+      (r.total != null ? r.total : "—") + '</b></div>' +
+      '<div class="pct-bar"><div class="pct-fill" style="width:' + w + '%"></div></div>' +
+      '<p class="val-sub num">' + (r.cybercab != null ? "Cybercab " + r.cybercab : "") +
+      (r.model_y != null ? " · Model Y " + r.model_y : "") + "</p>";
+  });
+  const fcs = (fl && fl.forecasts) || [];
+  if (fcs.length) {
+    html += '<div class="val-row"><span><b>第三方预测</b></span></div>';
+    fcs.forEach(function (f) {
+      html += '<div class="val-row"><span>' + esc(f.source) + '</span><b>' + esc(f.label) + "</b></div>";
+    });
+  }
+  const ctx = (fl && fl.context && fl.context.waymo_texas) || "";
+  html += '<p class="val-sub">数据来源：德州 DMV 公开查询（TxMCCS）与第三方车牌追踪；Waymo 同期在德州约 ' +
+    esc(ctx) + "。注册 ≠ 活跃。</p></div>";
+  el.innerHTML = html;
 }
 
 /* ---------- 估值 ---------- */
@@ -1691,10 +1732,11 @@ function fetchLiveQuote() {
 
 async function load() {
   try {
-    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal, fresh, peers] = await Promise.all([
+    const [news, earnings, roadmap, fleet, thesis, financials, price, history, targets, gloss, signal, fresh, peers] = await Promise.all([
       fetchJson(NEWS_URL),
       fetchJson(EARNINGS_URL).catch(() => null),
       fetchJson(ROADMAP_URL).catch(() => null),
+      fetchJson(FLEET_URL).catch(() => null),
       fetchJson(THESIS_URL).catch(() => null),
       fetchJson(FIN_URL).catch(() => null),
       fetchJson(PRICE_URL).catch(() => null),
@@ -1706,7 +1748,7 @@ async function load() {
       fetchJson(PEERS_URL).catch(() => null),
     ]);
     cachedNews = news;
-    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets, signal, fresh, peers };
+    cachedExtra = { earnings, roadmap, fleet, thesis, financials, price, history, targets, signal, fresh, peers };
     setGlossary(gloss);
     renderToday(news);
     renderNews(news);
