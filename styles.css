@@ -944,16 +944,23 @@ body.sheet-open { overflow: hidden; }
 }
 
 /* ---------- track: chips 导航 ---------- */
-.track-chips {
+.track-chips-wrap {
   position: sticky; z-index: 5;
   /* top 由 JS 按顶栏实际高度设置（syncChipsOffset），避免盖住 sticky header */
+  background: #000;
+  margin: 0 -2px 6px;
+}
+/* 右缘渐隐，暗示可横滑（不用 mask：mask 会让 sticky 滚动容器的背景不绘制） */
+.track-chips-wrap::after {
+  content: ""; position: absolute; top: 0; right: 0; bottom: 0; width: 44px;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0), #000);
+  pointer-events: none;
+}
+.track-chips {
   display: flex; gap: 8px; overflow-x: auto;
-  padding: 10px 2px; margin: 0 -2px 6px;
-  background: var(--bg); -webkit-overflow-scrolling: touch;
+  padding: 10px 2px;
+  -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  /* 右缘渐隐，暗示可横滑，避免最后一个 chip 被生硬切断 */
-  -webkit-mask-image: linear-gradient(90deg, #000 92%, transparent 100%);
-  mask-image: linear-gradient(90deg, #000 92%, transparent 100%);
 }
 .track-chips::-webkit-scrollbar { display: none; }
 .tchip {

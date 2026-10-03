@@ -1599,7 +1599,7 @@ function initTrackChips() {
    让点 chip 跳转时标题不被顶栏+chips 挡住 */
 function syncChipsOffset() {
   const header = document.querySelector(".brand-header");
-  const chips = document.getElementById("track-chips");
+  const chips = document.getElementById("track-chips-wrap");
   if (!header || !chips) return;
   const hh = header.offsetHeight;
   chips.style.top = hh + "px";

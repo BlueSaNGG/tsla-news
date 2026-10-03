@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>TSLA Pulse</title>
 <!-- 发版规范：GitHub Pages 对无版本号资源缓存极 aggressive，改 CSS/JS 必须 bump ?v= -->
-<link rel="stylesheet" href="styles.css?v=tsla2">
+<link rel="stylesheet" href="styles.css?v=tsla3">
 </head>
 <body>
 <header class="brand-header">
@@ -79,6 +79,7 @@
   <!-- ============ 跟踪屏 ============ -->
   <section id="screen-track" class="screen" data-screen="track" hidden>
     <div class="wrap">
+      <div class="track-chips-wrap" id="track-chips-wrap">
       <nav class="track-chips" id="track-chips" aria-label="跟踪分区">
         <button class="tchip" data-sec="sec-delivery">交付量</button>
         <button class="tchip" data-sec="sec-mix">业务结构</button>
@@ -92,6 +93,7 @@
         <button class="tchip" data-sec="sec-history">公司大事记</button>
         <button class="tchip" data-sec="sec-signal">信号历史</button>
       </nav>
+      </div>
 
       <p class="eyebrow" id="sec-delivery">DELIVERIES · 交付量 <span class="fresh" id="fresh-delivery"></span></p>
       <div class="chart-block">
@@ -242,6 +244,6 @@
 </div>
 
 <!-- 发版规范：GitHub Pages 对无版本号资源缓存极 aggressive，改 app.js 必须 bump ?v= -->
-<script src="app.js?v=tsla2"></script>
+<script src="app.js?v=tsla3"></script>
 </body>
 </html>
