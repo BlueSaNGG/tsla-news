@@ -62,7 +62,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(0, 0, 0, 0.94);
+  background: #000;
   /* 注：不要加 backdrop-filter——iOS Safari 下 sticky 头部内的动态重绘文字（如每30秒刷新的报价行）会被糊成重影 */
   border-bottom: 1px solid var(--card-border);
 }
@@ -626,7 +626,7 @@ body {
   height: 8px;
   border-radius: 4px;
   background: var(--card-border);
-  margin: 8px 0 6px;
+  margin: 8px 3px 6px;
 }
 .pct-fill {
   height: 100%;
@@ -641,6 +641,24 @@ body {
   background: #fff;
   transform: translateX(-1px);
 }
+
+/* ---------- 车队规模 ---------- */
+.fleet-hero { display: flex; gap: 10px; margin: 2px 0 12px; }
+.fleet-stat {
+  flex: 1; background: rgba(232, 33, 39, 0.06);
+  border: 1px solid var(--card-border); border-radius: 10px;
+  padding: 10px 12px;
+}
+.fleet-stat b { display: block; font-size: 1.45rem; font-weight: 800; color: var(--accent); font-variant-numeric: tabular-nums; }
+.fleet-stat span { font-size: 0.72rem; color: var(--muted); line-height: 1.5; }
+.fleet-rows { margin: 0 0 4px; }
+.fleet-row { padding: 8px 0; border-top: 1px solid var(--card-border); }
+.fleet-row .fr-top { display: flex; align-items: baseline; gap: 8px; font-size: 0.83rem; }
+.fleet-row .fr-date { color: var(--text); font-weight: 600; white-space: nowrap; }
+.fleet-row .fr-num { margin-left: auto; font-weight: 800; color: var(--text); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.fleet-row .fr-sub { font-size: 0.72rem; color: var(--muted); margin-top: 2px; }
+.fleet-fc { font-size: 0.83rem; line-height: 1.8; margin: 10px 0 4px; }
+.fleet-fc b { color: var(--accent); }
 
 /* Thesis */
 .thesis { display: flex; flex-direction: column; gap: 14px; }
@@ -730,7 +748,7 @@ body {
 .csvg .med-line { stroke: #ffd166; stroke-width: 1.4; }
 .csvg .med-lab { fill: #ffd166; font-size: 9px; }
 .csvg .mixpct { fill: #fff; font-size: 8.5px; font-weight: 700; font-variant-numeric: tabular-nums; }
-.csvg .donut-big { fill: var(--text); font-size: 17px; font-weight: 800; font-variant-numeric: tabular-nums; }
+.csvg .donut-big { fill: var(--text); font-size: 15px; font-weight: 800; font-variant-numeric: tabular-nums; }
 .csvg .proddot { fill: #8a8f98; }
 .csvg .prodline { fill: none; stroke: #8a8f98; stroke-width: 1.4; stroke-dasharray: 3 3; }
 
@@ -933,6 +951,9 @@ body.sheet-open { overflow: hidden; }
   padding: 10px 2px; margin: 0 -2px 6px;
   background: var(--bg); -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
+  /* 右缘渐隐，暗示可横滑，避免最后一个 chip 被生硬切断 */
+  -webkit-mask-image: linear-gradient(90deg, #000 92%, transparent 100%);
+  mask-image: linear-gradient(90deg, #000 92%, transparent 100%);
 }
 .track-chips::-webkit-scrollbar { display: none; }
 .tchip {

@@ -716,6 +716,11 @@ function renderLine(elId, data, o) {
   const vals = data.map(function (d) { return d.v; })
     .filter(function (v) { return v != null; });
   if (!vals.length) { el.innerHTML = TRACK_EMPTY; return; }
+  // 裁掉首尾无数据的空段，避免左侧大片空白（如 P/E 早期负 EPS 年份）
+  let _a = 0, _b = data.length - 1;
+  while (_a <= _b && data[_a].v == null) _a++;
+  while (_b >= _a && data[_b].v == null) _b--;
+  data = data.slice(_a, _b + 1);
   let lo = o.ymin != null ? o.ymin : Math.min.apply(null, vals);
   let hi = o.ymax != null ? o.ymax : Math.max.apply(null, vals);
   if (hi <= lo) hi = lo + 1;
@@ -1051,12 +1056,15 @@ function renderMarginChart() {
     s += '<text x="' + X(i).toFixed(1) + '" y="' + (H - 6) +
       '" class="xlab" text-anchor="middle">' + esc(data[i].label) + "</text>";
   }
-  s += '<g class="legend">' + series.map(function (sr, k) {
-    const lx = PL + k * 150;
-    return '<line x1="' + lx + '" y1="6" x2="' + (lx + 16) + '" y2="6" class="cline" stroke="' +
+  s += '<g class="legend">';
+  let lx = PL;
+  series.forEach(function (sr) {
+    s += '<line x1="' + lx + '" y1="6" x2="' + (lx + 16) + '" y2="6" class="cline" stroke="' +
       sr.color + '"/>' +
       '<text x="' + (lx + 20) + '" y="9" class="xlab">' + esc(sr.name) + "</text>";
-  }).join("") + "</g>";
+    lx += 20 + sr.name.length * 9 + 18;
+  });
+  s += "</g>";
   el.innerHTML = chartSvg(H, s);
 }
 
@@ -1160,34 +1168,33 @@ function renderFleet(fl) {
   if (!reg.length) { el.innerHTML = '<p class="track-empty">车队数据整理中…</p>'; return; }
   const latest = reg[reg.length - 1];
   const act = (fl && fl.active) || {};
-  const maxT = Math.max.apply(null, reg.map(function (r) { return r.total || 0; }));
   let html = '<div class="val-card">';
-  html += '<div class="val-row"><span>注册车辆（德州 DMV）</span><b class="num">' +
-    (latest.total != null ? latest.total + " 辆" : "—") + '</b><span class="val-sub">' +
-    esc(latest.label) + (latest.cybercab != null ? " · Cybercab " + latest.cybercab : "") +
-    (latest.model_y != null ? " / Model Y " + latest.model_y : "") + "</span></div>";
-  if (act.passenger_carrying_7d != null) {
-    html += '<div class="val-row"><span>实际载客（近7天被拍到）</span><b class="num">' +
-      act.passenger_carrying_7d + ' 辆</b><span class="val-sub">注册是数据库里的 VIN，不等于路上跑的车</span></div>';
-  }
+  html += '<div class="fleet-hero">' +
+    '<div class="fleet-stat"><b class="num">' + (latest.total != null ? latest.total : "—") +
+    '</b><span>注册车辆（德州 DMV）<br>' + esc(latest.label) + "</span></div>" +
+    '<div class="fleet-stat"><b class="num">' + (act.passenger_carrying_7d != null ? act.passenger_carrying_7d : "—") +
+    "</b><span>近7天实际载客<br>第三方车牌追踪</span></div></div>";
+  html += '<div class="fleet-rows">';
   reg.forEach(function (r) {
-    const w = r.total && maxT ? Math.round(r.total / maxT * 100) : 0;
-    html += '<div class="val-row"><span>' + esc(r.label) + '</span><b class="num">' +
-      (r.total != null ? r.total : "—") + '</b></div>' +
-      '<div class="pct-bar"><div class="pct-fill" style="width:' + w + '%"></div></div>' +
-      '<p class="val-sub num">' + (r.cybercab != null ? "Cybercab " + r.cybercab : "") +
-      (r.model_y != null ? " · Model Y " + r.model_y : "") + "</p>";
+    const bits = [];
+    if (r.cybercab != null) bits.push("Cybercab " + r.cybercab);
+    if (r.model_y != null) bits.push("Model Y " + r.model_y);
+    const num = r.total != null ? r.total + " 辆" : "Cybercab " + r.cybercab + " 辆";
+    html += '<div class="fleet-row"><div class="fr-top"><span class="fr-date">' + esc(r.label) +
+      '</span><span class="fr-num num">' + esc(num) + "</span></div>" +
+      (bits.length ? '<div class="fr-sub num">' + esc(bits.join(" · ")) + "</div>" : "") +
+      "</div>";
   });
+  html += "</div>";
   const fcs = (fl && fl.forecasts) || [];
   if (fcs.length) {
-    html += '<div class="val-row"><span><b>第三方预测</b></span></div>';
-    fcs.forEach(function (f) {
-      html += '<div class="val-row"><span>' + esc(f.source) + '</span><b>' + esc(f.label) + "</b></div>";
-    });
+    html += '<p class="fleet-fc">第三方预测：' + fcs.map(function (f) {
+      return esc(f.source) + " <b>" + esc(f.label) + "</b>";
+    }).join("；") + "</p>";
   }
   const ctx = (fl && fl.context && fl.context.waymo_texas) || "";
-  html += '<p class="val-sub">数据来源：德州 DMV 公开查询（TxMCCS）与第三方车牌追踪；Waymo 同期在德州约 ' +
-    esc(ctx) + "。注册 ≠ 活跃。</p></div>";
+  html += '<p class="val-sub">注册是数据库里的 VIN，不等于路上跑的车。数据来源：德州 DMV 公开查询（TxMCCS）与第三方追踪；Waymo 同期在德州约 ' +
+    esc(ctx) + "。</p></div>";
   el.innerHTML = html;
 }
 
@@ -1249,10 +1256,13 @@ function renderTargets() {
     .filter(function (t) { return t.target_num > 0 && t.date; })
     .sort(function (a, b) { return a.target_num - b.target_num; });
   if (ts.length < 5) {
-    el.innerHTML = '<p class="track-empty">研报目标价数据积累中（' + ts.length + " 条）</p>";
-    if (cap) cap.textContent = "目标价数据积累中。";
+    // 数据不足时整个区块隐藏，避免一个空卡片占地方
+    const blk = document.getElementById("targets-block");
+    if (blk) blk.hidden = true;
     return;
   }
+  const blk = document.getElementById("targets-block");
+  if (blk) blk.hidden = false;
   const vs = ts.map(function (t) { return t.target_num; });
   const cur = cachedExtra && cachedNews && cachedNews.market && cachedNews.market.price;
   let lo = Math.min.apply(null, vs), hi = Math.max.apply(null, vs);
