@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T18:07:23.641923+00:00",
+ "updated_at": "2026-10-03T18:22:22.111057+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（73条已评分）"
+     "note": "今日新闻情绪 +0.26（74条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 0,
    "implied_upside_pct": null,
    "ma20": 364.87,
-   "as_of": "2026-10-03T18:07:23.628794+00:00"
+   "as_of": "2026-10-03T18:22:22.102406+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.26,
-   "count": 73
+   "count": 74
   }
  },
  "meta": {
@@ -68,13 +68,35 @@
  },
  "stories": [
   {
-   "id": "f3e3f81ef728",
-   "title": "Elon Musk say Tesla is working to prevent robotaxis from running over gray cats on the road - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTROaF9uYWpqTDl6c2haWU5iNVZzMjktbDVpLVBQQ0VReEtmSk5DYVdpcW9feXlOandmTWthazgzdkRLc1A2YU1NMFo5M09kaHNEYkw3QnNIUmI5aUhoc1dpeFRFVGFKMU1MbmVJRzdLZGU2d2UyUDJaTnVPOTkxbHhCNXB3MS0wWjZSX3JURVZlNF9Mc2pHaTRqMElZdWM",
-   "source": "Business Insider",
-   "published_at": "2026-10-03T17:36:11+00:00",
+   "id": "5e6a5654ec50",
+   "title": "Tesla FSD in Czechia: 5 Details That Matter - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRfSjYtcEVnX3NHOUtPX0pDMks3OTdsTEhUam12eGpTOEV4czlURWJnQ0RsWXhMek5NbkFoclkxOWZrR3F0c3hKdHJrMjRlUktpLUJCNnU2NnZDUV9hcHROVUdEaVBIbmEtdTV4SkktbXlOelktSVdwNF9hMXdxS3BNOA",
+   "source": "BASENOR",
+   "published_at": "2026-10-03T18:03:41+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-03T18:03:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRfSjYtcEVnX3NHOUtPX0pDMks3OTdsTEhUam12eGpTOEV4czlURWJnQ0RsWXhMek5NbkFoclkxOWZrR3F0c3hKdHJrMjRlUktpLUJCNnU2NnZDUV9hcHROVUdEaVBIbmEtdTV4SkktbXlOelktSVdwNF9hMXdxS3BNOA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
+   "id": "6858fa1903c7",
+   "title": "Elon Musk says Tesla is trying to prevent robotaxis from running over cats at night - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVLbkJuRmtLQnpZOGlLUnh3TEFGM0MxOFBzV0haN1lTSnNzaWtzOEZCTGExUmdSX3U4eWxrVGNmY1lVUHVDNWNNVFpXLS1tellWZXpvTVEwSVoxSFpLOU5tNmJkdy0xLXM3MVJnTmRIRUJMRXpzV0pMYzR3UGUwYTFvLUdkUDZLZXNfUEZENlBHaFRlaGVpbGxFN1lHY1R5d2pIRVVQV0JRV1NfYnBJR0FUa2lLamRKSm9LakpjaVpmcDBJMW1sb1VSRQ",
+   "source": "Business Insider Africa",
+   "published_at": "2026-10-03T17:35:57+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Business Insider Africa",
+     "published_at": "2026-10-03T17:35:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVLbkJuRmtLQnpZOGlLUnh3TEFGM0MxOFBzV0haN1lTSnNzaWtzOEZCTGExUmdSX3U4eWxrVGNmY1lVUHVDNWNNVFpXLS1tellWZXpvTVEwSVoxSFpLOU5tNmJkdy0xLXM3MVJnTmRIRUJMRXpzV0pMYzR3UGUwYTFvLUdkUDZLZXNfUEZENlBHaFRlaGVpbGxFN1lHY1R5d2pIRVVQV0JRV1NfYnBJR0FUa2lLamRKSm9LakpjaVpmcDBJMW1sb1VSRQ"
+    },
     {
      "name": "Business Insider",
      "published_at": "2026-10-03T17:36:11+00:00",
@@ -131,6 +153,23 @@
    "zh_summary": "特斯拉Q3交付环比增1.3%同比降2.1%",
    "title_zh": "特斯拉Q3交付环比增1.3%、同比降2.1%，能源业务亦放缓",
    "sentiment": 0
+  },
+  {
+   "id": "b5f69203da75",
+   "title": "Tesla just made its headlights even better through a software update - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDlNRmRrSHNPb0xBQUw5SmRKT2lmSDJGNnVHXzNpZnFQaTBNVzZUTTRBQWVhMDJWNV8xLTk1a0ZvNjZLbzFURlluVlZJc2xHWUdMV3VqTFlTUVJEVUJiT2hTVU1KMkR2SHQ0MGpiUnl2TWhreXIyWlNjb0JIU1JfV2ZsRVozUQ",
+   "source": "Teslarati",
+   "published_at": "2026-10-03T17:08:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-03T17:08:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDlNRmRrSHNPb0xBQUw5SmRKT2lmSDJGNnVHXzNpZnFQaTBNVzZUTTRBQWVhMDJWNV8xLTk1a0ZvNjZLbzFURlluVlZJc2xHWUdMV3VqTFlTUVJEVUJiT2hTVU1KMkR2SHQ0MGpiUnl2TWhreXIyWlNjb0JIU1JfV2ZsRVozUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "d3885c1f68a3",
@@ -221,26 +260,6 @@
    "zh_summary": "特斯拉Q3交付48.6万辆",
    "title_zh": "特斯拉三季度全球交付新车48.6万辆",
    "sentiment": 1
-  },
-  {
-   "id": "e77666361037",
-   "title": "Tesla teases \"Halloween Mode\" update with Optimus rising from a graveyard - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkJHdFF1RlhNeTdZUURnY0ktNTUtX0czTWZIZnlFVk1Qcy1jOTdqeFltNFhOb2Juak9aZjhZaWxKMlM0NkN6aEQ0TjVWS0pjcGVhTVdkVGhGWVhQTlY3NHhvcGlRenp0XzVKOUYtNXUwLU5OemRtTzcwSEhVaF9MeDZ6elpuQmFvWGF1R255SHVMLUt6dmV5TTdRMEFYYUE",
-   "source": "Teslarati",
-   "published_at": "2026-10-03T15:56:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-03T15:56:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkJHdFF1RlhNeTdZUURnY0ktNTUtX0czTWZIZnlFVk1Qcy1jOTdqeFltNFhOb2Juak9aZjhZaWxKMlM0NkN6aEQ0TjVWS0pjcGVhTVdkVGhGWVhQTlY3NHhvcGlRenp0XzVKOUYtNXUwLU5OemRtTzcwSEhVaF9MeDZ6elpuQmFvWGF1R255SHVMLUt6dmV5TTdRMEFYYUE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉预热万圣节模式含Optimus彩蛋",
-   "title_zh": "特斯拉预热万圣节模式，Optimus从墓地升起",
-   "sentiment": 0
   },
   {
    "id": "e51ea09b4acb",
@@ -511,15 +530,15 @@
   {
    "id": "757833b7caf1",
    "title": "【视频】特斯拉Model X 二手车推荐 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RGtrXzRRUHg3emh5d2JNTndTRkk3LWNYWEM5alhZSTE2MzhDR3FZd2dkQ1FsVExSMml0Z1Z4QkJBN2V2c3F0cFN1cThOazFBXzZQdG0wR0hTelIyODZ5aUJsb1A5bG82alpZ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hM2hLM2FVaGVJOFFMeFg4SGN3SFVXejA5eVdxUDgyakVTQXg4YjN0YVpQNkpIdXVIOFdGN3h0ZG9xdlhqSlR0RThCS2tncVMwSFFJM3VNRlpmVXM",
    "source": "汽车之家",
-   "published_at": "2026-10-03T12:15:05+00:00",
+   "published_at": "2026-10-03T12:14:46+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-03T12:15:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RGtrXzRRUHg3emh5d2JNTndTRkk3LWNYWEM5alhZSTE2MzhDR3FZd2dkQ1FsVExSMml0Z1Z4QkJBN2V2c3F0cFN1cThOazFBXzZQdG0wR0hTelIyODZ5aUJsb1A5bG82alpZ"
+     "published_at": "2026-10-03T12:14:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hM2hLM2FVaGVJOFFMeFg4SGN3SFVXejA5eVdxUDgyakVTQXg4YjN0YVpQNkpIdXVIOFdGN3h0ZG9xdlhqSlR0RThCS2tncVMwSFFJM3VNRlpmVXM"
     }
    ],
    "category": "车型产品",
@@ -599,10 +618,15 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGVOaGYxVkVseFloczA4bXFwZVV2X0QyRG1xTEtrOTktUUpOQWxnek5WUmFyMGxicnVlU3pGZVdFLWgzX1Zody1QN2hSeUZiN0pGLTY1alpjdnNENGo0eUZEQXkycGQzODJDY3RDa0lDRFJzU29ES252aFlaT0hNUG12eGEzdGVkWjBDMG9nMTczN241NlRz",
    "source": "Pluang",
    "published_at": "2026-10-03T11:44:44+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Pluang",
+     "published_at": "2026-10-03T11:44:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGVOaGYxVkVseFloczA4bXFwZVV2X0QyRG1xTEtrOTktUUpOQWxnek5WUmFyMGxicnVlU3pGZVdFLWgzX1Zody1QN2hSeUZiN0pGLTY1alpjdnNENGo0eUZEQXkycGQzODJDY3RDa0lDRFJzU29ES252aFlaT0hNUG12eGEzdGVkWjBDMG9nMTczN241NlRz"
+    },
+    {
+     "name": "pluang.com",
      "published_at": "2026-10-03T11:44:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGVOaGYxVkVseFloczA4bXFwZVV2X0QyRG1xTEtrOTktUUpOQWxnek5WUmFyMGxicnVlU3pGZVdFLWgzX1Zody1QN2hSeUZiN0pGLTY1alpjdnNENGo0eUZEQXkycGQzODJDY3RDa0lDRFJzU29ES252aFlaT0hNUG12eGEzdGVkWjBDMG9nMTczN241NlRz"
     }
@@ -1484,6 +1508,43 @@
    "sentiment": 1
   },
   {
+   "id": "443ffd200cfa",
+   "title": "【视频】特斯拉没有360？较比影像360，其实这种渲染式更好用 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVU0w2dUFtdGlKUHhjYUR4MTJRVzlvanktN2xoblRZUmV5QU0wcG0tSG53dF9OY2VPNEkzM2JuVHFHc1ZMRnFxNUU1UUdsb29OakE5Q3NRTTNWYlU",
+   "source": "汽车之家",
+   "published_at": "2026-10-03T06:13:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-03T06:13:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVU0w2dUFtdGlKUHhjYUR4MTJRVzlvanktN2xoblRZUmV5QU0wcG0tSG53dF9OY2VPNEkzM2JuVHFHc1ZMRnFxNUU1UUdsb29OakE5Q3NRTTNWYlU"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "e77666361037",
+   "title": "Tesla teases \"Halloween Mode\" update with Optimus rising from a graveyard - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkJHdFF1RlhNeTdZUURnY0ktNTUtX0czTWZIZnlFVk1Qcy1jOTdqeFltNFhOb2Juak9aZjhZaWxKMlM0NkN6aEQ0TjVWS0pjcGVhTVdkVGhGWVhQTlY3NHhvcGlRenp0XzVKOUYtNXUwLU5OemRtTzcwSEhVaF9MeDZ6elpuQmFvWGF1R255SHVMLUt6dmV5TTdRMEFYYUE",
+   "source": "Teslarati",
+   "published_at": "2026-10-03T06:12:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-03T06:12:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkJHdFF1RlhNeTdZUURnY0ktNTUtX0czTWZIZnlFVk1Qcy1jOTdqeFltNFhOb2Juak9aZjhZaWxKMlM0NkN6aEQ0TjVWS0pjcGVhTVdkVGhGWVhQTlY3NHhvcGlRenp0XzVKOUYtNXUwLU5OemRtTzcwSEhVaF9MeDZ6elpuQmFvWGF1R255SHVMLUt6dmV5TTdRMEFYYUE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末",
+   "zh_summary": "特斯拉预热万圣节模式含Optimus彩蛋",
+   "title_zh": "特斯拉预热万圣节模式，Optimus从墓地升起",
+   "sentiment": 0
+  },
+  {
    "id": "f8f4d2464017",
    "title": "【视频】在重庆开特斯拉和乐道新L60进行智能驾驶高难度挑战和友好交流 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0taHYwam5UUHZMSS1NZWJfZXJsT1c1ZTdZcndadzFIM0xQdzRqS1pxRFpmY1NoVXRJWEZmbXBqcGE2bnAwMFFZYV9UTTlZaEF0UlpHeXA0M2hZRGc",
@@ -1804,26 +1865,6 @@
    "sentiment": 0
   },
   {
-   "id": "7357dd7f172e",
-   "title": "Tesla says fixes on Full Self-Driving’s two biggest issues are on the way - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzROSUl3Skg2ejBPT0xpQzVYMTdwSVBCMjUyYk55cWNfTGVqTU41TFVnOVFMdTNmdEhJYmRzcTZvc0dteFJkeXpRbXpPdGxwYXMyX0toUlpuakFoSzF5VzRtVTBMM2VZdFVQRlFaUWpRV3p6NWZCeGlXRlZlRk1KSmhHVG54dnNWTUljOFVFYkJlbTNuZXc",
-   "source": "Teslarati",
-   "published_at": "2026-10-03T03:19:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-03T03:19:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzROSUl3Skg2ejBPT0xpQzVYMTdwSVBCMjUyYk55cWNfTGVqTU41TFVnOVFMdTNmdEhJYmRzcTZvc0dteFJkeXpRbXpPdGxwYXMyX0toUlpuakFoSzF5VzRtVTBMM2VZdFVQRlFaUWpRV3p6NWZCeGlXRlZlRk1KSmhHVG54dnNWTUljOFVFYkJlbTNuZXc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉称FSD两大问题修复在即",
-   "title_zh": "特斯拉称FSD两大问题的修复即将到来",
-   "sentiment": 1
-  },
-  {
    "id": "9bc2f35145cd",
    "title": "超预期！特斯拉三季度交付超48.6万辆 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvVzc3RnRweFRLOFA2Sl81R2pERl9TdGQxbVc4U3ZuSkZNSXRKb2pZY0tBaUx1OTJoM29aZjBadUNOVUZmb0NYSW9ab2tYYmpLYXdXMXVUc1hWVXFL",
@@ -1847,6 +1888,23 @@
    "zh_summary": "特斯拉Q3交付超预期",
    "title_zh": "超预期！特斯拉三季度交付超48.6万辆",
    "sentiment": 1
+  },
+  {
+   "id": "4002ff3c9601",
+   "title": "【视频】2023年8月特斯拉Model Y改款后轮驱动版 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZZU9CSGRXZ1ZhQ09xNmRxVEgxV09qVnNvby1USnZ2Q3pmOFhWUTNwdUN4ZE9xWEd5c1VCaXNVMV9vVUl2eExwTVFWSmVWWEpKQ0RieDhYT0xCblU",
+   "source": "汽车之家",
+   "published_at": "2026-10-03T03:03:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-03T03:03:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZZU9CSGRXZ1ZhQ09xNmRxVEgxV09qVnNvby1USnZ2Q3pmOFhWUTNwdUN4ZE9xWEd5c1VCaXNVMV9vVUl2eExwTVFWSmVWWEpKQ0RieDhYT0xCblU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "7d65f381866d",
@@ -2239,10 +2297,15 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEEzQ2dKd1ozUGREOHV0WkdRbDJGNXVoM0RBb3ItRjdOSU1YTTdSU2RYWnN0SHNVMzdiZmhFNmVkVm5oSElMNFZOaEF5bkM5bDhodHJydmVsWFdFb1VOSVpsb3c4MWplbXEzQVV4MDVqSUUyRDBtckdJRU1CTUZwMVRodG9zZmJuTUhOMHdDZWFFZVF1N0Vj",
    "source": "moomoo.com",
    "published_at": "2026-10-02T23:08:41+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "moomoo.com",
+     "published_at": "2026-10-02T23:08:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEEzQ2dKd1ozUGREOHV0WkdRbDJGNXVoM0RBb3ItRjdOSU1YTTdSU2RYWnN0SHNVMzdiZmhFNmVkVm5oSElMNFZOaEF5bkM5bDhodHJydmVsWFdFb1VOSVpsb3c4MWplbXEzQVV4MDVqSUUyRDBtckdJRU1CTUZwMVRodG9zZmJuTUhOMHdDZWFFZVF1N0Vj"
+    },
+    {
+     "name": "Moomoo",
      "published_at": "2026-10-02T23:08:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEEzQ2dKd1ozUGREOHV0WkdRbDJGNXVoM0RBb3ItRjdOSU1YTTdSU2RYWnN0SHNVMzdiZmhFNmVkVm5oSElMNFZOaEF5bkM5bDhodHJydmVsWFdFb1VOSVpsb3c4MWplbXEzQVV4MDVqSUUyRDBtckdJRU1CTUZwMVRodG9zZmJuTUhOMHdDZWFFZVF1N0Vj"
     }
@@ -2364,10 +2427,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTNQcXMwU3VBUkxnV205YnFldEd4bjRUb2VweTI3RWVxd05PbHNJOWFnU2xmdXRnX2VFVW40eTBaSUsyVmFGZTBuNWFMbG5sRTZGcU5oVmFqNXQ4TjlhLUxKOUYyOXN2OFNxUnRGS0MzT2EyZ1p0UTZmcWFFbVd3VmoyRzJGNnpTWWI2UHp5VktZWEhyaXNnMzg5YnhvMmZpVHlmRFFDTHEtSnM",
    "source": "MarketBeat",
    "published_at": "2026-10-02T21:23:16+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "MarketBeat",
+     "published_at": "2026-10-02T21:23:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTNQcXMwU3VBUkxnV205YnFldEd4bjRUb2VweTI3RWVxd05PbHNJOWFnU2xmdXRnX2VFVW40eTBaSUsyVmFGZTBuNWFMbG5sRTZGcU5oVmFqNXQ4TjlhLUxKOUYyOXN2OFNxUnRGS0MzT2EyZ1p0UTZmcWFFbVd3VmoyRzJGNnpTWWI2UHp5VktZWEhyaXNnMzg5YnhvMmZpVHlmRFFDTHEtSnM"
+    },
+    {
+     "name": "marketbeat.com",
      "published_at": "2026-10-02T21:23:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTNQcXMwU3VBUkxnV205YnFldEd4bjRUb2VweTI3RWVxd05PbHNJOWFnU2xmdXRnX2VFVW40eTBaSUsyVmFGZTBuNWFMbG5sRTZGcU5oVmFqNXQ4TjlhLUxKOUYyOXN2OFNxUnRGS0MzT2EyZ1p0UTZmcWFFbVd3VmoyRzJGNnpTWWI2UHp5VktZWEhyaXNnMzg5YnhvMmZpVHlmRFFDTHEtSnM"
     }
@@ -2699,6 +2767,26 @@
    "sentiment": 1
   },
   {
+   "id": "7357dd7f172e",
+   "title": "Tesla says fixes on Full Self-Driving’s two biggest issues are on the way - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzROSUl3Skg2ejBPT0xpQzVYMTdwSVBCMjUyYk55cWNfTGVqTU41TFVnOVFMdTNmdEhJYmRzcTZvc0dteFJkeXpRbXpPdGxwYXMyX0toUlpuakFoSzF5VzRtVTBMM2VZdFVQRlFaUWpRV3p6NWZCeGlXRlZlRk1KSmhHVG54dnNWTUljOFVFYkJlbTNuZXc",
+   "source": "Teslarati",
+   "published_at": "2026-10-02T17:47:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-02T17:47:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzROSUl3Skg2ejBPT0xpQzVYMTdwSVBCMjUyYk55cWNfTGVqTU41TFVnOVFMdTNmdEhJYmRzcTZvc0dteFJkeXpRbXpPdGxwYXMyX0toUlpuakFoSzF5VzRtVTBMM2VZdFVQRlFaUWpRV3p6NWZCeGlXRlZlRk1KSmhHVG54dnNWTUljOFVFYkJlbTNuZXc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "特斯拉称FSD两大问题修复在即",
+   "title_zh": "特斯拉称FSD两大问题的修复即将到来",
+   "sentiment": 1
+  },
+  {
    "id": "bf65bd5f8332",
    "title": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN",
@@ -2939,10 +3027,15 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FtMF9xUTUzUmMtTmZqZExKRFNRT2tpbHdCa1cyTHNhZjdjdmhCa01QUl9Fc3FNNldXQUxMX0N2aE1YY3JMTTFhMklaQXZWcUQ4MDFfaFRBUTk4U0RWNGVRb3M2bkliTWxlcU1yanUtTVZ2TUFRelpydVNtTXo1RzZHSnV1NGJMNVZqT3g4TXZXaGc",
    "source": "Ars Technica",
    "published_at": "2026-10-02T16:05:26+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Ars Technica",
+     "published_at": "2026-10-02T16:05:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FtMF9xUTUzUmMtTmZqZExKRFNRT2tpbHdCa1cyTHNhZjdjdmhCa01QUl9Fc3FNNldXQUxMX0N2aE1YY3JMTTFhMklaQXZWcUQ4MDFfaFRBUTk4U0RWNGVRb3M2bkliTWxlcU1yanUtTVZ2TUFRelpydVNtTXo1RzZHSnV1NGJMNVZqT3g4TXZXaGc"
+    },
+    {
+     "name": "arstechnica.com",
      "published_at": "2026-10-02T16:05:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FtMF9xUTUzUmMtTmZqZExKRFNRT2tpbHdCa1cyTHNhZjdjdmhCa01QUl9Fc3FNNldXQUxMX0N2aE1YY3JMTTFhMklaQXZWcUQ4MDFfaFRBUTk4U0RWNGVRb3M2bkliTWxlcU1yanUtTVZ2TUFRelpydVNtTXo1RzZHSnV1NGJMNVZqT3g4TXZXaGc"
     }
@@ -3094,10 +3187,15 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVZuUmY4NVU2bWVoZVVneFFNWmdiZDZIcmZZTW9rcEx4WEpGZXdUX0pwczJMbWRSLWdROTJiNjRqSHQ3dm1jUGdsU0c3QTB5YlJjajJ3c0JmS3dLcTVpTFUzbzY0ZWhLMkVyckRONF8tdmhwcTRndmRYR1VDdjdYREhfeEJkeUUza2h2NTFmUEVDWG9iYjBhR2w0WXV5TzhUbmRMMjdyWkZwUnU0ZGYxbmt6dTRBb3VVMEJOT1Rn",
    "source": "Reuters",
    "published_at": "2026-10-02T14:49:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Reuters",
+     "published_at": "2026-10-02T14:49:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVZuUmY4NVU2bWVoZVVneFFNWmdiZDZIcmZZTW9rcEx4WEpGZXdUX0pwczJMbWRSLWdROTJiNjRqSHQ3dm1jUGdsU0c3QTB5YlJjajJ3c0JmS3dLcTVpTFUzbzY0ZWhLMkVyckRONF8tdmhwcTRndmRYR1VDdjdYREhfeEJkeUUza2h2NTFmUEVDWG9iYjBhR2w0WXV5TzhUbmRMMjdyWkZwUnU0ZGYxbmt6dTRBb3VVMEJOT1Rn"
+    },
+    {
+     "name": "reuters.com",
      "published_at": "2026-10-02T14:49:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVZuUmY4NVU2bWVoZVVneFFNWmdiZDZIcmZZTW9rcEx4WEpGZXdUX0pwczJMbWRSLWdROTJiNjRqSHQ3dm1jUGdsU0c3QTB5YlJjajJ3c0JmS3dLcTVpTFUzbzY0ZWhLMkVyckRONF8tdmhwcTRndmRYR1VDdjdYREhfeEJkeUUza2h2NTFmUEVDWG9iYjBhR2w0WXV5TzhUbmRMMjdyWkZwUnU0ZGYxbmt6dTRBb3VVMEJOT1Rn"
     }
@@ -3224,7 +3322,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT254S2tFSHliQUVaalBjcU1KSzdZaFVXS3pwMWRkZTRzZm13aDItcWhLN3VRSHhqb3FmM21YNE1jM3ZCeW1LeTVfZ2dUc21rakY5RTdWcF9tQWVpNjV2ZFdHT3lEZTBsM3o0cE10UDVUdXZUY0ZrMElwTTRUaV9yRjZKenlUc2lHdVNhSW9RVnRTZWdRTFE",
    "source": "The Verge",
    "published_at": "2026-10-02T14:34:14+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Verge",
@@ -3240,10 +3338,16 @@
      "name": "theverge.com",
      "published_at": "2026-10-02T14:34:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT254S2tFSHliQUVaalBjcU1KSzdZaFVXS3pwMWRkZTRzZm13aDItcWhLN3VRSHhqb3FmM21YNE1jM3ZCeW1LeTVfZ2dUc21rakY5RTdWcF9tQWVpNjV2ZFdHT3lEZTBsM3o0cE10UDVUdXZUY0ZrMElwTTRUaV9yRjZKenlUc2lHdVNhSW9RVnRTZWdRTFE"
+    },
+    {
+     "name": "insideevs.com",
+     "published_at": "2026-10-02T15:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YVNZMXhkME9xQkt2ejBVN2NXeHc5cXpLemE4bk9uQ1NJbFhLemw4NEZvLUFNTlpMRnpaV0xzcGFjcUY5S01IX0RlcFhCWXdrN0EyQ3FSTDZIZkpDQjVEQlZBVFZEVjdTSDZzeU1UeTJMZ0lxMTZqN1FCTEtMRFk"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "紧急时可带枪驶离充电桩",
    "title_zh": "特斯拉允许紧急情况下充电中驶离",
    "sentiment": 0,
@@ -3637,10 +3741,15 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3d1R2NhbU1seUNYeGNBT3JGZUFrYnJVek51dE9CZXNTYlQ4ZFZUUDU1VzdVSWRhcm9zd1pFOTN2UXlLYlVBQVJiY1oySnFwVzNLLWNxLVRDRWpNbVdNMDZqSWF4UWl6ZEdvRHZ3ekNKcEduTTY5TG9hRXFHTGZtSjZ3",
    "source": "InsideEVs",
    "published_at": "2026-10-02T13:03:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "InsideEVs",
+     "published_at": "2026-10-02T13:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3d1R2NhbU1seUNYeGNBT3JGZUFrYnJVek51dE9CZXNTYlQ4ZFZUUDU1VzdVSWRhcm9zd1pFOTN2UXlLYlVBQVJiY1oySnFwVzNLLWNxLVRDRWpNbVdNMDZqSWF4UWl6ZEdvRHZ3ekNKcEduTTY5TG9hRXFHTGZtSjZ3"
+    },
+    {
+     "name": "insideevs.com",
      "published_at": "2026-10-02T13:03:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV3d1R2NhbU1seUNYeGNBT3JGZUFrYnJVek51dE9CZXNTYlQ4ZFZUUDU1VzdVSWRhcm9zd1pFOTN2UXlLYlVBQVJiY1oySnFwVzNLLWNxLVRDRWpNbVdNMDZqSWF4UWl6ZEdvRHZ3ekNKcEduTTY5TG9hRXFHTGZtSjZ3"
     }
@@ -4137,10 +4246,15 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVkxZ3JoeS1uVjF0b2NiNVliRXdJVlN1T2ZvaEg4d1BlaGJ3SlB3em1CTFlOR3dIdHVpbVVNSVdPVWttVUlyRUlrTjFqeFkzSXRXU3ZCckFiYWRZM3R1bE1LQ2hJQUNaUGdubzNHRl91NXc5ZEhJMVpDUi1hWGxkWDhmY3ZOa1dyNjNYRFp5S0R0ajVCVkMzSWxBNnk3T2tFUVRxci15MXI1MlkySDZYQnhVM2JFRVJoR2FHakFqVW1HQkgycjBQUzluSWotZw",
    "source": "Reuters",
    "published_at": "2026-10-01T16:39:38+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Reuters",
+     "published_at": "2026-10-01T16:39:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVkxZ3JoeS1uVjF0b2NiNVliRXdJVlN1T2ZvaEg4d1BlaGJ3SlB3em1CTFlOR3dIdHVpbVVNSVdPVWttVUlyRUlrTjFqeFkzSXRXU3ZCckFiYWRZM3R1bE1LQ2hJQUNaUGdubzNHRl91NXc5ZEhJMVpDUi1hWGxkWDhmY3ZOa1dyNjNYRFp5S0R0ajVCVkMzSWxBNnk3T2tFUVRxci15MXI1MlkySDZYQnhVM2JFRVJoR2FHakFqVW1HQkgycjBQUzluSWotZw"
+    },
+    {
+     "name": "reuters.com",
      "published_at": "2026-10-01T16:39:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVkxZ3JoeS1uVjF0b2NiNVliRXdJVlN1T2ZvaEg4d1BlaGJ3SlB3em1CTFlOR3dIdHVpbVVNSVdPVWttVUlyRUlrTjFqeFkzSXRXU3ZCckFiYWRZM3R1bE1LQ2hJQUNaUGdubzNHRl91NXc5ZEhJMVpDUi1hWGxkWDhmY3ZOa1dyNjNYRFp5S0R0ajVCVkMzSWxBNnk3T2tFUVRxci15MXI1MlkySDZYQnhVM2JFRVJoR2FHakFqVW1HQkgycjBQUzluSWotZw"
     }
@@ -4322,10 +4436,15 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FUDVjUV9TbGZEZTFzSVMwc0JCQnI3UTYyX0NBcnR4blAxRDdXdjRhQ2pDZ0V3VjlkU1BfdG9FQ19sYjFCWXZGWm5DWVJaUHJ0SlQwY2ZrcU1xbjVEQTN2RlY1MnJMZ0dvTEhB",
    "source": "InsideEVs",
    "published_at": "2026-10-01T07:38:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "InsideEVs",
+     "published_at": "2026-10-01T07:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FUDVjUV9TbGZEZTFzSVMwc0JCQnI3UTYyX0NBcnR4blAxRDdXdjRhQ2pDZ0V3VjlkU1BfdG9FQ19sYjFCWXZGWm5DWVJaUHJ0SlQwY2ZrcU1xbjVEQTN2RlY1MnJMZ0dvTEhB"
+    },
+    {
+     "name": "insideevs.com",
      "published_at": "2026-10-01T07:38:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FUDVjUV9TbGZEZTFzSVMwc0JCQnI3UTYyX0NBcnR4blAxRDdXdjRhQ2pDZ0V3VjlkU1BfdG9FQ19sYjFCWXZGWm5DWVJaUHJ0SlQwY2ZrcU1xbjVEQTN2RlY1MnJMZ0dvTEhB"
     }
@@ -4707,10 +4826,15 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWExxVzF4ejZubE5vZG5MVnB1YWgxNE1ZU2ZvcDdBSFhfT2lsRmlmTHVKTm0xRllROFVBZzBwZl9MTWk3LVFsZTlSRDFyTGhUN1YtdDlIRjJ4bkdiRkhrRmhTd1hfWW9NZ3otOWZKU3JrckNjNHJkZ0U2M0ViSExLMFQ3eDV5ZngtTzBNajRKV2RVaGc1ajJQdEpCTUV2N3pJQnY2dElBSnh1WDJPUHljZzM3b2R1QWVqa1lFNkhHckpxdjA",
    "source": "MarketBeat",
    "published_at": "2026-09-29T21:03:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "MarketBeat",
+     "published_at": "2026-09-29T21:03:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWExxVzF4ejZubE5vZG5MVnB1YWgxNE1ZU2ZvcDdBSFhfT2lsRmlmTHVKTm0xRllROFVBZzBwZl9MTWk3LVFsZTlSRDFyTGhUN1YtdDlIRjJ4bkdiRkhrRmhTd1hfWW9NZ3otOWZKU3JrckNjNHJkZ0U2M0ViSExLMFQ3eDV5ZngtTzBNajRKV2RVaGc1ajJQdEpCTUV2N3pJQnY2dElBSnh1WDJPUHljZzM3b2R1QWVqa1lFNkhHckpxdjA"
+    },
+    {
+     "name": "marketbeat.com",
      "published_at": "2026-09-29T21:03:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWExxVzF4ejZubE5vZG5MVnB1YWgxNE1ZU2ZvcDdBSFhfT2lsRmlmTHVKTm0xRllROFVBZzBwZl9MTWk3LVFsZTlSRDFyTGhUN1YtdDlIRjJ4bkdiRkhrRmhTd1hfWW9NZ3otOWZKU3JrckNjNHJkZ0U2M0ViSExLMFQ3eDV5ZngtTzBNajRKV2RVaGc1ajJQdEpCTUV2N3pJQnY2dElBSnh1WDJPUHljZzM3b2R1QWVqa1lFNkhHckpxdjA"
     }
