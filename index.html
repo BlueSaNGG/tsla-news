@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>TSLA Pulse</title>
+<!-- 发版规范：GitHub Pages 对无版本号资源缓存极 aggressive，改 CSS/JS 必须 bump ?v= -->
+<link rel="stylesheet" href="styles.css?v=tsla1">
+</head>
+<body>
+<header class="brand-header">
+  <div class="header-inner">
+    <p class="brand-eyebrow">SHAREHOLDER TERMINAL</p>
+    <h1><span class="ticker">TSLA</span> Pulse</h1>
+    <p class="quote num" id="quote-line" hidden></p>
+    <p class="updated">更新于 <span id="updated-at">加载中…</span></p>
+    <nav class="topnav" id="topnav" aria-label="页面导航">
+      <button class="tnav active" data-screen="today">今日</button>
+      <button class="tnav" data-screen="news">新闻</button>
+      <button class="tnav" data-screen="track">跟踪</button>
+      <button class="tnav" data-screen="start">入门</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- ============ 今日屏 ============ -->
+  <section id="screen-today" class="screen" data-screen="today">
+    <div class="wrap">
+      <p class="eyebrow">TODAY'S BRIEF · 股东今日简报</p>
+      <div id="attr-line" class="attr-line" hidden></div>
+      <div id="signal-card"></div>
+
+      <div class="event-cards" id="event-cards"></div>
+
+      <p class="eyebrow">KEY NUMBERS · 关键数字</p>
+      <div class="keynums num" id="keynums">
+        <p class="track-empty">数字加载中…</p>
+      </div>
+
+      <div id="val-sentence"></div>
+    </div>
+  </section>
+
+  <!-- ============ 新闻屏 ============ -->
+  <section id="screen-news" class="screen" data-screen="news" hidden>
+    <div class="wrap">
+      <p class="eyebrow">NEWS FLOW · 新闻流</p>
+      <nav class="tabs" id="tabs" aria-label="新闻分类">
+        <button class="tab active" data-cat="全部">全部</button>
+        <button class="tab" data-cat="交付量">交付量</button>
+        <button class="tab" data-cat="财报">财报</button>
+        <button class="tab" data-cat="分析师">分析师</button>
+        <button class="tab" data-cat="Robotaxi与FSD">Robotaxi与FSD</button>
+        <button class="tab" data-cat="车型产品">车型产品</button>
+        <button class="tab" data-cat="马斯克">马斯克</button>
+        <button class="tab" data-cat="政策监管">政策监管</button>
+        <button class="tab" data-cat="能源">能源</button>
+        <button class="tab" data-cat="市场宏观">市场宏观</button>
+        <button class="tab" data-cat="其他">其他</button>
+      </nav>
+      <div class="search-row">
+        <input id="search" type="search" placeholder="搜索标题、来源…" autocomplete="off" aria-label="搜索新闻">
+        <button id="search-clear" class="search-clear" hidden aria-label="清除搜索">✕</button>
+      </div>
+      <div class="search-scope" id="search-scope" hidden>
+        <button class="scope-btn active" data-scope="recent">近7天</button>
+        <button class="scope-btn" data-scope="history">全部历史</button>
+      </div>
+      <p class="search-count" id="search-count" hidden></p>
+      <div id="timeline" class="timeline" aria-live="polite"></div>
+      <div id="empty" class="empty" hidden>
+        <p>暂无新闻数据</p>
+        <p class="empty-sub">抓取任务每 15 分钟更新一次，稍后再来看看。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 跟踪屏 ============ -->
+  <section id="screen-track" class="screen" data-screen="track" hidden>
+    <div class="wrap">
+      <nav class="track-chips" id="track-chips" aria-label="跟踪分区">
+        <button class="tchip" data-sec="sec-delivery">交付量</button>
+        <button class="tchip" data-sec="sec-mix">业务结构</button>
+        <button class="tchip" data-sec="sec-margin">毛利率</button>
+        <button class="tchip" data-sec="sec-energy">能源</button>
+        <button class="tchip" data-sec="sec-quarter">财报速览</button>
+        <button class="tchip" data-sec="sec-roadmap">Robotaxi路线图</button>
+        <button class="tchip" data-sec="sec-valuation">估值</button>
+        <button class="tchip" data-sec="sec-peers">同行</button>
+        <button class="tchip" data-sec="sec-thesis">投资逻辑</button>
+        <button class="tchip" data-sec="sec-history">公司大事记</button>
+        <button class="tchip" data-sec="sec-signal">信号历史</button>
+      </nav>
+
+      <p class="eyebrow" id="sec-delivery">DELIVERIES · 交付量 <span class="fresh" id="fresh-delivery"></span></p>
+      <div class="chart-block">
+        <h3>季度交付量 <span class="chart-sub">万辆 · 柱顶为环比；圆点为产量</span></h3>
+        <div id="chart-delivery" class="chart"></div>
+        <p class="chart-cap" id="delivery-cap">交付量是特斯拉最重要的经营指标，通常比财报更能驱动股价。</p>
+      </div>
+
+      <p class="eyebrow" id="sec-mix">REVENUE MIX · 业务结构 <span class="fresh" id="fresh-mix"></span></p>
+      <div class="chart-block">
+        <h3>12 季度营收结构 <span class="chart-sub">汽车 / 能源 / 服务，100% 堆叠</span></h3>
+        <div id="chart-mix" class="chart"></div>
+        <div id="mix-legend-track" class="mix-legend"></div>
+        <p class="chart-cap">汽车=整车销售+租赁；监管积分（约占营收 1%）未计入堆叠。</p>
+      </div>
+      <div class="chart-block">
+        <div id="donut-mix" class="mix-donut"></div>
+      </div>
+
+      <p class="eyebrow" id="sec-margin">MARGINS · 毛利率 <span class="fresh" id="fresh-margin"></span></p>
+      <div class="chart-block">
+        <h3>毛利率趋势 <span class="chart-sub">季度 · 汽车毛利率为扣监管积分口径</span></h3>
+        <div id="chart-margin" class="chart"></div>
+        <p class="chart-cap">汽车毛利率（扣积分）是特斯拉的灵魂指标：它剔掉了"卖碳积分"的利润，最能反映造车本身赚不赚钱。</p>
+      </div>
+
+      <p class="eyebrow" id="sec-energy">ENERGY · 能源 <span class="fresh" id="fresh-energy"></span></p>
+      <div class="chart-block">
+        <h3>储能装机量 <span class="chart-sub">季度 · GWh</span></h3>
+        <div id="chart-energy" class="chart"></div>
+        <p class="chart-cap">Megapack / Powerwall 季度部署量，特斯拉第二增长曲线。</p>
+      </div>
+
+      <p class="eyebrow" id="sec-quarter">QUARTERS · 财报速览 <span class="fresh" id="fresh-quarter"></span></p>
+      <div id="qtable"></div>
+
+      <p class="eyebrow" id="sec-roadmap">ROADMAP · Robotaxi 路线图 <span class="fresh" id="fresh-roadmap"></span></p>
+      <div id="rm-countdown"></div>
+      <div id="roadmap"></div>
+
+      <p class="eyebrow" id="sec-valuation">VALUATION · 估值 <span class="fresh" id="fresh-valuation"></span></p>
+      <div id="valuation"></div>
+      <div class="chart-block">
+        <div id="chart-targets" class="chart"></div>
+        <p class="chart-cap" id="targets-cap">研报目标价分布；点击圆点看详情。红线为当前价。数据来自媒体报道整理。</p>
+      </div>
+      <div class="chart-block">
+        <h3>TTM 市盈率 <span class="chart-sub">月收盘 ÷ 近12个月GAAP EPS</span></h3>
+        <div id="chart-pe" class="chart"></div>
+        <p class="chart-cap">特斯拉为自然年财年。EPS 为负的月份不计入（P/E 无意义）。拆股已调整。</p>
+      </div>
+
+      <p class="eyebrow" id="sec-peers">PEERS · 同行对比 <span class="fresh" id="fresh-peers"></span></p>
+      <p class="track-sub" id="peers-verdict"></p>
+      <div class="peers-grid" id="peers-grid"></div>
+      <div class="chart-block">
+        <div id="chart-peers" class="chart"></div>
+        <p class="chart-cap">近 6 个月日收盘价归一化（起点=100）；数据来自 Yahoo Finance，每日更新。</p>
+      </div>
+
+      <p class="eyebrow" id="sec-thesis">THESIS · 投资逻辑 <span class="fresh" id="fresh-thesis"></span></p>
+      <p class="track-sub" id="thesis-reviewed"></p>
+      <div id="thesis"></div>
+
+      <p class="eyebrow" id="sec-history">HISTORY · 公司大事记 <span class="fresh" id="fresh-history"></span></p>
+      <div id="company"></div>
+
+      <p class="eyebrow" id="sec-signal">SIGNAL · 信号历史 <span class="fresh" id="fresh-signal"></span></p>
+      <div class="chart-block">
+        <div id="chart-signal" class="chart"></div>
+        <p class="chart-cap">每日信号 verdict 走势；自数据积累日起记录。</p>
+      </div>
+
+      <p class="track-note">交付量、财报数据来自 Tesla 官方新闻稿、10-Q/10-K 及可信媒体整理；投资逻辑按公开框架整理，待审阅调整。</p>
+    </div>
+  </section>
+
+  <!-- ============ 入门屏 ============ -->
+  <section id="screen-start" class="screen" data-screen="start" hidden>
+    <div class="wrap">
+      <p class="eyebrow">START HERE · 新手入门</p>
+
+      <div class="start-card">
+        <h2>特斯拉是什么？</h2>
+        <p>全球市值最高的汽车公司，也是最大的纯电动车制造商。业务横跨<span class="term" data-term="电动车">电动车</span>、<span class="term" data-term="储能">储能</span>和<span class="term" data-term="自动驾驶">自动驾驶</span>（Robotaxi / FSD），马斯克的目标是把"卖车"变成"卖软件和出行服务"。</p>
+      </div>
+
+      <div class="start-card">
+        <h2>它怎么赚钱？</h2>
+        <p>卖电动车（Model 3/Y 占交付量 98%）是基本盘；卖储能（Megapack / Powerwall）增长最快；软件与服务（<span class="term" data-term="FSD">FSD</span>、超充、保险）是利润率最高的部分。汽车销售约占营收七成。</p>
+        <div id="mix-chart"></div>
+        <div id="mix-legend" class="mix-legend"></div>
+        <div id="mix-donut" class="mix-donut"></div>
+        <p class="track-note">各业务营收占比（官方财报口径；监管积分未计入）。</p>
+      </div>
+
+      <div class="start-card">
+        <h2>最重要的 4 个数字</h2>
+        <div class="start-nums num" id="start-nums">
+          <p class="track-empty">数字加载中…</p>
+        </div>
+        <p class="start-hint">带虚线下划线的词，点一下看解释。</p>
+      </div>
+
+      <div class="start-card">
+        <h2>核心风险</h2>
+        <div id="start-risks"><p class="track-empty">加载中…</p></div>
+      </div>
+
+      <div class="start-cta">
+        <button class="cta-btn primary" id="goto-today">看今日信号 →</button>
+        <button class="cta-btn" id="goto-history">公司大事记 →</button>
+      </div>
+      <p class="start-foot">
+        <button class="link-btn" id="set-home">我是老股东，设为默认进「今日」</button>
+      </p>
+    </div>
+  </section>
+</main>
+
+<nav class="bottomnav" id="bottomnav" aria-label="页面导航">
+  <button class="bnav active" data-screen="today">今日</button>
+  <button class="bnav" data-screen="news">新闻</button>
+  <button class="bnav" data-screen="track">跟踪</button>
+  <button class="bnav" data-screen="start">入门</button>
+</nav>
+
+<footer class="site-footer">
+  <p>数据来源：Google News · Yahoo Finance · Tesla IR · 每 15 分钟自动更新 · 仅供参考，不构成投资建议</p>
+</footer>
+
+<!-- 首访分流 -->
+<div id="first-visit" class="fv" hidden>
+  <div class="fv-card">
+    <p class="brand-eyebrow">TSLA PULSE</p>
+    <h2>你是哪一类读者？</h2>
+    <p class="fv-sub">选一次就好，之后会记住你的选择。</p>
+    <button class="fv-btn" data-home="start">
+      <b>刚了解特斯拉</b>
+      <span>从入门开始，5 分钟看懂这家公司</span>
+    </button>
+    <button class="fv-btn" data-home="today">
+      <b>已在跟踪</b>
+      <span>直接进入今日简报与每日信号</span>
+    </button>
+  </div>
+</div>
+
+<!-- 发版规范：GitHub Pages 对无版本号资源缓存极 aggressive，改 app.js 必须 bump ?v= -->
+<script src="app.js?v=tsla1"></script>
+</body>
+</html>
