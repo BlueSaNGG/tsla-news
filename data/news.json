@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T12:52:29.636287+00:00",
+ "updated_at": "2026-10-04T13:07:25.888498+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（24条已评分）"
+     "note": "今日新闻情绪 +0.35（26条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-04T12:52:29.627173+00:00"
+   "as_of": "2026-10-04T13:07:25.882300+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 24
+   "avg": 0.35,
+   "count": 26
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b631f69ddf21",
+   "title": "2011年马斯克嘲笑比亚迪，如今特斯拉用比亚迪电池 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUpIdXVPeUhRV3VETEZPME5FRXZyNENaZnEyRGRBZFJkeFZxbDhwbnlINWdKLXltUDhtcXBWVzk5X3hzWHRNdXZOVUlMczd2em8tX3FIbG92ZkY2OGtlS3JfWmNvUnU4YUkyd19oUDJZeDYxU0xYRGxaOFVNbDFFMw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-04T12:58:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-04T12:58:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUpIdXVPeUhRV3VETEZPME5FRXZyNENaZnEyRGRBZFJkeFZxbDhwbnlINWdKLXltUDhtcXBWVzk5X3hzWHRNdXZOVUlMczd2em8tX3FIbG92ZkY2OGtlS3JfWmNvUnU4YUkyd19oUDJZeDYxU0xYRGxaOFVNbDFFMw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
+  },
   {
    "id": "9b774cd6dade",
    "title": "Tesla And 2 Other Founder Backed Stocks To Watch - Simply Wall Street",
@@ -83,8 +100,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉等三只创始人支持的股票值得关注",
    "zh_summary": "特斯拉等三只创始人背景股票受关注",
+   "title_zh": "特斯拉等三只创始人支持的股票值得关注",
    "sentiment": 1
   },
   {
@@ -609,8 +626,8 @@
    ],
    "category": "财报",
    "session": "周末",
-   "title_zh": "TSLA财报前瞻：毛利率、Robotaxi、资本开支引关注",
    "zh_summary": "财报前聚焦TSLA毛利率与Robotaxi进展",
+   "title_zh": "TSLA财报前瞻：毛利率、Robotaxi、资本开支引关注",
    "sentiment": 1
   },
   {
@@ -4631,6 +4648,23 @@
    "sentiment": 1
   },
   {
+   "id": "ccad9ccca918",
+   "title": "特斯拉三季度全球交付超48.6万辆 上海工厂交付量占全球总交付量一半以上 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5waERITnlEeWZ0bVdnWlFRcnJpUUVWQThrLUgyZHhtMV9WUUp5ckUzRnZpZEhYWTZDbnU3SnRNc1Bhc2V4NFdBOWo3YTRTTXRKMUpTME83Ym96c2FCRm1zanFiN1JuVzZlN2VycVI3Szhpa3FVZkp1Tw",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-03T04:26:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-03T04:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5waERITnlEeWZ0bVdnWlFRcnJpUUVWQThrLUgyZHhtMV9WUUp5ckUzRnZpZEhYWTZDbnU3SnRNc1Bhc2V4NFdBOWo3YTRTTXRKMUpTME83Ym96c2FCRm1zanFiN1JuVzZlN2VycVI3Szhpa3FVZkp1Tw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
+  {
    "id": "a7ea45ea2181",
    "title": "特斯拉2026年第三季度全球生产超46.4万辆 交付超48.6万辆 - 凤凰网汽车",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zYXUzZ3Vmc0xHZ1lrU3NLdk1CLVk4Q21fWWdsYno2OTFxdVVVdnhmYW8zRXh3ZVhia3gwZUU3OWtSTjdUbXNJN1BReGE",
@@ -7729,56 +7763,6 @@
    "session": "盘前",
    "zh_summary": "Model 3升级但美国买不到",
    "title_zh": "特斯拉Model 3屏幕变大支持V2L，但美国买不到",
-   "sentiment": 0
-  },
-  {
-   "id": "d93bc7f9a67b",
-   "title": "Why Tesla Roadster unveiling delay might have nothing to do with it flying - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXU3ZW8wLWZYR2JnMURuRkdrbFBwMWVFVnZ1dXFXeE5ubmV5dnJxN0htQ1ZWZWdycFZJNzhTVnVfdEpKNUhZMi1vWjdJRWhsNm9WMjh1c21jT0JER3duenVaakZIS3Fab2N4VDBPWjh6dFpXWWtwQ1pOLW14QUxjTnVHV3k0RF9BMTF5UlBqMzdrRnFUdHFaVWFfb0dVWlU",
-   "source": "Teslarati",
-   "published_at": "2026-10-02T04:56:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-02T04:56:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXU3ZW8wLWZYR2JnMURuRkdrbFBwMWVFVnZ1dXFXeE5ubmV5dnJxN0htQ1ZWZWdycFZJNzhTVnVfdEpKNUhZMi1vWjdJRWhsNm9WMjh1c21jT0JER3duenVaakZIS3Fab2N4VDBPWjh6dFpXWWtwQ1pOLW14QUxjTnVHV3k0RF9BMTF5UlBqMzdrRnFUdHFaVWFfb0dVWlU"
-    },
-    {
-     "name": "teslarati.com",
-     "published_at": "2026-10-02T04:56:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXU3ZW8wLWZYR2JnMURuRkdrbFBwMWVFVnZ1dXFXeE5ubmV5dnJxN0htQ1ZWZWdycFZJNzhTVnVfdEpKNUhZMi1vWjdJRWhsNm9WMjh1c21jT0JER3duenVaakZIS3Fab2N4VDBPWjh6dFpXWWtwQ1pOLW14QUxjTnVHV3k0RF9BMTF5UlBqMzdrRnFUdHFaVWFfb0dVWlU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Roadster跳票或与飞行无关",
-   "title_zh": "特斯拉Roadster延期或与飞行功能无关",
-   "sentiment": -1
-  },
-  {
-   "id": "74cb607695c8",
-   "title": "Tesla sales come off the boil due to shipment dates, but Model 3 leaps ahead before release of cut-price model - The Driven IO",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ",
-   "source": "The Driven IO",
-   "published_at": "2026-10-02T04:46:44+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Driven IO",
-     "published_at": "2026-10-02T04:46:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ"
-    },
-    {
-     "name": "thedriven.io",
-     "published_at": "2026-10-02T04:46:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model 3交付前销量冲高",
-   "title_zh": "特斯拉销量降温，Model 3改款前冲高",
    "sentiment": 0
   }
  ]
