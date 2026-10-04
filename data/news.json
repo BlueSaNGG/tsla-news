@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T05:37:22.735187+00:00",
+ "updated_at": "2026-10-04T05:52:23.232041+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（3条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 0,
    "implied_upside_pct": null,
    "ma20": 364.87,
-   "as_of": "2026-10-04T05:37:22.727948+00:00"
+   "as_of": "2026-10-04T05:52:23.220344+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.0,
+   "count": 3
   }
  },
  "meta": {
@@ -3239,7 +3239,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uT3ZwS2dTekNDaEhnazVwU3U1bDNiMGllZFdvYzh1ZEMxeDFveHo5R3lvYUx4eE1tbWxKRzhGVENnNnB2UFZacjhrVC0",
    "source": "凤凰网科技",
    "published_at": "2026-10-03T06:27:51+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网科技",
@@ -3250,6 +3250,11 @@
      "name": "CNMO",
      "published_at": "2026-10-03T07:08:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LQXZTTlF0LWUxVFdnQWRwTGJpN2lDRkRqdnc0Z1I0X0dFMlJiX0Vya0VES3EzU3FhVGNmcHJZRUUtNHJld0V6dU8wbw"
+    },
+    {
+     "name": "tech.ifeng.com",
+     "published_at": "2026-10-03T06:27:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uT3ZwS2dTekNDaEhnazVwU3U1bDNiMGllZFdvYzh1ZEMxeDFveHo5R3lvYUx4eE1tbWxKRzhGVENnNnB2UFZacjhrVC0"
     }
    ],
    "category": "马斯克",
