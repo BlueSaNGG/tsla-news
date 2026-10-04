@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T10:52:32.216164+00:00",
+ "updated_at": "2026-10-04T10:59:38.856084+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -21,7 +21,7 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "暂无目标价数据"
+     "note": "目标价中位数 $408（10家），隐含空间 +10.0%"
     },
     {
      "key": "新闻情绪",
@@ -40,15 +40,15 @@
     }
    ],
    "price_52w_pct": 38,
-   "target_median": null,
-   "target_count": 0,
-   "implied_upside_pct": null,
+   "target_median": 407.5,
+   "target_count": 10,
+   "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-04T10:52:32.209526+00:00"
+   "as_of": "2026-10-04T10:59:38.848513+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "估值数据不足，暂无一句话解读",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b6282775cdc2",
+   "title": "Gary Black Flags Waymo Is Leaving TSLA Behind On Autonomy Even As Tesla Beats Delivery Estimates In Q3 - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGVvdjF4UDRvbEJnYlFwNHZubzZvSnlRNFdzVXZuZzJuVTlNUUkxTm54SGtteFRkU3M2cl9rX0hPLVhHV0dzQjNqaFpTQXhlN3Jqc1lxRzU1ZjVQZ08tdnNjdHRmZFZwRUtKemI4OEJkUTZDTnZtaW5FNXF3Vk43RFR4ME1lOUZ3VDVVTl9CeFVxYUE0a0w5YVFPUzQ3SWZ4c081dlFLcklxLTJDaEtuUThVVjA1Z0Y2M1RXT1lrZmUxY3ctRk02NjQ5akpBdw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-04T10:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-04T10:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGVvdjF4UDRvbEJnYlFwNHZubzZvSnlRNFdzVXZuZzJuVTlNUUkxTm54SGtteFRkU3M2cl9rX0hPLVhHV0dzQjNqaFpTQXhlN3Jqc1lxRzU1ZjVQZ08tdnNjdHRmZFZwRUtKemI4OEJkUTZDTnZtaW5FNXF3Vk43RFR4ME1lOUZ3VDVVTl9CeFVxYUE0a0w5YVFPUzQ3SWZ4c081dlFLcklxLTJDaEtuUThVVjA1Z0Y2M1RXT1lrZmUxY3ctRk02NjQ5akpBdw"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
+  },
   {
    "id": "bf5dbec2de82",
    "title": "【视频】智界S7 Pro vs 特斯拉Model3，智能泊车技术大比拼 - 汽车之家",
@@ -2167,10 +2184,15 @@
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVnFmcHY5SXZoTW9HZTNhWnljbFRHVDRoRnVqXzNrRy1YbVJCWXdzRlZXS2xIOVZtenhXQTg4WVg0RTIyOXVjWk14SU0xdlVFX2Z1UV9XNVhZb2Zjb0taSVRwLVpfTHFpNWVMTjBvVjR0SGFzM1RSU3hZYnhienU2MUZSaERqX1ppZkFWN0dBZkdtX0hWNkZqV2dQdlhHZkpyeUZkdmdPVjFxY3JZOWZPc05NMEdSMS1iRlV0aDZpRkRFZU9JMW01cnpETUlDYi00Sk8wX0p4dWhrYkRSaXUzcmhndEJxNEFlSVUyQlVHTGk3YzltYmF5dWU3NGFiS01lZ29Hd3dadWtoQQ",
    "source": "stocktwits.com",
    "published_at": "2026-10-03T18:07:06+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "stocktwits.com",
+     "published_at": "2026-10-03T18:07:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVnFmcHY5SXZoTW9HZTNhWnljbFRHVDRoRnVqXzNrRy1YbVJCWXdzRlZXS2xIOVZtenhXQTg4WVg0RTIyOXVjWk14SU0xdlVFX2Z1UV9XNVhZb2Zjb0taSVRwLVpfTHFpNWVMTjBvVjR0SGFzM1RSU3hZYnhienU2MUZSaERqX1ppZkFWN0dBZkdtX0hWNkZqV2dQdlhHZkpyeUZkdmdPVjFxY3JZOWZPc05NMEdSMS1iRlV0aDZpRkRFZU9JMW01cnpETUlDYi00Sk8wX0p4dWhrYkRSaXUzcmhndEJxNEFlSVUyQlVHTGk3YzltYmF5dWU3NGFiS01lZ29Hd3dadWtoQQ"
+    },
+    {
+     "name": "Stocktwits",
      "published_at": "2026-10-03T18:07:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVnFmcHY5SXZoTW9HZTNhWnljbFRHVDRoRnVqXzNrRy1YbVJCWXdzRlZXS2xIOVZtenhXQTg4WVg0RTIyOXVjWk14SU0xdlVFX2Z1UV9XNVhZb2Zjb0taSVRwLVpfTHFpNWVMTjBvVjR0SGFzM1RSU3hZYnhienU2MUZSaERqX1ppZkFWN0dBZkdtX0hWNkZqV2dQdlhHZkpyeUZkdmdPVjFxY3JZOWZPc05NMEdSMS1iRlV0aDZpRkRFZU9JMW01cnpETUlDYi00Sk8wX0p4dWhrYkRSaXUzcmhndEJxNEFlSVUyQlVHTGk3YzltYmF5dWU3NGFiS01lZ29Hd3dadWtoQQ"
     }
@@ -7688,31 +7710,6 @@
    "zh_summary": "特斯拉卡在一只手上",
    "title_zh": "特斯拉，卡在一只手上 - 电子工程专辑",
    "sentiment": 0
-  },
-  {
-   "id": "11f2cade33ea",
-   "title": "Watch Tesla Sales Top Estimates for Third Quarter - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFBCVXZxYjZybEtZOGduVzRldkNicWRtcmtpY0txeGFwcVk5NURrZ29vOWJTaFBEVVdaV2pONDUxSTdQamd5dnFuOUNudU9JUk1ZNGYyM1JJOThwclpCRWFSNzYyX1VvMThJcWRkYjRoZlZna3p0eUtMTUFNLUlHbVJzUGNDaVo1QkVmM2FSeTdTc3pzekw3YlRKSUs2YkE",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-02T00:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-02T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFBCVXZxYjZybEtZOGduVzRldkNicWRtcmtpY0txeGFwcVk5NURrZ29vOWJTaFBEVVdaV2pONDUxSTdQamd5dnFuOUNudU9JUk1ZNGYyM1JJOThwclpCRWFSNzYyX1VvMThJcWRkYjRoZlZna3p0eUtMTUFNLUlHbVJzUGNDaVo1QkVmM2FSeTdTc3pzekw3YlRKSUs2YkE"
-    },
-    {
-     "name": "bloomberg.com",
-     "published_at": "2026-10-02T15:35:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFBCVXZxYjZybEtZOGduVzRldkNicWRtcmtpY0txeGFwcVk5NURrZ29vOWJTaFBEVVdaV2pONDUxSTdQamd5dnFuOUNudU9JUk1ZNGYyM1JJOThwclpCRWFSNzYyX1VvMThJcWRkYjRoZlZna3p0eUtMTUFNLUlHbVJzUGNDaVo1QkVmM2FSeTdTc3pzekw3YlRKSUs2YkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "彭博：特斯拉Q3销量超预期",
-   "title_zh": "彭博：特斯拉三季度销量超预期",
-   "sentiment": 1
   }
  ]
 }
