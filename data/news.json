@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T07:22:23.406369+00:00",
+  "updated_at": "2026-10-04T07:37:25.299205+00:00",
   "market": {
     "price": 370.59,
     "change_pct": 4.65,
@@ -11,12 +11,12 @@
     },
     "daily_signal": {
       "verdict": "中性",
-      "score": 1,
+      "score": 0,
       "dims": [
         {
           "key": "估值位置",
           "score": 0,
-          "note": "现价处于52周区间 38% 分位"
+          "note": "暂无52周数据"
         },
         {
           "key": "目标价空间",
@@ -26,12 +26,12 @@
         {
           "key": "新闻情绪",
           "score": 0,
-          "note": "今日新闻情绪 +0.00（8条已评分）"
+          "note": "今日新闻情绪 +0.00（9条已评分）"
         },
         {
           "key": "动量",
-          "score": 1,
-          "note": "现价 $370.59 vs 20日均线 $364.87"
+          "score": 0,
+          "note": "暂无均线数据"
         },
         {
           "key": "分析师动向",
@@ -39,12 +39,12 @@
           "note": "近14天无分析师动作"
         }
       ],
-      "price_52w_pct": 38,
+      "price_52w_pct": null,
       "target_median": null,
       "target_count": 0,
       "implied_upside_pct": null,
-      "ma20": 364.87,
-      "as_of": "2026-10-04T07:22:23.397741+00:00"
+      "ma20": null,
+      "as_of": "2026-10-04T07:37:25.283407+00:00"
     },
     "pe_ttm": 102.5,
     "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
     },
     "day_sentiment": {
       "avg": 0.0,
-      "count": 8
+      "count": 9
     }
   },
   "meta": {
@@ -67,6 +67,26 @@
     }
   },
   "stories": [
+    {
+      "id": "5ab0dabd1eb9",
+      "title": "特斯拉在2026.38版本软件更新中测试动态大灯水平调节功能 - 网通社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWk1xYXYzRm9sYXduZnp1TEhlSVZwU2xxOTVMdEwya2RMV1FBNlF6SGtyd1h1eU5scmJ1dDJIZTVFMEdqbkNOQ2lrU0VrOEJPcXllcGQtWUJwVjg",
+      "source": "网通社",
+      "published_at": "2026-10-04T07:15:07+00:00",
+      "outlets_count": 1,
+      "outlets": [
+        {
+          "name": "网通社",
+          "published_at": "2026-10-04T07:15:07+00:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWk1xYXYzRm9sYXduZnp1TEhlSVZwU2xxOTVMdEwya2RMV1FBNlF6SGtyd1h1eU5scmJ1dDJIZTVFMEdqbkNOQ2lrU0VrOEJPcXllcGQtWUJwVjg"
+        }
+      ],
+      "category": "其他",
+      "session": "周末",
+      "zh_summary": "特斯拉测试动态大灯自动调节",
+      "title_zh": "特斯拉2026.38版测试动态大灯水平调节",
+      "sentiment": 0
+    },
     {
       "id": "f681744b81a6",
       "title": "特斯拉悄然测试动态大灯，近光灯自动修正照射角度 - 手机新浪网",
@@ -88,8 +108,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉测试动态大灯自动调角度",
-      "title_zh": "特斯拉悄然测试动态大灯，近光灯自动修正照射角度 - 手机新浪网",
+      "zh_summary": "特斯拉测试大灯自动修正照射角度",
+      "title_zh": "特斯拉悄然测试动态大灯自动修正照射角度",
       "sentiment": 0
     },
     {
@@ -108,9 +128,9 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉新增充电逃生功能维修不菲",
-      "title_zh": "价值25000美元，特斯拉新增“充电逃生工功能”，躲避枪击？维修价值不菲 - 手机新浪网",
-      "sentiment": 0
+      "zh_summary": "特斯拉推充电逃生功能防劫持",
+      "title_zh": "特斯拉新增充电逃生功能，价值25000美元",
+      "sentiment": 1
     },
     {
       "id": "cf2def37a1ae",
@@ -168,8 +188,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "二手特斯拉Model Y过户下一车主",
-      "title_zh": "【视频】性价比特斯拉modelY 过户下一任车主 - 汽车之家",
+      "zh_summary": "特斯拉Model Y二手车过户",
+      "title_zh": "性价比高的特斯拉Model Y过户",
       "sentiment": 0
     },
     {
@@ -188,8 +208,8 @@
       ],
       "category": "分析师",
       "session": "周末",
-      "zh_summary": "奥本海默维持特斯拉持平评级，交付超预期储能不及预期",
-      "title_zh": "奥本海默维持特斯拉持平评级，交付超预期储能不及预期",
+      "zh_summary": "三季度交付超预期储能不及预期",
+      "title_zh": "Oppenheimer维持特斯拉与大盘持平评级",
       "sentiment": 0
     },
     {
@@ -253,9 +273,9 @@
       ],
       "category": "交付量",
       "session": "周末",
-      "zh_summary": "特斯拉三季度交付48.6万辆降2%",
-      "title_zh": "降2%！特斯拉第三季度交付超48.6万辆，Model 3/Y抄底价22.25万起",
-      "sentiment": 0
+      "zh_summary": "特斯拉三季度交付超48.6万辆",
+      "title_zh": "特斯拉三季度交付超48.6万辆，3/Y降价",
+      "sentiment": 1
     },
     {
       "id": "9d3f174c23e4",
@@ -273,8 +293,8 @@
       ],
       "category": "车型产品",
       "session": "周末",
-      "zh_summary": "Model Y L 购买建议与评测",
-      "title_zh": "想买 Model Y L？建议先读读这篇",
+      "zh_summary": "澳媒评测特斯拉Model Y L",
+      "title_zh": "想买特斯拉Model Y L？先看这篇",
       "sentiment": 0
     },
     {
@@ -293,8 +313,8 @@
       ],
       "category": "车型产品",
       "session": "周末",
-      "zh_summary": "视频称特斯拉Model Y原版原漆降价",
-      "title_zh": "【视频】特斯拉Model Y原版原漆，现在打骨折 - 汽车之家",
+      "zh_summary": "二手Model Y原版原漆降价出售",
+      "title_zh": "特斯拉Model Y原版原漆降价促销",
       "sentiment": 0
     },
     {
@@ -409,8 +429,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉26款赛博双电机现车保挂牌",
-      "title_zh": "26款特斯拉赛博双电机现车，国庆后最后90天保挂牌",
+      "zh_summary": "赛博越野旅行车双电机现车在售",
+      "title_zh": "26款特斯拉赛博双电机现车销售",
       "sentiment": 0
     },
     {
@@ -429,8 +449,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "Gemini 构想 2050 年特斯拉车型",
-      "title_zh": "让 Gemini 设计 2050 年特斯拉，结果是这样",
+      "zh_summary": "AI生成2050年特斯拉概念车",
+      "title_zh": "让Gemini设计2050年的特斯拉",
       "sentiment": 0
     },
     {
@@ -454,8 +474,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "视频推荐车况好的二手特斯拉",
-      "title_zh": "【视频】精品特斯拉推荐，车况好，公里数少这几台推荐给你 - 汽车之家",
+      "zh_summary": "推荐车况好的精品二手特斯拉",
+      "title_zh": "精品特斯拉推荐，车况好里程少",
       "sentiment": 0
     },
     {
@@ -474,8 +494,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉回调与谷歌走势剧本相反",
-      "title_zh": "特斯拉周五生死局，谷歌抄底窗口打开？同样在回调，为什么剧本完全相反！",
+      "zh_summary": "特斯拉与谷歌股价回调对比",
+      "title_zh": "特斯拉周五生死局，谷歌抄底窗口？",
       "sentiment": 0
     },
     {
@@ -499,8 +519,8 @@
       ],
       "category": "马斯克",
       "session": "周末",
-      "zh_summary": "特斯拉上海工厂话题引热议",
-      "title_zh": "特斯拉上海工厂，打工人看完沉默了! 马斯克说过，中国人请善待自己的同胞！ - 手机新浪网",
+      "zh_summary": "特斯拉上海工厂待遇引热议",
+      "title_zh": "特斯拉上海工厂待遇引打工人热议",
       "sentiment": 0
     },
     {
@@ -685,8 +705,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "国庆偶遇的限量版特斯拉",
-      "title_zh": "欢迎大家欣赏 国庆限时偶遇的限量版特斯拉 - 手机新浪网",
+      "zh_summary": "国庆偶遇限量版特斯拉",
+      "title_zh": "国庆限时偶遇的限量版特斯拉",
       "sentiment": 0
     },
     {
@@ -725,9 +745,9 @@
       ],
       "category": "Robotaxi与FSD",
       "session": "周末",
-      "zh_summary": "特斯拉FSD如魔法，马斯克释其意",
-      "title_zh": "特斯拉FSD如魔法一般：马斯克的真实含义",
-      "sentiment": 0
+      "zh_summary": "马斯克谈FSD真实含义",
+      "title_zh": "FSD体验如魔法：马斯克真实含义",
+      "sentiment": 1
     },
     {
       "id": "2e5f77c1ef3f",
@@ -800,9 +820,9 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉充电遇袭可拔下充电枪快跑",
-      "title_zh": "特斯拉北美新功能：插枪遇歹徒可拔腿就跑 - 手机新浪网",
-      "sentiment": 0
+      "zh_summary": "特斯拉北美推充电安全功能",
+      "title_zh": "特斯拉北美新功能：充电遇险可快速逃离",
+      "sentiment": 1
     },
     {
       "id": "feb205a5444c",
@@ -845,9 +865,9 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉新功能可充电紧急逃离",
-      "title_zh": "特斯拉新“放枪击”功能，充电紧急逃离 ··· - 手机新浪网",
-      "sentiment": 0
+      "zh_summary": "特斯拉推充电紧急逃离功能",
+      "title_zh": "特斯拉新增充电紧急逃离功能",
+      "sentiment": 1
     },
     {
       "id": "94795ddb252b",
@@ -976,8 +996,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "短线关注特斯拉与SPCX今日走势",
-      "title_zh": "美股短线～特斯拉，SPCX今日爆发，你们在里面吗？ - video.sina.com.cn",
+      "zh_summary": "特斯拉与SPCX短线走势分析",
+      "title_zh": "美股短线：特斯拉与SPCX走势",
       "sentiment": 0
     },
     {
@@ -1021,8 +1041,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "视频介绍特斯拉专属固特异脚垫",
-      "title_zh": "【视频】特斯拉专属固特异脚垫 - 汽车之家",
+      "zh_summary": "特斯拉专属固特异脚垫介绍",
+      "title_zh": "特斯拉专属固特异脚垫",
       "sentiment": 0
     },
     {
@@ -1146,8 +1166,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "十万内后驱版特斯拉露营购车解析",
-      "title_zh": "10万内能露营的特斯拉怎么选？后驱版+金融方案全解析+FAQ - 手机新浪网",
+      "zh_summary": "10万预算特斯拉选购解析",
+      "title_zh": "10万内能露营的特斯拉怎么选？",
       "sentiment": 0
     },
     {
@@ -1246,8 +1266,8 @@
       ],
       "category": "车型产品",
       "session": "周末",
-      "zh_summary": "视频：二手Model 3性价比版本推荐",
-      "title_zh": "【视频】目前二手特斯拉Model 3的性价比版本 - 车家号",
+      "zh_summary": "二手Model 3性价比版本推荐",
+      "title_zh": "二手特斯拉Model 3性价比版",
       "sentiment": 0
     },
     {
@@ -1271,8 +1291,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "Moomoo特斯拉(TSLA)讨论区页面",
-      "title_zh": "特斯拉(TSLA)讨论区- 股票评论- 股吧交流社区 - Moomoo",
+      "zh_summary": "TSLA股吧讨论区",
+      "title_zh": "特斯拉(TSLA)股票讨论区",
       "sentiment": 0
     },
     {
@@ -1391,9 +1411,9 @@
       ],
       "category": "Robotaxi与FSD",
       "session": "周末",
-      "zh_summary": "马斯克称FSD夜间目标是避开宠物",
-      "title_zh": "马斯克：特斯拉FSD夜间驾驶首要目标是避开宠物",
-      "sentiment": 0
+      "zh_summary": "马斯克称FSD夜间目标避开宠物",
+      "title_zh": "马斯克：FSD夜间驾驶首要目标是避开宠物",
+      "sentiment": 1
     },
     {
       "id": "02c7a28f7da4",
@@ -1437,7 +1457,7 @@
       "category": "其他",
       "session": "周末",
       "zh_summary": "暴雨天体验特斯拉露营模式",
-      "title_zh": "暴雨天体验，特斯拉的露营模式，和想象中完全不一样！ ··· - 手机新浪网",
+      "title_zh": "暴雨天体验特斯拉露营模式",
       "sentiment": 0
     },
     {
@@ -1496,9 +1516,9 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "投资人1.9万美元买特斯拉股票变280万",
-      "title_zh": "工程师$1.9万买特斯拉股票涨至$280万的启示",
-      "sentiment": 0
+      "zh_summary": "工程师1.9万美元特斯拉股票变280万",
+      "title_zh": "工程师1.9万美元买特斯拉股票变成280万美元",
+      "sentiment": 1
     },
     {
       "id": "3c9138d96347",
@@ -1547,7 +1567,7 @@
       "category": "车型产品",
       "session": "周末",
       "zh_summary": "特斯拉Model 3更新",
-      "title_zh": "特斯拉Model 3更新 - 汽车之家",
+      "title_zh": "特斯拉Model 3更新",
       "sentiment": 0
     },
     {
@@ -1641,8 +1661,8 @@
       ],
       "category": "车型产品",
       "session": "周末",
-      "zh_summary": "10万预算买特斯拉Model 3二手值不值",
-      "title_zh": "10万预算买特斯拉Model 3划算吗？3个维度拆解二手车真实价值+FAQ - 手机新浪网",
+      "zh_summary": "10万预算买Model 3划算吗",
+      "title_zh": "10万预算买特斯拉Model 3划算吗？",
       "sentiment": 0
     },
     {
@@ -1736,8 +1756,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "摇滚乐队Tesla登场音乐节",
-      "title_zh": "Twisted Sister与摇滚乐队Tesla震撼登场The Big E",
+      "zh_summary": "摇滚乐队Tesla演出The Big E",
+      "title_zh": "Twisted Sister与Tesla乐队献演The Big E",
       "sentiment": 0
     },
     {
@@ -1882,8 +1902,8 @@
       ],
       "category": "交付量",
       "session": "周末",
-      "zh_summary": "特斯拉削减AI5/AI6芯片内存以提升产量",
-      "title_zh": "特斯拉削减AI5和AI6芯片内存以提高产量",
+      "zh_summary": "特斯拉削减AI5/AI6芯片内存提产能",
+      "title_zh": "特斯拉削减AI5/AI6芯片内存以提升产量",
       "sentiment": 0
     },
     {
@@ -1907,8 +1927,8 @@
       ],
       "category": "其他",
       "session": "周末",
-      "zh_summary": "特斯拉改装车亮相网络引讨论",
-      "title_zh": "特斯拉改装车亮相网络引讨论 - 手机新浪网",
+      "zh_summary": "特斯拉改装车亮相引讨论",
+      "title_zh": "特斯拉改装车亮相网络引讨论",
       "sentiment": 0
     },
     {
@@ -4594,6 +4614,26 @@
       "sentiment": -1
     },
     {
+      "id": "f0269f696165",
+      "title": "Elon Musk Halves Tesla AI5 Memory Amid Memory Shortage, Then Bumps It To 96GB To Dodge Sitting At The Bottom Barrel Of Chip Specifications - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbG5XdTJpdDFiNDlrOTlobi0xUDJZd043WkVvTWVzcWFUR1FYYnFnc3hXNHJSbFZZaV85Q0h2a2lsQXQ4SHQ4aUtUaS1SOXp0Vm9nQ3Y1T2lnMHkzWUJRelhJRHZRN0ExdEF2TG5WNC0wV0lHNHA5OXZpeWh4SFcyT0NESU1YN2FLbGNmQ2xUQzdSRE5haVdYelh2OFJWRVhjeVh3Z1FQc2J6UEtmMnhscndYZ08wOUdpbWFhQjYzVk5MYzhEbEh5X09ZQnlQOFBteTVIMTZMbE5nY2ctalNjenE3MGxvaWtUb0xDZGoyWTnSAfYBQVVfeXFMT2JiMFRRaGVhVFhRUUJSZmVGVEpHQ0x6NmlqS2J0dTYxWUxJSlhUUEE5UFB0VWZfbFdlRFI1eDBZRVNjc2V0aHRpbWlTOHJkNE1WcVJQaE5KVXRxM0JMYktUMm5sc0cxQzBZdHNQWmRRc1NHaHF2OW5ZMHA3WkROcVBfWkU4NDRodk11aG03aUdHNW1DZmdHNUZORG5LLWZqRWxXbkRqT1JVazRucVBJRmhBVVlhcVQzUzJQOEZoWVNMTlNfcjFnUXhPT2x1Z04zWkJiUlNXaFEwLTJyMXY3MEVhQnVheW51LTQ5SEVXZTBuV1FsQThR",
+      "source": "Wccftech",
+      "published_at": "2026-10-02T22:35:05+00:00",
+      "outlets_count": 1,
+      "outlets": [
+        {
+          "name": "Wccftech",
+          "published_at": "2026-10-02T22:35:05+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbG5XdTJpdDFiNDlrOTlobi0xUDJZd043WkVvTWVzcWFUR1FYYnFnc3hXNHJSbFZZaV85Q0h2a2lsQXQ4SHQ4aUtUaS1SOXp0Vm9nQ3Y1T2lnMHkzWUJRelhJRHZRN0ExdEF2TG5WNC0wV0lHNHA5OXZpeWh4SFcyT0NESU1YN2FLbGNmQ2xUQzdSRE5haVdYelh2OFJWRVhjeVh3Z1FQc2J6UEtmMnhscndYZ08wOUdpbWFhQjYzVk5MYzhEbEh5X09ZQnlQOFBteTVIMTZMbE5nY2ctalNjenE3MGxvaWtUb0xDZGoyWTnSAfYBQVVfeXFMT2JiMFRRaGVhVFhRUUJSZmVGVEpHQ0x6NmlqS2J0dTYxWUxJSlhUUEE5UFB0VWZfbFdlRFI1eDBZRVNjc2V0aHRpbWlTOHJkNE1WcVJQaE5KVXRxM0JMYktUMm5sc0cxQzBZdHNQWmRRc1NHaHF2OW5ZMHA3WkROcVBfWkU4NDRodk11aG03aUdHNW1DZmdHNUZORG5LLWZqRWxXbkRqT1JVazRucVBJRmhBVVlhcVQzUzJQOEZoWVNMTlNfcjFnUXhPT2x1Z04zWkJiUlNXaFEwLTJyMXY3MEVhQnVheW51LTQ5SEVXZTBuV1FsQThR"
+        }
+      ],
+      "category": "马斯克",
+      "session": "盘后",
+      "zh_summary": "AI5芯片内存削减后上调至96GB",
+      "title_zh": "马斯克削减AI5内存后又上调至96GB",
+      "sentiment": 0
+    },
+    {
       "id": "0db1aa00b66a",
       "title": "Tesla's Latest Patent Could Mean the Second-Generation Roadster Will Have Over 1,500 Pounds of Downforce, Which It Definitely Needs If It Truly Gets SpaceX Rocket Thrusters - Autonocion.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXR6SVBCSWtXSkM0aWFfZzkxcXBGckRHUWhON1IzNEVkdlJmbmd6TXdoRkNBLWJXbWJrc0YwekxWLTYyMHJ0ZkZudTFWV3dfSklzRktVTlNjMjZreWZtQmFKSDRDcjByQUhwcmpDR2VFNWJWbWctSmVCcE1YUFhFbA",
@@ -6780,10 +6820,15 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ",
       "source": "The Driven IO",
       "published_at": "2026-10-02T04:46:44+00:00",
-      "outlets_count": 1,
+      "outlets_count": 2,
       "outlets": [
         {
           "name": "The Driven IO",
+          "published_at": "2026-10-02T04:46:44+00:00",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ"
+        },
+        {
+          "name": "thedriven.io",
           "published_at": "2026-10-02T04:46:44+00:00",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXd3SnRNaUxnVVhkWFp0VE9PQ0FVOWF6dDVpMmVtVkh3emNiSW9Ea3FwMTFiTzVNdUplWDNkYnZ6Y0NrMGV3M3d1VXJxOHEtcnJ5Slp6M01HZTlvb1VHTkxidVR2dkhqNHBqNjdTbGg0dHNMR01KNHhZcmFlMk1TZHB4WFlJTkdCVV9vemR5Wm5PeV9USGV5aWl6cXNSVFkzNUNxMTNBRHlZYVFlVWh4SFBwWU8yMFlVZDh1MVdybF9fdjZsaHhIbk9Tc3E0Q2hsV0FuZ0h6Z3RLQQ"
         }
@@ -7592,51 +7637,6 @@
       "zh_summary": "FSD再不升级或被国产超越",
       "title_zh": "特斯拉FSD再不升级，或被小鹏地平线超越",
       "sentiment": -1
-    },
-    {
-      "id": "1ba26effb0f7",
-      "title": "Tesla Inc. (TSLA) Stock Price | Live Quotes & Charts | NASDAQ - timothysykes.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93SS1Ud3N5X2lIQVlaMUFXdG01TWQzbldFbUhkSTJjcTlLRERHcklrTjRQa2tWNFVTMTU2R2lxRWVIcExmX0VDZlI5NU4",
-      "source": "timothysykes.com",
-      "published_at": "2026-09-30T22:15:00+00:00",
-      "outlets_count": 1,
-      "outlets": [
-        {
-          "name": "timothysykes.com",
-          "published_at": "2026-09-30T22:15:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93SS1Ud3N5X2lIQVlaMUFXdG01TWQzbldFbUhkSTJjcTlLRERHcklrTjRQa2tWNFVTMTU2R2lxRWVIcExmX0VDZlI5NU4"
-        }
-      ],
-      "category": "市场宏观",
-      "session": "盘后",
-      "zh_summary": "特斯拉股价实时行情",
-      "title_zh": "特斯拉(TSLA)股价实时行情与图表",
-      "sentiment": 0
-    },
-    {
-      "id": "11515a5a1bdf",
-      "title": "Tesla Secures Massive New Credit Facilities to Boost Liquidity - theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRDZuSDlCZW1sYWdjb1NkLUkzd3IyU0VlN0thTFROTUpGbHdlbHNxd0M0OW1OTmxRdDF0RzVVMHZ3RUVmTml3VG1rMm9TalY4c2JQUEhFRUxwbUU1ek1xWkFIbFh2VFE5MVFKUG5Jek9ybnlZY3RDX2dycThqX05WUUEwM1dQTGE3OU9TRHNoZTJYdnpVY2czVTFkV3NOSlpLWFFzZDNadjIyUEpsOVA4Qy1ZNXpmTC13NGgxaDhWSkZna2lKRVRQUW4ySmZxU2hsUFRIUFlfY29MRGJxRS02Nw",
-      "source": "theglobeandmail.com",
-      "published_at": "2026-09-30T21:12:00+00:00",
-      "outlets_count": 2,
-      "outlets": [
-        {
-          "name": "theglobeandmail.com",
-          "published_at": "2026-09-30T21:12:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRDZuSDlCZW1sYWdjb1NkLUkzd3IyU0VlN0thTFROTUpGbHdlbHNxd0M0OW1OTmxRdDF0RzVVMHZ3RUVmTml3VG1rMm9TalY4c2JQUEhFRUxwbUU1ek1xWkFIbFh2VFE5MVFKUG5Jek9ybnlZY3RDX2dycThqX05WUUEwM1dQTGE3OU9TRHNoZTJYdnpVY2czVTFkV3NOSlpLWFFzZDNadjIyUEpsOVA4Qy1ZNXpmTC13NGgxaDhWSkZna2lKRVRQUW4ySmZxU2hsUFRIUFlfY29MRGJxRS02Nw"
-        },
-        {
-          "name": "The Globe and Mail",
-          "published_at": "2026-09-30T21:12:00+00:00",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRDZuSDlCZW1sYWdjb1NkLUkzd3IyU0VlN0thTFROTUpGbHdlbHNxd0M0OW1OTmxRdDF0RzVVMHZ3RUVmTml3VG1rMm9TalY4c2JQUEhFRUxwbUU1ek1xWkFIbFh2VFE5MVFKUG5Jek9ybnlZY3RDX2dycThqX05WUUEwM1dQTGE3OU9TRHNoZTJYdnpVY2czVTFkV3NOSlpLWFFzZDNadjIyUEpsOVA4Qy1ZNXpmTC13NGgxaDhWSkZna2lKRVRQUW4ySmZxU2hsUFRIUFlfY29MRGJxRS02Nw"
-        }
-      ],
-      "category": "其他",
-      "session": "盘后",
-      "zh_summary": "特斯拉获巨额信贷提流动性",
-      "title_zh": "特斯拉获巨额信贷额度提升流动性",
-      "sentiment": 0
     }
   ]
 }
