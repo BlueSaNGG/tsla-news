@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T08:52:29.220287+00:00",
+ "updated_at": "2026-10-05T09:07:24.283341+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 2,
+   "score": 3,
    "dims": [
     {
      "key": "估值位置",
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.62（13条已评分）"
+     "note": "今日新闻情绪 +0.57（14条已评分）"
     },
     {
      "key": "动量",
@@ -35,8 +35,8 @@
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 38,
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T08:52:29.207630+00:00"
+   "as_of": "2026-10-05T09:07:24.273303+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.62,
-   "count": 13
+   "avg": 0.57,
+   "count": 14
   }
  },
  "meta": {
@@ -86,6 +86,29 @@
    "zh_summary": "辟谣特斯拉大规模召回标题党",
    "title_zh": "【视频】特斯拉大规模召回？不得不服现在的【标题党】 - 车家号",
    "sentiment": 0
+  },
+  {
+   "id": "11faf268ebed",
+   "title": "HSBC raises Tesla stock price target on delivery beat - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTNTUDVxY0tWUHlaOXNhQmJOUEg0RFdZZUVnaHdNSFg1X212UDkwWFVBbWZuYVpPTDRlM1FLMDZRZ2NNNTcwY3NsWmJTTWFBQld4eGNVeUp4dlM1SGp4NU0xaFphVnU1SzI2OHdOZjlJVmxrT0Jmd2FUNkV6T0Vlbk5SOGZQT1ZHTGdGQVRsVmVnQi1NSV9ycHd6ZjI0cHBKeHhoZEtaeVNEV05UMmxndjdLWQ",
+   "source": "Investing.com",
+   "published_at": "2026-10-05T08:36:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-05T08:36:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTNTUDVxY0tWUHlaOXNhQmJOUEg0RFdZZUVnaHdNSFg1X212UDkwWFVBbWZuYVpPTDRlM1FLMDZRZ2NNNTcwY3NsWmJTTWFBQld4eGNVeUp4dlM1SGp4NU0xaFphVnU1SzI2OHdOZjlJVmxrT0Jmd2FUNkV6T0Vlbk5SOGZQT1ZHTGdGQVRsVmVnQi1NSV9ycHd6ZjI0cHBKeHhoZEtaeVNEV05UMmxndjdLWQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "HSBC",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
   },
   {
    "id": "facb9960d975",
@@ -744,10 +767,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv",
    "source": "Stock Traders Daily",
    "published_at": "2026-10-05T02:07:47+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stock Traders Daily",
+     "published_at": "2026-10-05T02:07:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv"
+    },
+    {
+     "name": "news.stocktradersdaily.com",
      "published_at": "2026-10-05T02:07:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv"
     }
@@ -7875,31 +7903,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉涨近5%",
    "title_zh": "特斯拉涨近5%",
-   "sentiment": 1
-  },
-  {
-   "id": "a8952134630d",
-   "title": "特斯拉大涨！三季度全球交付量超预期，欧洲8月同比增长53%，加拿大Model 3销量攀升 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xYVdKb3ZvdV9OUFBEYU4wUlNjMjR6c01WSm0weHYyVVR6VDhfeWw0Q2JEd3FpOHhXV0FmMUF5LTJaVEVyREFyVkhqV01kRnJqWWhB",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-02T23:10:02+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-02T23:10:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xYVdKb3ZvdV9OUFBEYU4wUlNjMjR6c01WSm0weHYyVVR6VDhfeWw0Q2JEd3FpOHhXV0FmMUF5LTJaVEVyREFyVkhqV01kRnJqWWhB"
-    },
-    {
-     "name": "wallstreetcn.com",
-     "published_at": "2026-10-02T23:10:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xYVdKb3ZvdV9OUFBEYU4wUlNjMjR6c01WSm0weHYyVVR6VDhfeWw0Q2JEd3FpOHhXV0FmMUF5LTJaVEVyREFyVkhqV01kRnJqWWhB"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "欧洲8月增53%助交付超预期",
-   "title_zh": "特斯拉Q3交付超预期，欧洲8月同比增长53%",
    "sentiment": 1
   }
  ]
