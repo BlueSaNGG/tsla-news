@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T16:07:53.827817+00:00",
+ "updated_at": "2026-10-05T16:22:52.569704+00:00",
  "market": {
-  "price": 377.15,
-  "change_pct": 1.77,
+  "price": 378.11,
+  "change_pct": 2.03,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 42% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $392（12家），隐含空间 +4.1%"
+     "note": "目标价中位数 $392（12家），隐含空间 +3.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（88条已评分）"
+     "note": "今日新闻情绪 +0.44（90条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.15 vs 20日均线 $366.01"
+     "note": "现价 $378.11 vs 20日均线 $366.06"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 42,
    "target_median": 392.5,
    "target_count": 12,
-   "implied_upside_pct": 4.1,
-   "ma20": 366.01,
-   "as_of": "2026-10-05T16:07:53.817177+00:00"
+   "implied_upside_pct": 3.8,
+   "ma20": 366.06,
+   "as_of": "2026-10-05T16:22:52.554549+00:00"
   },
-  "pe_ttm": 104.3,
+  "pe_ttm": 104.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+4.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+3.8%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 88
+   "count": 90
   }
  },
  "meta": {
@@ -133,13 +133,35 @@
    "sentiment": 0
   },
   {
-   "id": "b9d52cbdaba7",
-   "title": "Tesla Set to Snap 2-Year Delivery Slump in 2026: Is TSLA a Buy Now? - Zacks Investment Research",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVENoVEhJMXZybWNXMmtuU2pORFhVZ21QemFCLWdxMGNBc0FER0lmeFVLQkRMeEFHLVpVcTNjSVlJLS0ySzlYYjZvWlpaZnBRTk5xWjVoS3dNYUJRNHhqVE5FQURUcmxuVVJQdTdWZUlFZk9zbjJuTGs3OTRpQkdjMnNqQ2RMeDJDdW4tN3BDaEdlQThSbng0enZGV19MQXRGLVl5dEp3NlRIUQ",
-   "source": "Zacks Investment Research",
-   "published_at": "2026-10-05T15:05:17+00:00",
+   "id": "78673cfba98b",
+   "title": "Tesla snags Semi supply deal with major logistics firm - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNby1udXNiYkNvbXpsUHdSM1MtMWd2b2NNdXh5YnY2b19aYnUyV3BGLWhxUHNKRVFCRmFydGpHYTdqQUNOMDZsUlVEOXZRUWR5LXdpR2JqUktzSWZJOENmak9LT0JnNXFCWF9HNEQ0S3dQQmZsaXZWQl96TkVEWllpSWdB",
+   "source": "Teslarati",
+   "published_at": "2026-10-05T15:35:57+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-05T15:35:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNby1udXNiYkNvbXpsUHdSM1MtMWd2b2NNdXh5YnY2b19aYnUyV3BGLWhxUHNKRVFCRmFydGpHYTdqQUNOMDZsUlVEOXZRUWR5LXdpR2JqUktzSWZJOENmak9LT0JnNXFCWF9HNEQ0S3dQQmZsaXZWQl96TkVEWllpSWdB"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "b9d52cbdaba7",
+   "title": "Tesla Set to Snap 2-Year Delivery Slump in 2026: Is TSLA a Buy Now? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUpKQmt1eWpKQ0xVcUhZOHVfWFlrLVFPY29RZk9aeHd0N0x4MTdVQjBkR2I5QUlDZ25oUmNkUXdEbFNZOU9qMU1Pb21aMG9fcmlFOHVHRlZfMEg1WEJoNzAzZXB4S09URzlEQUJBWnhra3lmRExDRlFVaG1Denptb25PdnRjTlZuS01Ib2RLMWNmWThm",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-05T14:57:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-05T14:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUpKQmt1eWpKQ0xVcUhZOHVfWFlrLVFPY29RZk9aeHd0N0x4MTdVQjBkR2I5QUlDZ25oUmNkUXdEbFNZOU9qMU1Pb21aMG9fcmlFOHVHRlZfMEg1WEJoNzAzZXB4S09URzlEQUJBWnhra3lmRExDRlFVaG1Denptb25PdnRjTlZuS01Ib2RLMWNmWThm"
+    },
     {
      "name": "Zacks Investment Research",
      "published_at": "2026-10-05T15:05:17+00:00",
@@ -178,12 +200,17 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenlFSU9VdS1wZmpDYW1KdzVrZjU4SmlIRS11Yl8tdG00djQ0b0pfM3l3MWVFQWdJVTB4eW9uejVoWmhyVm95VWt1V0dEeHZPc0pFamFxT1JhTWNwckhFOG80c0xfc1FlZ3RPXzF5Q1lObzhGQllrWFhxbnhTNXJHUkRR",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-05T14:40:02+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-05T14:40:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenlFSU9VdS1wZmpDYW1KdzVrZjU4SmlIRS11Yl8tdG00djQ0b0pfM3l3MWVFQWdJVTB4eW9uejVoWmhyVm95VWt1V0dEeHZPc0pFamFxT1JhTWNwckhFOG80c0xfc1FlZ3RPXzF5Q1lObzhGQllrWFhxbnhTNXJHUkRR"
+    },
+    {
+     "name": "ca.finance.yahoo.com",
+     "published_at": "2026-10-05T14:40:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVZqS0lDZ215RktvQS10MnRHR0g1MVVfUnV1RmNKVm4xdjZjTUFtZEhTMEVSVFlIQWtZM0V6UGdqWHY3aEE4UWhVOHZMdGZUdjZmcnM1dW9OMENFRmMyVUtSblhRaVI0anViOENGcVgwSXAyN3dEdk5HRmljRVk3QVV3"
     }
    ],
    "category": "其他",
@@ -457,6 +484,23 @@
    "zh_summary": "特斯拉超充新功能免拔枪可驶离",
    "title_zh": "特斯拉超充新功能：无需拔枪即可驶离",
    "sentiment": 1
+  },
+  {
+   "id": "55055018c858",
+   "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ",
+   "source": "Mashable",
+   "published_at": "2026-10-05T13:59:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mashable",
+     "published_at": "2026-10-05T13:59:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "e0d12033f834",
@@ -7987,56 +8031,6 @@
    "zh_summary": "特斯拉与SpaceX股价合计涨27%",
    "title_zh": "特斯拉和SpaceX股价合计上涨27%",
    "sentiment": 1
-  },
-  {
-   "id": "080bbc44a6d8",
-   "title": "特斯拉有的我都有，我有的它都没有 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQWNqMENIRFFCQnNWM2FoZmxMazBvRmlfTXVsTGNrelZJZ01jYXprQUpKTk96S2cxLXBwZXl2MEVQbXZkRGZwaW5mQVI0U21VN0NTbkZmYkJ6eDdPTVdBbzRfS1dPZUdXY0pDcXZmdFR6dzA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-03T11:32:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-03T11:32:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQWNqMENIRFFCQnNWM2FoZmxMazBvRmlfTXVsTGNrelZJZ01jYXprQUpKTk96S2cxLXBwZXl2MEVQbXZkRGZwaW5mQVI0U21VN0NTbkZmYkJ6eDdPTVdBbzRfS1dPZUdXY0pDcXZmdFR6dzA"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-03T11:32:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQWNqMENIRFFCQnNWM2FoZmxMazBvRmlfTXVsTGNrelZJZ01jYXprQUpKTk96S2cxLXBwZXl2MEVQbXZkRGZwaW5mQVI0U21VN0NTbkZmYkJ6eDdPTVdBbzRfS1dPZUdXY0pDcXZmdFR6dzA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉有的我都有我有的它都没有",
-   "title_zh": "特斯拉有的我都有，我有的它都没有 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "4e5089ee13ba",
-   "title": "Toyota Is Deploying Enough Robots To Wipe Out Tesla's Optimus. - carbuzz.com",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEY2VDeHlvbzZZaGNrWGctR3o5eWVUWWc1dWxPTlVWR0hCOVNNLWpLWDFabWF3a2ttaEstNkFXOUpPTEZvTWtXS0JfZ1RYLThjamR6cXFsM1F5YVFHZ0dHYUxvT3ZldERNWlBEd2twUkZGZw",
-   "source": "carbuzz.com",
-   "published_at": "2026-10-03T11:10:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "carbuzz.com",
-     "published_at": "2026-10-03T11:10:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEY2VDeHlvbzZZaGNrWGctR3o5eWVUWWc1dWxPTlVWR0hCOVNNLWpLWDFabWF3a2ttaEstNkFXOUpPTEZvTWtXS0JfZ1RYLThjamR6cXFsM1F5YVFHZ0dHYUxvT3ZldERNWlBEd2twUkZGZw"
-    },
-    {
-     "name": "CarBuzz",
-     "published_at": "2026-10-03T11:10:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEY2VDeHlvbzZZaGNrWGctR3o5eWVUWWc1dWxPTlVWR0hCOVNNLWpLWDFabWF3a2ttaEstNkFXOUpPTEZvTWtXS0JfZ1RYLThjamR6cXFsM1F5YVFHZ0dHYUxvT3ZldERNWlBEd2twUkZGZw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "丰田部署大量机器人叫板Optimus",
-   "title_zh": "丰田部署大量机器人，欲压制特斯拉Optimus",
-   "sentiment": -1
   }
  ]
 }
