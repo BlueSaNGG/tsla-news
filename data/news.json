@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T19:07:27.597438+00:00",
+ "updated_at": "2026-10-05T19:22:26.216876+00:00",
  "market": {
-  "price": 380.93,
-  "change_pct": 2.79,
+  "price": 380.48,
+  "change_pct": 2.67,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.0%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（118条已评分）"
+     "note": "今日新闻情绪 +0.45（121条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.93 vs 20日均线 $366.21"
+     "note": "现价 $380.48 vs 20日均线 $366.19"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.0,
-   "ma20": 366.21,
-   "as_of": "2026-10-05T19:07:27.587380+00:00"
+   "implied_upside_pct": 5.1,
+   "ma20": 366.19,
+   "as_of": "2026-10-05T19:22:26.202902+00:00"
   },
-  "pe_ttm": 105.4,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 118
+   "avg": 0.45,
+   "count": 121
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1cfd7a72be1c",
+   "title": "Amazon, Alphabet and Tesla: Robinhood Traders Sell - Tesla (NASDAQ:TSLA), Amazon.com (NASDAQ:AMZN), Alpha - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFI2ZWZWc1k1N0plSmExSFowdTdVOHE4QWNlVXcyNzNHRGplSEJ3YzhvRTJiZWhPQnN1ZTgwMTBJQWVxdFBXTG9VZnJSV216dlh3YjNPNU9qOVNYdHhBSXlLWGZtRkNyOGFhZlhkRUpJTEpBUjlWVXZPNFFIMnVjSDE5NFFkVkhHX0hZVHRzZzRZOHNYeXVUVFF3QV9FLW5SdVlpTFBtRWxQTlVLN2ZaQ1Bn",
+   "source": "Benzinga",
+   "published_at": "2026-10-05T19:01:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-05T19:01:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFI2ZWZWc1k1N0plSmExSFowdTdVOHE4QWNlVXcyNzNHRGplSEJ3YzhvRTJiZWhPQnN1ZTgwMTBJQWVxdFBXTG9VZnJSV216dlh3YjNPNU9qOVNYdHhBSXlLWGZtRkNyOGFhZlhkRUpJTEpBUjlWVXZPNFFIMnVjSDE5NFFkVkhHX0hZVHRzZzRZOHNYeXVUVFF3QV9FLW5SdVlpTFBtRWxQTlVLN2ZaQ1Bn"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "7cdd564d5fc3",
    "title": "Tesla's Cybercab Is Quietly Dismantling Repair Shops, Car Rentals, and Auto Insurance - Latin Times",
@@ -133,10 +150,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU",
    "source": "Not a Tesla App",
    "published_at": "2026-10-05T18:21:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Not a Tesla App",
+     "published_at": "2026-10-05T18:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU"
+    },
+    {
+     "name": "notateslaapp.com",
      "published_at": "2026-10-05T18:21:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU"
     }
@@ -431,10 +453,15 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemVHbHFNd3o4bmFWTkM4SzR6R2s3cHNQeWlfT3BjS1NsMlI0VTJIWnNaMFozZWRxMlA1ZlJlb2UtM1k3cEgwc1o5UXlRVmNneDlJb3VybTN6UDBXVWpUeFBzekZFQVRQTjhjdUUxZ1NERDVTb0JfazJrX3ltYXpNcVRaaU5FRTZxZTdETzVRbw",
    "source": "Yahoo! Finance Canada",
    "published_at": "2026-10-05T16:40:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-05T16:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemVHbHFNd3o4bmFWTkM4SzR6R2s3cHNQeWlfT3BjS1NsMlI0VTJIWnNaMFozZWRxMlA1ZlJlb2UtM1k3cEgwc1o5UXlRVmNneDlJb3VybTN6UDBXVWpUeFBzekZFQVRQTjhjdUUxZ1NERDVTb0JfazJrX3ltYXpNcVRaaU5FRTZxZTdETzVRbw"
+    },
+    {
+     "name": "ca.finance.yahoo.com",
      "published_at": "2026-10-05T16:40:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemVHbHFNd3o4bmFWTkM4SzR6R2s3cHNQeWlfT3BjS1NsMlI0VTJIWnNaMFozZWRxMlA1ZlJlb2UtM1k3cEgwc1o5UXlRVmNneDlJb3VybTN6UDBXVWpUeFBzekZFQVRQTjhjdUUxZ1NERDVTb0JfazJrX3ltYXpNcVRaaU5FRTZxZTdETzVRbw"
     }
@@ -1154,26 +1181,6 @@
    "sentiment": 1
   },
   {
-   "id": "55055018c858",
-   "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ",
-   "source": "Mashable",
-   "published_at": "2026-10-05T13:59:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Mashable",
-     "published_at": "2026-10-05T13:59:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Model 3续航动力屏幕升级",
-   "title_zh": "特斯拉Model 3续航提升、动力更强、屏幕更大",
-   "sentiment": 1
-  },
-  {
    "id": "e0d12033f834",
    "title": "Tesla Q3 Deliveries Beat: How Much Upside Is Left? - moomoo.com",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KX2oyQ2lQMEFxeXdSaWRtMHdwS051NGNDLWx1bHZPckhYX28wMlZtRklEUnJCekUwM3RvRVZHNENwLWp1ZVRBMmxoTF9BZGNwc2RtV01SRmxmSkxtMUpkd2VreUg",
@@ -1391,7 +1398,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1ZGSDhHVVlubDV2ZDIyZTRiZnlrZlIxeWNhbkNIbWRBZ3FweUx5Tm5MdW1mRFZkbUk5ZURKdGstaU1JZEJPQVVvU252dWR6eE85SzFUZWlLaEdoLTVYdGVPSm5zTUJXUUFTR1BtVzI0SU5felhEaVRCd3J6WVcwc3VXRHNISHZm",
    "source": "搜狐网",
    "published_at": "2026-10-05T13:02:52+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "搜狐网",
@@ -1412,6 +1419,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-05T17:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sUGJoRWlURG1VSjVmdUlYNG9wbWFjd0lWZU5iS3VleDB6clZka3JmeV93a0JQM24wY2YwSHpWdDM5U1RQZVRtYmwxQ3VIb0ZtYXJHYVRiN0dvRlRGWElfd1RvX1VfUENJMWVnSXg0S2ltVC1ZdHBRNQ"
+    },
+    {
+     "name": "k.sina.com.cn",
+     "published_at": "2026-10-05T17:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WRTZyRFVnNzZraV9zT3lBQ1l3dk1aSmdoM2NkVEgwMTVEZ24zQlJVSGNyb1c0OU1rdXRvSzRHNV9vMEtGNTZTQ2FLVG1HdUdXX2o4bld5cHpJa29KTnhZLVNHelMzNW5KZ21JemtYOEpiMFlhaU53TUk5VWx2WHc"
     }
    ],
    "category": "交付量",
