@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T20:37:29.579159+00:00",
+ "updated_at": "2026-10-05T20:52:32.637593+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（132条已评分）"
+     "note": "今日新闻情绪 +0.44（133条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-05T20:37:29.573241+00:00"
+   "as_of": "2026-10-05T20:52:32.630956+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 132
+   "avg": 0.44,
+   "count": 133
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "897aea676f3a",
+   "title": "Rivian posts record Q3 deliveries as Tesla sales slip but beat expectations - Car Dealership Guy News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEFJRzAzOWZILVVnZUtnZ2lsS2hZRmdSRTJSc25tVmxIZXc3Z1lMamFGTzZfbEZ4bjBBbE0xNm5TQzF4RXVfSHhnc0NwYjBJQ21NTWQ0ZThlRWx4SXQ2YTBranFqekdScWpxamZCWW94anJHbXM3MElncEhqT1FYWjBqYkZScDNhLTRZcDExdlVqTHNyVmhIV1ZYUG5UeWtLNjRmM3cyekhYWGFx",
+   "source": "Car Dealership Guy News",
+   "published_at": "2026-10-05T20:50:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Car Dealership Guy News",
+     "published_at": "2026-10-05T20:50:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEFJRzAzOWZILVVnZUtnZ2lsS2hZRmdSRTJSc25tVmxIZXc3Z1lMamFGTzZfbEZ4bjBBbE0xNm5TQzF4RXVfSHhnc0NwYjBJQ21NTWQ0ZThlRWx4SXQ2YTBranFqekdScWpxamZCWW94anJHbXM3MElncEhqT1FYWjBqYkZScDNhLTRZcDExdlVqTHNyVmhIV1ZYUG5UeWtLNjRmM3cyekhYWGFx"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
+   "id": "903cf53d7ce5",
+   "title": "Uber Stock: Can It Thrive Alongside Waymo and Tesla Robotaxis? - The Acquirer's Multiple",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkRNT2FSS0xEVVNmdnJYWTBJNXVRbGJPdzlGTTRRR3pPYk9rakR0QS1TMGpLZEx1UzEtc3FBUXNfSFFtRDBBbXFOM1RvTTZmbUxCbFlXRGNUQ1BHdC1FMjloUU9nZjNxakwwSU1IQVVLdERmN184d1NTNEtEYUNlblVZa1NScnp6a0J0aWV6c0dsZUZ5Zko2SldjNVpZTlB0",
+   "source": "The Acquirer's Multiple",
+   "published_at": "2026-10-05T20:34:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Acquirer's Multiple",
+     "published_at": "2026-10-05T20:34:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkRNT2FSS0xEVVNmdnJYWTBJNXVRbGJPdzlGTTRRR3pPYk9rakR0QS1TMGpLZEx1UzEtc3FBUXNfSFFtRDBBbXFOM1RvTTZmbUxCbFlXRGNUQ1BHdC1FMjloUU9nZjNxakwwSU1IQVVLdERmN184d1NTNEtEYUNlblVZa1NScnp6a0J0aWV6c0dsZUZ5Zko2SldjNVpZTlB0"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "794d6624922a",
    "title": "Tesla tests $386.66 resistance with double top risk: Live - Investing.com",
@@ -88,15 +122,37 @@
    "sentiment": 0
   },
   {
+   "id": "98894a53f75a",
+   "title": "Tesla Hits 85,000 Superchargers at 9,000 Locations Worldwide - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTM3VGdtUmNIaFd0emdaQWZHaDlsMEVVR0xIdUp3clhSLWE5NnBfOWZVMEdhSVlrZzJmNHMxWE5yQWxYMzFkWU5QVmZBSnpOWFZpWEVBakVSMTZVMm9iTmc5SUJKUWpaT0JONUEtYVZMQXN4SWVwd2Y2UXZLSUNvaERBTHlCT3JIYkNFdE5JVml5NzJ1bUwtbmExTWlTUQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-05T20:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-05T20:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTM3VGdtUmNIaFd0emdaQWZHaDlsMEVVR0xIdUp3clhSLWE5NnBfOWZVMEdhSVlrZzJmNHMxWE5yQWxYMzFkWU5QVmZBSnpOWFZpWEVBakVSMTZVMm9iTmc5SUJKUWpaT0JONUEtYVZMQXN4SWVwd2Y2UXZLSUNvaERBTHlCT3JIYkNFdE5JVml5NzJ1bUwtbmExTWlTUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "e7666240b551",
    "title": "A New Tesla Update Allows Drivers to Break Away from Superchargers in Emergencies - Car and Driver",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFNXZGNROFVIQ29hVlFEcm1XcEptNC1KWWpqSnUyRFp3eGNFbl9mdU1reVExdjNIdWNoQTIzVlE0TDNxNm9HRVJIYmdCLXJOVjY4VGlGWW9Dc2Y5S2JEYTdTRGI2V1FGeFRPZElKT2E2WFp5RUh1c0kzNEZ1YmdFRXJLMmI2NjN6akxPd09oSVhGR0thYkwyYzlZMjFTY19fVEtCbS01cGVRWHJQcDdTdw",
    "source": "Car and Driver",
    "published_at": "2026-10-05T19:50:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Car and Driver",
+     "published_at": "2026-10-05T19:50:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFNXZGNROFVIQ29hVlFEcm1XcEptNC1KWWpqSnUyRFp3eGNFbl9mdU1reVExdjNIdWNoQTIzVlE0TDNxNm9HRVJIYmdCLXJOVjY4VGlGWW9Dc2Y5S2JEYTdTRGI2V1FGeFRPZElKT2E2WFp5RUh1c0kzNEZ1YmdFRXJLMmI2NjN6akxPd09oSVhGR0thYkwyYzlZMjFTY19fVEtCbS01cGVRWHJQcDdTdw"
+    },
+    {
+     "name": "caranddriver.com",
      "published_at": "2026-10-05T19:50:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFNXZGNROFVIQ29hVlFEcm1XcEptNC1KWWpqSnUyRFp3eGNFbl9mdU1reVExdjNIdWNoQTIzVlE0TDNxNm9HRVJIYmdCLXJOVjY4VGlGWW9Dc2Y5S2JEYTdTRGI2V1FGeFRPZElKT2E2WFp5RUh1c0kzNEZ1YmdFRXJLMmI2NjN6akxPd09oSVhGR0thYkwyYzlZMjFTY19fVEtCbS01cGVRWHJQcDdTdw"
     }
@@ -380,6 +436,23 @@
    "zh_summary": "UNECE会议明日讨论FSD欧洲审批关键细节",
    "title_zh": "特斯拉FSD欧洲落地：明日UNECE会议的5个关键细节",
    "sentiment": 0
+  },
+  {
+   "id": "7501384beb29",
+   "title": "Tesla still makes the world's best-selling EV, new sales figures show —but Chinese brands led by BYD are storming up the charts - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEgzcjJZaVpUZ0dIMXljYXMxTUxrSnVJbHZ2U1l4YnctSGY2ZWhIaGcxRjhWSUhlLTFKV3phYnYwQTctNXNFXzR2WWJ3LXd3MjBqX1l3cHVfWUtWLVBXWjRWTExsTnNiczE1cjFDa3NEWnN4UG9QVHZKZUM1bk1WNk9jakxjSTRrSmFjbG5FU25CNUl5",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-05T18:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-05T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEgzcjJZaVpUZ0dIMXljYXMxTUxrSnVJbHZ2U1l4YnctSGY2ZWhIaGcxRjhWSUhlLTFKV3phYnYwQTctNXNFXzR2WWJ3LXd3MjBqX1l3cHVfWUtWLVBXWjRWTExsTnNiczE1cjFDa3NEWnN4UG9QVHZKZUM1bk1WNk9jakxjSTRrSmFjbG5FU25CNUl5"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0896606a514c",
@@ -8173,106 +8246,6 @@
    "zh_summary": "特斯拉新专利曝光\"电扇汽车\"",
    "title_zh": "特斯拉专利曝光任意速度吸地\"电扇汽车\"",
    "sentiment": 1
-  },
-  {
-   "id": "40785742ae40",
-   "title": "Tesla Model 3 Gets Longer Range, More Power And Bigger Screen – Here Are The Changes - American Cars And Racing",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORndKNEdjSFJycXhPQkd3MXZIS3I2NFBKam9JV1FlaGxoMFNpVnVtQzM2RU05U0hyclVjbWJpZEtDaWE4SXZIbVVDVzJQa3FnWVB2TVVNbjNDQTlESEFkaVNibmZ0Y0RlN3RRSXotRURzSG5fRVN5dXpja1BoSWc4ZjE3Y00",
-   "source": "American Cars And Racing",
-   "published_at": "2026-10-03T20:44:13+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "American Cars And Racing",
-     "published_at": "2026-10-03T20:44:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORndKNEdjSFJycXhPQkd3MXZIS3I2NFBKam9JV1FlaGxoMFNpVnVtQzM2RU05U0hyclVjbWJpZEtDaWE4SXZIbVVDVzJQa3FnWVB2TVVNbjNDQTlESEFkaVNibmZ0Y0RlN3RRSXotRURzSG5fRVN5dXpja1BoSWc4ZjE3Y00"
-    },
-    {
-     "name": "americancarsandracing.com",
-     "published_at": "2026-10-03T20:44:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORndKNEdjSFJycXhPQkd3MXZIS3I2NFBKam9JV1FlaGxoMFNpVnVtQzM2RU05U0hyclVjbWJpZEtDaWE4SXZIbVVDVzJQa3FnWVB2TVVNbjNDQTlESEFkaVNibmZ0Y0RlN3RRSXotRURzSG5fRVN5dXpja1BoSWc4ZjE3Y00"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model 3续航提升动力增强",
-   "title_zh": "特斯拉Model 3续航更长、动力更强、屏幕更大",
-   "sentiment": 1
-  },
-  {
-   "id": "484b7614c21b",
-   "title": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To ‘Physical AI’ Pivot Despite Optimus Delays - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDFPQm5pcFd4aDEybHBvUkVjUEYwUk9TRWw4Rl9ITF81SzNpc04wdmZRN3ZxM2FESnlaWUNtWFpIbzZKdFhma1ZfdkhCN0VjZGt5ZGlTcTR5Z1pBRk5hZzk1aXl2LUJTZE9MeFpaQktLMVI2ZGtTMHg4emZLYU52VHd0SFJ4RU02Rmkzeld2MGdyVTJad1RrcUJ5ZnBRVk5Nc2x6RWtfSlRrSEYzTXpLbWJ5Qjg",
-   "source": "Stocktwits",
-   "published_at": "2026-10-03T20:40:24+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-03T20:40:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDFPQm5pcFd4aDEybHBvUkVjUEYwUk9TRWw4Rl9ITF81SzNpc04wdmZRN3ZxM2FESnlaWUNtWFpIbzZKdFhma1ZfdkhCN0VjZGt5ZGlTcTR5Z1pBRk5hZzk1aXl2LUJTZE9MeFpaQktLMVI2ZGtTMHg4emZLYU52VHd0SFJ4RU02Rmkzeld2MGdyVTJad1RrcUJ5ZnBRVk5Nc2x6RWtfSlRrSEYzTXpLbWJ5Qjg"
-    },
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-03T20:40:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDFPQm5pcFd4aDEybHBvUkVjUEYwUk9TRWw4Rl9ITF81SzNpc04wdmZRN3ZxM2FESnlaWUNtWFpIbzZKdFhma1ZfdkhCN0VjZGt5ZGlTcTR5Z1pBRk5hZzk1aXl2LUJTZE9MeFpaQktLMVI2ZGtTMHg4emZLYU52VHd0SFJ4RU02Rmkzeld2MGdyVTJad1RrcUJ5ZnBRVk5Nc2x6RWtfSlRrSEYzTXpLbWJ5Qjg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "TSLA创近三周新高转向实体AI",
-   "title_zh": "TSLA创近三周新高：英伟达助力实体AI转型",
-   "sentiment": 1
-  },
-  {
-   "id": "1190e570f0ae",
-   "title": "Musk: Tesla FSD's Top Night Driving Goal Is Avoiding Pets - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWhObUx4OFdzVFAyMmxGQjV6dkxwTU0wcklSOUlNdVVCU1JJb2tnVWxpTFJJbWNQVWU3TUxUX1BjSUF6Q1RMOE1SNU8xR1RNRWtCb3hJRW85dE5rMVVkaHZiUzNoY2VXQmxkaE5HbjhiMXFZVjVlbXZsWnlwN1NydnYySWpyMW1YaGpDMDdLYWlGSVNLcWRTX1EzRWRfSmpFUUE",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-03T20:33:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-03T20:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWhObUx4OFdzVFAyMmxGQjV6dkxwTU0wcklSOUlNdVVCU1JJb2tnVWxpTFJJbWNQVWU3TUxUX1BjSUF6Q1RMOE1SNU8xR1RNRWtCb3hJRW85dE5rMVVkaHZiUzNoY2VXQmxkaE5HbjhiMXFZVjVlbXZsWnlwN1NydnYySWpyMW1YaGpDMDdLYWlGSVNLcWRTX1EzRWRfSmpFUUE"
-    },
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-03T20:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWhObUx4OFdzVFAyMmxGQjV6dkxwTU0wcklSOUlNdVVCU1JJb2tnVWxpTFJJbWNQVWU3TUxUX1BjSUF6Q1RMOE1SNU8xR1RNRWtCb3hJRW85dE5rMVVkaHZiUzNoY2VXQmxkaE5HbjhiMXFZVjVlbXZsWnlwN1NydnYySWpyMW1YaGpDMDdLYWlGSVNLcWRTX1EzRWRfSmpFUUE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "马斯克称FSD夜间目标避开宠物",
-   "title_zh": "马斯克：FSD夜间驾驶首要目标是避开宠物",
-   "sentiment": 1
-  },
-  {
-   "id": "02c7a28f7da4",
-   "title": "TSLA Stock Slips Overnight: Gary Black Says SpaceX Can’t Afford Tesla – ‘The Math Won’t Pass Muster’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGNwWnNoeTNhNmdTUDhDZUgtMVB0WjNhM3loUy1uUjhoT1hzb2llYndjZ3BNRnNpazdRektjNHZTUHJfZnpwUU9hRDRZVGpPQ1lIY01hNGswV2M3VWZaYUU1enNrVXpqbDdpamNoUUNncHJhWjFSeGFzSld3dTBMQmY3bUkwakcyWjBGV09VZXc2Sm1ISTBoR0RtRWl0ek5vbGVBSFd0elFxX0V4MUZVcFh4WGM",
-   "source": "Stocktwits",
-   "published_at": "2026-10-03T20:31:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-03T20:31:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGNwWnNoeTNhNmdTUDhDZUgtMVB0WjNhM3loUy1uUjhoT1hzb2llYndjZ3BNRnNpazdRektjNHZTUHJfZnpwUU9hRDRZVGpPQ1lIY01hNGswV2M3VWZaYUU1enNrVXpqbDdpamNoUUNncHJhWjFSeGFzSld3dTBMQmY3bUkwakcyWjBGV09VZXc2Sm1ISTBoR0RtRWl0ek5vbGVBSFd0elFxX0V4MUZVcFh4WGM"
-    },
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-03T20:31:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGNwWnNoeTNhNmdTUDhDZUgtMVB0WjNhM3loUy1uUjhoT1hzb2llYndjZ3BNRnNpazdRektjNHZTUHJfZnpwUU9hRDRZVGpPQ1lIY01hNGswV2M3VWZaYUU1enNrVXpqbDdpamNoUUNncHJhWjFSeGFzSld3dTBMQmY3bUkwakcyWjBGV09VZXc2Sm1ISTBoR0RtRWl0ek5vbGVBSFd0elFxX0V4MUZVcFh4WGM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "TSLA隔夜下跌称SpaceX无力收购",
-   "title_zh": "TSLA隔夜下跌：分析师称SpaceX无力收购特斯拉",
-   "sentiment": -1
   }
  ]
 }
