@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T03:22:23.383613+00:00",
+ "updated_at": "2026-10-05T03:37:23.941789+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（78条已评分）"
+     "note": "今日新闻情绪 +0.34（79条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T03:22:23.368589+00:00"
+   "as_of": "2026-10-05T03:37:23.932515+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 78
+   "avg": 0.34,
+   "count": 79
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "202d130e9b47",
+   "title": "VinFast暂停印度造车，特斯拉放弃在印建厂 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFJwVHd4RGpjd2NFaV9DOEc2ck1mRl9FMFc2NVZVbXp5c0doclY3LXdzSVUzSUxmRThpSW11TEpaZVJJSEFBVnlRYW5hOFkteXJ5VzVScEduUHI2eWRSaGN0OTN6bGdCUHlNbFJiM2k0MFlvNWlqaGwweEFTYlZYdA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-05T03:29:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-05T03:29:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFJwVHd4RGpjd2NFaV9DOEc2ck1mRl9FMFc2NVZVbXp5c0doclY3LXdzSVUzSUxmRThpSW11TEpaZVJJSEFBVnlRYW5hOFkteXJ5VzVScEduUHI2eWRSaGN0OTN6bGdCUHlNbFJiM2k0MFlvNWlqaGwweEFTYlZYdA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "2227b73e5e6f",
+   "title": "看看你们特斯拉的车漆皮肤 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5XQW52RHpiQjVGbGpGaS1obENZMU1CdzV2ekwxQjhvX2RpaWJzUWJ0Wm96cDJERGpaOEtSMWtWTm1CcmVPZWdOamxOZXZ0d0ZLeVhRNXNQalVPcTFtNVNCUkRleHZvdXRCMHdoX0dhLUdzQTltTDFydEpZVWhPUQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-05T03:22:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-05T03:22:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5XQW52RHpiQjVGbGpGaS1obENZMU1CdzV2ekwxQjhvX2RpaWJzUWJ0Wm96cDJERGpaOEtSMWtWTm1CcmVPZWdOamxOZXZ0d0ZLeVhRNXNQalVPcTFtNVNCUkRleHZvdXRCMHdoX0dhLUdzQTltTDFydEpZVWhPUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "58b17f661338",
    "title": "叫板特斯拉：现代汽车瞄准机器人新赛道 - 华尔街日报中文版",
@@ -83,9 +117,26 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "title_zh": "叫板特斯拉：现代汽车瞄准机器人新赛道 - 华尔街日报中文版",
    "zh_summary": "现代汽车瞄准机器人赛道叫板特斯拉",
+   "title_zh": "叫板特斯拉：现代汽车瞄准机器人新赛道 - 华尔街日报中文版",
    "sentiment": -1
+  },
+  {
+   "id": "4bd25b80f1f0",
+   "title": "Elon Musk admits that Tesla Robotaxis have a 'cat problem'; and one which Google’s Waymo does not ‘agree’ - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOFFUZWdBVm1CZFNRRmJYek10Q0xLNlV1TlByX1ljYmpUZWs0T0RMS19NQUppdDR5Mm44T0lSX1E3dlVvakdnNTAyTEI2NmVhVFM2S0ZVdE56c3VldzV2Ni1nYnl2ZmxFcUxfMXdLZ0tCeUlFZVdHSWprT0JUc0RObjNSZExUYWx6WUU1WjlMSHpVdkNGcFJhYjQ1Zzcza3p1NWQ5ckdDTjdfUGEyTTNxRDVWQWRKa1ZLaUxKYzAyS1hCMFJWSjhIcVd2MkItMGstZFJDZU9maUVPaUFZb3JtMFM0R2QwSTVJZ01aQVFIdi1YelJMNFRLTXJKY3FiU2hLTUx5WmhXT2dEY2Q3SG80cU1IM1ZSd9IBmwJBVV95cUxQTFc3UmtLMUlQSHp4M1NoYU1nY3BYdXZ1Zl9qSTBWaFFjMTZoOHlGZk5PdWhldkRPRW80Z2VVcmNxbm5Wd3BnZjQtNlhmZVpWQkNFX2JrTGlTdjJRNnhOaG9zVU5jZzhBR0xKQXotaS1seHN4UnkzU1d1cFJXZWd4blI2N2ZXT1dUYWdJVVZwVVBfSnByQjB2ZVM1dUtOOTJOZTVNVXBmWmlPRzNybkRUWVZ5Z295QmFZVktkMWRqSWt1bmc4LTdJZzNTSWgycDRuZ1IyUl9NYmZPN3BHY0tPZFlXZEZkTHZkVXAtdlRxVEtFNk9VU3BoSENtZWNqUkpkeUVya3VkSUVMZ0pqeTF0QzBQeU5jZ2xTV0lN",
+   "source": "The Times of India",
+   "published_at": "2026-10-05T03:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-05T03:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOFFUZWdBVm1CZFNRRmJYek10Q0xLNlV1TlByX1ljYmpUZWs0T0RMS19NQUppdDR5Mm44T0lSX1E3dlVvakdnNTAyTEI2NmVhVFM2S0ZVdE56c3VldzV2Ni1nYnl2ZmxFcUxfMXdLZ0tCeUlFZVdHSWprT0JUc0RObjNSZExUYWx6WUU1WjlMSHpVdkNGcFJhYjQ1Zzcza3p1NWQ5ckdDTjdfUGEyTTNxRDVWQWRKa1ZLaUxKYzAyS1hCMFJWSjhIcVd2MkItMGstZFJDZU9maUVPaUFZb3JtMFM0R2QwSTVJZ01aQVFIdi1YelJMNFRLTXJKY3FiU2hLTUx5WmhXT2dEY2Q3SG80cU1IM1ZSd9IBmwJBVV95cUxQTFc3UmtLMUlQSHp4M1NoYU1nY3BYdXZ1Zl9qSTBWaFFjMTZoOHlGZk5PdWhldkRPRW80Z2VVcmNxbm5Wd3BnZjQtNlhmZVpWQkNFX2JrTGlTdjJRNnhOaG9zVU5jZzhBR0xKQXotaS1seHN4UnkzU1d1cFJXZWd4blI2N2ZXT1dUYWdJVVZwVVBfSnByQjB2ZVM1dUtOOTJOZTVNVXBmWmlPRzNybkRUWVZ5Z295QmFZVktkMWRqSWt1bmc4LTdJZzNTSWgycDRuZ1IyUl9NYmZPN3BHY0tPZFlXZEZkTHZkVXAtdlRxVEtFNk9VU3BoSENtZWNqUkpkeUVya3VkSUVMZ0pqeTF0QzBQeU5jZ2xTV0lN"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
   },
   {
    "id": "42aa5cae464d",
@@ -93,10 +144,15 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSTBzYTI1UkJwYkVUUEc5TVBJcFd6a3h2ckczSmNoZFhEVmpvTU9KaDJsWGh0Z2V3TGF3bl93MnpnX0gwQ2NQakZBcGxvZGZrdHM2Y0I1MDdUTnR1WFdQOVhza19aY3NWN1gw",
    "source": "汽车之家",
    "published_at": "2026-10-05T02:45:09+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T02:45:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSTBzYTI1UkJwYkVUUEc5TVBJcFd6a3h2ckczSmNoZFhEVmpvTU9KaDJsWGh0Z2V3TGF3bl93MnpnX0gwQ2NQakZBcGxvZGZrdHM2Y0I1MDdUTnR1WFdQOVhza19aY3NWN1gw"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T02:45:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSTBzYTI1UkJwYkVUUEc5TVBJcFd6a3h2ckczSmNoZFhEVmpvTU9KaDJsWGh0Z2V3TGF3bl93MnpnX0gwQ2NQakZBcGxvZGZrdHM2Y0I1MDdUTnR1WFdQOVhza19aY3NWN1gw"
     }
@@ -849,10 +905,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc",
    "source": "汽车之家",
    "published_at": "2026-10-04T14:37:25+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-04T14:37:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-04T14:37:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc"
     }
@@ -6571,8 +6632,8 @@
    ],
    "category": "交付量",
    "session": "盘后",
-   "title_zh": "特斯拉第三季度交付车辆48.65万辆 储能部署13.7GWh - itdcw.com",
    "zh_summary": "特斯拉Q3交付48.65万辆储能13.7GWh",
+   "title_zh": "特斯拉第三季度交付车辆48.65万辆 储能部署13.7GWh - itdcw.com",
    "sentiment": 0
   },
   {
@@ -7801,71 +7862,6 @@
     "pct": 0.47,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "449cd341f507",
-   "title": "Tesla Introduces Emergency Supercharger Breakaway Feature - notateslaapp.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdF9IYnZXUmlidHRadzRkQlhPRHR0VnRjbllaNzBqcXNnb2x4WWtpeU5fUkZyMlVMZ0E3UE50NjRyb1ZjeERBOUxHaWQ0WXNjS0wtYjNPeEExNWs2Zk91cGkycUtnRExQdlU4V1pxamVSZ3NIVVpzbmxLVnFOcVc5ZzZNWTdCUm5hSXpyN0hqQ2htNURMb3JoQ0M2RTM",
-   "source": "notateslaapp.com",
-   "published_at": "2026-10-02T17:24:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-02T17:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdF9IYnZXUmlidHRadzRkQlhPRHR0VnRjbllaNzBqcXNnb2x4WWtpeU5fUkZyMlVMZ0E3UE50NjRyb1ZjeERBOUxHaWQ0WXNjS0wtYjNPeEExNWs2Zk91cGkycUtnRExQdlU4V1pxamVSZ3NIVVpzbmxLVnFOcVc5ZzZNWTdCUm5hSXpyN0hqQ2htNURMb3JoQ0M2RTM"
-    },
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-02T17:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdF9IYnZXUmlidHRadzRkQlhPRHR0VnRjbllaNzBqcXNnb2x4WWtpeU5fUkZyMlVMZ0E3UE50NjRyb1ZjeERBOUxHaWQ0WXNjS0wtYjNPeEExNWs2Zk91cGkycUtnRExQdlU4V1pxamVSZ3NIVVpzbmxLVnFOcVc5ZzZNWTdCUm5hSXpyN0hqQ2htNURMb3JoQ0M2RTM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉推出超充紧急断开功能",
-   "title_zh": "特斯拉推出超级充电紧急断开功能",
-   "sentiment": 0
-  },
-  {
-   "id": "facb9960d975",
-   "title": "Tesla: Shares Rise on Third-Quarter Deliveries Ahead of Consensus Estimates - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2tuWTJJWHNHT3RVdzYtaG9jYmxiLWVnWDEzZFhkRUU5VlZzRzFwNjNjVUJjb01rSm0yRDBla3pIQWxvOXBUZ0RYTjBpOGYxQ212c2ltTEV6ZDQ5eUZnQUs2MlRYSlViMFhXcFdkRTZoeUNLYkZGMDEwbUtwcTdBdFJFaTJJUkNtOVlnU1l4QWFpMUgxZy1CLXZ0SEk3T1ZOeUM4UjZQR3laV1piUzRuY2ZR",
-   "source": "Morningstar",
-   "published_at": "2026-10-02T17:13:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Morningstar",
-     "published_at": "2026-10-02T17:13:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2tuWTJJWHNHT3RVdzYtaG9jYmxiLWVnWDEzZFhkRUU5VlZzRzFwNjNjVUJjb01rSm0yRDBla3pIQWxvOXBUZ0RYTjBpOGYxQ212c2ltTEV6ZDQ5eUZnQUs2MlRYSlViMFhXcFdkRTZoeUNLYkZGMDEwbUtwcTdBdFJFaTJJUkNtOVlnU1l4QWFpMUgxZy1CLXZ0SEk3T1ZOeUM4UjZQR3laV1piUzRuY2ZR"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉三季度交付超预期股价上涨",
-   "title_zh": "特斯拉三季度交付超预期股价上涨——Morningstar",
-   "sentiment": 1
-  },
-  {
-   "id": "9582696a5553",
-   "title": "Our Personalized Tesla License Plate Generator Now Supports European Countries - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXY1VEVfT2tWd2lqRHo3bHlBU2tZLUZxSDlaMjNGVkNuZzJ3NENNVjg2bHZiMkhHZFA3N005ZWg0N283YjBSclVtTHljVXVUTFlVZFNOdU9xUUt2bkM1Vzl4cGpXdHhWNmNlNTUyalgyWEVKMWZHb3dTNjV5N1BoeFZVTF9KM0dEMmFtMzREb3hpR0UteVl4aFZtSThmR2p0bHhJa29hZXdZZ21rLV9xRW85MmY5UQ",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-02T17:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-02T17:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXY1VEVfT2tWd2lqRHo3bHlBU2tZLUZxSDlaMjNGVkNuZzJ3NENNVjg2bHZiMkhHZFA3N005ZWg0N283YjBSclVtTHljVXVUTFlVZFNOdU9xUUt2bkM1Vzl4cGpXdHhWNmNlNTUyalgyWEVKMWZHb3dTNjV5N1BoeFZVTF9KM0dEMmFtMzREb3hpR0UteVl4aFZtSThmR2p0bHhJa29hZXdZZ21rLV9xRW85MmY5UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉车牌生成器支持欧洲国家",
-   "title_zh": "特斯拉个性化车牌生成器新增欧洲国家支持",
-   "sentiment": 0
   }
  ]
 }
