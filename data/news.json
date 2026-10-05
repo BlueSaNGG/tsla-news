@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T18:07:33.712000+00:00",
+ "updated_at": "2026-10-05T18:22:30.833761+00:00",
  "market": {
-  "price": 379.32,
-  "change_pct": 2.36,
+  "price": 379.95,
+  "change_pct": 2.52,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.5%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（113条已评分）"
+     "note": "今日新闻情绪 +0.43（114条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.32 vs 20日均线 $366.13"
+     "note": "现价 $379.95 vs 20日均线 $366.16"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.5,
-   "ma20": 366.13,
-   "as_of": "2026-10-05T18:07:33.706415+00:00"
+   "implied_upside_pct": 5.3,
+   "ma20": 366.16,
+   "as_of": "2026-10-05T18:22:30.827253+00:00"
   },
-  "pe_ttm": 104.9,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.5%空间：估值适中，预期中性",
+  "pe_ttm": 105.1,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.43,
-   "count": 113
+   "count": 114
   }
  },
  "meta": {
@@ -68,24 +68,55 @@
  },
  "stories": [
   {
+   "id": "2849d0bb8cc9",
+   "title": "Tesla FSD in Europe: 5 Details That Matter From Tomorrow's UNECE Meeting - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA",
+   "source": "BASENOR",
+   "published_at": "2026-10-05T18:06:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-05T18:06:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "0896606a514c",
    "title": "Tesla Stock Rises After Musk Confirms TSMC Talks - Yahoo Finance UK",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVBaY0l0R2M5bUlIQ1lYcThBakpKWEFMUW5MNlpxNC1iS1BnWGhQODdFSEtVLUIySDVBcWhmOWZjMkl3U1ktZFZoeFA4bDdhNVpDaHR1TXFJa09QMkNGeXRpLS1aSDNKOWFRdkZFcXZlM2t6VGt6LU5uSi1QODBLQkNoczBxdjA",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-05T17:49:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-05T17:49:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVBaY0l0R2M5bUlIQ1lYcThBakpKWEFMUW5MNlpxNC1iS1BnWGhQODdFSEtVLUIySDVBcWhmOWZjMkl3U1ktZFZoeFA4bDdhNVpDaHR1TXFJa09QMkNGeXRpLS1aSDNKOWFRdkZFcXZlM2t6VGt6LU5uSi1QODBLQkNoczBxdjA"
+    },
+    {
+     "name": "uk.finance.yahoo.com",
+     "published_at": "2026-10-05T17:49:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVBaY0l0R2M5bUlIQ1lYcThBakpKWEFMUW5MNlpxNC1iS1BnWGhQODdFSEtVLUIySDVBcWhmOWZjMkl3U1ktZFZoeFA4bDdhNVpDaHR1TXFJa09QMkNGeXRpLS1aSDNKOWFRdkZFcXZlM2t6VGt6LU5uSi1QODBLQkNoczBxdjA"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-05T17:49:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjJuRGlxMTh4SW8zSjZmNnM2UlBDcmZtZ0VtZ3hKSUtENGJKdDBva0t2VlFfcGNxT2ZZU0hrZUtIeDVlbnBwX3dEVXRrZERQM19RajlzRWl5UjdSNmlRSWlqdC1QQWRNbWEwdGVpUkZ5N0RGM3M5RzFPVGl6anVMUm1JSGdmRFRCM1FzRjRCZTFBeExnbVB5eVliS2lGYVpZbC1wX2ZiUmRfcEpB"
     }
    ],
    "category": "马斯克",
    "session": "盘中",
    "zh_summary": "马斯克确认正与台积电洽谈",
    "title_zh": "马斯克确认与台积电洽谈后特斯拉股价上涨",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.0,
+    "window_h": 0.5
+   }
   },
   {
    "id": "a6be6d15bab3",
@@ -947,7 +978,7 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOejJibkNEQjZZb1V1UnhnazlSbkE1NWVjRlZ1XzFKNFFnSnJTd2RFQTFRUjlBTW1nWjhna3VXVmZCYkpGakxGbG1yVFlyTzlaQ1ZnRzVQd0hKaTZHeWV3OVVyVDFUZTdrNk5DWk1ZV2xaMVhRRjQwbUtONzdQZkFzYWg5S0h1ZHNIa3hLUDQ4ZnVNUHAyMi1KbkwwQnk",
    "source": "Autoblog",
    "published_at": "2026-10-05T14:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Autoblog",
@@ -958,13 +989,22 @@
      "name": "autos.yahoo.com",
      "published_at": "2026-10-05T14:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1WbUR1Yl9RYkRWZ3d2ZElUSmJORkhYV3NIQ2hoMFktZWwwSEZJY1VSYVRwQ1hETTlUNTFWZnhIeVBaWGZYRDl3UlplaTNDa1VkYXdJWWJUUzJWZW8teTR4dW1IdXpxcVJSamVnbVRHSVpzTTl5Tl9QaGZUa2t3N0E2MVNiVm5oMXl3bE1ScUxDOVZLTnFRdHlrODVYSmZscWFlX3ZfM3hVUQ"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-05T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSG1WbUR1Yl9RYkRWZ3d2ZElUSmJORkhYV3NIQ2hoMFktZWwwSEZJY1VSYVRwQ1hETTlUNTFWZnhIeVBaWGZYRDl3UlplaTNDa1VkYXdJWWJUUzJWZW8teTR4dW1IdXpxcVJSamVnbVRHSVpzTTl5Tl9QaGZUa2t3N0E2MVNiVm5oMXl3bE1ScUxDOVZLTnFRdHlrODVYSmZscWFlX3ZfM3hVUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉超充新功能免拔枪可驶离",
    "title_zh": "特斯拉超充新功能：无需拔枪即可驶离",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.08,
+    "window_h": 2.0
+   }
   },
   {
    "id": "9473d239bfcc",
@@ -984,31 +1024,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Model 3性能版动力提升",
    "title_zh": "特斯拉Model 3更新：性能版动力提升",
-   "sentiment": 1
-  },
-  {
-   "id": "55055018c858",
-   "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ",
-   "source": "Mashable",
-   "published_at": "2026-10-05T13:59:56+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Mashable",
-     "published_at": "2026-10-05T13:59:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ"
-    },
-    {
-     "name": "mashable.com",
-     "published_at": "2026-10-05T13:59:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Model 3续航动力屏幕均升级",
-   "title_zh": "特斯拉Model 3续航、动力和屏幕均升级",
    "sentiment": 1
   },
   {
@@ -1178,10 +1193,15 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WEpld2t1RW9HTDZuQmV6SUdReVRQR0NMVlc5RFhNTlNCbmtEckZYVWpXTFJzcVl2TXJtZUs5SFZBelhsY3BUb3kxQXQwODhBOENUN2QxSXZBcWFFWUFJSkxRN0dpak1ITnk0",
    "source": "汽车之家",
    "published_at": "2026-10-05T13:27:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T13:27:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WEpld2t1RW9HTDZuQmV6SUdReVRQR0NMVlc5RFhNTlNCbmtEckZYVWpXTFJzcVl2TXJtZUs5SFZBelhsY3BUb3kxQXQwODhBOENUN2QxSXZBcWFFWUFJSkxRN0dpak1ITnk0"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T13:27:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WEpld2t1RW9HTDZuQmV6SUdReVRQR0NMVlc5RFhNTlNCbmtEckZYVWpXTFJzcVl2TXJtZUs5SFZBelhsY3BUb3kxQXQwODhBOENUN2QxSXZBcWFFWUFJSkxRN0dpak1ITnk0"
     }
@@ -1841,10 +1861,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84c1lRNER6T2JGcmVfeVdTeGpsd09Jd1haUmhGMUpGOFpfa3ZlQy1qVFNDOWY3LVg0b1FrN2xNMTVyU3pZeUIySGhIN0U1d3RaaWowejBuWEFqam8",
    "source": "汽车之家",
    "published_at": "2026-10-05T11:06:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T11:06:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84c1lRNER6T2JGcmVfeVdTeGpsd09Jd1haUmhGMUpGOFpfa3ZlQy1qVFNDOWY3LVg0b1FrN2xNMTVyU3pZeUIySGhIN0U1d3RaaWowejBuWEFqam8"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T11:06:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84c1lRNER6T2JGcmVfeVdTeGpsd09Jd1haUmhGMUpGOFpfa3ZlQy1qVFNDOWY3LVg0b1FrN2xNMTVyU3pZeUIySGhIN0U1d3RaaWowejBuWEFqam8"
     }
@@ -2021,10 +2046,15 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN",
    "source": "汽车之家",
    "published_at": "2026-10-05T10:31:34+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T10:31:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T10:31:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN"
     }
@@ -2106,7 +2136,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zNnNTUC1oVDlXcmxpVFdfcTFUSllvVzFDN3hYZEhZSDNUTS1vVlpJSzNVcGp2N0UyWUQ5ZkRJcnIzelNvalgySFk0cFAtRGJzbGtQeXR4ZHRJbTQ",
    "source": "车家号",
    "published_at": "2026-10-05T10:08:13+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "车家号",
@@ -2117,13 +2147,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-05T10:08:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zNnNTUC1oVDlXcmxpVFdfcTFUSllvVzFDN3hYZEhZSDNUTS1vVlpJSzNVcGp2N0UyWUQ5ZkRJcnIzelNvalgySFk0cFAtRGJzbGtQeXR4ZHRJbTQ"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T10:16:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zNnNTUC1oVDlXcmxpVFdfcTFUSllvVzFDN3hYZEhZSDNUTS1vVlpJSzNVcGp2N0UyWUQ5ZkRJcnIzelNvalgySFk0cFAtRGJzbGtQeXR4ZHRJbTQ"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "特斯拉预告万圣节模式更新",
    "title_zh": "特斯拉预告“万圣节模式”更新 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b8d0e5469d9c",
@@ -2226,7 +2265,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2RnlhQlpLR0NFQUxReXZaNVV6ai1PX01zMWxUdk4yeHF1TExnMnQ2WDdDaHZSbzBTZUk5T29kWGo0QUFOMF9mR2FXaVlrSlZnbEJnMU9mVDMzSkFZa2oyeGx5dkVnRjFiM21J",
    "source": "汽车之家",
    "published_at": "2026-10-05T09:36:16+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -2237,13 +2276,22 @@
      "name": "车家号",
      "published_at": "2026-10-05T09:36:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2RnlhQlpLR0NFQUxReXZaNVV6ai1PX01zMWxUdk4yeHF1TExnMnQ2WDdDaHZSbzBTZUk5T29kWGo0QUFOMF9mR2FXaVlrSlZnbEJnMU9mVDMzSkFZa2oyeGx5dkVnRjFiM21J"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T09:36:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2RnlhQlpLR0NFQUxReXZaNVV6ai1PX01zMWxUdk4yeHF1TExnMnQ2WDdDaHZSbzBTZUk5T29kWGo0QUFOMF9mR2FXaVlrSlZnbEJnMU9mVDMzSkFZa2oyeGx5dkVnRjFiM21J"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "家用纯电SUV里特斯拉真香",
    "title_zh": "【视频】家用的纯电SUV里这台特斯拉真香 - 汽车之家",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "9b3155b9cb7b",
@@ -2308,7 +2356,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zYkdWX2hRb3dxZXp2VTZta2V2QkZNU0FOVWFaVHVuWENzUEk2MHF1eEpzS0szaWlfRG9TbmpWRG1qMzdOZGNhNU02Y00yY2dHYVA0UzljdENPaFE",
    "source": "车家号",
    "published_at": "2026-10-05T09:15:28+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "车家号",
@@ -2319,13 +2367,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-05T09:15:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zYkdWX2hRb3dxZXp2VTZta2V2QkZNU0FOVWFaVHVuWENzUEk2MHF1eEpzS0szaWlfRG9TbmpWRG1qMzdOZGNhNU02Y00yY2dHYVA0UzljdENPaFE"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T09:20:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zYkdWX2hRb3dxZXp2VTZta2V2QkZNU0FOVWFaVHVuWENzUEk2MHF1eEpzS0szaWlfRG9TbmpWRG1qMzdOZGNhNU02Y00yY2dHYVA0UzljdENPaFE"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
    "zh_summary": "特斯拉Robotaxi为何夜间不运营",
    "title_zh": "特斯拉Robotaxi为何夜间不运营？ - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "1ecde01d7866",
@@ -2353,7 +2410,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EeXdoTXFHMkt3ZnBoOWVwVjNvdkw5aDBlWHEySUJxbXZPcjctb1NfdUFodW1LQlkzVkNwNUtqRmlfTTRlN0FNNjJvTERfX0NnbDdtNEozRkFVX0NEU0dfT1MwNHkzWUNqTGdv",
    "source": "汽车之家",
    "published_at": "2026-10-05T09:10:51+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -2364,13 +2421,22 @@
      "name": "车家号",
      "published_at": "2026-10-05T09:11:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mbk1QNW0zMmtiMTNoa2pTNks4TjQtUTFxTHE2QzJ5VG1FcnFCeXpIcVhxc3g4VHcxYkNLck9kdGxLeEs4ZG5Td1pOZjlGNDk4MkhoMUFKdVk0c0k"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T09:10:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EeXdoTXFHMkt3ZnBoOWVwVjNvdkw5aDBlWHEySUJxbXZPcjctb1NfdUFodW1LQlkzVkNwNUtqRmlfTTRlN0FNNjJvTERfX0NnbDdtNEozRkFVX0NEU0dfT1MwNHkzWUNqTGdv"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "特斯拉好车推荐视频",
    "title_zh": "【视频】特斯拉好车推荐 - 汽车之家",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a751698b523c",
@@ -2378,7 +2444,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEOTc5ZmNsaEVrUHo1aDBOdGhGTmp4VS1KRXNIUGpZNm8tVnNjcDY5OEdjZzBSdFlmNUl3X1RYbVpWQnhCdFJadWQ5em5Pb3dpc21INzN0anVKYkVDTmdKSnZDNXVacU9JMVV3",
    "source": "车家号",
    "published_at": "2026-10-05T08:45:38+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "车家号",
@@ -2389,13 +2455,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-05T08:45:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEOTc5ZmNsaEVrUHo1aDBOdGhGTmp4VS1KRXNIUGpZNm8tVnNjcDY5OEdjZzBSdFlmNUl3X1RYbVpWQnhCdFJadWQ5em5Pb3dpc21INzN0anVKYkVDTmdKSnZDNXVacU9JMVV3"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T08:45:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEOTc5ZmNsaEVrUHo1aDBOdGhGTmp4VS1KRXNIUGpZNm8tVnNjcDY5OEdjZzBSdFlmNUl3X1RYbVpWQnhCdFJadWQ5em5Pb3dpc21INzN0anVKYkVDTmdKSnZDNXVacU9JMVV3"
     }
    ],
    "category": "政策监管",
    "session": "盘前",
    "zh_summary": "特斯拉大规模召回系标题党",
    "title_zh": "【视频】特斯拉大规模召回？不得不服现在的【标题党】 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "11faf268ebed",
@@ -2454,10 +2529,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMUJnOUlSUVJkTUpQMUxJX0daTmp1WGhoUF9sUVRJb3dHN0UxQ0UyRkZlU3pONy1MckhUMnRTVFJvTGNseGhzRkpxUEFNUmFSSTBldWVtRkJiUHM",
    "source": "汽车之家",
    "published_at": "2026-10-05T08:08:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T08:08:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMUJnOUlSUVJkTUpQMUxJX0daTmp1WGhoUF9sUVRJb3dHN0UxQ0UyRkZlU3pONy1MckhUMnRTVFJvTGNseGhzRkpxUEFNUmFSSTBldWVtRkJiUHM"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T08:08:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMUJnOUlSUVJkTUpQMUxJX0daTmp1WGhoUF9sUVRJb3dHN0UxQ0UyRkZlU3pONy1MckhUMnRTVFJvTGNseGhzRkpxUEFNUmFSSTBldWVtRkJiUHM"
     }
@@ -2519,10 +2599,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRHlvZzl3TlcyYklMWHRxQlMtbWxndUxuMWFxQk9yZ1hPSDFBZnJRemVkSFVoV2dKMFl5Q25jU3dSTzYzRWZCZ1NwX3l6QWdoSUprWnpITjMxckk",
    "source": "汽车之家",
    "published_at": "2026-10-05T07:20:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T07:20:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRHlvZzl3TlcyYklMWHRxQlMtbWxndUxuMWFxQk9yZ1hPSDFBZnJRemVkSFVoV2dKMFl5Q25jU3dSTzYzRWZCZ1NwX3l6QWdoSUprWnpITjMxckk"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T07:20:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRHlvZzl3TlcyYklMWHRxQlMtbWxndUxuMWFxQk9yZ1hPSDFBZnJRemVkSFVoV2dKMFl5Q25jU3dSTzYzRWZCZ1NwX3l6QWdoSUprWnpITjMxckk"
     }
@@ -2589,7 +2674,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeWg1ckNRS0hfSTBtSlh0RlBFcDVQa0lGRGZEZm4yQXVHdXVjOE01RVljaVlEbktuZDN6ZW5hZmxab2NGZ2g0ZE45dVF4VUdEWlBDX21yNTA5dndlSlN5cFZoWjVaZFhIVG1z",
    "source": "车家号",
    "published_at": "2026-10-05T06:44:20+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "车家号",
@@ -2600,13 +2685,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-05T06:44:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CQ2pYY2F4UXc0eXJZR3dUb3ZwWnNja1E2Qk5aQnJTV2gzdVlFQ29JcGJMb3pHZElfY3dTaHU0QUtnOU1IbTlKeHFvZ1RMV19KRVllRkFhWDB5SHM"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T06:44:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeWg1ckNRS0hfSTBtSlh0RlBFcDVQa0lGRGZEZm4yQXVHdXVjOE01RVljaVlEbktuZDN6ZW5hZmxab2NGZ2g0ZE45dVF4VUdEWlBDX21yNTA5dndlSlN5cFZoWjVaZFhIVG1z"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "23年Model Y标续10.9万公里出售",
    "title_zh": "【视频】新到23年特斯拉毛豆Y标续一手原漆10.9万公里 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "aa554ef103da",
@@ -2874,10 +2968,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qenZxXzlDSWdDQ3BLY3o1V2MzVlBhVjh6UTdjQzNYY1hObDl2M0xZM0FCcjB6ZHpMaEJXY0p1OUlOczdTYlp4ZG42YnpLUS1NNTIxbmc2NTlYaWM",
    "source": "汽车之家",
    "published_at": "2026-10-05T05:00:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T05:00:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qenZxXzlDSWdDQ3BLY3o1V2MzVlBhVjh6UTdjQzNYY1hObDl2M0xZM0FCcjB6ZHpMaEJXY0p1OUlOczdTYlp4ZG42YnpLUS1NNTIxbmc2NTlYaWM"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T05:00:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qenZxXzlDSWdDQ3BLY3o1V2MzVlBhVjh6UTdjQzNYY1hObDl2M0xZM0FCcjB6ZHpMaEJXY0p1OUlOczdTYlp4ZG42YnpLUS1NNTIxbmc2NTlYaWM"
     }
@@ -2894,7 +2993,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQTdXSm1uZnQ0UXN1M2tVcGNMTUtMdUxRRHVucmxicHQzQTFnUk51UmZBWENZa0g5RlVKNDhSOF9OREo5MmRFbldlU2x3WXNWbXhORzlwUTIzMGs",
    "source": "车家号",
    "published_at": "2026-10-05T04:57:50+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "车家号",
@@ -2905,13 +3004,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-05T04:57:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQTdXSm1uZnQ0UXN1M2tVcGNMTUtMdUxRRHVucmxicHQzQTFnUk51UmZBWENZa0g5RlVKNDhSOF9OREo5MmRFbldlU2x3WXNWbXhORzlwUTIzMGs"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T04:57:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxMkZzVmVUTU1NNzQtNXE0bWMwb2dFbVFZLTU2NTVUVU1JOGxoSUpHR0FmN3A0UlJwamI2dUduaHJUTTFNc2NmaEt4d01iNnVmdmIxamRJLWd5aGhKTVpHd3ZPSmJxUnRfRHdv"
     }
    ],
    "category": "其他",
    "session": "周末",
    "zh_summary": "特斯拉拿下500辆Semi订单",
    "title_zh": "【视频】特斯拉又拿下500辆Semi订单！柴油卡车时代，真的要结束了？ - 车家号",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "6a5941315f1b",
@@ -2969,7 +3077,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM",
    "source": "汽车之家",
    "published_at": "2026-10-05T04:44:18+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -2980,13 +3088,22 @@
      "name": "车家号",
      "published_at": "2026-10-05T04:45:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T04:44:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM"
     }
    ],
    "category": "其他",
    "session": "周末",
    "zh_summary": "特斯拉或将开启新一轮价格战",
    "title_zh": "【视频】挑起上一轮价格战的特斯拉，又要开启新一轮价格战了？ - 汽车之家",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b5f7775c2fdb",
@@ -3229,10 +3346,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU",
    "source": "汽车之家",
    "published_at": "2026-10-05T03:28:45+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-05T03:28:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-05T03:28:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU"
     }
@@ -3497,7 +3619,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr",
    "source": "汽车之家",
    "published_at": "2026-10-05T01:49:39+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -3508,13 +3630,22 @@
      "name": "车家号",
      "published_at": "2026-10-05T01:49:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-05T01:49:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr"
     }
    ],
    "category": "交付量",
    "session": "周末",
    "zh_summary": "福建车主顺利交付22年款特斯拉ModelY",
    "title_zh": "【视频】特斯拉Y 感谢福建粉丝信任，顺利交付22年特斯拉Model Y - 汽车之家",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "94cf84b74835",
@@ -6726,7 +6857,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94X2p1c3FhZVk4Z2YyaDBkRUlFblR4cWdtQ1BXTGp6MFJPVzBCeHhIUjNlUThYRXN5UGtENEx5STEyX3FablRwX2M3X2ZrR0gwS3llUTB5WGNfUGs",
    "source": "车家号",
    "published_at": "2026-10-04T01:28:10+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "车家号",
@@ -6737,13 +6868,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-04T01:28:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94X2p1c3FhZVk4Z2YyaDBkRUlFblR4cWdtQ1BXTGp6MFJPVzBCeHhIUjNlUThYRXN5UGtENEx5STEyX3FablRwX2M3X2ZrR0gwS3llUTB5WGNfUGs"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-04T01:28:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94X2p1c3FhZVk4Z2YyaDBkRUlFblR4cWdtQ1BXTGp6MFJPVzBCeHhIUjNlUThYRXN5UGtENEx5STEyX3FablRwX2M3X2ZrR0gwS3llUTB5WGNfUGs"
     }
    ],
    "category": "车型产品",
    "session": "周末",
    "zh_summary": "特斯拉发布Model Y L星光金+全黑车标美照",
    "title_zh": "这颜值绝了！特斯拉又放出Model Y L美照，星光金+全黑车标 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "912774096419",
