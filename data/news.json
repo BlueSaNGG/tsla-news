@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T17:52:29.475908+00:00",
+ "updated_at": "2026-10-05T18:07:33.712000+00:00",
  "market": {
-  "price": 379.49,
-  "change_pct": 2.4,
+  "price": 379.32,
+  "change_pct": 2.36,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.4%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（109条已评分）"
+     "note": "今日新闻情绪 +0.43（113条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.49 vs 20日均线 $366.14"
+     "note": "现价 $379.32 vs 20日均线 $366.13"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.4,
-   "ma20": 366.14,
-   "as_of": "2026-10-05T17:52:29.469310+00:00"
+   "implied_upside_pct": 5.5,
+   "ma20": 366.13,
+   "as_of": "2026-10-05T18:07:33.706415+00:00"
   },
-  "pe_ttm": 105.0,
+  "pe_ttm": 104.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.5%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 109
+   "avg": 0.43,
+   "count": 113
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0896606a514c",
+   "title": "Tesla Stock Rises After Musk Confirms TSMC Talks - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVBaY0l0R2M5bUlIQ1lYcThBakpKWEFMUW5MNlpxNC1iS1BnWGhQODdFSEtVLUIySDVBcWhmOWZjMkl3U1ktZFZoeFA4bDdhNVpDaHR1TXFJa09QMkNGeXRpLS1aSDNKOWFRdkZFcXZlM2t6VGt6LU5uSi1QODBLQkNoczBxdjA",
+   "source": "Yahoo Finance UK",
+   "published_at": "2026-10-05T17:49:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance UK",
+     "published_at": "2026-10-05T17:49:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVBaY0l0R2M5bUlIQ1lYcThBakpKWEFMUW5MNlpxNC1iS1BnWGhQODdFSEtVLUIySDVBcWhmOWZjMkl3U1ktZFZoeFA4bDdhNVpDaHR1TXFJa09QMkNGeXRpLS1aSDNKOWFRdkZFcXZlM2t6VGt6LU5uSi1QODBLQkNoczBxdjA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "a6be6d15bab3",
    "title": "Tesla’s Q3 deliveries beat expectations; GMC’s Denali, AT4 gamble - Automotive News",
@@ -287,15 +304,37 @@
    "sentiment": 0
   },
   {
+   "id": "5286ef5d8760",
+   "title": "Tesla deliveries top consensus, but energy storage deployments miss estimates - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemVHbHFNd3o4bmFWTkM4SzR6R2s3cHNQeWlfT3BjS1NsMlI0VTJIWnNaMFozZWRxMlA1ZlJlb2UtM1k3cEgwc1o5UXlRVmNneDlJb3VybTN6UDBXVWpUeFBzekZFQVRQTjhjdUUxZ1NERDVTb0JfazJrX3ltYXpNcVRaaU5FRTZxZTdETzVRbw",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-05T16:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-05T16:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemVHbHFNd3o4bmFWTkM4SzR6R2s3cHNQeWlfT3BjS1NsMlI0VTJIWnNaMFozZWRxMlA1ZlJlb2UtM1k3cEgwc1o5UXlRVmNneDlJb3VybTN6UDBXVWpUeFBzekZFQVRQTjhjdUUxZ1NERDVTb0JfazJrX3ltYXpNcVRaaU5FRTZxZTdETzVRbw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
    "id": "edb40fcaa9b8",
    "title": "马斯克：普及将消除人类贫困！特斯拉Optimus机器人厂房建设提速 - pcauto.com.cn",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52VHBkcHNsZmJxYjhzLUl1THlnY1djOEc0bklIVjd0dXJmQnY4R25wMzhsWVlCV0M4eDN0dFNRVElDY3FqYkFLdjk5c2taS2pCZVVCaC1QR1ZBT1RWcXc",
    "source": "pcauto.com.cn",
    "published_at": "2026-10-05T16:38:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "pcauto.com.cn",
+     "published_at": "2026-10-05T16:38:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52VHBkcHNsZmJxYjhzLUl1THlnY1djOEc0bklIVjd0dXJmQnY4R25wMzhsWVlCV0M4eDN0dFNRVElDY3FqYkFLdjk5c2taS2pCZVVCaC1QR1ZBT1RWcXc"
+    },
+    {
+     "name": "太平洋汽车网",
      "published_at": "2026-10-05T16:38:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52VHBkcHNsZmJxYjhzLUl1THlnY1djOEc0bklIVjd0dXJmQnY4R25wMzhsWVlCV0M4eDN0dFNRVElDY3FqYkFLdjk5c2taS2pCZVVCaC1QR1ZBT1RWcXc"
     }
@@ -3326,6 +3365,23 @@
    "zh_summary": "特斯拉三季度交付48.7万辆超预期",
    "title_zh": "特斯拉第三季度交付 486，532 辆汽车，超出市场预期 - 手机新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "a47c6b40b00c",
+   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
+   "source": "InsideEVs",
+   "published_at": "2026-10-05T02:09:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-05T02:09:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "a371e98318d6",
@@ -7973,76 +8029,6 @@
    "session": "周末",
    "zh_summary": "软件更新让特斯拉大灯更强",
    "title_zh": "特斯拉通过软件更新升级车灯",
-   "sentiment": 1
-  },
-  {
-   "id": "d3885c1f68a3",
-   "title": "Tesla Cuts RAM on AI5 and AI6 Chips to Boost Production - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjdESzI3eVpUQzJuTW5uYUhiQUFkM1JEUkVMTnNJM2NyZ3UzcmEtc0hRMmR3bHBqQUF3Y0ZtYUpHRTdZQm5fOTFTUUo0UExnUUtSUXA0QmxsWnBQOC11LWNpMzV4M2w0OE5xNENHLWNpbWNvQktVOEpjWkpXMHNGUDgxR09pYTU3UE1tWWlLeXBsd2R2SmMtRzl3",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-03T16:32:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-03T16:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjdESzI3eVpUQzJuTW5uYUhiQUFkM1JEUkVMTnNJM2NyZ3UzcmEtc0hRMmR3bHBqQUF3Y0ZtYUpHRTdZQm5fOTFTUUo0UExnUUtSUXA0QmxsWnBQOC11LWNpMzV4M2w0OE5xNENHLWNpbWNvQktVOEpjWkpXMHNGUDgxR09pYTU3UE1tWWlLeXBsd2R2SmMtRzl3"
-    },
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-03T16:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjdESzI3eVpUQzJuTW5uYUhiQUFkM1JEUkVMTnNJM2NyZ3UzcmEtc0hRMmR3bHBqQUF3Y0ZtYUpHRTdZQm5fOTFTUUo0UExnUUtSUXA0QmxsWnBQOC11LWNpMzV4M2w0OE5xNENHLWNpbWNvQktVOEpjWkpXMHNGUDgxR09pYTU3UE1tWWlLeXBsd2R2SmMtRzl3"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉削减AI5/AI6芯片内存提产能",
-   "title_zh": "特斯拉削减AI5/AI6芯片内存以提升产量",
-   "sentiment": 0
-  },
-  {
-   "id": "9d2b473bca12",
-   "title": "特斯拉改装车亮相网络引讨论 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEhaYVlDNlhWdWRJRExpdDQ5N1h2OWRvd3lUVWhGLTFjanhVaVh5MFNIT0ZvWW9lRWVGYmx6NklENUFMc0RhdWNiRFBMN1ptME9uZE1HNUViQW41ZWp5ZVRqcGIxU1JzVlg3dmFOUk9qOG5OZGVOVHZtOV9lZlgwVw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-03T16:11:10+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-03T16:11:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEhaYVlDNlhWdWRJRExpdDQ5N1h2OWRvd3lUVWhGLTFjanhVaVh5MFNIT0ZvWW9lRWVGYmx6NklENUFMc0RhdWNiRFBMN1ptME9uZE1HNUViQW41ZWp5ZVRqcGIxU1JzVlg3dmFOUk9qOG5OZGVOVHZtOV9lZlgwVw"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-03T16:11:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEhaYVlDNlhWdWRJRExpdDQ5N1h2OWRvd3lUVWhGLTFjanhVaVh5MFNIT0ZvWW9lRWVGYmx6NklENUFMc0RhdWNiRFBMN1ptME9uZE1HNUViQW41ZWp5ZVRqcGIxU1JzVlg3dmFOUk9qOG5OZGVOVHZtOV9lZlgwVw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉改装车亮相引讨论",
-   "title_zh": "特斯拉改装车亮相网络引讨论",
-   "sentiment": 0
-  },
-  {
-   "id": "ec7380372d1f",
-   "title": "Florida man drives the 2026 Tesla Cybertruck Premium AWD and declares it the 'best pickup truck ever made' - supercarblondie.com",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wMHdxRkhLbWJCOHdWNjdRSUtoNFJTZnJJdTY1dDRfdHpScnNLODhIdVNfNVRaQ0FrYkZqUWFud2Fta1FySDAxX1gyM1pZTVcxT19xR3pZWDJNTHVRTjREOUk0VDFrd0gxMEZTY014WQ",
-   "source": "supercarblondie.com",
-   "published_at": "2026-10-03T16:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "supercarblondie.com",
-     "published_at": "2026-10-03T16:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wMHdxRkhLbWJCOHdWNjdRSUtoNFJTZnJJdTY1dDRfdHpScnNLODhIdVNfNVRaQ0FrYkZqUWFud2Fta1FySDAxX1gyM1pZTVcxT19xR3pZWDJNTHVRTjREOUk0VDFrd0gxMEZTY014WQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "车主称新款Cybertruck为最佳皮卡",
-   "title_zh": "佛州车主试驾2026款Cybertruck顶配称其为史上最佳皮卡",
    "sentiment": 1
   }
  ]
