@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T08:07:24.837993+00:00",
+ "updated_at": "2026-10-05T08:22:26.334508+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.55（11条已评分）"
+     "note": "今日新闻情绪 +0.58（12条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T08:07:24.831370+00:00"
+   "as_of": "2026-10-05T08:22:26.326321+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.55,
-   "count": 11
+   "avg": 0.58,
+   "count": 12
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "facb9960d975",
+   "title": "Tesla: Shares Rise on Third-Quarter Deliveries Ahead of Consensus Estimates - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR",
+   "source": "Morningstar",
+   "published_at": "2026-10-05T08:16:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Morningstar",
+     "published_at": "2026-10-05T08:16:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
+  },
   {
    "id": "a3f9e205e562",
    "title": "美国车主天生无臂用脚开车30年，特斯拉FSD 帮他开805公里去看女儿 - 搜狐网",
@@ -687,6 +704,23 @@
    "zh_summary": "汽车之家视频讨论特斯拉是否遥遥领先",
    "title_zh": "【视频】特斯拉算遥遥领先吗？ - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "a371e98318d6",
+   "title": "(TSLA) Proactive Strategies (TSLA:CA) - Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv",
+   "source": "Stock Traders Daily",
+   "published_at": "2026-10-05T02:07:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stock Traders Daily",
+     "published_at": "2026-10-05T02:07:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "09014e3b9949",
@@ -1376,10 +1410,15 @@
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaF9RWkVncTUzc1F0bmNTQUdTaTJfRjhUOVFIWm5vOFE0RHZPSy1BZ2tfQ1BuRXhqMXo0Z09adWNmSVJ1anZCV2RzOXlha184R29OUmtuSzAxSTRYRFRJWWMyMllqNnl4X0VDaFU5Y1lnSEg0a1ZBeFEtaG1OWjRQd0dNd1B2UjFzNnZjOXBLNjFRSUpqU0xRTmZuVzc4SFBLWDF4MDdpNUZ2N3RoZVV4V0Fuem0wVGlyWjQtYnVITXpuQTZoRzNRTFJaLWxIWFhwN1lVOGNkUGszVWZCRVdaWWgzRVNkbjlWSmRCVnYxOA",
    "source": "Stocktwits",
    "published_at": "2026-10-04T16:58:01+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
+     "published_at": "2026-10-04T16:58:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaF9RWkVncTUzc1F0bmNTQUdTaTJfRjhUOVFIWm5vOFE0RHZPSy1BZ2tfQ1BuRXhqMXo0Z09adWNmSVJ1anZCV2RzOXlha184R29OUmtuSzAxSTRYRFRJWWMyMllqNnl4X0VDaFU5Y1lnSEg0a1ZBeFEtaG1OWjRQd0dNd1B2UjFzNnZjOXBLNjFRSUpqU0xRTmZuVzc4SFBLWDF4MDdpNUZ2N3RoZVV4V0Fuem0wVGlyWjQtYnVITXpuQTZoRzNRTFJaLWxIWFhwN1lVOGNkUGszVWZCRVdaWWgzRVNkbjlWSmRCVnYxOA"
+    },
+    {
+     "name": "stocktwits.com",
      "published_at": "2026-10-04T16:58:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaF9RWkVncTUzc1F0bmNTQUdTaTJfRjhUOVFIWm5vOFE0RHZPSy1BZ2tfQ1BuRXhqMXo0Z09adWNmSVJ1anZCV2RzOXlha184R29OUmtuSzAxSTRYRFRJWWMyMllqNnl4X0VDaFU5Y1lnSEg0a1ZBeFEtaG1OWjRQd0dNd1B2UjFzNnZjOXBLNjFRSUpqU0xRTmZuVzc4SFBLWDF4MDdpNUZ2N3RoZVV4V0Fuem0wVGlyWjQtYnVITXpuQTZoRzNRTFJaLWxIWFhwN1lVOGNkUGszVWZCRVdaWWgzRVNkbjlWSmRCVnYxOA"
     }
@@ -2645,10 +2684,15 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE",
    "source": "Stocktwits",
    "published_at": "2026-10-04T06:35:25+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
+     "published_at": "2026-10-04T06:35:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE"
+    },
+    {
+     "name": "stocktwits.com",
      "published_at": "2026-10-04T06:35:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE"
     }
@@ -3544,10 +3588,15 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN",
    "source": "Stocktwits",
    "published_at": "2026-10-04T02:17:39+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
+     "published_at": "2026-10-04T02:17:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN"
+    },
+    {
+     "name": "stocktwits.com",
      "published_at": "2026-10-04T02:17:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN"
     }
@@ -3729,10 +3778,15 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R",
    "source": "Stocktwits",
    "published_at": "2026-10-04T01:22:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
+     "published_at": "2026-10-04T01:22:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R"
+    },
+    {
+     "name": "stocktwits.com",
      "published_at": "2026-10-04T01:22:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R"
     }
@@ -7836,56 +7890,6 @@
    "zh_summary": "特斯拉Q3销量下滑",
    "title_zh": "道指头条：特斯拉三季度销量下滑",
    "sentiment": -1
-  },
-  {
-   "id": "f0269f696165",
-   "title": "Elon Musk Halves Tesla AI5 Memory Amid Memory Shortage, Then Bumps It To 96GB To Dodge Sitting At The Bottom Barrel Of Chip Specifications - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbG5XdTJpdDFiNDlrOTlobi0xUDJZd043WkVvTWVzcWFUR1FYYnFnc3hXNHJSbFZZaV85Q0h2a2lsQXQ4SHQ4aUtUaS1SOXp0Vm9nQ3Y1T2lnMHkzWUJRelhJRHZRN0ExdEF2TG5WNC0wV0lHNHA5OXZpeWh4SFcyT0NESU1YN2FLbGNmQ2xUQzdSRE5haVdYelh2OFJWRVhjeVh3Z1FQc2J6UEtmMnhscndYZ08wOUdpbWFhQjYzVk5MYzhEbEh5X09ZQnlQOFBteTVIMTZMbE5nY2ctalNjenE3MGxvaWtUb0xDZGoyWTnSAfYBQVVfeXFMT2JiMFRRaGVhVFhRUUJSZmVGVEpHQ0x6NmlqS2J0dTYxWUxJSlhUUEE5UFB0VWZfbFdlRFI1eDBZRVNjc2V0aHRpbWlTOHJkNE1WcVJQaE5KVXRxM0JMYktUMm5sc0cxQzBZdHNQWmRRc1NHaHF2OW5ZMHA3WkROcVBfWkU4NDRodk11aG03aUdHNW1DZmdHNUZORG5LLWZqRWxXbkRqT1JVazRucVBJRmhBVVlhcVQzUzJQOEZoWVNMTlNfcjFnUXhPT2x1Z04zWkJiUlNXaFEwLTJyMXY3MEVhQnVheW51LTQ5SEVXZTBuV1FsQThR",
-   "source": "Wccftech",
-   "published_at": "2026-10-02T22:35:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-02T22:35:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbG5XdTJpdDFiNDlrOTlobi0xUDJZd043WkVvTWVzcWFUR1FYYnFnc3hXNHJSbFZZaV85Q0h2a2lsQXQ4SHQ4aUtUaS1SOXp0Vm9nQ3Y1T2lnMHkzWUJRelhJRHZRN0ExdEF2TG5WNC0wV0lHNHA5OXZpeWh4SFcyT0NESU1YN2FLbGNmQ2xUQzdSRE5haVdYelh2OFJWRVhjeVh3Z1FQc2J6UEtmMnhscndYZ08wOUdpbWFhQjYzVk5MYzhEbEh5X09ZQnlQOFBteTVIMTZMbE5nY2ctalNjenE3MGxvaWtUb0xDZGoyWTnSAfYBQVVfeXFMT2JiMFRRaGVhVFhRUUJSZmVGVEpHQ0x6NmlqS2J0dTYxWUxJSlhUUEE5UFB0VWZfbFdlRFI1eDBZRVNjc2V0aHRpbWlTOHJkNE1WcVJQaE5KVXRxM0JMYktUMm5sc0cxQzBZdHNQWmRRc1NHaHF2OW5ZMHA3WkROcVBfWkU4NDRodk11aG03aUdHNW1DZmdHNUZORG5LLWZqRWxXbkRqT1JVazRucVBJRmhBVVlhcVQzUzJQOEZoWVNMTlNfcjFnUXhPT2x1Z04zWkJiUlNXaFEwLTJyMXY3MEVhQnVheW51LTQ5SEVXZTBuV1FsQThR"
-    },
-    {
-     "name": "wccftech.com",
-     "published_at": "2026-10-02T22:35:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbG5XdTJpdDFiNDlrOTlobi0xUDJZd043WkVvTWVzcWFUR1FYYnFnc3hXNHJSbFZZaV85Q0h2a2lsQXQ4SHQ4aUtUaS1SOXp0Vm9nQ3Y1T2lnMHkzWUJRelhJRHZRN0ExdEF2TG5WNC0wV0lHNHA5OXZpeWh4SFcyT0NESU1YN2FLbGNmQ2xUQzdSRE5haVdYelh2OFJWRVhjeVh3Z1FQc2J6UEtmMnhscndYZ08wOUdpbWFhQjYzVk5MYzhEbEh5X09ZQnlQOFBteTVIMTZMbE5nY2ctalNjenE3MGxvaWtUb0xDZGoyWTnSAfYBQVVfeXFMT2JiMFRRaGVhVFhRUUJSZmVGVEpHQ0x6NmlqS2J0dTYxWUxJSlhUUEE5UFB0VWZfbFdlRFI1eDBZRVNjc2V0aHRpbWlTOHJkNE1WcVJQaE5KVXRxM0JMYktUMm5sc0cxQzBZdHNQWmRRc1NHaHF2OW5ZMHA3WkROcVBfWkU4NDRodk11aG03aUdHNW1DZmdHNUZORG5LLWZqRWxXbkRqT1JVazRucVBJRmhBVVlhcVQzUzJQOEZoWVNMTlNfcjFnUXhPT2x1Z04zWkJiUlNXaFEwLTJyMXY3MEVhQnVheW51LTQ5SEVXZTBuV1FsQThR"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "AI5芯片内存削减后上调至96GB",
-   "title_zh": "马斯克削减AI5内存后又上调至96GB",
-   "sentiment": 0
-  },
-  {
-   "id": "0db1aa00b66a",
-   "title": "Tesla's Latest Patent Could Mean the Second-Generation Roadster Will Have Over 1,500 Pounds of Downforce, Which It Definitely Needs If It Truly Gets SpaceX Rocket Thrusters - Autonocion.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXR6SVBCSWtXSkM0aWFfZzkxcXBGckRHUWhON1IzNEVkdlJmbmd6TXdoRkNBLWJXbWJrc0YwekxWLTYyMHJ0ZkZudTFWV3dfSklzRktVTlNjMjZreWZtQmFKSDRDcjByQUhwcmpDR2VFNWJWbWctSmVCcE1YUFhFbA",
-   "source": "Autonocion.com",
-   "published_at": "2026-10-02T22:30:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Autonocion.com",
-     "published_at": "2026-10-02T22:30:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXR6SVBCSWtXSkM0aWFfZzkxcXBGckRHUWhON1IzNEVkdlJmbmd6TXdoRkNBLWJXbWJrc0YwekxWLTYyMHJ0ZkZudTFWV3dfSklzRktVTlNjMjZreWZtQmFKSDRDcjByQUhwcmpDR2VFNWJWbWctSmVCcE1YUFhFbA"
-    },
-    {
-     "name": "autonocion.com",
-     "published_at": "2026-10-02T22:30:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXR6SVBCSWtXSkM0aWFfZzkxcXBGckRHUWhON1IzNEVkdlJmbmd6TXdoRkNBLWJXbWJrc0YwekxWLTYyMHJ0ZkZudTFWV3dfSklzRktVTlNjMjZreWZtQmFKSDRDcjByQUhwcmpDR2VFNWJWbWctSmVCcE1YUFhFbA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "二代Roadster专利下压力或超1500磅",
-   "title_zh": "特斯拉新专利或让二代Roadster下压力超1500磅",
-   "sentiment": 0
   }
  ]
 }
