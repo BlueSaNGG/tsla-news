@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T07:52:28.610557+00:00",
+ "updated_at": "2026-10-05T08:07:24.837993+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（10条已评分）"
+     "note": "今日新闻情绪 +0.55（11条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T07:52:28.601892+00:00"
+   "as_of": "2026-10-05T08:07:24.831370+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 10
+   "avg": 0.55,
+   "count": 11
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a3f9e205e562",
+   "title": "美国车主天生无臂用脚开车30年，特斯拉FSD 帮他开805公里去看女儿 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmlid1JpMDZRcWNGei1mekdBT2w3NGtZUWwwRnYzelBSUTNIbW5Ucm9uZk9RTHpFSmsySjVVR0Exd0tWNmdoUFdCbHgtZTAzVk5ueDVIYmsyM3RXM2RDRy1OWVlWRXgwSWlYRkRYaXdBZkxPVVF6aHo5SzNjWjBMNkFqamxocWhx",
+   "source": "搜狐网",
+   "published_at": "2026-10-05T07:40:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-05T07:40:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmlid1JpMDZRcWNGei1mekdBT2w3NGtZUWwwRnYzelBSUTNIbW5Ucm9uZk9RTHpFSmsySjVVR0Exd0tWNmdoUFdCbHgtZTAzVk5ueDVIYmsyM3RXM2RDRy1OWVlWRXgwSWlYRkRYaXdBZkxPVVF6aHo5SzNjWjBMNkFqamxocWhx"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "bb7ebd7e3c75",
    "title": "Key facts: Tesla (TSLA) Q3 beat; $30B credit secured; NHTSA probe - TradingView",
@@ -93,18 +110,23 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTDhGbmdJbzFidU1CSHNoOUIwY3FQaTdvTGE1ZEktaTlfZUNESkY5X3hDRDR5MzhNQVUxakZCVlMybzY0Zmt2cUF3Z3FtR2JiMWpZbWQxM3Y2d3BRV1NxeFVySjNsaU1SZl92Q2tsQko4S3M4ZU5ndFZR",
    "source": "moomoo.com",
    "published_at": "2026-10-05T06:46:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "moomoo.com",
+     "published_at": "2026-10-05T06:46:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTDhGbmdJbzFidU1CSHNoOUIwY3FQaTdvTGE1ZEktaTlfZUNESkY5X3hDRDR5MzhNQVUxakZCVlMybzY0Zmt2cUF3Z3FtR2JiMWpZbWQxM3Y2d3BRV1NxeFVySjNsaU1SZl92Q2tsQko4S3M4ZU5ndFZR"
+    },
+    {
+     "name": "Moomoo",
      "published_at": "2026-10-05T06:46:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTDhGbmdJbzFidU1CSHNoOUIwY3FQaTdvTGE1ZEktaTlfZUNESkY5X3hDRDR5MzhNQVUxakZCVlMybzY0Zmt2cUF3Z3FtR2JiMWpZbWQxM3Y2d3BRV1NxeFVySjNsaU1SZl92Q2tsQko4S3M4ZU5ndFZR"
     }
    ],
    "category": "交付量",
    "session": "盘前",
-   "title_zh": "特斯拉Q3交付量超预期：还有多少上涨空间？ - moomoo.com",
    "zh_summary": "特斯拉Q3交付量超预期",
+   "title_zh": "特斯拉Q3交付量超预期：还有多少上涨空间？ - moomoo.com",
    "sentiment": 1
   },
   {
@@ -173,10 +195,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjk0RUpfV19lZE1IS2ZDZTlnWEU4SEFQQXl2ZmM4RVFLRm53bzhpY0E5ZzhhQUdMUWZZYW5VRTFxaEZUWDVfVzZaWW1Cd0xvdGJZZTljQzRObGJzYmxHRGRnRWs2VnBKcTFzSHNaMEdrUkxEYmkxVUt0eEJucnJXaFdHMUxmNzhlSTd0ZVVqdVZESE1aNUJUVlV0OWYyT1ZVc2hWM0F0Mlc",
    "source": "Moomoo",
    "published_at": "2026-10-05T06:02:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Moomoo",
+     "published_at": "2026-10-05T06:02:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjk0RUpfV19lZE1IS2ZDZTlnWEU4SEFQQXl2ZmM4RVFLRm53bzhpY0E5ZzhhQUdMUWZZYW5VRTFxaEZUWDVfVzZaWW1Cd0xvdGJZZTljQzRObGJzYmxHRGRnRWs2VnBKcTFzSHNaMEdrUkxEYmkxVUt0eEJucnJXaFdHMUxmNzhlSTd0ZVVqdVZESE1aNUJUVlV0OWYyT1ZVc2hWM0F0Mlc"
+    },
+    {
+     "name": "moomoo.com",
      "published_at": "2026-10-05T06:02:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjk0RUpfV19lZE1IS2ZDZTlnWEU4SEFQQXl2ZmM4RVFLRm53bzhpY0E5ZzhhQUdMUWZZYW5VRTFxaEZUWDVfVzZaWW1Cd0xvdGJZZTljQzRObGJzYmxHRGRnRWs2VnBKcTFzSHNaMEdrUkxEYmkxVUt0eEJucnJXaFdHMUxmNzhlSTd0ZVVqdVZESE1aNUJUVlV0OWYyT1ZVc2hWM0F0Mlc"
     }
@@ -253,10 +280,15 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRmpBVjI3UWxXNVZhdTJJTC1zbW9ySTZodGZYdVhxQzV3Z0dteHo4a3ViODhCWTNqeFNjMDhwR2pnaHA5OUotUkpOYkJwUGJHVTgyWFpWcTNjbXdHM0pyZHdKR2NaNldlbG5RSWRqenA",
    "source": "Teslarati",
    "published_at": "2026-10-05T05:16:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Teslarati",
+     "published_at": "2026-10-05T05:16:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRmpBVjI3UWxXNVZhdTJJTC1zbW9ySTZodGZYdVhxQzV3Z0dteHo4a3ViODhCWTNqeFNjMDhwR2pnaHA5OUotUkpOYkJwUGJHVTgyWFpWcTNjbXdHM0pyZHdKR2NaNldlbG5RSWRqenA"
+    },
+    {
+     "name": "teslarati.com",
      "published_at": "2026-10-05T05:16:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRmpBVjI3UWxXNVZhdTJJTC1zbW9ySTZodGZYdVhxQzV3Z0dteHo4a3ViODhCWTNqeFNjMDhwR2pnaHA5OUotUkpOYkJwUGJHVTgyWFpWcTNjbXdHM0pyZHdKR2NaNldlbG5RSWRqenA"
     }
@@ -7851,31 +7883,6 @@
    "zh_summary": "二代Roadster专利下压力或超1500磅",
    "title_zh": "特斯拉新专利或让二代Roadster下压力超1500磅",
    "sentiment": 0
-  },
-  {
-   "id": "6c1ec535622c",
-   "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTk1OFU1SHk2Z2daZzY2dlhmX09NbHZhSHFsREVidjhLX3pGRVUxQTh1SlRqWFRsTGJycXhydTRYalNuWjZUMlc2ZzdiUFBjR3BsaVZXNlFYOGNkcHJmTnpRUkhYU2FvVVNLaVhlWi1UWnBDMUEwUUh6TW03dWdtOHFvUjBrQ0ZoaVFOQkcyVklEOXE4OVVWb2ttLUU1bnhBalVpX0tTRUpucjVEeEo2a2p1R1Q",
-   "source": "MarketWatch",
-   "published_at": "2026-10-02T22:29:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketWatch",
-     "published_at": "2026-10-02T22:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTk1OFU1SHk2Z2daZzY2dlhmX09NbHZhSHFsREVidjhLX3pGRVUxQTh1SlRqWFRsTGJycXhydTRYalNuWjZUMlc2ZzdiUFBjR3BsaVZXNlFYOGNkcHJmTnpRUkhYU2FvVVNLaVhlWi1UWnBDMUEwUUh6TW03dWdtOHFvUjBrQ0ZoaVFOQkcyVklEOXE4OVVWb2ttLUU1bnhBalVpX0tTRUpucjVEeEo2a2p1R1Q"
-    },
-    {
-     "name": "marketwatch.com",
-     "published_at": "2026-10-02T22:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTk1OFU1SHk2Z2daZzY2dlhmX09NbHZhSHFsREVidjhLX3pGRVUxQTh1SlRqWFRsTGJycXhydTRYalNuWjZUMlc2ZzdiUFBjR3BsaVZXNlFYOGNkcHJmTnpRUkhYU2FvVVNLaVhlWi1UWnBDMUEwUUh6TW03dWdtOHFvUjBrQ0ZoaVFOQkcyVklEOXE4OVVWb2ttLUU1bnhBalVpX0tTRUpucjVEeEo2a2p1R1Q"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉销量大超预期股价飙升",
-   "title_zh": "特斯拉电车销量大超预期，股价飙升",
-   "sentiment": 1
   }
  ]
 }
