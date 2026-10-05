@@ -2,6 +2,26 @@
  "month": "2026-10",
  "stories": [
   {
+   "id": "2849d0bb8cc9",
+   "title": "Tesla FSD in Europe: 5 Details That Matter From Tomorrow's UNECE Meeting - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA",
+   "source": "BASENOR",
+   "published_at": "2026-10-05T18:06:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-05T18:06:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "UNECE会议明日讨论FSD欧洲审批关键细节",
+   "title_zh": "特斯拉FSD欧洲落地：明日UNECE会议的5个关键细节",
+   "sentiment": 0
+  },
+  {
    "id": "0896606a514c",
    "title": "Tesla Stock Rises After Musk Confirms TSMC Talks - Yahoo Finance UK",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVBaY0l0R2M5bUlIQ1lYcThBakpKWEFMUW5MNlpxNC1iS1BnWGhQODdFSEtVLUIySDVBcWhmOWZjMkl3U1ktZFZoeFA4bDdhNVpDaHR1TXFJa09QMkNGeXRpLS1aSDNKOWFRdkZFcXZlM2t6VGt6LU5uSi1QODBLQkNoczBxdjA",
@@ -19,7 +39,11 @@
    "session": "盘中",
    "zh_summary": "马斯克确认正与台积电洽谈",
    "title_zh": "马斯克确认与台积电洽谈后特斯拉股价上涨",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.0,
+    "window_h": 0.5
+   }
   },
   {
    "id": "a6be6d15bab3",
@@ -808,7 +832,11 @@
    "session": "盘中",
    "zh_summary": "特斯拉超充新功能免拔枪可驶离",
    "title_zh": "特斯拉超充新功能：无需拔枪即可驶离",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.08,
+    "window_h": 2.0
+   }
   },
   {
    "id": "9473d239bfcc",
@@ -1743,7 +1771,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉预告万圣节模式更新",
    "title_zh": "特斯拉预告“万圣节模式”更新",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b8d0e5469d9c",
@@ -1843,7 +1875,11 @@
    "session": "盘前",
    "zh_summary": "家用纯电SUV里特斯拉真香",
    "title_zh": "【视频】家用的纯电SUV里这台特斯拉真香 - 汽车之家",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "9b3155b9cb7b",
@@ -1915,7 +1951,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉Robotaxi夜间为何不运营",
    "title_zh": "特斯拉Robotaxi为何夜间不运营？ - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "1ecde01d7866",
@@ -1955,7 +1995,11 @@
    "session": "盘前",
    "zh_summary": "视频推荐特斯拉好车",
    "title_zh": "【视频】特斯拉好车推荐 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a751698b523c",
@@ -1975,7 +2019,11 @@
    "session": "盘前",
    "zh_summary": "辟谣特斯拉大规模召回标题党",
    "title_zh": "【视频】特斯拉大规模召回？不得不服现在的【标题党】 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "11faf268ebed",
@@ -2141,7 +2189,11 @@
    "session": "盘前",
    "zh_summary": "二手23年毛豆Y视频广告",
    "sentiment": 0,
-   "title_zh": "【视频】新到23年特斯拉毛豆Y标续一手原漆10.9万公里 - 车家号"
+   "title_zh": "【视频】新到23年特斯拉毛豆Y标续一手原漆10.9万公里 - 车家号",
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "aa554ef103da",
@@ -2401,7 +2453,11 @@
    "session": "周末",
    "zh_summary": "特斯拉拿下500辆Semi订单",
    "title_zh": "【视频】特斯拉又拿下500辆Semi订单！柴油卡车时代，真的要结束了？ - 车家号",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "6a5941315f1b",
@@ -2461,7 +2517,11 @@
    "session": "周末",
    "title_zh": "【视频】挑起上一轮价格战的特斯拉，又要开启新一轮价格战了？ - 汽车之家",
    "zh_summary": "特斯拉或将开启新一轮价格战",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b5f7775c2fdb",
@@ -2846,7 +2906,11 @@
    "session": "周末",
    "zh_summary": "福建车主顺利交付22年款特斯拉ModelY",
    "title_zh": "【视频】特斯拉Y 感谢福建粉丝信任，顺利交付22年特斯拉Model Y - 汽车之家",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "94cf84b74835",
@@ -5300,7 +5364,11 @@
    "session": "周末",
    "zh_summary": "特斯拉发布Model Y L星光金+全黑车标美照",
    "title_zh": "这颜值绝了！特斯拉又放出Model Y L美照，星光金+全黑车标 - 车家号",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "912774096419",
@@ -11486,5 +11554,5 @@
    "sentiment": -1
   }
  ],
- "count": 540
+ "count": 541
 }
