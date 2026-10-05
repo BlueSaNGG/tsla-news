@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T22:22:26.685824+00:00",
+ "updated_at": "2026-10-05T22:37:26.561361+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（143条已评分）"
+     "note": "今日新闻情绪 +0.44（144条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-05T22:22:26.674712+00:00"
+   "as_of": "2026-10-05T22:37:26.551439+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 143
+   "count": 144
   }
  },
  "meta": {
@@ -1126,10 +1126,15 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VENSUjZGWE1taGxKZmJSd1B5YVpzeGJKeG5uU2x1V3liRndQQTk5RTNROTJ4Z0g5VXpMeUsxSlZ6ZGpZSkhSMG1haVoxT3JHV0d4aC1Od1JQYjRHS3JCRw",
    "source": "CarBuzz",
    "published_at": "2026-10-05T16:15:42+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CarBuzz",
+     "published_at": "2026-10-05T16:15:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VENSUjZGWE1taGxKZmJSd1B5YVpzeGJKeG5uU2x1V3liRndQQTk5RTNROTJ4Z0g5VXpMeUsxSlZ6ZGpZSkhSMG1haVoxT3JHV0d4aC1Od1JQYjRHS3JCRw"
+    },
+    {
+     "name": "carbuzz.com",
      "published_at": "2026-10-05T16:15:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VENSUjZGWE1taGxKZmJSd1B5YVpzeGJKeG5uU2x1V3liRndQQTk5RTNROTJ4Z0g5VXpMeUsxSlZ6ZGpZSkhSMG1haVoxT3JHV0d4aC1Od1JQYjRHS3JCRw"
     }
@@ -1409,7 +1414,7 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2hsZmRqb01zbzBsaFBzanVETEh2ZTJrUDJtcXhlTE05M0wzbVotS3QtUHlFQmxSRUJQSFFsNDFmUmxmYlJya2cxSDZ3RUJqeGV0MzdtX3Z5cjJwdzRFS0hmVWdGenA5WERCZ0hNSmFROHRfa2hodHE3cGkxMnZ0N053",
    "source": "BLABBERMOUTH.NET",
    "published_at": "2026-10-05T14:31:35+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "BLABBERMOUTH.NET",
@@ -1420,13 +1425,22 @@
      "name": "NextMosh",
      "published_at": "2026-10-05T18:20:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByajBaaFpuRHVtZHpiMkt6d3l2eV9nMmg5RE90aDc3N3JlZ181ajNya2ZXQ3NkNkdHck5TeVNMUlpwbVlhc2pKMVFsTnpfN0EtejRid2ExQnJpcC1nb0tDbmVqS29uWklHdDNuXzN3"
+    },
+    {
+     "name": "blabbermouth.net",
+     "published_at": "2026-10-05T16:14:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2hsZmRqb01zbzBsaFBzanVETEh2ZTJrUDJtcXhlTE05M0wzbVotS3QtUHlFQmxSRUJQSFFsNDFmUmxmYlJya2cxSDZ3RUJqeGV0MzdtX3Z5cjJwdzRFS0hmVWdGenA5WERCZ0hNSmFROHRfa2hodHE3cGkxMnZ0N053"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "乐队Tesla宣布2027年3月拉斯维加斯驻场",
    "title_zh": "Tesla宣布2027年3月拉斯维加斯驻场演出",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.58,
+    "window_h": 2.0
+   }
   },
   {
    "id": "ba421c7f2d21",
@@ -1584,10 +1598,15 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLTNHdlA5Q182RUdod3p2ZjJXQThwU0FKMjE1VndqN0NCYkVRUVNJMFRMUnZQMVhDZ0tybXhkLUFqU29RNldhWGV0dHkwNHhRVXZwbG9vbmFuOGc3YXhRZERJaDBkVnc",
    "source": "CarBuzz",
    "published_at": "2026-10-05T14:05:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CarBuzz",
+     "published_at": "2026-10-05T14:05:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLTNHdlA5Q182RUdod3p2ZjJXQThwU0FKMjE1VndqN0NCYkVRUVNJMFRMUnZQMVhDZ0tybXhkLUFqU29RNldhWGV0dHkwNHhRVXZwbG9vbmFuOGc3YXhRZERJaDBkVnc"
+    },
+    {
+     "name": "carbuzz.com",
      "published_at": "2026-10-05T14:05:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLTNHdlA5Q182RUdod3p2ZjJXQThwU0FKMjE1VndqN0NCYkVRUVNJMFRMUnZQMVhDZ0tybXhkLUFqU29RNldhWGV0dHkwNHhRVXZwbG9vbmFuOGc3YXhRZERJaDBkVnc"
     }
