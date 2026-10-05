@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T13:37:50.984456+00:00",
+ "updated_at": "2026-10-05T13:52:53.774066+00:00",
  "market": {
-  "price": 369.3,
-  "change_pct": -0.35,
+  "price": 374.34,
+  "change_pct": 1.01,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -10,28 +10,28 @@
    "days_left": 16
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 37% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $392（12家），隐含空间 +6.3%"
+     "score": -1,
+     "note": "目标价中位数 $392（12家），隐含空间 +4.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.49（59条已评分）"
+     "note": "今日新闻情绪 +0.43（65条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $369.30 vs 20日均线 $365.64"
+     "note": "现价 $374.34 vs 20日均线 $365.87"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 37,
+   "price_52w_pct": 40,
    "target_median": 392.5,
    "target_count": 12,
-   "implied_upside_pct": 6.3,
-   "ma20": 365.64,
-   "as_of": "2026-10-05T13:37:50.977146+00:00"
+   "implied_upside_pct": 4.9,
+   "ma20": 365.87,
+   "as_of": "2026-10-05T13:52:53.764646+00:00"
   },
-  "pe_ttm": 102.1,
+  "pe_ttm": 103.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+4.9%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 59
+   "avg": 0.43,
+   "count": 65
   }
  },
  "meta": {
@@ -67,6 +67,80 @@
   }
  },
  "stories": [
+  {
+   "id": "619a7f0ba752",
+   "title": "$Tesla (TSLA.US)$ Thank you Mr musk - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2U3dGVJY2o1bUl3VENsWUlkMmhWc1JfNTVlMlZPYUZtcWYzaVlqa1h1QXJ3QjBCQUk4bDU1YUlBQVFPazI0Y0pUU0pua3QtUDRlWHRHUHVEQUpPc2JOWmo0SXUzMkMtMFR2ZG1lczJfWGwyQzJiM1hhU0V2RkhRM0h0UncxS0o4alI5SXJ3",
+   "source": "Moomoo",
+   "published_at": "2026-10-05T13:40:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-05T13:40:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2U3dGVJY2o1bUl3VENsWUlkMmhWc1JfNTVlMlZPYUZtcWYzaVlqa1h1QXJ3QjBCQUk4bDU1YUlBQVFPazI0Y0pUU0pua3QtUDRlWHRHUHVEQUpPc2JOWmo0SXUzMkMtMFR2ZG1lczJfWGwyQzJiM1hhU0V2RkhRM0h0UncxS0o4alI5SXJ3"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
+   "id": "64e315637b40",
+   "title": "$特斯拉 (TSLA.US)$ 谢谢musk先生 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1k5MmVfZ2IxaFh3QzRTVEhTYnl3WFlhbXdvSXhjZGRhV1owaGZCbjlXeFZnQXhqMm5NNFd4T0JRUzR4QkU0TEttekQ3UVRFZS1UeWxEdERXRFJHZEhVdms1WXpwOGZNdlRlTHhzbGRlWnNJZ2c5UkEzVUtpVFJTTzY0MGE1dHJzX1EzTjl4S1BCVDJM",
+   "source": "Moomoo",
+   "published_at": "2026-10-05T13:40:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-05T13:40:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1k5MmVfZ2IxaFh3QzRTVEhTYnl3WFlhbXdvSXhjZGRhV1owaGZCbjlXeFZnQXhqMm5NNFd4T0JRUzR4QkU0TEttekQ3UVRFZS1UeWxEdERXRFJHZEhVdms1WXpwOGZNdlRlTHhzbGRlWnNJZ2c5UkEzVUtpVFJTTzY0MGE1dHJzX1EzTjl4S1BCVDJM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "ff1b374d4b52",
+   "title": "尽管交付量超预期，瑞银仍对特斯拉保持中性评级|瑞银公司|格隆汇|目标价|格隆|汽车销量 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmR2RsWkljUkR3WU1JOHZZQkRRWTNSYWdvV0FsUnQ0VDFUblpmOERBUzc5ZFJmUThMTTJyVWpWOURPWWdkazlhaUw1VjVZZlZmVjEzU0ZrZDRxTUo2ODRXQlZKOUQ5Nnh3aEIyMW9udS1SWVVQZDlCXw",
+   "source": "新浪财经",
+   "published_at": "2026-10-05T13:36:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-05T13:36:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmR2RsWkljUkR3WU1JOHZZQkRRWTNSYWdvV0FsUnQ0VDFUblpmOERBUzc5ZFJmUThMTTJyVWpWOURPWWdkazlhaUw1VjVZZlZmVjEzU0ZrZDRxTUo2ODRXQlZKOUQ5Nnh3aEIyMW9udS1SWVVQZDlCXw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "10f074b29682",
+   "title": "瑞银重申特斯拉中性评级，目标价385美元 - auto.news18a.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IbF9aTUFoWTFRT2tVdDlseG9ubmxncmViRWFldmJEa0NWei1nLW9GM1VJUVFZSEFuWWJ4dGhaY3ZvZ0lURUdkTnFJdE1HTk1BQnl1MmhRU0RFMjQ",
+   "source": "auto.news18a.com",
+   "published_at": "2026-10-05T13:30:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "auto.news18a.com",
+     "published_at": "2026-10-05T13:30:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IbF9aTUFoWTFRT2tVdDlseG9ubmxncmViRWFldmJEa0NWei1nLW9GM1VJUVFZSEFuWWJ4dGhaY3ZvZ0lURUdkTnFJdE1HTk1BQnl1MmhRU0RFMjQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中",
+   "analyst": {
+    "firm": "UBS",
+    "action": "维持",
+    "target": "385美元",
+    "rating": "中性"
+   }
+  },
   {
    "id": "cb17d2096852",
    "title": "尽管交付量超预期，瑞银仍对特斯拉保持中性评级_7x24快讯_新浪财经 - 新浪财经",
@@ -159,7 +233,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2NUeUFCc1RUV2JuNjdEZV9XbDlGTTU1Sk45TEZlQk1keGVkanFIUmo0ampmU056TVJSbGloUEw0VF8zNnBEaFlvMGFLRFI1SFAzT3Q4Q3AyekpoQWFYSlF6dUFVZmlVdHVxVVlVMkg4ajFheWdxaXBUTVJpRU5LaDV3NUhUbzd4UWdSUDVzV2kwNGloTXNra3JSXzJmSk9vbC00SS01YTV1RGJmY19Kd2FvMWJ1QQ",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-05T13:00:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -175,10 +249,16 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-05T13:00:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2pUVHM3QWVYdFhsTWVjX3M3U2VkejNvX3FRY2xaeDB3bUktRGQ2SEhrTU5OTUgzM1pYdDdIZWhtU29kTTRKdlRvOXh1Wk1VdFRVZUhaaG9qTXZ3UDlSSEh1WkRRX194b3ZyT2o1NXdwcHBxX1pNbWJPdjF1ZVIyT3k4dTFTaVRtbndNTzBxdGJaMURP"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T13:00:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa2pUVHM3QWVYdFhsTWVjX3M3U2VkejNvX3FRY2xaeDB3bUktRGQ2SEhrTU5OTUgzM1pYdDdIZWhtU29kTTRKdlRvOXh1Wk1VdFRVZUhaaG9qTXZ3UDlSSEh1WkRRX194b3ZyT2o1NXdwcHBxX1pNbWJPdjF1ZVIyT3k4dTFTaVRtbndNTzBxdGJaMURP"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "测算现在投特斯拉到2030年值多少",
    "title_zh": "今天买1万美元特斯拉，2030年能值多少",
    "sentiment": 0,
@@ -283,7 +363,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmZRYkNwZ293WGgyMWdkWjVBN2xVSDMyVFloQjVRODBuNzAwZEpuRUd1a0gzUkhpdVRRRGlqTHlUZ2ZfUG5iSWRzczZqQm5XYmQ4ZkhOUmhUR3M1X09KeGxCVWx2UUI4b09wa05MeGo2Nms4ZENLNHY4OGJpLU0wQnNhRldfVWFJTnJvaE8xWDI3MHhfVjZZaTNKaUFhX0Nh",
    "source": "Yahoo Finance",
    "published_at": "2026-10-05T12:45:43+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -299,10 +379,16 @@
      "name": "tikr.com",
      "published_at": "2026-10-05T12:55:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFVPQ3ZJWDZsWWZzU3JCU2Zua1RmRWczR0NuSEhsR1M1SlY4UjhuR0V3SFlaamtqUC1fVkFTdGoxektvMUdvNzJSak9FRC0tSGVieVlsTDNPMzJiQzczZnQ1NVBNOUJ6bWpRd3JVMk9hNVdsVGNrY2k5a2xWbTVEenBQbmI"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T12:45:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmZRYkNwZ293WGgyMWdkWjVBN2xVSDMyVFloQjVRODBuNzAwZEpuRUd1a0gzUkhpdVRRRGlqTHlUZ2ZfUG5iSWRzczZqQm5XYmQ4ZkhOUmhUR3M1X09KeGxCVWx2UUI4b09wa05MeGo2Nms4ZENLNHY4OGJpLU0wQnNhRldfVWFJTnJvaE8xWDI3MHhfVjZZaTNKaUFhX0Nh"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉得州Cybercab车队扩大四倍",
    "title_zh": "特斯拉得州Cybercab车队扩至四倍",
    "sentiment": 2,
@@ -317,7 +403,7 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemlVdkQtbmcyRWxhZDVPNXQ3d0c2WEFTWGJPWjExVzFSNm1GVGZaTmREeXJtRl9PUGpEZlJyWXlaTUFLc3Qtc0tOeWdfNFpyekZPSXphSVJzZGM3NHNjNGd3UF9KdXdKQTBoV3BSQURmUTFkVTdkREFUUnpJTmdGVWFvWVgwSmZvQ3I5VXNza0VSUQ",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-05T12:45:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -333,10 +419,16 @@
      "name": "AOL.com",
      "published_at": "2026-10-05T12:45:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTFleUo3OU1WbXF4bVVMN1R1WnpVTlRtZkJHZUpJX1dhSldVVGJFQm9BenRvWGtuUDRtV0c1aEhEeTlSMUJDU09DTUVGM240aVlULXZ0VHE3aUIwZURzVllMb2pCRWNCY3N0aGh3cnhfckp3dnFta3lkNGs3WHZrekx4bw"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T12:45:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDdObVlfYzRPOEZIbFBsVE52ZzI4NnBMQ2g4ZWJqZVYwaENZdmZfeF9qM0FyM3BlUU1GRDc3WWxnQWVjMGhyRnVBYjBsdUZBRmZ2cWRoQmw3ZlNSam5oUTM3a2czVGlFQkZDcWtCLWRpOGlTdG9qUnc0ZkZWY3lkbDdSbHJjQUNSZU1ZY2hTUzY3YmUyQ0U2UExMNnNaQQ"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉与苹果AI变现能力引质疑",
    "title_zh": "AI变现谁更差：特斯拉还是苹果？",
    "sentiment": -1,
@@ -414,6 +506,23 @@
    "zh_summary": "特斯拉大涨5%，强交付助推AI看涨情绪",
    "title_zh": "特斯拉股价上涨5%，强劲三季度交付助推AI与Robotaxi看涨预期",
    "sentiment": 1
+  },
+  {
+   "id": "8a2e4044108f",
+   "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Microsoft, Wells Fargo, Samsara & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakNGSC1ueWk2WjlBNGlzYi1QZmNOX2RLWi1WNWFFeXd2X1ZIazdqT0NOMllCUmFHdUFoNlp6aUprZ1hCOV9pdUF4bDdHd2F6UC1NN2hIbHVnMmNQckxudk82dGlhaWIzZlBTSXNfNkxzci1iYmQ5OWdnOTlHYkphcWhGSmQtc3M",
+   "source": "CNBC",
+   "published_at": "2026-10-05T12:14:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-05T12:14:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakNGSC1ueWk2WjlBNGlzYi1QZmNOX2RLWi1WNWFFeXd2X1ZIazdqT0NOMllCUmFHdUFoNlp6aUprZ1hCOV9pdUF4bDdHd2F6UC1NN2hIbHVnMmNQckxudk82dGlhaWIzZlBTSXNfNkxzci1iYmQ5OWdnOTlHYkphcWhGSmQtc3M"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "1e6758446301",
@@ -736,10 +845,15 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVliV29xeE9ncnZHT081MnBxUWdPVWFIdnJsU3hqRzh2NXJUNEk0akNHV3BmbUtVWXoyNkZKbk9OdV8taWdhSmRkZ3p5ODBzaXhvaGdIUmo1N0RfdHFaejBfMXhiUjZSSU1NNk96SzdJbEFUeHVVNnBsZWhBRUtFVUh5SDRxeFFjaGx6V3RJRk9SeFFNRDZqUlVB",
    "source": "Yahoo Finance",
    "published_at": "2026-10-05T10:45:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
+     "published_at": "2026-10-05T10:45:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVliV29xeE9ncnZHT081MnBxUWdPVWFIdnJsU3hqRzh2NXJUNEk0akNHV3BmbUtVWXoyNkZKbk9OdV8taWdhSmRkZ3p5ODBzaXhvaGdIUmo1N0RfdHFaejBfMXhiUjZSSU1NNk96SzdJbEFUeHVVNnBsZWhBRUtFVUh5SDRxeFFjaGx6V3RJRk9SeFFNRDZqUlVB"
+    },
+    {
+     "name": "finance.yahoo.com",
      "published_at": "2026-10-05T10:45:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVliV29xeE9ncnZHT081MnBxUWdPVWFIdnJsU3hqRzh2NXJUNEk0akNHV3BmbUtVWXoyNkZKbk9OdV8taWdhSmRkZ3p5ODBzaXhvaGdIUmo1N0RfdHFaejBfMXhiUjZSSU1NNk96SzdJbEFUeHVVNnBsZWhBRUtFVUh5SDRxeFFjaGx6V3RJRk9SeFFNRDZqUlVB"
     }
@@ -1899,10 +2013,15 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVZwSVNEV3lidnNITjJkUF9DcWMyQWhpQWJwZ29OeWZPcktFTUtTUXFFVk5QN0ZkLVVUeEJadzk2RTJJSk5uY3o1ZVJ1U2kwZ2lvSExpZ2hGZmJITFFIM3ZUZy1hNnJUaE9LTnJXdHBGSHNXaEliTEdjQUc3aVhpY0JtbEh0RXluVUZpcl9BNUREUQ",
    "source": "Yahoo Finance",
    "published_at": "2026-10-05T03:39:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
+     "published_at": "2026-10-05T03:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVZwSVNEV3lidnNITjJkUF9DcWMyQWhpQWJwZ29OeWZPcktFTUtTUXFFVk5QN0ZkLVVUeEJadzk2RTJJSk5uY3o1ZVJ1U2kwZ2lvSExpZ2hGZmJITFFIM3ZUZy1hNnJUaE9LTnJXdHBGSHNXaEliTEdjQUc3aVhpY0JtbEh0RXluVUZpcl9BNUREUQ"
+    },
+    {
+     "name": "finance.yahoo.com",
      "published_at": "2026-10-05T03:39:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVZwSVNEV3lidnNITjJkUF9DcWMyQWhpQWJwZ29OeWZPcktFTUtTUXFFVk5QN0ZkLVVUeEJadzk2RTJJSk5uY3o1ZVJ1U2kwZ2lvSExpZ2hGZmJITFFIM3ZUZy1hNnJUaE9LTnJXdHBGSHNXaEliTEdjQUc3aVhpY0JtbEh0RXluVUZpcl9BNUREUQ"
     }
@@ -3360,7 +3479,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTAzT0VlaS16dUgwRlVmMklrTllHOTdZeENha3FlaDZVd3dObE91Y0I2RVN6dXh3Sk41UURBb0NmNWk0c2k0Rzd1cmZpODQ3X3ZrTjZVbGlhaEgxNXVSTmp3VjEwSkhqYnhFMTBIal94d1ppa3p6c3Z2YXlxLWFrR1hwQUw5WVNjeUJQanFQS2xiSU5URDhrU2VnY0QtdVYyZ1BqN1VkbFNOQzhlMXdLUllLLWRKZ9IBuwFBVV95cUxQQV9jOXdkWU1wU1FkaGVoOVEwSWFnR0xrZ1ppQnlQUm5TeS1zYUVBYzh5ckw0Qk9Yb3R4MFktU090cXU5V2plWV9hSWdVc2ZBOEVfTElKRWpCQktodHVJNFk2QURrTXdNQkdpcjlGOXhwUjBMOGJHZEp0OTRVSXNyQUZmUTZyNnFLTkZCTTU5bjhmMU9qenZqVjZxRnh2dnRuVXlfMmF6NUowNmE3REdrTDZsY0lvOU1Ma2ww",
    "source": "Simply Wall Street",
    "published_at": "2026-10-04T12:43:06+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Simply Wall Street",
@@ -3374,6 +3493,11 @@
     },
     {
      "name": "Yahoo Finance",
+     "published_at": "2026-10-05T09:08:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDlkU0t3WUI1X0M4ek5sS09yWTcwaEJ4cUF6VFNRZWluVkFnRktCbFFGemVXTkkxeXpMb1pCV3ByckxTQVJHX3NEdG1ibHl0V1FCd2hyS1lNWHN3MXdaNUpTM1dDbEJiQmR1WnRDUF83V1dVTVNDREVMX21uQnB3NGUyMDktNUNRQlplOFFXcmRIMWRN"
+    },
+    {
+     "name": "finance.yahoo.com",
      "published_at": "2026-10-05T09:08:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDlkU0t3WUI1X0M4ek5sS09yWTcwaEJ4cUF6VFNRZWluVkFnRktCbFFGemVXTkkxeXpMb1pCV3ByckxTQVJHX3NEdG1ibHl0V1FCd2hyS1lNWHN3MXdaNUpTM1dDbEJiQmR1WnRDUF83V1dVTVNDREVMX21uQnB3NGUyMDktNUNRQlplOFFXcmRIMWRN"
     }
@@ -7027,7 +7151,6 @@
    ],
    "category": "财报",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "特斯拉Q3超预期但美国销量下滑3.5%",
    "title_zh": "特斯拉Q3超预期，但美国销量仍下滑3.5%",
    "sentiment": 0,
@@ -7890,136 +8013,6 @@
    "zh_summary": "视频：特斯拉最强外设趣谈",
    "title_zh": "【视频】当你有个“挑剃”的朋友时… #特斯拉最强外设 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "e85cd9fa09d5",
-   "title": "特斯拉第三季度全球销量48.65万辆 同比下降2.1% - jpchinapress.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUwwNEFwOUVCdm51OThIZGxFVDlfNWNPdTRwaU9HLVNIT1lNSkN0dTBwaHpBUFlTcUx4OGU2OER6UVRRNmFENHoxTWtKVlZyeWNsV1hieFd6Uzl3SWY3bERTVEZpQ0dBa1pLRV96a3N6d2pWQTZxX0VuWWdaR1BsUUFyUnp6ZDRydEE",
-   "source": "jpchinapress.com",
-   "published_at": "2026-10-03T08:16:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "jpchinapress.com",
-     "published_at": "2026-10-03T08:16:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUwwNEFwOUVCdm51OThIZGxFVDlfNWNPdTRwaU9HLVNIT1lNSkN0dTBwaHpBUFlTcUx4OGU2OER6UVRRNmFENHoxTWtKVlZyeWNsV1hieFd6Uzl3SWY3bERTVEZpQ0dBa1pLRV96a3N6d2pWQTZxX0VuWWdaR1BsUUFyUnp6ZDRydEE"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度全球销量48.65万辆同比降2.1%",
-   "title_zh": "特斯拉第三季度全球销量48.65万辆同比降2.1%",
-   "sentiment": -1
-  },
-  {
-   "id": "2fd693e6b063",
-   "title": "新款特斯拉Model 3配置升级23.55万起 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51RmxVU09faUYzVHZpZjJOU1J3RjYtU3d5N3VsVktUWVVlcUZrT0V2dGYtSlpqaXFPc0IxZXR6c2J3WjdSQVI5ZnF5NjJEX016b25MRkx6dUQyREU",
-   "source": "汽车之家",
-   "published_at": "2026-10-03T08:09:51+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-03T08:09:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51RmxVU09faUYzVHZpZjJOU1J3RjYtU3d5N3VsVktUWVVlcUZrT0V2dGYtSlpqaXFPc0IxZXR6c2J3WjdSQVI5ZnF5NjJEX016b25MRkx6dUQyREU"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-03T08:54:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NV0szcXR3eHdYWFpBb0dMYkU0UVMxclRPQ3pVUE9QVjlpOEkyZjVDby1VUTl4YjN3eElMSC1wbEpOYmZyM1BqMHpXRU55emJkSThiby1MeWNlWk0"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-03T08:54:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NV0szcXR3eHdYWFpBb0dMYkU0UVMxclRPQ3pVUE9QVjlpOEkyZjVDby1VUTl4YjN3eElMSC1wbEpOYmZyM1BqMHpXRU55emJkSThiby1MeWNlWk0"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "新款Model 3上市23.55万起售价不变",
-   "title_zh": "全新特斯拉Model 3上市，23.55万起售价不变",
-   "sentiment": 1
-  },
-  {
-   "id": "5a533fd524dc",
-   "title": "Tesla Cybercab Operates in Heavy Rain — What It Means for the Robotaxi Rollout - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0UxRVlhSzlvTjV1MGExRVJ5U1FDRFdsZm4yUlJPeUt1eUhfZmVFTnFlRi0tYlhaTzhCbUxEVld2TTJjang1b1JTSWdQVktWaE12ZUhnQUJvSzFKU1VzS0JmREUzTDBFaGVacV9CZ3NrUEhfNHIxbTNkamNVVkhwSGZET1lfejdLTzZFZUE4MTg0ZGI3MVZVcDlLWjFtSkk5U2ZRZnlDYzhpR1cwd0tVUA",
-   "source": "BASENOR",
-   "published_at": "2026-10-03T08:08:59+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-03T08:08:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0UxRVlhSzlvTjV1MGExRVJ5U1FDRFdsZm4yUlJPeUt1eUhfZmVFTnFlRi0tYlhaTzhCbUxEVld2TTJjang1b1JTSWdQVktWaE12ZUhnQUJvSzFKU1VzS0JmREUzTDBFaGVacV9CZ3NrUEhfNHIxbTNkamNVVkhwSGZET1lfejdLTzZFZUE4MTg0ZGI3MVZVcDlLWjFtSkk5U2ZRZnlDYzhpR1cwd0tVUA"
-    },
-    {
-     "name": "basenor.com",
-     "published_at": "2026-10-03T08:08:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0UxRVlhSzlvTjV1MGExRVJ5U1FDRFdsZm4yUlJPeUt1eUhfZmVFTnFlRi0tYlhaTzhCbUxEVld2TTJjang1b1JTSWdQVktWaE12ZUhnQUJvSzFKU1VzS0JmREUzTDBFaGVacV9CZ3NrUEhfNHIxbTNkamNVVkhwSGZET1lfejdLTzZFZUE4MTg0ZGI3MVZVcDlLWjFtSkk5U2ZRZnlDYzhpR1cwd0tVUA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "Cybercab暴雨中运营",
-   "title_zh": "特斯拉Cybercab暴雨中运营",
-   "sentiment": 1
-  },
-  {
-   "id": "a3e0e8b85cef",
-   "title": "【视频】二手特斯拉百台现车等你挑！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZkdMLXFuUVdhUkg1MkltWTd0MEJwUUxfNWU0LVV5aHcwSkRkc19BT0l4UlVHUU9sN3ZWV1UtYk5zcHB1a3RjZklRSWYxTkdzTU5NMC1OSHBOcWs",
-   "source": "汽车之家",
-   "published_at": "2026-10-03T07:54:31+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-03T07:54:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZkdMLXFuUVdhUkg1MkltWTd0MEJwUUxfNWU0LVV5aHcwSkRkc19BT0l4UlVHUU9sN3ZWV1UtYk5zcHB1a3RjZklRSWYxTkdzTU5NMC1OSHBOcWs"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-03T07:54:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZkdMLXFuUVdhUkg1MkltWTd0MEJwUUxfNWU0LVV5aHcwSkRkc19BT0l4UlVHUU9sN3ZWV1UtYk5zcHB1a3RjZklRSWYxTkdzTU5NMC1OSHBOcWs"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-03T07:54:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZkdMLXFuUVdhUkg1MkltWTd0MEJwUUxfNWU0LVV5aHcwSkRkc19BT0l4UlVHUU9sN3ZWV1UtYk5zcHB1a3RjZklRSWYxTkdzTU5NMC1OSHBOcWs"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "视频：二手特斯拉百台现车",
-   "title_zh": "【视频】二手特斯拉百台现车等你挑！ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "78defe978329",
-   "title": "Dan Ives Says Tesla Could Have A ‘Golden Year’ In 2027 — Robotaxis, Optimus And Cybercab In Focus - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZRb25FY01FcUE1QkFXODJ2cTFMMy1WaFVOQmxyWlpoY01XSWg2bU9UdmYzUjBkX0hqOXRjUDNqMmxpUUtiQW1HY2FfZkJDSjZ0ckpZWVhPenBtTnhkNWVHbC1XX1oxZkpJQ1JoSTBwWHJZR3Ridm4xZmhSTlpUbFpzNDhDNjRWemRnNUhQWEFoM05r",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-03T07:09:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-03T07:09:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZRb25FY01FcUE1QkFXODJ2cTFMMy1WaFVOQmxyWlpoY01XSWg2bU9UdmYzUjBkX0hqOXRjUDNqMmxpUUtiQW1HY2FfZkJDSjZ0ckpZWVhPenBtTnhkNWVHbC1XX1oxZkpJQ1JoSTBwWHJZR3Ridm4xZmhSTlpUbFpzNDhDNjRWemRnNUhQWEFoM05r"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-03T07:09:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlZRb25FY01FcUE1QkFXODJ2cTFMMy1WaFVOQmxyWlpoY01XSWg2bU9UdmYzUjBkX0hqOXRjUDNqMmxpUUtiQW1HY2FfZkJDSjZ0ckpZWVhPenBtTnhkNWVHbC1XX1oxZkpJQ1JoSTBwWHJZR3Ridm4xZmhSTlpUbFpzNDhDNjRWemRnNUhQWEFoM05r"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "分析师称2027或成特斯拉黄金年",
-   "title_zh": "Dan Ives称特斯拉2027年或迎黄金年",
-   "sentiment": 1
   }
  ]
 }
