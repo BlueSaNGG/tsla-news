@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T07:37:31.088458+00:00",
+ "updated_at": "2026-10-05T07:52:28.610557+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（9条已评分）"
+     "note": "今日新闻情绪 +0.50（10条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T07:37:31.081520+00:00"
+   "as_of": "2026-10-05T07:52:28.601892+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 9
+   "avg": 0.5,
+   "count": 10
   }
  },
  "meta": {
@@ -86,6 +86,23 @@
    "zh_summary": "特斯拉Q3超预期，获300亿美元信贷",
    "title_zh": "关键事实：特斯拉(TSLA)Q3超预期，获300亿美元信贷，NHTSA调查",
    "sentiment": 0
+  },
+  {
+   "id": "9fc7bc41cae5",
+   "title": "特斯拉Q3交付量超预期：还有多少上涨空间？ - moomoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTDhGbmdJbzFidU1CSHNoOUIwY3FQaTdvTGE1ZEktaTlfZUNESkY5X3hDRDR5MzhNQVUxakZCVlMybzY0Zmt2cUF3Z3FtR2JiMWpZbWQxM3Y2d3BRV1NxeFVySjNsaU1SZl92Q2tsQko4S3M4ZU5ndFZR",
+   "source": "moomoo.com",
+   "published_at": "2026-10-05T06:46:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "moomoo.com",
+     "published_at": "2026-10-05T06:46:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wTDhGbmdJbzFidU1CSHNoOUIwY3FQaTdvTGE1ZEktaTlfZUNESkY5X3hDRDR5MzhNQVUxakZCVlMybzY0Zmt2cUF3Z3FtR2JiMWpZbWQxM3Y2d3BRV1NxeFVySjNsaU1SZl92Q2tsQko4S3M4ZU5ndFZR"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
   },
   {
    "id": "2bddb521fcc2",
@@ -453,10 +470,15 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEs5M01FWFNJZUlqdkhocmZIVzBsZFRlamlUZWdLM01oVE9WVFlmSnljdHI5ZzJTS1dpVmppRTBqS3k1eUVyTEM4OW45RVVnYkUwLVhRY0hmRVhROWJCMWFpckNuNDJkcEhqcExhdUYtYkVPU2ViTVBmdS1zREpZaHVoVzdnb2xCZDBxVEN6ZDJ4dw",
    "source": "CarExpert",
    "published_at": "2026-10-05T03:57:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CarExpert",
+     "published_at": "2026-10-05T03:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEs5M01FWFNJZUlqdkhocmZIVzBsZFRlamlUZWdLM01oVE9WVFlmSnljdHI5ZzJTS1dpVmppRTBqS3k1eUVyTEM4OW45RVVnYkUwLVhRY0hmRVhROWJCMWFpckNuNDJkcEhqcExhdUYtYkVPU2ViTVBmdS1zREpZaHVoVzdnb2xCZDBxVEN6ZDJ4dw"
+    },
+    {
+     "name": "carexpert.com.au",
      "published_at": "2026-10-05T03:57:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEs5M01FWFNJZUlqdkhocmZIVzBsZFRlamlUZWdLM01oVE9WVFlmSnljdHI5ZzJTS1dpVmppRTBqS3k1eUVyTEM4OW45RVVnYkUwLVhRY0hmRVhROWJCMWFpckNuNDJkcEhqcExhdUYtYkVPU2ViTVBmdS1zREpZaHVoVzdnb2xCZDBxVEN6ZDJ4dw"
     }
@@ -629,31 +651,6 @@
    "sentiment": 0
   },
   {
-   "id": "fe166d09e9d9",
-   "title": "特斯拉Q3交付量高于市场预期 电动车销售出现企稳迹象 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZcXZVb2hhZHpCWHgzLU9FLXdCaXJNTFlmeGZxcVZFcDJMcXdrSmh2Z2hjYVB4ZGUyS3BGVUZvUUlXdXI0Ql9WcQ",
-   "source": "财联社",
-   "published_at": "2026-10-05T02:36:04+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-05T02:36:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZcXZVb2hhZHpCWHgzLU9FLXdCaXJNTFlmeGZxcVZFcDJMcXdrSmh2Z2hjYVB4ZGUyS3BGVUZvUUlXdXI0Ql9WcQ"
-    },
-    {
-     "name": "cls.cn",
-     "published_at": "2026-10-05T02:36:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZcXZVb2hhZHpCWHgzLU9FLXdCaXJNTFlmeGZxcVZFcDJMcXdrSmh2Z2hjYVB4ZGUyS3BGVUZvUUlXdXI0Ql9WcQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度交付高于预期",
-   "title_zh": "特斯拉Q3交付量高于市场预期 电动车销售出现企稳迹象",
-   "sentiment": 1
-  },
-  {
    "id": "09014e3b9949",
    "title": "【视频】22款特斯拉modelY星空灰 - chejiahao.autohome.com.cn",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTlNpSm1uSnpLVzU5UnZySC1iejRlbzJVZkhhbmtVR3oyU2swdzU5eUtHR2NwLTdXRXZNSURVSzlUTFRtRHhMYm9jQU9maGZKUWpGdW5MSldIRGVCT2dqaEQybVpPVmlnOGk0",
@@ -824,10 +821,15 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnlmZEJWY1cyeHdqUG9VSUFFMTZJZzlPY1A2bE5UV2MxNkdpT1dVS3l5dDFnVDhuM1J0SFhyVVk3SjhLZm9Tbm9HeW9fSnZxTDJoOTlfUkI4MzFzNVJqbl9HS1RVc1JCT2tYVS1pOS1odElUOUhuYmMwbHBld3JDUzRrSDZFV09ocmh3Qlh2VU9JQi1zTGlHYQ",
    "source": "CarExpert",
    "published_at": "2026-10-05T00:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CarExpert",
+     "published_at": "2026-10-05T00:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnlmZEJWY1cyeHdqUG9VSUFFMTZJZzlPY1A2bE5UV2MxNkdpT1dVS3l5dDFnVDhuM1J0SFhyVVk3SjhLZm9Tbm9HeW9fSnZxTDJoOTlfUkI4MzFzNVJqbl9HS1RVc1JCT2tYVS1pOS1odElUOUhuYmMwbHBld3JDUzRrSDZFV09ocmh3Qlh2VU9JQi1zTGlHYQ"
+    },
+    {
+     "name": "carexpert.com.au",
      "published_at": "2026-10-05T00:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnlmZEJWY1cyeHdqUG9VSUFFMTZJZzlPY1A2bE5UV2MxNkdpT1dVS3l5dDFnVDhuM1J0SFhyVVk3SjhLZm9Tbm9HeW9fSnZxTDJoOTlfUkI4MzFzNVJqbl9HS1RVc1JCT2tYVS1pOS1odElUOUhuYmMwbHBld3JDUzRrSDZFV09ocmh3Qlh2VU9JQi1zTGlHYQ"
     }
@@ -4040,6 +4042,36 @@
    "sentiment": 1
   },
   {
+   "id": "fe166d09e9d9",
+   "title": "特斯拉Q3交付量高于市场预期 电动车销售出现企稳迹象 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPLWZZZzJybkE4bUJVLXdHRTYzX0FuX1A3MTdpTk1IenBVdWRMZzRtLWEtTVduNTdRMmoxVm1wVXhTTy1RV2plR2xkYXpiUU1QaE5ndGdYb1hyLXU5NTNWdUc5LURQUVMxekZIT1JqNExxZmdUUG9yb3FoMXlvdF9TeFRHMW9oNTJqd1ZBQTVDbHM0ZXhLNkEtc29WRElxRm5TWHprVzd6NlEyTC1aXzFlcml2c2VybFN4X3gzSlhxQU5lbUcxcGt6ZUNOeXB3d1NQeHV5U0xUUHBBa0MxbUljNDJBZ0J1UXJmT0oxWERDM1pDal9jUTB2N1VVR1RPVDNmYUJsbXB6WG8yRHE5YkkyRm1VYXJmV081Mkd3Y1RfUVVSNXBMckNaTElHb2UzSkdIU1R3ZFhhQzZpZnNhQ01aaFVyZzNSRld2Nmk5Tl9oMXdVdnZVOF8yTkhhZHdod0w0c1d1eHJ5a0d1UQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-03T22:09:47+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-03T22:09:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPLWZZZzJybkE4bUJVLXdHRTYzX0FuX1A3MTdpTk1IenBVdWRMZzRtLWEtTVduNTdRMmoxVm1wVXhTTy1RV2plR2xkYXpiUU1QaE5ndGdYb1hyLXU5NTNWdUc5LURQUVMxekZIT1JqNExxZmdUUG9yb3FoMXlvdF9TeFRHMW9oNTJqd1ZBQTVDbHM0ZXhLNkEtc29WRElxRm5TWHprVzd6NlEyTC1aXzFlcml2c2VybFN4X3gzSlhxQU5lbUcxcGt6ZUNOeXB3d1NQeHV5U0xUUHBBa0MxbUljNDJBZ0J1UXJmT0oxWERDM1pDal9jUTB2N1VVR1RPVDNmYUJsbXB6WG8yRHE5YkkyRm1VYXJmV081Mkd3Y1RfUVVSNXBMckNaTElHb2UzSkdIU1R3ZFhhQzZpZnNhQ01aaFVyZzNSRld2Nmk5Tl9oMXdVdnZVOF8yTkhhZHdod0w0c1d1eHJ5a0d1UQ"
+    },
+    {
+     "name": "财联社",
+     "published_at": "2026-10-05T02:36:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZcXZVb2hhZHpCWHgzLU9FLXdCaXJNTFlmeGZxcVZFcDJMcXdrSmh2Z2hjYVB4ZGUyS3BGVUZvUUlXdXI0Ql9WcQ"
+    },
+    {
+     "name": "cls.cn",
+     "published_at": "2026-10-05T02:36:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZcXZVb2hhZHpCWHgzLU9FLXdCaXJNTFlmeGZxcVZFcDJMcXdrSmh2Z2hjYVB4ZGUyS3BGVUZvUUlXdXI0Ql9WcQ"
+    }
+   ],
+   "category": "交付量",
+   "session": "周末",
+   "zh_summary": "特斯拉三季度交付高于预期",
+   "title_zh": "特斯拉Q3交付量高于市场预期 电动车销售出现企稳迹象",
+   "sentiment": 1
+  },
+  {
    "id": "2f88d3dcb663",
    "title": "Real Estate Mogul Sold His Bentley for a Tesla — Then Bought 10 More - BASENOR",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1NVdU1kQkVublpBNHpoLUdPYXpTS1lPdW1oR3dqaWk1TzViZXhkRTVqTmRybnJBVG9nY3hSdjVwYTliQ1VGdWY4WXJsUUx4d0lWbk03SV9mU1BlNG05Y1hGaXZGYXh3MWVKNkZMcVdVcU9falRZR0RxS2dWajQ3SWtHdGdmM3pYNno2Y0ZnZHpCbXU1cGthWTFIQ1NvNVd3cHhv",
@@ -6465,26 +6497,6 @@
    "session": "周末",
    "zh_summary": "特斯拉北美上线紧急驶离功能",
    "title_zh": "特斯拉北美上线紧急驶离功能 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "8cb9c19bf5c7",
-   "title": "特斯拉三季度全球交付超48.6万辆，10月中国消费者购车福利加码 - 上观新闻",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yUFptU1RiMVBhOEJPV2l6RFYtVk81TkxXQXpoR0pqQXZsdWtNYlBRaTV1NHROOUNBMGc3a1VyVXp4S2RFaktrbHBxQTNJcGJfaGd0cW1zbGpwQQ",
-   "source": "上观新闻",
-   "published_at": "2026-10-03T06:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "上观新闻",
-     "published_at": "2026-10-03T06:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yUFptU1RiMVBhOEJPV2l6RFYtVk81TkxXQXpoR0pqQXZsdWtNYlBRaTV1NHROOUNBMGc3a1VyVXp4S2RFaktrbHBxQTNJcGJfaGd0cW1zbGpwQQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "三季度交付超48.6万辆，中国10月购车优惠加码",
-   "title_zh": "特斯拉三季度全球交付超48.6万辆，10月中国消费者购车福利加码 - 上观新闻",
    "sentiment": 1
   },
   {
