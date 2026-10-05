@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T17:37:32.468068+00:00",
+ "updated_at": "2026-10-05T17:52:29.475908+00:00",
  "market": {
-  "price": 379.66,
-  "change_pct": 2.45,
+  "price": 379.49,
+  "change_pct": 2.4,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（104条已评分）"
+     "note": "今日新闻情绪 +0.42（109条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.66 vs 20日均线 $366.14"
+     "note": "现价 $379.49 vs 20日均线 $366.14"
     },
     {
      "key": "分析师动向",
@@ -44,11 +44,11 @@
    "target_count": 13,
    "implied_upside_pct": 5.4,
    "ma20": 366.14,
-   "as_of": "2026-10-05T17:37:32.462201+00:00"
+   "as_of": "2026-10-05T17:52:29.469310+00:00"
   },
   "pe_ttm": 105.0,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.4%空间：估值适中，预期中性",
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 104
+   "avg": 0.42,
+   "count": 109
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a6be6d15bab3",
+   "title": "Tesla’s Q3 deliveries beat expectations; GMC’s Denali, AT4 gamble - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWR6RXk0U24yeGxpX19QdDUwOVptUlo2S042U1hMMzRXM0FMeUw3ZGVXOGhwTlo4MXJWTGJuZHR2MGtIUmY5aHR2TmhsS3ZsOERnMHRmdUdpYzhnM3U2VXhINi1PM0MwRWpvby10UG1Yd2IwYzd0VlJHdlo2RHRBWS1mMDh5WEE5SkoyTTBDeW8",
+   "source": "Automotive News",
+   "published_at": "2026-10-05T17:43:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive News",
+     "published_at": "2026-10-05T17:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWR6RXk0U24yeGxpX19QdDUwOVptUlo2S042U1hMMzRXM0FMeUw3ZGVXOGhwTlo4MXJWTGJuZHR2MGtIUmY5aHR2TmhsS3ZsOERnMHRmdUdpYzhnM3U2VXhINi1PM0MwRWpvby10UG1Yd2IwYzd0VlJHdlo2RHRBWS1mMDh5WEE5SkoyTTBDeW8"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "7b2fa07eeac8",
    "title": "Rivian Deliveries Jump 46%, but Its Stock Falls as Tesla Stock Jumps - Autoblog",
@@ -168,6 +185,23 @@
    "sentiment": 0
   },
   {
+   "id": "03b07f2aa7bd",
+   "title": "Elon Musk Hits Trillionaire Status for the 2nd Time After SpaceX and Tesla Stocks Rise - finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVZQLTQ4QnVERmF5Zk11dDNWRkJQYlBiMzdIbmFTajJ4X0d2Q1oyeXltQ2VJR1AyRVJfVzJLSVMzUTlxNjY2c2dYY0paQ1ZkNUNJNnRFQmNxWUMyMzYzc01fZ05ZbVl4emszLUJHdnNzcE5kMldrUks5ZlJSM19aZEt0Y1ZQWGhwLWJVX1ltT041dTRtN3BkbE5ISkdGVTg0",
+   "source": "finance.yahoo.com",
+   "published_at": "2026-10-05T17:14:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T17:14:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVZQLTQ4QnVERmF5Zk11dDNWRkJQYlBiMzdIbmFTajJ4X0d2Q1oyeXltQ2VJR1AyRVJfVzJLSVMzUTlxNjY2c2dYY0paQ1ZkNUNJNnRFQmNxWUMyMzYzc01fZ05ZbVl4emszLUJHdnNzcE5kMldrUks5ZlJSM19aZEt0Y1ZQWGhwLWJVX1ltT041dTRtN3BkbE5ISkdGVTg0"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
    "id": "b1fa9c9003af",
    "title": "Tesla’s Roadster Faces Another Delay Due to Texas Weather - Kelley Blue Book",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVdnWkpqTmpfa19aSTFiOHVLMVBWX21CMEMzRkU5WTY0R25LRUk0TXZibkFvRGZ5N0hNSGl4d184aC0xUVJNUWdEdHZIWlp2dXY0ZFN1dzB4MTlyeUxYcDc4Ri1ONzZFeHVkeHAteWdHNGZuay13d0t1OGdHN3owS3htLWlZcGVMdzVwTl9RRQ",
@@ -193,7 +227,7 @@
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWE45MnBiZ25LeXFCNHV0VU5OZW9hZ2JVRDNVMVNnc0JmZENELTZVNnBISnNGMi1PVXJELW1UNW5DY0puOHd3WDdqaUR6T0NnTFpfZzNZeFBJOE9WalFrR19vdlFBUU9DUEdqOVdHSEY3cE00RnROOHIxY2llaGthTXdHbjhmWXV4Z0tOUGkzTnNDUVpkcUYwMVFoekZ6MUhEamU2Tjl1SDhycnhHVjhBaGFLMFlUbTFuM0ZqNWtzbm1aMDN5eXNnQ1ZkY2pyZ2hhcFRXcmZVRWY1eFJSZURoTkx1d2lLSGR6YTQ4",
    "source": "Stocktwits",
    "published_at": "2026-10-05T17:03:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Stocktwits",
@@ -204,13 +238,22 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-05T17:03:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkJiS0Zka0lvLVFkR3NMUEZzUUpDWmg2M25oYkdXaF9HZmhGdnE2cWR3OW5tZzNxektoYWJwNjlXZnBFdG94eUE5NW84S1pqYmI0anZLRlFhcTZ3cktwR2xUbV9GTjJtdmZUYTFRd252MnhTR1BzWFlpalZDTElBVTVyM2xDWXhpclJkeGVBNzF3NjFOVnk1cg"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T17:03:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkJiS0Zka0lvLVFkR3NMUEZzUUpDWmg2M25oYkdXaF9HZmhGdnE2cWR3OW5tZzNxektoYWJwNjlXZnBFdG94eUE5NW84S1pqYmI0anZLRlFhcTZ3cktwR2xUbV9GTjJtdmZUYTFRd252MnhTR1BzWFlpalZDTElBVTVyM2xDWXhpclJkeGVBNzF3NjFOVnk1cg"
     }
    ],
    "category": "分析师",
    "session": "盘中",
    "zh_summary": "特斯拉三季度交付超瑞银预期，储能未达预期",
    "title_zh": "特斯拉Q3交付超瑞银预期，但储能未达预期令分析师维持中性",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.24,
+    "window_h": 0.8
+   }
   },
   {
    "id": "cd95f48309bc",
@@ -873,6 +916,23 @@
    "sentiment": 1
   },
   {
+   "id": "9473d239bfcc",
+   "title": "Tesla Rolls Out Model 3 Updates Including More Power for the Performance Model - TFLcar",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0X1RDZ0xUY1R1d1NFQ0RROUh0Tk1hVmNfWF9MSHBxeUktMzU0azdqWHRMemg4NDhfVzlnZU1ubGN6aEU1SFdoVWNDcVd2RXhSZFRIa3BPdTRZOWM5N01FVGtKNVc",
+   "source": "TFLcar",
+   "published_at": "2026-10-05T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TFLcar",
+     "published_at": "2026-10-05T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0X1RDZ0xUY1R1d1NFQ0RROUh0Tk1hVmNfWF9MSHBxeUktMzU0azdqWHRMemg4NDhfVzlnZU1ubGN6aEU1SFdoVWNDcVd2RXhSZFRIa3BPdTRZOWM5N01FVGtKNVc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "55055018c858",
    "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ",
@@ -1110,7 +1170,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1ZGSDhHVVlubDV2ZDIyZTRiZnlrZlIxeWNhbkNIbWRBZ3FweUx5Tm5MdW1mRFZkbUk5ZURKdGstaU1JZEJPQVVvU252dWR6eE85SzFUZWlLaEdoLTVYdGVPSm5zTUJXUUFTR1BtVzI0SU5felhEaVRCd3J6WVcwc3VXRHNISHZm",
    "source": "搜狐网",
    "published_at": "2026-10-05T13:02:52+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -1121,13 +1181,22 @@
      "name": "sohu.com",
      "published_at": "2026-10-05T13:30:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1NidHhTWFFTOWhJMXFLOS1SQzZNYl8wSlBZQklZQ1h3bWdmNVdUNVpYNHh3UUliV3o3NUJqaU1ZSWRtblpuT1IyNnRYLW9SX29xRG1xMHZrZ2VmMDA0Z1Z4QUlYVjV0TmpFQ291SjE2YWcyc1lMbjVVSjJKUGZkOVp1eHJTSnRBYlAzOA"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-05T17:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WRTZyRFVnNzZraV9zT3lBQ1l3dk1aSmdoM2NkVEgwMTVEZ24zQlJVSGNyb1c0OU1rdXRvSzRHNV9vMEtGNTZTQ2FLVG1HdUdXX2o4bld5cHpJa29KTnhZLVNHelMzNW5KZ21JemtYOEpiMFlhaU53TUk5VWx2WHc"
     }
    ],
    "category": "交付量",
    "session": "盘前",
    "zh_summary": "特斯拉三季度销量公布超预期",
    "title_zh": "超预期！特斯拉三季度销量公布 - 搜狐网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 2.99,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a1951220332d",
@@ -2651,6 +2720,23 @@
    "sentiment": 1
   },
   {
+   "id": "8b7942a0cae4",
+   "title": "【视频】水母深圳、广州仓特斯拉都满啦！挑了几台性价比超高的Model Y - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dlZudzRRNWVBb2lncUdod1UzdjMtYVdOSTVPRS0yamNhVS1Vb3dDZTNEVUJDRDRmbkd3WmFRRFRpd01GcFN2aExzVVVBVTVVLTNwN09GdUxJX0E",
+   "source": "汽车之家",
+   "published_at": "2026-10-05T05:40:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-05T05:40:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dlZudzRRNWVBb2lncUdod1UzdjMtYVdOSTVPRS0yamNhVS1Vb3dDZTNEVUJDRDRmbkd3WmFRRFRpd01GcFN2aExzVVVBVTVVLTNwN09GdUxJX0E"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "5ad1a43c4806",
    "title": "Elon Musk says Tesla robotaxis face a major hurdle driving at night - Firstpost",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzY2dS0xV2M4cndEVXI1VUdmSlpLSjBfUmFnQVN1TnhtVVVnSVNFUVlTLUZRTDYzRlFJal9rXzRhTDJQeTJMZlpTMjEwNDl3MDBBY0pteGxNOW1EWVB5X2c3WWFfTm5VY3Q4RDBIUXJXdHNVN3E1OGRKd1F1SElIQ3R0ajlYS2U4UXVRcVBGVFRVZTNoWUlBeTQ4OG1lT0t3OE0wclB1ZlFZdjhfdm1DYlBR0gG3AUFVX3lxTFA3YU9kSmp0WEcxUEtuV3RqMVY2b0xGeGZFendhcGh5aFo3NzFsa1dDMmVnd3NxaFpXdHlzLURYMVZub2F4MTJLQkIyUUl1RWNyWnJEZG9aVU5RNXhGdlBSWHdENTJDREh6VFRSWEFyU1VPcjA1aFdCZVN1MjFrZURraklqWXVNdDBtb1BrQjZMUEcxMWY3RlNLZjZwNVJNc3UxZ3F2VmF5MnpLa1ZadTBNVjcxVk03Yw",
@@ -3693,10 +3779,15 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2UyWU9RczltTFJWbVpxT1Q4blVPb0tpWHlsWTM0QjJHbGItODd4UmR4SXl0N2tMY05leHpTeW91ekZFVEJMZk1SVFdHYmFjeVFFOFo1eFJsSl9uMmZURWJsMFpDa0dpS1RDbUdReW00ZUkxODdiZ1A4MDFqaHRud1doSjJnSUdvLTIwRkRYUGxMOGowbk14YWIyNWRkZjV0",
    "source": "Yahoo Finance",
    "published_at": "2026-10-04T20:00:37+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
+     "published_at": "2026-10-04T20:00:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2UyWU9RczltTFJWbVpxT1Q4blVPb0tpWHlsWTM0QjJHbGItODd4UmR4SXl0N2tMY05leHpTeW91ekZFVEJMZk1SVFdHYmFjeVFFOFo1eFJsSl9uMmZURWJsMFpDa0dpS1RDbUdReW00ZUkxODdiZ1A4MDFqaHRud1doSjJnSUdvLTIwRkRYUGxMOGowbk14YWIyNWRkZjV0"
+    },
+    {
+     "name": "finance.yahoo.com",
      "published_at": "2026-10-04T20:00:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2UyWU9RczltTFJWbVpxT1Q4blVPb0tpWHlsWTM0QjJHbGItODd4UmR4SXl0N2tMY05leHpTeW91ekZFVEJMZk1SVFdHYmFjeVFFOFo1eFJsSl9uMmZURWJsMFpDa0dpS1RDbUdReW00ZUkxODdiZ1A4MDFqaHRud1doSjJnSUdvLTIwRkRYUGxMOGowbk14YWIyNWRkZjV0"
     }
@@ -7941,101 +8032,6 @@
    "zh_summary": "车主称新款Cybertruck为最佳皮卡",
    "title_zh": "佛州车主试驾2026款Cybertruck顶配称其为史上最佳皮卡",
    "sentiment": 1
-  },
-  {
-   "id": "30efefeb45d6",
-   "title": "今日新闻丨特斯拉三季度全球交付新车48.6万辆！蔚来充电服务超1亿次！ - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jaDZXeTJDYmVOenFCTUhYMl83emV0VzZHWXU4Smd1M1JZNk5QenB0Q1JkREVGUXdxSWM1dUdMTWpLd0R2TEVJME9VYm9uVUpGdUhB",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-03T15:59:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-03T15:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jaDZXeTJDYmVOenFCTUhYMl83emV0VzZHWXU4Smd1M1JZNk5QenB0Q1JkREVGUXdxSWM1dUdMTWpLd0R2TEVJME9VYm9uVUpGdUhB"
-    },
-    {
-     "name": "eet-china.com",
-     "published_at": "2026-10-03T15:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jaDZXeTJDYmVOenFCTUhYMl83emV0VzZHWXU4Smd1M1JZNk5QenB0Q1JkREVGUXdxSWM1dUdMTWpLd0R2TEVJME9VYm9uVUpGdUhB"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉Q3交付48.6万辆",
-   "title_zh": "特斯拉三季度全球交付新车48.6万辆",
-   "sentiment": 1
-  },
-  {
-   "id": "e51ea09b4acb",
-   "title": "Musk Says Avoiding Pets at Night Is Main Limit on Tesla Robotaxi Hours - eletric-vehicles.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW5SZVpXcElZSHJETjBzQmpONUhiTDZzNEZMWS1yR2dYdVJkRjc1TjJiRU1xWFZaR3FyWEVUcmFxbHdHZlNadFU4SUl1ZDZVVjk3VFFXbjlkS1lnbUtUeEdNTnFLM0lnTFN0eGxXLWQ3QXFUQUZlWTZqaUhEUUtyQXNQa1Jib3hCWGY2Ny1yRkxFVW5Yd3NWMVRKcHU2WGJ4YzlJcG5BRWRKQQ",
-   "source": "eletric-vehicles.com",
-   "published_at": "2026-10-03T15:34:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "eletric-vehicles.com",
-     "published_at": "2026-10-03T15:34:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdW5SZVpXcElZSHJETjBzQmpONUhiTDZzNEZMWS1yR2dYdVJkRjc1TjJiRU1xWFZaR3FyWEVUcmFxbHdHZlNadFU4SUl1ZDZVVjk3VFFXbjlkS1lnbUtUeEdNTnFLM0lnTFN0eGxXLWQ3QXFUQUZlWTZqaUhEUUtyQXNQa1Jib3hCWGY2Ny1yRkxFVW5Yd3NWMVRKcHU2WGJ4YzlJcG5BRWRKQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "马斯克称夜间避让宠物是Robotaxi时限主因",
-   "title_zh": "马斯克称夜间躲避宠物是Robotaxi运营时长的主要限制",
-   "sentiment": -1
-  },
-  {
-   "id": "a47c6b40b00c",
-   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
-   "source": "InsideEVs",
-   "published_at": "2026-10-03T15:03:30+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-03T15:03:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
-    },
-    {
-     "name": "insideevs.com",
-     "published_at": "2026-10-03T15:03:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉欧洲销量结束13个月连跌",
-   "title_zh": "特斯拉欧洲销量打破13个月连跌",
-   "sentiment": 1
-  },
-  {
-   "id": "81197ea26b3d",
-   "title": "Tesla Lawyer Defends N-Word Use in California Trial - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlZQUWdSNkJDUVp6a3hSVndVcC1FN0lVYnJUcnJ0bFRndG5GeUdCaExWVEZvZFF5S2dhNUdFUUR5LVFMWHB5MUE3UFhYeGF0LWM2TjBmQkMzazdYWFZNNGVPY3JPRGN1MGNFTS1CRG41Y1dmTXB5ZWlsUFdkVGZUT0xBMGJ6Y2pN",
-   "source": "Yahoo",
-   "published_at": "2026-10-03T15:00:54+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-03T15:00:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlZQUWdSNkJDUVp6a3hSVndVcC1FN0lVYnJUcnJ0bFRndG5GeUdCaExWVEZvZFF5S2dhNUdFUUR5LVFMWHB5MUE3UFhYeGF0LWM2TjBmQkMzazdYWFZNNGVPY3JPRGN1MGNFTS1CRG41Y1dmTXB5ZWlsUFdkVGZUT0xBMGJ6Y2pN"
-    },
-    {
-     "name": "yahoo.com",
-     "published_at": "2026-10-03T15:00:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlZQUWdSNkJDUVp6a3hSVndVcC1FN0lVYnJUcnJ0bFRndG5GeUdCaExWVEZvZFF5S2dhNUdFUUR5LVFMWHB5MUE3UFhYeGF0LWM2TjBmQkMzazdYWFZNNGVPY3JPRGN1MGNFTS1CRG41Y1dmTXB5ZWlsUFdkVGZUT0xBMGJ6Y2pN"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉律师在加州庭审为种族歧视用语辩护",
-   "title_zh": "特斯拉律师在加州庭审中为种族歧视言论辩护",
-   "sentiment": -1
   }
  ]
 }
