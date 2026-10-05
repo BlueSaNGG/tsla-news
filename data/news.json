@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T18:52:26.945206+00:00",
+ "updated_at": "2026-10-05T19:07:27.597438+00:00",
  "market": {
-  "price": 380.45,
-  "change_pct": 2.66,
+  "price": 380.93,
+  "change_pct": 2.79,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.1%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（116条已评分）"
+     "note": "今日新闻情绪 +0.44（118条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.45 vs 20日均线 $366.19"
+     "note": "现价 $380.93 vs 20日均线 $366.21"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.1,
-   "ma20": 366.19,
-   "as_of": "2026-10-05T18:52:26.934849+00:00"
+   "implied_upside_pct": 5.0,
+   "ma20": 366.21,
+   "as_of": "2026-10-05T19:07:27.587380+00:00"
   },
-  "pe_ttm": 105.2,
+  "pe_ttm": 105.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 116
+   "avg": 0.44,
+   "count": 118
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7cdd564d5fc3",
+   "title": "Tesla's Cybercab Is Quietly Dismantling Repair Shops, Car Rentals, and Auto Insurance - Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTUyaHVrWkYxVDkzYTE1cFd4cUZ1SGJ4ZEcwVFFjWFNObW1teHJRQzZVSEZKRWtEd0lUYVZxYVY4bXdVWTJfMkVrUmR6MHY4UUd0QUFBVmxOOUZfSEM4cUs3QUc5MkZvZV9Sa1RUM0VVbnEwZlVfTkdjMm5hcHVnRFcyUHdWbVhUdVNxTjJnRGlpR1RJWkFURDA0dlZKWTJCV0Y5WmpiLXhrWkRZU2c",
+   "source": "Latin Times",
+   "published_at": "2026-10-05T18:51:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Latin Times",
+     "published_at": "2026-10-05T18:51:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTUyaHVrWkYxVDkzYTE1cFd4cUZ1SGJ4ZEcwVFFjWFNObW1teHJRQzZVSEZKRWtEd0lUYVZxYVY4bXdVWTJfMkVrUmR6MHY4UUd0QUFBVmxOOUZfSEM4cUs3QUc5MkZvZV9Sa1RUM0VVbnEwZlVfTkdjMm5hcHVnRFcyUHdWbVhUdVNxTjJnRGlpR1RJWkFURDA0dlZKWTJCV0Y5WmpiLXhrWkRZU2c"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "05e6d3276d7d",
    "title": "Tesla reveals early Robotaxi charging strategy, showing scrappy DNA - Teslarati",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉展示Robotaxi早期充电策略",
    "title_zh": "特斯拉披露Robotaxi早期充电策略，尽显务实作风",
    "sentiment": 1
+  },
+  {
+   "id": "b62a3e9be1aa",
+   "title": "特斯拉Robotaxi夜间运营延长至23点，纯视觉方案正攻克夜间宠物识别难题 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGdzlGM0cxeExET0hJd1ZRNUE3eTJpbTFaTU02YWVJY1pBbE81VklLb25INTZGQnNOR2ZxRWJkTzMtOUNOb2JTd0dmZURjNlU3ZXFtWmlpM2F0azg",
+   "source": "网通社",
+   "published_at": "2026-10-05T18:33:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-05T18:33:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGdzlGM0cxeExET0hJd1ZRNUE3eTJpbTFaTU02YWVJY1pBbE81VklLb25INTZGQnNOR2ZxRWJkTzMtOUNOb2JTd0dmZURjNlU3ZXFtWmlpM2F0azg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "b728771b0487",
@@ -1114,6 +1148,23 @@
    "sentiment": 1
   },
   {
+   "id": "55055018c858",
+   "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ",
+   "source": "Mashable",
+   "published_at": "2026-10-05T13:59:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mashable",
+     "published_at": "2026-10-05T13:59:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "e0d12033f834",
    "title": "Tesla Q3 Deliveries Beat: How Much Upside Is Left? - moomoo.com",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KX2oyQ2lQMEFxeXdSaWRtMHdwS051NGNDLWx1bHZPckhYX28wMlZtRklEUnJCekUwM3RvRVZHNENwLWp1ZVRBMmxoTF9BZGNwc2RtV01SRmxmSkxtMUpkd2VreUg",
@@ -1363,6 +1414,23 @@
     "pct": 2.99,
     "window_h": 2.0
    }
+  },
+  {
+   "id": "eed6cd7b6a93",
+   "title": "【视频】7×24小时执勤，他们为什么选特斯拉？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MWktQamUxaEZBdnBxWFNZMmlYLWpfS1MzWWRlT2d5RGt1SllyaHRpanBldUgxcU5QR0ZzR2syZENJZnVrVDRsNDA4SGpfUUROYmxMNzRQRFQ0RTZsMjJORGQ4NXVoNVotY0w4",
+   "source": "汽车之家",
+   "published_at": "2026-10-05T13:02:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-05T13:02:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MWktQamUxaEZBdnBxWFNZMmlYLWpfS1MzWWRlT2d5RGt1SllyaHRpanBldUgxcU5QR0ZzR2syZENJZnVrVDRsNDA4SGpfUUROYmxMNzRQRFQ0RTZsMjJORGQ4NXVoNVotY0w4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "a1951220332d",
@@ -1794,7 +1862,7 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVndQNnlwSEcwTGVCMVBzeUl1OWpDRFhBOUxyMHFpV3NBbXRPdnFrTnVQb3M1RGEydnlkREFYdHYzQXFqN1BHZHFyMUFneHhYM1B6elBNOTVtX29RRGxfTGlRQ0VDd2RTSGUzbEZKTzdvZXIxXzdPNHVDcVcwbjQwVkRUcjBtN0xocXUwMjZKM25POTd1WDEzVFFIWW1Vamc",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-05T12:00:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -1810,10 +1878,16 @@
      "name": "247wallst.com",
      "published_at": "2026-10-05T12:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVndQNnlwSEcwTGVCMVBzeUl1OWpDRFhBOUxyMHFpV3NBbXRPdnFrTnVQb3M1RGEydnlkREFYdHYzQXFqN1BHZHFyMUFneHhYM1B6elBNOTVtX29RRGxfTGlRQ0VDd2RTSGUzbEZKTzdvZXIxXzdPNHVDcVcwbjQwVkRUcjBtN0xocXUwMjZKM25POTd1WDEzVFFIWW1Vamc"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T12:00:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWUtcWVGYlFMYXJtWUxuQ1RDbWpTT2hHd0JxRmZGczZmU1c2eXE4VEUwMG1HLWVaZEhNaTJoeVRrb2FDYjVNd24yUUJWaWo0NFdBTGM2S2FtVm1ibjU0Y1UzLTlJdlVGRG16R0ZkUC1VT1ZJMFZ4NzBTdzFMNnY4c0xsaE9mVEJONWk4Y1FldExtNlF6aGU2Sm1KRkJRdw"
     }
    ],
    "category": "交付量",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉交付超预期，上行空间仅9%",
    "title_zh": "特斯拉交付超预期，为何上行空间仅9%",
    "sentiment": 1,
@@ -8072,130 +8146,6 @@
    "zh_summary": "特斯拉律师为员工用N词辩护",
    "title_zh": "特斯拉（TSLA）律师为员工在工作场所歧视案中使用N词辩护",
    "sentiment": -1
-  },
-  {
-   "id": "3fdebb285e1d",
-   "title": "TSLA Stock Jumps 3% Ahead Of Q2 Report — Analysts Split On Earnings Beat Expectations And Tesla’s Overpromise Problem - stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVnFmcHY5SXZoTW9HZTNhWnljbFRHVDRoRnVqXzNrRy1YbVJCWXdzRlZXS2xIOVZtenhXQTg4WVg0RTIyOXVjWk14SU0xdlVFX2Z1UV9XNVhZb2Zjb0taSVRwLVpfTHFpNWVMTjBvVjR0SGFzM1RSU3hZYnhienU2MUZSaERqX1ppZkFWN0dBZkdtX0hWNkZqV2dQdlhHZkpyeUZkdmdPVjFxY3JZOWZPc05NMEdSMS1iRlV0aDZpRkRFZU9JMW01cnpETUlDYi00Sk8wX0p4dWhrYkRSaXUzcmhndEJxNEFlSVUyQlVHTGk3YzltYmF5dWU3NGFiS01lZ29Hd3dadWtoQQ",
-   "source": "stocktwits.com",
-   "published_at": "2026-10-03T18:07:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-03T18:07:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVnFmcHY5SXZoTW9HZTNhWnljbFRHVDRoRnVqXzNrRy1YbVJCWXdzRlZXS2xIOVZtenhXQTg4WVg0RTIyOXVjWk14SU0xdlVFX2Z1UV9XNVhZb2Zjb0taSVRwLVpfTHFpNWVMTjBvVjR0SGFzM1RSU3hZYnhienU2MUZSaERqX1ppZkFWN0dBZkdtX0hWNkZqV2dQdlhHZkpyeUZkdmdPVjFxY3JZOWZPc05NMEdSMS1iRlV0aDZpRkRFZU9JMW01cnpETUlDYi00Sk8wX0p4dWhrYkRSaXUzcmhndEJxNEFlSVUyQlVHTGk3YzltYmF5dWU3NGFiS01lZ29Hd3dadWtoQQ"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-03T18:07:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVnFmcHY5SXZoTW9HZTNhWnljbFRHVDRoRnVqXzNrRy1YbVJCWXdzRlZXS2xIOVZtenhXQTg4WVg0RTIyOXVjWk14SU0xdlVFX2Z1UV9XNVhZb2Zjb0taSVRwLVpfTHFpNWVMTjBvVjR0SGFzM1RSU3hZYnhienU2MUZSaERqX1ppZkFWN0dBZkdtX0hWNkZqV2dQdlhHZkpyeUZkdmdPVjFxY3JZOWZPc05NMEdSMS1iRlV0aDZpRkRFZU9JMW01cnpETUlDYi00Sk8wX0p4dWhrYkRSaXUzcmhndEJxNEFlSVUyQlVHTGk3YzltYmF5dWU3NGFiS01lZ29Hd3dadWtoQQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "TSLA涨3%分析师对财报预期分歧",
-   "title_zh": "TSLA财报前上涨3%，分析师对盈利预期及特斯拉过度承诺问题看法不一",
-   "sentiment": 0
-  },
-  {
-   "id": "5e6a5654ec50",
-   "title": "Tesla FSD in Czechia: 5 Details That Matter - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRfSjYtcEVnX3NHOUtPX0pDMks3OTdsTEhUam12eGpTOEV4czlURWJnQ0RsWXhMek5NbkFoclkxOWZrR3F0c3hKdHJrMjRlUktpLUJCNnU2NnZDUV9hcHROVUdEaVBIbmEtdTV4SkktbXlOelktSVdwNF9hMXdxS3BNOA",
-   "source": "BASENOR",
-   "published_at": "2026-10-03T18:03:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-03T18:03:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRfSjYtcEVnX3NHOUtPX0pDMks3OTdsTEhUam12eGpTOEV4czlURWJnQ0RsWXhMek5NbkFoclkxOWZrR3F0c3hKdHJrMjRlUktpLUJCNnU2NnZDUV9hcHROVUdEaVBIbmEtdTV4SkktbXlOelktSVdwNF9hMXdxS3BNOA"
-    },
-    {
-     "name": "basenor.com",
-     "published_at": "2026-10-03T18:03:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRfSjYtcEVnX3NHOUtPX0pDMks3OTdsTEhUam12eGpTOEV4czlURWJnQ0RsWXhMek5NbkFoclkxOWZrR3F0c3hKdHJrMjRlUktpLUJCNnU2NnZDUV9hcHROVUdEaVBIbmEtdTV4SkktbXlOelktSVdwNF9hMXdxS3BNOA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉FSD落地捷克",
-   "title_zh": "特斯拉 FSD 进入捷克：5 个要点",
-   "sentiment": 1
-  },
-  {
-   "id": "506276fc4cb8",
-   "title": "Twisted Sister, Tesla bring arena-shaking rock to The Big E - MassLive.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUwwa0JSeFpHb2FfNjh2aU0yM1V5c3BYaVJvWS0wNnZsdlQ4TnhJTnh3eEpRRmctbWNMUXZlSzY1YnAxVU4wdm9za1VQbGZEV20zdmlvS09kNTAwejVPS1lwT1hJVXhVa0h1SUxnc0lSX1kyZzhwc3FsU2E0Tlc4ai1MZDF6M3ZXdUFiVjdqRVk5X2VyRDBOamVGcVVfa1FoaHc2RF9R",
-   "source": "MassLive.com",
-   "published_at": "2026-10-03T17:55:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MassLive.com",
-     "published_at": "2026-10-03T17:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUwwa0JSeFpHb2FfNjh2aU0yM1V5c3BYaVJvWS0wNnZsdlQ4TnhJTnh3eEpRRmctbWNMUXZlSzY1YnAxVU4wdm9za1VQbGZEV20zdmlvS09kNTAwejVPS1lwT1hJVXhVa0h1SUxnc0lSX1kyZzhwc3FsU2E0Tlc4ai1MZDF6M3ZXdUFiVjdqRVk5X2VyRDBOamVGcVVfa1FoaHc2RF9R"
-    },
-    {
-     "name": "masslive.com",
-     "published_at": "2026-10-03T17:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUwwa0JSeFpHb2FfNjh2aU0yM1V5c3BYaVJvWS0wNnZsdlQ4TnhJTnh3eEpRRmctbWNMUXZlSzY1YnAxVU4wdm9za1VQbGZEV20zdmlvS09kNTAwejVPS1lwT1hJVXhVa0h1SUxnc0lSX1kyZzhwc3FsU2E0Tlc4ai1MZDF6M3ZXdUFiVjdqRVk5X2VyRDBOamVGcVVfa1FoaHc2RF9R"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "摇滚乐队Tesla演出The Big E",
-   "title_zh": "Twisted Sister与Tesla乐队献演The Big E",
-   "sentiment": 0
-  },
-  {
-   "id": "f3e3f81ef728",
-   "title": "Elon Musk say Tesla is working to prevent robotaxis from running over gray cats on the road - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTROaF9uYWpqTDl6c2haWU5iNVZzMjktbDVpLVBQQ0VReEtmSk5DYVdpcW9feXlOandmTWthazgzdkRLc1A2YU1NMFo5M09kaHNEYkw3QnNIUmI5aUhoc1dpeFRFVGFKMU1MbmVJRzdLZGU2d2UyUDJaTnVPOTkxbHhCNXB3MS0wWjZSX3JURVZlNF9Mc2pHaTRqMElZdWM",
-   "source": "Business Insider",
-   "published_at": "2026-10-03T17:35:00+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-03T17:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTROaF9uYWpqTDl6c2haWU5iNVZzMjktbDVpLVBQQ0VReEtmSk5DYVdpcW9feXlOandmTWthazgzdkRLc1A2YU1NMFo5M09kaHNEYkw3QnNIUmI5aUhoc1dpeFRFVGFKMU1MbmVJRzdLZGU2d2UyUDJaTnVPOTkxbHhCNXB3MS0wWjZSX3JURVZlNF9Mc2pHaTRqMElZdWM"
-    },
-    {
-     "name": "Business Insider Africa",
-     "published_at": "2026-10-03T17:35:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVLbkJuRmtLQnpZOGlLUnh3TEFGM0MxOFBzV0haN1lTSnNzaWtzOEZCTGExUmdSX3U4eWxrVGNmY1lVUHVDNWNNVFpXLS1tellWZXpvTVEwSVoxSFpLOU5tNmJkdy0xLXM3MVJnTmRIRUJMRXpzV0pMYzR3UGUwYTFvLUdkUDZLZXNfUEZENlBHaFRlaGVpbGxFN1lHY1R5d2pIRVVQV0JRV1NfYnBJR0FUa2lLamRKSm9LakpjaVpmcDBJMW1sb1VSRQ"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-03T17:35:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzRJOGcwLVFUMFBSWFp5SjRURlJCbkZSX2hraUltT2xVdy0wbGQ5SGY3R3VUcHRKZHNKV0NEdXEybE5wN0ZBV043ZVlTT0VDa0pNZFRpYmN1MjhSSDdtSXdqWTktOXFfcTdGSUpxaGszTTdMNTlkbFBoS3Bfa0Q4VUdqQVRQVVVjSVBkSmswTWVRdDN6bGtVSzh3"
-    },
-    {
-     "name": "autos.yahoo.com",
-     "published_at": "2026-10-03T17:35:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzRJOGcwLVFUMFBSWFp5SjRURlJCbkZSX2hraUltT2xVdy0wbGQ5SGY3R3VUcHRKZHNKV0NEdXEybE5wN0ZBV043ZVlTT0VDa0pNZFRpYmN1MjhSSDdtSXdqWTktOXFfcTdGSUpxaGszTTdMNTlkbFBoS3Bfa0Q4VUdqQVRQVVVjSVBkSmswTWVRdDN6bGtVSzh3"
-    },
-    {
-     "name": "africa.businessinsider.com",
-     "published_at": "2026-10-03T17:35:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVLbkJuRmtLQnpZOGlLUnh3TEFGM0MxOFBzV0haN1lTSnNzaWtzOEZCTGExUmdSX3U4eWxrVGNmY1lVUHVDNWNNVFpXLS1tellWZXpvTVEwSVoxSFpLOU5tNmJkdy0xLXM3MVJnTmRIRUJMRXpzV0pMYzR3UGUwYTFvLUdkUDZLZXNfUEZENlBHaFRlaGVpbGxFN1lHY1R5d2pIRVVQV0JRV1NfYnBJR0FUa2lLamRKSm9LakpjaVpmcDBJMW1sb1VSRQ"
-    },
-    {
-     "name": "businessinsider.com",
-     "published_at": "2026-10-03T17:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTROaF9uYWpqTDl6c2haWU5iNVZzMjktbDVpLVBQQ0VReEtmSk5DYVdpcW9feXlOandmTWthazgzdkRLc1A2YU1NMFo5M09kaHNEYkw3QnNIUmI5aUhoc1dpeFRFVGFKMU1MbmVJRzdLZGU2d2UyUDJaTnVPOTkxbHhCNXB3MS0wWjZSX3JURVZlNF9Mc2pHaTRqMElZdWM"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "马斯克称特斯拉正防止robotaxi碾压灰猫",
-   "title_zh": "马斯克称特斯拉正致力于防止robotaxi在路上碾压灰猫",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
   }
  ]
 }
