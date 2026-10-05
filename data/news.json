@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T01:07:27.790598+00:00",
+ "updated_at": "2026-10-05T01:22:25.311969+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（68条已评分）"
+     "note": "今日新闻情绪 +0.39（70条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T01:07:27.781228+00:00"
+   "as_of": "2026-10-05T01:22:25.299977+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 68
+   "avg": 0.39,
+   "count": 70
   }
  },
  "meta": {
@@ -103,9 +103,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": 0,
    "zh_summary": "特斯拉推出希望用户永不用的功能",
-   "title_zh": "特斯拉推出希望你永远用不到的新功能"
+   "title_zh": "特斯拉推出希望你永远用不到的新功能",
+   "sentiment": 0
   },
   {
    "id": "87daae1fbf68",
@@ -478,9 +478,9 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "sentiment": 1,
    "zh_summary": "特斯拉获300亿美元贷款暂不使用",
-   "title_zh": "特斯拉获300亿美元贷款，今年不会使用"
+   "title_zh": "特斯拉获300亿美元贷款，今年不会使用",
+   "sentiment": 1
   },
   {
    "id": "3d5fae4ef58b",
@@ -993,7 +993,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xR3NQRFBGRmFZWk9SSnA3WEM0V1pZQ01JQ2N0QVh1VHRfdUFIVVNma182UUpCa0F3cVBuR1FzTDRiMVY0ZG9sZndXem4",
    "source": "auto.ifeng.com",
    "published_at": "2026-10-04T12:32:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "auto.ifeng.com",
@@ -1009,6 +1009,11 @@
      "name": "凤凰网汽车",
      "published_at": "2026-10-04T12:32:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xR3NQRFBGRmFZWk9SSnA3WEM0V1pZQ01JQ2N0QVh1VHRfdUFIVVNma182UUpCa0F3cVBuR1FzTDRiMVY0ZG9sZndXem4"
+    },
+    {
+     "name": "车家号",
+     "published_at": "2026-10-05T01:05:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIRjdma2dDWVg4ZnczZlBSd0gxaXdFa3U5bTRZRThBN01CbkR2emFIdXFsb094eXVrWE1GTnlXNDhyX1VtTTYxRXQ1THhnemVhSkRLYmdHSWRnaEk"
     }
    ],
    "category": "其他",
@@ -1946,7 +1951,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzaXp0eEdhR3JZdlBObHpmS203N3lEQ0VZQkVjbHo3VUl5c1VUTVRqMjEtbGQ2UjlEMy1GS0JIMzlsc0pka3U5ZExrQlNVVUJXbzliRlU3Xy11T0k",
    "source": "汽车之家",
    "published_at": "2026-10-04T04:35:01+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -1955,6 +1960,11 @@
     },
     {
      "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-04T04:35:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzaXp0eEdhR3JZdlBObHpmS203N3lEQ0VZQkVjbHo3VUl5c1VUTVRqMjEtbGQ2UjlEMy1GS0JIMzlsc0pka3U5ZExrQlNVVUJXbzliRlU3Xy11T0k"
+    },
+    {
+     "name": "车家号",
      "published_at": "2026-10-04T04:35:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzaXp0eEdhR3JZdlBObHpmS203N3lEQ0VZQkVjbHo3VUl5c1VUTVRqMjEtbGQ2UjlEMy1GS0JIMzlsc0pka3U5ZExrQlNVVUJXbzliRlU3Xy11T0k"
     }
@@ -6191,6 +6201,23 @@
    "sentiment": 1
   },
   {
+   "id": "96a0554ef5eb",
+   "title": "EV sales rebound as Tesla and Rivian top expectations - Axios",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jOFJDNnMxR1F2MmozTmp5NXhtVU5TdEpYWVFUT0NtOUhKUGlwQWJaOFRvUHc1YmE1c3A0Q1ZkX0QyRFdCRUlZdFRGa3hfbUdtZ0JQWGcweG8wYno2cmstM2N5RjdxN2pjdVVBLTVHREp2VmVLVnc",
+   "source": "Axios",
+   "published_at": "2026-10-03T02:09:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Axios",
+     "published_at": "2026-10-03T02:09:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jOFJDNnMxR1F2MmozTmp5NXhtVU5TdEpYWVFUT0NtOUhKUGlwQWJaOFRvUHc1YmE1c3A0Q1ZkX0QyRFdCRUlZdFRGa3hfbUdtZ0JQWGcweG8wYno2cmstM2N5RjdxN2pjdVVBLTVHREp2VmVLVnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "e5bac8d345aa",
    "title": "国际油价重挫4%，英伟达创历史新高，特斯拉涨超5%，比特币突破8.7万美元，中概股走低 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Cd1k2ODAtZENQUEhrRmhtTkhCRWJXZWpHTjdncmRORzd0Q3ZBMGhrNjUzeDM2RlNvZWFvMTJSUVAtRlZSTC1zMWpVM1Z1LWhEQXVCa0Zuem5QTTItWk0ySmNLUEQtZFo3bkZXdExrR1BPUQ",
@@ -7836,31 +7863,6 @@
    "zh_summary": "Cybertruck销量自由落体",
    "title_zh": "Cybertruck销量暴跌，特斯拉Q3销售平平",
    "sentiment": -1
-  },
-  {
-   "id": "d42e46077506",
-   "title": "Why Is Tesla (NASDAQ:TSLA) Stock Surging Today? Q3 Deliveries Beat Wall Street Estimates - Stocks Down Under",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1OUZjS0FuRzZvaXRTRkJSQkEtV25TTnI2Vk10YVE2TloxWkk1TEV1endfRUx2UXp4NXE4NUNqaVl1RHVUdjRhc0w1VEEwZVh2RmF6OXVkdzFkRE1udWo0NmVUSDNoNG56VXFRMmpBOGluUTVpbjFYdDl3TQ",
-   "source": "Stocks Down Under",
-   "published_at": "2026-10-02T15:59:56+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocks Down Under",
-     "published_at": "2026-10-02T15:59:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1OUZjS0FuRzZvaXRTRkJSQkEtV25TTnI2Vk10YVE2TloxWkk1TEV1endfRUx2UXp4NXE4NUNqaVl1RHVUdjRhc0w1VEEwZVh2RmF6OXVkdzFkRE1udWo0NmVUSDNoNG56VXFRMmpBOGluUTVpbjFYdDl3TQ"
-    },
-    {
-     "name": "stocksdownunder.com",
-     "published_at": "2026-10-02T15:59:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1OUZjS0FuRzZvaXRTRkJSQkEtV25TTnI2Vk10YVE2TloxWkk1TEV1endfRUx2UXp4NXE4NUNqaVl1RHVUdjRhc0w1VEEwZVh2RmF6OXVkdzFkRE1udWo0NmVUSDNoNG56VXFRMmpBOGluUTVpbjFYdDl3TQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "Q3交付超预期股价为何飙升",
-   "title_zh": "特斯拉今日为何飙升？Q3交付超华尔街预期",
-   "sentiment": 1
   }
  ]
 }
