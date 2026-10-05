@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T19:37:35.408181+00:00",
+ "updated_at": "2026-10-05T19:52:25.320431+00:00",
  "market": {
-  "price": 379.7,
-  "change_pct": 2.46,
+  "price": 379.59,
+  "change_pct": 2.43,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.3%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（122条已评分）"
+     "note": "今日新闻情绪 +0.44（126条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.70 vs 20日均线 $366.15"
+     "note": "现价 $379.59 vs 20日均线 $366.14"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.3,
-   "ma20": 366.15,
-   "as_of": "2026-10-05T19:37:35.399186+00:00"
+   "implied_upside_pct": 5.4,
+   "ma20": 366.14,
+   "as_of": "2026-10-05T19:52:25.310541+00:00"
   },
   "pe_ttm": 105.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 122
+   "count": 126
   }
  },
  "meta": {
@@ -68,15 +68,37 @@
  },
  "stories": [
   {
+   "id": "a626097eb8b6",
+   "title": "TSLA Stock Attempts Breakout on TSMC Terafab Talks and Europe Tesla Demand - FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hPcUZrYXB0TFBkSU82YjJxQndaQ0dYdWJXM0czejFGWFRhM3hfZ01xcGF3enk5R2pJRnZOd1VXTzZZd0Q2T29KMTJJY1Y5VjR1SkZDTEJST09MTHhGejJNTkV0Zk5sMjNMdWc0U3ROaUZLalU1ZnhvcU0zSF9yVm9MVUlfUWNvNWE0Vkp4NU5DMm9oUE9JdndpYVpFS093b0s4Y2xRQ3J3dk9jc2VfdG9WbDFSdUxB",
+   "source": "FXLeaders",
+   "published_at": "2026-10-05T19:39:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FXLeaders",
+     "published_at": "2026-10-05T19:39:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hPcUZrYXB0TFBkSU82YjJxQndaQ0dYdWJXM0czejFGWFRhM3hfZ01xcGF3enk5R2pJRnZOd1VXTzZZd0Q2T29KMTJJY1Y5VjR1SkZDTEJST09MTHhGejJNTkV0Zk5sMjNMdWc0U3ROaUZLalU1ZnhvcU0zSF9yVm9MVUlfUWNvNWE0Vkp4NU5DMm9oUE9JdndpYVpFS093b0s4Y2xRQ3J3dk9jc2VfdG9WbDFSdUxB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "29fa039a7a36",
    "title": "Tesla announces fifth residency at House of Blues Las Vegas - fox5vegas.com",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWldUVS1kUElOMm80cTNIa0QxWklvUjNmT3RTZ3h4MndvXzhnYlZIamI2UTVUczRDM1RWcTlMb1V0WXdEdmlLTjA2LXNSV2cxYlRBSEp4dk5YLTlveG1LRG9OaFl4WXpHam9wb2xRekpaZHFlaW40UEs4Yjg0QXNvUGRnMjFWZ3lRdGJqYkpOcjJUX2t2Tnc",
    "source": "fox5vegas.com",
    "published_at": "2026-10-05T19:29:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "fox5vegas.com",
+     "published_at": "2026-10-05T19:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWldUVS1kUElOMm80cTNIa0QxWklvUjNmT3RTZ3h4MndvXzhnYlZIamI2UTVUczRDM1RWcTlMb1V0WXdEdmlLTjA2LXNSV2cxYlRBSEp4dk5YLTlveG1LRG9OaFl4WXpHam9wb2xRekpaZHFlaW40UEs4Yjg0QXNvUGRnMjFWZ3lRdGJqYkpOcjJUX2t2Tnc"
+    },
+    {
+     "name": "FOX5 Vegas",
      "published_at": "2026-10-05T19:29:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWldUVS1kUElOMm80cTNIa0QxWklvUjNmT3RTZ3h4MndvXzhnYlZIamI2UTVUczRDM1RWcTlMb1V0WXdEdmlLTjA2LXNSV2cxYlRBSEp4dk5YLTlveG1LRG9OaFl4WXpHam9wb2xRekpaZHFlaW40UEs4Yjg0QXNvUGRnMjFWZ3lRdGJqYkpOcjJUX2t2Tnc"
     }
@@ -113,10 +135,15 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZhejN5bG5DNmFfcTZJMzZYWmliRXlmTmRVQ3BUMjRtRHNRUTdTRWRlc3dmbVQwN2FuMnJVNzNFVWoxYjA4M1ItX2htWHFFWVRyM2NzaEhsM0VKWHQ2VE8ta1JQUmdtRjlkdEYyNFNyQjFCR1RuT3JoSUxmYWFlT0UyRTZibXVINXdJdXVpQWpsR2drZHkxbDE4dHJnYmdhTk5iNm5CaEhVUlBLaEl2S0RRRW13N1NfQV9v",
    "source": "tradingview.com",
    "published_at": "2026-10-05T19:14:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tradingview.com",
+     "published_at": "2026-10-05T19:14:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZhejN5bG5DNmFfcTZJMzZYWmliRXlmTmRVQ3BUMjRtRHNRUTdTRWRlc3dmbVQwN2FuMnJVNzNFVWoxYjA4M1ItX2htWHFFWVRyM2NzaEhsM0VKWHQ2VE8ta1JQUmdtRjlkdEYyNFNyQjFCR1RuT3JoSUxmYWFlT0UyRTZibXVINXdJdXVpQWpsR2drZHkxbDE4dHJnYmdhTk5iNm5CaEhVUlBLaEl2S0RRRW13N1NfQV9v"
+    },
+    {
+     "name": "TradingView",
      "published_at": "2026-10-05T19:14:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZhejN5bG5DNmFfcTZJMzZYWmliRXlmTmRVQ3BUMjRtRHNRUTdTRWRlc3dmbVQwN2FuMnJVNzNFVWoxYjA4M1ItX2htWHFFWVRyM2NzaEhsM0VKWHQ2VE8ta1JQUmdtRjlkdEYyNFNyQjFCR1RuT3JoSUxmYWFlT0UyRTZibXVINXdJdXVpQWpsR2drZHkxbDE4dHJnYmdhTk5iNm5CaEhVUlBLaEl2S0RRRW13N1NfQV9v"
     }
@@ -153,10 +180,15 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTUyaHVrWkYxVDkzYTE1cFd4cUZ1SGJ4ZEcwVFFjWFNObW1teHJRQzZVSEZKRWtEd0lUYVZxYVY4bXdVWTJfMkVrUmR6MHY4UUd0QUFBVmxOOUZfSEM4cUs3QUc5MkZvZV9Sa1RUM0VVbnEwZlVfTkdjMm5hcHVnRFcyUHdWbVhUdVNxTjJnRGlpR1RJWkFURDA0dlZKWTJCV0Y5WmpiLXhrWkRZU2c",
    "source": "Latin Times",
    "published_at": "2026-10-05T18:51:28+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Latin Times",
+     "published_at": "2026-10-05T18:51:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTUyaHVrWkYxVDkzYTE1cFd4cUZ1SGJ4ZEcwVFFjWFNObW1teHJRQzZVSEZKRWtEd0lUYVZxYVY4bXdVWTJfMkVrUmR6MHY4UUd0QUFBVmxOOUZfSEM4cUs3QUc5MkZvZV9Sa1RUM0VVbnEwZlVfTkdjMm5hcHVnRFcyUHdWbVhUdVNxTjJnRGlpR1RJWkFURDA0dlZKWTJCV0Y5WmpiLXhrWkRZU2c"
+    },
+    {
+     "name": "latintimes.com",
      "published_at": "2026-10-05T18:51:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTUyaHVrWkYxVDkzYTE1cFd4cUZ1SGJ4ZEcwVFFjWFNObW1teHJRQzZVSEZKRWtEd0lUYVZxYVY4bXdVWTJfMkVrUmR6MHY4UUd0QUFBVmxOOUZfSEM4cUs3QUc5MkZvZV9Sa1RUM0VVbnEwZlVfTkdjMm5hcHVnRFcyUHdWbVhUdVNxTjJnRGlpR1RJWkFURDA0dlZKWTJCV0Y5WmpiLXhrWkRZU2c"
     }
@@ -206,6 +238,23 @@
    "zh_summary": "特斯拉Robotaxi夜间运营延长至23点",
    "title_zh": "特斯拉Robotaxi夜间运营延长至23点，纯视觉方案正攻克夜间宠物识别难题 - 网通社",
    "sentiment": 1
+  },
+  {
+   "id": "837face0b550",
+   "title": "New Tesla Model 3 Gets Bigger Screen, Extra Power - thetruthaboutcars.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3MxLV9YTjQzZUVVMTdvb0h3bFVGczJBbldrMFhBRzhoSEhwbFZDRjBmQy1ZUEhDZ2l4S21wZ0tkWVpmRXpCZ0dDYUhvdE9aX2lEdnJvN09rS2xyMThGazY0eERES3dIdjhyN1Q4eEF6VnhyMHJlWE1WZ2NNSFlfLXZzQnZVMEhsVlFna2FhckQ1VkNSTkRyNVA1MTJnVEpBbzB3R2JDUTQ",
+   "source": "thetruthaboutcars.com",
+   "published_at": "2026-10-05T18:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "thetruthaboutcars.com",
+     "published_at": "2026-10-05T18:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3MxLV9YTjQzZUVVMTdvb0h3bFVGczJBbldrMFhBRzhoSEhwbFZDRjBmQy1ZUEhDZ2l4S21wZ0tkWVpmRXpCZ0dDYUhvdE9aX2lEdnJvN09rS2xyMThGazY0eERES3dIdjhyN1Q4eEF6VnhyMHJlWE1WZ2NNSFlfLXZzQnZVMEhsVlFna2FhckQ1VkNSTkRyNVA1MTJnVEpBbzB3R2JDUTQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "b728771b0487",
@@ -572,12 +621,17 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3RzdWZXcW0wQUczYTYzcEN5NWVPY0ROWUc2Q3BsYnkyTmNmTXFKSjFSX0Q4VU5kSWQ1MXlibmtlZUNDT3N2M1d2a1ZzMzhHay1OTklGb3hqdHBOam1TSDZ4TTRhVXhCd1Rwc3ZtSWNGRF9UY1pEdjlWaktVc3ZLc1dldTlsaU5XWlFwQk92RWc",
    "source": "Autoguide.com",
    "published_at": "2026-10-05T16:37:10+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Autoguide.com",
      "published_at": "2026-10-05T16:37:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3RzdWZXcW0wQUczYTYzcEN5NWVPY0ROWUc2Q3BsYnkyTmNmTXFKSjFSX0Q4VU5kSWQ1MXlibmtlZUNDT3N2M1d2a1ZzMzhHay1OTklGb3hqdHBOam1TSDZ4TTRhVXhCd1Rwc3ZtSWNGRF9UY1pEdjlWaktVc3ZLc1dldTlsaU5XWlFwQk92RWc"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-05T19:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa04zNlRpcDR4LS1sNmR3MEt6R3BmVVZpN05fYjBhdVR0QTJWODZZMXRMWjJKdHUxc0lkUl9uRkNPLUV6OHhKREJBTWFHd3F4dEJGQ0NkMWVsTDVyU3dFSXQ2RXI2NXgyVWJZN3hGeUdoX3lKdUhFVXdqNnpZOXNVQy0zWXhsWW00UWNpS0NQbl9wbEREa1d2Q0h2RHl5b2s"
     }
    ],
    "category": "车型产品",
@@ -1427,10 +1481,15 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UbzNsWjctQ2s4Y2VHS2pfNXotQjJrUkZvRV9ibGk4czVTU2xXQVVXWFlPYTV3Z2lOOXh3ZHdIT2xQdmhWVXdYdXJ3Snh1SXM",
    "source": "新浪财经",
    "published_at": "2026-10-05T13:28:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
+     "published_at": "2026-10-05T13:28:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UbzNsWjctQ2s4Y2VHS2pfNXotQjJrUkZvRV9ibGk4czVTU2xXQVVXWFlPYTV3Z2lOOXh3ZHdIT2xQdmhWVXdYdXJ3Snh1SXM"
+    },
+    {
+     "name": "cj.sina.cn",
      "published_at": "2026-10-05T13:28:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UbzNsWjctQ2s4Y2VHS2pfNXotQjJrUkZvRV9ibGk4czVTU2xXQVVXWFlPYTV3Z2lOOXh3ZHdIT2xQdmhWVXdYdXJ3Snh1SXM"
     }
@@ -2864,6 +2923,23 @@
    "sentiment": 1
   },
   {
+   "id": "21198d399324",
+   "title": "【视频】在广东买二手特斯拉，这里车多更靠谱！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYWl5MUpsVHBiYlktTGJwZjhWSy00UzN3VXhVRFJJblh1YjlVNlZhUVl4U05MX2RUb19YREJXaDhuM1l3aXpJalctVzVBMmpXODZGVVNMV3ZhS3c",
+   "source": "汽车之家",
+   "published_at": "2026-10-05T07:46:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-05T07:46:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYWl5MUpsVHBiYlktTGJwZjhWSy00UzN3VXhVRFJJblh1YjlVNlZhUVl4U05MX2RUb19YREJXaDhuM1l3aXpJalctVzVBMmpXODZGVVNMV3ZhS3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "a3f9e205e562",
    "title": "美国车主天生无臂用脚开车30年，特斯拉FSD 帮他开805公里去看女儿 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmlid1JpMDZRcWNGei1mekdBT2w3NGtZUWwwRnYzelBSUTNIbW5Ucm9uZk9RTHpFSmsySjVVR0Exd0tWNmdoUFdCbHgtZTAzVk5ueDVIYmsyM3RXM2RDRy1OWVlWRXgwSWlYRkRYaXdBZkxPVVF6aHo5SzNjWjBMNkFqamxocWhx",
@@ -2937,6 +3013,23 @@
    "zh_summary": "三季度超预期获300亿信贷但遭NHTSA调查",
    "title_zh": "要点：特斯拉三季度超预期，获300亿美元信贷，NHTSA调查",
    "sentiment": 0
+  },
+  {
+   "id": "303cfc466a2a",
+   "title": "特斯拉 - D34 - moomoo.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jLUpRWGhyaWNEOW5yamNvNWRXOVZLRUEyUXJmaWRvR0lhLU0zeEdVaG11R09XT1dQRUNQNWdtc1M4Xy01U2U5SlB3N0VRWXA4VXR5aDNqOGdWbnJWRFgwNFh6TEVpU1BfVlF0SGZWc19fWE1fc0dZ",
+   "source": "moomoo.com",
+   "published_at": "2026-10-05T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "moomoo.com",
+     "published_at": "2026-10-05T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jLUpRWGhyaWNEOW5yamNvNWRXOVZLRUEyUXJmaWRvR0lhLU0zeEdVaG11R09XT1dQRUNQNWdtc1M4Xy01U2U5SlB3N0VRWXA4VXR5aDNqOGdWbnJWRFgwNFh6TEVpU1BfVlF0SGZWc19fWE1fc0dZ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9fc7bc41cae5",
@@ -4662,6 +4755,23 @@
    "zh_summary": "电动车充电行业多家动态汇总",
    "title_zh": "电动车、电池和充电新闻汇总",
    "sentiment": 0
+  },
+  {
+   "id": "de93dad57abc",
+   "title": "TSLA Stock Climbs Overnight: ‘SPAC King’ Chamath Palihapitiya Sees ‘Obvious’ Logic In Tesla-SpaceX Merger - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlhUdUJfMDZuY2lxSEtVX3JhYWxLbFg5TGctQndDR0R0T0tJalNiMkdtS0lvZUNsTHozOWxJQzdfOEFlWFZTRnAyWVR3cnoyVVFIdzR5NzFfNHZJSUFiTnE1SF9aOXBKZFV3Q0hneFpYREozTTV6NDZIaGpDZFBCV2JLYUhiNE5INHp4TmVXMmlIY0FqQlB2UEExTXR0UnFYSDlydXJhQlRpdmVDWVE",
+   "source": "Stocktwits",
+   "published_at": "2026-10-04T16:36:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-04T16:36:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlhUdUJfMDZuY2lxSEtVX3JhYWxLbFg5TGctQndDR0R0T0tJalNiMkdtS0lvZUNsTHozOWxJQzdfOEFlWFZTRnAyWVR3cnoyVVFIdzR5NzFfNHZJSUFiTnE1SF9aOXBKZFV3Q0hneFpYREozTTV6NDZIaGpDZFBCV2JLYUhiNE5INHp4TmVXMmlIY0FqQlB2UEExTXR0UnFYSDlydXJhQlRpdmVDWVE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "16da7355bba5",
@@ -8051,135 +8161,6 @@
    "zh_summary": "TSLA下跌等待财报与Semi进展",
    "title_zh": "TSLA下跌：投资者等待财报与Semi进展",
    "sentiment": -1
-  },
-  {
-   "id": "1a654fdc79e6",
-   "title": "In 2013, A Los Angeles Engineer Spent $19,000 On His First Tesla Shares. He Survived A 2018 Margin Call And A 76% Crash In 2023. Here's What Investors Can Learn From The Wild Story Of Jason DeBolt's $19,000 Purchase Turning Into $2.8 Million. - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMG90S3VpakM5b1Fod1FDc3hremlVZ1kyTUdnNmphOVZ5cHlweGpzM210MnR1SS1YZkdWeU1RRVF4RTcyUEw4OEdzbDVFMFV4S1BzNVdXTHJpUTNLbFdFOS1LTlpFbjRLQ0tlWklINHhxOHZRQV9IQXpNQmpNdllCdDhzREhKbXJyckJVb1lEX2pKcEVTYUpkMHhWN2k1WXJqY0Fud1hGdDI0SkxOdDhwNGxlX1dOWnI3WTAzRl9IbkwtU05UOWZfZlVNREN3ZmN4aDNWRlBJcTJudkc0bDA2UEhySnRfc0ptdm9mMXJZLWV5T3ZFX0VLdk1uNGh1SXB4NTlRbkhZVk1Pb004cHhjZkZVYy10d3JXNTB6OEMyUlhDNm15bHFTaGJJN0FWYmV5dHVQdGdNMG5VXzk4ZFEybzdqVkt1VnFSSHBCUHVaNTIzQjN1",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-03T19:52:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-03T19:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMG90S3VpakM5b1Fod1FDc3hremlVZ1kyTUdnNmphOVZ5cHlweGpzM210MnR1SS1YZkdWeU1RRVF4RTcyUEw4OEdzbDVFMFV4S1BzNVdXTHJpUTNLbFdFOS1LTlpFbjRLQ0tlWklINHhxOHZRQV9IQXpNQmpNdllCdDhzREhKbXJyckJVb1lEX2pKcEVTYUpkMHhWN2k1WXJqY0Fud1hGdDI0SkxOdDhwNGxlX1dOWnI3WTAzRl9IbkwtU05UOWZfZlVNREN3ZmN4aDNWRlBJcTJudkc0bDA2UEhySnRfc0ptdm9mMXJZLWV5T3ZFX0VLdk1uNGh1SXB4NTlRbkhZVk1Pb004cHhjZkZVYy10d3JXNTB6OEMyUlhDNm15bHFTaGJJN0FWYmV5dHVQdGdNMG5VXzk4ZFEybzdqVkt1VnFSSHBCUHVaNTIzQjN1"
-    },
-    {
-     "name": "247wallst.com",
-     "published_at": "2026-10-03T19:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNMG90S3VpakM5b1Fod1FDc3hremlVZ1kyTUdnNmphOVZ5cHlweGpzM210MnR1SS1YZkdWeU1RRVF4RTcyUEw4OEdzbDVFMFV4S1BzNVdXTHJpUTNLbFdFOS1LTlpFbjRLQ0tlWklINHhxOHZRQV9IQXpNQmpNdllCdDhzREhKbXJyckJVb1lEX2pKcEVTYUpkMHhWN2k1WXJqY0Fud1hGdDI0SkxOdDhwNGxlX1dOWnI3WTAzRl9IbkwtU05UOWZfZlVNREN3ZmN4aDNWRlBJcTJudkc0bDA2UEhySnRfc0ptdm9mMXJZLWV5T3ZFX0VLdk1uNGh1SXB4NTlRbkhZVk1Pb004cHhjZkZVYy10d3JXNTB6OEMyUlhDNm15bHFTaGJJN0FWYmV5dHVQdGdNMG5VXzk4ZFEybzdqVkt1VnFSSHBCUHVaNTIzQjN1"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "工程师1.9万美元特斯拉股票变280万",
-   "title_zh": "工程师1.9万美元买特斯拉股票变成280万美元",
-   "sentiment": 1
-  },
-  {
-   "id": "3c9138d96347",
-   "title": "RBC Capital Keeps Their Buy Rating on Tesla (TSLA) - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVE52d0p4OUNhblVsWFZobkNzeXZzbTZ3QzJpandHeXFzVHAzajNyTFFQRy02d0NJcWh0b3dwZ2FQS1dhR0Z0VEY3M05hTFF2a0oxRkhQYlV4b1k5alNUZ3czZC1uWTFZejdWOWNZaWlvdmxCcVRfOG5lY0Y1M0s5SEszcE9yRnRRenVkYS1CVHIyUGZLX2JJQlR5REZzbEtsVHBfMmhmZDRMM1J1SmlEaTBfSm1YVm1vUWRsQ2pNc0wyVk9jZ3JRemdvd0ludw",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-03T19:46:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-03T19:46:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVE52d0p4OUNhblVsWFZobkNzeXZzbTZ3QzJpandHeXFzVHAzajNyTFFQRy02d0NJcWh0b3dwZ2FQS1dhR0Z0VEY3M05hTFF2a0oxRkhQYlV4b1k5alNUZ3czZC1uWTFZejdWOWNZaWlvdmxCcVRfOG5lY0Y1M0s5SEszcE9yRnRRenVkYS1CVHIyUGZLX2JJQlR5REZzbEtsVHBfMmhmZDRMM1J1SmlEaTBfSm1YVm1vUWRsQ2pNc0wyVk9jZ3JRemdvd0ludw"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "皇银维持特斯拉买入评级",
-   "title_zh": "RBC维持特斯拉(TSLA)买入评级",
-   "sentiment": 1
-  },
-  {
-   "id": "5be6333cff5b",
-   "title": "特斯拉Model 3更新 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05c0RKT3lmS1ZKV1ZzV0VuWHFxUFpQbDRyUmYtazY4UWE5YU93UUJJQUlPTXZsRENFMndWREpiN0FldGtTM0VBVmVYQXpLLW5GRnlRcl96S0RpVlE",
-   "source": "汽车之家",
-   "published_at": "2026-10-03T19:45:38+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-03T19:45:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05c0RKT3lmS1ZKV1ZzV0VuWHFxUFpQbDRyUmYtazY4UWE5YU93UUJJQUlPTXZsRENFMndWREpiN0FldGtTM0VBVmVYQXpLLW5GRnlRcl96S0RpVlE"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-03T19:45:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05c0RKT3lmS1ZKV1ZzV0VuWHFxUFpQbDRyUmYtazY4UWE5YU93UUJJQUlPTXZsRENFMndWREpiN0FldGtTM0VBVmVYQXpLLW5GRnlRcl96S0RpVlE"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-04T00:58:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05c0RKT3lmS1ZKV1ZzV0VuWHFxUFpQbDRyUmYtazY4UWE5YU93UUJJQUlPTXZsRENFMndWREpiN0FldGtTM0VBVmVYQXpLLW5GRnlRcl96S0RpVlE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model 3更新",
-   "title_zh": "特斯拉Model 3更新",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "e51005d594a4",
-   "title": "Viral sensation Mary Halsey raises enough money for a new Tesla - WJAR",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnk0Y1hpZkVLeFlSNG1mY1BMWUY5VE5JQ0lZb05IZUJhZW44ME1OcXNZRmloZmRBLUt6M0xtMXZXRDVZbGtrT1dyVy1qTGlMam10cDNpTzRjVndUOUVubWZBYzJGdjZTVzJGTE8wOXEtaS1iUlBWOG5nRDVuWERXRWRSaUhoeE9ZaE1UM2FVdDBhSkVEX3d4Sk9jZw",
-   "source": "WJAR",
-   "published_at": "2026-10-03T19:41:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "WJAR",
-     "published_at": "2026-10-03T19:41:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnk0Y1hpZkVLeFlSNG1mY1BMWUY5VE5JQ0lZb05IZUJhZW44ME1OcXNZRmloZmRBLUt6M0xtMXZXRDVZbGtrT1dyVy1qTGlMam10cDNpTzRjVndUOUVubWZBYzJGdjZTVzJGTE8wOXEtaS1iUlBWOG5nRDVuWERXRWRSaUhoeE9ZaE1UM2FVdDBhSkVEX3d4Sk9jZw"
-    },
-    {
-     "name": "turnto10.com",
-     "published_at": "2026-10-03T19:41:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnk0Y1hpZkVLeFlSNG1mY1BMWUY5VE5JQ0lZb05IZUJhZW44ME1OcXNZRmloZmRBLUt6M0xtMXZXRDVZbGtrT1dyVy1qTGlMam10cDNpTzRjVndUOUVubWZBYzJGdjZTVzJGTE8wOXEtaS1iUlBWOG5nRDVuWERXRWRSaUhoeE9ZaE1UM2FVdDBhSkVEX3d4Sk9jZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "网红玛丽·哈尔西筹够钱买特斯拉新车",
-   "title_zh": "网红玛丽·哈尔西筹够钱买下新特斯拉",
-   "sentiment": 1
-  },
-  {
-   "id": "809758eaf3a2",
-   "title": "Did You Know New Tesla Performance Models Get Free Premium Connectivity? - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmdZUUZlZXV4VGxvLVhxN1hhRDlCYXMzMUltX1Q0eHBVUVVvWm01UnBQMEdqTVh6ckViZG5GaWozdnFlam5obFNVUzAza3RRSFEtT0Y5aVlXQnpKU2NyZ3FvMkJKUUZLc1FlejNzaEhpaFpPUmwtTVF2emJmVi1LZTJSMU9IbkFUMU0zeG9uc3pFZzJzWHpib1p5S2U5YUI1ZDlEdVF3aWZKdw",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-03T19:17:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-03T19:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmdZUUZlZXV4VGxvLVhxN1hhRDlCYXMzMUltX1Q0eHBVUVVvWm01UnBQMEdqTVh6ckViZG5GaWozdnFlam5obFNVUzAza3RRSFEtT0Y5aVlXQnpKU2NyZ3FvMkJKUUZLc1FlejNzaEhpaFpPUmwtTVF2emJmVi1LZTJSMU9IbkFUMU0zeG9uc3pFZzJzWHpib1p5S2U5YUI1ZDlEdVF3aWZKdw"
-    },
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-03T19:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmdZUUZlZXV4VGxvLVhxN1hhRDlCYXMzMUltX1Q0eHBVUVVvWm01UnBQMEdqTVh6ckViZG5GaWozdnFlam5obFNVUzAza3RRSFEtT0Y5aVlXQnpKU2NyZ3FvMkJKUUZLc1FlejNzaEhpaFpPUmwtTVF2emJmVi1LZTJSMU9IbkFUMU0zeG9uc3pFZzJzWHpib1p5S2U5YUI1ZDlEdVF3aWZKdw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "新款Performance车型免费获高级连接",
-   "title_zh": "你知道新款Tesla Performance车型免费赠送高级连接吗？",
-   "sentiment": 1
   }
  ]
 }
