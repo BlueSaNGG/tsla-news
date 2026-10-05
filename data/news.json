@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T18:22:30.833761+00:00",
+ "updated_at": "2026-10-05T18:37:31.229007+00:00",
  "market": {
-  "price": 379.95,
-  "change_pct": 2.52,
+  "price": 380.31,
+  "change_pct": 2.62,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.3%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（114条已评分）"
+     "note": "今日新闻情绪 +0.43（115条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.95 vs 20日均线 $366.16"
+     "note": "现价 $380.31 vs 20日均线 $366.18"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.3,
-   "ma20": 366.16,
-   "as_of": "2026-10-05T18:22:30.827253+00:00"
+   "implied_upside_pct": 5.2,
+   "ma20": 366.18,
+   "as_of": "2026-10-05T18:37:31.220105+00:00"
   },
-  "pe_ttm": 105.1,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.43,
-   "count": 114
+   "count": 115
   }
  },
  "meta": {
@@ -68,15 +68,37 @@
  },
  "stories": [
   {
+   "id": "b728771b0487",
+   "title": "Tesla Robotaxi App Now Available in Many More Countries - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-05T18:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-05T18:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "2849d0bb8cc9",
    "title": "Tesla FSD in Europe: 5 Details That Matter From Tomorrow's UNECE Meeting - BASENOR",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA",
    "source": "BASENOR",
    "published_at": "2026-10-05T18:06:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "BASENOR",
+     "published_at": "2026-10-05T18:06:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA"
+    },
+    {
+     "name": "basenor.com",
      "published_at": "2026-10-05T18:06:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA"
     }
@@ -467,10 +489,15 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2pRYTk2YnZMQ3lSLVE5Ni1EbTlpTUNUNTRZRVQweTZFOWpjTDlSZ0pPaUFSdFRCOVoxS3RSV3kzOVN5dmI5aDN1SGpvdXo0US0xZWpNWEIyR1RSZDlRWlljYW1lU3dKWVBKMGY2SDFIenNVN1M3LUpWYUpjQ2dHVzdwNEFYdzc2SEpZX2xsZzl3M0kwMzQ0bkFtVQ",
    "source": "BASENOR",
    "published_at": "2026-10-05T16:21:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "BASENOR",
+     "published_at": "2026-10-05T16:21:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2pRYTk2YnZMQ3lSLVE5Ni1EbTlpTUNUNTRZRVQweTZFOWpjTDlSZ0pPaUFSdFRCOVoxS3RSV3kzOVN5dmI5aDN1SGpvdXo0US0xZWpNWEIyR1RSZDlRWlljYW1lU3dKWVBKMGY2SDFIenNVN1M3LUpWYUpjQ2dHVzdwNEFYdzc2SEpZX2xsZzl3M0kwMzQ0bkFtVQ"
+    },
+    {
+     "name": "basenor.com",
      "published_at": "2026-10-05T16:21:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2pRYTk2YnZMQ3lSLVE5Ni1EbTlpTUNUNTRZRVQweTZFOWpjTDlSZ0pPaUFSdFRCOVoxS3RSV3kzOVN5dmI5aDN1SGpvdXo0US0xZWpNWEIyR1RSZDlRWlljYW1lU3dKWVBKMGY2SDFIenNVN1M3LUpWYUpjQ2dHVzdwNEFYdzc2SEpZX2xsZzl3M0kwMzQ0bkFtVQ"
     }
@@ -1247,7 +1274,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1ZGSDhHVVlubDV2ZDIyZTRiZnlrZlIxeWNhbkNIbWRBZ3FweUx5Tm5MdW1mRFZkbUk5ZURKdGstaU1JZEJPQVVvU252dWR6eE85SzFUZWlLaEdoLTVYdGVPSm5zTUJXUUFTR1BtVzI0SU5felhEaVRCd3J6WVcwc3VXRHNISHZm",
    "source": "搜狐网",
    "published_at": "2026-10-05T13:02:52+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -1263,6 +1290,11 @@
      "name": "手机新浪网",
      "published_at": "2026-10-05T17:34:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WRTZyRFVnNzZraV9zT3lBQ1l3dk1aSmdoM2NkVEgwMTVEZ24zQlJVSGNyb1c0OU1rdXRvSzRHNV9vMEtGNTZTQ2FLVG1HdUdXX2o4bld5cHpJa29KTnhZLVNHelMzNW5KZ21JemtYOEpiMFlhaU53TUk5VWx2WHc"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-05T17:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sUGJoRWlURG1VSjVmdUlYNG9wbWFjd0lWZU5iS3VleDB6clZka3JmeV93a0JQM24wY2YwSHpWdDM5U1RQZVRtYmwxQ3VIb0ZtYXJHYVRiN0dvRlRGWElfd1RvX1VfUENJMWVnSXg0S2ltVC1ZdHBRNQ"
     }
    ],
    "category": "交付量",
@@ -8157,31 +8189,6 @@
    "zh_summary": "特斯拉三季度交付环比增1.3%、同比降2.1%",
    "title_zh": "特斯拉Q3交付环比增长1.3%同比下降2.1%",
    "sentiment": -1
-  },
-  {
-   "id": "b5f69203da75",
-   "title": "Tesla just made its headlights even better through a software update - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDlNRmRrSHNPb0xBQUw5SmRKT2lmSDJGNnVHXzNpZnFQaTBNVzZUTTRBQWVhMDJWNV8xLTk1a0ZvNjZLbzFURlluVlZJc2xHWUdMV3VqTFlTUVJEVUJiT2hTVU1KMkR2SHQ0MGpiUnl2TWhreXIyWlNjb0JIU1JfV2ZsRVozUQ",
-   "source": "Teslarati",
-   "published_at": "2026-10-03T17:08:09+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-03T17:08:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDlNRmRrSHNPb0xBQUw5SmRKT2lmSDJGNnVHXzNpZnFQaTBNVzZUTTRBQWVhMDJWNV8xLTk1a0ZvNjZLbzFURlluVlZJc2xHWUdMV3VqTFlTUVJEVUJiT2hTVU1KMkR2SHQ0MGpiUnl2TWhreXIyWlNjb0JIU1JfV2ZsRVozUQ"
-    },
-    {
-     "name": "teslarati.com",
-     "published_at": "2026-10-03T17:08:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDlNRmRrSHNPb0xBQUw5SmRKT2lmSDJGNnVHXzNpZnFQaTBNVzZUTTRBQWVhMDJWNV8xLTk1a0ZvNjZLbzFURlluVlZJc2xHWUdMV3VqTFlTUVJEVUJiT2hTVU1KMkR2SHQ0MGpiUnl2TWhreXIyWlNjb0JIU1JfV2ZsRVozUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "软件更新让特斯拉大灯更强",
-   "title_zh": "特斯拉通过软件更新升级车灯",
-   "sentiment": 1
   }
  ]
 }
