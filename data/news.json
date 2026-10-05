@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T05:37:30.871102+00:00",
+ "updated_at": "2026-10-05T05:52:27.378119+00:00",
  "market": {
   "price": 370.59,
   "change_pct": 4.65,
@@ -10,8 +10,8 @@
    "days_left": 16
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（3条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 10,
    "implied_upside_pct": 10.0,
    "ma20": 364.87,
-   "as_of": "2026-10-05T05:37:30.863709+00:00"
+   "as_of": "2026-10-05T05:52:27.369094+00:00"
   },
   "pe_ttm": 102.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.0,
+   "count": 3
   }
  },
  "meta": {
@@ -414,10 +414,15 @@
    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRlpOWVA0T24zTnpjbXFUT0xkNlBBT0lxWm1fMW5OdHFZUEs3cm14MF9hbENZMVZIM2ZvdENrajFxT2lpMFhpalZtZHFZZWIyUHZfalVPZXR0T1BTOGJ2ZC12cXBoRF9SMEFCdkRfWVNreXNJZEEzcDg2ZWpKLV93TllOR1dHZjN3eWV4RmJCQjgxdkFLem41ZjktSTBzLS0wQ29lTkktYndwcnZKaUNHRi1ka1oyUWxvMkR4NmxwQlpac0VhX1djT0Y2RGhzWlhZOEJFYmpLTG5yN1VQeFozbl9CX1kzY3lQLUxnUjgyZ0FGbTd2aHgwaS1KUHp6WmxQV2p1c2dRN0JVcE45amxJSjAyU1Atbld5OGRN",
    "source": "华尔街日报中文版",
    "published_at": "2026-10-05T03:16:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "华尔街日报中文版",
+     "published_at": "2026-10-05T03:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRlpOWVA0T24zTnpjbXFUT0xkNlBBT0lxWm1fMW5OdHFZUEs3cm14MF9hbENZMVZIM2ZvdENrajFxT2lpMFhpalZtZHFZZWIyUHZfalVPZXR0T1BTOGJ2ZC12cXBoRF9SMEFCdkRfWVNreXNJZEEzcDg2ZWpKLV93TllOR1dHZjN3eWV4RmJCQjgxdkFLem41ZjktSTBzLS0wQ29lTkktYndwcnZKaUNHRi1ka1oyUWxvMkR4NmxwQlpac0VhX1djT0Y2RGhzWlhZOEJFYmpLTG5yN1VQeFozbl9CX1kzY3lQLUxnUjgyZ0FGbTd2aHgwaS1KUHp6WmxQV2p1c2dRN0JVcE45amxJSjAyU1Atbld5OGRN"
+    },
+    {
+     "name": "cn.wsj.com",
      "published_at": "2026-10-05T03:16:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRlpOWVA0T24zTnpjbXFUT0xkNlBBT0lxWm1fMW5OdHFZUEs3cm14MF9hbENZMVZIM2ZvdENrajFxT2lpMFhpalZtZHFZZWIyUHZfalVPZXR0T1BTOGJ2ZC12cXBoRF9SMEFCdkRfWVNreXNJZEEzcDg2ZWpKLV93TllOR1dHZjN3eWV4RmJCQjgxdkFLem41ZjktSTBzLS0wQ29lTkktYndwcnZKaUNHRi1ka1oyUWxvMkR4NmxwQlpac0VhX1djT0Y2RGhzWlhZOEJFYmpLTG5yN1VQeFozbl9CX1kzY3lQLUxnUjgyZ0FGbTd2aHgwaS1KUHp6WmxQV2p1c2dRN0JVcE45amxJSjAyU1Atbld5OGRN"
     }
@@ -684,7 +689,7 @@
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0NmUkFmUHF6OElWek96QWZaUy1rM1ktQTVyeHlSc3psZnd4OC1SWThBcm11YjdDMHVNeTA0d1BJaHlRMExPVGw4Y2I2aDNJYzNjaUxZbl9vM3F3SDVIVHdYWVlRUTJZa2J4WmJNTmJpVlEwWXlQaldjWGdVS1RvNHlrajhIWDZqZDFPZkVPV0llMmZNWVBjblBHN1lNMVFmZVRNdlhIUHBEeWsxYmdrMXk3UENlLXdwSzFEQ1BCbVc4UjJDRDRN",
    "source": "The Motley Fool",
    "published_at": "2026-10-05T00:17:01+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -710,6 +715,11 @@
      "name": "finance.yahoo.com",
      "published_at": "2026-10-05T00:34:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeld0M0ZtWXRVd0dnYnJmOVZyVUV1aEVOQ3RyOWhoTGdNdUs2VFBPbVZVaUR4eHB5RV90RzZkVGtNU3JLWGdQb1BXcURPSVFmc3Iwcm1wX04ydWxIcDktWGNDWVl2WVJhTVk0Rkpndl9WZElJMGhwdmhPX1BiVlpNV0JqT2xpWmdEeTJqLVBwaTI5LV82QjVKeEIxUHVvQQ"
+    },
+    {
+     "name": "theglobeandmail.com",
+     "published_at": "2026-10-05T00:56:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdmN4RXdfTnRpd2JGbUczUEtkSTZiSDJTOHV5clZsVXQ0M2pJSmtoam1hRXd6OVBVUkRrYW16NkJmRTNJc1NOSmJ1czA5RnVWYzBoMXA1SWI5UXZRVWFMeFdzVll5R0ZrMjdSOGFIOW1GZGNzbDZPbHhDTXNCbkUzUmJyYVNLUTRHd1lYTXFEazNmN3h0anFVT2o4NXh3NEtCcWpBQk11bVZWeFZqc25jbDdIQnJUMDdoekxWcTViR3dkWktvb2xkZFF3UDFhMlp5TjIyaGotYmxUR2EwLUxwcFctLTZTQzNZbU1aTzZCMUZxUlIxN0VXZ2RqU1ZMbFE"
     }
    ],
    "category": "其他",
@@ -1054,6 +1064,23 @@
    "zh_summary": "特斯拉在旧金山玛丽娜区起火",
    "title_zh": "旧金山玛丽娜区一辆特斯拉起火",
    "sentiment": -1
+  },
+  {
+   "id": "ec6043b33815",
+   "title": "【视频】水母收购行情（10月）——特斯拉Model Y现在各年款还值多少钱？ - 车家号",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QQUh4ZFhuclcwWG0yZGdnbG9WZEtWZmR0Z182QTNKeldwTG5tX1N6VEhmLTFqRHkwMWRoR0lzZW1XY21QUkNILVRhQVJaRlVqd1dvQjlvQ2ppSWc",
+   "source": "车家号",
+   "published_at": "2026-10-04T17:39:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "车家号",
+     "published_at": "2026-10-04T17:39:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QQUh4ZFhuclcwWG0yZGdnbG9WZEtWZmR0Z182QTNKeldwTG5tX1N6VEhmLTFqRHkwMWRoR0lzZW1XY21QUkNILVRhQVJaRlVqd1dvQjlvQ2ppSWc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "c0af5e5e85c4",
@@ -7871,31 +7898,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉大涨",
    "title_zh": "特斯拉，大涨",
-   "sentiment": 1
-  },
-  {
-   "id": "587593db542f",
-   "title": "Tesla Updates Model 3/Y in U.S. With 16\" Screen, Faster 0-60 & More - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHhhQ3JHOWtfc0pXTjd4LVU3ZkJDYXctZ09FalM3dzdoVXhYdVpLX1lhRXFURGoyMjVMTWxSYXJHdUI2dU1OMGdTSlpGbzFsV3Y3Mmg5Sm1mLVRYN0N1QmlaOVE0bHUxZGlUZ1NZRndxdUE5bEJLNGk5TWtYTmdpMmZjLWkxU2YwMm91bm9aRVJFNzB3cF9MbWNxaUlKY2VS",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-02T20:48:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-02T20:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHhhQ3JHOWtfc0pXTjd4LVU3ZkJDYXctZ09FalM3dzdoVXhYdVpLX1lhRXFURGoyMjVMTWxSYXJHdUI2dU1OMGdTSlpGbzFsV3Y3Mmg5Sm1mLVRYN0N1QmlaOVE0bHUxZGlUZ1NZRndxdUE5bEJLNGk5TWtYTmdpMmZjLWkxU2YwMm91bm9aRVJFNzB3cF9MbWNxaUlKY2VS"
-    },
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-02T20:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHhhQ3JHOWtfc0pXTjd4LVU3ZkJDYXctZ09FalM3dzdoVXhYdVpLX1lhRXFURGoyMjVMTWxSYXJHdUI2dU1OMGdTSlpGbzFsV3Y3Mmg5Sm1mLVRYN0N1QmlaOVE0bHUxZGlUZ1NZRndxdUE5bEJLNGk5TWtYTmdpMmZjLWkxU2YwMm91bm9aRVJFNzB3cF9MbWNxaUlKY2VS"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "美版Model 3/Y升级16寸屏加速更快",
-   "title_zh": "特斯拉美版Model 3/Y升级16寸屏、加速更快",
    "sentiment": 1
   }
  ]
