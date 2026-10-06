@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T10:07:30.620077+00:00",
+ "updated_at": "2026-10-06T10:22:29.295524+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（17条已评分）"
+     "note": "今日新闻情绪 +0.23（22条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-06T10:07:30.612354+00:00"
+   "as_of": "2026-10-06T10:22:29.285755+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 17
+   "avg": 0.23,
+   "count": 22
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "53e138ae854f",
+   "title": "As Tesla Deliveries Rebound, Is It a Better Investment Than SpaceX Stock? - fool.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXpMVDZ2QTlYcmVneU5xWC1CMHdCTW9FVS1haE1rZkdDMVNGLUJMbWwtbDloLUJYem1ONVlWNE10ZTBKbFFtSmpIbVBPbVd3NkloaDZhYTltV3ByTVNvT3oxeGIwSk9sejk4WDlRQnNkVDdUVFNKb3JGbEtTa2dyUUZaMHh3X2pFdjlnY21LZF9IZw",
+   "source": "fool.com",
+   "published_at": "2026-10-06T10:20:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "fool.com",
+     "published_at": "2026-10-06T10:20:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXpMVDZ2QTlYcmVneU5xWC1CMHdCTW9FVS1haE1rZkdDMVNGLUJMbWwtbDloLUJYem1ONVlWNE10ZTBKbFFtSmpIbVBPbVd3NkloaDZhYTltV3ByTVNvT3oxeGIwSk9sejk4WDlRQnNkVDdUVFNKb3JGbEtTa2dyUUZaMHh3X2pFdjlnY21LZF9IZw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
+  },
   {
    "id": "a5895f738ad8",
    "title": "【视频】拿下❗️21年特斯拉毛豆3标续后驱升级5万多公里实表 - 汽车之家",
@@ -83,9 +100,26 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "【视频】拿下❗️21年特斯拉毛豆3标续后驱升级5万多公里实表 - 汽车之家",
    "zh_summary": "21年毛豆3标续后驱实表5万多公里",
+   "title_zh": "【视频】拿下❗️21年特斯拉毛豆3标续后驱升级5万多公里实表 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "50e0558aa675",
+   "title": "24 panels, 1 Powerwall, and just 1 hour offline: Tesla install wraps in a single day - The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDZoTE5LcnhKVTZMTkhaWHduUDF1TUpGNG5sel9rTFVHZWlSbDQ0bVlFMW9NcFd0R3dWVzdrck1KSXNGZE5xN3NqX2NZbVBhSVAxS2E3aWJ5SVdRem5jUlhSYTF5SXluc05iY1BKTkVpLXA5WE1uRXFSbWFoTGhyc1FGMEZYWWRQZHlzQUlpNA",
+   "source": "The Cool Down",
+   "published_at": "2026-10-06T10:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-10-06T10:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDZoTE5LcnhKVTZMTkhaWHduUDF1TUpGNG5sel9rTFVHZWlSbDQ0bVlFMW9NcFd0R3dWVzdrck1KSXNGZE5xN3NqX2NZbVBhSVAxS2E3aWJ5SVdRem5jUlhSYTF5SXluc05iY1BKTkVpLXA5WE1uRXFSbWFoTGhyc1FGMEZYWWRQZHlzQUlpNA"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
   },
   {
    "id": "ea9bb5c33db4",
@@ -103,9 +137,26 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉FSD监督版为何迟迟难以落地 - 手机新浪网",
    "zh_summary": "特斯拉FSD监督版迟迟难以落地",
+   "title_zh": "特斯拉FSD监督版为何迟迟难以落地 - 手机新浪网",
    "sentiment": -1
+  },
+  {
+   "id": "d4624d5f511d",
+   "title": "Elon Musk vowed Tesla would never raise money again in 2012 — then came 29 funding rounds and a $465M federal loan - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajJJRlNKZXFaOTVvMFNFbWtVUDlFdzFPMWp1bzFJNUdXWm9iWU9Mc1BBOTBCNkY5dnpUVjhhQkw5Wm03LU1ETjhCWTVuUlgzR29xNmZxbWo0ekFYTExORENrcmdvcUNkS0Z1UXhZSmZCV09HaDZna2dwWlNESWllcUhZdjRxVWpHZDhWMTBRQVJwZ2lrWE9v",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-06T10:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T10:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajJJRlNKZXFaOTVvMFNFbWtVUDlFdzFPMWp1bzFJNUdXWm9iWU9Mc1BBOTBCNkY5dnpUVjhhQkw5Wm03LU1ETjhCWTVuUlgzR29xNmZxbWo0ekFYTExORENrcmdvcUNkS0Z1UXhZSmZCV09HaDZna2dwWlNESWllcUhZdjRxVWpHZDhWMTBRQVJwZ2lrWE9v"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "f3d5a9cbee47",
@@ -123,8 +174,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "Gary Black称交付超预期后TSLA短期还有上涨空间",
    "zh_summary": "Gary Black：交付超预期改变逻辑",
+   "title_zh": "Gary Black称交付超预期后TSLA短期还有上涨空间",
    "sentiment": 1
   },
   {
@@ -143,8 +194,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "明星放弃宾利改开Model Y还买十辆给员工",
    "zh_summary": "明星弃宾利换Model Y买十辆",
+   "title_zh": "明星放弃宾利改开Model Y还买十辆给员工",
    "sentiment": 1
   },
   {
@@ -163,8 +214,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "分析师：交付超预期只是开胃菜，2027才是正餐",
    "zh_summary": "分析师称交付超预期只是开胃菜",
+   "title_zh": "分析师：交付超预期只是开胃菜，2027才是正餐",
    "sentiment": 1
   },
   {
@@ -258,7 +309,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW1JTTFIek15eDJZdWVnMFFiV3hXOGtmWHRXSkxfWDdmVmVjLWRPb01vcHZnSXNlRmtmZGw2MUUyM0ZPUFE3amtUTkVwbEl3ckJVVXI3UmFiUU83MU8wOVVHa21lb3hGa3p2UktYcDdvWk10NThQcDVzOGE5VlpfaWZPd1I1VUhGekFDWHN4bHFFaHFVX1E",
    "source": "The Motley Fool",
    "published_at": "2026-10-06T08:44:17+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -274,10 +325,16 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-06T08:54:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXVyU0ZsYVZyLWxMaW5mdkxQVGNlUEw2cVBETFZFT2hnd1NpZUtYX0NaVnlVM2licDQtc0hKZnI4V2FoNld1RWd6S0psdG1TTlhMX3lJNWtCXzJ3aFU2cTUwYnVIbVJ5Zm5BZS1rcTlUNTlibUo4ZWNXemp3UzVfSkE3VXFja1h2WnBMU1VpTkZwWWFDX2JGd0lyRGoyUkFtVGc"
+    },
+    {
+     "name": "fool.com",
+     "published_at": "2026-10-06T08:44:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW1JTTFIek15eDJZdWVnMFFiV3hXOGtmWHRXSkxfWDdmVmVjLWRPb01vcHZnSXNlRmtmZGw2MUUyM0ZPUFE3amtUTkVwbEl3ckJVVXI3UmFiUU83MU8wOVVHa21lb3hGa3p2UktYcDdvWk10NThQcDVzOGE5VlpfaWZPd1I1VUhGekFDWHN4bHFFaHFVX1E"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉发布利好消息分析师问值不值得买",
    "title_zh": "特斯拉刚发布利好消息，但股票值得买吗？",
    "sentiment": 0
@@ -8197,124 +8254,6 @@
     "pct": 0.6,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "5ab0dabd1eb9",
-   "title": "特斯拉在2026.38版本软件更新中测试动态大灯水平调节功能 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWk1xYXYzRm9sYXduZnp1TEhlSVZwU2xxOTVMdEwya2RMV1FBNlF6SGtyd1h1eU5scmJ1dDJIZTVFMEdqbkNOQ2lrU0VrOEJPcXllcGQtWUJwVjg",
-   "source": "网通社",
-   "published_at": "2026-10-04T07:15:07+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-04T07:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWk1xYXYzRm9sYXduZnp1TEhlSVZwU2xxOTVMdEwya2RMV1FBNlF6SGtyd1h1eU5scmJ1dDJIZTVFMEdqbkNOQ2lrU0VrOEJPcXllcGQtWUJwVjg"
-    },
-    {
-     "name": "auto.news18a.com",
-     "published_at": "2026-10-04T07:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWk1xYXYzRm9sYXduZnp1TEhlSVZwU2xxOTVMdEwya2RMV1FBNlF6SGtyd1h1eU5scmJ1dDJIZTVFMEdqbkNOQ2lrU0VrOEJPcXllcGQtWUJwVjg"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-04T07:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3Qy1yVjdYVHNTZ0NJc09uZ1hXWkoxb1VKbi0tZjVJN09oczV2WUhFbFlkLURDUHZweGZuSXR6TzhaOFFXcnAzWHpNRWk"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-04T07:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3Qy1yVjdYVHNTZ0NJc09uZ1hXWkoxb1VKbi0tZjVJN09oczV2WUhFbFlkLURDUHZweGZuSXR6TzhaOFFXcnAzWHpNRWk"
-    },
-    {
-     "name": "auto.ifeng.com",
-     "published_at": "2026-10-04T07:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3Qy1yVjdYVHNTZ0NJc09uZ1hXWkoxb1VKbi0tZjVJN09oczV2WUhFbFlkLURDUHZweGZuSXR6TzhaOFFXcnAzWHpNRWk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "2026.38测试动态大灯调节",
-   "title_zh": "特斯拉在2026.38版本软件更新中测试动态大灯水平调节功能 - 网通社",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f681744b81a6",
-   "title": "特斯拉悄然测试动态大灯，近光灯自动修正照射角度 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pRThOQ1RIWHBOYzF1dEJmZDFBWUlOQWZpQWFUUFZXVUMyVU5nVlpXOEQyOU14R19ySHVhM2dSMUp2U0h1dlF1X1lCNWJDa2ZuWi1qSzRzVVpDY1RYU01WUjg5TDBGWlJSdkJJT0NjLUFXaklURU9WUEs4T2toZw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T07:07:00+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T07:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pRThOQ1RIWHBOYzF1dEJmZDFBWUlOQWZpQWFUUFZXVUMyVU5nVlpXOEQyOU14R19ySHVhM2dSMUp2U0h1dlF1X1lCNWJDa2ZuWi1qSzRzVVpDY1RYU01WUjg5TDBGWlJSdkJJT0NjLUFXaklURU9WUEs4T2toZw"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-04T07:07:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMndTN0tRbzlRNUhjMDlTd0FWV0tzcnBvcWpUZVpHdEpab0g4M2MzaGV1ZEJQeHUwQm4yaUxLbTVid0pfRVFlR1YyTGxkN25FMjlKRXhDZlhKbldOUVRPU045bzdlek5QbThNZmhYSHJscVoySVBpTkFWdnVfd2hqRjlYMzBrRmZt"
-    },
-    {
-     "name": "tech.sina.cn",
-     "published_at": "2026-10-04T07:28:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zbXY0djk0ZFdBYnpkV2xINXgyZE1rRWM5dlpEdHViamhhV3M0S0ZWbEEyLW9JQXVFS1FOaGpxRUtIU0VsT2xFR2tMNnZwbVNid2RBNThxclJTT2UyS2s3YWRseFBvRUpXbXY4YnB0dW1RQmVK"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-04T07:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pRThOQ1RIWHBOYzF1dEJmZDFBWUlOQWZpQWFUUFZXVUMyVU5nVlpXOEQyOU14R19ySHVhM2dSMUp2U0h1dlF1X1lCNWJDa2ZuWi1qSzRzVVpDY1RYU01WUjg5TDBGWlJSdkJJT0NjLUFXaklURU9WUEs4T2toZw"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-04T07:07:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMndTN0tRbzlRNUhjMDlTd0FWV0tzcnBvcWpUZVpHdEpab0g4M2MzaGV1ZEJQeHUwQm4yaUxLbTVid0pfRVFlR1YyTGxkN25FMjlKRXhDZlhKbldOUVRPU045bzdlek5QbThNZmhYSHJscVoySVBpTkFWdnVfd2hqRjlYMzBrRmZt"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-04T07:08:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wVDNVd1JtUGpHQ2JxeEFadTBNbzkzLTBrNFczSW15emNzYVFvdkhnby1UMmN4cDZiSUw5Z2xuUGtTN21YYmRSS3h4Nmc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉测试大灯自动调节",
-   "title_zh": "特斯拉悄然测试动态大灯，近光灯自动修正照射角度 - 手机新浪网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "8f24f402a1f9",
-   "title": "价值25000美元，特斯拉新增“充电逃生工功能”，躲避枪击？维修价值不菲 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXpuME1zZEdsMEdHX3NBaEZqejRYRlNpTWxORUd0dUk5N1paSnYxYjRUR1RtWUxpV2ZtSlo0WWpCdHNZVDFTckw3VDZhZ3ZoSWwyQjJHdHFCZXR1YVJxdzBmY2NDdDFkZTRQVmJGMHRhdGRJTjFiSFZTNXktdW9XbQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T07:01:50+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T07:01:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXpuME1zZEdsMEdHX3NBaEZqejRYRlNpTWxORUd0dUk5N1paSnYxYjRUR1RtWUxpV2ZtSlo0WWpCdHNZVDFTckw3VDZhZ3ZoSWwyQjJHdHFCZXR1YVJxdzBmY2NDdDFkZTRQVmJGMHRhdGRJTjFiSFZTNXktdW9XbQ"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-04T07:01:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXpuME1zZEdsMEdHX3NBaEZqejRYRlNpTWxORUd0dUk5N1paSnYxYjRUR1RtWUxpV2ZtSlo0WWpCdHNZVDFTckw3VDZhZ3ZoSWwyQjJHdHFCZXR1YVJxdzBmY2NDdDFkZTRQVmJGMHRhdGRJTjFiSFZTNXktdW9XbQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉推充电逃生功能防劫持",
-   "title_zh": "特斯拉新增充电逃生功能，价值25000美元",
-   "sentiment": 1
   }
  ]
 }
