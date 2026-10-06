@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T19:07:29.314769+00:00",
+ "updated_at": "2026-10-06T19:22:36.383618+00:00",
  "market": {
-  "price": 380.35,
-  "change_pct": 0.43,
+  "price": 379.91,
+  "change_pct": 0.31,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.1%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（92条已评分）"
+     "note": "今日新闻情绪 +0.19（94条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.35 vs 20日均线 $366.71"
+     "note": "现价 $379.91 vs 20日均线 $366.69"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.1,
-   "ma20": 366.71,
-   "as_of": "2026-10-06T19:07:29.303976+00:00"
+   "implied_upside_pct": 7.3,
+   "ma20": 366.69,
+   "as_of": "2026-10-06T19:22:36.371444+00:00"
   },
-  "pe_ttm": 105.2,
+  "pe_ttm": 105.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
-   "count": 92
+   "avg": 0.19,
+   "count": 94
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ed46cfb297ca",
+   "title": "Tesla’s full EV lineup can now also provide home backup energy - Solar Power World",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRocG9DZ0dnTVc4cEVnUko5UFdSd3RRQWxCaG91VTJfNHAtVlRXN3ZfVHBOTU1rU2FWemdGUmNMU2M1VHdLME4wYktUMmowdTJRRUw5QkJ2eXhrU3ZpNWhUaXJBWF84OF9ueVE2YmotZ1NPQ2t4TTdhYzhPcEc5UzZKVGNqTFNpV3g2TlRiV1dFQ3EtNS1BV2J6THNoaXlhaHVGNG0xNE9QQ0lO",
+   "source": "Solar Power World",
+   "published_at": "2026-10-06T19:08:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Solar Power World",
+     "published_at": "2026-10-06T19:08:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRocG9DZ0dnTVc4cEVnUko5UFdSd3RRQWxCaG91VTJfNHAtVlRXN3ZfVHBOTU1rU2FWemdGUmNMU2M1VHdLME4wYktUMmowdTJRRUw5QkJ2eXhrU3ZpNWhUaXJBWF84OF9ueVE2YmotZ1NPQ2t4TTdhYzhPcEc5UzZKVGNqTFNpV3g2TlRiV1dFQ3EtNS1BV2J6THNoaXlhaHVGNG0xNE9QQ0lO"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "4a4d8ddbc607",
    "title": "Tesla Brings Cybercab to Europe for First Time - GuruFocus",
@@ -3671,6 +3688,23 @@
    "sentiment": 0
   },
   {
+   "id": "8663266d9ffc",
+   "title": "无人驾驶汽车！真的来了 特斯拉Cybercab量产！ - 手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wMjFmS2ZfUUZIVEE5Y2xvbjR4R3BQU0RfTXFxR0JfQVhwc2Q2SFUxQkdHNjVqT2tVbG9ibklpS2JXczJrM05HX1N0RVRuR2M2VEYxbQ",
+   "source": "手机网易网",
+   "published_at": "2026-10-05T20:17:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机网易网",
+     "published_at": "2026-10-05T20:17:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wMjFmS2ZfUUZIVEE5Y2xvbjR4R3BQU0RfTXFxR0JfQVhwc2Q2SFUxQkdHNjVqT2tVbG9ibklpS2JXczJrM05HX1N0RVRuR2M2VEYxbQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
    "id": "794d6624922a",
    "title": "Tesla tests $386.66 resistance with double top risk: Live - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWhlNm8xWGd5cm5ndEJLWlpmdGhqNnRiY3AxN3pBcENtU3RfVC1zTEZnMHVwaDh6VWZmUlZJRjY5X1FXZ01wUWprVFgzblZsSkZTcUhkN0tCbmxIZHZBZHJsZVBTTjdvN01XT0s0RzZDb0ZqcXpXcXB2M3l2RkNRVU9nZXlvSkJBWGFNUHRRbGRFNG05MjNpemxwT2c2bTF1OFVkSkR6NVRLcERFQkl2YmFKVjlpcDA",
@@ -4441,12 +4475,12 @@
    "title": "Tesla reveals early Robotaxi charging strategy, showing scrappy DNA - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTW5oV2dxLVhaWTRrUk1rOXZGZzltdldOeUs4QmJTSG9DM0ZJS1JhNW1MeXJwX1J2R1VwZk9MUmI0c19tb2N1bUpqRVRtU3BKMmhoR3FCMmVST2l2QjFfbkdvMXJZZV93dzljRHUxUDdZLS1Xam9pX0d3ZGhvTTZHMzJPRQ",
    "source": "Teslarati",
-   "published_at": "2026-10-05T17:01:17+00:00",
+   "published_at": "2026-10-05T16:59:52+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "Teslarati",
-     "published_at": "2026-10-05T17:01:17+00:00",
+     "published_at": "2026-10-05T16:59:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTW5oV2dxLVhaWTRrUk1rOXZGZzltdldOeUs4QmJTSG9DM0ZJS1JhNW1MeXJwX1J2R1VwZk9MUmI0c19tb2N1bUpqRVRtU3BKMmhoR3FCMmVST2l2QjFfbkdvMXJZZV93dzljRHUxUDdZLS1Xam9pX0d3ZGhvTTZHMzJPRQ"
     },
     {
@@ -8140,90 +8174,6 @@
    "zh_summary": "现代汽车瞄准机器人赛道叫板特斯拉",
    "title_zh": "叫板特斯拉：现代汽车瞄准机器人新赛道 - 华尔街日报中文版",
    "sentiment": -1
-  },
-  {
-   "id": "f6764bd50174",
-   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
-   "source": "东方财富",
-   "published_at": "2026-10-05T03:15:12+00:00",
-   "outlets_count": 9,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-05T03:15:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
-    },
-    {
-     "name": "zaobao.com.sg",
-     "published_at": "2026-10-06T02:26:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QQlBNQjRSSnoxU3hrQ1R6elEtYVVNRTdreWRpZmF6b1JqbnBIZXk1Sk5Pd3RLSnlKZnpBdnJWMGhQdVFyZkE3Y1JnSzcxaURNcHBuN05VU3dVbC1fWFhpZnp6ZHFWMjdPUzYta0l3"
-    },
-    {
-     "name": "联合早报",
-     "published_at": "2026-10-06T02:26:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QQlBNQjRSSnoxU3hrQ1R6elEtYVVNRTdreWRpZmF6b1JqbnBIZXk1Sk5Pd3RLSnlKZnpBdnJWMGhQdVFyZkE3Y1JnSzcxaURNcHBuN05VU3dVbC1fWFhpZnp6ZHFWMjdPUzYta0l3"
-    },
-    {
-     "name": "eastmoney.com",
-     "published_at": "2026-10-05T03:15:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
-    },
-    {
-     "name": "亚洲电视新闻",
-     "published_at": "2026-10-06T08:54:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdlcyQnI1NDRHR0pqU2NtQnNQVThXQWwtOUNTUG1Gcy1vQTJFTVV5MlpaZVM5Q2h2WnFibk9HclROWXdUYWNKVTc5UVBMMWFxRXlYdVpRb1hUMTgxUC1BeXdVSkktdGdyTTFjODFmcTdGN3doeXZIX2ItMW1PU3ZFWW03dVJkR3BaSG1uZFRHTkVyRVRkdEJCX3lCVnBlMHBCZWlNajdkMjZ2akpoMjRhOFROUTJXa25YSTE3RGFiWkJhSHZVcEduM21wRUVSdVMzNTlmclJlX3d5TU41ZDh3ellmX0tBMVpKWnlvaXZKYjlfcVJDMnNqTFRNTHhhX2pvOEpkMXg0cno1RTlxUVBCb05BRF9qUWtLNkdESm1ibk9lUHNxa3I3M29yYW9vZw"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-06T11:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkw0Z3JONGR6M0RkMDItMWxzc2k3VnVJblNVanhuUnVPd0xFWDNJM1I1Ul9kZTRiUEV3Z19kcFBRWS1iRnNJSTNRZ2dUYS1rbnZ6ek90Y2VYRzlFaTBZUWNHMFU3cGRqX3R0b3d5ZlhCNWtuVTB3SWxUZWNiVUlJYktBVzdKMmNqaDBjbw"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T11:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkw0Z3JONGR6M0RkMDItMWxzc2k3VnVJblNVanhuUnVPd0xFWDNJM1I1Ul9kZTRiUEV3Z19kcFBRWS1iRnNJSTNRZ2dUYS1rbnZ6ek90Y2VYRzlFaTBZUWNHMFU3cGRqX3R0b3d5ZlhCNWtuVTB3SWxUZWNiVUlJYktBVzdKMmNqaDBjbw"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-06T10:50:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14SmZEV0swd3ZDOGF2RThrZ0dLV1BjNEZOWTlBQmhTM1RzMm9ESDI4SlhqNUlwYUdDcVhUOVRxMVc2QVFHa0NlbUxuSlFCdHFaSEpxYXF3ZkxwaWpveHFiYld5ejk0dk5IQzhZQmh3"
-    },
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-06T11:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkw0Z3JONGR6M0RkMDItMWxzc2k3VnVJblNVanhuUnVPd0xFWDNJM1I1Ul9kZTRiUEV3Z19kcFBRWS1iRnNJSTNRZ2dUYS1rbnZ6ek90Y2VYRzlFaTBZUWNHMFU3cGRqX3R0b3d5ZlhCNWtuVTB3SWxUZWNiVUlJYktBVzdKMmNqaDBjbw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "股价回升马斯克身家重返万亿",
-   "title_zh": "SpaceX特斯拉股价回升 马斯克身家重返万亿美元 - zaobao.com.sg",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "4bd25b80f1f0",
-   "title": "Elon Musk admits that Tesla Robotaxis have a 'cat problem'; and one which Google’s Waymo does not ‘agree’ - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOFFUZWdBVm1CZFNRRmJYek10Q0xLNlV1TlByX1ljYmpUZWs0T0RMS19NQUppdDR5Mm44T0lSX1E3dlVvakdnNTAyTEI2NmVhVFM2S0ZVdE56c3VldzV2Ni1nYnl2ZmxFcUxfMXdLZ0tCeUlFZVdHSWprT0JUc0RObjNSZExUYWx6WUU1WjlMSHpVdkNGcFJhYjQ1Zzcza3p1NWQ5ckdDTjdfUGEyTTNxRDVWQWRKa1ZLaUxKYzAyS1hCMFJWSjhIcVd2MkItMGstZFJDZU9maUVPaUFZb3JtMFM0R2QwSTVJZ01aQVFIdi1YelJMNFRLTXJKY3FiU2hLTUx5WmhXT2dEY2Q3SG80cU1IM1ZSd9IBmwJBVV95cUxQTFc3UmtLMUlQSHp4M1NoYU1nY3BYdXZ1Zl9qSTBWaFFjMTZoOHlGZk5PdWhldkRPRW80Z2VVcmNxbm5Wd3BnZjQtNlhmZVpWQkNFX2JrTGlTdjJRNnhOaG9zVU5jZzhBR0xKQXotaS1seHN4UnkzU1d1cFJXZWd4blI2N2ZXT1dUYWdJVVZwVVBfSnByQjB2ZVM1dUtOOTJOZTVNVXBmWmlPRzNybkRUWVZ5Z295QmFZVktkMWRqSWt1bmc4LTdJZzNTSWgycDRuZ1IyUl9NYmZPN3BHY0tPZFlXZEZkTHZkVXAtdlRxVEtFNk9VU3BoSENtZWNqUkpkeUVya3VkSUVMZ0pqeTF0QzBQeU5jZ2xTV0lN",
-   "source": "The Times of India",
-   "published_at": "2026-10-05T03:11:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-05T03:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOFFUZWdBVm1CZFNRRmJYek10Q0xLNlV1TlByX1ljYmpUZWs0T0RMS19NQUppdDR5Mm44T0lSX1E3dlVvakdnNTAyTEI2NmVhVFM2S0ZVdE56c3VldzV2Ni1nYnl2ZmxFcUxfMXdLZ0tCeUlFZVdHSWprT0JUc0RObjNSZExUYWx6WUU1WjlMSHpVdkNGcFJhYjQ1Zzcza3p1NWQ5ckdDTjdfUGEyTTNxRDVWQWRKa1ZLaUxKYzAyS1hCMFJWSjhIcVd2MkItMGstZFJDZU9maUVPaUFZb3JtMFM0R2QwSTVJZ01aQVFIdi1YelJMNFRLTXJKY3FiU2hLTUx5WmhXT2dEY2Q3SG80cU1IM1ZSd9IBmwJBVV95cUxQTFc3UmtLMUlQSHp4M1NoYU1nY3BYdXZ1Zl9qSTBWaFFjMTZoOHlGZk5PdWhldkRPRW80Z2VVcmNxbm5Wd3BnZjQtNlhmZVpWQkNFX2JrTGlTdjJRNnhOaG9zVU5jZzhBR0xKQXotaS1seHN4UnkzU1d1cFJXZWd4blI2N2ZXT1dUYWdJVVZwVVBfSnByQjB2ZVM1dUtOOTJOZTVNVXBmWmlPRzNybkRUWVZ5Z295QmFZVktkMWRqSWt1bmc4LTdJZzNTSWgycDRuZ1IyUl9NYmZPN3BHY0tPZFlXZEZkTHZkVXAtdlRxVEtFNk9VU3BoSENtZWNqUkpkeUVya3VkSUVMZ0pqeTF0QzBQeU5jZ2xTV0lN"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "马斯克承认Robotaxi有猫咪问题",
-   "title_zh": "马斯克承认特斯拉Robotaxi有猫咪问题，Waymo不认同",
-   "sentiment": 0
   }
  ]
 }
