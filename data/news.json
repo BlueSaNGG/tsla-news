@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T17:52:40.615355+00:00",
+ "updated_at": "2026-10-06T18:07:38.083652+00:00",
  "market": {
-  "price": 380.45,
-  "change_pct": 0.45,
+  "price": 380.12,
+  "change_pct": 0.37,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.1%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（83条已评分）"
+     "note": "今日新闻情绪 +0.18（84条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.45 vs 20日均线 $366.71"
+     "note": "现价 $380.12 vs 20日均线 $366.70"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.1,
-   "ma20": 366.71,
-   "as_of": "2026-10-06T17:52:40.608972+00:00"
+   "implied_upside_pct": 7.2,
+   "ma20": 366.7,
+   "as_of": "2026-10-06T18:07:38.072854+00:00"
   },
-  "pe_ttm": 105.2,
+  "pe_ttm": 105.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 83
+   "avg": 0.18,
+   "count": 84
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "dbc171cda556",
+   "title": "Tesla Introduces Powershare Home Backup for Model 3 and Y - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTI5azJDemJpdEFXWWRoUF9kZWdGUW5aQnJJeHFWNW5JTDBRRXlVdVJGTHJmeDRONU1JWlNlRXQ0RVM4YU5WalVyQjBuQWRwVHQtZW1BaXU5OU5lbGdZeDlIcUVKXzRjNFEtaE9sZ0wyZmhtc2pNeU8zYzVIOTBRNzZnWUtFNWhEbXM2aUZiNzhLYWFDRXZDNFk3ek0",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-06T17:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-06T17:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTI5azJDemJpdEFXWWRoUF9kZWdGUW5aQnJJeHFWNW5JTDBRRXlVdVJGTHJmeDRONU1JWlNlRXQ0RVM4YU5WalVyQjBuQWRwVHQtZW1BaXU5OU5lbGdZeDlIcUVKXzRjNFEtaE9sZ0wyZmhtc2pNeU8zYzVIOTBRNzZnWUtFNWhEbXM2aUZiNzhLYWFDRXZDNFk3ek0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "944676ded4f0",
    "title": "Tesla Stocks Gain as 486,532 Deliveries Reset the Bar - GuruFocus",
@@ -729,6 +746,23 @@
    }
   },
   {
+   "id": "79f3d4337934",
+   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
+   "source": "Barron's",
+   "published_at": "2026-10-06T13:52:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T13:52:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "6937f570f718",
    "title": "Tesla Robotaxis Hit The Brakes At 11 P.M. Over One Unusual Nighttime Problem - MotorBiscuit",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFmUFZGS0pQMUkwNGpicEZxLWh3S3hKWkFWajFWcDAxMFlfT240TkJ1Q0NxSzV6dVFWYWZNcmRVNFJhN2NzTFN5YnpvRHpDWEFfTmdFRGRjdko4eElCZjdvZ1VVM2FJajRmNVNxWkZVMlAxS1RWdnRpTkNBQmxhWUxJUWQxb1JGQ25PX0ZISEZtNVA2SmVaQWdKc0RXZTE0c0Z4WjRvcWM",
@@ -1196,6 +1230,23 @@
    "zh_summary": "比亚迪闪充体验者拟换购腾势N8L",
    "title_zh": "【视频】体验比亚迪\"闪充\"后，大哥要卖了特斯拉Model Y买腾势N8L闪充版 - 汽车之家",
    "sentiment": -1
+  },
+  {
+   "id": "f3958a1d4808",
+   "title": "Tesla Built A Feature It Hopes You Never Have To Use - HotCars",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSTFNleTJrSEZ3VTFqT2J3cl9SS2ZIYkY5NGRYRjgzb29XbUp0R3ZiSDNrTEtlOGlLeHhmR0MxVUZyYjVWdjYwdW5MV29KZXlHQS03d1NSMzFxTU02bF8wZHU2MG9wS3dUS1pVdUNGakFaUQ",
+   "source": "HotCars",
+   "published_at": "2026-10-06T11:24:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotCars",
+     "published_at": "2026-10-06T11:24:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSTFNleTJrSEZ3VTFqT2J3cl9SS2ZIYkY5NGRYRjgzb29XbUp0R3ZiSDNrTEtlOGlLeHhmR0MxVUZyYjVWdjYwdW5MV29KZXlHQS03d1NSMzFxTU02bF8wZHU2MG9wS3dUS1pVdUNGakFaUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "be7e2acbc1c0",
@@ -2270,6 +2321,23 @@
     "pct": -0.16,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "89a7ee417ba5",
+   "title": "【视频】新款特斯拉Model Y Juniper氛围灯，你最喜欢哪一种 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRWVJWjB1VzA5VkJIWng0TXdWNWl5Snhha1RSa3dyZU84QmFEbEQ1WDFHTGdaWTZXRHlVVUsxZXd0VUpFTWdWczkyMHl1QVdvNjBkb1NLVVJsLUE",
+   "source": "汽车之家",
+   "published_at": "2026-10-06T04:50:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-06T04:50:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xRWVJWjB1VzA5VkJIWng0TXdWNWl5Snhha1RSa3dyZU84QmFEbEQ1WDFHTGdaWTZXRHlVVUsxZXd0VUpFTWdWczkyMHl1QVdvNjBkb1NLVVJsLUE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "9b68dc32bc6a",
@@ -7983,15 +8051,15 @@
   {
    "id": "42aa5cae464d",
    "title": "【视频】特斯拉算遥遥领先吗？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSTBzYTI1UkJwYkVUUEc5TVBJcFd6a3h2ckczSmNoZFhEVmpvTU9KaDJsWGh0Z2V3TGF3bl93MnpnX0gwQ2NQakZBcGxvZGZrdHM2Y0I1MDdUTnR1WFdQOVhza19aY3NWN1gw",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KOEY4WW5IM3JPczY5Z2wtRVFwMjlTWnk5b3pDRW0yQWU0dTRNdW55SDVTODFaUmFlLVlYZy1mYlR0N3ZIMVNZVW9SUXh1bGlBMkdWcVl6M29iOTg",
    "source": "汽车之家",
-   "published_at": "2026-10-05T02:45:09+00:00",
+   "published_at": "2026-10-05T02:44:01+00:00",
    "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-05T02:45:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZSTBzYTI1UkJwYkVUUEc5TVBJcFd6a3h2ckczSmNoZFhEVmpvTU9KaDJsWGh0Z2V3TGF3bl93MnpnX0gwQ2NQakZBcGxvZGZrdHM2Y0I1MDdUTnR1WFdQOVhza19aY3NWN1gw"
+     "published_at": "2026-10-05T02:44:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KOEY4WW5IM3JPczY5Z2wtRVFwMjlTWnk5b3pDRW0yQWU0dTRNdW55SDVTODFaUmFlLVlYZy1mYlR0N3ZIMVNZVW9SUXh1bGlBMkdWcVl6M29iOTg"
     },
     {
      "name": "chejiahao.autohome.com.cn",
@@ -8216,115 +8284,6 @@
    "zh_summary": "带FSD的特斯拉售价十多万元",
    "title_zh": "疯了？带FSD的特斯拉现在只要十多万就能拿下！#特斯拉# #model3# #fsd# #马斯克# ​ - 手机新浪网",
    "sentiment": -1
-  },
-  {
-   "id": "94cf84b74835",
-   "title": "Tesla offers almost $3,000 off Model Y inventory, in yet another price cut to attract new sales - The Driven IO",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOG9QREYwcjA3MkRiVEFjT1lKRDJ4d2dLVlF6a013Sl9rVHBqd3JqLUxESVJhbzlyYWVWUm90NU91M3hGU2c4bTJKV3FiUmdkRUw1N0ZBaEdTVGF2UmlVRkFkSE5JZVpHcF9CRXd3QUo3T253M0VaVFBrNkl4UHVYNjBLQ0tKNDI5bWJoSm4wOFVvYzJkb1c3Z0QwYlZUODRtUzFJRk53c0h3N2paRzd0bGMwYzVndFM0MkpiWkgwcm5lLWM",
-   "source": "The Driven IO",
-   "published_at": "2026-10-05T01:25:21+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Driven IO",
-     "published_at": "2026-10-05T01:25:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOG9QREYwcjA3MkRiVEFjT1lKRDJ4d2dLVlF6a013Sl9rVHBqd3JqLUxESVJhbzlyYWVWUm90NU91M3hGU2c4bTJKV3FiUmdkRUw1N0ZBaEdTVGF2UmlVRkFkSE5JZVpHcF9CRXd3QUo3T253M0VaVFBrNkl4UHVYNjBLQ0tKNDI5bWJoSm4wOFVvYzJkb1c3Z0QwYlZUODRtUzFJRk53c0h3N2paRzd0bGMwYzVndFM0MkpiWkgwcm5lLWM"
-    },
-    {
-     "name": "thedriven.io",
-     "published_at": "2026-10-05T01:25:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOG9QREYwcjA3MkRiVEFjT1lKRDJ4d2dLVlF6a013Sl9rVHBqd3JqLUxESVJhbzlyYWVWUm90NU91M3hGU2c4bTJKV3FiUmdkRUw1N0ZBaEdTVGF2UmlVRkFkSE5JZVpHcF9CRXd3QUo3T253M0VaVFBrNkl4UHVYNjBLQ0tKNDI5bWJoSm4wOFVvYzJkb1c3Z0QwYlZUODRtUzFJRk53c0h3N2paRzd0bGMwYzVndFM0MkpiWkgwcm5lLWM"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model Y库存车降价近3000美元",
-   "title_zh": "特斯拉对Model Y库存车降价近3000美元以刺激销量",
-   "sentiment": -1
-  },
-  {
-   "id": "3c8a8ef1067e",
-   "title": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus - BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYTVkY1ViaGpCeG5ieVM1aGdNS0VHN2ota2dFZ2lfZ3JqMVFNQ3NXdFJ2ZEFJR3FFeDVqeEFQU0JPRG9NQ1pRRmpLNW83UEo4TlhMQ2pOY3JTZC00eXg5aDN1VVRRUQ",
-   "source": "BeInCrypto",
-   "published_at": "2026-10-05T00:53:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "BeInCrypto",
-     "published_at": "2026-10-05T00:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYTVkY1ViaGpCeG5ieVM1aGdNS0VHN2ota2dFZ2lfZ3JqMVFNQ3NXdFJ2ZEFJR3FFeDVqeEFQU0JPRG9NQ1pRRmpLNW83UEo4TlhMQ2pOY3JTZC00eXg5aDN1VVRRUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T00:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXlCX2UwWGZ6ZkhoRmppc0gtQkZ4Ulg2aVVoODdYTzhMTDNNeTUyVGNnc0E3dmYxT2prZ3I5ZzFzd3JIS3N6eUtnZXNyelJJQmNCZUdfY3VLeDFvMUtGVjk4cGxwUXQ4dHZtbjJzc3RPOUNvZmVpMGtsV3g4ZmtZMGo2N1MydmRkZzluM2J0Q2ROdHdSMHc"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T00:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXlCX2UwWGZ6ZkhoRmppc0gtQkZ4Ulg2aVVoODdYTzhMTDNNeTUyVGNnc0E3dmYxT2prZ3I5ZzFzd3JIS3N6eUtnZXNyelJJQmNCZUdfY3VLeDFvMUtGVjk4cGxwUXQ4dHZtbjJzc3RPOUNvZmVpMGtsV3g4ZmtZMGo2N1MydmRkZzluM2J0Q2ROdHdSMHc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "Dan Ives称2027年将是特斯拉的黄金年",
-   "title_zh": "Ives：Robotaxi和Optimus将使2027成特斯拉黄金年",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "6e5576176c71",
-   "title": "Homebuyer inherits 'OG' Tesla Powerwall, then learns old model can't use app or off-peak charging - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTMxRmlxNHdBcU4yVkFWUjFUZl96T1l5WHdYWDA0VjdzbDlFZVFmTHVoSjRRZ0RhNERHUU9XUjJLQ1NETndFQi1sUXpzVDlIaS15elJBZEZtV3ZQZmFCbDVQZlo0cFZJcXBTU2VGaXloN2hnUTNFWVdrTk5uTWRlMVIyLUg5WHJUcnpsRQ",
-   "source": "The Cool Down",
-   "published_at": "2026-10-05T00:45:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-05T00:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTMxRmlxNHdBcU4yVkFWUjFUZl96T1l5WHdYWDA0VjdzbDlFZVFmTHVoSjRRZ0RhNERHUU9XUjJLQ1NETndFQi1sUXpzVDlIaS15elJBZEZtV3ZQZmFCbDVQZlo0cFZJcXBTU2VGaXloN2hnUTNFWVdrTk5uTWRlMVIyLUg5WHJUcnpsRQ"
-    },
-    {
-     "name": "thecooldown.com",
-     "published_at": "2026-10-05T00:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTMxRmlxNHdBcU4yVkFWUjFUZl96T1l5WHdYWDA0VjdzbDlFZVFmTHVoSjRRZ0RhNERHUU9XUjJLQ1NETndFQi1sUXpzVDlIaS15elJBZEZtV3ZQZmFCbDVQZlo0cFZJcXBTU2VGaXloN2hnUTNFWVdrTk5uTWRlMVIyLUg5WHJUcnpsRQ"
-    }
-   ],
-   "category": "能源",
-   "session": "周末",
-   "zh_summary": "买家继承初代Powerwall无法用App",
-   "title_zh": "购房者继承初代特斯拉Powerwall，发现旧型号无法使用App或峰谷充电",
-   "sentiment": 0
-  },
-  {
-   "id": "f69461a91377",
-   "title": "特斯拉第三季度交付48.65万辆 高于预期 - guandian.cn",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SeTdkTWpwNDJjUGhWSUlockJoRWZfU25sSXA4NWpTR2hpaHJncHo4bm0zQ0tsTnlMSlZwZmtuaE4wRE1TeVdXVHNoelJhQ29BRUd4NldZMUtJMWxlTEFUOVZB",
-   "source": "guandian.cn",
-   "published_at": "2026-10-05T00:42:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "guandian.cn",
-     "published_at": "2026-10-05T00:42:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SeTdkTWpwNDJjUGhWSUlockJoRWZfU25sSXA4NWpTR2hpaHJncHo4bm0zQ0tsTnlMSlZwZmtuaE4wRE1TeVdXVHNoelJhQ29BRUd4NldZMUtJMWxlTEFUOVZB"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-10-05T00:42:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SeTdkTWpwNDJjUGhWSUlockJoRWZfU25sSXA4NWpTR2hpaHJncHo4bm0zQ0tsTnlMSlZwZmtuaE4wRE1TeVdXVHNoelJhQ29BRUd4NldZMUtJMWxlTEFUOVZB"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度交付48.65万辆超预期",
-   "title_zh": "特斯拉第三季度交付48.65万辆 高于预期",
-   "sentiment": 2
   }
  ]
 }
