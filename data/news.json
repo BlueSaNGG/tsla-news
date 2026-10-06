@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T07:07:25.865827+00:00",
+ "updated_at": "2026-10-06T07:22:33.887626+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 3,
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（4条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.40（5条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-06T07:07:25.857964+00:00"
+   "as_of": "2026-10-06T07:22:33.877553+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 4
+   "avg": 0.4,
+   "count": 5
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8c264f4fe21d",
+   "title": "特斯拉Model Y三版本配置相同，差价在电池续航动力 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDg3bVpsWnduUjBFMmhoQWpaVF91RUlNSmJEblI4MVp2Z2dkMVhZNlVHdFBTbXRGX2RmRThvdEUzalAxMUllNFBERmJzXzRBRUpTOGZQZUxZUDZWY01DWURXeTNlaExaQm5LaGlMUDhoaEpjZERnLXJiRHNyeGpWRQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-06T07:10:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-06T07:10:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDg3bVpsWnduUjBFMmhoQWpaVF91RUlNSmJEblI4MVp2Z2dkMVhZNlVHdFBTbXRGX2RmRThvdEUzalAxMUllNFBERmJzXzRBRUpTOGZQZUxZUDZWY01DWURXeTNlaExaQm5LaGlMUDhoaEpjZERnLXJiRHNyeGpWRQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "cdfdc6c641a6",
    "title": "Elon Musk Says Gray Kittens Are Grounding Tesla Robotaxis At Night - Motor1.com",
@@ -6205,6 +6222,23 @@
    }
   },
   {
+   "id": "9f4e9245b276",
+   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-04T18:08:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-04T18:08:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
+  {
    "id": "fde76bd3f69e",
    "title": "Tesla catches fire in San Francisco’s Marina District - San Francisco Chronicle",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazlGcjlrX2VCZjF3YkNoc2FTcnV3QkxBNnUxNHpRWmJxd3V1M2p1NWh0bVdwVExqVXNtc09BbnllTmU5QjFlWmpGYW5jcGtPZ29HOU1YdHV1YVI5c1RVdDAzOEFLbEhWbmd5THpnWm1VTVNVZFI5QzhtbG8tSldfMXcyMVhnNjVzY0t3",
@@ -7728,7 +7762,6 @@
    ],
    "category": "其他",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "2026.38测试动态大灯调节",
    "title_zh": "特斯拉在2026.38版本软件更新中测试动态大灯水平调节功能 - 网通社",
    "sentiment": 0,
@@ -8326,60 +8359,6 @@
    "zh_summary": "26款赛博双电机现车促销",
    "title_zh": "26款特斯拉赛博双电机现车，国庆后最后90天保挂牌 - k.sina.com.cn",
    "sentiment": 0
-  },
-  {
-   "id": "7d045b67c64a",
-   "title": "We asked Google Gemini to create a Tesla in 2050 and this is what it came up with - supercarblondie.com",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUVdleXRaYzhzSWdJWm83Vmxfd1ZSZ3VZZDl1Wm1FOEZMdnhXVkFwakV3Q3k2RTB0aXBycTVRenpyN08yR09pZWhDZ1FoNTYwSFNCZGJQSF9nM0VudXhKLVV4TWNXdmNHeVlFLVFOeVh1QQ",
-   "source": "supercarblondie.com",
-   "published_at": "2026-10-04T03:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "supercarblondie.com",
-     "published_at": "2026-10-04T03:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUVdleXRaYzhzSWdJWm83Vmxfd1ZSZ3VZZDl1Wm1FOEZMdnhXVkFwakV3Q3k2RTB0aXBycTVRenpyN08yR09pZWhDZ1FoNTYwSFNCZGJQSF9nM0VudXhKLVV4TWNXdmNHeVlFLVFOeVh1QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Gemini生成2050年特斯拉想象图",
-   "title_zh": "让Gemini设计2050年特斯拉",
-   "sentiment": 0
-  },
-  {
-   "id": "8cd419ee80bd",
-   "title": "【视频】精品特斯拉推荐，车况好，公里数少这几台推荐给你 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUVdJMk5COG01aTM4SlNDWVRQWVFyVnVVSEtrQklkeFNKblMyNnhVTWpIRXdwSU1WbXYzVVdrWDA2dDNZcWlMY0c2VWdSbV9HVTEyT2hlaTJRRWM",
-   "source": "汽车之家",
-   "published_at": "2026-10-04T03:56:53+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-04T03:56:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUVdJMk5COG01aTM4SlNDWVRQWVFyVnVVSEtrQklkeFNKblMyNnhVTWpIRXdwSU1WbXYzVVdrWDA2dDNZcWlMY0c2VWdSbV9HVTEyT2hlaTJRRWM"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-04T03:56:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUVdJMk5COG01aTM4SlNDWVRQWVFyVnVVSEtrQklkeFNKblMyNnhVTWpIRXdwSU1WbXYzVVdrWDA2dDNZcWlMY0c2VWdSbV9HVTEyT2hlaTJRRWM"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-04T03:56:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUVdJMk5COG01aTM4SlNDWVRQWVFyVnVVSEtrQklkeFNKblMyNnhVTWpIRXdwSU1WbXYzVVdrWDA2dDNZcWlMY0c2VWdSbV9HVTEyT2hlaTJRRWM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "推荐几辆精品二手特斯拉",
-   "title_zh": "【视频】精品特斯拉推荐，车况好，公里数少这几台推荐给你 - 汽车之家",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
   }
  ]
 }
