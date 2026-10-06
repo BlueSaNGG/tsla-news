@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T18:07:38.083652+00:00",
+ "updated_at": "2026-10-06T18:22:34.401443+00:00",
  "market": {
-  "price": 380.12,
-  "change_pct": 0.37,
+  "price": 379.99,
+  "change_pct": 0.33,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（84条已评分）"
+     "note": "今日新闻情绪 +0.17（87条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.12 vs 20日均线 $366.70"
+     "note": "现价 $379.99 vs 20日均线 $366.69"
     },
     {
      "key": "分析师动向",
@@ -43,8 +43,8 @@
    "target_median": 407.5,
    "target_count": 14,
    "implied_upside_pct": 7.2,
-   "ma20": 366.7,
-   "as_of": "2026-10-06T18:07:38.072854+00:00"
+   "ma20": 366.69,
+   "as_of": "2026-10-06T18:22:34.395605+00:00"
   },
   "pe_ttm": 105.1,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 84
+   "avg": 0.17,
+   "count": 87
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3dc3a7bacd7a",
+   "title": "Toyota Vs. Tesla At 250,000 Miles: It’s Not Even Close - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsTjFXQmo4YzNVWEdoSVFzbzdBb1I4S2VwelVHcW1CMHd3TFlBYjE0RFNqT2JUaThnSEoyVnloblBSYmQ0Y19hUUpOazNXSTBGM1ZxRHdPSDJtT0hZUkMzaE02bUcyNEhqbzlFTy1Vc2p2dFU",
+   "source": "Autoblog",
+   "published_at": "2026-10-06T18:05:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-06T18:05:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsTjFXQmo4YzNVWEdoSVFzbzdBb1I4S2VwelVHcW1CMHd3TFlBYjE0RFNqT2JUaThnSEoyVnloblBSYmQ0Y19hUUpOazNXSTBGM1ZxRHdPSDJtT0hZUkMzaE02bUcyNEhqbzlFTy1Vc2p2dFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d2998e450ae9",
+   "title": "Tesla to Display Cybercab Robotaxi at Paris Show: Market Chatter - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelZBcFlsUmU0MktZcnNBLUNMQ3lxczJ0aFhPdGtrcXZSdEJ1UklaMWhLOGdhSl9IV1A5V2ZnRlNjbzg4czlxa3JwMWVPZVBiUGU4bVlsb1F2SHpSYVd0bEFIMm0tcjJlMFhzNEtHUTVFWF9ZQlgxa0gxYUpqbWV6ZFRNY3I1OUhfem54c0c5MENlVmFxbkpmMkV6TUR6aDdSTmgzUGJzZDJhRGc",
+   "source": "Moomoo",
+   "published_at": "2026-10-06T17:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-06T17:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelZBcFlsUmU0MktZcnNBLUNMQ3lxczJ0aFhPdGtrcXZSdEJ1UklaMWhLOGdhSl9IV1A5V2ZnRlNjbzg4czlxa3JwMWVPZVBiUGU4bVlsb1F2SHpSYVd0bEFIMm0tcjJlMFhzNEtHUTVFWF9ZQlgxa0gxYUpqbWV6ZFRNY3I1OUhfem54c0c5MENlVmFxbkpmMkV6TUR6aDdSTmgzUGJzZDJhRGc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "dbc171cda556",
    "title": "Tesla Introduces Powershare Home Backup for Model 3 and Y - Not a Tesla App",
@@ -8242,60 +8276,6 @@
     "pct": 0.6,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "baef28f3ab2c",
-   "title": "【视频】特斯拉Y 感谢福建粉丝信任，顺利交付22年特斯拉Model Y - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr",
-   "source": "汽车之家",
-   "published_at": "2026-10-05T01:49:39+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T01:49:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T01:49:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T01:49:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KVFFNSV9PSXByVm1GYXlzQjNXU3c0dklKd3VfckNqOHhaeXRDMjJVOE84em8zNHFLQlRyMFgteF9yd0JtVXF6MHRiWVJJWlU4cUo4eG5FVGg2M1k5cFlKdFZDU0s0d3ZpaDhr"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "福建车主顺利交付22年款特斯拉ModelY",
-   "title_zh": "福建粉丝提走22年款Model Y",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "765727286792",
-   "title": "疯了？带FSD的特斯拉现在只要十多万就能拿下！#特斯拉# #model3# #fsd# #马斯克# ​ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlJKNFNOeHZUY1pTa09pMG5VeUJLenkyZFVOaVVlaGxLbTliLTl5NmY2bGxRM2xyLVpoUUM3ZGJpWGdTdUxiMDAzQ1FaU1hFVndrcm50Wkhwa3NsNHhmbTlpa00wNE80dk5laENiZzFMei01bDFiTTdLM1F4RGQzag",
-   "source": "手机新浪网",
-   "published_at": "2026-10-05T01:31:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-05T01:31:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZlJKNFNOeHZUY1pTa09pMG5VeUJLenkyZFVOaVVlaGxLbTliLTl5NmY2bGxRM2xyLVpoUUM3ZGJpWGdTdUxiMDAzQ1FaU1hFVndrcm50Wkhwa3NsNHhmbTlpa00wNE80dk5laENiZzFMei01bDFiTTdLM1F4RGQzag"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "带FSD的特斯拉售价十多万元",
-   "title_zh": "疯了？带FSD的特斯拉现在只要十多万就能拿下！#特斯拉# #model3# #fsd# #马斯克# ​ - 手机新浪网",
-   "sentiment": -1
   }
  ]
 }
