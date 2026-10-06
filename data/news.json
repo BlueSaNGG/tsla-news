@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T14:22:33.624514+00:00",
+ "updated_at": "2026-10-06T14:37:38.393130+00:00",
  "market": {
-  "price": 381.9,
-  "change_pct": 0.84,
+  "price": 381.04,
+  "change_pct": 0.61,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 44% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（13家），隐含空间 +4.7%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（54条已评分）"
+     "note": "今日新闻情绪 +0.16（56条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $381.90 vs 20日均线 $366.78"
+     "note": "现价 $381.04 vs 20日均线 $366.74"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 44,
+   "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 4.7,
-   "ma20": 366.78,
-   "as_of": "2026-10-06T14:22:33.616011+00:00"
+   "implied_upside_pct": 5.0,
+   "ma20": 366.74,
+   "as_of": "2026-10-06T14:37:38.380839+00:00"
   },
-  "pe_ttm": 105.6,
+  "pe_ttm": 105.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 54
+   "avg": 0.16,
+   "count": 56
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "6477bb8f8ef4",
+   "title": "德国向欧盟摊牌：特斯拉FSD若被卡，柏林将单独放行 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yYk5TbGQ4bVNMdDZFdkx1UVhxR29OV3gyOFRBT3dsbVVydjBQNVJWSFVvUDdyamFpYklIYl9vbFJxYmxabTBocVU5akg4cTA4bnlGOVZGaWJMLUk",
+   "source": "汽车之家",
+   "published_at": "2026-10-06T14:32:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-06T14:32:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yYk5TbGQ4bVNMdDZFdkx1UVhxR29OV3gyOFRBT3dsbVVydjBQNVJWSFVvUDdyamFpYklIYl9vbFJxYmxabTBocVU5akg4cTA4bnlGOVZGaWJMLUk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "ca5d1833ef4d",
+   "title": "Tesla vs. Waymo: A Face-Off Between the Two Robotaxi Giants - Zacks Investment Research",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkZHX2tjbi1CaVQ0MTd5YmthY0IyR2tzODNrRVBJQXY5Z2hHWEtCeW9qYlRzRkJ2aWVuOTZiUlZOcGdWNGxEOVpIS3BNc3lNRTVTcXhXMDlRU3FoT2FBQ1VQXzZXOExmay1aTDhiT2pTbVAzemFPOEg3OGRleW1lZmltd2NUZnUxYkdwVk5ZemhUZUptMXo5dW5fVkVyQ2c",
+   "source": "Zacks Investment Research",
+   "published_at": "2026-10-06T14:29:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-06T14:29:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkZHX2tjbi1CaVQ0MTd5YmthY0IyR2tzODNrRVBJQXY5Z2hHWEtCeW9qYlRzRkJ2aWVuOTZiUlZOcGdWNGxEOVpIS3BNc3lNRTVTcXhXMDlRU3FoT2FBQ1VQXzZXOExmay1aTDhiT2pTbVAzemFPOEg3OGRleW1lZmltd2NUZnUxYkdwVk5ZemhUZUptMXo5dW5fVkVyQ2c"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "6b1e29871b89",
+   "title": "特斯拉2026.38版本悄然测试动态大灯水平调节，近光灯可自动修正照射角度 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U0M4M3BpRXRyM1JjRHNtc1ZGQ0sxOVNvQURMUHdFeVVDalJ4LW1IQ0NfOWVPaXZBdHFIbmNraG11S2xHcTFkTFdadlhTZ080a05wV2x3SG5pbVU",
+   "source": "网通社",
+   "published_at": "2026-10-06T14:19:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-06T14:19:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U0M4M3BpRXRyM1JjRHNtc1ZGQ0sxOVNvQURMUHdFeVVDalJ4LW1IQ0NfOWVPaXZBdHFIbmNraG11S2xHcTFkTFdadlhTZ080a05wV2x3SG5pbVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5f6ebe2ecbbe",
    "title": "Tesla: Margin Realism Meets Merger Speculation (NASDAQ:TSLA) - Seeking Alpha",
@@ -634,7 +685,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdlR2dW9TS3F2eTRDSnJMVVA4SE5MVlZnWk56WWc1TUtTMGRla0k3Y3J0Y05ldGNjWEczQ2ZkbHIxUUFQUmcxdTBTZXQtSlFTTWd2enB6RFJSTjVMX3pqZi1tTzZQUHM",
    "source": "Reuters",
    "published_at": "2026-10-06T10:38:38+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Reuters",
@@ -645,13 +696,22 @@
      "name": "reuters.com",
      "published_at": "2026-10-06T10:38:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdlR2dW9TS3F2eTRDSnJMVVA4SE5MVlZnWk56WWc1TUtTMGRla0k3Y3J0Y05ldGNjWEczQ2ZkbHIxUUFQUmcxdTBTZXQtSlFTTWd2enB6RFJSTjVMX3pqZi1tTzZQUHM"
+    },
+    {
+     "name": "The Detroit News",
+     "published_at": "2026-10-06T14:32:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUjY0OF9RMTR2Mlo0aVlHN3FoaDN5YWJFNkdnQkl3SVlDRjR5a2RXZGxuNnlTMGpwaXFmSnRSM3NfX3BRYm9XeFVUNnJHWVpCRXI1NllZakFIdzZmamtXcnJiNjZsMDV5TTN1a1hSbGJjLWxpWklSWmFocG0yNUVSNTItX2VLTTk1c2QzLS11Q1dnWDR3VDBNNElSQzdzcUc4Y01xTlNJTFFERW5DRGlXSC1ib0gtRmRwdmhQZUk4T0FMZEl2TUpoRTVhMFRqVDgwb2tPWlJsbTJrSHRWZ2o2ZVlmSQ"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "安全组织称特斯拉自驾系统误读限速",
    "title_zh": "安全组织称特斯拉自动驾驶系统误读限速标志",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.44,
+    "window_h": 1.1
+   }
   },
   {
    "id": "1583be150eec",
@@ -8153,100 +8213,6 @@
    "zh_summary": "特斯拉比特币持仓接近10亿美元",
    "title_zh": "比特币上涨推动特斯拉加密储备接近10亿美元",
    "sentiment": 1
-  },
-  {
-   "id": "a4de74ccad6e",
-   "title": "Tesla Delivered 22,141 More Vehicles Than It Built in Q3. Here’s the Production Number That Decides What Comes Next - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1REU1B0SGtrcjlUTmY0NF9raHFCZkg3THd0RnYwaWtrMW1BSUJDNF90dEd0STJDUFBpV21LVlRmLUFqRklPSFZraUM2dVBlSzBTTE9FRDhVVnYtb0VZZExwUThXN0ZZazFibTRSV0JwZWhha3FMRllVMjhzWU13RzBPRlRUblYyRERLY1N3ZHQtWUhhYVlR",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-04T15:48:41+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-04T15:48:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1REU1B0SGtrcjlUTmY0NF9raHFCZkg3THd0RnYwaWtrMW1BSUJDNF90dEd0STJDUFBpV21LVlRmLUFqRklPSFZraUM2dVBlSzBTTE9FRDhVVnYtb0VZZExwUThXN0ZZazFibTRSV0JwZWhha3FMRllVMjhzWU13RzBPRlRUblYyRERLY1N3ZHQtWUhhYVlR"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-04T16:07:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjFIVVFJVXB0eW9hc0NqTXhOMkRYUzNkRmxuZUJfeWJNWHEzcW02bXFsYThnbG5md1VfVUhjLWxPR2VMTmJVcmlSMHA4RF9Hc1o2S0NwRE9oOWNRMTNxVWZhTVZ1aWdQNDJmOVF5UUdCVkExei16UkpfcktmbVJUUnQ3bnQ1MER4U3FpRXhIWS1IUnp6TkE2Rm1WR29tMWxwbFB3cG0yM3d6RzZyMzlhNmN4ejVHYXFScmRPMTVVQ3ptamZhdVdrd19LY0d2S2tXenFjZg"
-    },
-    {
-     "name": "tikr.com",
-     "published_at": "2026-10-04T16:07:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjFIVVFJVXB0eW9hc0NqTXhOMkRYUzNkRmxuZUJfeWJNWHEzcW02bXFsYThnbG5md1VfVUhjLWxPR2VMTmJVcmlSMHA4RF9Hc1o2S0NwRE9oOWNRMTNxVWZhTVZ1aWdQNDJmOVF5UUdCVkExei16UkpfcktmbVJUUnQ3bnQ1MER4U3FpRXhIWS1IUnp6TkE2Rm1WR29tMWxwbFB3cG0yM3d6RzZyMzlhNmN4ejVHYXFScmRPMTVVQ3ptamZhdVdrd19LY0d2S2tXenFjZg"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-04T15:48:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1REU1B0SGtrcjlUTmY0NF9raHFCZkg3THd0RnYwaWtrMW1BSUJDNF90dEd0STJDUFBpV21LVlRmLUFqRklPSFZraUM2dVBlSzBTTE9FRDhVVnYtb0VZZExwUThXN0ZZazFibTRSV0JwZWhha3FMRllVMjhzWU13RzBPRlRUblYyRERLY1N3ZHQtWUhhYVlR"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "特斯拉三季度交付超生产22141辆",
-   "title_zh": "特斯拉三季度交付比生产多22141辆，生产数字决定下一步",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "045309ce91c5",
-   "title": "特斯拉Roadster延期至10月15日发布 将搭载SpaceX冷气推进系统 - chejiahao.autohome.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IanV3TFFhemxJTVc4anRRc09KZ0VpdkFBcVRCOGd4Tng1ZnNoRk5VS2g5OTN5YUVjWG9YTHI1QnpxUVdDX2pZakVkQ0NCdWVkS05hLTVhRUFZSjQ",
-   "source": "chejiahao.autohome.com.cn",
-   "published_at": "2026-10-04T15:40:03+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-04T15:40:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IanV3TFFhemxJTVc4anRRc09KZ0VpdkFBcVRCOGd4Tng1ZnNoRk5VS2g5OTN5YUVjWG9YTHI1QnpxUVdDX2pZakVkQ0NCdWVkS05hLTVhRUFZSjQ"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-04T15:40:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IanV3TFFhemxJTVc4anRRc09KZ0VpdkFBcVRCOGd4Tng1ZnNoRk5VS2g5OTN5YUVjWG9YTHI1QnpxUVdDX2pZakVkQ0NCdWVkS05hLTVhRUFZSjQ"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-04T15:40:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IanV3TFFhemxJTVc4anRRc09KZ0VpdkFBcVRCOGd4Tng1ZnNoRk5VS2g5OTN5YUVjWG9YTHI1QnpxUVdDX2pZakVkQ0NCdWVkS05hLTVhRUFZSjQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster延期至10月15日发布",
-   "title_zh": "特斯拉Roadster延期至10月15日发布 将搭载SpaceX冷气推进系统",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "d5380e568164",
-   "title": "Teslas will automatically even headlights when hauling cargo or climbing hills - Notebookcheck",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelh0RnhRZTBDSlRXemVuRWdNX1hpdkp3LXFmM205ZDVvb1BQNmQ0LUszb0wyd3JfWlZHSnNsWXFDcDdYOHZhVG8xbmlxUzBMb3ZKd1ZhRk0zbXdqMnE3S29UY0NsYnJlSnNWUm51dHZLZEdpZDZXUHhBTEdLTXlvUEl4RnoxcXpOVHJsUjVsby04S3JaQ2ZkZVVCZHF5REZDZ2pJM2NjbFNIdkdBNUJjMWtLcXI3bkRFTVFqUDFCZkI",
-   "source": "Notebookcheck",
-   "published_at": "2026-10-04T15:39:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Notebookcheck",
-     "published_at": "2026-10-04T15:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPelh0RnhRZTBDSlRXemVuRWdNX1hpdkp3LXFmM205ZDVvb1BQNmQ0LUszb0wyd3JfWlZHSnNsWXFDcDdYOHZhVG8xbmlxUzBMb3ZKd1ZhRk0zbXdqMnE3S29UY0NsYnJlSnNWUm51dHZLZEdpZDZXUHhBTEdLTXlvUEl4RnoxcXpOVHJsUjVsby04S3JaQ2ZkZVVCZHF5REZDZ2pJM2NjbFNIdkdBNUJjMWtLcXI3bkRFTVFqUDFCZkI"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉将自动调节大灯水平",
-   "title_zh": "特斯拉大灯载货爬坡时自动调节",
-   "sentiment": 0
   }
  ]
 }
