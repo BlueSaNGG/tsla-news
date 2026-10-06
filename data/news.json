@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T15:22:46.017583+00:00",
+ "updated_at": "2026-10-06T15:37:34.733998+00:00",
  "market": {
-  "price": 380.26,
-  "change_pct": 0.4,
+  "price": 380.74,
+  "change_pct": 0.53,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.2%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（62条已评分）"
+     "note": "今日新闻情绪 +0.19（68条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.26 vs 20日均线 $366.70"
+     "note": "现价 $380.74 vs 20日均线 $366.73"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.2,
-   "ma20": 366.7,
-   "as_of": "2026-10-06T15:22:46.011557+00:00"
+   "implied_upside_pct": 7.0,
+   "ma20": 366.73,
+   "as_of": "2026-10-06T15:37:34.727590+00:00"
   },
-  "pe_ttm": 105.2,
+  "pe_ttm": 105.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 62
+   "avg": 0.19,
+   "count": 68
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "54441346a9e7",
+   "title": "【视频】特斯拉超充站附带休闲会客区 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Y0wtY2RFZlZwMEUzYmdzVnMtY1E5MGVoOHdEd0ZfYnNQbGlGVWM2Tm1TYl9fX0hRRGJXcDZhbkNjVEx0X0pCTVhFQklkTFg4Y0RhNk9lQWtYYUU",
+   "source": "汽车之家",
+   "published_at": "2026-10-06T15:28:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-06T15:28:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Y0wtY2RFZlZwMEUzYmdzVnMtY1E5MGVoOHdEd0ZfYnNQbGlGVWM2Tm1TYl9fX0hRRGJXcDZhbkNjVEx0X0pCTVhFQklkTFg4Y0RhNk9lQWtYYUU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3702be2c4990",
+   "title": "SpaceX, Tesla Trade Like One Elon Musk Stock - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSE5KQmVZdU1yT0JNcldPV2VWclJCTTlkRV92MlJKcm5tV0ZleS10RDVOM1pFbXJfOE52akZsa3E1NndiTXU2TWUtRE5fT2VyWW1CNy1WMm4zNTd0SW9IcEdmbmNCWHZ5b2M1NDFHa19uaTYxNVRUc2lOdS1UZnR3ZDhBc1NOUURPb2ZTaDdmR2VmdTI3RzJBM0N4Vl90UzEwZi1IMkhWZw",
+   "source": "Benzinga",
+   "published_at": "2026-10-06T15:27:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-06T15:27:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSE5KQmVZdU1yT0JNcldPV2VWclJCTTlkRV92MlJKcm5tV0ZleS10RDVOM1pFbXJfOE52akZsa3E1NndiTXU2TWUtRE5fT2VyWW1CNy1WMm4zNTd0SW9IcEdmbmNCWHZ5b2M1NDFHa19uaTYxNVRUc2lOdS1UZnR3ZDhBc1NOUURPb2ZTaDdmR2VmdTI3RzJBM0N4Vl90UzEwZi1IMkhWZw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "d1557cf966ba",
    "title": "Tesla Taken to Mechanic After Pet Hamster \"Escaped Into the Depths of the Car.\" The Fix Wasn't Cheap - Yahoo",
@@ -93,10 +127,15 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFZRQTZ4WXk4Wnoyc0NNYmpjQzhNM0lCNVlCY1R0MDJlYnpaODF6T0RTTVdBWDNtd1BnQjN2NldKRk45Qjg1dUpDcm1vTWl5Rl81WHN5dWVscEc3T1RrRzYtNHh6Sm5SaGlqaGlBNjRXeHJONGl2aWhnZTVaRG1CdFFvNEh6Qlo0NWNJanJfYWctVnVPNHVYc3F0ZHFBNFBDSGhRRFFORmsxRmpTa2RmMHJhRi15dWo0ZkRuXw",
    "source": "The Motley Fool",
    "published_at": "2026-10-06T15:14:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
+     "published_at": "2026-10-06T15:14:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFZRQTZ4WXk4Wnoyc0NNYmpjQzhNM0lCNVlCY1R0MDJlYnpaODF6T0RTTVdBWDNtd1BnQjN2NldKRk45Qjg1dUpDcm1vTWl5Rl81WHN5dWVscEc3T1RrRzYtNHh6Sm5SaGlqaGlBNjRXeHJONGl2aWhnZTVaRG1CdFFvNEh6Qlo0NWNJanJfYWctVnVPNHVYc3F0ZHFBNFBDSGhRRFFORmsxRmpTa2RmMHJhRi15dWo0ZkRuXw"
+    },
+    {
+     "name": "fool.com",
      "published_at": "2026-10-06T15:14:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFZRQTZ4WXk4Wnoyc0NNYmpjQzhNM0lCNVlCY1R0MDJlYnpaODF6T0RTTVdBWDNtd1BnQjN2NldKRk45Qjg1dUpDcm1vTWl5Rl81WHN5dWVscEc3T1RrRzYtNHh6Sm5SaGlqaGlBNjRXeHJONGl2aWhnZTVaRG1CdFFvNEh6Qlo0NWNJanJfYWctVnVPNHVYc3F0ZHFBNFBDSGhRRFFORmsxRmpTa2RmMHJhRi15dWo0ZkRuXw"
     }
@@ -108,17 +147,73 @@
    "sentiment": 0
   },
   {
+   "id": "4a9c9fa1790b",
+   "title": "$TSLA：是故事股还是技术面股？市场必须做出选择 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFZPS1dzUjU1WVA0U0Y4TEktcVdtcUhKX3BqWHhuX2VkMndmZy10SHZuRWZBcUUwZGhLTUpBN21IenlIR2FrTmIzeTVHZXY0Q2d3LWpNdzNpTXUxMkZIVm1yejdyXzd4RFd6ajRRbklWRGJMczlnNlhhZml3MTRFdkJnM3VLWmRpSkUwLVFxZ3Q1SDI5OGtleGE2dGYtSWtRWjYzTndNUkRQckk3",
+   "source": "Moomoo",
+   "published_at": "2026-10-06T15:14:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-06T15:14:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFZPS1dzUjU1WVA0U0Y4TEktcVdtcUhKX3BqWHhuX2VkMndmZy10SHZuRWZBcUUwZGhLTUpBN21IenlIR2FrTmIzeTVHZXY0Q2d3LWpNdzNpTXUxMkZIVm1yejdyXzd4RFd6ajRRbklWRGJMczlnNlhhZml3MTRFdkJnM3VLWmRpSkUwLVFxZ3Q1SDI5OGtleGE2dGYtSWtRWjYzTndNUkRQckk3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e3bc69d11974",
+   "title": "$TSLA: Is The Market Finally Repricing Tesla? - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmZ5ekx6S3hMcVhTck9KY196bFN4MEhCOGh1aktsLVNUVy1ZNjJTX0FGZTlxV0VaazhsZGw1bDhjN1ZMbnIwS0FPQUowVU1PNTNUQ1B2azB2UlJ4d3hjajBPc3JPb3pIRkFrOW8yS2ZaTS0zYXdRZlRZeU94ZW93QVc4NE84X3E3cHY4eko5Q0VZa3pPVEVGQU1aSVA",
+   "source": "Moomoo",
+   "published_at": "2026-10-06T15:12:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-06T15:12:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmZ5ekx6S3hMcVhTck9KY196bFN4MEhCOGh1aktsLVNUVy1ZNjJTX0FGZTlxV0VaazhsZGw1bDhjN1ZMbnIwS0FPQUowVU1PNTNUQ1B2azB2UlJ4d3hjajBPc3JPb3pIRkFrOW8yS2ZaTS0zYXdRZlRZeU94ZW93QVc4NE84X3E3cHY4eko5Q0VZa3pPVEVGQU1aSVA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "f2ac8a64b0ff",
+   "title": "$TSLA：市场终于在重新定价特斯拉了吗？ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlVrNk5RRmFGRk5idzctWEh0UGdYSWFhdjVSN3lQWVhuT1QzblJiRERKbVd3WVFWR1M2ak5DRk9FVjVzd3kwbHotR2J1S2F6ZHBZRkk4Nk94elcxbzQ4cHlMeTFQa0ZDWUZ6VDJsUDBRY003dkxOanQydW9nRnFFWnVxREhfWjNCY3I1Q3ZkWDlsbmczQlN3MWpob3FnOXhCMmNN",
+   "source": "Moomoo",
+   "published_at": "2026-10-06T15:12:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-06T15:12:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlVrNk5RRmFGRk5idzctWEh0UGdYSWFhdjVSN3lQWVhuT1QzblJiRERKbVd3WVFWR1M2ak5DRk9FVjVzd3kwbHotR2J1S2F6ZHBZRkk4Nk94elcxbzQ4cHlMeTFQa0ZDWUZ6VDJsUDBRY003dkxOanQydW9nRnFFWnVxREhfWjNCY3I1Q3ZkWDlsbmczQlN3MWpob3FnOXhCMmNN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "c817ec04ed5e",
    "title": "德国交通部长：希望特斯拉FSD（监督版）辅助驾驶系统能在欧盟获批 - sohu.com",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUFIU29TOHNudGRBTFdoczVMUmxUUG1VNGZBZkMzWS04d1JSUXRVQVFhX0QtQVFnRk1YbGw0eEJxNEV3NzZxTmExaTNXc2U4b0tiRkxUb1FGSUNjSnRHUU9USjJsQ0xfbVVuTnl4bHM4NWVNQUR4MEM2UXdNMTFEVDIwSk5IdEct",
    "source": "sohu.com",
    "published_at": "2026-10-06T15:06:34+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "sohu.com",
      "published_at": "2026-10-06T15:06:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUFIU29TOHNudGRBTFdoczVMUmxUUG1VNGZBZkMzWS04d1JSUXRVQVFhX0QtQVFnRk1YbGw0eEJxNEV3NzZxTmExaTNXc2U4b0tiRkxUb1FGSUNjSnRHUU9USjJsQ0xfbVVuTnl4bHM4NWVNQUR4MEM2UXdNMTFEVDIwSk5IdEct"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-06T15:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lbFNSR2xha1pTc29INU04cjY3R1UtXzI4R29lVWlHOEY2SDliWUxVbWdnU00tdjQ3VTZtTF8wZk91WnozQ3NkSWNlZkJSLVVoWlNCRXhyR3I5YmtsX0xBRDIyMUpSbUpHU0dLWkJURWRZaEFEUjlqYTFHdUhQUE0"
     }
    ],
    "category": "其他",
@@ -8178,159 +8273,6 @@
    "zh_summary": "特斯拉三季度销量超华尔街预期",
    "title_zh": "特斯拉第三季度销量大超华尔街预期",
    "sentiment": 2
-  },
-  {
-   "id": "9511ee0d0b53",
-   "title": "特斯拉上调Model 3/Y融资利率，无线充电专利及星链手机新进展 - video.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQby1iRC1GalptdGhYVTRRUlN0elhBRWFXSmdaZ29tS29fcFRiQXdKZWVPX2VzWlFHdUI1UDFGTUJTR3E2MXFGdjNGUVFIMlBpZTNPQk4tenJyd05XYjRRYmFRcEV3R2tYU2pEZ0dmUnlxV3NPa0xVbXlFVzU1eFpHaHB3",
-   "source": "video.sina.com.cn",
-   "published_at": "2026-10-04T19:31:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "video.sina.com.cn",
-     "published_at": "2026-10-04T19:31:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQby1iRC1GalptdGhYVTRRUlN0elhBRWFXSmdaZ29tS29fcFRiQXdKZWVPX2VzWlFHdUI1UDFGTUJTR3E2MXFGdjNGUVFIMlBpZTNPQk4tenJyd05XYjRRYmFRcEV3R2tYU2pEZ0dmUnlxV3NPa0xVbXlFVzU1eFpHaHB3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉上调Model 3/Y融资利率",
-   "title_zh": "特斯拉上调Model 3/Y融资利率，无线充电专利及星链手机新进展 - video.sina.com.cn",
-   "sentiment": 0
-  },
-  {
-   "id": "c483116900a3",
-   "title": "【视频】特斯拉我发现了致富之路，拿这个车跑婚庆！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JNExkV2d4dVd3SU1rRWMtTmpXYThZdG5sZ3psQ0ExaUp5QXdidnMwU044eGlVZkp6Vl9sc2VTUkY0RFh3aENTN1Q2VFdCZDdWc3BlVjJmczFIMlk",
-   "source": "汽车之家",
-   "published_at": "2026-10-04T19:25:05+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-04T19:25:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JNExkV2d4dVd3SU1rRWMtTmpXYThZdG5sZ3psQ0ExaUp5QXdidnMwU044eGlVZkp6Vl9sc2VTUkY0RFh3aENTN1Q2VFdCZDdWc3BlVjJmczFIMlk"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-04T19:25:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JNExkV2d4dVd3SU1rRWMtTmpXYThZdG5sZ3psQ0ExaUp5QXdidnMwU044eGlVZkp6Vl9sc2VTUkY0RFh3aENTN1Q2VFdCZDdWc3BlVjJmczFIMlk"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-04T19:25:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JNExkV2d4dVd3SU1rRWMtTmpXYThZdG5sZ3psQ0ExaUp5QXdidnMwU044eGlVZkp6Vl9sc2VTUkY0RFh3aENTN1Q2VFdCZDdWc3BlVjJmczFIMlk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "用特斯拉跑婚庆赚钱的路子",
-   "title_zh": "【视频】特斯拉我发现了致富之路，拿这个车跑婚庆！ - 汽车之家",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "6db64875cbac",
-   "title": "Tesla FSD becomes a sales driver, millionaire realtor replaces all his company cars with Tesla EVs - Tesla Oracle",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVN3N2pmbUllUmNsVUpydWY4YklUcDZYMFdCZGRFc19ja1czM1FGNmttZG40RGhoS1lkQjMxM0o0V0J3S0tVNkcyM0Y0bHpHWGN0MGxWT0xMWkxpaGFQTGZGN2RXVEc3dXU5TW1SX3pRMERSNDFIZWltd1hPSUFnOExMck1nbGUtNHpmc1V0QVIzdUNMeTlFZ2w1MVNHSFNGQzgyRU9GekJfcGVKNzJkWnZWT2lmdWlBRUFoQXlWc2o4eC05X25pVGw5TFVSMmtITGhF",
-   "source": "Tesla Oracle",
-   "published_at": "2026-10-04T18:32:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Tesla Oracle",
-     "published_at": "2026-10-04T18:32:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVN3N2pmbUllUmNsVUpydWY4YklUcDZYMFdCZGRFc19ja1czM1FGNmttZG40RGhoS1lkQjMxM0o0V0J3S0tVNkcyM0Y0bHpHWGN0MGxWT0xMWkxpaGFQTGZGN2RXVEc3dXU5TW1SX3pRMERSNDFIZWltd1hPSUFnOExMck1nbGUtNHpmc1V0QVIzdUNMeTlFZ2w1MVNHSFNGQzgyRU9GekJfcGVKNzJkWnZWT2lmdWlBRUFoQXlWc2o4eC05X25pVGw5TFVSMmtITGhF"
-    },
-    {
-     "name": "teslaoracle.com",
-     "published_at": "2026-10-04T18:32:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVN3N2pmbUllUmNsVUpydWY4YklUcDZYMFdCZGRFc19ja1czM1FGNmttZG40RGhoS1lkQjMxM0o0V0J3S0tVNkcyM0Y0bHpHWGN0MGxWT0xMWkxpaGFQTGZGN2RXVEc3dXU5TW1SX3pRMERSNDFIZWltd1hPSUFnOExMck1nbGUtNHpmc1V0QVIzdUNMeTlFZ2w1MVNHSFNGQzgyRU9GekJfcGVKNzJkWnZWT2lmdWlBRUFoQXlWc2o4eC05X25pVGw5TFVSMmtITGhF"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "FSD成特斯拉销售驱动力，富商换车队",
-   "title_zh": "特斯拉FSD成销售驱动力，百万富翁房产经纪人将公司车全换成特斯拉",
-   "sentiment": 1
-  },
-  {
-   "id": "b3690a609297",
-   "title": "SA Asks: What was the biggest takeaway from Tesla's Q3 deliveries report? - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWlhdlFfMzJVbDJ3WUhEM19taUkwMjlUZS1Kc1RNYXd1UkYwSzNPQjRCajlqUWYxaFdSWXpEX3FkcDljMGwyX2VLRXd0RGVZdUlETDdfaWo3dlJ5RmV5Sm1SVUVOMTEyZnNOdW5ERExReGZmM2FmNUZsRDhwYlV6QmRWbmwxdklRSWxqX0Z6RjFiOEVMamxJMWc5S1dyeWJ5bnI0aTJDcUtWREVXRjVWMFVyVGZHM3NTRmZTb0ZHVXl3NTRpU0laQ2NOc3JiaDA",
-   "source": "TradingView",
-   "published_at": "2026-10-04T18:19:07+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-04T18:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWlhdlFfMzJVbDJ3WUhEM19taUkwMjlUZS1Kc1RNYXd1UkYwSzNPQjRCajlqUWYxaFdSWXpEX3FkcDljMGwyX2VLRXd0RGVZdUlETDdfaWo3dlJ5RmV5Sm1SVUVOMTEyZnNOdW5ERExReGZmM2FmNUZsRDhwYlV6QmRWbmwxdklRSWxqX0Z6RjFiOEVMamxJMWc5S1dyeWJ5bnI0aTJDcUtWREVXRjVWMFVyVGZHM3NTRmZTb0ZHVXl3NTRpU0laQ2NOc3JiaDA"
-    },
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-04T18:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFJBZDVZZDVydWxUMUhvR3lnU3NWanBlUWE5eXp2OXdVSTJiWC1hOWk1TW5GMHFfNVZoRTdjeDF5dUIzMDhXTUZZZEJuQ1pESXY2MjNrcnRWM2VtQ1ZyeWRoMzNLOXRlOTlUQ21paUtjTmJPdDhPUkxMY1EwU2ZrV3Z2SDY4ajhKWGFnZ1RyR3ZOVmZVdU1iZkhhUEJuNFcyV00wVV83N3RrUG1G"
-    },
-    {
-     "name": "seekingalpha.com",
-     "published_at": "2026-10-04T18:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFJBZDVZZDVydWxUMUhvR3lnU3NWanBlUWE5eXp2OXdVSTJiWC1hOWk1TW5GMHFfNVZoRTdjeDF5dUIzMDhXTUZZZEJuQ1pESXY2MjNrcnRWM2VtQ1ZyeWRoMzNLOXRlOTlUQ21paUtjTmJPdDhPUkxMY1EwU2ZrV3Z2SDY4ajhKWGFnZ1RyR3ZOVmZVdU1iZkhhUEJuNFcyV00wVV83N3RrUG1G"
-    },
-    {
-     "name": "tradingview.com",
-     "published_at": "2026-10-04T18:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWlhdlFfMzJVbDJ3WUhEM19taUkwMjlUZS1Kc1RNYXd1UkYwSzNPQjRCajlqUWYxaFdSWXpEX3FkcDljMGwyX2VLRXd0RGVZdUlETDdfaWo3dlJ5RmV5Sm1SVUVOMTEyZnNOdW5ERExReGZmM2FmNUZsRDhwYlV6QmRWbmwxdklRSWxqX0Z6RjFiOEVMamxJMWc5S1dyeWJ5bnI0aTJDcUtWREVXRjVWMFVyVGZHM3NTRmZTb0ZHVXl3NTRpU0laQ2NOc3JiaDA"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "Seeking Alpha讨论特斯拉Q3交付报告",
-   "title_zh": "SA提问：特斯拉Q3交付报告最大看点是什么？",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "fde76bd3f69e",
-   "title": "Tesla catches fire in San Francisco’s Marina District - San Francisco Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazlGcjlrX2VCZjF3YkNoc2FTcnV3QkxBNnUxNHpRWmJxd3V1M2p1NWh0bVdwVExqVXNtc09BbnllTmU5QjFlWmpGYW5jcGtPZ29HOU1YdHV1YVI5c1RVdDAzOEFLbEhWbmd5THpnWm1VTVNVZFI5QzhtbG8tSldfMXcyMVhnNjVzY0t3",
-   "source": "San Francisco Chronicle",
-   "published_at": "2026-10-04T18:07:29+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "San Francisco Chronicle",
-     "published_at": "2026-10-04T18:07:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazlGcjlrX2VCZjF3YkNoc2FTcnV3QkxBNnUxNHpRWmJxd3V1M2p1NWh0bVdwVExqVXNtc09BbnllTmU5QjFlWmpGYW5jcGtPZ29HOU1YdHV1YVI5c1RVdDAzOEFLbEhWbmd5THpnWm1VTVNVZFI5QzhtbG8tSldfMXcyMVhnNjVzY0t3"
-    },
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-04T19:04:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSnJ2THFqVUM5WGtla0RZa1psVGUxQTBjMWZSUzA5MjIzTE5qeUVEcm5GdlFqa0w4VjI4OS1SbW1RTjFtWWxZaWNnclNsTmd2dlQtcUg5RW05T1lNOUlFc0JaYWhOQ1hKS2NzNm5DMlBqOWxtMi1qOU45QTlwUzl5Y1otUGp6NU9kODVYQg"
-    },
-    {
-     "name": "sfchronicle.com",
-     "published_at": "2026-10-05T05:29:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazlGcjlrX2VCZjF3YkNoc2FTcnV3QkxBNnUxNHpRWmJxd3V1M2p1NWh0bVdwVExqVXNtc09BbnllTmU5QjFlWmpGYW5jcGtPZ29HOU1YdHV1YVI5c1RVdDAzOEFLbEhWbmd5THpnWm1VTVNVZFI5QzhtbG8tSldfMXcyMVhnNjVzY0t3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉在旧金山玛丽娜区起火",
-   "title_zh": "旧金山玛丽娜区一辆特斯拉起火",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 2.96,
-    "window_h": 0.6
-   }
   }
  ]
 }
