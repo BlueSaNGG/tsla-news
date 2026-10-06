@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T18:37:40.448060+00:00",
+ "updated_at": "2026-10-06T18:52:28.456129+00:00",
  "market": {
-  "price": 380.12,
-  "change_pct": 0.37,
+  "price": 379.73,
+  "change_pct": 0.26,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 42% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.2%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（88条已评分）"
+     "note": "今日新闻情绪 +0.20（92条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.12 vs 20日均线 $366.70"
+     "note": "现价 $379.73 vs 20日均线 $366.68"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 42,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.2,
-   "ma20": 366.7,
-   "as_of": "2026-10-06T18:37:40.437600+00:00"
+   "implied_upside_pct": 7.3,
+   "ma20": 366.68,
+   "as_of": "2026-10-06T18:52:28.449758+00:00"
   },
-  "pe_ttm": 105.1,
+  "pe_ttm": 105.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 88
+   "avg": 0.2,
+   "count": 92
   }
  },
  "meta": {
@@ -852,6 +852,23 @@
     "pct": 0.3,
     "window_h": 0.9
    }
+  },
+  {
+   "id": "79f3d4337934",
+   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
+   "source": "Barron's",
+   "published_at": "2026-10-06T13:52:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T13:52:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "6937f570f718",
@@ -3181,26 +3198,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉5月欧盟注册量翻倍，比亚迪仍居首",
    "title_zh": "特斯拉5月欧盟注册量翻倍，但比亚迪以超2.6万辆领跑",
-   "sentiment": 1
-  },
-  {
-   "id": "b4f206e0dbcb",
-   "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz",
-   "source": "Stocktwits",
-   "published_at": "2026-10-06T00:12:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-06T00:12:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克行使2018期权增持",
-   "title_zh": "马斯克行使2018股票期权奖励增持TSLA股份",
    "sentiment": 1
   },
   {
