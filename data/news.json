@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T14:52:32.348447+00:00",
+ "updated_at": "2026-10-06T15:07:30.329862+00:00",
  "market": {
-  "price": 381.12,
-  "change_pct": 0.63,
+  "price": 381.02,
+  "change_pct": 0.6,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（59条已评分）"
+     "note": "今日新闻情绪 +0.18（62条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $381.12 vs 20日均线 $366.75"
+     "note": "现价 $381.02 vs 20日均线 $366.74"
     },
     {
      "key": "分析师动向",
@@ -43,8 +43,8 @@
    "target_median": 407.5,
    "target_count": 14,
    "implied_upside_pct": 6.9,
-   "ma20": 366.75,
-   "as_of": "2026-10-06T14:52:32.342041+00:00"
+   "ma20": 366.74,
+   "as_of": "2026-10-06T15:07:30.323182+00:00"
   },
   "pe_ttm": 105.4,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 59
+   "avg": 0.18,
+   "count": 62
   }
  },
  "meta": {
@@ -153,12 +153,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZ09MZDk4V1B2ejBjVU5VaWxMRFZqUEFBZUpmdGpNVndjbDNZekV3NEtUbjVFenAwblE4ZzNXdmNxaHdNb0dVd1ZDa0dMRnlMYTBXbEQ4Yk9BNTg",
    "source": "网通社",
    "published_at": "2026-10-06T14:24:07+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "网通社",
      "published_at": "2026-10-06T14:24:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZ09MZDk4V1B2ejBjVU5VaWxMRFZqUEFBZUpmdGpNVndjbDNZekV3NEtUbjVFenAwblE4ZzNXdmNxaHdNb0dVd1ZDa0dMRnlMYTBXbEQ4Yk9BNTg"
+    },
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-06T14:24:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WQWZEUXFPcEgwcTJsMXJtNlRqQUtNbXpvdFAtNGJjbVFIcXpyVHJQQWNrTFUySkRpV0ZKTXIyeDhxakJ1Z0wtSm1DdUQ"
     }
    ],
    "category": "交付量",
@@ -777,7 +782,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdlR2dW9TS3F2eTRDSnJMVVA4SE5MVlZnWk56WWc1TUtTMGRla0k3Y3J0Y05ldGNjWEczQ2ZkbHIxUUFQUmcxdTBTZXQtSlFTTWd2enB6RFJSTjVMX3pqZi1tTzZQUHM",
    "source": "Reuters",
    "published_at": "2026-10-06T10:38:38+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Reuters",
@@ -791,6 +796,11 @@
     },
     {
      "name": "The Detroit News",
+     "published_at": "2026-10-06T14:32:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUjY0OF9RMTR2Mlo0aVlHN3FoaDN5YWJFNkdnQkl3SVlDRjR5a2RXZGxuNnlTMGpwaXFmSnRSM3NfX3BRYm9XeFVUNnJHWVpCRXI1NllZakFIdzZmamtXcnJiNjZsMDV5TTN1a1hSbGJjLWxpWklSWmFocG0yNUVSNTItX2VLTTk1c2QzLS11Q1dnWDR3VDBNNElSQzdzcUc4Y01xTlNJTFFERW5DRGlXSC1ib0gtRmRwdmhQZUk4T0FMZEl2TUpoRTVhMFRqVDgwb2tPWlJsbTJrSHRWZ2o2ZVlmSQ"
+    },
+    {
+     "name": "detroitnews.com",
      "published_at": "2026-10-06T14:32:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUjY0OF9RMTR2Mlo0aVlHN3FoaDN5YWJFNkdnQkl3SVlDRjR5a2RXZGxuNnlTMGpwaXFmSnRSM3NfX3BRYm9XeFVUNnJHWVpCRXI1NllZakFIdzZmamtXcnJiNjZsMDV5TTN1a1hSbGJjLWxpWklSWmFocG0yNUVSNTItX2VLTTk1c2QzLS11Q1dnWDR3VDBNNElSQzdzcUc4Y01xTlNJTFFERW5DRGlXSC1ib0gtRmRwdmhQZUk4T0FMZEl2TUpoRTVhMFRqVDgwb2tPWlJsbTJrSHRWZ2o2ZVlmSQ"
     }
@@ -1170,26 +1180,6 @@
    "sentiment": -1
   },
   {
-   "id": "79f3d4337934",
-   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
-   "source": "Barron's",
-   "published_at": "2026-10-06T09:22:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T09:22:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Roadster发布会被推迟，分析对股价影响",
-   "title_zh": "为何特斯拉Roadster发布会被推迟及其对股价的影响",
-   "sentiment": -1
-  },
-  {
    "id": "228b3a0e184e",
    "title": "Here's How Tesla Model Y Maintenance Costs Really Look In 2026 - CarBuzz",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wdmRpdERzR0ttQ3ZNS3JfR3FGaXNSRExycGkzUWtPY3lSSW9NUlVPMzdpeFJsYVVoUDFJUXlnTHlaYWh0eGhucE1QdE9XTXFHSERLZEQ1WE5rYURhODNoZTJSLVA1WE4tQzBsZmg1bnNtd1lvVWx0cEdvRWs",
@@ -1288,7 +1278,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW1JTTFIek15eDJZdWVnMFFiV3hXOGtmWHRXSkxfWDdmVmVjLWRPb01vcHZnSXNlRmtmZGw2MUUyM0ZPUFE3amtUTkVwbEl3ckJVVXI3UmFiUU83MU8wOVVHa21lb3hGa3p2UktYcDdvWk10NThQcDVzOGE5VlpfaWZPd1I1VUhGekFDWHN4bHFFaHFVX1E",
    "source": "The Motley Fool",
    "published_at": "2026-10-06T08:44:17+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -1319,6 +1309,11 @@
      "name": "finance.yahoo.com",
      "published_at": "2026-10-06T08:54:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXVyU0ZsYVZyLWxMaW5mdkxQVGNlUEw2cVBETFZFT2hnd1NpZUtYX0NaVnlVM2licDQtc0hKZnI4V2FoNld1RWd6S0psdG1TTlhMX3lJNWtCXzJ3aFU2cTUwYnVIbVJ5Zm5BZS1rcTlUNTlibUo4ZWNXemp3UzVfSkE3VXFja1h2WnBMU1VpTkZwWWFDX2JGd0lyRGoyUkFtVGc"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-06T08:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORFRYNDhhRDRfV1lwQ09meW5wR25UNlU0bGRGY0pod0hLUGNUX1ozc3NKVE1GTkxFYlNYUC1wNlNHbXdFMlRpaWhUNVdxS0JyQzQteloxb0lxVGkwS1JORFpfWGhQcnhoTFNVd3FFUHpDTldDakZia3hSdmdRYjNNMVoyWEVpdw"
     }
    ],
    "category": "其他",
@@ -1596,12 +1591,12 @@
    "title": "TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could ‘Dominate’ Near-Term Narrative — Gary Black Sees More Gains Ahead - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RYMEljQkVmamZ1ZXVMVEl4NFc4bDNfRTJNenJqQUVMZGdFMjRNeUVzcXJ1aU9YMWxpY19SZFdzMXhKX1dLNHZaV3ZobGRFZXJsSWJJR1VlMTZDbXJMbEhhWkRXdHNfYWRNT2FDNVFaR29WZUNnbGx0VW1BYWFCbGdUUkp3LUJLN3BZeUp6aEhNcTZMTnZxSzVwQ1JmMTVG",
    "source": "Yahoo Finance",
-   "published_at": "2026-10-06T05:42:16+00:00",
+   "published_at": "2026-10-06T05:42:00+00:00",
    "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance",
-     "published_at": "2026-10-06T05:42:16+00:00",
+     "published_at": "2026-10-06T05:42:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RYMEljQkVmamZ1ZXVMVEl4NFc4bDNfRTJNenJqQUVMZGdFMjRNeUVzcXJ1aU9YMWxpY19SZFdzMXhKX1dLNHZaV3ZobGRFZXJsSWJJR1VlMTZDbXJMbEhhWkRXdHNfYWRNT2FDNVFaR29WZUNnbGx0VW1BYWFCbGdUUkp3LUJLN3BZeUp6aEhNcTZMTnZxSzVwQ1JmMTVG"
     },
     {
@@ -2050,6 +2045,23 @@
    "zh_summary": "特斯拉关键Model 3升级或跳过加拿大",
    "title_zh": "特斯拉这项关键Model 3升级是否会跳过加拿大？",
    "sentiment": 0
+  },
+  {
+   "id": "de93dad57abc",
+   "title": "TSLA Stock Climbs Overnight: ‘SPAC King’ Chamath Palihapitiya Sees ‘Obvious’ Logic In Tesla-SpaceX Merger - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlhUdUJfMDZuY2lxSEtVX3JhYWxLbFg5TGctQndDR0R0T0tJalNiMkdtS0lvZUNsTHozOWxJQzdfOEFlWFZTRnAyWVR3cnoyVVFIdzR5NzFfNHZJSUFiTnE1SF9aOXBKZFV3Q0hneFpYREozTTV6NDZIaGpDZFBCV2JLYUhiNE5INHp4TmVXMmlIY0FqQlB2UEExTXR0UnFYSDlydXJhQlRpdmVDWVE",
+   "source": "Stocktwits",
+   "published_at": "2026-10-06T02:38:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-06T02:38:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlhUdUJfMDZuY2lxSEtVX3JhYWxLbFg5TGctQndDR0R0T0tJalNiMkdtS0lvZUNsTHozOWxJQzdfOEFlWFZTRnAyWVR3cnoyVVFIdzR5NzFfNHZJSUFiTnE1SF9aOXBKZFV3Q0hneFpYREozTTV6NDZIaGpDZFBCV2JLYUhiNE5INHp4TmVXMmlIY0FqQlB2UEExTXR0UnFYSDlydXJhQlRpdmVDWVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "97e52c0885dd",
