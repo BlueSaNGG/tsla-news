@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T18:22:34.401443+00:00",
+ "updated_at": "2026-10-06T18:37:40.448060+00:00",
  "market": {
-  "price": 379.99,
-  "change_pct": 0.33,
+  "price": 380.12,
+  "change_pct": 0.37,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（87条已评分）"
+     "note": "今日新闻情绪 +0.19（88条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.99 vs 20日均线 $366.69"
+     "note": "现价 $380.12 vs 20日均线 $366.70"
     },
     {
      "key": "分析师动向",
@@ -43,8 +43,8 @@
    "target_median": 407.5,
    "target_count": 14,
    "implied_upside_pct": 7.2,
-   "ma20": 366.69,
-   "as_of": "2026-10-06T18:22:34.395605+00:00"
+   "ma20": 366.7,
+   "as_of": "2026-10-06T18:37:40.437600+00:00"
   },
   "pe_ttm": 105.1,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 87
+   "avg": 0.19,
+   "count": 88
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "83fb3809e248",
+   "title": "Toronto REIT snags site of Triad's only Tesla dealership for $21M - The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajlzQ2htcGJvSmc5VTNzOThLY0hMX3RybFotVmpCc0tSdUhIRzBnT185ZEVYVGhtSGlySW52RE9Ra1V5T05Qb0RXcS1FRUdLMS0zWDZ4OElmQVllZlo5ekM0b0YtemQ4emg0U0RsUzctMmVWTWFNakZnZENHWmRSMk02NTc3dWR0V0JqRTJGQk91bENXYkdGN24xSVhuamdsbHpfakdpVQ",
+   "source": "The Business Journals",
+   "published_at": "2026-10-06T18:19:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Business Journals",
+     "published_at": "2026-10-06T18:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajlzQ2htcGJvSmc5VTNzOThLY0hMX3RybFotVmpCc0tSdUhIRzBnT185ZEVYVGhtSGlySW52RE9Ra1V5T05Qb0RXcS1FRUdLMS0zWDZ4OElmQVllZlo5ekM0b0YtemQ4emg0U0RsUzctMmVWTWFNakZnZENHWmRSMk02NTc3dWR0V0JqRTJGQk91bENXYkdGN24xSVhuamdsbHpfakdpVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b13b5eee9e0f",
+   "title": "Tesla Reached Deal With Germany on FSD Speed and Liability, Ministry Says - eletric-vehicles.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbU81MVdHV3YwY2Vxa3ZnOEpWQk5YX19sVmQ0M0lHWWNJZ0tDZVJNUWQ1ZGlMMG05aEw5S1dmWEEtR3loMnVfRUM5ek43MzU2Uk5xNTJpZkRPekhoUmM1UC1ZeU9ld0ZmbzRvcnNkajk4RlFNS280M3U4SmlHS3B5VDZvbE5pYUFSc3F1QUdCWTJ0SE5HTHVHeEdGR2FnQWo5ZjJ3Z1U1UmxQSmRf",
+   "source": "eletric-vehicles.com",
+   "published_at": "2026-10-06T18:17:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eletric-vehicles.com",
+     "published_at": "2026-10-06T18:17:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbU81MVdHV3YwY2Vxa3ZnOEpWQk5YX19sVmQ0M0lHWWNJZ0tDZVJNUWQ1ZGlMMG05aEw5S1dmWEEtR3loMnVfRUM5ek43MzU2Uk5xNTJpZkRPekhoUmM1UC1ZeU9ld0ZmbzRvcnNkajk4RlFNS280M3U4SmlHS3B5VDZvbE5pYUFSc3F1QUdCWTJ0SE5HTHVHeEdGR2FnQWo5ZjJ3Z1U1UmxQSmRf"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "3dc3a7bacd7a",
    "title": "Toyota Vs. Tesla At 250,000 Miles: It’s Not Even Close - Autoblog",
@@ -128,17 +162,39 @@
    "sentiment": 1
   },
   {
+   "id": "a526b51e4173",
+   "title": "Tesla expands Powershare to Model 3 and Model Y, adds V2L across U.S. lineup - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvNkpGU3l6ekFTdmVlb1NlR0h2ZjIyV1o3Ry1WTmVCbkw1bkVZQjJrTEZHd1lzNjhsbnRtUnpfdnIzTXZUY05jOXptZlduSWM4R2dDOWVpUmFpTFNvbm9nRXNOYi11MVYxTE02eHpuV0lrSjFuSmgzRFJB",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-06T17:46:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-06T17:46:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvNkpGU3l6ekFTdmVlb1NlR0h2ZjIyV1o3Ry1WTmVCbkw1bkVZQjJrTEZHd1lzNjhsbnRtUnpfdnIzTXZUY05jOXptZlduSWM4R2dDOWVpUmFpTFNvbm9nRXNOYi11MVYxTE02eHpuV0lrSjFuSmgzRFJB"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "944676ded4f0",
    "title": "Tesla Stocks Gain as 486,532 Deliveries Reset the Bar - GuruFocus",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGNEODNWUjNqQmNqR0tUU2ppWW1PMnd4ZUVWXzQ0eTVIZElXVi12dzZtOTVRT0FkZ2xXR0xZci16ZFp1bGk1c0wtS19CbWNENFR6b0NCNFJ3bWhMZzd3ZVA2UUhrR1V3TFZ5Zjd2LUJvbUhGLXV1NTNsUm5LS1k5eU1tUEVhbnJXMmdzclFEQVdvTUVmVVE",
    "source": "GuruFocus",
    "published_at": "2026-10-06T17:35:27+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-06T17:35:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGNEODNWUjNqQmNqR0tUU2ppWW1PMnd4ZUVWXzQ0eTVIZElXVi12dzZtOTVRT0FkZ2xXR0xZci16ZFp1bGk1c0wtS19CbWNENFR6b0NCNFJ3bWhMZzd3ZVA2UUhrR1V3TFZ5Zjd2LUJvbUhGLXV1NTNsUm5LS1k5eU1tUEVhbnJXMmdzclFEQVdvTUVmVVE"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-06T18:13:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTVSYzlyQndZcFNTNk9FZkpEQWp1Q3BpM2t6WkZJNi1lRkhSY0U3OHNVTVBGUnZoUUVxbGc4ZzVHLXV4X01XWm5XN2VTeWN1ZjhFQjlRcl9IRFJ0QUJOSzJrZHQ0RjI2VGFuR1RiaGpEQVpPdkpra1hQWXlNNElkdDBIUkNZX2F4Qk9JdXlYZnFONFVHNzRGQ3E4UUh1YV9pS0JVUWhjTEJkU0pOMDc5bEpWUQ"
     }
    ],
    "category": "交付量",
@@ -787,26 +843,6 @@
     "pct": 0.3,
     "window_h": 0.9
    }
-  },
-  {
-   "id": "79f3d4337934",
-   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
-   "source": "Barron's",
-   "published_at": "2026-10-06T13:52:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T13:52:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "Roadster发布会延期及对股价影响",
-   "title_zh": "Roadster 发布会为何延期——及其对股价的含义",
-   "sentiment": -1
   },
   {
    "id": "6937f570f718",
@@ -2168,6 +2204,23 @@
    "sentiment": 0
   },
   {
+   "id": "c209f0f4cb83",
+   "title": "2. AI 使用打卡｜从行业数据看特斯拉 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDlUTjVkZFkxRUljNmNfUjJBZWRTTGo5N3Q2MTE0Y1hUanlsQ20zRGlZVEFPcWozOVFPREhQS2hPdU9aM21YNXdKNXpGSUNMWUwybC13bVgtcEJ0aWZkRk1qX3JUVG10dmlPSnhwMTlYeTVTTzc1d3A1enpybVpHNnEwV2g2bklJT3ZaZDJiOHRpN1lkWWV5Y2ppSlRkWlgyRGVsZTFWQjdua3M5UTl2bUotcDJiUWtJSU5j",
+   "source": "Moomoo",
+   "published_at": "2026-10-06T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-06T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDlUTjVkZFkxRUljNmNfUjJBZWRTTGo5N3Q2MTE0Y1hUanlsQ20zRGlZVEFPcWozOVFPREhQS2hPdU9aM21YNXdKNXpGSUNMWUwybC13bVgtcEJ0aWZkRk1qX3JUVG10dmlPSnhwMTlYeTVTTzc1d3A1enpybVpHNnEwV2g2bklJT3ZaZDJiOHRpN1lkWWV5Y2ppSlRkWlgyRGVsZTFWQjdua3M5UTl2bUotcDJiUWtJSU5j"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "cdfdc6c641a6",
    "title": "Elon Musk Says Gray Kittens Are Grounding Tesla Robotaxis At Night - Motor1.com",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0U2dHVhOTUxMmVGM2RsWWc5V2QtMGdfS1I5SkVVcDNDaTRiX0FEUXBaSlc2NzZsUVdpemZKanowZWptSVdmakZiRHFZUEVvWUM3M2VNemQ5Tms2V0w4Rm5paWtNRkx6SWh2UFhOM3VjZEpLbkZCdXN3SXhFdXMxcEhiTFc",
@@ -3117,6 +3170,23 @@
    "zh_summary": "特斯拉5月欧盟注册量翻倍，比亚迪仍居首",
    "title_zh": "特斯拉5月欧盟注册量翻倍，但比亚迪以超2.6万辆领跑",
    "sentiment": 1
+  },
+  {
+   "id": "b4f206e0dbcb",
+   "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz",
+   "source": "Stocktwits",
+   "published_at": "2026-10-06T00:12:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-06T00:12:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "bb9aa04e4fd6",
@@ -8158,130 +8228,6 @@
    "zh_summary": "特斯拉三季度交付48.7万辆超预期",
    "title_zh": "特斯拉第三季度交付 486，532 辆汽车，超出市场预期 - 手机新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "a47c6b40b00c",
-   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
-   "source": "InsideEVs",
-   "published_at": "2026-10-05T02:09:30+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-05T02:09:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
-    },
-    {
-     "name": "insideevs.com",
-     "published_at": "2026-10-05T02:09:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉欧洲终结13连月销量下滑",
-   "title_zh": "特斯拉终于终结欧洲13个月销量连跌",
-   "sentiment": 1
-  },
-  {
-   "id": "a371e98318d6",
-   "title": "(TSLA) Proactive Strategies (TSLA:CA) - Stock Traders Daily",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv",
-   "source": "Stock Traders Daily",
-   "published_at": "2026-10-05T02:07:47+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stock Traders Daily",
-     "published_at": "2026-10-05T02:07:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv"
-    },
-    {
-     "name": "news.stocktradersdaily.com",
-     "published_at": "2026-10-05T02:07:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd2dMMk1DOVhaek9YejkzZ1dmbVlKSE5EV0d2ZXRVWXhPMXE2cHZ6SHdQb2xLT2hhRkpwdkMwYVBzQUNQNm12Z2owRDZockxTQjhBMUNLNTU2Z2R2TXAwcWNQWDlEZ2UtLVhwU0R4cjItT1VRdHdVV08zeGcyR19CcEVod0k0Rjh5Mnpv"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉（TSLA）积极策略",
-   "title_zh": "(TSLA)积极策略（TSLA:CA）- Stock Traders Daily",
-   "sentiment": 0
-  },
-  {
-   "id": "09014e3b9949",
-   "title": "【视频】22款特斯拉modelY星空灰 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QzBvTXF3T1d1YWU1TGRsM19tU0J2eG9Qcm5IbnRILTN4QzV5elZ6RTU5Z2tBTVJfcEpSbGhZMFNGRUg5NGZiTDFYcEkwYm9PdHgxMnB2MjUwVms",
-   "source": "汽车之家",
-   "published_at": "2026-10-05T01:55:07+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T01:55:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QzBvTXF3T1d1YWU1TGRsM19tU0J2eG9Qcm5IbnRILTN4QzV5elZ6RTU5Z2tBTVJfcEpSbGhZMFNGRUg5NGZiTDFYcEkwYm9PdHgxMnB2MjUwVms"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T01:55:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTlNpSm1uSnpLVzU5UnZySC1iejRlbzJVZkhhbmtVR3oyU2swdzU5eUtHR2NwLTdXRXZNSURVSzlUTFRtRHhMYm9jQU9maGZKUWpGdW5MSldIRGVCT2dqaEQybVpPVmlnOGk0"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T01:55:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTlNpSm1uSnpLVzU5UnZySC1iejRlbzJVZkhhbmtVR3oyU2swdzU5eUtHR2NwLTdXRXZNSURVSzlUTFRtRHhMYm9jQU9maGZKUWpGdW5MSldIRGVCT2dqaEQybVpPVmlnOGk0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "22款特斯拉Model Y星空灰视频",
-   "title_zh": "【视频】22款特斯拉modelY星空灰 - chejiahao.autohome.com.cn",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "2a32238e1c8b",
-   "title": "Florida homeowner goes all-in on Tesla, says hurricane backup power is the real payoff - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHh3dVdHWG55TzllNk0xazJ1R3FTUkhjN0lTWWo4RmVISXdKSmszNVdfZVFfUnJ0eGR3eGdfWDVUU1J1NUdfYXQxSDhyVUJvblpfN1BhR1JSNDRGT1dQdHppOEtqYzdUbHRsVkVVZDBCY2pCeC1ROGFPcy1hZnVUbzdQVkgxT1lsWGdDMjVwX0lpcm5mV3dSZnpDeUxvV3dhWFg0SUIwRmZjaG5tU2kzcDRmbw",
-   "source": "Yahoo",
-   "published_at": "2026-10-05T01:50:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-05T01:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHh3dVdHWG55TzllNk0xazJ1R3FTUkhjN0lTWWo4RmVISXdKSmszNVdfZVFfUnJ0eGR3eGdfWDVUU1J1NUdfYXQxSDhyVUJvblpfN1BhR1JSNDRGT1dQdHppOEtqYzdUbHRsVkVVZDBCY2pCeC1ROGFPcy1hZnVUbzdQVkgxT1lsWGdDMjVwX0lpcm5mV3dSZnpDeUxvV3dhWFg0SUIwRmZjaG5tU2kzcDRmbw"
-    },
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-05T01:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTg3dHMxbkhWVGRYZkswbi1ZcGtkV3RWODM1WXIybU42R3FhSlVlakFIMWhkcExKMElGTWRTQklfb2dMVFc2WTlpZEdEWVF2VWEtMkMtMHZJU3JxZURockxlUXpZejlQLUFJazhSbVpOVHlxTlk4QTFGMEN5Z1BqN0VB"
-    },
-    {
-     "name": "shopping.yahoo.com",
-     "published_at": "2026-10-05T01:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHh3dVdHWG55TzllNk0xazJ1R3FTUkhjN0lTWWo4RmVISXdKSmszNVdfZVFfUnJ0eGR3eGdfWDVUU1J1NUdfYXQxSDhyVUJvblpfN1BhR1JSNDRGT1dQdHppOEtqYzdUbHRsVkVVZDBCY2pCeC1ROGFPcy1hZnVUbzdQVkgxT1lsWGdDMjVwX0lpcm5mV3dSZnpDeUxvV3dhWFg0SUIwRmZjaG5tU2kzcDRmbw"
-    },
-    {
-     "name": "thecooldown.com",
-     "published_at": "2026-10-05T01:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTg3dHMxbkhWVGRYZkswbi1ZcGtkV3RWODM1WXIybU42R3FhSlVlakFIMWhkcExKMElGTWRTQklfb2dMVFc2WTlpZEdEWVF2VWEtMkMtMHZJU3JxZURockxlUXpZejlQLUFJazhSbVpOVHlxTlk4QTFGMEN5Z1BqN0VB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "佛州用户看好特斯拉飓风备用电源",
-   "title_zh": "佛罗里达车主看好特斯拉：飓风备用电源才是真回报",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
   }
  ]
 }
