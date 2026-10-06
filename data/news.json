@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T15:52:33.694260+00:00",
+ "updated_at": "2026-10-06T16:07:31.972228+00:00",
  "market": {
-  "price": 381.05,
-  "change_pct": 0.61,
+  "price": 380.54,
+  "change_pct": 0.48,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +6.9%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（73条已评分）"
+     "note": "今日新闻情绪 +0.18（74条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $381.05 vs 20日均线 $366.74"
+     "note": "现价 $380.54 vs 20日均线 $366.72"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 6.9,
-   "ma20": 366.74,
-   "as_of": "2026-10-06T15:52:33.687992+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 366.72,
+   "as_of": "2026-10-06T16:07:31.962843+00:00"
   },
-  "pe_ttm": 105.4,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+6.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.18,
-   "count": 73
+   "count": 74
   }
  },
  "meta": {
@@ -133,7 +133,7 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFZRQTZ4WXk4Wnoyc0NNYmpjQzhNM0lCNVlCY1R0MDJlYnpaODF6T0RTTVdBWDNtd1BnQjN2NldKRk45Qjg1dUpDcm1vTWl5Rl81WHN5dWVscEc3T1RrRzYtNHh6Sm5SaGlqaGlBNjRXeHJONGl2aWhnZTVaRG1CdFFvNEh6Qlo0NWNJanJfYWctVnVPNHVYc3F0ZHFBNFBDSGhRRFFORmsxRmpTa2RmMHJhRi15dWo0ZkRuXw",
    "source": "The Motley Fool",
    "published_at": "2026-10-06T15:14:43+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -144,13 +144,22 @@
      "name": "fool.com",
      "published_at": "2026-10-06T15:14:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFZRQTZ4WXk4Wnoyc0NNYmpjQzhNM0lCNVlCY1R0MDJlYnpaODF6T0RTTVdBWDNtd1BnQjN2NldKRk45Qjg1dUpDcm1vTWl5Rl81WHN5dWVscEc3T1RrRzYtNHh6Sm5SaGlqaGlBNjRXeHJONGl2aWhnZTVaRG1CdFFvNEh6Qlo0NWNJanJfYWctVnVPNHVYc3F0ZHFBNFBDSGhRRFFORmsxRmpTa2RmMHJhRi15dWo0ZkRuXw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T15:22:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnNSNU96VmdSLUJNVUFxQWlaS0p6ZjBxaXV5SU5LMVJ1aksxVkxTaGkzRUppaU40NG5XRWdacmVlTmE1NGMxX2dvZFlfMlF3eXJjQTQzUkR4SlM4OXNpRHdiVFZqa3d6am5GRDJPTEtBZWhoc2daOHZSblR6aURwYTlKclRUM2pZU2Y4ZTlEZDF5QQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉与Stellantis谁更值得买",
    "title_zh": "Stellantis与特斯拉：2026年哪个消费股更值得买",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.01,
+    "window_h": 0.9
+   }
   },
   {
    "id": "4a9c9fa1790b",
@@ -377,7 +386,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZ09MZDk4V1B2ejBjVU5VaWxMRFZqUEFBZUpmdGpNVndjbDNZekV3NEtUbjVFenAwblE4ZzNXdmNxaHdNb0dVd1ZDa0dMRnlMYTBXbEQ4Yk9BNTg",
    "source": "网通社",
    "published_at": "2026-10-06T14:24:07+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "网通社",
@@ -393,10 +402,16 @@
      "name": "凤凰网",
      "published_at": "2026-10-06T14:24:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WQWZEUXFPcEgwcTJsMXJtNlRqQUtNbXpvdFAtNGJjbVFIcXpyVHJQQWNrTFUySkRpV0ZKTXIyeDhxakJ1Z0wtSm1DdUQ"
+    },
+    {
+     "name": "auto.ifeng.com",
+     "published_at": "2026-10-06T14:24:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WQWZEUXFPcEgwcTJsMXJtNlRqQUtNbXpvdFAtNGJjbVFIcXpyVHJQQWNrTFUySkRpV0ZKTXIyeDhxakJ1Z0wtSm1DdUQ"
     }
    ],
    "category": "交付量",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "特斯拉在印度累计注册993辆车",
    "title_zh": "特斯拉在印度市场交付超一年累计注册993辆汽车 - 网通社",
    "sentiment": 0,
@@ -451,10 +466,15 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXJHa0VSeXZaUldaMGRfQjh4M2tuYkRNemZkc1F6SUM5X0dxMDBCNFluOFpJZTQ5ZXZUcDF0U0Z1OEFSdWRkS2xHbEZhdTZqREE2SUNfQTRmU1AwSmpSVHhxXzUxa18tQnVxM21sdW95NGE1Rnd3OUltQ3ZocUROVHNHR2s3YlNHM2RXdzFicVlpX0hDTzljQkh2TkEtTVRnT3JYMW52TGxPNEltOWZGYlJDaTU4aExWNk9WcA",
    "source": "thestreet.com",
    "published_at": "2026-10-06T14:07:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "thestreet.com",
+     "published_at": "2026-10-06T14:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXJHa0VSeXZaUldaMGRfQjh4M2tuYkRNemZkc1F6SUM5X0dxMDBCNFluOFpJZTQ5ZXZUcDF0U0Z1OEFSdWRkS2xHbEZhdTZqREE2SUNfQTRmU1AwSmpSVHhxXzUxa18tQnVxM21sdW95NGE1Rnd3OUltQ3ZocUROVHNHR2s3YlNHM2RXdzFicVlpX0hDTzljQkh2TkEtTVRnT3JYMW52TGxPNEltOWZGYlJDaTU4aExWNk9WcA"
+    },
+    {
+     "name": "TheStreet",
      "published_at": "2026-10-06T14:07:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXJHa0VSeXZaUldaMGRfQjh4M2tuYkRNemZkc1F6SUM5X0dxMDBCNFluOFpJZTQ5ZXZUcDF0U0Z1OEFSdWRkS2xHbEZhdTZqREE2SUNfQTRmU1AwSmpSVHhxXzUxa18tQnVxM21sdW95NGE1Rnd3OUltQ3ZocUROVHNHR2s3YlNHM2RXdzFicVlpX0hDTzljQkh2TkEtTVRnT3JYMW52TGxPNEltOWZGYlJDaTU4aExWNk9WcA"
     }
@@ -518,6 +538,23 @@
     "pct": 0.3,
     "window_h": 0.9
    }
+  },
+  {
+   "id": "79f3d4337934",
+   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
+   "source": "Barron's",
+   "published_at": "2026-10-06T13:52:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T13:52:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "6937f570f718",
@@ -649,10 +686,15 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDViRWhPUGU5d3FhS2ZKZENPUXhsWE9UWjRzUmFFMVJwU2FzUnV5Z2VyajFjS3p0YWk0YmJmZFB4My1tWHBKem5zaTVjd0NLelBXR0N3RHpYTUZid0o4YTJrcU5qUGYyMnBiR0xIM2kwOHFNZ0VoSUZrQTdWUjY4TlZlSEUwYWlIY1hWeE8tSGdpOGNlMzgzaWdER25vc0Vremo5RlQzQQ",
    "source": "eletric-vehicles.com",
    "published_at": "2026-10-06T13:28:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "eletric-vehicles.com",
+     "published_at": "2026-10-06T13:28:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDViRWhPUGU5d3FhS2ZKZENPUXhsWE9UWjRzUmFFMVJwU2FzUnV5Z2VyajFjS3p0YWk0YmJmZFB4My1tWHBKem5zaTVjd0NLelBXR0N3RHpYTUZid0o4YTJrcU5qUGYyMnBiR0xIM2kwOHFNZ0VoSUZrQTdWUjY4TlZlSEUwYWlIY1hWeE8tSGdpOGNlMzgzaWdER25vc0Vremo5RlQzQQ"
+    },
+    {
+     "name": "Electric Vehicles",
      "published_at": "2026-10-06T13:28:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDViRWhPUGU5d3FhS2ZKZENPUXhsWE9UWjRzUmFFMVJwU2FzUnV5Z2VyajFjS3p0YWk0YmJmZFB4My1tWHBKem5zaTVjd0NLelBXR0N3RHpYTUZid0o4YTJrcU5qUGYyMnBiR0xIM2kwOHFNZ0VoSUZrQTdWUjY4TlZlSEUwYWlIY1hWeE8tSGdpOGNlMzgzaWdER25vc0Vremo5RlQzQQ"
     }
@@ -1358,10 +1400,15 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOdFpfbUc3M0VlZWMwVF9yS0lFRi0wMTJRM3Z6RnJSeEFKeGFpRUNqbjFFWkVDT0c0TUE1cHNkbmI4UDl0dndVckNrdmdHenVGZFdSYzNsZEdPNGdFQkw4eXZiVDhoNDlkSUlSWU1aMmtqc2QxeTdSbzVCcEFDZw",
    "source": "supercarblondie.com",
    "published_at": "2026-10-06T09:49:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "supercarblondie.com",
+     "published_at": "2026-10-06T09:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOdFpfbUc3M0VlZWMwVF9yS0lFRi0wMTJRM3Z6RnJSeEFKeGFpRUNqbjFFWkVDT0c0TUE1cHNkbmI4UDl0dndVckNrdmdHenVGZFdSYzNsZEdPNGdFQkw4eXZiVDhoNDlkSUlSWU1aMmtqc2QxeTdSbzVCcEFDZw"
+    },
+    {
+     "name": "Supercar Blondie",
      "published_at": "2026-10-06T09:49:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOdFpfbUc3M0VlZWMwVF9yS0lFRi0wMTJRM3Z6RnJSeEFKeGFpRUNqbjFFWkVDT0c0TUE1cHNkbmI4UDl0dndVckNrdmdHenVGZFdSYzNsZEdPNGdFQkw4eXZiVDhoNDlkSUlSWU1aMmtqc2QxeTdSbzVCcEFDZw"
     }
@@ -2830,10 +2877,15 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0tFbGZwSWwzMmlNbEZSZkY5VWNnb1JHT0pxcVc3cHBRblBhTnViRGliVDliNjBpeEU0ZGljTEppTzFlTVFLWk5mMnF6UHVudDV2OFF6bjZBbGJNQ3p3dGZrc2tKbDIxaHFVcVlYejJZd3BKTE9SYzVSanozTzJhaA",
    "source": "thestreet.com",
    "published_at": "2026-10-05T22:47:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "thestreet.com",
+     "published_at": "2026-10-05T22:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0tFbGZwSWwzMmlNbEZSZkY5VWNnb1JHT0pxcVc3cHBRblBhTnViRGliVDliNjBpeEU0ZGljTEppTzFlTVFLWk5mMnF6UHVudDV2OFF6bjZBbGJNQ3p3dGZrc2tKbDIxaHFVcVlYejJZd3BKTE9SYzVSanozTzJhaA"
+    },
+    {
+     "name": "TheStreet",
      "published_at": "2026-10-05T22:47:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0tFbGZwSWwzMmlNbEZSZkY5VWNnb1JHT0pxcVc3cHBRblBhTnViRGliVDliNjBpeEU0ZGljTEppTzFlTVFLWk5mMnF6UHVudDV2OFF6bjZBbGJNQ3p3dGZrc2tKbDIxaHFVcVlYejJZd3BKTE9SYzVSanozTzJhaA"
     }
@@ -8144,11 +8196,16 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ldXJ1NE9UbUdwRUhXNUh6S1Azb0FJbkdHVWNzTjdMd1hkYTRkemY3R24xVEdwdjVab0dseDZjZWQ1TWJRakRoX3lUdnF3cXpLekFOc0dXYklFYzhNNmdqaTZDa3d1dWdlY2hTcEFndTN4ZmMzTUVTOA",
    "source": "drive.com.au",
    "published_at": "2026-10-04T22:51:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "drive.com.au",
      "published_at": "2026-10-04T22:51:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ldXJ1NE9UbUdwRUhXNUh6S1Azb0FJbkdHVWNzTjdMd1hkYTRkemY3R24xVEdwdjVab0dseDZjZWQ1TWJRakRoX3lUdnF3cXpLekFOc0dXYklFYzhNNmdqaTZDa3d1dWdlY2hTcEFndTN4ZmMzTUVTOA"
+    },
+    {
+     "name": "Drive",
+     "published_at": "2026-10-06T05:57:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ldXJ1NE9UbUdwRUhXNUh6S1Azb0FJbkdHVWNzTjdMd1hkYTRkemY3R24xVEdwdjVab0dseDZjZWQ1TWJRakRoX3lUdnF3cXpLekFOc0dXYklFYzhNNmdqaTZDa3d1dWdlY2hTcEFndTN4ZmMzTUVTOA"
     }
    ],
@@ -8276,26 +8333,6 @@
    "session": "周末",
    "zh_summary": "短线讨论SPCX与特斯拉",
    "title_zh": "短线美股：SPCX和特斯拉还值得持有吗",
-   "sentiment": 0
-  },
-  {
-   "id": "642b6fe66d49",
-   "title": "Tesla towing U-Haul trailer crashes after driver suffers diabetic emergency - kmph.com",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzNoa19NaGpuMkdkSlUzTjZzbEtSS3NkN1pnVjJHUVhjUXlzRjZIVVk1WEZrdkcyZDgwaks4THBhVUFDcVJaRnNMd1JLbDFPSHZWYzliYlY0MTdidXRJTERKMThpaTRkNG12c2pMZ3gzTExObWpGZHYwanNjTGtWUDhOQnFpTmFtTTJZNGl4RlczN0ZUemdHcVNxNDF4cU9UY0IzZDJJWEtyTXhIN01TM1lyQkNjRzZL",
-   "source": "kmph.com",
-   "published_at": "2026-10-04T20:13:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "kmph.com",
-     "published_at": "2026-10-04T20:13:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzNoa19NaGpuMkdkSlUzTjZzbEtSS3NkN1pnVjJHUVhjUXlzRjZIVVk1WEZrdkcyZDgwaks4THBhVUFDcVJaRnNMd1JLbDFPSHZWYzliYlY0MTdidXRJTERKMThpaTRkNG12c2pMZ3gzTExObWpGZHYwanNjTGtWUDhOQnFpTmFtTTJZNGl4RlczN0ZUemdHcVNxNDF4cU9UY0IzZDJJWEtyTXhIN01TM1lyQkNjRzZL"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉拖车撞车，司机糖尿病突发",
-   "title_zh": "特斯拉拖U-Haul拖车撞车，司机突发糖尿病",
    "sentiment": 0
   }
  ]
