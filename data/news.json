@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T19:52:30.502293+00:00",
+ "updated_at": "2026-10-06T20:07:30.320439+00:00",
  "market": {
-  "price": 380.56,
-  "change_pct": 0.48,
+  "price": 380.68,
+  "change_pct": 0.51,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.1%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（97条已评分）"
+     "note": "今日新闻情绪 +0.23（100条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.56 vs 20日均线 $366.72"
+     "note": "现价 $380.68 vs 20日均线 $366.72"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.1,
+   "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-06T19:52:30.494798+00:00"
+   "as_of": "2026-10-06T20:07:30.310180+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.22,
-   "count": 97
+   "avg": 0.23,
+   "count": 100
   }
  },
  "meta": {
@@ -83,29 +83,9 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉与另外两只创始人掌舵股值得拥有",
    "zh_summary": "特斯拉被列入值得拥有的创始人股",
+   "title_zh": "特斯拉与另外两只创始人掌舵股值得拥有",
    "sentiment": 1
-  },
-  {
-   "id": "9ccfe659f91b",
-   "title": "Tesla Rolls Out Halloween Mode With Update 2026.38.3 - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcU5rZE5la2daNVBvNlNPS1NldGJDaEtyQnJzUlgwREw4MTUweGRSUHNMblZlVGhNQmFVdDFnYWx3TXRfVUs3OXloVkhvamx6bk9oVk9vQ29XaXVJQndUS053SlZoQmJRRXpTRk5vMnR6Vi1HTXd2ZVN4UHVTdHp0bjJvbG9NXzgxc1FpQnFxbGlHSzg",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-06T19:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-06T19:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcU5rZE5la2daNVBvNlNPS1NldGJDaEtyQnJzUlgwREw4MTUweGRSUHNMblZlVGhNQmFVdDFnYWx3TXRfVUs3OXloVkhvamx6bk9oVk9vQ29XaXVJQndUS053SlZoQmJRRXpTRk5vMnR6Vi1HTXd2ZVN4UHVTdHp0bjJvbG9NXzgxc1FpQnFxbGlHSzg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "title_zh": "特斯拉在2026.38.3更新中推出万圣节模式",
-   "zh_summary": "特斯拉推送万圣节模式更新",
-   "sentiment": 0
   },
   {
    "id": "c4b989bfefd3",
@@ -143,9 +123,34 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "特斯拉Powershare家庭备用电源现已面向Model 3和Model Y开放 - 新闻和统计 - IndexBox",
    "zh_summary": "特斯拉Powershare向Model 3/Y开放",
+   "title_zh": "特斯拉Powershare家庭备用电源现已面向Model 3和Model Y开放 - 新闻和统计 - IndexBox",
    "sentiment": 1
+  },
+  {
+   "id": "afced8dd5b3e",
+   "title": "Tesla Rolls Out Halloween Mode With Spooky Sounds, Lights and More [2026.38.3] - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEc2RSTlNCS0lrR2FLcGJaNXZQMHo4d0JNeVVzcXFHTkVnNWVOYzV1V09uU0VDWnlPdDJjUW03TFBFaEc3UlZBcGNtVUh3UnJsZkVWVXNETDdsTFRnTkJhS3JuV0R1MDBEM3R0MVZweGxtOVBQYjlyV001TQ",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-06T19:17:07+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-06T19:17:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEc2RSTlNCS0lrR2FLcGJaNXZQMHo4d0JNeVVzcXFHTkVnNWVOYzV1V09uU0VDWnlPdDJjUW03TFBFaEc3UlZBcGNtVUh3UnJsZkVWVXNETDdsTFRnTkJhS3JuV0R1MDBEM3R0MVZweGxtOVBQYjlyV001TQ"
+    },
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-06T19:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcU5rZE5la2daNVBvNlNPS1NldGJDaEtyQnJzUlgwREw4MTUweGRSUHNMblZlVGhNQmFVdDFnYWx3TXRfVUs3OXloVkhvamx6bk9oVk9vQ29XaXVJQndUS053SlZoQmJRRXpTRk5vMnR6Vi1HTXd2ZVN4UHVTdHp0bjJvbG9NXzgxc1FpQnFxbGlHSzg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉推送万圣节模式更新",
+   "title_zh": "特斯拉在2026.38.3更新中推出万圣节模式",
+   "sentiment": 0
   },
   {
    "id": "ed46cfb297ca",
@@ -206,6 +211,23 @@
    "zh_summary": "阻碍特斯拉FSD完全无人驾驶的五个因素",
    "title_zh": "是什么让特斯拉全自动驾驶仍处于监督状态：五个因素",
    "sentiment": -1
+  },
+  {
+   "id": "0b75e15b7ca7",
+   "title": "Tesla May Be Getting Ready to Launch Cybercabs in Houston - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUxwQ21WUXVtNnJQVkJzb3puWUJENVFlOVpDcDROMDlIck1zMXpKTWkzcnpJenlrbGtsT056V2RKcGkyb0Y4VFhfYmNWb2M1b2o5SWIydmZQNGcxbHNHc3hJems3RGJPXy1LTnBwSFZGUF9rc2VLNXFxakQxdTRjOG1qOWVxSFZDZlFXNHNOejR3Mmt3M3lTNVZVRkU",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-06T18:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-06T18:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUxwQ21WUXVtNnJQVkJzb3puWUJENVFlOVpDcDROMDlIck1zMXpKTWkzcnpJenlrbGtsT056V2RKcGkyb0Y4VFhfYmNWb2M1b2o5SWIydmZQNGcxbHNHc3hJems3RGJPXy1LTnBwSFZGUF9rc2VLNXFxakQxdTRjOG1qOWVxSFZDZlFXNHNOejR3Mmt3M3lTNVZVRkU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "83fb3809e248",
@@ -6349,8 +6371,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "看看你们特斯拉的车漆皮肤 - 新浪网",
    "zh_summary": "博主展示特斯拉车漆贴膜效果",
+   "title_zh": "看看你们特斯拉的车漆皮肤 - 新浪网",
    "sentiment": 0
   },
   {
@@ -8068,40 +8090,6 @@
    "session": "周末",
    "zh_summary": "媒体首次体验特斯拉赛博出租车",
    "title_zh": "特斯拉赛博出租车首次体验",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "638e610a6db4",
-   "title": "【视频】特斯拉Y是你喜欢的不 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JdHlFMFM4Qm9WVURsVXV4VUUydVpkUFBDY2t0QThmUTNLRVAtUUZrbkN1TWprU2ZmNFJON3hfbGEyc21YRlRBTXhpTnQ1R01KczhRTEpIT0FSeTA",
-   "source": "车家号",
-   "published_at": "2026-10-05T04:04:44+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T04:04:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JdHlFMFM4Qm9WVURsVXV4VUUydVpkUFBDY2t0QThmUTNLRVAtUUZrbkN1TWprU2ZmNFJON3hfbGEyc21YRlRBTXhpTnQ1R01KczhRTEpIT0FSeTA"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T04:04:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JdHlFMFM4Qm9WVURsVXV4VUUydVpkUFBDY2t0QThmUTNLRVAtUUZrbkN1TWprU2ZmNFJON3hfbGEyc21YRlRBTXhpTnQ1R01KczhRTEpIT0FSeTA"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T04:04:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JdHlFMFM4Qm9WVURsVXV4VUUydVpkUFBDY2t0QThmUTNLRVAtUUZrbkN1TWprU2ZmNFJON3hfbGEyc21YRlRBTXhpTnQ1R01KczhRTEpIT0FSeTA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Model Y试驾视频分享",
-   "title_zh": "视频：特斯拉Model Y是你喜欢的吗",
    "sentiment": 0,
    "price_reaction": {
     "pct": 2.99,
