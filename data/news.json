@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T13:52:28.669942+00:00",
+ "updated_at": "2026-10-06T14:07:28.958994+00:00",
  "market": {
-  "price": 379.76,
-  "change_pct": 0.27,
+  "price": 380.48,
+  "change_pct": 0.46,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.3%"
+     "note": "目标价中位数 $400（13家），隐含空间 +5.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（48条已评分）"
+     "note": "今日新闻情绪 +0.16（51条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.76 vs 20日均线 $366.68"
+     "note": "现价 $380.48 vs 20日均线 $366.71"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.3,
-   "ma20": 366.68,
-   "as_of": "2026-10-06T13:52:28.663636+00:00"
+   "implied_upside_pct": 5.1,
+   "ma20": 366.71,
+   "as_of": "2026-10-06T14:07:28.949727+00:00"
   },
-  "pe_ttm": 105.0,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 48
+   "avg": 0.16,
+   "count": 51
   }
  },
  "meta": {
@@ -68,16 +68,72 @@
  },
  "stories": [
   {
+   "id": "9b804a15e2f1",
+   "title": "Tesla Proves the “EV Winter” is Over: Here’s the Conservative Case for 32% Upside - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2xjZTBvelF2dUU4TGFCbGQtb0g4N3BVNzc1WGZPU09hQUgxeDlhYk9ETGI2OV9YWGNxcmRvemdwT1hKOHFPT1NPeG4zU2hzZjh6Yk5YM255RkZRYVNLbWNhQ1VuazM5YVYwRUxZZ3cxUGZ6WXZFQlEwQndTNE1VaFVTeU1nSnQ5RmZVS1FuSURxVFF4OURLc3M1QmZPaVpCRnR1bw",
+   "source": "TIKR.com",
+   "published_at": "2026-10-06T13:59:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-06T13:59:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2xjZTBvelF2dUU4TGFCbGQtb0g4N3BVNzc1WGZPU09hQUgxeDlhYk9ETGI2OV9YWGNxcmRvemdwT1hKOHFPT1NPeG4zU2hzZjh6Yk5YM255RkZRYVNLbWNhQ1VuazM5YVYwRUxZZ3cxUGZ6WXZFQlEwQndTNE1VaFVTeU1nSnQ5RmZVS1FuSURxVFF4OURLc3M1QmZPaVpCRnR1bw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3a37afc6a814",
+   "title": "Tesla sold under 1,000 cars in its first year in India, but it’s ramping - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRxZ2FIUTNsYURiQmxwOWpjTHA4SUFKSTFDUHBYem1iS2s0LU5NOVp3QnZEQ2RlczdDc21ZWTVXSlJrdEtOdmtnbVVNVk1jdG5ibnVpX0ZwRTRubkNKdUdrRV9sOVdUbG5SeUJVb2lIRVdPakJ1WVM0QmVnaGxMcDcwVzZuMGc0ODhGS3FR",
+   "source": "Electrek",
+   "published_at": "2026-10-06T13:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-06T13:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRxZ2FIUTNsYURiQmxwOWpjTHA4SUFKSTFDUHBYem1iS2s0LU5NOVp3QnZEQ2RlczdDc21ZWTVXSlJrdEtOdmtnbVVNVk1jdG5ibnVpX0ZwRTRubkNKdUdrRV9sOVdUbG5SeUJVb2lIRVdPakJ1WVM0QmVnaGxMcDcwVzZuMGc0ODhGS3FR"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "2f004c461d33",
+   "title": "Tesla’s Robotaxis, FSD And Optimus Outlook Matter More Than Q3 Earnings, Says Goldman Sachs - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTBUS1g2T2hBdERiSkhiNmg5RGlNd3lFcUpnd0VyWnRTc1NtdHVjZ1k2ZVZLcUNsS0ZyR3RqbFpJWUF4RktQRzRRVG5Vb1N3M3owbkZsVFg3SUtxcUttQWM0bl81QjR6OUg5YlBmQ01VQXRYU1JybWZmekZqS3ROOWE1YmJkM1p5dG5HcGN2R0FHN0VHWVFGSEg1TERZcnBzRWZzUV9KNnB4SngwNU9ZZVZTVjJoN1h4ak1XcXZPVW8zeHphWW5MaUlPMnpaM1VNT0JpMmVNaDRyWVp6TEJCVUdGN0o",
+   "source": "TradingView",
+   "published_at": "2026-10-06T13:56:34+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-06T13:56:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTBUS1g2T2hBdERiSkhiNmg5RGlNd3lFcUpnd0VyWnRTc1NtdHVjZ1k2ZVZLcUNsS0ZyR3RqbFpJWUF4RktQRzRRVG5Vb1N3M3owbkZsVFg3SUtxcUttQWM0bl81QjR6OUg5YlBmQ01VQXRYU1JybWZmekZqS3ROOWE1YmJkM1p5dG5HcGN2R0FHN0VHWVFGSEg1TERZcnBzRWZzUV9KNnB4SngwNU9ZZVZTVjJoN1h4ak1XcXZPVW8zeHphWW5MaUlPMnpaM1VNT0JpMmVNaDRyWVp6TEJCVUdGN0o"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-06T13:58:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZG9HdDhETmZ4aURfdVRhX05Jem1IY0ZOckMtWGtQMkhBaG9KVktfQ1hGNDhnUW1EcUx1RkVzdExVVnljeWgyeWVYSW1lNmh4UGczYURmZ1pYVUFMdnA1RnZJOGoyeUFWQ3NOcE55dFFncVBqWTJ6U0w1WXZzT3I4UUFGZnhaNUFNNTQ0SXZEVUtiQ1hYWWY3YkU5c05NdnBHa1FvNXl0Wi1vcWpSbzJQMXBXLXBfNlB4Tko3NW9SMnR1UHJ1R1VyWnI3RWRoME50dHFpY29zbS1vWkZmX0RlRjl4OWFLaHdO"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "6937f570f718",
    "title": "Tesla Robotaxis Hit The Brakes At 11 P.M. Over One Unusual Nighttime Problem - MotorBiscuit",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFmUFZGS0pQMUkwNGpicEZxLWh3S3hKWkFWajFWcDAxMFlfT240TkJ1Q0NxSzV6dVFWYWZNcmRVNFJhN2NzTFN5YnpvRHpDWEFfTmdFRGRjdko4eElCZjdvZ1VVM2FJajRmNVNxWkZVMlAxS1RWdnRpTkNBQmxhWUxJUWQxb1JGQ25PX0ZISEZtNVA2SmVaQWdKc0RXZTE0c0Z4WjRvcWM",
    "source": "MotorBiscuit",
-   "published_at": "2026-10-06T13:50:48+00:00",
+   "published_at": "2026-10-06T13:50:32+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "MotorBiscuit",
-     "published_at": "2026-10-06T13:50:48+00:00",
+     "published_at": "2026-10-06T13:50:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFmUFZGS0pQMUkwNGpicEZxLWh3S3hKWkFWajFWcDAxMFlfT240TkJ1Q0NxSzV6dVFWYWZNcmRVNFJhN2NzTFN5YnpvRHpDWEFfTmdFRGRjdko4eElCZjdvZ1VVM2FJajRmNVNxWkZVMlAxS1RWdnRpTkNBQmxhWUxJUWQxb1JGQ25PX0ZISEZtNVA2SmVaQWdKc0RXZTE0c0Z4WjRvcWM"
     }
    ],
@@ -193,10 +249,15 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWtKNUdQMTM2Zkw1enFxY3F1b1RtckZNdFpYSjU0eXFTS0dvN0licE92ZHhNMUFtOXZyRGNJa21RUU1aSFV0dWpCaUhDMVNTcUdPa3NLVEt1bWdJYXJtZS1ucWZnZmh5Y25zUjFwMUtxSHVSdWt5Q3p4VlNLbnlteTQzd3NSOGN6OTkyOHU2dmhlc1E",
    "source": "Yahoo Finance",
    "published_at": "2026-10-06T13:08:02+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
+     "published_at": "2026-10-06T13:08:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWtKNUdQMTM2Zkw1enFxY3F1b1RtckZNdFpYSjU0eXFTS0dvN0licE92ZHhNMUFtOXZyRGNJa21RUU1aSFV0dWpCaUhDMVNTcUdPa3NLVEt1bWdJYXJtZS1ucWZnZmh5Y25zUjFwMUtxSHVSdWt5Q3p4VlNLbnlteTQzd3NSOGN6OTkyOHU2dmhlc1E"
+    },
+    {
+     "name": "finance.yahoo.com",
      "published_at": "2026-10-06T13:08:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWtKNUdQMTM2Zkw1enFxY3F1b1RtckZNdFpYSjU0eXFTS0dvN0licE92ZHhNMUFtOXZyRGNJa21RUU1aSFV0dWpCaUhDMVNTcUdPa3NLVEt1bWdJYXJtZS1ucWZnZmh5Y25zUjFwMUtxSHVSdWt5Q3p4VlNLbnlteTQzd3NSOGN6OTkyOHU2dmhlc1E"
     }
@@ -318,7 +379,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1hQdWdwYWtVd3R6MXlXQzRnVEMtWEEtR0YyQjgwRlFJU0xJOUs4aFVKRUNwamNvMWZMUS1FVUVZWVBRVUtWcmZmSlFfd0N6aHVpN2JycTN5VWZuTW1vUGtLdVV1MnU3RUFTdFlxY096NDVBWmY4bFQtRWVZYTJRcks1VjRockQ4R2VOYV9qdmZDeVdjSTVv",
    "source": "fool.com",
    "published_at": "2026-10-06T11:48:57+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "fool.com",
@@ -344,6 +405,11 @@
      "name": "theglobeandmail.com",
      "published_at": "2026-10-06T12:35:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzI2aHE1TFZvYWk4LXItZlhIVFZWVEFZMk5EX3lnb21lUTZmeTJKbkQxWnZ1c25RN2hWYktOUkdDeFN0clR6WHByNzd1YkJkQVNTQTBtMFVlaDhISXNGTGRYSV9FUEdPdlA4YXNaeVBtNXNyNlkyRFgzWjFtOENmMS1RSUhBTndoelNpN3V3OXN2d0lMX25hQ1JKR2hJZEl2T09kQlhuX3FSS2xTS25GRFJScVA4ODY4Mjlud2V5Y21HUjJyS2FUUmpJLWc1LWpXcUQ5VFpJei1jRDlvbDlV"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-06T12:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbm53eGxlY3pVaWtFU1owVTRNMzdDMU04eHpBZ0tZLUd4ME8xd1M5ZTlkR3RITGcwYmlGZHAwT0hSNkxWalctaGs3UmZwN2JKTlA3ak9aNjRCaENGSWNyQ3hMVmQwX1lUQXFZRUd3NWFCTzZQWTZQVUpUbjNjc1NNSWJHVDIxVDNuclV4RlZPQks3akJKWmhSZnhCcUE"
     }
    ],
    "category": "其他",
@@ -554,7 +620,7 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXpMVDZ2QTlYcmVneU5xWC1CMHdCTW9FVS1haE1rZkdDMVNGLUJMbWwtbDloLUJYem1ONVlWNE10ZTBKbFFtSmpIbVBPbVd3NkloaDZhYTltV3ByTVNvT3oxeGIwSk9sejk4WDlRQnNkVDdUVFNKb3JGbEtTa2dyUUZaMHh3X2pFdjlnY21LZF9IZw",
    "source": "fool.com",
    "published_at": "2026-10-06T10:20:48+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "fool.com",
@@ -580,6 +646,11 @@
      "name": "theglobeandmail.com",
      "published_at": "2026-10-06T10:36:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNEZPNml0dTlYamlfWFNCUzV6MERnb0ttdG94MjhJY0lwLURYUXJYYkhWSmNlS2pnS1hpQkNtLUpNRTZ3bXhXZmsxWU9JcnR6ZHh1UWFycWI0MTlWNGNYaldHSWRkQk1sSzNWcUtqYUlNOUJId3ZhdzdENW5JRTFpRlhLNzB0blVpOHRiYTRNX0RCMl9oQXBPTkdaNExJOVRGNWlEWXNSck5ObXBLYnliZmxBUV9HQ0pZdTBfOUlNbzBqZWZ2bW9TTHBFQkRBZ1pYRS1kUXIwYnYwNjlMR01NdnM3OTJTMmpHeUlGZGlSbw"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-06T10:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZmhzU1JKSXY0ZEtwV2VtVTNQYmZsOGROWmdsNXU3a21EYmZSZmNzYVM0bXVQM3pZUEdMV1NHOWs3dGJucHRqN29DMEZWZURuS2tmQ0F0MTdRWWtoWGZLd1k0TEJyRmpoeFRTX0g5MjBYbDVzTjB5Y1l6QzlvMlFIa0Fra1dJMUVnUFFmemFoYVdaYWNWMWNubWZpMjVHSnQtS2VyNWFod0RRWUU"
     }
    ],
    "category": "交付量",
@@ -883,26 +954,6 @@
    "sentiment": -1
   },
   {
-   "id": "79f3d4337934",
-   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
-   "source": "Barron's",
-   "published_at": "2026-10-06T09:22:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T09:22:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster发布推迟",
-   "title_zh": "特斯拉Roadster发布推迟原因及其对股价影响",
-   "sentiment": -1
-  },
-  {
    "id": "228b3a0e184e",
    "title": "Here's How Tesla Model Y Maintenance Costs Really Look In 2026 - CarBuzz",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wdmRpdERzR0ttQ3ZNS3JfR3FGaXNSRExycGkzUWtPY3lSSW9NUlVPMzdpeFJsYVVoUDFJUXlnTHlaYWh0eGhucE1QdE9XTXFHSERLZEQ1WE5rYURhODNoZTJSLVA1WE4tQzBsZmg1bnNtd1lvVWx0cEdvRWs",
@@ -992,7 +1043,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW1JTTFIek15eDJZdWVnMFFiV3hXOGtmWHRXSkxfWDdmVmVjLWRPb01vcHZnSXNlRmtmZGw2MUUyM0ZPUFE3amtUTkVwbEl3ckJVVXI3UmFiUU83MU8wOVVHa21lb3hGa3p2UktYcDdvWk10NThQcDVzOGE5VlpfaWZPd1I1VUhGekFDWHN4bHFFaHFVX1E",
    "source": "The Motley Fool",
    "published_at": "2026-10-06T08:44:17+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -1018,6 +1069,11 @@
      "name": "theglobeandmail.com",
      "published_at": "2026-10-06T09:16:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdGF5Vmc4SFJRclh3amttcTFwY25qRVBpeHYtbXlmX3FNODhTNmpreUdzLVFQcDVhQV9GZXNBN0JmX3JORGg5c0x5SF9aVWQtZFZBU2VtbWFzVFJyVHlwQ2wyWkNYMnVuMGRIOTBEdG5vY1VOdmpSRmZsUDdzb3c4SHZOMHVyVTdzUm16NlptdW1Hc1UyRlU3MmlRVHNEOWNINzR4VndaR21ianVaXzB4M3dNN3Z5ZGEtQjNGRXBpanRMeVFKNUVfc2tVR3ZnVnlWNnc0MHVZUU03TGtr"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-06T08:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXVyU0ZsYVZyLWxMaW5mdkxQVGNlUEw2cVBETFZFT2hnd1NpZUtYX0NaVnlVM2licDQtc0hKZnI4V2FoNld1RWd6S0psdG1TTlhMX3lJNWtCXzJ3aFU2cTUwYnVIbVJ5Zm5BZS1rcTlUNTlibUo4ZWNXemp3UzVfSkE3VXFja1h2WnBMU1VpTkZwWWFDX2JGd0lyRGoyUkFtVGc"
     }
    ],
    "category": "其他",
@@ -2094,7 +2150,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVy1zOXZQLWxXQWFtQVQwNHJvaEdZeGljZ1BFQThVdDItdWJPd0NST2FPU1hzM1E1eG1FWnpneEItc0FieGkteXhxLThmV1RfdUFVWlY3VzdKYVF3cm5TR1phZkNpSWRvN1lhNWlEOXJsSi1HdDFRNHdLSmNjWHBNZ0xHb1MzZXNGMmJNYmpSUGUtcnp3QlVrSy13aWZGWHlDeTVMekhZRFhNZllHcGh3ejBFbkNzMDBkWDEyak5vaFdmUkkzLTJCX0c3UFg2Vm02eURwMW5QZEswZERN",
    "source": "stocktwits.com",
    "published_at": "2026-10-05T23:31:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "stocktwits.com",
@@ -2110,10 +2166,16 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-05T23:31:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlBUdHpfUUFYbnpZMGwyc015eWJIU2ZyNWE1N3pPcEJtVDVpNl8yanVoc0ZyUF8xVTI4alpnSjhyZkxUUG41NVNaRENraFpqcnVBRi03ZktQWWhydTY2cGhwUFJodmhkckZVYzRHb1lBbHpVXzA5Qk0xZm1PYTl5QzdKNlNzTURXYndDTmU4a1I1TzRUWDVR"
+    },
+    {
+     "name": "finance.yahoo.com",
+     "published_at": "2026-10-05T23:31:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlBUdHpfUUFYbnpZMGwyc015eWJIU2ZyNWE1N3pPcEJtVDVpNl8yanVoc0ZyUF8xVTI4alpnSjhyZkxUUG41NVNaRENraFpqcnVBRi03ZktQWWhydTY2cGhwUFJodmhkckZVYzRHb1lBbHpVXzA5Qk0xZm1PYTl5QzdKNlNzTURXYndDTmU4a1I1TzRUWDVR"
     }
    ],
    "category": "财报",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "TSLA、RIVN三季度销量超预期",
    "title_zh": "LCID三季度销量下滑盘后持平，TSLA、RIVN超预期",
    "sentiment": 1,
@@ -8171,74 +8233,6 @@
    "zh_summary": "特斯拉奥斯汀新增111辆Cybercab延长运营",
    "title_zh": "特斯拉在奥斯汀延长Robotaxi运营时间并新增111辆Cybercab",
    "sentiment": 1
-  },
-  {
-   "id": "a03b49ca0a03",
-   "title": "【视频】特斯拉车主提车第三天已经准备买遮阳帘了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc",
-   "source": "汽车之家",
-   "published_at": "2026-10-04T14:37:25+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-04T14:37:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-04T14:37:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-04T14:37:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzaVRmNE43N2Y3UXZLc0x3NGx6WC16Q09hX2FNdnNNRGthM1lGLVNZYU5sVkRyYVlkTUZtcEJ5Yk9peFVXY253azNlX2plOW52MTZEY1h5N2xuaHc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "车主提车第三天准备买遮阳帘",
-   "title_zh": "【视频】特斯拉车主提车第三天已经准备买遮阳帘了 - 汽车之家",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "54b8b2048809",
-   "title": "【视频】特斯拉还是蛮保值的 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNVJDWkZZYVZCUkI2UF9kaEJUa3dwSnBhbENVT3k5NDFIYXZmS1d5ZjdlYWQ5elBSTkdyUUpkQnN0VTJPLTJqX2ctZko2ZzlEZjNCTDE3NTVCZWtTWC1KVGdBRTlvVmVmaVk0",
-   "source": "汽车之家",
-   "published_at": "2026-10-04T14:16:04+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-04T14:16:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNVJDWkZZYVZCUkI2UF9kaEJUa3dwSnBhbENVT3k5NDFIYXZmS1d5ZjdlYWQ5elBSTkdyUUpkQnN0VTJPLTJqX2ctZko2ZzlEZjNCTDE3NTVCZWtTWC1KVGdBRTlvVmVmaVk0"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-04T14:16:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNVJDWkZZYVZCUkI2UF9kaEJUa3dwSnBhbENVT3k5NDFIYXZmS1d5ZjdlYWQ5elBSTkdyUUpkQnN0VTJPLTJqX2ctZko2ZzlEZjNCTDE3NTVCZWtTWC1KVGdBRTlvVmVmaVk0"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-04T14:16:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0eEpselY3cVpzOS05RVIzMnlJYkw2bnlwc3dlTlpTdnEwV0g0bV94ZzJ0Ympvc1JZS2RQbTVjdzluOUhlakNLanFzNWZKX3AzRmJRQ2hROHRScGs"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉二手保值率表现不错",
-   "title_zh": "【视频】特斯拉还是蛮保值的 - 汽车之家",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
   }
  ]
 }
