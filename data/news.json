@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T08:22:27.278779+00:00",
+ "updated_at": "2026-10-06T08:37:26.742353+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（8条已评分）"
+     "note": "今日新闻情绪 +0.22（9条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-06T08:22:27.269212+00:00"
+   "as_of": "2026-10-06T08:37:26.737475+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 8
+   "avg": 0.22,
+   "count": 9
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b54d132e6750",
+   "title": "Tesla's Model 3 just got a 16-inch screen, gray interior, and V2L, but only in one market - The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1g3NjZHWGd1NVpnb0tqckZmd096bUV1c0k5Rm8wc2x2aW5KSmgxa0xGd01XcC1PSEZuelRpTmVMY1A4eDhwX1FzZWRlM3NJMlpraENPdExhUUVMV3k0ZkgtTklrTlUxVFF4YUY2SXRkLVdkdWpKV2RnWjdRSWw2VldPLVFIN3czanROcFoyZ2F4U2ZJSGM0",
+   "source": "The Cool Down",
+   "published_at": "2026-10-06T08:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-10-06T08:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1g3NjZHWGd1NVpnb0tqckZmd096bUV1c0k5Rm8wc2x2aW5KSmgxa0xGd01XcC1PSEZuelRpTmVMY1A4eDhwX1FzZWRlM3NJMlpraENPdExhUUVMV3k0ZkgtTklrTlUxVFF4YUY2SXRkLVdkdWpKV2RnWjdRSWw2VldPLVFIN3czanROcFoyZ2F4U2ZJSGM0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "90c98e943657",
    "title": "9月中国台湾什么车型最热销？特斯拉Model Y夺冠 - 搜狐网",
@@ -83,8 +100,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "9月中国台湾什么车型最热销？特斯拉Model Y夺冠 - 搜狐网",
    "zh_summary": "9月台湾最畅销车型：特斯拉Model Y",
+   "title_zh": "9月中国台湾什么车型最热销？特斯拉Model Y夺冠 - 搜狐网",
    "sentiment": 1
   },
   {
@@ -878,7 +895,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVy1zOXZQLWxXQWFtQVQwNHJvaEdZeGljZ1BFQThVdDItdWJPd0NST2FPU1hzM1E1eG1FWnpneEItc0FieGkteXhxLThmV1RfdUFVWlY3VzdKYVF3cm5TR1phZkNpSWRvN1lhNWlEOXJsSi1HdDFRNHdLSmNjWHBNZ0xHb1MzZXNGMmJNYmpSUGUtcnp3QlVrSy13aWZGWHlDeTVMekhZRFhNZllHcGh3ejBFbkNzMDBkWDEyak5vaFdmUkkzLTJCX0c3UFg2Vm02eURwMW5QZEswZERN",
    "source": "stocktwits.com",
    "published_at": "2026-10-05T23:31:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "stocktwits.com",
@@ -889,6 +906,11 @@
      "name": "Stocktwits",
      "published_at": "2026-10-05T23:33:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVy1zOXZQLWxXQWFtQVQwNHJvaEdZeGljZ1BFQThVdDItdWJPd0NST2FPU1hzM1E1eG1FWnpneEItc0FieGkteXhxLThmV1RfdUFVWlY3VzdKYVF3cm5TR1phZkNpSWRvN1lhNWlEOXJsSi1HdDFRNHdLSmNjWHBNZ0xHb1MzZXNGMmJNYmpSUGUtcnp3QlVrSy13aWZGWHlDeTVMekhZRFhNZllHcGh3ejBFbkNzMDBkWDEyak5vaFdmUkkzLTJCX0c3UFg2Vm02eURwMW5QZEswZERN"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-05T23:31:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlBUdHpfUUFYbnpZMGwyc015eWJIU2ZyNWE1N3pPcEJtVDVpNl8yanVoc0ZyUF8xVTI4alpnSjhyZkxUUG41NVNaRENraFpqcnVBRi03ZktQWWhydTY2cGhwUFJodmhkckZVYzRHb1lBbHpVXzA5Qk0xZm1PYTl5QzdKNlNzTURXYndDTmU4a1I1TzRUWDVR"
     }
    ],
    "category": "财报",
@@ -8296,50 +8318,6 @@
    "zh_summary": "二手Model Y原版原漆降价",
    "title_zh": "【视频】特斯拉Model Y原版原漆，现在打骨折 - 汽车之家",
    "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "55d1911aec7e",
-   "title": "特斯拉确认FSD即将上线坑洼避让及导航学习用户驾驶习惯功能 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zQ0VvRk52YWt0SUMxQW5aaWtxZlVrVy0yNWdLLVphWEhxVmdXcUJJMENWSW5PbmdTdXVJajFKRUxULVl1akNYQkl5MlpvNGxMYmk3MTRLYW80MFk",
-   "source": "网通社",
-   "published_at": "2026-10-04T04:33:08+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-04T04:33:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zQ0VvRk52YWt0SUMxQW5aaWtxZlVrVy0yNWdLLVphWEhxVmdXcUJJMENWSW5PbmdTdXVJajFKRUxULVl1akNYQkl5MlpvNGxMYmk3MTRLYW80MFk"
-    },
-    {
-     "name": "auto.news18a.com",
-     "published_at": "2026-10-04T04:33:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zQ0VvRk52YWt0SUMxQW5aaWtxZlVrVy0yNWdLLVphWEhxVmdXcUJJMENWSW5PbmdTdXVJajFKRUxULVl1akNYQkl5MlpvNGxMYmk3MTRLYW80MFk"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-04T04:33:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91VlBDUmg1dlVLNGtmOFhIb2FWZndNMWh1RHBTNm15emRSN2VjS0hWY2FBdWgxT2pMd0VUelRFU2RzVkVJM2NTSldqOHY"
-    },
-    {
-     "name": "auto.ifeng.com",
-     "published_at": "2026-10-04T04:33:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91VlBDUmg1dlVLNGtmOFhIb2FWZndNMWh1RHBTNm15emRSN2VjS0hWY2FBdWgxT2pMd0VUelRFU2RzVkVJM2NTSldqOHY"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-04T04:33:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91VlBDUmg1dlVLNGtmOFhIb2FWZndNMWh1RHBTNm15emRSN2VjS0hWY2FBdWgxT2pMd0VUelRFU2RzVkVJM2NTSldqOHY"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉FSD将上线坑洼避让功能",
-   "title_zh": "特斯拉确认FSD即将上线坑洼避让及导航学习用户驾驶习惯功能",
-   "sentiment": 1,
    "price_reaction": {
     "pct": 0.6,
     "window_h": 0.1
