@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T05:52:28.665856+00:00",
+ "updated_at": "2026-10-06T06:07:27.758021+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 2,
+   "score": 3,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-06T05:52:28.652218+00:00"
+   "as_of": "2026-10-06T06:07:27.736298+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -69,12 +69,17 @@
  "stories": [
   {
    "id": "7f4a6c0d8aef",
-   "title": "TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could ‘Dominate’ Near-Term Narrative — Gary Black Sees More Gains Ahead - stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTG1nak0xRi1hVnNRZkNER0VacDlfa0NZU2E2ejZ2a0h2V0Q5aGE5eHRacm1Za09UVDFZVEZObU43Vm1BMUFONGNQVVh1Vk9iWVVudGJBNmNMVkVRVW4tWUIwWEdka2EtQW9ISHZYV2pidkR1RjV4UkZJU05STTdmbzlxWVFoeldJWUY1Y0d4anZubEJTS2hZeEQyeXh5NDNJaUJGYi0zUzUyLTc0WGlGbE1wQ0U1SUlNZXZEQmlldEJWV3Izako4cHZnZnNtRkl1SERtZ2JibTdEbnB4ak1uVDk5U1pmOEdm",
-   "source": "stocktwits.com",
-   "published_at": "2026-10-06T05:45:21+00:00",
-   "outlets_count": 1,
+   "title": "TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could ‘Dominate’ Near-Term Narrative — Gary Black Sees More Gains Ahead - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RYMEljQkVmamZ1ZXVMVEl4NFc4bDNfRTJNenJqQUVMZGdFMjRNeUVzcXJ1aU9YMWxpY19SZFdzMXhKX1dLNHZaV3ZobGRFZXJsSWJJR1VlMTZDbXJMbEhhWkRXdHNfYWRNT2FDNVFaR29WZUNnbGx0VW1BYWFCbGdUUkp3LUJLN3BZeUp6aEhNcTZMTnZxSzVwQ1JmMTVG",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-06T05:42:16+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T05:42:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1RYMEljQkVmamZ1ZXVMVEl4NFc4bDNfRTJNenJqQUVMZGdFMjRNeUVzcXJ1aU9YMWxpY19SZFdzMXhKX1dLNHZaV3ZobGRFZXJsSWJJR1VlMTZDbXJMbEhhWkRXdHNfYWRNT2FDNVFaR29WZUNnbGx0VW1BYWFCbGdUUkp3LUJLN3BZeUp6aEhNcTZMTnZxSzVwQ1JmMTVG"
+    },
     {
      "name": "stocktwits.com",
      "published_at": "2026-10-06T05:45:21+00:00",
@@ -83,8 +88,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "TSLA盘后上涨，SpaceX合并传闻或主导短期叙事，Gary Black看涨",
    "zh_summary": "TSLA盘后上涨，SpaceX合并传闻引关注",
+   "title_zh": "TSLA盘后上涨，SpaceX合并传闻或主导短期叙事，Gary Black看涨",
    "sentiment": 1
   },
   {
@@ -106,6 +111,23 @@
    "zh_summary": "国庆车市热度上升，新品优惠聚客流",
    "title_zh": "新品优惠聚客流，国庆车市热度上升",
    "sentiment": 0
+  },
+  {
+   "id": "0f7d7082c56f",
+   "title": "国庆期间北京多家汽车品牌门店客流增长，特斯拉Model 3起售价降至22.25万元 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9veFNnT1ZScUUwQV93QVJjOVJ6Y3hXZVZRclUxSExpNTdyZ09BRUZqRjhoUmttYTlOa0VjQ28zN2hzODFiVHhPVDUwUWY2YWtWZTBybF9aaXZZQQ",
+   "source": "网通社",
+   "published_at": "2026-10-06T05:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-06T05:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9veFNnT1ZScUUwQV93QVJjOVJ6Y3hXZVZRclUxSExpNTdyZ09BRUZqRjhoUmttYTlOa0VjQ28zN2hzODFiVHhPVDUwUWY2YWtWZTBybF9aaXZZQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "4d892a7c9cdd",
@@ -163,10 +185,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3ZJa2VQRFdpclVsVDZaSW56MlozY1ZHLVFOMjJoczVoNDFDbE5GQndyRVdPZ2hCd0NEbzNOd0VuY1RnYldDUnJDZ2RYcXVaaTYyalJKYVlfRXFlVUFfZkVKTVczTFdYSkNVQ0IzUXFZX3JXZzJZOVJ3dFdBcm41Q0RqY2ZMN0RWOFF3Ml80bVpnYlNXNjB5dlVadTF2VTFlbnVZTlBPbnZqWnc",
    "source": "BASENOR",
    "published_at": "2026-10-06T04:04:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "BASENOR",
+     "published_at": "2026-10-06T04:04:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3ZJa2VQRFdpclVsVDZaSW56MlozY1ZHLVFOMjJoczVoNDFDbE5GQndyRVdPZ2hCd0NEbzNOd0VuY1RnYldDUnJDZ2RYcXVaaTYyalJKYVlfRXFlVUFfZkVKTVczTFdYSkNVQ0IzUXFZX3JXZzJZOVJ3dFdBcm41Q0RqY2ZMN0RWOFF3Ml80bVpnYlNXNjB5dlVadTF2VTFlbnVZTlBPbnZqWnc"
+    },
+    {
+     "name": "basenor.com",
      "published_at": "2026-10-06T04:04:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3ZJa2VQRFdpclVsVDZaSW56MlozY1ZHLVFOMjJoczVoNDFDbE5GQndyRVdPZ2hCd0NEbzNOd0VuY1RnYldDUnJDZ2RYcXVaaTYyalJKYVlfRXFlVUFfZkVKTVczTFdYSkNVQ0IzUXFZX3JXZzJZOVJ3dFdBcm41Q0RqY2ZMN0RWOFF3Ml80bVpnYlNXNjB5dlVadTF2VTFlbnVZTlBPbnZqWnc"
     }
@@ -2607,6 +2634,23 @@
    "zh_summary": "特斯拉Model 3性能版动力提升",
    "title_zh": "特斯拉Model 3更新：性能版动力提升",
    "sentiment": 1
+  },
+  {
+   "id": "55055018c858",
+   "title": "Tesla Model 3 gets more range, power, and a bigger display - Mashable",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ",
+   "source": "Mashable",
+   "published_at": "2026-10-05T13:59:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mashable",
+     "published_at": "2026-10-05T13:59:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZOWV2UVRwcFlJT1V1OVBxb2ZqdVNKeVZiQklMSXRxZ0hXWDFNbTNQR2F2SXRQOW9IX1liSWtCM0RYMllJM1ZORVRlN2hBOUhZcUtiOV8wZld5RDQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "e0d12033f834",
@@ -6090,6 +6134,23 @@
    }
   },
   {
+   "id": "9f4e9245b276",
+   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-04T18:08:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-04T18:08:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
+  {
    "id": "fde76bd3f69e",
    "title": "Tesla catches fire in San Francisco’s Marina District - San Francisco Chronicle",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazlGcjlrX2VCZjF3YkNoc2FTcnV3QkxBNnUxNHpRWmJxd3V1M2p1NWh0bVdwVExqVXNtc09BbnllTmU5QjFlWmpGYW5jcGtPZ29HOU1YdHV1YVI5c1RVdDAzOEFLbEhWbmd5THpnWm1VTVNVZFI5QzhtbG8tSldfMXcyMVhnNjVzY0t3",
@@ -8310,71 +8371,6 @@
    "zh_summary": "特斯拉与谷歌走势对比",
    "title_zh": "特斯拉周五生死局，谷歌抄底窗口打开？同样在回调，为什么剧本完全相反！ - video.sina.com.cn",
    "sentiment": 0
-  },
-  {
-   "id": "b4f206e0dbcb",
-   "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant - stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz",
-   "source": "stocktwits.com",
-   "published_at": "2026-10-04T03:53:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-04T03:53:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "马斯克行权2018年期权增持特斯拉",
-   "title_zh": "马斯克行权2018年期权，增持TSLA股份",
-   "sentiment": 1
-  },
-  {
-   "id": "bf24eaf99ce5",
-   "title": "特斯拉上海工厂，打工人看完沉默了! 马斯克说过，中国人请善待自己的同胞！ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdXUlp2MXB5Sk0xNUNaUHd0QUhUVTlsd3BCMUc4Q1RKc3F0MU5KSm1GdHgyM09FWk4xeGNBanNOdHByZ2RzSzBqUmx3RUlNOWlyS1ZDa09zM3dmazUwdEhUdzZsSXFiUTVoUTJKbWFDTUk1ODdPdFZ5NDlnRFBVUg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T03:46:48+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T03:46:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdXUlp2MXB5Sk0xNUNaUHd0QUhUVTlsd3BCMUc4Q1RKc3F0MU5KSm1GdHgyM09FWk4xeGNBanNOdHByZ2RzSzBqUmx3RUlNOWlyS1ZDa09zM3dmazUwdEhUdzZsSXFiUTVoUTJKbWFDTUk1ODdPdFZ5NDlnRFBVUg"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-04T03:46:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdXUlp2MXB5Sk0xNUNaUHd0QUhUVTlsd3BCMUc4Q1RKc3F0MU5KSm1GdHgyM09FWk4xeGNBanNOdHByZ2RzSzBqUmx3RUlNOWlyS1ZDa09zM3dmazUwdEhUdzZsSXFiUTVoUTJKbWFDTUk1ODdPdFZ5NDlnRFBVUg"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "特斯拉上海工厂员工现状",
-   "title_zh": "特斯拉上海工厂，打工人看完沉默了! 马斯克说过，中国人请善待自己的同胞！ - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "171ad88a46d0",
-   "title": "【图】特斯拉三季度全球交付48.6万辆 Model 3/Model Y优惠助阵10月销量 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oYzlHZlo4MG9VLVJyNDR4SzROWDVNU3JrTjl0WGxJOUhSWkphZVNfRmV4NGgzSzFOdEE1QlFpaTc4NnVkTEVDbDR5aGxNaFZBWVB4ellGUWFqbHYwMm5KZFFB",
-   "source": "汽车之家",
-   "published_at": "2026-10-04T03:28:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-04T03:28:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oYzlHZlo4MG9VLVJyNDR4SzROWDVNU3JrTjl0WGxJOUhSWkphZVNfRmV4NGgzSzFOdEE1QlFpaTc4NnVkTEVDbDR5aGxNaFZBWVB4ellGUWFqbHYwMm5KZFFB"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度全球交付48.6万辆",
-   "title_zh": "特斯拉Q3全球交付48.6万辆，Model 3/Y优惠助阵10月销量",
-   "sentiment": 1
   }
  ]
 }
