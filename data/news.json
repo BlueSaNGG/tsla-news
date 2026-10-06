@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T23:22:27.505071+00:00",
+ "updated_at": "2026-10-06T23:37:37.955940+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（111条已评分）"
+     "note": "今日新闻情绪 +0.25（114条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-06T23:22:27.499232+00:00"
+   "as_of": "2026-10-06T23:37:37.947358+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.25,
-   "count": 111
+   "count": 114
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1da5c83698f9",
+   "title": "Tesla, Inc. $TSLA Stock Bought by Congress Asset Management Co. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnFFRlZFNUJoTDlZOWMzZTVTbmdNZWVwdGY3eUROUkc2OTZqSm1nQklZTEpQSWxKcjdnQy15WlhOZWFlbFdSYW14bDQyUGUtV1dfaUN6Mzl3Y29rRXBBUGNSOFZFQVVnQ1RoeDNSdHR2VHBVRTRMVEJzLW10MGd2WkgwN3E2VXNzamtrNTJNMlNJRHBFdlgyMEszQU9OcFN2eWxzTG1qXzd0anNNMzJtb2s1eVc1OWJ2M2Rxbw",
+   "source": "MarketBeat",
+   "published_at": "2026-10-06T23:35:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-06T23:35:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnFFRlZFNUJoTDlZOWMzZTVTbmdNZWVwdGY3eUROUkc2OTZqSm1nQklZTEpQSWxKcjdnQy15WlhOZWFlbFdSYW14bDQyUGUtV1dfaUN6Mzl3Y29rRXBBUGNSOFZFQVVnQ1RoeDNSdHR2VHBVRTRMVEJzLW10MGd2WkgwN3E2VXNzamtrNTJNMlNJRHBFdlgyMEszQU9OcFN2eWxzTG1qXzd0anNNMzJtb2s1eVc1OWJ2M2Rxbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "f127cebed879",
    "title": "Moody National Bank Trust Division Acquires 3,522 Shares of Tesla, Inc. $TSLA - MarketBeat",
@@ -1727,7 +1744,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeURpQWEyZVpYalFUb3dkZjZjYWtMVXpVa1ZGSjFvdjQtNTlNT29hbHFkVkNrN3VwX1dwc1dwcUUzcGRpLUxuWVZaLUVLS0FiUE5Gd0dhWFFzRUk",
    "source": "汽车之家",
    "published_at": "2026-10-06T11:25:24+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -1738,13 +1755,22 @@
      "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-06T11:25:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeURpQWEyZVpYalFUb3dkZjZjYWtMVXpVa1ZGSjFvdjQtNTlNT29hbHFkVkNrN3VwX1dwc1dwcUUzcGRpLUxuWVZaLUVLS0FiUE5Gd0dhWFFzRUk"
+    },
+    {
+     "name": "车家号",
+     "published_at": "2026-10-06T11:25:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xeURpQWEyZVpYalFUb3dkZjZjYWtMVXpVa1ZGSjFvdjQtNTlNT29hbHFkVkNrN3VwX1dwc1dwcUUzcGRpLUxuWVZaLUVLS0FiUE5Gd0dhWFFzRUk"
     }
    ],
    "category": "车型产品",
    "session": "盘前",
    "zh_summary": "比亚迪闪充体验者拟换购腾势N8L",
    "title_zh": "【视频】体验比亚迪\"闪充\"后，大哥要卖了特斯拉Model Y买腾势N8L闪充版 - 汽车之家",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.51,
+    "window_h": 2.0
+   }
   },
   {
    "id": "f3958a1d4808",
@@ -4207,6 +4233,23 @@
    "zh_summary": "特斯拉全球超充桩达8.5万个",
    "title_zh": "特斯拉全球超充桩达8.5万个，遍布9000个站点",
    "sentiment": 1
+  },
+  {
+   "id": "f36ffbba2474",
+   "title": "TSLA Stock Slips After Hours — EV Giant Reports High Cash Burn In Q2 Amid AI, Robotics Pivot - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg",
+   "source": "Stocktwits",
+   "published_at": "2026-10-05T19:55:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-05T19:55:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "e7666240b551",
@@ -7924,74 +7967,6 @@
    "zh_summary": "汇丰将特斯拉目标价从125美元上调至157美元",
    "title_zh": "汇丰将特斯拉目标价从125美元上调至157美元。 - 新浪财经",
    "sentiment": 1
-  },
-  {
-   "id": "dc169b9f2317",
-   "title": "蓝战非体验特斯拉赛博出租车，被AI两句话吓得想下车 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkxpNmxJb0c4d3ZnbjhDY0lPdmRaUFUxMk9mSjFqWExDaElCa2dEN0xjSms4TUlDQ1FWamZYQVB6d0R6RU4xQXRFT3dHUG5qTUZoSVlMVC1qdEFzamthcDNVV2dDRTRlOGRMVEJwZXphTnlKak9BTWtGbFJ5RVB4Uw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-05T05:55:44+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-05T05:55:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkxpNmxJb0c4d3ZnbjhDY0lPdmRaUFUxMk9mSjFqWExDaElCa2dEN0xjSms4TUlDQ1FWamZYQVB6d0R6RU4xQXRFT3dHUG5qTUZoSVlMVC1qdEFzamthcDNVV2dDRTRlOGRMVEJwZXphTnlKak9BTWtGbFJ5RVB4Uw"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-05T05:55:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkxpNmxJb0c4d3ZnbjhDY0lPdmRaUFUxMk9mSjFqWExDaElCa2dEN0xjSms4TUlDQ1FWamZYQVB6d0R6RU4xQXRFT3dHUG5qTUZoSVlMVC1qdEFzamthcDNVV2dDRTRlOGRMVEJwZXphTnlKak9BTWtGbFJ5RVB4Uw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-05T05:55:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkxpNmxJb0c4d3ZnbjhDY0lPdmRaUFUxMk9mSjFqWExDaElCa2dEN0xjSms4TUlDQ1FWamZYQVB6d0R6RU4xQXRFT3dHUG5qTUZoSVlMVC1qdEFzamthcDNVV2dDRTRlOGRMVEJwZXphTnlKak9BTWtGbFJ5RVB4Uw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "体验者称赛博出租车AI吓人",
-   "title_zh": "蓝战非体验特斯拉赛博出租车，被AI两句话吓得想下车",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "ebac85441d71",
-   "title": "【视频】吐槽它“毛坯房” ？但销量从没缩减！ 特斯拉Model Y 的魅力懂了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbmVWZ3Y0Zkd6ZVhLM3Eyb2ZpR21BSGpIVi1rbTVhQndKRTlaZWg5bzdzSDRzWWdTbG5qall6clZTSzd1bzBKYTFQZURpV0U3OFRUMlEtbFZwbDQ",
-   "source": "汽车之家",
-   "published_at": "2026-10-05T05:49:41+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T05:49:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbmVWZ3Y0Zkd6ZVhLM3Eyb2ZpR21BSGpIVi1rbTVhQndKRTlaZWg5bzdzSDRzWWdTbG5qall6clZTSzd1bzBKYTFQZURpV0U3OFRUMlEtbFZwbDQ"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T05:49:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbmVWZ3Y0Zkd6ZVhLM3Eyb2ZpR21BSGpIVi1rbTVhQndKRTlaZWg5bzdzSDRzWWdTbG5qall6clZTSzd1bzBKYTFQZURpV0U3OFRUMlEtbFZwbDQ"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T05:49:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbmVWZ3Y0Zkd6ZVhLM3Eyb2ZpR21BSGpIVi1rbTVhQndKRTlaZWg5bzdzSDRzWWdTbG5qall6clZTSzd1bzBKYTFQZURpV0U3OFRUMlEtbFZwbDQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model Y销量从未缩减",
-   "title_zh": "【视频】吐槽它“毛坯房” ？但销量从没缩减！ 特斯拉Model Y 的魅力懂了",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
   }
  ]
 }
