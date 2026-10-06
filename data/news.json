@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T16:07:31.972228+00:00",
+ "updated_at": "2026-10-06T16:22:42.961926+00:00",
  "market": {
-  "price": 380.54,
-  "change_pct": 0.48,
+  "price": 380.38,
+  "change_pct": 0.44,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（74条已评分）"
+     "note": "今日新闻情绪 +0.16（75条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.54 vs 20日均线 $366.72"
+     "note": "现价 $380.38 vs 20日均线 $366.71"
     },
     {
      "key": "分析师动向",
@@ -43,8 +43,8 @@
    "target_median": 407.5,
    "target_count": 14,
    "implied_upside_pct": 7.1,
-   "ma20": 366.72,
-   "as_of": "2026-10-06T16:07:31.962843+00:00"
+   "ma20": 366.71,
+   "as_of": "2026-10-06T16:22:42.949709+00:00"
   },
   "pe_ttm": 105.2,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 74
+   "avg": 0.16,
+   "count": 75
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "2a3a69034036",
+   "title": "Tesla to Showcase its Cybercab Robotaxi at Paris Auto Show - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUNFRktPZklsWThTcFZMY2oxYVZjLWUzT2V0VTNzRkxCaUdZclhrbFBYd0RmWGRTOGM0bW1sRXZyeHc2TmpXNG9WY3Y5eWljRVBTdE5FcEl0QTU2b1RvTUU2SkdaSngzWHYxdlhhMmpOQVczRndIaXFUaDhtUUppMUlDZjBGMVBabFExRWhST1NscURWem4tYXdWMnRmelR5aWlkeERuWkU3X1pvbmFxcV9SVmpyR1dpMVdpQmFEd0J4eVZHcVlsblZ3",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-06T16:05:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-06T16:05:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUNFRktPZklsWThTcFZMY2oxYVZjLWUzT2V0VTNzRkxCaUdZclhrbFBYd0RmWGRTOGM0bW1sRXZyeHc2TmpXNG9WY3Y5eWljRVBTdE5FcEl0QTU2b1RvTUU2SkdaSngzWHYxdlhhMmpOQVczRndIaXFUaDhtUUppMUlDZjBGMVBabFExRWhST1NscURWem4tYXdWMnRmelR5aWlkeERuWkU3X1pvbmFxcV9SVmpyR1dpMVdpQmFEd0J4eVZHcVlsblZ3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "dc9bfa56d37a",
+   "title": "Elon Musk Says That Tesla’s Robotaxi Service Has A ‘Cat Problem’ - Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2lsSDE5U043UXJkT3VocFc1U1Bpb2l5R25yWEtNVWhha0VUR0tlWTlaS2k3OWdudGFMMEJMVVU1LUtsNmdKWXc5eGNJZ19weTZMMy1idXBrVW56R18waHZ3MW1yNmtzQzhXaVhpRndUZFdjY0R5TGdiSkhuQS1vOGNHRGhCMUdnaHUyLTZEX0NLZDJxLUE",
+   "source": "Yahoo Tech",
+   "published_at": "2026-10-06T15:55:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Tech",
+     "published_at": "2026-10-06T15:55:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2lsSDE5U043UXJkT3VocFc1U1Bpb2l5R25yWEtNVWhha0VUR0tlWTlaS2k3OWdudGFMMEJMVVU1LUtsNmdKWXc5eGNJZ19weTZMMy1idXBrVW56R18waHZ3MW1yNmtzQzhXaVhpRndUZFdjY0R5TGdiSkhuQS1vOGNHRGhCMUdnaHUyLTZEX0NLZDJxLUE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "54441346a9e7",
    "title": "【视频】特斯拉超充站附带休闲会客区 - 汽车之家",
@@ -227,7 +261,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUFIU29TOHNudGRBTFdoczVMUmxUUG1VNGZBZkMzWS04d1JSUXRVQVFhX0QtQVFnRk1YbGw0eEJxNEV3NzZxTmExaTNXc2U4b0tiRkxUb1FGSUNjSnRHUU9USjJsQ0xfbVVuTnl4bHM4NWVNQUR4MEM2UXdNMTFEVDIwSk5IdEct",
    "source": "sohu.com",
    "published_at": "2026-10-06T15:06:34+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "sohu.com",
@@ -243,10 +277,16 @@
      "name": "网通社",
      "published_at": "2026-10-06T15:15:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01QWh6SzBJVy1aR1hxSTJISG9lVl9SX0JwemwyNFJvd0RPQ1hDY2xVYWpURnE4a3l6UkpMTGRMVHRwZGt3QllGREZPZ29NYjZranNMU2Q3bHVLaGM"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-06T15:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lbFNSR2xha1pTc29INU04cjY3R1UtXzI4R29lVWlHOEY2SDliWUxVbWdnU00tdjQ3VTZtTF8wZk91WnozQ3NkSWNlZkJSLVVoWlNCRXhyR3I5YmtsX0xBRDIyMUpSbUpHU0dLWkJURWRZaEFEUjlqYTFHdUhQUE0"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "德交通部长希望欧盟批准特斯拉FSD",
    "title_zh": "德国交通部长：希望特斯拉FSD（监督版）辅助驾驶系统能在欧盟获批 - sohu.com",
    "sentiment": 1,
@@ -341,7 +381,7 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEw1aThMamNVUE5Ed1NqaFdIVFZZWUdVbG1rNUVLalhVVGN4ck5XcFpjdzVacnZWaENTdW5VMVRYMXp5LWdpYmdMbWxFODJXVmhNVnhBRmwzeGxuUWNCYmVhREV0VFZpbmZwSVcxZjZDS05mT0dYUEdFU2dRY1NWWFZuc0w0RzFOV3ZSNjNOdENwTzkxMFpsQjE1T01MUEtIRFVpZUZjM3hVc2sxdFNCZlBIWjVfYTZDWHdfVHViMTR5QS1qZ01rX2VXVQ",
    "source": "Investopedia",
    "published_at": "2026-10-06T14:29:42+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Investopedia",
@@ -352,13 +392,22 @@
      "name": "investopedia.com",
      "published_at": "2026-10-06T14:29:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEw1aThMamNVUE5Ed1NqaFdIVFZZWUdVbG1rNUVLalhVVGN4ck5XcFpjdzVacnZWaENTdW5VMVRYMXp5LWdpYmdMbWxFODJXVmhNVnhBRmwzeGxuUWNCYmVhREV0VFZpbmZwSVcxZjZDS05mT0dYUEdFU2dRY1NWWFZuc0w0RzFOV3ZSNjNOdENwTzkxMFpsQjE1T01MUEtIRFVpZUZjM3hVc2sxdFNCZlBIWjVfYTZDWHdfVHViMTR5QS1qZ01rX2VXVQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T14:29:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3pZbTNCUlJWajBrQUZyNlR6RWVCdWNVMTktektUdi1hWHlsQTZjekt1bHJfN0R5MmFheDQ5azhFN0xnRW5KUTExbUpMUHVrSGpjaEdxUGRnb2lURHkzcWNaSUhhSTQwc2Q1Q2N5VzJWdGl4d01OaTFkeHQtWUJDc09HWnNiekY2bVphLWxnX19lRm9VQlF2Rk96UzQzdGozZ3c"
     }
    ],
    "category": "马斯克",
    "session": "盘中",
    "zh_summary": "马斯克因特斯拉SpaceX上涨重回万亿富豪",
    "title_zh": "马斯克再次成为万亿富豪，得益于特斯拉与SpaceX股价上涨",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 1.9
+   }
   },
   {
    "id": "ca5d1833ef4d",
@@ -1498,10 +1547,15 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2h4VTZfOHZkczNUSHI0Q2ZBWGhhVzU0bkdIWWVoS3JLenlETnUyazhXZG95VUplN3FVeVZQXzkyRnd1ZUR3VGtmajNCUk5QRDVfWGFjckpTNXFnSlRZcnVrTWZzVERoc2JQVzdKdVVSQVpLM2tGdnNVLWxJNk50dW5ZZExnSHd6NGNQMXpmR25nZkxSNzFYOFlR",
    "source": "moneywise.com",
    "published_at": "2026-10-06T09:30:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "moneywise.com",
+     "published_at": "2026-10-06T09:30:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2h4VTZfOHZkczNUSHI0Q2ZBWGhhVzU0bkdIWWVoS3JLenlETnUyazhXZG95VUplN3FVeVZQXzkyRnd1ZUR3VGtmajNCUk5QRDVfWGFjckpTNXFnSlRZcnVrTWZzVERoc2JQVzdKdVVSQVpLM2tGdnNVLWxJNk50dW5ZZExnSHd6NGNQMXpmR25nZkxSNzFYOFlR"
+    },
+    {
+     "name": "MoneyWise.com",
      "published_at": "2026-10-06T09:30:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2h4VTZfOHZkczNUSHI0Q2ZBWGhhVzU0bkdIWWVoS3JLenlETnUyazhXZG95VUplN3FVeVZQXzkyRnd1ZUR3VGtmajNCUk5QRDVfWGFjckpTNXFnSlRZcnVrTWZzVERoc2JQVzdKdVVSQVpLM2tGdnNVLWxJNk50dW5ZZExnSHd6NGNQMXpmR25nZkxSNzFYOFlR"
     }
@@ -2345,7 +2399,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVhSUDZjb0hoZEF4dEtnX2lpc1EzTmQ5NGE0YXQxQ2Q1OGYzWWdIQnNDb1FOOHd1aWZOa0k1Mi0zY1R0dG4telRrS0ZkVDd6a1E1WHpGekJNa0phWjM3ZENZbVZXaWs1QnZaMnRaMVdENTVReFlObWdWOWlkdlNIVVprVlcxMl9y",
    "source": "搜狐网",
    "published_at": "2026-10-06T03:02:51+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -2356,13 +2410,22 @@
      "name": "sohu.com",
      "published_at": "2026-10-06T03:02:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVhSUDZjb0hoZEF4dEtnX2lpc1EzTmQ5NGE0YXQxQ2Q1OGYzWWdIQnNDb1FOOHd1aWZOa0k1Mi0zY1R0dG4telRrS0ZkVDd6a1E1WHpGekJNa0phWjM3ZENZbVZXaWs1QnZaMnRaMVdENTVReFlObWdWOWlkdlNIVVprVlcxMl9y"
+    },
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-06T03:02:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVhSUDZjb0hoZEF4dEtnX2lpc1EzTmQ5NGE0YXQxQ2Q1OGYzWWdIQnNDb1FOOHd1aWZOa0k1Mi0zY1R0dG4telRrS0ZkVDd6a1E1WHpGekJNa0phWjM3ZENZbVZXaWs1QnZaMnRaMVdENTVReFlObWdWOWlkdlNIVVprVlcxMl9y"
     }
    ],
    "category": "车型产品",
    "session": "盘后",
    "zh_summary": "瑞典9月特斯拉2388台进前四",
    "title_zh": "瑞典9月特斯拉2388台进前四，Model Y夺冠",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.51,
+    "window_h": 2.0
+   }
   },
   {
    "id": "42d3e810d081",
@@ -6569,10 +6632,15 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbW1UMGdiVFg1QURIdzJLQXNzU3lOTDM0RkdDTElvNTRVeEI5dGtOajBJb2wwYVp1UDQwWmZZYVVMWE1TdlVwY3V0dXN1QmlKZ3dGZUt3NGFaMkg2QWlLZmhuS3lMbFRLTmNoaWxSUkhzV09BMXo3cWRkNUVhRHZHdg",
    "source": "手机新浪网",
    "published_at": "2026-10-05T08:07:38+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
+     "published_at": "2026-10-05T08:07:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbW1UMGdiVFg1QURIdzJLQXNzU3lOTDM0RkdDTElvNTRVeEI5dGtOajBJb2wwYVp1UDQwWmZZYVVMWE1TdlVwY3V0dXN1QmlKZ3dGZUt3NGFaMkg2QWlLZmhuS3lMbFRLTmNoaWxSUkhzV09BMXo3cWRkNUVhRHZHdg"
+    },
+    {
+     "name": "新浪网",
      "published_at": "2026-10-05T08:07:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbW1UMGdiVFg1QURIdzJLQXNzU3lOTDM0RkdDTElvNTRVeEI5dGtOajBJb2wwYVp1UDQwWmZZYVVMWE1TdlVwY3V0dXN1QmlKZ3dGZUt3NGFaMkg2QWlLZmhuS3lMbFRLTmNoaWxSUkhzV09BMXo3cWRkNUVhRHZHdg"
     }
@@ -8292,51 +8360,6 @@
    "zh_summary": "特斯拉发布“紧急驶离”功能",
    "title_zh": "特斯拉重磅发布“紧急驶离”功能，新能源“补能体系”下半场怎么打？",
    "sentiment": 1
-  },
-  {
-   "id": "125c11dd955a",
-   "title": "美股短线～你们还在SPCX，特斯拉吗？ - video.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnBVek9JZV9nRlZDZGJuQWNCQlRUQ1JoZ2hOM1AyaF8xWEJnb2VoYXl3VGtKVXNoVW9oR1B2MW5jYUtuYmZHdG9ZdGlqejc2MDZOZTF2ZmJwU2tVam1YZjU0eG1JQVNsNFYwc3oxclNMVUVueW5Qc0pRVFktTEMtWmJB",
-   "source": "video.sina.com.cn",
-   "published_at": "2026-10-04T21:49:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "video.sina.com.cn",
-     "published_at": "2026-10-04T21:49:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnBVek9JZV9nRlZDZGJuQWNCQlRUQ1JoZ2hOM1AyaF8xWEJnb2VoYXl3VGtKVXNoVW9oR1B2MW5jYUtuYmZHdG9ZdGlqejc2MDZOZTF2ZmJwU2tVam1YZjU0eG1JQVNsNFYwc3oxclNMVUVueW5Qc0pRVFktTEMtWmJB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "视频讨论短线是否仍持有特斯拉",
-   "title_zh": "美股短线～你们还在SPCX，特斯拉吗？ - video.sina.com.cn",
-   "sentiment": 0
-  },
-  {
-   "id": "c9f6fbfe6128",
-   "title": "美股短线～你们还在SPCX，特斯拉吗？|THE SPAC AND NEW ISSUE ETF - video.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnBVek9JZV9nRlZDZGJuQWNCQlRUQ1JoZ2hOM1AyaF8xWEJnb2VoYXl3VGtKVXNoVW9oR1B2MW5jYUtuYmZHdG9ZdGlqejc2MDZOZTF2ZmJwU2tVam1YZjU0eG1JQVNsNFYwc3oxclNMVUVueW5Qc0pRVFktTEMtWmJB",
-   "source": "video.sina.com.cn",
-   "published_at": "2026-10-04T21:49:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "video.sina.com.cn",
-     "published_at": "2026-10-04T21:49:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnBVek9JZV9nRlZDZGJuQWNCQlRUQ1JoZ2hOM1AyaF8xWEJnb2VoYXl3VGtKVXNoVW9oR1B2MW5jYUtuYmZHdG9ZdGlqejc2MDZOZTF2ZmJwU2tVam1YZjU0eG1JQVNsNFYwc3oxclNMVUVueW5Qc0pRVFktTEMtWmJB"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-06T00:57:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXdYN2RmQW9uMDV1ZmVIaUdtNlNjdlFXRE43cmt4Y0RZc3dFeU9xNF9RVnpTSC1fQjBlTmhCUGg0eXhVcF9OWFo0d092V0Fva2ZiZmZKQWtOeFpNYVdMSW1JVEJpbG4wRHU1OUR0dEZ3UkdMdHo2SGt6YXVKTEZ6NENn"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "短线讨论SPCX与特斯拉",
-   "title_zh": "短线美股：SPCX和特斯拉还值得持有吗",
-   "sentiment": 0
   }
  ]
 }
