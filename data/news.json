@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T14:07:28.958994+00:00",
+ "updated_at": "2026-10-06T14:22:33.624514+00:00",
  "market": {
-  "price": 380.48,
-  "change_pct": 0.46,
+  "price": 381.9,
+  "change_pct": 0.84,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -10,28 +10,28 @@
    "days_left": 15
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.1%"
+     "score": -1,
+     "note": "目标价中位数 $400（13家），隐含空间 +4.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（51条已评分）"
+     "note": "今日新闻情绪 +0.17（54条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.48 vs 20日均线 $366.71"
+     "note": "现价 $381.90 vs 20日均线 $366.78"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.1,
-   "ma20": 366.71,
-   "as_of": "2026-10-06T14:07:28.949727+00:00"
+   "implied_upside_pct": 4.7,
+   "ma20": 366.78,
+   "as_of": "2026-10-06T14:22:33.616011+00:00"
   },
-  "pe_ttm": 105.2,
+  "pe_ttm": 105.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 51
+   "avg": 0.17,
+   "count": 54
   }
  },
  "meta": {
@@ -68,15 +68,54 @@
  },
  "stories": [
   {
+   "id": "5f6ebe2ecbbe",
+   "title": "Tesla: Margin Realism Meets Merger Speculation (NASDAQ:TSLA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObXU3dEgzTVA2dWpiajJhVHJHLXhvVnR0dUhiMHU1VWJZeXJFTTVYS1F6V2FuTUZ0YThhOEhkVC1SeU5BWGFjaDRnZnhwNG5VczdQeHF0VU9YeXhFRjlYU1Q0d2pTTlk1V08wc1B1cmhLWkVMYUZMRjNCTEUtOVJqUVBSNkxzcjdIRVNTeWNoTQ",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-06T14:12:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-06T14:12:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObXU3dEgzTVA2dWpiajJhVHJHLXhvVnR0dUhiMHU1VWJZeXJFTTVYS1F6V2FuTUZ0YThhOEhkVC1SeU5BWGFjaDRnZnhwNG5VczdQeHF0VU9YeXhFRjlYU1Q0d2pTTlk1V08wc1B1cmhLWkVMYUZMRjNCTEUtOVJqUVBSNkxzcjdIRVNTeWNoTQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "ffb32288165f",
+   "title": "UBS holds its ground on Tesla after mixed delivery results - thestreet.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXJHa0VSeXZaUldaMGRfQjh4M2tuYkRNemZkc1F6SUM5X0dxMDBCNFluOFpJZTQ5ZXZUcDF0U0Z1OEFSdWRkS2xHbEZhdTZqREE2SUNfQTRmU1AwSmpSVHhxXzUxa18tQnVxM21sdW95NGE1Rnd3OUltQ3ZocUROVHNHR2s3YlNHM2RXdzFicVlpX0hDTzljQkh2TkEtTVRnT3JYMW52TGxPNEltOWZGYlJDaTU4aExWNk9WcA",
+   "source": "thestreet.com",
+   "published_at": "2026-10-06T14:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "thestreet.com",
+     "published_at": "2026-10-06T14:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXJHa0VSeXZaUldaMGRfQjh4M2tuYkRNemZkc1F6SUM5X0dxMDBCNFluOFpJZTQ5ZXZUcDF0U0Z1OEFSdWRkS2xHbEZhdTZqREE2SUNfQTRmU1AwSmpSVHhxXzUxa18tQnVxM21sdW95NGE1Rnd3OUltQ3ZocUROVHNHR2s3YlNHM2RXdzFicVlpX0hDTzljQkh2TkEtTVRnT3JYMW52TGxPNEltOWZGYlJDaTU4aExWNk9WcA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "9b804a15e2f1",
    "title": "Tesla Proves the “EV Winter” is Over: Here’s the Conservative Case for 32% Upside - TIKR.com",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2xjZTBvelF2dUU4TGFCbGQtb0g4N3BVNzc1WGZPU09hQUgxeDlhYk9ETGI2OV9YWGNxcmRvemdwT1hKOHFPT1NPeG4zU2hzZjh6Yk5YM255RkZRYVNLbWNhQ1VuazM5YVYwRUxZZ3cxUGZ6WXZFQlEwQndTNE1VaFVTeU1nSnQ5RmZVS1FuSURxVFF4OURLc3M1QmZPaVpCRnR1bw",
    "source": "TIKR.com",
    "published_at": "2026-10-06T13:59:44+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TIKR.com",
+     "published_at": "2026-10-06T13:59:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2xjZTBvelF2dUU4TGFCbGQtb0g4N3BVNzc1WGZPU09hQUgxeDlhYk9ETGI2OV9YWGNxcmRvemdwT1hKOHFPT1NPeG4zU2hzZjh6Yk5YM255RkZRYVNLbWNhQ1VuazM5YVYwRUxZZ3cxUGZ6WXZFQlEwQndTNE1VaFVTeU1nSnQ5RmZVS1FuSURxVFF4OURLc3M1QmZPaVpCRnR1bw"
+    },
+    {
+     "name": "tikr.com",
      "published_at": "2026-10-06T13:59:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2xjZTBvelF2dUU4TGFCbGQtb0g4N3BVNzc1WGZPU09hQUgxeDlhYk9ETGI2OV9YWGNxcmRvemdwT1hKOHFPT1NPeG4zU2hzZjh6Yk5YM255RkZRYVNLbWNhQ1VuazM5YVYwRUxZZ3cxUGZ6WXZFQlEwQndTNE1VaFVTeU1nSnQ5RmZVS1FuSURxVFF4OURLc3M1QmZPaVpCRnR1bw"
     }
@@ -158,10 +197,15 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN",
    "source": "手机新浪网",
    "published_at": "2026-10-06T13:38:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
+     "published_at": "2026-10-06T13:38:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN"
+    },
+    {
+     "name": "sina.cn",
      "published_at": "2026-10-06T13:38:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN"
     }
@@ -1217,10 +1261,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Ukl5U0RiTjhFTzFmVEdmdkpxdmkzbEpsZGQ3VWF2Q3M1RDRPeU44ZUpBcHFoVFpkdms3eFJwOFhBUl9uNzBvU21hYlY0aG1iOUhDWUhJMko1LTQ",
    "source": "汽车之家",
    "published_at": "2026-10-06T07:24:13+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-06T07:24:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Ukl5U0RiTjhFTzFmVEdmdkpxdmkzbEpsZGQ3VWF2Q3M1RDRPeU44ZUpBcHFoVFpkdms3eFJwOFhBUl9uNzBvU21hYlY0aG1iOUhDWUhJMko1LTQ"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-06T07:24:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Ukl5U0RiTjhFTzFmVEdmdkpxdmkzbEpsZGQ3VWF2Q3M1RDRPeU44ZUpBcHFoVFpkdms3eFJwOFhBUl9uNzBvU21hYlY0aG1iOUhDWUhJMko1LTQ"
     }
@@ -8192,56 +8241,6 @@
    "zh_summary": "特斯拉将自动调节大灯水平",
    "title_zh": "特斯拉大灯载货爬坡时自动调节",
    "sentiment": 0
-  },
-  {
-   "id": "934515fb23b5",
-   "title": "特斯拉测试动态大灯水平调节功能 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3BjZW5yVVFXMFNybEE2bzduRlh5LWw5NElYYmVSTWJpQks1bS1lcHVwdjRlUE5pVzFkQi12SFFfU0xmNFYwZlQ4LUoyNEttdUJRMldUVjRPdDF1STJaelhScUxQR3pYSTcweGMzNGhteW9ZMXpjaEZaU3laQWJFMw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T14:46:43+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T14:46:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3BjZW5yVVFXMFNybEE2bzduRlh5LWw5NElYYmVSTWJpQks1bS1lcHVwdjRlUE5pVzFkQi12SFFfU0xmNFYwZlQ4LUoyNEttdUJRMldUVjRPdDF1STJaelhScUxQR3pYSTcweGMzNGhteW9ZMXpjaEZaU3laQWJFMw"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-04T14:46:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3BjZW5yVVFXMFNybEE2bzduRlh5LWw5NElYYmVSTWJpQks1bS1lcHVwdjRlUE5pVzFkQi12SFFfU0xmNFYwZlQ4LUoyNEttdUJRMldUVjRPdDF1STJaelhScUxQR3pYSTcweGMzNGhteW9ZMXpjaEZaU3laQWJFMw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉测试动态大灯水平调节",
-   "title_zh": "特斯拉测试动态大灯水平调节功能 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "8d225bac4665",
-   "title": "Tesla Extends Robotaxi Hours in Austin, Adds 111 Cybercabs - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEQzeFUwS3VNQWFjZl85YTNibXczYjJzQ0tBM1phVGdwa2plWGg3cEJzQmNnNEhMUVE5dzhjV29MUDNYbmU5U0dVSTBPbDBhMVQxc0VOTS1VRmpJY3dhbjNHRE5HOWtpekdQYmUwTjlTSGRjOUNGTTVQUGRsanlGWDNHenRnTmJRM1U2aUdJQ3hZTVFTWkZIdmM1c0s",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-04T14:45:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-04T14:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEQzeFUwS3VNQWFjZl85YTNibXczYjJzQ0tBM1phVGdwa2plWGg3cEJzQmNnNEhMUVE5dzhjV29MUDNYbmU5U0dVSTBPbDBhMVQxc0VOTS1VRmpJY3dhbjNHRE5HOWtpekdQYmUwTjlTSGRjOUNGTTVQUGRsanlGWDNHenRnTmJRM1U2aUdJQ3hZTVFTWkZIdmM1c0s"
-    },
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-04T14:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEQzeFUwS3VNQWFjZl85YTNibXczYjJzQ0tBM1phVGdwa2plWGg3cEJzQmNnNEhMUVE5dzhjV29MUDNYbmU5U0dVSTBPbDBhMVQxc0VOTS1VRmpJY3dhbjNHRE5HOWtpekdQYmUwTjlTSGRjOUNGTTVQUGRsanlGWDNHenRnTmJRM1U2aUdJQ3hZTVFTWkZIdmM1c0s"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉奥斯汀新增111辆Cybercab延长运营",
-   "title_zh": "特斯拉在奥斯汀延长Robotaxi运营时间并新增111辆Cybercab",
-   "sentiment": 1
   }
  ]
 }
