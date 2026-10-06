@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T22:22:31.064878+00:00",
+ "updated_at": "2026-10-06T22:37:41.562161+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（109条已评分）"
+     "note": "今日新闻情绪 +0.25（110条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-06T22:22:31.058445+00:00"
+   "as_of": "2026-10-06T22:37:41.551162+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.25,
-   "count": 109
+   "count": 110
   }
  },
  "meta": {
@@ -608,7 +608,7 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGhBbTVHZk9IdkpRTTFYNThQTm9mYTZHRWtQaUs5aHZWampQOVFic2pCbjMwWGlQcHY2alhCMmRWdDlCYWZKd2U0LUg0NXJ2ek5xM2VfNmNjdi1ES09KSEpScHIzRWlXQjZfVzc1cTlQT3ZNejAxRDJDRjFLZUw5RVF0RXJRS1ZITG1fek9TdDROdw",
    "source": "Electrek",
    "published_at": "2026-10-06T16:57:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Electrek",
@@ -619,13 +619,22 @@
      "name": "InsideEVs",
      "published_at": "2026-10-06T22:03:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWlAtQ2dCSmhiVVZNS2lHMWNOclNlbkpjbXZZSnduYTdkeVpyV1QwSkhHQ3Qyb1BOWGlsX3E0TWM1MHQ2RzE0Vzk0bUZMVzhHNWFCdTl5anVVY0VfdWNhQnV0TUdiaDhXNm5XNEQzWjhQR0d1XzNWc20tM3FlSEh6Um9WZ0xpQQ"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-06T22:03:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmpIRFc4WTJsU2dHS182dHBJeXI5TDdiX2g0MDRoelg0MzF5VS1CTzQxSU5uSmZJaF9hYVpiQjVRcHh2S1huY2NLcjNKQUp2Y2w4VHFNRjVXdE5rUHFpWXpaZThTcFZNeDdhWUtJb1g3QU1UWldOMFlxd1FfbzA3X2Z5emh4MDYzM1NQQ0lJdW5mQQ"
     }
    ],
    "category": "车型产品",
    "session": "盘中",
    "zh_summary": "特斯拉Model 3/Y可为家庭供电",
    "title_zh": "特斯拉Model 3和Model Y终于可以为家庭供电，比竞争对手晚数年",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.18,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b1c12faa1d89",
