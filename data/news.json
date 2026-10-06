@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T21:22:32.558114+00:00",
+ "updated_at": "2026-10-06T21:37:39.369132+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（104条已评分）"
+     "note": "今日新闻情绪 +0.24（105条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-06T21:22:32.549170+00:00"
+   "as_of": "2026-10-06T21:37:39.363195+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.24,
-   "count": 104
+   "count": 105
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0bc5a6f6d797",
+   "title": "Rivian’s Software Chief Posts Halloween Anagram Hours After Tesla’s Rollout - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tFZVVJaEJiVnpNMUpjeDl6V05lSFRMaWlBWmtIcERrSGVZaFpxNXpGRktBbkxEMkpFXzh1UWRxVlpCLXVYQWJIb3lkdnB2WkhTQWlZWUVKUmpjTGkyV3pXaDY2aGVJTFBtQWJlTURHU1JIdGg3OXYzSURzUlFwcmVsT21LTXhfNUF2b1dBZkJBbFJSNUFIWkV4dzh3TzVxWmEwdEZoWGFjdy1DN3pv",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-06T21:27:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-06T21:27:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0tFZVVJaEJiVnpNMUpjeDl6V05lSFRMaWlBWmtIcERrSGVZaFpxNXpGRktBbkxEMkpFXzh1UWRxVlpCLXVYQWJIb3lkdnB2WkhTQWlZWUVKUmpjTGkyV3pXaDY2aGVJTFBtQWJlTURHU1JIdGg3OXYzSURzUlFwcmVsT21LTXhfNUF2b1dBZkJBbFJSNUFIWkV4dzh3TzVxWmEwdEZoWGFjdy1DN3pv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "7c1a390feba3",
    "title": "How to Check If Your Tesla Has Powershare Capability - BASENOR",
@@ -273,26 +290,6 @@
    "sentiment": 1
   },
   {
-   "id": "82695719aac3",
-   "title": "Five things that are keeping Tesla Full Self-Driving supervised - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB",
-   "source": "Teslarati",
-   "published_at": "2026-10-06T18:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-06T18:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "阻碍特斯拉FSD完全无人驾驶的五个因素",
-   "title_zh": "是什么让特斯拉全自动驾驶仍处于监督状态：五个因素",
-   "sentiment": -1
-  },
-  {
    "id": "0b75e15b7ca7",
    "title": "Tesla May Be Getting Ready to Launch Cybercabs in Houston - Not a Tesla App",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUxwQ21WUXVtNnJQVkJzb3puWUJENVFlOVpDcDROMDlIck1zMXpKTWkzcnpJenlrbGtsT056V2RKcGkyb0Y4VFhfYmNWb2M1b2o5SWIydmZQNGcxbHNHc3hJems3RGJPXy1LTnBwSFZGUF9rc2VLNXFxakQxdTRjOG1qOWVxSFZDZlFXNHNOejR3Mmt3M3lTNVZVRkU",
@@ -351,6 +348,26 @@
    "zh_summary": "特斯拉与德国就FSD达成协议",
    "title_zh": "德交运部：特斯拉就FSD速度与责任达成协议",
    "sentiment": 1
+  },
+  {
+   "id": "82695719aac3",
+   "title": "Five things that are keeping Tesla Full Self-Driving supervised - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB",
+   "source": "Teslarati",
+   "published_at": "2026-10-06T18:11:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-06T18:11:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "阻碍特斯拉FSD完全无人驾驶的五个因素",
+   "title_zh": "是什么让特斯拉全自动驾驶仍处于监督状态：五个因素",
+   "sentiment": -1
   },
   {
    "id": "3dc3a7bacd7a",
@@ -964,6 +981,23 @@
     "pct": -0.16,
     "window_h": 1.0
    }
+  },
+  {
+   "id": "6b1e29871b89",
+   "title": "特斯拉2026.38版本悄然测试动态大灯水平调节，近光灯可自动修正照射角度 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U0M4M3BpRXRyM1JjRHNtc1ZGQ0sxOVNvQURMUHdFeVVDalJ4LW1IQ0NfOWVPaXZBdHFIbmNraG11S2xHcTFkTFdadlhTZ080a05wV2x3SG5pbVU",
+   "source": "网通社",
+   "published_at": "2026-10-06T14:19:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-06T14:19:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U0M4M3BpRXRyM1JjRHNtc1ZGQ0sxOVNvQURMUHdFeVVDalJ4LW1IQ0NfOWVPaXZBdHFIbmNraG11S2xHcTFkTFdadlhTZ080a05wV2x3SG5pbVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "ca5d1833ef4d",
@@ -2521,6 +2555,23 @@
    "zh_summary": "马斯克称灰色小猫导致Robotaxi夜间停运",
    "title_zh": "马斯克：灰色小猫正导致特斯拉Robotaxi夜间停运",
    "sentiment": 0
+  },
+  {
+   "id": "fb557e98a812",
+   "title": "特斯拉 将在10月12日开幕的巴黎车展上展示其Cybercab无人驾驶出租车。 - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sSGk5Ty1NWm9KQVNia0ZtTzh0Q0xjUjd3X3pDdDdkR3doRmd5amNqQWhGdGxVam9CcmwtMDRYQnpNMzFtcDBJbHl2M3c4MWRxcnZ0T29B",
+   "source": "雪球",
+   "published_at": "2026-10-06T06:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "雪球",
+     "published_at": "2026-10-06T06:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sSGk5Ty1NWm9KQVNia0ZtTzh0Q0xjUjd3X3pDdDdkR3doRmd5amNqQWhGdGxVam9CcmwtMDRYQnpNMzFtcDBJbHl2M3c4MWRxcnZ0T29B"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "1dd123f7a3ba",
@@ -7957,90 +8008,6 @@
    "zh_summary": "特斯拉拿下500辆Semi订单",
    "title_zh": "【视频】特斯拉又拿下500辆Semi订单！柴油卡车时代，真的要结束了？ - 车家号",
    "sentiment": 1,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "6a5941315f1b",
-   "title": "Gary Black Says He Accepts Higher Gas Prices, Increased FSD Awareness Are Driving Tesla Sales, but There - benzinga.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1EyQzJ0UjFoX290czRGeDlRbGtmblBhc09ndGFtY0hwT3BxQ1lWTzJENnBkNXJFMmNTWXJaNmx1YlpPbnhqLWtmTjhIelNEZEYwX3BnMFdQWGJnZmNXQk43bEVGbGxBNkxaQ084TGFJZnFBUlk5WElWaFJ5U0ZYVl9QSXdudWdOcnBsYzZ2c1hYUmVlOVNseVEtd2hqbmJfcTlOcU5CZk9aTzNLM2lwMGJGbzZLcVdvZklPa29zbk9Uc2MzQklxZ0NHaG5qOWJOVjNvdXh2dVlRRHJWb1JZT2xSRHlFa0Vqc0RsOTFtSHozdzVTVElj",
-   "source": "benzinga.com",
-   "published_at": "2026-10-05T04:53:21+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "benzinga.com",
-     "published_at": "2026-10-05T04:53:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1EyQzJ0UjFoX290czRGeDlRbGtmblBhc09ndGFtY0hwT3BxQ1lWTzJENnBkNXJFMmNTWXJaNmx1YlpPbnhqLWtmTjhIelNEZEYwX3BnMFdQWGJnZmNXQk43bEVGbGxBNkxaQ084TGFJZnFBUlk5WElWaFJ5U0ZYVl9QSXdudWdOcnBsYzZ2c1hYUmVlOVNseVEtd2hqbmJfcTlOcU5CZk9aTzNLM2lwMGJGbzZLcVdvZklPa29zbk9Uc2MzQklxZ0NHaG5qOWJOVjNvdXh2dVlRRHJWb1JZT2xSRHlFa0Vqc0RsOTFtSHozdzVTVElj"
-    },
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-05T04:53:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1EyQzJ0UjFoX290czRGeDlRbGtmblBhc09ndGFtY0hwT3BxQ1lWTzJENnBkNXJFMmNTWXJaNmx1YlpPbnhqLWtmTjhIelNEZEYwX3BnMFdQWGJnZmNXQk43bEVGbGxBNkxaQ084TGFJZnFBUlk5WElWaFJ5U0ZYVl9QSXdudWdOcnBsYzZ2c1hYUmVlOVNseVEtd2hqbmJfcTlOcU5CZk9aTzNLM2lwMGJGbzZLcVdvZklPa29zbk9Uc2MzQklxZ0NHaG5qOWJOVjNvdXh2dVlRRHJWb1JZT2xSRHlFa0Vqc0RsOTFtSHozdzVTVElj"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "油价与FSD知名度推动特斯拉销量",
-   "title_zh": "Gary Black称油价上涨和FSD知名度提升正在推动特斯拉销量",
-   "sentiment": 1
-  },
-  {
-   "id": "387dd15efd48",
-   "title": "Gary Black Says Higher Gas Prices, Not FSD, Are Driving Tesla's Q3 Sales: ‘Primarily Higher Gas Prices’ - benzinga.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1EyQzJ0UjFoX290czRGeDlRbGtmblBhc09ndGFtY0hwT3BxQ1lWTzJENnBkNXJFMmNTWXJaNmx1YlpPbnhqLWtmTjhIelNEZEYwX3BnMFdQWGJnZmNXQk43bEVGbGxBNkxaQ084TGFJZnFBUlk5WElWaFJ5U0ZYVl9QSXdudWdOcnBsYzZ2c1hYUmVlOVNseVEtd2hqbmJfcTlOcU5CZk9aTzNLM2lwMGJGbzZLcVdvZklPa29zbk9Uc2MzQklxZ0NHaG5qOWJOVjNvdXh2dVlRRHJWb1JZT2xSRHlFa0Vqc0RsOTFtSHozdzVTVElj",
-   "source": "benzinga.com",
-   "published_at": "2026-10-05T04:52:59+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "benzinga.com",
-     "published_at": "2026-10-05T04:52:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1EyQzJ0UjFoX290czRGeDlRbGtmblBhc09ndGFtY0hwT3BxQ1lWTzJENnBkNXJFMmNTWXJaNmx1YlpPbnhqLWtmTjhIelNEZEYwX3BnMFdQWGJnZmNXQk43bEVGbGxBNkxaQ084TGFJZnFBUlk5WElWaFJ5U0ZYVl9QSXdudWdOcnBsYzZ2c1hYUmVlOVNseVEtd2hqbmJfcTlOcU5CZk9aTzNLM2lwMGJGbzZLcVdvZklPa29zbk9Uc2MzQklxZ0NHaG5qOWJOVjNvdXh2dVlRRHJWb1JZT2xSRHlFa0Vqc0RsOTFtSHozdzVTVElj"
-    },
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-05T04:52:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc1EyQzJ0UjFoX290czRGeDlRbGtmblBhc09ndGFtY0hwT3BxQ1lWTzJENnBkNXJFMmNTWXJaNmx1YlpPbnhqLWtmTjhIelNEZEYwX3BnMFdQWGJnZmNXQk43bEVGbGxBNkxaQ084TGFJZnFBUlk5WElWaFJ5U0ZYVl9QSXdudWdOcnBsYzZ2c1hYUmVlOVNseVEtd2hqbmJfcTlOcU5CZk9aTzNLM2lwMGJGbzZLcVdvZklPa29zbk9Uc2MzQklxZ0NHaG5qOWJOVjNvdXh2dVlRRHJWb1JZT2xSRHlFa0Vqc0RsOTFtSHozdzVTVElj"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "Gary Black称Q3销量主要来自高油价",
-   "title_zh": "Gary Black称：特斯拉Q3销售主要靠高油价而非FSD",
-   "sentiment": -1
-  },
-  {
-   "id": "c8666f0d5418",
-   "title": "【视频】挑起上一轮价格战的特斯拉，又要开启新一轮价格战了？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM",
-   "source": "汽车之家",
-   "published_at": "2026-10-05T04:44:18+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T04:44:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T04:45:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T04:44:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4c25JaVNrZk51YVlDb1VyNVhRcWtXZmJodDhoUDFMMTFtYzZMUWJzVV9VMEk5dVEzNGFKb1NqdjFpUlpleHRUTDV1Q252dFE5SGEzdldmejdFZXM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉或将开启新一轮价格战",
-   "title_zh": "【视频】挑起上一轮价格战的特斯拉，又要开启新一轮价格战了？ - 汽车之家",
-   "sentiment": -1,
    "price_reaction": {
     "pct": 2.99,
     "window_h": 2.0
