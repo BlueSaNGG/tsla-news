@@ -1,37 +1,37 @@
 {
- "updated_at": "2026-10-06T13:22:27.509718+00:00",
+ "updated_at": "2026-10-06T13:37:32.526906+00:00",
  "market": {
-  "price": 378.73,
-  "change_pct": 2.2,
-  "as_of": "2026-10-05",
+  "price": 382.13,
+  "change_pct": 0.9,
+  "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
    "days_left": 15
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（13家），隐含空间 +5.6%"
+     "score": -1,
+     "note": "目标价中位数 $400（13家），隐含空间 +4.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（43条已评分）"
+     "note": "今日新闻情绪 +0.11（44条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.73 vs 20日均线 $366.10"
+     "note": "现价 $382.13 vs 20日均线 $366.79"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 5.6,
-   "ma20": 366.1,
-   "as_of": "2026-10-06T13:22:27.500909+00:00"
+   "implied_upside_pct": 4.7,
+   "ma20": 366.79,
+   "as_of": "2026-10-06T13:37:32.514491+00:00"
   },
-  "pe_ttm": 104.7,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.6%空间：估值适中，预期中性",
+  "pe_ttm": 105.7,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 43
+   "avg": 0.11,
+   "count": 44
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "174619c13435",
+   "title": "中国大力士黄永钰纯徒手硬拉特斯拉，车轮移动离地 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQlJXdUtPcE81YW1QS3g0THhIa0lJSHRnQ01PRnNKY0EzbmJDZXJUSXVDd1h1dUtmaU4xbFZFaUExR3FwaEoxQ19Zd3BDY2Q3WmhRTm1QemI3ZERON1pZeEZGNTZ5ekVuYTR5b0dJbDNCb29NQ1dYMkNUY0xsN0hiQQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-06T13:34:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-06T13:34:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQlJXdUtPcE81YW1QS3g0THhIa0lJSHRnQ01PRnNKY0EzbmJDZXJUSXVDd1h1dUtmaU4xbFZFaUExR3FwaEoxQ19Zd3BDY2Q3WmhRTm1QemI3ZERON1pZeEZGNTZ5ekVuYTR5b0dJbDNCb29NQ1dYMkNUY0xsN0hiQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e7d31c1dab7d",
+   "title": "German Transport Minister Backs Tesla FSD in EU, Floats National Path - eletric-vehicles.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDViRWhPUGU5d3FhS2ZKZENPUXhsWE9UWjRzUmFFMVJwU2FzUnV5Z2VyajFjS3p0YWk0YmJmZFB4My1tWHBKem5zaTVjd0NLelBXR0N3RHpYTUZid0o4YTJrcU5qUGYyMnBiR0xIM2kwOHFNZ0VoSUZrQTdWUjY4TlZlSEUwYWlIY1hWeE8tSGdpOGNlMzgzaWdER25vc0Vremo5RlQzQQ",
+   "source": "eletric-vehicles.com",
+   "published_at": "2026-10-06T13:28:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eletric-vehicles.com",
+     "published_at": "2026-10-06T13:28:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDViRWhPUGU5d3FhS2ZKZENPUXhsWE9UWjRzUmFFMVJwU2FzUnV5Z2VyajFjS3p0YWk0YmJmZFB4My1tWHBKem5zaTVjd0NLelBXR0N3RHpYTUZid0o4YTJrcU5qUGYyMnBiR0xIM2kwOHFNZ0VoSUZrQTdWUjY4TlZlSEUwYWlIY1hWeE8tSGdpOGNlMzgzaWdER25vc0Vremo5RlQzQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "2f719fc3a272",
    "title": "You Thought Tesla's Semi Was Cool? Wait Until You See What Mercedes-Benz Is up To - autoevolution",
@@ -106,6 +140,23 @@
    "zh_summary": "特斯拉股价在阻力位下方盘整，临近财报",
    "title_zh": "财报前特斯拉股价在阻力位下方盘整",
    "sentiment": 0
+  },
+  {
+   "id": "ca1840258afe",
+   "title": "Tesla and SpaceX Are Surging Together. What It Says About a Future Merger. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU05HQmhJRDBXMFFxVl8zNVJ0aDkyeUgyOUlYU2JhN3F2ekN4SkNZdDZMaUtwWVVOT2d2V055R2Yyc1huenVlUElDXzNVUW5DSGgzcjJXdlFOQVBVMS1EcE9oZU9BWC1aMGVtMlB1bGRSTU9DX0tUNEdOeWdlNFJMdVMzZ0tDRmE3Wm53",
+   "source": "Barron's",
+   "published_at": "2026-10-06T13:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T13:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU05HQmhJRDBXMFFxVl8zNVJ0aDkyeUgyOUlYU2JhN3F2ekN4SkNZdDZMaUtwWVVOT2d2V055R2Yyc1huenVlUElDXzNVUW5DSGgzcjJXdlFOQVBVMS1EcE9oZU9BWC1aMGVtMlB1bGRSTU9DX0tUNEdOeWdlNFJMdVMzZ0tDRmE3Wm53"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0de16f113de9",
@@ -231,7 +282,11 @@
    "breaking": true,
    "zh_summary": "蔚来想赚钱需借鉴特斯拉打法",
    "title_zh": "蔚来想让投资者赚钱需借鉴特斯拉打法",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "86eec80c058a",
@@ -463,7 +518,11 @@
    "breaking": true,
    "zh_summary": "特斯拉交付回暖之际 对比SpaceX谁更值得投资",
    "title_zh": "特斯拉交付回暖 它比SpaceX股票更值得投资吗",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b3220b90dc27",
@@ -563,7 +622,11 @@
    "session": "盘前",
    "zh_summary": "24面板配Powerwall 特斯拉一天安装完",
    "title_zh": "24块面板、1块Powerwall、仅断电1小时：特斯拉一天安装完毕",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "ea9bb5c33db4",
@@ -751,26 +814,6 @@
    "sentiment": -1
   },
   {
-   "id": "79f3d4337934",
-   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
-   "source": "Barron's",
-   "published_at": "2026-10-06T09:22:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T09:22:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Roadster发布活动推迟",
-   "title_zh": "特斯拉Roadster活动推迟对股价意味着什么",
-   "sentiment": -1
-  },
-  {
    "id": "228b3a0e184e",
    "title": "Here's How Tesla Model Y Maintenance Costs Really Look In 2026 - CarBuzz",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wdmRpdERzR0ttQ3ZNS3JfR3FGaXNSRExycGkzUWtPY3lSSW9NUlVPMzdpeFJsYVVoUDFJUXlnTHlaYWh0eGhucE1QdE9XTXFHSERLZEQ1WE5rYURhODNoZTJSLVA1WE4tQzBsZmg1bnNtd1lvVWx0cEdvRWs",
@@ -797,12 +840,17 @@
   },
   {
    "id": "74fc65e5f2e2",
-   "title": "This CEO wants to challenge Tesla's charging dominance. He's teaching dealerships how to make the EV pitch. - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmExZkFmdEF0RjNPclBrMjYwN3dETi1JLWVlOGYyc005SkFkVjhYRU40eEpnYjlVX3Jwbmp0dEFfZ0Y1VW1ac0xGYUg1RENwckctLUZkdWZGUmFGRnhCOVQ2cmhmQThaNDVkVHRHTHdrVlhrQjJiZ1k0RTlNc1JYTGpGSktNZFZRaTNDRQ",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-06T09:00:01+00:00",
-   "outlets_count": 1,
+   "title": "This CEO wants to challenge Tesla's charging dominance. He's teaching dealerships how to make the EV pitch. - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkVSUTR1alhqeTJuMW51NHFjU1ZXeFlCZ25XTUFNVTJMa2puXy1aMXFmR19raWdvYmdSRXNmWkl6eUZhNGpkZEM4UnY3M25FdkRaZ0JvbVdZeFFla0E3QkdBYXNPMFJEdGRRc3lQRnpIalFxMXBTR0gwZVBrVmNHRA",
+   "source": "Business Insider",
+   "published_at": "2026-10-06T09:00:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-06T09:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkVSUTR1alhqeTJuMW51NHFjU1ZXeFlCZ25XTUFNVTJMa2puXy1aMXFmR19raWdvYmdSRXNmWkl6eUZhNGpkZEM4UnY3M25FdkRaZ0JvbVdZeFFla0E3QkdBYXNPMFJEdGRRc3lQRnpIalFxMXBTR0gwZVBrVmNHRA"
+    },
     {
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-06T09:00:01+00:00",
@@ -843,7 +891,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉Model Y焕新上市不足27万",
    "title_zh": "新款特斯拉Model Y焕新上市，不足27万，续航超800公里",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "1bf0b7ef682d",
@@ -884,7 +936,11 @@
    "breaking": true,
    "zh_summary": "特斯拉发布利好消息分析师问值不值得买",
    "title_zh": "特斯拉刚发布利好消息，但股票值得买吗？",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "69ad8d36e249",
@@ -945,7 +1001,11 @@
    "breaking": true,
    "zh_summary": "Model 3特定市场配置升级",
    "title_zh": "特斯拉Model 3在单一市场加装16英寸屏等配置",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "90c98e943657",
@@ -996,6 +1056,23 @@
    "zh_summary": "马斯克重返特朗普政府，特斯拉面临关键考验",
    "title_zh": "马斯克重返特朗普政府，特斯拉面临关键考验",
    "sentiment": 0
+  },
+  {
+   "id": "760e4feefc5d",
+   "title": "特斯拉Model 3焕新 屏幕变大支持外放电 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Ukl5U0RiTjhFTzFmVEdmdkpxdmkzbEpsZGQ3VWF2Q3M1RDRPeU44ZUpBcHFoVFpkdms3eFJwOFhBUl9uNzBvU21hYlY0aG1iOUhDWUhJMko1LTQ",
+   "source": "汽车之家",
+   "published_at": "2026-10-06T07:24:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-06T07:24:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5Ukl5U0RiTjhFTzFmVEdmdkpxdmkzbEpsZGQ3VWF2Q3M1RDRPeU44ZUpBcHFoVFpkdms3eFJwOFhBUl9uNzBvU21hYlY0aG1iOUhDWUhJMko1LTQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "1eca37a4b96a",
@@ -1136,7 +1213,11 @@
    "breaking": true,
    "zh_summary": "TSLA盘后上涨，SpaceX合并传闻引关注",
    "title_zh": "TSLA盘后上涨，SpaceX合并传闻或主导短期叙事，Gary Black看涨",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "e252d5b52fe1",
@@ -1211,7 +1292,11 @@
    "session": "盘后",
    "zh_summary": "视频：满仓特斯拉Model 3",
    "title_zh": "【视频】满仓特斯拉Model 3 - 汽车之家",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "9b68dc32bc6a",
@@ -1241,7 +1326,11 @@
    "session": "盘后",
    "zh_summary": "23年特斯拉5万公里原版原漆",
    "title_zh": "23年特斯拉5万公里原版原漆",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "6357c230e62f",
@@ -1316,7 +1405,11 @@
    "session": "盘后",
    "zh_summary": "20款Model 3长续航后驱版介绍",
    "title_zh": "特斯拉Model 3 2020款长续航后驱版介绍",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "18c42bac0ee6",
@@ -1436,7 +1529,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉Model Y L实车亮相，751km续航",
    "title_zh": "2027款特斯拉Model Y L实车亮相 6座布局 续航里程751km",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "f2bfd8f9a5c7",
@@ -1491,7 +1588,11 @@
    "session": "盘后",
    "zh_summary": "Model Y保值率受好评",
    "title_zh": "特斯拉Model Y真保值",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b2b890be94c8",
@@ -1586,7 +1687,11 @@
    "session": "盘后",
    "zh_summary": "解析特斯拉与理想自研电池差异",
    "title_zh": "特斯拉和理想自研电池侧重点差在哪",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "3a335cbf9bba",
@@ -1691,7 +1796,11 @@
    "session": "盘后",
    "zh_summary": "月销超16万辆仅次于比亚迪",
    "title_zh": "月销超16万辆仅次比亚迪，为何被唱衰",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "63eecca341e1",
@@ -1761,7 +1870,11 @@
    "session": "盘后",
    "zh_summary": "新一代Roadster即将迎来首秀",
    "title_zh": "【视频】能实现短暂离地？特斯拉新一代Roadster将迎来首秀",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "053931b2211b",
@@ -1911,7 +2024,11 @@
    "session": "盘后",
    "zh_summary": "TSLA、RIVN三季度销量超预期",
    "title_zh": "LCID三季度销量下滑盘后持平，TSLA、RIVN超预期",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "9999290f4dc7",
@@ -1941,7 +2058,11 @@
    "session": "盘后",
    "zh_summary": "马斯克重返万亿美元富豪行列",
    "title_zh": "SpaceX与特斯拉股价上涨，马斯克重返万亿美元身家",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "1566731fa611",
@@ -1971,7 +2092,11 @@
    "session": "盘后",
    "zh_summary": "马斯克单日财富激增650亿美元重返万亿",
    "title_zh": "SpaceX、特斯拉股价飙升，马斯克财富重返万亿美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "5ecda18d323a",
@@ -2136,7 +2261,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉座椅背靠垫实用推荐",
    "title_zh": "特斯拉座椅背靠垫实用推荐",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 0.1
+   }
   },
   {
    "id": "897aea676f3a",
@@ -5618,6 +5747,23 @@
    }
   },
   {
+   "id": "120df93837d4",
+   "title": "2011年马斯克嘲笑比亚迪，如今特斯拉用其电池 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbW1UMGdiVFg1QURIdzJLQXNzU3lOTDM0RkdDTElvNTRVeEI5dGtOajBJb2wwYVp1UDQwWmZZYVVMWE1TdlVwY3V0dXN1QmlKZ3dGZUt3NGFaMkg2QWlLZmhuS3lMbFRLTmNoaWxSUkhzV09BMXo3cWRkNUVhRHZHdg",
+   "source": "手机新浪网",
+   "published_at": "2026-10-05T08:07:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-05T08:07:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbW1UMGdiVFg1QURIdzJLQXNzU3lOTDM0RkdDTElvNTRVeEI5dGtOajBJb2wwYVp1UDQwWmZZYVVMWE1TdlVwY3V0dXN1QmlKZ3dGZUt3NGFaMkg2QWlLZmhuS3lMbFRLTmNoaWxSUkhzV09BMXo3cWRkNUVhRHZHdg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "a27996840eea",
    "title": "Switzerland September 2026: Tesla Model Y breaks records at 7.7% share - Best Selling Cars Blog",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRURvNkRKSHRNSG8wOVhZZUl3TEFfVDBJVzdLandZU3l0NEpGUUhkbE1OM0VVb0Z6MmhWbExVMk9CU2VOZXJjWTFtZmR6WmRJUjFFU1MyWEVyUTh3ZUxsVnhvV1A3LW5wX0tVUU1DZV9WaXBhZV9LUy03MExSN2lzYmUtRTNxdGtQY3lnVFg1c056TFFSZktyZzRFd1ZGQ3dYOTd6eGdBMFd3Rnh3cWc",
@@ -8127,106 +8273,6 @@
    "zh_summary": "网友拍到特斯拉旅行车改装",
    "title_zh": "现身！特斯拉旅行版改装车",
    "sentiment": 0
-  },
-  {
-   "id": "08383b01bf33",
-   "title": "特斯拉中等IV - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVdpUUVXLXVaMGZfUV9lZVZ5X2tma00yYk5xWEdEOVVPcjRldVRvdENoVHR0MVVTckR1U29hZG4zNWlNc3NtQ1N5Ul9iNXJ5bEN1cU8ydTlFQXFQZE5qQ1d1dWdDNGVRa091T18zeEtnbXZseDNlV2FQQ1NycFdYYQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-04T13:50:59+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-04T13:50:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVdpUUVXLXVaMGZfUV9lZVZ5X2tma00yYk5xWEdEOVVPcjRldVRvdENoVHR0MVVTckR1U29hZG4zNWlNc3NtQ1N5Ul9iNXJ5bEN1cU8ydTlFQXFQZE5qQ1d1dWdDNGVRa091T18zeEtnbXZseDNlV2FQQ1NycFdYYQ"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-04T13:50:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVdpUUVXLXVaMGZfUV9lZVZ5X2tma00yYk5xWEdEOVVPcjRldVRvdENoVHR0MVVTckR1U29hZG4zNWlNc3NtQ1N5Ul9iNXJ5bEN1cU8ydTlFQXFQZE5qQ1d1dWdDNGVRa091T18zeEtnbXZseDNlV2FQQ1NycFdYYQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉期权隐含波动率中等",
-   "title_zh": "特斯拉中等IV - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "00477383dfc1",
-   "title": "2026年Q3电动车交付榜：特斯拉超48.6万辆，Model 3/Y仍是主力 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Mnc1aGFoMk1oaUdPTE42UkRLNU1BM1pwNVhyUnBCa2ZDUFJEOFBOMGxwMDZwNS1oSEctWnJ1SFROZWtvMmxSZmoxTEE4YmVBT18xV2FRbGtGUUk",
-   "source": "网通社",
-   "published_at": "2026-10-04T13:21:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-04T13:21:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Mnc1aGFoMk1oaUdPTE42UkRLNU1BM1pwNVhyUnBCa2ZDUFJEOFBOMGxwMDZwNS1oSEctWnJ1SFROZWtvMmxSZmoxTEE4YmVBT18xV2FRbGtGUUk"
-    },
-    {
-     "name": "auto.news18a.com",
-     "published_at": "2026-10-04T13:21:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Mnc1aGFoMk1oaUdPTE42UkRLNU1BM1pwNVhyUnBCa2ZDUFJEOFBOMGxwMDZwNS1oSEctWnJ1SFROZWtvMmxSZmoxTEE4YmVBT18xV2FRbGtGUUk"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉Q3交付超48.6万辆",
-   "title_zh": "2026年Q3电动车交付榜：特斯拉超48.6万辆，Model 3/Y仍是主力",
-   "sentiment": 1
-  },
-  {
-   "id": "2f7059739720",
-   "title": "TSLA Stock Rises Premarket: Tesla Gives Millions Of Older Cars A Major FSD Boost - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEZ5bTNicHMyWi1xb0VMUnB5R0thdjFZcTk4VFFGd1Y0REgzT2lISDQ0YWVJY2lmdk5sVjRkdXVWZUl4WUs0cXhqZnVFWXRqZWd0NEhaMDV4cm5aVEZpMmlNU2xEQktDcW1yRWhpWmQ0c3hncEtVajE1Y2RBM2RadWdVckxXTzJHSzR1TDlKYXJNMXQ1dEV5Mngtcm9fR09XZGFMTVZjQQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-04T13:09:30+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-04T13:09:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEZ5bTNicHMyWi1xb0VMUnB5R0thdjFZcTk4VFFGd1Y0REgzT2lISDQ0YWVJY2lmdk5sVjRkdXVWZUl4WUs0cXhqZnVFWXRqZWd0NEhaMDV4cm5aVEZpMmlNU2xEQktDcW1yRWhpWmQ0c3hncEtVajE1Y2RBM2RadWdVckxXTzJHSzR1TDlKYXJNMXQ1dEV5Mngtcm9fR09XZGFMTVZjQQ"
-    },
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-04T13:09:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEZ5bTNicHMyWi1xb0VMUnB5R0thdjFZcTk4VFFGd1Y0REgzT2lISDQ0YWVJY2lmdk5sVjRkdXVWZUl4WUs0cXhqZnVFWXRqZWd0NEhaMDV4cm5aVEZpMmlNU2xEQktDcW1yRWhpWmQ0c3hncEtVajE1Y2RBM2RadWdVckxXTzJHSzR1TDlKYXJNMXQ1dEV5Mngtcm9fR09XZGFMTVZjQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉为数百万旧车推送FSD重大升级",
-   "title_zh": "TSLA盘前上涨：特斯拉为数百万旧车推送FSD重大升级",
-   "sentiment": 1
-  },
-  {
-   "id": "89bcaf54f9fa",
-   "title": "Tesla. SpaceX. Starlink. James Altucher Says the Experts Called All Three Dead, and They're Doing It Again - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSE5QYnE2NkUwckcwRkNxRE41T0FQTUt0c2xHaEg4M0hnWGxMSUVqb1lNTm1ONDBWZ0xFcjBGNWFuaUVNZzV6Wi1kc05BcjdiMXF4aEhHUUs2aE8xNjYzMm84Y2JXUXBrVlBlN3VWUXZrdU1KZ2dOTmVjcmx0UDRFZEtKMWRtZXlhTDBwMUFR",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-04T13:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-04T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSE5QYnE2NkUwckcwRkNxRE41T0FQTUt0c2xHaEg4M0hnWGxMSUVqb1lNTm1ONDBWZ0xFcjBGNWFuaUVNZzV6Wi1kc05BcjdiMXF4aEhHUUs2aE8xNjYzMm84Y2JXUXBrVlBlN3VWUXZrdU1KZ2dOTmVjcmx0UDRFZEtKMWRtZXlhTDBwMUFR"
-    },
-    {
-     "name": "uk.finance.yahoo.com",
-     "published_at": "2026-10-04T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSE5QYnE2NkUwckcwRkNxRE41T0FQTUt0c2xHaEg4M0hnWGxMSUVqb1lNTm1ONDBWZ0xFcjBGNWFuaUVNZzV6Wi1kc05BcjdiMXF4aEhHUUs2aE8xNjYzMm84Y2JXUXBrVlBlN3VWUXZrdU1KZ2dOTmVjcmx0UDRFZEtKMWRtZXlhTDBwMUFR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "专家曾三次唱衰特斯拉等公司",
-   "title_zh": "奥特彻：专家曾三次唱衰特斯拉等公司",
-   "sentiment": 1
   }
  ]
 }
