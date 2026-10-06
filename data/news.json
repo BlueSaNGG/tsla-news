@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T17:07:33.392877+00:00",
+ "updated_at": "2026-10-06T17:22:40.220933+00:00",
  "market": {
-  "price": 380.89,
-  "change_pct": 0.57,
+  "price": 380.31,
+  "change_pct": 0.42,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.0%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（77条已评分）"
+     "note": "今日新闻情绪 +0.16（80条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.89 vs 20日均线 $366.73"
+     "note": "现价 $380.31 vs 20日均线 $366.71"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.0,
-   "ma20": 366.73,
-   "as_of": "2026-10-06T17:07:33.379099+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 366.71,
+   "as_of": "2026-10-06T17:22:40.207266+00:00"
   },
-  "pe_ttm": 105.3,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 77
+   "avg": 0.16,
+   "count": 80
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "22dfd462f233",
+   "title": "Tesla adds home backup power for Model 3 and Model Y — Electrek - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWUybGtfZlFrNGhxSjlGU3ZwVWxaNnQtazZFR2tNejRpNVNGamR4Vy1QRm5DQ1FzMkI4SGp2Q0hYNWtPaUlYNmp5QUE3SzVaMEttSEM5Vm8zRjlYcXhoWkhMMV91SkJwQnJZclpGZ252YWlpNlFqQUx4MV9qMDEwMWhaT0dmY3RnMUJ6Vl9MTnBBaTVSajNlNHplRDBNVXZkWlE",
+   "source": "UA.NEWS",
+   "published_at": "2026-10-06T17:14:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "UA.NEWS",
+     "published_at": "2026-10-06T17:14:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWUybGtfZlFrNGhxSjlGU3ZwVWxaNnQtazZFR2tNejRpNVNGamR4Vy1QRm5DQ1FzMkI4SGp2Q0hYNWtPaUlYNmp5QUE3SzVaMEttSEM5Vm8zRjlYcXhoWkhMMV91SkJwQnJZclpGZ252YWlpNlFqQUx4MV9qMDEwMWhaT0dmY3RnMUJ6Vl9MTnBBaTVSajNlNHplRDBNVXZkWlE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "36f91853cea0",
+   "title": "Tesla will show off the Cybercab at the Paris Motor Show ahead of a potential Europe launch (TSLA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjYtZ1FuMVM3b2Z1Z1JkcktCMTZ4TW4zZzZCbUl2ckQ1LV9FOFpYSnZfUlBoQWp1QmV4SGgtTGtIZGo2T1BWckZ3NVRnbDB3eVgwb3dVWEJ0Y0lQTktYRFEwZi1FS1k5T3pEQVQ0ZnJpTzNHZVVlbFhQZ3Y1eTFnMEVHRDN1Y193VHFBNmpRVVRnWGMxTWdyNzlETkZCV1NjM1g1TTBmWU9Rd0J6TlluZFJhYy1KTXc0UFRfUVFLcFd1Z0hGZll2eQ",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-06T17:11:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-06T17:11:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjYtZ1FuMVM3b2Z1Z1JkcktCMTZ4TW4zZzZCbUl2ckQ1LV9FOFpYSnZfUlBoQWp1QmV4SGgtTGtIZGo2T1BWckZ3NVRnbDB3eVgwb3dVWEJ0Y0lQTktYRFEwZi1FS1k5T3pEQVQ0ZnJpTzNHZVVlbFhQZ3Y1eTFnMEVHRDN1Y193VHFBNmpRVVRnWGMxTWdyNzlETkZCV1NjM1g1TTBmWU9Rd0J6TlluZFJhYy1KTXc0UFRfUVFLcFd1Z0hGZll2eQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "ef15076af1cb",
    "title": "Tesla Model 3 and Model Y can finally power your home, years after rivals - Electrek",
@@ -2071,6 +2105,23 @@
    "zh_summary": "2026款Model Y怎么选导购",
    "title_zh": "2026款特斯拉Model Y到底怎么选？",
    "sentiment": 0
+  },
+  {
+   "id": "f7ebe333e272",
+   "title": "Basic feature scrapped by Tesla to save money - Drive",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ldXJ1NE9UbUdwRUhXNUh6S1Azb0FJbkdHVWNzTjdMd1hkYTRkemY3R24xVEdwdjVab0dseDZjZWQ1TWJRakRoX3lUdnF3cXpLekFOc0dXYklFYzhNNmdqaTZDa3d1dWdlY2hTcEFndTN4ZmMzTUVTOA",
+   "source": "Drive",
+   "published_at": "2026-10-06T05:57:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive",
+     "published_at": "2026-10-06T05:57:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ldXJ1NE9UbUdwRUhXNUh6S1Azb0FJbkdHVWNzTjdMd1hkYTRkemY3R24xVEdwdjVab0dseDZjZWQ1TWJRakRoX3lUdnF3cXpLekFOc0dXYklFYzhNNmdqaTZDa3d1dWdlY2hTcEFndTN4ZmMzTUVTOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "7f4a6c0d8aef",
@@ -8279,101 +8330,6 @@
     "pct": 2.99,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "87daae1fbf68",
-   "title": "Tesla Is on Pace for Its First Annual Delivery Increase Since 2023. Is the Stock a Buy? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0NmUkFmUHF6OElWek96QWZaUy1rM1ktQTVyeHlSc3psZnd4OC1SWThBcm11YjdDMHVNeTA0d1BJaHlRMExPVGw4Y2I2aDNJYzNjaUxZbl9vM3F3SDVIVHdYWVlRUTJZa2J4WmJNTmJpVlEwWXlQaldjWGdVS1RvNHlrajhIWDZqZDFPZkVPV0llMmZNWVBjblBHN1lNMVFmZVRNdlhIUHBEeWsxYmdrMXk3UENlLXdwSzFEQ1BCbVc4UjJDRDRN",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-05T00:17:01+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-05T00:17:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0NmUkFmUHF6OElWek96QWZaUy1rM1ktQTVyeHlSc3psZnd4OC1SWThBcm11YjdDMHVNeTA0d1BJaHlRMExPVGw4Y2I2aDNJYzNjaUxZbl9vM3F3SDVIVHdYWVlRUTJZa2J4WmJNTmJpVlEwWXlQaldjWGdVS1RvNHlrajhIWDZqZDFPZkVPV0llMmZNWVBjblBHN1lNMVFmZVRNdlhIUHBEeWsxYmdrMXk3UENlLXdwSzFEQ1BCbVc4UjJDRDRN"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-05T00:35:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLVBGOU9WeVcyMUpZYk1UVGlGV3FiX0F5X280RGNpMkNVUV9jLUljMlhCR0ZrZ2tnOFdPY0RmV0dwSlRLLWgxVk1pSzJZY1lsdUM3b1RpMEdCV3c5blhlWG93V3U2LTNxU0RLcFAteWJvN3hadzVoVEx6cHNjbUp2NHRaaDFkTEpfNWZSM0hycjc3TXBGc05PUXZVUzBTemo0NV9XRDh3UUZTVmYxMFlrQm5kRW1vWHdoampxQUprX2Q3WVJSMlF5NjVzS2duaHItRDIxbjB4R002aDlKb0s1MllCaFpNTV9DOW9HdHRTWkNGZ0FIMGxZdW1KczVERFRuNkE"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T00:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeld0M0ZtWXRVd0dnYnJmOVZyVUV1aEVOQ3RyOWhoTGdNdUs2VFBPbVZVaUR4eHB5RV90RzZkVGtNU3JLWGdQb1BXcURPSVFmc3Iwcm1wX04ydWxIcDktWGNDWVl2WVJhTVk0Rkpndl9WZElJMGhwdmhPX1BiVlpNV0JqT2xpWmdEeTJqLVBwaTI5LV82QjVKeEIxUHVvQQ"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-05T00:17:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0NmUkFmUHF6OElWek96QWZaUy1rM1ktQTVyeHlSc3psZnd4OC1SWThBcm11YjdDMHVNeTA0d1BJaHlRMExPVGw4Y2I2aDNJYzNjaUxZbl9vM3F3SDVIVHdYWVlRUTJZa2J4WmJNTmJpVlEwWXlQaldjWGdVS1RvNHlrajhIWDZqZDFPZkVPV0llMmZNWVBjblBHN1lNMVFmZVRNdlhIUHBEeWsxYmdrMXk3UENlLXdwSzFEQ1BCbVc4UjJDRDRN"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T00:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeld0M0ZtWXRVd0dnYnJmOVZyVUV1aEVOQ3RyOWhoTGdNdUs2VFBPbVZVaUR4eHB5RV90RzZkVGtNU3JLWGdQb1BXcURPSVFmc3Iwcm1wX04ydWxIcDktWGNDWVl2WVJhTVk0Rkpndl9WZElJMGhwdmhPX1BiVlpNV0JqT2xpWmdEeTJqLVBwaTI5LV82QjVKeEIxUHVvQQ"
-    },
-    {
-     "name": "theglobeandmail.com",
-     "published_at": "2026-10-05T00:56:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdmN4RXdfTnRpd2JGbUczUEtkSTZiSDJTOHV5clZsVXQ0M2pJSmtoam1hRXd6OVBVUkRrYW16NkJmRTNJc1NOSmJ1czA5RnVWYzBoMXA1SWI5UXZRVWFMeFdzVll5R0ZrMjdSOGFIOW1GZGNzbDZPbHhDTXNCbkUzUmJyYVNLUTRHd1lYTXFEazNmN3h0anFVT2o4NXh3NEtCcWpBQk11bVZWeFZqc25jbDdIQnJUMDdoekxWcTViR3dkWktvb2xkZFF3UDFhMlp5TjIyaGotYmxUR2EwLUxwcFctLTZTQzNZbU1aTzZCMUZxUlIxN0VXZ2RqU1ZMbFE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "特斯拉有望实现2023年来首次交付年增长",
-   "title_zh": "特斯拉交付量有望实现2023年来首次年增长",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "b181d04e44ee",
-   "title": "Drive Tesla Download: Top Stories for September 28-October 4 - driveteslacanada.ca",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYllyUUxJTktWdnFqSWo0c3dJM2FmYzdmQWZOVnFoaldEYTJaTjJWQnlrWkFqOThud0hpNEY3ek5KUy1kX1hUZFhjR0lwTjB0ZDNuUFBSbVdPaHVzaVdYV2xzRmxBTzh0WlFsSUZmQzltdGJfZHQ5SDlFWlpLYVJTNGd4YmJDREJoMlQyZHRSYldMbjA",
-   "source": "driveteslacanada.ca",
-   "published_at": "2026-10-04T23:32:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "driveteslacanada.ca",
-     "published_at": "2026-10-04T23:32:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYllyUUxJTktWdnFqSWo0c3dJM2FmYzdmQWZOVnFoaldEYTJaTjJWQnlrWkFqOThud0hpNEY3ek5KUy1kX1hUZFhjR0lwTjB0ZDNuUFBSbVdPaHVzaVdYV2xzRmxBTzh0WlFsSUZmQzltdGJfZHQ5SDlFWlpLYVJTNGd4YmJDREJoMlQyZHRSYldMbjA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "9月28日至10月4日特斯拉一周要闻回顾",
-   "title_zh": "Drive Tesla每周要闻回顾（9月28日-10月4日）",
-   "sentiment": 0
-  },
-  {
-   "id": "e607e7f0cd45",
-   "title": "特斯拉发布紧急驶离功能，不拔枪可开走但修费2.5万美元 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUtDSGNhZEpDb2pxeEU5R1E2OGpHaE14Ykx6R09oS0pPbHgzTnhVUjdSQ3hoOXI1SHlGb3ZiSmprdlFQQzVjLWwxSUFSQzZKdnVjMmJTeWtMR0YzWFBvZWY3Y0tZN0E3TWwyWDZSVC1iWlZVVGdWRXlDQ0F1WjVPVw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T23:16:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T23:16:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUtDSGNhZEpDb2pxeEU5R1E2OGpHaE14Ykx6R09oS0pPbHgzTnhVUjdSQ3hoOXI1SHlGb3ZiSmprdlFQQzVjLWwxSUFSQzZKdnVjMmJTeWtMR0YzWFBvZWY3Y0tZN0E3TWwyWDZSVC1iWlZVVGdWRXlDQ0F1WjVPVw"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-04T23:16:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUtDSGNhZEpDb2pxeEU5R1E2OGpHaE14Ykx6R09oS0pPbHgzTnhVUjdSQ3hoOXI1SHlGb3ZiSmprdlFQQzVjLWwxSUFSQzZKdnVjMmJTeWtMR0YzWFBvZWY3Y0tZN0E3TWwyWDZSVC1iWlZVVGdWRXlDQ0F1WjVPVw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉紧急驶离功能：不拔枪可开走，修费2.5万美元",
-   "title_zh": "特斯拉发布紧急驶离功能，不拔枪可开走但修费2.5万美元 - 手机新浪网",
-   "sentiment": 1
   }
  ]
 }
