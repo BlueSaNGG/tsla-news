@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T13:37:32.526906+00:00",
+ "updated_at": "2026-10-06T13:52:28.669942+00:00",
  "market": {
-  "price": 382.13,
-  "change_pct": 0.9,
+  "price": 379.76,
+  "change_pct": 0.27,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -10,28 +10,28 @@
    "days_left": 15
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 44% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
-     "score": -1,
-     "note": "目标价中位数 $400（13家），隐含空间 +4.7%"
+     "score": 0,
+     "note": "目标价中位数 $400（13家），隐含空间 +5.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（44条已评分）"
+     "note": "今日新闻情绪 +0.17（48条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $382.13 vs 20日均线 $366.79"
+     "note": "现价 $379.76 vs 20日均线 $366.68"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 44,
+   "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 13,
-   "implied_upside_pct": 4.7,
-   "ma20": 366.79,
-   "as_of": "2026-10-06T13:37:32.514491+00:00"
+   "implied_upside_pct": 5.3,
+   "ma20": 366.68,
+   "as_of": "2026-10-06T13:52:28.663636+00:00"
   },
-  "pe_ttm": 105.7,
+  "pe_ttm": 105.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 44
+   "avg": 0.17,
+   "count": 48
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6937f570f718",
+   "title": "Tesla Robotaxis Hit The Brakes At 11 P.M. Over One Unusual Nighttime Problem - MotorBiscuit",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFmUFZGS0pQMUkwNGpicEZxLWh3S3hKWkFWajFWcDAxMFlfT240TkJ1Q0NxSzV6dVFWYWZNcmRVNFJhN2NzTFN5YnpvRHpDWEFfTmdFRGRjdko4eElCZjdvZ1VVM2FJajRmNVNxWkZVMlAxS1RWdnRpTkNBQmxhWUxJUWQxb1JGQ25PX0ZISEZtNVA2SmVaQWdKc0RXZTE0c0Z4WjRvcWM",
+   "source": "MotorBiscuit",
+   "published_at": "2026-10-06T13:50:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MotorBiscuit",
+     "published_at": "2026-10-06T13:50:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFmUFZGS0pQMUkwNGpicEZxLWh3S3hKWkFWajFWcDAxMFlfT240TkJ1Q0NxSzV6dVFWYWZNcmRVNFJhN2NzTFN5YnpvRHpDWEFfTmdFRGRjdko4eElCZjdvZ1VVM2FJajRmNVNxWkZVMlAxS1RWdnRpTkNBQmxhWUxJUWQxb1JGQ25PX0ZISEZtNVA2SmVaQWdKc0RXZTE0c0Z4WjRvcWM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "81a3aa709349",
+   "title": "特斯拉FSD遇到障碍物真的会避让吗？3个版本实测告诉你答案+FAQ - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN",
+   "source": "手机新浪网",
+   "published_at": "2026-10-06T13:38:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-06T13:38:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "174619c13435",
    "title": "中国大力士黄永钰纯徒手硬拉特斯拉，车轮移动离地 - 手机新浪网",
@@ -83,8 +117,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "中国大力士黄永钰纯徒手硬拉特斯拉，车轮移动离地 - 手机新浪网",
    "zh_summary": "中国大力士徒手拉动特斯拉",
+   "title_zh": "中国大力士黄永钰纯徒手硬拉特斯拉，车轮移动离地 - 手机新浪网",
    "sentiment": 0
   },
   {
@@ -103,8 +137,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "德国交通部长支持特斯拉FSD在欧盟落地",
    "zh_summary": "德国部长支持特斯拉FSD入欧",
+   "title_zh": "德国交通部长支持特斯拉FSD在欧盟落地",
    "sentiment": 1
   },
   {
@@ -148,6 +182,23 @@
    "sentiment": 0
   },
   {
+   "id": "cd527f3ee4b4",
+   "title": "Tesla And 2 More High Growth Insider Stocks To Watch - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWtKNUdQMTM2Zkw1enFxY3F1b1RtckZNdFpYSjU0eXFTS0dvN0licE92ZHhNMUFtOXZyRGNJa21RUU1aSFV0dWpCaUhDMVNTcUdPa3NLVEt1bWdJYXJtZS1ucWZnZmh5Y25zUjFwMUtxSHVSdWt5Q3p4VlNLbnlteTQzd3NSOGN6OTkyOHU2dmhlc1E",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-06T13:08:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T13:08:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWtKNUdQMTM2Zkw1enFxY3F1b1RtckZNdFpYSjU0eXFTS0dvN0licE92ZHhNMUFtOXZyRGNJa21RUU1aSFV0dWpCaUhDMVNTcUdPa3NLVEt1bWdJYXJtZS1ucWZnZmh5Y25zUjFwMUtxSHVSdWt5Q3p4VlNLbnlteTQzd3NSOGN6OTkyOHU2dmhlc1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "ca1840258afe",
    "title": "Tesla and SpaceX Are Surging Together. What It Says About a Future Merger. - Barron's",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU05HQmhJRDBXMFFxVl8zNVJ0aDkyeUgyOUlYU2JhN3F2ekN4SkNZdDZMaUtwWVVOT2d2V055R2Yyc1huenVlUElDXzNVUW5DSGgzcjJXdlFOQVBVMS1EcE9oZU9BWC1aMGVtMlB1bGRSTU9DX0tUNEdOeWdlNFJMdVMzZ0tDRmE3Wm53",
@@ -163,8 +214,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉和SpaceX齐涨，合并可能性引猜测",
    "zh_summary": "特斯拉SpaceX双涨引合并猜想",
+   "title_zh": "特斯拉和SpaceX齐涨，合并可能性引猜测",
    "sentiment": 1
   },
   {
@@ -823,6 +874,23 @@
    "sentiment": -1
   },
   {
+   "id": "79f3d4337934",
+   "title": "Why Tesla Roadster Event Was Delayed—and What It Means for the Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c",
+   "source": "Barron's",
+   "published_at": "2026-10-06T09:22:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T09:22:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0ZWeGhBbzhwRlpEWUd3QlNvVzJyUkFkckVQTFp1eE9tZ2xtbXVWT2VsaGZaTzdQM1RQa3M1eGlPYzRXY0pXRVUyYXdRZW9GY1JUWk5EMlM3YlM5NHJORHVqbHJaZHhnMjhGeWZaMXk1WU1hMjNFSDFJWmdGSF9keVprTktqdjR6Y2JVblQ4eGxGaHlzY3c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "228b3a0e184e",
    "title": "Here's How Tesla Model Y Maintenance Costs Really Look In 2026 - CarBuzz",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wdmRpdERzR0ttQ3ZNS3JfR3FGaXNSRExycGkzUWtPY3lSSW9NUlVPMzdpeFJsYVVoUDFJUXlnTHlaYWh0eGhucE1QdE9XTXFHSERLZEQ1WE5rYURhODNoZTJSLVA1WE4tQzBsZmg1bnNtd1lvVWx0cEdvRWs",
@@ -1082,8 +1150,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "特斯拉Model 3焕新 屏幕变大支持外放电 - 汽车之家",
    "zh_summary": "特斯拉Model 3焕新支持外放电",
+   "title_zh": "特斯拉Model 3焕新 屏幕变大支持外放电 - 汽车之家",
    "sentiment": 1
   },
   {
@@ -5774,8 +5842,8 @@
    ],
    "category": "马斯克",
    "session": "盘前",
-   "title_zh": "2011年马斯克嘲笑比亚迪，如今特斯拉用其电池 - 手机新浪网",
    "zh_summary": "特斯拉采用比亚迪电池引热议",
+   "title_zh": "2011年马斯克嘲笑比亚迪，如今特斯拉用其电池 - 手机新浪网",
    "sentiment": 0
   },
   {
@@ -7135,31 +7203,6 @@
    "sentiment": -1
   },
   {
-   "id": "e5df2ded3af9",
-   "title": "又跳票！特斯拉Roadster再度推迟 - chejiahao.autohome.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIRjdma2dDWVg4ZnczZlBSd0gxaXdFa3U5bTRZRThBN01CbkR2emFIdXFsb094eXVrWE1GTnlXNDhyX1VtTTYxRXQ1THhnemVhSkRLYmdHSWRnaEk",
-   "source": "chejiahao.autohome.com.cn",
-   "published_at": "2026-10-05T01:05:38+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T01:05:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIRjdma2dDWVg4ZnczZlBSd0gxaXdFa3U5bTRZRThBN01CbkR2emFIdXFsb094eXVrWE1GTnlXNDhyX1VtTTYxRXQ1THhnemVhSkRLYmdHSWRnaEk"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T01:05:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIRjdma2dDWVg4ZnczZlBSd0gxaXdFa3U5bTRZRThBN01CbkR2emFIdXFsb094eXVrWE1GTnlXNDhyX1VtTTYxRXQ1THhnemVhSkRLYmdHSWRnaEk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster再度推迟",
-   "title_zh": "又跳票！特斯拉Roadster再度推迟 - chejiahao.autohome.com.cn",
-   "sentiment": -1
-  },
-  {
    "id": "3c8a8ef1067e",
    "title": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus - BeInCrypto",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYTVkY1ViaGpCeG5ieVM1aGdNS0VHN2ota2dFZ2lfZ3JqMVFNQ3NXdFJ2ZEFJR3FFeDVqeEFQU0JPRG9NQ1pRRmpLNW83UEo4TlhMQ2pOY3JTZC00eXg5aDN1VVRRUQ",
@@ -8184,110 +8227,6 @@
     "pct": 0.6,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "cf064a56ed75",
-   "title": "Rivian R2 vs. Tesla Model Y, an Edmunds electric SUV showdown - Orange County Register",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oTWtqVXRWektQOHR3SnJ2SXZ5WmZXY1lBZExZTU04VS0xVWRWQkRoSzNxbU8wZUZJSXAtLTZaSm9wbTJtY0NncnY3UzFkai1GMHFWamg4RE1jTzRuUlQ4Q2pPN21IV2RMOG5XVEU3SWdNQzl6M04zME1R",
-   "source": "Orange County Register",
-   "published_at": "2026-10-04T14:00:43+00:00",
-   "outlets_count": 7,
-   "outlets": [
-    {
-     "name": "Orange County Register",
-     "published_at": "2026-10-04T14:00:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oTWtqVXRWektQOHR3SnJ2SXZ5WmZXY1lBZExZTU04VS0xVWRWQkRoSzNxbU8wZUZJSXAtLTZaSm9wbTJtY0NncnY3UzFkai1GMHFWamg4RE1jTzRuUlQ4Q2pPN21IV2RMOG5XVEU3SWdNQzl6M04zME1R"
-    },
-    {
-     "name": "Baltimore Sun",
-     "published_at": "2026-10-04T14:00:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10TnF0MVJoMjRNUjZjczJvLUt6UzdZb1JBS09VNGQtTlkzUGVZTU1hZ1NsMDhnaE1SY2pSNV81X3R0T1EzeXdhaXd3RmgxZDRXNDd0V2cxdWZQMnJDQXhCLUdKaTM1U3JkOTE4RkFFT2l3TDFBZ1FoWU5wZGg"
-    },
-    {
-     "name": "Republican Herald",
-     "published_at": "2026-10-04T14:02:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEhMTjBmNW04emREaGdCZExaZjI5TjRaNTBNN3EtaEdIVnY1N1VmSzN0UzZRT0tKb2hINUh1aXBrUGVfU3BabTY3YzNIcVYzcy1XR3RfLUJiQ1BkSTEzN19QeFdPN25vWlZRYTM2QUNPU0lKYlRtcG5uNHlUZl9jVmJ3"
-    },
-    {
-     "name": "ocregister.com",
-     "published_at": "2026-10-04T14:00:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oTWtqVXRWektQOHR3SnJ2SXZ5WmZXY1lBZExZTU04VS0xVWRWQkRoSzNxbU8wZUZJSXAtLTZaSm9wbTJtY0NncnY3UzFkai1GMHFWamg4RE1jTzRuUlQ4Q2pPN21IV2RMOG5XVEU3SWdNQzl6M04zME1R"
-    },
-    {
-     "name": "baltimoresun.com",
-     "published_at": "2026-10-04T17:32:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10TnF0MVJoMjRNUjZjczJvLUt6UzdZb1JBS09VNGQtTlkzUGVZTU1hZ1NsMDhnaE1SY2pSNV81X3R0T1EzeXdhaXd3RmgxZDRXNDd0V2cxdWZQMnJDQXhCLUdKaTM1U3JkOTE4RkFFT2l3TDFBZ1FoWU5wZGg"
-    },
-    {
-     "name": "Boston Herald",
-     "published_at": "2026-10-04T17:49:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSXNLUVFhb1ZMQlB5QVI4OTlkQ3M4Y2pFcHpHa09EUDZWU0hvUlh0QlRUekoxYURMektrVDBwejFsendXdEdrUU5jdGotQ0gyMG1Db0tjU1lUYXUtdHlkWlJ5d3lOemhZaEZyeGNrd2tZOHp6SHZpelJFa3Q"
-    },
-    {
-     "name": "Orlando Sentinel",
-     "published_at": "2026-10-04T19:52:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWJ2OG45VV9nMV9KcWl5VHRRb1BTZWZNU2pfMG9IWFc0VmNmNmJNbkxFdnM1WFI1TmRXVDFncGo4Y2pDbG8wakpyNmFubzY5SW9WUUstb1BlWDdCQ2xiWWpkTFgyaHZWM1NDNG95LThqX1g4NklpMjlpWHJqaEZuWQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Rivian R2对决特斯拉Model Y",
-   "title_zh": "Edmunds对比Rivian R2与特斯拉Model Y",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.6,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "6233f40a08b3",
-   "title": "Boeing Avoids Strike As Musk Takes Aim At Delta, Tesla Delays Roadster Reveal and Ford Sales Slide: This - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXJmVzNCYzRXNGpjUGczY0FPZ2kyMmlmVUR1V0hmRHF3RTdnLU1uVTdPbk9EMm9PNE11VWNlYmoyS3AxcnlTTnowNVZ6aWF0azQ5SlhUaHk0eld4TFlPb01nSnZLMGFoRUp2X0sycDJlTGRDcGhJNDNJQjM2TlBKNm1lLXhuTTd6Qmp2d2R4NWdPQUNpUDUxZXhZT2xuNlVKOGZiX2c3VkFJUlZ2LXJJck5MdEt6cFNva0Fac3ZkUkxjVFpvS2hvdlVGZ2lGM29oY3ZOLXF3OUQzX1BhTzJTb1lLR2xaNUJlVjREc2NNVzN0SU8xX3NpRVh1S3U4QTdTa0E",
-   "source": "Benzinga",
-   "published_at": "2026-10-04T14:00:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-04T14:00:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXJmVzNCYzRXNGpjUGczY0FPZ2kyMmlmVUR1V0hmRHF3RTdnLU1uVTdPbk9EMm9PNE11VWNlYmoyS3AxcnlTTnowNVZ6aWF0azQ5SlhUaHk0eld4TFlPb01nSnZLMGFoRUp2X0sycDJlTGRDcGhJNDNJQjM2TlBKNm1lLXhuTTd6Qmp2d2R4NWdPQUNpUDUxZXhZT2xuNlVKOGZiX2c3VkFJUlZ2LXJJck5MdEt6cFNva0Fac3ZkUkxjVFpvS2hvdlVGZ2lGM29oY3ZOLXF3OUQzX1BhTzJTb1lLR2xaNUJlVjREc2NNVzN0SU8xX3NpRVh1S3U4QTdTa0E"
-    },
-    {
-     "name": "benzinga.com",
-     "published_at": "2026-10-04T14:00:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXJmVzNCYzRXNGpjUGczY0FPZ2kyMmlmVUR1V0hmRHF3RTdnLU1uVTdPbk9EMm9PNE11VWNlYmoyS3AxcnlTTnowNVZ6aWF0azQ5SlhUaHk0eld4TFlPb01nSnZLMGFoRUp2X0sycDJlTGRDcGhJNDNJQjM2TlBKNm1lLXhuTTd6Qmp2d2R4NWdPQUNpUDUxZXhZT2xuNlVKOGZiX2c3VkFJUlZ2LXJJck5MdEt6cFNva0Fac3ZkUkxjVFpvS2hvdlVGZ2lGM29oY3ZOLXF3OUQzX1BhTzJTb1lLR2xaNUJlVjREc2NNVzN0SU8xX3NpRVh1S3U4QTdTa0E"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉推迟Roadster发布，福特销量下滑",
-   "title_zh": "波音避免罢工，马斯克瞄准达美，特斯拉推迟Roadster发布，福特销量下滑",
-   "sentiment": -1
-  },
-  {
-   "id": "105d9cba0fd4",
-   "title": "Spotted: Tesla Wagon Queen Family Truckster! - journal.classiccars.com",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0FUY2F2dFNVQzdBaTduS2s1c3lYTmZHR1QybVU0YUxVTi1DVGY5NUJqb1ZvNmpkX2x1dzNVeDFWLXQ4TjBLX2x1cGdXOEdQWVMxUXBFSXVkSEJ6ekNVM05zX3ZWQ3E5NjhnaFVodS1Hc0xldDk3anVSYlhrbGVxcG5JVmxIMi1WWVRWc2NlVQ",
-   "source": "journal.classiccars.com",
-   "published_at": "2026-10-04T14:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "journal.classiccars.com",
-     "published_at": "2026-10-04T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0FUY2F2dFNVQzdBaTduS2s1c3lYTmZHR1QybVU0YUxVTi1DVGY5NUJqb1ZvNmpkX2x1dzNVeDFWLXQ4TjBLX2x1cGdXOEdQWVMxUXBFSXVkSEJ6ekNVM05zX3ZWQ3E5NjhnaFVodS1Hc0xldDk3anVSYlhrbGVxcG5JVmxIMi1WWVRWc2NlVQ"
-    },
-    {
-     "name": "The ClassicCars.com Journal",
-     "published_at": "2026-10-04T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0FUY2F2dFNVQzdBaTduS2s1c3lYTmZHR1QybVU0YUxVTi1DVGY5NUJqb1ZvNmpkX2x1dzNVeDFWLXQ4TjBLX2x1cGdXOEdQWVMxUXBFSXVkSEJ6ekNVM05zX3ZWQ3E5NjhnaFVodS1Hc0xldDk3anVSYlhrbGVxcG5JVmxIMi1WWVRWc2NlVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "网友拍到特斯拉旅行车改装",
-   "title_zh": "现身！特斯拉旅行版改装车",
-   "sentiment": 0
   }
  ]
 }
