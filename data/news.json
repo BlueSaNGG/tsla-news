@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T10:37:27.944832+00:00",
+ "updated_at": "2026-10-06T10:52:31.985352+00:00",
  "market": {
   "price": 378.73,
   "change_pct": 2.2,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（25条已评分）"
+     "note": "今日新闻情绪 +0.25（28条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 13,
    "implied_upside_pct": 5.6,
    "ma20": 366.1,
-   "as_of": "2026-10-06T10:37:27.937194+00:00"
+   "as_of": "2026-10-06T10:52:31.969337+00:00"
   },
   "pe_ttm": 104.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 25
+   "avg": 0.25,
+   "count": 28
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0c68b7cb30f8",
+   "title": "Tesla's self-driving system misreads speed limits, safety group says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdlR2dW9TS3F2eTRDSnJMVVA4SE5MVlZnWk56WWc1TUtTMGRla0k3Y3J0Y05ldGNjWEczQ2ZkbHIxUUFQUmcxdTBTZXQtSlFTTWd2enB6RFJSTjVMX3pqZi1tTzZQUHM",
+   "source": "Reuters",
+   "published_at": "2026-10-06T10:38:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-06T10:38:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdlR2dW9TS3F2eTRDSnJMVVA4SE5MVlZnWk56WWc1TUtTMGRla0k3Y3J0Y05ldGNjWEczQ2ZkbHIxUUFQUmcxdTBTZXQtSlFTTWd2enB6RFJSTjVMX3pqZi1tTzZQUHM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "1583be150eec",
    "title": "Tesla Korea Registrations Rise 36% in September on Six-Seat Model Y L - eletric-vehicles.com",
@@ -93,7 +110,7 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXpMVDZ2QTlYcmVneU5xWC1CMHdCTW9FVS1haE1rZkdDMVNGLUJMbWwtbDloLUJYem1ONVlWNE10ZTBKbFFtSmpIbVBPbVd3NkloaDZhYTltV3ByTVNvT3oxeGIwSk9sejk4WDlRQnNkVDdUVFNKb3JGbEtTa2dyUUZaMHh3X2pFdjlnY21LZF9IZw",
    "source": "fool.com",
    "published_at": "2026-10-06T10:20:48+00:00",
-   "outlets_count": 2,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "fool.com",
@@ -104,10 +121,21 @@
      "name": "The Motley Fool",
      "published_at": "2026-10-06T10:20:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXpMVDZ2QTlYcmVneU5xWC1CMHdCTW9FVS1haE1rZkdDMVNGLUJMbWwtbDloLUJYem1ONVlWNE10ZTBKbFFtSmpIbVBPbVd3NkloaDZhYTltV3ByTVNvT3oxeGIwSk9sejk4WDlRQnNkVDdUVFNKb3JGbEtTa2dyUUZaMHh3X2pFdjlnY21LZF9IZw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T10:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZmhzU1JKSXY0ZEtwV2VtVTNQYmZsOGROWmdsNXU3a21EYmZSZmNzYVM0bXVQM3pZUEdMV1NHOWs3dGJucHRqN29DMEZWZURuS2tmQ0F0MTdRWWtoWGZLd1k0TEJyRmpoeFRTX0g5MjBYbDVzTjB5Y1l6QzlvMlFIa0Fra1dJMUVnUFFmemFoYVdaYWNWMWNubWZpMjVHSnQtS2VyNWFod0RRWUU"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-06T10:41:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYlV5d1RMd3RqMzFibmtoVHBXUVk0REsyTk5XT0FpY09kV1ZTV0tuUWxSZWFpWDVsZHdwSHR3cTNZaS1rUmt0UkVnSDZRZFhPWTVRVjdybVNRaDc0RVBUMEU2NkZaRHZFY0I4MjFCTGpOSDdOR3V4NzVHc0V1N2JyQzVUUDR4X3BVdHdmU3ZzRFRnZ09QalduQWJ5U2tTemZRejNCMDZ0Nzc3aFlDTXpBZ3V5V0hCX2lmbndYMTNXYnA1VW5VV3lWQjVlbW5EU3J4dnpVT1pKbFVkdnBfT2FDQVJxTG0"
     }
    ],
    "category": "交付量",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉交付回暖之际 对比SpaceX谁更值得投资",
    "title_zh": "特斯拉交付回暖 它比SpaceX股票更值得投资吗",
    "sentiment": 1
@@ -570,10 +598,15 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0U2dHVhOTUxMmVGM2RsWWc5V2QtMGdfS1I5SkVVcDNDaTRiX0FEUXBaSlc2NzZsUVdpemZKanowZWptSVdmakZiRHFZUEVvWUM3M2VNemQ5Tms2V0w4Rm5paWtNRkx6SWh2UFhOM3VjZEpLbkZCdXN3SXhFdXMxcEhiTFc",
    "source": "Motor1.com",
    "published_at": "2026-10-06T06:47:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Motor1.com",
+     "published_at": "2026-10-06T06:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0U2dHVhOTUxMmVGM2RsWWc5V2QtMGdfS1I5SkVVcDNDaTRiX0FEUXBaSlc2NzZsUVdpemZKanowZWptSVdmakZiRHFZUEVvWUM3M2VNemQ5Tms2V0w4Rm5paWtNRkx6SWh2UFhOM3VjZEpLbkZCdXN3SXhFdXMxcEhiTFc"
+    },
+    {
+     "name": "motor1.com",
      "published_at": "2026-10-06T06:47:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0U2dHVhOTUxMmVGM2RsWWc5V2QtMGdfS1I5SkVVcDNDaTRiX0FEUXBaSlc2NzZsUVdpemZKanowZWptSVdmakZiRHFZUEVvWUM3M2VNemQ5Tms2V0w4Rm5paWtNRkx6SWh2UFhOM3VjZEpLbkZCdXN3SXhFdXMxcEhiTFc"
     }
@@ -8210,31 +8243,6 @@
    "zh_summary": "马斯克回应Robotaxi夜间感知问题",
    "title_zh": "马斯克回应特斯拉Robotaxi夜间行驶挑战",
    "sentiment": -1
-  },
-  {
-   "id": "765727286792",
-   "title": "疯了？带FSD的特斯拉现在只要十多万就能拿下！#特斯拉# #model3# #fsd# #马斯克# ​ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDl3aVlRMzdaZ0x2RjVlMkZTSk9SYWVrcERJRmljS0xmUXRXMEtpb1ZVcGItSkdCVTM1RWlSbTRILVc4a2tpelJ5N1JyanU3TjBIbUROQ1FrNVFVWjlMcEMtYTFjdTFaNGlYM3hiZkluWml3bzVNZXhZSlZqTTlhWQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T08:37:59+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T08:37:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDl3aVlRMzdaZ0x2RjVlMkZTSk9SYWVrcERJRmljS0xmUXRXMEtpb1ZVcGItSkdCVTM1RWlSbTRILVc4a2tpelJ5N1JyanU3TjBIbUROQ1FrNVFVWjlMcEMtYTFjdTFaNGlYM3hiZkluWml3bzVNZXhZSlZqTTlhWQ"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-04T08:37:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDl3aVlRMzdaZ0x2RjVlMkZTSk9SYWVrcERJRmljS0xmUXRXMEtpb1ZVcGItSkdCVTM1RWlSbTRILVc4a2tpelJ5N1JyanU3TjBIbUROQ1FrNVFVWjlMcEMtYTFjdTFaNGlYM3hiZkluWml3bzVNZXhZSlZqTTlhWQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "带FSD的特斯拉约十多万元",
-   "title_zh": "疯了？带FSD的特斯拉现在只要十多万就能拿下！#特斯拉# #model3# #fsd# #马斯克# ​ - 手机新浪网",
-   "sentiment": 0
   }
  ]
 }
