@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T19:22:36.383618+00:00",
+ "updated_at": "2026-10-06T19:37:33.823555+00:00",
  "market": {
-  "price": 379.91,
-  "change_pct": 0.31,
+  "price": 380.52,
+  "change_pct": 0.47,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.3%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（94条已评分）"
+     "note": "今日新闻情绪 +0.20（95条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.91 vs 20日均线 $366.69"
+     "note": "现价 $380.52 vs 20日均线 $366.72"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.3,
-   "ma20": 366.69,
-   "as_of": "2026-10-06T19:22:36.371444+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 366.72,
+   "as_of": "2026-10-06T19:37:33.816158+00:00"
   },
-  "pe_ttm": 105.1,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 94
+   "avg": 0.2,
+   "count": 95
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c4b989bfefd3",
+   "title": "Tesla Powershare Home Backup Now Available for Model 3 and Model Y - News and Statistics - IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXVkb1BYOE5XSGJfcEp3MndYS0tCdUhFU0JNbWhIaU50aGFFY1FqZ1hBZHdmbV9SSy1Mbjl5djFLRXFTYTdKYVZOVEx2MDVmV3Vfd2pYZTFwVHBtNnNpR3M2Q0I3NVFLWDRHZDR3cDVrZFllVXpOdDRPS0l2WEhYVUlicUY",
+   "source": "IndexBox",
+   "published_at": "2026-10-06T19:20:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "IndexBox",
+     "published_at": "2026-10-06T19:20:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXVkb1BYOE5XSGJfcEp3MndYS0tCdUhFU0JNbWhIaU50aGFFY1FqZ1hBZHdmbV9SSy1Mbjl5djFLRXFTYTdKYVZOVEx2MDVmV3Vfd2pYZTFwVHBtNnNpR3M2Q0I3NVFLWDRHZDR3cDVrZFllVXpOdDRPS0l2WEhYVUlicUY"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "ed46cfb297ca",
    "title": "Tesla’s full EV lineup can now also provide home backup energy - Solar Power World",
@@ -83,8 +100,8 @@
    ],
    "category": "能源",
    "session": "盘中",
-   "title_zh": "特斯拉全系电动车现可提供家庭备用电源",
    "zh_summary": "特斯拉全系电动车可作家庭备用电源",
+   "title_zh": "特斯拉全系电动车现可提供家庭备用电源",
    "sentiment": 1
   },
   {
@@ -1061,6 +1078,23 @@
    "zh_summary": "德国部长支持特斯拉FSD入欧",
    "title_zh": "德国交通部长支持特斯拉FSD在欧盟落地",
    "sentiment": 1
+  },
+  {
+   "id": "169e22317ef3",
+   "title": "特斯拉新款Model 3上市叠加三季度交付超48.6万辆，二手Model 3残值要跌了？ - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWlJ0S01KYW8yVXRHSklIMEhUOWUtYnRvVG5hdk8yMlVUcVVLM0ROUnZFMTN3eTAyc0VDT05GUXNablpGOFU3Sk9wcFlWbmpsV2I4UlQ5eDZqOFk",
+   "source": "网通社",
+   "published_at": "2026-10-06T13:25:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-06T13:25:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWlJ0S01KYW8yVXRHSklIMEhUOWUtYnRvVG5hdk8yMlVUcVVLM0ROUnZFMTN3eTAyc0VDT05GUXNablpGOFU3Sk9wcFlWbmpsV2I4UlQ5eDZqOFk"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
   },
   {
    "id": "2f719fc3a272",
@@ -3129,6 +3163,23 @@
    }
   },
   {
+   "id": "4cefb712fe84",
+   "title": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA",
+   "source": "Stocktwits",
+   "published_at": "2026-10-06T01:04:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-06T01:04:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "053931b2211b",
    "title": "TSLA Stock Gains For First Time In Five Sessions – Tesla Expands Robotaxi Service In Florida Ahead Of Q2 Earnings - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMEY2SkFkc3lIRXdZckFpUzBZcnhPajZoYXQxV21xdndJN21BUXlQWHFUMnAteElpdUEya0d0XzAyYk0zZmphSlhEVDBhZjlNbXRoQW4xemZFcGE0NEJTUWg4YkVRUzN0N2FKdmRORkRydV9haUxWUU8zR2xsUUp5T0taUEloUHlDbFE0Tmp6Nkc1ZVM3M0JJTkdFeUx2MTJoZ2RBS2duNHRzMnk1T0kzbEt4dlF3TDlleE5hQlR0ZENnVkM2MHQ1ZU9VSy1vZ0FvM3VIYm9nMDN1Q0JnZHFXeXJqU3R2OW02UERSZ1hlNVNUNDZfcnpkMHFkMEpRV0RMS0x5XzZn",
@@ -3706,8 +3757,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "无人驾驶汽车！真的来了 特斯拉Cybercab量产！ - 手机网易网",
    "zh_summary": "特斯拉Cybercab进入量产",
+   "title_zh": "无人驾驶汽车！真的来了 特斯拉Cybercab量产！ - 手机网易网",
    "sentiment": 2
   },
   {
@@ -8086,99 +8137,6 @@
    "session": "周末",
    "zh_summary": "VinFast暂停印度造车，特斯拉放弃印度建厂",
    "title_zh": "VinFast暂停印度造车，特斯拉放弃在印建厂 - 手机新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "521600c9ceeb",
-   "title": "特斯拉Model 3更新了：屏幕16英寸、2200W外放电，优惠22.25万起 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU",
-   "source": "汽车之家",
-   "published_at": "2026-10-05T03:28:45+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T03:28:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T03:28:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T03:28:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaDc5UmNsTDdyOUxpYlR2ZmJid1dVVVFOMGhlRXhLOTd0RmpGc1NOSjhiQ3VjUzU4cE9BNnMybkhBc0FtM3hENXVEODdBRFBPLVJlZzkzNnRzNEU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Model 3更新：16英寸屏+2200W外放电",
-   "title_zh": "特斯拉Model 3更新了：屏幕16英寸、2200W外放电，优惠22.25万起 - 汽车之家",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "2227b73e5e6f",
-   "title": "看看你们特斯拉的车漆皮肤 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5XQW52RHpiQjVGbGpGaS1obENZMU1CdzV2ekwxQjhvX2RpaWJzUWJ0Wm96cDJERGpaOEtSMWtWTm1CcmVPZWdOamxOZXZ0d0ZLeVhRNXNQalVPcTFtNVNCUkRleHZvdXRCMHdoX0dhLUdzQTltTDFydEpZVWhPUQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-05T03:22:35+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-05T03:22:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5XQW52RHpiQjVGbGpGaS1obENZMU1CdzV2ekwxQjhvX2RpaWJzUWJ0Wm96cDJERGpaOEtSMWtWTm1CcmVPZWdOamxOZXZ0d0ZLeVhRNXNQalVPcTFtNVNCUkRleHZvdXRCMHdoX0dhLUdzQTltTDFydEpZVWhPUQ"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-05T03:22:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbm5XQW52RHpiQjVGbGpGaS1obENZMU1CdzV2ekwxQjhvX2RpaWJzUWJ0Wm96cDJERGpaOEtSMWtWTm1CcmVPZWdOamxOZXZ0d0ZLeVhRNXNQalVPcTFtNVNCUkRleHZvdXRCMHdoX0dhLUdzQTltTDFydEpZVWhPUQ"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-05T11:47:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXJQcWJncXIxMTlibUM2OEVWRXQ5MWc1cXRGQUVrdFhOdjBSMVpxQms0S1BxSmlvd3NYRFAtNmpVY29Mc1NURGEzdjB1bHNhNE96dlJUQXBzWklNdVRJWFlzX2VmcExCSHgzTlpzNF8tR3hBZDFTUzZlM0pRODNUNg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车漆质量遭调侃",
-   "title_zh": "看看你们特斯拉的车漆皮肤 - 手机新浪网",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "58b17f661338",
-   "title": "叫板特斯拉：现代汽车瞄准机器人新赛道 - 华尔街日报中文版",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRlpOWVA0T24zTnpjbXFUT0xkNlBBT0lxWm1fMW5OdHFZUEs3cm14MF9hbENZMVZIM2ZvdENrajFxT2lpMFhpalZtZHFZZWIyUHZfalVPZXR0T1BTOGJ2ZC12cXBoRF9SMEFCdkRfWVNreXNJZEEzcDg2ZWpKLV93TllOR1dHZjN3eWV4RmJCQjgxdkFLem41ZjktSTBzLS0wQ29lTkktYndwcnZKaUNHRi1ka1oyUWxvMkR4NmxwQlpac0VhX1djT0Y2RGhzWlhZOEJFYmpLTG5yN1VQeFozbl9CX1kzY3lQLUxnUjgyZ0FGbTd2aHgwaS1KUHp6WmxQV2p1c2dRN0JVcE45amxJSjAyU1Atbld5OGRN",
-   "source": "华尔街日报中文版",
-   "published_at": "2026-10-05T03:16:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "华尔街日报中文版",
-     "published_at": "2026-10-05T03:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRlpOWVA0T24zTnpjbXFUT0xkNlBBT0lxWm1fMW5OdHFZUEs3cm14MF9hbENZMVZIM2ZvdENrajFxT2lpMFhpalZtZHFZZWIyUHZfalVPZXR0T1BTOGJ2ZC12cXBoRF9SMEFCdkRfWVNreXNJZEEzcDg2ZWpKLV93TllOR1dHZjN3eWV4RmJCQjgxdkFLem41ZjktSTBzLS0wQ29lTkktYndwcnZKaUNHRi1ka1oyUWxvMkR4NmxwQlpac0VhX1djT0Y2RGhzWlhZOEJFYmpLTG5yN1VQeFozbl9CX1kzY3lQLUxnUjgyZ0FGbTd2aHgwaS1KUHp6WmxQV2p1c2dRN0JVcE45amxJSjAyU1Atbld5OGRN"
-    },
-    {
-     "name": "cn.wsj.com",
-     "published_at": "2026-10-05T03:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRlpOWVA0T24zTnpjbXFUT0xkNlBBT0lxWm1fMW5OdHFZUEs3cm14MF9hbENZMVZIM2ZvdENrajFxT2lpMFhpalZtZHFZZWIyUHZfalVPZXR0T1BTOGJ2ZC12cXBoRF9SMEFCdkRfWVNreXNJZEEzcDg2ZWpKLV93TllOR1dHZjN3eWV4RmJCQjgxdkFLem41ZjktSTBzLS0wQ29lTkktYndwcnZKaUNHRi1ka1oyUWxvMkR4NmxwQlpac0VhX1djT0Y2RGhzWlhZOEJFYmpLTG5yN1VQeFozbl9CX1kzY3lQLUxnUjgyZ0FGbTd2aHgwaS1KUHp6WmxQV2p1c2dRN0JVcE45amxJSjAyU1Atbld5OGRN"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "现代汽车瞄准机器人赛道叫板特斯拉",
-   "title_zh": "叫板特斯拉：现代汽车瞄准机器人新赛道 - 华尔街日报中文版",
    "sentiment": -1
   }
  ]
