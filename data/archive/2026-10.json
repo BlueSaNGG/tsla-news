@@ -2,6 +2,46 @@
  "month": "2026-10",
  "stories": [
   {
+   "id": "2a3a69034036",
+   "title": "Tesla to Showcase its Cybercab Robotaxi at Paris Auto Show - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUNFRktPZklsWThTcFZMY2oxYVZjLWUzT2V0VTNzRkxCaUdZclhrbFBYd0RmWGRTOGM0bW1sRXZyeHc2TmpXNG9WY3Y5eWljRVBTdE5FcEl0QTU2b1RvTUU2SkdaSngzWHYxdlhhMmpOQVczRndIaXFUaDhtUUppMUlDZjBGMVBabFExRWhST1NscURWem4tYXdWMnRmelR5aWlkeERuWkU3X1pvbmFxcV9SVmpyR1dpMVdpQmFEd0J4eVZHcVlsblZ3",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-06T16:05:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-06T16:05:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUNFRktPZklsWThTcFZMY2oxYVZjLWUzT2V0VTNzRkxCaUdZclhrbFBYd0RmWGRTOGM0bW1sRXZyeHc2TmpXNG9WY3Y5eWljRVBTdE5FcEl0QTU2b1RvTUU2SkdaSngzWHYxdlhhMmpOQVczRndIaXFUaDhtUUppMUlDZjBGMVBabFExRWhST1NscURWem4tYXdWMnRmelR5aWlkeERuWkU3X1pvbmFxcV9SVmpyR1dpMVdpQmFEd0J4eVZHcVlsblZ3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "特斯拉将在巴黎车展展示Cybercab",
+   "title_zh": "特斯拉将在巴黎车展展示Cybercab Robotaxi",
+   "sentiment": 1
+  },
+  {
+   "id": "dc9bfa56d37a",
+   "title": "Elon Musk Says That Tesla’s Robotaxi Service Has A ‘Cat Problem’ - Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2lsSDE5U043UXJkT3VocFc1U1Bpb2l5R25yWEtNVWhha0VUR0tlWTlaS2k3OWdudGFMMEJMVVU1LUtsNmdKWXc5eGNJZ19weTZMMy1idXBrVW56R18waHZ3MW1yNmtzQzhXaVhpRndUZFdjY0R5TGdiSkhuQS1vOGNHRGhCMUdnaHUyLTZEX0NLZDJxLUE",
+   "source": "Yahoo Tech",
+   "published_at": "2026-10-06T15:55:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Tech",
+     "published_at": "2026-10-06T15:55:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2lsSDE5U043UXJkT3VocFc1U1Bpb2l5R25yWEtNVWhha0VUR0tlWTlaS2k3OWdudGFMMEJMVVU1LUtsNmdKWXc5eGNJZ19weTZMMy1idXBrVW56R18waHZ3MW1yNmtzQzhXaVhpRndUZFdjY0R5TGdiSkhuQS1vOGNHRGhCMUdnaHUyLTZEX0NLZDJxLUE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "马斯克称Robotaxi服务有猫问题",
+   "title_zh": "马斯克称特斯拉Robotaxi服务有个“猫问题”",
+   "sentiment": 0
+  },
+  {
    "id": "54441346a9e7",
    "title": "【视频】特斯拉超充站附带休闲会客区 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5Y0wtY2RFZlZwMEUzYmdzVnMtY1E5MGVoOHdEd0ZfYnNQbGlGVWM2Tm1TYl9fX0hRRGJXcDZhbkNjVEx0X0pCTVhFQklkTFg4Y0RhNk9lQWtYYUU",
@@ -267,7 +307,11 @@
    "session": "盘中",
    "zh_summary": "马斯克因特斯拉SpaceX上涨重回万亿富豪",
    "title_zh": "马斯克再次成为万亿富豪，得益于特斯拉与SpaceX股价上涨",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.16,
+    "window_h": 1.9
+   }
   },
   {
    "id": "ca5d1833ef4d",
@@ -1830,7 +1874,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉瑞典9月销量2388台，Model Y夺冠",
    "title_zh": "比亚迪增长320%在瑞典9月大卖，特斯拉2388台进前四，Model Y夺冠！",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.51,
+    "window_h": 2.0
+   }
   },
   {
    "id": "42d3e810d081",
@@ -14795,5 +14843,5 @@
    "sentiment": -1
   }
  ],
- "count": 690
+ "count": 692
 }
