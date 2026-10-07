@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T19:22:28.543330+00:00",
+ "updated_at": "2026-10-07T19:37:26.251285+00:00",
  "market": {
-  "price": 378.04,
-  "change_pct": -0.69,
+  "price": 377.63,
+  "change_pct": -0.8,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 41% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.8%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（109条已评分）"
+     "note": "今日新闻情绪 +0.23（110条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.04 vs 20日均线 $367.24"
+     "note": "现价 $377.63 vs 20日均线 $367.22"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.8,
-   "ma20": 367.24,
-   "as_of": "2026-10-07T19:22:28.533621+00:00"
+   "implied_upside_pct": 7.9,
+   "ma20": 367.22,
+   "as_of": "2026-10-07T19:37:26.242703+00:00"
   },
-  "pe_ttm": 104.6,
+  "pe_ttm": 104.4,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.9%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 109
+   "count": 110
   }
  },
  "meta": {
@@ -67,6 +67,28 @@
   }
  },
  "stories": [
+  {
+   "id": "e1b6185ce305",
+   "title": "What is Tesla Halloween Mode and what can it do? - USA Today",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVd6bFhvSXYyOXVWNFNFQmdSaENHb1pwSE5fa2ZxN3p2RUpjNnhKRDNYVzNtMURSRVlwc0xyLXBsRFZ0Tjg1X1dGZDdqYzJFUEZhUjdsUnJvN0c1R0pZN0Z0WEExcUNZekZYVnV2Q2pyM1RVY0Q3WVJNRUtvWWF1WFEwSWIzSEp4NHBYcmcyclRhYmlUczZ1amRlbTdkX2JnS01qU0dudFh4OU55bmY1OXdXb0trUQ",
+   "source": "USA Today",
+   "published_at": "2026-10-07T19:23:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "USA Today",
+     "published_at": "2026-10-07T19:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVd6bFhvSXYyOXVWNFNFQmdSaENHb1pwSE5fa2ZxN3p2RUpjNnhKRDNYVzNtMURSRVlwc0xyLXBsRFZ0Tjg1X1dGZDdqYzJFUEZhUjdsUnJvN0c1R0pZN0Z0WEExcUNZekZYVnV2Q2pyM1RVY0Q3WVJNRUtvWWF1WFEwSWIzSEp4NHBYcmcyclRhYmlUczZ1amRlbTdkX2JnS01qU0dudFh4OU55bmY1OXdXb0trUQ"
+    },
+    {
+     "name": "The Tennessean",
+     "published_at": "2026-10-07T19:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkRwbEZJMWlCeGRZcTBJQU5ta3ROZGlpS3Q1WmhYaHBRRXZWS1VJUEkzOGFFZHdJWjJWME5aYnVGQkFqbjg1b2toMDlGbURWZlZfNDQ5UzBUcjMzZjFsb19iMGJWVE9Oc1NEdWI3aHpjUnhibDFIOVpOenpHYjdxUWdaa0YxU1E2TFU0ZnFvNVVxSWZacXVTdlg3YlpLdERmZUgyQXVpcTJxQUtZTzYtdUp6SHh5M0Jy"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "33bc7363a3a0",
    "title": "2026 Tesla Model 3 Mid-Year Changes Explained - CarsDirect",
@@ -193,7 +215,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTF5dnk0UGE1WU1tTzZjQ1JUWW9faHNEYTZnUldWaXZ3cENPV2VnT0lmYUpWR0d2S2NOSnNZWlNjMXVxVXVaakZMTlV1czZZYnNoYWVHRlQ0cGlQN0hiSnJaeGQ0b2UwdC1vdEFERzhuQnc3azJBMDljVUJfbkI4TlNxeEYzeHFzQnJITkdwQ2NhUEI5S1BoQmJ0d1ZBMDBWT3ZrS2I5bmU3VXhyX3c",
    "source": "www.fox10tv.com",
    "published_at": "2026-10-07T18:22:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "www.fox10tv.com",
@@ -219,6 +241,11 @@
      "name": "KWTX",
      "published_at": "2026-10-07T18:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2JWSHZwaEQ4VktMOGRjYUJpeTR2elBZWExOYm15emJ2aV9HM0RvR3NzTmQtMjRLRnBLV3dxSTEzbDZFaFlfblJMeTZ2VC13YURWeXp6dmFlcXFFcXBGZnktdDFkRlFtbHIwQjNqY3lhclIxU0ZPbG1Wd2Fodmk5TE9XSVBRVjdWT3VRelN0Y1h5M1ZiVXdoUUtlZFVjNWlHUGxURFlGOXFmUQ"
+    },
+    {
+     "name": "WAFF",
+     "published_at": "2026-10-07T18:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHR2c2s2eGZuWk1Rd2l5YXFFZWtMYVlhMFBfc19vMHVuZGNCdGxBQ2dqSGtRVE9ZN1l5dFRTVEV3WmNYOERiUTZPazJwb0pXLUlzeXg0andFYTJWcnMtekJ4SXpjOGtrc3RUWjQxcHBPMlV3SjhKUEpCOV9PUHQzb0l3djg2WGhCdE1ZekxNaFhiYWpFclQ3ZmV0eHVwX2dqbTdjMHpDdDA1QQ"
     }
    ],
    "category": "其他",
@@ -231,6 +258,23 @@
     "pct": 0.26,
     "window_h": 0.5
    }
+  },
+  {
+   "id": "343831347cf6",
+   "title": "Ford F-150 Lightning Owners Reveal Why New Ionna Chargers Are Beating Tesla and Electrify America - Torque News",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTBXdnFGZTRMNjZzMkdBNnM2Zi1NTEkyNGJkcm8tNlhxVWVWNUxKaW95NnBiQl9LZHBtQVhVQm01b0NERl9DdVQ1ZDU2ZDgxeTRoREdpZFVCajBVTVFNUkRpSWtSSzFJbThWcjRTLXFGSDF5LUtPeUgwRFhLaGxMMDRLLXZ4aXcxUkpOQmxVT01QUWF0a3NibXhPbGZIbTVIT2Fjc0xwMEJkdHZfVk9wbDBMbXNDZE9DWnFNVGJ3",
+   "source": "Torque News",
+   "published_at": "2026-10-07T18:21:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Torque News",
+     "published_at": "2026-10-07T18:21:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTBXdnFGZTRMNjZzMkdBNnM2Zi1NTEkyNGJkcm8tNlhxVWVWNUxKaW95NnBiQl9LZHBtQVhVQm01b0NERl9DdVQ1ZDU2ZDgxeTRoREdpZFVCajBVTVFNUkRpSWtSSzFJbThWcjRTLXFGSDF5LUtPeUgwRFhLaGxMMDRLLXZ4aXcxUkpOQmxVT01QUWF0a3NibXhPbGZIbTVIT2Fjc0xwMEJkdHZfVk9wbDBMbXNDZE9DWnFNVGJ3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b57df3178feb",
@@ -3455,6 +3499,23 @@
    "zh_summary": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "title_zh": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "sentiment": 0
+  },
+  {
+   "id": "f6764bd50174",
+   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
+   "source": "东方财富",
+   "published_at": "2026-10-06T19:09:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-06T19:09:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "ed46cfb297ca",
@@ -7124,99 +7185,6 @@
     "pct": -0.16,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "9999290f4dc7",
-   "title": "Musk Returns to Trillionaire Status as SpaceX, Tesla Shares Rise - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXNQMWQ3NHR3d0FyMnFyUk5KeENzQ0hrbjRxV0djenh0R2VWQ0RBeWw4enNraVIya2w2X0ppbXRZY3R5aTNHWUt3Z0RmNE9nNnhSNUhrN1p1SVlQcVdIcVhuRWFiMC1DYkJDRERhMkU4eE5UUUhwT2g1ckRmMHFJZ3N4Zmlia1NkNE5JcGYtRFBrSl9ZY09UNTBLM3dJV1k4R1VkcEdPamtETmFGdV9jbHBuLXFOYWc",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-05T23:08:22+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-05T23:08:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXNQMWQ3NHR3d0FyMnFyUk5KeENzQ0hrbjRxV0djenh0R2VWQ0RBeWw4enNraVIya2w2X0ppbXRZY3R5aTNHWUt3Z0RmNE9nNnhSNUhrN1p1SVlQcVdIcVhuRWFiMC1DYkJDRERhMkU4eE5UUUhwT2g1ckRmMHFJZ3N4Zmlia1NkNE5JcGYtRFBrSl9ZY09UNTBLM3dJV1k4R1VkcEdPamtETmFGdV9jbHBuLXFOYWc"
-    },
-    {
-     "name": "NDTV",
-     "published_at": "2026-10-06T02:11:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFNlMG1QaDcyMUFaRkZMUVZBVS1CVkFaYm1aZ1hxd2lJSXR5aXJqZGNoNXhqdzJQaV9jQ3F4VjVYT2FHcGxab1U1eTVhQy1kU0NzQkFSRGdrRjJkUTBad1B1Z1JwY0VwS0Y3dTR6akRNUmJPbWJTYzVLMzRPYnR5NGRiOUE5ckdJemhyNjZ0RHUyMFRIdk5TVDdVZjNTcmhmMjdrbm1rZUjSAbABQVVfeXFMTWdGanBubXUyejY4UHVHeWJNQl9VNHA2QUxORV80M3FiRW9kUEpKMEdQOVJSV2FMZ05CRjJaRk1oNjYwQjlMbnE4UjVMRmQ2WXF5UlNSbmxuZXBWNUtVNkhoNk1aV0M4cXNXZmpJU1JhQnJZRDhSZTNOb1Qybm9VZ1ZrX0x6LVhWd2lnLXVPRFBNUVlXMmt6QXhMUWFZUlBfTWpIRWRSUEJzdEtDcjB5ZW8"
-    },
-    {
-     "name": "ndtv.com",
-     "published_at": "2026-10-06T02:11:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFNlMG1QaDcyMUFaRkZMUVZBVS1CVkFaYm1aZ1hxd2lJSXR5aXJqZGNoNXhqdzJQaV9jQ3F4VjVYT2FHcGxab1U1eTVhQy1kU0NzQkFSRGdrRjJkUTBad1B1Z1JwY0VwS0Y3dTR6akRNUmJPbWJTYzVLMzRPYnR5NGRiOUE5ckdJemhyNjZ0RHUyMFRIdk5TVDdVZjNTcmhmMjdrbm1rZUjSAbABQVVfeXFMTWdGanBubXUyejY4UHVHeWJNQl9VNHA2QUxORV80M3FiRW9kUEpKMEdQOVJSV2FMZ05CRjJaRk1oNjYwQjlMbnE4UjVMRmQ2WXF5UlNSbmxuZXBWNUtVNkhoNk1aV0M4cXNXZmpJU1JhQnJZRDhSZTNOb1Qybm9VZ1ZrX0x6LVhWd2lnLXVPRFBNUVlXMmt6QXhMUWFZUlBfTWpIRWRSUEJzdEtDcjB5ZW8"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克重返万亿美元富豪行列",
-   "title_zh": "SpaceX与特斯拉股价上涨，马斯克重返万亿美元身家",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.16,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "1566731fa611",
-   "title": "SpaceX(SPCX.US)、特斯拉(TSLA.US)股价飙升马斯克单日财富激增650亿身家重返万亿美元_全球市场_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15ZDJ2QzdtZXJZbGlndzNoZUI5QXpLRXV4MEk2eWpRU2N4UUYxRE9pMmxNdzlVTWVweURMRERCZTdSbzgxaHRIQWUtanJ6a0tfLWVMYmd2X210b0VKTDlYUw",
-   "source": "证券之星",
-   "published_at": "2026-10-05T23:00:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-05T23:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15ZDJ2QzdtZXJZbGlndzNoZUI5QXpLRXV4MEk2eWpRU2N4UUYxRE9pMmxNdzlVTWVweURMRERCZTdSbzgxaHRIQWUtanJ6a0tfLWVMYmd2X210b0VKTDlYUw"
-    },
-    {
-     "name": "stockstar.com",
-     "published_at": "2026-10-05T23:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15ZDJ2QzdtZXJZbGlndzNoZUI5QXpLRXV4MEk2eWpRU2N4UUYxRE9pMmxNdzlVTWVweURMRERCZTdSbzgxaHRIQWUtanJ6a0tfLWVMYmd2X210b0VKTDlYUw"
-    },
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-05T23:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84S1owSkxfYXV2NV9DNDlvUEU5NEZydllFblNmZWRQYjJ4SzZBM0hYUVlwZW1VMTFvZWFzR0RTb3JzZjNvNTJYLWFtLWtVTGpZREp3clItUlZpdW1fRVBhM1FkZ1o1N3FoNFlUeTlOMDE"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克单日财富激增650亿美元重返万亿",
-   "title_zh": "SpaceX、特斯拉股价飙升，马斯克财富重返万亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.16,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "5ecda18d323a",
-   "title": "Wall Street bank makes radical Tesla call after Q3 deliveries news - thestreet.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0tFbGZwSWwzMmlNbEZSZkY5VWNnb1JHT0pxcVc3cHBRblBhTnViRGliVDliNjBpeEU0ZGljTEppTzFlTVFLWk5mMnF6UHVudDV2OFF6bjZBbGJNQ3p3dGZrc2tKbDIxaHFVcVlYejJZd3BKTE9SYzVSanozTzJhaA",
-   "source": "thestreet.com",
-   "published_at": "2026-10-05T22:47:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "thestreet.com",
-     "published_at": "2026-10-05T22:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0tFbGZwSWwzMmlNbEZSZkY5VWNnb1JHT0pxcVc3cHBRblBhTnViRGliVDliNjBpeEU0ZGljTEppTzFlTVFLWk5mMnF6UHVudDV2OFF6bjZBbGJNQ3p3dGZrc2tKbDIxaHFVcVlYejJZd3BKTE9SYzVSanozTzJhaA"
-    },
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-05T22:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0tFbGZwSWwzMmlNbEZSZkY5VWNnb1JHT0pxcVc3cHBRblBhTnViRGliVDliNjBpeEU0ZGljTEppTzFlTVFLWk5mMnF6UHVudDV2OFF6bjZBbGJNQ3p3dGZrc2tKbDIxaHFVcVlYejJZd3BKTE9SYzVSanozTzJhaA"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "华尔街投行Q3交付后发激进评级",
-   "title_zh": "华尔街银行在特斯拉Q3交付消息后做出激进评级",
-   "sentiment": 1
   }
  ]
 }
