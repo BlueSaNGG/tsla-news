@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T00:37:28.676302+00:00",
+ "updated_at": "2026-10-07T00:52:34.109378+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（119条已评分）"
+     "note": "今日新闻情绪 +0.24（120条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T00:37:28.662479+00:00"
+   "as_of": "2026-10-07T00:52:34.104458+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 119
+   "avg": 0.24,
+   "count": 120
   }
  },
  "meta": {
@@ -3206,7 +3206,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhSTNsc2JEc2o0S1FLMnQ2TTJ4ODhwRUh4S2hycWxTSlo5UnNFRTMtWXRNTGxYZkJoOW11MlU3bUhucFd2T2o3aG54WjJMX29DQVJkck5jYWFlQ0E",
    "source": "汽车之家",
    "published_at": "2026-10-06T03:34:29+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "汽车之家",
@@ -3217,13 +3217,22 @@
      "name": "chejiahao.autohome.com.cn",
      "published_at": "2026-10-06T12:37:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lN2x2MGx5NWdINEEwbHFXdUc0amd4czh1SllPek4yZG9XdjZPemxpSUp1OXQ0V1hOTjBRUW9yTE9HeWN1X0VPclNKdzVzMmh0d3RlVjF6N3hWVWM"
+    },
+    {
+     "name": "车家号",
+     "published_at": "2026-10-06T12:37:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lN2x2MGx5NWdINEEwbHFXdUc0amd4czh1SllPek4yZG9XdjZPemxpSUp1OXQ0V1hOTjBRUW9yTE9HeWN1X0VPclNKdzVzMmh0d3RlVjF6N3hWVWM"
     }
    ],
    "category": "车型产品",
    "session": "盘后",
    "zh_summary": "卡泰驰二手车特斯拉Model Y L长续航视频",
    "title_zh": "【视频】#卡泰驰二手车特斯拉Model Y L 2025款长续航 - 汽车之家",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.51,
+    "window_h": 2.0
+   }
   },
   {
    "id": "57b7ffcbc5c1",
