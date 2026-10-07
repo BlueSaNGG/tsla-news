@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T05:22:27.916283+00:00",
+ "updated_at": "2026-10-07T05:37:29.267200+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（133条已评分）"
+     "note": "今日新闻情绪 +0.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T05:22:27.908937+00:00"
+   "as_of": "2026-10-07T05:37:29.252316+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 133
+   "avg": 0.0,
+   "count": 2
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "国产特斯拉Model Y L你见过，但美版的可不一定 - 汽车之家",
    "zh_summary": "美版特斯拉Model Y L曝光",
+   "title_zh": "国产特斯拉Model Y L你见过，但美版的可不一定 - 汽车之家",
    "sentiment": 0
   },
   {
@@ -103,8 +103,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "与特斯拉竞逐机器人未来的车企 - WSJ",
    "zh_summary": "车企与特斯拉竞逐机器人未来",
+   "title_zh": "与特斯拉竞逐机器人未来的车企 - WSJ",
    "sentiment": 0
   },
   {
@@ -123,8 +123,8 @@
    ],
    "category": "车型产品",
    "session": "盘后",
-   "title_zh": "特斯拉Model 3和Y新增Cybertruck独有功能 - Teslarati",
    "zh_summary": "Model 3/Y获Cybertruck独有功能",
+   "title_zh": "特斯拉Model 3和Y新增Cybertruck独有功能 - Teslarati",
    "sentiment": 1
   },
   {
@@ -168,20 +168,25 @@
    "sentiment": 0
   },
   {
-   "id": "0b8725387613",
-   "title": "Tesla Bull Gary Black Warns Investors About Confusing 'Great Company' With a Great Stock: ‘Valuation Matt - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFppeVljQnI1WWVkYXZjcmVxc2ZRZlFCUzQ3STJxVy1YM0tobkcxeHJvcVUzTlpjNkoyOFZJUlpKYzl6eXVRVEo0M24wbzh3OGN5Xzd2REZKNnlRUWFrbU8wYTN1Ulk3c2dKeWRVNlA0RWxSRjNJV05uV1N5MzNwbXBVS0JzcDcxakc5ZDZHRjktRjNVck1xdjUtMHpkZXpFbW81RXlITUJqSHZrbUFGRg",
-   "source": "Benzinga",
-   "published_at": "2026-10-07T04:05:44+00:00",
-   "outlets_count": 1,
+   "id": "7f556b34b70a",
+   "title": "Tesla Bull Gary Black Warns Investors About Confusing 'Great Company' With a Great Stock: ‘Valuation Matters’ Even With 45% EPS Growth - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFlBanYxZ3RuZXJPUXFWNFZ3RXpXNm9iUndDanZCbXE4am1HM2tpS005RTdrR3VnYmItM3ZLMzBMZ0czTEhJb0JoR0hrTk5pYnAwbkJ2a05nMTBmclhZMk9XUmVKdC1NYUoxNEhRazhyYXFsZ0RRYlVJNkVWellWd2gtLUxFZDVrZTlhdUpvTVV2QVV2WS1v",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-07T04:05:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T04:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFlBanYxZ3RuZXJPUXFWNFZ3RXpXNm9iUndDanZCbXE4am1HM2tpS005RTdrR3VnYmItM3ZLMzBMZ0czTEhJb0JoR0hrTk5pYnAwbkJ2a05nMTBmclhZMk9XUmVKdC1NYUoxNEhRazhyYXFsZ0RRYlVJNkVWellWd2gtLUxFZDVrZTlhdUpvTVV2QVV2WS1v"
+    },
     {
      "name": "Benzinga",
      "published_at": "2026-10-07T04:05:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVFppeVljQnI1WWVkYXZjcmVxc2ZRZlFCUzQ3STJxVy1YM0tobkcxeHJvcVUzTlpjNkoyOFZJUlpKYzl6eXVRVEo0M24wbzh3OGN5Xzd2REZKNnlRUWFrbU8wYTN1Ulk3c2dKeWRVNlA0RWxSRjNJV05uV1N5MzNwbXBVS0JzcDcxakc5ZDZHRjktRjNVck1xdjUtMHpkZXpFbW81RXlITUJqSHZrbUFGRg"
     }
    ],
-   "category": "其他",
+   "category": "财报",
    "session": "盘后",
    "zh_summary": "特斯拉多头警告勿混淆好公司与好股票",
    "title_zh": "特斯拉多头Gary Black警告：勿把好公司当作好股票",
@@ -1203,26 +1208,6 @@
    }
   },
   {
-   "id": "b1c12faa1d89",
-   "title": "Belgian Test Finds Tesla FSD Speeding And Trying To Pass Cyclists Illegally - Carscoops",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZTItYUoybl9Pd2IxZVpMaElIOUU3TkNIbzVYWjJmODVXcTVXaXA3TlRVR2FOQTZKNVdnMU42ZFFvUHNDMkFVQ1k0ejdYWkdZQk5TemVNUkw0SGdScmNNbE1GN3pmQ0hzbFdYeG9nNXlpZw",
-   "source": "Carscoops",
-   "published_at": "2026-10-06T16:45:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Carscoops",
-     "published_at": "2026-10-06T16:45:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZTItYUoybl9Pd2IxZVpMaElIOUU3TkNIbzVYWjJmODVXcTVXaXA3TlRVR2FOQTZKNVdnMU42ZFFvUHNDMkFVQ1k0ejdYWkdZQk5TemVNUkw0SGdScmNNbE1GN3pmQ0hzbFdYeG9nNXlpZw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "比利时测试称FSD超速违规超车",
-   "title_zh": "比利时测试发现特斯拉FSD超速并试图非法超越骑行者",
-   "sentiment": -1
-  },
-  {
    "id": "03513ab1b215",
    "title": "Tesla Cybercab: A Trillion-Dollar Business I'm Not Buying (NASDAQ:TSLA) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzgxY01LeWNuRXFVZ2MtQWNTUnlBTXhqRUpva1hkTnZMcVU0QmpvbWdFOHBiN2hlVFFGUzRLLVRmVjdHMGhXV3Q5Y0tfcGNrNGQ5TThJRlZNNDFVNmlpWmRLckJab3Z3QUgtWHZaYk9UNzBNNHVSbnZIanNSdEU4bERTZlFDTUFFWEI0ZVpUSld1THBGdjAyYmdWZ2E",
@@ -1240,6 +1225,26 @@
    "session": "盘中",
    "zh_summary": "分析师看衰特斯拉Cybercab万亿估值",
    "title_zh": "特斯拉Cybercab：万亿美元业务，我并不信",
+   "sentiment": -1
+  },
+  {
+   "id": "b1c12faa1d89",
+   "title": "Belgian Test Finds Tesla FSD Speeding And Trying To Pass Cyclists Illegally - Carscoops",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZTItYUoybl9Pd2IxZVpMaElIOUU3TkNIbzVYWjJmODVXcTVXaXA3TlRVR2FOQTZKNVdnMU42ZFFvUHNDMkFVQ1k0ejdYWkdZQk5TemVNUkw0SGdScmNNbE1GN3pmQ0hzbFdYeG9nNXlpZw",
+   "source": "Carscoops",
+   "published_at": "2026-10-06T16:26:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Carscoops",
+     "published_at": "2026-10-06T16:26:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZTItYUoybl9Pd2IxZVpMaElIOUU3TkNIbzVYWjJmODVXcTVXaXA3TlRVR2FOQTZKNVdnMU42ZFFvUHNDMkFVQ1k0ejdYWkdZQk5TemVNUkw0SGdScmNNbE1GN3pmQ0hzbFdYeG9nNXlpZw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "比利时测试称FSD超速违规超车",
+   "title_zh": "比利时测试发现特斯拉FSD超速并试图非法超越骑行者",
    "sentiment": -1
   },
   {
