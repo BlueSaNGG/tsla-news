@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T21:07:28.009681+00:00",
+ "updated_at": "2026-10-07T21:22:27.271066+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -21,12 +21,12 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +5.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（115条已评分）"
+     "note": "今日新闻情绪 +0.20（117条已评分）"
     },
     {
      "key": "动量",
@@ -40,15 +40,15 @@
     }
    ],
    "price_52w_pct": 41,
-   "target_median": 407.5,
-   "target_count": 14,
-   "implied_upside_pct": 7.9,
+   "target_median": 400,
+   "target_count": 15,
+   "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-07T21:07:28.004031+00:00"
+   "as_of": "2026-10-07T21:22:27.264649+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.9%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 115
+   "avg": 0.2,
+   "count": 117
   }
  },
  "meta": {
@@ -67,6 +67,29 @@
   }
  },
  "stories": [
+  {
+   "id": "8bbe1957dc6a",
+   "title": "Tesla Price Target Raised to $391.00/Share From $385.00 by UBS - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONndLSlhSMW5jdlZiZ25TTVpod2JDT2I1MS1HWlRjaTl6Z1RtUlBObV9EbUpnRzRKRWV1eVk0cFhaRFVLX1pLZHFRQ2Fra2hVZmpncUNnUHNDbWNGUW41UUxoTjNuWVNaSkVzUy1wQ1c4c3hGQTBVYkc0QUJFeEwzeVFlR3RrNzVqWGhLWGZRcF91aVJWUlpGLTNhc1VmaWlH",
+   "source": "Moomoo",
+   "published_at": "2026-10-07T21:15:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-07T21:15:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONndLSlhSMW5jdlZiZ25TTVpod2JDT2I1MS1HWlRjaTl6Z1RtUlBObV9EbUpnRzRKRWV1eVk0cFhaRFVLX1pLZHFRQ2Fra2hVZmpncUNnUHNDbWNGUW41UUxoTjNuWVNaSkVzUy1wQ1c4c3hGQTBVYkc0QUJFeEwzeVFlR3RrNzVqWGhLWGZRcF91aVJWUlpGLTNhc1VmaWlH"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后",
+   "analyst": {
+    "firm": "UBS",
+    "action": "上调",
+    "target": "$391.00",
+    "rating": null
+   }
+  },
   {
    "id": "2880f82d9e53",
    "title": "Which Dates Could Move Tesla Stock Most? - Trefis",
@@ -7179,31 +7202,6 @@
    "zh_summary": "马斯克称FSD或可像Uber司机一样接单",
    "title_zh": "TSLA本周或收跌：马斯克称FSD很快能像Uber司机那样接单",
    "sentiment": -1
-  },
-  {
-   "id": "c417e4190e6c",
-   "title": "TSLA Stock: Tesla Doubles EU Registrations In May But BYD Still Leads With Over 26K Units - stocktwits.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVldVMFpzQThpWHpaaTh1MHJVVlVoa1RKdW9hd1FqRUVqMXFld1Z6MFFraWRkX0plX0M0MDBqTmpjUUhwQTZMal9FV1h6ckNITTBVQWlUcjZhQjgzVDB5RW05LXlSaXFSRktBbG1XQ3BCdXpPUzhjUTU3VjlxUmU5czlZRklkLXJiMmZmcU9qV1RKaHp5STFYSWt2dk1XWFR5ejZVSWtZVG8xYWNmTGtqQlJqaklmVXltYjVOR0hwRVEwSjVReFBpOHJwRDM",
-   "source": "stocktwits.com",
-   "published_at": "2026-10-06T00:16:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-06T00:16:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVldVMFpzQThpWHpaaTh1MHJVVlVoa1RKdW9hd1FqRUVqMXFld1Z6MFFraWRkX0plX0M0MDBqTmpjUUhwQTZMal9FV1h6ckNITTBVQWlUcjZhQjgzVDB5RW05LXlSaXFSRktBbG1XQ3BCdXpPUzhjUTU3VjlxUmU5czlZRklkLXJiMmZmcU9qV1RKaHp5STFYSWt2dk1XWFR5ejZVSWtZVG8xYWNmTGtqQlJqaklmVXltYjVOR0hwRVEwSjVReFBpOHJwRDM"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-06T00:16:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVldVMFpzQThpWHpaaTh1MHJVVlVoa1RKdW9hd1FqRUVqMXFld1Z6MFFraWRkX0plX0M0MDBqTmpjUUhwQTZMal9FV1h6ckNITTBVQWlUcjZhQjgzVDB5RW05LXlSaXFSRktBbG1XQ3BCdXpPUzhjUTU3VjlxUmU5czlZRklkLXJiMmZmcU9qV1RKaHp5STFYSWt2dk1XWFR5ejZVSWtZVG8xYWNmTGtqQlJqaklmVXltYjVOR0hwRVEwSjVReFBpOHJwRDM"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉5月欧盟注册量翻倍，比亚迪仍居首",
-   "title_zh": "特斯拉5月欧盟注册量翻倍，但比亚迪以超2.6万辆领跑",
-   "sentiment": 1
   }
  ]
 }
