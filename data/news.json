@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T00:22:27.923349+00:00",
+ "updated_at": "2026-10-07T00:37:28.676302+00:00",
  "market": {
-  "price": 378.73,
-  "change_pct": 2.2,
+  "price": 380.68,
+  "change_pct": 0.51,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.6%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（115条已评分）"
+     "note": "今日新闻情绪 +0.25（119条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.73 vs 20日均线 $366.10"
+     "note": "现价 $380.68 vs 20日均线 $366.72"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.6,
-   "ma20": 366.1,
-   "as_of": "2026-10-07T00:22:27.917283+00:00"
+   "implied_upside_pct": 7.0,
+   "ma20": 366.72,
+   "as_of": "2026-10-07T00:37:28.662479+00:00"
   },
-  "pe_ttm": 104.7,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
+  "pe_ttm": 105.3,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.25,
-   "count": 115
+   "count": 119
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "635e5f82138b",
+   "title": "Tesla Defect Sparked Garage Fire, Insurer Says - Law360",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3NUeVdRY1MwenVXd1NPZldyZ2RmclhWLUNkZlhxVmhIeS1seFV0RTJJdmpCWXJiWkcyUDQ3MmlIQ3lDOUJmMng3QV80THdmcWZRR2N6czR5SFFPR2NabXRBNmlVVTIxMGxjaFlPUzVuMElLVUI2LVBKYWJPeS1NZ0gyLVFwTWM5TE50UWlFQdIBVkFVX3lxTE9PQl9sSV93S0R5X19keWpELWNaQTZzYXBzb2FWdF9aNjJ4T0RiczJ5aFU4Um5FMzBrNjN6dklmOW9ETWo2djhBRDNmRHB0U2M3YkItSF9n",
+   "source": "Law360",
+   "published_at": "2026-10-07T00:22:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Law360",
+     "published_at": "2026-10-07T00:22:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3NUeVdRY1MwenVXd1NPZldyZ2RmclhWLUNkZlhxVmhIeS1seFV0RTJJdmpCWXJiWkcyUDQ3MmlIQ3lDOUJmMng3QV80THdmcWZRR2N6czR5SFFPR2NabXRBNmlVVTIxMGxjaFlPUzVuMElLVUI2LVBKYWJPeS1NZ0gyLVFwTWM5TE50UWlFQdIBVkFVX3lxTE9PQl9sSV93S0R5X19keWpELWNaQTZzYXBzb2FWdF9aNjJ4T0RiczJ5aFU4Um5FMzBrNjN6dklmOW9ETWo2djhBRDNmRHB0U2M3YkItSF9n"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "bcf5ef5fcaf6",
    "title": "Tesla-Inspired Microfluidic Chip Mixes Fluids and Feeds Three Test Chambers Evenly - Bioengineer.org",
@@ -7928,40 +7945,6 @@
    "zh_summary": "特斯拉Q3交付量超预期",
    "title_zh": "特斯拉Q3交付量超预期：还有多少上涨空间？ - moomoo.com",
    "sentiment": 1
-  },
-  {
-   "id": "2bddb521fcc2",
-   "title": "【视频】新到23年特斯拉毛豆Y标续一手原漆10.9万公里 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeWg1ckNRS0hfSTBtSlh0RlBFcDVQa0lGRGZEZm4yQXVHdXVjOE01RVljaVlEbktuZDN6ZW5hZmxab2NGZ2g0ZE45dVF4VUdEWlBDX21yNTA5dndlSlN5cFZoWjVaZFhIVG1z",
-   "source": "车家号",
-   "published_at": "2026-10-05T06:44:20+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T06:44:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeWg1ckNRS0hfSTBtSlh0RlBFcDVQa0lGRGZEZm4yQXVHdXVjOE01RVljaVlEbktuZDN6ZW5hZmxab2NGZ2g0ZE45dVF4VUdEWlBDX21yNTA5dndlSlN5cFZoWjVaZFhIVG1z"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T06:44:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CQ2pYY2F4UXc0eXJZR3dUb3ZwWnNja1E2Qk5aQnJTV2gzdVlFQ29JcGJMb3pHZElfY3dTaHU0QUtnOU1IbTlKeHFvZ1RMV19KRVllRkFhWDB5SHM"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T06:44:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeWg1ckNRS0hfSTBtSlh0RlBFcDVQa0lGRGZEZm4yQXVHdXVjOE01RVljaVlEbktuZDN6ZW5hZmxab2NGZ2g0ZE45dVF4VUdEWlBDX21yNTA5dndlSlN5cFZoWjVaZFhIVG1z"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "23年Model Y标续10.9万公里出售",
-   "title_zh": "【视频】新到23年特斯拉毛豆Y标续一手原漆10.9万公里 - 车家号",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
   }
  ]
 }
