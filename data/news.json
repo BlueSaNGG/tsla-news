@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T12:22:30.935280+00:00",
+ "updated_at": "2026-10-07T12:37:29.588275+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（37条已评分）"
+     "note": "今日新闻情绪 +0.44（41条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T12:22:30.927075+00:00"
+   "as_of": "2026-10-07T12:37:29.579171+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 37
+   "avg": 0.44,
+   "count": 41
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "badf562b4617",
+   "title": "【视频】露营耐磨耐造特斯拉Model Y脚垫，预算900上下专车专用 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XN2R3dGxsM2twcjBxaVVyWURBRnlVTlY0cTZuM2FzR3dVTWhaeFNOeU5wVUJaOUhsQWhQdUpvYTFBSTFmNDZzaG1OR0h2NkluTThTc3JaNWw4TDg",
+   "source": "汽车之家",
+   "published_at": "2026-10-07T12:26:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-07T12:26:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XN2R3dGxsM2twcjBxaVVyWURBRnlVTlY0cTZuM2FzR3dVTWhaeFNOeU5wVUJaOUhsQWhQdUpvYTFBSTFmNDZzaG1OR0h2NkluTThTc3JaNWw4TDg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "69caaf8296cb",
    "title": "Germany backs EU approval of Tesla’s driver-assistance software - The Next Web",
@@ -82,10 +99,10 @@
     }
    ],
    "category": "其他",
+   "session": "盘前",
    "zh_summary": "德国支持特斯拉驾驶辅助软件获欧盟批准",
    "title_zh": "德国支持特斯拉驾驶辅助软件获欧盟批准",
-   "sentiment": 1,
-   "session": "盘前"
+   "sentiment": 1
   },
   {
    "id": "44392ae5ca01",
@@ -102,10 +119,10 @@
     }
    ],
    "category": "Robotaxi与FSD",
+   "session": "盘前",
    "zh_summary": "德国交通部长表态支持特斯拉FSD",
    "title_zh": "德国交通部长支持特斯拉FSD(TSLA)",
-   "sentiment": 1,
-   "session": "盘前"
+   "sentiment": 1
   },
   {
    "id": "cd6ed56819f3",
@@ -122,10 +139,10 @@
     }
    ],
    "category": "Robotaxi与FSD",
+   "session": "盘前",
    "zh_summary": "特斯拉在瑞士开展FSD冬季测试",
    "title_zh": "特斯拉FSD在瑞士进行冬季测试说明",
-   "sentiment": 0,
-   "session": "盘前"
+   "sentiment": 0
   },
   {
    "id": "7e05e92a5f39",
@@ -153,19 +170,24 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWpvQldnMkMyTnJIeVh4dVFIXzNKQjYtZ1dETkFYeEZkM1ZmY21PMTFZMzhFaHdpQWUwd0dUX0ZYTkJfNlVFZjhGNGRaXzZZOVp0YnZscjI0eXFweU1PRXRwV2RlMFR1VnlSZ3ltUGc1YXhFWjQzR1RQblRrWjJtZVhZN3JMMXR6WHpNNXUybVVubGRoNDdZ",
    "source": "Yahoo Finance",
    "published_at": "2026-10-07T12:00:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-07T12:00:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWpvQldnMkMyTnJIeVh4dVFIXzNKQjYtZ1dETkFYeEZkM1ZmY21PMTFZMzhFaHdpQWUwd0dUX0ZYTkJfNlVFZjhGNGRaXzZZOVp0YnZscjI0eXFweU1PRXRwV2RlMFR1VnlSZ3ltUGc1YXhFWjQzR1RQblRrWjJtZVhZN3JMMXR6WHpNNXUybVVubGRoNDdZ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T12:00:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdVVvc1JvSjRwdGR2djBkQ2xCTm83QlZCUjZyNGZEeVN6X2hyT3ZWX2Fmc3Z2dENwbXJ0QXotNkxJUkpCSmtQd0ZtU1BmRmZpei1tLTJQT3A3UmpIM1hLQ0VaVnJnT1JkNUVNNWxSTHZEandUZjF3dGJXRkNDdURxMzVwaFlrVVBlS0p0ejQ1MERURHktMHQzWlc3WFlhQXJDSzhwWmZVNHRSWUtHSlpnMUxVLUJUeUxZUnZZQ1FjVnhrTEp1czQ4d1lPbnFiS2I1S3hwNHcxMWVUdVR4UElla21zM3QwZkxPNEkxdGRXYTI2MWM"
     }
    ],
    "category": "Robotaxi与FSD",
+   "session": "盘前",
    "zh_summary": "德国支持加速欧盟批准特斯拉FSD",
    "title_zh": "德国支持加速审批后特斯拉FSD欧洲推进加速",
-   "sentiment": 1,
-   "session": "盘前"
+   "sentiment": 1
   },
   {
    "id": "848dfb049510",
@@ -203,16 +225,32 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1BULV90YWNrWmtNeUhrM1RnTW4xSFc2dzB6czJEXzMyZm1kUmFIaFpFQ2lsaDNENzhyUDlybVV3MXVtQWxqWU5CSmVYUXFrQnhVRGgydUlVNy1Ia2xtOWFUcDl2em9QQzN1SWFscjFYZDN3SG50eW1oSTROay0wM1RuX2RvcTJCbXJKX2g2Z2VtTmtJY1pnTQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-07T11:57:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-07T11:57:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1BULV90YWNrWmtNeUhrM1RnTW4xSFc2dzB6czJEXzMyZm1kUmFIaFpFQ2lsaDNENzhyUDlybVV3MXVtQWxqWU5CSmVYUXFrQnhVRGgydUlVNy1Ia2xtOWFUcDl2em9QQzN1SWFscjFYZDN3SG50eW1oSTROay0wM1RuX2RvcTJCbXJKX2g2Z2VtTmtJY1pnTQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T12:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1hmWTJ0eVpVdEFwdGp2dFQ5RVRwLWpMcG80MDlqMFVsbWVVVDRYTjhSWDZhdlB3aFhJcDBIVnVDVXBaWEZJazRVNUZnc2JNTmZNUzJPVVBaMC1aaUJ1YWpCcW05NEdZbktNcW55S05SVmdwZURHN0VwM1FKVE9pZ1JGUVpxS3A3c1EycC1ab3dIZjlNc1N2aGxiZw"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-07T12:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jaU9LNHk5N3VBVFlGNmlSZXF3Z3hMdXVJVkJSaTFFWVpIOGZNY0hWYU84eXVZYVgyQURhQ2J4eHpJR01waUNHaVNaajRZOWp3WFE1TG1GVTl3U1cybnFfZWY0RWcwMS1BVnNNaXFjNTMwbFlUY3RaR1ByaVJNNm8"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-07T12:16:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORk4yRGJUcFdSaklDNzVLWGc3VW13MWlDUVdNNkdXNTI1MU9WUzRuQ3d2dmNrSzJ2UmgtNmRHNlhXc3dUWXlMaWlwOFFXbVNfcFEyeDZrV2lGTjNZNWtxVTBDQ2xBRDAzeV9aaldPbjhoNnBYX0Y3TDVDOXpOb0lwalBrRVlEUjZKVlgwQTZ5OGNfYjhNWlk0czRtVTF6aF9xYkdqVkJ1WnM4NUlyYlhHR2pPb0N4RTA1TFozMXphelJocDMxa2FCZms2M2hPNlEtcTN5cGNwUm9UMXZXb2JOYUFwUGVNc3hqUmxaZFNpV0FSekZNSjlqMGJmS1VhMlB0UWpZY3I4Z3F2eTBRQUE"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉等Robotaxi概念股跌16%至26%",
    "title_zh": "特斯拉、Rivian、Uber股价下跌16%-26%，Robotaxi时代谁值得买",
    "sentiment": 0
@@ -7457,31 +7495,6 @@
     "pct": -0.1,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "9bbedbe50822",
-   "title": "Tesla Model 3 Gets Speedy Upgrades Just In Time For Its 10th Birthday - CarBuzz",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLTNHdlA5Q182RUdod3p2ZjJXQThwU0FKMjE1VndqN0NCYkVRUVNJMFRMUnZQMVhDZ0tybXhkLUFqU29RNldhWGV0dHkwNHhRVXZwbG9vbmFuOGc3YXhRZERJaDBkVnc",
-   "source": "CarBuzz",
-   "published_at": "2026-10-05T14:05:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CarBuzz",
-     "published_at": "2026-10-05T14:05:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLTNHdlA5Q182RUdod3p2ZjJXQThwU0FKMjE1VndqN0NCYkVRUVNJMFRMUnZQMVhDZ0tybXhkLUFqU29RNldhWGV0dHkwNHhRVXZwbG9vbmFuOGc3YXhRZERJaDBkVnc"
-    },
-    {
-     "name": "carbuzz.com",
-     "published_at": "2026-10-05T14:05:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLTNHdlA5Q182RUdod3p2ZjJXQThwU0FKMjE1VndqN0NCYkVRUVNJMFRMUnZQMVhDZ0tybXhkLUFqU29RNldhWGV0dHkwNHhRVXZwbG9vbmFuOGc3YXhRZERJaDBkVnc"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "Model 3获快速升级迎十周年",
-   "title_zh": "Model 3获快速升级，恰逢十周年",
-   "sentiment": 1
   }
  ]
 }
