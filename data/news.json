@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T02:37:38.759754+00:00",
+ "updated_at": "2026-10-07T02:52:46.149668+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（123条已评分）"
+     "note": "今日新闻情绪 +0.25（125条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T02:37:38.748979+00:00"
+   "as_of": "2026-10-07T02:52:46.143178+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.25,
-   "count": 123
+   "count": 125
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d908e520ac6f",
+   "title": "特斯拉Robotaxi应用多国上架，但打车服务仍仅限美国七城 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHhGVjllU0picllDVWYwdFZNTTgzVE56UHZIYkpaV25PYjBNVHBVdW9hZkEwSktmclhER0pROVJneW81SC1VSFpJS2hkbXNQeE9velVOME9MOS1uRUpvelFnckhncTUyQ2I0dGwxUi1sY0hRN2xYSUxEWk85YUF1OW5ETVdpMnlK",
+   "source": "搜狐网",
+   "published_at": "2026-10-07T02:37:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-07T02:37:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHhGVjllU0picllDVWYwdFZNTTgzVE56UHZIYkpaV25PYjBNVHBVdW9hZkEwSktmclhER0pROVJneW81SC1VSFpJS2hkbXNQeE9velVOME9MOS1uRUpvelFnckhncTUyQ2I0dGwxUi1sY0hRN2xYSUxEWk85YUF1OW5ETVdpMnlK"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "445fb9c5b867",
    "title": "San Luis Obispo Police and Fire investigate fire at Tesla charging station - News Channel 3-12",
@@ -93,7 +110,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFBDZ2xlbVFwYUd0QXhYbTFpbkxsZmx2dnVqLWpXYU9aYkpNSDVqY2tfa195QVpkVVo3V0RaUU9McTdMeVY5a0FLNHRMRnlpVDA3YmZiMERwLW0xbFJZV0laeHNJa3V3WURLb1c4bHlCaDdoR2FGNnhfUVIxWHBxQ2hZWGtfVmcx",
    "source": "搜狐网",
    "published_at": "2026-10-07T02:15:04+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -104,6 +121,11 @@
      "name": "网通社",
      "published_at": "2026-10-07T02:18:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fc3JnZHVzUzhNeXVRMjdWOUk1ZUVwT19rQ2ZBVnhRQkZmUnVoTXhDNHY2WHZpUkRwSmxXRy1BSW0wMUlmYUo5ang1QU1jNXl0a0poc2dRWFR2STA"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-07T02:26:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84RGptSjBKcXpveFdKZjFjRVRFaFBaTUlDR0ROR1AyTG9IZ2pjQzFSb2NLbmllQ0dLS1E1UHpjUG1IYWQ1VzNsVERIZm0"
     }
    ],
    "category": "其他",
@@ -7932,26 +7954,6 @@
    "zh_summary": "特斯拉采用比亚迪电池引热议",
    "title_zh": "2011年马斯克嘲笑比亚迪，如今特斯拉用其电池 - 手机新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "a27996840eea",
-   "title": "Switzerland September 2026: Tesla Model Y breaks records at 7.7% share - Best Selling Cars Blog",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRURvNkRKSHRNSG8wOVhZZUl3TEFfVDBJVzdLandZU3l0NEpGUUhkbE1OM0VVb0Z6MmhWbExVMk9CU2VOZXJjWTFtZmR6WmRJUjFFU1MyWEVyUTh3ZUxsVnhvV1A3LW5wX0tVUU1DZV9WaXBhZV9LUy03MExSN2lzYmUtRTNxdGtQY3lnVFg1c056TFFSZktyZzRFd1ZGQ3dYOTd6eGdBMFd3Rnh3cWc",
-   "source": "Best Selling Cars Blog",
-   "published_at": "2026-10-05T07:57:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Best Selling Cars Blog",
-     "published_at": "2026-10-05T07:57:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRURvNkRKSHRNSG8wOVhZZUl3TEFfVDBJVzdLandZU3l0NEpGUUhkbE1OM0VVb0Z6MmhWbExVMk9CU2VOZXJjWTFtZmR6WmRJUjFFU1MyWEVyUTh3ZUxsVnhvV1A3LW5wX0tVUU1DZV9WaXBhZV9LUy03MExSN2lzYmUtRTNxdGtQY3lnVFg1c056TFFSZktyZzRFd1ZGQ3dYOTd6eGdBMFd3Rnh3cWc"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model Y在瑞士9月份额7.7%破纪录",
-   "title_zh": "瑞士9月：特斯拉Model Y以7.7%份额破纪录",
-   "sentiment": 1
   }
  ]
 }
