@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T16:37:31.565034+00:00",
+ "updated_at": "2026-10-07T16:52:34.584684+00:00",
  "market": {
-  "price": 375.79,
-  "change_pct": -1.28,
+  "price": 376.01,
+  "change_pct": -1.23,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,7 +16,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 41% 分位"
     },
     {
      "key": "目标价空间",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（80条已评分）"
+     "note": "今日新闻情绪 +0.28（82条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.79 vs 20日均线 $367.12"
+     "note": "现价 $376.01 vs 20日均线 $367.13"
     },
     {
      "key": "分析师动向",
@@ -39,14 +39,14 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
    "implied_upside_pct": 8.4,
-   "ma20": 367.12,
-   "as_of": "2026-10-07T16:37:31.555607+00:00"
+   "ma20": 367.13,
+   "as_of": "2026-10-07T16:52:34.579185+00:00"
   },
-  "pe_ttm": 103.9,
+  "pe_ttm": 104.0,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.4%空间：估值适中，预期中性",
   "next_delivery": {
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 80
+   "avg": 0.28,
+   "count": 82
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "e336c561c7cf",
+   "title": "\"He Had Days To Stop\": Dashcam Footage Shows Tesla Hit the Back of Jeep With Ages To Take Avoiding Action - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1pXSHU5TEthTllhd2I0RFoxX3hESkVFUDNrVmlsVjQySnNqOUFhbGJaWHM0NFA4azlvY1pCM0IwVlFvOGNXVlhrSldWSjI2MkN5UGlRVVFSNGlBMllzWDRZeEM5ZUk0eVhfNWY4eXZEdm8xOGFFaW9IdnhSbkpNVGpEVF9xT0NPdjZJUjVvV1pFOXlUdTl2QjJyQnc",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-07T16:36:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-07T16:36:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN1pXSHU5TEthTllhd2I0RFoxX3hESkVFUDNrVmlsVjQySnNqOUFhbGJaWHM0NFA4azlvY1pCM0IwVlFvOGNXVlhrSldWSjI2MkN5UGlRVVFSNGlBMllzWDRZeEM5ZUk0eVhfNWY4eXZEdm8xOGFFaW9IdnhSbkpNVGpEVF9xT0NPdjZJUjVvV1pFOXlUdTl2QjJyQnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "9016b0ef63bf",
+   "title": "Tesla Now Has Nearly 200 Cybercabs in Houston as Testing Ramps Up - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDlWTFFfbmhXY2JnSzRsNkdJNlNfT2ZkRmg2VkZTT1VadzFoZkp5YnQ2Y2xqRlY1TEFEa1pYbUE3ZHRMb1c2Q0NsR0tIQzVIcEdxd2xGbWVTV2VMWVFyZU42NE5odk9KMXQ3aE5FdENicXEyTmVsTmxNQlNVU1RJSw",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-07T16:36:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-07T16:36:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDlWTFFfbmhXY2JnSzRsNkdJNlNfT2ZkRmg2VkZTT1VadzFoZkp5YnQ2Y2xqRlY1TEFEa1pYbUE3ZHRMb1c2Q0NsR0tIQzVIcEdxd2xGbWVTV2VMWVFyZU42NE5odk9KMXQ3aE5FdENicXEyTmVsTmxNQlNVU1RJSw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "2d5884e05bd0",
    "title": "Tesla’s Cybertruck sales still unimpressive despite cheaper model - Electrek",
@@ -476,6 +510,23 @@
    "zh_summary": "瑞银维持特斯拉中性评级",
    "title_zh": "瑞银维持特斯拉中性评级",
    "sentiment": 0
+  },
+  {
+   "id": "bb41673bd878",
+   "title": "Tesla Rolls Out 2026 Halloween Update, Which Turns Your Car Into a \"Haunted House on Wheels\" - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUtRWnVnOWR1WWlVbVdyZHZjMzFraEd0SGh0NEtGME9XQ0w3ZW1xb0V1QVVOeEJGODBITm42UnNycHVTdF9vb1Fic25HN2RlekVwRXVrb19DMWFzS0QtMkEzbDlYNURldW1ldXE5YWNNNTRMdF9hZFJ6OTJCME9aY3hxMWZ2RWxXd2U2WVVhQWJrRXVIdjdIUTdIWnhSZnVDNU5tbmRHTHo1cXRBZzIyYWJwYU83ZW9WS0M1TFpweXkyWThLVXR2eVotcXBDUnp6S0E",
+   "source": "autoevolution",
+   "published_at": "2026-10-07T14:08:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "autoevolution",
+     "published_at": "2026-10-07T14:08:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUtRWnVnOWR1WWlVbVdyZHZjMzFraEd0SGh0NEtGME9XQ0w3ZW1xb0V1QVVOeEJGODBITm42UnNycHVTdF9vb1Fic25HN2RlekVwRXVrb19DMWFzS0QtMkEzbDlYNURldW1ldXE5YWNNNTRMdF9hZFJ6OTJCME9aY3hxMWZ2RWxXd2U2WVVhQWJrRXVIdjdIUTdIWnhSZnVDNU5tbmRHTHo1cXRBZzIyYWJwYU83ZW9WS0M1TFpweXkyWThLVXR2eVotcXBDUnp6S0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9767037626ee",
@@ -2293,7 +2344,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYm9RRDQ1c3RPdEZsTGJ4akVqcTY2cDBlV3M0aG9ZZHhWbm9MLXpoOW1oTHhWaU8xWUlEWUl2ZURfZHZFYXI0cWdPdmZ3RVZScW55VGtoRS1GYzZtbGtpenRIZUs1SDVSYk9ia0hMNWFCdjhmR24zUmQ0enFDblhTa3dvN3FQcWQ2",
    "source": "搜狐网",
    "published_at": "2026-10-07T01:18:30+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -2309,6 +2360,11 @@
      "name": "新浪网",
      "published_at": "2026-10-07T05:29:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmlWSC1LODhNUjVKZGdEUzFKVjV4NVY5UjFCZTVRUmpaOWhINkZmVEppcmhTaWp2N3hRVkZ2QXJtMXIzelBKYlRiOFNhaWl4N0pReGZOMEp2MkVCRXl2VF9fbEQ2b2x4dU1PcHpUWWE2U195NmZiV3AtclR4dlVfSS1ISFZqNVpYWG9NbHd3"
+    },
+    {
+     "name": "太平洋汽车网",
+     "published_at": "2026-10-07T16:38:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRaDJDSVotTlNoNjRrVFo3aXFRejd6RW1iUjhxOHhrc3F5d0gyMzNnS19ScGZMSG44cXRrd3FHTkNDc015ZHd3UzgwWnV0cThlQW9oRndPbThMOFBHZkVIMQ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -7228,80 +7284,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Robotaxi夜间运营延长至23点",
    "title_zh": "特斯拉Robotaxi夜间运营延长至23点，纯视觉方案正攻克夜间宠物识别难题 - 网通社",
-   "sentiment": 1
-  },
-  {
-   "id": "837face0b550",
-   "title": "New Tesla Model 3 Gets Bigger Screen, Extra Power - thetruthaboutcars.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3MxLV9YTjQzZUVVMTdvb0h3bFVGczJBbldrMFhBRzhoSEhwbFZDRjBmQy1ZUEhDZ2l4S21wZ0tkWVpmRXpCZ0dDYUhvdE9aX2lEdnJvN09rS2xyMThGazY0eERES3dIdjhyN1Q4eEF6VnhyMHJlWE1WZ2NNSFlfLXZzQnZVMEhsVlFna2FhckQ1VkNSTkRyNVA1MTJnVEpBbzB3R2JDUTQ",
-   "source": "thetruthaboutcars.com",
-   "published_at": "2026-10-05T18:30:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "thetruthaboutcars.com",
-     "published_at": "2026-10-05T18:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3MxLV9YTjQzZUVVMTdvb0h3bFVGczJBbldrMFhBRzhoSEhwbFZDRjBmQy1ZUEhDZ2l4S21wZ0tkWVpmRXpCZ0dDYUhvdE9aX2lEdnJvN09rS2xyMThGazY0eERES3dIdjhyN1Q4eEF6VnhyMHJlWE1WZ2NNSFlfLXZzQnZVMEhsVlFna2FhckQ1VkNSTkRyNVA1MTJnVEpBbzB3R2JDUTQ"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-05T20:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVlPZEFtb2ZRejVmN2R4UjdWUHJjdHdLOUcwLWY3dGljbEh6X2UtRkYyMXVHRmRYR3lseFp5bnI2X0Y4MmFMdTBrRVRZYlBzM2dDQVNzOHZVNmFRbE1HcmtKQkZWTG40MEtJLURWSmdxWHYxVWhOcU9KR2g3UklGVFdYVTA3dGNVYTRLQm1JVmRXbHA5RTJTeGFNUWludUU"
-    },
-    {
-     "name": "autos.yahoo.com",
-     "published_at": "2026-10-05T20:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQVlPZEFtb2ZRejVmN2R4UjdWUHJjdHdLOUcwLWY3dGljbEh6X2UtRkYyMXVHRmRYR3lseFp5bnI2X0Y4MmFMdTBrRVRZYlBzM2dDQVNzOHZVNmFRbE1HcmtKQkZWTG40MEtJLURWSmdxWHYxVWhOcU9KR2g3UklGVFdYVTA3dGNVYTRLQm1JVmRXbHA5RTJTeGFNUWludUU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "新款Model 3屏幕更大动力更强",
-   "title_zh": "新款特斯拉Model 3屏幕更大，动力更强",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.44,
-    "window_h": 1.5
-   }
-  },
-  {
-   "id": "b1fa9c9003af",
-   "title": "Tesla’s Roadster Faces Another Delay Due to Texas Weather - Kelley Blue Book",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVdnWkpqTmpfa19aSTFiOHVLMVBWX21CMEMzRkU5WTY0R25LRUk0TXZibkFvRGZ5N0hNSGl4d184aC0xUVJNUWdEdHZIWlp2dXY0ZFN1dzB4MTlyeUxYcDc4Ri1ONzZFeHVkeHAteWdHNGZuay13d0t1OGdHN3owS3htLWlZcGVMdzVwTl9RRQ",
-   "source": "Kelley Blue Book",
-   "published_at": "2026-10-05T18:27:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Kelley Blue Book",
-     "published_at": "2026-10-05T18:27:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVdnWkpqTmpfa19aSTFiOHVLMVBWX21CMEMzRkU5WTY0R25LRUk0TXZibkFvRGZ5N0hNSGl4d184aC0xUVJNUWdEdHZIWlp2dXY0ZFN1dzB4MTlyeUxYcDc4Ri1ONzZFeHVkeHAteWdHNGZuay13d0t1OGdHN3owS3htLWlZcGVMdzVwTl9RRQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Roadster因得州天气再延期",
-   "title_zh": "特斯拉Roadster因得州天气再度延期",
-   "sentiment": -1
-  },
-  {
-   "id": "4cbc3887b397",
-   "title": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report — Wall Street Expects Year-On-Year Growth - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-05T18:26:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-05T18:26:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "TSLA四连涨，投行预计交付同比增长",
-   "title_zh": "TSLA连续第四日上涨，周四交付报告前华尔街预计同比增长",
    "sentiment": 1
   }
  ]
