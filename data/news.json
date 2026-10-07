@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T18:07:31.910337+00:00",
+ "updated_at": "2026-10-07T18:22:26.461372+00:00",
  "market": {
-  "price": 376.87,
-  "change_pct": -1.0,
+  "price": 376.23,
+  "change_pct": -1.17,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +8.1%"
+     "note": "目标价中位数 $408（14家），隐含空间 +8.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（96条已评分）"
+     "note": "今日新闻情绪 +0.26（97条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.87 vs 20日均线 $367.18"
+     "note": "现价 $376.23 vs 20日均线 $367.15"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 8.1,
-   "ma20": 367.18,
-   "as_of": "2026-10-07T18:07:31.903652+00:00"
+   "implied_upside_pct": 8.3,
+   "ma20": 367.15,
+   "as_of": "2026-10-07T18:22:26.449988+00:00"
   },
-  "pe_ttm": 104.2,
+  "pe_ttm": 104.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.26,
-   "count": 96
+   "count": 97
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "b57df3178feb",
+   "title": "Pineapple thrown at Tesla damages windshield - Cincinnati Enquirer",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTRMXzNyZW8yUGlLeUl0cUFKcmZ3aG1COG4xWGczY1dqVjFHNUVTal9ZdndMY3pUMU15YWREMUNZMDE3SGcyZUVKamlvZ1FnQ0hmVWYyckhqdXZkdE9VcVI1TEdpTVY1WmpXNGhpNDgxbE1USHRCR2ZsdkFFVE11RlFmdU16WDFVeGU3cms3Z1pFR1k1dlpudjQ5bXNpN2htU043VHE1b3V0LWM",
+   "source": "Cincinnati Enquirer",
+   "published_at": "2026-10-07T18:13:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Cincinnati Enquirer",
+     "published_at": "2026-10-07T18:13:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTRMXzNyZW8yUGlLeUl0cUFKcmZ3aG1COG4xWGczY1dqVjFHNUVTal9ZdndMY3pUMU15YWREMUNZMDE3SGcyZUVKamlvZ1FnQ0hmVWYyckhqdXZkdE9VcVI1TEdpTVY1WmpXNGhpNDgxbE1USHRCR2ZsdkFFVE11RlFmdU16WDFVeGU3cms3Z1pFR1k1dlpudjQ5bXNpN2htU043VHE1b3V0LWM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "ac4af4a187ad",
+   "title": "Tesla's Cybercab's Have To Stop at 11PM or They Might Run Over Your Pet - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZElQeko2Z3ltTnUyaWJUXzk1SkxIY1k0ZFphUWQySEVJWUR0eWZpYWRYeUVpUGFldzFWZzFKOFZXa3BJd2hiWmhJNTA3cUZuS2R3V0R0VUpObUowVVZ0bUcwWWtLT0ZwLVdyaFE0VVExNEtRU2pWbEtmdlZOWHYtZkdwVGtENl9LeDUtVjRpSEtQUHFWS1h2aUQ1akh1Rzdl",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-07T18:06:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-07T18:06:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZElQeko2Z3ltTnUyaWJUXzk1SkxIY1k0ZFphUWQySEVJWUR0eWZpYWRYeUVpUGFldzFWZzFKOFZXa3BJd2hiWmhJNTA3cUZuS2R3V0R0VUpObUowVVZ0bUcwWWtLT0ZwLVdyaFE0VVExNEtRU2pWbEtmdlZOWHYtZkdwVGtENl9LeDUtVjRpSEtQUHFWS1h2aUQ1akh1Rzdl"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "809ec6680da3",
+   "title": "Tesla Semi lands 50-truck order from drayage carrier IMC - FreightWaves",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54TzQ3NDRtSFhmMk05OEV3N3ZBc3Z1M1hsWGZhako0bnEydWNWXzhuN3FDZjVlQXZhTVJ2aDU1RXRnSE11MzVxZjcwaDk1N0ZKTy16Rl9Zakx3QTY1TG0yNm44akN0T0tjbDFKVkZjWTUtdw",
+   "source": "FreightWaves",
+   "published_at": "2026-10-07T18:05:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FreightWaves",
+     "published_at": "2026-10-07T18:05:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54TzQ3NDRtSFhmMk05OEV3N3ZBc3Z1M1hsWGZhako0bnEydWNWXzhuN3FDZjVlQXZhTVJ2aDU1RXRnSE11MzVxZjcwaDk1N0ZKTy16Rl9Zakx3QTY1TG0yNm44akN0T0tjbDFKVkZjWTUtdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "bab6c7cb68c4",
+   "title": "AI boom, Gen Z’s ‘vibecession’ and Tesla’s $40B chip bet - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXd5RGhheFhLR2VhS3JrY2JwLWVPNk5UbHBRQUxKLTFRMWhzUFpKYi1WS3hwa09zQm5UaUt0OEwyWkJnTWtIYzlMSzlXWG1IUDNhUldDVVVhXzBuMS1YampHVHJISU41TE1YcXVITHlBOXJTMjlTQnRqbER5d1BITWo4cXFSUERoUmE4WXdtamdhcFhDUjZKRjFHajhBQQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-07T18:02:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T18:02:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXd5RGhheFhLR2VhS3JrY2JwLWVPNk5UbHBRQUxKLTFRMWhzUFpKYi1WS3hwa09zQm5UaUt0OEwyWkJnTWtIYzlMSzlXWG1IUDNhUldDVVVhXzBuMS1YampHVHJISU41TE1YcXVITHlBOXJTMjlTQnRqbER5d1BITWo4cXFSUERoUmE4WXdtamdhcFhDUjZKRjFHajhBQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "9e71554cea5e",
    "title": "Tesla Expands Powershare and V2L To Model 3 and Model Y, Here's How To Verify if Yours Is Compatible - autoevolution",
@@ -153,16 +221,33 @@
    "sentiment": 1
   },
   {
+   "id": "30eafb8f0601",
+   "title": "Tesla FSD Just Got The Green Light From Germany. But It Might Need A New Name - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdmJ0QlgydFcyZWNMOUVlaTV5OWN6Sm1ocnBzS3dpNzg5Y0xLYmtEbi1jNU5LQ0J3R0ZiMXE2WjFib2FmY0w2OEkxeXhwTnEyVXZydmNsYzdiQ2Q5OXRkdkltV3NTLWVsNWg5aUZvWTBmSlVGQ3l3UFVvU0Y5RHVZUml5S1J6ZWppcC1neE9xcnQzQ0N5X2c",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-07T17:18:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-07T17:18:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdmJ0QlgydFcyZWNMOUVlaTV5OWN6Sm1ocnBzS3dpNzg5Y0xLYmtEbi1jNU5LQ0J3R0ZiMXE2WjFib2FmY0w2OEkxeXhwTnEyVXZydmNsYzdiQ2Q5OXRkdkltV3NTLWVsNWg5aUZvWTBmSlVGQ3l3UFVvU0Y5RHVZUml5S1J6ZWppcC1neE9xcnQzQ0N5X2c"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "a2e78ca5229a",
    "title": "Tesla FSD changed its mind mid-intersection, and it may have saved a life - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kdGdudHhyb1VwM3FKN2JjdTYtMnFWSlV4V0NfX0JCT1k5NWRYR3lic0tpeEdpOXFoTnZEZkxuS01uYlBFSHVWR1JyT3RBM2IzTkl5ZlNUR1Joa3puMzd4QzJSTENnVFE",
    "source": "Teslarati",
-   "published_at": "2026-10-07T17:17:28+00:00",
+   "published_at": "2026-10-07T17:16:45+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Teslarati",
-     "published_at": "2026-10-07T17:17:28+00:00",
+     "published_at": "2026-10-07T17:16:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kdGdudHhyb1VwM3FKN2JjdTYtMnFWSlV4V0NfX0JCT1k5NWRYR3lic0tpeEdpOXFoTnZEZkxuS01uYlBFSHVWR1JyT3RBM2IzTkl5ZlNUR1Joa3puMzd4QzJSTENnVFE"
     }
    ],
@@ -1120,26 +1205,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉可伸缩主动尾翼专利曝光",
    "title_zh": "特斯拉可伸缩主动尾翼专利曝光",
-   "sentiment": 0
-  },
-  {
-   "id": "3c1ed440231d",
-   "title": "The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn",
-   "source": "WSJ",
-   "published_at": "2026-10-07T12:31:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-07T12:31:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "WSJ：与特斯拉竞逐机器人未来的车企",
-   "title_zh": "与特斯拉竞逐机器人未来的车企是谁——WSJ",
    "sentiment": 0
   },
   {
@@ -3180,26 +3245,6 @@
    "zh_summary": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "title_zh": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "sentiment": 0
-  },
-  {
-   "id": "f6764bd50174",
-   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
-   "source": "东方财富",
-   "published_at": "2026-10-06T19:09:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-06T19:09:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价反弹马斯克身家万亿",
-   "title_zh": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "sentiment": 1
   },
   {
    "id": "ed46cfb297ca",
@@ -7151,81 +7196,6 @@
     "pct": -0.16,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "897aea676f3a",
-   "title": "Rivian posts record Q3 deliveries as Tesla sales slip but beat expectations - Car Dealership Guy News",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEFJRzAzOWZILVVnZUtnZ2lsS2hZRmdSRTJSc25tVmxIZXc3Z1lMamFGTzZfbEZ4bjBBbE0xNm5TQzF4RXVfSHhnc0NwYjBJQ21NTWQ0ZThlRWx4SXQ2YTBranFqekdScWpxamZCWW94anJHbXM3MElncEhqT1FYWjBqYkZScDNhLTRZcDExdlVqTHNyVmhIV1ZYUG5UeWtLNjRmM3cyekhYWGFx",
-   "source": "Car Dealership Guy News",
-   "published_at": "2026-10-05T20:50:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Car Dealership Guy News",
-     "published_at": "2026-10-05T20:50:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEFJRzAzOWZILVVnZUtnZ2lsS2hZRmdSRTJSc25tVmxIZXc3Z1lMamFGTzZfbEZ4bjBBbE0xNm5TQzF4RXVfSHhnc0NwYjBJQ21NTWQ0ZThlRWx4SXQ2YTBranFqekdScWpxamZCWW94anJHbXM3MElncEhqT1FYWjBqYkZScDNhLTRZcDExdlVqTHNyVmhIV1ZYUG5UeWtLNjRmM3cyekhYWGFx"
-    },
-    {
-     "name": "news.dealershipguy.com",
-     "published_at": "2026-10-05T20:50:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEFJRzAzOWZILVVnZUtnZ2lsS2hZRmdSRTJSc25tVmxIZXc3Z1lMamFGTzZfbEZ4bjBBbE0xNm5TQzF4RXVfSHhnc0NwYjBJQ21NTWQ0ZThlRWx4SXQ2YTBranFqekdScWpxamZCWW94anJHbXM3MElncEhqT1FYWjBqYkZScDNhLTRZcDExdlVqTHNyVmhIV1ZYUG5UeWtLNjRmM3cyekhYWGFx"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "特斯拉三季度销量下滑但超预期",
-   "title_zh": "Rivian三季度交付创纪录，特斯拉销量下滑但超预期",
-   "sentiment": 1
-  },
-  {
-   "id": "0f5f9eb61a8f",
-   "title": "Tesla's Q3 Delivery Beat Is Just the Start: Gene Munster Says TSLA Will ‘Crush Traditional Automakers’ - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXNCd0J3cHR2SUdKMFFhNUtkM1UtaDN0QzBaRlNwRHNOOS04REJrM2VVZ1lUWnFOQ29aNHpNZDNVU0dEbjAwZVhpcUxKRVNXMUVtVGdYbXVrOFRVTml6eDFlZFdlLXRiQkVPdlJ2WDZINDhqZ3VXZ3Fsc1dnVS1CaERxQ213dGV0QnZ5V0xvUlFvU1dlYkxkNnhpUUdFd0lsR0dIbWNGdml6ZEp2X0puQXhZaFhvemo5Zmxvc3RuUGtzMktYRWwyTzc0bFctY1I0OXczeXl3TUxzRkQtSjJZNUM4a2RGZzVuNmdic19UZ0Z3bTZwQVE",
-   "source": "Benzinga",
-   "published_at": "2026-10-05T20:49:24+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-05T20:49:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXNCd0J3cHR2SUdKMFFhNUtkM1UtaDN0QzBaRlNwRHNOOS04REJrM2VVZ1lUWnFOQ29aNHpNZDNVU0dEbjAwZVhpcUxKRVNXMUVtVGdYbXVrOFRVTml6eDFlZFdlLXRiQkVPdlJ2WDZINDhqZ3VXZ3Fsc1dnVS1CaERxQ213dGV0QnZ5V0xvUlFvU1dlYkxkNnhpUUdFd0lsR0dIbWNGdml6ZEp2X0puQXhZaFhvemo5Zmxvc3RuUGtzMktYRWwyTzc0bFctY1I0OXczeXl3TUxzRkQtSjJZNUM4a2RGZzVuNmdic19UZ0Z3bTZwQVE"
-    },
-    {
-     "name": "benzinga.com",
-     "published_at": "2026-10-05T20:49:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXNCd0J3cHR2SUdKMFFhNUtkM1UtaDN0QzBaRlNwRHNOOS04REJrM2VVZ1lUWnFOQ29aNHpNZDNVU0dEbjAwZVhpcUxKRVNXMUVtVGdYbXVrOFRVTml6eDFlZFdlLXRiQkVPdlJ2WDZINDhqZ3VXZ3Fsc1dnVS1CaERxQ213dGV0QnZ5V0xvUlFvU1dlYkxkNnhpUUdFd0lsR0dIbWNGdml6ZEp2X0puQXhZaFhvemo5Zmxvc3RuUGtzMktYRWwyTzc0bFctY1I0OXczeXl3TUxzRkQtSjJZNUM4a2RGZzVuNmdic19UZ0Z3bTZwQVE"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "Munster称特斯拉将碾压传统车企",
-   "title_zh": "Gene Munster：特斯拉Q3交付超预期只是开始，将碾压传统车企",
-   "sentiment": 1
-  },
-  {
-   "id": "3579f91af323",
-   "title": "Tesla (TSLA) Laps the Stock Market: Here's Why - finance.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZV9NN3F2djY2N3dVclhTNUVJYTYtYmYtWVdiTG9WSG5FaVh0UkhnZmpNcTdwdXJHWjU3MkFZSlh6bm9kTWNsQ1lUX25MNDZRVzh6dzFURTNMYkkzSC1iY0huSXZPbGtVZjRiamtHTWNYY2J2X2xqZm1kdHdwWmx4QlVMRzA0WFBmTHQxNi1Ta1laOWlwQ0xxdg",
-   "source": "finance.yahoo.com",
-   "published_at": "2026-10-05T20:45:03+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T20:45:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZV9NN3F2djY2N3dVclhTNUVJYTYtYmYtWVdiTG9WSG5FaVh0UkhnZmpNcTdwdXJHWjU3MkFZSlh6bm9kTWNsQ1lUX25MNDZRVzh6dzFURTNMYkkzSC1iY0huSXZPbGtVZjRiamtHTWNYY2J2X2xqZm1kdHdwWmx4QlVMRzA0WFBmTHQxNi1Ta1laOWlwQ0xxdg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T20:45:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZV9NN3F2djY2N3dVclhTNUVJYTYtYmYtWVdiTG9WSG5FaVh0UkhnZmpNcTdwdXJHWjU3MkFZSlh6bm9kTWNsQ1lUX25MNDZRVzh6dzFURTNMYkkzSC1iY0huSXZPbGtVZjRiamtHTWNYY2J2X2xqZm1kdHdwWmx4QlVMRzA0WFBmTHQxNi1Ta1laOWlwQ0xxdg"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "特斯拉股价跑赢大盘",
-   "title_zh": "特斯拉股价跑赢大盘，原因何在",
-   "sentiment": 1
   }
  ]
 }
