@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T15:52:30.184035+00:00",
+ "updated_at": "2026-10-07T16:07:34.291390+00:00",
  "market": {
-  "price": 376.34,
-  "change_pct": -1.14,
+  "price": 375.84,
+  "change_pct": -1.27,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +8.3%"
+     "note": "目标价中位数 $408（14家），隐含空间 +8.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（74条已评分）"
+     "note": "今日新闻情绪 +0.33（75条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.34 vs 20日均线 $367.15"
+     "note": "现价 $375.84 vs 20日均线 $367.12"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 40,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 8.3,
-   "ma20": 367.15,
-   "as_of": "2026-10-07T15:52:30.171827+00:00"
+   "implied_upside_pct": 8.4,
+   "ma20": 367.12,
+   "as_of": "2026-10-07T16:07:34.280403+00:00"
   },
-  "pe_ttm": 104.1,
+  "pe_ttm": 103.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.34,
-   "count": 74
+   "avg": 0.33,
+   "count": 75
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f6d77194a8ab",
+   "title": "Shelter In Place Orders Issued After Tesla Catches Fire In Santa Clarita - KHTS Radio",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQmZ1cmN6QnJHX1pJZER6S1QzOC15NGItV0NWX2d2RzhnaHlJWm4xWHpVT2l3TlJDNzNaSC1Dd0J5ZkxQa2VNU1VkU2ZMaU1LUHFpOG9tVjNpQW54a1ZBeXV6XzVlS1YySGpYOFlDRnByYkRacUc2Q1htSjU1YXVHNlMtZXVYajBtSFB3VVduT1hyVkxlNGJJS29MaGcwVV84dm1GWlk0aTRxYWpYRW4xYm1ZNG8tZ0RlQzFZUzdCS0FOWVpqa3JOX2loYlh2UG94Wlh3YjBPQ1Z5ejhQU2VmQkVzVjgtc1ZxMzVERklNbmJOVTNuRkE",
+   "source": "KHTS Radio",
+   "published_at": "2026-10-07T15:59:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KHTS Radio",
+     "published_at": "2026-10-07T15:59:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQmZ1cmN6QnJHX1pJZER6S1QzOC15NGItV0NWX2d2RzhnaHlJWm4xWHpVT2l3TlJDNzNaSC1Dd0J5ZkxQa2VNU1VkU2ZMaU1LUHFpOG9tVjNpQW54a1ZBeXV6XzVlS1YySGpYOFlDRnByYkRacUc2Q1htSjU1YXVHNlMtZXVYajBtSFB3VVduT1hyVkxlNGJJS29MaGcwVV84dm1GWlk0aTRxYWpYRW4xYm1ZNG8tZ0RlQzFZUzdCS0FOWVpqa3JOX2loYlh2UG94Wlh3YjBPQ1Z5ejhQU2VmQkVzVjgtc1ZxMzVERklNbmJOVTNuRkE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b0c3147d8d13",
+   "title": "Tesla rolls out FSD V14.3.11 alongside V14.3 Lite for HW3 [2026.33.5] - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqZDNKOEE3VGpxN19vWFRVLXZ5ekh3NlVLUlJFSnE0cXFYMFdsWm9NbEM4RmplU19KcEViTzk2dXMtaWZ0SlJCS1FXd0hZTVpKdW1KdjBtSTVQS05Hc2NSU2tBUE5DNGpPV3hzU25neE4xWkYxR0E",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-07T15:58:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-07T15:58:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqZDNKOEE3VGpxN19vWFRVLXZ5ekh3NlVLUlJFSnE0cXFYMFdsWm9NbEM4RmplU19KcEViTzk2dXMtaWZ0SlJCS1FXd0hZTVpKdW1KdjBtSTVQS05Hc2NSU2tBUE5DNGpPV3hzU25neE4xWkYxR0E"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "565ad3512e78",
    "title": "【视频】新款改款特斯拉Model Y搭载首款间接反射式车身面板尾灯 - 汽车之家",
@@ -723,26 +757,6 @@
    "sentiment": 0
   },
   {
-   "id": "3c1ed440231d",
-   "title": "The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn",
-   "source": "WSJ",
-   "published_at": "2026-10-07T12:31:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-07T12:31:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华尔街日报关注特斯拉的机器人竞争对手",
-   "title_zh": "The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ",
-   "sentiment": 0
-  },
-  {
    "id": "badf562b4617",
    "title": "【视频】露营耐磨耐造特斯拉Model Y脚垫，预算900上下专车专用 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XN2R3dGxsM2twcjBxaVVyWURBRnlVTlY0cTZuM2FzR3dVTWhaeFNOeU5wVUJaOUhsQWhQdUpvYTFBSTFmNDZzaG1OR0h2NkluTThTc3JaNWw4TDg",
@@ -1162,6 +1176,23 @@
    "sentiment": 0
   },
   {
+   "id": "1c108c92a49a",
+   "title": "【视频】特斯拉冬季用车小妙招来了！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVEJyd2xwNDZfT0pCUmFtc01lVmV6VzdvWkJaRVJUcmZjcTU2bXh1WHZXcEQxYVVqM2t0YWtvMVB5N255ZVFoMFBvbVZ4SDJSWk0xQ3VjOGRQWGhKQzNQOE5uZlNSckh4UnJB",
+   "source": "汽车之家",
+   "published_at": "2026-10-07T10:02:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-07T10:02:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVEJyd2xwNDZfT0pCUmFtc01lVmV6VzdvWkJaRVJUcmZjcTU2bXh1WHZXcEQxYVVqM2t0YWtvMVB5N255ZVFoMFBvbVZ4SDJSWk0xQ3VjOGRQWGhKQzNQOE5uZlNSckh4UnJB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "cb4fa1cfa664",
    "title": "马斯克对德国方面支持特斯拉FSD表示欢迎。 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DbXVhSTdBaGRjRUtlVGtlNE84TUFoekdqcWVnRVFodHB0Qm95d2FEbzFQcl91N2NhM1NlMnh5dUE2RTAwY2RlX3k0MlNscDRBSTlXdHNuOXNXMDlLUURmSTZacnUzMUFWQ3I5UUNicjlZVmVwUkxMTg",
@@ -1207,7 +1238,7 @@
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTTdrQWZFV2R3djB6c0hRQ2NaUV9xQkY0YzJyekZqNU1vYW43R0VmUjhVY1FmVk5SWGpaUTNER2RmTU9rNkJyVW95R2E0T1RMV0FRajUzbmZLMGN1cURENndENDBIWU5TZlowQk1KRXBCZjdtbU1FaFktalVjYy1Ebk5rUDdnaDR0QjVVdDhCelpjN3NDUmJQcV93RjZta2lGZFFtRU03T3VTb0hNWWRjcnd3RVZrSlR6NlpXN3lHTnUtVHVBOFZQSUZzQ1NmVTJiRFZoaTh4TDV2cl9pbk90VDhGeEdiYmgzVkdWNDRiN04",
    "source": "TradingView",
    "published_at": "2026-10-07T09:31:41+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "TradingView",
@@ -1243,6 +1274,11 @@
      "name": "Euronext Markets: Real-time Stock Market Data | live",
      "published_at": "2026-10-07T15:04:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODBhbE5Xc241aW5mcFU4YVdjMHI1eGE5Ri02RVNhU1pGRE9mTmM1MDlPeDhkSXU5ZDNVb1lWX2o4dGNiSUFvQnBZaFVYNlhvUWlsX1ZOaVNwQUNEVnY4VmZpTTVMZzBmQzV0X0JEa0JxYkx6U3Y2T2IzLUhOTHJsVHNwRVNYeVVXVHItaEg5YU0wSE83MThValJwYVEwSFF6SFBzWmpOUGgwVExqcWQxSDhQQTJVWC1WSWNVWFJTbWNkU1BZ"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "published_at": "2026-10-07T09:49:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdW5yWEtSb1JDYnVocEhLb2E1ZzFIeVRpMlVkREVPeUtSc2dORVRuQWd3c2VtMFlBU1BiVGdmQ2M0dlVRVWloczMybTlBbEZiWEhQRGtPcTNWZzVlZDRHb2JDbUtaX29rdGpTQmMtU21KRFFTUGw0cVc5Z0xhNm5HaU13bDloVDU2cjhTMHlWMVZ4TzRxNkc0MHFvYURnVUw5RVJvVWZ0ek5kUURFaXlFQWlrNGVFNXNQTERDWW9sUkpTcGkwT2xGYkZ3TGNuWkVuTzVHMDBLYTE5dGN2TDJHNENFenRhTDZZZE9GSHBMRTBoM1E3NXBlLWFiU0Y2c2NQa1FjWWdTU0tpV2VCZXlzejdzTjg1QUFa"
     }
    ],
    "category": "马斯克",
@@ -7314,56 +7350,6 @@
    "zh_summary": "60多只美股含特斯拉将上链",
    "title_zh": "60多只美股含英伟达特斯拉将上链，运作机制解析",
    "sentiment": 0
-  },
-  {
-   "id": "a6be6d15bab3",
-   "title": "Tesla’s Q3 deliveries beat expectations; GMC’s Denali, AT4 gamble - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWR6RXk0U24yeGxpX19QdDUwOVptUlo2S042U1hMMzRXM0FMeUw3ZGVXOGhwTlo4MXJWTGJuZHR2MGtIUmY5aHR2TmhsS3ZsOERnMHRmdUdpYzhnM3U2VXhINi1PM0MwRWpvby10UG1Yd2IwYzd0VlJHdlo2RHRBWS1mMDh5WEE5SkoyTTBDeW8",
-   "source": "Automotive News",
-   "published_at": "2026-10-05T17:43:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Automotive News",
-     "published_at": "2026-10-05T17:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWR6RXk0U24yeGxpX19QdDUwOVptUlo2S042U1hMMzRXM0FMeUw3ZGVXOGhwTlo4MXJWTGJuZHR2MGtIUmY5aHR2TmhsS3ZsOERnMHRmdUdpYzhnM3U2VXhINi1PM0MwRWpvby10UG1Yd2IwYzd0VlJHdlo2RHRBWS1mMDh5WEE5SkoyTTBDeW8"
-    },
-    {
-     "name": "autonews.com",
-     "published_at": "2026-10-05T17:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWR6RXk0U24yeGxpX19QdDUwOVptUlo2S042U1hMMzRXM0FMeUw3ZGVXOGhwTlo4MXJWTGJuZHR2MGtIUmY5aHR2TmhsS3ZsOERnMHRmdUdpYzhnM3U2VXhINi1PM0MwRWpvby10UG1Yd2IwYzd0VlJHdlo2RHRBWS1mMDh5WEE5SkoyTTBDeW8"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉三季度交付超预期",
-   "title_zh": "特斯拉三季度交付超预期；GMC豪华车线加码",
-   "sentiment": 1
-  },
-  {
-   "id": "7b2fa07eeac8",
-   "title": "Rivian Deliveries Jump 46%, but Its Stock Falls as Tesla Stock Jumps - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXRxc3JMUkpocms3SWZ5LTd2STQxWFhlLW1scEhGa295NHBFRHFKZEtObDV0RFdPTWJVUWlqbU5Nck1rOVd2cTAxa2M4ZHJmbmhfQ3o3bkxLdkNoMVlHcnU3YkFJbndjVkZfbTVBeUtjMzllTWpxbTNndHRUVDRJTEo4UjBPakNxRVQtMXhfLV9TT2tKVlQ5U1dJNlA",
-   "source": "Autoblog",
-   "published_at": "2026-10-05T17:30:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-05T17:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXRxc3JMUkpocms3SWZ5LTd2STQxWFhlLW1scEhGa295NHBFRHFKZEtObDV0RFdPTWJVUWlqbU5Nck1rOVd2cTAxa2M4ZHJmbmhfQ3o3bkxLdkNoMVlHcnU3YkFJbndjVkZfbTVBeUtjMzllTWpxbTNndHRUVDRJTEo4UjBPakNxRVQtMXhfLV9TT2tKVlQ5U1dJNlA"
-    },
-    {
-     "name": "autoblog.com",
-     "published_at": "2026-10-05T17:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXRxc3JMUkpocms3SWZ5LTd2STQxWFhlLW1scEhGa295NHBFRHFKZEtObDV0RFdPTWJVUWlqbU5Nck1rOVd2cTAxa2M4ZHJmbmhfQ3o3bkxLdkNoMVlHcnU3YkFJbndjVkZfbTVBeUtjMzllTWpxbTNndHRUVDRJTEo4UjBPakNxRVQtMXhfLV9TT2tKVlQ5U1dJNlA"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "Rivian交付增46%，特斯拉股价上涨",
-   "title_zh": "Rivian交付增46%但股价下跌，特斯拉走高",
-   "sentiment": 1
   }
  ]
 }
