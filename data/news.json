@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T13:37:29.246541+00:00",
+ "updated_at": "2026-10-07T13:52:38.423492+00:00",
  "market": {
-  "price": 380.3,
-  "change_pct": -0.1,
+  "price": 377.48,
+  "change_pct": -0.84,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -10,45 +10,45 @@
    "days_left": 14
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 41% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.2%"
+     "note": "目标价中位数 $408（14家），隐含空间 +8.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（46条已评分）"
+     "note": "今日新闻情绪 +0.42（48条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.30 vs 20日均线 $367.33"
+     "note": "现价 $377.48 vs 20日均线 $367.21"
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.2,
-   "ma20": 367.33,
-   "as_of": "2026-10-07T13:37:29.238543+00:00"
+   "implied_upside_pct": 8.0,
+   "ma20": 367.21,
+   "as_of": "2026-10-07T13:52:38.416270+00:00"
   },
-  "pe_ttm": 105.2,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "pe_ttm": 104.4,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 46
+   "avg": 0.42,
+   "count": 48
   }
  },
  "meta": {
@@ -67,6 +67,114 @@
   }
  },
  "stories": [
+  {
+   "id": "93e4aebfddc2",
+   "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype? - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU",
+   "source": "WSJ",
+   "published_at": "2026-10-07T13:43:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-07T13:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "5585f90221c3",
+   "title": "Yorkville Ives & Co维持特斯拉(TSLA.US)买入评级，下调目标价至500美元 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHhjWFduMFFFaW9zRGd0YmlrR1Y2cVBpTlJnOEMtSzZSM2x6WEFWMklKeGhCcjgyTlhxWDlLcS1KTUU5NURFcV9jcGt5VXZRMlh2OEFIR3VrSkVhOGJLdjRaY09xYWNXMmhzQkhReml5enpzbjEyN1lKTmg3MWtKZHRSUGRSV2tFUm96Y2JpU3h3WHdFdzlQS0N1azY4aUcxaDJMczN3c1g0a1Q3RW1r",
+   "source": "Moomoo",
+   "published_at": "2026-10-07T13:41:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-07T13:41:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHhjWFduMFFFaW9zRGd0YmlrR1Y2cVBpTlJnOEMtSzZSM2x6WEFWMklKeGhCcjgyTlhxWDlLcS1KTUU5NURFcV9jcGt5VXZRMlh2OEFIR3VrSkVhOGJLdjRaY09xYWNXMmhzQkhReml5enpzbjEyN1lKTmg3MWtKZHRSUGRSV2tFUm96Y2JpU3h3WHdFdzlQS0N1azY4aUcxaDJMczN3c1g0a1Q3RW1r"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "2d5e2f247306",
+   "title": "Tesla Q3 Results Key to Valuation, Margins - TradingPedia",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcmVIQVBqa21aWl81SThGRFlEcEVtd2R5WF9YcUhuMW1pQ2lQd09ld1lOZVNnSF9wTjZxNmlFLWRqdVIxY0toNWhQdTRzTDV5aV9IT0l3WnVMS095clZNQjF2Ym5rSzFIV0VjcnI1Wl83NU81WTZkS2llNXV6dWxnOUlPNUJiVzBwOEE",
+   "source": "TradingPedia",
+   "published_at": "2026-10-07T13:37:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingPedia",
+     "published_at": "2026-10-07T13:37:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcmVIQVBqa21aWl81SThGRFlEcEVtd2R5WF9YcUhuMW1pQ2lQd09ld1lOZVNnSF9wTjZxNmlFLWRqdVIxY0toNWhQdTRzTDV5aV9IT0l3WnVMS095clZNQjF2Ym5rSzFIV0VjcnI1Wl83NU81WTZkS2llNXV6dWxnOUlPNUJiVzBwOEE"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "79796976a680",
+   "title": "UBS Flags a Bullish Setup in Tesla Stock and Lifts Its Price Target - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVhlVDZJQXhsd2lDUTYxMm1aR29SckpaTzJRazJHR1Vnb3VhdmNsQXZqd0xTWmlfOVJ3ODJ3Q2ljbEpVUGJTUmRLV2U3b1d3M3pXNGNxMjJpZlV1NEFkLUVJUFcybWVqLUlzcHlLdE5LVVo4ZHY4Y3gxeHBPMWhWbkNkWkxicmI1YTVtQWZGTlZWTUlSdVV1RGxMUlJDQTJIZ1p2MVNrV1duanNkQUMyMQ",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-07T13:35:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-07T13:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVhlVDZJQXhsd2lDUTYxMm1aR29SckpaTzJRazJHR1Vnb3VhdmNsQXZqd0xTWmlfOVJ3ODJ3Q2ljbEpVUGJTUmRLV2U3b1d3M3pXNGNxMjJpZlV1NEFkLUVJUFcybWVqLUlzcHlLdE5LVVo4ZHY4Y3gxeHBPMWhWbkNkWkxicmI1YTVtQWZGTlZWTUlSdVV1RGxMUlJDQTJIZ1p2MVNrV1duanNkQUMyMQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中",
+   "analyst": {
+    "firm": "UBS",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
+  },
+  {
+   "id": "f7074e234797",
+   "title": "$Tesla (TSLA.US)$ THE SIGNS WAS THERE, LETS GO TSLA - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVm1ZOXViejlDTzBFOEZiTmJNV1FVTnliNVk0a3BEX1pWS2lFamktX04xYk5FNVB5MVFYTWZpYXJQQ3ZXZVB0OGZubmtaUXNLSXF6U29iMVplZ3prSUxhUFRkOTRwTXB4clZheGdwOEtBYW9SOHRHYW9xMmh0c21VYXRVaGFkU0RDVC1RZkhzSExkUHpvZWYtaFF1dDFxQVFDR1E",
+   "source": "Moomoo",
+   "published_at": "2026-10-07T13:33:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-07T13:33:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVm1ZOXViejlDTzBFOEZiTmJNV1FVTnliNVk0a3BEX1pWS2lFamktX04xYk5FNVB5MVFYTWZpYXJQQ3ZXZVB0OGZubmtaUXNLSXF6U29iMVplZ3prSUxhUFRkOTRwTXB4clZheGdwOEtBYW9SOHRHYW9xMmh0c21VYXRVaGFkU0RDVC1RZkhzSExkUHpvZWYtaFF1dDFxQVFDR1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "5b05b261fc20",
+   "title": "$特斯拉 (TSLA.US)$ 信号都摆在那儿了，TSLA 冲鸭 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzVfWXJzUFBrdVNRTzdfMGNOVlMwUDJ3dWZtVWQ5Y2tkRnFUVUdtbzgydDFFRTJHVW5xMlNtN1VDZ3cyYk5HeXp1TmplTnhvN1JyU0x1Ynpnc3ZzWEI1WEQ1a0ZieGpDTE0xTmRSWURUN0xTUEJBcVJ5X0UzekpzaHVGdmhsTkxPYnF1MWR5VWl2TlFTenNnRTlXRmJwY3A5eTV3VkZNdW0",
+   "source": "Moomoo",
+   "published_at": "2026-10-07T13:33:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-07T13:33:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzVfWXJzUFBrdVNRTzdfMGNOVlMwUDJ3dWZtVWQ5Y2tkRnFUVUdtbzgydDFFRTJHVW5xMlNtN1VDZ3cyYk5HeXp1TmplTnhvN1JyU0x1Ynpnc3ZzWEI1WEQ1a0ZieGpDTE0xTmRSWURUN0xTUEJBcVJ5X0UzekpzaHVGdmhsTkxPYnF1MWR5VWl2TlFTenNnRTlXRmJwY3A5eTV3VkZNdW0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "bfa4c9cddc2c",
    "title": "UBS Adjusts Price Target on Tesla to $391 From $385, Keeps Neutral Rating - marketscreener.com",
@@ -7322,165 +7430,6 @@
    "price_reaction": {
     "pct": 0.66,
     "window_h": 2.0
-   }
-  },
-  {
-   "id": "b9d02809dd83",
-   "title": "Watch Tesla's Semi truck rollout event: Musk touts EV autonomous trucking - mashable.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDZIOXpZS2hINC1GSklnaGJYWmkzVGZBNWVZSXhwUUt0YkF2Ry0wcktUcTFGel9KalNxRkdlMU8xUmJ1VkM1ZUV0b0wzVDJBbVhjYWhqWl9CdG1sNDRBbmpzaVZMck9tbFVoQTFpazRnR2dtVXNxcERVcnZxdkd2bWpqY2lYUQ",
-   "source": "mashable.com",
-   "published_at": "2026-10-05T15:45:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "mashable.com",
-     "published_at": "2026-10-05T15:45:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDZIOXpZS2hINC1GSklnaGJYWmkzVGZBNWVZSXhwUUt0YkF2Ry0wcktUcTFGel9KalNxRkdlMU8xUmJ1VkM1ZUV0b0wzVDJBbVhjYWhqWl9CdG1sNDRBbmpzaVZMck9tbFVoQTFpazRnR2dtVXNxcERVcnZxdkd2bWpqY2lYUQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉Semi卡车发布会将举行",
-   "title_zh": "特斯拉Semi卡车发布会：马斯克力推电动自动驾驶卡车",
-   "sentiment": 1
-  },
-  {
-   "id": "a48d55c24500",
-   "title": "Tesla plots 2027 Las Vegas return - The Music Universe",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tbHctbzVobWtBM3dMUnJ4UU1QbzZEVTZlY2N2WGxJNVFlamhISDFCQUZhMFNxcG9SaWY4Qy1CcmJtTVNoNjY2cGRRbnprMnlrY3RLejNicGlrRWRmekF1YjZ3NExXV1VxMW9pTHRlNEI",
-   "source": "The Music Universe",
-   "published_at": "2026-10-05T15:40:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Music Universe",
-     "published_at": "2026-10-05T15:40:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tbHctbzVobWtBM3dMUnJ4UU1QbzZEVTZlY2N2WGxJNVFlamhISDFCQUZhMFNxcG9SaWY4Qy1CcmJtTVNoNjY2cGRRbnprMnlrY3RLejNicGlrRWRmekF1YjZ3NExXV1VxMW9pTHRlNEI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉计划2027年重返拉斯维加斯",
-   "title_zh": "特斯拉计划2027年重返拉斯维加斯",
-   "sentiment": 0
-  },
-  {
-   "id": "6a218f8d3177",
-   "title": "Options Action: Tesla zooms higher - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZQMUF1TWVZeUtJZ0swd21fenZJS2pKT1QtYkdPNmhjWmM3LW42bG5WYUhVN1RHUWhUbEFzd1BYenBmaW9OYmsxMjBXeUtMcWFxN243SVEySWJFdEdiZG9XNGJyX0VWRjhhb1ktb2M2bGlLZFRtQVctRmQ5WU8yc213",
-   "source": "CNBC",
-   "published_at": "2026-10-05T15:11:21+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-05T15:11:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZQMUF1TWVZeUtJZ0swd21fenZJS2pKT1QtYkdPNmhjWmM3LW42bG5WYUhVN1RHUWhUbEFzd1BYenBmaW9OYmsxMjBXeUtMcWFxN243SVEySWJFdEdiZG9XNGJyX0VWRjhhb1ktb2M2bGlLZFRtQVctRmQ5WU8yc213"
-    },
-    {
-     "name": "cnbc.com",
-     "published_at": "2026-10-05T15:11:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmZQMUF1TWVZeUtJZ0swd21fenZJS2pKT1QtYkdPNmhjWmM3LW42bG5WYUhVN1RHUWhUbEFzd1BYenBmaW9OYmsxMjBXeUtMcWFxN243SVEySWJFdEdiZG9XNGJyX0VWRjhhb1ktb2M2bGlLZFRtQVctRmQ5WU8yc213"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "CNBC期权栏目看涨特斯拉",
-   "title_zh": "期权行动：特斯拉股价加速上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "b9d52cbdaba7",
-   "title": "Tesla Set to Snap 2-Year Delivery Slump in 2026: Is TSLA a Buy Now? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUpKQmt1eWpKQ0xVcUhZOHVfWFlrLVFPY29RZk9aeHd0N0x4MTdVQjBkR2I5QUlDZ25oUmNkUXdEbFNZOU9qMU1Pb21aMG9fcmlFOHVHRlZfMEg1WEJoNzAzZXB4S09URzlEQUJBWnhra3lmRExDRlFVaG1Denptb25PdnRjTlZuS01Ib2RLMWNmWThm",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-05T14:57:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T14:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUpKQmt1eWpKQ0xVcUhZOHVfWFlrLVFPY29RZk9aeHd0N0x4MTdVQjBkR2I5QUlDZ25oUmNkUXdEbFNZOU9qMU1Pb21aMG9fcmlFOHVHRlZfMEg1WEJoNzAzZXB4S09URzlEQUJBWnhra3lmRExDRlFVaG1Denptb25PdnRjTlZuS01Ib2RLMWNmWThm"
-    },
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-05T15:05:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVENoVEhJMXZybWNXMmtuU2pORFhVZ21QemFCLWdxMGNBc0FER0lmeFVLQkRMeEFHLVpVcTNjSVlJLS0ySzlYYjZvWlpaZnBRTk5xWjVoS3dNYUJRNHhqVE5FQURUcmxuVVJQdTdWZUlFZk9zbjJuTGs3OTRpQkdjMnNqQ2RMeDJDdW4tN3BDaEdlQThSbng0enZGV19MQXRGLVl5dEp3NlRIUQ"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-05T14:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa19WUnJoWG1VTzZUQU9FOW5nZmExMXEyX0JKVUlXY3dIeWR1ZHVLOTRsWDR4OEFRMU9LUjZVUWdydTdYS3ZfN2JMR1Fadllna2NCSnp0OElLVlotSlBNV0VXd0RMTzI0VWNrVFM3OXI2eTZFUmpSTGtPLVYyT2VxcXNwY0ZLeVJSdzhmbkhtaEJocGpXQXJGd0tyUXc3WWo4ZmhaWGJ0dGxET0VWd2M5NktqdWFTZmcxZ1ZhQzR3"
-    },
-    {
-     "name": "tradingview.com",
-     "published_at": "2026-10-05T14:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa19WUnJoWG1VTzZUQU9FOW5nZmExMXEyX0JKVUlXY3dIeWR1ZHVLOTRsWDR4OEFRMU9LUjZVUWdydTdYS3ZfN2JMR1Fadllna2NCSnp0OElLVlotSlBNV0VXd0RMTzI0VWNrVFM3OXI2eTZFUmpSTGtPLVYyT2VxcXNwY0ZLeVJSdzhmbkhtaEJocGpXQXJGd0tyUXc3WWo4ZmhaWGJ0dGxET0VWd2M5NktqdWFTZmcxZ1ZhQzR3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "特斯拉2026年或终结连续两年交付下滑",
-   "title_zh": "特斯拉2026年将终结两年交付下滑：TSLA现在值得买吗？",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.06,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "32488298b2e9",
-   "title": "Tesla And Rivian Sales Jump - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Pb0hvVENsSGd4ZlZwZ1RISzRJX0taam1qT1NSMXhDVE5vY0xpNEpOaGRGMHdEbTZNWEtxSkYxMUhlQUd5YjVZM3VYeWgxVTFtMzZ2NEVvUDdPbW9MaTZfMGRzZVB0U29mcHQtTUZ4NXQ4UngzUEpEYjhRaE0",
-   "source": "Yahoo",
-   "published_at": "2026-10-05T14:43:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-05T14:43:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Pb0hvVENsSGd4ZlZwZ1RISzRJX0taam1qT1NSMXhDVE5vY0xpNEpOaGRGMHdEbTZNWEtxSkYxMUhlQUd5YjVZM3VYeWgxVTFtMzZ2NEVvUDdPbW9MaTZfMGRzZVB0U29mcHQtTUZ4NXQ4UngzUEpEYjhRaE0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉与Rivian销量大增",
-   "title_zh": "特斯拉与Rivian销量大增",
-   "sentiment": 1
-  },
-  {
-   "id": "6ff6fcec2996",
-   "title": "FSS or TSLA: Which Is the Better Value Stock Right Now? - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenlFSU9VdS1wZmpDYW1KdzVrZjU4SmlIRS11Yl8tdG00djQ0b0pfM3l3MWVFQWdJVTB4eW9uejVoWmhyVm95VWt1V0dEeHZPc0pFamFxT1JhTWNwckhFOG80c0xfc1FlZ3RPXzF5Q1lObzhGQllrWFhxbnhTNXJHUkRR",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-05T14:40:02+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-05T14:40:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenlFSU9VdS1wZmpDYW1KdzVrZjU4SmlIRS11Yl8tdG00djQ0b0pfM3l3MWVFQWdJVTB4eW9uejVoWmhyVm95VWt1V0dEeHZPc0pFamFxT1JhTWNwckhFOG80c0xfc1FlZ3RPXzF5Q1lObzhGQllrWFhxbnhTNXJHUkRR"
-    },
-    {
-     "name": "ca.finance.yahoo.com",
-     "published_at": "2026-10-05T14:40:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVZqS0lDZ215RktvQS10MnRHR0g1MVVfUnV1RmNKVm4xdjZjTUFtZEhTMEVSVFlIQWtZM0V6UGdqWHY3aEE4UWhVOHZMdGZUdjZmcnM1dW9OMENFRmMyVUtSblhRaVI0anViOENGcVgwSXAyN3dEdk5HRmljRVk3QVV3"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-05T14:40:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVZqS0lDZ215RktvQS10MnRHR0g1MVVfUnV1RmNKVm4xdjZjTUFtZEhTMEVSVFlIQWtZM0V6UGdqWHY3aEE4UWhVOHZMdGZUdjZmcnM1dW9OMENFRmMyVUtSblhRaVI0anViOENGcVgwSXAyN3dEdk5HRmljRVk3QVV3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "对比FSS与TSLA谁更值得买",
-   "title_zh": "FSS还是TSLA：现在哪只是更值得买的股票",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.7,
-    "window_h": 1.9
    }
   }
  ]
