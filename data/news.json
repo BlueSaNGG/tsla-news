@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T22:22:31.493576+00:00",
+ "updated_at": "2026-10-07T22:37:28.628378+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（123条已评分）"
+     "note": "今日新闻情绪 +0.19（125条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-07T22:22:31.485925+00:00"
+   "as_of": "2026-10-07T22:37:28.615859+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.19,
-   "count": 123
+   "count": 125
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c41d395d790e",
+   "title": "Tesla Owner Enables Track Mode on Non-Performance Model Y - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenBuYWdDTjF6TldVQnd1Z3dZSm84azZwMlI2NFVVcWxDZGlDYnlKTHJKYzlPX1pWdlk2RGdkR3dTNzlKUEllTXFGRnZLRnkwY19RbzZsZ0VnZ1pNTlJ4TlVVMWNObGdMYVJ4S2JJbFhjem1VY3dHTHU1VVd4R0JWRDEyc2ktelZzaW9zNFh1ckIxN2poT19RV0FOT2Q",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-07T22:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-07T22:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenBuYWdDTjF6TldVQnd1Z3dZSm84azZwMlI2NFVVcWxDZGlDYnlKTHJKYzlPX1pWdlk2RGdkR3dTNzlKUEllTXFGRnZLRnkwY19RbzZsZ0VnZ1pNTlJ4TlVVMWNObGdMYVJ4S2JJbFhjem1VY3dHTHU1VVd4R0JWRDEyc2ktelZzaW9zNFh1ckIxN2poT19RV0FOT2Q"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "7029a7d0d31a",
    "title": "Tesla FSD Stops a Red-Light Runner in the Netherlands: What It Means for You - BASENOR",
@@ -3095,7 +3112,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHhGVjllU0picllDVWYwdFZNTTgzVE56UHZIYkpaV25PYjBNVHBVdW9hZkEwSktmclhER0pROVJneW81SC1VSFpJS2hkbXNQeE9velVOME9MOS1uRUpvelFnckhncTUyQ2I0dGwxUi1sY0hRN2xYSUxEWk85YUF1OW5ETVdpMnlK",
    "source": "搜狐网",
    "published_at": "2026-10-07T02:37:05+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -3111,6 +3128,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-07T02:48:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpLVJtVlVfS2VrbHZ6VFYtZERSbDU2Rm5NQ2pxWGZwRlJ4TkhMWURvZ0g0QXR5U3BzZE0yMjBvY0ZuYWQxVFlzaEhPTzFBQkNpOUdZdzFDMmlyblNTTHE5NnFnV01zVTdFU1VodG9PdnJiNGJaS25zVV8wNzM"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-07T22:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WdG5qOFlyLVM0X1ludGVqMUtCS0RXTkdsYm1qLUNYYS1PMU94cGZ4TG01UktZYnFlQjkzVmZqSkJvbERfaFYzLV9qTVdyb0c2WTlLa3h6YmRlYmxNZF9pc2xnYWFIbG9UQk1USkFoR2pjNmF4LXc5VnlLMmktUHM"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -7171,40 +7193,6 @@
    "zh_summary": "特斯拉9月登顶韩国进口车榜首",
    "title_zh": "特斯拉成韩国9月最畅销进口汽车品牌",
    "sentiment": 1
-  },
-  {
-   "id": "80d974428ffd",
-   "title": "【视频】月销超16万辆，仅次于比亚迪，为什么很多人都在唱衰特斯拉 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cFNyNjYtQ1R2b1lrQU9BbnUxXzRoVG1BeUM5M1pzRmJ0WmdKSHdteGJWLXRfUWM3aXcwTGtlamtiQ2Jrc3V2eWFuc3hhT1lyWURmN0F4cXMzNk0",
-   "source": "车家号",
-   "published_at": "2026-10-06T01:31:22+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-06T01:31:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cFNyNjYtQ1R2b1lrQU9BbnUxXzRoVG1BeUM5M1pzRmJ0WmdKSHdteGJWLXRfUWM3aXcwTGtlamtiQ2Jrc3V2eWFuc3hhT1lyWURmN0F4cXMzNk0"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-06T01:31:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cFNyNjYtQ1R2b1lrQU9BbnUxXzRoVG1BeUM5M1pzRmJ0WmdKSHdteGJWLXRfUWM3aXcwTGtlamtiQ2Jrc3V2eWFuc3hhT1lyWURmN0F4cXMzNk0"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-06T01:31:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2cFNyNjYtQ1R2b1lrQU9BbnUxXzRoVG1BeUM5M1pzRmJ0WmdKSHdteGJWLXRfUWM3aXcwTGtlamtiQ2Jrc3V2eWFuc3hhT1lyWURmN0F4cXMzNk0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "月销超16万辆仅次于比亚迪",
-   "title_zh": "月销超16万辆仅次比亚迪，为何被唱衰",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.16,
-    "window_h": 0.1
-   }
   }
  ]
 }
