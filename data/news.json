@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T18:37:26.947320+00:00",
+ "updated_at": "2026-10-07T18:52:26.057997+00:00",
  "market": {
-  "price": 376.78,
-  "change_pct": -1.02,
+  "price": 377.38,
+  "change_pct": -0.87,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +8.2%"
+     "note": "目标价中位数 $408（14家），隐含空间 +8.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（102条已评分）"
+     "note": "今日新闻情绪 +0.26（104条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.78 vs 20日均线 $367.17"
+     "note": "现价 $377.38 vs 20日均线 $367.20"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 8.2,
-   "ma20": 367.17,
-   "as_of": "2026-10-07T18:37:26.940136+00:00"
+   "implied_upside_pct": 8.0,
+   "ma20": 367.2,
+   "as_of": "2026-10-07T18:52:26.050683+00:00"
   },
-  "pe_ttm": 104.2,
+  "pe_ttm": 104.4,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 102
+   "avg": 0.26,
+   "count": 104
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b4656fd2e5e3",
+   "title": "Tesla Cybercab loses its entire door panel in a Philadelphia crash - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2RWSUliUWtQNFBwLW16MC1nTXNBb2wwLWNOdFhvc05UbnJ1YVR3U1paNmhJS0l2Vm9wcUd6UUxieS1aa2owa0MzTFdIUFlLNEhqZ3gxem1yU09WUERQUXFGc2VBSlcwSl9ST2dtTXVVS0V3SWNOTlhoWTJ4UC14cEF3",
+   "source": "Electrek",
+   "published_at": "2026-10-07T18:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-07T18:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2RWSUliUWtQNFBwLW16MC1nTXNBb2wwLWNOdFhvc05UbnJ1YVR3U1paNmhJS0l2Vm9wcUd6UUxieS1aa2owa0MzTFdIUFlLNEhqZ3gxem1yU09WUERQUXFGc2VBSlcwSl9ST2dtTXVVS0V3SWNOTlhoWTJ4UC14cEF3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "4b54f8db3960",
    "title": "Tesla’s India EV Sales Lag: Why Investors See a Silver Lining - Tesla (NASDAQ:TSLA) - Benzinga",
@@ -93,7 +110,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTF5dnk0UGE1WU1tTzZjQ1JUWW9faHNEYTZnUldWaXZ3cENPV2VnT0lmYUpWR0d2S2NOSnNZWlNjMXVxVXVaakZMTlV1czZZYnNoYWVHRlQ0cGlQN0hiSnJaeGQ0b2UwdC1vdEFERzhuQnc3azJBMDljVUJfbkI4TlNxeEYzeHFzQnJITkdwQ2NhUEI5S1BoQmJ0d1ZBMDBWT3ZrS2I5bmU3VXhyX3c",
    "source": "www.fox10tv.com",
    "published_at": "2026-10-07T18:22:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "www.fox10tv.com",
@@ -104,13 +121,22 @@
      "name": "WDRB.com",
      "published_at": "2026-10-07T18:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjE5MFRQc1JKR2o3MGxnV0ppSG1uSy16R0ZLV1NKOW5lcmNhMkRrU3ZyR19OSTlTbGE1SG1CVEhoZFZ5b0dDVktHMFA2VHVuZUdFX1FNMXBuQWFCQ3JFOC02X29nZllRNjZncFlCbGx4c3J3UlhCR01QcGluaURpVm1HX01JQkkwVEVuMENrNExDdDFqY3hoRnRlbDFFYjFDRTJidW13T0RHRGM"
+    },
+    {
+     "name": "WIS News 10",
+     "published_at": "2026-10-07T18:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSW95MDBnV2NMZGRzb29rMzExeEtRaGUyT3ZHRGY5bkRBTllIdzVuR2lmWXlDc3dFOEMyd3dsRC1HOUV5SmgweHVXTTdzd21pWmtORXQyNmhpWFFyemprOGRlcW1CeUZWd1JrbFAtQ2R6cy1ib095dFp0cWFRRXA2RENlaUZkMjJEVzdZZlhJSkZrVDVTWm5pQXdQWFBLNnpXaXVzbDByMU44Wms"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "四人因向行驶中的特斯拉扔菠萝被起诉",
    "title_zh": "3名成年人1名青少年因向行驶中的特斯拉扔菠萝被起诉",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.26,
+    "window_h": 0.5
+   }
   },
   {
    "id": "b57df3178feb",
@@ -243,12 +269,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUtHX1JDWjY4eVpITDVNZHY0Q2dsVDNmMDVCeXJFXzVWWkxIRzhOeGdTSVJEaUdNaVdUbW1zZDkxel8xN0RDc1BreDRmcmgxYXp6MlFSd3M0b0I3X0haYVlsc1BFMGpaQTVuVWxtaFIyMVdNei0wNm5XRkVVOGZkVF9UeHZka2tCb2VXc3RGVFp2dEEzS0xSNw",
    "source": "GuruFocus",
    "published_at": "2026-10-07T17:33:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-07T17:33:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUtHX1JDWjY4eVpITDVNZHY0Q2dsVDNmMDVCeXJFXzVWWkxIRzhOeGdTSVJEaUdNaVdUbW1zZDkxel8xN0RDc1BreDRmcmgxYXp6MlFSd3M0b0I3X0haYVlsc1BFMGpaQTVuVWxtaFIyMVdNei0wNm5XRkVVOGZkVF9UeHZka2tCb2VXc3RGVFp2dEEzS0xSNw"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T18:22:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNVd3bXVCd0QwQk5uLUFzZkdhVEIyS1Q3VXkxMk1yZHk4cWQ1UURlVXJ0S0lFMUVjdjJPaUxMc2ZwcTFMNGpYWXBsZE9KMlVlNkQ5MzYzcVI2Vm9pLWRfNVlTMHUyR1pHOTl3NDFPY3JXVUN5YldMamN3X3VLRFFCQTdqUkg0TFZ0X2pLSDBzNW5uVG1TeEdkY01VQllMVVlWcUQ2OVVnUVRGLVBaUTlWOHpXdnA"
     }
    ],
    "category": "分析师",
@@ -3310,6 +3341,23 @@
    "zh_summary": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "title_zh": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "sentiment": 0
+  },
+  {
+   "id": "f6764bd50174",
+   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
+   "source": "东方财富",
+   "published_at": "2026-10-06T19:09:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-06T19:09:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "ed46cfb297ca",
@@ -7161,46 +7209,6 @@
    "session": "盘后",
    "zh_summary": "Cybercab登陆日本等致盘前上涨",
    "title_zh": "TSLA盘前涨：Cybercab日本、ModelY新款、Powershare美国",
-   "sentiment": 1
-  },
-  {
-   "id": "5056a1ec5879",
-   "title": "Tesla's exclusion from Manitoba EV program 'incredibly unfair,' politically motivated, lawyer tells court - Yahoo News Canada",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVmZUMWVpVDhHMksxV19rdDdYZXh1Q1F1Vy1NWEtfUURtWnFQWVllRGY1SFBsVTNVY2xHdTdiWExnVFBkcmVJOHF1R0w4R2d5RWVraWdyY2VrSTdWYnBoUTNSN0tJS2ZObTRfN2J5SlUwQ0kyOTVremdKRkxHMk90Y3JPMA",
-   "source": "Yahoo News Canada",
-   "published_at": "2026-10-05T22:00:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo News Canada",
-     "published_at": "2026-10-05T22:00:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVmZUMWVpVDhHMksxV19rdDdYZXh1Q1F1Vy1NWEtfUURtWnFQWVllRGY1SFBsVTNVY2xHdTdiWExnVFBkcmVJOHF1R0w4R2d5RWVraWdyY2VrSTdWYnBoUTNSN0tJS2ZObTRfN2J5SlUwQ0kyOTVremdKRkxHMk90Y3JPMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉被曼省电动车补贴排除，律师诉至法院",
-   "title_zh": "特斯拉被排除在曼尼托巴省电动车项目外，律师称不公",
-   "sentiment": -1
-  },
-  {
-   "id": "2645c7909d4f",
-   "title": "Elon Musk Agrees Tesla's Early Custom AI Chit Bet May be More Important Than Ever, Backs TSLA Engineer's Warning: ‘Current Compute Shortage Is Only the Tip of the Iceberg’ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ194OWpTWVZHdDhtZ0g5bHZhM3FQdVI1T3pmZGlweE9GUFVwaDFMOFItbTA4eEFaOGpZanI5dGRScVo3VzdoWFdzUzJjVVNDaU1mYmJ4SkhCRThzdzRYTk8wdFZtR1VscHotVTg1YU1GbE04U3VkUlNSb21tUUZnMWhVX2N6X1ZCZkJhRDFtV1hQcFpIcUhlLQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-05T22:00:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T22:00:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ194OWpTWVZHdDhtZ0g5bHZhM3FQdVI1T3pmZGlweE9GUFVwaDFMOFItbTA4eEFaOGpZanI5dGRScVo3VzdoWFdzUzJjVVNDaU1mYmJ4SkhCRThzdzRYTk8wdFZtR1VscHotVTg1YU1GbE04U3VkUlNSb21tUUZnMWhVX2N6X1ZCZkJhRDFtV1hQcFpIcUhlLQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称特斯拉自研AI芯片押注愈发重要",
-   "title_zh": "马斯克：特斯拉早期自研AI芯片押注或比以往更重要",
    "sentiment": 1
   }
  ]
