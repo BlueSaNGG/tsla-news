@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T17:22:35.782737+00:00",
+ "updated_at": "2026-10-07T17:37:33.534851+00:00",
  "market": {
-  "price": 376.93,
-  "change_pct": -0.98,
+  "price": 376.48,
+  "change_pct": -1.1,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +8.1%"
+     "note": "目标价中位数 $408（14家），隐含空间 +8.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（87条已评分）"
+     "note": "今日新闻情绪 +0.25（91条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.93 vs 20日均线 $367.18"
+     "note": "现价 $376.48 vs 20日均线 $367.16"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 8.1,
-   "ma20": 367.18,
-   "as_of": "2026-10-07T17:22:35.776549+00:00"
+   "implied_upside_pct": 8.2,
+   "ma20": 367.16,
+   "as_of": "2026-10-07T17:37:33.522532+00:00"
   },
-  "pe_ttm": 104.2,
+  "pe_ttm": 104.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 87
+   "avg": 0.25,
+   "count": 91
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a092e0e489b8",
+   "title": "Veteran Bank Revamps Tesla Stock Price Target for 2027 - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUtHX1JDWjY4eVpITDVNZHY0Q2dsVDNmMDVCeXJFXzVWWkxIRzhOeGdTSVJEaUdNaVdUbW1zZDkxel8xN0RDc1BreDRmcmgxYXp6MlFSd3M0b0I3X0haYVlsc1BFMGpaQTVuVWxtaFIyMVdNei0wNm5XRkVVOGZkVF9UeHZka2tCb2VXc3RGVFp2dEEzS0xSNw",
+   "source": "GuruFocus",
+   "published_at": "2026-10-07T17:33:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-07T17:33:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUtHX1JDWjY4eVpITDVNZHY0Q2dsVDNmMDVCeXJFXzVWWkxIRzhOeGdTSVJEaUdNaVdUbW1zZDkxel8xN0RDc1BreDRmcmgxYXp6MlFSd3M0b0I3X0haYVlsc1BFMGpaQTVuVWxtaFIyMVdNei0wNm5XRkVVOGZkVF9UeHZka2tCb2VXc3RGVFp2dEEzS0xSNw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "5c34d27175ee",
+   "title": "Tesla’s California VPP breaks record as 85,774 homes deliver over 600 MW - driveteslacanada.ca",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzgxTHJiU0NrM1JmT0JKSkw2aXpERW1ZUmstUUN0RFlJZG1pRFdZb3hEcUxXczVSZmJGblBkT3ljX1lyWGk1dU1GUTliRUhwNkdpRm1zTzRRWmc0OTZORWM5eVFEc0VTQjZNMG5LQVZxTUVyb21FcTVkVFF1Tno2WEdNSjNvdw",
+   "source": "driveteslacanada.ca",
+   "published_at": "2026-10-07T17:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "driveteslacanada.ca",
+     "published_at": "2026-10-07T17:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzgxTHJiU0NrM1JmT0JKSkw2aXpERW1ZUmstUUN0RFlJZG1pRFdZb3hEcUxXczVSZmJGblBkT3ljX1lyWGk1dU1GUTliRUhwNkdpRm1zTzRRWmc0OTZORWM5eVFEc0VTQjZNMG5LQVZxTUVyb21FcTVkVFF1Tno2WEdNSjNvdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "a2e78ca5229a",
    "title": "Tesla FSD changed its mind mid-intersection, and it may have saved a life - Teslarati",
@@ -706,6 +740,23 @@
    "zh_summary": "前特斯拉Optimus负责人拟创办机器人公司",
    "title_zh": "据The Information：前特斯拉(TSLA.O)Optimus负责人正在创办机器 - 富途牛牛",
    "sentiment": 0
+  },
+  {
+   "id": "0156fa3c6c05",
+   "title": "前特斯拉Optimu......_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VX1JUYlU4am1ERkdoZkxJeEdfQ01zMHBRRWtDYl9jcUJMM3ktakpoM1pkcHlWd3RNTTlOdTV3V0RweHA1LUpLd2t3MA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-07T14:04:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-07T14:04:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VX1JUYlU4am1ERkdoZkxJeEdfQ01zMHBRRWtDYl9jcUJMM3ktakpoM1pkcHlWd3RNTTlOdTV3V0RweHA1LUpLd2t3MA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "2c413da49326",
@@ -7191,90 +7242,6 @@
     "pct": -0.04,
     "window_h": 0.2
    }
-  },
-  {
-   "id": "a626097eb8b6",
-   "title": "TSLA Stock Attempts Breakout on TSMC Terafab Talks and Europe Tesla Demand - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hPcUZrYXB0TFBkSU82YjJxQndaQ0dYdWJXM0czejFGWFRhM3hfZ01xcGF3enk5R2pJRnZOd1VXTzZZd0Q2T29KMTJJY1Y5VjR1SkZDTEJST09MTHhGejJNTkV0Zk5sMjNMdWc0U3ROaUZLalU1ZnhvcU0zSF9yVm9MVUlfUWNvNWE0Vkp4NU5DMm9oUE9JdndpYVpFS093b0s4Y2xRQ3J3dk9jc2VfdG9WbDFSdUxB",
-   "source": "FXLeaders",
-   "published_at": "2026-10-05T19:38:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-05T19:38:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hPcUZrYXB0TFBkSU82YjJxQndaQ0dYdWJXM0czejFGWFRhM3hfZ01xcGF3enk5R2pJRnZOd1VXTzZZd0Q2T29KMTJJY1Y5VjR1SkZDTEJST09MTHhGejJNTkV0Zk5sMjNMdWc0U3ROaUZLalU1ZnhvcU0zSF9yVm9MVUlfUWNvNWE0Vkp4NU5DMm9oUE9JdndpYVpFS093b0s4Y2xRQ3J3dk9jc2VfdG9WbDFSdUxB"
-    },
-    {
-     "name": "fxleaders.com",
-     "published_at": "2026-10-05T22:17:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0hPcUZrYXB0TFBkSU82YjJxQndaQ0dYdWJXM0czejFGWFRhM3hfZ01xcGF3enk5R2pJRnZOd1VXTzZZd0Q2T29KMTJJY1Y5VjR1SkZDTEJST09MTHhGejJNTkV0Zk5sMjNMdWc0U3ROaUZLalU1ZnhvcU0zSF9yVm9MVUlfUWNvNWE0Vkp4NU5DMm9oUE9JdndpYVpFS093b0s4Y2xRQ3J3dk9jc2VfdG9WbDFSdUxB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "TSLA谈台积电建厂事宜，欧洲需求改善",
-   "title_zh": "TSLA冲击突破：与台积电谈建厂，欧洲需求提振",
-   "sentiment": 1
-  },
-  {
-   "id": "29fa039a7a36",
-   "title": "Tesla announces fifth residency at House of Blues Las Vegas - fox5vegas.com",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWldUVS1kUElOMm80cTNIa0QxWklvUjNmT3RTZ3h4MndvXzhnYlZIamI2UTVUczRDM1RWcTlMb1V0WXdEdmlLTjA2LXNSV2cxYlRBSEp4dk5YLTlveG1LRG9OaFl4WXpHam9wb2xRekpaZHFlaW40UEs4Yjg0QXNvUGRnMjFWZ3lRdGJqYkpOcjJUX2t2Tnc",
-   "source": "fox5vegas.com",
-   "published_at": "2026-10-05T19:29:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "fox5vegas.com",
-     "published_at": "2026-10-05T19:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWldUVS1kUElOMm80cTNIa0QxWklvUjNmT3RTZ3h4MndvXzhnYlZIamI2UTVUczRDM1RWcTlMb1V0WXdEdmlLTjA2LXNSV2cxYlRBSEp4dk5YLTlveG1LRG9OaFl4WXpHam9wb2xRekpaZHFlaW40UEs4Yjg0QXNvUGRnMjFWZ3lRdGJqYkpOcjJUX2t2Tnc"
-    },
-    {
-     "name": "FOX5 Vegas",
-     "published_at": "2026-10-05T19:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWldUVS1kUElOMm80cTNIa0QxWklvUjNmT3RTZ3h4MndvXzhnYlZIamI2UTVUczRDM1RWcTlMb1V0WXdEdmlLTjA2LXNSV2cxYlRBSEp4dk5YLTlveG1LRG9OaFl4WXpHam9wb2xRekpaZHFlaW40UEs4Yjg0QXNvUGRnMjFWZ3lRdGJqYkpOcjJUX2t2Tnc"
-    },
-    {
-     "name": "Rockum",
-     "published_at": "2026-10-06T05:03:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWRRU1o5c1l2UVZsTDItME52Qnd1RHl3OXV2cHV1anBSYkRURm5wTXV2Q2kzUFlWRVFXYWd6ejZpZ3RjUGhmNHR6UERJVzRqbThlUXl5U2NSY1otXzZITEh3bU15Zkl6c0V4Rm5IR04yWmNFN1diZmtTbnRZazhXZzJHS1Q5Tms3a0N1b3lwY09jOWxLNTNkMnhuaEVlbUh2MTUtUE94akJVRDlx"
-    },
-    {
-     "name": "rockumweb.com",
-     "published_at": "2026-10-06T05:03:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWRRU1o5c1l2UVZsTDItME52Qnd1RHl3OXV2cHV1anBSYkRURm5wTXV2Q2kzUFlWRVFXYWd6ejZpZ3RjUGhmNHR6UERJVzRqbThlUXl5U2NSY1otXzZITEh3bU15Zkl6c0V4Rm5IR04yWmNFN1diZmtTbnRZazhXZzJHS1Q5Tms3a0N1b3lwY09jOWxLNTNkMnhuaEVlbUh2MTUtUE94akJVRDlx"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "乐队Tesla宣布拉斯维加斯驻演",
-   "title_zh": "乐队Tesla宣布拉斯维加斯House of Blues第五轮驻演",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.18,
-    "window_h": 0.5
-   }
-  },
-  {
-   "id": "7786409477d4",
-   "title": "Musk: SpaceXAI Will Be Renamed SpaceXSI, Dropping 'AI' - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSW5vcS1yQmt5NEoxTVppU1pSVVc0aVdEMk1BRE5yT3dwa2FNRzYzbFhITEdhUkNJSk9LazFvUHJiMHdKVHNncmNUMGhvZmhXelg1ckRoZVFLNmZKNFBFcmJjbVg0eDR2a2tEbW4wSGw3ck5hY2o5OHJ3eFp4MEhfdHNtT0paVlFsYnpxMGpCQUw1Vm8",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-05T19:26:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-05T19:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSW5vcS1yQmt5NEoxTVppU1pSVVc0aVdEMk1BRE5yT3dwa2FNRzYzbFhITEdhUkNJSk9LazFvUHJiMHdKVHNncmNUMGhvZmhXelg1ckRoZVFLNmZKNFBFcmJjbVg0eDR2a2tEbW4wSGw3ck5hY2o5OHJ3eFp4MEhfdHNtT0paVlFsYnpxMGpCQUw1Vm8"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "SpaceXAI将更名为SpaceXSI",
-   "title_zh": "马斯克称SpaceXAI将更名为SpaceXSI，移除AI字样",
-   "sentiment": 0
   }
  ]
 }
