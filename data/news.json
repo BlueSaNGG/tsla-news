@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T06:22:32.014125+00:00",
+ "updated_at": "2026-10-07T06:37:27.373182+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（5条已评分）"
+     "note": "今日新闻情绪 +0.40（5条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T06:22:32.006535+00:00"
+   "as_of": "2026-10-07T06:37:27.364777+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,7 +56,7 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
+   "avg": 0.4,
    "count": 5
   }
  },
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9db4f8c358ff",
+   "title": "Inside Tesla's pressure campaign to win EU approval for 'Full Self-Driving' - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aSXZZaERSSjlPclVwTk1TRW5XRHdUaXliZmZYMGt4WmtvcnlQOTRpN3dVQVcyRUN2Zzg4eWJRMHpOeDNxVGZ5ZTUxWW0zQUctWWlmZEV1MjJtOVAzUDE2QXNwSE9STUk",
+   "source": "Reuters",
+   "published_at": "2026-10-07T06:31:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-07T06:31:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aSXZZaERSSjlPclVwTk1TRW5XRHdUaXliZmZYMGt4WmtvcnlQOTRpN3dVQVcyRUN2Zzg4eWJRMHpOeDNxVGZ5ZTUxWW0zQUctWWlmZEV1MjJtOVAzUDE2QXNwSE9STUk"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "4711e10210d4",
    "title": "【视频】17款特斯拉model X，9.9万公里实表，选配超多 - 汽车之家",
@@ -170,26 +187,6 @@
    "session": "盘前",
    "zh_summary": "美版特斯拉Model Y L曝光",
    "title_zh": "国产特斯拉Model Y L你见过，但美版的可不一定 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "3c1ed440231d",
-   "title": "The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn",
-   "source": "WSJ",
-   "published_at": "2026-10-07T05:01:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-07T05:01:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "车企与特斯拉竞逐机器人未来",
-   "title_zh": "与特斯拉竞逐机器人未来的车企 - WSJ",
    "sentiment": 0
   },
   {
@@ -1032,6 +1029,23 @@
    "zh_summary": "特斯拉或准备在休斯敦推出Cybercab",
    "title_zh": "特斯拉或准备在休斯敦推出Cybercab",
    "sentiment": 1
+  },
+  {
+   "id": "a9bf62e1a5c2",
+   "title": "Tesla and power giants revolt against Australia’s ‘EV charger tax’ - SMH.com.au",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGVEUzNxWDZZaG9xaFhYUC14bzBTVW43Qm1hbGdEUDhWWFRuZVpseDdzLWJsLWNkQ0ZhYVFZQkZuOXFGNWhnOVJhQWo0c0JySGpsQ0ZEQ1VDZmlWQ2htTURoSjQwTEVoUWt3T2hjNXBsX2V0WDFyT29NVGJRckZSZzQ5Rl9ZMTdlT1V2Yk1rLVZqNXQ3b0U5NDFZaWNDemRTWFA2enE0V0F0amV0TmVZV2RVMDlxbzVfQ0ZRVER3c1FKNUNOekdkU3JoV1NfTFU",
+   "source": "SMH.com.au",
+   "published_at": "2026-10-06T18:20:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SMH.com.au",
+     "published_at": "2026-10-06T18:20:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGVEUzNxWDZZaG9xaFhYUC14bzBTVW43Qm1hbGdEUDhWWFRuZVpseDdzLWJsLWNkQ0ZhYVFZQkZuOXFGNWhnOVJhQWo0c0JySGpsQ0ZEQ1VDZmlWQ2htTURoSjQwTEVoUWt3T2hjNXBsX2V0WDFyT29NVGJRckZSZzQ5Rl9ZMTdlT1V2Yk1rLVZqNXQ3b0U5NDFZaWNDemRTWFA2enE0V0F0amV0TmVZV2RVMDlxbzVfQ0ZRVER3c1FKNUNOekdkU3JoV1NfTFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "83fb3809e248",
@@ -7788,40 +7802,6 @@
    "zh_summary": "Rivian交付增46%，特斯拉降2%",
    "title_zh": "Rivian交付量增长46%，特斯拉销量下滑2%",
    "sentiment": -1
-  },
-  {
-   "id": "c762bc6a4473",
-   "title": "【视频】为什么特斯拉不上冰箱彩电大沙发？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN",
-   "source": "汽车之家",
-   "published_at": "2026-10-05T10:31:34+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-05T10:31:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-05T10:31:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-05T10:31:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydTk3NGMtSV9DN29XX1lrbFl3TXNWaC1qV25WX09fbXdUdVZYM2FqbVR4UkFWNGJsZWQxMDdBaXN4ckYtaDJLcWFlTl9XREFHWmtQWXZvMU56c05hWEE2RzJjZEpMa3RjaHdN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "为什么特斯拉没有冰箱彩电大沙发",
-   "title_zh": "【视频】为什么特斯拉不上冰箱彩电大沙发？ - 汽车之家",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
   }
  ]
 }
