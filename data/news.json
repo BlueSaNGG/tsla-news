@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T08:07:34.261924+00:00",
+ "updated_at": "2026-10-07T08:22:36.195955+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（10条已评分）"
+     "note": "今日新闻情绪 +0.42（12条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T08:07:34.251961+00:00"
+   "as_of": "2026-10-07T08:22:36.188012+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 10
+   "avg": 0.42,
+   "count": 12
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "aafee61783eb",
+   "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-07T08:08:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-07T08:08:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "d923294a69af",
    "title": "特斯拉向首批车主推送万圣节模式车机主题更新 - 新浪网",
@@ -461,6 +478,23 @@
    "zh_summary": "Cybercab无人驾驶出租车欧洲首秀",
    "title_zh": "欧洲首秀！特斯拉Cybercab无人驾驶出租车将亮相巴黎车展！_热点推荐 - 证券之星",
    "sentiment": 1
+  },
+  {
+   "id": "4aecbb636238",
+   "title": "TSLA Stock Rebounds Premarket After Q2 Rout — Cathie Wood Bought The Dip, Retail Influencer Sees SpaceX Merger Reveal In 3 Weeks - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmdySk5UT2ZvbDBKZ3VkcldESmc2alUyMkJNVzlJVHRyeHFTUmZDODh5WUNobFlFZTUyOGlhOTNvem1KVndJbHYwcjRHTmNXYXBBR1dRZ3R6Uk1ZeFZ3enFVRXRSbGJSNGVHLU1tUkREc043ZEhVNnhFZVJsZ2lTb1h0d1JreVdLZXVzT2hNeE1XQk4zNHhMWTBnUkVqYW1uOGY0azFzdjBkX2txVWxoWVlmdC1tTTlyLV80",
+   "source": "Stocktwits",
+   "published_at": "2026-10-07T03:38:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-07T03:38:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmdySk5UT2ZvbDBKZ3VkcldESmc2alUyMkJNVzlJVHRyeHFTUmZDODh5WUNobFlFZTUyOGlhOTNvem1KVndJbHYwcjRHTmNXYXBBR1dRZ3R6Uk1ZeFZ3enFVRXRSbGJSNGVHLU1tUkREc043ZEhVNnhFZVJsZ2lTb1h0d1JreVdLZXVzT2hNeE1XQk4zNHhMWTBnUkVqYW1uOGY0azFzdjBkX2txVWxoWVlmdC1tTTlyLV80"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "9a48481eeca7",
@@ -4311,6 +4345,37 @@
    "sentiment": 1
   },
   {
+   "id": "1fa69cc8470a",
+   "title": "SpaceX特斯拉股价回升 马斯克身家重返万亿美元 - 联合早报",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jcndIdlAtQVBYZllvVVQ2ZmtWTDItZ0RJZUZsbS1jaV9FUERZa0dIcGhkcnhUM0JqZlVmYkRrMXhUbXJaLVNlZFhnTk41TU1yMXdQNDRVZU56Umg5c3RFS29XNDV2UVVia0E",
+   "source": "联合早报",
+   "published_at": "2026-10-06T02:26:04+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "联合早报",
+     "published_at": "2026-10-06T02:26:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jcndIdlAtQVBYZllvVVQ2ZmtWTDItZ0RJZUZsbS1jaV9FUERZa0dIcGhkcnhUM0JqZlVmYkRrMXhUbXJaLVNlZFhnTk41TU1yMXdQNDRVZU56Umg5c3RFS29XNDV2UVVia0E"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-10-06T10:50:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14SmZEV0swd3ZDOGF2RThrZ0dLV1BjNEZOWTlBQmhTM1RzMm9ESDI4SlhqNUlwYUdDcVhUOVRxMVc2QVFHa0NlbUxuSlFCdHFaSEpxYXF3ZkxwaWpveHFiYld5ejk0dk5IQzhZQmh3"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-06T19:09:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后",
+   "price_reaction": {
+    "pct": -0.51,
+    "window_h": 2.0
+   }
+  },
+  {
    "id": "13c628062d7f",
    "title": "【视频】别被骗了！自研电池≠单干，特斯拉和理想侧重点差在哪 - chejiahao.autohome.com.cn",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ma1ZlUzJWbUhBUjlETmRCVGlXX3FsUV9WQjNMY1lzU2RyaWl5VjAwN28wcXI0MHJVbkxZZ29uWkdsSnI1R3IzQlZGU1hiV3RmTTdFYmpxTTQ3V3M",
@@ -7671,90 +7736,6 @@
    "zh_summary": "特斯拉Model 3/Y库存降价5%",
    "title_zh": "特斯拉 Model 3 和 Model Y 库存降价 5%，最高降价 $3750",
    "sentiment": -1
-  },
-  {
-   "id": "986cb20b24f9",
-   "title": "Tesla Is Taking the Radio Out of More Model 3s - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjBXamdQOWJ3WWRDQ3o4c1dXV1NWTGdnX0ZHU2sxSHFJX2lUa3RsMGRIeUxNVURjLW1XT2djeml4TUxHNmJpMHVCNV9ndEdKZ2ZiSTNUd3lKQ3hhclEtUjZvVVU4TlZkdUFOWlM1T3dJSFVKNV9aU21iX20xeDRJVVVB",
-   "source": "Autoblog",
-   "published_at": "2026-10-05T11:30:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-05T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjBXamdQOWJ3WWRDQ3o4c1dXV1NWTGdnX0ZHU2sxSHFJX2lUa3RsMGRIeUxNVURjLW1XT2djeml4TUxHNmJpMHVCNV9ndEdKZ2ZiSTNUd3lKQ3hhclEtUjZvVVU4TlZkdUFOWlM1T3dJSFVKNV9aU21iX20xeDRJVVVB"
-    },
-    {
-     "name": "autoblog.com",
-     "published_at": "2026-10-05T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjBXamdQOWJ3WWRDQ3o4c1dXV1NWTGdnX0ZHU2sxSHFJX2lUa3RsMGRIeUxNVURjLW1XT2djeml4TUxHNmJpMHVCNV9ndEdKZ2ZiSTNUd3lKQ3hhclEtUjZvVVU4TlZkdUFOWlM1T3dJSFVKNV9aU21iX20xeDRJVVVB"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉更多Model 3取消收音机",
-   "title_zh": "特斯拉在更多 Model 3 上取消收音机",
-   "sentiment": -1
-  },
-  {
-   "id": "00dc969cb992",
-   "title": "盘前悠闲一刻之等待特斯拉15号发布会 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGNvcWtVRDVLSlFXYjRCWnY0VWx0XzdnMVdrX1AwRXBiOVR2enRrRkJWZnl1aE5iOXdITWtYbVNOSjhRYVplVmtXMmhOcXpGRXNTVWhzU1c0UWtNODdFMlloZlVHcjByM05yRXJUSTJkajcwTUJncTZyN3NTQ3YzMEVkMjJraGE1eTc5SzhaZTNBbzNPVEpZRFMxY0Jxdk5VS0lILXhWd293UlFIYkVBR3RR",
-   "source": "Moomoo",
-   "published_at": "2026-10-05T11:24:28+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-05T11:24:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGNvcWtVRDVLSlFXYjRCWnY0VWx0XzdnMVdrX1AwRXBiOVR2enRrRkJWZnl1aE5iOXdITWtYbVNOSjhRYVplVmtXMmhOcXpGRXNTVWhzU1c0UWtNODdFMlloZlVHcjByM05yRXJUSTJkajcwTUJncTZyN3NTQ3YzMEVkMjJraGE1eTc5SzhaZTNBbzNPVEpZRFMxY0Jxdk5VS0lILXhWd293UlFIYkVBR3RR"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-05T11:24:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGNvcWtVRDVLSlFXYjRCWnY0VWx0XzdnMVdrX1AwRXBiOVR2enRrRkJWZnl1aE5iOXdITWtYbVNOSjhRYVplVmtXMmhOcXpGRXNTVWhzU1c0UWtNODdFMlloZlVHcjByM05yRXJUSTJkajcwTUJncTZyN3NTQ3YzMEVkMjJraGE1eTc5SzhaZTNBbzNPVEpZRFMxY0Jxdk5VS0lILXhWd293UlFIYkVBR3RR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "等待特斯拉15号发布会",
-   "title_zh": "盘前悠闲一刻之等待特斯拉15号发布会 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "b91afb892088",
-   "title": "自驾安吉体验特斯拉Model Y跑山 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGMtVWhlWHdSTG5wVzJEN0FJN3VXTnRMdVFmVUdCNjUzUnJhRWRmNXI3YXhsTEhpR3RpRmg3R0VxdFZ0SFB2TGh1aFFxQVlMa0JMMld2TW9IVU5vcF9PdWc1Vm5RYWxYZkxrQjVneTA0NGpJbnRfSHFRUEM4WXJSMg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-05T11:13:20+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-05T11:13:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGMtVWhlWHdSTG5wVzJEN0FJN3VXTnRMdVFmVUdCNjUzUnJhRWRmNXI3YXhsTEhpR3RpRmg3R0VxdFZ0SFB2TGh1aFFxQVlMa0JMMld2TW9IVU5vcF9PdWc1Vm5RYWxYZkxrQjVneTA0NGpJbnRfSHFRUEM4WXJSMg"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-05T11:13:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGMtVWhlWHdSTG5wVzJEN0FJN3VXTnRMdVFmVUdCNjUzUnJhRWRmNXI3YXhsTEhpR3RpRmg3R0VxdFZ0SFB2TGh1aFFxQVlMa0JMMld2TW9IVU5vcF9PdWc1Vm5RYWxYZkxrQjVneTA0NGpJbnRfSHFRUEM4WXJSMg"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-05T11:13:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGMtVWhlWHdSTG5wVzJEN0FJN3VXTnRMdVFmVUdCNjUzUnJhRWRmNXI3YXhsTEhpR3RpRmg3R0VxdFZ0SFB2TGh1aFFxQVlMa0JMMld2TW9IVU5vcF9PdWc1Vm5RYWxYZkxrQjVneTA0NGpJbnRfSHFRUEM4WXJSMg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "自驾安吉体验Model Y跑山",
-   "title_zh": "自驾安吉体验特斯拉Model Y跑山 - 手机新浪网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 2.99,
-    "window_h": 2.0
-   }
   }
  ]
 }
