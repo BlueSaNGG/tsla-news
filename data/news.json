@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T03:22:38.001760+00:00",
+ "updated_at": "2026-10-07T03:38:12.744053+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（126条已评分）"
+     "note": "今日新闻情绪 +0.26（128条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T03:22:37.988856+00:00"
+   "as_of": "2026-10-07T03:38:12.732559+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 126
+   "avg": 0.26,
+   "count": 128
   }
  },
  "meta": {
@@ -93,12 +93,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHhGVjllU0picllDVWYwdFZNTTgzVE56UHZIYkpaV25PYjBNVHBVdW9hZkEwSktmclhER0pROVJneW81SC1VSFpJS2hkbXNQeE9velVOME9MOS1uRUpvelFnckhncTUyQ2I0dGwxUi1sY0hRN2xYSUxEWk85YUF1OW5ETVdpMnlK",
    "source": "搜狐网",
    "published_at": "2026-10-07T02:37:05+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-07T02:37:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHhGVjllU0picllDVWYwdFZNTTgzVE56UHZIYkpaV25PYjBNVHBVdW9hZkEwSktmclhER0pROVJneW81SC1VSFpJS2hkbXNQeE9velVOME9MOS1uRUpvelFnckhncTUyQ2I0dGwxUi1sY0hRN2xYSUxEWk85YUF1OW5ETVdpMnlK"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-07T02:38:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QRGFrczV2c0E2d2VfcWlIX19iRGoyeUpXT1ljSk9uNm5NMXRyU2pNU1V6aGMxb2xCdWZtU0xla1Z2RUFyYXNka1Z1cDQ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -126,6 +131,23 @@
    "zh_summary": "圣路易斯-奥比斯波特斯拉充电站起火调查中",
    "title_zh": "圣路易斯-奥比斯波警方消防调查特斯拉充电站起火",
    "sentiment": -1
+  },
+  {
+   "id": "b731ba3b9cdd",
+   "title": "【网通社快报】德国表态支持特斯拉FSD在欧盟获批，要求更名为TAD且超速上限设为10% - 凤凰网汽车",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuTzdUUS1mejBrRzFabDMtd09GLTJqdHZGRkZ2T190bUVaaEo2OTUxQUJKVjF1Q2FOVG43VVFpQk1VQ2lBMHE0Q3ZJakU",
+   "source": "凤凰网汽车",
+   "published_at": "2026-10-07T02:18:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-07T02:18:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuTzdUUS1mejBrRzFabDMtd09GLTJqdHZGRkZ2T190bUVaaEo2OTUxQUJKVjF1Q2FOVG43VVFpQk1VQ2lBMHE0Q3ZJakU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7b2137699547",
@@ -7912,31 +7934,6 @@
    },
    "zh_summary": "汇丰因交付超预期上调特斯拉目标价",
    "title_zh": "汇丰上调特斯拉目标价，因交付超预期",
-   "sentiment": 1
-  },
-  {
-   "id": "facb9960d975",
-   "title": "Tesla: Shares Rise on Third-Quarter Deliveries Ahead of Consensus Estimates - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR",
-   "source": "Morningstar",
-   "published_at": "2026-10-05T08:16:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Morningstar",
-     "published_at": "2026-10-05T08:16:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR"
-    },
-    {
-     "name": "global.morningstar.com",
-     "published_at": "2026-10-05T08:23:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度交付超预期，股价上涨",
-   "title_zh": "特斯拉股价因三季度交付超预期上涨（Morningstar）",
    "sentiment": 1
   }
  ]
