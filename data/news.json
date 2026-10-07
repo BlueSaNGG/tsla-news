@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T16:22:33.705625+00:00",
+ "updated_at": "2026-10-07T16:37:31.565034+00:00",
  "market": {
-  "price": 375.89,
-  "change_pct": -1.26,
+  "price": 375.79,
+  "change_pct": -1.28,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（78条已评分）"
+     "note": "今日新闻情绪 +0.30（80条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.89 vs 20日均线 $367.13"
+     "note": "现价 $375.79 vs 20日均线 $367.12"
     },
     {
      "key": "分析师动向",
@@ -43,10 +43,10 @@
    "target_median": 407.5,
    "target_count": 14,
    "implied_upside_pct": 8.4,
-   "ma20": 367.13,
-   "as_of": "2026-10-07T16:22:33.695143+00:00"
+   "ma20": 367.12,
+   "as_of": "2026-10-07T16:37:31.555607+00:00"
   },
-  "pe_ttm": 104.0,
+  "pe_ttm": 103.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.4%空间：估值适中，预期中性",
   "next_delivery": {
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 78
+   "avg": 0.3,
+   "count": 80
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2d5884e05bd0",
+   "title": "Tesla’s Cybertruck sales still unimpressive despite cheaper model - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT1hPQmZHaWl5TjJNRVVwX2NFS2xfWkNRS2g5S1lrY0FMNmpuZUhiZ1JOMFNGZTdSNTl6LXkwT1ktQ0ZPTW5QZGVPcVg0Z2YzaHhZWTVkZ2RTRHI5aWFQWURabUJQU3lLSzBKeWlqbU40bXBrUDdSZ0dvMkwtbm90Q2hVSlZnelZWOERSZg",
+   "source": "Electrek",
+   "published_at": "2026-10-07T16:19:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-07T16:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT1hPQmZHaWl5TjJNRVVwX2NFS2xfWkNRS2g5S1lrY0FMNmpuZUhiZ1JOMFNGZTdSNTl6LXkwT1ktQ0ZPTW5QZGVPcVg0Z2YzaHhZWTVkZ2RTRHI5aWFQWURabUJQU3lLSzBKeWlqbU40bXBrUDdSZ0dvMkwtbm90Q2hVSlZnelZWOERSZg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "b198d4eff87b",
    "title": "Police: 4 teens charged after pineapple thrown at Tesla causes 'significant damage' - WLWT",
@@ -288,6 +305,23 @@
    "sentiment": 1
   },
   {
+   "id": "b4c8f582a2af",
+   "title": "Will Tesla and SpaceX operate their Terafab chip complex themselves? - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHhFOUtpeEJQMU1HRG1IdDhBSXY3RklURnBsYzV6TVY1ZVBoQ2Z5TnR6elNfLVJaUGhpMXMwWHVVX1pPNVhJcmNTUTJ4SlQ0ZTFkMEpvMWRoZHNpQXpwNlBYUG5tZTQ2d09rcWJsYmI4RUtBLXhoeWlETklVTXBfbnYxbDVMa1dsZ1E2TmViNXR3NVo4cC11TUczbTNILWVLcDZjc3p4QnM1WFdtVFBwOUxrNEVEOFFQbDl4dA",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-07T14:50:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-07T14:50:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHhFOUtpeEJQMU1HRG1IdDhBSXY3RklURnBsYzV6TVY1ZVBoQ2Z5TnR6elNfLVJaUGhpMXMwWHVVX1pPNVhJcmNTUTJ4SlQ0ZTFkMEpvMWRoZHNpQXpwNlBYUG5tZTQ2d09rcWJsYmI4RUtBLXhoeWlETklVTXBfbnYxbDVMa1dsZ1E2TmViNXR3NVo4cC11TUczbTNILWVLcDZjc3p4QnM1WFdtVFBwOUxrNEVEOFFQbDl4dA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "467716a88933",
    "title": "特斯拉Model Y成德国9月全品类销冠，销量碾压各细分冠军 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtdkpuQlE0bGNqLThiWS0wblNPdU1UWlhENXB6Q1BXVEdtXzY3NVZQM0lsdWJINTVZMk5FNFBXcDVVR1hid0k5MlZ4X0ZNRjVDbEF2Qi10Q3ZtYWM",
@@ -390,26 +424,6 @@
    "session": "盘中",
    "zh_summary": "路透：特斯拉施压欧洲监管放松FSD审查",
    "title_zh": "路透：特斯拉施压欧洲监管放松FSD审查，马斯克称延误代价生命",
-   "sentiment": 0
-  },
-  {
-   "id": "48928d9edad9",
-   "title": "Ex-Tesla Optimus head said to launch industrial robot startup - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjFsWXVDNFp3OEFndVIyVThRVFg4TW1PWEtLZVI4SWFPZjEtbXhKcjJTMnZrWFpyakd6TFhGU2FuajBxYUJlNXFhVnlfd0Q1MVJTOVNCYUxLSVVoS2RwVE1TYkZidW55NjFDS1V1Yk5jY2lwSUx2dWtqQ3FWeTM2R2hKS1JaRjg2bFVaTW5peGN1Z3IwVXBvYVhXUXA5M0NWRjA3UXFlcXJkUQ",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-07T14:19:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-07T14:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjFsWXVDNFp3OEFndVIyVThRVFg4TW1PWEtLZVI4SWFPZjEtbXhKcjJTMnZrWFpyakd6TFhGU2FuajBxYUJlNXFhVnlfd0Q1MVJTOVNCYUxLSVVoS2RwVE1TYkZidW55NjFDS1V1Yk5jY2lwSUx2dWtqQ3FWeTM2R2hKS1JaRjg2bFVaTW5peGN1Z3IwVXBvYVhXUXA5M0NWRjA3UXFlcXJkUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "前特斯拉Optimus负责人拟创办工业机器人公司",
-   "title_zh": "据称前特斯拉Optimus负责人将创办工业机器人初创公司",
    "sentiment": 0
   },
   {
@@ -536,6 +550,31 @@
    "zh_summary": "前Optimus负责人筹办机器人初创公司",
    "title_zh": "前特斯拉Optimus负责人拟创办机器人初创公司",
    "sentiment": -1
+  },
+  {
+   "id": "5bd14f454d21",
+   "title": "Former Tesla Optimus Lead is Launching an Industrial Robot Startup - The Information",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWxZSGZjeGRyNTdZZVVVSWludm4yOUxzOEJtTWV0ZXhmekRnVHpqUk5uU25Ddm55cnBQTTRHN0dGTTJqWmR5dFZsQVM2b2dHZWhhY0JTS1puSzNja3NPTzVPdjdUYmZhbjlmWXFKUEdWZFJvQnpEOVBudTZYTXdHM1VIRnl2VmJtamMyVHY3ZmZ6VEFYLUk0TDJvYWNpeVU1d0drR1ZfTS0tOWw4T1YzSnYyYw",
+   "source": "The Information",
+   "published_at": "2026-10-07T14:01:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "The Information",
+     "published_at": "2026-10-07T14:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWxZSGZjeGRyNTdZZVVVSWludm4yOUxzOEJtTWV0ZXhmekRnVHpqUk5uU25Ddm55cnBQTTRHN0dGTTJqWmR5dFZsQVM2b2dHZWhhY0JTS1puSzNja3NPTzVPdjdUYmZhbjlmWXFKUEdWZFJvQnpEOVBudTZYTXdHM1VIRnl2VmJtamMyVHY3ZmZ6VEFYLUk0TDJvYWNpeVU1d0drR1ZfTS0tOWw4T1YzSnYyYw"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-07T14:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjFsWXVDNFp3OEFndVIyVThRVFg4TW1PWEtLZVI4SWFPZjEtbXhKcjJTMnZrWFpyakd6TFhGU2FuajBxYUJlNXFhVnlfd0Q1MVJTOVNCYUxLSVVoS2RwVE1TYkZidW55NjFDS1V1Yk5jY2lwSUx2dWtqQ3FWeTM2R2hKS1JaRjg2bFVaTW5peGN1Z3IwVXBvYVhXUXA5M0NWRjA3UXFlcXJkUQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "前特斯拉Optimus负责人拟创办工业机器人公司",
+   "title_zh": "据称前特斯拉Optimus负责人将创办工业机器人初创公司",
+   "sentiment": 0
   },
   {
    "id": "93e4aebfddc2",
@@ -2018,6 +2057,23 @@
    "zh_summary": "TSLA盘前反弹，木头姐抄底买入",
    "title_zh": "Q2暴跌后TSLA盘前反弹，Cathie Wood抄底，散户称三周后SpaceX合并揭晓",
    "sentiment": 1
+  },
+  {
+   "id": "06f6fa81286f",
+   "title": "特斯拉Cybercab无人驾驶出租车 将在10月12日巴黎车展展出 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkN1h0cmFLSm8wZ2VKRm4tWFhvcWcxVVd5SDVBZnZHNzVmMDRJU0NTTWo4TmZKUmUzcGVPc1J3LXpvODR4cXRYSW94T0I",
+   "source": "凤凰网",
+   "published_at": "2026-10-07T03:26:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-07T03:26:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkN1h0cmFLSm8wZ2VKRm4tWFhvcWcxVVd5SDVBZnZHNzVmMDRJU0NTTWo4TmZKUmUzcGVPc1J3LXpvODR4cXRYSW94T0I"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "9a48481eeca7",
@@ -7238,96 +7294,6 @@
    "zh_summary": "TSLA四连涨，投行预计交付同比增长",
    "title_zh": "TSLA连续第四日上涨，周四交付报告前华尔街预计同比增长",
    "sentiment": 1
-  },
-  {
-   "id": "b728771b0487",
-   "title": "Tesla Robotaxi App Now Available in Many More Countries - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-05T18:21:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-05T18:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU"
-    },
-    {
-     "name": "notateslaapp.com",
-     "published_at": "2026-10-05T18:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVpaWdrMnlqZjlBSDhlVTJiUEprcU92dUJpSzV5Rm1DRXdmOWFRU1RpY1BWaVRFLW8wNXlOTndIb0xtU21oQWg5eEJJczJUQlZGMUVZWHdLNWVaeHVLMXRKNk1Wb2Z3bi1DVC1VZ2luejV0aVVnVnRjM2pKdkRjWVA0UWtxREdU"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉Robotaxi应用在更多国家上架",
-   "title_zh": "特斯拉Robotaxi应用已在更多国家上线（非特斯拉应用）",
-   "sentiment": 1
-  },
-  {
-   "id": "2849d0bb8cc9",
-   "title": "Tesla FSD in Europe: 5 Details That Matter From Tomorrow's UNECE Meeting - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA",
-   "source": "BASENOR",
-   "published_at": "2026-10-05T18:06:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-05T18:06:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA"
-    },
-    {
-     "name": "basenor.com",
-     "published_at": "2026-10-05T18:06:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkFQNUR0UnJ0ckZ4ZUEyUTRIeUdlbzl3NG9sNUR5MGhwOXpRLWZMbExhcldhWWFUSzNPYWVjaGVpSkVxOHlqbHk0T0xEQTVrMkh4TnQwYlA0cExNQlhCYkJsdmdfRW5wbVlVM0hFcHZqQlNBYldJQldpVDVuMTdkVTZYYmpyVDhPdkVpQ2F1REJTRGxodUQ5X3p2RWkxSVc0dC1xT0g2TnA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "明日UNECE会议定欧洲FSD",
-   "title_zh": "特斯拉欧洲FSD：明日UNECE会议五大要点",
-   "sentiment": 1
-  },
-  {
-   "id": "7501384beb29",
-   "title": "Tesla still makes the world's best-selling EV, new sales figures show —but Chinese brands led by BYD are storming up the charts - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEgzcjJZaVpUZ0dIMXljYXMxTUxrSnVJbHZ2U1l4YnctSGY2ZWhIaGcxRjhWSUhlLTFKV3phYnYwQTctNXNFXzR2WWJ3LXd3MjBqX1l3cHVfWUtWLVBXWjRWTExsTnNiczE1cjFDa3NEWnN4UG9QVHZKZUM1bk1WNk9jakxjSTRrSmFjbG5FU25CNUl5",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-05T18:00:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEgzcjJZaVpUZ0dIMXljYXMxTUxrSnVJbHZ2U1l4YnctSGY2ZWhIaGcxRjhWSUhlLTFKV3phYnYwQTctNXNFXzR2WWJ3LXd3MjBqX1l3cHVfWUtWLVBXWjRWTExsTnNiczE1cjFDa3NEWnN4UG9QVHZKZUM1bk1WNk9jakxjSTRrSmFjbG5FU25CNUl5"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEgzcjJZaVpUZ0dIMXljYXMxTUxrSnVJbHZ2U1l4YnctSGY2ZWhIaGcxRjhWSUhlLTFKV3phYnYwQTctNXNFXzR2WWJ3LXd3MjBqX1l3cHVfWUtWLVBXWjRWTExsTnNiczE1cjFDa3NEWnN4UG9QVHZKZUM1bk1WNk9jakxjSTRrSmFjbG5FU25CNUl5"
-    },
-    {
-     "name": "TechRadar",
-     "published_at": "2026-10-05T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORjZIZlN2a0pGRklnYTJpYXh3bmtLVTh3NzRSMDA4MzY5c2t6bXlzNXZvZkFhV09ZWHJkQkJBVWR6SUtJWV9lYUF3RG9YaWg3cWw2MEFqbmNRbG5BbEQzc0tuZUh6RVkwVG5VOWxvSHUyTkR4Uk5KZUFwOXVtU1FVa1k5ekFvajIyWlRoU3RReFF3SG1pN0JDeFFiWU9tOEdoNVpYMzlMLVV1R041bUVYOURzOERoNnc5WkVhSXMxcTI4NHhYUEFROTZNOUpPRGQ2Z1lwc2xfcGV0d2lNNzhBWWZyWmFPb0J5QW51NHZ6VlgwSVVjbVFLbU4xT0Rva2Q3VHVuT0pYaXBxa05aOTY5WA"
-    },
-    {
-     "name": "techradar.com",
-     "published_at": "2026-10-05T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORjZIZlN2a0pGRklnYTJpYXh3bmtLVTh3NzRSMDA4MzY5c2t6bXlzNXZvZkFhV09ZWHJkQkJBVWR6SUtJWV9lYUF3RG9YaWg3cWw2MEFqbmNRbG5BbEQzc0tuZUh6RVkwVG5VOWxvSHUyTkR4Uk5KZUFwOXVtU1FVa1k5ekFvajIyWlRoU3RReFF3SG1pN0JDeFFiWU9tOEdoNVpYMzlMLVV1R041bUVYOURzOERoNnc5WkVhSXMxcTI4NHhYUEFROTZNOUpPRGQ2Z1lwc2xfcGV0d2lNNzhBWWZyWmFPb0J5QW51NHZ6VlgwSVVjbVFLbU4xT0Rva2Q3VHVuT0pYaXBxa05aOTY5WA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "特斯拉仍是全球最畅销电车",
-   "title_zh": "特斯拉仍是全球电车销冠，但比亚迪等中国品牌追赶",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.28,
-    "window_h": 2.0
-   }
   }
  ]
 }
