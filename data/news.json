@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T03:38:12.744053+00:00",
+ "updated_at": "2026-10-07T03:54:51.340123+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（128条已评分）"
+     "note": "今日新闻情绪 +0.26（129条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T03:38:12.732559+00:00"
+   "as_of": "2026-10-07T03:54:51.327542+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.26,
-   "count": 128
+   "count": 129
   }
  },
  "meta": {
@@ -148,8 +148,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "【网通社快报】德国表态支持特斯拉FSD在欧盟获批，要求更名为TAD且超速上限设为10% - 凤凰网汽车",
    "zh_summary": "德国支持特斯拉FSD在欧盟获批",
+   "title_zh": "【网通社快报】德国表态支持特斯拉FSD在欧盟获批，要求更名为TAD且超速上限设为10% - 凤凰网汽车",
    "sentiment": 1
   },
   {
@@ -331,6 +331,23 @@
    "zh_summary": "特斯拉一个月降价两次惹怒车主",
    "title_zh": "一个月降价两次惹怒车主？特斯拉降价玩法怎么了？",
    "sentiment": -1
+  },
+  {
+   "id": "1eb14d9e626d",
+   "title": "Tesla Cybercab Debuts at Paris Motor Show - Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMU1jM2l5UDRNaFdDdFR5RlIwSHNxM0tNM25ka3Y0UGpWOEJObWRkUTYzbGozX3oyVnFZWW9jLVZLNXFhZ202UDdiWjBCbjd6bFBzQnA0bmdweVZTckFWQ0FhS2hzelFhZDBfelR3bWowME5WZjhKR0ZDVkxWZVJDZ2ZkNVgyejQwN2g1cVBuNVRXQQ",
+   "source": "Briefs Finance",
+   "published_at": "2026-10-06T23:35:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Briefs Finance",
+     "published_at": "2026-10-06T23:35:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMU1jM2l5UDRNaFdDdFR5RlIwSHNxM0tNM25ka3Y0UGpWOEJObWRkUTYzbGozX3oyVnFZWW9jLVZLNXFhZ202UDdiWjBCbjd6bFBzQnA0bmdweVZTckFWQ0FhS2hzelFhZDBfelR3bWowME5WZjhKR0ZDVkxWZVJDZ2ZkNVgyejQwN2g1cVBuNVRXQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "1da5c83698f9",
@@ -7912,32 +7929,6 @@
     "pct": 2.99,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "11faf268ebed",
-   "title": "HSBC raises Tesla stock price target on delivery beat - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTNTUDVxY0tWUHlaOXNhQmJOUEg0RFdZZUVnaHdNSFg1X212UDkwWFVBbWZuYVpPTDRlM1FLMDZRZ2NNNTcwY3NsWmJTTWFBQld4eGNVeUp4dlM1SGp4NU0xaFphVnU1SzI2OHdOZjlJVmxrT0Jmd2FUNkV6T0Vlbk5SOGZQT1ZHTGdGQVRsVmVnQi1NSV9ycHd6ZjI0cHBKeHhoZEtaeVNEV05UMmxndjdLWQ",
-   "source": "Investing.com",
-   "published_at": "2026-10-05T08:36:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-05T08:36:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTNTUDVxY0tWUHlaOXNhQmJOUEg0RFdZZUVnaHdNSFg1X212UDkwWFVBbWZuYVpPTDRlM1FLMDZRZ2NNNTcwY3NsWmJTTWFBQld4eGNVeUp4dlM1SGp4NU0xaFphVnU1SzI2OHdOZjlJVmxrT0Jmd2FUNkV6T0Vlbk5SOGZQT1ZHTGdGQVRsVmVnQi1NSV9ycHd6ZjI0cHBKeHhoZEtaeVNEV05UMmxndjdLWQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "analyst": {
-    "firm": "HSBC",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "汇丰因交付超预期上调特斯拉目标价",
-   "title_zh": "汇丰上调特斯拉目标价，因交付超预期",
-   "sentiment": 1
   }
  ]
 }
