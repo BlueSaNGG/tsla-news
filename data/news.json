@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T23:52:28.218867+00:00",
+ "updated_at": "2026-10-07T00:07:36.234543+00:00",
  "market": {
-  "price": 380.68,
-  "change_pct": 0.51,
+  "price": 378.73,
+  "change_pct": 2.2,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,12 +16,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 42% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.0%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.6%"
     },
     {
      "key": "新闻情绪",
@@ -31,7 +31,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.68 vs 20日均线 $366.72"
+     "note": "现价 $378.73 vs 20日均线 $366.10"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 42,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.0,
-   "ma20": 366.72,
-   "as_of": "2026-10-06T23:52:28.211361+00:00"
+   "implied_upside_pct": 7.6,
+   "ma20": 366.1,
+   "as_of": "2026-10-07T00:07:36.219590+00:00"
   },
-  "pe_ttm": 105.3,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.0%空间：估值适中，预期中性",
+  "pe_ttm": 104.7,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -1095,7 +1095,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZ09MZDk4V1B2ejBjVU5VaWxMRFZqUEFBZUpmdGpNVndjbDNZekV3NEtUbjVFenAwblE4ZzNXdmNxaHdNb0dVd1ZDa0dMRnlMYTBXbEQ4Yk9BNTg",
    "source": "网通社",
    "published_at": "2026-10-06T14:24:07+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "网通社",
@@ -1116,11 +1116,15 @@
      "name": "auto.ifeng.com",
      "published_at": "2026-10-06T14:24:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WQWZEUXFPcEgwcTJsMXJtNlRqQUtNbXpvdFAtNGJjbVFIcXpyVHJQQWNrTFUySkRpV0ZKTXIyeDhxakJ1Z0wtSm1DdUQ"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-06T23:56:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40SjBBVTAybWlfd2xlbmtfUWxlelFWbHJSVV9mQ19aOS1tMkhmVmVFcHV3dUtMcGxaR3d2bHo3b1lRUGRNalBDNlBzMk4"
     }
    ],
    "category": "交付量",
    "session": "盘中",
-   "breaking": true,
    "zh_summary": "特斯拉在印度累计注册993辆车",
    "title_zh": "特斯拉在印度市场交付超一年累计注册993辆汽车 - 网通社",
    "sentiment": 0,
