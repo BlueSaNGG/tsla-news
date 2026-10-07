@@ -111,6 +111,17 @@ body {
 .quote-sep { margin: 0 8px; color: var(--muted); }
 .earn { color: var(--muted); font-size: 0.8rem; }
 .quote-live { color: var(--accent); font-size: 0.72rem; font-weight: 600; }
+.day-senti { font-size: 0.8rem; color: var(--muted); white-space: nowrap; }
+.day-senti .dots { display: inline-flex; gap: 3px; margin: 0 6px; vertical-align: 1px; }
+.day-senti .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--card-border, #2a2f36); }
+.day-senti .dot.on.up { background: var(--accent); }   /* 红涨 */
+.day-senti .dot.on.down { background: var(--down); }    /* 绿跌 */
+.day-senti .dot.on.flat { background: var(--muted); }
+.day-senti b { font-weight: 800; }
+.day-senti b.up { color: var(--accent); }
+.day-senti b.down { color: var(--down); }
+.day-senti b.flat { color: var(--muted); }
+.day-senti .ds-n { margin-left: 4px; font-size: 0.72rem; }
 
 /* ---------- 历史搜索范围切换 ---------- */
 .search-scope { display: flex; gap: 8px; margin: 8px 0 2px; }

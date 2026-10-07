@@ -380,8 +380,28 @@ function renderMarket(market) {
     html += (html ? '<span class="quote-sep">·</span>' : "") +
       '<span class="earn">' + txt + "</span>";
   }
+  const ds = daySentimentHtml(market);
+  if (ds) {
+    html += (html ? '<span class="quote-sep">·</span>' : "") + ds;
+  }
   el.innerHTML = html;
   el.hidden = !html;
+}
+
+function daySentimentHtml(market) {
+  const ds = market && market.day_sentiment;
+  if (!ds || typeof ds.avg !== "number") return "";
+  const avg = ds.avg;
+  const label = avg >= 0.5 ? "偏多" : avg <= -0.5 ? "偏空" : "中性";
+  const cls = avg >= 0.5 ? "up" : avg <= -0.5 ? "down" : "flat";
+  const filled = Math.max(0, Math.min(4, Math.round(((avg + 2) / 4) * 4)));
+  let dots = "";
+  for (let i = 0; i < 5; i++) {
+    dots += '<span class="dot' + (i <= filled ? " on " + cls : "") + '"></span>';
+  }
+  return '<span class="day-senti">今日情绪<span class="dots">' + dots +
+    '</span><b class="' + cls + '">' + label + "</b>" +
+    '<span class="ds-n">n=' + ds.count + "</span></span>";
 }
 
 /* ---------- 今日屏 ---------- */
