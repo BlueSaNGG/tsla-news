@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-07T13:22:55.091664+00:00",
+ "updated_at": "2026-10-07T13:37:29.246541+00:00",
  "market": {
-  "price": 380.68,
-  "change_pct": 0.51,
-  "as_of": "2026-10-06",
+  "price": 380.3,
+  "change_pct": -0.1,
+  "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +7.0%"
+     "note": "目标价中位数 $408（14家），隐含空间 +7.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（43条已评分）"
+     "note": "今日新闻情绪 +0.41（46条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.68 vs 20日均线 $366.72"
+     "note": "现价 $380.30 vs 20日均线 $367.33"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 7.0,
-   "ma20": 366.72,
-   "as_of": "2026-10-07T13:22:55.080083+00:00"
+   "implied_upside_pct": 7.2,
+   "ma20": 367.33,
+   "as_of": "2026-10-07T13:37:29.238543+00:00"
   },
-  "pe_ttm": 105.3,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+7.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 43
+   "avg": 0.41,
+   "count": 46
   }
  },
  "meta": {
@@ -68,17 +68,56 @@
  },
  "stories": [
   {
+   "id": "bfa4c9cddc2c",
+   "title": "UBS Adjusts Price Target on Tesla to $391 From $385, Keeps Neutral Rating - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVN5RWxtUkV4anNnWmpRcGdVcWtGSXVFZ1lfOUhqT1IwN2ljSTZoSG4wY1JsdTAybUJqdjl5RFhTTFNvMlQ1TlBmTWZ3UzZzb3hnMDJWMXd5SUU0RmpaQlo5Mk4wUVlWcElNY2NzWFRJTks2VTVRTHRXWXl5TU5nb2NZWEtKZldnX0w5VzA5WUtPUHlTdTB6VWNqYzEyWV9xa2RqME42a2J4NllvVGhSN0JucUFNaTBnZndJRFFkSmk",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-07T13:30:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-07T13:30:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVN5RWxtUkV4anNnWmpRcGdVcWtGSXVFZ1lfOUhqT1IwN2ljSTZoSG4wY1JsdTAybUJqdjl5RFhTTFNvMlQ1TlBmTWZ3UzZzb3hnMDJWMXd5SUU0RmpaQlo5Mk4wUVlWcElNY2NzWFRJTks2VTVRTHRXWXl5TU5nb2NZWEtKZldnX0w5VzA5WUtPUHlTdTB6VWNqYzEyWV9xa2RqME42a2J4NllvVGhSN0JucUFNaTBnZndJRFFkSmk"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "d9bb978ea0e8",
+   "title": "Robinhood Joins Strategy, Tesla In Holding Bitcoin - Robinhood Markets (NASDAQ:HOOD) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWDBsVFM5eENIQmZDUUtJOEluamUtTDJoNnBlR3hiNzFkYWt3YlZJcWlSdnBibXE4Tkd2amhXWm1tY3pZc1dsWXJfTHlPcE0zcE5XaXRPQVJBUHhmOGFDZnZ3VDZWZkhueFNlbXhDdVJDLWhoY2k2SnlpS1dRcTBtSGRfZlNzOUFYN3dTalVMTVFyNmhHRVJ6WElqRUgyaGU4YzZBVk45a3huYjJyVGZEY3ZPc3dhTzFNWFlPOWg1VFJmek9CVlBneWhhNjVPVU9pbXB5eVlTQzB3bEJSdzRWQTRqNHY",
+   "source": "Benzinga",
+   "published_at": "2026-10-07T13:17:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-07T13:17:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWDBsVFM5eENIQmZDUUtJOEluamUtTDJoNnBlR3hiNzFkYWt3YlZJcWlSdnBibXE4Tkd2amhXWm1tY3pZc1dsWXJfTHlPcE0zcE5XaXRPQVJBUHhmOGFDZnZ3VDZWZkhueFNlbXhDdVJDLWhoY2k2SnlpS1dRcTBtSGRfZlNzOUFYN3dTalVMTVFyNmhHRVJ6WElqRUgyaGU4YzZBVk45a3huYjJyVGZEY3ZPc3dhTzFNWFlPOWg1VFJmek9CVlBneWhhNjVPVU9pbXB5eVlTQzB3bEJSdzRWQTRqNHY"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
    "id": "8932561d1f61",
    "title": "Tesla’s Third-Quarter Deliveries Beat Expectations. Time to Buy the Stock? - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTFMaEhqajk4bnhPMThTaWx2dV9PcnFNTVhkQ3llWmxBS0ZndE9feE5GclA1cVJ1Zi1nQzZOMlg4WHczX3Z4eWFCcy1FZnE2MVpWOUNBRi1nLVJqVW5uQVF3ZWhxNU1BSUJXOGdPM3NpQ3Nsd1dPR29LSnh1dy1GVS0zMl9oSmdkR2ZLUU9BTV93MEZLdjFKeWs4eFFvdzFFdVNQVzRIdHFxajdLdUluWXc0Q3lLUQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-07T13:07:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-07T13:07:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTFMaEhqajk4bnhPMThTaWx2dV9PcnFNTVhkQ3llWmxBS0ZndE9feE5GclA1cVJ1Zi1nQzZOMlg4WHczX3Z4eWFCcy1FZnE2MVpWOUNBRi1nLVJqVW5uQVF3ZWhxNU1BSUJXOGdPM3NpQ3Nsd1dPR29LSnh1dy1GVS0zMl9oSmdkR2ZLUU9BTV93MEZLdjFKeWs4eFFvdzFFdVNQVzRIdHFxajdLdUluWXc0Q3lLUQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T13:20:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVW9kTmxZa0FPTTVSdVNlZHczVzlCa3JfQzdRR0JqbDRPbnBwZkJKaFM4LXBXX09FNVhqLVlGTjJWbldqOENCd0JiT2NLSDVCa0dfcWdKYlozVnhIa2NpNVVKYlhEWS04Ylg5VG5GNFp4ZHhqWVc0d1ZMVVRyMTV5NVROSWhRbTR6aVozVjdPeVJsOGxaMHl4blhwejRKUHZoRUE"
     }
    ],
    "category": "交付量",
@@ -280,7 +319,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉2.9万美元卖出75%比特币",
    "title_zh": "特斯拉以2.9万美元出售75%比特币，如今比特币涨至8.4万美元",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "c74a1d8f2098",
@@ -316,7 +359,11 @@
    "breaking": true,
    "zh_summary": "特斯拉等Robotaxi概念股跌16%至26%",
    "title_zh": "特斯拉、Rivian、Uber股价下跌16%-26%，Robotaxi时代谁值得买",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "53d829c208ba",
@@ -592,7 +639,11 @@
    "breaking": true,
    "zh_summary": "特斯拉获德国支持推动欧盟批准驾驶辅助",
    "title_zh": "马斯克欢迎德国支持特斯拉驾驶辅助技术推动欧盟批准",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b4a34e4ec6ce",
@@ -713,7 +764,11 @@
    "breaking": true,
    "zh_summary": "财报前一数据让特斯拉难以被忽视",
    "title_zh": "10月21日前不可忽视的特斯拉关键数据",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "23633f90995e",
@@ -803,7 +858,11 @@
    "session": "盘前",
    "zh_summary": "马斯克称特斯拉与SpaceX共营Terafab工厂",
    "title_zh": "马斯克称特斯拉和SpaceX将运营Terafab工厂",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "924539b3474f",
@@ -1313,7 +1372,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉Robotaxi应用多国上架服务限美国七城",
    "title_zh": "特斯拉Robotaxi应用多国上架，但打车服务仍仅限美国七城 - 搜狐网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2e4d65f852d2",
@@ -1409,7 +1472,11 @@
    "breaking": true,
    "zh_summary": "德国支持特斯拉FSD入欧，改名TAD限超速10%",
    "title_zh": "德国支持特斯拉FSD落地欧洲，前提是更名为TAD、超速上限设为10% - 搜狐网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "72e74f6cb370",
@@ -1479,7 +1546,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉Cybercab将亮相巴黎车展",
    "title_zh": "Cybercab欧洲首秀：特斯拉将携无人驾驶出租车亮相巴黎车展 - 搜狐网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 0.1
+   }
   },
   {
    "id": "f8e6e0e66aa7",
@@ -7404,65 +7475,6 @@
    "price_reaction": {
     "pct": 0.7,
     "window_h": 1.9
-   }
-  },
-  {
-   "id": "6c8a654af637",
-   "title": "UK Powerwall 3 owner says Tesla app now lags 30 to 50 seconds, as others report slower refresh - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDIyZUs4SWt1Vk5pUlAyeWtKMlFhb2FQSFFVdHBWMVhQTk9IdlRQSTcwR1UtMjFPaklzVkhtTWJVbXZRbVZlb2lWNGVidkxhWWZ3N0VKcTJLaGhIV2VNX1NKbm5lRWZZYzlrcDdRejdLUHlKU2xERk9NZmlnTVZZeA",
-   "source": "The Cool Down",
-   "published_at": "2026-10-05T14:37:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-05T14:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDIyZUs4SWt1Vk5pUlAyeWtKMlFhb2FQSFFVdHBWMVhQTk9IdlRQSTcwR1UtMjFPaklzVkhtTWJVbXZRbVZlb2lWNGVidkxhWWZ3N0VKcTJLaGhIV2VNX1NKbm5lRWZZYzlrcDdRejdLUHlKU2xERk9NZmlnTVZZeA"
-    },
-    {
-     "name": "thecooldown.com",
-     "published_at": "2026-10-05T14:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDIyZUs4SWt1Vk5pUlAyeWtKMlFhb2FQSFFVdHBWMVhQTk9IdlRQSTcwR1UtMjFPaklzVkhtTWJVbXZRbVZlb2lWNGVidkxhWWZ3N0VKcTJLaGhIV2VNX1NKbm5lRWZZYzlrcDdRejdLUHlKU2xERk9NZmlnTVZZeA"
-    }
-   ],
-   "category": "能源",
-   "session": "盘中",
-   "zh_summary": "特斯拉App刷新变慢至30至50秒",
-   "title_zh": "英国Powerwall 3用户称特斯拉App刷新慢至30至50秒",
-   "sentiment": -1
-  },
-  {
-   "id": "7fc2d90887c4",
-   "title": "TESLA Announces March 2027 Las Vegas Residency - BLABBERMOUTH.NET",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2hsZmRqb01zbzBsaFBzanVETEh2ZTJrUDJtcXhlTE05M0wzbVotS3QtUHlFQmxSRUJQSFFsNDFmUmxmYlJya2cxSDZ3RUJqeGV0MzdtX3Z5cjJwdzRFS0hmVWdGenA5WERCZ0hNSmFROHRfa2hodHE3cGkxMnZ0N053",
-   "source": "BLABBERMOUTH.NET",
-   "published_at": "2026-10-05T14:31:35+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "BLABBERMOUTH.NET",
-     "published_at": "2026-10-05T14:31:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2hsZmRqb01zbzBsaFBzanVETEh2ZTJrUDJtcXhlTE05M0wzbVotS3QtUHlFQmxSRUJQSFFsNDFmUmxmYlJya2cxSDZ3RUJqeGV0MzdtX3Z5cjJwdzRFS0hmVWdGenA5WERCZ0hNSmFROHRfa2hodHE3cGkxMnZ0N053"
-    },
-    {
-     "name": "NextMosh",
-     "published_at": "2026-10-05T18:20:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByajBaaFpuRHVtZHpiMkt6d3l2eV9nMmg5RE90aDc3N3JlZ181ajNya2ZXQ3NkNkdHck5TeVNMUlpwbVlhc2pKMVFsTnpfN0EtejRid2ExQnJpcC1nb0tDbmVqS29uWklHdDNuXzN3"
-    },
-    {
-     "name": "blabbermouth.net",
-     "published_at": "2026-10-05T16:14:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2hsZmRqb01zbzBsaFBzanVETEh2ZTJrUDJtcXhlTE05M0wzbVotS3QtUHlFQmxSRUJQSFFsNDFmUmxmYlJya2cxSDZ3RUJqeGV0MzdtX3Z5cjJwdzRFS0hmVWdGenA5WERCZ0hNSmFROHRfa2hodHE3cGkxMnZ0N053"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "乐队Tesla宣布2027年3月拉斯维加斯驻场",
-   "title_zh": "Tesla宣布2027年3月拉斯维加斯驻场演出",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.58,
-    "window_h": 2.0
    }
   }
  ]
