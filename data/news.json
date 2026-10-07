@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T18:52:26.057997+00:00",
+ "updated_at": "2026-10-07T19:07:27.626327+00:00",
  "market": {
-  "price": 377.38,
-  "change_pct": -0.87,
+  "price": 376.63,
+  "change_pct": -1.06,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $408（14家），隐含空间 +8.0%"
+     "note": "目标价中位数 $408（14家），隐含空间 +8.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（104条已评分）"
+     "note": "今日新闻情绪 +0.24（105条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.38 vs 20日均线 $367.20"
+     "note": "现价 $376.63 vs 20日均线 $367.16"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 41,
    "target_median": 407.5,
    "target_count": 14,
-   "implied_upside_pct": 8.0,
-   "ma20": 367.2,
-   "as_of": "2026-10-07T18:52:26.050683+00:00"
+   "implied_upside_pct": 8.2,
+   "ma20": 367.16,
+   "as_of": "2026-10-07T19:07:27.617859+00:00"
   },
-  "pe_ttm": 104.4,
+  "pe_ttm": 104.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 104
+   "avg": 0.24,
+   "count": 105
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ed8e16818434",
+   "title": "Tesla’s ‘Electric Fan Car’ patent makes Roadster unveiling even more dramatic - Tesla Oracle",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGhvVVhNZ0RtaTRCS0NnMXN3OWwzcU9YWjN2al8yUGgyQUstVU1RVkR3NUV6WmtoQUhrNElJMDdnc2JtRzVTcTVxclQtQU4yb2F0b05UdDdMSnFDMVJSNTRFZl85bnV1bHo1amxXU2lCbHJKSEkwY3ItclViUUl1QjBReHdvNFRsSmdoTHBUS2hWbWlmRDU4N3dIUkF5WWFIcTdZcDB3UF92Q0xnbzFMTnVGeDA",
+   "source": "Tesla Oracle",
+   "published_at": "2026-10-07T19:03:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tesla Oracle",
+     "published_at": "2026-10-07T19:03:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGhvVVhNZ0RtaTRCS0NnMXN3OWwzcU9YWjN2al8yUGgyQUstVU1RVkR3NUV6WmtoQUhrNElJMDdnc2JtRzVTcTVxclQtQU4yb2F0b05UdDdMSnFDMVJSNTRFZl85bnV1bHo1amxXU2lCbHJKSEkwY3ItclViUUl1QjBReHdvNFRsSmdoTHBUS2hWbWlmRDU4N3dIUkF5WWFIcTdZcDB3UF92Q0xnbzFMTnVGeDA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "eb3027fa6734",
+   "title": "特斯拉的电池难道是用五号电池堆起来的？宁德时代 #新能源电池 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDNidkNmQVBIRS1tZTNyV1FIdHN0SERNNW5VUm0xZVdQZEExUWMxWjRGalJoVDI0WDN1NHY5c2JzTU1ib0hpVmNhdHlZOFFOZFc3QVdJaXZLaTZ2UXBUeTNPMGZHR0x0Z2hBNHo1ZTZORVN5Y1ZnZzVBMVRuYXhsOA",
+   "source": "新浪网",
+   "published_at": "2026-10-07T18:58:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-07T18:58:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDNidkNmQVBIRS1tZTNyV1FIdHN0SERNNW5VUm0xZVdQZEExUWMxWjRGalJoVDI0WDN1NHY5c2JzTU1ib0hpVmNhdHlZOFFOZFc3QVdJaXZLaTZ2UXBUeTNPMGZHR0x0Z2hBNHo1ZTZORVN5Y1ZnZzVBMVRuYXhsOA"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "b4656fd2e5e3",
    "title": "Tesla Cybercab loses its entire door panel in a Philadelphia crash - Electrek",
@@ -86,6 +120,23 @@
    "zh_summary": "费城Cybercab事故车门整体脱落",
    "title_zh": "费城碰撞事故中特斯拉Cybercab整块车门面板脱落",
    "sentiment": -2
+  },
+  {
+   "id": "f74782297013",
+   "title": "Tesla Cybercab Crash in Philadelphia Exposes Door Internals - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUdsVWdhQThjWmM2LUFCRDVnNzI1eWp0ZDFEeXNsb1AyNWZSeFhHRGJ6QlJRMEpfV3I4Q3dTZlUtcVlSZzZaZ1k2SFdQUUtTM01DOFF5bnpkaTNpYXdQSzBNcndkbXVGZE81d3NiMjRLa0JldnA3V1J1NTNfdDh2NG85TldFeHhrTDNSWTdGV3hiSGdNUDZjVzlHcmtCLUU",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-07T18:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-07T18:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUdsVWdhQThjWmM2LUFCRDVnNzI1eWp0ZDFEeXNsb1AyNWZSeFhHRGJ6QlJRMEpfV3I4Q3dTZlUtcVlSZzZaZ1k2SFdQUUtTM01DOFF5bnpkaTNpYXdQSzBNcndkbXVGZE81d3NiMjRLa0JldnA3V1J1NTNfdDh2NG85TldFeHhrTDNSWTdGV3hiSGdNUDZjVzlHcmtCLUU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "4b54f8db3960",
@@ -113,7 +164,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTF5dnk0UGE1WU1tTzZjQ1JUWW9faHNEYTZnUldWaXZ3cENPV2VnT0lmYUpWR0d2S2NOSnNZWlNjMXVxVXVaakZMTlV1czZZYnNoYWVHRlQ0cGlQN0hiSnJaeGQ0b2UwdC1vdEFERzhuQnc3azJBMDljVUJfbkI4TlNxeEYzeHFzQnJITkdwQ2NhUEI5S1BoQmJ0d1ZBMDBWT3ZrS2I5bmU3VXhyX3c",
    "source": "www.fox10tv.com",
    "published_at": "2026-10-07T18:22:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "www.fox10tv.com",
@@ -129,10 +180,16 @@
      "name": "WIS News 10",
      "published_at": "2026-10-07T18:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSW95MDBnV2NMZGRzb29rMzExeEtRaGUyT3ZHRGY5bkRBTllIdzVuR2lmWXlDc3dFOEMyd3dsRC1HOUV5SmgweHVXTTdzd21pWmtORXQyNmhpWFFyemprOGRlcW1CeUZWd1JrbFAtQ2R6cy1ib095dFp0cWFRRXA2RENlaUZkMjJEVzdZZlhJSkZrVDVTWm5pQXdQWFBLNnpXaXVzbDByMU44Wms"
+    },
+    {
+     "name": "WILX",
+     "published_at": "2026-10-07T18:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW01dlZ2c2Fqa1QtSjMxams2TkFKUFhvN0s1N19DWGl4Q3EtNXdjWnZvT0puTEFrNXJqYk41ZlVIblV1U2FyQmNRdktyR0cyMl9obGZEdWVITzF4YWxxZkZqc1AtOVJJUVEyRWNqdVNJaWxkUHlHV3RRaWQwYWNoOEJOZF9OalFneWhvTmZzZXJJVDFpTnYzY2p1SzBmUWthNVdBeUNkaUZGdw"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "四人因向行驶中的特斯拉扔菠萝被起诉",
    "title_zh": "3名成年人1名青少年因向行驶中的特斯拉扔菠萝被起诉",
    "sentiment": 0,
@@ -917,6 +974,23 @@
    "sentiment": 0
   },
   {
+   "id": "52c553f9389a",
+   "title": "Tesla Rolls Out Halloween Update With Trick or Treat Mode, Spooky Light Show and Scary Voice Effects - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUtRWnVnOWR1WWlVbVdyZHZjMzFraEd0SGh0NEtGME9XQ0w3ZW1xb0V1QVVOeEJGODBITm42UnNycHVTdF9vb1Fic25HN2RlekVwRXVrb19DMWFzS0QtMkEzbDlYNURldW1ldXE5YWNNNTRMdF9hZFJ6OTJCME9aY3hxMWZ2RWxXd2U2WVVhQWJrRXVIdjdIUTdIWnhSZnVDNU5tbmRHTHo1cXRBZzIyYWJwYU83ZW9WS0M1TFpweXkyWThLVXR2eVotcXBDUnp6S0E",
+   "source": "autoevolution",
+   "published_at": "2026-10-07T14:08:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "autoevolution",
+     "published_at": "2026-10-07T14:08:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUtRWnVnOWR1WWlVbVdyZHZjMzFraEd0SGh0NEtGME9XQ0w3ZW1xb0V1QVVOeEJGODBITm42UnNycHVTdF9vb1Fic25HN2RlekVwRXVrb19DMWFzS0QtMkEzbDlYNURldW1ldXE5YWNNNTRMdF9hZFJ6OTJCME9aY3hxMWZ2RWxXd2U2WVVhQWJrRXVIdjdIUTdIWnhSZnVDNU5tbmRHTHo1cXRBZzIyYWJwYU83ZW9WS0M1TFpweXkyWThLVXR2eVotcXBDUnp6S0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "9767037626ee",
    "title": "The Tesla Model 3/Y Can Power A House Now - American Cars And Racing",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2Iwajlnbjh4Wk84T2JvcUctTXpZZ2d3VjkyQXpvXzNuVzAzb2E2US1DY0lqRTJuSEYtOXV2cERxc3lwTUtlTnplamFQOHlOY01GbWR4eHV4R2NLMmZpQVVoWWVtV3hhbzNoczBqdm1xckt0UXRXdkZkNERNV3kxRkxfSQ",
@@ -1305,6 +1379,23 @@
    "zh_summary": "特斯拉可伸缩主动尾翼专利曝光",
    "title_zh": "特斯拉可伸缩主动尾翼专利曝光",
    "sentiment": 0
+  },
+  {
+   "id": "3c1ed440231d",
+   "title": "The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn",
+   "source": "WSJ",
+   "published_at": "2026-10-07T12:31:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-07T12:31:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "c97033830cf7",
@@ -3344,26 +3435,6 @@
    "zh_summary": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "title_zh": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "sentiment": 0
-  },
-  {
-   "id": "f6764bd50174",
-   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
-   "source": "东方财富",
-   "published_at": "2026-10-06T19:09:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-06T19:09:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价反弹马斯克重返万亿美元身家",
-   "title_zh": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元",
-   "sentiment": 1
   },
   {
    "id": "ed46cfb297ca",
@@ -7125,96 +7196,6 @@
    "session": "盘后",
    "zh_summary": "华尔街投行Q3交付后发激进评级",
    "title_zh": "华尔街银行在特斯拉Q3交付消息后做出激进评级",
-   "sentiment": 1
-  },
-  {
-   "id": "a7e8da353195",
-   "title": "联手台积电？马斯克：正在谈|太空探索技术公司|埃隆·马斯克|SpaceX|特斯拉|芯片 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemZrX1h6bFhTMlREQTlVcEx6RmNfNkFqbFNSRUZlSmxDdVg5ek5JQkhkSzRQS19Ec0NVcDh1X3I4T09JLTE5a2hPeWR6MnIwMGY5Ul9kR3lwT3kyaEVVTVp4eHY5VHdXd0NWcnFvdnRKbFhubHFxZTlwYjFQWEVFR2w0Ry1zMmQyTHhLd3diOC1LRXpBbHpIUWRVYy14czZvOUptSVdDUQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-05T22:43:27+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-05T22:43:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemZrX1h6bFhTMlREQTlVcEx6RmNfNkFqbFNSRUZlSmxDdVg5ek5JQkhkSzRQS19Ec0NVcDh1X3I4T09JLTE5a2hPeWR6MnIwMGY5Ul9kR3lwT3kyaEVVTVp4eHY5VHdXd0NWcnFvdnRKbFhubHFxZTlwYjFQWEVFR2w0Ry1zMmQyTHhLd3diOC1LRXpBbHpIUWRVYy14czZvOUptSVdDUQ"
-    },
-    {
-     "name": "finance.sina.cn",
-     "published_at": "2026-10-05T22:43:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemZrX1h6bFhTMlREQTlVcEx6RmNfNkFqbFNSRUZlSmxDdVg5ek5JQkhkSzRQS19Ec0NVcDh1X3I4T09JLTE5a2hPeWR6MnIwMGY5Ul9kR3lwT3kyaEVVTVp4eHY5VHdXd0NWcnFvdnRKbFhubHFxZTlwYjFQWEVFR2w0Ry1zMmQyTHhLd3diOC1LRXpBbHpIUWRVYy14czZvOUptSVdDUQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称正与台积电洽谈合作",
-   "title_zh": "联手台积电？马斯克：正在谈",
-   "sentiment": 0
-  },
-  {
-   "id": "634e91c5daff",
-   "title": "TSLA Stock Attempts Breakout on TSMC Terafab Talks and Europe Demand for Tesla - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUlWZFRFa1J1VHJlNnJucnVkWkh5U2o2U2lzUUdwZWR6SlVuZnZnV29iMzdsTDZhR3EyQ3puY3BKY1BYa2t0cmRfSFctdjR3SVdDQXB4YzlaeTlSMVJlZTFpRUkwM0F5UDFFeFBVMVEwZ2UzMmJneXVLblh1dGtYSTdCaEtaY1hQWmVoZUZ4eWpaamZ5TGlOdWRaNEJMZk9RRE40dVRDNzI5Rk84ZGhJc0V6UXJjVW82WWNwMG5R",
-   "source": "FXLeaders",
-   "published_at": "2026-10-05T22:28:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-05T22:28:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUlWZFRFa1J1VHJlNnJucnVkWkh5U2o2U2lzUUdwZWR6SlVuZnZnV29iMzdsTDZhR3EyQ3puY3BKY1BYa2t0cmRfSFctdjR3SVdDQXB4YzlaeTlSMVJlZTFpRUkwM0F5UDFFeFBVMVEwZ2UzMmJneXVLblh1dGtYSTdCaEtaY1hQWmVoZUZ4eWpaamZ5TGlOdWRaNEJMZk9RRE40dVRDNzI5Rk84ZGhJc0V6UXJjVW82WWNwMG5R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "台积电建厂谈判及欧洲需求推高股价",
-   "title_zh": "TSLA因台积电建厂谈判及欧洲需求尝试突破",
-   "sentiment": 1
-  },
-  {
-   "id": "08d0b8406775",
-   "title": "Tesla Reports Quarterly Production and Delivery Figures. Here's What It Means for Investors - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWFxMUdUQ1NZdExTS2EwQ3ZGZTQ5OVJFVVM2T3RPalJSQ0hxNVp2UGlCeXliT0wxZG1HU1ZvSGxra2VYbGJNTHlPcEYzOFZHR18xcEk2M2JNTXcybDVxZk0zalk5UVBWcl9GZ3p3TXIxUnh0UzdnYm1BNC1BSW55aTJTNWhlYWRzOXVMajhrRnB6UVUwc2Q5RQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-05T22:19:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-05T22:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWFxMUdUQ1NZdExTS2EwQ3ZGZTQ5OVJFVVM2T3RPalJSQ0hxNVp2UGlCeXliT0wxZG1HU1ZvSGxra2VYbGJNTHlPcEYzOFZHR18xcEk2M2JNTXcybDVxZk0zalk5UVBWcl9GZ3p3TXIxUnh0UzdnYm1BNC1BSW55aTJTNWhlYWRzOXVMajhrRnB6UVUwc2Q5RQ"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-05T22:57:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWFxMUdUQ1NZdExTS2EwQ3ZGZTQ5OVJFVVM2T3RPalJSQ0hxNVp2UGlCeXliT0wxZG1HU1ZvSGxra2VYbGJNTHlPcEYzOFZHR18xcEk2M2JNTXcybDVxZk0zalk5UVBWcl9GZ3p3TXIxUnh0UzdnYm1BNC1BSW55aTJTNWhlYWRzOXVMajhrRnB6UVUwc2Q5RQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "特斯拉发布季度产销数据",
-   "title_zh": "特斯拉发布季度产销数据，投资者怎么看",
-   "sentiment": 0
-  },
-  {
-   "id": "4f3f2122efa1",
-   "title": "TSLA Stock Rises Premarket On Global Blitz — Cybercab In Japan, Hotter Model Y In China, Powershare In US - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0p5ZmdOUllBdHg3ZktyQ2ZhaE9RUWlhRUs4ZEFIdVE3MmNKQkdrUXY4S1A4RE5lNThvNEp4bUhETnRISDI4YXVtUkVvaUZjb1dGeEhTWU9yMUlrZTNUUEtoWlpMZmdVcnBveEQ0VjZhYmMya0pkTVJvTFI0MWhITlo1MW1yWVlibndZZVNsUjl1Z2YteE9Gb3ZOUGY2UmVJZXRFalczRVh4b0s2VXlrV05vdkRtcEpy",
-   "source": "Stocktwits",
-   "published_at": "2026-10-05T22:11:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-05T22:11:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0p5ZmdOUllBdHg3ZktyQ2ZhaE9RUWlhRUs4ZEFIdVE3MmNKQkdrUXY4S1A4RE5lNThvNEp4bUhETnRISDI4YXVtUkVvaUZjb1dGeEhTWU9yMUlrZTNUUEtoWlpMZmdVcnBveEQ0VjZhYmMya0pkTVJvTFI0MWhITlo1MW1yWVlibndZZVNsUjl1Z2YteE9Gb3ZOUGY2UmVJZXRFalczRVh4b0s2VXlrV05vdkRtcEpy"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Cybercab登陆日本等致盘前上涨",
-   "title_zh": "TSLA盘前涨：Cybercab日本、ModelY新款、Powershare美国",
    "sentiment": 1
   }
  ]
