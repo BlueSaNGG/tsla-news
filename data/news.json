@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T07:07:37.225143+00:00",
+ "updated_at": "2026-10-07T07:22:34.773125+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（6条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.38（8条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T07:07:37.217643+00:00"
+   "as_of": "2026-10-07T07:22:34.765555+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 6
+   "avg": 0.38,
+   "count": 8
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "652681c3cca6",
+   "title": "Key facts: Tesla, Inc. Q3 deliveries>production; EU FSD vote; >$25B cap - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnd5YmVweE5NcDFtNjFGNy1vRVowMjNqRXZfSGFNclVOT256cGp2OXNzVURUajd1aHBaeVEtTV9MLWFSM251bTUycWhNaFZXNWlrNEtMOHBSYWdMV3ZjQW13ajFWcE8tb05WNkdkR25fTlJLYlQ0eUgtcGlrNHJGSmFVS1Z3bjFOUk1qcFBvY0kzdDFxSmdQVGNSVlVmSTY2TnUydXg5dnVzTmJ3aUpqZXFGcmx3NDh3RklJMlN6aktiQTkz",
+   "source": "TradingView",
+   "published_at": "2026-10-07T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnd5YmVweE5NcDFtNjFGNy1vRVowMjNqRXZfSGFNclVOT256cGp2OXNzVURUajd1aHBaeVEtTV9MLWFSM251bTUycWhNaFZXNWlrNEtMOHBSYWdMV3ZjQW13ajFWcE8tb05WNkdkR25fTlJLYlQ0eUgtcGlrNHJGSmFVS1Z3bjFOUk1qcFBvY0kzdDFxSmdQVGNSVlVmSTY2TnUydXg5dnVzTmJ3aUpqZXFGcmx3NDh3RklJMlN6aktiQTkz"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "9ac2c843ec4f",
    "title": "特斯拉Cybercab巴黎首秀 无方向盘出租车能落地吗 - 汽车之家",
@@ -3380,6 +3397,23 @@
    }
   },
   {
+   "id": "d16d73b3a4ba",
+   "title": "TSLA Stock Watches SpaceX IPO While Cheapest Cybertruck Hits Driveways After Long Wait - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckp6YWl1eW1xdFpkWnl5V1Nxd1E1bDk5SlV6LVdmZnNVMWFybDZCTVFUaEIzV2NKWnZPMU1VVG5GSzhabkVNcmlwMHVhU0hUcmQwU1JKN2w5UkFMUG41WmZwVUl4RVZOa21ibktWbExMTXhSZW84dzVDd0NnSGozQWdrQ3djQUlPTm56ZG1uTnJ3b3YtMFZhai11eENpWWNORjhFaFowbEFPQjJKTDNJTmdGbkF4LU80c2F0MEpWNGpWOXhCWFpoeU9sb0VycWxaY2xtUll0SGxZWGY4NVc5dWJaSmw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-06T07:37:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-06T07:37:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckp6YWl1eW1xdFpkWnl5V1Nxd1E1bDk5SlV6LVdmZnNVMWFybDZCTVFUaEIzV2NKWnZPMU1VVG5GSzhabkVNcmlwMHVhU0hUcmQwU1JKN2w5UkFMUG41WmZwVUl4RVZOa21ibktWbExMTXhSZW84dzVDd0NnSGozQWdrQ3djQUlPTm56ZG1uTnJ3b3YtMFZhai11eENpWWNORjhFaFowbEFPQjJKTDNJTmdGbkF4LU80c2F0MEpWNGpWOXhCWFpoeU9sb0VycWxaY2xtUll0SGxZWGY4NVc5dWJaSmw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "f2e3f4057c47",
    "title": "Elon Musk's Trump Admin 'Return' Puts Tesla, SpaceX in Focus: Analyst Says TSLA Faces 'Key Test' — Predic - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaHZGNnJPeWN1dFYteUtOc2Y2TWNIT2RNSTFKSlVkSm05cVBNWXByS3ZwMi1GWGpGWldROEl4d09hMUNwaFpDYjJVWVIzSUFJdjFrMVpoVWJEZjVLd2FfSlVyT2xCdjFUSXZaNmRMd1dKRVRrOVNZVEpvM1ZDX2lpcjNCaXg5RmhRMTlrWEpaZ0J0ZWV0TTFXLU94MWhHeEdNdkZ2ZW8yQ1RVUnRPbGVIYUk0OWhwc01TenBXOWVDdzlJQ0xBU28zdk9FMmZuaWxVeXpXSXlZMA",
@@ -4211,13 +4245,13 @@
    ],
    "category": "马斯克",
    "session": "盘后",
+   "zh_summary": "马斯克身家重返万亿美元",
+   "title_zh": "SpaceX特斯拉股价回升 马斯克身家重返万亿美元 - 联合早报",
+   "sentiment": 1,
    "price_reaction": {
     "pct": -0.51,
     "window_h": 2.0
-   },
-   "zh_summary": "马斯克身家重返万亿美元",
-   "title_zh": "SpaceX特斯拉股价回升 马斯克身家重返万亿美元 - 联合早报",
-   "sentiment": 1
+   }
   },
   {
    "id": "13c628062d7f",
@@ -7748,56 +7782,6 @@
     "pct": 2.99,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "013a1ee00060",
-   "title": "Wall Street analyst sets Tesla stock price for the next 12 months - Finbold",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3FfUk14TmpJRjNSQzhPSDBLMjlVVkxOeTBkX29IS1lTQ184VnNVcWJDRFJJMS1DU1BqUVNmQUdJNEs1S2pBWlBSQTRkZ1RteXcwRk1RR2gwTFJ3ajVWMlEwNDhmeHhwLTREX01UeWxTOXZvX0pOS2hCWEhkR29FaVFxNVBVTGtibjhRVTZKSQ",
-   "source": "Finbold",
-   "published_at": "2026-10-05T11:00:31+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Finbold",
-     "published_at": "2026-10-05T11:00:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3FfUk14TmpJRjNSQzhPSDBLMjlVVkxOeTBkX29IS1lTQ184VnNVcWJDRFJJMS1DU1BqUVNmQUdJNEs1S2pBWlBSQTRkZ1RteXcwRk1RR2gwTFJ3ajVWMlEwNDhmeHhwLTREX01UeWxTOXZvX0pOS2hCWEhkR29FaVFxNVBVTGtibjhRVTZKSQ"
-    },
-    {
-     "name": "finbold.com",
-     "published_at": "2026-10-05T11:00:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3FfUk14TmpJRjNSQzhPSDBLMjlVVkxOeTBkX29IS1lTQ184VnNVcWJDRFJJMS1DU1BqUVNmQUdJNEs1S2pBWlBSQTRkZ1RteXcwRk1RR2gwTFJ3ajVWMlEwNDhmeHhwLTREX01UeWxTOXZvX0pOS2hCWEhkR29FaVFxNVBVTGtibjhRVTZKSQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师设定特斯拉未来12个月目标价",
-   "title_zh": "华尔街分析师定出特斯拉未来12个月目标价",
-   "sentiment": 0
-  },
-  {
-   "id": "bf278aad7570",
-   "title": "全链路自研！特斯拉 Semi 重卡工厂投产 重卡电动化 #电动卡车量产 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzNsdjY5RUs5ZlZJVENNa0NvY1N6OU9LWWc5bXRzamNoT2hjYkU2R3NWTTR3Mzg1ZFR4d0pJeFA5U085S3NEY082eWVEdjMtM0R3U0VNc09OYVRFbW5GZWF0RVo1LVBtbVppTnp3dGFSa09aUzZyeFd1U1pRQzJaQw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-05T10:52:24+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-05T10:52:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzNsdjY5RUs5ZlZJVENNa0NvY1N6OU9LWWc5bXRzamNoT2hjYkU2R3NWTTR3Mzg1ZFR4d0pJeFA5U085S3NEY082eWVEdjMtM0R3U0VNc09OYVRFbW5GZWF0RVo1LVBtbVppTnp3dGFSa09aUzZyeFd1U1pRQzJaQw"
-    },
-    {
-     "name": "k.sina.com.cn",
-     "published_at": "2026-10-05T10:52:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzNsdjY5RUs5ZlZJVENNa0NvY1N6OU9LWWc5bXRzamNoT2hjYkU2R3NWTTR3Mzg1ZFR4d0pJeFA5U085S3NEY082eWVEdjMtM0R3U0VNc09OYVRFbW5GZWF0RVo1LVBtbVppTnp3dGFSa09aUzZyeFd1U1pRQzJaQw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Semi重卡工厂投产",
-   "title_zh": "全链路自研！特斯拉 Semi 重卡工厂投产 重卡电动化 #电动卡车量产 - 手机新浪网",
-   "sentiment": 1
   }
  ]
 }
