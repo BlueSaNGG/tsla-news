@@ -348,13 +348,22 @@ function renderAttrLine(market, stories) {
 }
 
 /* ---------- header market line ----------
-   特斯拉：交付报告比财报更能驱动股价，顶栏倒计时放交付。 */
+   顶栏同时放交付与财报倒计时：交付是近端催化，财报电话会是马斯克放消息的地方。 */
 function nextDelivery(market) {
   if (!market) return null;
   if (market.next_delivery && market.next_delivery.date) return market.next_delivery;
   const ne = market.next_earnings;
   if (ne && ne.next_delivery && ne.next_delivery.date) return ne.next_delivery;
   return null;
+}
+
+function countdownHtml(ev, prefix) {
+  if (!ev || !ev.date) return "";
+  const d = daysUntil(ev.date);
+  const txt = d != null && d > 0
+    ? prefix + "距离" + esc(ev.label) + "还有 " + d + " 天" + (ev.estimated ? "（预计）" : "")
+    : prefix + esc(ev.label) + "即将到来";
+  return '<span class="earn">' + txt + "</span>";
 }
 
 function renderMarket(market) {
@@ -372,13 +381,10 @@ function renderMarket(market) {
     }
   }
   const nd = nextDelivery(market);
-  if (nd && nd.date) {
-    const d = daysUntil(nd.date);
-    const txt = d != null && d > 0
-      ? "距离" + esc(nd.label) + "还有 " + d + " 天" + (nd.estimated ? "（预计）" : "")
-      : esc(nd.label) + "即将到来";
-    html += (html ? '<span class="quote-sep">·</span>' : "") +
-      '<span class="earn">' + txt + "</span>";
+  const ne = market.next_earnings;
+  const evHtml = countdownHtml(nd, "") + (nd && ne && ne.date ? '<span class="quote-sep">·</span>' : "") + countdownHtml(ne, "");
+  if (evHtml) {
+    html += (html ? '<span class="quote-sep">·</span>' : "") + evHtml;
   }
   const ds = daySentimentHtml(market);
   if (ds) {
@@ -429,20 +435,20 @@ function signalCardHtml(market) {
     "</div>";
 }
 
-/* 事件倒计时双卡：交付报告在前（更能驱动股价），财报在后 */
+/* 事件倒计时双卡：财报在前（电话会是马斯克放消息的地方），交付在后 */
 function renderEventCards(market) {
   const el = document.getElementById("event-cards");
   const ne = market && market.next_earnings;
   const nd = nextDelivery(market);
   const cards = [];
-  if (nd && nd.date) {
-    const d = daysUntil(nd.date);
-    cards.push({ hot: true, label: esc(nd.label), days: d,
-      sub: "交付量是特斯拉最重要的经营数字" + (nd.estimated ? " · 日期为预计" : "") });
-  }
   if (ne && ne.date) {
     const d = daysUntil(ne.date);
-    cards.push({ hot: false, label: esc(ne.label), days: d, sub: "盘后发布 + 电话会" });
+    cards.push({ hot: true, label: esc(ne.label), days: d, sub: "盘后发布 + 电话会 · 马斯克指引" });
+  }
+  if (nd && nd.date) {
+    const d = daysUntil(nd.date);
+    cards.push({ hot: false, label: esc(nd.label), days: d,
+      sub: "交付量是特斯拉最重要的经营数字" + (nd.estimated ? " · 日期为预计" : "") });
   }
   if (!cards.length) { el.innerHTML = ""; return; }
   el.innerHTML = cards.map(function (c) {
