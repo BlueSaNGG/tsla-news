@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T06:37:27.373182+00:00",
+ "updated_at": "2026-10-07T06:52:26.493375+00:00",
  "market": {
   "price": 380.68,
   "change_pct": 0.51,
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.40（5条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（6条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 14,
    "implied_upside_pct": 7.0,
    "ma20": 366.72,
-   "as_of": "2026-10-07T06:37:27.364777+00:00"
+   "as_of": "2026-10-07T06:52:26.481353+00:00"
   },
   "pe_ttm": 105.3,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 5
+   "avg": 0.5,
+   "count": 6
   }
  },
  "meta": {
