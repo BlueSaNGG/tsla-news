@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T16:37:33.742873+00:00",
+ "updated_at": "2026-10-08T16:52:35.435504+00:00",
  "market": {
-  "price": 372.67,
-  "change_pct": -1.36,
+  "price": 371.46,
+  "change_pct": -1.68,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 38% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.3%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（89条已评分）"
+     "note": "今日新闻情绪 +0.20（92条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.67 vs 20日均线 $367.68"
+     "note": "现价 $371.46 vs 20日均线 $367.62"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 38,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.3,
-   "ma20": 367.68,
-   "as_of": "2026-10-08T16:37:33.729544+00:00"
+   "implied_upside_pct": 7.7,
+   "ma20": 367.62,
+   "as_of": "2026-10-08T16:52:35.429787+00:00"
   },
-  "pe_ttm": 103.1,
+  "pe_ttm": 102.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.2,
-   "count": 89
+   "count": 92
   }
  },
  "meta": {
@@ -6349,6 +6349,23 @@
    "sentiment": 0
   },
   {
+   "id": "227f960487c9",
+   "title": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr",
+   "source": "汽车之家",
+   "published_at": "2026-10-07T04:07:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-07T04:07:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "7f556b34b70a",
    "title": "Tesla Bull Gary Black Warns Investors About Confusing 'Great Company' With a Great Stock: ‘Valuation Matters’ Even With 45% EPS Growth - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFlBanYxZ3RuZXJPUXFWNFZ3RXpXNm9iUndDanZCbXE4am1HM2tpS005RTdrR3VnYmItM3ZLMzBMZ0czTEhJb0JoR0hrTk5pYnAwbkJ2a05nMTBmclhZMk9XUmVKdC1NYUoxNEhRazhyYXFsZ0RRYlVJNkVWellWd2gtLUxFZDVrZTlhdUpvTVV2QVV2WS1v",
@@ -6783,26 +6800,6 @@
     "pct": 0.02,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "f8e6e0e66aa7",
-   "title": "TSLA Stock Extends Tumble Overnight: Munster Sees Capex Blowing Past Street Estimates Next Year Too - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkx0eEM2aTdZcWZEeFdZRDJJVTFWWHgyWndzMTRTTlBsZ3kydXlUbDRaX3VCamRkUndoNV9YNWRvbjZSTzR5VzAxQS1uekNOX1B0RUl1TkJ4eU9UMkxrdDZVaGNKZ2k4cDdERTNMeXZzWVlESzhSZklVZWh6LVhIaWU4a1pmT3ppcHc3MHJDU2o2TWhNU3hOeUtWQ0t4dmlMS0gwc1M0V012Q2FWQkNKQVVVRQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T01:10:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T01:10:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkx0eEM2aTdZcWZEeFdZRDJJVTFWWHgyWndzMTRTTlBsZ3kydXlUbDRaX3VCamRkUndoNV9YNWRvbjZSTzR5VzAxQS1uekNOX1B0RUl1TkJ4eU9UMkxrdDZVaGNKZ2k4cDdERTNMeXZzWVlESzhSZklVZWh6LVhIaWU4a1pmT3ppcHc3MHJDU2o2TWhNU3hOeUtWQ0t4dmlMS0gwc1M0V012Q2FWQkNKQVVVRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Munster称特斯拉明年资本开支超预期",
-   "title_zh": "TSLA隔夜继续下跌：Munster称明年资本开支超预期",
-   "sentiment": -1
   }
  ]
 }
