@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T21:37:36.326741+00:00",
+ "updated_at": "2026-10-08T21:52:27.655954+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（123条已评分）"
+     "note": "今日新闻情绪 +0.19（127条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-08T21:37:36.320803+00:00"
+   "as_of": "2026-10-08T21:52:27.650068+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 123
+   "avg": 0.19,
+   "count": 127
   }
  },
  "meta": {
@@ -1369,26 +1369,6 @@
    "sentiment": 1
   },
   {
-   "id": "20290b22d3e0",
-   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
-   "source": "Finbold",
-   "published_at": "2026-10-08T13:27:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Finbold",
-     "published_at": "2026-10-08T13:27:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师设定特斯拉12个月目标价",
-   "title_zh": "分析师设定特斯拉(TSLA)12个月目标价",
-   "sentiment": 0
-  },
-  {
    "id": "069e47b12444",
    "title": "Tesla Megacharger network reaches east coast with new station in Georgia - driveteslacanada.ca",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn",
@@ -1714,6 +1694,23 @@
     "pct": -0.18,
     "window_h": 2.0
    }
+  },
+  {
+   "id": "28f778a9bd3f",
+   "title": "特斯拉全自动驾驶将获斯洛伐克批准 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXQzbTk1ZEN2ODhiU2t0aDFJZ21xYTFoUkdFZVRnQkhhTVBndGZKb0Z6RTg2c0xWbDJPcks3eHRYQU5FaV9nTS1YTE1MajIwYjRrN0c1WU01bXlMbGVuZURIRVVLMi1WeGx1aUR3OGhKZnlpZEtiQ3M1djBnajJMaWxnVEZQNk1oMkd5U3lXRnpteC1l",
+   "source": "富途牛牛",
+   "published_at": "2026-10-08T12:12:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-08T12:12:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXQzbTk1ZEN2ODhiU2t0aDFJZ21xYTFoUkdFZVRnQkhhTVBndGZKb0Z6RTg2c0xWbDJPcks3eHRYQU5FaV9nTS1YTE1MajIwYjRrN0c1WU01bXlMbGVuZURIRVVLMi1WeGx1aUR3OGhKZnlpZEtiQ3M1djBnajJMaWxnVEZQNk1oMkd5U3lXRnpteC1l"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "4369ff7ce043",
@@ -2922,12 +2919,12 @@
    "title": "Elon Musk shuts down talk of TSMC taking over Terafab - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1hrRmhCN0tDUTVJVjByazFuXzdzd3FPVXRBN0xZdldLcjRzTWNqZXhlbmRmX0x3RlZlN1ktSl9TUzNUd1o0VlQ2TkZ4eW9XV0padEsxYUFKVDRuYUZvZ04zai1qY29DVDlnM0ZRTmVfM0dhekt4TnI4VWtMeG1zV0I2c2M3WEk",
    "source": "Teslarati",
-   "published_at": "2026-10-08T04:57:55+00:00",
+   "published_at": "2026-10-08T04:57:47+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Teslarati",
-     "published_at": "2026-10-08T04:57:55+00:00",
+     "published_at": "2026-10-08T04:57:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1hrRmhCN0tDUTVJVjByazFuXzdzd3FPVXRBN0xZdldLcjRzTWNqZXhlbmRmX0x3RlZlN1ktSl9TUzNUd1o0VlQ2TkZ4eW9XV0padEsxYUFKVDRuYUZvZ04zai1qY29DVDlnM0ZRTmVfM0dhekt4TnI4VWtMeG1zV0I2c2M3WEk"
     }
    ],
@@ -4290,6 +4287,23 @@
    "zh_summary": "特斯拉周线或收跌散户质问Robotaxi目标",
    "title_zh": "TSLA周线或收跌，散户就Robotaxi目标落空质问马斯克",
    "sentiment": -1
+  },
+  {
+   "id": "16f6e6520ce2",
+   "title": "A pineapple thrown at a Tesla leads to 4 charges in West Chester vehicle vandalism case - Journal-News.com",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbUxiRFdzc2Nibi1aZ2t0VEZvYnlpS2dubHhxak9kcGdoMWRxZ0NPa2ExanZfa1YzNzRKbDZZMTRDSHhTSjZ2cEJJZmJlN1l0empUY2x1TVZVNU5hOW9fRFY5ZHU2SlZuNUtlN2RVVzZHcnlkRl9TdlJYWXpUTXQ1cUN0U0M5OHBqbHN4OGdTMFpYSnVzWXQxNHBTWEVJUVZPeEhiQ3VNWFdoN0dfZ19qVzBpd2Z5RFVKalFLOVI0X0dhOUVObEowMW5Vc2JQUnBJQmVvdEtHdHpGeXZnRjNxYVR3aVgxQnUwdFhiRVkyTVJjQkFZaWFady1BWQ",
+   "source": "Journal-News.com",
+   "published_at": "2026-10-07T19:58:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Journal-News.com",
+     "published_at": "2026-10-07T19:58:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbUxiRFdzc2Nibi1aZ2t0VEZvYnlpS2dubHhxak9kcGdoMWRxZ0NPa2ExanZfa1YzNzRKbDZZMTRDSHhTSjZ2cEJJZmJlN1l0empUY2x1TVZVNU5hOW9fRFY5ZHU2SlZuNUtlN2RVVzZHcnlkRl9TdlJYWXpUTXQ1cUN0U0M5OHBqbHN4OGdTMFpYSnVzWXQxNHBTWEVJUVZPeEhiQ3VNWFdoN0dfZ19qVzBpd2Z5RFVKalFLOVI0X0dhOUVObEowMW5Vc2JQUnBJQmVvdEtHdHpGeXZnRjNxYVR3aVgxQnUwdFhiRVkyTVJjQkFZaWFady1BWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c1d175bd31fb",
@@ -6793,26 +6807,6 @@
     "pct": 0.02,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "23633f90995e",
-   "title": "Tesla Pressures European Regulators Over Full Self-Driving Approval - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTREcG1TQ0taYUZIaTRUQjZjSGxuT1RuU3B5RDVHVTd4aEVnY1cwMUNSQ1N1WmJ2dTVvSkJkT2VpcF9DQWQ0VHhaRjFqWno3UkI1WTJLLUJoQnJBUmhaZlh5ZU5LbHhCZUhOWUY0NHdVUWlMc3lmTmRNTjBpcnl4ZmlIYzdKdXRiRDV4aTd5eTNCUUJNNEF5VnZCZ2MxbnpTc2VBZ0l0R2FLcDVwWHRzZS1Dd3NMTDBtSkdrRQ",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-07T08:57:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-07T08:57:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTREcG1TQ0taYUZIaTRUQjZjSGxuT1RuU3B5RDVHVTd4aEVnY1cwMUNSQ1N1WmJ2dTVvSkJkT2VpcF9DQWQ0VHhaRjFqWno3UkI1WTJLLUJoQnJBUmhaZlh5ZU5LbHhCZUhOWUY0NHdVUWlMc3lmTmRNTjBpcnl4ZmlIYzdKdXRiRDV4aTd5eTNCUUJNNEF5VnZCZ2MxbnpTc2VBZ0l0R2FLcDVwWHRzZS1Dd3NMTDBtSkdrRQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉施压欧盟监管机构加速FSD审批",
-   "title_zh": "特斯拉向欧洲监管机构施压要求批准FSD",
-   "sentiment": 1
   }
  ]
 }
