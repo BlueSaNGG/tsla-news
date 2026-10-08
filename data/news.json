@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T19:22:36.829294+00:00",
+ "updated_at": "2026-10-08T19:37:34.279864+00:00",
  "market": {
-  "price": 372.52,
-  "change_pct": -1.4,
+  "price": 372.9,
+  "change_pct": -1.3,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.4%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（109条已评分）"
+     "note": "今日新闻情绪 +0.21（111条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.52 vs 20日均线 $367.68"
+     "note": "现价 $372.90 vs 20日均线 $367.69"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.4,
-   "ma20": 367.68,
-   "as_of": "2026-10-08T19:22:36.821909+00:00"
+   "implied_upside_pct": 7.3,
+   "ma20": 367.69,
+   "as_of": "2026-10-08T19:37:34.272507+00:00"
   },
-  "pe_ttm": 103.0,
+  "pe_ttm": 103.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 109
+   "avg": 0.21,
+   "count": 111
   }
  },
  "meta": {
@@ -67,6 +67,45 @@
   }
  },
  "stories": [
+  {
+   "id": "5ec37128e29d",
+   "title": "Pilot, Tesla Launch Heavy-Duty Electric Truck Charging Network - Pilot Travel Centers",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0ZfYXB0Ml9DdjRzZDhwYlhpbXNrVGdvQ1hUOHFkU1d4My1fSDhfTHVLZjRlNzNQVzNJQnJEcHlUUngybWxQbWlwMlVTOWNHMnlXLTRSdTFiSUpNcm5CUTU0Q1lLdGlXbDlZY1o4YWtSMGxWbThSOGdmNko2NDR4SlczY0gyM0VKSU9kY1RzZkpNTjRra2VhOGtkQzZOWVNkeDRoM3pCbkY2QkR1OUFXU250bUJpWW5oSHJsS1pqOHU5WDhDQlE",
+   "source": "Pilot Travel Centers",
+   "published_at": "2026-10-08T19:23:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pilot Travel Centers",
+     "published_at": "2026-10-08T19:23:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0ZfYXB0Ml9DdjRzZDhwYlhpbXNrVGdvQ1hUOHFkU1d4My1fSDhfTHVLZjRlNzNQVzNJQnJEcHlUUngybWxQbWlwMlVTOWNHMnlXLTRSdTFiSUpNcm5CUTU0Q1lLdGlXbDlZY1o4YWtSMGxWbThSOGdmNko2NDR4SlczY0gyM0VKSU9kY1RzZkpNTjRra2VhOGtkQzZOWVNkeDRoM3pCbkY2QkR1OUFXU250bUJpWW5oSHJsS1pqOHU5WDhDQlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "07a9e60cb6d7",
+   "title": "Tesla (TSLA) Presses Europe on FSD as Musk Flags AI Compute Squeeze - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFBFa3JzX0h3blE0YUUzZ3dpV0lKY3lXc0J3ZFpQMUU2NXdSRnE2T0hWQWRBTVZZMmp4VWZMSDAyOV8yMEwtYUpBX0cxUkF3U01SWTB4WVRMVHJUdllfc1FsVy1ibHJpRWJkQU11T3BZTVBveENFRVM5UDR1QnZfakotVXhNT0JQUExqNE1jMFl4d1k2THVoSw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T19:11:39+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T19:11:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFBFa3JzX0h3blE0YUUzZ3dpV0lKY3lXc0J3ZFpQMUU2NXdSRnE2T0hWQWRBTVZZMmp4VWZMSDAyOV8yMEwtYUpBX0cxUkF3U01SWTB4WVRMVHJUdllfc1FsVy1ibHJpRWJkQU11T3BZTVBveENFRVM5UDR1QnZfakotVXhNT0JQUExqNE1jMFl4d1k2THVoSw"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-08T19:11:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdG1qYWhKT0tiTDZSWFAxbURyenFjWTJfSFJtMG1JbGd2b3pETVlGX3BscmZ1a1pYR3Mxd2JSYzZzQTU3VE9lNDlUSUhSZHg0WmRyeXNXbm5nWWJnZ0hteUtObjJhVFh0QTd6NnJjWVV1TXEyTENlYmQ1bmFKTElCRjY2MVk"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "d0c8de5393af",
    "title": "Elon Musk Awarded National Medal of Science; Trump Praises Tesla FSD - BASENOR",
@@ -1029,10 +1068,15 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn",
    "source": "driveteslacanada.ca",
    "published_at": "2026-10-08T13:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "driveteslacanada.ca",
+     "published_at": "2026-10-08T13:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn"
+    },
+    {
+     "name": "Drive Tesla Canada",
      "published_at": "2026-10-08T13:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn"
     }
@@ -1129,12 +1173,17 @@
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUFFSlVnckV1TGhtWkZaNzhqeVFoVDdnTE5QR3o3cGNSMU5IVTVQZDJYcGRYMGtEcU40d2JWSW5KcDZJQ21wNlhERGJLUjNiM0dxX2RGS2s2TkxpUzRLVlZXcnBZRGdRX3pkQ0FxOTF0bmJaQUMzWlRIVDdhbVQ4Y3FCQU44RE41N2ZGemZ3Q1lMdkVWenhqZ3pFd2RTaWJtQWpacHpuZVJjN0Z1OHBnTUJsdkF3V2NXRnVETFpyLXE3eDRYZjNWNTVVMkdTeXR6ZzBPa2tVUFNvNUxISy1yc0VVOGptNHNjVTlXMm1NcjY0VC1peDBFcFBzb1RGS212SG4yNTJWY0N4dWFCcWRvRjlnTQ",
    "source": "Benzinga",
    "published_at": "2026-10-08T12:52:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Benzinga",
      "published_at": "2026-10-08T12:52:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUFFSlVnckV1TGhtWkZaNzhqeVFoVDdnTE5QR3o3cGNSMU5IVTVQZDJYcGRYMGtEcU40d2JWSW5KcDZJQ21wNlhERGJLUjNiM0dxX2RGS2s2TkxpUzRLVlZXcnBZRGdRX3pkQ0FxOTF0bmJaQUMzWlRIVDdhbVQ4Y3FCQU44RE41N2ZGemZ3Q1lMdkVWenhqZ3pFd2RTaWJtQWpacHpuZVJjN0Z1OHBnTUJsdkF3V2NXRnVETFpyLXE3eDRYZjNWNTVVMkdTeXR6ZzBPa2tVUFNvNUxISy1yc0VVOGptNHNjVTlXMm1NcjY0VC1peDBFcFBzb1RGS212SG4yNTJWY0N4dWFCcWRvRjlnTQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T12:52:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2tPTUw0a1VfdzNleVVVV3NBNDd5MGdnazU3Zk1Hc3ozTlB4VjdmYXFXeGw3Q0lEQ3JFZFU1b3BETWJuTXNHU1NFUTZqZ0FyNm11VEdsUktQZE9KSHpRZE43Q1BQUmxQcV9maEdCMHpGZmp6aHRyZWYycGtaOTBDMUdISzVfUURMRVNjTDlFRHJYbmhpdWc"
     }
    ],
    "category": "马斯克",
@@ -6751,46 +6800,6 @@
    "session": "盘前",
    "zh_summary": "Zacks投资观点提及特斯拉",
    "title_zh": "Zacks投资观点聚焦特斯拉等公司",
-   "sentiment": 1
-  },
-  {
-   "id": "8086c4a5f16a",
-   "title": "国产特斯拉Model Y L你见过，但美版的可不一定 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rZm5hVUZQSnNSeFozWWprNmVEeTFDSWVhLTRkeC1uQWhablFuRXlFMnJTUThWTDFtYy1naWpYYlVEc0ZaNzB2eUYyX21JckJwLW1XcGhmbkdTem8",
-   "source": "汽车之家",
-   "published_at": "2026-10-07T05:18:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-07T05:18:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rZm5hVUZQSnNSeFozWWprNmVEeTFDSWVhLTRkeC1uQWhablFuRXlFMnJTUThWTDFtYy1naWpYYlVEc0ZaNzB2eUYyX21JckJwLW1XcGhmbkdTem8"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "美版特斯拉Model Y L你见过吗",
-   "title_zh": "国产特斯拉Model Y L你见过，但美版的可不一定 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "e9903fa8d3ad",
-   "title": "Tesla Model 3 and Model Y can now do what only Cybertruck could - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12N1FvMk9HcUhSbWtmZkV3b1dfSi15RHFKek56MlFxaVptbkNnR0YtdGl5bEZ4cHVBMFNpald3dnJPSV9vdnp2Y2hiM0FlRWQ5ZElrVHNhVDRTZ3ZyNm14YlJXdw",
-   "source": "Teslarati",
-   "published_at": "2026-10-07T04:55:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-07T04:55:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12N1FvMk9HcUhSbWtmZkV3b1dfSi15RHFKek56MlFxaVptbkNnR0YtdGl5bEZ4cHVBMFNpald3dnJPSV9vdnp2Y2hiM0FlRWQ5ZElrVHNhVDRTZ3ZyNm14YlJXdw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model 3/Y获Cybertruck独有功能",
-   "title_zh": "特斯拉Model 3和Y新增Cybertruck独有功能 - Teslarati",
    "sentiment": 1
   }
  ]
