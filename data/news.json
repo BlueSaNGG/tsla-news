@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-08T13:22:33.249833+00:00",
+ "updated_at": "2026-10-08T13:37:29.846830+00:00",
  "market": {
-  "price": 377.81,
-  "change_pct": -0.75,
-  "as_of": "2026-10-07",
+  "price": 374.73,
+  "change_pct": -0.81,
+  "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +6.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（54条已评分）"
+     "note": "今日新闻情绪 +0.30（56条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.81 vs 20日均线 $367.22"
+     "note": "现价 $374.73 vs 20日均线 $367.78"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 40,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.9,
-   "ma20": 367.22,
-   "as_of": "2026-10-08T13:22:33.235623+00:00"
+   "implied_upside_pct": 6.7,
+   "ma20": 367.78,
+   "as_of": "2026-10-08T13:37:29.831649+00:00"
   },
-  "pe_ttm": 104.5,
+  "pe_ttm": 103.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 54
+   "avg": 0.3,
+   "count": 56
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "20290b22d3e0",
+   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
+   "source": "Finbold",
+   "published_at": "2026-10-08T13:27:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-08T13:27:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "069e47b12444",
+   "title": "Tesla Megacharger network reaches east coast with new station in Georgia - driveteslacanada.ca",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn",
+   "source": "driveteslacanada.ca",
+   "published_at": "2026-10-08T13:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "driveteslacanada.ca",
+     "published_at": "2026-10-08T13:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "e9aa5da9dd9e",
    "title": "Some Tesla Model 3s and Model Ys Can Now Power Some Homes with New V2H Bidirectional Charging - Car and Driver",
@@ -153,19 +187,33 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNl9LdWxDRDhJbVo4Vzd3aHBEQUZCdDJGLThGbkQ0OWNPN3JtLWZRM2dRV29saTg3RnRTdTFGdE54S21CanhVLTVlczZVVHpCcm5ER0habVVhcDlTT3MxWG9nUDZTWVVXNnlRUE9zel9jZTNkU3dDTmJwUUpuQ25EeGp3QXMycDl2TlVleEtYaFJUUQ",
    "source": "GuruFocus",
    "published_at": "2026-10-08T12:30:42+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-08T12:30:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNl9LdWxDRDhJbVo4Vzd3aHBEQUZCdDJGLThGbkQ0OWNPN3JtLWZRM2dRV29saTg3RnRTdTFGdE54S21CanhVLTVlczZVVHpCcm5ER0habVVhcDlTT3MxWG9nUDZTWVVXNnlRUE9zel9jZTNkU3dDTmJwUUpuQ25EeGp3QXMycDl2TlVleEtYaFJUUQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T13:03:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdThEQVpESmpJY1ZkZ2lkS00xTnR6Y25yUDhVX0tEV3p5bXpRcFpyc3RsRTk1NmFhQkZQWHpYS3FLWXNRdFl6NmlRRDNKRU55eHEwbDc1RjhKR0FqR2o1NGM1eWo5RG5BOUpxbF96cE5WRlI2MjhzekNLemNPT2NHZ1Z6bDZGSk9yUDVwdFR0TWZoZFV1cndPRE9lTFE4UTA"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-08T13:03:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQldLTFgtOFd1c090Uk5XNXgzZklMd3JnUTI4U0tOMm9nTlNCR25KcEpGN1RKNDlZNHFyMXVjNzFSdklBR2hEel9JdUZZR2NEeWdWMmRrRkxYcmo5UFE0V1RUMGlVWThwTGhLSzFpRU81anNHd1RYS3hYREVmQVFKSE4zUVp6bkRTRGdZNUVfVE5iUk5pbHRrWUZ0T3Zna0I5YkNnci12STBHSmhSQUE"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
    "zh_summary": "欧洲推迟FSD投票特斯拉下跌",
    "title_zh": "欧洲推迟FSD投票，特斯拉股价下跌",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2bdb0d3555d6",
@@ -665,7 +713,11 @@
    "session": "盘前",
    "zh_summary": "斯洛伐克将批准特斯拉自动驾驶技术",
    "title_zh": "斯洛伐克将批准特斯拉自动驾驶技术",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "87dfd430b22f",
@@ -793,7 +845,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTFhYXFPWUswaWpOZU5tLXN3NkRXZnp6TklQbHlzX2d1T3FuSGJIUFozYzZOMnhoczZFVzAtT1dDTnVOSXhONU9qSWFNZXhMVUNPRERBZlc2bkNBLWZsLUtWTF9xU0poQW5PNXRxc3NiakdkZmRnZFk4RG8wQ3BKNGh3Q3V6QzhHc0xSdGJPVkpKVlVaQldDeA",
    "source": "The Motley Fool",
    "published_at": "2026-10-08T09:01:18+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -809,13 +861,23 @@
      "name": "The Globe and Mail",
      "published_at": "2026-10-08T09:23:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSjRCdkZhbnpjdzRlWElCQTRHSnBWeU8tMklMWXI4R1FzNDFhWG4zV0xkXzNjUTNHaXJ4bFM3VV9UWGZtZ2hRT3RLQm1KbXlra21KRmRhQXVGRVNuWDJ0ak1zY0lrdGp6SF9aUnRRQWQwUTlXUkJOVVRUUTAwUzVCRXlnRnp3QXBYaWVUdWg5TFJnOXBadVZ6N3Q2MFNkQmRUMF94SngyQm5mRm5SNjQtUkRFSVR3LWwtb21kUGxvSHN0Z2o0ZVZnUlJYNEc3LV95TGFSOF9YcVNkYm5OZDByTGk2X25oUWx5MENCd0M5Q3V0bEhEUTJhV09BOHpOdllqUjU4b2V5YU9fSkVaRHZGeA"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-08T09:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTRRTkNJNktldU1ST0hIS3R5bGtLZkZzVzZ0NmpoN0Rzbm1hdFJBaHdjaFNhSEZ6X2tuMzBKU0lvb1BfVHNpQXJXdVlaYms0NUR5N1JxdG5HNTNuM2owN21YckZmcTQwVThsVkxmZ1dVWEdMUExyTjh1aHVwaWowUkJ3"
     }
    ],
    "category": "财报",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉三季度交付486532辆，关注毛利率财报反应",
    "title_zh": "特斯拉三季度交付486532辆，毛利率将决定财报反应",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b304109fe34e",
@@ -995,7 +1057,11 @@
    "session": "盘前",
    "zh_summary": "天汽模回应是否为特斯拉供应商",
    "title_zh": "公司是特斯拉的供应商吗？天汽模回应_7x24快讯_新浪财经 - 手机新浪网",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "42790fe275b5",
@@ -1045,7 +1111,11 @@
    "session": "盘前",
    "zh_summary": "乘客被困Cybercab达14分钟",
    "title_zh": "未能正确识别停车场出口一乘客被困特斯拉Cybercab里14分钟_热点推荐 - 证券之星",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "04e0c9131911",
@@ -1286,7 +1356,11 @@
    "session": "盘前",
    "zh_summary": "比亚迪日本交付破万辆",
    "title_zh": "三年半追平特斯拉？比亚迪日本市场交付量破1万！ - 热点科技",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "3dbbe49577f8",
@@ -1544,12 +1618,17 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE1OQllhSkpMRElDSHZzUVpKdTQ4NzFoVEFZazM3bHA4R181WDZSN0luaFdETDZ0eC1kOUxPMEJKR3U1dW5GUkZndUJ5STV6SUVmRXV6VjhFZ0hYN2NiS3hxaGpocTc2QlVIemVJU3JVc1l0eUh1MlNkWHRlNWxrMzlWQ0dfOFJQaUVJam5rYU5oSjB3d2wzSm5nUDFha0t3QWRMSnN2ZUEwTWkya2xNcVhiTUxWWnZ2TXFMUm9WNm9ZVzdzandDNkFmT3FjSUV2NmNYbG5DTnFhdw",
    "source": "The Globe and Mail",
    "published_at": "2026-10-08T03:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Globe and Mail",
      "published_at": "2026-10-08T03:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE1OQllhSkpMRElDSHZzUVpKdTQ4NzFoVEFZazM3bHA4R181WDZSN0luaFdETDZ0eC1kOUxPMEJKR3U1dW5GUkZndUJ5STV6SUVmRXV6VjhFZ0hYN2NiS3hxaGpocTc2QlVIemVJU3JVc1l0eUh1MlNkWHRlNWxrMzlWQ0dfOFJQaUVJam5rYU5oSjB3d2wzSm5nUDFha0t3QWRMSnN2ZUEwTWkya2xNcVhiTUxWWnZ2TXFMUm9WNm9ZVzdzandDNkFmT3FjSUV2NmNYbG5DTnFhdw"
+    },
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-08T04:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ19WVTVOTmZUczNqMENSQ05NV05zaWlBV0pnY3AtNnJxekl2eWp3YkdNZmM0S2NaeEQwczZ2QTByZnlqeDVEd1lyVkd0eDRaZjNpRm4zSERFNWJhWENoY2tyUGZpd0hRNmJlb2gxcEs4T2FsdnhVeXpDRTBqajc2V2VrV3h3RXA3Sm9RQnVBRU5yWkllQTlJ"
     }
    ],
    "category": "其他",
@@ -1891,7 +1970,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉Robotaxi遇小猫受阻",
    "title_zh": "马斯克也无奈！特斯拉无人驾驶出租车竟被灰色小猫给难住了",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "92440fe96bfc",
@@ -2047,7 +2130,11 @@
    "breaking": true,
    "zh_summary": "特斯拉FSD被塑料袋逼停遭卡车追尾",
    "title_zh": "特斯拉FSD行驶中被飘来的塑料袋逼停：又遭后方卡车追尾_热点推荐 - 证券之星",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.42,
+    "window_h": 0.1
+   }
   },
   {
    "id": "c45012eb80ad",
@@ -4904,26 +4991,6 @@
    "sentiment": 1
   },
   {
-   "id": "f6764bd50174",
-   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
-   "source": "东方财富",
-   "published_at": "2026-10-07T08:38:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-07T08:38:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价反弹，马斯克身家重返万亿美元",
-   "title_zh": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元",
-   "sentiment": 1
-  },
-  {
    "id": "aafee61783eb",
    "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
@@ -6726,26 +6793,6 @@
    "zh_summary": "特斯拉交付48.65万辆，股价上涨",
    "title_zh": "特斯拉交付48.65万辆打破预期，股价上涨",
    "sentiment": 1
-  },
-  {
-   "id": "9f5df5a6a375",
-   "title": "特斯拉的自动驾驶系统误读了限速规定。 - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlpKWjZLc0pGMXhNQnFSeE1ubWV6SVZFZVE2a3VGclhKTUZqbnBmTnphRDM2dWdOQ1BLbzJ6dnZOU293LThjLWg1WVlrdE1NWU1ibzZjLUZfZVlLRjlOU0huYzh1d0dienZkV0tSN2dsM2o3WU1sTHBVLTRYSUEtQWJwaWVoNlJf",
-   "source": "Vietnam.vn",
-   "published_at": "2026-10-06T17:25:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Vietnam.vn",
-     "published_at": "2026-10-06T17:25:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlpKWjZLc0pGMXhNQnFSeE1ubWV6SVZFZVE2a3VGclhKTUZqbnBmTnphRDM2dWdOQ1BLbzJ6dnZOU293LThjLWg1WVlrdE1NWU1ibzZjLUZfZVlLRjlOU0huYzh1d0dienZkV0tSN2dsM2o3WU1sTHBVLTRYSUEtQWJwaWVoNlJf"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉自动驾驶误读限速规定",
-   "title_zh": "特斯拉的自动驾驶系统误读了限速规定。 - Vietnam.vn",
-   "sentiment": -1
   }
  ]
 }
