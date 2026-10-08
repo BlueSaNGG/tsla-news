@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T22:52:37.142867+00:00",
+ "updated_at": "2026-10-08T23:07:30.122190+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（130条已评分）"
+     "note": "今日新闻情绪 +0.21（133条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-08T22:52:37.127953+00:00"
+   "as_of": "2026-10-08T23:07:30.114418+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 130
+   "avg": 0.21,
+   "count": 133
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "07ba2e446363",
+   "title": "Jim Cramer On SpaceX (SPCX): Buy Tesla (TSLA) If You Like It As An Earnings Explosion Might Be Coming - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFUwMkpTSVRsZnpwR0tmVGVVaFVqdkNXbUtzZml6QmxFVTNLNVZ1a29sQ1pXcUJqWTJYeklFZ1JORnJIV0lrSU14aWpUMTllS29OT2pKTWxfNGRVV0tzOEdscW5aRGU5eHNKdldtcmEzSXhOWDFiNlRGMDl5WmNGb3V5bXg1MEJyTkJRZUpfOTk2TnJ1",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T22:52:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T22:52:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFUwMkpTSVRsZnpwR0tmVGVVaFVqdkNXbUtzZml6QmxFVTNLNVZ1a29sQ1pXcUJqWTJYeklFZ1JORnJIV0lrSU14aWpUMTllS29OT2pKTWxfNGRVV0tzOEdscW5aRGU5eHNKdldtcmEzSXhOWDFiNlRGMDl5WmNGb3V5bXg1MEJyTkJRZUpfOTk2TnJ1"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
   {
    "id": "e18d7ee757f8",
    "title": "Tesla’s $10 billion Fort Bend project gets first public review by Commissioners Court - Covering Katy News",
@@ -146,6 +163,23 @@
    "zh_summary": "特斯拉超充新增紧急拔脱功能",
    "title_zh": "特斯拉允许紧急情况下强行拔开超充桩",
    "sentiment": 0
+  },
+  {
+   "id": "3b8b467538a7",
+   "title": "Tesla FSD Gets a Boost in Europe as Germany Pushes for Faster EU Approval — Elon Musk Says ‘Danke Schön!’ - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWNUN3JXalBCWGczbDNXZ1I4VEFBOG5mNE5PaDVDRjZudGIyS1ptbzlyQnF1dW5OMlg4NV9mOXVubjUyNndBOWZJM2ktWWNkaGp4NVM0ZFlGSU0yTUw1QUlHMHlPSDl4ZWZuWmJRMmVPdG5FcVo3ZmJtOXFobnZ0ckwydUllZkpHbXZ1aw",
+   "source": "Yahoo",
+   "published_at": "2026-10-08T21:30:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-08T21:30:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWNUN3JXalBCWGczbDNXZ1I4VEFBOG5mNE5PaDVDRjZudGIyS1ptbzlyQnF1dW5OMlg4NV9mOXVubjUyNndBOWZJM2ktWWNkaGp4NVM0ZFlGSU0yTUw1QUlHMHlPSDl4ZWZuWmJRMmVPdG5FcVo3ZmJtOXFobnZ0ckwydUllZkpHbXZ1aw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "826101822dc4",
@@ -4011,6 +4045,23 @@
    "sentiment": 0
   },
   {
+   "id": "d908e520ac6f",
+   "title": "特斯拉Robotaxi应用多国上架，但打车服务仍仅限美国七城 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WdG5qOFlyLVM0X1ludGVqMUtCS0RXTkdsYm1qLUNYYS1PMU94cGZ4TG01UktZYnFlQjkzVmZqSkJvbERfaFYzLV9qTVdyb0c2WTlLa3h6YmRlYmxNZF9pc2xnYWFIbG9UQk1USkFoR2pjNmF4LXc5VnlLMmktUHM",
+   "source": "新浪网",
+   "published_at": "2026-10-07T22:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-07T22:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WdG5qOFlyLVM0X1ludGVqMUtCS0RXTkdsYm1qLUNYYS1PMU94cGZ4TG01UktZYnFlQjkzVmZqSkJvbERfaFYzLV9qTVdyb0c2WTlLa3h6YmRlYmxNZF9pc2xnYWFIbG9UQk1USkFoR2pjNmF4LXc5VnlLMmktUHM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
    "id": "57802f656394",
    "title": "特斯拉高速突然向右变道，后车躲闪不及直接碾上雪糕桶 - 网易新闻客户端",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DbXdxYUE2Q0dvVlBxVmxqelNzcllQRnZXYTFoUjl0d3RuSFo2aWhQcE1zVEVuWXhXMFlxOXZfMDBRS3l6NlYxVlc3UmJiTVJFbm5J",
@@ -4069,26 +4120,6 @@
    "zh_summary": "Model Y三月长测验证特斯拉最佳电车",
    "title_zh": "三个月Model Y深度体验：特斯拉造出最好的电动车",
    "sentiment": 1
-  },
-  {
-   "id": "f36ffbba2474",
-   "title": "TSLA Stock Slips After Hours — EV Giant Reports High Cash Burn In Q2 Amid AI, Robotics Pivot - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T21:30:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T21:30:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "特斯拉二季度现金消耗高，盘后股价下跌",
-   "title_zh": "TSLA盘后下跌：AI转型中二季度现金消耗高企",
-   "sentiment": -1
   },
   {
    "id": "861861c1d991",
@@ -6274,6 +6305,23 @@
    "sentiment": 1
   },
   {
+   "id": "7e8638912f78",
+   "title": "马斯克否认台积电参与特斯拉 Terafab 芯片工厂项目 - 环球网",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjM09zNTFXMGhEQXRPcE9tV0ExLW8yLUFyZERjTDJyOENuWFJIbG1VMWdyZ21KWTRWcTVsYm84bDNYRGxwaU9Wdll6ZHZjRXVYX05nM0tUQQ",
+   "source": "环球网",
+   "published_at": "2026-10-07T12:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "环球网",
+     "published_at": "2026-10-07T12:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjM09zNTFXMGhEQXRPcE9tV0ExLW8yLUFyZERjTDJyOENuWFJIbG1VMWdyZ21KWTRWcTVsYm84bDNYRGxwaU9Wdll6ZHZjRXVYX05nM0tUQQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "4cefb712fe84",
    "title": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA",
@@ -6680,66 +6728,6 @@
    "zh_summary": "马斯克欢迎德国推动特斯拉FSD获批",
    "title_zh": "马斯克欢迎德国推动特斯拉FSD获批",
    "sentiment": 1
-  },
-  {
-   "id": "e880fb09de4d",
-   "title": "大连充电服务怎么选？价格、补贴、平台全拆解+FAQ|大连市|特斯拉|特来电|充电站|电费 - 新浪汽车",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92LWI4dHk5RXYzSjdwNXo3a3c1dElzREFaVUtTY0ZRclRLUVhiZVJRM01hYlg3cnhDUnMyby1GUHhPOXEyS1k3Q0dROS1CcHVRQkxRT3FLQWc3R1g3SFNzckdPMXJJdjhlNGtRNkcwbFpfS1Rq",
-   "source": "新浪汽车",
-   "published_at": "2026-10-07T10:06:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪汽车",
-     "published_at": "2026-10-07T10:06:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92LWI4dHk5RXYzSjdwNXo3a3c1dElzREFaVUtTY0ZRclRLUVhiZVJRM01hYlg3cnhDUnMyby1GUHhPOXEyS1k3Q0dROS1CcHVRQkxRT3FLQWc3R1g3SFNzckdPMXJJdjhlNGtRNkcwbFpfS1Rq"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "大连充电服务价格补贴平台全拆解",
-   "title_zh": "大连充电服务怎么选？价格、补贴、平台全拆解+FAQ|大连市|特斯拉|特来电|充电站|电费 - 新浪汽车",
-   "sentiment": 0
-  },
-  {
-   "id": "a786644165a9",
-   "title": "【视频】膜一姐| 特斯拉Model3改色星黛紫，紫粉金渐变，尽显神秘空灵！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yMVZfaVRDc2hfT19DRjFxOUd0QnZVVWlLaDlxTFU1RWJWQmNKbnd3a0RWUkZPeE1KSTRGQlNoRHIyUVgyV3VaRmhyMGs1MVloS2Zya3U2c0luOEdrcm9LN1ZsT0dsVjBTS1hF",
-   "source": "汽车之家",
-   "published_at": "2026-10-07T10:06:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-07T10:06:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yMVZfaVRDc2hfT19DRjFxOUd0QnZVVWlLaDlxTFU1RWJWQmNKbnd3a0RWUkZPeE1KSTRGQlNoRHIyUVgyV3VaRmhyMGs1MVloS2Zya3U2c0luOEdrcm9LN1ZsT0dsVjBTS1hF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model3改色星黛紫渐变",
-   "title_zh": "【视频】膜一姐| 特斯拉Model3改色星黛紫，紫粉金渐变，尽显神秘空灵！ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "1c108c92a49a",
-   "title": "【视频】特斯拉冬季用车小妙招来了！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVEJyd2xwNDZfT0pCUmFtc01lVmV6VzdvWkJaRVJUcmZjcTU2bXh1WHZXcEQxYVVqM2t0YWtvMVB5N255ZVFoMFBvbVZ4SDJSWk0xQ3VjOGRQWGhKQzNQOE5uZlNSckh4UnJB",
-   "source": "汽车之家",
-   "published_at": "2026-10-07T10:02:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-07T10:02:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JVEJyd2xwNDZfT0pCUmFtc01lVmV6VzdvWkJaRVJUcmZjcTU2bXh1WHZXcEQxYVVqM2t0YWtvMVB5N255ZVFoMFBvbVZ4SDJSWk0xQ3VjOGRQWGhKQzNQOE5uZlNSckh4UnJB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉冬季用车小妙招",
-   "title_zh": "【视频】特斯拉冬季用车小妙招来了！",
-   "sentiment": 0
   }
  ]
 }
