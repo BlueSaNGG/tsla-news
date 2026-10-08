@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T05:52:26.961631+00:00",
+ "updated_at": "2026-10-08T06:07:29.409899+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -10,8 +10,8 @@
    "days_left": 13
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": -1,
-     "note": "今日新闻情绪 -0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 -0.33（3条已评分）"
     },
     {
      "key": "动量",
@@ -36,7 +36,7 @@
     {
      "key": "分析师动向",
      "score": 1,
-     "note": "近14天 1 家上调 / 0 家下调"
+     "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 41,
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-08T05:52:26.954156+00:00"
+   "as_of": "2026-10-08T06:07:29.404092+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": -0.5,
-   "count": 2
+   "avg": -0.33,
+   "count": 3
   }
  },
  "meta": {
@@ -67,6 +67,29 @@
   }
  },
  "stories": [
+  {
+   "id": "832b2f1b15bd",
+   "title": "Jim Cramer Says SPCX Could Come to Fruition Long Before Tesla After Goldman Sachs Raises Price Target: 'R - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUFFSlVnckV1TGhtWkZaNzhqeVFoVDdnTE5QR3o3cGNSMU5IVTVQZDJYcGRYMGtEcU40d2JWSW5KcDZJQ21wNlhERGJLUjNiM0dxX2RGS2s2TkxpUzRLVlZXcnBZRGdRX3pkQ0FxOTF0bmJaQUMzWlRIVDdhbVQ4Y3FCQU44RE41N2ZGemZ3Q1lMdkVWenhqZ3pFd2RTaWJtQWpacHpuZVJjN0Z1OHBnTUJsdkF3V2NXRnVETFpyLXE3eDRYZjNWNTVVMkdTeXR6ZzBPa2tVUFNvNUxISy1yc0VVOGptNHNjVTlXMm1NcjY0VC1peDBFcFBzb1RGS212SG4yNTJWY0N4dWFCcWRvRjlnTQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-08T05:58:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-08T05:58:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUFFSlVnckV1TGhtWkZaNzhqeVFoVDdnTE5QR3o3cGNSMU5IVTVQZDJYcGRYMGtEcU40d2JWSW5KcDZJQ21wNlhERGJLUjNiM0dxX2RGS2s2TkxpUzRLVlZXcnBZRGdRX3pkQ0FxOTF0bmJaQUMzWlRIVDdhbVQ4Y3FCQU44RE41N2ZGemZ3Q1lMdkVWenhqZ3pFd2RTaWJtQWpacHpuZVJjN0Z1OHBnTUJsdkF3V2NXRnVETFpyLXE3eDRYZjNWNTVVMkdTeXR6ZzBPa2tVUFNvNUxISy1yc0VVOGptNHNjVTlXMm1NcjY0VC1peDBFcFBzb1RGS212SG4yNTJWY0N4dWFCcWRvRjlnTQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "Goldman Sachs",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
+  },
   {
    "id": "4e4787bd14d5",
    "title": "特斯拉Cybercab无方向盘踏板，远程兜底走不同路线 - 新浪网",
@@ -927,6 +950,23 @@
    "zh_summary": "特斯拉FSD在荷兰避开闯红灯车辆",
    "title_zh": "特斯拉FSD在荷兰避开闯红灯者：这对你意味着什么",
    "sentiment": 1
+  },
+  {
+   "id": "ca76cb4fb44d",
+   "title": "Tesla proves why it makes the best EVs after three months with Model Y - Drive",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3dKNlBxTVMyWXlBUWlKWU5VaTNYMmJyR0QwYVEyNElHdDRNcGFNRGhzMkNRd1plZlJUMk9yVGozX2ZoQ3A0cVRTYjFvSUpNaUF5dkNqWVdkbU80WkxvTVZjYjVja25XYldSSW5ybWtRMS14amhUbzJwLUFOaUZvaDE0STdDLWtxcjJBc3hEalBhQTBMVzhR",
+   "source": "Drive",
+   "published_at": "2026-10-07T21:31:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive",
+     "published_at": "2026-10-07T21:31:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3dKNlBxTVMyWXlBUWlKWU5VaTNYMmJyR0QwYVEyNElHdDRNcGFNRGhzMkNRd1plZlJUMk9yVGozX2ZoQ3A0cVRTYjFvSUpNaUF5dkNqWVdkbU80WkxvTVZjYjVja25XYldSSW5ybWtRMS14amhUbzJwLUFOaUZvaDE0STdDLWtxcjJBc3hEalBhQTBMVzhR"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "861861c1d991",
@@ -2768,26 +2808,6 @@
    "sentiment": 1
   },
   {
-   "id": "4cefb712fe84",
-   "title": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T12:05:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T12:05:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价反弹收涨近2%",
-   "title_zh": "特斯拉股价反弹收涨近2%，SpaceX开启IPO",
-   "sentiment": 1
-  },
-  {
    "id": "cd6ed56819f3",
    "title": "Tesla FSD Supervised in Switzerland: Winter Testing Explained - BASENOR",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjdxNjh0bl9MVktVejZEXzgxSjlNN0NFaTdiQjhFVFNLUG96YXI4Q2xyMWFUSTZQREU1NkFtaXJxYzVaRTRsZXZFdnV3M0sxMWdIc2l4c3lMUTJ1V2Uwb1R1OGFQUHZoeWRLaGo3TkJPTmtFT3VPeW9DMXYwanJXTkNnMDkzTTdNcG95MnZsMkM3bUVvekZmQkRVOA",
@@ -4128,26 +4148,6 @@
    "sentiment": 1
   },
   {
-   "id": "d16d73b3a4ba",
-   "title": "TSLA Stock Watches SpaceX IPO While Cheapest Cybertruck Hits Driveways After Long Wait - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckp6YWl1eW1xdFpkWnl5V1Nxd1E1bDk5SlV6LVdmZnNVMWFybDZCTVFUaEIzV2NKWnZPMU1VVG5GSzhabkVNcmlwMHVhU0hUcmQwU1JKN2w5UkFMUG41WmZwVUl4RVZOa21ibktWbExMTXhSZW84dzVDd0NnSGozQWdrQ3djQUlPTm56ZG1uTnJ3b3YtMFZhai11eENpWWNORjhFaFowbEFPQjJKTDNJTmdGbkF4LU80c2F0MEpWNGpWOXhCWFpoeU9sb0VycWxaY2xtUll0SGxZWGY4NVc5dWJaSmw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T03:07:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T03:07:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckp6YWl1eW1xdFpkWnl5V1Nxd1E1bDk5SlV6LVdmZnNVMWFybDZCTVFUaEIzV2NKWnZPMU1VVG5GSzhabkVNcmlwMHVhU0hUcmQwU1JKN2w5UkFMUG41WmZwVUl4RVZOa21ibktWbExMTXhSZW84dzVDd0NnSGozQWdrQ3djQUlPTm56ZG1uTnJ3b3YtMFZhai11eENpWWNORjhFaFowbEFPQjJKTDNJTmdGbkF4LU80c2F0MEpWNGpWOXhCWFpoeU9sb0VycWxaY2xtUll0SGxZWGY4NVc5dWJaSmw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "最便宜Cybertruck开始交付",
-   "title_zh": "SpaceX IPO在即，最便宜Cybertruck开始交付",
-   "sentiment": 1
-  },
-  {
    "id": "9a48481eeca7",
    "title": "Tesla FSD V14.3.11 and V14.3 Lite Rolling Out: What to Do Now - BASENOR",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kQ201alBFM1VrTDBnSmRpM1lYRzkxSUNMWVl4ZXdTUm10V2NjclR2N3JrVkh4bnN5MUpJczhkU0dJQ21waUI3eEhTRXBwRlJCMUdIaEZlSlA2QjI0bF81QTRDM2xmVUh4",
@@ -4590,7 +4590,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmVXb1NrNGdXZHM5T2U3cHFvaG5WYVg1ZlIwNC13Nzl6NDVlTkVyTGVQLTUwRFljU2xoM19Vel95U1pFWGtTczFzVHloaUdXVnIzWjdSQ1M3MXpOaG4tUTVWZ0VGZkxrUFdnaDZxYkx5OWJoTWRsYlRlamhmNHI3ZjJlTnRkRUt2",
    "source": "Sohu",
    "published_at": "2026-10-07T00:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Sohu",
@@ -4601,13 +4601,22 @@
      "name": "搜狐网",
      "published_at": "2026-10-07T00:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91NTN3T2xmdUl4ZGpHU2htd29Ld2s5VFNPNXpacHhRQkVuZlFSY25OUm5lbl9GeTZoNVAtcEljeDM5Y3ljbjJqYjZzSVRUYkVwNVE"
+    },
+    {
+     "name": "21财经",
+     "published_at": "2026-10-08T04:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGo0b3Z1Um5ObDJSUzFPSGt3S1J0VDE5Z29VWUdXZTBfSkFYa1Zrc29FZGh5N3RsVjhOektpYy10NU1pZk1DUTI4WDZBVkYteGIxbkRzLXJrYzVMVHU3Nk5WTTIzdGFvWi1MNmJFWW1MU0h0WW9zZ3cxYnh0dXBJdERldVRJS2VqZUZyd1dBdw"
     }
    ],
    "category": "其他",
    "session": "盘后",
    "zh_summary": "特斯拉一个月降价两次惹怒车主",
    "title_zh": "一个月降价两次惹怒车主？特斯拉降价玩法怎么了？",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -1.26,
+    "window_h": 2.0
+   }
   },
   {
    "id": "1eb14d9e626d",
