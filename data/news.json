@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-08T17:37:38.227909+00:00",
+ "updated_at": "2026-10-08T17:52:25.829275+00:00",
  "market": {
-  "price": 370.07,
+  "price": 370.06,
   "change_pct": -2.05,
   "as_of": "2026-10-08",
   "next_earnings": {
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（96条已评分）"
+     "note": "今日新闻情绪 +0.22（99条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $370.07 vs 20日均线 $367.55"
+     "note": "现价 $370.06 vs 20日均线 $367.55"
     },
     {
      "key": "分析师动向",
@@ -44,9 +44,9 @@
    "target_count": 15,
    "implied_upside_pct": 8.1,
    "ma20": 367.55,
-   "as_of": "2026-10-08T17:37:38.204240+00:00"
+   "as_of": "2026-10-08T17:52:25.819199+00:00"
   },
-  "pe_ttm": 102.4,
+  "pe_ttm": 102.3,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.1%空间：估值适中，预期中性",
   "next_delivery": {
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.22,
-   "count": 96
+   "count": 99
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "cb293d9f6892",
+   "title": "Musk Loses Trillionaire Status As SpaceX And Tesla Drop Wipes Out $36 Billion - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2FRbDhXLUFDZ1V1cFFrNFNpb21iZnp6b2c3VDUtcUpOSnRBelZ0LVdKd0xUbE5mSXVFNWI3TGpjdlZfZUZ0cHdfWXhkWkl5dEZ1ckp1MHBmaXkwVDNXRk1TX3lFYmNYYWZKY2UzSWJwYkhBZ294S0JIaWp3V3Exbk8yMmE3eDREd05fTWc0WXp5alNGV2tFZ1Q1TmE2UWhubXY4S0hldkhuRUZSWTI1ejFtZ0xZTUUxNlg2cU1EUW1vd193QlQw",
+   "source": "Forbes",
+   "published_at": "2026-10-08T17:41:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-08T17:41:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2FRbDhXLUFDZ1V1cFFrNFNpb21iZnp6b2c3VDUtcUpOSnRBelZ0LVdKd0xUbE5mSXVFNWI3TGpjdlZfZUZ0cHdfWXhkWkl5dEZ1ckp1MHBmaXkwVDNXRk1TX3lFYmNYYWZKY2UzSWJwYkhBZ294S0JIaWp3V3Exbk8yMmE3eDREd05fTWc0WXp5alNGV2tFZ1Q1TmE2UWhubXY4S0hldkhuRUZSWTI1ejFtZ0xZTUUxNlg2cU1EUW1vd193QlQw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "3a0e6fdd6b95",
    "title": "BYD Trades at 20 Times Earnings. Tesla Trades at 344. Here's Which One I'd Buy Today. - The Motley Fool",
@@ -153,7 +170,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUJLVzFNZ19VYXZnZ1ZnVHBJLUlXYjlXcTM5dkpNVi0wUEhnUDU2YWUwTDBHQk1CaERpRVdiNy1pY1Jub2lPak9nOE4zaGIxVlk5Ykc5aVdNNlpvLWxSVVVzVTlPLTlMY0tzTm5JT1l0Wmt6UHhoalQyams5TUcwem5fQVptWEpqdHJMdHNVbzhvSFBvOEl5Z2JlVmZJaGx2R2dDQkt4eDBfZ09vVG5QVHNyTzBpa1VWNUNTcWRvUm1kQ2dsalhLLXhMQ3BXcGQ1MzdKVUNMQlNhQUxi",
    "source": "The Motley Fool",
    "published_at": "2026-10-08T17:08:07+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -164,13 +181,22 @@
      "name": "The Globe and Mail",
      "published_at": "2026-10-08T17:28:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSnBDTzUwTjRWRWdrcEFvMDZxeS1zS0N4TGQycm8xbi1XOW13Ykp0Ny1UOWh5X2psYzAzLWs2b3k3SW9CZG4tZnlCRnNvSHNrR1dZZGlBY3RUSklyMG1yVkhLTnJ0LS1mM1pkZUJ5cHpNU3BDVFIza0RPem5CQlVZSWwtTWdKY0JCdTZMWUVDNzVyTVNBRTdqVVdKbUpIRHJMUE9yenBzNjNucHMyUnhxNWhhbVUyVUNwY3prWDVvU1UyS2NUUEdlRGlZR1MtWmJ4ZWl1QzUxeEdIeWRSbGRDYVV4MERXLW9MaWxBRXc4UjlzdjdzaHhoQlFZVV93NVdGSEJ4bGZHMndZSGdwNjBN"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T17:25:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajkxcXVnR3Zlakw2N3hiUzQxN0J1TVRzVlVqUFlFR014MENDUEttN05FZDdHbkJyVVM1YjF1Zk9Ta1gwbU9wRHJHRUUySG9IaDB3LXY5SVVrNDV5ZUdsWXRwanp3R05uX0ZKbmVSck4yLU1GelRaVEhScHprdEtpUmJhb2g2enNvUkstUE5ZZ2dURGRKZENnejl3T1A"
     }
    ],
    "category": "财报",
    "session": "盘中",
    "zh_summary": "通用与特斯拉营收增长趋势对比",
    "title_zh": "通用汽车vs特斯拉：营收增长趋势告诉投资者什么",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.3,
+    "window_h": 0.7
+   }
   },
   {
    "id": "3a19c7fa7d0c",
@@ -216,6 +242,23 @@
    "zh_summary": "特斯拉供应商电池业务盈利创新高",
    "title_zh": "特斯拉供应商电动汽车和储能电池盈利创新高",
    "sentiment": 1
+  },
+  {
+   "id": "b96accc6e769",
+   "title": "Tesla Owners Can Now Disconnect From Superchargers in Emergency - Kelley Blue Book",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3JmT3AtMVlNWlJCckhaR3NudlhHTmI3OV94MmphXzFBUGsyMnA1aUh3a1MzeTZNek1fczVhQVZ4YXE2WFRlbnIxekRUeXFNZFYyZjNGaXdsdFBzUEo4Z0VJUjVQalZrWEtiNy1XYUNyZHQ3R2d4Qm1Gd0t5TENiQ3ZxVEJrd1BjVnF1MldhNHVSZlY0ZjZXTw",
+   "source": "Kelley Blue Book",
+   "published_at": "2026-10-08T16:43:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Kelley Blue Book",
+     "published_at": "2026-10-08T16:43:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3JmT3AtMVlNWlJCckhaR3NudlhHTmI3OV94MmphXzFBUGsyMnA1aUh3a1MzeTZNek1fczVhQVZ4YXE2WFRlbnIxekRUeXFNZFYyZjNGaXdsdFBzUEo4Z0VJUjVQalZrWEtiNy1XYUNyZHQ3R2d4Qm1Gd0t5TENiQ3ZxVEJrd1BjVnF1MldhNHVSZlY0ZjZXTw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9b96121574aa",
@@ -3163,26 +3206,6 @@
    "zh_summary": "Cooper Financial减持特斯拉股份",
    "title_zh": "Cooper Financial减持特斯拉（TSLA）股份",
    "sentiment": -1
-  },
-  {
-   "id": "9f4e9245b276",
-   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T23:10:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T23:10:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "马斯克称新款Semi是游戏规则改变者",
-   "title_zh": "TSLA隔夜上涨：Roadster预告造势，马斯克称新Semi是改变者",
-   "sentiment": 1
   },
   {
    "id": "c41d395d790e",
@@ -6561,26 +6584,6 @@
    "zh_summary": "宁德不是博世车企也不是特斯拉",
    "title_zh": "宁德不是博世，车企也不是特斯拉 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "227f960487c9",
-   "title": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr",
-   "source": "汽车之家",
-   "published_at": "2026-10-07T04:07:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-07T04:07:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD被指落后小鹏地平线",
-   "title_zh": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
-   "sentiment": -1
   },
   {
    "id": "7f556b34b70a",
