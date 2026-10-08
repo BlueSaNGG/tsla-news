@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T13:37:29.846830+00:00",
+ "updated_at": "2026-10-08T13:52:28.372720+00:00",
  "market": {
-  "price": 374.73,
-  "change_pct": -0.81,
+  "price": 372.66,
+  "change_pct": -1.36,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +6.7%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（56条已评分）"
+     "note": "今日新闻情绪 +0.31（58条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $374.73 vs 20日均线 $367.78"
+     "note": "现价 $372.66 vs 20日均线 $367.68"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 6.7,
-   "ma20": 367.78,
-   "as_of": "2026-10-08T13:37:29.831649+00:00"
+   "implied_upside_pct": 7.3,
+   "ma20": 367.68,
+   "as_of": "2026-10-08T13:52:28.366042+00:00"
   },
-  "pe_ttm": 103.6,
+  "pe_ttm": 103.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 56
+   "avg": 0.31,
+   "count": 58
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "329d4c318c4e",
+   "title": "Tesla’s best-selling vehicles can now send power to your home, but the real revolution is yet to come - pv magazine USA",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFRyb2d1TThzZ3JVa2xoUnFLRF9VbWNrWVlyM0F6SVctMDNRSFpOay11SE84cElsT3E1TUhORnhQTDFjZUNMVTQtclQ0WVVQeS1sdUFVWUwzR3NsN3huelhxSEVLMFFoTkFhQ2RROXhfVWF0VVVGUW1LZERLTDZnVFdmRWlXbUJ5V04xZG92MF93LXlRVHZEd2xvelhGenBjYUZ3UjNHYmRnTTJzeGwzQWtCWnNiVFhJdXBHbFE3RmV1SENiUXVjMjZWVGcwR1VjYXMweWR3",
+   "source": "pv magazine USA",
+   "published_at": "2026-10-08T13:47:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "pv magazine USA",
+     "published_at": "2026-10-08T13:47:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFRyb2d1TThzZ3JVa2xoUnFLRF9VbWNrWVlyM0F6SVctMDNRSFpOay11SE84cElsT3E1TUhORnhQTDFjZUNMVTQtclQ0WVVQeS1sdUFVWUwzR3NsN3huelhxSEVLMFFoTkFhQ2RROXhfVWF0VVVGUW1LZERLTDZnVFdmRWlXbUJ5V04xZG92MF93LXlRVHZEd2xvelhGenBjYUZ3UjNHYmRnTTJzeGwzQWtCWnNiVFhJdXBHbFE3RmV1SENiUXVjMjZWVGcwR1VjYXMweWR3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "20290b22d3e0",
    "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
@@ -83,8 +100,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "Finbold：分析师设定特斯拉未来12个月目标价",
    "zh_summary": "分析师设定特斯拉12个月目标价",
+   "title_zh": "Finbold：分析师设定特斯拉未来12个月目标价",
    "sentiment": 0
   },
   {
@@ -103,8 +120,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉Megacharger网络抵达东海岸，在佐治亚州新设站点",
    "zh_summary": "特斯拉Megacharger网络在佐治亚设新站",
+   "title_zh": "特斯拉Megacharger网络抵达东海岸，在佐治亚州新设站点",
    "sentiment": 1
   },
   {
@@ -126,6 +143,23 @@
    "zh_summary": "特斯拉Model 3/Y新增V2H双向充电",
    "title_zh": "部分Model 3/Y现可通过V2H双向充电为家庭供电",
    "sentiment": 1
+  },
+  {
+   "id": "eb5309264c3f",
+   "title": "美股大型科技股盘前多数下跌，特斯拉跌超1% - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tMDFpOVd0WldGcGlVTFlrN3pkWTU1aUdUWi1QQU10VlF0Mml4TGhUT2NfZG1KR3QtR0I1N1NsaTVEa29va0llanRTbkdiTjEydnhmS3hKVG0",
+   "source": "36Kr",
+   "published_at": "2026-10-08T12:53:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-08T12:53:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tMDFpOVd0WldGcGlVTFlrN3pkWTU1aUdUWi1QQU10VlF0Mml4TGhUT2NfZG1KR3QtR0I1N1NsaTVEa29va0llanRTbkdiTjEydnhmS3hKVG0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e67fde08a45d",
@@ -4997,6 +5031,23 @@
    "sentiment": 1
   },
   {
+   "id": "f6764bd50174",
+   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
+   "source": "东方财富",
+   "published_at": "2026-10-07T08:38:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T08:38:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "aafee61783eb",
    "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
@@ -6733,71 +6784,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉为Model 3/Y推家庭电力备份",
    "title_zh": "特斯拉为 Model 3 和 Y 推出 Powershare 家庭电力备份",
-   "sentiment": 1
-  },
-  {
-   "id": "82695719aac3",
-   "title": "Five things that are keeping Tesla Full Self-Driving supervised - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB",
-   "source": "Teslarati",
-   "published_at": "2026-10-06T17:53:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-06T17:53:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "FSD仍需人工监督的五个原因",
-   "title_zh": "特斯拉FSD仍需人工监督的五个原因",
-   "sentiment": -1
-  },
-  {
-   "id": "a526b51e4173",
-   "title": "Tesla expands Powershare to Model 3 and Model Y, adds V2L across U.S. lineup - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvNkpGU3l6ekFTdmVlb1NlR0h2ZjIyV1o3Ry1WTmVCbkw1bkVZQjJrTEZHd1lzNjhsbnRtUnpfdnIzTXZUY05jOXptZlduSWM4R2dDOWVpUmFpTFNvbm9nRXNOYi11MVYxTE02eHpuV0lrSjFuSmgzRFJB",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-06T17:46:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-06T17:46:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvNkpGU3l6ekFTdmVlb1NlR0h2ZjIyV1o3Ry1WTmVCbkw1bkVZQjJrTEZHd1lzNjhsbnRtUnpfdnIzTXZUY05jOXptZlduSWM4R2dDOWVpUmFpTFNvbm9nRXNOYi11MVYxTE02eHpuV0lrSjFuSmgzRFJB"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Powershare扩展至Model 3/Y",
-   "title_zh": "特斯拉Powershare扩展至Model 3/Y，全美新增V2L",
-   "sentiment": 1
-  },
-  {
-   "id": "944676ded4f0",
-   "title": "Tesla Stocks Gain as 486,532 Deliveries Reset the Bar - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGNEODNWUjNqQmNqR0tUU2ppWW1PMnd4ZUVWXzQ0eTVIZElXVi12dzZtOTVRT0FkZ2xXR0xZci16ZFp1bGk1c0wtS19CbWNENFR6b0NCNFJ3bWhMZzd3ZVA2UUhrR1V3TFZ5Zjd2LUJvbUhGLXV1NTNsUm5LS1k5eU1tUEVhbnJXMmdzclFEQVdvTUVmVVE",
-   "source": "GuruFocus",
-   "published_at": "2026-10-06T17:35:27+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-06T17:35:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGNEODNWUjNqQmNqR0tUU2ppWW1PMnd4ZUVWXzQ0eTVIZElXVi12dzZtOTVRT0FkZ2xXR0xZci16ZFp1bGk1c0wtS19CbWNENFR6b0NCNFJ3bWhMZzd3ZVA2UUhrR1V3TFZ5Zjd2LUJvbUhGLXV1NTNsUm5LS1k5eU1tUEVhbnJXMmdzclFEQVdvTUVmVVE"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-06T18:13:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTVSYzlyQndZcFNTNk9FZkpEQWp1Q3BpM2t6WkZJNi1lRkhSY0U3OHNVTVBGUnZoUUVxbGc4ZzVHLXV4X01XWm5XN2VTeWN1ZjhFQjlRcl9IRFJ0QUJOSzJrZHQ0RjI2VGFuR1RiaGpEQVpPdkpra1hQWXlNNElkdDBIUkNZX2F4Qk9JdXlYZnFONFVHNzRGQ3E4UUh1YV9pS0JVUWhjTEJkU0pOMDc5bEpWUQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉交付48.65万辆，股价上涨",
-   "title_zh": "特斯拉交付48.65万辆打破预期，股价上涨",
    "sentiment": 1
   }
  ]
