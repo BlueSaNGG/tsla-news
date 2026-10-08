@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T22:07:30.392140+00:00",
+ "updated_at": "2026-10-08T22:22:26.840678+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（128条已评分）"
+     "note": "今日新闻情绪 +0.19（129条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-08T22:07:30.377446+00:00"
+   "as_of": "2026-10-08T22:22:26.835576+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
-   "count": 128
+   "avg": 0.19,
+   "count": 129
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "41c127866edc",
+   "title": "10万预算买特斯拉Model 3划算吗？3个维度说清+FAQ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRVFiQ3pvWTNLd3libXFxRHN4RC1nUk14UWcybGpUVjJHSFJBYl9ISlJpTkJwTVBTVjRJa253V3NoZ0t4d2NOYzE3X2tQdEJXa1BNNUlGZXRvRFVuUmZmMDFjQXlCZ01XR2ZabGtkTWVXZw",
+   "source": "新浪网",
+   "published_at": "2026-10-08T22:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T22:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRVFiQ3pvWTNLd3libXFxRHN4RC1nUk14UWcybGpUVjJHSFJBYl9ISlJpTkJwTVBTVjRJa253V3NoZ0t4d2NOYzE3X2tQdEJXa1BNNUlGZXRvRFVuUmZmMDFjQXlCZ01XR2ZabGtkTWVXZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "6fb3b05e2d0e",
    "title": "Tesla Will Now Let You Rip A Supercharger Apart To Escape An Emergency - Carscoops",
@@ -113,12 +130,17 @@
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ",
    "source": "Business Wire",
    "published_at": "2026-10-08T21:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Wire",
      "published_at": "2026-10-08T21:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ"
+    },
+    {
+     "name": "Voice of Alexandria",
+     "published_at": "2026-10-08T21:24:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdUlDNjhjN1p0U1ZKNXBuTmpMU2hEcjVwUlVmSGVsN25LOE41S3NVeE9SUlBsZTlOemdpczJ4QWNpdXhTcUpzVTV4U080VjJCbnFVWjZEV3NlNjBvblJjN1NFaWZJMUJocEVYWFhhVHo2R0RXbnRRbFFoOG1QMGxzLXFyR3dnbWNISmZPUTR5enNwS0haMndvNy10WW81bXh5bjUtTW5aeXNSbTFLWU5jWWNSRzQ4TVZLYmJ2Ykp5b3p6UkJWWmlQdC1CRnZSRXVOc3U4cjRDNURWMENVekh1c3hLczR4YXQ1U3Q2aHpQbHR2bnNRWDlPeFptZDRrSVVDdHBxcTRYQi1EMzZ2aG9YS19qQ3pzdm11RzBDbjlHR2tEa0Q4Qm5pZ2JkdFk"
     }
    ],
    "category": "其他",
@@ -1387,6 +1409,23 @@
    "zh_summary": "特斯拉畅销车型可向家庭供电",
    "title_zh": "特斯拉畅销车型可向家中供电，但真正的变革尚未到来",
    "sentiment": 1
+  },
+  {
+   "id": "20290b22d3e0",
+   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
+   "source": "Finbold",
+   "published_at": "2026-10-08T13:27:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-08T13:27:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "069e47b12444",
@@ -6747,51 +6786,6 @@
    "session": "盘前",
    "zh_summary": "国庆车圈热点：特斯拉官宣降价",
    "title_zh": "国庆假期车圈热点，华为赛力斯复合，特斯拉官宣降价 - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "b4a34e4ec6ce",
-   "title": "马斯克称特斯拉“Terafab”芯片工厂将由公司自主建设运营 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yV1V4X0pTNEtaZU9Eb1REX09RbU9MUTZhb0swVGFsaThYaEk2LV82R0Rfa3lfUHpqSnhibEVhNEFOUGphMWhnT3EtOXNUM2EwUHFFWFFoMmtmR09RR0o1Rg",
-   "source": "东方财富",
-   "published_at": "2026-10-07T09:18:46+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-07T09:18:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yV1V4X0pTNEtaZU9Eb1REX09RbU9MUTZhb0swVGFsaThYaEk2LV82R0Rfa3lfUHpqSnhibEVhNEFOUGphMWhnT3EtOXNUM2EwUHFFWFFoMmtmR09RR0o1Rg"
-    },
-    {
-     "name": "网通社",
-     "published_at": "2026-10-08T00:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNm9oWmRWalF3NnkyaTIwQ2NIRjF1d3RRZlVmUks4QnRtRHgwUE5jSmJEbmhBcHE0a3FiTEdtTWNXODd1WGdyX1QtSzVCMXEwdmlhOXlaQW16NWc"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "特斯拉将自主建设运营Terafab芯片厂",
-   "title_zh": "马斯克称特斯拉“Terafab”芯片工厂将由公司自主建设运营",
-   "sentiment": 1
-  },
-  {
-   "id": "4b2a6658f780",
-   "title": "The Tesla Alum Trying to Turn GM Into an American Battery Juggernaut - Heatmap News",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXSGY1UXdYaDlzWVJuTzNocWlTWTZCUDRXV3loMmVJUkZfZ1V6bEJLNmN2YUhkWWhneGZtMjBTVzlrOFBjZHhBTi1LQldVdHFRbGxxR19iR0s5ZDZhbG82VTlFZw",
-   "source": "Heatmap News",
-   "published_at": "2026-10-07T09:10:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Heatmap News",
-     "published_at": "2026-10-07T09:10:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXSGY1UXdYaDlzWVJuTzNocWlTWTZCUDRXV3loMmVJUkZfZ1V6bEJLNmN2YUhkWWhneGZtMjBTVzlrOFBjZHhBTi1LQldVdHFRbGxxR19iR0s5ZDZhbG82VTlFZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉前员工欲助通用成美国电池巨头",
-   "title_zh": "特斯拉旧将欲将通用打造成美国电池巨头",
    "sentiment": -1
   }
  ]
