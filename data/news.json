@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T23:52:33.156132+00:00",
+ "updated_at": "2026-10-08T00:07:34.573255+00:00",
  "market": {
-  "price": 377.81,
-  "change_pct": -0.75,
+  "price": 380.68,
+  "change_pct": 0.51,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +5.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（127条已评分）"
+     "note": "今日新闻情绪 +0.17（128条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.81 vs 20日均线 $367.22"
+     "note": "现价 $380.68 vs 20日均线 $366.72"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.9,
-   "ma20": 367.22,
-   "as_of": "2026-10-07T23:52:33.147079+00:00"
+   "implied_upside_pct": 5.1,
+   "ma20": 366.72,
+   "as_of": "2026-10-08T00:07:34.566647+00:00"
   },
-  "pe_ttm": 104.5,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.9%空间：估值适中，预期中性",
+  "pe_ttm": 105.3,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 127
+   "avg": 0.17,
+   "count": 128
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "0f4e3c0a4bf7",
+   "title": "1,831 Tesla, Inc. $TSLA Shares Sold by Venture Visionary Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTN1cnVVWFpBWEVQbjl2ZnlibDg1d093elRNeVlkcmtjSXRPeEszQkhySWRjYk1wMlR1TkNZTlNiVHZZZEpXdmV4dWI3QU0xOGpMbHZ2VzlCeGgzVXpVMl9XdEdfb2daWkdfQk5JeVZnaUYzNGVBM3lqTUZrUlRTWXEwaUZrQnNnNy01bTZ1aGluNlV5YkI0cDZXR0Y1d19JQUNnNmJFTGJNcEx4aFh4bjFlTWFjR0NKTWZQbldKaUR5VHdC",
+   "source": "MarketBeat",
+   "published_at": "2026-10-08T00:02:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-08T00:02:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTN1cnVVWFpBWEVQbjl2ZnlibDg1d093elRNeVlkcmtjSXRPeEszQkhySWRjYk1wMlR1TkNZTlNiVHZZZEpXdmV4dWI3QU0xOGpMbHZ2VzlCeGgzVXpVMl9XdEdfb2daWkdfQk5JeVZnaUYzNGVBM3lqTUZrUlRTWXEwaUZrQnNnNy01bTZ1aGluNlV5YkI0cDZXR0Y1d19JQUNnNmJFTGJNcEx4aFh4bjFlTWFjR0NKTWZQbldKaUR5VHdC"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
+  {
+   "id": "18eb5e5f5c5d",
+   "title": "德国监管为特斯拉FSD开绿灯 但要把“完全自动驾驶”改名 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1V0Y0RtdkplVEFFekxYMjc2UFZRdl9PeTVSSEh0VExmSHljLUxhd2lWYTBzbEllYUtKaW0tVGhldjBYNGlhaDZtUDVyOVhHMjZtTEY3aER0bm96V3lhdTJSVnVFU1BtM1NsYzdRcmJOQVpkc0tPdFV1WTJ1Mk8tRmJ6SlpEalBX",
+   "source": "搜狐网",
+   "published_at": "2026-10-07T23:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-07T23:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1V0Y0RtdkplVEFFekxYMjc2UFZRdl9PeTVSSEh0VExmSHljLUxhd2lWYTBzbEllYUtKaW0tVGhldjBYNGlhaDZtUDVyOVhHMjZtTEY3aER0bm96V3lhdTJSVnVFU1BtM1NsYzdRcmJOQVpkc0tPdFV1WTJ1Mk8tRmJ6SlpEalBX"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "a84053c2e102",
    "title": "Cooper Financial Group Cuts Stake in Tesla, Inc. $TSLA - MarketBeat",
@@ -1958,40 +1992,6 @@
    "sentiment": 0
   },
   {
-   "id": "f138cbbac7a4",
-   "title": "Tesla’s Europe FSD Push Gains Momentum After Germany Backs Quicker EU Approval – Musk Says ‘Danke Schön’ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWpvQldnMkMyTnJIeVh4dVFIXzNKQjYtZ1dETkFYeEZkM1ZmY21PMTFZMzhFaHdpQWUwd0dUX0ZYTkJfNlVFZjhGNGRaXzZZOVp0YnZscjI0eXFweU1PRXRwV2RlMFR1VnlSZ3ltUGc1YXhFWjQzR1RQblRrWjJtZVhZN3JMMXR6WHpNNXUybVVubGRoNDdZ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T12:00:04+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T12:00:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWpvQldnMkMyTnJIeVh4dVFIXzNKQjYtZ1dETkFYeEZkM1ZmY21PMTFZMzhFaHdpQWUwd0dUX0ZYTkJfNlVFZjhGNGRaXzZZOVp0YnZscjI0eXFweU1PRXRwV2RlMFR1VnlSZ3ltUGc1YXhFWjQzR1RQblRrWjJtZVhZN3JMMXR6WHpNNXUybVVubGRoNDdZ"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-07T12:00:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdVVvc1JvSjRwdGR2djBkQ2xCTm83QlZCUjZyNGZEeVN6X2hyT3ZWX2Fmc3Z2dENwbXJ0QXotNkxJUkpCSmtQd0ZtU1BmRmZpei1tLTJQT3A3UmpIM1hLQ0VaVnJnT1JkNUVNNWxSTHZEandUZjF3dGJXRkNDdURxMzVwaFlrVVBlS0p0ejQ1MERURHktMHQzWlc3WFlhQXJDSzhwWmZVNHRSWUtHSlpnMUxVLUJUeUxZUnZZQ1FjVnhrTEp1czQ4d1lPbnFiS2I1S3hwNHcxMWVUdVR4UElla21zM3QwZkxPNEkxdGRXYTI2MWM"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T12:04:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjhmRWdFLTRfb0h3a0F2YkNXQnl2dTRReVcwNXo5d1ZiVkpDczh1bUtkd2d2N2RiZUM3dUpWS2ZMVlhfTkpxWU5pSVlZUmRLaHVqLXNaM3BBMzZIM0JUU2F5cmE1TXpVQ1g5OGRPOURtbWVUcno1UXQ0V0J3VmFHamp4UVFyUkg2bXZSaHB3M1BUZS05NzNkQnVleTVKTk5vMFNnRDZHR2gwTjh6YUtQMHVCY2hDaHdnRW1reUVQdzJkdEd6Vnc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "德国支持加速欧盟批准特斯拉FSD",
-   "title_zh": "德国支持加速审批后特斯拉FSD欧洲推进加速",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -1.26,
-    "window_h": 2.0
-   }
-  },
-  {
    "id": "848dfb049510",
    "title": "Tesla Sold 75% of Its Bitcoin at $29,000. Bitcoin Is Now $84,000. - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDhoNWNvMzQyOHlXbkJ1aDFzR1VJMlJlM1lOVVNCUVAzUlBIN2ZCZjBQa0NxTHBzSnlFbkg4N21feXRQRVJjUW44cXlwbGFmeE9pSG5YY2F6WjUtcms2a0NWYzI4ejJLOG12Sllvd01DTDZJZHlIcm9hc3daQWVDQVVyQ0tLbHgyNXEwam1DczQ4LVlTRWJ5cldBZWh0c0FwT0NCTTNxSkdJQVVzTUg1S2x1ZXJ6VHRF",
@@ -2023,6 +2023,40 @@
    "price_reaction": {
     "pct": 0.02,
     "window_h": 0.1
+   }
+  },
+  {
+   "id": "f138cbbac7a4",
+   "title": "Tesla’s Europe FSD Push Gains Momentum After Germany Backs Quicker EU Approval – Musk Says ‘Danke Schön’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjhmRWdFLTRfb0h3a0F2YkNXQnl2dTRReVcwNXo5d1ZiVkpDczh1bUtkd2d2N2RiZUM3dUpWS2ZMVlhfTkpxWU5pSVlZUmRLaHVqLXNaM3BBMzZIM0JUU2F5cmE1TXpVQ1g5OGRPOURtbWVUcno1UXQ0V0J3VmFHamp4UVFyUkg2bXZSaHB3M1BUZS05NzNkQnVleTVKTk5vMFNnRDZHR2gwTjh6YUtQMHVCY2hDaHdnRW1reUVQdzJkdEd6Vnc",
+   "source": "Stocktwits",
+   "published_at": "2026-10-07T12:00:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-07T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjhmRWdFLTRfb0h3a0F2YkNXQnl2dTRReVcwNXo5d1ZiVkpDczh1bUtkd2d2N2RiZUM3dUpWS2ZMVlhfTkpxWU5pSVlZUmRLaHVqLXNaM3BBMzZIM0JUU2F5cmE1TXpVQ1g5OGRPOURtbWVUcno1UXQ0V0J3VmFHamp4UVFyUkg2bXZSaHB3M1BUZS05NzNkQnVleTVKTk5vMFNnRDZHR2gwTjh6YUtQMHVCY2hDaHdnRW1reUVQdzJkdEd6Vnc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T12:00:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWpvQldnMkMyTnJIeVh4dVFIXzNKQjYtZ1dETkFYeEZkM1ZmY21PMTFZMzhFaHdpQWUwd0dUX0ZYTkJfNlVFZjhGNGRaXzZZOVp0YnZscjI0eXFweU1PRXRwV2RlMFR1VnlSZ3ltUGc1YXhFWjQzR1RQblRrWjJtZVhZN3JMMXR6WHpNNXUybVVubGRoNDdZ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T12:00:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdVVvc1JvSjRwdGR2djBkQ2xCTm83QlZCUjZyNGZEeVN6X2hyT3ZWX2Fmc3Z2dENwbXJ0QXotNkxJUkpCSmtQd0ZtU1BmRmZpei1tLTJQT3A3UmpIM1hLQ0VaVnJnT1JkNUVNNWxSTHZEandUZjF3dGJXRkNDdURxMzVwaFlrVVBlS0p0ejQ1MERURHktMHQzWlc3WFlhQXJDSzhwWmZVNHRSWUtHSlpnMUxVLUJUeUxZUnZZQ1FjVnhrTEp1czQ4d1lPbnFiS2I1S3hwNHcxMWVUdVR4UElla21zM3QwZkxPNEkxdGRXYTI2MWM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前",
+   "zh_summary": "德国支持加速欧盟批准特斯拉FSD",
+   "title_zh": "德国支持加速审批后特斯拉FSD欧洲推进加速",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.26,
+    "window_h": 2.0
    }
   },
   {
@@ -7146,60 +7180,6 @@
    "zh_summary": "Chamath称特斯拉与SpaceX合并逻辑明显",
    "title_zh": "TSLA盘前上涨：Chamath称特斯拉与SpaceX合并有'显而易见'的逻辑",
    "sentiment": 1
-  },
-  {
-   "id": "97e52c0885dd",
-   "title": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUZva3I0Qzg1RmVvWS1lVFU5RjZjOHVvX2hvYXhfbnc3dmVYZmdVeWdKQ3JuQmFBUkUwWnlpM0h3ZUdPTnhvWGh6UEwxQzZ4eHpaNlFlLTNRd3JuZ3M5WlJOZ0NSZkl5cmZHNHhraTEtY3hvQnpIcUZVTm54TzlBZGRCU0VSeFJHbFgtcFJuQ2VtNlZBUFNZaHhLT0VaVW9Mcm9XM3l6MHhPXzE2M1ZVUHQxUmtmRUhWbzZNYVVMazFHUQ",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-06T02:38:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-06T02:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUZva3I0Qzg1RmVvWS1lVFU5RjZjOHVvX2hvYXhfbnc3dmVYZmdVeWdKQ3JuQmFBUkUwWnlpM0h3ZUdPTnhvWGh6UEwxQzZ4eHpaNlFlLTNRd3JuZ3M5WlJOZ0NSZkl5cmZHNHhraTEtY3hvQnpIcUZVTm54TzlBZGRCU0VSeFJHbFgtcFJuQ2VtNlZBUFNZaHhLT0VaVW9Mcm9XM3l6MHhPXzE2M1ZVUHQxUmtmRUhWbzZNYVVMazFHUQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "纳斯达克创纪录，特斯拉等领涨",
-   "title_zh": "道指期货：纳斯达克创新高，台积电英伟达SpaceX特斯拉领涨",
-   "sentiment": 1
-  },
-  {
-   "id": "13c628062d7f",
-   "title": "【视频】别被骗了！自研电池≠单干，特斯拉和理想侧重点差在哪 - chejiahao.autohome.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ma1ZlUzJWbUhBUjlETmRCVGlXX3FsUV9WQjNMY1lzU2RyaWl5VjAwN28wcXI0MHJVbkxZZ29uWkdsSnI1R3IzQlZGU1hiV3RmTTdFYmpxTTQ3V3M",
-   "source": "chejiahao.autohome.com.cn",
-   "published_at": "2026-10-06T02:00:02+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-06T02:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ma1ZlUzJWbUhBUjlETmRCVGlXX3FsUV9WQjNMY1lzU2RyaWl5VjAwN28wcXI0MHJVbkxZZ29uWkdsSnI1R3IzQlZGU1hiV3RmTTdFYmpxTTQ3V3M"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-06T02:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ma1ZlUzJWbUhBUjlETmRCVGlXX3FsUV9WQjNMY1lzU2RyaWl5VjAwN28wcXI0MHJVbkxZZ29uWkdsSnI1R3IzQlZGU1hiV3RmTTdFYmpxTTQ3V3M"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-06T02:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ma1ZlUzJWbUhBUjlETmRCVGlXX3FsUV9WQjNMY1lzU2RyaWl5VjAwN28wcXI0MHJVbkxZZ29uWkdsSnI1R3IzQlZGU1hiV3RmTTdFYmpxTTQ3V3M"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "解析特斯拉与理想自研电池差异",
-   "title_zh": "特斯拉和理想自研电池侧重点差在哪",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.16,
-    "window_h": 0.1
-   }
   }
  ]
 }
