@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T16:07:25.221030+00:00",
+ "updated_at": "2026-10-08T16:22:29.164981+00:00",
  "market": {
-  "price": 371.88,
-  "change_pct": -1.57,
+  "price": 373.49,
+  "change_pct": -1.14,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 38% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.6%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（84条已评分）"
+     "note": "今日新闻情绪 +0.22（85条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $371.88 vs 20日均线 $367.64"
+     "note": "现价 $373.49 vs 20日均线 $367.72"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 38,
+   "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.6,
-   "ma20": 367.64,
-   "as_of": "2026-10-08T16:07:25.210633+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 367.72,
+   "as_of": "2026-10-08T16:22:29.149422+00:00"
   },
-  "pe_ttm": 102.9,
+  "pe_ttm": 103.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 84
+   "avg": 0.22,
+   "count": 85
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "6b23d1d6210a",
+   "title": "Tesla Semi Order From IMC Follows Its Costly Nikola Hydrogen Bet - eletric-vehicles.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEwySHRDZmZ0TWFSUklTUXBvN0lKa1VXX0ZNXzZHNEVnZS1ldUxTeG5wVUpRODVOdE9vVGdBaGZITG1KYVFROEtaMjVzaE1oZWlBeHlISVlYbGI1dHpYczd1VnFkc1hNREJjblZFRlpaTTFFT1lVUnk0c1BSckdsLVVSd0phQWw2OWM5aHNvM09MSkZteC1ab1U1aVdpZUFqMFE",
+   "source": "eletric-vehicles.com",
+   "published_at": "2026-10-08T16:08:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eletric-vehicles.com",
+     "published_at": "2026-10-08T16:08:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEwySHRDZmZ0TWFSUklTUXBvN0lKa1VXX0ZNXzZHNEVnZS1ldUxTeG5wVUpRODVOdE9vVGdBaGZITG1KYVFROEtaMjVzaE1oZWlBeHlISVlYbGI1dHpYczd1VnFkc1hNREJjblZFRlpaTTFFT1lVUnk0c1BSckdsLVVSd0phQWw2OWM5aHNvM09MSkZteC1ab1U1aVdpZUFqMFE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "ea31fbdf692d",
+   "title": "Transport Canada Recall 2023546: Tesla Model X Brake Warning Fix - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFJ5RVozR2doZWJVdEJfbC1LLVNUaHU0VzZjRHVPQVBadEcwS1FCR2F1Y3p0MU9KQ0VkMHE4TFR5TVRPVS1RRy00Rl95Zmh1Z2Vyb3k4U2pqeWV1RGlFY08wdzZzVXQ3SllKakxUNW1PS2pMOU1IZWtZcU1maU9DUEtsLWdYUGt3amo2dHRQZEtTQlpuNlhNZHM1THFpRGs",
+   "source": "BASENOR",
+   "published_at": "2026-10-08T16:08:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-08T16:08:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFJ5RVozR2doZWJVdEJfbC1LLVNUaHU0VzZjRHVPQVBadEcwS1FCR2F1Y3p0MU9KQ0VkMHE4TFR5TVRPVS1RRy00Rl95Zmh1Z2Vyb3k4U2pqeWV1RGlFY08wdzZzVXQ3SllKakxUNW1PS2pMOU1IZWtZcU1maU9DUEtsLWdYUGt3amo2dHRQZEtTQlpuNlhNZHM1THFpRGs"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "df41f6ecd5c5",
+   "title": "Tesla Model S/X Seat Belt Recall: What Canadian Owners Must Do - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVNsY0FDdG1ydmZESjBhWXpqLUxwdzBWbmZyVDBLaWJPU2FlcXZNbTBHNERMWGxXeDY5LTFfWWEzWUE1cU1HZEY2TGlldzh5X2lFdXpQRy13am9NZUFwYzU1V3p3eWtHSS0tQ3lzYkl2eTRpSUFIQVc5VG5tVVBhQmJ4MUtJSmthbWRLS1RFZzhVUi1aZS04bUxGdU0",
+   "source": "BASENOR",
+   "published_at": "2026-10-08T16:07:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-08T16:07:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVNsY0FDdG1ydmZESjBhWXpqLUxwdzBWbmZyVDBLaWJPU2FlcXZNbTBHNERMWGxXeDY5LTFfWWEzWUE1cU1HZEY2TGlldzh5X2lFdXpQRy13am9NZUFwYzU1V3p3eWtHSS0tQ3lzYkl2eTRpSUFIQVc5VG5tVVBhQmJ4MUtJSmthbWRLS1RFZzhVUi1aZS04bUxGdU0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "78c7158af6b3",
    "title": "How to Check If Your Tesla Supports Powershare Home Backup - Not a Tesla App",
@@ -1303,6 +1354,23 @@
    "zh_summary": "车主10万英里对比Model Y与油车成本",
    "title_zh": "犹他车主Model Y开10万英里对比油车总成本",
    "sentiment": 1
+  },
+  {
+   "id": "e18885903669",
+   "title": "【视频】23年特斯拉MODELX 原漆 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mR09KbXRKaF83V3NoZHRjdlpCZE9seFptbU1aOVJPRWZaNGlVU3JsdEFXWFVxYndZM0RaVWk1TUdDbHlmTVk1bVZ4ejJQSFE5MFV6RGcwOFFlUm8",
+   "source": "汽车之家",
+   "published_at": "2026-10-08T10:15:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-08T10:15:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mR09KbXRKaF83V3NoZHRjdlpCZE9seFptbU1aOVJPRWZaNGlVU3JsdEFXWFVxYndZM0RaVWk1TUdDbHlmTVk1bVZ4ejJQSFE5MFV6RGcwOFFlUm8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "55ce49d6326a",
@@ -5666,6 +5734,23 @@
    "sentiment": 1
   },
   {
+   "id": "f6764bd50174",
+   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
+   "source": "东方财富",
+   "published_at": "2026-10-07T08:38:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T08:38:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "aafee61783eb",
    "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
@@ -6684,130 +6769,6 @@
    "zh_summary": "瑞典工会结束近3年罢工，特斯拉股价上涨",
    "title_zh": "特斯拉股价上涨，因瑞典工会结束近3年罢工",
    "sentiment": 1
-  },
-  {
-   "id": "667f8be38853",
-   "title": "价格是美国两倍！特斯拉印度一周年交卷：14亿人的市场 13个月只卖了993辆 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53UFZ2M21uLVR3ZVpHN3hmX3JvYm8wM1NIeFhLMEJUNVNfbTFNdjBPMldOZ084LVhKN2xNQjRrUVUzdlZDcnBuc3lrRWR6TUt0amRnUUpoT3Y",
-   "source": "驱动之家",
-   "published_at": "2026-10-07T00:51:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-07T00:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53UFZ2M21uLVR3ZVpHN3hmX3JvYm8wM1NIeFhLMEJUNVNfbTFNdjBPMldOZ084LVhKN2xNQjRrUVUzdlZDcnBuc3lrRWR6TUt0amRnUUpoT3Y"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-07T00:51:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVlNiNlNBQmNqU0FmdFgtMjVwdmc5X1ZLU2EtanBSdHFia1FXR2pobXJHdDRGak5OUk5uTmlBYlUyVmZqaXVDQ2dGR0w1NlQ4TWtxQ0JGaHV2WnFJTmZyNQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉印度13个月仅售993辆",
-   "title_zh": "价格是美国两倍！特斯拉印度一周年交卷：14亿人的市场13个月只卖了993辆_热点推荐 - 证券之星",
-   "sentiment": -1
-  },
-  {
-   "id": "635e5f82138b",
-   "title": "Tesla Defect Sparked Garage Fire, Insurer Says - Law360",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3NUeVdRY1MwenVXd1NPZldyZ2RmclhWLUNkZlhxVmhIeS1seFV0RTJJdmpCWXJiWkcyUDQ3MmlIQ3lDOUJmMng3QV80THdmcWZRR2N6czR5SFFPR2NabXRBNmlVVTIxMGxjaFlPUzVuMElLVUI2LVBKYWJPeS1NZ0gyLVFwTWM5TE50UWlFQdIBVkFVX3lxTE9PQl9sSV93S0R5X19keWpELWNaQTZzYXBzb2FWdF9aNjJ4T0RiczJ5aFU4Um5FMzBrNjN6dklmOW9ETWo2djhBRDNmRHB0U2M3YkItSF9n",
-   "source": "Law360",
-   "published_at": "2026-10-07T00:22:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Law360",
-     "published_at": "2026-10-07T00:22:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3NUeVdRY1MwenVXd1NPZldyZ2RmclhWLUNkZlhxVmhIeS1seFV0RTJJdmpCWXJiWkcyUDQ3MmlIQ3lDOUJmMng3QV80THdmcWZRR2N6czR5SFFPR2NabXRBNmlVVTIxMGxjaFlPUzVuMElLVUI2LVBKYWJPeS1NZ0gyLVFwTWM5TE50UWlFQdIBVkFVX3lxTE9PQl9sSV93S0R5X19keWpELWNaQTZzYXBzb2FWdF9aNjJ4T0RiczJ5aFU4Um5FMzBrNjN6dklmOW9ETWo2djhBRDNmRHB0U2M3YkItSF9n"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉缺陷引发车库火灾遭保险公司指控",
-   "title_zh": "保险公司指控特斯拉缺陷引发车库火灾",
-   "sentiment": -1
-  },
-  {
-   "id": "bcf5ef5fcaf6",
-   "title": "Tesla-Inspired Microfluidic Chip Mixes Fluids and Feeds Three Test Chambers Evenly - Bioengineer.org",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMl83MGwtdk8xNktwdVY4NWpKZHdwVE9ZNVNfUDItb1hPRWtvT2Qyc3hrQkJvV0ZNMGUyNkRPOFpZaXptTk1kQnBqd21FaUVGQ0VFMW9mQmJ6QlB3bWpsWWx4cm1rbjByRVNNcnhDdzN0R1lsUGgyU1ZYbEhpci1VeXhhVlppckZZQWFDR1FjdUpxWGlPeFRyUTZnU2l0aV8yNjZOaHZsbkpFNGc",
-   "source": "Bioengineer.org",
-   "published_at": "2026-10-07T00:21:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bioengineer.org",
-     "published_at": "2026-10-07T00:21:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMl83MGwtdk8xNktwdVY4NWpKZHdwVE9ZNVNfUDItb1hPRWtvT2Qyc3hrQkJvV0ZNMGUyNkRPOFpZaXptTk1kQnBqd21FaUVGQ0VFMW9mQmJ6QlB3bWpsWWx4cm1rbjByRVNNcnhDdzN0R1lsUGgyU1ZYbEhpci1VeXhhVlppckZZQWFDR1FjdUpxWGlPeFRyUTZnU2l0aV8yNjZOaHZsbkpFNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "受特斯拉启发的微流控芯片可混匀液体",
-   "title_zh": "受特斯拉启发的微流控芯片可均匀混匀液体",
-   "sentiment": 0
-  },
-  {
-   "id": "de4869b3a28c",
-   "title": "Tesla's 'Set Arrival Energy' Feature Is Coming to the App - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDIxV1c4LVcxTU94SG1WWlg5eFA4ZWJOT3dOanYyenY2MWpXS2VuTnkxYnFtaVVZbzFwLVlPekpDLVlmZVBUWDJjRl9SZWN2ZkZJYjdpaFozdVlBYXF3cE9oQzkzSzRoQ2hMWGFpMjdXckwyMWNSZXNxT3ZBN0g5U3dKOGtDYzhqZnM0LUxBU0FHSFk",
-   "source": "BASENOR",
-   "published_at": "2026-10-07T00:07:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-07T00:07:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDIxV1c4LVcxTU94SG1WWlg5eFA4ZWJOT3dOanYyenY2MWpXS2VuTnkxYnFtaVVZbzFwLVlPekpDLVlmZVBUWDJjRl9SZWN2ZkZJYjdpaFozdVlBYXF3cE9oQzkzSzRoQ2hMWGFpMjdXckwyMWNSZXNxT3ZBN0g5U3dKOGtDYzhqZnM0LUxBU0FHSFk"
-    }
-   ],
-   "category": "能源",
-   "session": "盘后",
-   "zh_summary": "特斯拉App将新增到达电量设置功能",
-   "title_zh": "特斯拉App将新增“到达电量”设置功能",
-   "sentiment": 1
-  },
-  {
-   "id": "cce849d9355b",
-   "title": "一个月降价两次惹怒车主？特斯拉降价玩法怎么了？ - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmVXb1NrNGdXZHM5T2U3cHFvaG5WYVg1ZlIwNC13Nzl6NDVlTkVyTGVQLTUwRFljU2xoM19Vel95U1pFWGtTczFzVHloaUdXVnIzWjdSQ1M3MXpOaG4tUTVWZ0VGZkxrUFdnaDZxYkx5OWJoTWRsYlRlamhmNHI3ZjJlTnRkRUt2",
-   "source": "Sohu",
-   "published_at": "2026-10-07T00:00:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-07T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmVXb1NrNGdXZHM5T2U3cHFvaG5WYVg1ZlIwNC13Nzl6NDVlTkVyTGVQLTUwRFljU2xoM19Vel95U1pFWGtTczFzVHloaUdXVnIzWjdSQ1M3MXpOaG4tUTVWZ0VGZkxrUFdnaDZxYkx5OWJoTWRsYlRlamhmNHI3ZjJlTnRkRUt2"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-07T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91NTN3T2xmdUl4ZGpHU2htd29Ld2s5VFNPNXpacHhRQkVuZlFSY25OUm5lbl9GeTZoNVAtcEljeDM5Y3ljbjJqYjZzSVRUYkVwNVE"
-    },
-    {
-     "name": "21财经",
-     "published_at": "2026-10-08T04:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGo0b3Z1Um5ObDJSUzFPSGt3S1J0VDE5Z29VWUdXZTBfSkFYa1Zrc29FZGh5N3RsVjhOektpYy10NU1pZk1DUTI4WDZBVkYteGIxbkRzLXJrYzVMVHU3Nk5WTTIzdGFvWi1MNmJFWW1MU0h0WW9zZ3cxYnh0dXBJdERldVRJS2VqZUZyd1dBdw"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-07T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82dmpBdUJ5a2hTRGp3aFg4QVJTN2RBbzJHSnkzNkhoLVRCVy1KTGVWeXdzZmpGRkpFUmlWQXc1M0Z1R05JZWYwMGxSRnlCMjBxU2VNY2NqWkYyeFdvMkJRTVo3ZzdZbGxCNGZNQ0xB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉一个月降价两次惹怒车主",
-   "title_zh": "一个月降价两次惹怒车主？特斯拉降价玩法怎么了？",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -1.26,
-    "window_h": 2.0
-   }
   }
  ]
 }
