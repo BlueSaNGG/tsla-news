@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T13:07:29.152793+00:00",
+ "updated_at": "2026-10-08T13:22:33.249833+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（52条已评分）"
+     "note": "今日新闻情绪 +0.28（54条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-08T13:07:29.141631+00:00"
+   "as_of": "2026-10-08T13:22:33.235623+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 52
+   "avg": 0.28,
+   "count": 54
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e9aa5da9dd9e",
+   "title": "Some Tesla Model 3s and Model Ys Can Now Power Some Homes with New V2H Bidirectional Charging - Car and Driver",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1VSbUJfQlA4NGVpUmlQelUwWml1bXNaQW1xMVl0WUtJNmdEeFFWS2FxU0R3WUc5Z0pMVXl2cnlhVUJxeDR2RktOTjIzOTFpMktNZUl6eWd2QzNndm14QlVlQTZwUldrejNFRFdNRTBiRUF3SGRyRS1JS2M2OGVGLUtjWmZ3RWhmTUVNOENDMEhJODMtN3RUZg",
+   "source": "Car and Driver",
+   "published_at": "2026-10-08T13:10:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Car and Driver",
+     "published_at": "2026-10-08T13:10:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1VSbUJfQlA4NGVpUmlQelUwWml1bXNaQW1xMVl0WUtJNmdEeFFWS2FxU0R3WUc5Z0pMVXl2cnlhVUJxeDR2RktOTjIzOTFpMktNZUl6eWd2QzNndm14QlVlQTZwUldrejNFRFdNRTBiRUF3SGRyRS1JS2M2OGVGLUtjWmZ3RWhmTUVNOENDMEhJODMtN3RUZg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "e67fde08a45d",
    "title": "【视频】特斯拉三季度卖出48.6万辆，利润为啥跟不上？ - 汽车之家",
@@ -106,6 +123,23 @@
    "zh_summary": "特斯拉申请电动风扇车专利",
    "title_zh": "特斯拉“电动风扇车”专利 令Roadster发布会悬念拉满 - 新浪财经",
    "sentiment": 1
+  },
+  {
+   "id": "ef933e9ba544",
+   "title": "Multiple Tesla Cybertruck Owners Say They Love the Truck So Much They Bought a Second One – One Owner Says, “I Couldn’t Pass Up a Second Cybertruck. It Felt Like a Deal of a Lifetime” - Torque News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTERnWFozd1JEMXBtNlpLaHJCWm1qOFZTRGRzTkRHSFFqcnBJeExET2dKdnRaSXA1bXEtMG82ME1iN0NLUGlqdGRTY096bGFhZUNBX1NxV3M5d1pBOTJXMWc2aVBET0c4STNJVVJuZC02OEFKNlNVSXYyWVJPN1RHeUFfUEI1TkdHUldNbV9YYU9sSzdESE1uR2xLbmJlZUhUZzRwX1ZpR3pEUTlZTjliVjU4TU90V1FrQ3Y4OFN3NXZYV3Zt",
+   "source": "Torque News",
+   "published_at": "2026-10-08T12:39:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Torque News",
+     "published_at": "2026-10-08T12:39:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTERnWFozd1JEMXBtNlpLaHJCWm1qOFZTRGRzTkRHSFFqcnBJeExET2dKdnRaSXA1bXEtMG82ME1iN0NLUGlqdGRTY096bGFhZUNBX1NxV3M5d1pBOTJXMWc2aVBET0c4STNJVVJuZC02OEFKNlNVSXYyWVJPN1RHeUFfUEI1TkdHUldNbV9YYU9sSzdESE1uR2xLbmJlZUhUZzRwX1ZpR3pEUTlZTjliVjU4TU90V1FrQ3Y4OFN3NXZYV3Zt"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "30c2b9008ebc",
@@ -153,12 +187,17 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ283UE1uWXdNSVZZYURFQnlWajB1ZHQtWDZfSXc2VEdCRHJkSE1kUG9vSVQ2QjJDU25MYmdFeU5GVGhZMGVGUGgtN1djaE4zOEZkOVpFLXRXOHJoVkc1b2xwT2FRcWhGdGVfakY1VDNqU2xndG5JUUJGVk0yUDNrdWxWMFNVb2ZWRTIxaldHZGRkNm1IYVRxeVNkRnpLckxCX1Vlenl4QjJJejg1YXA4aTVTNkFXTE1ZYm5oNQ",
    "source": "StreetInsider",
    "published_at": "2026-10-08T12:22:23+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "StreetInsider",
      "published_at": "2026-10-08T12:22:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ283UE1uWXdNSVZZYURFQnlWajB1ZHQtWDZfSXc2VEdCRHJkSE1kUG9vSVQ2QjJDU25MYmdFeU5GVGhZMGVGUGgtN1djaE4zOEZkOVpFLXRXOHJoVkc1b2xwT2FRcWhGdGVfakY1VDNqU2xndG5JUUJGVk0yUDNrdWxWMFNVb2ZWRTIxaldHZGRkNm1IYVRxeVNkRnpLckxCX1Vlenl4QjJJejg1YXA4aTVTNkFXTE1ZYm5oNQ"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-08T13:07:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2liY2g2dy1fS1plQnRXUnVtRTB4U0JsME9mZ1RPX1A5cVFJM2NiX2txSEx4SGhGaTduZHdJbmlJMlZENjVHZC1MNHpIT1FVM3ZLNDR4T0s4aGpQMm00SGM4RzRVeElvSHowOHVYUWw3WXNTN0RvcGRkeW1HZmVMSnNteExYdVc0d0E3N3FtakE0WlNpeDdTRFhQSXJoX1p2T2Jpa3JiUEppTGQyaXFhbVl4UzJDZw"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -862,12 +901,12 @@
    "title": "挑战特斯拉Model Y！新世代宝马iX4全球首发，标配双电机四驱 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY1MzeENtamV2QTZrcWM4MnU5ZThscDUweUZ2X01oc3VYMWVyWnkyN0ZNajBiYzBCWG9uSnREQlV0WjFETFFtUWNROUY5ekhFaFZCNF81cEw5WGM",
    "source": "汽车之家",
-   "published_at": "2026-10-08T07:15:14+00:00",
+   "published_at": "2026-10-08T07:13:15+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-08T07:15:14+00:00",
+     "published_at": "2026-10-08T07:13:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY1MzeENtamV2QTZrcWM4MnU5ZThscDUweUZ2X01oc3VYMWVyWnkyN0ZNajBiYzBCWG9uSnREQlV0WjFETFFtUWNROUY5ekhFaFZCNF81cEw5WGM"
     },
     {
@@ -1492,6 +1531,23 @@
    "zh_summary": "特斯拉发布AI芯片工厂Terafab获新授信",
    "title_zh": "特斯拉发布Terafab AI芯片综合体并获大额信贷额度，TSLA涨6.7%",
    "sentiment": 2
+  },
+  {
+   "id": "09d1cf02ba7c",
+   "title": "Here's Where Tesla and 4 Rival Automakers Could Be by 2030 - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE1OQllhSkpMRElDSHZzUVpKdTQ4NzFoVEFZazM3bHA4R181WDZSN0luaFdETDZ0eC1kOUxPMEJKR3U1dW5GUkZndUJ5STV6SUVmRXV6VjhFZ0hYN2NiS3hxaGpocTc2QlVIemVJU3JVc1l0eUh1MlNkWHRlNWxrMzlWQ0dfOFJQaUVJam5rYU5oSjB3d2wzSm5nUDFha0t3QWRMSnN2ZUEwTWkya2xNcVhiTUxWWnZ2TXFMUm9WNm9ZVzdzandDNkFmT3FjSUV2NmNYbG5DTnFhdw",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-08T03:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-08T03:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE1OQllhSkpMRElDSHZzUVpKdTQ4NzFoVEFZazM3bHA4R181WDZSN0luaFdETDZ0eC1kOUxPMEJKR3U1dW5GUkZndUJ5STV6SUVmRXV6VjhFZ0hYN2NiS3hxaGpocTc2QlVIemVJU3JVc1l0eUh1MlNkWHRlNWxrMzlWQ0dfOFJQaUVJam5rYU5oSjB3d2wzSm5nUDFha0t3QWRMSnN2ZUEwTWkya2xNcVhiTUxWWnZ2TXFMUm9WNm9ZVzdzandDNkFmT3FjSUV2NmNYbG5DTnFhdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "6cdc7550430d",
@@ -6681,85 +6737,6 @@
    "zh_summary": "特斯拉自动驾驶误读限速规定",
    "title_zh": "特斯拉的自动驾驶系统误读了限速规定。 - Vietnam.vn",
    "sentiment": -1
-  },
-  {
-   "id": "22dfd462f233",
-   "title": "Tesla adds home backup power for Model 3 and Model Y — Electrek - UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWUybGtfZlFrNGhxSjlGU3ZwVWxaNnQtazZFR2tNejRpNVNGamR4Vy1QRm5DQ1FzMkI4SGp2Q0hYNWtPaUlYNmp5QUE3SzVaMEttSEM5Vm8zRjlYcXhoWkhMMV91SkJwQnJZclpGZ252YWlpNlFqQUx4MV9qMDEwMWhaT0dmY3RnMUJ6Vl9MTnBBaTVSajNlNHplRDBNVXZkWlE",
-   "source": "UA.NEWS",
-   "published_at": "2026-10-06T17:14:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "UA.NEWS",
-     "published_at": "2026-10-06T17:14:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWUybGtfZlFrNGhxSjlGU3ZwVWxaNnQtazZFR2tNejRpNVNGamR4Vy1QRm5DQ1FzMkI4SGp2Q0hYNWtPaUlYNmp5QUE3SzVaMEttSEM5Vm8zRjlYcXhoWkhMMV91SkJwQnJZclpGZ252YWlpNlFqQUx4MV9qMDEwMWhaT0dmY3RnMUJ6Vl9MTnBBaTVSajNlNHplRDBNVXZkWlE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉为Model 3/Y新增家庭备用电源",
-   "title_zh": "特斯拉为Model 3和Model Y增加家庭备用电源",
-   "sentiment": 1
-  },
-  {
-   "id": "36f91853cea0",
-   "title": "Tesla will show off the Cybercab at the Paris Motor Show ahead of a potential Europe launch (TSLA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjYtZ1FuMVM3b2Z1Z1JkcktCMTZ4TW4zZzZCbUl2ckQ1LV9FOFpYSnZfUlBoQWp1QmV4SGgtTGtIZGo2T1BWckZ3NVRnbDB3eVgwb3dVWEJ0Y0lQTktYRFEwZi1FS1k5T3pEQVQ0ZnJpTzNHZVVlbFhQZ3Y1eTFnMEVHRDN1Y193VHFBNmpRVVRnWGMxTWdyNzlETkZCV1NjM1g1TTBmWU9Rd0J6TlluZFJhYy1KTXc0UFRfUVFLcFd1Z0hGZll2eQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-06T17:11:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-06T17:11:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjYtZ1FuMVM3b2Z1Z1JkcktCMTZ4TW4zZzZCbUl2ckQ1LV9FOFpYSnZfUlBoQWp1QmV4SGgtTGtIZGo2T1BWckZ3NVRnbDB3eVgwb3dVWEJ0Y0lQTktYRFEwZi1FS1k5T3pEQVQ0ZnJpTzNHZVVlbFhQZ3Y1eTFnMEVHRDN1Y193VHFBNmpRVVRnWGMxTWdyNzlETkZCV1NjM1g1TTBmWU9Rd0J6TlluZFJhYy1KTXc0UFRfUVFLcFd1Z0hGZll2eQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉将在巴黎车展展示Cybercab",
-   "title_zh": "特斯拉将在巴黎车展展示Cybercab，或为进军欧洲预热",
-   "sentiment": 1
-  },
-  {
-   "id": "ef15076af1cb",
-   "title": "Tesla Model 3 and Model Y can finally power your home, years after rivals - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGhBbTVHZk9IdkpRTTFYNThQTm9mYTZHRWtQaUs5aHZWampQOVFic2pCbjMwWGlQcHY2alhCMmRWdDlCYWZKd2U0LUg0NXJ2ek5xM2VfNmNjdi1ES09KSEpScHIzRWlXQjZfVzc1cTlQT3ZNejAxRDJDRjFLZUw5RVF0RXJRS1ZITG1fek9TdDROdw",
-   "source": "Electrek",
-   "published_at": "2026-10-06T16:57:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-06T16:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGhBbTVHZk9IdkpRTTFYNThQTm9mYTZHRWtQaUs5aHZWampQOVFic2pCbjMwWGlQcHY2alhCMmRWdDlCYWZKd2U0LUg0NXJ2ek5xM2VfNmNjdi1ES09KSEpScHIzRWlXQjZfVzc1cTlQT3ZNejAxRDJDRjFLZUw5RVF0RXJRS1ZITG1fek9TdDROdw"
-    },
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-06T22:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWlAtQ2dCSmhiVVZNS2lHMWNOclNlbkpjbXZZSnduYTdkeVpyV1QwSkhHQ3Qyb1BOWGlsX3E0TWM1MHQ2RzE0Vzk0bUZMVzhHNWFCdTl5anVVY0VfdWNhQnV0TUdiaDhXNm5XNEQzWjhQR0d1XzNWc20tM3FlSEh6Um9WZ0xpQQ"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-06T22:03:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmpIRFc4WTJsU2dHS182dHBJeXI5TDdiX2g0MDRoelg0MzF5VS1CTzQxSU5uSmZJaF9hYVpiQjVRcHh2S1huY2NLcjNKQUp2Y2w4VHFNRjVXdE5rUHFpWXpaZThTcFZNeDdhWUtJb1g3QU1UWldOMFlxd1FfbzA3X2Z5emh4MDYzM1NQQ0lJdW5mQQ"
-    },
-    {
-     "name": "Gadget Review",
-     "published_at": "2026-10-07T16:57:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JEMU9TRUpSaVFmV0g3TzZ1LUlVZ0VCczVaNkFPRUZaTmZmbmFNWWRVMXJmTmdxd0FDcGR4bGstYnRqUDZUYkt4X1ptZ0tnWVNQR0ZhNFF2VExLRndTeUR3b3Y5Y3Nnb254Vm9VdjBFY0N5SG1FUG9pRUpNUkoxTWJ6RjRScjMtT3NjQTZPclVIR01uVlZPRWZVUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Model 3/Y可为家庭供电",
-   "title_zh": "特斯拉Model 3和Model Y终于可以为家庭供电，比竞争对手晚数年",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.18,
-    "window_h": 2.0
-   }
   }
  ]
 }
