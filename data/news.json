@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T18:37:25.217689+00:00",
+ "updated_at": "2026-10-08T18:52:28.342270+00:00",
  "market": {
-  "price": 372.26,
-  "change_pct": -1.47,
+  "price": 372.05,
+  "change_pct": -1.52,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,7 +16,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 38% 分位"
     },
     {
      "key": "目标价空间",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（103条已评分）"
+     "note": "今日新闻情绪 +0.18（105条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.26 vs 20日均线 $367.66"
+     "note": "现价 $372.05 vs 20日均线 $367.65"
     },
     {
      "key": "分析师动向",
@@ -39,14 +39,14 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 38,
    "target_median": 400,
    "target_count": 15,
    "implied_upside_pct": 7.5,
-   "ma20": 367.66,
-   "as_of": "2026-10-08T18:37:25.211198+00:00"
+   "ma20": 367.65,
+   "as_of": "2026-10-08T18:52:28.333075+00:00"
   },
-  "pe_ttm": 103.0,
+  "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "next_delivery": {
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 103
+   "avg": 0.18,
+   "count": 105
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9b6396e62a6d",
+   "title": "Tesla begins the FSD v14.3.11 (2026.33.5) update rollout (first impression videos, release notes) - Tesla Oracle",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYm5RYmZPcHVsTC1zRjJ6Zm9UOERaa2wtU09IWlRsbi1fVGkxdExBNVFEUm9WQ1JEckxrTnFKQ21lY0kta1VjMUlGdTlSUXB1WC1FNGtUZ04zYWNYa3lwU1dkYkI3NXEzdXN3dElvUDMtWjFMYWt2dUhieFB6WUYya2FPTU5vekdabG9CNFBEaUNzMTRueFcwNTVCbW05a1BTclQ0MkNHX1Y5MFNzZWQtMlEyTm5ocFo3dlJ1dFQ4bnVWNU1TXzNiN1d4WEI",
+   "source": "Tesla Oracle",
+   "published_at": "2026-10-08T18:42:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tesla Oracle",
+     "published_at": "2026-10-08T18:42:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYm5RYmZPcHVsTC1zRjJ6Zm9UOERaa2wtU09IWlRsbi1fVGkxdExBNVFEUm9WQ1JEckxrTnFKQ21lY0kta1VjMUlGdTlSUXB1WC1FNGtUZ04zYWNYa3lwU1dkYkI3NXEzdXN3dElvUDMtWjFMYWt2dUhieFB6WUYya2FPTU5vekdabG9CNFBEaUNzMTRueFcwNTVCbW05a1BTclQ0MkNHX1Y5MFNzZWQtMlEyTm5ocFo3dlJ1dFQ4bnVWNU1TXzNiN1d4WEI"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "0cd3a582d700",
+   "title": "特斯拉FSD德国年底前获批 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QLVEyZWpkMjlmU192Q3hoMGlkd25KbTZPZVVVbmxVOUxEZFNvVXl3Y1l4X0ktaDE3eWQ3bGJzTjdNLXZockVuMkZrMWNDaF9zakY3OXhSdWZtdk0",
+   "source": "汽车之家",
+   "published_at": "2026-10-08T18:39:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-08T18:39:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QLVEyZWpkMjlmU192Q3hoMGlkd25KbTZPZVVVbmxVOUxEZFNvVXl3Y1l4X0ktaDE3eWQ3bGJzTjdNLXZockVuMkZrMWNDaF9zakY3OXhSdWZtdk0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "fcb252b6e875",
    "title": "Avidian Wealth Enterprises LLC Acquires 1,678 Shares of Tesla, Inc. $TSLA - MarketBeat",
@@ -366,12 +400,17 @@
    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbjNhRVlHWHNKTzZFQlV5SS1UaHp2cnBEdnNvYVVscFY2NFVzNjhkbHlId19WYkdXUFJPMGQxSU14a1hvN3lUYklCa0VxUzMxcHQ3dFkwQmpBNkRIU1lYODR0cXh3MjJJM1JvcHZ3WmdJN1F0SF9QSjVYZk5ISTZuV1Z5OW1kdmFhU0F2OUdUMnU0RW1na1JxbVhWY2VsMU45U0c4V0hVMVFlZVhYY1M1VV90T1hHcW55SUVvREZHdjhTMldHTFZnenhDcVlTV2FYZ29CSlZNcFZNMlRqbWdieEdBYmY5RFNMeEJiTGtGVDVSbS0yMTBKUkNQa3hvWTNPbGx5X3BYZk4zUy1nSFpkX0pYVl9uQ28wb2xldHVPZ1V1M3k0VF9sNGhBUXZPaVZlMkxZNlBDWUNhUEZoOGdka0tIRUtiSEk",
    "source": "TechRadar",
    "published_at": "2026-10-08T16:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TechRadar",
      "published_at": "2026-10-08T16:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbjNhRVlHWHNKTzZFQlV5SS1UaHp2cnBEdnNvYVVscFY2NFVzNjhkbHlId19WYkdXUFJPMGQxSU14a1hvN3lUYklCa0VxUzMxcHQ3dFkwQmpBNkRIU1lYODR0cXh3MjJJM1JvcHZ3WmdJN1F0SF9QSjVYZk5ISTZuV1Z5OW1kdmFhU0F2OUdUMnU0RW1na1JxbVhWY2VsMU45U0c4V0hVMVFlZVhYY1M1VV90T1hHcW55SUVvREZHdjhTMldHTFZnenhDcVlTV2FYZ29CSlZNcFZNMlRqbWdieEdBYmY5RFNMeEJiTGtGVDVSbS0yMTBKUkNQa3hvWTNPbGx5X3BYZk4zUy1nSFpkX0pYVl9uQ28wb2xldHVPZ1V1M3k0VF9sNGhBUXZPaVZlMkxZNlBDWUNhUEZoOGdka0tIRUtiSEk"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-08T16:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNendndDNieEp5dEpnWmdrVW90ZXNZV2hTanMzY0w2Y2hUblFYdERtM2pqNjJYbGFkOE00azloTUFydXBoYktaUDlpZWs3S0lVNTM0QTBYbDJwWDVDX1ZZdkxxQ00xZmI5N3BTdUxCeDVtVVR0UGlhNG9zdHJpRENqQVlZc1NiUjdSR3E5R09mbEdPT29jY0FubDY4RTdxT2dlbWg4Rg"
     }
    ],
    "category": "其他",
@@ -1063,12 +1102,12 @@
    "title": "【视频】特斯拉三季度卖出48.6万辆，利润为啥跟不上？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41S3RzMTZwZUg0R25nOFdsWHVEV2dfREY3akFOTDZiMHRxV1V0N0N3T0t1ekpqZ0s0Qm5YOVJncGlJRlloSVZUMHN4a05BZEV6azVWTldLeUxOVEE",
    "source": "汽车之家",
-   "published_at": "2026-10-08T12:49:05+00:00",
+   "published_at": "2026-10-08T12:48:45+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-08T12:49:05+00:00",
+     "published_at": "2026-10-08T12:48:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41S3RzMTZwZUg0R25nOFdsWHVEV2dfREY3akFOTDZiMHRxV1V0N0N3T0t1ekpqZ0s0Qm5YOVJncGlJRlloSVZUMHN4a05BZEV6azVWTldLeUxOVEE"
     }
    ],
@@ -1222,7 +1261,7 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWVFamNVNjNFWWdTNDRXdklaV21TWkZpa1ZyMmxlaHF0WkNpTTFEMFpldlFLVHAxenRmOWR2Ym5XdzVmenF1Ty1FazRKaUdNclJ1N196WjJJN0hlSDZaT1VuQ0ZrT1NDZHVORnZXRVk3ZzJaQlpFOGFuUkdKQW5hLVEzYTBRMVk",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-08T12:19:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
@@ -1233,13 +1272,22 @@
      "name": "Morningstar",
      "published_at": "2026-10-08T12:19:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcVpLZG1YSmpYWVdjOFpIRWlaeXdKakFoLU9iczZQNm5pYVQ0eXV5N1pTSjQwdzR1MmV1UTZKVGZlVlNkV3Y2dmEzdXdiQTJVV3NaY0tKZkRmaWRJVV9qZ1lGY1dJS3hrS1o5cUs3YUJWN1ZQUi1yMmdsNHlHamZMb3lRcE9TN3JDV1Nfb0pUdXkxLV9qc1JXVnVMTkdHdmtnTG1KVEZCc29CS3N5TnZyZW82aFBUZU9WOThDaVZGbkI0TzZSdmNPMEx0MUZxNlhSUGlVMVNNTWNoSHp3Zm1rQm84ekxoRzVPVDVZakp0d3oxMjhsMlJpU1dR"
+    },
+    {
+     "name": "PR Newswire",
+     "published_at": "2026-10-08T12:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdVNQOTRVTGlmVThOdFZVOTZObVd4RVRyUDk2SnQzSWx3TnQzU1dUR1Q1cjJRb25tOEdEaGZnSWZPcTZsdXVOZlV3WjMxbFFxWHNLMGh1VWRVY2s0Z1RMZXg4c2paZzQ2YV9zaWpNWGN1Z2N3Znp3bVp6MVZWa3pyVmpYLXdTVUdKQ2RDRUhDMVFvMUQxTDVidDVYQ0ViVVhsUU9Ed2pxUVoxYko0bUJqcy13X3hxamlFYVZMWXNhLWpPNFJUX0JicVBVbWczcGF1NTFCS0VTZXUwMnA2MUJfOGZoVmVDYUVCOEdEVExuZUJZcWM"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
    "zh_summary": "Lemonade自动驾驶保险覆盖HW3",
    "title_zh": "Lemonade支持FSD V14 Lite，自动驾驶保险覆盖HW3",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.18,
+    "window_h": 2.0
+   }
   },
   {
    "id": "4369ff7ce043",
@@ -3317,26 +3365,6 @@
    "sentiment": -1
   },
   {
-   "id": "9f4e9245b276",
-   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T23:10:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T23:10:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "TSLA隔夜上涨：Roadster预告引期待",
-   "title_zh": "TSLA隔夜走高：Roadster预告+马斯克称新Semi是'游戏规则改变者'",
-   "sentiment": 1
-  },
-  {
    "id": "c41d395d790e",
    "title": "Tesla Owner Enables Track Mode on Non-Performance Model Y - Not a Tesla App",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenBuYWdDTjF6TldVQnd1Z3dZSm84azZwMlI2NFVVcWxDZGlDYnlKTHJKYzlPX1pWdlk2RGdkR3dTNzlKUEllTXFGRnZLRnkwY19RbzZsZ0VnZ1pNTlJ4TlVVMWNObGdMYVJ4S2JJbFhjem1VY3dHTHU1VVd4R0JWRDEyc2ktelZzaW9zNFh1ckIxN2poT19RV0FOT2Q",
@@ -3915,6 +3943,23 @@
    "zh_summary": "Model 3后驱版跑网约车可行性分析",
    "title_zh": "特斯拉Model 3后驱版跑网约车，新手能入吗？3个维度算清账+FAQ",
    "sentiment": 0
+  },
+  {
+   "id": "6de4b5bbde4d",
+   "title": "Update 2026.33.5 (FSD 14.3 Lite & 14.3.11) - Release Notes - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPal9ZS29IMHVsQjhtc2hPRXJkYXRFSkJRNzJhQWhfak95VDVyQjBuS1JXZDNNYkdnR09PNkh4Mk9RTEhFakc1RUcwcTlMVnlVNWVTSWtoLWZra1ptdDVBQm5aWjFhb292SzVhZHZ0Z2NUdUFrNGFUR1Frdm50M2xVWWJ2VQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-07T18:45:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-07T18:45:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPal9ZS29IMHVsQjhtc2hPRXJkYXRFSkJRNzJhQWhfak95VDVyQjBuS1JXZDNNYkdnR09PNkh4Mk9RTEhFakc1RUcwcTlMVnlVNWVTSWtoLWZra1ptdDVBQm5aWjFhb292SzVhZHZ0Z2NUdUFrNGFUR1Frdm50M2xVWWJ2VQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "b4656fd2e5e3",
@@ -6715,26 +6760,6 @@
    "sentiment": 0
   },
   {
-   "id": "227f960487c9",
-   "title": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr",
-   "source": "汽车之家",
-   "published_at": "2026-10-07T04:07:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-07T04:07:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD遭小鹏地平线夹击",
-   "title_zh": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？",
-   "sentiment": -1
-  },
-  {
    "id": "7f556b34b70a",
    "title": "Tesla Bull Gary Black Warns Investors About Confusing 'Great Company' With a Great Stock: ‘Valuation Matters’ Even With 45% EPS Growth - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFlBanYxZ3RuZXJPUXFWNFZ3RXpXNm9iUndDanZCbXE4am1HM2tpS005RTdrR3VnYmItM3ZLMzBMZ0czTEhJb0JoR0hrTk5pYnAwbkJ2a05nMTBmclhZMk9XUmVKdC1NYUoxNEhRazhyYXFsZ0RRYlVJNkVWellWd2gtLUxFZDVrZTlhdUpvTVV2QVV2WS1v",
@@ -6758,31 +6783,6 @@
    "zh_summary": "特斯拉多头警告勿混淆好公司与好股票",
    "title_zh": "特斯拉多头Gary Black警告：勿把好公司当作好股票",
    "sentiment": -1
-  },
-  {
-   "id": "245f9a801a4b",
-   "title": "欧洲首秀！特斯拉Cybercab无人驾驶出租车将亮相巴黎车展！_热点推荐 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MTRwQzdUWWxVbnUtSTAxRUVDNmVWWUZWeml3a2RTZHB3dldTaGJFc0VUT3ZLMGFfUk5JeEh2ZVlvY1lZdjdZQ1l0bURVVDZUYlVIYmI1Nm84Z2IzZUNRVg",
-   "source": "证券之星",
-   "published_at": "2026-10-07T03:55:51+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-07T03:55:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10MTRwQzdUWWxVbnUtSTAxRUVDNmVWWUZWeml3a2RTZHB3dldTaGJFc0VUT3ZLMGFfUk5JeEh2ZVlvY1lZdjdZQ1l0bURVVDZUYlVIYmI1Nm84Z2IzZUNRVg"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-07T07:29:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xdU4wLU5ENlBqemRybWl4aDMzTnU0NHpCTC1sTHQyOHNuU2ZpbF9PSHRuWXVSNnhYRlJOcFVoZGNNUHV4M01GajlHX0ZCMXdXYnNpRl9mclNULWNIdXhUNFk2STVWMVBOMHYyeQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Cybercab无人驾驶出租车欧洲首秀",
-   "title_zh": "欧洲首秀！特斯拉Cybercab无人驾驶出租车将亮相巴黎车展！_热点推荐 - 证券之星",
-   "sentiment": 1
   }
  ]
 }
