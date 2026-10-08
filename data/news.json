@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T03:07:26.352655+00:00",
+ "updated_at": "2026-10-08T03:22:26.065181+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（154条已评分）"
+     "note": "今日新闻情绪 +0.14（155条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-08T03:07:26.342714+00:00"
+   "as_of": "2026-10-08T03:22:26.057714+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.14,
-   "count": 154
+   "count": 155
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "车型产品",
    "session": "盘后",
-   "title_zh": "【视频】家里有孕妇选特斯拉Model Y脚垫？无异味预算900左右看这款 - 汽车之家",
    "zh_summary": "特斯拉Model Y无异味脚垫推荐，预算900元",
+   "title_zh": "【视频】家里有孕妇选特斯拉Model Y脚垫？无异味预算900左右看这款 - 汽车之家",
    "sentiment": 0
   },
   {
@@ -2984,7 +2984,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGFtQjlSUFlwZmVMMlkteE45QVJUdlNCRmtpVTFoVXN5XzZKVWF2RlhLQzJSeXoxc2lrUFE2LXkwcHYyczFzLTNscWpfYTdFTUlaTlQxU24xOVVpN2xDVDNlb3puWXNnT0tCQXVvbmNtUkZKY0hLRTF0aHhWVUhOZ09PTFF6a3Zx",
    "source": "搜狐网",
    "published_at": "2026-10-07T09:28:58+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -2995,13 +2995,22 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-07T09:29:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tMVlZNDBrTmttMW1XTmFMOXYyZ09LQl9lREdGcG5VRk9VWUJya1BWRGlvZGJvbmMxVDRXY1R4U0hpbGJpSmZRaE80UDM"
+    },
+    {
+     "name": "环球网",
+     "published_at": "2026-10-07T12:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjM09zNTFXMGhEQXRPcE9tV0ExLW8yLUFyZERjTDJyOENuWFJIbG1VMWdyZ21KWTRWcTVsYm84bDNYRGxwaU9Wdll6ZHZjRXVYX05nM0tUQQ"
     }
    ],
    "category": "马斯克",
    "session": "盘前",
    "zh_summary": "马斯克否认台积电参与Terafab传闻自建运营",
    "title_zh": "马斯克否认台积电参与特斯拉“Terafab”芯片工厂项目传闻：我们自己建设运营 - 搜狐网",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -1.26,
+    "window_h": 2.0
+   }
   },
   {
    "id": "78b5a43d4c86",
