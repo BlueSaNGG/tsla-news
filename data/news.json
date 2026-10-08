@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T01:37:30.462115+00:00",
+ "updated_at": "2026-10-08T01:52:29.594921+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（138条已评分）"
+     "note": "今日新闻情绪 +0.16（140条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-08T01:37:30.451572+00:00"
+   "as_of": "2026-10-08T01:52:29.577227+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 138
+   "avg": 0.16,
+   "count": 140
   }
  },
  "meta": {
@@ -1304,7 +1304,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaGtaQk1PRFRMYXBxN1NlUGlwRktqcWNCNzBNMHYxQkVibmJDbWxUaE92NndHOVNCQ2xwZXVPVjZaNm9lZzdncUNMckc0UHAxSU11aWxDRjRYckVDQVNGSnh0ZzVzZWRwa1ZVSXdqbDRnY09aUG43OXdJOXFaWmJtMXE5ajkzOV8yeVF6TXJMYzI2SDlndGRsaVVsVlBrcDR6OENnTVIzY2ExblhwUDFKX282c3lnb1pZZlM3MVVNTWdBR1JwV0xnMjROdUUtN3NkQVUyLXlfUHNRdWdhUUE",
    "source": "新浪财经",
    "published_at": "2026-10-07T15:31:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -1315,13 +1315,22 @@
      "name": "搜狐网",
      "published_at": "2026-10-07T15:32:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT29ETUNMSWl5LUllSkdpUEhwRFZJZ1RES3N5RWI1bEM0MEZ3cjhHRHNWdEgyWXp3bDBncEhkZVFtYXhoc2x2RHF3b1RHSnMyMGotQzd4M19XTU9CZDYxM0VQWnN4Wk9ZOGhEYm5IMHN4QzROOGtnUi11X1U0TGVidDdBZGpCYmtXZmZ6UQ"
+    },
+    {
+     "name": "华尔街日报中文版",
+     "published_at": "2026-10-08T01:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOE9kNWZDRXIySnNkejgxVUFyWVN2bGZVa2Q0YlFfdEdzWGZSOTRTQkx4SGY2LXFOcUtJVmt3UkROOU5BbWFuY2ZnazJXQk5uODVWbGdHQVJONVFtbGdVWHVJZmpxbm5pV2IyYU00aHUxMXRfYTV6aE5iM0czUEthSjBhdUtxRkpKQ0Y3Ukx5S0xBOXNmbElhUk5nY3owZWRXLUFlZUhFb0xoUjA4VVEzRUZVZmRPRU0"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "预付5万美元苦等九年特斯拉Roadster能否交付",
    "title_zh": "预付5万美元，苦等九年。特斯拉Roadster能否不负万众期待？ - 新浪财经",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.39,
+    "window_h": 2.0
+   }
   },
   {
    "id": "58f4b6af0624",
@@ -2813,6 +2822,23 @@
    "zh_summary": "特斯拉施压欧盟监管机构加速FSD审批",
    "title_zh": "特斯拉向欧洲监管机构施压要求批准FSD",
    "sentiment": 1
+  },
+  {
+   "id": "f6764bd50174",
+   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
+   "source": "东方财富",
+   "published_at": "2026-10-07T08:38:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T08:38:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "aafee61783eb",
@@ -7111,40 +7137,6 @@
    "zh_summary": "质疑特斯拉FSD是否文明驾驶",
    "title_zh": "文明？特斯拉fsd",
    "sentiment": 0
-  },
-  {
-   "id": "555b8cfd51c7",
-   "title": "【视频】特斯拉Model 3 2020款改款长续航后轮驱动版 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWnctVEVLeUo5bTdvS2hkVG94NEZmdUxuQlBFTnZsWTNZWGtodDdzc01OVW1iN3lFRjZSODVsNGtnYTlPYlhiT2NDVnVETHUxUVlSck45RUhlZGV6UGpsZHR2Vy1wMF9NdTdv",
-   "source": "汽车之家",
-   "published_at": "2026-10-06T03:45:26+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-06T03:45:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWnctVEVLeUo5bTdvS2hkVG94NEZmdUxuQlBFTnZsWTNZWGtodDdzc01OVW1iN3lFRjZSODVsNGtnYTlPYlhiT2NDVnVETHUxUVlSck45RUhlZGV6UGpsZHR2Vy1wMF9NdTdv"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-06T03:45:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWnctVEVLeUo5bTdvS2hkVG94NEZmdUxuQlBFTnZsWTNZWGtodDdzc01OVW1iN3lFRjZSODVsNGtnYTlPYlhiT2NDVnVETHUxUVlSck45RUhlZGV6UGpsZHR2Vy1wMF9NdTdv"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-06T03:45:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWnctVEVLeUo5bTdvS2hkVG94NEZmdUxuQlBFTnZsWTNZWGtodDdzc01OVW1iN3lFRjZSODVsNGtnYTlPYlhiT2NDVnVETHUxUVlSck45RUhlZGV6UGpsZHR2Vy1wMF9NdTdv"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "20款Model 3长续航后驱版介绍",
-   "title_zh": "特斯拉Model 3 2020款长续航后驱版介绍",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.16,
-    "window_h": 0.1
-   }
   }
  ]
 }
