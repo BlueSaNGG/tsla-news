@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T23:07:30.122190+00:00",
+ "updated_at": "2026-10-08T23:22:30.442946+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（133条已评分）"
+     "note": "今日新闻情绪 +0.22（135条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-08T23:07:30.114418+00:00"
+   "as_of": "2026-10-08T23:22:30.434757+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 133
+   "avg": 0.22,
+   "count": 135
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "255d1eb68ea5",
+   "title": "Tesla wins German approval for Full Self-Driving system, bringing Israel closer - Ynetnews",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feTBuWVFkT1czMjN1Wk1WSGJ6WjltbDVSVXh1RVA5WHBGOGNsaC1vaE8tUFRub2FQQ1gtYTZFRVpLUmRkVUpscWZXRHhLaXBvQTRtdGFTZUhxS3pmVHI4aQ",
+   "source": "Ynetnews",
+   "published_at": "2026-10-08T23:10:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Ynetnews",
+     "published_at": "2026-10-08T23:10:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feTBuWVFkT1czMjN1Wk1WSGJ6WjltbDVSVXh1RVA5WHBGOGNsaC1vaE8tUFRub2FQQ1gtYTZFRVpLUmRkVUpscWZXRHhLaXBvQTRtdGFTZUhxS3pmVHI4aQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "d352050f1f90",
+   "title": "Tesla, Inc. $TSLA Stock Bought by CoreCap Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTNXQlcxRE80NVZuOGNTOVBwQkZjVzRRdW9KWVp1eE9uZ1dpZmhlMW5RVzFFaGhpbEg2VUEwaGp6NzJoYWhvVzRCOHc3dzFHcExfci1iRUhaX2VIUFZVLXltV2dJWkpiaGZldjJmVEhYNWpZNi1acUJOdjQxUC1QUE02SHRNQU5IbEpIeDV3NUREOUNNOWJCeWZJU0xDUmszTTg4U1VzU3lHbi1DclVvU2pR",
+   "source": "MarketBeat",
+   "published_at": "2026-10-08T23:07:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-08T23:07:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTNXQlcxRE80NVZuOGNTOVBwQkZjVzRRdW9KWVp1eE9uZ1dpZmhlMW5RVzFFaGhpbEg2VUEwaGp6NzJoYWhvVzRCOHc3dzFHcExfci1iRUhaX2VIUFZVLXltV2dJWkpiaGZldjJmVEhYNWpZNi1acUJOdjQxUC1QUE02SHRNQU5IbEpIeDV3NUREOUNNOWJCeWZJU0xDUmszTTg4U1VzU3lHbi1DclVvU2pR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "07ba2e446363",
    "title": "Jim Cramer On SpaceX (SPCX): Buy Tesla (TSLA) If You Like It As An Earnings Explosion Might Be Coming - Yahoo Finance",
@@ -83,8 +117,8 @@
    ],
    "category": "财报",
    "session": "盘后",
-   "title_zh": "Jim Cramer：看好SpaceX就买TSLA，或迎财报爆发",
    "zh_summary": "克莱默称TSLA或迎财报爆发",
+   "title_zh": "Jim Cramer：看好SpaceX就买TSLA，或迎财报爆发",
    "sentiment": 1
   },
   {
@@ -92,12 +126,12 @@
    "title": "Tesla’s $10 billion Fort Bend project gets first public review by Commissioners Court - Covering Katy News",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFo0SEhNTFNROVlsTE1hdldLVmRpUkEwekRFazYzeVZfajdJRmk3OHQwUlB2cVN0UnV6Z3ZwdVVmd1gyb1BiSEdUQ2JxM29ETTNQRVZiaTlGZTcwUU5BU3J0WnYtT0tGajlpOUo2YzRZeHRoY3Rhc3k4NkVzZ1hJdmp2ZDFBZ2w3dWowdzd4Vi0za0FQcnBpRVlJOTUxNGtBRng2aTRLelRXR0NYT0E",
    "source": "Covering Katy News",
-   "published_at": "2026-10-08T22:50:18+00:00",
+   "published_at": "2026-10-08T22:49:44+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Covering Katy News",
-     "published_at": "2026-10-08T22:50:18+00:00",
+     "published_at": "2026-10-08T22:49:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFo0SEhNTFNROVlsTE1hdldLVmRpUkEwekRFazYzeVZfajdJRmk3OHQwUlB2cVN0UnV6Z3ZwdVVmd1gyb1BiSEdUQ2JxM29ETTNQRVZiaTlGZTcwUU5BU3J0WnYtT0tGajlpOUo2YzRZeHRoY3Rhc3k4NkVzZ1hJdmp2ZDFBZ2w3dWowdzd4Vi0za0FQcnBpRVlJOTUxNGtBRng2aTRLelRXR0NYT0E"
     }
    ],
@@ -183,8 +217,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "德国推动欧盟加快审批，特斯拉FSD欧洲获提振",
    "zh_summary": "德国推动欧盟加速审批特斯拉FSD",
+   "title_zh": "德国推动欧盟加快审批，特斯拉FSD欧洲获提振",
    "sentiment": 1
   },
   {
@@ -4066,8 +4100,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "特斯拉Robotaxi应用多国上架，但打车服务仍仅限美国七城 - 新浪网",
    "zh_summary": "Robotaxi应用多国上架但服务限美七城",
+   "title_zh": "特斯拉Robotaxi应用多国上架，但打车服务仍仅限美国七城 - 新浪网",
    "sentiment": 0
   },
   {
@@ -4129,6 +4163,23 @@
    "zh_summary": "Model Y三月长测验证特斯拉最佳电车",
    "title_zh": "三个月Model Y深度体验：特斯拉造出最好的电动车",
    "sentiment": 1
+  },
+  {
+   "id": "f36ffbba2474",
+   "title": "TSLA Stock Slips After Hours — EV Giant Reports High Cash Burn In Q2 Amid AI, Robotics Pivot - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg",
+   "source": "Stocktwits",
+   "published_at": "2026-10-07T21:30:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-07T21:30:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "861861c1d991",
@@ -6329,8 +6380,8 @@
    ],
    "category": "马斯克",
    "session": "盘前",
-   "title_zh": "马斯克否认台积电参与特斯拉 Terafab 芯片工厂项目 - 环球网",
    "zh_summary": "马斯克否认台积电参与Terafab",
+   "title_zh": "马斯克否认台积电参与特斯拉 Terafab 芯片工厂项目 - 环球网",
    "sentiment": -1
   },
   {
@@ -6680,66 +6731,6 @@
    "zh_summary": "特斯拉加装汽油发电机改装方案引关注",
    "title_zh": "【视频】搭载汽油发电机的特斯拉改装方案令人惊叹",
    "sentiment": 0
-  },
-  {
-   "id": "a773951a42f7",
-   "title": "Tesla posts 486,532 Q3 deliveries, tops forecasts, but stays shy of last year's mark - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWs1WklGbXY4YTZKWmcwZlZDd1ZUYktkLXhkWE9qZkdkcjNaZlpIQ211bGkyUmFUTTctNllYVHpCT1pZbTlFeFVKSVd3bE1nRndnTmFKV21yem9wZ2plc1ZWdjFVUWIzczZmNlpLZkRmMlZsc3BJenp5dGhNNDZPdW90cC1IOTBxZk9F",
-   "source": "The Cool Down",
-   "published_at": "2026-10-07T10:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-07T10:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWs1WklGbXY4YTZKWmcwZlZDd1ZUYktkLXhkWE9qZkdkcjNaZlpIQ211bGkyUmFUTTctNllYVHpCT1pZbTlFeFVKSVd3bE1nRndnTmFKV21yem9wZ2plc1ZWdjFVUWIzczZmNlpLZkRmMlZsc3BJenp5dGhNNDZPdW90cC1IOTBxZk9F"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度交付48.7万辆超预期但不及去年",
-   "title_zh": "特斯拉Q3交付48.7万辆超预期但不及去年同期",
-   "sentiment": 1
-  },
-  {
-   "id": "94c7f5fc655f",
-   "title": "特斯拉公司：Yorkville Ives首次覆盖并给予“跑赢大盘”评级；目标价$500.00 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9keDE4aG1nUnNSQk1oMHJMeGptOVdiLVR0NVRJU2RLTl9rTUxBRGF1ME16U3pjS3RSbkw0T0diVUJ6NWxYbnBnd0VNQ1RKd2R3WTc3VWFCc2owbXA2MjdVa01BQU03R1RWdktDU050aW1zVGhjbjNvRjJqcHR4V3dqUy03aldlV2ppakJyLWxkMUJFOHNiVTBLNnhEaVNpVnoyUkFoYkI1d1FSbFBHVEwxWUIzbUp4YlNvV1dhNlA",
-   "source": "Moomoo",
-   "published_at": "2026-10-07T10:49:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-07T10:49:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9keDE4aG1nUnNSQk1oMHJMeGptOVdiLVR0NVRJU2RLTl9rTUxBRGF1ME16U3pjS3RSbkw0T0diVUJ6NWxYbnBnd0VNQ1RKd2R3WTc3VWFCc2owbXA2MjdVa01BQU03R1RWdktDU050aW1zVGhjbjNvRjJqcHR4V3dqUy03aldlV2ppakJyLWxkMUJFOHNiVTBLNnhEaVNpVnoyUkFoYkI1d1FSbFBHVEwxWUIzbUp4YlNvV1dhNlA"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Yorkville Ives首予跑赢大盘评级",
-   "title_zh": "特斯拉公司：Yorkville Ives首次覆盖并给予“跑赢大盘”评级；目标价$500.00 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "6ff4bde931ed",
-   "title": "Elon Musk Welcomes German Push for Tesla FSD Approval - CEO Today",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXJLcXhsT0lyMmRXdjNkS1hPb2pJelI5TWFVRnh5bnBwTkJWUHo1QTJ5TFd0SG00N0VndWZQYVJXTzl4UUN2SzduQVZjYW9oRXhLSDBlUUlKV2U0bUJ4TU1YTks4SkhzZ0ZQRmpaUVpmQkVuNEg4Yk4yYW9SRUV4TTd6UDZ1aFBIMFZZZ3BpbWZPNWdTb3J1SnNhbw",
-   "source": "CEO Today",
-   "published_at": "2026-10-07T10:39:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CEO Today",
-     "published_at": "2026-10-07T10:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXJLcXhsT0lyMmRXdjNkS1hPb2pJelI5TWFVRnh5bnBwTkJWUHo1QTJ5TFd0SG00N0VndWZQYVJXTzl4UUN2SzduQVZjYW9oRXhLSDBlUUlKV2U0bUJ4TU1YTks4SkhzZ0ZQRmpaUVpmQkVuNEg4Yk4yYW9SRUV4TTd6UDZ1aFBIMFZZZ3BpbWZPNWdTb3J1SnNhbw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "马斯克欢迎德国推动特斯拉FSD获批",
-   "title_zh": "马斯克欢迎德国推动特斯拉FSD获批",
-   "sentiment": 1
   }
  ]
 }
