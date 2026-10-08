@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T14:07:26.307338+00:00",
+ "updated_at": "2026-10-08T14:22:26.732269+00:00",
  "market": {
-  "price": 372.99,
-  "change_pct": -1.27,
+  "price": 372.28,
+  "change_pct": -1.46,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.2%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（60条已评分）"
+     "note": "今日新闻情绪 +0.30（63条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.99 vs 20日均线 $367.70"
+     "note": "现价 $372.28 vs 20日均线 $367.66"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.2,
-   "ma20": 367.7,
-   "as_of": "2026-10-08T14:07:26.292037+00:00"
+   "implied_upside_pct": 7.4,
+   "ma20": 367.66,
+   "as_of": "2026-10-08T14:22:26.715563+00:00"
   },
-  "pe_ttm": 103.2,
+  "pe_ttm": 103.0,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.3,
-   "count": 60
+   "count": 63
   }
  },
  "meta": {
@@ -68,17 +68,56 @@
  },
  "stories": [
   {
+   "id": "a33975df8f47",
+   "title": "Tesla files trademark for ‘TESLA CYBERCENTER’ - Gerben IP",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldJZXRLdWNXaXZhOFZscGo5aklyUDVoTXI0SHJLYWRfaXZLRkpVSmhDTXJxSG5peXhlbV9DY0p1QUJoREROYzdqbnlJa1I4Rnh2RlhpT1lZR24zcDZrUzBwTjVSd1EzVnNqWVByVktoanhtVUd3WnoyODJYWHMzUQ",
+   "source": "Gerben IP",
+   "published_at": "2026-10-08T14:19:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gerben IP",
+     "published_at": "2026-10-08T14:19:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTldJZXRLdWNXaXZhOFZscGo5aklyUDVoTXI0SHJLYWRfaXZLRkpVSmhDTXJxSG5peXhlbV9DY0p1QUJoREROYzdqbnlJa1I4Rnh2RlhpT1lZR24zcDZrUzBwTjVSd1EzVnNqWVByVktoanhtVUd3WnoyODJYWHMzUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d9058694109d",
+   "title": "Tesla sought to reduce scope of FSD review in the Netherlands — Electrek - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY09WOU83SzBEOC1iY1JiRVVlc0VDMkhDS1BJTU1JN0FZQzdqMEZocGNzTUVtWHpJY2N4eDFCSG9zY2Z4ZGJFdmRnWFdOWkRRbWxIeTRjR2V3cVFCbDRxNHVHYU4zYnZwNmdxeEdrN0gyaFFDc1Y1cEdBMklJaHhFdWQ1WUVXdjNHb19Mb1BxYU1WRExpVDZaQUw0UzI",
+   "source": "UA.NEWS",
+   "published_at": "2026-10-08T14:09:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "UA.NEWS",
+     "published_at": "2026-10-08T14:09:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY09WOU83SzBEOC1iY1JiRVVlc0VDMkhDS1BJTU1JN0FZQzdqMEZocGNzTUVtWHpJY2N4eDFCSG9zY2Z4ZGJFdmRnWFdOWkRRbWxIeTRjR2V3cVFCbDRxNHVHYU4zYnZwNmdxeEdrN0gyaFFDc1Y1cEdBMklJaHhFdWQ1WUVXdjNHb19Mb1BxYU1WRExpVDZaQUw0UzI"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "c3369d87d3e0",
    "title": "Prediction: Tesla Stock Has a Wild Card That Could Change Its Long-Term Value - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTdsVkxGWU1ydnZMV1JBYjFQY1VMRmstZWxaV2ZicHdoVnhCXzRERm1FNFo1RmFXOEFaT2w1WTlueGFoTFlOOXFVZFBTbVEySU5PN3prbEJIcGlwZ2lqcWh2WTRUOThHd1J1NWtwalVZc1hyYkpMRURCY04zM0ZPYlJ5b0ZYTnV2TG5NUjB5ZlBVTjlKOXRGLTRHQnRIdGZEeHZWWXFZMVFEUjJzd2VfbU1EbGlXZ1NRN1AxdA",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-08T14:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-08T14:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTdsVkxGWU1ydnZMV1JBYjFQY1VMRmstZWxaV2ZicHdoVnhCXzRERm1FNFo1RmFXOEFaT2w1WTlueGFoTFlOOXFVZFBTbVEySU5PN3prbEJIcGlwZ2lqcWh2WTRUOThHd1J1NWtwalVZc1hyYkpMRURCY04zM0ZPYlJ5b0ZYTnV2TG5NUjB5ZlBVTjlKOXRGLTRHQnRIdGZEeHZWWXFZMVFEUjJzd2VfbU1EbGlXZ1NRN1AxdA"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-08T14:00:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTFmaXo0R1lKMkdqVzBIR2VWVlhtMlhpZkh2UmZzX3MzMDB2ZC1VMWtNNmpNN19EZlEtbEg1VGhGRlpjVGhKdVRWSHhiQ2I0OUN2TVNwQVBkbjF5Z0J4bFdCT2tUUVZrSHdtendleE52UWZ2Y0tDR3czYzljWEt6U2VB"
     }
    ],
    "category": "其他",
@@ -206,6 +245,23 @@
    "zh_summary": "特斯拉Model 3/Y新增V2H双向充电",
    "title_zh": "部分Model 3/Y现可通过V2H双向充电为家庭供电",
    "sentiment": 1
+  },
+  {
+   "id": "89797f89d815",
+   "title": "Tesla Is Taking $50,000 Roadster Deposits Again. Nobody Has a Car Yet - Business Model Analyst",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUQwd2FJV2JSY2ZjSndIeFRqNWRKanAtekxETWFQSjk5QjI4YkJVWm9LS2MtVlZxV3JEQXJWbUNCYkk4RU1mYzhXWkxiRlZfTnpZSU5Fb3R6cFlQZVBXdFB4T19OZHE3U21xUXdWWXJiRkg2SXkxUTduS0xzWjM4MEpR",
+   "source": "Business Model Analyst",
+   "published_at": "2026-10-08T12:55:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Model Analyst",
+     "published_at": "2026-10-08T12:55:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUQwd2FJV2JSY2ZjSndIeFRqNWRKanAtekxETWFQSjk5QjI4YkJVWm9LS2MtVlZxV3JEQXJWbUNCYkk4RU1mYzhXWkxiRlZfTnpZSU5Fb3R6cFlQZVBXdFB4T19OZHE3U21xUXdWWXJiRkg2SXkxUTduS0xzWjM4MEpR"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "eb5309264c3f",
@@ -944,6 +1000,23 @@
    "zh_summary": "尼古拉·特斯拉的奇妙发明",
    "title_zh": "尼古拉·特斯拉的奇妙发明",
    "sentiment": 0
+  },
+  {
+   "id": "da1f1f0cbe3e",
+   "title": "Electrek：特斯拉曾要求缩减荷兰对FSD 的审查 - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQk9iamhWWG1LOFc1cVdtUG9EY3F4RFgzZjBTVGREYWYyNm9YaDdxZVdqX2diOHZvdThyTGpvMXdKWFk2bVU0X2dTSzRjbW9Qa2d4d1RNQXRxTy1DVEhkSW1lQzVqbWlxWF81UDlYS0FtT19keXVNTWlYRlJPUDQzRTMzNVVOUGg2eHJsc21PaDNTM1Btc0Z1d3dETXc",
+   "source": "UA.NEWS",
+   "published_at": "2026-10-08T09:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "UA.NEWS",
+     "published_at": "2026-10-08T09:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQk9iamhWWG1LOFc1cVdtUG9EY3F4RFgzZjBTVGREYWYyNm9YaDdxZVdqX2diOHZvdThyTGpvMXdKWFk2bVU0X2dTSzRjbW9Qa2d4d1RNQXRxTy1DVEhkSW1lQzVqbWlxWF81UDlYS0FtT19keXVNTWlYRlJPUDQzRTMzNVVOUGg2eHJsc21PaDNTM1Btc0Z1d3dETXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0dd5267a06de",
@@ -2371,23 +2444,6 @@
    "zh_summary": "Cooper Financial减持特斯拉股份",
    "title_zh": "Cooper Financial减持特斯拉（TSLA）股份",
    "sentiment": -1
-  },
-  {
-   "id": "9f4e9245b276",
-   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T23:10:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T23:10:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后"
   },
   {
    "id": "c41d395d790e",
@@ -5185,6 +5241,23 @@
    "sentiment": 1
   },
   {
+   "id": "f6764bd50174",
+   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
+   "source": "东方财富",
+   "published_at": "2026-10-07T08:38:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T08:38:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "aafee61783eb",
    "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
@@ -6696,86 +6769,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉推出含恐怖音效灯光的万圣节模式",
    "title_zh": "特斯拉推出含恐怖音效灯光的万圣节模式",
-   "sentiment": 0
-  },
-  {
-   "id": "ed46cfb297ca",
-   "title": "Tesla’s full EV lineup can now also provide home backup energy - Solar Power World",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRocG9DZ0dnTVc4cEVnUko5UFdSd3RRQWxCaG91VTJfNHAtVlRXN3ZfVHBOTU1rU2FWemdGUmNMU2M1VHdLME4wYktUMmowdTJRRUw5QkJ2eXhrU3ZpNWhUaXJBWF84OF9ueVE2YmotZ1NPQ2t4TTdhYzhPcEc5UzZKVGNqTFNpV3g2TlRiV1dFQ3EtNS1BV2J6THNoaXlhaHVGNG0xNE9QQ0lO",
-   "source": "Solar Power World",
-   "published_at": "2026-10-06T19:08:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Solar Power World",
-     "published_at": "2026-10-06T19:08:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVRocG9DZ0dnTVc4cEVnUko5UFdSd3RRQWxCaG91VTJfNHAtVlRXN3ZfVHBOTU1rU2FWemdGUmNMU2M1VHdLME4wYktUMmowdTJRRUw5QkJ2eXhrU3ZpNWhUaXJBWF84OF9ueVE2YmotZ1NPQ2t4TTdhYzhPcEc5UzZKVGNqTFNpV3g2TlRiV1dFQ3EtNS1BV2J6THNoaXlhaHVGNG0xNE9QQ0lO"
-    }
-   ],
-   "category": "能源",
-   "session": "盘中",
-   "zh_summary": "特斯拉全系电动车可作家庭备用电源",
-   "title_zh": "特斯拉全系电动车现可提供家庭备用电源",
-   "sentiment": 1
-  },
-  {
-   "id": "4a4d8ddbc607",
-   "title": "Tesla Brings Cybercab to Europe for First Time - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUpxWjFlN3VpRWJpRUMxR0JiNExUczFqQm1UMzJpeHJBWTBMSVJwYmlwaFZWX2lqTUJWallwR1AzZDJhZDRSM1FtdFByQ0s3MEVEdWNkX2tyTGw0R3dEaUROQkFqYlA4Y21vS1hRMjM2bXVSRUxCUjNxSVo1X0JxdTFfZ0s4RTVTSXRhQTBR",
-   "source": "GuruFocus",
-   "published_at": "2026-10-06T19:02:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-06T19:02:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUpxWjFlN3VpRWJpRUMxR0JiNExUczFqQm1UMzJpeHJBWTBMSVJwYmlwaFZWX2lqTUJWallwR1AzZDJhZDRSM1FtdFByQ0s3MEVEdWNkX2tyTGw0R3dEaUROQkFqYlA4Y21vS1hRMjM2bXVSRUxCUjNxSVo1X0JxdTFfZ0s4RTVTSXRhQTBR"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Cybercab首次亮相欧洲",
-   "title_zh": "特斯拉Cybercab首次进入欧洲",
-   "sentiment": 1
-  },
-  {
-   "id": "0b75e15b7ca7",
-   "title": "Tesla May Be Getting Ready to Launch Cybercabs in Houston - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUxwQ21WUXVtNnJQVkJzb3puWUJENVFlOVpDcDROMDlIck1zMXpKTWkzcnpJenlrbGtsT056V2RKcGkyb0Y4VFhfYmNWb2M1b2o5SWIydmZQNGcxbHNHc3hJems3RGJPXy1LTnBwSFZGUF9rc2VLNXFxakQxdTRjOG1qOWVxSFZDZlFXNHNOejR3Mmt3M3lTNVZVRkU",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-06T18:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-06T18:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUxwQ21WUXVtNnJQVkJzb3puWUJENVFlOVpDcDROMDlIck1zMXpKTWkzcnpJenlrbGtsT056V2RKcGkyb0Y4VFhfYmNWb2M1b2o5SWIydmZQNGcxbHNHc3hJems3RGJPXy1LTnBwSFZGUF9rc2VLNXFxakQxdTRjOG1qOWVxSFZDZlFXNHNOejR3Mmt3M3lTNVZVRkU"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉或准备在休斯敦推出Cybercab",
-   "title_zh": "特斯拉或准备在休斯敦推出Cybercab",
-   "sentiment": 1
-  },
-  {
-   "id": "546a4f1d0588",
-   "title": "特斯拉Model3二胎空间舒适养车成本：一年省下1.2万，但后排坐三人得看身高+FAQ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZ3FyVWcxMHZZQmZyOXc3Yzk1dTNNaVJaVzFaWGRTUTVmSk1NelcyQlNOZnNyM3NfYWpsY21vWDVjQkpWajN0NTJWOUk1NzBNSWpzeTZaMUpoeFdHN3J6X09wb0xsZU5rTEhKM3VuSFpSUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-06T18:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-06T18:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZ3FyVWcxMHZZQmZyOXc3Yzk1dTNNaVJaVzFaWGRTUTVmSk1NelcyQlNOZnNyM3NfYWpsY21vWDVjQkpWajN0NTJWOUk1NzBNSWpzeTZaMUpoeFdHN3J6X09wb0xsZU5rTEhKM3VuSFpSUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Model 3家用养车成本低，一年省1.2万元",
-   "title_zh": "Model 3养车一年省1.2万，后排坐三人看身高 - 新浪网",
    "sentiment": 0
   }
  ]
