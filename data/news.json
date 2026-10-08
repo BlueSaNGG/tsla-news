@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T01:22:27.031000+00:00",
+ "updated_at": "2026-10-08T01:37:30.462115+00:00",
  "market": {
-  "price": 380.68,
-  "change_pct": 0.51,
+  "price": 377.81,
+  "change_pct": -0.75,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 41% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.1%"
+     "note": "目标价中位数 $400（15家），隐含空间 +5.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（133条已评分）"
+     "note": "今日新闻情绪 +0.14（138条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.68 vs 20日均线 $366.72"
+     "note": "现价 $377.81 vs 20日均线 $367.22"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 41,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.1,
-   "ma20": 366.72,
-   "as_of": "2026-10-08T01:22:27.017370+00:00"
+   "implied_upside_pct": 5.9,
+   "ma20": 367.22,
+   "as_of": "2026-10-08T01:37:30.451572+00:00"
   },
-  "pe_ttm": 105.3,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
+  "pe_ttm": 104.5,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.9%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 133
+   "avg": 0.14,
+   "count": 138
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b00f27131144",
+   "title": "特斯拉第三季度销量高于预期 显示汽车业务趋于稳定 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MMGVGMFU4LVhzNG96a1VEc2xtd2lnNFVCUV9MMFJvTmFYNDVqaTN1bGFxUUdYTWZNUGxwV002V05qNk5jdnpieXpjS3JJT3ZJQzdmcHlhNHZid2xIWVJNWjN1VFY1bWQzbk5V",
+   "source": "汽车之家",
+   "published_at": "2026-10-08T01:28:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-08T01:28:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MMGVGMFU4LVhzNG96a1VEc2xtd2lnNFVCUV9MMFJvTmFYNDVqaTN1bGFxUUdYTWZNUGxwV002V05qNk5jdnpieXpjS3JJT3ZJQzdmcHlhNHZid2xIWVJNWjN1VFY1bWQzbk5V"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
   {
    "id": "0d59e6ca87b0",
    "title": "你觉得特斯拉本次OTA最实用的功能是什么？ - 新浪网",
@@ -106,6 +123,23 @@
    "zh_summary": "特斯拉FSD监督版应对冬季路况",
    "title_zh": "特斯拉FSD监督版可以轻松应对冬季路况",
    "sentiment": 1
+  },
+  {
+   "id": "f1363d3c21e5",
+   "title": "马斯克也无奈！特斯拉无人驾驶出租车竟被灰色小猫给难住了 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1FYN3J2X3Fnb0UxMW5EdzhjdWVKdmZ1MGtTWDdQVDF2WWhrWkQxS2NIQ1BCUEhIcFlUU1dobFZDQTdaU3d4T2w3R3picFcyb2dYbWVvOGlDWW1yS1F2NV9JcmVickpvcDNQWnhfeEhLYlhWNkZlMEFRRVdlVm1oUU5vdWxMOWNm",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T01:13:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T01:13:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1FYN3J2X3Fnb0UxMW5EdzhjdWVKdmZ1MGtTWDdQVDF2WWhrWkQxS2NIQ1BCUEhIcFlUU1dobFZDQTdaU3d4T2w3R3picFcyb2dYbWVvOGlDWW1yS1F2NV9JcmVickpvcDNQWnhfeEhLYlhWNkZlMEFRRVdlVm1oUU5vdWxMOWNm"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "92440fe96bfc",
@@ -173,12 +207,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjOG9YTFhWc0xrYmhYakRwZ3l0MHR4MUhzV0g5c2pRT3gtOGtuYVhsWGMydURTTGw2M29XWUdZeDhURkpZai1VV0ZvTWlNSDVFcFJ5cVNZdWJDVmZTd21qMg",
    "source": "证券之星",
    "published_at": "2026-10-08T00:29:02+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "证券之星",
      "published_at": "2026-10-08T00:29:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjOG9YTFhWc0xrYmhYakRwZ3l0MHR4MUhzV0g5c2pRT3gtOGtuYVhsWGMydURTTGw2M29XWUdZeDhURkpZai1VV0ZvTWlNSDVFcFJ5cVNZdWJDVmZTd21qMg"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T00:29:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSG1aT21WcWxNR3V4T08yenZub1VIbVREelRDTHVRWGJQN2FjQXpFTU9IWXJHWG53c0pZMkIwQm94ZTFWdUFYejBJQ2F6T2FKbzRYNUhCb3J0M1BVVWRNX19EdXViZFAtclZXelNxcWhVbklEVGg0NmdTNkQ0eldZZkZtM2xERm13"
     }
    ],
    "category": "其他",
@@ -7100,60 +7139,6 @@
     "pct": -0.16,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "18c42bac0ee6",
-   "title": "【视频】#卡泰驰二手车特斯拉Model Y L 2025款长续航 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhSTNsc2JEc2o0S1FLMnQ2TTJ4ODhwRUh4S2hycWxTSlo5UnNFRTMtWXRNTGxYZkJoOW11MlU3bUhucFd2T2o3aG54WjJMX29DQVJkck5jYWFlQ0E",
-   "source": "汽车之家",
-   "published_at": "2026-10-06T03:34:29+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-06T03:34:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhSTNsc2JEc2o0S1FLMnQ2TTJ4ODhwRUh4S2hycWxTSlo5UnNFRTMtWXRNTGxYZkJoOW11MlU3bUhucFd2T2o3aG54WjJMX29DQVJkck5jYWFlQ0E"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-06T12:37:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lN2x2MGx5NWdINEEwbHFXdUc0amd4czh1SllPek4yZG9XdjZPemxpSUp1OXQ0V1hOTjBRUW9yTE9HeWN1X0VPclNKdzVzMmh0d3RlVjF6N3hWVWM"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-06T12:37:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lN2x2MGx5NWdINEEwbHFXdUc0amd4czh1SllPek4yZG9XdjZPemxpSUp1OXQ0V1hOTjBRUW9yTE9HeWN1X0VPclNKdzVzMmh0d3RlVjF6N3hWVWM"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "卡泰驰二手车特斯拉Model Y L长续航视频",
-   "title_zh": "【视频】#卡泰驰二手车特斯拉Model Y L 2025款长续航 - 汽车之家",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.51,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "57b7ffcbc5c1",
-   "title": "Tesla Stock (TSLA) Prediction – Why Truist Is Cautious Despite Solid Q3 Deliveries - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGtmdHVsZVdSZTkwdU1jZGc1LTBwVDdaWkJLQnBvalhXaXI0cEljMUdGWlNxTXNfcUtIVk5qZDdoQ0x1THBPWkdxTmpldDFFdEJscDZLanR5dEZYWkZFVjlaTVU5QlhSWXE1WEpyaUpQTzk2WEM5UDF4Y1FsaU1lZHNjVEU5Qi1oUU1yWVFkQzd3dHBKTFdCb3RxRF9wSDhVcldaMXpMd0Rxa3c",
-   "source": "TipRanks",
-   "published_at": "2026-10-06T03:21:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-06T03:21:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGtmdHVsZVdSZTkwdU1jZGc1LTBwVDdaWkJLQnBvalhXaXI0cEljMUdGWlNxTXNfcUtIVk5qZDdoQ0x1THBPWkdxTmpldDFFdEJscDZLanR5dEZYWkZFVjlaTVU5QlhSWXE1WEpyaUpQTzk2WEM5UDF4Y1FsaU1lZHNjVEU5Qi1oUU1yWVFkQzd3dHBKTFdCb3RxRF9wSDhVcldaMXpMd0Rxa3c"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "Truist谨慎看特斯拉，Q3交付仍稳健",
-   "title_zh": "TSLA 预测——尽管三季度交付稳健，Truist 为何仍谨慎",
-   "sentiment": -1
   }
  ]
 }
