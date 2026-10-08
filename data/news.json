@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T21:22:28.500730+00:00",
+ "updated_at": "2026-10-08T21:37:36.326741+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（121条已评分）"
+     "note": "今日新闻情绪 +0.18（123条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-08T21:22:28.494884+00:00"
+   "as_of": "2026-10-08T21:37:36.320803+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 121
+   "avg": 0.18,
+   "count": 123
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "826101822dc4",
+   "title": "Tesla opens second Megacharger in two days, three more coming soon - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84VXhfYzEwNThqNTNCaGNhVzBtTTQ4VlZrS1JlczNKUHQ4RXphUFM5S0ZkZWZfZEFXQ3Vsa0hzakpqZXZiMXEzZlpBMXF4S2Nzdjh2T2RQaHRrb1dZdWtWRVRGTHduV3h3VTV4OWVJOXkxM3Q0ZGhuV05TcC0",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-08T21:25:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-08T21:25:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84VXhfYzEwNThqNTNCaGNhVzBtTTQ4VlZrS1JlczNKUHQ4RXphUFM5S0ZkZWZfZEFXQ3Vsa0hzakpqZXZiMXEzZlpBMXF4S2Nzdjh2T2RQaHRrb1dZdWtWRVRGTHduV3h3VTV4OWVJOXkxM3Q0ZGhuV05TcC0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "3ac84ac2127d",
+   "title": "Pilot and Tesla Open First Megacharger Site, Announce Three Additional Locations Opening Soon - Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ",
+   "source": "Business Wire",
+   "published_at": "2026-10-08T21:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Wire",
+     "published_at": "2026-10-08T21:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "851cfb71a741",
+   "title": "Tesla (TSLA) Deliveries Beat Expectations. But TSLA’s 159x Forward P/E Is Betting on Much More - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDZab0puajljSHhob2lxQ1Zxd2RKRkZScmdMaHN3YzcxT0xSRndJZHo1VEc0TEMxc214VGJzXzlqT091b2tiZ1N6ZE9sRU9wUFBfYU1FcGlTeENRWWczQUpobk12MlVoUUJGeC1RQjNJbEtHSFB4eGVMNVNmNGpGRGprc25KX0h1ME9HeTV0RkhWYl9UNFFMTUY0ZVRyQ1EtcFJIa3FfZw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T21:17:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T21:17:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDZab0puajljSHhob2lxQ1Zxd2RKRkZScmdMaHN3YzcxT0xSRndJZHo1VEc0TEMxc214VGJzXzlqT091b2tiZ1N6ZE9sRU9wUFBfYU1FcGlTeENRWWczQUpobk12MlVoUUJGeC1RQjNJbEtHSFB4eGVMNVNmNGpGRGprc25KX0h1ME9HeTV0RkhWYl9UNFFMTUY0ZVRyQ1EtcFJIa3FfZw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
   {
    "id": "c48dcb0c6258",
    "title": "Tesla Solar Roof Discontinued: 6 Details That Matter - BASENOR",
@@ -198,7 +249,7 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0puVWVYZ0NwbUIxNGVYTFY5cEs3eEVrOExBa0xoaS1yLVJjT2pnak91ekNCMFQ0YzF2MFpTNG92RERpUXZ1TXdiQkdDMUh4djJzRHhTdE1kUkQ1NGRBYkNGamJuZ0FxWHh5MVR3VTFqQjdYdl8zNURCRjZDNVZTRzZpTlFfcF9Lc2Z6R292bnNXWVpfWWd4VXJMdTVwQQ",
    "source": "GuruFocus",
    "published_at": "2026-10-08T20:02:32+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "GuruFocus",
@@ -209,6 +260,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-08T20:46:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnlzYzVCUEo5UTFEX1MtbjcwVmJqUXA1T0JfV0Y1RDcwbVFTVmE1Rm1ueUtxSFBqS2N0RlVMVGxsMDNQX2ZOMTdkcjlfa2lfOXZjZnBDS3F6aDRjVlE5R3JBVl8yR3A4SlpPbDFhUkVHVU96YzFtYnNQdG56WFo0R2RGb1U2clVpTDUxaHlOUQ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-08T20:46:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOFVIUlpCOGhYcGlka3ZVaUM3Q254RnYtdjdoOTYxS29Dd3VLcVdyZjZueGlzRm5Qb2hNbkpKeHI3eHFkUC01bUdNVmpwa3llTXFuV3J5T19BNEFBcGRXY1lCQnFWQlpjTGtuZmxmRmhSTmIwSXh0UWluV2RGN2JXbHV1MkR1Z3F5X21JSHBVWGI5bExTQ1BTdV9xN0F6aFlWUzNfc01hUWcxQTExZkxldEdCa3FtUktGZ0pr"
     }
    ],
    "category": "车型产品",
@@ -831,6 +887,23 @@
    "sentiment": 0
   },
   {
+   "id": "adca09cc6cdd",
+   "title": "【视频】这电耗子真是越开越抠门啊！ 别管你小米还是特斯拉！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVWI3eHJuUlRmcjUzNjMwQ0xBSEltR0xibnYxdG1uQksxcWhtVGl5cmg1QnNZZm5SYlBZLUh4dmZGNFdQMWdGbzFGQXg5Z25LUTV6WEZWT0FxSmM",
+   "source": "汽车之家",
+   "published_at": "2026-10-08T15:25:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-08T15:25:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVWI3eHJuUlRmcjUzNjMwQ0xBSEltR0xibnYxdG1uQksxcWhtVGl5cmg1QnNZZm5SYlBZLUh4dmZGNFdQMWdGbzFGQXg5Z25LUTV6WEZWT0FxSmM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "29d496bdf734",
    "title": "Tesla files permit for Semi service center in Las Vegas as ramp begins - Electrek",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q0I2d1dWMlF2ZmNWbU1WeGp0Wi1QQkF4alZzRXAzd01OVk1sTm0wWjlMZ2kxTmlfajZiSXNmS3JPb0k1VGpaS1NINlJOb2dLdnlKWXdTdG1uVjNNckZ5RzF5dHQ1bWhIbEhMTVRBVkVuZkdZcWF4b1ktN1RheVk",
@@ -1282,6 +1355,23 @@
    "zh_summary": "特斯拉畅销车型可向家庭供电",
    "title_zh": "特斯拉畅销车型可向家中供电，但真正的变革尚未到来",
    "sentiment": 1
+  },
+  {
+   "id": "20290b22d3e0",
+   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
+   "source": "Finbold",
+   "published_at": "2026-10-08T13:27:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-08T13:27:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "069e47b12444",
@@ -6227,17 +6317,17 @@
    "sentiment": 1
   },
   {
-   "id": "e7f3ff301af5",
-   "title": "特斯拉Cybercab巴黎首秀，没方向盘的车该不该等？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aX1R3TE1wWGg1TVpHeC1xNEw3UGdEcVAwSDJ3dTUyLUdMcEVSaUhKUEVhSlVwNktfYXFzZ0JtLWtkQmZ6S3psZTFOMjIzWDhXc25UcmU4cXlHRHc",
+   "id": "c9fbb14bfae8",
+   "title": "特斯拉Cybercab巴黎首秀，没方向盘的出租车真能上路？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCbVl4RHBIb2UzeXdvSHNSWGJfVk5pdmZydTNRNk56dUtwSmp5Q0txRW00SWFtYTIzbk1xaVk5Qnp0R0hzeHlRNmxwaW82TVRGV2dUaWFzM29vaW8",
    "source": "汽车之家",
-   "published_at": "2026-10-07T11:20:16+00:00",
+   "published_at": "2026-10-07T11:15:07+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-07T11:20:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aX1R3TE1wWGg1TVpHeC1xNEw3UGdEcVAwSDJ3dTUyLUdMcEVSaUhKUEVhSlVwNktfYXFzZ0JtLWtkQmZ6S3psZTFOMjIzWDhXc25UcmU4cXlHRHc"
+     "published_at": "2026-10-07T11:15:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCbVl4RHBIb2UzeXdvSHNSWGJfVk5pdmZydTNRNk56dUtwSmp5Q0txRW00SWFtYTIzbk1xaVk5Qnp0R0hzeHlRNmxwaW82TVRGV2dUaWFzM29vaW8"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6707,120 +6797,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉施压欧盟监管机构加速FSD审批",
    "title_zh": "特斯拉向欧洲监管机构施压要求批准FSD",
-   "sentiment": 1
-  },
-  {
-   "id": "aafee61783eb",
-   "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-07T08:08:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-07T08:08:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "路透社称特斯拉在欧盟用公关推动FSD",
-   "title_zh": "路透社：特斯拉用公关造势和有问题安全数据推动欧盟批准FSD（TSLA）",
-   "sentiment": -1
-  },
-  {
-   "id": "d923294a69af",
-   "title": "特斯拉向首批车主推送万圣节模式车机主题更新 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0g5MjVJY1cxZll0NkVoMGo5UjVtcmhHb0wwa3N3MXpudlg0R29aLWhhNWdlRlpLelg4NkZIaFJuSkk2WjlGdHhURWgwSTVnWTZhX1BEc0NJQ3RSaE1zeFZ0LVVaWG1kdkR0eUJsYUZLOWdGSWtVT3pfSlN3QVNzQw",
-   "source": "新浪网",
-   "published_at": "2026-10-07T07:56:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-07T07:56:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0g5MjVJY1cxZll0NkVoMGo5UjVtcmhHb0wwa3N3MXpudlg0R29aLWhhNWdlRlpLelg4NkZIaFJuSkk2WjlGdHhURWgwSTVnWTZhX1BEc0NJQ3RSaE1zeFZ0LVVaWG1kdkR0eUJsYUZLOWdGSWtVT3pfSlN3QVNzQw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉推送万圣节模式车机主题更新",
-   "title_zh": "特斯拉向首批车主推送万圣节模式车机主题更新 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "b7488906b14a",
-   "title": "Musk Says Tesla And SpaceX Will Run Terafab - Finimize",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16MUJTMnlKcW9tX0VYWm5tcUpKbzU3azdsbkhGbDFOMlRDb1Jub1dlRGpIbC0tWU50Unp6cHRseUJzYkoyQ3J2YVpycWVPMGU1OFhpbUt3NGVCRWhHS3Y4TWJtNUh0NUd1akFIQU9TZk1CSU8xeHppVll1ZUI",
-   "source": "Finimize",
-   "published_at": "2026-10-07T07:05:31+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Finimize",
-     "published_at": "2026-10-07T07:05:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16MUJTMnlKcW9tX0VYWm5tcUpKbzU3azdsbkhGbDFOMlRDb1Jub1dlRGpIbC0tWU50Unp6cHRseUJzYkoyQ3J2YVpycWVPMGU1OFhpbUt3NGVCRWhHS3Y4TWJtNUh0NUd1akFIQU9TZk1CSU8xeHppVll1ZUI"
-    },
-    {
-     "name": "Firstpost",
-     "published_at": "2026-10-07T09:49:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdl9qS1U3TmxYUUVRc1lVZlZWNGFpZ20wdmdfV2ZUc3NZaEZ2QVEwMjdoVy1sZlJBYjE4LThzTnR5czVJY0JibTZRNEh6RkFmem5mSGdNeDdxVUVvcHBnNmlEbE44Q2FXT0RYSmhxTnJ1Z05sLXpiLXRjZ0JsRzZ0eUdQNnZKYWlDVzMtVnd1SWhXTUtiN25DMjZrQzVvM2l1eE9UMk13SnAySW10WDh3MG5mcWp3SHB6Znhz"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T10:11:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1lxSDVrZkRMTUtkbkpUWjU2RGo3bHRRU2JxVFdGSUVsSFhpNkpuLXZCWlhPT2FXcWE0U29INVJudjE3aG9SNGE5SmpYZkMzZ3kyUFRkWUxkM2ttLWhhV1U0U1dlZ3l0XzdBazF2VzNRa05ueFpjNkV4WkNweU5fSnpkbkNyZ1VubG9YZ0dNZ2E3VWVQeXZV"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克称特斯拉与SpaceX共营Terafab工厂",
-   "title_zh": "马斯克称特斯拉和SpaceX将运营Terafab工厂",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.02,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "924539b3474f",
-   "title": "Tesla to bring Cybercab robotaxi to Paris show for first European showing - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXQzB5OWw0LUpOcWZZN0pVdEZVdlBhZ0Y5ZFlYeDlkT1FOVDJPa0hsUWVadkNLa1d6LWo5ZVlzeko3Q09RRVR0UC1qYmhqc1NvWWtDOUpqaDhibHp5NWdwOWxJdW8xMGVwSkc5TzZGRng1Z2x6X3EzRlVTeTdVcVBzcU5FWFhrOS1mSFc2c3FmNmJyU3MwQWdtTFIwd0ROQUlYQW5R",
-   "source": "Automotive News",
-   "published_at": "2026-10-07T07:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Automotive News",
-     "published_at": "2026-10-07T07:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXQzB5OWw0LUpOcWZZN0pVdEZVdlBhZ0Y5ZFlYeDlkT1FOVDJPa0hsUWVadkNLa1d6LWo5ZVlzeko3Q09RRVR0UC1qYmhqc1NvWWtDOUpqaDhibHp5NWdwOWxJdW8xMGVwSkc5TzZGRng1Z2x6X3EzRlVTeTdVcVBzcU5FWFhrOS1mSFc2c3FmNmJyU3MwQWdtTFIwd0ROQUlYQW5R"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab首登巴黎车展",
-   "title_zh": "特斯拉携Cybercab自动驾驶出租车亮相巴黎车展，首次登陆欧洲",
-   "sentiment": 1
-  },
-  {
-   "id": "652681c3cca6",
-   "title": "Key facts: Tesla, Inc. Q3 deliveries>production; EU FSD vote; >$25B cap - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnd5YmVweE5NcDFtNjFGNy1vRVowMjNqRXZfSGFNclVOT256cGp2OXNzVURUajd1aHBaeVEtTV9MLWFSM251bTUycWhNaFZXNWlrNEtMOHBSYWdMV3ZjQW13ajFWcE8tb05WNkdkR25fTlJLYlQ0eUgtcGlrNHJGSmFVS1Z3bjFOUk1qcFBvY0kzdDFxSmdQVGNSVlVmSTY2TnUydXg5dnVzTmJ3aUpqZXFGcmx3NDh3RklJMlN6aktiQTkz",
-   "source": "TradingView",
-   "published_at": "2026-10-07T07:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-07T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnd5YmVweE5NcDFtNjFGNy1vRVowMjNqRXZfSGFNclVOT256cGp2OXNzVURUajd1aHBaeVEtTV9MLWFSM251bTUycWhNaFZXNWlrNEtMOHBSYWdMV3ZjQW13ajFWcE8tb05WNkdkR25fTlJLYlQ0eUgtcGlrNHJGSmFVS1Z3bjFOUk1qcFBvY0kzdDFxSmdQVGNSVlVmSTY2TnUydXg5dnVzTmJ3aUpqZXFGcmx3NDh3RklJMlN6aktiQTkz"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "Q3交付超产量；欧盟FSD投票；资本开支超250亿美元",
-   "title_zh": "特斯拉Q3交付超产量，欧盟FSD投票，资本开支超250亿美元",
    "sentiment": 1
   }
  ]
