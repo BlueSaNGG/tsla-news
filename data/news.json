@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T14:52:37.058205+00:00",
+ "updated_at": "2026-10-08T15:07:26.905247+00:00",
  "market": {
-  "price": 372.93,
-  "change_pct": -1.29,
+  "price": 372.87,
+  "change_pct": -1.31,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（69条已评分）"
+     "note": "今日新闻情绪 +0.28（76条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.93 vs 20日均线 $367.69"
+     "note": "现价 $372.87 vs 20日均线 $367.69"
     },
     {
      "key": "分析师动向",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 7.3,
    "ma20": 367.69,
-   "as_of": "2026-10-08T14:52:37.050982+00:00"
+   "as_of": "2026-10-08T15:07:26.893072+00:00"
   },
   "pe_ttm": 103.1,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 69
+   "count": 76
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "4e5a83f359ba",
+   "title": "特斯拉FSD欧洲路试大翻车？比利时实测爆30公里限速区超速过半 - 香港01",
+   "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNTVhXZ2YzbVFNcEhBRWhpTm9oZzY3MHAtanJGQWE3WXJpU3FFaktwdDhYNWNPazBmcjF5SHl4VG52VDUzS1B2WUFOVTBhTXhJSUtDeVloLTk5ZUx2STRMQUhjUG9BUVFCb3pfT0Y1SFhzb1BEVE4xd1h0Vnhkck8xTUowZEFfNTNTUHo4MDFMZ1RmRkVCZnZMOHUtd3FrcnVVa3YzSGkyY05OTGtqT1dRZU9IUTByOWJuaWxKSnpBdGRXeTc5OHNnTl9vd2ZYUld1aWtBRkFLeDBfWHRfUTc4WUxOLS1oSE1STzI4SHBQeS1qcHRuTUlJWEJKNHJObUtVMjhoTXA5dkk1d2xWSXRoSGdoVmpFc2hCQ2c0eVhVRTFIYk11dkwwajVDa184U0FCYklEbkQ1bGdjQ2VEYzMxLW4tb1dEbzRCN1RqZ3FHQ2RRVkdZTE5wTkhfMGdUWG9MLWZBVGZFN0FBdmY5Q1FOWUJjRGU1YXl6X1EwLW9UVE11SVY1TC1FZ3MxeG1SOEhpeWFGX3hIdm02NjlqVm12bGZNM05YV0FsRU1Pc0FB",
+   "source": "香港01",
+   "published_at": "2026-10-08T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "香港01",
+     "published_at": "2026-10-08T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNTVhXZ2YzbVFNcEhBRWhpTm9oZzY3MHAtanJGQWE3WXJpU3FFaktwdDhYNWNPazBmcjF5SHl4VG52VDUzS1B2WUFOVTBhTXhJSUtDeVloLTk5ZUx2STRMQUhjUG9BUVFCb3pfT0Y1SFhzb1BEVE4xd1h0Vnhkck8xTUowZEFfNTNTUHo4MDFMZ1RmRkVCZnZMOHUtd3FrcnVVa3YzSGkyY05OTGtqT1dRZU9IUTByOWJuaWxKSnpBdGRXeTc5OHNnTl9vd2ZYUld1aWtBRkFLeDBfWHRfUTc4WUxOLS1oSE1STzI4SHBQeS1qcHRuTUlJWEJKNHJObUtVMjhoTXA5dkk1d2xWSXRoSGdoVmpFc2hCQ2c0eVhVRTFIYk11dkwwajVDa184U0FCYklEbkQ1bGdjQ2VEYzMxLW4tb1dEbzRCN1RqZ3FHQ2RRVkdZTE5wTkhfMGdUWG9MLWZBVGZFN0FBdmY5Q1FOWUJjRGU1YXl6X1EwLW9UVE11SVY1TC1FZ3MxeG1SOEhpeWFGX3hIdm02NjlqVm12bGZNM05YV0FsRU1Pc0FB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "c6c99219d4b5",
+   "title": "Tesla Gets 30 More Days to Defend Cybercab Self-Certification to NHTSA - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3AtRlRHV1pDQ0x1MEJOeVFvcWtVajVxV05KRGhiWHp5MS1MbUIySTMzLWRudTdZeGx0QUZOR2N5dzFpZTBTRGJUaWpqUTlqclZXT3RHc2Z6MHlCTTlWb3E5dU05Tl8yTXZMbEtiZ255OG56clhITE1NbmVSdXFRXzBFVWZDcHhTZ1gwNFNuYVp5ZlhqRUlhSXFFTnBrajN4WndrMnpDQVRtQQ",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-08T14:56:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-08T14:56:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3AtRlRHV1pDQ0x1MEJOeVFvcWtVajVxV05KRGhiWHp5MS1MbUIySTMzLWRudTdZeGx0QUZOR2N5dzFpZTBTRGJUaWpqUTlqclZXT3RHc2Z6MHlCTTlWb3E5dU05Tl8yTXZMbEtiZ255OG56clhITE1NbmVSdXFRXzBFVWZDcHhTZ1gwNFNuYVp5ZlhqRUlhSXFFTnBrajN4WndrMnpDQVRtQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "7e638ae08b87",
+   "title": "Tesla Model Y becomes Germany’s best-selling car in September - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXBMWGRRalllZUNxcTR2a0JUSHFfbEZNVnU0NlcwOWVfSWxBSjFJR1BGZHNFVld6Wlh6d3FZNHc2Z2NOdERXaTR4MEdlckgyWXlXcmVmMkVhcmZ2ZE13bHdsd196RE5tWlhFeEZSN0VQUXFJVE5CajVIRWVrMVFIbHdRXzA2RkpvZWRPOGhDeEs",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-08T14:51:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-08T14:51:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXBMWGRRalllZUNxcTR2a0JUSHFfbEZNVnU0NlcwOWVfSWxBSjFJR1BGZHNFVld6Wlh6d3FZNHc2Z2NOdERXaTR4MEdlckgyWXlXcmVmMkVhcmZ2ZE13bHdsd196RE5tWlhFeEZSN0VQUXFJVE5CajVIRWVrMVFIbHdRXzA2RkpvZWRPOGhDeEs"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "735de19e0157",
    "title": "Tesla Patent Reveals Flexible Sensors That Let Optimus Feel Objects - Not a Tesla App",
@@ -133,10 +184,15 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YTm8xWnpFUWI2SmJ4ajY3bkJzdXMzVGFmaUZDOTdnYm84RWlOQzhqdkYxekhkZ2I1ZTdWcm5wRk02Z2NGSGRmSFprREJBSV92UFBKMFNEYUlPaEkzQ3pRQmRKdGFzdTZqQlFXTmxqbzh0Q1p3",
    "source": "genfinity.io",
    "published_at": "2026-10-08T14:37:35+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "genfinity.io",
+     "published_at": "2026-10-08T14:37:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YTm8xWnpFUWI2SmJ4ajY3bkJzdXMzVGFmaUZDOTdnYm84RWlOQzhqdkYxekhkZ2I1ZTdWcm5wRk02Z2NGSGRmSFprREJBSV92UFBKMFNEYUlPaEkzQ3pRQmRKdGFzdTZqQlFXTmxqbzh0Q1p3"
+    },
+    {
+     "name": "https://genfinity.io/",
      "published_at": "2026-10-08T14:37:35+00:00",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YTm8xWnpFUWI2SmJ4ajY3bkJzdXMzVGFmaUZDOTdnYm84RWlOQzhqdkYxekhkZ2I1ZTdWcm5wRk02Z2NGSGRmSFprREJBSV92UFBKMFNEYUlPaEkzQ3pRQmRKdGFzdTZqQlFXTmxqbzh0Q1p3"
     }
@@ -2638,26 +2694,6 @@
    "sentiment": -1
   },
   {
-   "id": "9f4e9245b276",
-   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T23:10:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T23:10:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "TSLA隔夜上涨：Roadster预热+新Semi",
-   "title_zh": "TSLA隔夜上涨：Roadster预热搅动SpaceX热度——马斯克称新Semi为…",
-   "sentiment": 1
-  },
-  {
    "id": "c41d395d790e",
    "title": "Tesla Owner Enables Track Mode on Non-Performance Model Y - Not a Tesla App",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenBuYWdDTjF6TldVQnd1Z3dZSm84azZwMlI2NFVVcWxDZGlDYnlKTHJKYzlPX1pWdlk2RGdkR3dTNzlKUEllTXFGRnZLRnkwY19RbzZsZ0VnZ1pNTlJ4TlVVMWNObGdMYVJ4S2JJbFhjem1VY3dHTHU1VVd4R0JWRDEyc2ktelZzaW9zNFh1ckIxN2poT19RV0FOT2Q",
@@ -3054,7 +3090,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52MU1WRmZDQ1FIWEVIOGVwYkRZaU90eXh1bXJfS3VqVnd0SWk4LWlZbGx2YlYyZDJUZW9pRDdGMU4wbUhDdmJDNm9vUmVZMTVFRDg3dklXLWVVRENRb0J0QTZFVHZMZw",
    "source": "东方财富",
    "published_at": "2026-10-07T19:32:22+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "东方财富",
@@ -3070,6 +3106,11 @@
      "name": "新浪网",
      "published_at": "2026-10-08T10:13:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HcXh6YVREWWtEMGV1YkpUYWRhYThqSzRQcXlHMW5zRm80LURsbnVBUHJCWUVlTHkzOGtGRVVQdUtjVEJOYkhzbEZUUFE5eWp1YkdKWmtTV1FQaTAyVWw4dFhKRFlPMEpEckVyWlVQRG4yeDRQRGJXdFh2TWF3ZGs"
+    },
+    {
+     "name": "财联社",
+     "published_at": "2026-10-08T09:01:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5VjhuV0ZDbEJaNlk4Rkx2MFdHMGRSQnV2bE9jeVRKRVFyNWFmUUl0VWVOYjNFZWdnSWotNGhKVXUwWHo3OTRJWg"
     }
    ],
    "category": "其他",
@@ -3503,26 +3544,6 @@
    "sentiment": 1
   },
   {
-   "id": "a2e78ca5229a",
-   "title": "Tesla FSD changed its mind mid-intersection, and it may have saved a life - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kdGdudHhyb1VwM3FKN2JjdTYtMnFWSlV4V0NfX0JCT1k5NWRYR3lic0tpeEdpOXFoTnZEZkxuS01uYlBFSHVWR1JyT3RBM2IzTkl5ZlNUR1Joa3puMzd4QzJSTENnVFE",
-   "source": "Teslarati",
-   "published_at": "2026-10-07T17:16:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-07T17:16:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kdGdudHhyb1VwM3FKN2JjdTYtMnFWSlV4V0NfX0JCT1k5NWRYR3lic0tpeEdpOXFoTnZEZkxuS01uYlBFSHVWR1JyT3RBM2IzTkl5ZlNUR1Joa3puMzd4QzJSTENnVFE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉FSD路口变道或挽救生命",
-   "title_zh": "特斯拉FSD在路口中途改变主意，或救人一命",
-   "sentiment": 1
-  },
-  {
    "id": "fce02252de94",
    "title": "Tesla Plot Five-Night Las Vegas Return With ‘Homage’ Residency In 2027 - That Eric Alper",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2pGM0JrUkQwRTFGQkt2N2VEeHpYcTdDYlZhLWtEOGRHRnFHME9feUhNdEJHN1NtT05hcU1USzhuZThQMmtzaVFxbE00NU94MlJmMFZieFFQU25fUWYzSUwwTkx1TUYxamxGVmZNcldSQk1hdG9ITmVNT05fNWxycFRHc244Z2VlVXE4aDExeDZ0dTRVMk1XSzZfOWZRakw5VmVNQkJLd2VYWGN1eHI4",
@@ -3581,6 +3602,26 @@
    "zh_summary": "Trefis：5件事可能动摇特斯拉论点",
    "title_zh": "TSLA股票：5个可能动摇投资论点的事件 - Trefis",
    "sentiment": -1
+  },
+  {
+   "id": "a2e78ca5229a",
+   "title": "Tesla FSD changed its mind mid-intersection, and it may have saved a life - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kdGdudHhyb1VwM3FKN2JjdTYtMnFWSlV4V0NfX0JCT1k5NWRYR3lic0tpeEdpOXFoTnZEZkxuS01uYlBFSHVWR1JyT3RBM2IzTkl5ZlNUR1Joa3puMzd4QzJSTENnVFE",
+   "source": "Teslarati",
+   "published_at": "2026-10-07T16:56:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-07T16:56:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kdGdudHhyb1VwM3FKN2JjdTYtMnFWSlV4V0NfX0JCT1k5NWRYR3lic0tpeEdpOXFoTnZEZkxuS01uYlBFSHVWR1JyT3RBM2IzTkl5ZlNUR1Joa3puMzd4QzJSTENnVFE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "特斯拉FSD路口变道或挽救生命",
+   "title_zh": "特斯拉FSD在路口中途改变主意，或救人一命",
+   "sentiment": 1
   },
   {
    "id": "f29200a01f36",
@@ -5986,6 +6027,23 @@
    "sentiment": 0
   },
   {
+   "id": "227f960487c9",
+   "title": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr",
+   "source": "汽车之家",
+   "published_at": "2026-10-07T04:07:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-07T04:07:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "7f556b34b70a",
    "title": "Tesla Bull Gary Black Warns Investors About Confusing 'Great Company' With a Great Stock: ‘Valuation Matters’ Even With 45% EPS Growth - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFlBanYxZ3RuZXJPUXFWNFZ3RXpXNm9iUndDanZCbXE4am1HM2tpS005RTdrR3VnYmItM3ZLMzBMZ0czTEhJb0JoR0hrTk5pYnAwbkJ2a05nMTBmclhZMk9XUmVKdC1NYUoxNEhRazhyYXFsZ0RRYlVJNkVWellWd2gtLUxFZDVrZTlhdUpvTVV2QVV2WS1v",
@@ -6724,71 +6782,6 @@
    "zh_summary": "Rivian软件负责人跟进发布万圣节字母重组",
    "title_zh": "特斯拉推出后Rivian软件负责人发布万圣节字母重组",
    "sentiment": 0
-  },
-  {
-   "id": "7c1a390feba3",
-   "title": "How to Check If Your Tesla Has Powershare Capability - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUFqN3ctajM4NUl2cEhNSTd1b1NiWkdnSmMxUDYtUlFzWnQxdDlWQngxQXlILVpsMVh0NW9ienFtMzFaa3poQkJEeERqX3NWZmNFdE9naUVJc1JZSHNoMjVFd3hRSVNyekpTS05qOXBBY2NZSDJJenZEWWRKVVpVejZUMnhkdXpVNGt4dGwxUFo",
-   "source": "BASENOR",
-   "published_at": "2026-10-06T21:05:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-06T21:05:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUFqN3ctajM4NUl2cEhNSTd1b1NiWkdnSmMxUDYtUlFzWnQxdDlWQngxQXlILVpsMVh0NW9ienFtMzFaa3poQkJEeERqX3NWZmNFdE9naUVJc1JZSHNoMjVFd3hRSVNyekpTS05qOXBBY2NZSDJJenZEWWRKVVpVejZUMnhkdXpVNGt4dGwxUFo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "如何检查特斯拉是否支持Powershare",
-   "title_zh": "如何检查你的特斯拉是否支持Powershare",
-   "sentiment": 0
-  },
-  {
-   "id": "265cf5c81ecb",
-   "title": "Tesla is now making more EVs that can double as a home battery - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb19OMVl0aGxNTFItZjNUX2RQQ2pwbHJqMjhBNzlfOXduMUhZMlRrN1FRMGo5S1VmWTFYT0V4Y3I1VWFtY1FFcXJsSzdQa1ZOS043S0tYM1IySWlUdHdVMVMwaVNIVEF5NDJnMkphQ3B5WTVXODBoOTc0SjEwaFFrNkgzSnZSWDk5UEQyZVQ1RGJmUExueFRZ",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-06T21:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-06T21:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb19OMVl0aGxNTFItZjNUX2RQQ2pwbHJqMjhBNzlfOXduMUhZMlRrN1FRMGo5S1VmWTFYT0V4Y3I1VWFtY1FFcXJsSzdQa1ZOS043S0tYM1IySWlUdHdVMVMwaVNIVEF5NDJnMkphQ3B5WTVXODBoOTc0SjEwaFFrNkgzSnZSWDk5UEQyZVQ1RGJmUExueFRZ"
-    },
-    {
-     "name": "Canary Media",
-     "published_at": "2026-10-06T21:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb2FxRDJ3X3kwSEZZXzJ5M1M5YTgwYW5keC1VRXZTNnAzZUVYUVVnMjJ4NXU0Z2xqem5OUV81aFlMQ2hYM1l0aDF0d1dLdWRadG9OWEpTMmJkQ1l5LUhmSVZEVGNkMERlcENmNWxyNTBjcklxZWZNNEdPLW16Q21CbkJkQmkxdUk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉多款电动车可作家庭电池",
-   "title_zh": "特斯拉更多电动车可兼作家庭储能电池",
-   "sentiment": 1
-  },
-  {
-   "id": "f79d9f6bfe71",
-   "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house - The Verge",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM01MWUpRMlVtU2ZLZnJyYTk0NnZHT2E5UUEzRDhUMzNSNUtQWWxCVDJ1Z2tzVUpVTmVEQW5ZS094UDFtSmZZWm9TZ2IxWWg5Y2JxOHdseWtyVTRFS3BxbmVpUFExYWNVU2J2cHlCN09tNjlMZ2xLcTlnSVVxTlh6RHNVVXdGLXo3NllFVndZNEE1X18yejlv",
-   "source": "The Verge",
-   "published_at": "2026-10-06T20:37:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Verge",
-     "published_at": "2026-10-06T20:37:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM01MWUpRMlVtU2ZLZnJyYTk0NnZHT2E5UUEzRDhUMzNSNUtQWWxCVDJ1Z2tzVUpVTmVEQW5ZS094UDFtSmZZWm9TZ2IxWWg5Y2JxOHdseWtyVTRFS3BxbmVpUFExYWNVU2J2cHlCN09tNjlMZ2xLcTlnSVVxTlh6RHNVVXdGLXo3NllFVndZNEE1X18yejlv"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model 3/Y可当家庭备用电源",
-   "title_zh": "特斯拉Model 3和Model Y可作家庭备用电源",
-   "sentiment": 1
   }
  ]
 }
