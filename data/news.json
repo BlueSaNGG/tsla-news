@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T14:22:26.732269+00:00",
+ "updated_at": "2026-10-08T14:37:26.066651+00:00",
  "market": {
-  "price": 372.28,
-  "change_pct": -1.46,
+  "price": 373.11,
+  "change_pct": -1.24,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.4%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（63条已评分）"
+     "note": "今日新闻情绪 +0.25（67条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.28 vs 20日均线 $367.66"
+     "note": "现价 $373.11 vs 20日均线 $367.70"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.4,
-   "ma20": 367.66,
-   "as_of": "2026-10-08T14:22:26.715563+00:00"
+   "implied_upside_pct": 7.2,
+   "ma20": 367.7,
+   "as_of": "2026-10-08T14:37:26.060018+00:00"
   },
-  "pe_ttm": 103.0,
+  "pe_ttm": 103.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 63
+   "avg": 0.25,
+   "count": 67
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "aa567234cbb9",
+   "title": "Tesla Gets $500 Target From Dan Ives in First Call at New Firm - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTg0cGh5aFRJZ1dra0cwT0Z0dXNCSFdVQXRPcjI3QkFDM3BCb1lqM3BXOHg2S0lLa2lwbmZ2Z2VTVGtRR0dsMDN0eVlGQ1Y5dW5Za2lVd1QxOFFncGdady1fa1d4VTBVS1BYM3FWQ0lpU3lsTDljYUhDN2s4U3hiWmJzN2NMRXJfd2d4U0REaGx2OVhMdzI1YmNuTzhjZw",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-08T14:31:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-08T14:31:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTg0cGh5aFRJZ1dra0cwT0Z0dXNCSFdVQXRPcjI3QkFDM3BCb1lqM3BXOHg2S0lLa2lwbmZ2Z2VTVGtRR0dsMDN0eVlGQ1Y5dW5Za2lVd1QxOFFncGdady1fa1d4VTBVS1BYM3FWQ0lpU3lsTDljYUhDN2s4U3hiWmJzN2NMRXJfd2d4U0REaGx2OVhMdzI1YmNuTzhjZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d389d74aee72",
+   "title": "斯洛伐克预计将批准特斯拉全自动驾驶 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aX3dtakRZMFotSEtFcUpRc05rZ0cwN2liR0N5RE9YcmtiNUZocTVjWEhBVlhtQUpEcFVYcTFiMmRqU1VwODhzQ0JUa21TLW81dldGRW1EWEpFZ0dXZ0haaEJB",
+   "source": "观点网",
+   "published_at": "2026-10-08T14:28:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-08T14:28:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aX3dtakRZMFotSEtFcUpRc05rZ0cwN2liR0N5RE9YcmtiNUZocTVjWEhBVlhtQUpEcFVYcTFiMmRqU1VwODhzQ0JUa21TLW81dldGRW1EWEpFZ0dXZ0haaEJB"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "a33975df8f47",
    "title": "Tesla files trademark for ‘TESLA CYBERCENTER’ - Gerben IP",
@@ -6737,51 +6771,6 @@
    "zh_summary": "特斯拉向Model 3/Y开通家庭备电",
    "title_zh": "特斯拉Powershare家庭备用电源支持Model 3/Y",
    "sentiment": 1
-  },
-  {
-   "id": "9b9cb0db5c8f",
-   "title": "特斯拉Powershare家庭备用电源现已面向Model 3和Model Y开放 - 新闻和统计 - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGZ5N1pLZmZpaGx4aHJyMTlkZUJzTkU5UjFWOG5XcmFoQllEbFIwQS1tMWljaU5lMWE1UGNxTGhMZ2pmb3ZWc1ZuSFRTNTVxWkxzeUllZ0pYd2JZeXZjOE11MVBFdkkyTGZsVTN2WW5JQTJuSnZtcGlqVC1GeFZUZUJoMU91Q19kMmx2SVBNZw",
-   "source": "IndexBox",
-   "published_at": "2026-10-06T19:20:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "IndexBox",
-     "published_at": "2026-10-06T19:20:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGZ5N1pLZmZpaGx4aHJyMTlkZUJzTkU5UjFWOG5XcmFoQllEbFIwQS1tMWljaU5lMWE1UGNxTGhMZ2pmb3ZWc1ZuSFRTNTVxWkxzeUllZ0pYd2JZeXZjOE11MVBFdkkyTGZsVTN2WW5JQTJuSnZtcGlqVC1GeFZUZUJoMU91Q19kMmx2SVBNZw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Powershare向Model 3/Y开放",
-   "title_zh": "特斯拉Powershare家庭备用电源现已面向Model 3和Model Y开放 - 新闻和统计 - IndexBox",
-   "sentiment": 1
-  },
-  {
-   "id": "afced8dd5b3e",
-   "title": "Tesla Rolls Out Halloween Mode With Spooky Sounds, Lights and More [2026.38.3] - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEc2RSTlNCS0lrR2FLcGJaNXZQMHo4d0JNeVVzcXFHTkVnNWVOYzV1V09uU0VDWnlPdDJjUW03TFBFaEc3UlZBcGNtVUh3UnJsZkVWVXNETDdsTFRnTkJhS3JuV0R1MDBEM3R0MVZweGxtOVBQYjlyV001TQ",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-06T19:17:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-06T19:17:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEc2RSTlNCS0lrR2FLcGJaNXZQMHo4d0JNeVVzcXFHTkVnNWVOYzV1V09uU0VDWnlPdDJjUW03TFBFaEc3UlZBcGNtVUh3UnJsZkVWVXNETDdsTFRnTkJhS3JuV0R1MDBEM3R0MVZweGxtOVBQYjlyV001TQ"
-    },
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-06T19:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcU5rZE5la2daNVBvNlNPS1NldGJDaEtyQnJzUlgwREw4MTUweGRSUHNMblZlVGhNQmFVdDFnYWx3TXRfVUs3OXloVkhvamx6bk9oVk9vQ29XaXVJQndUS053SlZoQmJRRXpTRk5vMnR6Vi1HTXd2ZVN4UHVTdHp0bjJvbG9NXzgxc1FpQnFxbGlHSzg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉推出含恐怖音效灯光的万圣节模式",
-   "title_zh": "特斯拉推出含恐怖音效灯光的万圣节模式",
-   "sentiment": 0
   }
  ]
 }
