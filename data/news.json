@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T18:07:31.867783+00:00",
+ "updated_at": "2026-10-08T18:22:33.374054+00:00",
  "market": {
-  "price": 370.69,
-  "change_pct": -1.88,
+  "price": 371.37,
+  "change_pct": -1.7,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（101条已评分）"
+     "note": "今日新闻情绪 +0.21（102条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $370.69 vs 20日均线 $367.58"
+     "note": "现价 $371.37 vs 20日均线 $367.61"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 38,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.9,
-   "ma20": 367.58,
-   "as_of": "2026-10-08T18:07:31.849475+00:00"
+   "implied_upside_pct": 7.7,
+   "ma20": 367.61,
+   "as_of": "2026-10-08T18:22:33.364719+00:00"
   },
-  "pe_ttm": 102.5,
+  "pe_ttm": 102.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.22,
-   "count": 101
+   "avg": 0.21,
+   "count": 102
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fcb252b6e875",
+   "title": "Avidian Wealth Enterprises LLC Acquires 1,678 Shares of Tesla, Inc. $TSLA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnNHUVhFSTd1ZElXVmJabEpxbHhoazY5TXBEOG5LbTB1eERQc0F1SnZtNzFnQXNraFNWLThYRnY3NGFVMnlXYjBENTE0bjFTVjFWeW9yTjliWVQzT09uaHZUYmJlQWZQN1RkUmlmbHdzNzItQ0ZCVWlsTVJJVnREbFB1a1hIemp4RkpOam5tSEdGaTJ3b0lmY0Rqb2VLZ3JqWTJvVXVELWRkQWJpUUZoNDljcUlvd2pMcFFpa0NmbTRDT2U0TjB6NjhB",
+   "source": "MarketBeat",
+   "published_at": "2026-10-08T17:51:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-08T17:51:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnNHUVhFSTd1ZElXVmJabEpxbHhoazY5TXBEOG5LbTB1eERQc0F1SnZtNzFnQXNraFNWLThYRnY3NGFVMnlXYjBENTE0bjFTVjFWeW9yTjliWVQzT09uaHZUYmJlQWZQN1RkUmlmbHdzNzItQ0ZCVWlsTVJJVnREbFB1a1hIemp4RkpOam5tSEdGaTJ3b0lmY0Rqb2VLZ3JqWTJvVXVELWRkQWJpUUZoNDljcUlvd2pMcFFpa0NmbTRDT2U0TjB6NjhB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "c034c68b426e",
    "title": "Tesla gets more time to respond to NHTSA Cybercab audit - Drive Tesla Canada",
@@ -126,6 +143,23 @@
    "zh_summary": "对比比亚迪与特斯拉市盈率该买哪只",
    "title_zh": "比亚迪市盈率20倍，特斯拉344倍：今天买哪只",
    "sentiment": 0
+  },
+  {
+   "id": "b5312c2f8e7e",
+   "title": "Tesla FSD Caught Speeding And Attempting Illegal Passes Ahead Of EU Approval Decision - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFBkcEN4cXlPeDFYczhnbDI5a2JSQVREa0ZSR2w4NVJHbzQ3VURmWXVIbm9hM0NvMVduN0hkLTMtMzZDU1VjSlVuRFh1bFVPZVpSTVgyOXdFN3dsbG5wN2laMzZ5ZEtKTjZmMTQ5SExYMUVPUVdtWUFqYzlYaU96QWp5dENFbnZiRUFibzZsTk9BeUR3TU9QcS1UWEZVTWhoY0R3SVZR",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-08T17:30:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-08T17:30:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZFBkcEN4cXlPeDFYczhnbDI5a2JSQVREa0ZSR2w4NVJHbzQ3VURmWXVIbm9hM0NvMVduN0hkLTMtMzZDU1VjSlVuRFh1bFVPZVpSTVgyOXdFN3dsbG5wN2laMzZ5ZEtKTjZmMTQ5SExYMUVPUVdtWUFqYzlYaU96QWp5dENFbnZiRUFibzZsTk9BeUR3TU9QcS1UWEZVTWhoY0R3SVZR"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "93c5e7e49934",
@@ -6748,46 +6782,6 @@
     "pct": -1.26,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "d16d73b3a4ba",
-   "title": "TSLA Stock Watches SpaceX IPO While Cheapest Cybertruck Hits Driveways After Long Wait - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckp6YWl1eW1xdFpkWnl5V1Nxd1E1bDk5SlV6LVdmZnNVMWFybDZCTVFUaEIzV2NKWnZPMU1VVG5GSzhabkVNcmlwMHVhU0hUcmQwU1JKN2w5UkFMUG41WmZwVUl4RVZOa21ibktWbExMTXhSZW84dzVDd0NnSGozQWdrQ3djQUlPTm56ZG1uTnJ3b3YtMFZhai11eENpWWNORjhFaFowbEFPQjJKTDNJTmdGbkF4LU80c2F0MEpWNGpWOXhCWFpoeU9sb0VycWxaY2xtUll0SGxZWGY4NVc5dWJaSmw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T03:07:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T03:07:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckp6YWl1eW1xdFpkWnl5V1Nxd1E1bDk5SlV6LVdmZnNVMWFybDZCTVFUaEIzV2NKWnZPMU1VVG5GSzhabkVNcmlwMHVhU0hUcmQwU1JKN2w5UkFMUG41WmZwVUl4RVZOa21ibktWbExMTXhSZW84dzVDd0NnSGozQWdrQ3djQUlPTm56ZG1uTnJ3b3YtMFZhai11eENpWWNORjhFaFowbEFPQjJKTDNJTmdGbkF4LU80c2F0MEpWNGpWOXhCWFpoeU9sb0VycWxaY2xtUll0SGxZWGY4NVc5dWJaSmw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "最便宜版Cybertruck开始交付",
-   "title_zh": "TSLA关注SpaceX IPO，最便宜Cybertruck交付",
-   "sentiment": 0
-  },
-  {
-   "id": "9a48481eeca7",
-   "title": "Tesla FSD V14.3.11 and V14.3 Lite Rolling Out: What to Do Now - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kQ201alBFM1VrTDBnSmRpM1lYRzkxSUNMWVl4ZXdTUm10V2NjclR2N3JrVkh4bnN5MUpJczhkU0dJQ21waUI3eEhTRXBwRlJCMUdIaEZlSlA2QjI0bF81QTRDM2xmVUh4",
-   "source": "BASENOR",
-   "published_at": "2026-10-07T03:06:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-07T03:06:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kQ201alBFM1VrTDBnSmRpM1lYRzkxSUNMWVl4ZXdTUm10V2NjclR2N3JrVkh4bnN5MUpJczhkU0dJQ21waUI3eEhTRXBwRlJCMUdIaEZlSlA2QjI0bF81QTRDM2xmVUh4"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD V14.3.11开始推送",
-   "title_zh": "特斯拉FSD V14.3.11和V14.3 Lite版开始推送：现在该做什么",
-   "sentiment": 1
   }
  ]
 }
