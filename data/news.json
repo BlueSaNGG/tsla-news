@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T19:07:27.077977+00:00",
+ "updated_at": "2026-10-08T19:22:36.829294+00:00",
  "market": {
-  "price": 371.78,
-  "change_pct": -1.6,
+  "price": 372.52,
+  "change_pct": -1.4,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 38% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.6%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（107条已评分）"
+     "note": "今日新闻情绪 +0.19（109条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $371.78 vs 20日均线 $367.63"
+     "note": "现价 $372.52 vs 20日均线 $367.68"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 38,
+   "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.6,
-   "ma20": 367.63,
-   "as_of": "2026-10-08T19:07:27.057944+00:00"
+   "implied_upside_pct": 7.4,
+   "ma20": 367.68,
+   "as_of": "2026-10-08T19:22:36.821909+00:00"
   },
-  "pe_ttm": 102.8,
+  "pe_ttm": 103.0,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
-   "count": 107
+   "avg": 0.19,
+   "count": 109
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d0c8de5393af",
+   "title": "Elon Musk Awarded National Medal of Science; Trump Praises Tesla FSD - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWtNb2hqNzVpZnMyaFFieTliTzJNbWF1ZERCbEJtYTY0bnlhMVMycUFmVzVjdmxfaFprZ0JaUVBMSGdBTTRJWjdqTGJXQi1KVjRzOHRjdlhUS0ZPM3djRkF0MWFZbDEwcDhTQUt0ejV1MzhMejFRXzkxZXZPa2VOa01IOTA3U1kzTnFpdHBZUmhKZHoydHBDR0ZGZHN1S1JIUmhNTg",
+   "source": "BASENOR",
+   "published_at": "2026-10-08T19:05:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-08T19:05:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWtNb2hqNzVpZnMyaFFieTliTzJNbWF1ZERCbEJtYTY0bnlhMVMycUFmVzVjdmxfaFprZ0JaUVBMSGdBTTRJWjdqTGJXQi1KVjRzOHRjdlhUS0ZPM3djRkF0MWFZbDEwcDhTQUt0ejV1MzhMejFRXzkxZXZPa2VOa01IOTA3U1kzTnFpdHBZUmhKZHoydHBDR0ZGZHN1S1JIUmhNTg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "9dfcd9f56be9",
+   "title": "Tesla Model 3, Y Gain V2H With New PCS2 Lite Inverter - Autoguide.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTh4SGVUd3AzY3pJaUFLOFgydkF0amJqUE1yUk1kbTl2Q3Y3ZkZSelhhaDhzUVRPaE1uZWhpX1RDajhjZm5scnJnNGc0NXRzQndyUFdKbEtNby1DbWMtMHE5OTQyVGx5Umk2amlTdHpyZHRyS3IySENwZGl3ZEF0TnJIcFpSVHlRYlgwM1hSRTBwMGlqX21V",
+   "source": "Autoguide.com",
+   "published_at": "2026-10-08T19:02:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoguide.com",
+     "published_at": "2026-10-08T19:02:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTh4SGVUd3AzY3pJaUFLOFgydkF0amJqUE1yUk1kbTl2Q3Y3ZkZSelhhaDhzUVRPaE1uZWhpX1RDajhjZm5scnJnNGc0NXRzQndyUFdKbEtNby1DbWMtMHE5OTQyVGx5Umk2amlTdHpyZHRyS3IySENwZGl3ZEF0TnJIcFpSVHlRYlgwM1hSRTBwMGlqX21V"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "77c2a9374f7f",
    "title": "Tesla Pops-Up at Westfield Montgomery Mall - The MoCo Show -",
@@ -83,8 +117,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉快闪现身Westfield Montgomery Mall",
    "zh_summary": "特斯拉快闪店进驻蒙哥马利购物中心",
+   "title_zh": "特斯拉快闪现身Westfield Montgomery Mall",
    "sentiment": 0
   },
   {
@@ -984,26 +1018,6 @@
    "sentiment": 1
   },
   {
-   "id": "20290b22d3e0",
-   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
-   "source": "Finbold",
-   "published_at": "2026-10-08T13:27:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Finbold",
-     "published_at": "2026-10-08T13:27:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师设定特斯拉12个月目标价",
-   "title_zh": "分析师设定特斯拉(TSLA)未来12个月目标价",
-   "sentiment": 0
-  },
-  {
    "id": "069e47b12444",
    "title": "Tesla Megacharger network reaches east coast with new station in Georgia - driveteslacanada.ca",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn",
@@ -1666,8 +1680,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "TSLA创1个月新低受SpaceX合并担忧拖累，分析师称一年内或获66%收益",
    "zh_summary": "分析师称特斯拉股东一年内可获66%收益",
+   "title_zh": "TSLA创1个月新低受SpaceX合并担忧拖累，分析师称一年内或获66%收益",
    "sentiment": 1
   },
   {
@@ -1910,8 +1924,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "瑞典据报反对欧盟批准FSD，特斯拉遇重大障碍",
    "zh_summary": "瑞典据报反对欧盟批准特斯拉FSD",
+   "title_zh": "瑞典据报反对欧盟批准FSD，特斯拉遇重大障碍",
    "sentiment": -1
   },
   {
@@ -2104,12 +2118,12 @@
    "title": "挑战特斯拉Model Y！新世代宝马iX4全球首发，标配双电机四驱 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY1MzeENtamV2QTZrcWM4MnU5ZThscDUweUZ2X01oc3VYMWVyWnkyN0ZNajBiYzBCWG9uSnREQlV0WjFETFFtUWNROUY5ekhFaFZCNF81cEw5WGM",
    "source": "汽车之家",
-   "published_at": "2026-10-08T07:13:15+00:00",
+   "published_at": "2026-10-08T07:12:56+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-08T07:13:15+00:00",
+     "published_at": "2026-10-08T07:12:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY1MzeENtamV2QTZrcWM4MnU5ZThscDUweUZ2X01oc3VYMWVyWnkyN0ZNajBiYzBCWG9uSnREQlV0WjFETFFtUWNROUY5ekhFaFZCNF81cEw5WGM"
     },
     {
@@ -2782,12 +2796,17 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZENLeHpSUC02QTJMbFA5RWNEdXVpQU0wSGE5ZDBpbndTMzRYLUZFdFBLdXk2QnhRdlVkMWZCazUwWTZQRk1yc1k5Umx2UWdMWmxoOVZ0T25yVHJXY0NmLVpKdXhGQkFLbkNOUThaSmU4OG5TVmc",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-08T03:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-08T03:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZENLeHpSUC02QTJMbFA5RWNEdXVpQU0wSGE5ZDBpbndTMzRYLUZFdFBLdXk2QnhRdlVkMWZCazUwWTZQRk1yc1k5Umx2UWdMWmxoOVZ0T25yVHJXY0NmLVpKdXhGQkFLbkNOUThaSmU4OG5TVmc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T03:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXJiVUZwRDJZelRGSS1uWHlHcl9ESFVObHJLOXh2R1FPR0VZTnk4RkFrTlNJRnJiZGRvUkZZbkF2RDBfdlE2VU01M0ZmR3FvUTFUQXQ1MXhwOFJPQ3lJcjVHRHlzT3k4MldFM0phSy1sbzk2LTRQeW5OLThtQi1VT2NoVW9fQkdhZ0lR"
     }
    ],
    "category": "其他",
@@ -3381,8 +3400,8 @@
    ],
    "category": "财报",
    "session": "盘后",
-   "title_zh": "晨星称特斯拉估值极具吸引力，现在是买入时机",
    "zh_summary": "晨星：特斯拉估值极具吸引力宜买入",
+   "title_zh": "晨星称特斯拉估值极具吸引力，现在是买入时机",
    "sentiment": 1
   },
   {
@@ -3466,8 +3485,8 @@
    ],
    "category": "车型产品",
    "session": "盘后",
-   "title_zh": "Roadster预告引SpaceX热议，马斯克称新Semi将改变游戏规则",
    "zh_summary": "马斯克称新款Semi将改变游戏规则",
+   "title_zh": "Roadster预告引SpaceX热议，马斯克称新Semi将改变游戏规则",
    "sentiment": 1
   },
   {
@@ -5109,8 +5128,8 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "特斯拉关注SpaceX IPO，最便宜版Cybertruck终交付",
    "zh_summary": "最便宜版Cybertruck开始交付",
+   "title_zh": "特斯拉关注SpaceX IPO，最便宜版Cybertruck终交付",
    "sentiment": 1
   },
   {
@@ -6766,26 +6785,6 @@
    "session": "盘后",
    "zh_summary": "Model 3/Y获Cybertruck独有功能",
    "title_zh": "特斯拉Model 3和Y新增Cybertruck独有功能 - Teslarati",
-   "sentiment": 1
-  },
-  {
-   "id": "f103d9751694",
-   "title": "特斯拉称霸爱尔兰9月市场，比亚迪进前十，MG 4拿下车型榜第二 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzJRXzl1WjdiTWlIUGM4YnNtYkRVSnFnTWs3bWJYeXZGTXh0LWFoazBWLXl2TFpJME5iSFZyam1RRmVOVWhRZWNpZVVsaEhDSVlCVWlvSE5adzRWMTJOQWdLaWdhOHpZQThramF4Z2FQUE04OHN2TGowM0Nub2ZhX0MtV1QtSDJV",
-   "source": "搜狐网",
-   "published_at": "2026-10-07T04:54:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-07T04:54:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzJRXzl1WjdiTWlIUGM4YnNtYkRVSnFnTWs3bWJYeXZGTXh0LWFoazBWLXl2TFpJME5iSFZyam1RRmVOVWhRZWNpZVVsaEhDSVlCVWlvSE5adzRWMTJOQWdLaWdhOHpZQThramF4Z2FQUE04OHN2TGowM0Nub2ZhX0MtV1QtSDJV"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉称霸爱尔兰9月汽车市场",
-   "title_zh": "特斯拉称霸爱尔兰9月市场，比亚迪进前十 - 搜狐网",
    "sentiment": 1
   }
  ]
