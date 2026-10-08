@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T14:37:26.066651+00:00",
+ "updated_at": "2026-10-08T14:52:37.058205+00:00",
  "market": {
-  "price": 373.11,
-  "change_pct": -1.24,
+  "price": 372.93,
+  "change_pct": -1.29,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.2%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（67条已评分）"
+     "note": "今日新闻情绪 +0.28（69条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.11 vs 20日均线 $367.70"
+     "note": "现价 $372.93 vs 20日均线 $367.69"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.2,
-   "ma20": 367.7,
-   "as_of": "2026-10-08T14:37:26.060018+00:00"
+   "implied_upside_pct": 7.3,
+   "ma20": 367.69,
+   "as_of": "2026-10-08T14:52:37.050982+00:00"
   },
-  "pe_ttm": 103.2,
+  "pe_ttm": 103.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 67
+   "avg": 0.28,
+   "count": 69
   }
  },
  "meta": {
@@ -67,6 +67,91 @@
   }
  },
  "stories": [
+  {
+   "id": "735de19e0157",
+   "title": "Tesla Patent Reveals Flexible Sensors That Let Optimus Feel Objects - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFZtZWl6RzRWUXFOWi1saWxOcXQ2Zl9iZmVqbDdvUHVvNmZKYkdDc3praDlsNlJ1NW1BQXBQZ3RnOXlEc2NSWTR3YTd3NUdqd0pkUVBlRXJ1a0Z5MGwxS2lidVczSGNtQjRTc2Q2bTZVTERvTEFUVjNpZnNhVTVKRjF6dlVreXlrU3M1eTk5TEthU3lJZXliWV83ajdHUVBRTTNGRklIM3hvdw",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-08T14:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-08T14:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFZtZWl6RzRWUXFOWi1saWxOcXQ2Zl9iZmVqbDdvUHVvNmZKYkdDc3praDlsNlJ1NW1BQXBQZ3RnOXlEc2NSWTR3YTd3NUdqd0pkUVBlRXJ1a0Z5MGwxS2lidVczSGNtQjRTc2Q2bTZVTERvTEFUVjNpZnNhVTVKRjF6dlVreXlrU3M1eTk5TEthU3lJZXliWV83ajdHUVBRTTNGRklIM3hvdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "fbba1c9b03ba",
+   "title": "Tesla Semi-Trucks Could Be The Big Winner In America's Diesel Price Crisis - SlashGear",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHhDM1VfOF9CNkVPaUM3ZGxhZllHSmNZSTVJM1JxNVZrMGUxRHl5VmhRR011TzhVOFpvQlBwUWRLRFJaNV9RY0dLWnBBekZGUW1rRnhiaE5vLS02TmtTOXNaalhfR0RPeGZoMTE2OElEZ085NDMxRjJPM1JDVGxqaUF1a2thZXM",
+   "source": "SlashGear",
+   "published_at": "2026-10-08T14:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SlashGear",
+     "published_at": "2026-10-08T14:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHhDM1VfOF9CNkVPaUM3ZGxhZllHSmNZSTVJM1JxNVZrMGUxRHl5VmhRR011TzhVOFpvQlBwUWRLRFJaNV9RY0dLWnBBekZGUW1rRnhiaE5vLS02TmtTOXNaalhfR0RPeGZoMTE2OElEZ085NDMxRjJPM1JDVGxqaUF1a2thZXM"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "c570635905b1",
+   "title": "曝特斯拉施压欧洲监管：嫌36.5万欧元审查费太贵 要求缩减FSD审查范围 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ubmp2UkdfeGRtdmxnSGNPeWhVSWxNTzhZWko2em9BRGo5NWFJVzQxdmRVaDc4M0UyZjh4Z0JSUDlVN1hHTUtSeDczWEJMenVGQVlJOHR5X3A",
+   "source": "驱动之家",
+   "published_at": "2026-10-08T14:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-08T14:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ubmp2UkdfeGRtdmxnSGNPeWhVSWxNTzhZWko2em9BRGo5NWFJVzQxdmRVaDc4M0UyZjh4Z0JSUDlVN1hHTUtSeDczWEJMenVGQVlJOHR5X3A"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d445225cdcfa",
+   "title": "HashPack Stock Trading Goes Live Through SODAX With Tokenized AAPL, NVDA, TSLA and SPY - genfinity.io",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YTm8xWnpFUWI2SmJ4ajY3bkJzdXMzVGFmaUZDOTdnYm84RWlOQzhqdkYxekhkZ2I1ZTdWcm5wRk02Z2NGSGRmSFprREJBSV92UFBKMFNEYUlPaEkzQ3pRQmRKdGFzdTZqQlFXTmxqbzh0Q1p3",
+   "source": "genfinity.io",
+   "published_at": "2026-10-08T14:37:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "genfinity.io",
+     "published_at": "2026-10-08T14:37:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YTm8xWnpFUWI2SmJ4ajY3bkJzdXMzVGFmaUZDOTdnYm84RWlOQzhqdkYxekhkZ2I1ZTdWcm5wRk02Z2NGSGRmSFprREJBSV92UFBKMFNEYUlPaEkzQ3pRQmRKdGFzdTZqQlFXTmxqbzh0Q1p3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "f5f1bc083821",
+   "title": "特斯拉Cybercab巴黎车展首秀？真正的看点不是车，而是欧洲市场的态度 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LNXYwUzU4RTM0d1h1RVJJZjlNZGMyN05rNVQ3eUVkLU1Rb1pkQ2NXNXhhTFZJZWZSZWNZdE5qekdYeS12TEthb3ptakpCYm5GanRDNExlTUpDUFU",
+   "source": "网通社",
+   "published_at": "2026-10-08T14:35:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-08T14:35:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LNXYwUzU4RTM0d1h1RVJJZjlNZGMyN05rNVQ3eUVkLU1Rb1pkQ2NXNXhhTFZJZWZSZWNZdE5qekdYeS12TEthb3ptakpCYm5GanRDNExlTUpDUFU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "aa567234cbb9",
    "title": "Tesla Gets $500 Target From Dan Ives in First Call at New Firm - Electric Vehicles",
@@ -83,9 +168,26 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉获丹·艾夫斯新公司首评，目标价$500",
    "zh_summary": "丹·艾夫斯新公司首评目标价500美元",
+   "title_zh": "特斯拉获丹·艾夫斯新公司首评，目标价$500",
    "sentiment": 1
+  },
+  {
+   "id": "a6da0f48c1fa",
+   "title": "Tesla Win Establishes UK Courts May Set Patent Pool Rates - Law360",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFlDYXVkbHVlb0lTYlB5UVI0NjZSLTRDWnpVTHdkdGx2X3YxeGRVMGhDQUJaUWNGSVhBOEtTR0lpYXZKNUdLMTNOdkEtNjFYWURTWVNPMW1QR285T1BCd2thX3N1NWVDY2tPaUhZZ0N4QURlWWtzVWtfZmZjckhLaXJVT1RZU3o3X2owQUtnUGg2VW13LTFFTFE0UTRrQdIBVkFVX3lxTE1ScklBb05Ld2ZNN1VjVXg0aHJzTnY0cnloODdoUmhTVU9NN1h4b28tY3M0MVdpY09QTWpiYldZX29kWmtQVW9zYVZmNU9kQmNNOUVTQm9R",
+   "source": "Law360",
+   "published_at": "2026-10-08T14:30:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Law360",
+     "published_at": "2026-10-08T14:30:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFlDYXVkbHVlb0lTYlB5UVI0NjZSLTRDWnpVTHdkdGx2X3YxeGRVMGhDQUJaUWNGSVhBOEtTR0lpYXZKNUdLMTNOdkEtNjFYWURTWVNPMW1QR285T1BCd2thX3N1NWVDY2tPaUhZZ0N4QURlWWtzVWtfZmZjckhLaXJVT1RZU3o3X2owQUtnUGg2VW13LTFFTFE0UTRrQdIBVkFVX3lxTE1ScklBb05Ld2ZNN1VjVXg0aHJzTnY0cnloODdoUmhTVU9NN1h4b28tY3M0MVdpY09QTWpiYldZX29kWmtQVW9zYVZmNU9kQmNNOUVTQm9R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "d389d74aee72",
@@ -103,8 +205,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
-   "title_zh": "斯洛伐克预计将批准特斯拉全自动驾驶 - 观点网",
    "zh_summary": "斯洛伐克预计批准特斯拉FSD",
+   "title_zh": "斯洛伐克预计将批准特斯拉全自动驾驶 - 观点网",
    "sentiment": 1
   },
   {
@@ -575,6 +677,23 @@
    "zh_summary": "TSLA在$380附近面临阻力",
    "title_zh": "特斯拉股价预测：TSLA面临$380阻力，反弹结束还是蓄势？",
    "sentiment": 0
+  },
+  {
+   "id": "91e049eb35d5",
+   "title": "Tesla Korea's 'unverified' FSD under scrutiny - The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODlueDZESjFJRFBNb09hMnltTDJMaUdpZkNSVkxjNzZ1RGljZEYyUGVuZ1RlczkzZE93MDhJUGF3Q1czWVFvM0ZmVFNzUnE0aWt4TDduTVV6OEE0ekhjc0cxSDkybkN2TTNLZlFHUjluN1JYdHoyeDlMX3hPNGJfUndUa1JSZHYwMXQ3czIxWFpiN2tnUWtyY1czdWY5NnVE0gGmAUFVX3lxTE9oMkpORXptZXh3OHc0SFBBMnVvazdWUHAzSFZrVi1JRjhVY1RscEVCSFNSU2JHWTQ2V2trdTJib3hxbHpHYnBMc2JleGhrN3QtMTZJeTZnb2NQdDBwa0dZS0tndkxVcHlGMHZDZ3pxWF9wdGR1eDJHdGo3ZWkxaDFRMXRmRUhRXzNUdXNXaEJDWGxXRzlCalVBZ1RUSUFObVoyeGRDN2c",
+   "source": "The Korea Times",
+   "published_at": "2026-10-08T11:53:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Korea Times",
+     "published_at": "2026-10-08T11:53:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODlueDZESjFJRFBNb09hMnltTDJMaUdpZkNSVkxjNzZ1RGljZEYyUGVuZ1RlczkzZE93MDhJUGF3Q1czWVFvM0ZmVFNzUnE0aWt4TDduTVV6OEE0ekhjc0cxSDkybkN2TTNLZlFHUjluN1JYdHoyeDlMX3hPNGJfUndUa1JSZHYwMXQ3czIxWFpiN2tnUWtyY1czdWY5NnVE0gGmAUFVX3lxTE9oMkpORXptZXh3OHc0SFBBMnVvazdWUHAzSFZrVi1JRjhVY1RscEVCSFNSU2JHWTQ2V2trdTJib3hxbHpHYnBMc2JleGhrN3QtMTZJeTZnb2NQdDBwa0dZS0tndkxVcHlGMHZDZ3pxWF9wdGR1eDJHdGo3ZWkxaDFRMXRmRUhRXzNUdXNXaEJDWGxXRzlCalVBZ1RUSUFObVoyeGRDN2c"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "4e59ce1d1026",
@@ -2498,6 +2617,23 @@
    "sentiment": -1
   },
   {
+   "id": "9f4e9245b276",
+   "title": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-07T23:10:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-07T23:10:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXB5QjBLLWEzUjZSUlpWWTNENm9DSHpEOUowVXhhYWFsdmdmU2xHTzE0NUdhNEN3elJDOEdrdE90UTJWV0VtcDlEQW93VzkxeTFoaEtaMGo5NHdPdnRmWDE3cG8wcjQzT1BTYWw4UGR6VExQX0k3YzZPd0RScTk4NDhXNFc2cGt2UnczOEZLNU05QVhvSklzSFdkS3FCdVJUUUphSTJkTzhxUl9sZlc1NjFiOE9mV0dNeUpuQjZPSFQtV1RiaDRDXw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
    "id": "c41d395d790e",
    "title": "Tesla Owner Enables Track Mode on Non-Performance Model Y - Not a Tesla App",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNenBuYWdDTjF6TldVQnd1Z3dZSm84azZwMlI2NFVVcWxDZGlDYnlKTHJKYzlPX1pWdlk2RGdkR3dTNzlKUEllTXFGRnZLRnkwY19RbzZsZ0VnZ1pNTlJ4TlVVMWNObGdMYVJ4S2JJbFhjem1VY3dHTHU1VVd4R0JWRDEyc2ktelZzaW9zNFh1ckIxN2poT19RV0FOT2Q",
@@ -2633,8 +2769,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "TSLA隔夜股价下跌，特斯拉推新计划对抗比亚迪",
    "zh_summary": "特斯拉推新计划对抗比亚迪等中企",
+   "title_zh": "TSLA隔夜股价下跌，特斯拉推新计划对抗比亚迪",
    "sentiment": 0
   },
   {
@@ -2699,8 +2835,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "特斯拉获丹麦批准扩大FSD，但TSLA股价下跌",
    "zh_summary": "丹麦批准特斯拉FSD扩张但股价跌",
+   "title_zh": "特斯拉获丹麦批准扩大FSD，但TSLA股价下跌",
    "sentiment": 0
   },
   {
@@ -2804,8 +2940,8 @@
    ],
    "category": "分析师",
    "session": "盘后",
-   "title_zh": "TSLA财报前波动，分析师谨慎乐观上调目标价",
    "zh_summary": "分析师谨慎乐观上调目标价",
+   "title_zh": "TSLA财报前波动，分析师谨慎乐观上调目标价",
    "sentiment": 1
   },
   {
@@ -5302,26 +5438,6 @@
    "sentiment": 1
   },
   {
-   "id": "f6764bd50174",
-   "title": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ",
-   "source": "东方财富",
-   "published_at": "2026-10-07T08:38:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-07T08:38:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUm9DOE40emI3eTNneTBYSDlxRk9YYV9LTkE1RUhtRGdEcFc1bEtUb3R2MXNXM1Y5Y2JSUFpsbm5JZ3NZSEdpV1F6eXUtUEhQNTZfYkVZdFcwVXBCQmVNcQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "title_zh": "SpaceX与特斯拉股价反弹 马斯克身家重返万亿美元 - 东方财富",
-   "zh_summary": "特斯拉股价反弹马斯克身家重返万亿",
-   "sentiment": 1
-  },
-  {
    "id": "aafee61783eb",
    "title": "Tesla uses PR push and flawed safety data in EU FSD drive, Reuters reports (TSLA:NASDAQ) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhiYmlpeVZwdm1rSnVycy1uVUpuMnVzVWdEU3ptc1VSNTljR0pHb2p5M1hBU3V6TzNFSDdZWlFtSU5qZDRTVmRHX0JOd1lPRlBjMEM3QkRDM1pMUW0zb3NTUEFMSTJNN3BYUUZTYkRKSzVLd0M5d05ZZVJjcHJ0Ul83d1dac09ad3VMcjFna0RjM3Y5TE8tRVNGS2xwZjhuZVJvYUp4RXFFajg4YXBlWg",
@@ -6648,146 +6764,6 @@
    "session": "盘后",
    "zh_summary": "Model 3/Y可当家庭备用电源",
    "title_zh": "特斯拉Model 3和Model Y可作家庭备用电源",
-   "sentiment": 1
-  },
-  {
-   "id": "6ad96abe0998",
-   "title": "2026.38.3 Official Tesla Release Notes - Software Updates - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG1ic2sweFRaMmFIZTJsUC0yME5mMVlwbXF2V2t0S1VHRmloWC1XSkRtUm5jTnhrRVUweUhBY1NCSnh5X3owX0lmODhsTDNEbUlhU0l1MlpoX3FIb0R0QjdSdFZ1TFdxSkRIZ3c4eHg5Q2hBU2U3RVo2VEx5SzNzeHJ4VQ",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-06T20:33:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-06T20:33:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG1ic2sweFRaMmFIZTJsUC0yME5mMVlwbXF2V2t0S1VHRmloWC1XSkRtUm5jTnhrRVUweUhBY1NCSnh5X3owX0lmODhsTDNEbUlhU0l1MlpoX3FIb0R0QjdSdFZ1TFdxSkRIZ3c4eHg5Q2hBU2U3RVo2VEx5SzNzeHJ4VQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉2026.38.3版更新日志发布",
-   "title_zh": "特斯拉2026.38.3官方版本更新说明",
-   "sentiment": 0
-  },
-  {
-   "id": "97f3ba9ef06a",
-   "title": "Germany Will Support FSD in EU Vote If Tesla Renames It - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1cxYmMxdmdmS01GbUJ0bFpLQTlWZHh5LV90cE53eGZZdHhHTmxSTU02SkZpSGlsYXc5blBsNDlOT1ZJOGVkZlh6cHZaRDZzQlhPbk9pR2Ztc0twc0c0LUhTTTViQVdiZ3lIdXByS1phMlItdXBRN3RqQVRWYjViMHpvOXBRV3NCSl9HZkpSNzJGQ3Vnc2FIbG1n",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-06T20:29:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-06T20:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1cxYmMxdmdmS01GbUJ0bFpLQTlWZHh5LV90cE53eGZZdHhHTmxSTU02SkZpSGlsYXc5blBsNDlOT1ZJOGVkZlh6cHZaRDZzQlhPbk9pR2Ztc0twc0c0LUhTTTViQVdiZ3lIdXByS1phMlItdXBRN3RqQVRWYjViMHpvOXBRV3NCSl9HZkpSNzJGQ3Vnc2FIbG1n"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "德国称更名就支持FSD入欧投票",
-   "title_zh": "德国表示特斯拉更名就支持欧盟FSD投票",
-   "sentiment": 1
-  },
-  {
-   "id": "c0937f9bef82",
-   "title": "Tesla ships ‘spooky’ Halloween Mode with creepy and fun features - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEZWZ180RlR3dGtZZHBIQWpKZnVEdU10ZmR0WkFUWTQ5Q0JrQVRWeTAtTU82TWUxdS1lMThUWF9PdW1hREtIdmFISTI3Z2JUd2ViOUJEaEg3b0tiSC1majBGY0hxdW80Wmk5RGswcGxiUDdLLVZUZFR3Z3pEb19VMTdZMA",
-   "source": "Teslarati",
-   "published_at": "2026-10-06T20:10:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-06T20:10:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSEZWZ180RlR3dGtZZHBIQWpKZnVEdU10ZmR0WkFUWTQ5Q0JrQVRWeTAtTU82TWUxdS1lMThUWF9PdW1hREtIdmFISTI3Z2JUd2ViOUJEaEg3b0tiSC1majBGY0hxdW80Wmk5RGswcGxiUDdLLVZUZFR3Z3pEb19VMTdZMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉推出万圣节模式增添趣味功能",
-   "title_zh": "特斯拉推出含恐怖趣味功能的万圣节模式",
-   "sentiment": 0
-  },
-  {
-   "id": "2d7f23e2625f",
-   "title": "Black headliner for the Tesla Model 3 Performance, larger screen for the entire lineup, better 0-60 for AWD - Tesla Oracle",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUt1M0JibmxVZWZsSnJUVUVsYjdlRHBSQXdtcXl2dElDVHRWd3pFZFN6Vm5nVFdPT0NzaE1UODNndVBnVUtQaFJLeXA2YWlwM0tNN1RVLURSNk5Na2xYR3RfQ2dJOXJPLUdTeDBpeEdpcXFHd3N3ZWdVNXNMVTNPcjIzRFRDV0RaODdPWlF0Q3RVbk12OHBrLS1sYjRXbmhvczJNN2pEX25VVWhPWFBLT2pOYzRMUQ",
-   "source": "Tesla Oracle",
-   "published_at": "2026-10-06T20:07:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tesla Oracle",
-     "published_at": "2026-10-06T20:07:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUt1M0JibmxVZWZsSnJUVUVsYjdlRHBSQXdtcXl2dElDVHRWd3pFZFN6Vm5nVFdPT0NzaE1UODNndVBnVUtQaFJLeXA2YWlwM0tNN1RVLURSNk5Na2xYR3RfQ2dJOXJPLUdTeDBpeEdpcXFHd3N3ZWdVNXNMVTNPcjIzRFRDV0RaODdPWlF0Q3RVbk12OHBrLS1sYjRXbmhvczJNN2pEX25VVWhPWFBLT2pOYzRMUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model 3 Performance黑顶棚全系大屏加速快",
-   "title_zh": "Model 3 Performance换黑顶棚，全系大屏，AWD加速更快",
-   "sentiment": 1
-  },
-  {
-   "id": "8880616056c9",
-   "title": "Tesla And 2 Other Founder Led Stocks To Own - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGNKSW53Z3FsZ1ZlRHVmUFpYX1o4TTEzOTJRU3pGbXNyMzFxSVY4aVVTSV9TV0RaR0tmVkRKM2RMenhuV1lTcV9sQlkyYUw5QkFHWVpxQ0E0V2xMMkNKR1NCMkUzSGZ6SlgzSlBFeHJFX3IwWG8xWi1ZcWI4Ym9jMWxqZVFYc1RuTjJMMW1rck9xUkpDUGZrVElQWF9ES1daR29VaUFyMVQxWWdNaFhz0gG0AUFVX3lxTFBjZlkzbkh3Vk5wUWhLb0hOZVBIUnVSRUtodWJOMHZtMmVfN2VLVEszRUd1M0paM0JMaWJKdl9BMTBBSHZ0QWVWbWlRaC1UWkxITUxZS0VaSVNRaFl0ZC1xdjBHNXNSU0l1dWFIRURPSVNhbUtUeWJGRktjN0FrZE9ZajlDUXR2Z1BsSDI1M3MxX3NxN0ZSanh6aklHQVFTYllyUFhlTmJ1ZFlnVEZNYkwtYVVTVQ",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-06T19:36:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-06T19:36:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGNKSW53Z3FsZ1ZlRHVmUFpYX1o4TTEzOTJRU3pGbXNyMzFxSVY4aVVTSV9TV0RaR0tmVkRKM2RMenhuV1lTcV9sQlkyYUw5QkFHWVpxQ0E0V2xMMkNKR1NCMkUzSGZ6SlgzSlBFeHJFX3IwWG8xWi1ZcWI4Ym9jMWxqZVFYc1RuTjJMMW1rck9xUkpDUGZrVElQWF9ES1daR29VaUFyMVQxWWdNaFhz0gG0AUFVX3lxTFBjZlkzbkh3Vk5wUWhLb0hOZVBIUnVSRUtodWJOMHZtMmVfN2VLVEszRUd1M0paM0JMaWJKdl9BMTBBSHZ0QWVWbWlRaC1UWkxITUxZS0VaSVNRaFl0ZC1xdjBHNXNSU0l1dWFIRURPSVNhbUtUeWJGRktjN0FrZE9ZajlDUXR2Z1BsSDI1M3MxX3NxN0ZSanh6aklHQVFTYllyUFhlTmJ1ZFlnVEZNYkwtYVVTVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉被列入值得拥有的创始人股",
-   "title_zh": "特斯拉与另外两只创始人掌舵股值得拥有",
-   "sentiment": 1
-  },
-  {
-   "id": "6a365161627e",
-   "title": "John Fogerty, Tesla and Zarna Garg announce new Las Vegas shows for 2027 - Las Vegas Sun News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkR6YVNlQVlsTDVrRnN6RG9oU1Bkc2xfRjV3b0lUQmptTHh0dnFfZk93Um82d3BBVkRtUXM0bUY3blQ5bjZtVl9MdlFTSUw3OEJWYzd1eVBUanY5dWpEX3FkMXNlTnkwVDJ6a2xZQ2ZDcWRtYUhlcF9RbWlPZXZKNmpGVHg4V2xVSzRMQllxTTRDZjVrT2lR",
-   "source": "Las Vegas Sun News",
-   "published_at": "2026-10-06T19:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Las Vegas Sun News",
-     "published_at": "2026-10-06T19:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkR6YVNlQVlsTDVrRnN6RG9oU1Bkc2xfRjV3b0lUQmptTHh0dnFfZk93Um82d3BBVkRtUXM0bUY3blQ5bjZtVl9MdlFTSUw3OEJWYzd1eVBUanY5dWpEX3FkMXNlTnkwVDJ6a2xZQ2ZDcWRtYUhlcF9RbWlPZXZKNmpGVHg4V2xVSzRMQllxTTRDZjVrT2lR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "乐队Tesla等宣布2027年拉斯维加斯演出",
-   "title_zh": "John Fogerty、Tesla乐队等宣布2027年拉斯维加斯新演出",
-   "sentiment": 0
-  },
-  {
-   "id": "c4b989bfefd3",
-   "title": "Tesla Powershare Home Backup Now Available for Model 3 and Model Y - News and Statistics - IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXVkb1BYOE5XSGJfcEp3MndYS0tCdUhFU0JNbWhIaU50aGFFY1FqZ1hBZHdmbV9SSy1Mbjl5djFLRXFTYTdKYVZOVEx2MDVmV3Vfd2pYZTFwVHBtNnNpR3M2Q0I3NVFLWDRHZDR3cDVrZFllVXpOdDRPS0l2WEhYVUlicUY",
-   "source": "IndexBox",
-   "published_at": "2026-10-06T19:20:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "IndexBox",
-     "published_at": "2026-10-06T19:20:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXVkb1BYOE5XSGJfcEp3MndYS0tCdUhFU0JNbWhIaU50aGFFY1FqZ1hBZHdmbV9SSy1Mbjl5djFLRXFTYTdKYVZOVEx2MDVmV3Vfd2pYZTFwVHBtNnNpR3M2Q0I3NVFLWDRHZDR3cDVrZFllVXpOdDRPS0l2WEhYVUlicUY"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉向Model 3/Y开通家庭备电",
-   "title_zh": "特斯拉Powershare家庭备用电源支持Model 3/Y",
    "sentiment": 1
   }
  ]
