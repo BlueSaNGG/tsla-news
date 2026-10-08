@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T02:22:25.923906+00:00",
+ "updated_at": "2026-10-08T02:37:27.295815+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（143条已评分）"
+     "note": "今日新闻情绪 +0.17（148条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-08T02:22:25.915691+00:00"
+   "as_of": "2026-10-08T02:37:27.282738+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 143
+   "avg": 0.17,
+   "count": 148
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5a5498f011d3",
+   "title": "特斯拉200元中秋礼盒引吐槽，一线工人17薪年薪12万 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYjJfMWktSmR5M2pPU2NicUJLSFlEbDZ6X0VNZVZWYTdzYzdtZVh2SjloQ0RpRXBfUVRBWjVuT2tWZzdUSFlOTXpSOEM2ZWI0Y0pIWHgyN0psR2VuZ1pHdVdiWWZuSlBKWkExalh1R1lSZw",
+   "source": "新浪网",
+   "published_at": "2026-10-08T02:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T02:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYjJfMWktSmR5M2pPU2NicUJLSFlEbDZ6X0VNZVZWYTdzYzdtZVh2SjloQ0RpRXBfUVRBWjVuT2tWZzdUSFlOTXpSOEM2ZWI0Y0pIWHgyN0psR2VuZ1pHdVdiWWZuSlBKWkExalh1R1lSZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "681cdeff9031",
    "title": "【视频】又跳票了？特斯拉新一代Roadster发布会又推迟了 - 汽车之家",
@@ -1733,7 +1750,7 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPamNlYzdoN0J0QzBsdGdQRGJWQnN1aDdGLVZoTWhuTG1sQkFnSTFUNUF4OEZzb1hYc0k2Vmt0dWpGU2RwTTNUbnVZZm9aYnl1WTU1WEtYX3QtVF9KQ291UU9kdDJYSVNxeDZEZUE0UmkwSzNjZ2hYTDRYQmNkNW5lLWh3",
    "source": "新浪网",
    "published_at": "2026-10-07T14:15:43+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "新浪网",
@@ -1749,6 +1766,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-07T15:21:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHE0Rk9Wb0JxQ3JEYkFuR0NNTEFtNmI2LUZOZ2lGTENnSndmWkZwMDlsR3pUSENFeVV5ZU4zSGNQQjY4SjJyMmZ5SzJOSzZ1NFVZUndSSkZYc1VYRk9VNXVCNjdVeDRnM014cHYtV2k5RldORG9oSkotd2xsdF9iSmxUNXYyemZJZmNqdQ"
+    },
+    {
+     "name": "新浪新闻",
+     "published_at": "2026-10-08T00:37:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmdLdy04OVllQi1Qc2tVYXFTS0JWMEN3MjF5akhsQzZDcXRYc2FpQU1MRWQ5U3NHd3V4LXhZU1RyY3gzQ0RNQk9KZU93OGFKQTQzTmhKdzRNUzFWS09WVDFIN3pYbnJ6bTdpeS1OMnljM0Y0dkVLaDdXR0R3a29laVhGQQ"
     }
    ],
    "category": "车型产品",
@@ -7087,31 +7109,6 @@
     "pct": -0.16,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "e252d5b52fe1",
-   "title": "新品、优惠聚拢客流，国庆车市热度上升|model y|Model 3|国庆节|特斯拉|腾势 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bzNKSVpELW9TN3VIdS1Zb3ZFNDU1X3NzU1RaV1R1dHBIcTdzV0F2VWlwNzdMWE4yQ3Nnc2x4SzNtblh2ZjRFZnI3UzF0cW1zMUpGU3hnekhXcjl1MENPR3V5R21feEVBUkhxOW1CODRLLTJxVUtjdg",
-   "source": "新浪财经",
-   "published_at": "2026-10-06T05:23:42+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-06T05:23:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bzNKSVpELW9TN3VIdS1Zb3ZFNDU1X3NzU1RaV1R1dHBIcTdzV0F2VWlwNzdMWE4yQ3Nnc2x4SzNtblh2ZjRFZnI3UzF0cW1zMUpGU3hnekhXcjl1MENPR3V5R21feEVBUkhxOW1CODRLLTJxVUtjdg"
-    },
-    {
-     "name": "finance.sina.cn",
-     "published_at": "2026-10-06T05:23:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bzNKSVpELW9TN3VIdS1Zb3ZFNDU1X3NzU1RaV1R1dHBIcTdzV0F2VWlwNzdMWE4yQ3Nnc2x4SzNtblh2ZjRFZnI3UzF0cW1zMUpGU3hnekhXcjl1MENPR3V5R21feEVBUkhxOW1CODRLLTJxVUtjdg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "国庆车市热度上升，特斯拉聚客流",
-   "title_zh": "新品、优惠聚拢客流，国庆车市热度上升",
-   "sentiment": 1
   }
  ]
 }
