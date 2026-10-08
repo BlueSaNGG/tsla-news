@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T10:07:26.895186+00:00",
+ "updated_at": "2026-10-08T10:22:28.851600+00:00",
  "market": {
   "price": 377.81,
   "change_pct": -0.75,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（23条已评分）"
+     "note": "今日新闻情绪 +0.04（24条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 5.9,
    "ma20": 367.22,
-   "as_of": "2026-10-08T10:07:26.882603+00:00"
+   "as_of": "2026-10-08T10:22:28.843721+00:00"
   },
   "pe_ttm": 104.5,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 23
+   "avg": 0.04,
+   "count": 24
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "55ce49d6326a",
+   "title": "特斯拉Cybercab欧洲首秀：巴黎车展核心参数全解析，与Model 3/Y参数对比 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLT0k0S2JVNnNlTkRNYnYwbkNCZGJCdUxnLTBfbVJCaE1lRlVDYURZVHVJZ2p1Vy1YQ0JwcmZ3UUpOcVVaOGgtSTIzZVJRckNmMnc1eEthQzRZS28",
+   "source": "网通社",
+   "published_at": "2026-10-08T10:10:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-08T10:10:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLT0k0S2JVNnNlTkRNYnYwbkNCZGJCdUxnLTBfbVJCaE1lRlVDYURZVHVJZ2p1Vy1YQ0JwcmZ3UUpOcVVaOGgtSTIzZVJRckNmMnc1eEthQzRZS28"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "00c80f50f9de",
    "title": "【视频】地平线 HSD V2.1都更新了些啥？为啥能和特斯拉FSD 并列？ - 汽车之家",
@@ -83,8 +100,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "【视频】地平线 HSD V2.1都更新了些啥？为啥能和特斯拉FSD 并列？ - 汽车之家",
    "zh_summary": "地平线HSD V2.1更新，与特斯拉FSD并列对比",
+   "title_zh": "【视频】地平线 HSD V2.1都更新了些啥？为啥能和特斯拉FSD 并列？ - 汽车之家",
    "sentiment": -1
   },
   {
@@ -2286,7 +2303,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnVnNFpCQTZOZDRGMktxbVpZa3hkeUI4dWNMeXY3RGZaUkpjdm1qTWVid0xpUHNPODN0UkNvc21aN1BwVW1MV0YyUkEzaG5aLUFvc0VwNmhuYm9OUk1FeDlBdXNxZUZrWjNqbjdvWkxvd1RDb2hFemdzamVlV2RVUS03MGJRZWxldUVvNno5ZHVtd3c1Q0NOYWtnVlNrNzhjT0lRNkpFMmg2WTBiZFJIVndnV21Odw",
    "source": "FOX19 | Cincinnati",
    "published_at": "2026-10-07T16:50:00+00:00",
-   "outlets_count": 14,
+   "outlets_count": 15,
    "outlets": [
     {
      "name": "FOX19 | Cincinnati",
@@ -2357,6 +2374,11 @@
      "name": "Dakota News Now",
      "published_at": "2026-10-07T18:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkU0Y2F1S25mOEZBWmh6eno1VjBVY2FWNkR6Q1ZHNmd0RGdtMWdwMW9jTzF4SXR3M1lSU2lxaVp3T1NtTUEweW1RS3hkVk44MDBHR3p4T1lFdk83dW9yNEFjTTgzM1JrMHhjTWJTeHNrQnp1cDQzeDNFamgzX2c2M0poUXp0VU9qRHp3RE9pSkxVR3JyWklEMFVJRWtaZW9EMHpGdHB0aVpKOW5qQ3pBbUlXVVk5UQ"
+    },
+    {
+     "name": "Northern News Now",
+     "published_at": "2026-10-07T18:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0Y3LUNiZEltcjN0b3N1aTg1OXFZYkxfamFyNWpBRHBTN1pSUWhvajRLT2k1Tm94SE1RQlp3ekhRa29SS2pfc2xFU3p0ZlVDa2FoYnBYblh6YjZidDljR016UFdqbTMwV2M4V3ZQc3lGZ3RVa1c2cmd5WXZ0aFRBTHNadkJvemc4anp2WXFHQ29Hc2FTOGRsRXZfWm1JYl82bEg3c0x0QVpqeTYxZjBjMVJSNFdRcUtX"
     }
    ],
    "category": "其他",
@@ -6810,31 +6832,6 @@
     "pct": 0.22,
     "window_h": 1.0
    }
-  },
-  {
-   "id": "81a3aa709349",
-   "title": "特斯拉FSD遇到障碍物真的会避让吗？3个版本实测告诉你答案+FAQ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN",
-   "source": "手机新浪网",
-   "published_at": "2026-10-06T13:38:29+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-06T13:38:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN"
-    },
-    {
-     "name": "sina.cn",
-     "published_at": "2026-10-06T13:38:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UNkVSTTFMYnF5cWtiZDV2TGRFM0w5cWxhWjZyb21SbUhOM2l5NkM4cXF2YWV3WFpkMWFiM1ZhMm9remtwcmJZaTJTd2pKTUJNdzhYbUQyRmF0Q20zT2xN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "三个版本实测特斯拉FSD避障表现",
-   "title_zh": "特斯拉FSD遇到障碍物真的会避让吗？3个版本实测告诉你答案+FAQ - 手机新浪网",
-   "sentiment": 0
   }
  ]
 }
