@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T19:52:39.326131+00:00",
+ "updated_at": "2026-10-08T20:07:30.049913+00:00",
  "market": {
-  "price": 373.64,
-  "change_pct": -1.1,
+  "price": 375.0,
+  "change_pct": -0.74,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,12 +16,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +7.1%"
+     "note": "目标价中位数 $400（15家），隐含空间 +6.7%"
     },
     {
      "key": "新闻情绪",
@@ -31,7 +31,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.64 vs 20日均线 $367.73"
+     "note": "现价 $375.00 vs 20日均线 $367.80"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 40,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 7.1,
-   "ma20": 367.73,
-   "as_of": "2026-10-08T19:52:39.315285+00:00"
+   "implied_upside_pct": 6.7,
+   "ma20": 367.8,
+   "as_of": "2026-10-08T20:07:30.039617+00:00"
   },
-  "pe_ttm": 103.3,
+  "pe_ttm": 103.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2b75e8994a1c",
+   "title": "Tesla Stocks Fall 1.4% as AI Capex Gap Demands Optimus Proof - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0puVWVYZ0NwbUIxNGVYTFY5cEs3eEVrOExBa0xoaS1yLVJjT2pnak91ekNCMFQ0YzF2MFpTNG92RERpUXZ1TXdiQkdDMUh4djJzRHhTdE1kUkQ1NGRBYkNGamJuZ0FxWHh5MVR3VTFqQjdYdl8zNURCRjZDNVZTRzZpTlFfcF9Lc2Z6R292bnNXWVpfWWd4VXJMdTVwQQ",
+   "source": "GuruFocus",
+   "published_at": "2026-10-08T20:02:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-08T20:02:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0puVWVYZ0NwbUIxNGVYTFY5cEs3eEVrOExBa0xoaS1yLVJjT2pnak91ekNCMFQ0YzF2MFpTNG92RERpUXZ1TXdiQkdDMUh4djJzRHhTdE1kUkQ1NGRBYkNGamJuZ0FxWHh5MVR3VTFqQjdYdl8zNURCRjZDNVZTRzZpTlFfcF9Lc2Z6R292bnNXWVpfWWd4VXJMdTVwQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "5ec37128e29d",
    "title": "Pilot, Tesla Launch Heavy-Duty Electric Truck Charging Network - Pilot Travel Centers",
@@ -1072,26 +1089,6 @@
    "zh_summary": "特斯拉畅销车型可向家庭供电",
    "title_zh": "特斯拉畅销车型可向家中供电，但真正的变革尚未到来",
    "sentiment": 1
-  },
-  {
-   "id": "20290b22d3e0",
-   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
-   "source": "Finbold",
-   "published_at": "2026-10-08T13:27:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Finbold",
-     "published_at": "2026-10-08T13:27:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师设定TSLA十二个月目标价",
-   "title_zh": "分析师设定特斯拉(TSLA)十二个月目标价",
-   "sentiment": 0
   },
   {
    "id": "069e47b12444",
