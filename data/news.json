@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T19:22:26.254591+00:00",
+ "updated_at": "2026-10-09T19:37:33.263846+00:00",
  "market": {
-  "price": 384.15,
-  "change_pct": 2.44,
+  "price": 383.44,
+  "change_pct": 2.25,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 45% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.1%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（150条已评分）"
+     "note": "今日新闻情绪 +0.26（154条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $384.15 vs 20日均线 $368.73"
+     "note": "现价 $383.44 vs 20日均线 $368.70"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 45,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.1,
-   "ma20": 368.73,
-   "as_of": "2026-10-09T19:22:26.231398+00:00"
+   "implied_upside_pct": 4.3,
+   "ma20": 368.7,
+   "as_of": "2026-10-09T19:37:33.241330+00:00"
   },
-  "pe_ttm": 106.2,
+  "pe_ttm": 106.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 150
+   "avg": 0.26,
+   "count": 154
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0ff2ffb386fa",
+   "title": "Tesla is one of the ‘clearest ways to own physical AI,’ analyst says - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWJSWjllWlBUb0owVjV2ZmdFYldGUVlJeFN3dFhnMzBZZzVURTVLQnVnaWpiYmczU01od0s3TzI2VWlPVjFTalJMbGwyM0o1MGtLY2pFVmxhRUxOaTR4VFotelVYQlRmVXdpaVdjU2tBOXRmbmtPdzRxbGx0WS01bzZNVEQ5ekhsMGxLdnlMTTY1dzBsZ1NHSzRRbFNkUlRQZ212Qy1QYkNtSkw3aVZyZjY5allHTnFMMjFZZlpnVQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T19:22:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T19:22:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWJSWjllWlBUb0owVjV2ZmdFYldGUVlJeFN3dFhnMzBZZzVURTVLQnVnaWpiYmczU01od0s3TzI2VWlPVjFTalJMbGwyM0o1MGtLY2pFVmxhRUxOaTR4VFotelVYQlRmVXdpaVdjU2tBOXRmbmtPdzRxbGx0WS01bzZNVEQ5ekhsMGxLdnlMTTY1dzBsZ1NHSzRRbFNkUlRQZ212Qy1QYkNtSkw3aVZyZjY5allHTnFMMjFZZlpnVQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
   {
    "id": "f86757b67091",
    "title": "Tesla’s Halloween Mode Does Not Support Intel Vehicles - Not a Tesla App",
@@ -6734,31 +6751,6 @@
    "session": "盘前",
    "zh_summary": "分析师称特斯拉股东一年内可获66%收益",
    "title_zh": "TSLA创1个月新低受SpaceX合并担忧拖累，分析师称一年内或获66%收益",
-   "sentiment": 1
-  },
-  {
-   "id": "b9f1d8f4bb69",
-   "title": "Slovakia to approve Tesla FSD system within days - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVi10LWFkekdxcFkyOTVfZlZpVEctZV8xZTBPdVJxamhFUWI4dUJMSXdpTTJ2SVRxeGtHOXdteVZsMEptZW1hdDcxRE1qVHl1VmljOUcyQVFnZ1NnYThQR19mYXZFY3MwZ3hBenhvRWpnRmZoZFNSQW1GM214YUF4SmlJMjBReE15T3JKVVBpYXNLa25YY21kdTNsQzd3MXUzOU54SQ",
-   "source": "StreetInsider",
-   "published_at": "2026-10-08T10:40:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "StreetInsider",
-     "published_at": "2026-10-08T10:40:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVi10LWFkekdxcFkyOTVfZlZpVEctZV8xZTBPdVJxamhFUWI4dUJMSXdpTTJ2SVRxeGtHOXdteVZsMEptZW1hdDcxRE1qVHl1VmljOUcyQVFnZ1NnYThQR19mYXZFY3MwZ3hBenhvRWpnRmZoZFNSQW1GM214YUF4SmlJMjBReE15T3JKVVBpYXNLa25YY21kdTNsQzd3MXUzOU54SQ"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-08T10:40:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLW9GdXR0akJFbG5fTEN5NEZGdHUwQkNkMWxfbnRFTDY0MHFkTks5WTU5WWhldUJlellkcmhfN0tjOTFXRUNCZElfcy1nbHhQcXFZbjFSV093WWpnbUFCU0Vlc0JZeGNKUXpGVW5rcjJNcy02RHBJMXU3V0VxNUdGcHRrYnpVeVBwZjlZeENUR0dPN1M0WDZyMVNmUHI2WXUwVkVGazVVVTRqTEQycnN3"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "斯洛伐克将在数日内批准特斯拉FSD",
-   "title_zh": "斯洛伐克将在数日内批准特斯拉FSD系统",
    "sentiment": 1
   }
  ]
