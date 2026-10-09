@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T17:22:34.387491+00:00",
+ "updated_at": "2026-10-09T17:37:36.689939+00:00",
  "market": {
-  "price": 382.79,
-  "change_pct": 2.08,
+  "price": 382.96,
+  "change_pct": 2.12,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.5%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（130条已评分）"
+     "note": "今日新闻情绪 +0.28（133条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $382.79 vs 20日均线 $368.66"
+     "note": "现价 $382.96 vs 20日均线 $368.67"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.5,
-   "ma20": 368.66,
-   "as_of": "2026-10-09T17:22:34.367373+00:00"
+   "implied_upside_pct": 4.4,
+   "ma20": 368.67,
+   "as_of": "2026-10-09T17:37:36.679651+00:00"
   },
   "pe_ttm": 105.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 130
+   "count": 133
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "210d735a5811",
+   "title": "【视频】小米YU7跟特斯拉Model Y选谁？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3M2F5SGVJYmVWYVFJNUNWVmJDU0swd3RQLW9HNG10U3Y1TGlUbFVseGF5N0dYNnVoLWhjclhjSTFFUFM3YnJnTmNsVnpTRzFiSDlLZ2xpUEJoSGtjeWJwVUM3NGdzM0Zhenlj",
+   "source": "汽车之家",
+   "published_at": "2026-10-09T17:34:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-09T17:34:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3M2F5SGVJYmVWYVFJNUNWVmJDU0swd3RQLW9HNG10U3Y1TGlUbFVseGF5N0dYNnVoLWhjclhjSTFFUFM3YnJnTmNsVnpTRzFiSDlLZ2xpUEJoSGtjeWJwVUM3NGdzM0Zhenlj"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "b8b6f0ae7694",
+   "title": "Tesla, Inc. $TSLA Shares Sold by Journey Retirement Planning & Investment Management LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXUycUljM3ZzS2pBdTJ3MFlQcWJGcXAzOTBUQVhPRDBvM0FGV1BMQnZjZDZnZHd1UFZlZ2RIZmZTZDlBajZoYkJqSXE3aVU5YVNaUXJ1blFsS2hDMFVDYjl5QTlwWmxUUFZtMXo2WGYtaGVXTmF4b29TZ04yU3BrSGFOdWhkNHFUdDItVk0tRE9KTkRTenk5VXU0OWdfTl9VWWd5ZVFXUmJDQ1pSTTh4Q3poZnNxaXNSQlE5cFFhVDVFQ28zTkEwVVJ0UktqaFd4a1lRLTc4Ukhidy1o",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T17:23:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T17:23:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXUycUljM3ZzS2pBdTJ3MFlQcWJGcXAzOTBUQVhPRDBvM0FGV1BMQnZjZDZnZHd1UFZlZ2RIZmZTZDlBajZoYkJqSXE3aVU5YVNaUXJ1blFsS2hDMFVDYjl5QTlwWmxUUFZtMXo2WGYtaGVXTmF4b29TZ04yU3BrSGFOdWhkNHFUdDItVk0tRE9KTkRTenk5VXU0OWdfTl9VWWd5ZVFXUmJDQ1pSTTh4Q3poZnNxaXNSQlE5cFFhVDVFQ28zTkEwVVJ0UktqaFd4a1lRLTc4Ukhidy1o"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
   {
    "id": "752cc5363aa1",
    "title": "Delta CEO says there's no Elon Musk feud: 'I drive a Tesla' - Business Insider",
@@ -113,12 +147,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1djNFduTFZtS0ZzMndZaEtiVUlNOGozN3hqTThYNFFqYy1BOUQxcExzbS1tdmU5aW9rM0xMOWExX2VpWW0xbnliemNCZk50UDdEZTEzbkR3VXloaktnOHYxMW5yeHVfVHlMd3QzbGFUNjhxVUhDMWp5YTR1Wk9PdnRSOUt5VGtqeFVVaFRzakV1UFA3MnlKWk1oUjVzNGQtYzAtdU1Hbm5VUF9jRi1McGpkWWFJYmJ3b1Nv",
    "source": "Seeking Alpha",
    "published_at": "2026-10-09T16:58:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Seeking Alpha",
      "published_at": "2026-10-09T16:58:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1djNFduTFZtS0ZzMndZaEtiVUlNOGozN3hqTThYNFFqYy1BOUQxcExzbS1tdmU5aW9rM0xMOWExX2VpWW0xbnliemNCZk50UDdEZTEzbkR3VXloaktnOHYxMW5yeHVfVHlMd3QzbGFUNjhxVUhDMWp5YTR1Wk9PdnRSOUt5VGtqeFVVaFRzakV1UFA3MnlKWk1oUjVzNGQtYzAtdU1Hbm5VUF9jRi1McGpkWWFJYmJ3b1Nv"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-09T16:58:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmdvYU8wVk9PdmNsSFp3YWlHT0Y3d1Bqd2ZsTXVDRFNndU5oVWhxZ29kQjZ3SmdseWc4Q0Nzb2Q2UlZNajJ2MFU4eGhvNEVUNEg3NW5JajVZdW5XN2plaDFRSHlMRGJxS254bjlZal95SXZBQ0Q5Q3g4cGU5czNCMDFZVnZ3QXU1dlp1X2ZMZURSQjVDWDlGM2V6MV9YMk56WERqbk1aNE1WMVVSQUZndFJGemtFc200SEpFR2xlSGZySzlqaVNkNkI5dFphNk43Zl9WV0Z1Vk1QU29Y"
     }
    ],
    "category": "财报",
@@ -767,6 +806,23 @@
    "zh_summary": "特斯拉与金属板块领涨",
    "title_zh": "市场热力图：特斯拉与金属板块领涨；苹果因下调业绩预期而走低 - Moomoo",
    "sentiment": 1
+  },
+  {
+   "id": "af6521ee974a",
+   "title": "“FSD”变“TAD” 特斯拉弃用自动驾驶命名以争取欧洲监管批准|tesla|车辆|驾驶员|辅助|监管机构_手机新浪网 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWh5Z05tSEoxX0Z0cXFkV3J0RlB1Vzk5V2pMZmJCcVl3eEVJZWdQaXd5bElKSDVOcW9FZWl6dk9RQmY3QWtJc0xPeXh2a1ZYekxKWUU1NmVJTUhCLTFyVUl2aVFXLVdPOUU3NVFpNzZtQ2pWcGVGLTZSTm02MWQ4eTg2SGJMSFpPUlotWlQtLW5iYmFOZkgta01wMkdrM004QTNuX0RnNVdDZw",
+   "source": "新浪财经",
+   "published_at": "2026-10-09T13:48:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T13:48:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWh5Z05tSEoxX0Z0cXFkV3J0RlB1Vzk5V2pMZmJCcVl3eEVJZWdQaXd5bElKSDVOcW9FZWl6dk9RQmY3QWtJc0xPeXh2a1ZYekxKWUU1NmVJTUhCLTFyVUl2aVFXLVdPOUU3NVFpNzZtQ2pWcGVGLTZSTm02MWQ4eTg2SGJMSFpPUlotWlQtLW5iYmFOZkgta01wMkdrM004QTNuX0RnNVdDZw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "28b9895cf9f2",
@@ -6680,85 +6736,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉新增不拔枪直接开车模式",
    "title_zh": "【视频】特斯拉新增“逃命模式” 不拔充电枪直接开车跑路 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "07b562b3cb11",
-   "title": "挑战特斯拉Model Y！新世代宝马iX4全球首发，标配双电机四驱 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY1MzeENtamV2QTZrcWM4MnU5ZThscDUweUZ2X01oc3VYMWVyWnkyN0ZNajBiYzBCWG9uSnREQlV0WjFETFFtUWNROUY5ekhFaFZCNF81cEw5WGM",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T07:12:56+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T07:12:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY1MzeENtamV2QTZrcWM4MnU5ZThscDUweUZ2X01oc3VYMWVyWnkyN0ZNajBiYzBCWG9uSnREQlV0WjFETFFtUWNROUY5ekhFaFZCNF81cEw5WGM"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T07:17:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFpjbV9ha2RkTEZMTEVVTDV2YkpGTmNQVUU2VTlpanZMVWlLN3lFc0JsbEFYRGVrYVlJaXVDTzlaUnZ6dWl2aDZEeW81cDh0Tk1QQXJGX0VnNVJuOTBPaTVlcm5XdnJpZF80NGJweU1LNjQtSVlvVVJmMHIyT0NRM0NVSGtsRWlKR0hYRw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "宝马iX4全球首发对标Model Y",
-   "title_zh": "挑战特斯拉Model Y！新世代宝马iX4全球首发，标配双电机四驱 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "d8061d7fe11d",
-   "title": "汽车软件评级：日系三巨头垫底，特斯拉蔚来沃尔沃进第一梯队 - 热点科技",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5La0ZLbkNWZzBqOXRlV1JiTVd3X2NYc1g1clFJbmpFdFl2elVVXy1vVVJLZnZsMjZoa1NYbFNEM2JSSzctd1h0b3hJTG5mZzg",
-   "source": "热点科技",
-   "published_at": "2026-10-08T07:09:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "热点科技",
-     "published_at": "2026-10-08T07:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5La0ZLbkNWZzBqOXRlV1JiTVd3X2NYc1g1clFJbmpFdFl2elVVXy1vVVJLZnZsMjZoa1NYbFNEM2JSSzctd1h0b3hJTG5mZzg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T05:03:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXdpRUpKVS0wRWdNQXl1NHZhdWFKNE55Mk8xWHdGT1N3NWdqTlRYNnJGamJhYWtocW1OdTFVVUF3X1h6a0VabTkybWlZQXVyNDNUVVpMeG9lMFNtWVlUOFZaWkJMOG1Vbk5RV0NveWc2cG9tWkJ6Q1RNT1YxX0kwbTU4d3ozbEhW"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T05:03:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcXdpRUpKVS0wRWdNQXl1NHZhdWFKNE55Mk8xWHdGT1N3NWdqTlRYNnJGamJhYWtocW1OdTFVVUF3X1h6a0VabTkybWlZQXVyNDNUVVpMeG9lMFNtWVlUOFZaWkJMOG1Vbk5RV0NveWc2cG9tWkJ6Q1RNT1YxX0kwbTU4d3ozbEhW"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "特斯拉汽车软件评级进第一梯队",
-   "title_zh": "汽车软件评级：日系三巨头垫底，特斯拉蔚来沃尔沃进第一梯队 - 热点科技",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.18,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "8f8c75aa78a6",
-   "title": "特斯拉Model Y Performance值得买吗？3.5秒破百+659km续航，36.9万到底值不值？+FAQ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScFNNQWFPalVOR2ZDblFRYzNuaHR5MmlLZTVEMUY2aEc0dlE5YTliSUpZbnQ4cUt3c0U2S19lN0RkVUx0NURnUkRHLUl0Q1VicHd0My1uU1ZVRnI5YXhmTVhvZmFZT0ZPN2V2Q1hFSG9nU1htdTU2QWlkQW42dnM",
-   "source": "新浪网",
-   "published_at": "2026-10-08T07:09:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T07:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScFNNQWFPalVOR2ZDblFRYzNuaHR5MmlLZTVEMUY2aEc0dlE5YTliSUpZbnQ4cUt3c0U2S19lN0RkVUx0NURnUkRHLUl0Q1VicHd0My1uU1ZVRnI5YXhmTVhvZmFZT0ZPN2V2Q1hFSG9nU1htdTU2QWlkQW42dnM"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Model Y Performance是否值得买",
-   "title_zh": "特斯拉Model Y Performance值得买吗？3.5秒破百+659km续航，36.9万到底值不值？+FAQ - 新浪网",
    "sentiment": 0
   }
  ]
