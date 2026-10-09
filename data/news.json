@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T03:22:35.527760+00:00",
+ "updated_at": "2026-10-09T03:37:33.164703+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（157条已评分）"
+     "note": "今日新闻情绪 +0.23（158条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-09T03:22:35.520586+00:00"
+   "as_of": "2026-10-09T03:37:33.156009+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 157
+   "avg": 0.23,
+   "count": 158
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "cde5d0d71882",
+   "title": "Securitize Shares Jump 10% After Hours - Tesla (NASDAQ:TSLA), Apple (NASDAQ:AAPL) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtrMVVyS3M5Y1dIMjNzajVwajA4VEhDQ1hoYm0ybEV2TTVFSDcyUy1qRkxFT0I4c3dmV1c5d2Z2UDdERUxHOGlCaFZ5QTFzZUdIUnVNRzZZYm9CelNBSkx2Yy1kVHN6VVNSR3I2SnZwc2oxTUlfSm1mNE4yckxRa0JHbVR4blhfQkh2dWdpTTN4ZzFpX195dG1UdXg4akd2Qkg2WU5DU09PZw",
+   "source": "Benzinga",
+   "published_at": "2026-10-09T03:27:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-09T03:27:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtrMVVyS3M5Y1dIMjNzajVwajA4VEhDQ1hoYm0ybEV2TTVFSDcyUy1qRkxFT0I4c3dmV1c5d2Z2UDdERUxHOGlCaFZ5QTFzZUdIUnVNRzZZYm9CelNBSkx2Yy1kVHN6VVNSR3I2SnZwc2oxTUlfSm1mNE4yckxRa0JHbVR4blhfQkh2dWdpTTN4ZzFpX195dG1UdXg4akd2Qkg2WU5DU09PZw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
   {
    "id": "41260c07217a",
    "title": "【视频】没有V8的美系车，特斯拉Model 3P靠什么站稳新能源阵营？ - 汽车之家",
@@ -4209,7 +4226,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNFhRTWI5R0NaV0FLaEM5a3V6YmFCT0RKUWZzM2llZm1sOHRXcklNaXlTNm41NmhuZ3M0U0lrNGNTc1ZzeXZHVllfeUVPV0U2Yk9ZZVpxTE0",
    "source": "驱动之家",
    "published_at": "2026-10-08T01:13:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -4225,6 +4242,11 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-08T02:44:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00aXNEQ1o3b3BIcWhkVlQwbnZOTnBRN2VvN0E0ZE5teWpTVWRHREp0SXE1THhJMzM2YTYwcmNJZGdlZWVNWW9ZeDJheUk"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-09T03:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZnFVUnhJLTlVOHFaR1hscmJ2ZGhCMmZKV19EOXJmaDJaUHFWclVJOGVNQ2d0QUl5SG41Q2toNE00Y1Exblp4cHc1c3JoRjNNRUdQWTdYRlhDbzFLR0dkQzZhZmE1cjFtQWhxcFNvZFhZaktxTnJ1V014OFdRdw"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6708,31 +6730,6 @@
    "zh_summary": "Robinhood加入特斯拉等持有比特币行列",
    "title_zh": "Robinhood与Strategy、特斯拉一道持有比特币",
    "sentiment": 0
-  },
-  {
-   "id": "8932561d1f61",
-   "title": "Tesla’s Third-Quarter Deliveries Beat Expectations. Time to Buy the Stock? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTFMaEhqajk4bnhPMThTaWx2dV9PcnFNTVhkQ3llWmxBS0ZndE9feE5GclA1cVJ1Zi1nQzZOMlg4WHczX3Z4eWFCcy1FZnE2MVpWOUNBRi1nLVJqVW5uQVF3ZWhxNU1BSUJXOGdPM3NpQ3Nsd1dPR29LSnh1dy1GVS0zMl9oSmdkR2ZLUU9BTV93MEZLdjFKeWs4eFFvdzFFdVNQVzRIdHFxajdLdUluWXc0Q3lLUQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-07T13:07:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-07T13:07:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTFMaEhqajk4bnhPMThTaWx2dV9PcnFNTVhkQ3llWmxBS0ZndE9feE5GclA1cVJ1Zi1nQzZOMlg4WHczX3Z4eWFCcy1FZnE2MVpWOUNBRi1nLVJqVW5uQVF3ZWhxNU1BSUJXOGdPM3NpQ3Nsd1dPR29LSnh1dy1GVS0zMl9oSmdkR2ZLUU9BTV93MEZLdjFKeWs4eFFvdzFFdVNQVzRIdHFxajdLdUluWXc0Q3lLUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T13:20:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVW9kTmxZa0FPTTVSdVNlZHczVzlCa3JfQzdRR0JqbDRPbnBwZkJKaFM4LXBXX09FNVhqLVlGTjJWbldqOENCd0JiT2NLSDVCa0dfcWdKYlozVnhIa2NpNVVKYlhEWS04Ylg5VG5GNFp4ZHhqWVc0d1ZMVVRyMTV5NVROSWhRbTR6aVozVjdPeVJsOGxaMHl4blhwejRKUHZoRUE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度交付超预期",
-   "title_zh": "特斯拉三季度交付超预期，现在该买入吗？",
-   "sentiment": 1
   }
  ]
 }
