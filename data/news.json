@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T01:22:41.378816+00:00",
+ "updated_at": "2026-10-09T01:37:26.436629+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（148条已评分）"
+     "note": "今日新闻情绪 +0.24（149条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-09T01:22:41.373903+00:00"
+   "as_of": "2026-10-09T01:37:26.426243+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.24,
-   "count": 148
+   "count": 149
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "42c373deba26",
+   "title": "9月集中反馈问题盘点：特斯拉降价惹来车主不满 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ubnB4R2hrSFRfWWZDOG9ZLWtRUHVlTmhFWlJ1TFU0QWpGYWMwOHJqUzRaSlhSZXlxTzdiZjFRRWJVSzJWY01fYjVkbWxlNl9GLWpZRmNCMjQwODZhbGVnUWZSUW5xNHBEdE1Z",
+   "source": "汽车之家",
+   "published_at": "2026-10-09T01:33:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-09T01:33:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ubnB4R2hrSFRfWWZDOG9ZLWtRUHVlTmhFWlJ1TFU0QWpGYWMwOHJqUzRaSlhSZXlxTzdiZjFRRWJVSzJWY01fYjVkbWxlNl9GLWpZRmNCMjQwODZhbGVnUWZSUW5xNHBEdE1Z"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d7b3b66a81bb",
    "title": "Tesla SI: What the 'Super Intelligence' Rebrand Actually Means - BASENOR",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉SI更名超级智能解析",
    "title_zh": "特斯拉SI：'超级智能'更名意味着什么",
    "sentiment": 1
+  },
+  {
+   "id": "8094a3cc99f7",
+   "title": "Tesla(TSLA.US)第三季汽车交付量胜预期 今年资本开支料逾250亿美元惹关注 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUVtREE1TGk2VldsZC11QUVKMmJHaVUtY3ZBcDVEZ1d1WXF4WjJIOG1BYlk2LXhKdnVCeWRDR3hFYXRUM0ZvOEJNdmdUemFpbTJHbUpqbC1nQkQwX1RjN3U1YkZSVWlXV0hDUVZBSER4YzlxUFBnZEl6cW9lMWZhUXlQVG9VcEY3VjU1OWVtQWZ6SFprT2lzRXZiNkpMQ1RBa3J0VXZoMlc4R3NUWTNqdnU2ZmRHZ28",
+   "source": "富途牛牛",
+   "published_at": "2026-10-09T01:03:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-09T01:03:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUVtREE1TGk2VldsZC11QUVKMmJHaVUtY3ZBcDVEZ1d1WXF4WjJIOG1BYlk2LXhKdnVCeWRDR3hFYXRUM0ZvOEJNdmdUemFpbTJHbUpqbC1nQkQwX1RjN3U1YkZSVWlXV0hDUVZBSER4YzlxUFBnZEl6cW9lMWZhUXlQVG9VcEY3VjU1OWVtQWZ6SFprT2lzRXZiNkpMQ1RBa3J0VXZoMlc4R3NUWTNqdnU2ZmRHZ28"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
   },
   {
    "id": "0c8bc99c8c44",
@@ -408,31 +442,6 @@
    "sentiment": 1
   },
   {
-   "id": "3ac84ac2127d",
-   "title": "Pilot and Tesla Open First Megacharger Site, Announce Three Additional Locations Opening Soon - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ",
-   "source": "Business Wire",
-   "published_at": "2026-10-08T21:24:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-08T21:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ"
-    },
-    {
-     "name": "Voice of Alexandria",
-     "published_at": "2026-10-08T21:24:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdUlDNjhjN1p0U1ZKNXBuTmpMU2hEcjVwUlVmSGVsN25LOE41S3NVeE9SUlBsZTlOemdpczJ4QWNpdXhTcUpzVTV4U080VjJCbnFVWjZEV3NlNjBvblJjN1NFaWZJMUJocEVYWFhhVHo2R0RXbnRRbFFoOG1QMGxzLXFyR3dnbWNISmZPUTR5enNwS0haMndvNy10WW81bXh5bjUtTW5aeXNSbTFLWU5jWWNSRzQ4TVZLYmJ2Ykp5b3p6UkJWWmlQdC1CRnZSRXVOc3U4cjRDNURWMENVekh1c3hLczR4YXQ1U3Q2aHpQbHR2bnNRWDlPeFptZDRrSVVDdHBxcTRYQi1EMzZ2aG9YS19qQ3pzdm11RzBDbjlHR2tEa0Q4Qm5pZ2JkdFk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Pilot与特斯拉合建首座Megacharger",
-   "title_zh": "Pilot与特斯拉开设首座Megacharger充电站，宣布另有三处即将开业",
-   "sentiment": 1
-  },
-  {
    "id": "851cfb71a741",
    "title": "Tesla (TSLA) Deliveries Beat Expectations. But TSLA’s 159x Forward P/E Is Betting on Much More - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDZab0puajljSHhob2lxQ1Zxd2RKRkZScmdMaHN3YzcxT0xSRndJZHo1VEc0TEMxc214VGJzXzlqT091b2tiZ1N6ZE9sRU9wUFBfYU1FcGlTeENRWWczQUpobk12MlVoUUJGeC1RQjNJbEtHSFB4eGVMNVNmNGpGRGprc25KX0h1ME9HeTV0RkhWYl9UNFFMTUY0ZVRyQ1EtcFJIa3FfZw",
@@ -646,6 +655,40 @@
    "zh_summary": "Pilot和特斯拉推出重卡充电网络",
    "title_zh": "Pilot与特斯拉推出重卡充电网络",
    "sentiment": 1
+  },
+  {
+   "id": "3ac84ac2127d",
+   "title": "Pilot and Tesla Open First Megacharger Site, Announce Three Additional Locations Opening Soon - Pilot Travel Centers",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0ZfYXB0Ml9DdjRzZDhwYlhpbXNrVGdvQ1hUOHFkU1d4My1fSDhfTHVLZjRlNzNQVzNJQnJEcHlUUngybWxQbWlwMlVTOWNHMnlXLTRSdTFiSUpNcm5CUTU0Q1lLdGlXbDlZY1o4YWtSMGxWbThSOGdmNko2NDR4SlczY0gyM0VKSU9kY1RzZkpNTjRra2VhOGtkQzZOWVNkeDRoM3pCbkY2QkR1OUFXU250bUJpWW5oSHJsS1pqOHU5WDhDQlE",
+   "source": "Pilot Travel Centers",
+   "published_at": "2026-10-08T19:23:32+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Pilot Travel Centers",
+     "published_at": "2026-10-08T19:23:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0ZfYXB0Ml9DdjRzZDhwYlhpbXNrVGdvQ1hUOHFkU1d4My1fSDhfTHVLZjRlNzNQVzNJQnJEcHlUUngybWxQbWlwMlVTOWNHMnlXLTRSdTFiSUpNcm5CUTU0Q1lLdGlXbDlZY1o4YWtSMGxWbThSOGdmNko2NDR4SlczY0gyM0VKSU9kY1RzZkpNTjRra2VhOGtkQzZOWVNkeDRoM3pCbkY2QkR1OUFXU250bUJpWW5oSHJsS1pqOHU5WDhDQlE"
+    },
+    {
+     "name": "Business Wire",
+     "published_at": "2026-10-08T21:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmpGQjNEVERROE43LUs3WDg2YnR1a25ZbmhMWUFmRFJnYkRPakpWdVVFUWdnRWN3YnZ0WUh3cXp3ajRpVko2aTZCcTFnYUw0T1o5ejU4bnQyZmRHOXhBbG1IVDVqSURNNW8tZ2ZqYUJZRlZVcTNUSGEtWkk0eDdXWTNiWTZjeEF2UjBibTJ6ZWk3UGFzLS1fOHF1WVpUYUNBMGQ5XzVJTnNHM2RUbmFkNzM2bHk5QW1Ka0lvOFpRQWV6NG9ZbW9jcVJWenRmWHprcmQtOWQ5VFV2RHVzZFBCTFNGTQ"
+    },
+    {
+     "name": "Voice of Alexandria",
+     "published_at": "2026-10-08T21:24:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQdUlDNjhjN1p0U1ZKNXBuTmpMU2hEcjVwUlVmSGVsN25LOE41S3NVeE9SUlBsZTlOemdpczJ4QWNpdXhTcUpzVTV4U080VjJCbnFVWjZEV3NlNjBvblJjN1NFaWZJMUJocEVYWFhhVHo2R0RXbnRRbFFoOG1QMGxzLXFyR3dnbWNISmZPUTR5enNwS0haMndvNy10WW81bXh5bjUtTW5aeXNSbTFLWU5jWWNSRzQ4TVZLYmJ2Ykp5b3p6UkJWWmlQdC1CRnZSRXVOc3U4cjRDNURWMENVekh1c3hLczR4YXQ1U3Q2aHpQbHR2bnNRWDlPeFptZDRrSVVDdHBxcTRYQi1EMzZ2aG9YS19qQ3pzdm11RzBDbjlHR2tEa0Q4Qm5pZ2JkdFk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "Pilot与特斯拉合建首座Megacharger",
+   "title_zh": "Pilot与特斯拉开设首座Megacharger充电站，宣布另有三处即将开业",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.55,
+    "window_h": 0.6
+   }
   },
   {
    "id": "5c73ba0ed929",
@@ -6684,46 +6727,6 @@
    "zh_summary": "TSLA收涨近2% SpaceX IPO首亮相",
    "title_zh": "TSLA收涨近2%，SpaceX IPO上市",
    "sentiment": 1
-  },
-  {
-   "id": "cd6ed56819f3",
-   "title": "Tesla FSD Supervised in Switzerland: Winter Testing Explained - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjdxNjh0bl9MVktVejZEXzgxSjlNN0NFaTdiQjhFVFNLUG96YXI4Q2xyMWFUSTZQREU1NkFtaXJxYzVaRTRsZXZFdnV3M0sxMWdIc2l4c3lMUTJ1V2Uwb1R1OGFQUHZoeWRLaGo3TkJPTmtFT3VPeW9DMXYwanJXTkNnMDkzTTdNcG95MnZsMkM3bUVvekZmQkRVOA",
-   "source": "BASENOR",
-   "published_at": "2026-10-07T12:03:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-07T12:03:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcjdxNjh0bl9MVktVejZEXzgxSjlNN0NFaTdiQjhFVFNLUG96YXI4Q2xyMWFUSTZQREU1NkFtaXJxYzVaRTRsZXZFdnV3M0sxMWdIc2l4c3lMUTJ1V2Uwb1R1OGFQUHZoeWRLaGo3TkJPTmtFT3VPeW9DMXYwanJXTkNnMDkzTTdNcG95MnZsMkM3bUVvekZmQkRVOA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉在瑞士开展FSD冬季测试",
-   "title_zh": "特斯拉FSD在瑞士进行冬季测试说明",
-   "sentiment": 0
-  },
-  {
-   "id": "7e05e92a5f39",
-   "title": "Tesla Stock Falls as European Self Driving Approvals Are Delayed - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzlDVXpnWGcxUmIzOE11VEFtS1MzMk9RdUIyaG95T21pSlVQV1JBZDdfZzNxa0FXVnZtSnBUVG5qcHBGTk44WXFaU3kxUi1YdjhMZWFWbThmZldQaFZFNmxkcW5mV1NBbGp3bHdHaVZ0eHpCYnVNQWNvWlpSa3ZKTWFuNFgxSEE",
-   "source": "Barron's",
-   "published_at": "2026-10-07T12:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-07T12:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzlDVXpnWGcxUmIzOE11VEFtS1MzMk9RdUIyaG95T21pSlVQV1JBZDdfZzNxa0FXVnZtSnBUVG5qcHBGTk44WXFaU3kxUi1YdjhMZWFWbThmZldQaFZFNmxkcW5mV1NBbGp3bHdHaVZ0eHpCYnVNQWNvWlpSa3ZKTWFuNFgxSEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价因欧洲自动驾驶审批延迟而下跌",
-   "title_zh": "特斯拉欧洲自动驾驶审批延迟，股价下跌",
-   "sentiment": -1
   }
  ]
 }
