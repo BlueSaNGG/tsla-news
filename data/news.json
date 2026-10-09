@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T07:37:27.860960+00:00",
+ "updated_at": "2026-10-09T07:52:33.723657+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（7条已评分）"
+     "note": "今日新闻情绪 -0.20（10条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-09T07:37:27.849109+00:00"
+   "as_of": "2026-10-09T07:52:33.715020+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 7
+   "avg": -0.2,
+   "count": 10
   }
  },
  "meta": {
@@ -93,12 +93,17 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84TGd5YXJiQzFkNFFLYVhLSFNfQXJKNlNuSERoYTJTdFdOZVdzWXZjZGlZdmNkSnVYc2NHb0MyQkpzTmlmYy1PWTFPdllwaExzNldZNVpXZzEwNUNhM29QbkRid0t2OUZ6VmxraU5NRVlvTDNV",
    "source": "InsideEVs",
    "published_at": "2026-10-09T07:14:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "InsideEVs",
      "published_at": "2026-10-09T07:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84TGd5YXJiQzFkNFFLYVhLSFNfQXJKNlNuSERoYTJTdFdOZVdzWXZjZGlZdmNkSnVYc2NHb0MyQkpzTmlmYy1PWTFPdllwaExzNldZNVpXZzEwNUNhM29QbkRid0t2OUZ6VmxraU5NRVlvTDNV"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-09T07:14:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXEzZElZNEJVZ1RWVEdublpEWHFkYVZvczF1aHNZM1RhTUQzdWM0UUZGS3J4RS1sS0pDaFJ5OWI4eFRjS0Z1UzlmZzhRUU1uZ0FSYXhuNy1CR2FoOHZkQnNTWkw5d2ZXc19Pc3M1SUU5TEN2NEprWFJoYlVCdEVRbUFMWS1WR3VKNUVqd0tzU3AwY2dTNHE4OTc2ZWN6azhRNVN1SnptWEx5Zw"
     }
    ],
    "category": "其他",
@@ -476,6 +481,23 @@
    "zh_summary": "Securitize盘后涨10%",
    "title_zh": "Securitize盘后股价跳涨10%",
    "sentiment": 0
+  },
+  {
+   "id": "5f6474ad91a4",
+   "title": "Tesla Model Y Premium AWD gets Zen Grey interior and V2L in Canada - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVY0a1ZIdnNrQWJhQVhXMnJBZlRfVzRHNGNEX2cyMUdjQUFmZHV1OHc0ZF85cVVITTBmVEpIWFI0TTRwUEtYU1QyT2lqaWZleTlKWngtTVA2T0I0aUhUS2FuaWR1b0lqaXpJWE55RXRlczkzdUNFaGtsaU1kcGpNOEpxYUh4c1kwOUhST1pEdUlGblRsM2pXMGZGRGNsMGhUbWc",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-09T02:43:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-09T02:43:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVY0a1ZIdnNrQWJhQVhXMnJBZlRfVzRHNGNEX2cyMUdjQUFmZHV1OHc0ZF85cVVITTBmVEpIWFI0TTRwUEtYU1QyT2lqaWZleTlKWngtTVA2T0I0aUhUS2FuaWR1b0lqaXpJWE55RXRlczkzdUNFaGtsaU1kcGpNOEpxYUh4c1kwOUhST1pEdUlGblRsM2pXMGZGRGNsMGhUbWc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "41260c07217a",
@@ -6679,31 +6701,6 @@
    "zh_summary": "特斯拉Model Y夺德国9月销冠",
    "title_zh": "特斯拉Model Y成德国9月全品类销冠，销量碾压各细分冠军",
    "sentiment": 1
-  },
-  {
-   "id": "0ff8f9a2a517",
-   "title": "Tesla Is Using Social Media Pressure To Push For FSD Approval In Europe - Jalopnik",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWDZrc2x2OHhBaWMxSURnX1A3R2JHU1FMSDVzbUtmaDl5WDJmbEpvcURkTlc1b2tJbmJWdjlpOTJzSTlfQ3ZoTUdkU00wWmV1a1B4bGZSVTc2ejZ5YTQyMlVyLXJEWDAwVGRzb19GcDFpZ05FRkVFV0tqVzNnWDF3c0pvNA",
-   "source": "Jalopnik",
-   "published_at": "2026-10-07T14:33:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Jalopnik",
-     "published_at": "2026-10-07T14:33:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWDZrc2x2OHhBaWMxSURnX1A3R2JHU1FMSDVzbUtmaDl5WDJmbEpvcURkTlc1b2tJbmJWdjlpOTJzSTlfQ3ZoTUdkU00wWmV1a1B4bGZSVTc2ejZ5YTQyMlVyLXJEWDAwVGRzb19GcDFpZ05FRkVFV0tqVzNnWDF3c0pvNA"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-07T14:33:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmlPY2xsWGJTYXl1X0xCMWZsNnd0OG9RbnpiYXAyTkRhUm5ibHpzNjZKRmloTXRwbmxEUF9NR3RZSXM3WnhCVGQ4VFVxU28tU3BNT2VyeWx6WjlaU1NZZUNPaldrLTVxRkpiaVdtU2lnUjJibGl5MENLUWZMNlZ1aDY5dUc5cHN4djk3M3pGYzVqLXdpajFLQmxmY2d2NlRtdHpFV1pZYw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉借社交媒体促欧盟批FSD",
-   "title_zh": "特斯拉借社交媒体压力推动欧盟批准FSD",
-   "sentiment": 0
   }
  ]
 }
