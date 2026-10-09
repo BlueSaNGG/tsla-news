@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T13:37:29.319271+00:00",
+ "updated_at": "2026-10-09T13:52:39.019535+00:00",
  "market": {
-  "price": 385.11,
-  "change_pct": 2.7,
+  "price": 388.3,
+  "change_pct": 3.55,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 45% 分位"
+     "note": "现价处于52周区间 47% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（81条已评分）"
+     "note": "今日新闻情绪 +0.25（85条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $385.11 vs 20日均线 $368.78"
+     "note": "现价 $388.30 vs 20日均线 $368.94"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 45,
+   "price_52w_pct": 47,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.9,
-   "ma20": 368.78,
-   "as_of": "2026-10-09T13:37:29.311960+00:00"
+   "implied_upside_pct": 3.0,
+   "ma20": 368.94,
+   "as_of": "2026-10-09T13:52:39.005825+00:00"
   },
-  "pe_ttm": 106.5,
+  "pe_ttm": 107.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.25,
-   "count": 81
+   "count": 85
   }
  },
  "meta": {
@@ -68,24 +68,89 @@
  },
  "stories": [
   {
-   "id": "a7586b90d83f",
-   "title": "多轮促销后，特斯拉9月交付量和国内销量创年内新高 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IWDJBd1dTOG5qdHZkTnZaVV9zREFnMzZiLW5kN05jLW5PQ0JrTkhIQ3pBQmU2cVBKY2RrbHZJeTRZMUpIR0lsM2pUdnhzajRXRzlYRUxhcGFZWWNZVXFfRzVrVERDWklIYzVtbVAxS2hGUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-09T13:27:00+00:00",
+   "id": "28b9895cf9f2",
+   "title": "法国巴黎银行将特斯拉的目标价从$268调整至$266 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRtRDBwdnFNM2hzckNHUGwxYkY3ODR6ZzVVeC1vMVNpUEFxQjlnSjN0TGZ2a2R0WEhNMXkwVTRKUkM4RW9mdl9LeHpic3FDaWhwTDlGMDl0aW1SZV9zTE9RTGcxdG92MExNRzd6aEVETkNwY3AxTmNZc21ZVmRRWnJQcC1pQUNGZEFZNWZvNmN1dVFsNy1McE01RmtLQ2ctb2x2SQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T13:48:04+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "新浪网",
-     "published_at": "2026-10-09T13:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IWDJBd1dTOG5qdHZkTnZaVV9zREFnMzZiLW5kN05jLW5PQ0JrTkhIQ3pBQmU2cVBKY2RrbHZJeTRZMUpIR0lsM2pUdnhzajRXRzlYRUxhcGFZWWNZVXFfRzVrVERDWklIYzVtbVAxS2hGUQ"
+     "name": "Moomoo",
+     "published_at": "2026-10-09T13:48:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRtRDBwdnFNM2hzckNHUGwxYkY3ODR6ZzVVeC1vMVNpUEFxQjlnSjN0TGZ2a2R0WEhNMXkwVTRKUkM4RW9mdl9LeHpic3FDaWhwTDlGMDl0aW1SZV9zTE9RTGcxdG92MExNRzd6aEVETkNwY3AxTmNZc21ZVmRRWnJQcC1pQUNGZEFZNWZvNmN1dVFsNy1McE01RmtLQ2ctb2x2SQ"
     }
    ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉9月交付量和国内销量创年内新高",
-   "title_zh": "多轮促销后，特斯拉9月交付量和国内销量创年内新高 - 新浪网",
-   "sentiment": 1
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "bff9927fb4e6",
+   "title": "Tesla Inc Stock (TSLA) Opened Up by 3.17% on Oct 9: A Full Analysis - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUtndFU1UW55TWJIRlhINFFjUWcwWUJzNTF4dEdGLU5fMlNQcGZwWXFBUENBTzd4R0hybzVFQXRoanJsNVRjd2FZQkd3eFZveEo1dU9Ba3hSVExfRVVSTHIwVUJVSTkyeDJTaUQ4YXVzWklhVGdLeGRRMG5yYnRJUnJOUmkzRVFWT1Jv",
+   "source": "TradingKey",
+   "published_at": "2026-10-09T13:47:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingKey",
+     "published_at": "2026-10-09T13:47:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUtndFU1UW55TWJIRlhINFFjUWcwWUJzNTF4dEdGLU5fMlNQcGZwWXFBUENBTzd4R0hybzVFQXRoanJsNVRjd2FZQkd3eFZveEo1dU9Ba3hSVExfRVVSTHIwVUJVSTkyeDJTaUQ4YXVzWklhVGdLeGRRMG5yYnRJUnJOUmkzRVFWT1Jv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "96789345fcbf",
+   "title": "TSLA 看涨期权 | 2026年10月9日 | 周五 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFJIZ2RKdDhOZmtPZmZzY3l4RzJzeDJwU3R2dE1mSFl1NkhmOHVqOFl1NW56N3dTeVVGYkx3aWlCZ3BSSjNOc2dESzhaS3FyM3U2RXhXQ0ZRYml5YldZRnh3azI4SVdaSnBZUk02aGdvWWt5NEw4Y1Z2Q25yZi1VcFhtaVByelpsZjVXcmQ2RTM1Y1ZEZUFuaw",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T13:45:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T13:45:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFJIZ2RKdDhOZmtPZmZzY3l4RzJzeDJwU3R2dE1mSFl1NkhmOHVqOFl1NW56N3dTeVVGYkx3aWlCZ3BSSjNOc2dESzhaS3FyM3U2RXhXQ0ZRYml5YldZRnh3azI4SVdaSnBZUk02aGdvWWt5NEw4Y1Z2Q25yZi1VcFhtaVByelpsZjVXcmQ2RTM1Y1ZEZUFuaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "06efbbcb048e",
+   "title": "Update: Tesla Fire in Alameda County hits 100% containment by Friday morning - Sacramento Bee",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdnR2N3B0U2YzejlDaVhiYkR2alRfUk1mbVhzWmVsY2tPVlpQU1h3NDYxMTJ4d0dIdS1GSXFiRTBqQnRZTE10cnVwQ01mRjlwM1oxckxBOXJucE04Nl83ZXVHSXVodjVQeTgtay1CenVGUm5r",
+   "source": "Sacramento Bee",
+   "published_at": "2026-10-09T13:39:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Sacramento Bee",
+     "published_at": "2026-10-09T13:39:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdnR2N3B0U2YzejlDaVhiYkR2alRfUk1mbVhzWmVsY2tPVlpQU1h3NDYxMTJ4d0dIdS1GSXFiRTBqQnRZTE10cnVwQ01mRjlwM1oxckxBOXJucE04Nl83ZXVHSXVodjVQeTgtay1CenVGUm5r"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "bbf20c0e05f7",
+   "title": "上海内环高架上演惊险一幕！两辆特斯拉“斗气”互别发生碰撞，71岁司机变道影响正常通行遭罚款，42岁司机泄愤危险变道，被采取刑事强制措施 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTNJd28tVHpzc2JUbWhraVFwUkw3UXNpSURRRktpODAtRTFuQzYyVFlVMnJubVV3QlBlWkMxdUJKVmxDRGFfWld4QWtVczFhQnZGZXpNUVFfeWhROGtKcEpWWXprMTBYRmthSHhKb3J1LWpkYVcwME5jMGo5bHJBY0NQdEozTHltT2E1Zw",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T13:34:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T13:34:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTNJd28tVHpzc2JUbWhraVFwUkw3UXNpSURRRktpODAtRTFuQzYyVFlVMnJubVV3QlBlWkMxdUJKVmxDRGFfWld4QWtVczFhQnZGZXpNUVFfeWhROGtKcEpWWXprMTBYRmthSHhKb3J1LWpkYVcwME5jMGo5bHJBY0NQdEozTHltT2E1Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "d6e630f49e38",
@@ -126,6 +191,31 @@
    "zh_summary": "Moomoo特斯拉行情页面",
    "title_zh": "$特斯拉 (TSLA.US)$ - Moomoo",
    "sentiment": 0
+  },
+  {
+   "id": "a7586b90d83f",
+   "title": "多轮促销后，特斯拉9月交付量和国内销量创年内新高 - 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ORTlNT3dGZ0l4Z3JqbkxtcU1mS2stWTJtUDRVcWJSWDJMUVpXXzBPSFpmbElMMzFESmRnWUNkcnFENm5qbGlxeFFJSXd2VF9TdTVtNTVBM2loYnlJdnc",
+   "source": "上观新闻",
+   "published_at": "2026-10-09T13:17:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "上观新闻",
+     "published_at": "2026-10-09T13:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ORTlNT3dGZ0l4Z3JqbkxtcU1mS2stWTJtUDRVcWJSWDJMUVpXXzBPSFpmbElMMzFESmRnWUNkcnFENm5qbGlxeFFJSXd2VF9TdTVtNTVBM2loYnlJdnc"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-09T13:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IWDJBd1dTOG5qdHZkTnZaVV9zREFnMzZiLW5kN05jLW5PQ0JrTkhIQ3pBQmU2cVBKY2RrbHZJeTRZMUpIR0lsM2pUdnhzajRXRzlYRUxhcGFZWWNZVXFfRzVrVERDWklIYzVtbVAxS2hGUQ"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前",
+   "zh_summary": "特斯拉9月交付量和国内销量创年内新高",
+   "title_zh": "多轮促销后，特斯拉9月交付量和国内销量创年内新高 - 新浪网",
+   "sentiment": 1
   },
   {
    "id": "6b8513b2d320",
@@ -213,17 +303,39 @@
    "sentiment": 1
   },
   {
+   "id": "b4b3919db6bb",
+   "title": "Teens Throw a Pineapple at a Moving Tesla, Eggs at a Chevy: \"This is Putting People's Lives at Risk\" - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU3JkUXBXSjg1NnNXQ0lFS0VzUWstNG1DSVJwb09uOFJNUVBzTkRXVXpTVC1nVzFMak8wc3BzbFJjQVo3XzZaMDBxT1FYcUY0NDN4WGJtTzh5QWNRUmctd3V1bTNqVzJKSmNDRkRaZUh3SjI3d1dKa0kzejJabUJGMnhpSU5feW9xSVBEZ2R3",
+   "source": "Yahoo",
+   "published_at": "2026-10-09T12:59:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-09T12:59:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU3JkUXBXSjg1NnNXQ0lFS0VzUWstNG1DSVJwb09uOFJNUVBzTkRXVXpTVC1nVzFMak8wc3BzbFJjQVo3XzZaMDBxT1FYcUY0NDN4WGJtTzh5QWNRUmctd3V1bTNqVzJKSmNDRkRaZUh3SjI3d1dKa0kzejJabUJGMnhpSU5feW9xSVBEZ2R3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "a7632782a6b7",
    "title": "特斯拉在欧洲弃用“自动驾驶”命名，改称“特斯拉辅助驾驶”，以争取监管批准 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QWDJJRVNMbWtDcHVOSzJzUFZjVC12eUotejRhYndZVmI4SEFyOW9mWFJNeEpiOWFKeEREQkFGb0FfT0pGVV90ZExFbVlWaGFrajlhTFkzWlBhRVo3YkdSVFdueUFka3BNcGZMUXo4QWg0WHpzWDZ1cw",
    "source": "新浪财经",
    "published_at": "2026-10-09T12:54:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-09T12:54:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QWDJJRVNMbWtDcHVOSzJzUFZjVC12eUotejRhYndZVmI4SEFyOW9mWFJNeEpiOWFKeEREQkFGb0FfT0pGVV90ZExFbVlWaGFrajlhTFkzWlBhRVo3YkdSVFdueUFka3BNcGZMUXo4QWg0WHpzWDZ1cw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T13:00:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEpvcFgtQXBZSEZCb0ZDejA3VG9CUGVDU251aDVnNy1LblBfeWlkVEEybHlnZWZydHpJZF9UejZ1ZXJ6NFF5X1FuajhpZXFjY1J3Rk9yUHV4WHoxZFRvZGJFeXVSMDFVSUoyVEttNGg2VV9ZeU9NaFZNaDdJWmt2WHhlSnJncENwVDdPUXo0RQ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -238,12 +350,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZFpoMkRvdUoyVmpjeVRkRnRScHU0QmtkbTF6Tl9LTXBIaVYzWlduckFxV0tibGlGdXBwWFNsTWlmT3hBOURnTFRlWHNBWmRWYmJXRmZ6NG9jQ0dSTzZfRA",
    "source": "证券之星",
    "published_at": "2026-10-09T12:51:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "证券之星",
      "published_at": "2026-10-09T12:51:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZFpoMkRvdUoyVmpjeVRkRnRScHU0QmtkbTF6Tl9LTXBIaVYzWlduckFxV0tibGlGdXBwWFNsTWlmT3hBOURnTFRlWHNBWmRWYmJXRmZ6NG9jQ0dSTzZfRA"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-10-09T13:34:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56eDg1aXlxakJtcFV6dlBzVFFGQUVnNVJ6VWs1RDZWd3Y0ZWJUZ1piQmhjazlDQVY0THp6Tm0zUlZtRkh0QkVPZDRsU2xhOVVNM0ktMWZISG8zUk5jd1NRbEJWN1BoRmZETERJ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -436,6 +553,23 @@
    "zh_summary": "特斯拉9月中国批发销量95366辆创新高",
    "title_zh": "特斯拉9月中国批发销量增5%至95366辆创年内新高",
    "sentiment": 1
+  },
+  {
+   "id": "650f39304b4d",
+   "title": "Tesla Drops ‘Self-Driving’ Branding to Appease Europe Regulators - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJFN0VXNGlFRHFoMWhfV2lOMXlIRUJqb3lUbGRrSGlOMVRvSkVubVRoSkhvc0pieVpSUGQxTnJCbkN1bWVRZmRPdU5WN1paWE1oQVdacWZIdjVIME4tUzIxelhqaDJxeTdhd1NWU3hHckFoYmRhYlB1THpYeE9ub1BUa3hfQjBFYnRIY2FadjZsdldZWUg4OVJITmluck9TMlVadFo1MGhBUXFJeXFudENQQQ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-09T12:00:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-09T12:00:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJFN0VXNGlFRHFoMWhfV2lOMXlIRUJqb3lUbGRrSGlOMVRvSkVubVRoSkhvc0pieVpSUGQxTnJCbkN1bWVRZmRPdU5WN1paWE1oQVdacWZIdjVIME4tUzIxelhqaDJxeTdhd1NWU3hHckFoYmRhYlB1THpYeE9ub1BUa3hfQjBFYnRIY2FadjZsdldZWUg4OVJITmluck9TMlVadFo1MGhBUXFJeXFudENQQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "655b060b0cb5",
@@ -820,12 +954,17 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVRnaDdXajBxVlVIUUVfeGdoTmtXTExTdmlDcTNiVnYxNEIyc2gwZFgwcEhZSmhjQU5BUG1KODFaV3QyS01TX1JtZzNSNi0zb2JpQWpNWVVoSWYzN1VOdUkwWU0zMkg4SEJGcWV6TVk4SkpSRGRKVTNobjdES3VhZVRLd3BFTVQ3Vkd0RmhB",
    "source": "Austin American-Statesman",
    "published_at": "2026-10-09T10:35:34+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Austin American-Statesman",
      "published_at": "2026-10-09T10:35:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVRnaDdXajBxVlVIUUVfeGdoTmtXTExTdmlDcTNiVnYxNEIyc2gwZFgwcEhZSmhjQU5BUG1KODFaV3QyS01TX1JtZzNSNi0zb2JpQWpNWVVoSWYzN1VOdUkwWU0zMkg4SEJGcWV6TVk4SkpSRGRKVTNobjdES3VhZVRLd3BFTVQ3Vkd0RmhB"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-09T13:04:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2otSnFIeHRQOURqWUh3VFkxTEplTkVlcjE0THdfbDlYQzlpczZKUHREVElmY25iR3BENHhvbElsMHZDR25rV0U1Nm9kd1FzZUxPNkt0VDVPUEU4RmpvVGt5MzkzVzhVcEx4dk9lQTZOQ1NFQ1h3dzRoOERYQ1dISGJKb0RuSTExQWRzVGk1LXgzUQ"
     }
    ],
    "category": "其他",
@@ -6538,165 +6677,6 @@
    "zh_summary": "特斯拉东海岸首座Semi充电站投用",
    "title_zh": "特斯拉东海岸首座Semi Megacharger在佐治亚州投用",
    "sentiment": 1
-  },
-  {
-   "id": "6d33ef31f64b",
-   "title": "特斯拉完整的“万圣节特效” 据说还有靠近车辆的隐藏彩蛋 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3Q0ekNucW4wU2hxNC1aR1c5SEZnQzhGZjZwVldXVUhTZFFDX1hkenlPYVNYOFQ0YzlIM1U3QWhuUUd5VUtEZnNGTThBUnhMMVFzVXk4T3E4ZFB1eTJuNF91SUQydmM0ckNLcEljakxBX2s2TzhWbUJVRi1Xbm4zbA",
-   "source": "新浪网",
-   "published_at": "2026-10-08T02:01:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T02:01:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3Q0ekNucW4wU2hxNC1aR1c5SEZnQzhGZjZwVldXVUhTZFFDX1hkenlPYVNYOFQ0YzlIM1U3QWhuUUd5VUtEZnNGTThBUnhMMVFzVXk4T3E4ZFB1eTJuNF91SUQydmM0ckNLcEljakxBX2s2TzhWbUJVRi1Xbm4zbA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉推送万圣节特效含隐藏彩蛋",
-   "title_zh": "特斯拉完整的“万圣节特效” 据说还有靠近车辆的隐藏彩蛋 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "b4f206e0dbcb",
-   "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz",
-   "source": "Stocktwits",
-   "published_at": "2026-10-08T02:00:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-08T02:00:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克行权2018期权增持特斯拉",
-   "title_zh": "马斯克行权2018年股票期权，增持特斯拉股份",
-   "sentiment": 1
-  },
-  {
-   "id": "40314055ce16",
-   "title": "【视频】买二手特斯拉应该要注意什么？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZ2h3ZS1FZWFYYmhORERZTThRRm9mSFZNbXV0WWJLN202b2hfOGhVZjhkcFI0VEVOMmlVWVJkSDJsTnhhOGgtV1FQbzNlYVItc052cHU3Ul9HVXZHa1E1SmE3Wjh3ejdTYkZZ",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T02:00:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T02:00:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZ2h3ZS1FZWFYYmhORERZTThRRm9mSFZNbXV0WWJLN202b2hfOGhVZjhkcFI0VEVOMmlVWVJkSDJsTnhhOGgtV1FQbzNlYVItc052cHU3Ul9HVXZHa1E1SmE3Wjh3ejdTYkZZ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "购买二手特斯拉注意事项盘点",
-   "title_zh": "【视频】买二手特斯拉应该要注意什么？ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "b00f27131144",
-   "title": "特斯拉第三季度销量高于预期 显示汽车业务趋于稳定 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MMGVGMFU4LVhzNG96a1VEc2xtd2lnNFVCUV9MMFJvTmFYNDVqaTN1bGFxUUdYTWZNUGxwV002V05qNk5jdnpieXpjS3JJT3ZJQzdmcHlhNHZid2xIWVJNWjN1VFY1bWQzbk5V",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T01:28:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T01:28:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MMGVGMFU4LVhzNG96a1VEc2xtd2lnNFVCUV9MMFJvTmFYNDVqaTN1bGFxUUdYTWZNUGxwV002V05qNk5jdnpieXpjS3JJT3ZJQzdmcHlhNHZid2xIWVJNWjN1VFY1bWQzbk5V"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉三季度销量高于预期",
-   "title_zh": "特斯拉第三季度销量高于预期 显示汽车业务趋于稳定",
-   "sentiment": 1
-  },
-  {
-   "id": "0d59e6ca87b0",
-   "title": "你觉得特斯拉本次OTA最实用的功能是什么？ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzJfNjNhWHU5R2d5REJ2LTRMeVlLUWtfcFlMcFdpemMxRDRVanNEUjBPM1RMUXpIQTdZRVZWaTRXaDc4bTNOOTJUTDRIMmtTOFZOTE1pMEVmcmt2SHdjUnJucDh0OGdzWmxNM1dTWTdFaWgzMVFVQmk1bk1WcnVReg",
-   "source": "新浪网",
-   "published_at": "2026-10-08T01:20:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T01:20:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzJfNjNhWHU5R2d5REJ2LTRMeVlLUWtfcFlMcFdpemMxRDRVanNEUjBPM1RMUXpIQTdZRVZWaTRXaDc4bTNOOTJUTDRIMmtTOFZOTE1pMEVmcmt2SHdjUnJucDh0OGdzWmxNM1dTWTdFaWgzMVFVQmk1bk1WcnVReg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉OTA新功能讨论",
-   "title_zh": "你觉得特斯拉本次OTA最实用的功能是什么？",
-   "sentiment": 0
-  },
-  {
-   "id": "fcbf4218dc80",
-   "title": "特斯拉FSD监督版可以轻松应对冬季路况 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDVic1hFVGlZY0FQUVgzNTI2cVVDdjZ6akVVNGxCX1I3blBlWV85TnQ4Ul9YNmF4VzNZV3pzOWlNczQyc21DXzdielZjLVg2ZnJPeEd5ZmpaRGl4bk1IZm1HQzlGdHg4dlpsVHdtYmhkZU5WZ0tJUFFLZlgwMmdJZA",
-   "source": "新浪网",
-   "published_at": "2026-10-08T01:19:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T01:19:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDVic1hFVGlZY0FQUVgzNTI2cVVDdjZ6akVVNGxCX1I3blBlWV85TnQ4Ul9YNmF4VzNZV3pzOWlNczQyc21DXzdielZjLVg2ZnJPeEd5ZmpaRGl4bk1IZm1HQzlGdHg4dlpsVHdtYmhkZU5WZ0tJUFFLZlgwMmdJZA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD监督版应对冬季路况",
-   "title_zh": "特斯拉FSD监督版可以轻松应对冬季路况",
-   "sentiment": 1
-  },
-  {
-   "id": "f1363d3c21e5",
-   "title": "马斯克也无奈！特斯拉无人驾驶出租车竟被灰色小猫给难住了 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNFhRTWI5R0NaV0FLaEM5a3V6YmFCT0RKUWZzM2llZm1sOHRXcklNaXlTNm41NmhuZ3M0U0lrNGNTc1ZzeXZHVllfeUVPV0U2Yk9ZZVpxTE0",
-   "source": "驱动之家",
-   "published_at": "2026-10-08T01:13:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-08T01:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wNFhRTWI5R0NaV0FLaEM5a3V6YmFCT0RKUWZzM2llZm1sOHRXcklNaXlTNm41NmhuZ3M0U0lrNGNTc1ZzeXZHVllfeUVPV0U2Yk9ZZVpxTE0"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T01:13:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1FYN3J2X3Fnb0UxMW5EdzhjdWVKdmZ1MGtTWDdQVDF2WWhrWkQxS2NIQ1BCUEhIcFlUU1dobFZDQTdaU3d4T2w3R3picFcyb2dYbWVvOGlDWW1yS1F2NV9JcmVickpvcDNQWnhfeEhLYlhWNkZlMEFRRVdlVm1oUU5vdWxMOWNm"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-08T02:44:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00aXNEQ1o3b3BIcWhkVlQwbnZOTnBRN2VvN0E0ZE5teWpTVWRHREp0SXE1THhJMzM2YTYwcmNJZGdlZWVNWW9ZeDJheUk"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-09T03:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZnFVUnhJLTlVOHFaR1hscmJ2ZGhCMmZKV19EOXJmaDJaUHFWclVJOGVNQ2d0QUl5SG41Q2toNE00Y1Exblp4cHc1c3JoRjNNRUdQWTdYRlhDbzFLR0dkQzZhZmE1cjFtQWhxcFNvZFhZaktxTnJ1V014OFdRdw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉Robotaxi遇小猫受阻",
-   "title_zh": "马斯克也无奈！特斯拉无人驾驶出租车竟被灰色小猫给难住了",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
   }
  ]
 }
