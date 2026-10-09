@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T13:52:39.019535+00:00",
+ "updated_at": "2026-10-09T14:07:30.279099+00:00",
  "market": {
-  "price": 388.3,
-  "change_pct": 3.55,
+  "price": 385.23,
+  "change_pct": 2.73,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 47% 分位"
+     "note": "现价处于52周区间 45% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.0%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（85条已评分）"
+     "note": "今日新闻情绪 +0.21（92条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $388.30 vs 20日均线 $368.94"
+     "note": "现价 $385.23 vs 20日均线 $368.79"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 47,
+   "price_52w_pct": 45,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.0,
-   "ma20": 368.94,
-   "as_of": "2026-10-09T13:52:39.005825+00:00"
+   "implied_upside_pct": 3.8,
+   "ma20": 368.79,
+   "as_of": "2026-10-09T14:07:30.268311+00:00"
   },
-  "pe_ttm": 107.4,
+  "pe_ttm": 106.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.8%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 85
+   "avg": 0.21,
+   "count": 92
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "ce0f25cfb77f",
+   "title": "Why is Tesla stock rallying today? - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3RFV1RJeXpjcGdRRUZKUlhHbUdzVFBISzdTYWFhN08zWFNCMzc1TE5JWlllMEMyRzRLaFZZaUJYNFQyZ2tUQ2EwN25yLWRhOTM5b0hTRUZoOWtZWTNnb05wel84eTV5MGxuUEFrcWFXSGxZdnJNNGdlbnFxTkdUVmhQU0FHZlNiaWVWS2hHZHo1UUhTSURhdk1vaw",
+   "source": "Investing.com",
+   "published_at": "2026-10-09T13:58:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-09T13:58:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3RFV1RJeXpjcGdRRUZKUlhHbUdzVFBISzdTYWFhN08zWFNCMzc1TE5JWlllMEMyRzRLaFZZaUJYNFQyZ2tUQ2EwN25yLWRhOTM5b0hTRUZoOWtZWTNnb05wel84eTV5MGxuUEFrcWFXSGxZdnJNNGdlbnFxTkdUVmhQU0FHZlNiaWVWS2hHZHo1UUhTSURhdk1vaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "ab04ce6d65ff",
+   "title": "Market Heatmap: Tesla and Metals Lead; Apple Slides on Cut - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0I5dUZpdDRWclQ4UzhIRGR4cW9zMVlkZ0pHa2lVVjBMT09tNHdqTGVaWUNmUWVWNEN3dmdNWXFpOGJDaWlpT29yU3g1Zk5UN2FOYUhIRU4zX3Y1bDZMVjBfZl94X3NMUXBwUzRjeXhsQ1VLUVo2SGUwMnZySGt4TWJFbDY5UFFQcUVhdEpZNlF6YUVTalpfRmdYdlJHMVU0eTBpOE10a2lkckp0ckhB",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T13:53:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T13:53:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0I5dUZpdDRWclQ4UzhIRGR4cW9zMVlkZ0pHa2lVVjBMT09tNHdqTGVaWUNmUWVWNEN3dmdNWXFpOGJDaWlpT29yU3g1Zk5UN2FOYUhIRU4zX3Y1bDZMVjBfZl94X3NMUXBwUzRjeXhsQ1VLUVo2SGUwMnZySGt4TWJFbDY5UFFQcUVhdEpZNlF6YUVTalpfRmdYdlJHMVU0eTBpOE10a2lkckp0ckhB"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "a7d4d583a2b4",
+   "title": "市场热力图：特斯拉与金属板块领涨；苹果因下调业绩预期而走低 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFBmZzd2cXlSSzFnb19OUjBiVkhwUUxQcmJpOTFrUUFIZHN2ZWZpMk8tOENrYTRXRWlyelRNSGV4Ymd2VGhMc2llN2JMNDBsSzRXSUo2UmZ6TDNmdVJhTmpkckVzRjFEUUs5SnNmTXhWN0tfcF9yYy1FSS05bDU1NEtIQ2wzTENaMUpobGhpWHVHaWxfMjF2dm5rak9UdFZHbGdja2dveF9XYnRzYjBtTTlHS0t2QQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T13:53:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T13:53:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFBmZzd2cXlSSzFnb19OUjBiVkhwUUxQcmJpOTFrUUFIZHN2ZWZpMk8tOENrYTRXRWlyelRNSGV4Ymd2VGhMc2llN2JMNDBsSzRXSUo2UmZ6TDNmdVJhTmpkckVzRjFEUUs5SnNmTXhWN0tfcF9yYy1FSS05bDU1NEtIQ2wzTENaMUpobGhpWHVHaWxfMjF2dm5rak9UdFZHbGdja2dveF9XYnRzYjBtTTlHS0t2QQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "28b9895cf9f2",
    "title": "法国巴黎银行将特斯拉的目标价从$268调整至$266 - Moomoo",
@@ -86,6 +137,23 @@
    "zh_summary": "法国巴黎银行将特斯拉目标价下调至266美元",
    "title_zh": "法国巴黎银行将特斯拉的目标价从$268调整至$266 - Moomoo",
    "sentiment": -1
+  },
+  {
+   "id": "379f7529478e",
+   "title": "特斯拉(TSLA)股票10月9日开盘上涨3.17%：真相来了 - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0hqTFc4cGd1SF9oY1MxVkZBczMyNnJJNU1KbThhWDQzNmRHMzRUbkJFbDVRYXBxU1h5UVJFeklVNnFUUTJ4ZENZbkhDdXRQbnpmNEtvbmV1X1ZNMHFjRmJ2UTVDUndPdGpqVGEwMUFVR0dWVWc4dTluWnVaZE9fXzJkZ2taRUlPU1FSUWNSRmVZNHp5SXc",
+   "source": "TradingKey",
+   "published_at": "2026-10-09T13:47:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingKey",
+     "published_at": "2026-10-09T13:47:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0hqTFc4cGd1SF9oY1MxVkZBczMyNnJJNU1KbThhWDQzNmRHMzRUbkJFbDVRYXBxU1h5UVJFeklVNnFUUTJ4ZENZbkhDdXRQbnpmNEtvbmV1X1ZNMHFjRmJ2UTVDUndPdGpqVGEwMUFVR0dWVWc4dTluWnVaZE9fXzJkZ2taRUlPU1FSUWNSRmVZNHp5SXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "bff9927fb4e6",
@@ -578,12 +646,17 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJFN0VXNGlFRHFoMWhfV2lOMXlIRUJqb3lUbGRrSGlOMVRvSkVubVRoSkhvc0pieVpSUGQxTnJCbkN1bWVRZmRPdU5WN1paWE1oQVdacWZIdjVIME4tUzIxelhqaDJxeTdhd1NWU3hHckFoYmRhYlB1THpYeE9ub1BUa3hfQjBFYnRIY2FadjZsdldZWUg4OVJITmluck9TMlVadFo1MGhBUXFJeXFudENQQQ",
    "source": "Bloomberg.com",
    "published_at": "2026-10-09T12:00:35+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Bloomberg.com",
      "published_at": "2026-10-09T12:00:35+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJFN0VXNGlFRHFoMWhfV2lOMXlIRUJqb3lUbGRrSGlOMVRvSkVubVRoSkhvc0pieVpSUGQxTnJCbkN1bWVRZmRPdU5WN1paWE1oQVdacWZIdjVIME4tUzIxelhqaDJxeTdhd1NWU3hHckFoYmRhYlB1THpYeE9ub1BUa3hfQjBFYnRIY2FadjZsdldZWUg4OVJITmluck9TMlVadFo1MGhBUXFJeXFudENQQQ"
+    },
+    {
+     "name": "Transport Topics",
+     "published_at": "2026-10-09T13:27:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ORHVXdEIyZVByS2VMSVlpTkxna2V1b0hGY1lERkFYZUpNRUJSX0Q3Uk05ZTFDaFVvVXBQaTlidzk0eThqWm9kS1lVNWs2bEtoQVNOeFFjdE9jUFBjVlhHNnNub1J2ck4ybmtJ"
     }
    ],
    "category": "其他",
@@ -645,6 +718,23 @@
    "zh_summary": "特斯拉欧洲FSD改名TAD，审批再延期",
    "title_zh": "特斯拉欧洲官网将FSD更名为TAD辅助驾驶 欧盟审批再延期 - 观点网",
    "sentiment": -1
+  },
+  {
+   "id": "9a467afaac48",
+   "title": "特斯拉FSD（完全自动驾驶）欧洲改名为TAD（辅助驾驶）；FSD入华时间仍未明确，欧盟审批再延期 - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWdxVjFDWHJiRlFJRnhTOC1feXJzVnVsbFZ4WmNjZUJ2MUxsMXFoUzg0emlQcVdoN1BhTlNxTlIyTTJnYTJXazhMTEpNOU9sUXp1RXpPOWhUdjB1cklLOFNKV0FfejAweXkycUJQcWlSY3I3TWNCSEI1WVpqWEw3bnRDZDhYZ3Jy",
+   "source": "Sohu",
+   "published_at": "2026-10-09T11:35:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-09T11:35:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWdxVjFDWHJiRlFJRnhTOC1feXJzVnVsbFZ4WmNjZUJ2MUxsMXFoUzg0emlQcVdoN1BhTlNxTlIyTTJnYTJXazhMTEpNOU9sUXp1RXpPOWhUdjB1cklLOFNKV0FfejAweXkycUJQcWlSY3I3TWNCSEI1WVpqWEw3bnRDZDhYZ3Jy"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "bde187e38cc2",
@@ -6579,125 +6669,6 @@
    "zh_summary": "特斯拉Cybercab费城发生交通事故",
    "title_zh": "特斯拉Cybercab在费城发生交通事故 车门外板完全脱落 - 搜狐网",
    "sentiment": -2
-  },
-  {
-   "id": "5a5498f011d3",
-   "title": "特斯拉200元中秋礼盒引吐槽，一线工人17薪年薪12万 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYjJfMWktSmR5M2pPU2NicUJLSFlEbDZ6X0VNZVZWYTdzYzdtZVh2SjloQ0RpRXBfUVRBWjVuT2tWZzdUSFlOTXpSOEM2ZWI0Y0pIWHgyN0psR2VuZ1pHdVdiWWZuSlBKWkExalh1R1lSZw",
-   "source": "新浪网",
-   "published_at": "2026-10-08T02:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T02:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYjJfMWktSmR5M2pPU2NicUJLSFlEbDZ6X0VNZVZWYTdzYzdtZVh2SjloQ0RpRXBfUVRBWjVuT2tWZzdUSFlOTXpSOEM2ZWI0Y0pIWHgyN0psR2VuZ1pHdVdiWWZuSlBKWkExalh1R1lSZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉200元中秋礼盒引吐槽",
-   "title_zh": "特斯拉200元中秋礼盒引吐槽，一线工人17薪年薪12万",
-   "sentiment": 0
-  },
-  {
-   "id": "681cdeff9031",
-   "title": "【视频】又跳票了？特斯拉新一代Roadster发布会又推迟了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FOXRrdmRhRFkwSmtpYzN6TFpKZTA4NlgwZ3BZZGJTUFBrY21qMlZVUDgyZWVSYy1GMkFlNVN0YmNhS0pma25HTzFvZy0yNVBRdWpzZ3EtTXZYTEU",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T02:15:37+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T02:15:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FOXRrdmRhRFkwSmtpYzN6TFpKZTA4NlgwZ3BZZGJTUFBrY21qMlZVUDgyZWVSYy1GMkFlNVN0YmNhS0pma25HTzFvZy0yNVBRdWpzZ3EtTXZYTEU"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T02:48:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzRzWlhDZS01Y21NVjd3TnN3R3JCa1F2QnQ3cUl2YXpkNV9VVkVycWVRMGtieHdHQzI5N090VTRieDdhSjQ2cVZ2VnlVOTF2OWdWTS1VaThlY09OLVFrdTJ6WjdzUkJ3LXNwTTdGZEkxZUNHaDIyQUdtdVhDU2RlZHBKei1OWmJK"
-    },
-    {
-     "name": "手机网易网",
-     "published_at": "2026-10-08T02:56:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rYXRHTEU2alFvTm5XbUZ6aXNGVnBESmkxRU1pMGhBRFRBY01VMnEwU092dTUwa0laZlVCRjBpNjRiekZDWE9aRkFqYXgzR0syUHdWOQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "新一代Roadster发布会再度推迟",
-   "title_zh": "【视频】又跳票了？特斯拉新一代Roadster发布会又推迟了",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.18,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "7de257e331ba",
-   "title": "【视频】特斯拉Cybercab未来会来到中国市场吗？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SY2lBU0hBdl93ZkF1VEh1dHpYSkZpdTRKRFpmRTdMdXNfbnNOejdNR3JWVHozdjZrdkVJQzl2MEFjWi1uZC1Gb3dCM2RZWHFQT3lUVHlJOXFxMWpocU5OdFZjdndUcTB1cHBJ",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T02:15:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T02:15:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SY2lBU0hBdl93ZkF1VEh1dHpYSkZpdTRKRFpmRTdMdXNfbnNOejdNR3JWVHozdjZrdkVJQzl2MEFjWi1uZC1Gb3dCM2RZWHFQT3lUVHlJOXFxMWpocU5OdFZjdndUcTB1cHBJ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Cybercab未来或进入中国市场",
-   "title_zh": "【视频】特斯拉Cybercab未来会来到中国市场吗？",
-   "sentiment": 0
-  },
-  {
-   "id": "7dc3f0121512",
-   "title": "特斯拉Model 3/Y终于可以为家庭供电了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcFllSGR0VkxoWVBQNUtlVFdqTHotZzJVWEktcXFQb25ZbE0yNjhVV0NaSldZYmxaNElLXzZ4aWdzVTRIMEpxWWdYTmJOR2M5SkVGWV9wWWVWcjQ",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T02:09:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T02:09:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcFllSGR0VkxoWVBQNUtlVFdqTHotZzJVWEktcXFQb25ZbE0yNjhVV0NaSldZYmxaNElLXzZ4aWdzVTRIMEpxWWdYTmJOR2M5SkVGWV9wWWVWcjQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Model3/Y支持家庭供电",
-   "title_zh": "特斯拉Model 3/Y终于可以为家庭供电了",
-   "sentiment": 1
-  },
-  {
-   "id": "e4e8f931e122",
-   "title": "Tesla Opens First East Coast Semi Megacharger in Georgia - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjAxQTNFaFh1d0x5Mk1kbEpZZ09tQWJ1WTIyMGNQQkFwNll6Ul9TdFNFZUVSTWJQa1dHbHNmMjVjVEcxanMzRThmZGdxT0hNeFJSUmI5ajcxQ1Q0MXB0QWJpVGdlZkZGVUFpTDM4VHFKWERnT2FsaU5mT29zazhXYUN0WlJyX1loRmczb3otS3ZfM2NEVnc",
-   "source": "BASENOR",
-   "published_at": "2026-10-08T02:06:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-08T02:06:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjAxQTNFaFh1d0x5Mk1kbEpZZ09tQWJ1WTIyMGNQQkFwNll6Ul9TdFNFZUVSTWJQa1dHbHNmMjVjVEcxanMzRThmZGdxT0hNeFJSUmI5ajcxQ1Q0MXB0QWJpVGdlZkZGVUFpTDM4VHFKWERnT2FsaU5mT29zazhXYUN0WlJyX1loRmczb3otS3ZfM2NEVnc"
-    },
-    {
-     "name": "Commercial Carrier Journal",
-     "published_at": "2026-10-08T21:12:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdzRDNlZJNmxRcjM3S1FxallwQUZaV3dHWGIyMGF6NVlkbjBNMllVQ0RDWHlSajRPZDNLMUtYQUJ5bzhEbWNFTGJSa3NsZE5LU3BLR283ZjAtOTdmcFdlVmlzWS1aTHN6NjhCbTA4WkhzUVpFMm1oVjhvVjRwWVdQWWxCNW0zMzlXZl9xZ1V5a28yMllhNlZfV3RPT3dLZ0RjcHBlUjVoQjlvbW41Z0h5dllhZDJQZTg2VUNISDRYMURhVkM1VlBqU0FfX3Y4X19KVm1HSQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉东海岸首座Semi充电站投用",
-   "title_zh": "特斯拉东海岸首座Semi Megacharger在佐治亚州投用",
-   "sentiment": 1
   }
  ]
 }
