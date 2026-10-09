@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T16:52:34.271064+00:00",
+ "updated_at": "2026-10-09T17:07:30.729203+00:00",
  "market": {
-  "price": 383.83,
-  "change_pct": 2.35,
+  "price": 383.33,
+  "change_pct": 2.22,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,12 +16,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 45% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.2%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.3%"
     },
     {
      "key": "新闻情绪",
@@ -31,7 +31,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $383.83 vs 20日均线 $368.72"
+     "note": "现价 $383.33 vs 20日均线 $368.69"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 45,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.2,
-   "ma20": 368.72,
-   "as_of": "2026-10-09T16:52:34.259005+00:00"
+   "implied_upside_pct": 4.3,
+   "ma20": 368.69,
+   "as_of": "2026-10-09T17:07:30.716824+00:00"
   },
-  "pe_ttm": 106.2,
+  "pe_ttm": 106.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "88bf695899b6",
+   "title": "Blotter: Tesla driver arrested for DUI after passerby saw half-clothed woman getting out of car - Gillette News Record",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcV9HZUN6Y1hyUDZBUXo0RlZna1Uyb0VrbW1JMktEU3JuLWw3M3QyTUxQaHk2XzQ3Z2dGYkhxRnBMN0FTMGVvVEM4Wlhad3hCM3hpcDE3ZnBoQzFycFVFWUp6S1ZLUkNmVEI2M2t3dXVLY3Y3RnJOS1V5cXRyUFZiZnRmNVZxeUh5a21iNGNsYkFTVk41eFFOZW1lcWFpOUEwbWxEYVJqMldYZw",
+   "source": "Gillette News Record",
+   "published_at": "2026-10-09T17:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gillette News Record",
+     "published_at": "2026-10-09T17:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcV9HZUN6Y1hyUDZBUXo0RlZna1Uyb0VrbW1JMktEU3JuLWw3M3QyTUxQaHk2XzQ3Z2dGYkhxRnBMN0FTMGVvVEM4Wlhad3hCM3hpcDE3ZnBoQzFycFVFWUp6S1ZLUkNmVEI2M2t3dXVLY3Y3RnJOS1V5cXRyUFZiZnRmNVZxeUh5a21iNGNsYkFTVk41eFFOZW1lcWFpOUEwbWxEYVJqMldYZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6c60b1f7012a",
    "title": "Tesla wants to increase emissions near a Bay Area elementary school - SFGATE",
@@ -3456,6 +3473,23 @@
    "sentiment": 1
   },
   {
+   "id": "616da40badaa",
+   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
+   "source": "财联社",
+   "published_at": "2026-10-09T00:51:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-09T00:51:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
    "id": "0c8bc99c8c44",
    "title": "【视频】除了宁德比亚迪，为什么特斯拉出口版车型偏偏用欣旺达电池 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTUlwcnVkMFpwMXAzc2VkbU85ZHUyQmdUdlkxLVBRbUNubUU1d3Y1djRMM0dVSVZpbWQ0blN5ME1CamU1dFlHekVoUzVGUC1ScUlFUzdZb0FCZFk",
@@ -4061,7 +4095,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEdyV3JiMGZNWmMtWXlERm4yWnRiM3dGUXgtS1R0M2ZGZ2ExRGJWaEtJS1d1XzU5bTE1WVljQVFTaE1wTnltTXBxQWFHWGdjdmpjNm5KUmpIV3owck9GYlVFaWN4N2JJOUlRN1VhZzh6ZzY2TF9IbVR5NFpFcU1ITmw3bWtFOEdWMTFzYWNYUkJRdnVjdFY4",
    "source": "BASENOR",
    "published_at": "2026-10-08T20:04:46+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "BASENOR",
@@ -4072,13 +4106,22 @@
      "name": "Not a Tesla App",
      "published_at": "2026-10-08T20:41:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlk0cjUzcGpUMldKR0xFUldFa2UxazctTjZZMG5FYkk3M0hwQzdzUHRoMU9QZ3pUQzFiMVJmbHdiSkdkOVh2T1psSjRhci1ucmU4UlNjbFJWMTZxaGtDNTBOOGpqM3ZubHRsQmR3c2lQbk45OHdjNTNuaUxCendMMm1SenJnM2dvYkdWR3F4eVZEZVJMWjFJ"
+    },
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-09T16:07:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnJEV3lEaHZrclRXcmRvamIzWE9TSktyUDI2bjJKdkJNamtYWkpqVE0yOVVhaDJjcThTd1FDc2VLY1NvQ3VaQVdSQllNM3pHOHJpQTZ5djI0X3JOQVhoNTloeG5KZ0Z2TlBpRVN2dTc1WnM3S1VaWllRcklRYlE5Y1lrNEtWZjNkX2RORDBCU2JjNWtUZ0tWczJ6VHJwNENtSjF0Qw"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
    "zh_summary": "特斯拉欧洲FSD更名辅助驾驶",
    "title_zh": "特斯拉欧洲将FSD更名为'辅助驾驶'",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -1.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "2b75e8994a1c",
@@ -6725,46 +6768,6 @@
    "zh_summary": "TSLA趋势延续但动能受质疑",
    "title_zh": "$TSLA：趋势依然 intact，但动能正引发质疑 - Moomoo",
    "sentiment": 0
-  },
-  {
-   "id": "42790fe275b5",
-   "title": "Key facts: Tesla price cut, record registrations; EU FSD delayed; Q3 - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2tJam9XbDRGaHkzdmplaHRuaGlUdnpNa1B1RmpHMUlTNDBfNlp6cTZUSVVwN3h6UjZLWk8yNjdlUEN0dnZvdTF1b25IS2dTbjBzQ3FJcXRsNHRLeEg3M2RNeU9qeno1OG9TSmJKbjBVdkl4eHFWMkJRcHdwSjJKWlloMVFYdWh5SHpCeU9MaXdmMk55UUswamlDRWh2RXpXVHpzUUtTajJCZ2IzU29kVkNmNHVTSUxZY2VQWlQ2OG9SQjUz",
-   "source": "TradingView",
-   "published_at": "2026-10-08T07:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-08T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2tJam9XbDRGaHkzdmplaHRuaGlUdnpNa1B1RmpHMUlTNDBfNlp6cTZUSVVwN3h6UjZLWk8yNjdlUEN0dnZvdTF1b25IS2dTbjBzQ3FJcXRsNHRLeEg3M2RNeU9qeno1OG9TSmJKbjBVdkl4eHFWMkJRcHdwSjJKWlloMVFYdWh5SHpCeU9MaXdmMk55UUswamlDRWh2RXpXVHpzUUtTajJCZ2IzU29kVkNmNHVTSUxZY2VQWlQ2OG9SQjUz"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉降价、注册创纪录、欧盟FSD推迟",
-   "title_zh": "要点：特斯拉降价、注册量创纪录；欧盟FSD推迟；三季度",
-   "sentiment": 0
-  },
-  {
-   "id": "eb162e272ab3",
-   "title": "10月8日消息，德国联邦交通部正力推特斯拉FSD在欧盟范围内的快速批准… - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wX09QSlk3am1iOXYzalpUOV9EYWN5dE96TEhWTGFNREk1WlZBcjFWZkthS1FVZ1Bjb05qVF9yR09UUmdpZUtUZ3FpSG56UGpZMXRhNjhpcGZwbWpieUVxc2M1Qjk0enNBZXhfMVYzalRJXzhJU09JM3BiOExTdw",
-   "source": "新浪网",
-   "published_at": "2026-10-08T06:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T06:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wX09QSlk3am1iOXYzalpUOV9EYWN5dE96TEhWTGFNREk1WlZBcjFWZkthS1FVZ1Bjb05qVF9yR09UUmdpZUtUZ3FpSG56UGpZMXRhNjhpcGZwbWpieUVxc2M1Qjk0enNBZXhfMVYzalRJXzhJU09JM3BiOExTdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德国力推FSD获欧盟快速批准",
-   "title_zh": "10月8日消息，德国联邦交通部正力推特斯拉FSD在欧盟范围内的快速批准… - 新浪网",
-   "sentiment": 1
   }
  ]
 }
