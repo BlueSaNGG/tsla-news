@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T01:07:48.880731+00:00",
+ "updated_at": "2026-10-09T01:22:41.378816+00:00",
  "market": {
-  "price": 377.81,
-  "change_pct": -0.75,
+  "price": 375.0,
+  "change_pct": -0.74,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +6.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（146条已评分）"
+     "note": "今日新闻情绪 +0.24（148条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.81 vs 20日均线 $367.22"
+     "note": "现价 $375.00 vs 20日均线 $367.80"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 40,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.9,
-   "ma20": 367.22,
-   "as_of": "2026-10-09T01:07:48.872778+00:00"
+   "implied_upside_pct": 6.7,
+   "ma20": 367.8,
+   "as_of": "2026-10-09T01:22:41.373903+00:00"
   },
-  "pe_ttm": 104.5,
+  "pe_ttm": 103.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 146
+   "avg": 0.24,
+   "count": 148
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d7b3b66a81bb",
+   "title": "Tesla SI: What the 'Super Intelligence' Rebrand Actually Means - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDFVcXlMamlza09SU0FkeHNmbVhzTEFfRUhjMjVLRENhQzdPeXNvTlJsWkZWSmJTeWZaMzROSEpjckc0MHp0V0JiSnpYZ2JLczRPc0l2b1NwTEQ2b0dwSXAtOHJaRURCQ2kyZDNadEZaQjRWRTRZd200UDMybkZFUWp6OHlSd21lVThCQ0NkOEdVUmwyRFNiMDd3",
+   "source": "BASENOR",
+   "published_at": "2026-10-09T01:05:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-09T01:05:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDFVcXlMamlza09SU0FkeHNmbVhzTEFfRUhjMjVLRENhQzdPeXNvTlJsWkZWSmJTeWZaMzROSEpjckc0MHp0V0JiSnpYZ2JLczRPc0l2b1NwTEQ2b0dwSXAtOHJaRURCQ2kyZDNadEZaQjRWRTRZd200UDMybkZFUWp6OHlSd21lVThCQ0NkOEdVUmwyRFNiMDd3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "0c8bc99c8c44",
    "title": "【视频】除了宁德比亚迪，为什么特斯拉出口版车型偏偏用欣旺达电池 - 汽车之家",
@@ -6704,26 +6721,6 @@
    "zh_summary": "特斯拉股价因欧洲自动驾驶审批延迟而下跌",
    "title_zh": "特斯拉欧洲自动驾驶审批延迟，股价下跌",
    "sentiment": -1
-  },
-  {
-   "id": "28d205f72403",
-   "title": "TSLA Stock Dips — Tesla Gears Up To Ramp European Production To 7,500 Vehicles Per Week Amid FSD Push - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3VRbktRSDB6U0syUHJxTTg4Z1FHNnZFRGpaVXlVdmkwRTlHLUxEZzlHZ0Y3V0E5MUhVVnhfS1NCellhd2taVWVGclFnb3JoVU5vUEV6TmtpejR5c0J4Nko3QUJFaUs3VUpvMzFlZkk4aEF3MGdIeFJ3b3R5MnotcmpKVzYyTjA1dXgtNkNtSng0NXJpbmVSR2VhWWJDUEhrWHJocTFxTXVjSzFGSzVzeU9Id2pzSVFuLVljYTNmRVVGbVZUaGpOOUtIcmxiMnpqakVKVVY5cG5SMHNwbEZzVTU0MFJxOWJiMjVhRmNzOTFMY0Jy",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T12:01:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T12:01:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3VRbktRSDB6U0syUHJxTTg4Z1FHNnZFRGpaVXlVdmkwRTlHLUxEZzlHZ0Y3V0E5MUhVVnhfS1NCellhd2taVWVGclFnb3JoVU5vUEV6TmtpejR5c0J4Nko3QUJFaUs3VUpvMzFlZkk4aEF3MGdIeFJ3b3R5MnotcmpKVzYyTjA1dXgtNkNtSng0NXJpbmVSR2VhWWJDUEhrWHJocTFxTXVjSzFGSzVzeU9Id2pzSVFuLVljYTNmRVVGbVZUaGpOOUtIcmxiMnpqakVKVVY5cG5SMHNwbEZzVTU0MFJxOWJiMjVhRmNzOTFMY0Jy"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉欧洲周产能将提升至7500辆",
-   "title_zh": "TSLA股价下跌——特斯拉欧洲周产量将提升至7500辆，FSD推进",
-   "sentiment": 0
   }
  ]
 }
