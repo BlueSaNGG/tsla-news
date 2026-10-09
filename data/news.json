@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T10:22:28.865247+00:00",
+ "updated_at": "2026-10-09T10:37:26.263850+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（39条已评分）"
+     "note": "今日新闻情绪 +0.02（43条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-09T10:22:28.851153+00:00"
+   "as_of": "2026-10-09T10:37:26.257011+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 39
+   "avg": 0.02,
+   "count": 43
   }
  },
  "meta": {
@@ -68,13 +68,40 @@
  },
  "stories": [
   {
-   "id": "7e88a132541e",
-   "title": "Tesla's China-made EV sales quicken in September - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1U0cXhndUJKN182em1YUHRGOUVhd0habi1XdHU1Z3JaTGZGbzN3UGxxVVh3MHYtcnpQUTBWLVF1V0JXTFNCQXR1UTFzS09JNVNaOVZQMHBkcjc2S3ZYVmtnM2YwSkNqaFI5ZEpWZnJMckFyeHBuVS1NZFlsRHktaW41a0d4em1VblhwLVJrdERCRDRIYzIyOURkQk5iR0hZ",
-   "source": "StreetInsider",
-   "published_at": "2026-10-09T10:18:15+00:00",
-   "outlets_count": 2,
+   "id": "67176c6d3fe2",
+   "title": "2026巴黎车展前瞻：中欧上演对手戏，华为特斯拉欧洲寻机会 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jeXowSFBvaDhCdFR0SjRwbmh0MEtVNVdVb09sSm5NcVg3VlF1ZlJwMUFpMTFBeE5wSmdQUmNFV2s3Y1Zpc1hsU1FVdko2V0E5OEE1bkZKQ2RtM28",
+   "source": "汽车之家",
+   "published_at": "2026-10-09T10:24:00+00:00",
+   "outlets_count": 1,
    "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-09T10:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jeXowSFBvaDhCdFR0SjRwbmh0MEtVNVdVb09sSm5NcVg3VlF1ZlJwMUFpMTFBeE5wSmdQUmNFV2s3Y1Zpc1hsU1FVdko2V0E5OEE1bkZKQ2RtM28"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "7e88a132541e",
+   "title": "Tesla's China-made EV sales quicken in September - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTA1ekJpb3NWQV9LWklxbXpkNW1NVDloNmdEcEc3d3B3SGpmdTdVUkxyUndPZTVDenJraGVEbGNleUxTTFByUlI2YldMZ1NIRld1dHloZGhlMUpFNWNLazlTTWFpdnpLVTFqbjRvR2o0UDdaQTBWc2NoeFY2cHJBUXFyd0N3Qk9kRGt6MU5BYVZhRW85NXd6S0FsYlBHam1iaHlrNjJFSVJydFAwdDRrRzdzVXJoeEVHNFE",
+   "source": "TradingView",
+   "published_at": "2026-10-09T10:15:38+00:00",
+   "outlets_count": 4,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-09T10:15:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTA1ekJpb3NWQV9LWklxbXpkNW1NVDloNmdEcEc3d3B3SGpmdTdVUkxyUndPZTVDenJraGVEbGNleUxTTFByUlI2YldMZ1NIRld1dHloZGhlMUpFNWNLazlTTWFpdnpLVTFqbjRvR2o0UDdaQTBWc2NoeFY2cHJBUXFyd0N3Qk9kRGt6MU5BYVZhRW85NXd6S0FsYlBHam1iaHlrNjJFSVJydFAwdDRrRzdzVXJoeEVHNFE"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-09T10:17:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnJ1OTlHNUZkVXV0a1VVRnJRWlRPVXJ4SVYxSXd0WWUtVG1DQUJraS1uY1cwc0JMNEdaS3B2bUtPN25SQllXZm1DdTRCYjNfeERIV3ZCX2NBMmdybzhUT0lBbWpyak9pUGltclBGQkNKNjhCdFFFUUpsakhpbHRJak9CTjVDbTRWMU9uMGVXQ1JKbXVXa3FxcXlsTzhHMnhTZks0bHRBdEIxZWwyX0FN"
+    },
     {
      "name": "StreetInsider",
      "published_at": "2026-10-09T10:18:15+00:00",
@@ -88,6 +115,7 @@
    ],
    "category": "政策监管",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉中国9月销量加速增长",
    "title_zh": "特斯拉中国产电动汽车9月销量加速",
    "sentiment": 1
@@ -211,6 +239,23 @@
    "zh_summary": "Cybercab车队数据成多空新战场",
    "title_zh": "319辆Cybercab成多空新战场：自动驾驶车队数据成华尔街新估值锚",
    "sentiment": 0
+  },
+  {
+   "id": "a063cfa5a9eb",
+   "title": "中国汽车工业协会乘联会：特斯拉9月在华销售95,366辆国产汽车 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0EyNnJTQzZzQ1lKb0VTNXQ2ZDZlUjgzSFZLTHM0S2xvT0tscjktQ0Q3ay02WHNzWDR0NXlfOFNLRUF4cElYT09EUTZrcU5vcnFscjY4OFo0b0ItSEpybjU3X24ybFZrNVhGelFuZFIwN0tuRlFxRGNZVUhwaFJBcG5PeGZaVkN4Z29JRGNibk5xLTVNQUJWb1djT0FINUU",
+   "source": "富途牛牛",
+   "published_at": "2026-10-09T09:51:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-09T09:51:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0EyNnJTQzZzQ1lKb0VTNXQ2ZDZlUjgzSFZLTHM0S2xvT0tscjktQ0Q3ay02WHNzWDR0NXlfOFNLRUF4cElYT09EUTZrcU5vcnFscjY4OFo0b0ItSEpybjU3X24ybFZrNVhGelFuZFIwN0tuRlFxRGNZVUhwaFJBcG5PeGZaVkN4Z29JRGNibk5xLTVNQUJWb1djT0FINUU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "621004eebe64",
@@ -343,12 +388,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84c0FRdGlfVmRnUEc0NEJVSjh5MTlPdDdwWGtnTDZpWFE0X05jVGJjX01BT2I0THVfWV9zTDk2VkFtX0FVRUQyUFo5ZWFpb0hMRnNwRnhuMFl0Ylh2c3ZBbA",
    "source": "证券之星",
    "published_at": "2026-10-09T09:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "证券之星",
      "published_at": "2026-10-09T09:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84c0FRdGlfVmRnUEc0NEJVSjh5MTlPdDdwWGtnTDZpWFE0X05jVGJjX01BT2I0THVfWV9zTDk2VkFtX0FVRUQyUFo5ZWFpb0hMRnNwRnhuMFl0Ylh2c3ZBbA"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T09:24:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3pLMk1rQjdXZmlrUEJyMzJwUWJ5UjhNMnhJQjZQc3h6RXI2V2lQTG9JX2IxRXZpSjVwaWdBNmNHc2xxMHRTZUMxdWJzel94elBtRzY4OF94bDRmTnhhSURtcDBVR0tIc3ZCRHlXN01ubmpndmVhU1BXUGlDSXZBSnhXQldlVFQ3MndKMEhsLUJsS0V6Mkt5VG1nY2VidktXcGduR0V1eXdmVXdmaUdwOWNn"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1217,6 +1267,23 @@
    "zh_summary": "特斯拉加拿大版Y新增灰内饰与V2L",
    "title_zh": "加拿大版Model Y Premium AWD新增禅灰内饰和V2L",
    "sentiment": 1
+  },
+  {
+   "id": "99968a26c6b0",
+   "title": "Tesla brings latest Model 3 upgrades to Canada with new interior, larger screen, but not V2L - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkM1MTNlUENxaUFZYVNQS1lSZUhCT3M0a0xpN1ZHcUUxNWdTdzFhMDFQeHpBV3lOT1Z2UFhRM1loLWtvU0FiS0VQWHFpdTdtV3gyT3k0MEdHeUNXdjM0YkdMT3NZMDhoQmpYdVU0WkY1SFV3ai13YkJwZ0cxTXI2X3RXc0N3YkUtRzQ5cnFaQ2xkd0NtcWJhaGVR",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-09T02:34:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-09T02:34:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkM1MTNlUENxaUFZYVNQS1lSZUhCT3M0a0xpN1ZHcUUxNWdTdzFhMDFQeHpBV3lOT1Z2UFhRM1loLWtvU0FiS0VQWHFpdTdtV3gyT3k0MEdHeUNXdjM0YkdMT3NZMDhoQmpYdVU0WkY1SFV3ai13YkJwZ0cxTXI2X3RXc0N3YkUtRzQ5cnFaQ2xkd0NtcWJhaGVR"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后"
   },
   {
    "id": "41260c07217a",
@@ -6551,66 +6618,6 @@
    "zh_summary": "特斯拉向欧洲监管机构施压促批FSD",
    "title_zh": "特斯拉如何向欧洲监管机构施压以批准FSD",
    "sentiment": 1
-  },
-  {
-   "id": "ed8e16818434",
-   "title": "Tesla’s ‘Electric Fan Car’ patent makes Roadster unveiling even more dramatic - Tesla Oracle",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGhvVVhNZ0RtaTRCS0NnMXN3OWwzcU9YWjN2al8yUGgyQUstVU1RVkR3NUV6WmtoQUhrNElJMDdnc2JtRzVTcTVxclQtQU4yb2F0b05UdDdMSnFDMVJSNTRFZl85bnV1bHo1amxXU2lCbHJKSEkwY3ItclViUUl1QjBReHdvNFRsSmdoTHBUS2hWbWlmRDU4N3dIUkF5WWFIcTdZcDB3UF92Q0xnbzFMTnVGeDA",
-   "source": "Tesla Oracle",
-   "published_at": "2026-10-07T19:02:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tesla Oracle",
-     "published_at": "2026-10-07T19:02:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGhvVVhNZ0RtaTRCS0NnMXN3OWwzcU9YWjN2al8yUGgyQUstVU1RVkR3NUV6WmtoQUhrNElJMDdnc2JtRzVTcTVxclQtQU4yb2F0b05UdDdMSnFDMVJSNTRFZl85bnV1bHo1amxXU2lCbHJKSEkwY3ItclViUUl1QjBReHdvNFRsSmdoTHBUS2hWbWlmRDU4N3dIUkF5WWFIcTdZcDB3UF92Q0xnbzFMTnVGeDA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉电动风扇车专利曝光",
-   "title_zh": "特斯拉'电扇车'专利让Roadster发布更引人注目",
-   "sentiment": 1
-  },
-  {
-   "id": "eb3027fa6734",
-   "title": "特斯拉的电池难道是用五号电池堆起来的？宁德时代 #新能源电池 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDNidkNmQVBIRS1tZTNyV1FIdHN0SERNNW5VUm0xZVdQZEExUWMxWjRGalJoVDI0WDN1NHY5c2JzTU1ib0hpVmNhdHlZOFFOZFc3QVdJaXZLaTZ2UXBUeTNPMGZHR0x0Z2hBNHo1ZTZORVN5Y1ZnZzVBMVRuYXhsOA",
-   "source": "新浪网",
-   "published_at": "2026-10-07T18:58:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-07T18:58:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUDNidkNmQVBIRS1tZTNyV1FIdHN0SERNNW5VUm0xZVdQZEExUWMxWjRGalJoVDI0WDN1NHY5c2JzTU1ib0hpVmNhdHlZOFFOZFc3QVdJaXZLaTZ2UXBUeTNPMGZHR0x0Z2hBNHo1ZTZORVN5Y1ZnZzVBMVRuYXhsOA"
-    }
-   ],
-   "category": "能源",
-   "session": "盘中",
-   "zh_summary": "特斯拉电池结构科普",
-   "title_zh": "特斯拉的电池难道是用五号电池堆起来的？",
-   "sentiment": 0
-  },
-  {
-   "id": "4fb59ac823a8",
-   "title": "TSLA Stock Sinks Toward Worst Week This Year After Weak Q2 — But CEO Elon Musk Is A 'Big Fan' Of His Insightful Retail Investor Army - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVV9KRmdKX0xCWE81Vk03OC1sZnJoaFE3dW1yNW56T3NvU1BKTi1yQ1h1b0NTZWgzazV4Q3ZNTHJCZGlfRnBDZ1FnYXRHaXFtOUxNd1RQVDIxSlJlSmhNMGlTM21Wc0pvWWd5d0R5ZlptbUw3OWVjOGwxR01JZExNRkhOY21SdXFPbmpDeUZHLTVLdThDX0VxQlRrVFhBb2pXc1N2Wll3aFJVblFMNE5WX0txekgyUXZLeXc",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T18:51:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T18:51:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVV9KRmdKX0xCWE81Vk03OC1sZnJoaFE3dW1yNW56T3NvU1BKTi1yQ1h1b0NTZWgzazV4Q3ZNTHJCZGlfRnBDZ1FnYXRHaXFtOUxNd1RQVDIxSlJlSmhNMGlTM21Wc0pvWWd5d0R5ZlptbUw3OWVjOGwxR01JZExNRkhOY21SdXFPbmpDeUZHLTVLdThDX0VxQlRrVFhBb2pXc1N2Wll3aFJVblFMNE5WX0txekgyUXZLeXc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "TSLA二季度疲软拖累股价逼近年内最差周",
-   "title_zh": "TSLA股价弱势或创年内最差周，马斯克自称散户投资者粉丝",
-   "sentiment": -1
   }
  ]
 }
