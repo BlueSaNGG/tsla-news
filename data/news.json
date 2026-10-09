@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T16:37:58.448325+00:00",
+ "updated_at": "2026-10-09T16:52:34.271064+00:00",
  "market": {
-  "price": 382.59,
-  "change_pct": 2.02,
+  "price": 383.83,
+  "change_pct": 2.35,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 44% 分位"
+     "note": "现价处于52周区间 45% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.6%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（123条已评分）"
+     "note": "今日新闻情绪 +0.28（129条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $382.59 vs 20日均线 $368.66"
+     "note": "现价 $383.83 vs 20日均线 $368.72"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 44,
+   "price_52w_pct": 45,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.6,
-   "ma20": 368.66,
-   "as_of": "2026-10-09T16:37:58.441561+00:00"
+   "implied_upside_pct": 4.2,
+   "ma20": 368.72,
+   "as_of": "2026-10-09T16:52:34.259005+00:00"
   },
-  "pe_ttm": 105.8,
+  "pe_ttm": 106.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 123
+   "count": 129
   }
  },
  "meta": {
@@ -67,26 +67,6 @@
   }
  },
  "stories": [
-  {
-   "id": "a0308fb01865",
-   "title": "Tesla Stocks Jump 3.2% as China Sales Extend 11-Month Rebound - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW5hOG96aFBSZXhmdUFnS19GWWdLUkVkUmkxcTNBMDRhNHVmajlrV0Nucnc5M2dZQmZDNHE5Sk5vVXl1TFROS29TTUdic2hKM3dHeE5NYmc1cnhFeGV6Rlhaam5helIyaTFtYW1mclVOX3c0N0IyeFF1cXVsRDRFV2RrMW1heXJmZXlUXzJfNVQyU2d6UGhlQjd1bWlhUQ",
-   "source": "GuruFocus",
-   "published_at": "2026-10-09T16:35:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-09T16:35:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW5hOG96aFBSZXhmdUFnS19GWWdLUkVkUmkxcTNBMDRhNHVmajlrV0Nucnc5M2dZQmZDNHE5Sk5vVXl1TFROS29TTUdic2hKM3dHeE5NYmc1cnhFeGV6Rlhaam5helIyaTFtYW1mclVOX3c0N0IyeFF1cXVsRDRFV2RrMW1heXJmZXlUXzJfNVQyU2d6UGhlQjd1bWlhUQ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "特斯拉中国销量连增11个月股价涨3.2%",
-   "title_zh": "特斯拉中国销量连续11个月回升，股价涨3.2%",
-   "sentiment": 1
-  },
   {
    "id": "6c60b1f7012a",
    "title": "Tesla wants to increase emissions near a Bay Area elementary school - SFGATE",
@@ -106,6 +86,26 @@
    "zh_summary": "特斯拉拟在湾区小学附近增排废气",
    "title_zh": "特斯拉拟增加湾区一小学附近的排放",
    "sentiment": -1
+  },
+  {
+   "id": "a0308fb01865",
+   "title": "Tesla Stocks Jump 3.2% as China Sales Extend 11-Month Rebound - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW5hOG96aFBSZXhmdUFnS19GWWdLUkVkUmkxcTNBMDRhNHVmajlrV0Nucnc5M2dZQmZDNHE5Sk5vVXl1TFROS29TTUdic2hKM3dHeE5NYmc1cnhFeGV6Rlhaam5helIyaTFtYW1mclVOX3c0N0IyeFF1cXVsRDRFV2RrMW1heXJmZXlUXzJfNVQyU2d6UGhlQjd1bWlhUQ",
+   "source": "GuruFocus",
+   "published_at": "2026-10-09T16:35:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-09T16:35:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW5hOG96aFBSZXhmdUFnS19GWWdLUkVkUmkxcTNBMDRhNHVmajlrV0Nucnc5M2dZQmZDNHE5Sk5vVXl1TFROS29TTUdic2hKM3dHeE5NYmc1cnhFeGV6Rlhaam5helIyaTFtYW1mclVOX3c0N0IyeFF1cXVsRDRFV2RrMW1heXJmZXlUXzJfNVQyU2d6UGhlQjd1bWlhUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中",
+   "zh_summary": "特斯拉中国销量连增11个月股价涨3.2%",
+   "title_zh": "特斯拉中国销量连续11个月回升，股价涨3.2%",
+   "sentiment": 1
   },
   {
    "id": "01843b8d4629",
@@ -1137,12 +1137,17 @@
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3VqQkdRZWhfbTZ1SmViOFRZc0xjckRhRlc1SE80UHhFMTRhd0JmR1A3RDkzSkJiUmdHVVhtWktEcTFjNER2QS1qcC04UC1aeWlPb01VY0t0N1l2RmJOUjh3cTlkeGdha2RsZS1zMVJwY21pcldOOTdZZnZNazFGaGR2X1h1UWRwRDM0TDIwZW1wOXB5OE9DaFpvRGxSZ3g4NXlrSW90dm4wbjl1V2RjZHAwN09aTi13UGZLR1FzX2VMTXROcHBjMkQyYmxPYkFxRTlKZU8yTlJQT3VxdWc",
    "source": "新浪财经",
    "published_at": "2026-10-09T12:37:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-09T12:37:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3VqQkdRZWhfbTZ1SmViOFRZc0xjckRhRlc1SE80UHhFMTRhd0JmR1A3RDkzSkJiUmdHVVhtWktEcTFjNER2QS1qcC04UC1aeWlPb01VY0t0N1l2RmJOUjh3cTlkeGdha2RsZS1zMVJwY21pcldOOTdZZnZNazFGaGR2X1h1UWRwRDM0TDIwZW1wOXB5OE9DaFpvRGxSZ3g4NXlrSW90dm4wbjl1V2RjZHAwN09aTi13UGZLR1FzX2VMTXROcHBjMkQyYmxPYkFxRTlKZU8yTlJQT3VxdWc"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-09T15:28:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QalNVUkw0MEEwTmY2TWx2RkVTaGZuc3V2UXJqblNPVHE4OGdkekt0ZTJSZjhrNUh0Mkh1ejVHVDNzajB2UDVhVmpJejE5cjRBSEE"
     }
    ],
    "category": "Robotaxi与FSD",
