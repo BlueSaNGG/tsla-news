@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T15:07:28.400869+00:00",
+ "updated_at": "2026-10-09T15:22:31.770605+00:00",
  "market": {
-  "price": 386.01,
-  "change_pct": 2.94,
+  "price": 383.49,
+  "change_pct": 2.26,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 46% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.6%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（112条已评分）"
+     "note": "今日新闻情绪 +0.27（116条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $386.01 vs 20日均线 $368.83"
+     "note": "现价 $383.49 vs 20日均线 $368.70"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 46,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.6,
-   "ma20": 368.83,
-   "as_of": "2026-10-09T15:07:28.388106+00:00"
+   "implied_upside_pct": 4.3,
+   "ma20": 368.7,
+   "as_of": "2026-10-09T15:22:31.760610+00:00"
   },
-  "pe_ttm": 106.8,
+  "pe_ttm": 106.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 112
+   "avg": 0.27,
+   "count": 116
   }
  },
  "meta": {
@@ -68,17 +68,39 @@
  },
  "stories": [
   {
+   "id": "78ee60c2c3bb",
+   "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGx4Zk1nRUY3M3VXQ2x4aUNmd1AyMlFXR24xQ19XQ3dTd21EaVEwUW82QzBmLVpzZHQzZXlHNV9WTjlPMXI5YTAzRjZIY3Nna1dyNUxoTmxsdEhrM05ZcnNuNktPNWc5cTl6M0FmeVp6VDRlWmE3LTJadzVXSW1xWFM5RC0zMHlFR0xXaEhhS2c4QVZQLWdhd3huYVhlUGRr",
+   "source": "Electrek",
+   "published_at": "2026-10-09T15:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-09T15:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGx4Zk1nRUY3M3VXQ2x4aUNmd1AyMlFXR24xQ19XQ3dTd21EaVEwUW82QzBmLVpzZHQzZXlHNV9WTjlPMXI5YTAzRjZIY3Nna1dyNUxoTmxsdEhrM05ZcnNuNktPNWc5cTl6M0FmeVp6VDRlWmE3LTJadzVXSW1xWFM5RC0zMHlFR0xXaEhhS2c4QVZQLWdhd3huYVhlUGRr"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "205aad0474b3",
    "title": "Tesla Rises 3% as Europe Rebrand Drops Full Self-Driving Name; Rivian Eases, Lucid Ticks Up - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE9ndU5mVGJtTkx0eC05dXhBb1FCcXU3QzM1b2hmb21HTUFLdTA2UmRjUDdGSnJLR0FaaUxCdndPOEdqT0Q3eTBDMjctWkhBVTI3b1VjYUtxWEZrMjFUNVFGZGdQM2s5bmdxUzRYWVBwQWltSS1fUW5JTzlweXplbEJnWFFxTVVHMWNEYUtwTHRuVlNXZWJ3aFE3aU9ISE4zWWxQUUYxc2R5OWRSLUx2MW52aHN2c1JlLUNhcTFKcmJpajFmN093bGJVNWM",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-09T14:55:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-09T14:55:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE9ndU5mVGJtTkx0eC05dXhBb1FCcXU3QzM1b2hmb21HTUFLdTA2UmRjUDdGSnJLR0FaaUxCdndPOEdqT0Q3eTBDMjctWkhBVTI3b1VjYUtxWEZrMjFUNVFGZGdQM2s5bmdxUzRYWVBwQWltSS1fUW5JTzlweXplbEJnWFFxTVVHMWNEYUtwTHRuVlNXZWJ3aFE3aU9ISE4zWWxQUUYxc2R5OWRSLUx2MW52aHN2c1JlLUNhcTFKcmJpajFmN093bGJVNWM"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-09T14:55:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNEdkdEdjYmhZYTI4dXA5VzRFbXJkWFBLdWRWbGhobVF3S3lzVmM3SFJDMmphUVBnMWlVREowSGJVdlN4cm9ENVJ6S1NwR19ES0oxREhQdDlXSVZVaUZQWm5EMmkxQUZ3QUZueEpXUktHSWU2MVphdlU2Nko"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -162,6 +184,23 @@
    }
   },
   {
+   "id": "379723f84df7",
+   "title": "特斯拉2026年第三季度交付486532辆，同比降2%但超预期 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGtxcXlvcXpfUEVsRnZ4UkxGYV8tcTJjWDRyd1RZcTUycUNDTW90T2ZDcEhZbTdsa2pRRFJtQU9MUVdnOVpZVVZwYnZaeDlQNUFuZC1VQWpHV2hLN1lQOUJUeVJ5dnBMcnRHcExCTTFkZUJHZ2dLNFFocU00TFA4MjRIMmtXeDUt",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T14:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T14:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGtxcXlvcXpfUEVsRnZ4UkxGYV8tcTJjWDRyd1RZcTUycUNDTW90T2ZDcEhZbTdsa2pRRFJtQU9MUVdnOVpZVVZwYnZaeDlQNUFuZC1VQWpHV2hLN1lQOUJUeVJ5dnBMcnRHcExCTTFkZUJHZ2dLNFFocU00TFA4MjRIMmtXeDUt"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
    "id": "10329c35b9bd",
    "title": "Oracle, Tesla among market cap stock movers on Friday - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDhZV3lrOGlyd2dxQl9DU1VPek9lRWJmLWZNZEU2QmRlak5jTTBoZUdJellUR01rSGN0S2RiZHk5VnhEUG5YeTN4aEhLbDQxbWI2cU9uRGlHbV9sM3ZQWnpnWHgwcnF5eFlsNzZmNFZQemczdWM4YmtucU15MmlKQnhueU84ZWgxNE1yZFNBekt0WDBZSjcwWEo0TW9EeDl6UEhVUENPNi1EdVdKbk9oT01iLTE",
@@ -180,31 +219,6 @@
    "zh_summary": "特斯拉等成周五市值波动股",
    "title_zh": "甲骨文、特斯拉等成周五市值波动股",
    "sentiment": 0
-  },
-  {
-   "id": "d49496d2eee6",
-   "title": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHZmVXpFLVF5WXN1c2EyNE5iUmdmbnA1UmpLR09fOWtyQnV1TC04U1l0UTVjRUZDYjB4MmRkVVkwbk1TOUI0UU9NWHdKUTBTSzZyMWNibWx1cG9iUGJKY0hreDBxUXQtMUxENHQ5VndaeTFlZlF2bTdvSTlGSm1STS1LZXFDNXBE",
-   "source": "搜狐网",
-   "published_at": "2026-10-09T14:34:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T14:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHZmVXpFLVF5WXN1c2EyNE5iUmdmbnA1UmpLR09fOWtyQnV1TC04U1l0UTVjRUZDYjB4MmRkVVkwbk1TOUI0UU9NWHdKUTBTSzZyMWNibWx1cG9iUGJKY0hreDBxUXQtMUxENHQ5VndaeTFlZlF2bTdvSTlGSm1STS1LZXFDNXBE"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-09T14:40:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wSktmb2RnZzRlNkdmcHlXTUtLeFdaT3pMODV2Y3FQOWJWSW1WVGJzVHRLeFFhaEc3MGZxMkY5SXJ6TDROQk9kMDhyWFFaOE9EWE9MM1Mxb0FrMzJMT1pfNmRDZw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉欧洲弃用全自动驾驶品牌",
-   "title_zh": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌 - 搜狐网",
-   "sentiment": 1
   },
   {
    "id": "3b3041297d07",
@@ -307,6 +321,23 @@
    "sentiment": 1
   },
   {
+   "id": "15f13acdb889",
+   "title": "Musk Becomes A Trillionaire Again As SpaceX, Tesla Shares Rally - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEstMUdiM1B3V1ZiNktieU05YzJ5LU5rWmJtaWcyVWdhbVF5MjM4bkp3OVB1LUxsTFItNUJjMlVEYzJHWGVvSlVkUXYtTmd6QXVHUVM5bUI1M2M5aHlISzhEeGhJU25Nb3U4VnlILVNMUW5aMFBGdmk1c1g1cDE0ZXRzbGozZ0tMRDJYYW1fOVZORThzcDVKcURjYVR2TmxyUFV6MDZn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T14:17:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T14:17:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEstMUdiM1B3V1ZiNktieU05YzJ5LU5rWmJtaWcyVWdhbVF5MjM4bkp3OVB1LUxsTFItNUJjMlVEYzJHWGVvSlVkUXYtTmd6QXVHUVM5bUI1M2M5aHlISzhEeGhJU25Nb3U4VnlILVNMUW5aMFBGdmk1c1g1cDE0ZXRzbGozZ0tMRDJYYW1fOVZORThzcDVKcURjYVR2TmxyUFV6MDZn"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
    "id": "f03c261456b2",
    "title": "中国资产深夜爆发，小米ADR狂飙11%，阿里巴巴涨5%，美股芯片、光通信股跳水，特斯拉涨3%，电信股重挫 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JcnlHZ1NKX3NOaG94bk52MFlNVXFMd2FzWDV4X2NMX0twam9PTmdlMHB5SzZyaWlzVVRzYnAzUFl3YXpfckNjWGYwTnpPb1pzVTNGMkw3QkpCY29IcEZZWFpiZ1FNLWM0LUk1YUV5akdCM0ZZNVE",
@@ -325,26 +356,6 @@
    "zh_summary": "特斯拉涨3% 中国资产深夜爆发",
    "title_zh": "中国资产深夜爆发，小米ADR狂飙11%，阿里巴巴涨5%，美股芯片、光通信股跳水，特斯拉涨3%，电信股重挫 - 新浪财经",
    "sentiment": 1
-  },
-  {
-   "id": "93e4aebfddc2",
-   "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype? - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU",
-   "source": "WSJ",
-   "published_at": "2026-10-09T14:12:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-09T14:12:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "付5万美元等9年 Roadster引质疑",
-   "title_zh": "等了九年花5万美元，Roadster值得期待吗",
-   "sentiment": -1
   },
   {
    "id": "6b603238d8c2",
@@ -800,6 +811,40 @@
    "zh_summary": "少年向行驶中特斯拉扔菠萝",
    "title_zh": "青少年向行驶中的特斯拉扔菠萝、向雪佛兰扔鸡蛋 - Yahoo",
    "sentiment": 0
+  },
+  {
+   "id": "d49496d2eee6",
+   "title": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWnJjenJ1TUdxcU0zRlhPYWhwSmoxeXRTMFIxc3dQMm1NT0NncDdBU0t0Um9CcFFyaXBsWlREbXM1SW5xMjlGUQ",
+   "source": "财联社",
+   "published_at": "2026-10-09T12:56:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-09T12:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWnJjenJ1TUdxcU0zRlhPYWhwSmoxeXRTMFIxc3dQMm1NT0NncDdBU0t0Um9CcFFyaXBsWlREbXM1SW5xMjlGUQ"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T14:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHZmVXpFLVF5WXN1c2EyNE5iUmdmbnA1UmpLR09fOWtyQnV1TC04U1l0UTVjRUZDYjB4MmRkVVkwbk1TOUI0UU9NWHdKUTBTSzZyMWNibWx1cG9iUGJKY0hreDBxUXQtMUxENHQ5VndaeTFlZlF2bTdvSTlGSm1STS1LZXFDNXBE"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-09T14:40:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wSktmb2RnZzRlNkdmcHlXTUtLeFdaT3pMODV2Y3FQOWJWSW1WVGJzVHRLeFFhaEc3MGZxMkY5SXJ6TDROQk9kMDhyWFFaOE9EWE9MM1Mxb0FrMzJMT1pfNmRDZw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前",
+   "zh_summary": "特斯拉欧洲弃用全自动驾驶品牌",
+   "title_zh": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌 - 搜狐网",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.34,
+    "window_h": 1.9
+   }
   },
   {
    "id": "a7632782a6b7",
@@ -2394,6 +2439,23 @@
    "zh_summary": "马斯克印度合作破裂项目停滞",
    "title_zh": "马斯克印度合作关系破裂：星链、特斯拉项目陷入停滞 - 新浪网",
    "sentiment": -1
+  },
+  {
+   "id": "4cefb712fe84",
+   "title": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA",
+   "source": "Stocktwits",
+   "published_at": "2026-10-09T07:05:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-09T07:05:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "29f7e351df8b",
@@ -4403,6 +4465,23 @@
    "zh_summary": "加拿大召回Model S/X安全带",
    "title_zh": "特斯拉Model S/X安全带召回：加拿大车主须知",
    "sentiment": -1
+  },
+  {
+   "id": "8bdf83ed63b9",
+   "title": "【图】被灰色小猫难住！特斯拉Robotaxi不能通宵跑？运营时间延长至23点 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jeWNmX1djSy10X1d4NnJZcGdDdi1sNXR3cGNlZDZlUGxHc0NpMTc4REpXZjI4VHhWXzUybjh1d1RILVVqNTd6bUg0ZnYxT3EzdWZBQjFEM0o4UTlOc3RWTkpn",
+   "source": "汽车之家",
+   "published_at": "2026-10-08T16:05:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-08T16:05:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jeWNmX1djSy10X1d4NnJZcGdDdi1sNXR3cGNlZDZlUGxHc0NpMTc4REpXZjI4VHhWXzUybjh1d1RILVVqNTd6bUg0ZnYxT3EzdWZBQjFEM0o4UTlOc3RWTkpn"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "78c7158af6b3",
@@ -6603,105 +6682,6 @@
    "zh_summary": "高盛上调特斯拉目标价",
    "title_zh": "吉姆·克莱默称SPCX或先于特斯拉实现，高盛上调目标价",
    "sentiment": 1
-  },
-  {
-   "id": "4e4787bd14d5",
-   "title": "特斯拉Cybercab无方向盘踏板，远程兜底走不同路线 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1pPYy1BQ1NtTG1CM3dBTjF1SDE1blJHSmViOEQ1Z2QtWWxCYmJKZDN4QUxlUWRuS0dDTjFEclVIZGF2ZXRrVm8zc2NCNFYwQmt0eU53Rm5YeThTcm9CdFUxaktpLUt0Wk5QcU5PUXJocDRDU3UtZms4aTlCcWFESw",
-   "source": "新浪网",
-   "published_at": "2026-10-08T05:50:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T05:50:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1pPYy1BQ1NtTG1CM3dBTjF1SDE1blJHSmViOEQ1Z2QtWWxCYmJKZDN4QUxlUWRuS0dDTjFEclVIZGF2ZXRrVm8zc2NCNFYwQmt0eU53Rm5YeThTcm9CdFUxaktpLUt0Wk5QcU5PUXJocDRDU3UtZms4aTlCcWFESw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab无方向盘远程兜底走新路",
-   "title_zh": "特斯拉Cybercab无方向盘踏板，远程兜底走不同路线 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "b73f385c6207",
-   "title": "Illustration shows silhouette of Elon Musk and Tesla logo - The Daily News | Texas' Oldest Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGdyc1dEYktSQUtLVWZMd01UR2d6cVhEczVYbzZvM3k4dVNHY0t1eGRGOURmbFlrTklTRGJKX2M1YWg0THlnZkgybFo4LVlHcUV4SzUzU2RnX1pWdUVRV1A2aWdYUDByQnVXV1podU1UblVWWU9lWkRRY1ZyckJfZ21JRS1oWmlBYU4tN184OVZ6eENjMmhCNC1hbE9lQmhHSktkNEVyQTZIX05mcEN3Sl9MeWdFd3dWc0Z0NkdQems4elU0amo5ZmE3X0Vib2J0STh4LW5tMGQ3N3BUWFV5b1VMVjhOTGM",
-   "source": "The Daily News | Texas' Oldest Newspaper",
-   "published_at": "2026-10-08T05:40:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Daily News | Texas' Oldest Newspaper",
-     "published_at": "2026-10-08T05:40:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGdyc1dEYktSQUtLVWZMd01UR2d6cVhEczVYbzZvM3k4dVNHY0t1eGRGOURmbFlrTklTRGJKX2M1YWg0THlnZkgybFo4LVlHcUV4SzUzU2RnX1pWdUVRV1A2aWdYUDByQnVXV1podU1UblVWWU9lWkRRY1ZyckJfZ21JRS1oWmlBYU4tN184OVZ6eENjMmhCNC1hbE9lQmhHSktkNEVyQTZIX05mcEN3Sl9MeWdFd3dWc0Z0NkdQems4elU0amo5ZmE3X0Vib2J0STh4LW5tMGQ3N3BUWFV5b1VMVjhOTGM"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "插画展示马斯克剪影和特斯拉标志",
-   "title_zh": "插画：马斯克剪影与特斯拉标志",
-   "sentiment": 0
-  },
-  {
-   "id": "37b7a7c0c639",
-   "title": "【视频】特斯拉Model Y：优惠销售情况如何？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QTk5jSjFzREFFTHFaTjhNOXE1eFdhbXpFTkdUeDBwVHVCaXRkWk0zZTJsSXlWcjZmbnFzOENYUVJrOXlHblU1R1pTSmctVFpoOHprVVNaY2d5RkU",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T05:13:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T05:13:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QTk5jSjFzREFFTHFaTjhNOXE1eFdhbXpFTkdUeDBwVHVCaXRkWk0zZTJsSXlWcjZmbnFzOENYUVJrOXlHblU1R1pTSmctVFpoOHprVVNaY2d5RkU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model Y优惠销售情况",
-   "title_zh": "【视频】特斯拉Model Y：优惠销售情况如何？ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "04698e5e384d",
-   "title": "三年半追平特斯拉？比亚迪日本市场交付量破1万！ - 热点科技",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wcVlLUE5udExhREktMkZiTmw3RFdsekswYUJfN1FoQ2dPTkFRUEhhQ1l5azZQYXBDanFPNVJHdmk0bEJxd204SHlxQ1I1WUk",
-   "source": "热点科技",
-   "published_at": "2026-10-08T05:09:10+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "热点科技",
-     "published_at": "2026-10-08T05:09:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wcVlLUE5udExhREktMkZiTmw3RFdsekswYUJfN1FoQ2dPTkFRUEhhQ1l5azZQYXBDanFPNVJHdmk0bEJxd204SHlxQ1I1WUk"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82aFBvLVZReXpiX2JmWFJscjBrSXY1ei1QeU9NbHFnNlprLWJQUlZDWm9zZlF6aGgzRlRDNERMQzdHNWJ4Rnh5b1BpZjR1Y2JvcXdiTTNvWmg4d09BZUlpWnpaY3hiNGxjcTd3dEVvelFHek85WlJ2QXpUalZ6Y2M"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T11:10:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dk9wTnRnbTlIVDdqZnd4cWhOUUswUGp3b3kxUnlmdy1xV3hmdTVRdWNyNnE0YnVRQ2lmZl93STNMRHhwQXdKX01YR3VqUzdyYzJNaUljdGh0Uk0"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T05:03:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEppTl9QYjBhWFczWEdoYklsNk5wbGczUFFmSkZ2OGFyZk5XTGI1VnJmS25YbF9YaVVZWmlhSjQ3eE0xZUdReEdrdmRjSy16d3dPeno3UFZ6bGlfLVplR0VTUFBuNkU2Z195Uy14YkRKdU52V0hrblFtcWEzTjFfSnk3U294RHlJ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "比亚迪日本交付破万辆",
-   "title_zh": "三年半追平特斯拉？比亚迪日本市场交付量破1万！ - 热点科技",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
   }
  ]
 }
