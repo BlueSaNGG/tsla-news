@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T18:37:35.047652+00:00",
+ "updated_at": "2026-10-09T18:52:33.694172+00:00",
  "market": {
-  "price": 384.02,
-  "change_pct": 2.41,
+  "price": 384.47,
+  "change_pct": 2.53,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.2%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（143条已评分）"
+     "note": "今日新闻情绪 +0.26（146条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $384.02 vs 20日均线 $368.73"
+     "note": "现价 $384.47 vs 20日均线 $368.75"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 45,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.2,
-   "ma20": 368.73,
-   "as_of": "2026-10-09T18:37:35.030840+00:00"
+   "implied_upside_pct": 4.0,
+   "ma20": 368.75,
+   "as_of": "2026-10-09T18:52:33.678980+00:00"
   },
-  "pe_ttm": 106.2,
+  "pe_ttm": 106.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.0%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.26,
-   "count": 143
+   "count": 146
   }
  },
  "meta": {
@@ -1287,7 +1287,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1M3YU14Wm9ZdXVVRnZ2aWlCanR5WEJWOFVvQS1DV2pRdHozbnZGcEUwekYwbXlyN24zZmk2Y1pGUE1iZk9aSDhmVnRjYVZuSDdiLVJrcHRWei16Qmxoa2JkTkRyVGh3UGxMLTc0ZFRhOGtCY3UwTS1oNUVsdlpzLURYMHBSMWFmTnRBSnlqbDhiX09fV25WUg",
    "source": "Yahoo Finance",
    "published_at": "2026-10-09T13:12:04+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -1298,13 +1298,22 @@
      "name": "Quartz",
      "published_at": "2026-10-09T13:12:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3lxaTg5UE9DV1RCWUIxWXdkV3lkM285ZnNSWXJLamNoc09JQlRpSnd4bDFBeTFoaWF4LW9FNkRLeXlNdGppeTVWSGJ6NVcyamh4UDRKb1B4VnhVY2RVeW9TcWV4anN3ZXc2RnEyVkZCV3lET3JSZE8zelNXR09hVlc4U0xkVkU"
+    },
+    {
+     "name": "The News International",
+     "published_at": "2026-10-09T17:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0xKTHQtS0lXLW43M25TM2NqdnZDYnUwOFNJVTl3TGVQelpkMTBzc0ZqMW9ZVjAwVlB1UDJ4cTNxXy1TZzhMTmF5RUgwUVgxTm1oa1h2UTFEV3hRQ2xoTHNtV0dzSnZqTC1qcFlsQ2JIazgtQkQyVHB0QzRPRW02M1JTeFRZekJJTFZzMmM2bDlQWWlVaTR5SDJCckFNcndkWUN4dG5KLXVwdlRNYkVEX0xoWHMtSmvSAbMBQVVfeXFMTlpHSWwwbEM4azNCUzdLanVZMnNkd1BfTjhBRkNSU20xajZtNER1UThVX19JQmNZUExubTFkWjEyRVdLVnBtZHJ1Rk45Ql94VG0taTNwd0VfejlfQlpoQ0w1eTA4NnQ2Z3BPU21idmhpYjVxcWpUdG5qRWJSU0hvcDBxcHhoTk9IYkh3NDZaRlotcnJVdHczVFZ1aXBKcEFsZS1kNDBYZ2MxQVd3Uk81TmJGQjQ"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
    "zh_summary": "特斯拉在欧洲FSD改名辅助驾驶",
    "title_zh": "特斯拉在欧洲将“全自动驾驶”更名为“辅助驾驶”",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a254dee5bf4d",
@@ -1449,6 +1458,23 @@
    "zh_summary": "特斯拉为欧洲审批放弃FSD命名",
    "title_zh": "特斯拉(TSLA.US)为欧洲审批“低头”：弃用“完全自动驾驶”，FSD改名“辅助驾驶”_全球市场_财经 - 证券之星",
    "sentiment": 1
+  },
+  {
+   "id": "8faea9565534",
+   "title": "【视频】特斯拉Model Y户外露营，固特异脚垫保驾护航 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZnI3bGRtNjQ5Uy0wdUtpTmRXSzEzaWpnNkZFZnUyNEpLOTI5Q2lqSmpxWWxsSExqQm5uc3JQOWdwQVp2WXRwVUFUZ3VaWjdHWEVhOWxiOHhfN3hsc3BQWEU0ZXhuQ3UzTl9B",
+   "source": "汽车之家",
+   "published_at": "2026-10-09T12:43:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-09T12:43:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZnI3bGRtNjQ5Uy0wdUtpTmRXSzEzaWpnNkZFZnUyNEpLOTI5Q2lqSmpxWWxsSExqQm5uc3JQOWdwQVp2WXRwVUFUZ3VaWjdHWEVhOWxiOHhfN3hsc3BQWEU0ZXhuQ3UzTl9B"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "701c495505dc",
@@ -2515,6 +2541,23 @@
    "sentiment": 0
   },
   {
+   "id": "e931bb186833",
+   "title": "上海两辆特斯拉高架上“斗气”，71岁驾驶员因变道影响正常行驶车辆被罚款 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGNpTXNscXZ4TWI5WXY0Zm5NckhWRmZ2TzlkdnpwVHVyTERXMG42aG9mX3RkWjZ4YkVMcnpMdE5RNW1mcHZmUmlzU2hJSjM4NGFNNFpQbmRsQ1ZGYXhLUnRsUy1nRDRIRjczcHQybGRtX1M1dmp3VEVBWVJvbW5OVlkxX3VWLVQt",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T09:24:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T09:24:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGNpTXNscXZ4TWI5WXY0Zm5NckhWRmZ2TzlkdnpwVHVyTERXMG42aG9mX3RkWjZ4YkVMcnpMdE5RNW1mcHZmUmlzU2hJSjM4NGFNNFpQbmRsQ1ZGYXhLUnRsUy1nRDRIRjczcHQybGRtX1M1dmp3VEVBWVJvbW5OVlkxX3VWLVQt"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "738e7209b021",
    "title": "两辆特斯拉高架上“斗气”！上海警方：71岁男子被罚款，42岁男子被采取刑事强制措施 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0JuaDB0dUFSX2x0T1VLU1dzYk5jeDdzSnRVcXVSQ0xiMUk2WjFGVU5HUTNSSnAyTndIWUhYaVhIX09NT0NvTElnZTVNQWcwQjRoQVdBUnlHOTNNR1ZxX25MWXV1N3dWZnB5X2xNal9FRjFQUTMwcGtaZ0FqX1dZcTQxQU1GRWZyU1BRSw",
@@ -3180,6 +3223,23 @@
    "zh_summary": "特斯拉三季度交付486,532辆",
    "title_zh": "关键数据：特斯拉三季度交付486,532辆，2026资本支出250亿美元+",
    "sentiment": 0
+  },
+  {
+   "id": "3c1807ed3a8b",
+   "title": "谢谢 $TSLA 261014 390.00C$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTJGT1RVcFJ0aTAwMzA2Qm9yUmlyLUFHRFNuWFhtNWVfR19DdzlYcXdQRXlTUHFUeVFneDdtMENGdmxwbmtCS29xMzM2Nld4S2N4V2tQcVVXNFprTVhkTERnSHhwWXRRMk9GM3dRc0lNSmZ2OV9DY3JhcWdXc1JpaW04RHBvdi01N1llYk1GVE1HVUZCeG5DbnJZTEZCSU16UF9iSWFPcFVuZw",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTJGT1RVcFJ0aTAwMzA2Qm9yUmlyLUFHRFNuWFhtNWVfR19DdzlYcXdQRXlTUHFUeVFneDdtMENGdmxwbmtCS29xMzM2Nld4S2N4V2tQcVVXNFprTVhkTERnSHhwWXRRMk9GM3dRc0lNSmZ2OV9DY3JhcWdXc1JpaW04RHBvdi01N1llYk1GVE1HVUZCeG5DbnJZTEZCSU16UF9iSWFPcFVuZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "bcf699bc4842",
@@ -5554,6 +5614,23 @@
    "sentiment": 1
   },
   {
+   "id": "99990a1a6e55",
+   "title": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks ‘Coherent On Paper’ — But China Approval Risks Loom - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGdaUkJ2bHB1cWluVWdERFBaVVdxc3NyQVVSYWM2R2l5b05qR2diWElYeUtLV3Q1X3NTLVpnQU8yZElmSTBZbVVNNTZJOFRST0Q0akYycTk1Ti1sMmYtUVMwcUcyQURKZW1sRWJWWERxdjNoYlcxc21idmVIeHBQTmZ2aDZRbkg5amdLV2JHb1hydW82eU82MW5ITl9qd28zdWFzaXdn",
+   "source": "Stocktwits",
+   "published_at": "2026-10-08T14:33:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-08T14:33:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGdaUkJ2bHB1cWluVWdERFBaVVdxc3NyQVVSYWM2R2l5b05qR2diWElYeUtLV3Q1X3NTLVpnQU8yZElmSTBZbVVNNTZJOFRST0Q0akYycTk1Ti1sMmYtUVMwcUcyQURKZW1sRWJWWERxdjNoYlcxc21idmVIeHBQTmZ2aDZRbkg5amdLV2JHb1hydW82eU82MW5ITl9qd28zdWFzaXdn"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
    "id": "aa567234cbb9",
    "title": "Tesla Gets $500 Target From Dan Ives in First Call at New Firm - Electric Vehicles",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTg0cGh5aFRJZ1dra0cwT0Z0dXNCSFdVQXRPcjI3QkFDM3BCb1lqM3BXOHg2S0lLa2lwbmZ2Z2VTVGtRR0dsMDN0eVlGQ1Y5dW5Za2lVd1QxOFFncGdady1fa1d4VTBVS1BYM3FWQ0lpU3lsTDljYUhDN2s4U3hiWmJzN2NMRXJfd2d4U0REaGx2OVhMdzI1YmNuTzhjZw",
@@ -6671,86 +6748,6 @@
    "zh_summary": "试驾特斯拉Model Y体验优缺点",
    "title_zh": "试驾特斯拉Model Y：我喜欢和不喜欢的",
    "sentiment": 0
-  },
-  {
-   "id": "3f8dd10c7cc2",
-   "title": "Utah man drives 100,000 miles in his Tesla Model Y and calculates total cost of ownership compared to a gas car - Supercar Blondie",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXUFBoT1AzZmFxUE4tTzZFaThnZDk4Um9mVERucWtham9CTmlNZmhTRVVDdjd5SFpfUmV2MFhFYTBWUWVNZzRmZG41a3c4V0FUa2dLRF81Zzc1LXlRVlVsbWhxS0pxdzZzVXlROG41OXJ6OWR2YlRPMEl6bG9Jd3M",
-   "source": "Supercar Blondie",
-   "published_at": "2026-10-08T10:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Supercar Blondie",
-     "published_at": "2026-10-08T10:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXUFBoT1AzZmFxUE4tTzZFaThnZDk4Um9mVERucWtham9CTmlNZmhTRVVDdjd5SFpfUmV2MFhFYTBWUWVNZzRmZG41a3c4V0FUa2dLRF81Zzc1LXlRVlVsbWhxS0pxdzZzVXlROG41OXJ6OWR2YlRPMEl6bG9Jd3M"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "车主10万英里对比Model Y与油车成本",
-   "title_zh": "犹他车主Model Y开10万英里对比油车总成本",
-   "sentiment": 1
-  },
-  {
-   "id": "e18885903669",
-   "title": "【视频】23年特斯拉MODELX 原漆 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mR09KbXRKaF83V3NoZHRjdlpCZE9seFptbU1aOVJPRWZaNGlVU3JsdEFXWFVxYndZM0RaVWk1TUdDbHlmTVk1bVZ4ejJQSFE5MFV6RGcwOFFlUm8",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T10:15:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T10:15:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mR09KbXRKaF83V3NoZHRjdlpCZE9seFptbU1aOVJPRWZaNGlVU3JsdEFXWFVxYndZM0RaVWk1TUdDbHlmTVk1bVZ4ejJQSFE5MFV6RGcwOFFlUm8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "视频：23年原漆Model X",
-   "title_zh": "【视频】23年特斯拉MODELX 原漆",
-   "sentiment": 0
-  },
-  {
-   "id": "55ce49d6326a",
-   "title": "特斯拉Cybercab欧洲首秀：巴黎车展核心参数全解析，与Model 3/Y参数对比 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLT0k0S2JVNnNlTkRNYnYwbkNCZGJCdUxnLTBfbVJCaE1lRlVDYURZVHVJZ2p1Vy1YQ0JwcmZ3UUpOcVVaOGgtSTIzZVJRckNmMnc1eEthQzRZS28",
-   "source": "网通社",
-   "published_at": "2026-10-08T10:10:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-08T10:10:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLT0k0S2JVNnNlTkRNYnYwbkNCZGJCdUxnLTBfbVJCaE1lRlVDYURZVHVJZ2p1Vy1YQ0JwcmZ3UUpOcVVaOGgtSTIzZVJRckNmMnc1eEthQzRZS28"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab欧洲首秀巴黎车展参数解析",
-   "title_zh": "特斯拉Cybercab欧洲首秀：巴黎车展核心参数全解析，与Model 3/Y参数对比 - 网通社",
-   "sentiment": 1
-  },
-  {
-   "id": "00c80f50f9de",
-   "title": "【视频】地平线 HSD V2.1都更新了些啥？为啥能和特斯拉FSD 并列？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IWlBfbU05al9TNkNJNXgzSTBQUE1BY2pDeXByOW8xLWN2UmRzSTRCQ1UxdmFIUUVwazBxYXNxVHBsNS1IR0hNamhtRnF2ZDAzRTVNamdsSTJIcjBvZU1sMXRSR0dXTUw5SkRV",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T09:54:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T09:54:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IWlBfbU05al9TNkNJNXgzSTBQUE1BY2pDeXByOW8xLWN2UmRzSTRCQ1UxdmFIUUVwazBxYXNxVHBsNS1IR0hNamhtRnF2ZDAzRTVNamdsSTJIcjBvZU1sMXRSR0dXTUw5SkRV"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "地平线HSD V2.1更新，与特斯拉FSD并列对比",
-   "title_zh": "【视频】地平线 HSD V2.1都更新了些啥？为啥能和特斯拉FSD 并列？ - 汽车之家",
-   "sentiment": -1
   }
  ]
 }
