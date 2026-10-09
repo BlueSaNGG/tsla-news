@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T22:22:29.906937+00:00",
+ "updated_at": "2026-10-09T22:37:36.703330+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（165条已评分）"
+     "note": "今日新闻情绪 +0.25（167条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-09T22:22:29.891555+00:00"
+   "as_of": "2026-10-09T22:37:36.693850+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 165
+   "avg": 0.25,
+   "count": 167
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "特斯拉Cybercab 21英寸屏幕重塑乘车体验",
    "zh_summary": "Cybercab搭载21英寸座舱大屏",
+   "title_zh": "特斯拉Cybercab 21英寸屏幕重塑乘车体验",
    "sentiment": 1
   },
   {
@@ -208,6 +208,23 @@
    "sentiment": 0
   },
   {
+   "id": "2ce0d3c0b4cc",
+   "title": "Musk confirms Tesla will retain control of Terafab despite TSMC talks - Cleanroom Technology",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMENPbm53a0tCZ0tudncyakJJRE9qWVBMUVhPaTE2N3JKaDlzZW5KSzdXNFI2WFdhb0sxanVCNUF4THJGcWEtaFQ5QzBpSWM5aTZIZW1UY2l0ZkF5NG1WNXh6Zm9jZzF3RXNqSl9mRXNXR3hfY0ZfTXl1S2dOMlRmNHJJOS1LaHBEY1k2S2w1aw",
+   "source": "Cleanroom Technology",
+   "published_at": "2026-10-09T19:07:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Cleanroom Technology",
+     "published_at": "2026-10-09T19:07:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMENPbm53a0tCZ0tudncyakJJRE9qWVBMUVhPaTE2N3JKaDlzZW5KSzdXNFI2WFdhb0sxanVCNUF4THJGcWEtaFQ5QzBpSWM5aTZIZW1UY2l0ZkF5NG1WNXh6Zm9jZzF3RXNqSl9mRXNXR3hfY0ZfTXl1S2dOMlRmNHJJOS1LaHBEY1k2S2w1aw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
    "id": "c3a4f4ee1894",
    "title": "‘I drive a Tesla’: After Elon Musk said he’d lose his job, Delta CEO Ed Bastian says there’s ‘no tit for tat’ as airline unveils earnings miss - Yahoo Finance Australia",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmxuQjZYb0VzSlo2MDJ4emVGV3oxcWZZbFhHUEdSdWNKb0xYMGhCQ3hSRjhfcVU0ZlBNV2pPWTFJaXpadnZDRmVBb2dmMzExUzJuYS1OU1BzRlM3c0t5X3NKSmV3ZEg4N2dyWmh4ZEZjNE1jVVM0ZjljU1hxMmhmdA",
@@ -223,8 +240,8 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "title_zh": "'我开特斯拉'：达美CEO称马斯克言论无报复之意",
    "zh_summary": "达美CEO回应马斯克：无报复",
+   "title_zh": "'我开特斯拉'：达美CEO称马斯克言论无报复之意",
    "sentiment": 0
   },
   {
@@ -647,7 +664,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tcFV6RHV2dDJWZ3hWQnNhb2ROazdpYzBfdkNLb00wMFEtZGktLUVmTkFPaGZZbktBZDl5dWlaazhwRnZ1U3MxMzhZVm54QzBiRU9fTkx3a2tMdXNhMVdHUDc2RndGUVZl",
    "source": "紫牛新闻",
    "published_at": "2026-10-09T16:17:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "紫牛新闻",
@@ -658,13 +675,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-09T16:55:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZkpSVWtBTGdhYlN0UEo1elNnVEhTNklKdVk0Zk9TczZSSkVBNjhHbkNSNGFPQmhDcFY2WG1DR1I4TjMyS0NsMzU1bHg5anp0OTFlTTYwWmVYeEhCcXRNdFhodEFMRkJlMElyd2thb1RYUnBJeVhzaw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T16:17:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbll3SGNBYjVNTkZkMElLa0J6eG90cTNjTFlVYnBlb2EwdVQtTFNqR1ZyTk9LY0JXMlpjMTBLUUIyWk9reElqbGRrRWI3aVptOFlnYjdzckJqWW84ZWYtbVJEcmdnaWxIS2R1UkhITUMxd0lrM250azhoWmRzbEVFN0Z6QmJCMEltX0NuTQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "上海高架特斯拉路怒事故司机被刑拘",
    "title_zh": "紫牛热点︱上海高架上特斯拉“路怒”引发事故，一名司机被采取刑事强制措施！交警：随意变道极易诱发此类事故 - 紫牛新闻",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 2.0
+   }
   },
   {
    "id": "462c552a1e8f",
@@ -6739,26 +6765,6 @@
    "zh_summary": "TSLA在$380附近面临阻力",
    "title_zh": "特斯拉股价预测：TSLA面临$380阻力，反弹结束还是蓄势？",
    "sentiment": 0
-  },
-  {
-   "id": "91e049eb35d5",
-   "title": "Tesla Korea's 'unverified' FSD under scrutiny - The Korea Times",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODlueDZESjFJRFBNb09hMnltTDJMaUdpZkNSVkxjNzZ1RGljZEYyUGVuZ1RlczkzZE93MDhJUGF3Q1czWVFvM0ZmVFNzUnE0aWt4TDduTVV6OEE0ekhjc0cxSDkybkN2TTNLZlFHUjluN1JYdHoyeDlMX3hPNGJfUndUa1JSZHYwMXQ3czIxWFpiN2tnUWtyY1czdWY5NnVE0gGmAUFVX3lxTE9oMkpORXptZXh3OHc0SFBBMnVvazdWUHAzSFZrVi1JRjhVY1RscEVCSFNSU2JHWTQ2V2trdTJib3hxbHpHYnBMc2JleGhrN3QtMTZJeTZnb2NQdDBwa0dZS0tndkxVcHlGMHZDZ3pxWF9wdGR1eDJHdGo3ZWkxaDFRMXRmRUhRXzNUdXNXaEJDWGxXRzlCalVBZ1RUSUFObVoyeGRDN2c",
-   "source": "The Korea Times",
-   "published_at": "2026-10-08T11:53:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Korea Times",
-     "published_at": "2026-10-08T11:53:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODlueDZESjFJRFBNb09hMnltTDJMaUdpZkNSVkxjNzZ1RGljZEYyUGVuZ1RlczkzZE93MDhJUGF3Q1czWVFvM0ZmVFNzUnE0aWt4TDduTVV6OEE0ekhjc0cxSDkybkN2TTNLZlFHUjluN1JYdHoyeDlMX3hPNGJfUndUa1JSZHYwMXQ3czIxWFpiN2tnUWtyY1czdWY5NnVE0gGmAUFVX3lxTE9oMkpORXptZXh3OHc0SFBBMnVvazdWUHAzSFZrVi1JRjhVY1RscEVCSFNSU2JHWTQ2V2trdTJib3hxbHpHYnBMc2JleGhrN3QtMTZJeTZnb2NQdDBwa0dZS0tndkxVcHlGMHZDZ3pxWF9wdGR1eDJHdGo3ZWkxaDFRMXRmRUhRXzNUdXNXaEJDWGxXRzlCalVBZ1RUSUFObVoyeGRDN2c"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "韩国审查特斯拉未验证FSD",
-   "title_zh": "特斯拉韩国“未经验证”的FSD受到审查",
-   "sentiment": -1
   }
  ]
 }
