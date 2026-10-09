@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T18:07:30.613920+00:00",
+ "updated_at": "2026-10-09T18:22:32.798378+00:00",
  "market": {
-  "price": 383.02,
-  "change_pct": 2.14,
+  "price": 383.33,
+  "change_pct": 2.22,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.4%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（137条已评分）"
+     "note": "今日新闻情绪 +0.27（142条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $383.02 vs 20日均线 $368.68"
+     "note": "现价 $383.33 vs 20日均线 $368.69"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.4,
-   "ma20": 368.68,
-   "as_of": "2026-10-09T18:07:30.596569+00:00"
+   "implied_upside_pct": 4.3,
+   "ma20": 368.69,
+   "as_of": "2026-10-09T18:22:32.786872+00:00"
   },
-  "pe_ttm": 105.9,
+  "pe_ttm": 106.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.27,
-   "count": 137
+   "count": 142
   }
  },
  "meta": {
@@ -86,6 +86,23 @@
    "zh_summary": "特斯拉股票代币化登陆Solana",
    "title_zh": "苹果、英伟达、特斯拉股票上线Solana交易，为何弃以太坊",
    "sentiment": 0
+  },
+  {
+   "id": "c52441be179e",
+   "title": "特斯拉在欧洲将“Full Self-Driving”品牌名改为“Assisted Driving” - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zWlpvTkptTVQteGMxVmJ0S0FPZndaZWVXeGh6bldRTDBaV2ZfQXFKMlh1VFctZHhneUpLdDI2cGkxQkd0a2haRktmYVBFV3lyRnEwdTd3bnFIWFk",
+   "source": "网通社",
+   "published_at": "2026-10-09T17:55:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-09T17:55:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zWlpvTkptTVQteGMxVmJ0S0FPZndaZWVXeGh6bldRTDBaV2ZfQXFKMlh1VFctZHhneUpLdDI2cGkxQkd0a2haRktmYVBFV3lyRnEwdTd3bnFIWFk"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "39f22f13a263",
@@ -427,12 +444,17 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGx4Zk1nRUY3M3VXQ2x4aUNmd1AyMlFXR24xQ19XQ3dTd21EaVEwUW82QzBmLVpzZHQzZXlHNV9WTjlPMXI5YTAzRjZIY3Nna1dyNUxoTmxsdEhrM05ZcnNuNktPNWc5cTl6M0FmeVp6VDRlWmE3LTJadzVXSW1xWFM5RC0zMHlFR0xXaEhhS2c4QVZQLWdhd3huYVhlUGRr",
    "source": "Electrek",
    "published_at": "2026-10-09T15:16:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Electrek",
      "published_at": "2026-10-09T15:16:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGx4Zk1nRUY3M3VXQ2x4aUNmd1AyMlFXR24xQ19XQ3dTd21EaVEwUW82QzBmLVpzZHQzZXlHNV9WTjlPMXI5YTAzRjZIY3Nna1dyNUxoTmxsdEhrM05ZcnNuNktPNWc5cTl6M0FmeVp6VDRlWmE3LTJadzVXSW1xWFM5RC0zMHlFR0xXaEhhS2c4QVZQLWdhd3huYVhlUGRr"
+    },
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-09T17:10:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXJuOENfRjJXd2VuWVF0Y05YM2xHdGhpM1ZUdkNRSU9mbVNzV0JlVlhNZXVfSHgya19vdGxwOW1JQXB1OHNWSV9oQ2RVUmhFWUs1dVJDWDdPVWhoLWx1eWE5VjNYbS10SFh6V3ZBMUNNdlJ2T2ZURmtBY1JqUjI1UmRoQdIBiAFBVV95cUxNRlBma0lLUGdYbVJ0QXJ6a09wa25uVVVuRWs0c1d4aVB6dE1ZN0l2M2dPUjZwd3BmWmJCakJIakJvcndKYTQ3UTVGMk91VUVtcjJKbHdnMEwwclZjM293TlQzUFN0YUJ3bTN4N2VvbXVRczZYODcyc0JDXzRUdklKSHRlQjFkdTJG"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -4370,7 +4392,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEdyV3JiMGZNWmMtWXlERm4yWnRiM3dGUXgtS1R0M2ZGZ2ExRGJWaEtJS1d1XzU5bTE1WVljQVFTaE1wTnltTXBxQWFHWGdjdmpjNm5KUmpIV3owck9GYlVFaWN4N2JJOUlRN1VhZzh6ZzY2TF9IbVR5NFpFcU1ITmw3bWtFOEdWMTFzYWNYUkJRdnVjdFY4",
    "source": "BASENOR",
    "published_at": "2026-10-08T20:04:46+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "BASENOR",
@@ -4391,6 +4413,11 @@
      "name": "The Next Web",
      "published_at": "2026-10-09T17:14:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRGt0bWFBQVhHZUZRaEp2c19MXy1qS1dnMXgwdlBMdU1IWGhnTUt1U2FxM1k3T0lQMEM2cXZfWjlCM0xyeDIwSEU1WFpjSWJzZGMteXdDNVZtYTZYd3QxQzA1R2pVYllMSjMyWg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T16:07:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORFpyY0VyWUdkaGJ4NUpkcHFrcm0tOVZZbHBXLUVXVHk1dmwzal93dnBvMGRudjFvRG1uT0hRRVpTZTVVNDJjWDkzamNqYXJIMWV5ak1yZzYwUk1WeHNXdTdUMkEwaWxHaVBfRnUxZWg4dXQ1R01RdEJla1J1dzlSQjdLdmp2WVB5dVYweFZVYXkweVdINUtWZHJNOA"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6711,46 +6738,6 @@
    "zh_summary": "特斯拉要求缩减荷兰FSD审查",
    "title_zh": "Electrek：特斯拉曾要求缩减荷兰对FSD 的审查 - UA.NEWS",
    "sentiment": -1
-  },
-  {
-   "id": "0dd5267a06de",
-   "title": "Tesla Delivered 486,532 Vehicles in Q3. Here's the Margin Math That Will Decide the Earnings Reaction. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTFhYXFPWUswaWpOZU5tLXN3NkRXZnp6TklQbHlzX2d1T3FuSGJIUFozYzZOMnhoczZFVzAtT1dDTnVOSXhONU9qSWFNZXhMVUNPRERBZlc2bkNBLWZsLUtWTF9xU0poQW5PNXRxc3NiakdkZmRnZFk4RG8wQ3BKNGh3Q3V6QzhHc0xSdGJPVkpKVlVaQldDeA",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-08T09:01:18+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-08T09:01:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTFhYXFPWUswaWpOZU5tLXN3NkRXZnp6TklQbHlzX2d1T3FuSGJIUFozYzZOMnhoczZFVzAtT1dDTnVOSXhONU9qSWFNZXhMVUNPRERBZlc2bkNBLWZsLUtWTF9xU0poQW5PNXRxc3NiakdkZmRnZFk4RG8wQ3BKNGh3Q3V6QzhHc0xSdGJPVkpKVlVaQldDeA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T09:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXNsdXpyc0M3TUFOVkcxQ0lBRFhUS0xMbDZXT0V1T2hLTm9IOXdqNFZ0MnB1UHhIZTlYX2VEcDdGLU01OHV0dzI1WGNaWllodzJHcVF4d2x4aGw0YXVEcjBzQ1l0OW9ydVFpdGtKRmZCQVhVeTVNNUVzbjEyNGRrV1prOHA1V1dfV3J4bTlzODRCMk9pT3h5VVg5SU5sUQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-08T09:23:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSjRCdkZhbnpjdzRlWElCQTRHSnBWeU8tMklMWXI4R1FzNDFhWG4zV0xkXzNjUTNHaXJ4bFM3VV9UWGZtZ2hRT3RLQm1KbXlra21KRmRhQXVGRVNuWDJ0ak1zY0lrdGp6SF9aUnRRQWQwUTlXUkJOVVRUUTAwUzVCRXlnRnp3QXBYaWVUdWg5TFJnOXBadVZ6N3Q2MFNkQmRUMF94SngyQm5mRm5SNjQtUkRFSVR3LWwtb21kUGxvSHN0Z2o0ZVZnUlJYNEc3LV95TGFSOF9YcVNkYm5OZDByTGk2X25oUWx5MENCd0M5Q3V0bEhEUTJhV09BOHpOdllqUjU4b2V5YU9fSkVaRHZGeA"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-08T09:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTRRTkNJNktldU1ST0hIS3R5bGtLZkZzVzZ0NmpoN0Rzbm1hdFJBaHdjaFNhSEZ6X2tuMzBKU0lvb1BfVHNpQXJXdVlaYms0NUR5N1JxdG5HNTNuM2owN21YckZmcTQwVThsVkxmZ1dVWEdMUExyTjh1aHVwaWowUkJ3"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "特斯拉三季度交付48.65万辆",
-   "title_zh": "特斯拉三季度交付486,532辆，毛利率将决定财报反应",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
   }
  ]
 }
