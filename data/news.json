@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T09:37:24.684077+00:00",
+ "updated_at": "2026-10-09T09:52:26.333419+00:00",
  "market": {
   "price": 375.0,
   "change_pct": -0.74,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.10（30条已评分）"
+     "note": "今日新闻情绪 -0.06（32条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 6.7,
    "ma20": 367.8,
-   "as_of": "2026-10-09T09:37:24.677028+00:00"
+   "as_of": "2026-10-09T09:52:26.326532+00:00"
   },
   "pe_ttm": 103.7,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": -0.1,
-   "count": 30
+   "avg": -0.06,
+   "count": 32
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5b77bb1bc883",
+   "title": "Tesla Adds 150 Cybercabs in Texas, Nearly Doubling Its Registered Count - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUp0emRBNDFlUHkzTzZvZkdpb2Z1blR1RTFoWVV4VzVUMjlVTlFCdWtKNXlvcUowU21wWkFucVlBVGZ0QTBobTFvcFhKd1F5bHpOdEpBV1ItX1AtTmkzaHZJbFpjQ3VPSjUxZ2Y5dnc5ejZhTE01dnlJOEV1SFB2MjFrZTE5MzFIY1R1bzkyRWttcDVuRkgwcF93N0UtZVFqeHpGVUpiTlEtUQ",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-09T09:47:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-09T09:47:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUp0emRBNDFlUHkzTzZvZkdpb2Z1blR1RTFoWVV4VzVUMjlVTlFCdWtKNXlvcUowU21wWkFucVlBVGZ0QTBobTFvcFhKd1F5bHpOdEpBV1ItX1AtTmkzaHZJbFpjQ3VPSjUxZ2Y5dnc5ejZhTE01dnlJOEV1SFB2MjFrZTE5MzFIY1R1bzkyRWttcDVuRkgwcF93N0UtZVFqeHpGVUpiTlEtUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "aecf7a7a02af",
    "title": "【视频】昆明特斯拉Model Y 一位好爸爸的温暖 - 汽车之家",
@@ -86,6 +103,23 @@
    "zh_summary": "昆明一位父亲的Model Y温馨故事",
    "title_zh": "【视频】昆明特斯拉Model Y 一位好爸爸的温暖 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "738e7209b021",
+   "title": "两辆特斯拉高架上“斗气”！上海警方：71岁男子被罚款，42岁男子被采取刑事强制措施 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0JuaDB0dUFSX2x0T1VLU1dzYk5jeDdzSnRVcXVSQ0xiMUk2WjFGVU5HUTNSSnAyTndIWUhYaVhIX09NT0NvTElnZTVNQWcwQjRoQVdBUnlHOTNNR1ZxX25MWXV1N3dWZnB5X2xNal9FRjFQUTMwcGtaZ0FqX1dZcTQxQU1GRWZyU1BRSw",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T09:24:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T09:24:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0JuaDB0dUFSX2x0T1VLU1dzYk5jeDdzSnRVcXVSQ0xiMUk2WjFGVU5HUTNSSnAyTndIWUhYaVhIX09NT0NvTElnZTVNQWcwQjRoQVdBUnlHOTNNR1ZxX25MWXV1N3dWZnB5X2xNal9FRjFQUTMwcGtaZ0FqX1dZcTQxQU1GRWZyU1BRSw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b57bd9793b6f",
@@ -423,12 +457,22 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnRmSWhyUHoycXVZekJBRGVNQUpWNEVrTzN2MEZSai04cW9rNWFpT1l1SzJxQXlaX3M0N0docHBHLURzZTZrWXJUTFdkUkNqUEVRT2VuekY2NEFkYkx1OVlYUWhNbVM3UVkzVlNobFpxUjY0NXVqMFIwVzdFTG0tckl1dXo0bmIt",
    "source": "搜狐网",
    "published_at": "2026-10-09T08:06:28+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-09T08:06:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnRmSWhyUHoycXVZekJBRGVNQUpWNEVrTzN2MEZSai04cW9rNWFpT1l1SzJxQXlaX3M0N0docHBHLURzZTZrWXJUTFdkUkNqUEVRT2VuekY2NEFkYkx1OVlYUWhNbVM3UVkzVlNobFpxUjY0NXVqMFIwVzdFTG0tckl1dXo0bmIt"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T08:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BWm5paHNQc1FOdnJrTUs2WkJaYXNCdmZYaUtnVTd6LUtFRndOTmtXOGxfaDRxaWM1WnZXTTZ2Q2VMeWJ5SWZUMWo0UDYwckdCS3FkbE9iYThpTENYdkZpRWs3Q2hkUkJva25vY1VseGdkSG00NFk5Rw"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-09T08:12:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclBVUFl6dzdjWFVwYm1NUzdaejVCVGx3WTdUVGc4TTItMU84NUUxNlRQUWZVSjlFajd2SWZiSTZyWEtNV2FqT01xWjZ6Um5Yc3B1bDdOUG9CNEstOE9naDh6ZEFKQzZwN3hGMG5aUDBaaXpNTTFKdkFuMFh3TGtxVUZ3"
     }
    ],
    "category": "其他",
@@ -6554,46 +6598,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Semi获IMC 50辆卡车订单",
    "title_zh": "特斯拉Semi获得运输商IMC 50辆卡车订单",
-   "sentiment": 1
-  },
-  {
-   "id": "bab6c7cb68c4",
-   "title": "AI boom, Gen Z’s ‘vibecession’ and Tesla’s $40B chip bet - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXd5RGhheFhLR2VhS3JrY2JwLWVPNk5UbHBRQUxKLTFRMWhzUFpKYi1WS3hwa09zQm5UaUt0OEwyWkJnTWtIYzlMSzlXWG1IUDNhUldDVVVhXzBuMS1YampHVHJISU41TE1YcXVITHlBOXJTMjlTQnRqbER5d1BITWo4cXFSUERoUmE4WXdtamdhcFhDUjZKRjFHajhBQQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T18:02:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T18:02:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXd5RGhheFhLR2VhS3JrY2JwLWVPNk5UbHBRQUxKLTFRMWhzUFpKYi1WS3hwa09zQm5UaUt0OEwyWkJnTWtIYzlMSzlXWG1IUDNhUldDVVVhXzBuMS1YampHVHJISU41TE1YcXVITHlBOXJTMjlTQnRqbER5d1BITWo4cXFSUERoUmE4WXdtamdhcFhDUjZKRjFHajhBQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉400亿美元芯片赌注",
-   "title_zh": "AI热潮、Z世代的vibecession与特斯拉400亿美元芯片赌注",
-   "sentiment": 0
-  },
-  {
-   "id": "9e71554cea5e",
-   "title": "Tesla Expands Powershare and V2L To Model 3 and Model Y, Here's How To Verify if Yours Is Compatible - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o1UWJ3S1A5Y2V0cUJWaUxmeEpKUkNXb05tNXlXTF9zdm91QUFMTS1sb1lKQUFBeWFNaUJTVlZ5eW9EYU5lbXZfNmJySGM4QjA4WHAwNFlNNlFzblR1bmdid0IyMy1QOWVrcm5weTZPTHN5ZWowNXdyYlhka2RKZTNKaWJPUGxNaTlZSU1ZLUtBZ0tfd3JMQUROV3pNWEZJckxZWXhIaEFIZW1CMnVkQXlPM1dxV2sxMkFaRk5IejViNkJxNTh4a2p1VXBsTk5DdldGU2xVck9nX0ZJQ2pv",
-   "source": "autoevolution",
-   "published_at": "2026-10-07T17:58:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-07T17:58:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3o1UWJ3S1A5Y2V0cUJWaUxmeEpKUkNXb05tNXlXTF9zdm91QUFMTS1sb1lKQUFBeWFNaUJTVlZ5eW9EYU5lbXZfNmJySGM4QjA4WHAwNFlNNlFzblR1bmdid0IyMy1QOWVrcm5weTZPTHN5ZWowNXdyYlhka2RKZTNKaWJPUGxNaTlZSU1ZLUtBZ0tfd3JMQUROV3pNWEZJckxZWXhIaEFIZW1CMnVkQXlPM1dxV2sxMkFaRk5IejViNkJxNTh4a2p1VXBsTk5DdldGU2xVck9nX0ZJQ2pv"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "Model 3/Y扩展Powershare功能",
-   "title_zh": "特斯拉为Model 3和Model Y扩展Powershare与V2L功能",
    "sentiment": 1
   }
  ]
