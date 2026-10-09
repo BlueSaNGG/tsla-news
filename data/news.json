@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T14:22:38.455639+00:00",
+ "updated_at": "2026-10-09T14:37:30.697084+00:00",
  "market": {
-  "price": 386.15,
-  "change_pct": 2.97,
+  "price": 386.78,
+  "change_pct": 3.14,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.6%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（97条已评分）"
+     "note": "今日新闻情绪 +0.22（101条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $386.15 vs 20日均线 $368.83"
+     "note": "现价 $386.78 vs 20日均线 $368.86"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 46,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.6,
-   "ma20": 368.83,
-   "as_of": "2026-10-09T14:22:38.443809+00:00"
+   "implied_upside_pct": 3.4,
+   "ma20": 368.86,
+   "as_of": "2026-10-09T14:37:30.689928+00:00"
   },
-  "pe_ttm": 106.8,
+  "pe_ttm": 107.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 97
+   "avg": 0.22,
+   "count": 101
   }
  },
  "meta": {
@@ -68,13 +68,69 @@
  },
  "stories": [
   {
-   "id": "5635c72be5fd",
-   "title": "美股异动 | 特斯拉(TSLA.US)涨逾2% Cybercab单日新增注册150辆 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcy1yWTZFcVhEaG55bFRrbVlNTGJKNDlXQklwTEx1dHRPWkYtU1NPc19lcDlSWGhVYVhyR1g2SkR6MWZTdkJPRjRJTE9UaDZWbW1FQWFBWlJ2ZmJsMkhJWmJJMEotb193T3JCakplZGd3UGxoWmZTSW9Nc2Z1SW5vdEpzUUxodC00YTN3aUQ5em9lWUg2YS1sSTFzaU5GWGZVYnVNaC1FNnk",
-   "source": "Moomoo",
-   "published_at": "2026-10-09T14:13:07+00:00",
+   "id": "3b3041297d07",
+   "title": "Tesla Spikes After Best China Sales Numbers Of The Year - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHFhdGZCWWM5ekZWYnhkaUNRdl9RQk1pT0YyRzNZeWVDRjNBb203TjdJVFVfQjUxNFNhZThEZHZYUWpra1hDMlFDTVZXSDIwM3VFcHRGa3Q0Z1Jhd2hrWjRKVHlNX3k5THpCd0M0VHlBTFZRSDl6MUF5SnhmTTFORGNvWmx1R1B0Q1J0M3N3",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-09T14:26:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-09T14:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHFhdGZCWWM5ekZWYnhkaUNRdl9RQk1pT0YyRzNZeWVDRjNBb203TjdJVFVfQjUxNFNhZThEZHZYUWpra1hDMlFDTVZXSDIwM3VFcHRGa3Q0Z1Jhd2hrWjRKVHlNX3k5THpCd0M0VHlBTFZRSDl6MUF5SnhmTTFORGNvWmx1R1B0Q1J0M3N3"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "a8ff6b067171",
+   "title": "Tesla’s China-made EV sales rise as Europe recovery continues (TSLA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEY1RDY3cUpXVjRJSDgtY3ljclRmQmlJUndnRUZoTnYtdkdmTHNFdk5zZEY1Nzh4SkZWTGdmYlR4WkhWeFlNa3FXQ3J2T3pLQkJhY3pWdnlrcmZ4UlVldWZHRDV2TlpQUjQ4dkNyWjR2NVN1cmRSZnhFM3lCdG1SUWhMSVpLcHUyRjBFRVlCa0xiUGozczgxbTh4LXhnM2c",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-09T14:22:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-09T14:22:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEY1RDY3cUpXVjRJSDgtY3ljclRmQmlJUndnRUZoTnYtdkdmTHNFdk5zZEY1Nzh4SkZWTGdmYlR4WkhWeFlNa3FXQ3J2T3pLQkJhY3pWdnlrcmZ4UlVldWZHRDV2TlpQUjQ4dkNyWjR2NVN1cmRSZnhFM3lCdG1SUWhMSVpLcHUyRjBFRVlCa0xiUGozczgxbTh4LXhnM2c"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "1045934dfeae",
+   "title": "美股讯号 | 特斯拉 Cybercab 单日新增注册 150 辆，股价上涨 2% ｜#美股资讯# #特斯拉# #市场事件# - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0xsMV9RT1o1cWdrYnZBMmlkV1JldklFaFhDUnZOTmJ3UUVlVC1LOVRrcmY1Z2xwRmhRT1BXRXgtTFNacUdLd2lfVE9BZHU4V1BQdVBETU5XYkxhWUdfaGFkaTAxdU02c1pwRUNfd3BsalNVamtEbkJIM2JoSUljV0dpVFJxOTNZSk83bg",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T14:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T14:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0xsMV9RT1o1cWdrYnZBMmlkV1JldklFaFhDUnZOTmJ3UUVlVC1LOVRrcmY1Z2xwRmhRT1BXRXgtTFNacUdLd2lfVE9BZHU4V1BQdVBETU5XYkxhWUdfaGFkaTAxdU02c1pwRUNfd3BsalNVamtEbkJIM2JoSUljV0dpVFJxOTNZSk83bg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "6b603238d8c2",
+   "title": "美股异动| 特斯拉(TSLA.US)涨逾2% Cybercab单日新增注册150辆_全球市场_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XZGxQa3pBamhMNy1GZlY0dklfUVUzY1RGQ0QxbmJoN3cwVnd2eFF0eHRscnN3STkzRk5FMjBEY1FWcmJCeU1jM0hFeXY1eTVxb0lVS01xRFZGbkRsRUV6UQ",
+   "source": "证券之星",
+   "published_at": "2026-10-09T14:04:17+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-09T14:04:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XZGxQa3pBamhMNy1GZlY0dklfUVUzY1RGQ0QxbmJoN3cwVnd2eFF0eHRscnN3STkzRk5FMjBEY1FWcmJCeU1jM0hFeXY1eTVxb0lVS01xRFZGbkRsRUV6UQ"
+    },
     {
      "name": "Moomoo",
      "published_at": "2026-10-09T14:13:07+00:00",
@@ -326,6 +382,23 @@
    "zh_summary": "初代特斯拉Roadster 2026年值多少",
    "title_zh": "2026年初代特斯拉Roadster估值多少？",
    "sentiment": 0
+  },
+  {
+   "id": "2ad1582cad6d",
+   "title": "特斯拉车型也要进行年检吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14akhEMUU1UGxRRGpKZzJ1N3dCaHRRUm5zWkloaVRubW1IV1h0ajhwSnpFWFptdHZ2b2d0YkFSeXZzcmtmNnQ0NG9WSWhMekd0ZEI1SmI5amw",
+   "source": "汽车之家",
+   "published_at": "2026-10-09T13:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-09T13:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14akhEMUU1UGxRRGpKZzJ1N3dCaHRRUm5zWkloaVRubW1IV1h0ajhwSnpFWFptdHZ2b2d0YkFSeXZzcmtmNnQ0NG9WSWhMekd0ZEI1SmI5amw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b18332d7f59b",
@@ -6612,96 +6685,6 @@
    "zh_summary": "马斯克称拟建Terafab特斯拉保留控制权",
    "title_zh": "马斯克确认特斯拉在与台积电拟建Terafab合作中保留控制权",
    "sentiment": 1
-  },
-  {
-   "id": "7a6c3a02501f",
-   "title": "【视频】放眼现在的二手纯电车市场，5年前的纯电车型中，特斯拉依然能打 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUVFQc2Y0a2Y4SnFQemRPekZBclJyQzVuVEhPRllEUUZRU3lxYTh2eDRsSEhQN1lOUXFFcFhpY05jVnF1S0xGM2hwTHhqc0JtQndEQ1ZCNzd3emM",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T03:30:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T03:30:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUVFQc2Y0a2Y4SnFQemRPekZBclJyQzVuVEhPRllEUUZRU3lxYTh2eDRsSEhQN1lOUXFFcFhpY05jVnF1S0xGM2hwTHhqc0JtQndEQ1ZCNzd3emM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "五年纯电二手车中特斯拉依然能打",
-   "title_zh": "【视频】放眼现在的二手纯电车市场，5年前的纯电车型中，特斯拉依然能打 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "a93fda9af754",
-   "title": "Why Tesla (TSLA) Is Up 6.7% After Unveiling Terafab AI Chip Complex And Major New Credit Lines - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZENLeHpSUC02QTJMbFA5RWNEdXVpQU0wSGE5ZDBpbndTMzRYLUZFdFBLdXk2QnhRdlVkMWZCazUwWTZQRk1yc1k5Umx2UWdMWmxoOVZ0T25yVHJXY0NmLVpKdXhGQkFLbkNOUThaSmU4OG5TVmc",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-08T03:20:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-08T03:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZENLeHpSUC02QTJMbFA5RWNEdXVpQU0wSGE5ZDBpbndTMzRYLUZFdFBLdXk2QnhRdlVkMWZCazUwWTZQRk1yc1k5Umx2UWdMWmxoOVZ0T25yVHJXY0NmLVpKdXhGQkFLbkNOUThaSmU4OG5TVmc"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T03:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXJiVUZwRDJZelRGSS1uWHlHcl9ESFVObHJLOXh2R1FPR0VZTnk4RkFrTlNJRnJiZGRvUkZZbkF2RDBfdlE2VU01M0ZmR3FvUTFUQXQ1MXhwOFJPQ3lJcjVHRHlzT3k4MldFM0phSy1sbzk2LTRQeW5OLThtQi1VT2NoVW9fQkdhZ0lR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉发布AI芯片工厂Terafab获新授信",
-   "title_zh": "特斯拉发布Terafab AI芯片综合体并获大额信贷额度，TSLA涨6.7%",
-   "sentiment": 2
-  },
-  {
-   "id": "09d1cf02ba7c",
-   "title": "Here's Where Tesla and 4 Rival Automakers Could Be by 2030 - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE1OQllhSkpMRElDSHZzUVpKdTQ4NzFoVEFZazM3bHA4R181WDZSN0luaFdETDZ0eC1kOUxPMEJKR3U1dW5GUkZndUJ5STV6SUVmRXV6VjhFZ0hYN2NiS3hxaGpocTc2QlVIemVJU3JVc1l0eUh1MlNkWHRlNWxrMzlWQ0dfOFJQaUVJam5rYU5oSjB3d2wzSm5nUDFha0t3QWRMSnN2ZUEwTWkya2xNcVhiTUxWWnZ2TXFMUm9WNm9ZVzdzandDNkFmT3FjSUV2NmNYbG5DTnFhdw",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-08T03:20:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-08T03:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE1OQllhSkpMRElDSHZzUVpKdTQ4NzFoVEFZazM3bHA4R181WDZSN0luaFdETDZ0eC1kOUxPMEJKR3U1dW5GUkZndUJ5STV6SUVmRXV6VjhFZ0hYN2NiS3hxaGpocTc2QlVIemVJU3JVc1l0eUh1MlNkWHRlNWxrMzlWQ0dfOFJQaUVJam5rYU5oSjB3d2wzSm5nUDFha0t3QWRMSnN2ZUEwTWkya2xNcVhiTUxWWnZ2TXFMUm9WNm9ZVzdzandDNkFmT3FjSUV2NmNYbG5DTnFhdw"
-    },
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-08T04:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ19WVTVOTmZUczNqMENSQ05NV05zaWlBV0pnY3AtNnJxekl2eWp3YkdNZmM0S2NaeEQwczZ2QTByZnlqeDVEd1lyVkd0eDRaZjNpRm4zSERFNWJhWENoY2tyUGZpd0hRNmJlb2gxcEs4T2FsdnhVeXpDRTBqajc2V2VrV3h3RXA3Sm9RQnVBRU5yWkllQTlJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "2030年特斯拉与四家车企展望",
-   "title_zh": "2030年特斯拉与四家竞争车企前景展望",
-   "sentiment": 0
-  },
-  {
-   "id": "b198d4eff87b",
-   "title": "Police: 4 teens charged after pineapple thrown at Tesla causes 'significant damage' - WLWT",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmt1YWVmQmxERUtSNGFOb2NaUEtzb0VpTHFWLTdIaG9JREpjcHpKbHhTcm9aX0h1ZjZCVC1uMWRGMDhFX0NQR1R3MWxyNVVOZTJwM01pazg2a3l1Y29nbDBEc2Vfelhkd3BPUkltWndyWV9xLTB3WkliZmpSM3dmVWxaWEtFdjFEVjUyaW5BTQ",
-   "source": "WLWT",
-   "published_at": "2026-10-08T03:11:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WLWT",
-     "published_at": "2026-10-08T03:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmt1YWVmQmxERUtSNGFOb2NaUEtzb0VpTHFWLTdIaG9JREpjcHpKbHhTcm9aX0h1ZjZCVC1uMWRGMDhFX0NQR1R3MWxyNVVOZTJwM01pazg2a3l1Y29nbDBEc2Vfelhkd3BPUkltWndyWV9xLTB3WkliZmpSM3dmVWxaWEtFdjFEVjUyaW5BTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "四名青少年向特斯拉投掷菠萝被起诉",
-   "title_zh": "警方：四少年向特斯拉投掷菠萝致严重损坏被起诉",
-   "sentiment": 0
   }
  ]
 }
