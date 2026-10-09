@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T14:52:30.596691+00:00",
+ "updated_at": "2026-10-09T15:07:28.400869+00:00",
  "market": {
-  "price": 388.02,
-  "change_pct": 3.47,
+  "price": 386.01,
+  "change_pct": 2.94,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 47% 分位"
+     "note": "现价处于52周区间 46% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.1%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（105条已评分）"
+     "note": "今日新闻情绪 +0.23（112条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $388.02 vs 20日均线 $368.93"
+     "note": "现价 $386.01 vs 20日均线 $368.83"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 47,
+   "price_52w_pct": 46,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.1,
-   "ma20": 368.93,
-   "as_of": "2026-10-09T14:52:30.573262+00:00"
+   "implied_upside_pct": 3.6,
+   "ma20": 368.83,
+   "as_of": "2026-10-09T15:07:28.388106+00:00"
   },
-  "pe_ttm": 107.3,
+  "pe_ttm": 106.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.6%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 105
+   "avg": 0.23,
+   "count": 112
   }
  },
  "meta": {
@@ -68,24 +68,89 @@
  },
  "stories": [
   {
+   "id": "205aad0474b3",
+   "title": "Tesla Rises 3% as Europe Rebrand Drops Full Self-Driving Name; Rivian Eases, Lucid Ticks Up - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE9ndU5mVGJtTkx0eC05dXhBb1FCcXU3QzM1b2hmb21HTUFLdTA2UmRjUDdGSnJLR0FaaUxCdndPOEdqT0Q3eTBDMjctWkhBVTI3b1VjYUtxWEZrMjFUNVFGZGdQM2s5bmdxUzRYWVBwQWltSS1fUW5JTzlweXplbEJnWFFxTVVHMWNEYUtwTHRuVlNXZWJ3aFE3aU9ISE4zWWxQUUYxc2R5OWRSLUx2MW52aHN2c1JlLUNhcTFKcmJpajFmN093bGJVNWM",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-09T14:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-09T14:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE9ndU5mVGJtTkx0eC05dXhBb1FCcXU3QzM1b2hmb21HTUFLdTA2UmRjUDdGSnJLR0FaaUxCdndPOEdqT0Q3eTBDMjctWkhBVTI3b1VjYUtxWEZrMjFUNVFGZGdQM2s5bmdxUzRYWVBwQWltSS1fUW5JTzlweXplbEJnWFFxTVVHMWNEYUtwTHRuVlNXZWJ3aFE3aU9ISE4zWWxQUUYxc2R5OWRSLUx2MW52aHN2c1JlLUNhcTFKcmJpajFmN093bGJVNWM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "0aeb7a3659ea",
+   "title": "Tesla outdraws Honda and Nissan in Japan’s EV subsidy rush - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaF9ZOHc5aTNaV2IwUEpyZEVxMGpZZ2ZCNFVFLTY0eUpTeFlFMHZEUFZRb2F3VnBhUEcwZUhxcTRULWUwdnFJX1E3cWpERnlFcTViLWdUYzZfLUtQU1Z4aVNnTy1PSE9KaUpHV1pZMmdhTERLQlZpYnR3TkwzR2w2R2NBMEpfU3lCemJCY0N5clpLSkRmb0pzNW9iWUl6ZGthdXE0QW5R",
+   "source": "Automotive World",
+   "published_at": "2026-10-09T14:50:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-10-09T14:50:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaF9ZOHc5aTNaV2IwUEpyZEVxMGpZZ2ZCNFVFLTY0eUpTeFlFMHZEUFZRb2F3VnBhUEcwZUhxcTRULWUwdnFJX1E3cWpERnlFcTViLWdUYzZfLUtQU1Z4aVNnTy1PSE9KaUpHV1pZMmdhTERLQlZpYnR3TkwzR2w2R2NBMEpfU3lCemJCY0N5clpLSkRmb0pzNW9iWUl6ZGthdXE0QW5R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3f7f0b56d3b6",
+   "title": "Tesla Stock Price Forecast: Shanghai Factory September Deliveries Up 10.7% MoM, Shares Hit Highest Since Late July; Can the Rally Continue? - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFZESWx0ZjJCWDJGWkp3WU9pTmZpVzh5RVdzM2pNb1VfcmxPYVRWS0l1Z0pzZ2tCR1pSaTI2Y3U0anJZU1F3TmMtd3dZUjgtZC1SZUZ3dHI3X0tacFRtYTc2R3BseWo0MlR1WmdCLXYwdHVZcFd5bUdtZ1FydWpWcVRSblhYUnE4c2VPVlFUZmNMSmxRVkZSdkFodWlza0M5LU5rR2VCcVhUMm1VZ28zYkpCYldQWnBaUWFNOHdFRmJZRlJs",
+   "source": "TradingKey",
+   "published_at": "2026-10-09T14:50:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingKey",
+     "published_at": "2026-10-09T14:50:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFZESWx0ZjJCWDJGWkp3WU9pTmZpVzh5RVdzM2pNb1VfcmxPYVRWS0l1Z0pzZ2tCR1pSaTI2Y3U0anJZU1F3TmMtd3dZUjgtZC1SZUZ3dHI3X0tacFRtYTc2R3BseWo0MlR1WmdCLXYwdHVZcFd5bUdtZ1FydWpWcVRSblhYUnE4c2VPVlFUZmNMSmxRVkZSdkFodWlza0M5LU5rR2VCcVhUMm1VZ28zYkpCYldQWnBaUWFNOHdFRmJZRlJs"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
    "id": "0a989780d857",
    "title": "My Position on Tesla Will Not Change Until Two Things Happen - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVBTdzBGazZDVVpXa3VmaUxBNlNrZmgzcl9RdG5pbkVPb3pBU2JoTm42TENqMTVVLVNMeFJmVmE5NUxselAyVFBlcnhjTDdrUE1fLWtuSXdWRVRmYlQzbktSbW4xUnVId0pkaHVXU2RrcGZzUGpaR3BvUXJkcWJjNHBUX2tNNkFsTUFhRzdpTkFVcWpBNUw2SEZoVE8xZV8xMjhPU0J1NA",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-09T14:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-09T14:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVBTdzBGazZDVVpXa3VmaUxBNlNrZmgzcl9RdG5pbkVPb3pBU2JoTm42TENqMTVVLVNMeFJmVmE5NUxselAyVFBlcnhjTDdrUE1fLWtuSXdWRVRmYlQzbktSbW4xUnVId0pkaHVXU2RrcGZzUGpaR3BvUXJkcWJjNHBUX2tNNkFsTUFhRzdpTkFVcWpBNUw2SEZoVE8xZV8xMjhPU0J1NA"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T14:45:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHNCVEhCNkpCb0RIRVRPOVF6dDd6SHNxMmN1RUwzRG5FWU1mczhHS2l4cWVLb1V6NGRIY3ZSd3htdVVnRE1Ra2JRcUFxUUROUjU0VE5MdVdyQU5Hc0pwNzh2Z3RHRzBwOXVrLVA5Q1k2a2p1aERmQVBnZHY0VDdFcUQ5Y1JId2xHRVdJSi1mWGVuRmtLUjN5dmdhUnk"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-09T14:45:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzJjenZLRk94bUdTZlVrbmpIdkZrQnRLT2VwaHpqODRsZlI5bER0azZTTmowbnFXc0p0d3ZxdWNaR0xCQjBiMGhSNklNSTZLeGZXM2c3MVVFUklTR2dfRWk2QXM3WmNKeVd0QzN3ZEJ0aEE2Q1VRNjV4cVAxTFVMNA"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "分析师称立场不变需满足两条件",
    "title_zh": "分析师：满足两条件才改变对特斯拉看法",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.38,
+    "window_h": 0.4
+   }
   },
   {
    "id": "10329c35b9bd",
@@ -151,6 +216,23 @@
    "zh_summary": "特斯拉中国销量创年内新高",
    "title_zh": "特斯拉中国销量创年内新高，股价跳涨",
    "sentiment": 1
+  },
+  {
+   "id": "2dc85b5736a9",
+   "title": "Tesla drops ‘Full Self-Driving’ name to win regulatory approval in Europe - Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWo2UjlZTHZPOXdzbjIxSzdFU1pEb3BMNV9LMHp3SmYzUk9hcU5veHA5RXN2aV9xSGJTUmdpbVpkRnhNVnNuTnNXRHh5eWNTZFA3cXQzS0FDOUpGTHR0RktvR3gteUZTdVhjX0pxYVpUczFpTUZGWV90bndFb1hOd2tlcWIxX1NGTER2emNvMEV2X2FOcDVmRU1YT1BzVFQtY0NpLXFmZnJoanlIOVRuTS1wYUhHRlFVLWphc1VR",
+   "source": "Los Angeles Times",
+   "published_at": "2026-10-09T14:24:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Los Angeles Times",
+     "published_at": "2026-10-09T14:24:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWo2UjlZTHZPOXdzbjIxSzdFU1pEb3BMNV9LMHp3SmYzUk9hcU5veHA5RXN2aV9xSGJTUmdpbVpkRnhNVnNuTnNXRHh5eWNTZFA3cXQzS0FDOUpGTHR0RktvR3gteUZTdVhjX0pxYVpUczFpTUZGWV90bndFb1hOd2tlcWIxX1NGTER2emNvMEV2X2FOcDVmRU1YT1BzVFQtY0NpLXFmZnJoanlIOVRuTS1wYUhHRlFVLWphc1VR"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "a8ff6b067171",
@@ -601,6 +683,23 @@
    "zh_summary": "AI预测特斯拉2030年股价走势",
    "title_zh": "AI对特斯拉2030年股价预测",
    "sentiment": 0
+  },
+  {
+   "id": "f1715d4cd940",
+   "title": "Tesla opens 14 Semi Megacharger stalls between Atlanta and Savannah - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnp5djV2ODVsMkdmLVVhVFI3aFBaRHJiLXEweGliLUVlek9mR1JLbFQ5ZVJnUXJsRmFVMzNmd01tSVR5emJ4N0FoM1A3RjJyN3J0QjZ6WWFuNE53czhob2tHZ2g5VXYxSTdvdXVORkMzdnZHLTRnbVdIdjZyOXdES2szbFFaYk8ySGtxd0tR",
+   "source": "Electrek",
+   "published_at": "2026-10-09T13:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-09T13:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnp5djV2ODVsMkdmLVVhVFI3aFBaRHJiLXEweGliLUVlek9mR1JLbFQ5ZVJnUXJsRmFVMzNmd01tSVR5emJ4N0FoM1A3RjJyN3J0QjZ6WWFuNE53czhob2tHZ2g5VXYxSTdvdXVORkMzdnZHLTRnbVdIdjZyOXdES2szbFFaYk8ySGtxd0tR"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "0cf550207309",
@@ -1802,12 +1901,12 @@
    "title": "【视频】都说国产电车秒天秒地？为什么特斯拉一个月还能卖好几万？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWHNVa1Y3VHZkb0lDN2pzb3BhbGgyTU9Pb0NFd1dSdDZLQnJLeEp1UWpIdkRCb1RhODYxN0NxNXNrblRQYVBRbElZVHJSZGNIcjZuWEpvYUVHYjQ",
    "source": "汽车之家",
-   "published_at": "2026-10-09T09:04:34+00:00",
+   "published_at": "2026-10-09T09:04:24+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-09T09:04:34+00:00",
+     "published_at": "2026-10-09T09:04:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWHNVa1Y3VHZkb0lDN2pzb3BhbGgyTU9Pb0NFd1dSdDZLQnJLeEp1UWpIdkRCb1RhODYxN0NxNXNrblRQYVBRbElZVHJSZGNIcjZuWEpvYUVHYjQ"
     }
    ],
@@ -6588,120 +6687,6 @@
     "pct": 0.42,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "3dbbe49577f8",
-   "title": "Elon Musk shuts down talk of TSMC taking over Terafab - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1hrRmhCN0tDUTVJVjByazFuXzdzd3FPVXRBN0xZdldLcjRzTWNqZXhlbmRmX0x3RlZlN1ktSl9TUzNUd1o0VlQ2TkZ4eW9XV0padEsxYUFKVDRuYUZvZ04zai1qY29DVDlnM0ZRTmVfM0dhekt4TnI4VWtMeG1zV0I2c2M3WEk",
-   "source": "Teslarati",
-   "published_at": "2026-10-08T04:57:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-08T04:57:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1hrRmhCN0tDUTVJVjByazFuXzdzd3FPVXRBN0xZdldLcjRzTWNqZXhlbmRmX0x3RlZlN1ktSl9TUzNUd1o0VlQ2TkZ4eW9XV0padEsxYUFKVDRuYUZvZ04zai1qY29DVDlnM0ZRTmVfM0dhekt4TnI4VWtMeG1zV0I2c2M3WEk"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克否认台积电接管Terafab",
-   "title_zh": "马斯克否认台积电将接管Terafab",
-   "sentiment": 1
-  },
-  {
-   "id": "566abeded899",
-   "title": "德国特批特斯拉FSD可超速10%：认为超速反而让交通更顺畅 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NWEloSlA2NGRKZGx2WnZUUjlCT1Y2SWJiNV9wYTlwY01Kd0lYZkg0anozeld6eE1PeDFfYzhVM3o0eXZTNW9ONDdXblFNTE5yMXAwTjZrWXE",
-   "source": "驱动之家",
-   "published_at": "2026-10-08T04:33:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-08T04:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NWEloSlA2NGRKZGx2WnZUUjlCT1Y2SWJiNV9wYTlwY01Kd0lYZkg0anozeld6eE1PeDFfYzhVM3o0eXZTNW9ONDdXblFNTE5yMXAwTjZrWXE"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-08T04:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcHkydUczWGxuQkZXYVBuR2FsSGFHN0U5NlVsRnVJcGdycjRiS2RlcU5MU2pSOXg1WjJ1Yi01eTVmSHVPRDhJTmdKVmF0b2FEeVllOXRIcHRvQ2Z1YXJLNDRwVHVBb0hwWlhEWG1fVG5LUFV1aHdPY3YwdWU"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-08T08:08:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNV8xNklBQkJxN0toU0oyU1QtVzR4QVhzcEJXTFVJWm13SjdDdWdFZkFWTVlmMlBJczJZbHVURy1VTDdQQU9mWUJsM3lSOUNJWlo3NGZmd1FEaE5BeU9CLUJoQmRRSHd2U3pKaE9YMEo5WDd6QTJOSUZDQ0J6M2haZWVtSWxRU28"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "德国特批特斯拉FSD可超速10%",
-   "title_zh": "德国特批特斯拉FSD可超速10%：认为超速反而让交通更顺畅 - 驱动之家",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.18,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "04568033f836",
-   "title": "世界上最小的特斯拉！ - 手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nQ1NTMlI0dWFNejkxLXkwelhqQ2JuWWQzYnNBd0VLQ2RfczNaY3BOMjZZdm4zaUtKOFJTM2VRMjZNVHlnbjZWeHdPUGFrYjM3WkdzUg",
-   "source": "手机网易网",
-   "published_at": "2026-10-08T04:31:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机网易网",
-     "published_at": "2026-10-08T04:31:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nQ1NTMlI0dWFNejkxLXkwelhqQ2JuWWQzYnNBd0VLQ2RfczNaY3BOMjZZdm4zaUtKOFJTM2VRMjZNVHlnbjZWeHdPUGFrYjM3WkdzUg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "世界上最小的特斯拉",
-   "title_zh": "世界上最小的特斯拉！ - 手机网易网",
-   "sentiment": 0
-  },
-  {
-   "id": "8bdf83ed63b9",
-   "title": "【图】被灰色小猫难住！特斯拉Robotaxi不能通宵跑？运营时间延长至23点 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jeWNmX1djSy10X1d4NnJZcGdDdi1sNXR3cGNlZDZlUGxHc0NpMTc4REpXZjI4VHhWXzUybjh1d1RILVVqNTd6bUg0ZnYxT3EzdWZBQjFEM0o4UTlOc3RWTkpn",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T04:31:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T04:31:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jeWNmX1djSy10X1d4NnJZcGdDdi1sNXR3cGNlZDZlUGxHc0NpMTc4REpXZjI4VHhWXzUybjh1d1RILVVqNTd6bUg0ZnYxT3EzdWZBQjFEM0o4UTlOc3RWTkpn"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉Robotaxi运营时间延至23点",
-   "title_zh": "【图】被灰色小猫难住！特斯拉Robotaxi不能通宵跑？运营时间延长至23点 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "171ad88a46d0",
-   "title": "【图】特斯拉三季度全球交付48.6万辆 Model 3/Model Y优惠助阵10月销量 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oYzlHZlo4MG9VLVJyNDR4SzROWDVNU3JrTjl0WGxJOUhSWkphZVNfRmV4NGgzSzFOdEE1QlFpaTc4NnVkTEVDbDR5aGxNaFZBWVB4ellGUWFqbHYwMm5KZFFB",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T04:31:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T04:31:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oYzlHZlo4MG9VLVJyNDR4SzROWDVNU3JrTjl0WGxJOUhSWkphZVNfRmV4NGgzSzFOdEE1QlFpaTc4NnVkTEVDbDR5aGxNaFZBWVB4ellGUWFqbHYwMm5KZFFB"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉三季度全球交付48.6万辆",
-   "title_zh": "【图】特斯拉三季度全球交付48.6万辆 Model 3/Model Y优惠助阵10月销量 - 汽车之家",
-   "sentiment": 1
   }
  ]
 }
