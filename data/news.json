@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T17:07:30.729203+00:00",
+ "updated_at": "2026-10-09T17:22:34.387491+00:00",
  "market": {
-  "price": 383.33,
-  "change_pct": 2.22,
+  "price": 382.79,
+  "change_pct": 2.08,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.3%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（129条已评分）"
+     "note": "今日新闻情绪 +0.28（130条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $383.33 vs 20日均线 $368.69"
+     "note": "现价 $382.79 vs 20日均线 $368.66"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.3,
-   "ma20": 368.69,
-   "as_of": "2026-10-09T17:07:30.716824+00:00"
+   "implied_upside_pct": 4.5,
+   "ma20": 368.66,
+   "as_of": "2026-10-09T17:22:34.367373+00:00"
   },
-  "pe_ttm": 106.0,
+  "pe_ttm": 105.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.5%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 129
+   "count": 130
   }
  },
  "meta": {
@@ -67,6 +67,26 @@
   }
  },
  "stories": [
+  {
+   "id": "752cc5363aa1",
+   "title": "Delta CEO says there's no Elon Musk feud: 'I drive a Tesla' - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZy1JQmx2NDNBQ2lUcmFRMEJHMWFYRkwzWDdPSktDampDbG93eFlvZEpWaV9ybEMyZVlrc0VpS1MzN0tGcllaQ1RVY2pEaDQxQWJTZXJ2Q3JUTFF3NU5DeDNpU3dRSGI5eEVNMTUyejYwVVBpWk5BMFM5cHN0dGlCNC0xdGxlblZOYTRjMg",
+   "source": "Business Insider",
+   "published_at": "2026-10-09T17:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-09T17:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZy1JQmx2NDNBQ2lUcmFRMEJHMWFYRkwzWDdPSktDampDbG93eFlvZEpWaV9ybEMyZVlrc0VpS1MzN0tGcllaQ1RVY2pEaDQxQWJTZXJ2Q3JUTFF3NU5DeDNpU3dRSGI5eEVNMTUyejYwVVBpWk5BMFM5cHN0dGlCNC0xdGxlblZOYTRjMg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中",
+   "zh_summary": "达美CEO否认与马斯克有矛盾",
+   "title_zh": "达美CEO称与马斯克无矛盾：我开特斯拉",
+   "sentiment": 0
+  },
   {
    "id": "88bf695899b6",
    "title": "Blotter: Tesla driver arrested for DUI after passerby saw half-clothed woman getting out of car - Gillette News Record",
@@ -86,6 +106,26 @@
    "zh_summary": "特斯拉司机涉嫌酒驾被捕",
    "title_zh": "特斯拉司机涉嫌酒驾被捕，路人目击女子衣衫不整下车",
    "sentiment": 0
+  },
+  {
+   "id": "e211e226a8fb",
+   "title": "Midday Need to Know: Delta slides on earnings miss, Tesla gains on China sales & more (SPY:NYSEARCA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1djNFduTFZtS0ZzMndZaEtiVUlNOGozN3hqTThYNFFqYy1BOUQxcExzbS1tdmU5aW9rM0xMOWExX2VpWW0xbnliemNCZk50UDdEZTEzbkR3VXloaktnOHYxMW5yeHVfVHlMd3QzbGFUNjhxVUhDMWp5YTR1Wk9PdnRSOUt5VGtqeFVVaFRzakV1UFA3MnlKWk1oUjVzNGQtYzAtdU1Hbm5VUF9jRi1McGpkWWFJYmJ3b1Nv",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-09T16:58:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-09T16:58:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1djNFduTFZtS0ZzMndZaEtiVUlNOGozN3hqTThYNFFqYy1BOUQxcExzbS1tdmU5aW9rM0xMOWExX2VpWW0xbnliemNCZk50UDdEZTEzbkR3VXloaktnOHYxMW5yeHVfVHlMd3QzbGFUNjhxVUhDMWp5YTR1Wk9PdnRSOUt5VGtqeFVVaFRzakV1UFA3MnlKWk1oUjVzNGQtYzAtdU1Hbm5VUF9jRi1McGpkWWFJYmJ3b1Nv"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中",
+   "zh_summary": "特斯拉中国销量推动股价上涨",
+   "title_zh": "午盘速递：达美财报不及预期，特斯拉因中国销量上涨",
+   "sentiment": 1
   },
   {
    "id": "6c60b1f7012a",
@@ -493,6 +533,26 @@
    "zh_summary": "特斯拉中国产销量上升，欧洲复苏延续",
    "title_zh": "特斯拉中国制造电车销量上升，欧洲复苏延续",
    "sentiment": 1
+  },
+  {
+   "id": "87972486f87c",
+   "title": "刹车踏板是金属还是塑料？这张图里藏着安全底线|特斯拉|新能源车_新浪新闻 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VcnBRZUNZcDdwWGFBMFRfalQ4VVJCWjhHU0ZFUmJDODlPeXJkaklKNlRnYlBIN0w4cDN2MFRLdXZGQVRZZkJabjF0cXdqSk9kVXQyM21aNmZycTBUZkZDZHUtSQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-09T14:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-09T14:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VcnBRZUNZcDdwWGFBMFRfalQ4VVJCWjhHU0ZFUmJDODlPeXJkaklKNlRnYlBIN0w4cDN2MFRLdXZGQVRZZkJabjF0cXdqSk9kVXQyM21aNmZycTBUZkZDZHUtSQ"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中",
+   "zh_summary": "特斯拉刹车踏板材质引安全讨论",
+   "title_zh": "刹车踏板是金属还是塑料？这张图里藏着安全底线|特斯拉|新能源车_新浪新闻 - 手机新浪网",
+   "sentiment": 0
   },
   {
    "id": "fc6f3fc7b420",
@@ -4101,7 +4161,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEdyV3JiMGZNWmMtWXlERm4yWnRiM3dGUXgtS1R0M2ZGZ2ExRGJWaEtJS1d1XzU5bTE1WVljQVFTaE1wTnltTXBxQWFHWGdjdmpjNm5KUmpIV3owck9GYlVFaWN4N2JJOUlRN1VhZzh6ZzY2TF9IbVR5NFpFcU1ITmw3bWtFOEdWMTFzYWNYUkJRdnVjdFY4",
    "source": "BASENOR",
    "published_at": "2026-10-08T20:04:46+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "BASENOR",
@@ -4117,6 +4177,11 @@
      "name": "TechCrunch",
      "published_at": "2026-10-09T16:07:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnJEV3lEaHZrclRXcmRvamIzWE9TSktyUDI2bjJKdkJNamtYWkpqVE0yOVVhaDJjcThTd1FDc2VLY1NvQ3VaQVdSQllNM3pHOHJpQTZ5djI0X3JOQVhoNTloeG5KZ0Z2TlBpRVN2dTc1WnM3S1VaWllRcklRYlE5Y1lrNEtWZjNkX2RORDBCU2JjNWtUZ0tWczJ6VHJwNENtSjF0Qw"
+    },
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-09T17:14:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRGt0bWFBQVhHZUZRaEp2c19MXy1qS1dnMXgwdlBMdU1IWGhnTUt1U2FxM1k3T0lQMEM2cXZfWjlCM0xyeDIwSEU1WFpjSWJzZGMteXdDNVZtYTZYd3QxQzA1R2pVYllMSjMyWg"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6694,85 +6759,6 @@
    "session": "盘前",
    "zh_summary": "Model Y Performance是否值得买",
    "title_zh": "特斯拉Model Y Performance值得买吗？3.5秒破百+659km续航，36.9万到底值不值？+FAQ - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "226ac8386c0b",
-   "title": "忘掉特斯拉Cybercab吧！小鹏Robotaxi正式定名“小鹏悠游” - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QMXljMEk0Sy1VMkNxUkpmUjRzU1dEVXo0UTFYeGwxX20zMDhiMzc2a0RaR3dlQlBlQ253ZTVxQWxHYlEwWnVsZ0RxSkZFN2tqRWpraF9BWTRmMS1TVFY0aUtLZnF2SE93YnRCaEhYSlBEbmNQQjdRQVVKZF9TQQ",
-   "source": "新浪网",
-   "published_at": "2026-10-08T07:09:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T07:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QMXljMEk0Sy1VMkNxUkpmUjRzU1dEVXo0UTFYeGwxX20zMDhiMzc2a0RaR3dlQlBlQ253ZTVxQWxHYlEwWnVsZ0RxSkZFN2tqRWpraF9BWTRmMS1TVFY0aUtLZnF2SE93YnRCaEhYSlBEbmNQQjdRQVVKZF9TQQ"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T07:28:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sNkpQSmpQNFJFbXoxZUpJVU5BVkVrUlZkRGUzRUxYZXZzM0dmWXFJd01PSGF5NEJpV3VjTUJnYUFpcjR3NnVpZm1ma1E2UzY1UE1qcV82V2IzSlk"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "小鹏Robotaxi正式定名“小鹏悠游”",
-   "title_zh": "忘掉特斯拉Cybercab吧！小鹏Robotaxi正式定名“小鹏悠游” - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "a16187dc88d6",
-   "title": "公司是特斯拉的供应商吗？天汽模回应_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZR2NEakc3V3BKNkwwUU9uT3FkT1VwVVpDOGtYb0tsaWlFSllFUDkxYnR4T09GTlZmWG80ZTNmOXN2MlVGSHhFbHgwOA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-08T07:06:28+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-08T07:06:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZR2NEakc3V3BKNkwwUU9uT3FkT1VwVVpDOGtYb0tsaWlFSllFUDkxYnR4T09GTlZmWG80ZTNmOXN2MlVGSHhFbHgwOA"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T07:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDhRaG9SVkg3bW1ORGY5TEpBd2ZSZDhIVW01YVFBLXdjTTVLcnlQMFhPaWp0dmtfR3AxaHJMekRweTdnLXNLb1RvT1A4cTFMR3F2SWtGdkFUbjBPVU9EMzJIek1qSXd1TkY3SGhPVVJrQmZ3LWQyVnlNdzJTaVA4UUdmRVp5Nk5HZkdkUA"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T07:12:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSk5YQ0kxWC0xb3JOcDFrSnh6T09scnFvajN0aE5LZ3hWN3NhN0EzazYxSzZaOFR6VFFJU003RXhfdWpQdkJUakFHQjQ5eE45eG1hV0lHalNtREdJc0d1ZWVvdVdfWVhrdXFMMFFEbmcwVHg0VHNUcUZ6WnNoM2s1Tm1R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "天汽模回应是否特斯拉供应商",
-   "title_zh": "公司是特斯拉的供应商吗？天汽模回应_7x24快讯_新浪财经 - 手机新浪网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "65c44ffae1b2",
-   "title": "$TSLA：趋势依然 intact，但动能正引发质疑 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkU4TmVKNU0wanV5SzJvTDlfVUt5NzhhOEhUZHQzcTgyVk83TWtYR2tHWXVNZXF0aHBoNHAwZW5JZTZrMVpJODNTcmNlRXJ6dDA0SkdhaTZOQ04xMmFPM0ZVMndaNXAzQVpiemtnX1hYVXc5SkhJWk05NWg0bWV6X2s4NnFGWG05dGNFOWhZeDJacjJSZVJ0RWFwVUl6RDFkWk02amItUG5ZR2dCNU12M0xKdml3djA",
-   "source": "Moomoo",
-   "published_at": "2026-10-08T07:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-08T07:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkU4TmVKNU0wanV5SzJvTDlfVUt5NzhhOEhUZHQzcTgyVk83TWtYR2tHWXVNZXF0aHBoNHAwZW5JZTZrMVpJODNTcmNlRXJ6dDA0SkdhaTZOQ04xMmFPM0ZVMndaNXAzQVpiemtnX1hYVXc5SkhJWk05NWg0bWV6X2s4NnFGWG05dGNFOWhZeDJacjJSZVJ0RWFwVUl6RDFkWk02amItUG5ZR2dCNU12M0xKdml3djA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA趋势延续但动能受质疑",
-   "title_zh": "$TSLA：趋势依然 intact，但动能正引发质疑 - Moomoo",
    "sentiment": 0
   }
  ]
