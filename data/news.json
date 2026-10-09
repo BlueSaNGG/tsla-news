@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T15:37:27.920006+00:00",
+ "updated_at": "2026-10-09T15:52:39.178782+00:00",
  "market": {
-  "price": 380.58,
-  "change_pct": 1.49,
+  "price": 382.83,
+  "change_pct": 2.09,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -11,27 +11,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.1%"
+     "score": -1,
+     "note": "目标价中位数 $400（15家），隐含空间 +4.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（120条已评分）"
+     "note": "今日新闻情绪 +0.28（122条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.58 vs 20日均线 $368.55"
+     "note": "现价 $382.83 vs 20日均线 $368.67"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.1,
-   "ma20": 368.55,
-   "as_of": "2026-10-09T15:37:27.912030+00:00"
+   "implied_upside_pct": 4.5,
+   "ma20": 368.67,
+   "as_of": "2026-10-09T15:52:39.171731+00:00"
   },
-  "pe_ttm": 105.3,
+  "pe_ttm": 105.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.5%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 120
+   "count": 122
   }
  },
  "meta": {
@@ -113,7 +113,7 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE9ndU5mVGJtTkx0eC05dXhBb1FCcXU3QzM1b2hmb21HTUFLdTA2UmRjUDdGSnJLR0FaaUxCdndPOEdqT0Q3eTBDMjctWkhBVTI3b1VjYUtxWEZrMjFUNVFGZGdQM2s5bmdxUzRYWVBwQWltSS1fUW5JTzlweXplbEJnWFFxTVVHMWNEYUtwTHRuVlNXZWJ3aFE3aU9ISE4zWWxQUUYxc2R5OWRSLUx2MW52aHN2c1JlLUNhcTFKcmJpajFmN093bGJVNWM",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-09T14:55:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -124,13 +124,22 @@
      "name": "AOL.com",
      "published_at": "2026-10-09T14:55:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzNEdkdEdjYmhZYTI4dXA5VzRFbXJkWFBLdWRWbGhobVF3S3lzVmM3SFJDMmphUVBnMWlVREowSGJVdlN4cm9ENVJ6S1NwR19ES0oxREhQdDlXSVZVaUZQWm5EMmkxQUZ3QUZueEpXUktHSWU2MVphdlU2Nko"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T14:55:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3J6LWJ0VGVuQ3FNamlXSTMtSVpPUHdqc2FDWk1qNlpWSDk1aEJldmxfa0YzUGY2X2Vjd0RnaVU2UDEydno4U3RkUDRDbWpldkkzSnNRSXFuU3VReU5lcEZiYVQ2MmlLaTNIUW1EcWMwOGZjWnBBS0RzRllHWW9nYUxCX3pJU0VreGdsOG9nUVVEUW41d3pSRA"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
    "zh_summary": "特斯拉欧洲重命名FSD涨3%",
    "title_zh": "特斯拉涨3%：欧洲弃用FSD名称谋监管审批",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.1,
+    "window_h": 1.0
+   }
   },
   {
    "id": "8946c5ff89d4",
@@ -138,12 +147,17 @@
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSTZGRHJWemVONGFySTRkLU1rSkdQRVNNWS1RcjdzRHJRb3pKZjk1RWNrSEhPT2kyTFBFMGVUaWYxMUQxWEVWRmVMYmt6bUpLb1MyNE5McU9qM3RYVGpydnhHZEtfa2hkMU5xUWpVcGc1RzRKV052eVBDTVZwLU1fRGpZYklXc3RCdFJTR2ZTLVpiX2dYRWRqczlSaUEyMG5UM0hfSGM2clI4dHFsOXNISnJWcXBnU1IzYVVFRl9XSUpDak80ZGk5ZjdLRjF4TUxpWmJJa0pQRnlhc2R0WFQ5U0pvQXdQQ1Q0RlBuVk5iLUpsdDh3ZkJHVm9kTkhwRmlPY2Jma3A1US1FaHZhZUcyZDRhTDd2dw",
    "source": "Central Oregon Daily",
    "published_at": "2026-10-09T14:51:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Central Oregon Daily",
      "published_at": "2026-10-09T14:51:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSTZGRHJWemVONGFySTRkLU1rSkdQRVNNWS1RcjdzRHJRb3pKZjk1RWNrSEhPT2kyTFBFMGVUaWYxMUQxWEVWRmVMYmt6bUpLb1MyNE5McU9qM3RYVGpydnhHZEtfa2hkMU5xUWpVcGc1RzRKV052eVBDTVZwLU1fRGpZYklXc3RCdFJTR2ZTLVpiX2dYRWRqczlSaUEyMG5UM0hfSGM2clI4dHFsOXNISnJWcXBnU1IzYVVFRl9XSUpDak80ZGk5ZjdLRjF4TUxpWmJJa0pQRnlhc2R0WFQ5U0pvQXdQQ1Q0RlBuVk5iLUpsdDh3ZkJHVm9kTkhwRmlPY2Jma3A1US1FaHZhZUcyZDRhTDd2dw"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-09T15:02:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdGhBZm5Cakxpc1g1OWZGMG9wdGFyXzYyNXVkQ0hZOC1lZW9RcnYzblBjZ1Zhb3BJSXFjZEpGTWFYVHp2RW1SeDlFSVBXSXJxYjdkbWNRS3RPcVp0SjV1dkV3MV9nai10OEpZWkNiTWxnVGxhQXZjVkVlOTRBMWMxaVFIRk1sQXp6eDVYbEx3eWpBOHdkbVBJX3lYXzZXTHNkVjE0bHdsV0ZYczk2eGswcXpIdTE3TFB5dTQyMU05MDBGVGlUZHo5Wkx2SzQxSnZ0SHRGeDVaa0Mxbk1ZY2c2X3VveHVIbGlv"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1145,7 +1159,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlJFN0VXNGlFRHFoMWhfV2lOMXlIRUJqb3lUbGRrSGlOMVRvSkVubVRoSkhvc0pieVpSUGQxTnJCbkN1bWVRZmRPdU5WN1paWE1oQVdacWZIdjVIME4tUzIxelhqaDJxeTdhd1NWU3hHckFoYmRhYlB1THpYeE9ub1BUa3hfQjBFYnRIY2FadjZsdldZWUg4OVJITmluck9TMlVadFo1MGhBUXFJeXFudENQQQ",
    "source": "Bloomberg.com",
    "published_at": "2026-10-09T12:00:35+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -1156,13 +1170,22 @@
      "name": "Transport Topics",
      "published_at": "2026-10-09T13:27:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ORHVXdEIyZVByS2VMSVlpTkxna2V1b0hGY1lERkFYZUpNRUJSX0Q3Uk05ZTFDaFVvVXBQaTlidzk0eThqWm9kS1lVNWs2bEtoQVNOeFFjdE9jUFBjVlhHNnNub1J2ck4ybmtJ"
+    },
+    {
+     "name": "Claims Journal",
+     "published_at": "2026-10-09T15:14:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9md0VMd1BiSTE1REtaTnFWc1JsME9TUlNfZE0weU90emJaRk5JazZoLWNnVXpTZVJURmJMWFJnTDZXdmlYV0ttck5XaXhmMWZfSVQ0RXM2dlJ4TWtKNHJTSnJid3kwdDh0Vmlwc3BsdjFobWc"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "特斯拉放弃自动驾驶品牌以安抚欧洲监管",
    "title_zh": "特斯拉放弃“自动驾驶”品牌名称以安抚欧洲监管机构 - Bloomberg.com",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -1.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "655b060b0cb5",
