@@ -1,37 +1,37 @@
 {
- "updated_at": "2026-10-09T13:22:29.719124+00:00",
+ "updated_at": "2026-10-09T13:37:29.319271+00:00",
  "market": {
-  "price": 375.0,
-  "change_pct": -0.74,
-  "as_of": "2026-10-08",
+  "price": 385.11,
+  "change_pct": 2.7,
+  "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
    "days_left": 12
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 45% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +6.7%"
+     "score": -1,
+     "note": "目标价中位数 $400（15家），隐含空间 +3.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（78条已评分）"
+     "note": "今日新闻情绪 +0.25（81条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.00 vs 20日均线 $367.80"
+     "note": "现价 $385.11 vs 20日均线 $368.78"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 45,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 6.7,
-   "ma20": 367.8,
-   "as_of": "2026-10-09T13:22:29.708138+00:00"
+   "implied_upside_pct": 3.9,
+   "ma20": 368.78,
+   "as_of": "2026-10-09T13:37:29.311960+00:00"
   },
-  "pe_ttm": 103.7,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
+  "pe_ttm": 106.5,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.9%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.22,
-   "count": 78
+   "avg": 0.25,
+   "count": 81
   }
  },
  "meta": {
@@ -68,13 +68,86 @@
  },
  "stories": [
   {
-   "id": "9a020d302050",
-   "title": "Tesla is rebranding \"Full Self-Driving\" as \"Tesla Assisted Driving\" in Europe - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3lxaTg5UE9DV1RCWUIxWXdkV3lkM285ZnNSWXJLamNoc09JQlRpSnd4bDFBeTFoaWF4LW9FNkRLeXlNdGppeTVWSGJ6NVcyamh4UDRKb1B4VnhVY2RVeW9TcWV4anN3ZXc2RnEyVkZCV3lET3JSZE8zelNXR09hVlc4U0xkVkU",
-   "source": "Quartz",
-   "published_at": "2026-10-09T13:12:37+00:00",
+   "id": "a7586b90d83f",
+   "title": "多轮促销后，特斯拉9月交付量和国内销量创年内新高 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IWDJBd1dTOG5qdHZkTnZaVV9zREFnMzZiLW5kN05jLW5PQ0JrTkhIQ3pBQmU2cVBKY2RrbHZJeTRZMUpIR0lsM2pUdnhzajRXRzlYRUxhcGFZWWNZVXFfRzVrVERDWklIYzVtbVAxS2hGUQ",
+   "source": "新浪网",
+   "published_at": "2026-10-09T13:27:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-09T13:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IWDJBd1dTOG5qdHZkTnZaVV9zREFnMzZiLW5kN05jLW5PQ0JrTkhIQ3pBQmU2cVBKY2RrbHZJeTRZMUpIR0lsM2pUdnhzajRXRzlYRUxhcGFZWWNZVXFfRzVrVERDWklIYzVtbVAxS2hGUQ"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
+  },
+  {
+   "id": "d6e630f49e38",
+   "title": "How Much Is a First (and Only) Generation Tesla Roadster in 2026? - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tfNDJZNnRRSzFJV1Q3N2JRc1F3OEpNSjVNWDZVVkdTT0NTMzhqM29lbHh5NjJhaVZKblJXRUdzdGp1VjFsQ29OYnZRYVZSbTBzSExYNWdFQnVtOGNxUTlQVTlLRk5SeDRpWWhhWjBETmFLVXRCUnJTbWlHLUk5cTkzdGhWSURybVF5QllHX1hZUW04aEVyVVFGSWFWZXRYV2k2dDJwa0NaNHRrWFE",
+   "source": "autoevolution",
+   "published_at": "2026-10-09T13:23:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "autoevolution",
+     "published_at": "2026-10-09T13:23:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2tfNDJZNnRRSzFJV1Q3N2JRc1F3OEpNSjVNWDZVVkdTT0NTMzhqM29lbHh5NjJhaVZKblJXRUdzdGp1VjFsQ29OYnZRYVZSbTBzSExYNWdFQnVtOGNxUTlQVTlLRk5SeDRpWWhhWjBETmFLVXRCUnJTbWlHLUk5cTkzdGhWSURybVF5QllHX1hZUW04aEVyVVFGSWFWZXRYV2k2dDJwa0NaNHRrWFE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "b18332d7f59b",
+   "title": "$特斯拉 (TSLA.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LSnpFUDlaVjNpNTdGTG0yMmh5dXRQWV9lRDRUOW9FYU5GN0ttRHNySElmVG5OUkJPcVJLaDJSeWRvNkpYOW9Xc3htenJodV9qTlF6b2NObzBlVU9QRVlJbnI1WUZPNlp2Y2oxMU9DNTlyZy1XWlFQZnY5WmU",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T13:19:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T13:19:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LSnpFUDlaVjNpNTdGTG0yMmh5dXRQWV9lRDRUOW9FYU5GN0ttRHNySElmVG5OUkJPcVJLaDJSeWRvNkpYOW9Xc3htenJodV9qTlF6b2NObzBlVU9QRVlJbnI1WUZPNlp2Y2oxMU9DNTlyZy1XWlFQZnY5WmU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "6b8513b2d320",
+   "title": "AI sets Tesla stock price prediction 2030 - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wYW1QX25jYURlZnhnTWVRTGgzUEFiSjllQVNmelNPb0lwdDlMb2UtYmxUTUFURmFmdlV3LTNRREpySXlZOHo0MzZhZVAzTi1WQUJqeXBjdEc4bzFPM2VYcTF1dGU4X0t2T1paamJtVQ",
+   "source": "Finbold",
+   "published_at": "2026-10-09T13:15:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-09T13:15:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wYW1QX25jYURlZnhnTWVRTGgzUEFiSjllQVNmelNPb0lwdDlMb2UtYmxUTUFURmFmdlV3LTNRREpySXlZOHo0MzZhZVAzTi1WQUJqeXBjdEc4bzFPM2VYcTF1dGU4X0t2T1paamJtVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0cf550207309",
+   "title": "Tesla rebrands Full Self-Driving as Tesla Assisted Driving in Europe - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1M3YU14Wm9ZdXVVRnZ2aWlCanR5WEJWOFVvQS1DV2pRdHozbnZGcEUwekYwbXlyN24zZmk2Y1pGUE1iZk9aSDhmVnRjYVZuSDdiLVJrcHRWei16Qmxoa2JkTkRyVGh3UGxMLTc0ZFRhOGtCY3UwTS1oNUVsdlpzLURYMHBSMWFmTnRBSnlqbDhiX09fV25WUg",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T13:12:04+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T13:12:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1M3YU14Wm9ZdXVVRnZ2aWlCanR5WEJWOFVvQS1DV2pRdHozbnZGcEUwekYwbXlyN24zZmk2Y1pGUE1iZk9aSDhmVnRjYVZuSDdiLVJrcHRWei16Qmxoa2JkTkRyVGh3UGxMLTc0ZFRhOGtCY3UwTS1oNUVsdlpzLURYMHBSMWFmTnRBSnlqbDhiX09fV25WUg"
+    },
     {
      "name": "Quartz",
      "published_at": "2026-10-09T13:12:37+00:00",
@@ -83,8 +156,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "特斯拉在欧洲将“全自动驾驶”更名为“辅助驾驶”",
    "zh_summary": "特斯拉在欧洲FSD改名辅助驾驶",
+   "title_zh": "特斯拉在欧洲将“全自动驾驶”更名为“辅助驾驶”",
    "sentiment": 1
   },
   {
@@ -143,8 +216,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "特斯拉在欧洲弃用“自动驾驶”命名，改称“特斯拉辅助驾驶”，以争取监管批准 - 新浪财经",
    "zh_summary": "特斯拉欧洲FSD改名以争取监管批准",
+   "title_zh": "特斯拉在欧洲弃用“自动驾驶”命名，改称“特斯拉辅助驾驶”，以争取监管批准 - 新浪财经",
    "sentiment": 1
   },
   {
@@ -163,8 +236,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "特斯拉(TSLA.US)为欧洲审批“低头”：弃用“完全自动驾驶”，FSD改名“辅助驾驶”_全球市场_财经 - 证券之星",
    "zh_summary": "特斯拉为欧洲审批放弃FSD命名",
+   "title_zh": "特斯拉(TSLA.US)为欧洲审批“低头”：弃用“完全自动驾驶”，FSD改名“辅助驾驶”_全球市场_财经 - 证券之星",
    "sentiment": 1
   },
   {
@@ -380,7 +453,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉上海工厂9月交付环比增10.7%",
    "title_zh": "特斯拉上海超级工厂9月交付新车环比增长10.7% - Sohu",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "4502b7d35acf",
@@ -515,7 +592,11 @@
    "session": "盘前",
    "zh_summary": "SpaceX与特斯拉谁增长更快",
    "title_zh": "SpaceX与特斯拉之争：谁到2027年底增长更多",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "146e507fb985",
@@ -563,7 +644,7 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR3BoOWxFWi1CNGkzcG5sTFg1c2R5dU12RkVSRm9jMFpCR0lSOWFlQjdLX240bm9WRDNPU2NRMVp2M1JjazF0MERZNTZVdm5pVF9GWmM3OVhoUnJYVFFrRTkxbUUtTWwtVlZya1FMZ1cxU0MzNXBGYVRham1TVGlYcC1wN3BQM2d1YS1UR0g2Yk5pTW5JZGZ3TlhyNDI",
    "source": "Yahoo Finance",
    "published_at": "2026-10-09T11:10:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -579,13 +660,22 @@
      "name": "The Globe and Mail",
      "published_at": "2026-10-09T13:12:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWVseHN4cVZnaHRHMHREYnRBa2VaX1NRS0V0VWVwLU85eWVIdmhzXzVoZWlBaHkzbTdIdGVnYlBnS2tucjgtOFhwVnJOQklsVV9CSjg4c2YtM3V0VTZsYllxcmJfaGZSWHJ0UDRYMWxpMmdLNU11Q2ZxM0NEeERma3BTUmtYa0E1SDBUcnFEUVk3SGFOMkVkYTRmQ2JWcVZ4UEZ1anNkUVRxT2xyMkpUNGpUd0tLeURfWXVSUm9CbVdIUGhIelRUWjMyR3pTd0RoRXNZRjFQTTdOb3lpVU14QzhyamhkV2dk"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-09T11:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnlWQ1g0UGtzZDN6TGQ3bC12N1FDd1gweEFwZDhvNjAtTmhBc0R1bkZUS3lWa0FkQ20xV0dNS2FIMnRLRWVhYjBHUklMOG5zV2hPR1hUOUdjZEQwMnlXWXJybHNJUmNDQ1dxckk1YXBzbTk0R1JQWC1CZUZleU5nb2dzblJ5YlIwNk83UHBqRkItU1VMcVJxMTh0Mjh3RVAwR3RGSDdjZzY0UE9JdlZQQWJ6ekpkdy1EendNMTNxbnhhZjg"
     }
    ],
    "category": "车型产品",
    "session": "盘前",
    "zh_summary": "特斯拉IMC合作助力Semi增长",
    "title_zh": "特斯拉 IMC 协议能否加速 Semi 增长与零排放货运？",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "12a5fb3b220a",
@@ -816,7 +906,11 @@
    "breaking": true,
    "zh_summary": "特斯拉中国9月销量加速增长",
    "title_zh": "特斯拉中国产电动汽车9月销量加速",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "7664517e8298",
@@ -1011,7 +1105,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉欧洲FSD改名TAD辅助驾驶",
    "title_zh": "特斯拉在欧洲将FSD（完全自动驾驶）改名为TAD（特斯拉辅助驾驶） - 搜狐网",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "5b77bb1bc883",
@@ -1386,7 +1484,11 @@
    "session": "盘前",
    "zh_summary": "9月纯电动车保值率榜发布，特斯拉上榜",
    "title_zh": "9月纯电动车保值率（1年车龄）榜单发布：小米YU7、理想MEGA、蔚来ES8位居前三，特斯拉、问界、零跑等上榜",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b67cac285902",
@@ -1442,7 +1544,11 @@
    "breaking": true,
    "zh_summary": "特斯拉FSD欧洲改名TAD，欧盟审批再延期",
    "title_zh": "特斯拉FSD欧洲改名TAD辅助驾驶，欧盟审批再延期，入华时间仍未明确",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "a1cb92cc3048",
@@ -1862,7 +1968,11 @@
    "session": "盘后",
    "zh_summary": "SpaceX估值比TSLA高8000亿美元",
    "title_zh": "SpaceX估值比TSLA高约8000亿美元，销售额不到其四分之一",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "31d21b8f3075",
@@ -2154,12 +2264,12 @@
    "title": "9月集中反馈问题盘点：特斯拉降价惹来车主不满 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQThLb2Z1ZUxnYkZtc2RTY1JLb0sta3RyU0k0VjRBT2drOEUwNkM0SDRKS2VPSXBkUTVoaFJhZUhfeVlnaFk0dEhBT1p3bUpIMjBIcVlxa0Q4azQ",
    "source": "汽车之家",
-   "published_at": "2026-10-09T01:33:02+00:00",
+   "published_at": "2026-10-09T01:31:53+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-09T01:33:02+00:00",
+     "published_at": "2026-10-09T01:31:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQThLb2Z1ZUxnYkZtc2RTY1JLb0sta3RyU0k0VjRBT2drOEUwNkM0SDRKS2VPSXBkUTVoaFJhZUhfeVlnaFk0dEhBT1p3bUpIMjBIcVlxa0Q4azQ"
     }
    ],
@@ -2217,7 +2327,11 @@
    "session": "盘后",
    "zh_summary": "TSLA因Cybercab注册创新高隔夜上涨",
    "title_zh": "TSLA因Cybercab注册创新高隔夜上涨 分析师5大多头押注指向近50%涨幅",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "d7b3b66a81bb",
@@ -2892,7 +3006,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉跌1.4%市场要求Optimus给出证明",
    "title_zh": "特斯拉股价跌1.4%，因AI资本开支缺口要求Optimus拿出证明",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "5ec37128e29d",
@@ -4388,7 +4506,7 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ283UE1uWXdNSVZZYURFQnlWajB1ZHQtWDZfSXc2VEdCRHJkSE1kUG9vSVQ2QjJDU25MYmdFeU5GVGhZMGVGUGgtN1djaE4zOEZkOVpFLXRXOHJoVkc1b2xwT2FRcWhGdGVfakY1VDNqU2xndG5JUUJGVk0yUDNrdWxWMFNVb2ZWRTIxaldHZGRkNm1IYVRxeVNkRnpLckxCX1Vlenl4QjJJejg1YXA4aTVTNkFXTE1ZYm5oNQ",
    "source": "StreetInsider",
    "published_at": "2026-10-08T12:22:23+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "StreetInsider",
@@ -4414,6 +4532,11 @@
      "name": "Not a Tesla App",
      "published_at": "2026-10-08T17:23:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVG9lMUp2TVZJVS1KRTBhZXBpM2pPMng5WjJwVk90aEhBLUFiRS1jSzJldEluRE0waVktdHhNZDNMazR0N25CTlpaMG45d1lpOFhlVEdQaUpTSGdfakFlbkdfWFN3OUFmNDdlYnZGdEhYY2RHaFVLNTV2OXVWOFJhcGdNWTBkZXFfSTVGaGxwR0pGOW9GVTNiendMS3gyc0k"
+    },
+    {
+     "name": "Beinsure",
+     "published_at": "2026-10-09T13:36:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00ZHVHbFIyVi05bmEwTWVOXzk4TUhQSlZUMVM4TVRwNzNZajFQZngyYWdFRzYzMEY0M3JjRDh5WlhLd2djUGFGTHBIcm5Dc3I2bmMzQ2FSMkxkVzF0eWM2M2NBdjNpMTJJUGd3NThpVlVmQ29YaDNSSXlMdXExQQ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -5228,6 +5351,23 @@
    "zh_summary": "Cybercab亮相巴黎车展",
    "title_zh": "特斯拉Cybercab亮相巴黎车展：一场关于“未来出行”的静态宣言 - 爱咖号",
    "sentiment": 1
+  },
+  {
+   "id": "99b1c245c184",
+   "title": "新款特斯拉Model 3上市售价23.55万-33.95万元，注重实用体验的用户会喜欢吗？ - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xZGNhV21WMlJFWF9Td3ljSGFPeE1ERnV0b29mWHZNQnl3a0FyWVk2bTktUHNPdERDaWRJeERWTWkyb09CZ052OEJURlNvQXZBcGxUYUVWSVVrMzg",
+   "source": "网通社",
+   "published_at": "2026-10-08T08:29:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-08T08:29:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xZGNhV21WMlJFWF9Td3ljSGFPeE1ERnV0b29mWHZNQnl3a0FyWVk2bTktUHNPdERDaWRJeERWTWkyb09CZ052OEJURlNvQXZBcGxUYUVWSVVrMzg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "3fe0b8a2fb34",
@@ -6542,106 +6682,6 @@
     "pct": 0.42,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "92440fe96bfc",
-   "title": "网友爆料小仙女充电后扔枪，建议特斯拉未归位持续计费 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWM5bk9LT2IxRFdram1zZWJmVE9LeFRGaXFqRUJvOTNnN3hhallhVTE2VWhFNFV1azVkb3FLMlpzQVVJS1RpaThoYTZ0T1ZKUDllblBfbUFyRk5LMHZCai0wb1Bwci1qNkkwOXBLbl9UNzI5UUdJLXdkX3FlV2JvWkRfQklzcllOU1A4R25nUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-08T01:07:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T01:07:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWM5bk9LT2IxRFdram1zZWJmVE9LeFRGaXFqRUJvOTNnN3hhallhVTE2VWhFNFV1azVkb3FLMlpzQVVJS1RpaThoYTZ0T1ZKUDllblBfbUFyRk5LMHZCai0wb1Bwci1qNkkwOXBLbl9UNzI5UUdJLXdkX3FlV2JvWkRfQklzcllOU1A4R25nUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "建议特斯拉占用充电桩收费",
-   "title_zh": "网友爆料小仙女充电后扔枪，建议特斯拉未归位持续计费",
-   "sentiment": 0
-  },
-  {
-   "id": "79263f788cf6",
-   "title": "TSMC May Partially Sublease Terafab AI Chip Complex Run by Tesla, SpaceX - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamZlbU1KTWpTN2lZS3hCR19qMXo3cVNyempuNWZqZERGWWdwdFphMFA0dGF0NmN5THRqNGZyd21NeVZKeURrTHJWQnc4UTlLU1YycmFXbER3aExqWDh4WmFJRHZqeXFUODg5dWNxdnF5VWlHR2NTRFFpcWZRSzRDX3VUaUR2TGR5b3IzSHJ0YlZrMVpoZ2J2OTh1azdyeW1zSkpieDkxa0t6Y2RmdHRfSTFPbzJMcGFuNU9RdU5LQmY1UQ",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-08T01:05:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-08T01:05:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamZlbU1KTWpTN2lZS3hCR19qMXo3cVNyempuNWZqZERGWWdwdFphMFA0dGF0NmN5THRqNGZyd21NeVZKeURrTHJWQnc4UTlLU1YycmFXbER3aExqWDh4WmFJRHZqeXFUODg5dWNxdnF5VWlHR2NTRFFpcWZRSzRDX3VUaUR2TGR5b3IzSHJ0YlZrMVpoZ2J2OTh1azdyeW1zSkpieDkxa0t6Y2RmdHRfSTFPbzJMcGFuNU9RdU5LQmY1UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "台积电或转租Terafab AI芯片厂",
-   "title_zh": "台积电或部分转租特斯拉运营的Terafab AI芯片综合体",
-   "sentiment": 0
-  },
-  {
-   "id": "0aa59410caf3",
-   "title": "更新：台积电或部分转租由特斯拉、SpaceX运营的Terafab人工智能芯片园区 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWVDVmprWkJ6YndyeGZmRERWZUNEUUdubHZ1SXZoUFNzYmoyamc4ZDNFTkxYLVAwSVlPNW9RX2phQnlyc1lEV0I4dTJPTDh0cG5HLWMzdExXS3lycXJXOUlnZ20tVUdaeGplVVBGWGEyMHlTWkZvVmlOWW1RLWI2MmhFSkRxZTVNTmY3c1BjS2hERmRncWl3Rk1GdVNNRE81UjdlOQ",
-   "source": "富途牛牛",
-   "published_at": "2026-10-08T01:04:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-08T01:04:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWVDVmprWkJ6YndyeGZmRERWZUNEUUdubHZ1SXZoUFNzYmoyamc4ZDNFTkxYLVAwSVlPNW9RX2phQnlyc1lEV0I4dTJPTDh0cG5HLWMzdExXS3lycXJXOUlnZ20tVUdaeGplVVBGWGEyMHlTWkZvVmlOWW1RLWI2MmhFSkRxZTVNTmY3c1BjS2hERmRncWl3Rk1GdVNNRE81UjdlOQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "台积电或转租Terafab芯片园区",
-   "title_zh": "更新：台积电或部分转租特斯拉、SpaceX运营的Terafab芯片园区",
-   "sentiment": 0
-  },
-  {
-   "id": "881aa73df438",
-   "title": "特斯拉Optimus前AI负责人创业研发工业机器人|ChatGPT|机器人赛道|强化学习|AI人才|离职 - 新浪新闻",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uZ21GTEZpaGl3VGw4TXltTWw1M05GUFpuUllwSmE4bTVkVWlvMWtOREVGMUFYTUh1Wk05eWphYkJKVGdxUkJ3V1ltZWE2MGtIQjRWVG9nUVpfQm8yZjdZVDRYWklSeE5PSkJVV1RIbUNRajlhQzYwWA",
-   "source": "新浪新闻",
-   "published_at": "2026-10-08T00:51:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪新闻",
-     "published_at": "2026-10-08T00:51:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uZ21GTEZpaGl3VGw4TXltTWw1M05GUFpuUllwSmE4bTVkVWlvMWtOREVGMUFYTUh1Wk05eWphYkJKVGdxUkJ3V1ltZWE2MGtIQjRWVG9nUVpfQm8yZjdZVDRYWklSeE5PSkJVV1RIbUNRajlhQzYwWA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Optimus前AI负责人离职创业",
-   "title_zh": "特斯拉Optimus前AI负责人离职创业研发工业机器人",
-   "sentiment": -1
-  },
-  {
-   "id": "c47467ff07f2",
-   "title": "降价9万卢比后，特斯拉在印度把奔驰超了 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSmZFcTlnaU52VHBJU0ZPcVVTV1BCZ2tuek4yZ2lsTEtvRUFBZ1N6X25hSkNCODNGY0VSSG5GazJ4MHZ3b1JkM2NnZk5iUUdUWGZyOTZ1WU5Db2ZWMVg4LTlNd0JjaFJzd19jTFpkOXd4OVVsSVpSLTNWUkw0djA",
-   "source": "新浪网",
-   "published_at": "2026-10-08T00:51:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T00:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSmZFcTlnaU52VHBJU0ZPcVVTV1BCZ2tuek4yZ2lsTEtvRUFBZ1N6X25hSkNCODNGY0VSSG5GazJ4MHZ3b1JkM2NnZk5iUUdUWGZyOTZ1WU5Db2ZWMVg4LTlNd0JjaFJzd19jTFpkOXd4OVVsSVpSLTNWUkw0djA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉降价9万卢比后印度销量超奔驰",
-   "title_zh": "降价9万卢比后，特斯拉在印度把奔驰超了 - 新浪网",
-   "sentiment": 1
   }
  ]
 }
