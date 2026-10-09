@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T16:22:33.497086+00:00",
+ "updated_at": "2026-10-09T16:37:58.448325+00:00",
  "market": {
-  "price": 383.66,
-  "change_pct": 2.31,
+  "price": 382.59,
+  "change_pct": 2.02,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 45% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.3%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（122条已评分）"
+     "note": "今日新闻情绪 +0.28（123条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $383.66 vs 20日均线 $368.71"
+     "note": "现价 $382.59 vs 20日均线 $368.66"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 45,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.3,
-   "ma20": 368.71,
-   "as_of": "2026-10-09T16:22:33.486094+00:00"
+   "implied_upside_pct": 4.6,
+   "ma20": 368.66,
+   "as_of": "2026-10-09T16:37:58.441561+00:00"
   },
-  "pe_ttm": 106.1,
+  "pe_ttm": 105.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.6%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 122
+   "count": 123
   }
  },
  "meta": {
@@ -68,15 +68,88 @@
  },
  "stories": [
   {
+   "id": "a0308fb01865",
+   "title": "Tesla Stocks Jump 3.2% as China Sales Extend 11-Month Rebound - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW5hOG96aFBSZXhmdUFnS19GWWdLUkVkUmkxcTNBMDRhNHVmajlrV0Nucnc5M2dZQmZDNHE5Sk5vVXl1TFROS29TTUdic2hKM3dHeE5NYmc1cnhFeGV6Rlhaam5helIyaTFtYW1mclVOX3c0N0IyeFF1cXVsRDRFV2RrMW1heXJmZXlUXzJfNVQyU2d6UGhlQjd1bWlhUQ",
+   "source": "GuruFocus",
+   "published_at": "2026-10-09T16:35:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-09T16:35:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW5hOG96aFBSZXhmdUFnS19GWWdLUkVkUmkxcTNBMDRhNHVmajlrV0Nucnc5M2dZQmZDNHE5Sk5vVXl1TFROS29TTUdic2hKM3dHeE5NYmc1cnhFeGV6Rlhaam5helIyaTFtYW1mclVOX3c0N0IyeFF1cXVsRDRFV2RrMW1heXJmZXlUXzJfNVQyU2d6UGhlQjd1bWlhUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "6c60b1f7012a",
+   "title": "Tesla wants to increase emissions near a Bay Area elementary school - SFGATE",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcU5aZzFDZEpKdUFpWTZSQjZHdGVNeGVRTDRmcnZnTXpxU19PbnpBcjQ4R0cyT0N2VmlqdVpHVGdpY2tkekJWdzl1VkR4WFdRbWxuWmR6Tm1Hb2l3ZVZzaV9jNV9ETllOdE05U0hQTXNrTXBZdHlaMUhHN3NlLWNoRA",
+   "source": "SFGATE",
+   "published_at": "2026-10-09T16:35:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SFGATE",
+     "published_at": "2026-10-09T16:35:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcU5aZzFDZEpKdUFpWTZSQjZHdGVNeGVRTDRmcnZnTXpxU19PbnpBcjQ4R0cyT0N2VmlqdVpHVGdpY2tkekJWdzl1VkR4WFdRbWxuWmR6Tm1Hb2l3ZVZzaV9jNV9ETllOdE05U0hQTXNrTXBZdHlaMUhHN3NlLWNoRA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "01843b8d4629",
+   "title": "紫牛热点︱上海高架上特斯拉“路怒”引发事故，一名司机被采取刑事强制措施！交警：随意变道极易诱发此类事故 - 紫牛新闻",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tcFV6RHV2dDJWZ3hWQnNhb2ROazdpYzBfdkNLb00wMFEtZGktLUVmTkFPaGZZbktBZDl5dWlaazhwRnZ1U3MxMzhZVm54QzBiRU9fTkx3a2tMdXNhMVdHUDc2RndGUVZl",
+   "source": "紫牛新闻",
+   "published_at": "2026-10-09T16:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "紫牛新闻",
+     "published_at": "2026-10-09T16:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tcFV6RHV2dDJWZ3hWQnNhb2ROazdpYzBfdkNLb00wMFEtZGktLUVmTkFPaGZZbktBZDl5dWlaazhwRnZ1U3MxMzhZVm54QzBiRU9fTkx3a2tMdXNhMVdHUDc2RndGUVZl"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "462c552a1e8f",
+   "title": "Tesla’s China-Made EV Sales Hit 2026 High In September – Yorkville Says TSLA Is One Of The Clearest Ways To Own ‘Physical AI’ In Public Markets - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGMtM1hxQ2xwbjZIMWs2dVlYY0NVNGhldHdWbzVGRHI2LUFHNkxzZE5qNFZjWTA2dV9YMXhWQ1hzUVVWZUFvREdaeFNsaVZQQkY3UlFrbFhBQXJGSlhkMndUOGllaG54bGNIRi1acEk4QnBWWC0zUF83SUppc3djMmlkaVNEV25YZUhmdllCa3FYTlJhVk9BYTliOW1CR1FkdGpYNjBDUkxWTDZJdHJ2bQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-09T16:09:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-09T16:09:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGMtM1hxQ2xwbjZIMWs2dVlYY0NVNGhldHdWbzVGRHI2LUFHNkxzZE5qNFZjWTA2dV9YMXhWQ1hzUVVWZUFvREdaeFNsaVZQQkY3UlFrbFhBQXJGSlhkMndUOGllaG54bGNIRi1acEk4QnBWWC0zUF83SUppc3djMmlkaVNEV25YZUhmdllCa3FYTlJhVk9BYTliOW1CR1FkdGpYNjBDUkxWTDZJdHJ2bQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
    "id": "0b41d37434c6",
    "title": "Tesla Urges Owners to Charge to 100% Ahead of Hurricane Isaias, Prepares Mobile Superchargers - driveteslacanada.ca",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUE02VTQyNm9uaF9rM3B2Mk5lMU9zTmcyTW9wYnNYN1EtTkVSNG0ybGwxV1kwRzl5eFlqVmJoWUVnbUFpRXR3SXQ1NUhwQ0NOaXVDNXFHNVVFczRrLWtMUlBCWTBWakpHWUlSZk5tMC1RN0JKQmFNN1hBOTZPZmswR1MyVQ",
    "source": "driveteslacanada.ca",
    "published_at": "2026-10-09T16:03:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "driveteslacanada.ca",
+     "published_at": "2026-10-09T16:03:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUE02VTQyNm9uaF9rM3B2Mk5lMU9zTmcyTW9wYnNYN1EtTkVSNG0ybGwxV1kwRzl5eFlqVmJoWUVnbUFpRXR3SXQ1NUhwQ0NOaXVDNXFHNVVFczRrLWtMUlBCWTBWakpHWUlSZk5tMC1RN0JKQmFNN1hBOTZPZmswR1MyVQ"
+    },
+    {
+     "name": "Drive Tesla Canada",
      "published_at": "2026-10-09T16:03:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUE02VTQyNm9uaF9rM3B2Mk5lMU9zTmcyTW9wYnNYN1EtTkVSNG0ybGwxV1kwRzl5eFlqVmJoWUVnbUFpRXR3SXQ1NUhwQ0NOaXVDNXFHNVVFczRrLWtMUlBCWTBWakpHWUlSZk5tMC1RN0JKQmFNN1hBOTZPZmswR1MyVQ"
     }
@@ -86,6 +159,23 @@
    "zh_summary": "特斯拉呼吁车主在飓风前充满电",
    "title_zh": "特斯拉敦促车主在飓风前充电至100%，准备移动超充",
    "sentiment": 0
+  },
+  {
+   "id": "6d02f6701e07",
+   "title": "Tesla China posts best month of 2026, extending growth streak - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDlsa2Z4NlVXWHZ2cU1acFRIQlFmdEhuWmpKRlNCdW0tUEJycHBaUlpuT181YkEtWE92aDNROXJMSEN6ZjFXcDRibDZ6d3p3NGpWcEZXMEtHUGZ2SXdWX0tIYVZUV1ljZ0xwQ2dlRjMzODhwU3htb2NKX0otajNFNG9R",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-09T15:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-09T15:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDlsa2Z4NlVXWHZ2cU1acFRIQlFmdEhuWmpKRlNCdW0tUEJycHBaUlpuT181YkEtWE92aDNROXJMSEN6ZjFXcDRibDZ6d3p3NGpWcEZXMEtHUGZ2SXdWX0tIYVZUV1ljZ0xwQ2dlRjMzODhwU3htb2NKX0otajNFNG9R"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "0c90f405206f",
@@ -769,7 +859,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ORTlNT3dGZ0l4Z3JqbkxtcU1mS2stWTJtUDRVcWJSWDJMUVpXXzBPSFpmbElMMzFESmRnWUNkcnFENm5qbGlxeFFJSXd2VF9TdTVtNTVBM2loYnlJdnc",
    "source": "上观新闻",
    "published_at": "2026-10-09T13:17:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "上观新闻",
@@ -780,13 +870,22 @@
      "name": "新浪网",
      "published_at": "2026-10-09T13:27:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IWDJBd1dTOG5qdHZkTnZaVV9zREFnMzZiLW5kN05jLW5PQ0JrTkhIQ3pBQmU2cVBKY2RrbHZJeTRZMUpIR0lsM2pUdnhzajRXRzlYRUxhcGFZWWNZVXFfRzVrVERDWklIYzVtbVAxS2hGUQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T13:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYLWppSWhEeEFYTXA1TG0tQ2dIR1VWQXo5anhjdXludUJoV3RkZUM4c3QzamIwYWJPdHp6ODJIY1lnaFZYT1BhS1YyREtSb0dUWFdXYjNpMmdUMWdMd20waFFFdWNfWGVkZktHazdHNDJ4c3RoUjljVA"
     }
    ],
    "category": "交付量",
    "session": "盘前",
    "zh_summary": "特斯拉9月交付量和国内销量创年内新高",
    "title_zh": "多轮促销后，特斯拉9月交付量和国内销量创年内新高 - 新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "6b8513b2d320",
@@ -1708,7 +1807,7 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTA1ekJpb3NWQV9LWklxbXpkNW1NVDloNmdEcEc3d3B3SGpmdTdVUkxyUndPZTVDenJraGVEbGNleUxTTFByUlI2YldMZ1NIRld1dHloZGhlMUpFNWNLazlTTWFpdnpLVTFqbjRvR2o0UDdaQTBWc2NoeFY2cHJBUXFyd0N3Qk9kRGt6MU5BYVZhRW85NXd6S0FsYlBHam1iaHlrNjJFSVJydFAwdDRrRzdzVXJoeEVHNFE",
    "source": "TradingView",
    "published_at": "2026-10-09T10:15:38+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "TradingView",
@@ -1734,6 +1833,11 @@
      "name": "Central Oregon Daily",
      "published_at": "2026-10-09T10:16:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM05XSWprVmNidndHTVlrbDNhZGNEUVg2bmxsOVhHbW1Mc0hqWlBBTkVsR2R1Zk03NTF3UGE4a25QdGtETEhlYWU4NEQxa0F5ekNUOW9vRzJCclE4cWNXOG95cE54b0FwQU11U3FVM0tEVG1aWFlZU2lHbXByeno3NlpNSTRNLV9GVXdfUjRJc2h0QU1LTG45Q2RzalpseXRVcFBOMTdZSlhnQkZ5QW9BbE43VmFXZ1lSV0RKUE9NRlo1QWZHdG5UdHE1N053eUhaVFpDaE5oZ3NhT2JkbnBJ"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "published_at": "2026-10-09T10:16:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSlhDRHZZVHJRZi12UTh2TnZjNHQtR19Cak9laEp1bS1MVnBlLU9BS2I2a09TN0luWmhYb2FJNHVtVl90MVVVYUNvaENLbHo5RUI4LThRYTI1dlhVOVlVOEY5WElpMEdlUjg4VmpEaExDYk5EY24yX3NMb0tTZVdTU09ETl9CM0EwQ2JkYXZ0amh4UEFuRFQ2MGQ0QWRXRHo3SGtIVklndkMtRTlwTGdsVlNrMm4tOVQ2Uk9kcEJmR0hsOVZMUlhEdUVja3VSdWdNczZkcUU3Q0FLcjIySjBtVg"
     }
    ],
    "category": "政策监管",
@@ -1773,12 +1877,17 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvUU9UQ1pKbjlIYkk3SGpmUU1iV3haUlNwRVBTRHlxV242bGJCbmJsLUtBZGZTQl9hc1RHdThzWC1HSGdVd3J1am9zZHVIRXRzT0ZPcllLMklCU2dUbVF5M1lyNA",
    "source": "东方财富",
    "published_at": "2026-10-09T10:10:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-10-09T10:10:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvUU9UQ1pKbjlIYkk3SGpmUU1iV3haUlNwRVBTRHlxV242bGJCbmJsLUtBZGZTQl9hc1RHdThzWC1HSGdVd3J1am9zZHVIRXRzT0ZPcllLMklCU2dUbVF5M1lyNA"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-09T12:41:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YUzVhZ1B4M2h5eGRqN0pybmoyWGpVTEQ0UDM3Wl96cGFuaGVCZWJqZ0dEOE1LaHMzYV9uQkdNUkYtczJaeDdORVNlbWQ"
     }
    ],
    "category": "交付量",
@@ -2592,6 +2701,23 @@
     "pct": -1.09,
     "window_h": 2.0
    }
+  },
+  {
+   "id": "4cefb712fe84",
+   "title": "TSLA Stock Recovers To Close Nearly 2% Higher As SpaceX IPO Debuts - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA",
+   "source": "Stocktwits",
+   "published_at": "2026-10-09T07:05:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-09T07:05:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdllKT3F6R3RYYjJIQ1JwejV3MlVzZnZ1OGt5THEtZTRhREtBV0VxNEUzVGVlMDkyRzBxdGd0QlFBRVVOb1BteWVvX1NFUjJEeC1uQnp5eWxtbG1VQkp5bWpmTzM4eTdKQlV0T0xZVm5YdGI5bHFfQWtDNVlGVXFrZ3VhcVVOM2R5QXg2TW5ERF9GWjBwbFNCTEtiOFBoSUZQQmRFMVIwRFJlRzJONl9iNUp1dHh6SmQybkZpWA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "29f7e351df8b",
@@ -6615,140 +6741,6 @@
    "session": "盘前",
    "zh_summary": "德国力推FSD获欧盟快速批准",
    "title_zh": "10月8日消息，德国联邦交通部正力推特斯拉FSD在欧盟范围内的快速批准… - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "f149eefdc7f0",
-   "title": "未能正确识别停车场出口 一乘客被困特斯拉Cybercab里14分钟 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZmtOem9TVDBISUJraUFrVV94U2lRb1NDeVJCWlJQWFZYZjlYOENsZnFxb2dZVlg2TjdvaFI5cm51RHBMbWZZRmc1bVRySnkyWnpTTURCejE",
-   "source": "驱动之家",
-   "published_at": "2026-10-08T06:51:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-08T06:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCZmtOem9TVDBISUJraUFrVV94U2lRb1NDeVJCWlJQWFZYZjlYOENsZnFxb2dZVlg2TjdvaFI5cm51RHBMbWZZRmc1bVRySnkyWnpTTURCejE"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-08T06:51:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45Tl9zM0lJcUhBbmhCcVNyZGdvNU5ldGNUWDBVZm9tRVZZd2I4SWl3d0tGNXo1WjF2RWJObndtczdOcmNZNFZWeWFPc09xbTNsZUZUOFJHUnlXTXB5MFFMbg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T06:51:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVY5cG5rd3pCSGExU2luNy11bDVCYXpTZUNUTnVKb3I5emFvZmNlSGUzZDJBSW0xb3dTbkhXT2RWRko2c1U1b3o3SkFhWWUteGNXOGktM1pCUGcwemN6RW9aRDJlSXA4SlBfbWl4TTM5SFAyaUhKUXpjZ3pMUWVBTElnZGM0RlB1"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "乘客被困Cybercab达14分钟",
-   "title_zh": "未能正确识别停车场出口一乘客被困特斯拉Cybercab里14分钟_热点推荐 - 证券之星",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "04e0c9131911",
-   "title": "特斯拉FSD进欧盟这事你怎么看？德国要求改名TAD、超速上限10%背后的门道 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JOGE1aU5pS0t6ZmVpajZ5YU9PVzlEVG92b3BsOFRTU0xwUjlmR2Zldy1MM2hUVHltVkFtRm5HTzRaX1BwRzVlNmpjc1JfNGxabGJMNXljOUFzb28",
-   "source": "网通社",
-   "published_at": "2026-10-08T06:38:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-08T06:38:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JOGE1aU5pS0t6ZmVpajZ5YU9PVzlEVG92b3BsOFRTU0xwUjlmR2Zldy1MM2hUVHltVkFtRm5HTzRaX1BwRzVlNmpjc1JfNGxabGJMNXljOUFzb28"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德国推FSD欧盟审批，拟允超速10%",
-   "title_zh": "德国要求FSD改名TAD、拟允超速10%",
-   "sentiment": 1
-  },
-  {
-   "id": "e49a2ab7ce5b",
-   "title": "德国联邦交通部力推特斯拉FSD欧盟审批 拟允许超速10% - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6bmh5YnJPNS0tb2NGMGZhTGROMUZWNXBTX0hjUmRZUkFjMFdTUHljRl9jUWx6QWRwV3VTT19Hdlpvb2YtYXN0ekxEbFVRaEprYzRDZjVXRDVjUHlqaTRVekt3",
-   "source": "观点网",
-   "published_at": "2026-10-08T06:37:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-08T06:37:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6bmh5YnJPNS0tb2NGMGZhTGROMUZWNXBTX0hjUmRZUkFjMFdTUHljRl9jUWx6QWRwV3VTT19Hdlpvb2YtYXN0ekxEbFVRaEprYzRDZjVXRDVjUHlqaTRVekt3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德交通部力推FSD欧盟审批",
-   "title_zh": "德国联邦交通部力推特斯拉FSD欧盟审批",
-   "sentiment": 1
-  },
-  {
-   "id": "f8f477cb98e4",
-   "title": "特斯拉Cybertruck降价后依然销量惨淡：Q3交付约八千辆 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUJMRFU2MFdvVDBuNkFaUVh0bmswNkxNTmE5bjJUWk5VdV95SGVrRmtuLUpoREhrNVg5bXJ5bVJDak1hTDl0ZDdDRzVFU2hpUW5QbHVOSE1POXNaMl9xWDcxZkZVWVRHU210bkNtSVI5ajBLX3FiSXA5U0dtQnNPTlo0bUxHSnNj",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T06:29:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T06:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUJMRFU2MFdvVDBuNkFaUVh0bmswNkxNTmE5bjJUWk5VdV95SGVrRmtuLUpoREhrNVg5bXJ5bVJDak1hTDl0ZDdDRzVFU2hpUW5QbHVOSE1POXNaMl9xWDcxZkZVWVRHU210bkNtSVI5ajBLX3FiSXA5U0dtQnNPTlo0bUxHSnNj"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "Cybertruck Q3仅交付约八千辆",
-   "title_zh": "特斯拉Cybertruck降价后依然销量惨淡：Q3交付约八千辆 - 搜狐网",
-   "sentiment": -1
-  },
-  {
-   "id": "291a2cd60ef5",
-   "title": "特斯拉无人驾驶出租车竟被灰色小猫给难住了- Tesla 特斯拉 - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83emxtTGRXT2wzZVVpQ2xHa0VvUGdxb1plenZJeTFDNEVEUGI5ek1XRWQ3TnFsR1R0VWdRWFA0VVJ6ZTFnNTNQR2xkZUg3cGtNQVR2Q3dCLUhuRzhuRFI1Zw",
-   "source": "cnBeta.COM",
-   "published_at": "2026-10-08T06:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-08T06:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83emxtTGRXT2wzZVVpQ2xHa0VvUGdxb1plenZJeTFDNEVEUGI5ek1XRWQ3TnFsR1R0VWdRWFA0VVJ6ZTFnNTNQR2xkZUg3cGtNQVR2Q3dCLUhuRzhuRFI1Zw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉无人车被灰色小猫难住",
-   "title_zh": "特斯拉无人驾驶出租车竟被灰色小猫难住",
-   "sentiment": -1
-  },
-  {
-   "id": "db783120d907",
-   "title": "新款特斯拉Model 3上市 23.55万起四款配置 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03dUZDVHltbnRZNXBINGRYZDJLRWpZd2lqc3kxRW1KcS0tSk5TTUl5RjctU2RKcTZBZTViY1d5SElFaUxmRHM0Y2pzNk14NDhVZjJ4N19TQlZDaWs",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T06:18:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T06:18:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03dUZDVHltbnRZNXBINGRYZDJLRWpZd2lqc3kxRW1KcS0tSk5TTUl5RjctU2RKcTZBZTViY1d5SElFaUxmRHM0Y2pzNk14NDhVZjJ4N19TQlZDaWs"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "新款特斯拉Model 3上市23.55万起",
-   "title_zh": "新款特斯拉Model 3上市 23.55万起四款配置 - 汽车之家",
    "sentiment": 1
   }
  ]
