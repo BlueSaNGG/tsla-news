@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T19:07:33.085820+00:00",
+ "updated_at": "2026-10-09T19:22:26.254591+00:00",
  "market": {
-  "price": 384.05,
-  "change_pct": 2.41,
+  "price": 384.15,
+  "change_pct": 2.44,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.2%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（149条已评分）"
+     "note": "今日新闻情绪 +0.25（150条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $384.05 vs 20日均线 $368.73"
+     "note": "现价 $384.15 vs 20日均线 $368.73"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 45,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.2,
+   "implied_upside_pct": 4.1,
    "ma20": 368.73,
-   "as_of": "2026-10-09T19:07:33.065951+00:00"
+   "as_of": "2026-10-09T19:22:26.231398+00:00"
   },
   "pe_ttm": 106.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 149
+   "avg": 0.25,
+   "count": 150
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f86757b67091",
+   "title": "Tesla’s Halloween Mode Does Not Support Intel Vehicles - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3FnSnpqczdIcWV6cHBhME5SWVFmSDJUbjJLUTZrOFNkSmlUeFIxV3RxUm83dzlRY1hzWEwzd09kRFBCTk9OSUZWVUhXMDNxM0pvXzJqRE1sWl9CZUdEdlJYRUpmMVNrRDhoSkIybS1McmpSX0J2UnRoWUw3UTM0TTdrZw",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-09T19:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-09T19:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3FnSnpqczdIcWV6cHBhME5SWVFmSDJUbjJLUTZrOFNkSmlUeFIxV3RxUm83dzlRY1hzWEwzd09kRFBCTk9OSUZWVUhXMDNxM0pvXzJqRE1sWl9CZUdEdlJYRUpmMVNrRDhoSkIybS1McmpSX0J2UnRoWUw3UTM0TTdrZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "bd43a474749f",
+   "title": "Tesla Wall Connector for Business: 6 Details That Matter - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTU4UVhraGlEZE02QVR4YnQyRDBsVU9BODBrTXktamtnVVhlZkFSS0dnNENKb1pKeWlUTmwxUE9UZHZiWkJodWNWR0pLMDZtWUM0bFFnb0ZjMmQzNzZnSzJSa0lBQ2dhbFFYTTdXMzdyVjQxV2trbmQ2RURuUU9haWZ1dWNaUjRmTlUtNjUycVVYN19I",
+   "source": "BASENOR",
+   "published_at": "2026-10-09T19:03:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-09T19:03:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeTU4UVhraGlEZE02QVR4YnQyRDBsVU9BODBrTXktamtnVVhlZkFSS0dnNENKb1pKeWlUTmwxUE9UZHZiWkJodWNWR0pLMDZtWUM0bFFnb0ZjMmQzNzZnSzJSa0lBQ2dhbFFYTTdXMzdyVjQxV2trbmQ2RURuUU9haWZ1dWNaUjRmTlUtNjUycVVYN19I"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "d91d352beaf8",
    "title": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58% - Yahoo Finance",
@@ -111,6 +145,23 @@
    "zh_summary": "特斯拉海外复苏势头增强",
    "title_zh": "特斯拉海外复苏势头正在增强",
    "sentiment": 1
+  },
+  {
+   "id": "6368d69a8652",
+   "title": "特斯拉要求在欧洲获得FSD批准，荷兰监管机构表示将提供一些灵活性 - VOI.ID",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JT3hOZnlqQWR2cTF2Qm9uc3V1bzdxby1YeGJ0WmozNjdQUkRVRWY2ZkI1R1IycFNoMlk0ckI4S3UxQ3E40gFCQVVfeXFMTWNkSllodHhuaVIwbnVnTVYyRlhzM3VlNHppbV9hVVBtdXNOWFJMZFh3YlFXQThDWWNwY25wQ01EM2dR",
+   "source": "VOI.ID",
+   "published_at": "2026-10-09T18:07:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VOI.ID",
+     "published_at": "2026-10-09T18:07:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JT3hOZnlqQWR2cTF2Qm9uc3V1bzdxby1YeGJ0WmozNjdQUkRVRWY2ZkI1R1IycFNoMlk0ckI4S3UxQ3E40gFCQVVfeXFMTWNkSllodHhuaVIwbnVnTVYyRlhzM3VlNHppbV9hVVBtdXNOWFJMZFh3YlFXQThDWWNwY25wQ01EM2dR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f63ed0d3a627",
@@ -882,6 +933,23 @@
    "zh_summary": "马斯克再成万亿富豪，特斯拉股价反弹",
    "title_zh": "马斯克随SpaceX和特斯拉股价反弹再成万亿富豪",
    "sentiment": 1
+  },
+  {
+   "id": "1113fa356ca6",
+   "title": "Pilot and Tesla Launch First Megacharger Site in the US - Fuel Cells Works",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHM4czZNcjJhcW5QeVdyd2hyTlEySVZTaW9WQlNLT01OS1VVNEVGN3FaSUEtRkE5WGFaSmtsUGNYRG5vR0M1dVItYUVJUHUzSm1oenhRTGJNRVFUT0FYQUl0WjVMUnF6aE5ncHhaUG9JZFlhVUMwVmpoenJMR0pGSVIzOXJyVVA1dlZwVjY3MDFyTURJSkFPSkxYbThpeG1hUnd6U2VmWFdZUEo2N3laTjVoQThUNDhzbHVoOVI1N1h3dS1DaWtxZVNydU40MEdacXRKb2t3",
+   "source": "Fuel Cells Works",
+   "published_at": "2026-10-09T14:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fuel Cells Works",
+     "published_at": "2026-10-09T14:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHM4czZNcjJhcW5QeVdyd2hyTlEySVZTaW9WQlNLT01OS1VVNEVGN3FaSUEtRkE5WGFaSmtsUGNYRG5vR0M1dVItYUVJUHUzSm1oenhRTGJNRVFUT0FYQUl0WjVMUnF6aE5ncHhaUG9JZFlhVUMwVmpoenJMR0pGSVIzOXJyVVA1dlZwVjY3MDFyTURJSkFPSkxYbThpeG1hUnd6U2VmWFdZUEo2N3laTjVoQThUNDhzbHVoOVI1N1h3dS1DaWtxZVNydU40MEdacXRKb2t3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f03c261456b2",
@@ -6680,105 +6748,6 @@
    "zh_summary": "斯洛伐克将在数日内批准特斯拉FSD",
    "title_zh": "斯洛伐克将在数日内批准特斯拉FSD系统",
    "sentiment": 1
-  },
-  {
-   "id": "91369dde00a4",
-   "title": "特斯拉Cybercab将于巴黎车展欧洲首次公开展示 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGdPekFTTUtDRGI4RWtXV2VFYzBWZjRCR056dVR1ejBNX2ZnX1JhZmJNdkI0NHh0RVM2MjhCYzlMY1BlbGhUTnZwSUNKSVdQSTFmRmRSd2dEMGxuWXJ0WUM0a0J2NjhaZzhNdXM3UEpFb005b3phTHF0RTZWNjJkTm9MRXBfME5F",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T10:39:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T10:39:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGdPekFTTUtDRGI4RWtXV2VFYzBWZjRCR056dVR1ejBNX2ZnX1JhZmJNdkI0NHh0RVM2MjhCYzlMY1BlbGhUTnZwSUNKSVdQSTFmRmRSd2dEMGxuWXJ0WUM0a0J2NjhaZzhNdXM3UEpFb005b3phTHF0RTZWNjJkTm9MRXBfME5F"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab将巴黎车展欧洲首展",
-   "title_zh": "特斯拉Cybercab将于巴黎车展欧洲首次公开展示",
-   "sentiment": 1
-  },
-  {
-   "id": "400e5c7e49db",
-   "title": "斯洛伐克将在数日内批准特斯拉FSD自动驾驶系统 提供者 Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45SmZzYm9zWXMzRFZhdXJwc09iRC15X0Mxc2N6SkxpSDhjQWg0X1hBZTkxLWR2RElaQlc2ZzBRdElWbFZQU2dVS2I3UW5IaUZkMVFXaVNnUzVCZXE4a3J2TkFjWmtpRWJUazRmY0tDX1BNcUlIcXJZ",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-08T10:39:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-08T10:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45SmZzYm9zWXMzRFZhdXJwc09iRC15X0Mxc2N6SkxpSDhjQWg0X1hBZTkxLWR2RElaQlc2ZzBRdElWbFZQU2dVS2I3UW5IaUZkMVFXaVNnUzVCZXE4a3J2TkFjWmtpRWJUazRmY0tDX1BNcUlIcXJZ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "斯洛伐克数日内批准特斯拉FSD自动驾驶",
-   "title_zh": "斯洛伐克将在数日内批准特斯拉FSD自动驾驶系统 提供者 Investing.com - 英为财情 Investing.com",
-   "sentiment": 1
-  },
-  {
-   "id": "cb46e5279caf",
-   "title": "别笑内饰像毛坯房！78.4度电跑830公里，特斯拉三电真有点东西 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HcXZrNGd4S3FJamFNY0pKcWxrZ1ZJZG00SEpyX1ZMaDJiQU93Q3d1WDh0eG1oMl9OellVYmdkV29hYm5YdUJkVXFlUEd3WWlUZlJzUm5LenhDUVZkTHpyUWdpRjBfajFRNklxYkVQTExJRmhleEViN1pId2lDQzg",
-   "source": "新浪网",
-   "published_at": "2026-10-08T10:36:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T10:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HcXZrNGd4S3FJamFNY0pKcWxrZ1ZJZG00SEpyX1ZMaDJiQU93Q3d1WDh0eG1oMl9OellVYmdkV29hYm5YdUJkVXFlUEd3WWlUZlJzUm5LenhDUVZkTHpyUWdpRjBfajFRNklxYkVQTExJRmhleEViN1pId2lDQzg"
-    },
-    {
-     "name": "新浪汽车",
-     "published_at": "2026-10-08T11:06:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JZVBIS2xuUWhSRWt1UnI4aDZSa1ZMcGxCV3pPOUxUUUNXTDhBbUJBZG5LWVc3Zloyd1RsTkZqSjlRNWNVMHhudHl3NHA5d1JBaTE0ZUFxQXlQQUwyNEZhSlVOdnJiVTNSelVKTkM0LWkwZUl6"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "78.4度电续航830公里，特斯拉三电获赞",
-   "title_zh": "别笑内饰像毛坯房！78.4度电跑830公里，特斯拉三电真有点东西 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "b82eb844c030",
-   "title": "Slovakia to approve Tesla's self-driving tech - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlpmVi00akE5aVI2ODdicVlaRF9XTjdfcV9PNzAxODZFQS1CQ0lDTDFiVVNNcWpZN3FnaGx6OGNfdFlzX3ZmU1ZqNDVLbTdvemJ2RjFpQ0xYYTRwbVQyTDVqc0xMQnNCR0FWVENBSFktM2ZSOWNyUWlUdE1kR1M1TWhqVjExRXFreU1oYkFmdnNQb0t1MW82ZnplT3lTYkhDRnJYVFVCdDQwdnZiZjAyRVdkUEFmdw",
-   "source": "TradingView",
-   "published_at": "2026-10-08T10:35:27+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-08T10:35:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlpmVi00akE5aVI2ODdicVlaRF9XTjdfcV9PNzAxODZFQS1CQ0lDTDFiVVNNcWpZN3FnaGx6OGNfdFlzX3ZmU1ZqNDVLbTdvemJ2RjFpQ0xYYTRwbVQyTDVqc0xMQnNCR0FWVENBSFktM2ZSOWNyUWlUdE1kR1M1TWhqVjExRXFreU1oYkFmdnNQb0t1MW82ZnplT3lTYkhDRnJYVFVCdDQwdnZiZjAyRVdkUEFmdw"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-08T10:37:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDlLVUhMaWcwdk1wSFQtMGc2eE9SVHNLZE9teUZWTEVHWE9sNjU4bnprQUJzMHEzLUJmZUU1U3ZVdXV4Y2lKbjJqVEFJMXFzNzVSWU1KQ21NWDM4bWFoLTA0MmZ1dXdqTnhDSzZkNXd5S1d0QUpEWWZvRDJ5VFlCS252OEtzY2xIUnNITVN2cw"
-    },
-    {
-     "name": "www.marketscreener.com",
-     "published_at": "2026-10-08T12:26:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFZYdzhCd0NwUU4wajRXdWtLTVo0T0xzVEJXZk8taEdWVnk2OGhjSGRsbzQwTkJzMUJSVFJhUkZKS05WaHJhUTAtWFRPWFo3R0UzSF9kdndLcFdlMEdOM3JCQ3E3a2lWWGlURE9qZGlsYk5OUkVmNnNqdEVLSjhCNWgyYnFmQy1OWkZBbFplUmZfZ3hsRnVqeFptUnhXa19iN3dhazhrYzNQS00"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "斯洛伐克将批准特斯拉自动驾驶技术",
-   "title_zh": "斯洛伐克将批准特斯拉自动驾驶技术",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
   }
  ]
 }
