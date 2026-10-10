@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T05:22:25.990722+00:00",
+ "updated_at": "2026-10-10T05:37:28.644762+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.23（205条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T05:22:25.977050+00:00"
+   "as_of": "2026-10-10T05:37:28.632749+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 205
+   "avg": -0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "443730e4d422",
+   "title": "【视频】沃尔沃XC70保留实体按键，盲操作安全不学特斯拉？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUC1TZnMtRmdFQ29JTjhZaFdrdHNFU05iTGFRTU5PdXJTOHhmcTg4aEt3UGtYeURFVG9PQ2FpQXcyQ0RldFVqRnhuSnJ4MF85SUZLTl9waUY4dTg",
+   "source": "汽车之家",
+   "published_at": "2026-10-10T05:23:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T05:23:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUC1TZnMtRmdFQ29JTjhZaFdrdHNFU05iTGFRTU5PdXJTOHhmcTg4aEt3UGtYeURFVG9PQ2FpQXcyQ0RldFVqRnhuSnJ4MF85SUZLTl9waUY4dTg"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "523ebf5d97b3",
+   "title": "巴黎车展官方公开体验特斯拉小鹏 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiZVlFczhhdksza0FuOVFkR0xnbVhHTzlOOFRtaE9sUWtGd2JJd0x1UVRkZ05STjFQT0U4WnZETm1JY19Celhucmw1aExrUEozZXIwdFR4S3o5alZuMF9GUGsyS0otOG9vV0tR",
+   "source": "汽车之家",
+   "published_at": "2026-10-10T05:23:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T05:23:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiZVlFczhhdksza0FuOVFkR0xnbVhHTzlOOFRtaE9sUWtGd2JJd0x1UVRkZ05STjFQT0U4WnZETm1JY19Celhucmw1aExrUEozZXIwdFR4S3o5alZuMF9GUGsyS0otOG9vV0tR"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "12272879c60e",
    "title": "马斯克印度合作关系破裂：星链、特斯拉项目陷入停滞|埃隆·马斯克|SpaceX|电信|特朗普|卫星 - 新浪财经",
@@ -248,13 +282,18 @@
    "sentiment": -1
   },
   {
-   "id": "7c834372244f",
-   "title": "特斯拉9月国内销量64837台环比增长29.5% 上海工厂交付95336台_热点推荐 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZk84SXVyQ1NVdWlwSmxyM1FvUVhuSERnNGJEbUdxejlxcE1GZUZiNmw5SEk1UXpPWFQ0R29QSmtlREUyb0k0OVE4QWg5RHhQSkt0UWh2WFJxSGNqNlR2dA",
-   "source": "证券之星",
-   "published_at": "2026-10-10T03:21:39+00:00",
-   "outlets_count": 2,
+   "id": "281658e4c97a",
+   "title": "特斯拉2026年9月国内销量64837台 上海工厂交付95336台 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1OHJSZ25WZnNGaTIxcUllUk5vNC03WUJBSElYaTVZWE1VLXl3VGtreTRuTXJmWHQ5aUpkMm5xNE1XcTh0MW9zamthWmhVOGd3UnhGSEVJVDJnXzg",
+   "source": "网通社",
+   "published_at": "2026-10-10T03:21:00+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-10T03:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1OHJSZ25WZnNGaTIxcUllUk5vNC03WUJBSElYaTVZWE1VLXl3VGtreTRuTXJmWHQ5aUpkMm5xNE1XcTh0MW9zamthWmhVOGd3UnhGSEVJVDJnXzg"
+    },
     {
      "name": "证券之星",
      "published_at": "2026-10-10T03:21:39+00:00",
@@ -2781,7 +2820,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbE5ROXVHRF9HU0ViemYtM05nNHJiV0NZc2tvdnpNQ1NReTBlQ1ZLU2J1VkJGSXZHMHo5c3gyZGhJTnEwM1lSdjhKcVVzSHpaczVBTUJpdElYZDlYSEc3RFJUYVV0M1A2eW85RUFTT3U3N2pzbXp4QmN6cWNyX3M",
    "source": "新浪网",
    "published_at": "2026-10-09T12:30:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪网",
@@ -2792,13 +2831,22 @@
      "name": "21财经",
      "published_at": "2026-10-09T12:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmVtdlp6S0ZfbndZV0JPLXdBSzFWWDV2aW0yRWZiOXpLWXVwaFdCLTdlRUFsRjVJVnFLY01FbVlYc293TUlwMTVnRllNT1hVVHliYUt4M25odUtNeVhQUjVVTjVTcTdjT3FPRC1WMTJ1bnE2Nmtjcnc1MWstbzBWbUJDdTU5NExiZTltTnU3Yw"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T12:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ29sRGRTRHhzWFp1RFRxMzJIbWR6cC1pVTd4eFJTNS1saU1wTWFEUldSU0ktMlVmaUhvU1BsTlROQTFDOFpZd1gxdWZNMXdTcVBxemxCejdDNldfRC1ub1piNlJpdHN6Rm9jaFllMzMxWlIxamRoYTJYNUxUU3Q3bnN0emtxdw"
     }
    ],
    "category": "交付量",
    "session": "盘前",
    "zh_summary": "特斯拉9月中国交付超9.5万辆创年内新高",
    "title_zh": "特斯拉上海超级工厂9月交付超9.5万辆，创今年新高 - 新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "175df0da9853",
@@ -6719,46 +6767,6 @@
    "session": "盘中",
    "zh_summary": "如何确认特斯拉是否支持Powershare备电",
    "title_zh": "如何确认你的特斯拉是否支持Powershare家庭备电",
-   "sentiment": 0
-  },
-  {
-   "id": "73c6e83e01f9",
-   "title": "特斯拉中国9月批发销量增长5%至95,366辆，创年内新高 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzVJcGtneVl5aDNKYlZWS0RsVnVaU1doa01JN0pZQjlLemdxM0NDUE5JdmxwT0lULXkwcmdsNVBWTXd4dHJrNldkd01vU1ZDZmZWT0dKMTBpNFBETk1jRUY5ZlAzWUdBRjhFY3I4MTRBZzhqbzZWVDR0SzVPR3ZjOGo1MVQ2d2FabHBlb0NNRUdMbGNTMVdNeUlYUQ",
-   "source": "富途牛牛",
-   "published_at": "2026-10-08T15:47:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-08T15:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzVJcGtneVl5aDNKYlZWS0RsVnVaU1doa01JN0pZQjlLemdxM0NDUE5JdmxwT0lULXkwcmdsNVBWTXd4dHJrNldkd01vU1ZDZmZWT0dKMTBpNFBETk1jRUY5ZlAzWUdBRjhFY3I4MTRBZzhqbzZWVDR0SzVPR3ZjOGo1MVQ2d2FabHBlb0NNRUdMbGNTMVdNeUlYUQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉中国9月批发销量增5%创年新高",
-   "title_zh": "特斯拉中国9月批发销量增长5%至95,366辆，创年内新高 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "04f83cc1f8af",
-   "title": "Tesla’s Halloween Update Turns Your Car Into a Haunted House - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzFlN3JfVC15NFhGQUJtSFBQNTU3bHlCa0MzQlAxYmhWVS1CUDdpRW1ZdFVIbld2b0NMYXJsSFpQU09mU1psSWpvV1lpaW5yVVQ5dVlZNEtrcWV4bHVjRWUwbDVtRDAzUnlmZ0Y5djY1d0tPeXkxcWZrQ2RFRnpqOFk1VzExekJHTEV5eXNiZHFCMjZtMmo3Tkh2SmpXWG9QcWc",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-08T15:46:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-08T15:46:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzFlN3JfVC15NFhGQUJtSFBQNTU3bHlCa0MzQlAxYmhWVS1CUDdpRW1ZdFVIbld2b0NMYXJsSFpQU09mU1psSWpvV1lpaW5yVVQ5dVlZNEtrcWV4bHVjRWUwbDVtRDAzUnlmZ0Y5djY1d0tPeXkxcWZrQ2RFRnpqOFk1VzExekJHTEV5eXNiZHFCMjZtMmo3Tkh2SmpXWG9QcWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉推万圣节主题软件更新",
-   "title_zh": "特斯拉万圣节更新将座驾变鬼屋",
    "sentiment": 0
   }
  ]
