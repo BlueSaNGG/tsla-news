@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T01:38:41.862359+00:00",
+ "updated_at": "2026-10-10T01:53:48.671745+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（182条已评分）"
+     "note": "今日新闻情绪 +0.23（185条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T01:38:41.855173+00:00"
+   "as_of": "2026-10-10T01:53:48.661701+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 182
+   "count": 185
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "75561f92399b",
+   "title": "汽车早报｜吉利汽车宣布进军加拿大市场 特斯拉在欧洲弃用“自动驾驶”命名 - Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lLW84ZGlSb2pFYTlMZENBRmlTOXA1a2xGV2ZwRXR3cU8wVUhQVDVfZU9qZUxpMjhwN3NKV3VGUnZoUWZTX0FZQ3VpRWU5Qld4aEJxTnY4Mkg",
+   "source": "Jiemian.com",
+   "published_at": "2026-10-10T01:42:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jiemian.com",
+     "published_at": "2026-10-10T01:42:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lLW84ZGlSb2pFYTlMZENBRmlTOXA1a2xGV2ZwRXR3cU8wVUhQVDVfZU9qZUxpMjhwN3NKV3VGUnZoUWZTX0FZQ3VpRWU5Qld4aEJxTnY4Mkg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "a035ee2c5991",
    "title": "特斯拉在欧洲更改驾驶辅助套件名称以推动欧盟审批_车市动态 - 中金在线",
@@ -769,12 +786,17 @@
   },
   {
    "id": "3b2e4877c39a",
-   "title": "特斯拉在欧洲弃用“Full Self-Driving”品牌名 改为辅助驾驶 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWFZQVAwRjd2SUdnZ0ZUWXdSUWlITU01bC1ndWpzYUJUMGdLajlSM0tGdmphb21CUWdsSkxrXy04d19fUTVGaFNoMnB5UjN1dGpTSTUyYW1Ea3ZidGdvNkt5WHRGbFVKZkFYRnhmS011am50U05rRE02SjJmdnpTMnFEMWhmX3BFeXgxQQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-09T17:54:28+00:00",
-   "outlets_count": 2,
+   "title": "特斯拉在欧洲弃用“Full Self-Driving”品牌名 改为辅助驾驶 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkJQa1plOER6SHIyYXRIUXB4Mm5oa0ZuQnUtbFc0OHZSRWxnU2ZyNWtZbmJsTjNuTlluV1o3M2gzZE5feDNYWDd1YTdPZmQyOHQ5VWEzWXdIV3hzWVlMUUNhdDVPajctb3I1SDhzYmtZSnliRm90dVd0M0NIODZEWWd0YUVCTjg",
+   "source": "新浪财经",
+   "published_at": "2026-10-09T17:54:00+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T17:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkJQa1plOER6SHIyYXRIUXB4Mm5oa0ZuQnUtbFc0OHZSRWxnU2ZyNWtZbmJsTjNuTlluV1o3M2gzZE5feDNYWDd1YTdPZmQyOHQ5VWEzWXdIV3hzWVlMUUNhdDVPajctb3I1SDhzYmtZSnliRm90dVd0M0NIODZEWWd0YUVCTjg"
+    },
     {
      "name": "搜狐网",
      "published_at": "2026-10-09T17:54:28+00:00",
@@ -790,7 +812,11 @@
    "session": "盘中",
    "zh_summary": "特斯拉欧洲弃用FSD品牌名改称辅助驾驶",
    "title_zh": "特斯拉在欧洲弃用“Full Self-Driving”品牌名 改为辅助驾驶 - 搜狐网",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 2.0
+   }
   },
   {
    "id": "39f22f13a263",
@@ -1817,10 +1843,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWh5Z05tSEoxX0Z0cXFkV3J0RlB1Vzk5V2pMZmJCcVl3eEVJZWdQaXd5bElKSDVOcW9FZWl6dk9RQmY3QWtJc0xPeXh2a1ZYekxKWUU1NmVJTUhCLTFyVUl2aVFXLVdPOUU3NVFpNzZtQ2pWcGVGLTZSTm02MWQ4eTg2SGJMSFpPUlotWlQtLW5iYmFOZkgta01wMkdrM004QTNuX0RnNVdDZw",
    "source": "新浪财经",
    "published_at": "2026-10-09T13:48:09+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
+     "published_at": "2026-10-09T13:48:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWh5Z05tSEoxX0Z0cXFkV3J0RlB1Vzk5V2pMZmJCcVl3eEVJZWdQaXd5bElKSDVOcW9FZWl6dk9RQmY3QWtJc0xPeXh2a1ZYekxKWUU1NmVJTUhCLTFyVUl2aVFXLVdPOUU3NVFpNzZtQ2pWcGVGLTZSTm02MWQ4eTg2SGJMSFpPUlotWlQtLW5iYmFOZkgta01wMkdrM004QTNuX0RnNVdDZw"
+    },
+    {
+     "name": "finance.sina.com.cn",
      "published_at": "2026-10-09T13:48:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWh5Z05tSEoxX0Z0cXFkV3J0RlB1Vzk5V2pMZmJCcVl3eEVJZWdQaXd5bElKSDVOcW9FZWl6dk9RQmY3QWtJc0xPeXh2a1ZYekxKWUU1NmVJTUhCLTFyVUl2aVFXLVdPOUU3NVFpNzZtQ2pWcGVGLTZSTm02MWQ4eTg2SGJMSFpPUlotWlQtLW5iYmFOZkgta01wMkdrM004QTNuX0RnNVdDZw"
     }
@@ -6716,26 +6747,6 @@
    "zh_summary": "特斯拉畅销车型可向家庭供电",
    "title_zh": "特斯拉畅销车型可向家中供电，但真正的变革尚未到来",
    "sentiment": 1
-  },
-  {
-   "id": "20290b22d3e0",
-   "title": "Analysts set Tesla (TSLA) price target for 12 months - Finbold",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ",
-   "source": "Finbold",
-   "published_at": "2026-10-08T13:27:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Finbold",
-     "published_at": "2026-10-08T13:27:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsem0yXzUyUzZXQldLSGJFSmlwRnFPSC13d1BtS1ZkRjlFcnhhQU9RMU1PN1pWQ1hLUmNkTmhsX3hKd2gzMmR6dzg1SjFUMnBROWxoeXNJNW5SQ1c0bUJJMXNWOW5rZ0F2bDhvcGE4LV9MaVpsdVctRVRUSQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师给出特斯拉12个月目标价",
-   "title_zh": "分析师给出特斯拉(TSLA)12个月目标价",
-   "sentiment": 0
   }
  ]
 }
