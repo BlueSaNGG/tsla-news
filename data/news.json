@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T03:37:28.238851+00:00",
+ "updated_at": "2026-10-10T03:52:30.970859+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（193条已评分）"
+     "note": "今日新闻情绪 +0.24（198条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T03:37:28.226215+00:00"
+   "as_of": "2026-10-10T03:52:30.956255+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 193
+   "avg": 0.24,
+   "count": 198
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "44e341b8a6aa",
+   "title": "警方通报两辆特斯拉“斗气” 危险驾驶后果严重 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZ0gtVkxwT1laUzJxYnBOdEpJSmd0YnplV0FybVBhcmJxclV2NVZsbl9BQmtnbnU0UklaRmFtQTF1MWFoU2pUelRLTmt4b2VoRkk2TTRHUExpVkdzR3ZvVHFaMVF0TXBJYU9RaVMtZ08",
+   "source": "中华网",
+   "published_at": "2026-10-10T03:38:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-10T03:38:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZ0gtVkxwT1laUzJxYnBOdEpJSmd0YnplV0FybVBhcmJxclV2NVZsbl9BQmtnbnU0UklaRmFtQTF1MWFoU2pUelRLTmt4b2VoRkk2TTRHUExpVkdzR3ZvVHFaMVF0TXBJYU9RaVMtZ08"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "7c834372244f",
    "title": "特斯拉9月国内销量64837台环比增长29.5% 上海工厂交付95336台_热点推荐 - 证券之星",
@@ -83,8 +100,8 @@
    ],
    "category": "交付量",
    "session": "盘后",
-   "title_zh": "特斯拉9月国内销量64837台环比增长29.5% 上海工厂交付95336台",
    "zh_summary": "特斯拉9月国内销量6.5万台环比增29.5%",
+   "title_zh": "特斯拉9月国内销量64837台环比增长29.5% 上海工厂交付95336台",
    "sentiment": 1
   },
   {
@@ -103,28 +120,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "国产手机新一轮涨价；特斯拉弃用“自动驾驶”命名",
    "zh_summary": "特斯拉弃用“自动驾驶”命名",
-   "sentiment": 0
-  },
-  {
-   "id": "f91cb3b43b25",
-   "title": "名称去掉“全自动”！特斯拉欧洲将FSD更名为TAD - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUJEdUZLSXF3ZG1uQ3dTZjh4U2xLZ1lOdllwVTRPb0dJd01fNFJ0cVdhcEdHQW9kR1lqS2d2ellPT2dhQ2RJNG1iaTM3c0gzZ051b0R5VzdCVzRXeEJJbEVKYVR2X1hqVUtDZlprZlJNVEtIbnhySUg2emFtTjF2Z0ZWa3JDRXJJdFpj",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T03:04:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T03:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUJEdUZLSXF3ZG1uQ3dTZjh4U2xLZ1lOdllwVTRPb0dJd01fNFJ0cVdhcEdHQW9kR1lqS2d2ellPT2dhQ2RJNG1iaTM3c0gzZ051b0R5VzdCVzRXeEJJbEVKYVR2X1hqVUtDZlprZlJNVEtIbnhySUg2emFtTjF2Z0ZWa3JDRXJJdFpj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "title_zh": "名称去掉“全自动”！特斯拉欧洲将FSD更名为TAD",
-   "zh_summary": "特斯拉欧洲FSD更名为TAD",
+   "title_zh": "国产手机新一轮涨价；特斯拉弃用“自动驾驶”命名",
    "sentiment": 0
   },
   {
@@ -143,8 +140,8 @@
    ],
    "category": "交付量",
    "session": "盘后",
-   "title_zh": "中欧就混动汽车贸易达成谅解；特斯拉上海9月交付环比增10.7%",
    "zh_summary": "特斯拉上海工厂9月交付环比增10.7%",
+   "title_zh": "中欧就混动汽车贸易达成谅解；特斯拉上海9月交付环比增10.7%",
    "sentiment": 1
   },
   {
@@ -203,8 +200,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "特斯拉欧洲FSD更名Tesla Assisted Driving谋求欧盟审批",
    "zh_summary": "特斯拉欧洲FSD更名谋求欧盟审批",
+   "title_zh": "特斯拉欧洲FSD更名Tesla Assisted Driving谋求欧盟审批",
    "sentiment": 1
   },
   {
@@ -2821,6 +2818,31 @@
    }
   },
   {
+   "id": "f91cb3b43b25",
+   "title": "名称去掉“全自动”！特斯拉欧洲将FSD更名为TAD - 环球网",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qai1CVGxOaHNEbEpmTHk2ZWxmd0l2N1RXX1huWUhaMi1pZVV5REEzUERoaHlIVlhULW0yM245ZHQzeFBCTDVHUkZ6Y0dTM1hWRVVfOEpXUQ",
+   "source": "环球网",
+   "published_at": "2026-10-09T11:54:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "环球网",
+     "published_at": "2026-10-09T11:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qai1CVGxOaHNEbEpmTHk2ZWxmd0l2N1RXX1huWUhaMi1pZVV5REEzUERoaHlIVlhULW0yM245ZHQzeFBCTDVHUkZ6Y0dTM1hWRVVfOEpXUQ"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-10T03:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUJEdUZLSXF3ZG1uQ3dTZjh4U2xLZ1lOdllwVTRPb0dJd01fNFJ0cVdhcEdHQW9kR1lqS2d2ellPT2dhQ2RJNG1iaTM3c0gzZ051b0R5VzdCVzRXeEJJbEVKYVR2X1hqVUtDZlprZlJNVEtIbnhySUg2emFtTjF2Z0ZWa3JDRXJJdFpj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "特斯拉欧洲FSD更名为TAD",
+   "title_zh": "名称去掉“全自动”！特斯拉欧洲将FSD更名为TAD",
+   "sentiment": 0
+  },
+  {
    "id": "655b060b0cb5",
    "title": "特斯拉上海超级工厂9月交付新车环比增长10.7% - Sohu",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVpDZDFDZkhVY3dFT0pBUi04c3NBQXZRTWw4UXdETnFLRDFTMmJFMDhjR09kS25tTUxJR2lHejFuUS1Fc1d3dzJ6MU5KN3hTby1VY3pISUtqT2pYVHBVQXNGQTdvSkp3bW4ydHkyTXVfTkdvZUV0bmNteFNGMTVVQVl4X1ZVcVNkQzFTYw",
@@ -3188,7 +3210,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMW9OZUc4YXRGT3VmRUItbGdlamFkbTRIOUVxR1l3WjJ6bVpoTXN0NERuUHRzLURlMHRPNjBWSjBhWlZGc2tCQ3JYZzJCTzVnTEdzaEc5SHB4VnBmdGtqYzhlR0pDcW1PVGdkcHZDQXhPRGZrTnlhTkJ2R28zSWp6YTdvemM4NkFzZVo4",
    "source": "搜狐网",
    "published_at": "2026-10-09T10:51:05+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -3199,13 +3221,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-09T10:53:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pWmZnNG81eUs1dTdMYkh6VnYwM1RZSW5oTWtSZU5EVkNEdzNjdzVjRnEyR1N3andDcmtGWGRuRVBLQmQyeF90QTVJRU5YMnJWNVl3MVBFN0JYTzZTOFZJcFFqbmQzS1RBZ2l1LTNOdlRGd2tPSEN6Tw"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-10T03:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcktSOFV5MXl0M1lTaG1kTjQ4U1FnVWNiWlRQUGZQRUhXYTJVNDhfMTY4dnBLZ21UNlhJb1YtanMzaWZGSmxvQWNQakROeXYzd3pVSl9SVW00bm84b3ppSnFzLXJJVUZhR3otNTRNRVUwS2dXSlZuNTdQQnkwQQ"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "“空中特斯拉”也要靠烧油？",
    "title_zh": "“空中的特斯拉”，也要靠烧油？ - 新浪财经",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -1.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "36a8e1b41304",
@@ -6720,26 +6751,6 @@
    "session": "盘中",
    "zh_summary": "柴油价格危机或利好特斯拉Semi",
    "title_zh": "特斯拉Semi卡车或成美国柴油价格危机的赢家",
-   "sentiment": 1
-  },
-  {
-   "id": "f4e4b7bed557",
-   "title": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc",
-   "source": "Stocktwits",
-   "published_at": "2026-10-08T14:44:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-08T14:44:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "瑞典工会结束近3年罢工，特斯拉买断协议",
-   "title_zh": "TSLA上涨，瑞典工会结束近3年罢工——特斯拉买断收场",
    "sentiment": 1
   }
  ]
