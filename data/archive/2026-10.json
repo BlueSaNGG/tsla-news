@@ -990,7 +990,11 @@
    "session": "周末",
    "zh_summary": "特斯拉FSD在欧洲遇挫",
    "title_zh": "特斯拉FSD，在欧洲被打回原形 - 量子位 QbitAI",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.15,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a5c8aed22ba8",
@@ -1451,6 +1455,26 @@
    "zh_summary": "特斯拉新车共振异响多次维修未果",
    "title_zh": "特斯拉新车频发共振异响修也修不好特斯拉多次维修未果轮毂质保起争议 - 新浪网",
    "sentiment": -1
+  },
+  {
+   "id": "d31016fa6aba",
+   "title": "【视频】22款特斯拉Model Y 改款后轮驱动版，原版原漆零出险 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWHFnT1dhMGg3Wm5XaXRlOWdPOVpBalkwZFdHZ3JsTzJmZ3k0Rlhub3IzaVQ3QWU1MXNzcDNpSkkzT1pVd2wwVHVwaE15ekhrZm1RQVRZQzd4N28",
+   "source": "汽车之家",
+   "published_at": "2026-10-10T04:18:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T04:18:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWHFnT1dhMGg3Wm5XaXRlOWdPOVpBalkwZFdHZ3JsTzJmZ3k0Rlhub3IzaVQ3QWU1MXNzcDNpSkkzT1pVd2wwVHVwaE15ekhrZm1RQVRZQzd4N28"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后",
+   "zh_summary": "特斯拉Model Y改款后驱版原漆零出险",
+   "title_zh": "【视频】22款特斯拉Model Y 改款后轮驱动版，原版原漆零出险 - 汽车之家",
+   "sentiment": 0
   },
   {
    "id": "ee1f2cb06063",
@@ -30503,5 +30527,5 @@
    "sentiment": -1
   }
  ],
- "count": 1439
+ "count": 1440
 }
