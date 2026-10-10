@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T12:07:25.970585+00:00",
+ "updated_at": "2026-10-10T12:22:30.382980+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（42条已评分）"
+     "note": "今日新闻情绪 +0.15（41条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T12:07:25.965036+00:00"
+   "as_of": "2026-10-10T12:22:30.364618+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 42
+   "avg": 0.15,
+   "count": 41
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "26a91db051c5",
+   "title": "He paid $250K nine years ago for a Tesla Roadster — and it's finally ready. Will it meet expectations? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHh3UU9fbF9hcHEtWGNPVXFjc2NWRGdBSFdlQTJ5TkQ5QldBazZETlhQRmNBbU5MUWd5ZTBfM0RYTmFWdXNzZlNWZy1kTVFvOTN1ZjdXVktvcGQyb1J4SXdSalNUM0FWaDNwd0pROVRUNlJ6YW9FZkdnRXFXR1pfUDBUUWtIVlRkbE1xNUlraWFMOGM",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-10T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-10T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHh3UU9fbF9hcHEtWGNPVXFjc2NWRGdBSFdlQTJ5TkQ5QldBazZETlhQRmNBbU5MUWd5ZTBfM0RYTmFWdXNzZlNWZy1kTVFvOTN1ZjdXVktvcGQyb1J4SXdSalNUM0FWaDNwd0pROVRUNlJ6YW9FZkdnRXFXR1pfUDBUUWtIVlRkbE1xNUlraWFMOGM"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
   {
    "id": "f6ac19b7c50f",
    "title": "Tesla delays Roadster reveal to October 15, leaving preorder buyers waiting, yet again - MoneyWise.com",
@@ -86,26 +103,6 @@
    "zh_summary": "特斯拉Roadster发布再推迟至10月15日",
    "title_zh": "特斯拉 Roadster 发布再推迟至10月15日，预订买家再度等待",
    "sentiment": -1
-  },
-  {
-   "id": "93e4aebfddc2",
-   "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype? - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU",
-   "source": "WSJ",
-   "published_at": "2026-10-10T11:24:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-10T11:24:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "买家付5万美元等Roadster九年",
-   "title_zh": "花5万美元等了九年，特斯拉 Roadster 还能兑现期待吗？",
-   "sentiment": 0
   },
   {
    "id": "3bd029c97587",
@@ -890,7 +887,7 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVFqaEZRSXJDUW5VbDJWYkVoaHo2bDI1Zzh1ekhjYzlSZXpPYnIwc2hWOEd4WDNGYndWTDI1MS01SW00SmcweDg3bUVCcDdkNFlySFU0LXdaazVIYlRpMWJTOUtrdHYtRURtRzZhdTJnMHhOVUFoQlU4Vkc3OWdWbGt2dHZPbGxGaTFXWTVGbEE0d0llMi1LMzJkOFJMOXVtZllTRjlFOXNiUHExWGZ3ZHFSbTV0aGw4RDlYZG90cGcwQ0k",
    "source": "Moomoo",
    "published_at": "2026-10-10T05:37:53+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Moomoo",
@@ -906,10 +903,16 @@
      "name": "富途牛牛",
      "published_at": "2026-10-10T05:52:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0xUUGkwQURBTEIxRWEzVkc2RTY3aWJzVXhaMm5oc3hJVFVtNnN3SEYtUE03Tmd1TEJMWHg0Y0JjV2ZVd3psdE4tWWlablNxWEVpZ0lSOEs0aDcza1FHczRLQ3UzLVg4SzRDaTY2WmJ0U08zWkJSejhNZkc0RkExcl9HQjAzYTFIbVV4aHZITGlzSDl5V3ByUVRsd2JWUjJmVW9uVHU4RktxYldubWhFbHhtMVBMb0k"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-10T05:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT1M5WEJjX1pVM2R5ejZOam94MTVnMEJIVlR1dkVLa1hsU0Q2dkRsMms3QV8yVDB6OVMxUXF1T0RabzZKeHFIdG5LSFdDb05VeUxvelpfMXVKaUhxNEVKWVFTME9KU2hpNTA4Q0dVWnVIc1hQQjhnOWlkYmZUMmRJbkxqbGhvOU1ZRUJhbg"
     }
    ],
    "category": "分析师",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "特斯拉获分析师力挺：实体AI最佳投资标的",
    "title_zh": "特斯拉获知名分析师力挺：实体人工智能最好投资标的",
    "sentiment": 1
@@ -5860,12 +5863,17 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcnJmX1d1dWhVUGxKS1dWN3I1YWNINXJmTTFxTmhGREg1ZkhwcU1UaXFZZ2Y0dlpUQm5MVEhzTnFuWnNfQXF5MHNUdTBubDFqSjlBSmxkaU53am1HN29lT21FUWdJQQ",
    "source": "东方财富",
    "published_at": "2026-10-09T06:03:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-10-09T06:03:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcnJmX1d1dWhVUGxKS1dWN3I1YWNINXJmTTFxTmhGREg1ZkhwcU1UaXFZZ2Y0dlpUQm5MVEhzTnFuWnNfQXF5MHNUdTBubDFqSjlBSmxkaU53am1HN29lT21FUWdJQQ"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-10T05:49:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41cEZXSU1NSGRpWG5lYlJWTHl1WUxJaVo4VHJjWW5BVDJadzZVbDE5S2lOSUY0Tjlya2ZFZWZXaXdsTG5jREd2TWt2bnJZbm01"
     }
    ],
    "category": "Robotaxi与FSD",
