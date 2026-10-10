@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T07:07:28.197566+00:00",
+ "updated_at": "2026-10-10T07:22:32.953115+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（13条已评分）"
+     "note": "今日新闻情绪 +0.31（16条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T07:07:28.173762+00:00"
+   "as_of": "2026-10-10T07:22:32.938583+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 13
+   "avg": 0.31,
+   "count": 16
   }
  },
  "meta": {
@@ -68,17 +68,56 @@
  },
  "stories": [
   {
+   "id": "8b8d95a0ff76",
+   "title": "Key facts: Tesla, Inc. Q3 486k; Musk: Terafab Owned; Margins at Risk - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3BBbnotVVdNNVJiaWUzTUpwY3ZjSEhlTVVZQkpYWFk4U2dDdUFCOThZSktIaHpxY1J3a01zVE9hT2NPMFNkUG95MVpaTm5RdE5idG9FM2NsTDQxM0lyTXpvdHJITGttRDJWb1VUT2RSWE8xZlFIYU9xVTFsV3pJYzVzTkJaQWFoRnY0Mk5vTURUb0NPczFjQmJDUEdhQzRxakdLMFRhTVVndnZQT0dNWUtucjdqMjdNWjh6TnJSaURMQQ",
+   "source": "TradingView",
+   "published_at": "2026-10-10T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-10T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3BBbnotVVdNNVJiaWUzTUpwY3ZjSEhlTVVZQkpYWFk4U2dDdUFCOThZSktIaHpxY1J3a01zVE9hT2NPMFNkUG95MVpaTm5RdE5idG9FM2NsTDQxM0lyTXpvdHJITGttRDJWb1VUT2RSWE8xZlFIYU9xVTFsV3pJYzVzTkJaQWFoRnY0Mk5vTURUb0NPczFjQmJDUEdhQzRxakdLMFRhTVVndnZQT0dNWUtucjdqMjdNWjh6TnJSaURMQQ"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
+  },
+  {
+   "id": "79155e10f696",
+   "title": "特斯拉FSD，在欧洲被打回原形 - 量子位 QbitAI",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg",
+   "source": "量子位 QbitAI",
+   "published_at": "2026-10-10T06:59:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "量子位 QbitAI",
+     "published_at": "2026-10-10T06:59:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "a5c8aed22ba8",
    "title": "巴黎车展将公开体验特斯拉和小鹏，小鹏在欧洲首次NGP大规模公开体验 - 泰伯网",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VX1VFeFQwOWhkZW5BaXlqeHo5X2swdkljdWdnZHhBOXU3bmJ2Z1EyNmx0U0hMNmlleWRmT3ZheXlSNGtTcy0yVXgwZUhDWkdoLWdN",
    "source": "泰伯网",
    "published_at": "2026-10-10T06:54:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "泰伯网",
      "published_at": "2026-10-10T06:54:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VX1VFeFQwOWhkZW5BaXlqeHo5X2swdkljdWdnZHhBOXU3bmJ2Z1EyNmx0U0hMNmlleWRmT3ZheXlSNGtTcy0yVXgwZUhDWkdoLWdN"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-10T07:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Qdk1panRJeEFCalBkY0UyZkZlcnBCb0pld1ZId0JqYzhCN3BPVUVSbUNka0RpdWl4RkNRRWxfM01KT3B3d2VaZWdXcUlBdW5GaTdNdUl3RjZ1enBxWExUd29SNGx5QXFiTUlBMDR5cDRod3dkcXQ0bnhqb0dLaHM"
     }
    ],
    "category": "其他",
@@ -188,6 +227,23 @@
    "sentiment": 1
   },
   {
+   "id": "372e33ce962e",
+   "title": "特斯拉冷知识：紧急驶离，插着枪也可以强行开走 - 手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0MDFpc0tpdXpnQzZsMU5rVWlRbDdHQWJpVk5kYXFrU2JHR0dVVjEwRlQtRTFRWUppeDQxSTJnY0dxamdqZUs0UzFBa0F2bnhtdUt4bA",
+   "source": "手机网易网",
+   "published_at": "2026-10-10T05:56:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机网易网",
+     "published_at": "2026-10-10T05:56:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0MDFpc0tpdXpnQzZsMU5rVWlRbDdHQWJpVk5kYXFrU2JHR0dVVjEwRlQtRTFRWUppeDQxSTJnY0dxamdqZUs0UzFBa0F2bnhtdUt4bA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "a21b7bda6d8c",
    "title": "9月中国造特斯拉销量加速增长 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pd1Zyd3pHMV9BMC15bHVFWTEyRk8weUcyWUwzbTNTckk2V1RlTVRadmQtUVp0TXNfRlNJVmc5LTZwT0k1eWtINUJOZUxIMXNPQkJFdmtleThrMWNIY3o1QXNJbkFSaGZnZmw4",
@@ -233,12 +289,22 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WWkN2TTZSUllwWkFPUmtGNnA2eXZWRjFaX1hqblRxeGhwcVdVeFlQdE9kd2tuV3dBNG1hMUJ6dVlYWHZDRm95Zg",
    "source": "凤凰网",
    "published_at": "2026-10-10T05:39:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网",
      "published_at": "2026-10-10T05:39:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WWkN2TTZSUllwWkFPUmtGNnA2eXZWRjFaX1hqblRxeGhwcVdVeFlQdE9kd2tuV3dBNG1hMUJ6dVlYWHZDRm95Zg"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-10T05:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9za3B1RWVJY0hZUExKY2xxNVNwUUFEX2tIejJQaHRCekEyM0VGLWVSQmpNRXJYMVhHc1owcXBzeFl1ckttaVVBNHA2OVc"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-10T07:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fU0RCRDRCUFFieHhGMkZtSHZ6YmczSUVybjhUZ0RTam1lMFRpbDk1VmVjdmtpM1pQXzlyQTdsWnI2WXp4ejNyQVI1SDVZQjZGQzEwbjJXWV9sRGlFa3VKRkQ0aWR5aDFvMk1rR0V1WDBJelltOFpsd1docGlHOXM"
     }
    ],
    "category": "马斯克",
@@ -1187,6 +1253,23 @@
    "zh_summary": "特斯拉2026年资本支出超250亿美元",
    "title_zh": "TSLA股价预测：2026年资本支出超250亿美元",
    "sentiment": -1
+  },
+  {
+   "id": "75524a9f3329",
+   "title": "Tesla (NASDAQ:TSLA) Stock Jumps 2.1% - Should You Buy? - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkpaWEtOTkttZDNMX3NRWU5xWnFDVlZYMjlaTFduOWh6MTJSUmFQN1NheVhma002b0EtaDFLcnk3ZERmRE82TEpnS3dZbDY2M0JzQm9wSUxlb1pRdDdvT1MwOVh0UDhNb2tCWWNmbHlUT01US2FGb1c2RDQ5LThmWVcwWWNObm4zUDdNdFI3bHV5UVRzc1FPaUl1Z2I4TjdOWnZJUEY4bmxJTGs",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T21:46:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T21:46:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkpaWEtOTkttZDNMX3NRWU5xWnFDVlZYMjlaTFduOWh6MTJSUmFQN1NheVhma002b0EtaDFLcnk3ZERmRE82TEpnS3dZbDY2M0JzQm9wSUxlb1pRdDdvT1MwOVh0UDhNb2tCWWNmbHlUT01US2FGb1c2RDQ5LThmWVcwWWNObm4zUDdNdFI3bHV5UVRzc1FPaUl1Z2I4TjdOWnZJUEY4bmxJTGs"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
   },
   {
    "id": "a7aa6098d09a",
@@ -5937,26 +6020,6 @@
    "sentiment": 1
   },
   {
-   "id": "227f960487c9",
-   "title": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr",
-   "source": "汽车之家",
-   "published_at": "2026-10-08T23:01:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-08T23:01:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "观点称FSD若不升级或被对手超越",
-   "title_zh": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
-   "sentiment": -1
-  },
-  {
    "id": "07ba2e446363",
    "title": "Jim Cramer On SpaceX (SPCX): Buy Tesla (TSLA) If You Like It As An Earnings Explosion Might Be Coming - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFUwMkpTSVRsZnpwR0tmVGVVaFVqdkNXbUtzZml6QmxFVTNLNVZ1a29sQ1pXcUJqWTJYeklFZ1JORnJIV0lrSU14aWpUMTllS29OT2pKTWxfNGRVV0tzOEdscW5aRGU5eHNKdldtcmEzSXhOWDFiNlRGMDl5WmNGb3V5bXg1MEJyTkJRZUpfOTk2TnJ1",
@@ -6682,71 +6745,6 @@
    "zh_summary": "马斯克财富重返万亿美元",
    "title_zh": "马斯克财富重返万亿美元 SpaceX与特斯拉股价反弹 - 手机网易网",
    "sentiment": 1
-  },
-  {
-   "id": "b4f206e0dbcb",
-   "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz",
-   "source": "Stocktwits",
-   "published_at": "2026-10-08T18:06:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-08T18:06:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克行权2018期权增持特斯拉",
-   "title_zh": "马斯克行使2018年股票期权奖励，增持特斯拉股份",
-   "sentiment": 1
-  },
-  {
-   "id": "fcb252b6e875",
-   "title": "Avidian Wealth Enterprises LLC Acquires 1,678 Shares of Tesla, Inc. $TSLA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnNHUVhFSTd1ZElXVmJabEpxbHhoazY5TXBEOG5LbTB1eERQc0F1SnZtNzFnQXNraFNWLThYRnY3NGFVMnlXYjBENTE0bjFTVjFWeW9yTjliWVQzT09uaHZUYmJlQWZQN1RkUmlmbHdzNzItQ0ZCVWlsTVJJVnREbFB1a1hIemp4RkpOam5tSEdGaTJ3b0lmY0Rqb2VLZ3JqWTJvVXVELWRkQWJpUUZoNDljcUlvd2pMcFFpa0NmbTRDT2U0TjB6NjhB",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T17:51:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T17:51:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnNHUVhFSTd1ZElXVmJabEpxbHhoazY5TXBEOG5LbTB1eERQc0F1SnZtNzFnQXNraFNWLThYRnY3NGFVMnlXYjBENTE0bjFTVjFWeW9yTjliWVQzT09uaHZUYmJlQWZQN1RkUmlmbHdzNzItQ0ZCVWlsTVJJVnREbFB1a1hIemp4RkpOam5tSEdGaTJ3b0lmY0Rqb2VLZ3JqWTJvVXVELWRkQWJpUUZoNDljcUlvd2pMcFFpa0NmbTRDT2U0TjB6NjhB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Avidian Wealth购入1678股TSLA",
-   "title_zh": "Avidian Wealth买入1678股特斯拉$TSLA",
-   "sentiment": 1
-  },
-  {
-   "id": "c034c68b426e",
-   "title": "Tesla gets more time to respond to NHTSA Cybercab audit - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGZLQVBDWU11eVNWQ2NjekQ3ek5sR0lVMEx0VEVrckMtMG5uSWlvVG1GdWVXOGNNTW0zWmpHc3NBaHlZeE1TZzN0Wko4XzdaT1hFeUR0ajRJUWVadHdlRmFfYWIzMUlhMGtVQVR4TkUxZlFXdk5raUhfZnVvRmFhRUJ4alU1Zw",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-08T17:45:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-08T17:45:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGZLQVBDWU11eVNWQ2NjekQ3ek5sR0lVMEx0VEVrckMtMG5uSWlvVG1GdWVXOGNNTW0zWmpHc3NBaHlZeE1TZzN0Wko4XzdaT1hFeUR0ajRJUWVadHdlRmFfYWIzMUlhMGtVQVR4TkUxZlFXdk5raUhfZnVvRmFhRUJ4alU1Zw"
-    },
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-08T19:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzBGZm04V3RJSU9vU290Yi05U0l6djlYaFg4Q1VwbFRpcmZrMFhxOWd6TTVsazdZRHlXRnM5MTJIYmtfcURyNVQ2Q2kwLUg4SUtBSnVreFUzeld0SlNBamJNM3JxTGNQbXpZcWpVR0M1NXFMeUI4WWI2YmJvLTZfYmRTSm1POWY0cUtUbC1YdlVNWVdmY3BqX3V3MA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉获延期回应NHTSA的Cybercab审计",
-   "title_zh": "特斯拉获更多时间回应NHTSA对Cybercab的审计",
-   "sentiment": -1
   }
  ]
 }
