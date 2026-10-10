@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T16:37:26.337641+00:00",
+ "updated_at": "2026-10-10T16:52:27.103296+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（57条已评分）"
+     "note": "今日新闻情绪 +0.20（65条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T16:37:26.312596+00:00"
+   "as_of": "2026-10-10T16:52:27.092401+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 57
+   "avg": 0.2,
+   "count": 65
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a06974b9bcbf",
+   "title": "Neuralink植入者P7 Jake Schneider现身特斯拉得州工厂活动 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wT2sxMkhUN2lfVjk5VWpnTHRyekZiajYzWWZySmhaektjRjRCSnNnYWYtMXVrT1FVRy04YkVDUW5fUnFqVG8xbjRBUmNqTUp5VjJsdHNHd0theFZxQzYxajNVRUlqWGJwWldF",
+   "source": "汽车之家",
+   "published_at": "2026-10-10T16:35:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T16:35:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wT2sxMkhUN2lfVjk5VWpnTHRyekZiajYzWWZySmhaektjRjRCSnNnYWYtMXVrT1FVRy04YkVDUW5fUnFqVG8xbjRBUmNqTUp5VjJsdHNHd0theFZxQzYxajNVRUlqWGJwWldF"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "50483b04f0f0",
    "title": "今日新闻丨多部门出手整顿“速成车”！银河战舰700、新款深蓝L06、新款启源A06上市！特斯拉9月中国销量64837台！ - 电子工程专辑",
@@ -6855,31 +6872,6 @@
    "zh_summary": "特斯拉Cybercab座舱无方向盘踏板",
    "title_zh": "【视频】没有方向盘踏板！特斯拉cybercab无人驾驶座舱，上车即出发 - 汽车之家",
    "sentiment": 1
-  },
-  {
-   "id": "63b92056e429",
-   "title": "20万级能和特斯拉Model Y掰手腕！新款理想i6官图发布 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ibl9ZYnY4TnJxSHUtZE5kY0preURWNXloOV85alBEZ0tVMVcxMkViZnVEWDEwMVdfODNxN2NDWm4xQURVXzdhZzZLQnZzaFk0RUFNMzh0ck0",
-   "source": "驱动之家",
-   "published_at": "2026-10-09T03:50:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-09T03:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ibl9ZYnY4TnJxSHUtZE5kY0preURWNXloOV85alBEZ0tVMVcxMkViZnVEWDEwMVdfODNxN2NDWm4xQURVXzdhZzZLQnZzaFk0RUFNMzh0ck0"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T03:50:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1QxNHJ4czhIWW5KWVJlbENTSm5DM0U3ckpUYm9TX0ZZdVd4MGwxUFhhb2FRWkZUUVNkOEh4QThMc21XcnE5Umh6Wi0zX2ZrUXl0LU03Und2U0ZXWk14YXpYWlJ0aHJYcGRybUNIcWI5dmpRTi1pR1d6QVJLRGxnQlVvZmNZeWlJ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "新款理想i6官图发布，对标Model Y",
-   "title_zh": "20万级能和特斯拉Model Y掰手腕！新款理想i6官图发布 - 驱动之家",
-   "sentiment": -1
   }
  ]
 }
