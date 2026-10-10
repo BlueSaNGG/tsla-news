@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T04:22:28.877320+00:00",
+ "updated_at": "2026-10-10T04:37:26.885579+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（202条已评分）"
+     "note": "今日新闻情绪 +0.24（204条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T04:22:28.868943+00:00"
+   "as_of": "2026-10-10T04:37:26.872434+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 202
+   "avg": 0.24,
+   "count": 204
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6598f96a25e7",
+   "title": "特斯拉新车频发共振异响修也修不好特斯拉多次维修未果轮毂质保起争议 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWlFbWRyWGFubkk5cVU3ZTVkSWx6NUdYX2NMS3ozNDIzN3ZSVTBUeUk1cEdQeWtMTVdjVTE3akRIbkhhS0dOQXl5M2otOFc5Yk1wMTFWTFhfTnZabjNrZGtVa1RHUnptb0xZbG9wZnhlbEVoRlF2Qy1wVllCQUFsRg",
+   "source": "新浪网",
+   "published_at": "2026-10-10T04:31:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-10T04:31:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWlFbWRyWGFubkk5cVU3ZTVkSWx6NUdYX2NMS3ozNDIzN3ZSVTBUeUk1cEdQeWtMTVdjVTE3akRIbkhhS0dOQXl5M2otOFc5Yk1wMTFWTFhfTnZabjNrZGtVa1RHUnptb0xZbG9wZnhlbEVoRlF2Qy1wVllCQUFsRg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "7412b1e9f430",
    "title": "【视频】为进欧洲连名字都不要了，特斯拉FSD更名TAD - 汽车之家",
@@ -6721,26 +6738,6 @@
    "zh_summary": "特斯拉获批一项新专利",
    "title_zh": "特斯拉，惊现新专利 - 新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "f4e4b7bed557",
-   "title": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc",
-   "source": "Stocktwits",
-   "published_at": "2026-10-08T15:11:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-08T15:11:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "瑞典工会结束近3年罢工，TSLA上涨",
-   "title_zh": "TSLA上涨：瑞典工会在特斯拉收购后结束近3年罢工",
-   "sentiment": 1
   }
  ]
 }
