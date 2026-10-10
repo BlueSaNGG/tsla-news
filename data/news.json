@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T06:07:26.352858+00:00",
+ "updated_at": "2026-10-10T06:22:25.030696+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（7条已评分）"
+     "note": "今日新闻情绪 +0.33（9条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T06:07:26.343327+00:00"
+   "as_of": "2026-10-10T06:22:25.020341+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 7
+   "avg": 0.33,
+   "count": 9
   }
  },
  "meta": {
@@ -126,6 +126,23 @@
    "zh_summary": "巴黎车展仅特斯拉与小鹏展示智驾",
    "title_zh": "巴黎车展上演小鹏NGP VS 特斯拉FSD 智驾仅两家报名 - 搜狐网",
    "sentiment": 0
+  },
+  {
+   "id": "1a03c4dd1807",
+   "title": "达美航空CEO巴斯蒂安否认与马斯克交恶：我自己就开特斯拉 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WWkN2TTZSUllwWkFPUmtGNnA2eXZWRjFaX1hqblRxeGhwcVdVeFlQdE9kd2tuV3dBNG1hMUJ6dVlYWHZDRm95Zg",
+   "source": "凤凰网",
+   "published_at": "2026-10-10T05:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-10T05:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WWkN2TTZSUllwWkFPUmtGNnA2eXZWRjFaX1hqblRxeGhwcVdVeFlQdE9kd2tuV3dBNG1hMUJ6dVlYWHZDRm95Zg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
   },
   {
    "id": "da53e129a93a",
@@ -256,6 +273,23 @@
    "zh_summary": "巴黎车展智驾体验仅小鹏特斯拉报名",
    "title_zh": "巴黎车展举办智驾体验，仅小鹏特斯拉报名，欧洲车企集体缺席",
    "sentiment": 0
+  },
+  {
+   "id": "cc30d809fa29",
+   "title": "特斯拉车型更新，多款车型获安全高评级、海外多市场销量走高 - 中国经济网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YN3c3UUx1WEhKNmJCeGY0U09IcmpPd3hEcWsybnRtSGpUSGN4c21ERDNnZWNnUTQ0NWp4R213cEQ4ODZUWVJYZlNFLXlkaTM0aHhGaEtuOXZSQmg2ZGJJ",
+   "source": "中国经济网",
+   "published_at": "2026-10-10T05:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中国经济网",
+     "published_at": "2026-10-10T05:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YN3c3UUx1WEhKNmJCeGY0U09IcmpPd3hEcWsybnRtSGpUSGN4c21ERDNnZWNnUTQ0NWp4R213cEQ4ODZUWVJYZlNFLXlkaTM0aHhGaEtuOXZSQmg2ZGJJ"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末"
   },
   {
    "id": "6598f96a25e7",
@@ -403,7 +437,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1OHJSZ25WZnNGaTIxcUllUk5vNC03WUJBSElYaTVZWE1VLXl3VGtreTRuTXJmWHQ5aUpkMm5xNE1XcTh0MW9zamthWmhVOGd3UnhGSEVJVDJnXzg",
    "source": "网通社",
    "published_at": "2026-10-10T03:21:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "网通社",
@@ -419,10 +453,16 @@
      "name": "中金在线",
      "published_at": "2026-10-10T03:28:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10YnpxOVVpVFk0a1lKcmpNbk9yenB5ZkxwT1dkQlU3R1FWT3VQekh0dTlpZEM2QU5hZ2pzUElPQnJtVjQ2Q0s3OGx5VEJVOGs4ZVdudGVKLUt5YzRyYmNBTS1RZFdkN2pZWHNF"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T04:53:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWjZzdEN5RW9JMTg5YnpxSVpPMWFQX2hXYm1tTDY5WnNHTktWdEdLOVNMV0kwWC1IQzl1WUphblBwckpEQ1p1clZkY1VjSjZDVVpycXhycHJGN0hWbmlCNVBB"
     }
    ],
    "category": "交付量",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "特斯拉9月国内销量6.5万台环比增29.5%",
    "title_zh": "特斯拉9月国内销量64837台环比增长29.5% 上海工厂交付95336台",
    "sentiment": 1
@@ -5187,6 +5227,23 @@
    "sentiment": 0
   },
   {
+   "id": "bf1bbfef84bf",
+   "title": "Securitize Stock Jumps After Hours As It Launches Tokenized Apple, Nvidia, Tesla Shares On Solana - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtrMVVyS3M5Y1dIMjNzajVwajA4VEhDQ1hoYm0ybEV2TTVFSDcyUy1qRkxFT0I4c3dmV1c5d2Z2UDdERUxHOGlCaFZ5QTFzZUdIUnVNRzZZYm9CelNBSkx2Yy1kVHN6VVNSR3I2SnZwc2oxTUlfSm1mNE4yckxRa0JHbVR4blhfQkh2dWdpTTN4ZzFpX195dG1UdXg4akd2Qkg2WU5DU09PZw",
+   "source": "Benzinga",
+   "published_at": "2026-10-09T03:27:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-09T03:27:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtrMVVyS3M5Y1dIMjNzajVwajA4VEhDQ1hoYm0ybEV2TTVFSDcyUy1qRkxFT0I4c3dmV1c5d2Z2UDdERUxHOGlCaFZ5QTFzZUdIUnVNRzZZYm9CelNBSkx2Yy1kVHN6VVNSR3I2SnZwc2oxTUlfSm1mNE4yckxRa0JHbVR4blhfQkh2dWdpTTN4ZzFpX195dG1UdXg4akd2Qkg2WU5DU09PZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "f1363d3c21e5",
    "title": "马斯克也无奈！特斯拉无人驾驶出租车竟被灰色小猫给难住了 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZnFVUnhJLTlVOHFaR1hscmJ2ZGhCMmZKV19EOXJmaDJaUHFWclVJOGVNQ2d0QUl5SG41Q2toNE00Y1Exblp4cHc1c3JoRjNNRUdQWTdYRlhDbzFLR0dkQzZhZmE1cjFtQWhxcFNvZFhZaktxTnJ1V014OFdRdw",
@@ -5684,6 +5741,23 @@
    "zh_summary": "CoreCap买入TSLA股票",
    "title_zh": "CoreCap Advisors买入TSLA股票",
    "sentiment": 1
+  },
+  {
+   "id": "227f960487c9",
+   "title": "【图】特斯拉FSD再不升级，要被小鹏VLA和地平线HSD按在地上打了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr",
+   "source": "汽车之家",
+   "published_at": "2026-10-08T23:01:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-08T23:01:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNVVmVmk0a3FDa2dXTWJHUlRkcU1CU0FZZ3UtVTZ6NlUxLVNNc3pRVTh3RjlJNTlIRndCMTNiSXpGN204bW1OS1BobV9WeXk4TDJXVnp2TTg5OGZaanRr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "07ba2e446363",
@@ -6684,96 +6758,6 @@
     "pct": -0.3,
     "window_h": 0.7
    }
-  },
-  {
-   "id": "3a19c7fa7d0c",
-   "title": "Tesla Will Sell More Robots Than Cars “Within Two Years,” Predicts Former Stability AI CEO - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjQ3ei1zUGl4N1hnUXRCc19lUkdJOURoSVFyTkM2NDEyZTRfemVVVWtrLXV3cllkbjMwWHgtQUZ5OWx3V0VxdXJ5UW5BR0ZBRHRPRnNLa3JkdllmSWg5RVhDTzUyVktiakxHcHZGdEFWRTJwVmhHejU0aXo4a1M5Y0tTZkVNUERGMkNLV3laTmFnU25nZ3c",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-08T17:01:37+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T17:01:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjQ3ei1zUGl4N1hnUXRCc19lUkdJOURoSVFyTkM2NDEyZTRfemVVVWtrLXV3cllkbjMwWHgtQUZ5OWx3V0VxdXJ5UW5BR0ZBRHRPRnNLa3JkdllmSWg5RVhDTzUyVktiakxHcHZGdEFWRTJwVmhHejU0aXo4a1M5Y0tTZkVNUERGMkNLV3laTmFnU25nZ3c"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-08T17:08:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0F5TFFiSE41ZUUyNzlWWC1wdnRZMFhHNzhRcHktSkRIRVVnQ3pjLWI4dElpSmVGbnR3YXEyRlFLVEZqcGVpY2hONTF5eE96dlpiY01jbjFHdlNIczJmOGVoNUhDNEo1VUZTcjdrdi0wQU04OElndFZ3S3RaaHN2Z2g2ckFWWkxydHdBQU00eENGQXpYQWNWRVRpbHhkdk9MT0FSTmU1T0REb1RsblVZeFB4cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉两年内机器人销量将超汽车",
-   "title_zh": "前Stability AI CEO预测：特斯拉两年内机器人销量超汽车",
-   "sentiment": 1
-  },
-  {
-   "id": "22fe57ebec89",
-   "title": "Tesla Supplier Reports Record Earnings From EV And Energy Storage Batteries - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14VGQ0OXpWRzk5QmQyQjFZa0dtVUkzZm9OUW5mYkRXczUyaDlRY3ZSZXAySmZ2S0lSNHh5TFp4VEh6YTUweHhFRGRJTU9yWGZqaFZKWUdwS2NlakNzcVZCcmlFQVl0eURsU1JMV3JtWXdDcmFjMUE",
-   "source": "InsideEVs",
-   "published_at": "2026-10-08T16:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-08T16:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14VGQ0OXpWRzk5QmQyQjFZa0dtVUkzZm9OUW5mYkRXczUyaDlRY3ZSZXAySmZ2S0lSNHh5TFp4VEh6YTUweHhFRGRJTU9yWGZqaFZKWUdwS2NlakNzcVZCcmlFQVl0eURsU1JMV3JtWXdDcmFjMUE"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉供应商电池业务盈利创新高",
-   "title_zh": "特斯拉供应商电动汽车和储能电池盈利创新高",
-   "sentiment": 1
-  },
-  {
-   "id": "b96accc6e769",
-   "title": "Tesla Owners Can Now Disconnect From Superchargers in Emergency - Kelley Blue Book",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3JmT3AtMVlNWlJCckhaR3NudlhHTmI3OV94MmphXzFBUGsyMnA1aUh3a1MzeTZNek1fczVhQVZ4YXE2WFRlbnIxekRUeXFNZFYyZjNGaXdsdFBzUEo4Z0VJUjVQalZrWEtiNy1XYUNyZHQ3R2d4Qm1Gd0t5TENiQ3ZxVEJrd1BjVnF1MldhNHVSZlY0ZjZXTw",
-   "source": "Kelley Blue Book",
-   "published_at": "2026-10-08T16:43:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Kelley Blue Book",
-     "published_at": "2026-10-08T16:43:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3JmT3AtMVlNWlJCckhaR3NudlhHTmI3OV94MmphXzFBUGsyMnA1aUh3a1MzeTZNek1fczVhQVZ4YXE2WFRlbnIxekRUeXFNZFYyZjNGaXdsdFBzUEo4Z0VJUjVQalZrWEtiNy1XYUNyZHQ3R2d4Qm1Gd0t5TENiQ3ZxVEJrd1BjVnF1MldhNHVSZlY0ZjZXTw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉车主可在紧急情况下断开超充",
-   "title_zh": "紧急情况下特斯拉车主可断开超充枪",
-   "sentiment": 1
-  },
-  {
-   "id": "9b96121574aa",
-   "title": "Germany could force Tesla to ditch its misleading ‘Full Self Driving’ name — and it’s about time other countries followed suit - TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbjNhRVlHWHNKTzZFQlV5SS1UaHp2cnBEdnNvYVVscFY2NFVzNjhkbHlId19WYkdXUFJPMGQxSU14a1hvN3lUYklCa0VxUzMxcHQ3dFkwQmpBNkRIU1lYODR0cXh3MjJJM1JvcHZ3WmdJN1F0SF9QSjVYZk5ISTZuV1Z5OW1kdmFhU0F2OUdUMnU0RW1na1JxbVhWY2VsMU45U0c4V0hVMVFlZVhYY1M1VV90T1hHcW55SUVvREZHdjhTMldHTFZnenhDcVlTV2FYZ29CSlZNcFZNMlRqbWdieEdBYmY5RFNMeEJiTGtGVDVSbS0yMTBKUkNQa3hvWTNPbGx5X3BYZk4zUy1nSFpkX0pYVl9uQ28wb2xldHVPZ1V1M3k0VF9sNGhBUXZPaVZlMkxZNlBDWUNhUEZoOGdka0tIRUtiSEk",
-   "source": "TechRadar",
-   "published_at": "2026-10-08T16:30:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TechRadar",
-     "published_at": "2026-10-08T16:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbjNhRVlHWHNKTzZFQlV5SS1UaHp2cnBEdnNvYVVscFY2NFVzNjhkbHlId19WYkdXUFJPMGQxSU14a1hvN3lUYklCa0VxUzMxcHQ3dFkwQmpBNkRIU1lYODR0cXh3MjJJM1JvcHZ3WmdJN1F0SF9QSjVYZk5ISTZuV1Z5OW1kdmFhU0F2OUdUMnU0RW1na1JxbVhWY2VsMU45U0c4V0hVMVFlZVhYY1M1VV90T1hHcW55SUVvREZHdjhTMldHTFZnenhDcVlTV2FYZ29CSlZNcFZNMlRqbWdieEdBYmY5RFNMeEJiTGtGVDVSbS0yMTBKUkNQa3hvWTNPbGx5X3BYZk4zUy1nSFpkX0pYVl9uQ28wb2xldHVPZ1V1M3k0VF9sNGhBUXZPaVZlMkxZNlBDWUNhUEZoOGdka0tIRUtiSEk"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-08T16:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNendndDNieEp5dEpnWmdrVW90ZXNZV2hTanMzY0w2Y2hUblFYdERtM2pqNjJYbGFkOE00azloTUFydXBoYktaUDlpZWs3S0lVNTM0QTBYbDJwWDVDX1ZZdkxxQ00xZmI5N3BTdUxCeDVtVVR0UGlhNG9zdHJpRENqQVlZc1NiUjdSR3E5R09mbEdPT29jY0FubDY4RTdxT2dlbWg4Rg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "德国或迫特斯拉弃FSD误导性名称",
-   "title_zh": "德国或迫使特斯拉弃用误导性'FSD'名称",
-   "sentiment": -1
   }
  ]
 }
