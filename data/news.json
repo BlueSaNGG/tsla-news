@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T18:37:25.579916+00:00",
+ "updated_at": "2026-10-10T18:52:25.334981+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（71条已评分）"
+     "note": "今日新闻情绪 +0.22（72条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-10T18:37:25.570022+00:00"
+   "as_of": "2026-10-10T18:52:25.323335+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 71
+   "avg": 0.22,
+   "count": 72
   }
  },
  "meta": {
@@ -462,6 +462,23 @@
    "zh_summary": "特斯拉在柏林拍摄辅助驾驶认证视频",
    "title_zh": "特斯拉在柏林拍摄强制辅助驾驶视频，等待德国审批",
    "sentiment": 1
+  },
+  {
+   "id": "effd40701948",
+   "title": "【视频】纯电车保值率排名小米和特斯拉霸榜 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMmMxZHFTU3JNSjF3QW01TlNMaERoak1DLXhGX1RDOEpGTUhSUC1GMXFwZ2k0TjhWMmRDTDBNc1dRNDFSTy02NEMyT3VpT1ViTmk0R0l4TEZUZGM",
+   "source": "汽车之家",
+   "published_at": "2026-10-10T12:39:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T12:39:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMmMxZHFTU3JNSjF3QW01TlNMaERoak1DLXhGX1RDOEpGTUhSUC1GMXFwZ2k0TjhWMmRDTDBNc1dRNDFSTy02NEMyT3VpT1ViTmk0R0l4TEZUZGM"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "9f54abe461d3",
@@ -6885,26 +6902,6 @@
    "zh_summary": "特斯拉三年涨45%后估值显疲态",
    "title_zh": "特斯拉股价三年涨45%后显疲态(TSLA)",
    "sentiment": -1
-  },
-  {
-   "id": "1e3965a461ac",
-   "title": "没有方向盘的特斯拉，坐起来是什么体验？第一视角体验Cybercab - 手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6U0ZmZzRpcjlXb24wRHpvNlZzNDVxTi1FUTEwWnVDeTdrSG80dTBkTkhPRmE4MDZDNzYzNjk4MlNxSEdnZEJSLWxuaC1mWjVMbm5VTw",
-   "source": "手机网易网",
-   "published_at": "2026-10-09T05:05:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机网易网",
-     "published_at": "2026-10-09T05:05:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6U0ZmZzRpcjlXb24wRHpvNlZzNDVxTi1FUTEwWnVDeTdrSG80dTBkTkhPRmE4MDZDNzYzNjk4MlNxSEdnZEJSLWxuaC1mWjVMbm5VTw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "第一视角体验无方向盘Cybercab",
-   "title_zh": "没有方向盘的特斯拉，坐起来是什么体验？第一视角体验Cybercab",
-   "sentiment": 1
   }
  ]
 }
