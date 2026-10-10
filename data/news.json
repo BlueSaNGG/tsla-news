@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-10T01:22:41.412225+00:00",
+ "updated_at": "2026-10-10T01:38:41.862359+00:00",
  "market": {
-  "price": 375.0,
-  "change_pct": -0.74,
+  "price": 382.7,
+  "change_pct": 2.05,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-10-21",
@@ -11,27 +11,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +6.7%"
+     "score": -1,
+     "note": "目标价中位数 $400（15家），隐含空间 +4.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（181条已评分）"
+     "note": "今日新闻情绪 +0.23（182条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.00 vs 20日均线 $367.80"
+     "note": "现价 $382.70 vs 20日均线 $368.66"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 6.7,
-   "ma20": 367.8,
-   "as_of": "2026-10-10T01:22:41.406404+00:00"
+   "implied_upside_pct": 4.5,
+   "ma20": 368.66,
+   "as_of": "2026-10-10T01:38:41.855173+00:00"
   },
-  "pe_ttm": 103.7,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
+  "pe_ttm": 105.8,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.5%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 181
+   "count": 182
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a035ee2c5991",
+   "title": "特斯拉在欧洲更改驾驶辅助套件名称以推动欧盟审批_车市动态 - 中金在线",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3R3BKQlBKcEtaNjlXTDhwX0hJQk94bkR2aVJKUV82dzJWRWt5aUU2Z2xfVjQyNVFhRmY0ODVyR1BqaFc4RkN0d1kwd3o3Y1V2TF9UQmZkRFdDTUFOVmVqTzN6bXhvZWdOM3lN",
+   "source": "中金在线",
+   "published_at": "2026-10-10T01:12:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中金在线",
+     "published_at": "2026-10-10T01:12:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3R3BKQlBKcEtaNjlXTDhwX0hJQk94bkR2aVJKUV82dzJWRWt5aUU2Z2xfVjQyNVFhRmY0ODVyR1BqaFc4RkN0d1kwd3o3Y1V2TF9UQmZkRFdDTUFOVmVqTzN6bXhvZWdOM3lN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "bd39cb40f41a",
    "title": "Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold - Yahoo Finance",
@@ -106,6 +123,40 @@
    "zh_summary": "上海两辆特斯拉高架上斗气驾驶",
    "title_zh": "上海两辆特斯拉高架上“斗气” 危险驾驶引警示 - 中华网",
    "sentiment": -1
+  },
+  {
+   "id": "aeab9b0921de",
+   "title": "10月9日美股成交额前20：美光科技公司以205.44亿美元居首，英伟达公司、SpaceX、特斯拉紧随其后 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pckF2U3k4MERiTmZyZkRDX0FYbzc3aEVaNHRjLWFVbDJqZndvMFZEeFp3a3c5SzdvRjlEUVJQcGJMaFNEU1huTy1qS0lkWVpud084RzVmU3RQTnI0RnZwVVJ5QU9jNThsbHBZeFZSblBZaFZC",
+   "source": "金融界",
+   "published_at": "2026-10-10T00:46:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "金融界",
+     "published_at": "2026-10-10T00:46:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pckF2U3k4MERiTmZyZkRDX0FYbzc3aEVaNHRjLWFVbDJqZndvMFZEeFp3a3c5SzdvRjlEUVJQcGJMaFNEU1huTy1qS0lkWVpud084RzVmU3RQTnI0RnZwVVJ5QU9jNThsbHBZeFZSblBZaFZC"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "4f8d515f50e0",
+   "title": "马斯克说未来20 年，1000 亿台机器人让物质极大充裕|马斯克|特斯拉|上海工厂|人形机器人|中国算力|cybercab_新浪新闻 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WlJHb3lSdjFqdEREUHFjbG00dWxnV2RWQ0UwaVBVS3MxeXZXbzdGSU5zaW41TC0zV3VxeGhMTUlxTU5wYjg0Z0JNSnkwbnpVNkdMX0l3MkZMcXpUVFVtbjRacw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-10T00:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-10T00:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WlJHb3lSdjFqdEREUHFjbG00dWxnV2RWQ0UwaVBVS3MxeXZXbzdGSU5zaW41TC0zV3VxeGhMTUlxTU5wYjg0Z0JNSnkwbnpVNkdMX0l3MkZMcXpUVFVtbjRacw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "0262b383c765",
@@ -2239,7 +2290,7 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0w3T0JBVGx5el8tUkN4WkRQbU1ndXZmdV8zWDN1QS1CVG95SkNfdXl2NnZtZ1RJcEE2NV9lbXNZaVNyNDIycTEwVW52NEtiUi1yQ1lzdkVxa09jMlVDbFQyLWxyMEFWdV9lYWFnQzhCR2k3OFItakVBMW1zS3VjMw",
    "source": "新浪财经",
    "published_at": "2026-10-09T12:35:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "新浪财经",
@@ -2260,6 +2311,11 @@
      "name": "36kr.com",
      "published_at": "2026-10-09T13:00:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yMDd6TldIemdXaUl4RWdyVzBiNmtwSTRJVUFLWWlwNzdsOU9VYTVyREEwZzFLZGI4Ym9OczlfYTdBb1RRWFBhYllJMjRTSzJWTkV5TWQyMW0"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-10T01:25:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MSXhDVDN4WkRycU51S01jSDlwejRFSFViTWR4dnZPQjBsMm5XMTM1Qy1mUXh2WXVBQ3lEeVZCWWZJc05uTDJsbGtyVjJuNXZWQTZzeHVsUGdHRDhyVUtKQkNtSU01WTNIbWlJ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6671,71 +6727,6 @@
    "zh_summary": "分析师给出特斯拉12个月目标价",
    "title_zh": "分析师给出特斯拉(TSLA)12个月目标价",
    "sentiment": 0
-  },
-  {
-   "id": "069e47b12444",
-   "title": "Tesla Megacharger network reaches east coast with new station in Georgia - driveteslacanada.ca",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn",
-   "source": "driveteslacanada.ca",
-   "published_at": "2026-10-08T13:20:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "driveteslacanada.ca",
-     "published_at": "2026-10-08T13:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn"
-    },
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-08T13:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDdZQlkyTk5SQzJYNmVTWG85RjBwWjloQm9wNkFVWW04c3VYejZ5cFdPUDlkSzA3WmNfeVZVck5mSlZFNmZLNjlHeEZIUTNSVUZxRExicWpwYmNmR3VmNUs0MXNHRF9iUkJ4TTFZX29fT1FheEQ3YUVEZmpwUEhuUVFn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Megacharger网络在佐治亚设新站",
-   "title_zh": "特斯拉Megacharger网络抵达东海岸，在佐治亚州新设站点",
-   "sentiment": 1
-  },
-  {
-   "id": "5e7daa9c0d3a",
-   "title": "Tesla Roadster launch was postponed by two weeks due to 'high winds' - Mashable",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Zi1Nb1JkUDUySGNRTjRHMXNGVGpFU0ZVRS0yakY1b0hXd1l1cW9WcnNJa3hwNkxPclJVUC1nR1JhVVNxM2N4QUpvd0c5STA5RVVpS2E0WFlYTlFKMDlwbU5KT2pvM0hm",
-   "source": "Mashable",
-   "published_at": "2026-10-08T13:15:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Mashable",
-     "published_at": "2026-10-08T13:15:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Zi1Nb1JkUDUySGNRTjRHMXNGVGpFU0ZVRS0yakY1b0hXd1l1cW9WcnNJa3hwNkxPclJVUC1nR1JhVVNxM2N4QUpvd0c5STA5RVVpS2E0WFlYTlFKMDlwbU5KT2pvM0hm"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Roadster发布因“强风”推迟两周",
-   "title_zh": "“强风”导致特斯拉Roadster发布推迟两周",
-   "sentiment": -1
-  },
-  {
-   "id": "e9aa5da9dd9e",
-   "title": "Some Tesla Model 3s and Model Ys Can Now Power Some Homes with New V2H Bidirectional Charging - Car and Driver",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1VSbUJfQlA4NGVpUmlQelUwWml1bXNaQW1xMVl0WUtJNmdEeFFWS2FxU0R3WUc5Z0pMVXl2cnlhVUJxeDR2RktOTjIzOTFpMktNZUl6eWd2QzNndm14QlVlQTZwUldrejNFRFdNRTBiRUF3SGRyRS1JS2M2OGVGLUtjWmZ3RWhmTUVNOENDMEhJODMtN3RUZg",
-   "source": "Car and Driver",
-   "published_at": "2026-10-08T13:10:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Car and Driver",
-     "published_at": "2026-10-08T13:10:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1VSbUJfQlA4NGVpUmlQelUwWml1bXNaQW1xMVl0WUtJNmdEeFFWS2FxU0R3WUc5Z0pMVXl2cnlhVUJxeDR2RktOTjIzOTFpMktNZUl6eWd2QzNndm14QlVlQTZwUldrejNFRFdNRTBiRUF3SGRyRS1JS2M2OGVGLUtjWmZ3RWhmTUVNOENDMEhJODMtN3RUZg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model 3/Y新增V2H双向充电",
-   "title_zh": "部分Model 3/Y现可通过V2H双向充电为家庭供电",
-   "sentiment": 1
   }
  ]
 }
