@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T13:52:50.538231+00:00",
+ "updated_at": "2026-10-11T14:07:37.935777+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（17条已评分）"
+     "note": "今日新闻情绪 +0.15（20条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-11T13:52:50.523519+00:00"
+   "as_of": "2026-10-11T14:07:37.917060+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 17
+   "avg": 0.15,
+   "count": 20
   }
  },
  "meta": {
@@ -68,23 +68,79 @@
  },
  "stories": [
   {
+   "id": "acf55dcf3785",
+   "title": "Musk Calls for Chip Engineers to Join Tesla and SpaceX - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1BQdnJvekpSVzliZkJRcE5QLUlhR0JnZ3R6eWI2RnRMV01ocEVERlkzWngxLW91UnVaRFBHQlhsSG1qT0Qtam56TW9IVEtIdjIwdFpJVWRmbEVEUnFyZzBwRF81aTc5c3ZKYUpzNkFZMWpUNHBGbHNBcGhIUFNPMkhEcnpoTGVZOTZ6ZDliUkxBekk",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-11T14:03:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-11T14:03:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1BQdnJvekpSVzliZkJRcE5QLUlhR0JnZ3R6eWI2RnRMV01ocEVERlkzWngxLW91UnVaRFBHQlhsSG1qT0Qtam56TW9IVEtIdjIwdFpJVWRmbEVEUnFyZzBwRF81aTc5c3ZKYUpzNkFZMWpUNHBGbHNBcGhIUFNPMkhEcnpoTGVZOTZ6ZDliUkxBekk"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
+  },
+  {
+   "id": "ecc35941e497",
+   "title": "Woman Gets Her Brand-New Tesla Delivered. Then She Realizes It’s Damaged - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GV2VBbjJtVF9oRGdtN25tcWgweEVhcS1PNmxrUURpbkdBWF9fT00wNzc2amJmRk45cGZob1E0Y3RsbnJtRk94OFF0LW5VRmRkZUp1QnFHWi1lV0VBWnRna1AwcGlMSGlMV0tR",
+   "source": "Motor1.com",
+   "published_at": "2026-10-11T14:01:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-11T14:01:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GV2VBbjJtVF9oRGdtN25tcWgweEVhcS1PNmxrUURpbkdBWF9fT00wNzc2amJmRk45cGZob1E0Y3RsbnJtRk94OFF0LW5VRmRkZUp1QnFHWi1lV0VBWnRna1AwcGlMSGlMV0tR"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "148946ec8efb",
+   "title": "$Alphabet-C (GOOG.US)$ $SpaceX (SPCX.US)$ $Tesla (TSLA.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3dhOXRJNW9BQjNNRHZieG55UmF1ZE52VzhibENQZGJGNmlHOEhMczNvSTlSb0s0c2J6MGhmZjNUVldkRURKZE9TeFoyd3UyWGRYZUVZNGhtY0pndlVIR2UxNk5JS3Qxa1FEQnBfX0J0b2xVN0gwM2R2TDJlY2NXVVRlRzQwZjZaS2ZFQ1FnblZaTGJtSnp5cFFMV205SmRVSGln",
+   "source": "Moomoo",
+   "published_at": "2026-10-11T13:52:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-11T13:52:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3dhOXRJNW9BQjNNRHZieG55UmF1ZE52VzhibENQZGJGNmlHOEhMczNvSTlSb0s0c2J6MGhmZjNUVldkRURKZE9TeFoyd3UyWGRYZUVZNGhtY0pndlVIR2UxNk5JS3Qxa1FEQnBfX0J0b2xVN0gwM2R2TDJlY2NXVVRlRzQwZjZaS2ZFQ1FnblZaTGJtSnp5cFFMV205SmRVSGln"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "ec124bf190c1",
    "title": "【视频】纯电动车保值率特斯拉为啥能稳居前三？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRFVRNk4tTTQ3VGtzbTAzSXF5eXhVQm1BOEpJVlA4ZTU3MDNOZnVaYzcwUjZZSHBndHRZdDJkSGV3cnRRclI2Ry00dDRRYi0wdEpLcGhHYXBDSEUyOG5ramVwZlZUdlM2YzlF",
    "source": "汽车之家",
    "published_at": "2026-10-11T13:47:05+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
      "published_at": "2026-10-11T13:47:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRFVRNk4tTTQ3VGtzbTAzSXF5eXhVQm1BOEpJVlA4ZTU3MDNOZnVaYzcwUjZZSHBndHRZdDJkSGV3cnRRclI2Ry00dDRRYi0wdEpLcGhHYXBDSEUyOG5ramVwZlZUdlM2YzlF"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-11T13:51:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnBrVS1qcERnSVhISzA2czZZWDdmVm9mRUJRX3dtRXRVekpwQ1hpbmxKSUxqdDlhU1NqdnktTXdSVXA5U2c3MXpzbU95Ym5JR280V0cxY0JMY1Z3cDhxNVZBU0tpWnRLOHRPZmZkbElOSTRpaUllTGtVMTFnYm9KRkJHRGQ5Qjgx"
     }
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "【视频】纯电动车保值率特斯拉为啥能稳居前三？ - 汽车之家",
    "zh_summary": "纯电动车保值率特斯拉稳居前三",
+   "title_zh": "【视频】纯电动车保值率特斯拉为啥能稳居前三？ - 汽车之家",
    "sentiment": 1
   },
   {
@@ -123,8 +179,8 @@
    ],
    "category": "马斯克",
    "session": "周末",
-   "title_zh": "SpaceX与Tesla(TSLA.US)利润+30%帖推荐关注",
    "zh_summary": "社交帖称特斯拉利润增长30%",
+   "title_zh": "SpaceX与Tesla(TSLA.US)利润+30%帖推荐关注",
    "sentiment": 0
   },
   {
@@ -143,8 +199,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
-   "title_zh": "本周特斯拉：FSD欧洲更名、马斯克获特朗普授勋等",
    "zh_summary": "马斯克获特朗普授勋FSD欧洲更名",
+   "title_zh": "本周特斯拉：FSD欧洲更名、马斯克获特朗普授勋等",
    "sentiment": 1
   },
   {
@@ -491,6 +547,23 @@
    "zh_summary": "上海特斯拉Model3车主投诉安全带卡扣断裂",
    "title_zh": "上海一特斯拉Model 3车主因安全带卡扣钢缆断裂向多部门投诉",
    "sentiment": -1
+  },
+  {
+   "id": "4aecbb636238",
+   "title": "TSLA Stock Rebounds Premarket After Q2 Rout — Cathie Wood Bought The Dip, Retail Influencer Sees SpaceX Merger Reveal In 3 Weeks - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmdySk5UT2ZvbDBKZ3VkcldESmc2alUyMkJNVzlJVHRyeHFTUmZDODh5WUNobFlFZTUyOGlhOTNvem1KVndJbHYwcjRHTmNXYXBBR1dRZ3R6Uk1ZeFZ3enFVRXRSbGJSNGVHLU1tUkREc043ZEhVNnhFZVJsZ2lTb1h0d1JreVdLZXVzT2hNeE1XQk4zNHhMWTBnUkVqYW1uOGY0azFzdjBkX2txVWxoWVlmdC1tTTlyLV80",
+   "source": "Stocktwits",
+   "published_at": "2026-10-11T04:19:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-11T04:19:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmdySk5UT2ZvbDBKZ3VkcldESmc2alUyMkJNVzlJVHRyeHFTUmZDODh5WUNobFlFZTUyOGlhOTNvem1KVndJbHYwcjRHTmNXYXBBR1dRZ3R6Uk1ZeFZ3enFVRXRSbGJSNGVHLU1tUkREc043ZEhVNnhFZVJsZ2lTb1h0d1JreVdLZXVzT2hNeE1XQk4zNHhMWTBnUkVqYW1uOGY0azFzdjBkX2txVWxoWVlmdC1tTTlyLV80"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
   },
   {
    "id": "99990a1a6e55",
@@ -6705,91 +6778,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉FSD欧洲改名争取欧盟批准",
    "title_zh": "特斯拉FSD欧洲改名为Tesla Assisted Driving：争取欧盟批准，对TSLA意味着什么？ - TradingKey",
-   "sentiment": 1
-  },
-  {
-   "id": "4502b7d35acf",
-   "title": "特斯拉欧洲官网将FSD更名为TAD辅助驾驶 欧盟审批再延期 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95bzE3QkhacWNUc3QwRTlKQTREb1RadkcwOXEzYllSRy0tWGJQeDAxVTVqTXBXSEZ3U2Y5cEFsYTgzaDZWOGFMWmxEeU1PSkF6QjV0SFJVMmp0MW5McWcwMWRn",
-   "source": "观点网",
-   "published_at": "2026-10-09T11:41:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-09T11:41:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95bzE3QkhacWNUc3QwRTlKQTREb1RadkcwOXEzYllSRy0tWGJQeDAxVTVqTXBXSEZ3U2Y5cEFsYTgzaDZWOGFMWmxEeU1PSkF6QjV0SFJVMmp0MW5McWcwMWRn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉欧洲FSD改名TAD，审批再延期",
-   "title_zh": "特斯拉欧洲官网将FSD更名为TAD辅助驾驶 欧盟审批再延期 - 观点网",
-   "sentiment": -1
-  },
-  {
-   "id": "9a467afaac48",
-   "title": "特斯拉FSD（完全自动驾驶）欧洲改名为TAD（辅助驾驶）；FSD入华时间仍未明确，欧盟审批再延期 - 每日经济新闻",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNm5KYVk4aVl3d01mQ1JMdG1sOVlySDg4ckljeE9fTVFTd2s3YUk4bU11Ums3clZlOTZ5amZCR25xR2s4S1h4QmpDUzFtY1JYQnZlNWU2WWVYbFdLNjBMRWZYZEtwZw",
-   "source": "每日经济新闻",
-   "published_at": "2026-10-09T11:35:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "每日经济新闻",
-     "published_at": "2026-10-09T11:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNm5KYVk4aVl3d01mQ1JMdG1sOVlySDg4ckljeE9fTVFTd2s3YUk4bU11Ums3clZlOTZ5amZCR25xR2s4S1h4QmpDUzFtY1JYQnZlNWU2WWVYbFdLNjBMRWZYZEtwZw"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T11:35:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWdxVjFDWHJiRlFJRnhTOC1feXJzVnVsbFZ4WmNjZUJ2MUxsMXFoUzg0emlQcVdoN1BhTlNxTlIyTTJnYTJXazhMTEpNOU9sUXp1RXpPOWhUdjB1cklLOFNKV0FfejAweXkycUJQcWlSY3I3TWNCSEI1WVpqWEw3bnRDZDhYZ3Jy"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "FSD欧洲改名TAD，入华审批再延期",
-   "title_zh": "特斯拉FSD欧洲改名TAD；入华及欧盟审批延期 - Sohu",
-   "sentiment": -1
-  },
-  {
-   "id": "bde187e38cc2",
-   "title": "LifeGoal Investments LLC Raises Stock Position in Tesla, Inc. $TSLA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFoyVW5mdzdqUkZheEZfRjB3aWJ1WVFkSFZqNl9RUkRTcjNkSlNxTF9IVWhHRi1Vb0YxTko0UmsxQkNlbEVrWVREQVVJaEtTZUREYklOaXZjX1lLM1RVVXJOdFM2NUF5eGMycF9nUEhDWlRMazljbFIwWWRzcVU1aTRXZzNmcjAxZEQybm1RbG41ZHJ6cFAza2dGdmZoVXJSbk9qX2VPVHdZQk0xYkJYUHFDSm5ndlVFcHRncHNKTDg0dmc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-09T11:31:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-09T11:31:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFoyVW5mdzdqUkZheEZfRjB3aWJ1WVFkSFZqNl9RUkRTcjNkSlNxTF9IVWhHRi1Vb0YxTko0UmsxQkNlbEVrWVREQVVJaEtTZUREYklOaXZjX1lLM1RVVXJOdFM2NUF5eGMycF9nUEhDWlRMazljbFIwWWRzcVU1aTRXZzNmcjAxZEQybm1RbG41ZHJ6cFAza2dGdmZoVXJSbk9qX2VPVHdZQk0xYkJYUHFDSm5ndlVFcHRncHNKTDg0dmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "机构LifeGoal增持特斯拉股票",
-   "title_zh": "LifeGoal Investments 增持特斯拉 $TSLA 股票",
-   "sentiment": 1
-  },
-  {
-   "id": "6f6288e6e12f",
-   "title": "Unlike EV Narrative, Cybercab Does Not Need Tesla To Overcome An Entire Industry (TSLA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTW9YYWJLQWxvM3hxai00Wjh1Y2g4MmctNllkT1Y1QkNRTjgybnpRNVpJQlZJMm1JY3FtWjZSejYzTHFJQVZCTUdvemdoMWVySVpDZlJzNmtYU1JGQkQzZFNHOWtfZlZhSGRLNllvb05saWNKeERKdTBYZFlRV0JWVTdCc0Q5dFo5QXQ5OThqZ0FrQ1Bkc1RyOXpnSTZGRHdzSnFiZTE2Wm5meEY5VmNacjBqMVJ6ZGlYbHVvbmtHWVlIUQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-09T11:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-09T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTW9YYWJLQWxvM3hxai00Wjh1Y2g4MmctNllkT1Y1QkNRTjgybnpRNVpJQlZJMm1JY3FtWjZSejYzTHFJQVZCTUdvemdoMWVySVpDZlJzNmtYU1JGQkQzZFNHOWtfZlZhSGRLNllvb05saWNKeERKdTBYZFlRV0JWVTdCc0Q5dFo5QXQ5OThqZ0FrQ1Bkc1RyOXpnSTZGRHdzSnFiZTE2Wm5meEY5VmNacjBqMVJ6ZGlYbHVvbmtHWVlIUQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "分析称Cybercab无需对抗整个行业",
-   "title_zh": "Cybercab 无需特斯拉对抗整个电动车行业",
    "sentiment": 1
   }
  ]
