@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T13:37:29.828145+00:00",
+ "updated_at": "2026-10-11T13:52:50.538231+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.13（15条已评分）"
+     "note": "今日新闻情绪 +0.06（17条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-11T13:37:29.804221+00:00"
+   "as_of": "2026-10-11T13:52:50.523519+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.13,
-   "count": 15
+   "avg": 0.06,
+   "count": 17
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ec124bf190c1",
+   "title": "【视频】纯电动车保值率特斯拉为啥能稳居前三？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRFVRNk4tTTQ3VGtzbTAzSXF5eXhVQm1BOEpJVlA4ZTU3MDNOZnVaYzcwUjZZSHBndHRZdDJkSGV3cnRRclI2Ry00dDRRYi0wdEpLcGhHYXBDSEUyOG5ramVwZlZUdlM2YzlF",
+   "source": "汽车之家",
+   "published_at": "2026-10-11T13:47:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-11T13:47:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRRFVRNk4tTTQ3VGtzbTAzSXF5eXhVQm1BOEpJVlA4ZTU3MDNOZnVaYzcwUjZZSHBndHRZdDJkSGV3cnRRclI2Ry00dDRRYi0wdEpLcGhHYXBDSEUyOG5ramVwZlZUdlM2YzlF"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "a2cb05695075",
    "title": "$SpaceX (SPCX.US)$$特斯拉(TSLA.US)$ 盈利 +30%。我一直在X 上关注@Market... - Moomoo",
@@ -86,6 +103,40 @@
    "zh_summary": "Moomoo用户称特斯拉盈利涨30%",
    "title_zh": "$SpaceX (SPCX.US)$$特斯拉(TSLA.US)$ 盈利 +30%。我一直在X 上关注@Market... - Moomoo",
    "sentiment": 0
+  },
+  {
+   "id": "e59f32607a6c",
+   "title": "$SpaceX (SPCX.US)$$Tesla (TSLA.US)$ Profit +30%.I’ve been following @MarketEdgeNews on X. He just shared his market outlook for the week ahead, along with strategies for stocks he’s watching closely. His analysis has been really helpful, so it’s worth - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWFZdURfdm5GVXR0OWZwblFOMmFqS3d3RjgtbGVOWVA0bncwdVQxY2h5NEg2d3RQaXZSNVZMdmtkNXVKRURTSXFiQk9NNGlES0NKaWNKaGZVWU4teDJhMVFVcGNscXhCMk82cTJtWlR6YzBoUzVWVjE3ZnA0bWhZb1M0ZVIySVhrdHduS2FHY3ZhLVFXdUtfQzNGd3dfUQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-11T13:21:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-11T13:21:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWFZdURfdm5GVXR0OWZwblFOMmFqS3d3RjgtbGVOWVA0bncwdVQxY2h5NEg2d3RQaXZSNVZMdmtkNXVKRURTSXFiQk9NNGlES0NKaWNKaGZVWU4teDJhMVFVcGNscXhCMk82cTJtWlR6YzBoUzVWVjE3ZnA0bWhZb1M0ZVIySVhrdHduS2FHY3ZhLVFXdUtfQzNGd3dfUQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
+  },
+  {
+   "id": "4b9d9f762aa6",
+   "title": "This Week in TSLA: FSD's Europe Rebrand, Elon Musk Receives Medal From Trump and More - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE96bWR3SklXamxheW9MckwxbEw4bU1yQUpIR3pLZlUwMS01ZnB1ckp2MW5NS0ptNGdPYk1FVmU3SUdGVUkweHduMjZNaVZHSFFtMjk0cXhUWjNYTjVlaE5zMDBhQjVxTm1KZ0l1SVU3TE9sWjdmX21jQUExekZXYV9zZ0xCdkc2T3dxRnJxb0JkcnVyOWhRQ091Zk1kcG1md3phVklMczM5TV9zNWVZRGdmLVdMRnJHYXFFTGJLSnpuemRyb09qam9HM0pnTFBK",
+   "source": "Benzinga",
+   "published_at": "2026-10-11T13:20:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-11T13:20:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE96bWR3SklXamxheW9MckwxbEw4bU1yQUpIR3pLZlUwMS01ZnB1ckp2MW5NS0ptNGdPYk1FVmU3SUdGVUkweHduMjZNaVZHSFFtMjk0cXhUWjNYTjVlaE5zMDBhQjVxTm1KZ0l1SVU3TE9sWjdmX21jQUExekZXYV9zZ0xCdkc2T3dxRnJxb0JkcnVyOWhRQ091Zk1kcG1md3phVklMczM5TV9zNWVZRGdmLVdMRnJHYXFFTGJLSnpuemRyb09qam9HM0pnTFBK"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
   },
   {
    "id": "cd2b1fa94e49",
@@ -6731,85 +6782,6 @@
    "zh_summary": "分析称Cybercab无需对抗整个行业",
    "title_zh": "Cybercab 无需特斯拉对抗整个电动车行业",
    "sentiment": 1
-  },
-  {
-   "id": "3d1e9076550d",
-   "title": "Is Slovakia's FSD Nod the Next Step in Tesla's European Expansion? - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ3pvTmxWRXZHWkJaMm1rczkyLWhFUzFXdnBnMERMYTFRNkktUnhpY0hCUXJnRXhoSERiWHhuTC1YYnZPN1JVaHpiSjlBc0d4VUZZcVZ6T1RTTV80YTRGWXhWZDZsZHB0dlp0OXBsVkhpWXVyenF6UXMyYWxtV2RvMGdR",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-09T11:27:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-09T11:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ3pvTmxWRXZHWkJaMm1rczkyLWhFUzFXdnBnMERMYTFRNkktUnhpY0hCUXJnRXhoSERiWHhuTC1YYnZPN1JVaHpiSjlBc0d4VUZZcVZ6T1RTTV80YTRGWXhWZDZsZHB0dlp0OXBsVkhpWXVyenF6UXMyYWxtV2RvMGdR"
-    },
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-09T11:31:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEFrUXVRYVJXekpuRGNlZjEtMzl6Y3djU0NOVDJIcHptd2NQTlVlakEyTnkxLV9wRjJrczBGaVk4aENYRkVtVEZzU214ZDNWdV9MRGg4RGZ3cnF2NWk4UnVQMzcwQVM0b05YMzk4WkIwY1paUlc2ODNrRk9KV2VhNlNPWTJLMDJKSTI3WUU3dldaWmJfUGRreVAxYTZXVElpUVJ4ZVZDTQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "斯洛伐克批准FSD助力欧洲扩张",
-   "title_zh": "斯洛伐克放行 FSD 是特斯拉欧洲扩张的下一步吗？",
-   "sentiment": 1
-  },
-  {
-   "id": "6b1e12050124",
-   "title": "Homeowner plans a roof replacement, but Tesla demands $4,600 for 15-year-old panels first - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTZyS1Q3anJXQ3JnZTN6YWttMnlYOGtfQlNiSlhVZmFLYm94bVFnMU41QXhZay1adGN4SFg3Z1k1WkEtMTFHYXlrSFRTZUV0Skt6V0hISmI4TklmWmk0NGl4RklYZWV3UTZIUk5PdENEZFMzVUpRdmdDUEZndEExRXpxTEZxdEdQ",
-   "source": "The Cool Down",
-   "published_at": "2026-10-09T11:26:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-09T11:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTZyS1Q3anJXQ3JnZTN6YWttMnlYOGtfQlNiSlhVZmFLYm94bVFnMU41QXhZay1adGN4SFg3Z1k1WkEtMTFHYXlrSFRTZUV0Skt6V0hISmI4TklmWmk0NGl4RklYZWV3UTZIUk5PdENEZFMzVUpRdmdDUEZndEExRXpxTEZxdEdQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉向换屋顶业主索4600美元",
-   "title_zh": "特斯拉要求换屋顶的业主先付 $4,600 面板费",
-   "sentiment": -1
-  },
-  {
-   "id": "3bc32af03770",
-   "title": "SpaceX Vs. Tesla: Which of Musk’s Babies Grows More By the End of 2027? - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0tHWnRlTWp3WDZ0TmJnbXpWdnF2eHFDUWN2TE5ZeFlaaTRZVGd1STRDY21SUVBhY1ZhanZ6ajFDTU14MmgwMGh4OXJpdTAtQk52UFJlRDZhUjd4bWhxWTBXNmJYTDJGQ3V2X3dxeV84SlpyR3locjRseG9maWNrRUswZlhCR0hoQ2FXc0xhU0F2Z3o1Y05nRHJZT0VJSy1zbU5XRTBGaHlCUEE4UEJpWA",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-09T11:15:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-09T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0tHWnRlTWp3WDZ0TmJnbXpWdnF2eHFDUWN2TE5ZeFlaaTRZVGd1STRDY21SUVBhY1ZhanZ6ajFDTU14MmgwMGh4OXJpdTAtQk52UFJlRDZhUjd4bWhxWTBXNmJYTDJGQ3V2X3dxeV84SlpyR3locjRseG9maWNrRUswZlhCR0hoQ2FXc0xhU0F2Z3o1Y05nRHJZT0VJSy1zbU5XRTBGaHlCUEE4UEJpWA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-09T11:15:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTVjeHRWM2F5OXpfSk9xTEpvcWNnSUE5azVTa0oyVFk2OVNvbDd5UVBiVnJ6MnhZYUszcHByVFgzSjhocW5NeUF5NTdkTG1vRjNTOHQxclNjaDVwSEtmeXNlZ3YxNXotdk9HN3BPSXZkLUxGc0VqOGVRMEhnYjJ3NGI2cndoZ2VvalQ4U0hPdU5FV1dJRHVR"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-09T11:15:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45c3lrZXpUa1BLZ2dwZ0x2YlRXVkVFTnFRWGFPVW5jbENYTUdBNUVQbm5aSXhuNExCOVRxZUdvZHZaRHVjR2FRdDM3QUVTbjd2VzlLcUZLaXF0Ul9XZGRuNWcyc0ctWHdiYUN1VTV6WGRRZkxRcUJEdmNNRQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "SpaceX与特斯拉谁增长更快",
-   "title_zh": "SpaceX与特斯拉之争：谁到2027年底增长更多",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 0.1
-   }
   }
  ]
 }
