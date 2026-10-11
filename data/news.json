@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T06:52:29.187988+00:00",
+ "updated_at": "2026-10-11T07:07:30.735568+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.22（109条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-11T06:52:29.182155+00:00"
+   "as_of": "2026-10-11T07:07:30.704319+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.22,
-   "count": 109
+   "avg": 1.0,
+   "count": 1
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "51f17a3126ff",
+   "title": "Tesla’s Cybercab fleet jumped 8x in a month, with Dallas up next - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTVQxaEFNdm1TaEYxNThtdUtOSFp4SUxBVGFTejBXRTZySHdsWDl6ancxa3p1UURLV3JRMkJ2VlpMaVRvazZ2M3h2cm9MNUdlT19yNF8zU1JSZ0lG",
+   "source": "Teslarati",
+   "published_at": "2026-10-11T07:01:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-11T07:01:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTVQxaEFNdm1TaEYxNThtdUtOSFp4SUxBVGFTejBXRTZySHdsWDl6ancxa3p1UURLV3JRMkJ2VlpMaVRvazZ2M3h2cm9MNUdlT19yNF8zU1JSZ0lG"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
   {
    "id": "9369119d51f4",
    "title": "特斯拉|紧急脱离功能|防枪击_新浪新闻 - 手机新浪网",
@@ -3262,6 +3279,23 @@
    "zh_summary": "特斯拉欧洲改驾驶辅助套件名推欧盟审批",
    "title_zh": "特斯拉在欧洲更改驾驶辅助套件名称以推动欧盟审批_车市动态 - 中金在线",
    "sentiment": 1
+  },
+  {
+   "id": "177479ab5f32",
+   "title": "TSLA Stock Falls Behind MSFT To Become Mag 7’s Worst Performer Ahead Of Q2 Earnings — But Retail Is Betting On A Musk Surprise - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFY5NmJhMmM0TXpudEhTcE5FaVRkMmFvcEdiMzlVcDdmRVpIeHJMYThaQ2VzWHZ1Z2pfTUtCZW9pbU1haVVVbjRtWGlZTm9MVkJsbEhtcWRtaTY3LUVlc3NRbXJzMmVKZWYyU0NKWEZlMmxPYlZpaFpLU2hsYTljUUJmZVNPeFZ2Qkw1dndIa0RrVG1rNkJ5YzNEYW9QUmJDU09XS2V4aEZrNGFRbUc5N2EtN3h4SkNNWGc",
+   "source": "Stocktwits",
+   "published_at": "2026-10-10T01:01:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-10T01:01:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFY5NmJhMmM0TXpudEhTcE5FaVRkMmFvcEdiMzlVcDdmRVpIeHJMYThaQ2VzWHZ1Z2pfTUtCZW9pbU1haVVVbjRtWGlZTm9MVkJsbEhtcWRtaTY3LUVlc3NRbXJzMmVKZWYyU0NKWEZlMmxPYlZpaFpLU2hsYTljUUJmZVNPeFZ2Qkw1dndIa0RrVG1rNkJ5YzNEYW9QUmJDU09XS2V4aEZrNGFRbUc5N2EtN3h4SkNNWGc"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "bd39cb40f41a",
@@ -6885,74 +6919,6 @@
    "zh_summary": "Cybercab车队数据成多空新战场",
    "title_zh": "319辆Cybercab成多空新战场：自动驾驶车队数据成华尔街新估值锚",
    "sentiment": 0
-  },
-  {
-   "id": "a063cfa5a9eb",
-   "title": "中国汽车工业协会乘联会：特斯拉9月在华销售95,366辆国产汽车 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0EyNnJTQzZzQ1lKb0VTNXQ2ZDZlUjgzSFZLTHM0S2xvT0tscjktQ0Q3ay02WHNzWDR0NXlfOFNLRUF4cElYT09EUTZrcU5vcnFscjY4OFo0b0ItSEpybjU3X24ybFZrNVhGelFuZFIwN0tuRlFxRGNZVUhwaFJBcG5PeGZaVkN4Z29JRGNibk5xLTVNQUJWb1djT0FINUU",
-   "source": "富途牛牛",
-   "published_at": "2026-10-09T09:51:16+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-09T09:51:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0EyNnJTQzZzQ1lKb0VTNXQ2ZDZlUjgzSFZLTHM0S2xvT0tscjktQ0Q3ay02WHNzWDR0NXlfOFNLRUF4cElYT09EUTZrcU5vcnFscjY4OFo0b0ItSEpybjU3X24ybFZrNVhGelFuZFIwN0tuRlFxRGNZVUhwaFJBcG5PeGZaVkN4Z29JRGNibk5xLTVNQUJWb1djT0FINUU"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-09T09:52:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Hb2M0ZFJITGY3ZzRmWkxUNEQyekIydXpqYkltd0NEWVBPcXpVRlBxbEUzcmJoV1pkTUVGcTJHWV81MXBoYjdUcGNnRQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-09T09:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2TXdoYWF4SU4tWVlwZVkzU2FxU2VTQ3NoYlhocENjejhoNy01bHhuck1XYlpwcDc4Yk5XRDlJd1BVUFVKUWM3Y1d5VU1QWFQ0MXA3WVk1Z1pTZmxmQnB2cDBmWDJScm16bEhTOU9TRmIycmpCeUtKbg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉9月在华销售95366辆国产车",
-   "title_zh": "乘联会：特斯拉9月在华销售95,366辆国产车",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -1.09,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "621004eebe64",
-   "title": "特斯拉在欧洲将FSD（完全自动驾驶）改名为TAD（特斯拉辅助驾驶） - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0tjbWdJR0pMNUJySkdWVFpLdHN4UWdDSWwyR0Q4cUE1RmN3R2RWbS1OLWxCa1NwQWR5Vko4ZXZqVkJmbGpoUHM5T3hEeXNTMDN5d1NURzZwU3BJdGN1M3dpVlZDc3BsemhtTnZYeGI3aHg4VnZuR1BIbkEyMURRaWh2Q3JkNW9fVnMyMA",
-   "source": "搜狐网",
-   "published_at": "2026-10-09T09:50:55+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T09:50:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0tjbWdJR0pMNUJySkdWVFpLdHN4UWdDSWwyR0Q4cUE1RmN3R2RWbS1OLWxCa1NwQWR5Vko4ZXZqVkJmbGpoUHM5T3hEeXNTMDN5d1NURzZwU3BJdGN1M3dpVlZDc3BsemhtTnZYeGI3aHg4VnZuR1BIbkEyMURRaWh2Q3JkNW9fVnMyMA"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T09:50:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUU9oZzBMMU5zZU1jaUIxbHFQN3dMT1pON0F1SDRwUmY3RjhDVC1veXA5SXdkbFpLV2U2anNrQkJYZTcyR1M0cW02OVlUOFc1THdjZkU3eGVmX01iV1pPdlFDRWpyeHBvNVJOZ0dkMWNBWWxFVW1QYkc5X1N2UVRtR0F6bUNYOEoyTHdxdnBEOA"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-09T11:35:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CTnl6eS1YeUhENWdyVHFHeG1KWjJCR1FwWDZQYlI2cWJOSzRnMmE5YWxfaDVGWkFkb2lLem95WXVPZFIxbk9JS3ZDTk8"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉欧洲FSD改名TAD辅助驾驶",
-   "title_zh": "特斯拉在欧洲将FSD（完全自动驾驶）改名为TAD（特斯拉辅助驾驶） - 搜狐网",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 0.1
-   }
   }
  ]
 }
