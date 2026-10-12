@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T04:22:29.159529+00:00",
+ "updated_at": "2026-10-12T04:37:29.356222+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（62条已评分）"
+     "note": "今日新闻情绪 +0.08（64条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T04:22:29.152514+00:00"
+   "as_of": "2026-10-12T04:37:29.339062+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 62
+   "avg": 0.08,
+   "count": 64
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ff11b91f4c8f",
+   "title": "特斯拉欧洲FSD更名TAD - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odlVrTUJUS1ZuR1daNS1PcS16Zi1PM3ZYMnlkZ0ZTRXdhdHhVUEpEaFVjMG5KbFVGVzVZMld1dWtSTlZrcWVPNk4yTkRtQ095SFNxYnl3YmF3MEE",
+   "source": "汽车之家",
+   "published_at": "2026-10-12T04:27:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-12T04:27:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odlVrTUJUS1ZuR1daNS1PcS16Zi1PM3ZYMnlkZ0ZTRXdhdHhVUEpEaFVjMG5KbFVGVzVZMld1dWtSTlZrcWVPNk4yTkRtQ095SFNxYnl3YmF3MEE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "53f4075f2b92",
    "title": "Elon Musk Wants Tesla, SpaceX To Test 10 Chip Designs A Year At Terafab As TSMC Reportedly Eyes Texas - Yahoo Finance",
@@ -491,26 +508,6 @@
    "zh_summary": "特斯拉财报市场反应看关键指标",
    "title_zh": "忘记交付超预期：财报反响看这一个关键数字",
    "sentiment": 0
-  },
-  {
-   "id": "4cbc3887b397",
-   "title": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report — Wall Street Expects Year-On-Year Growth - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-11T20:10:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-11T20:10:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "TSLA连涨四天，华尔街预期交付同比增长",
-   "title_zh": "TSLA交付报告前连涨第四天，华尔街预期同比增长",
-   "sentiment": 1
   },
   {
    "id": "9be0f2b64c70",
@@ -1576,26 +1573,6 @@
    "zh_summary": "Model Y车主6.5万英里高压电池失效",
    "title_zh": "Model Y车主6.5万英里高压电池无预警失效，保修更换仍存疑问",
    "sentiment": -1
-  },
-  {
-   "id": "0b83d2c689d7",
-   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-11T02:42:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-11T02:42:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "分析师预计特斯拉交付增长10%利润率改善",
-   "title_zh": "分析师预计特斯拉今年交付增长10%，利润率改善",
-   "sentiment": 1
   },
   {
    "id": "d6aa863cb102",
@@ -6355,26 +6332,6 @@
    "sentiment": 0
   },
   {
-   "id": "f36ffbba2474",
-   "title": "TSLA Stock Slips After Hours — EV Giant Reports High Cash Burn In Q2 Amid AI, Robotics Pivot - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg",
-   "source": "Stocktwits",
-   "published_at": "2026-10-09T15:53:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-09T15:53:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉二季度现金消耗大，盘后股价下跌",
-   "title_zh": "特斯拉二季度现金消耗高企，股价盘后下跌",
-   "sentiment": -1
-  },
-  {
    "id": "0c90f405206f",
    "title": "Dan Ives' $500 Tesla Target Hinges on Robotaxis - Tesla (NASDAQ:TSLA) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9sSE5nTDA0MnNlNmRPMFBZanBCT1g5c2REdm9BckZYbFpsYzA4ZmVQN1FiLWRLQXNla2RRNFNFa2hubGZVdVB5UlJqbE4yMnJVRXdCeWJqR2NaR2lob0ppTFRsUjFIU0F2aGx1b21aOVpCTWUxUExPVjFxeE1jclp0NWJMM2hPbmZDSEpwQU5VZw",
@@ -6400,7 +6357,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGx4Zk1nRUY3M3VXQ2x4aUNmd1AyMlFXR24xQ19XQ3dTd21EaVEwUW82QzBmLVpzZHQzZXlHNV9WTjlPMXI5YTAzRjZIY3Nna1dyNUxoTmxsdEhrM05ZcnNuNktPNWc5cTl6M0FmeVp6VDRlWmE3LTJadzVXSW1xWFM5RC0zMHlFR0xXaEhhS2c4QVZQLWdhd3huYVhlUGRr",
    "source": "Electrek",
    "published_at": "2026-10-09T15:16:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Electrek",
@@ -6416,6 +6373,11 @@
      "name": "The Tech Buzz",
      "published_at": "2026-10-09T19:37:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWjgwOW8tRmQ5TTQxczJYV0c3ZGlqRVlrblc5NG84b2VKcFVySHh0LVRESlhhcmkyUXhheUIxVkR0UnBOcXVlLXRldG95TVhZMVFzT0VvRkpWYjcwNUk3TExqZ0RucVh2U1l2X2t4bFcwNm9IVnVYOW4tVG9xbXdSVnIzd05qNXh3bjU2LVJlQUlKaVZfSElv"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-09T18:14:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWRVOFd6Mnlsc3RDZUZIODdKMUM3YzBHbGR0eGx4NV9fc3RIWTUzeHY5MzRzZ3NKWnd6VC1Id3g4NmJlYnphSURpMnNLZVpKRU12Y1FUSGQzdEV1anBKZ3lLazNPRTRGMEhrUlJSeW13SDJoZFVrWENTbnZjaVZsWUlweDktaHhfT0pZWEtIRTJ2eW4wQ1lfTE02QW9xNUtmMWc"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6596,6 +6558,23 @@
    }
   },
   {
+   "id": "3b3041297d07",
+   "title": "Tesla Spikes After Best China Sales Numbers Of The Year - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHFhdGZCWWM5ekZWYnhkaUNRdl9RQk1pT0YyRzNZeWVDRjNBb203TjdJVFVfQjUxNFNhZThEZHZYUWpra1hDMlFDTVZXSDIwM3VFcHRGa3Q0Z1Jhd2hrWjRKVHlNX3k5THpCd0M0VHlBTFZRSDl6MUF5SnhmTTFORGNvWmx1R1B0Q1J0M3N3",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-09T14:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-09T14:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHFhdGZCWWM5ekZWYnhkaUNRdl9RQk1pT0YyRzNZeWVDRjNBb203TjdJVFVfQjUxNFNhZThEZHZYUWpra1hDMlFDTVZXSDIwM3VFcHRGa3Q0Z1Jhd2hrWjRKVHlNX3k5THpCd0M0VHlBTFZRSDl6MUF5SnhmTTFORGNvWmx1R1B0Q1J0M3N3"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
    "id": "a05b4a486bff",
    "title": "特斯拉\"紧急驶离\"功能或致损2.5万美元 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGZMVFgzRUxwMHJtMXBSMVI1T0ZyRWpJeVdfVm56MkRzMkRIdWZQNFNKVWVQdDVEQTJyN1gtSHdJVlJLMlBRd3dWcXVpcnF4VGE2Wms3eW1IQ2I0cHVRdlVkUm5seVhucGVQeFBtMXg3ckFIa3NZUjlHTnRpenczRE9BRWEwRDlY",
@@ -6684,6 +6663,23 @@
    "zh_summary": "雅虎财经发布特斯拉财报前瞻",
    "title_zh": "特斯拉财报前瞻：对本次财报的预期（雅虎财经）",
    "sentiment": 0
+  },
+  {
+   "id": "d49496d2eee6",
+   "title": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWnJjenJ1TUdxcU0zRlhPYWhwSmoxeXRTMFIxc3dQMm1NT0NncDdBU0t0Um9CcFFyaXBsWlREbXM1SW5xMjlGUQ",
+   "source": "财联社",
+   "published_at": "2026-10-09T14:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-09T14:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWnJjenJ1TUdxcU0zRlhPYWhwSmoxeXRTMFIxc3dQMm1NT0NncDdBU0t0Um9CcFFyaXBsWlREbXM1SW5xMjlGUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   }
  ]
 }
