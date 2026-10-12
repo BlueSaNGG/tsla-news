@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:22:34.290411+00:00",
+ "updated_at": "2026-10-12T18:37:27.302433+00:00",
  "market": {
-  "price": 379.08,
-  "change_pct": -0.95,
+  "price": 378.7,
+  "change_pct": -1.04,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（122条已评分）"
+     "note": "今日新闻情绪 +0.16（125条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.08 vs 20日均线 $369.66"
+     "note": "现价 $378.70 vs 20日均线 $369.65"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.5,
-   "ma20": 369.66,
-   "as_of": "2026-10-12T18:22:34.271731+00:00"
+   "implied_upside_pct": 5.6,
+   "ma20": 369.65,
+   "as_of": "2026-10-12T18:37:27.287437+00:00"
   },
-  "pe_ttm": 104.8,
+  "pe_ttm": 104.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.6%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.16,
-   "count": 122
+   "count": 125
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "34ebde16aeb5",
+   "title": "Tesla Rolls Out Tempting Model Y Lease Offers This October - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw",
+   "source": "Autoblog",
+   "published_at": "2026-10-12T18:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-12T18:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "01c410c11fd5",
+   "title": "If You're Wondering What Elon Musk's Politics Have To Do With Tesla's Cars, Watch 'Musk' - Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUNJbWRtQ1lscUhhSUgtaUgyOHhUR0Y3UUtXWXhFckdHaGJpVG9UZ3lLVzdVZlNaMk54Z3hIOWZTenhUY20tVzlscy1UOS1BSTQ1SXNiN0RjRmJEOFhhNDRBd2NxeWZpLXpObXNhQWNCaFhpS1VRXzg5cW4yMjJtdzE3Zk85aUhCTU1tQUl3cHBXY01rMF8zeDRoX1dIdHk2dUxjQVR3",
+   "source": "Jalopnik",
+   "published_at": "2026-10-12T18:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jalopnik",
+     "published_at": "2026-10-12T18:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUNJbWRtQ1lscUhhSUgtaUgyOHhUR0Y3UUtXWXhFckdHaGJpVG9UZ3lLVzdVZlNaMk54Z3hIOWZTenhUY20tVzlscy1UOS1BSTQ1SXNiN0RjRmJEOFhhNDRBd2NxeWZpLXpObXNhQWNCaFhpS1VRXzg5cW4yMjJtdzE3Zk85aUhCTU1tQUl3cHBXY01rMF8zeDRoX1dIdHk2dUxjQVR3"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "0e8953d8d021",
    "title": "Tesla Owner Says Model Y Saved Him and His Son in Wrong-Way Head-On Crash - Electric Vehicles",
@@ -6509,51 +6543,6 @@
    "zh_summary": "二手广告：2020款Model 3标续版",
    "title_zh": "【视频】新到2020年特斯拉model3 标续后驱版原版车况实表8万多公里 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "3aaeabdc2274",
-   "title": "Tesla renames driver assistance system in Europe after criticism - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWg4SU5UV3JLT2lXWVhMNTRYMUV5Wk1rUnFXcmM4YjFzNFgxbmdDMUZLY1pxSTNMWFhqTmsyeFNUNjZTZzFCdm0tRE4xcTViUnlROUJMLTBteUk5SVpXcTJwLVZubThRQU85UThMZmRsZ3ZrOTRyVFJ6UklYRi1WWHRid1NxWkJ5cDNVSmVwc1dJZktHRmt5cko0eklkWnEtY0FtU3N1NzU",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-10T08:18:37+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-10T08:18:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWg4SU5UV3JLT2lXWVhMNTRYMUV5Wk1rUnFXcmM4YjFzNFgxbmdDMUZLY1pxSTNMWFhqTmsyeFNUNjZTZzFCdm0tRE4xcTViUnlROUJMLTBteUk5SVpXcTJwLVZubThRQU85UThMZmRsZ3ZrOTRyVFJ6UklYRi1WWHRid1NxWkJ5cDNVSmVwc1dJZktHRmt5cko0eklkWnEtY0FtU3N1NzU"
-    },
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-10T09:03:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3hadjJoXzhvQ3k5dTZJMHBXVnI0Tmk1ZDQ2VG5EQklrWVNuYjFqc2FkeExEdXAtVlQwOFRTZVZvSFZMNEE5UnBObWlYcDAzQ0FTbzQ1bG4zMzFSR0VqQVQ0R3pZVW1xS1VzSmk5a205YThYWXJVcUgzT0VHQ1NOWFREZkxjMzk1U3BrcUV0NkgtQTZ0NzdBejdadw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "批评声下特斯拉欧洲更名辅助驾驶系统",
-   "title_zh": "批评声中特斯拉在欧洲更名驾驶辅助系统",
-   "sentiment": -1
-  },
-  {
-   "id": "58ba996feea6",
-   "title": "Tesla FSD: Comprehensive Debunking of Its Capabilities and Safety Claims in Europe - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CeDV4STkxUURSTTUyR1JhaUV5cTFCTS0walNyMEtGc0VvdllRckRSczFicTdOcUxwb3d4YlFzY3d2SEtfX2tVZHJUZ19rcnJzZm9B",
-   "source": "36Kr",
-   "published_at": "2026-10-10T08:15:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-10T08:15:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CeDV4STkxUURSTTUyR1JhaUV5cTFCTS0walNyMEtGc0VvdllRckRSczFicTdOcUxwb3d4YlFzY3d2SEtfX2tVZHJUZ19rcnJzZm9B"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "质疑FSD在欧洲的能力与安全性",
-   "title_zh": "全面驳斥特斯拉FSD在欧洲的能力与安全说法",
-   "sentiment": -1
   }
  ]
 }
