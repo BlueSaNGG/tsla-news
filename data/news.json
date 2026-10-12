@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T08:37:32.234954+00:00",
+ "updated_at": "2026-10-12T08:52:24.563680+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（28条已评分）"
+     "note": "今日新闻情绪 +0.32（31条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T08:37:32.218289+00:00"
+   "as_of": "2026-10-12T08:52:24.545720+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 28
+   "avg": 0.32,
+   "count": 31
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7c88c2a7657f",
+   "title": "特斯拉第二代跑车，3天后亮相 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDlIOTJfSGY3cWl3V2dTTmxTQzJUXzVqdF95bGt1WDZicnFod25Vck8tV1plMUhvYTR0RTQ5V3dMbVVWekNNMXU5X0VyU0hCLWFSdnFWZjZ5a3YxQWdFaTM1Mjdfd2c0QU9KUW94RmxvYnBrVE1XTk1CTkstMlpBY0hB",
+   "source": "新浪网",
+   "published_at": "2026-10-12T08:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-12T08:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDlIOTJfSGY3cWl3V2dTTmxTQzJUXzVqdF95bGt1WDZicnFod25Vck8tV1plMUhvYTR0RTQ5V3dMbVVWekNNMXU5X0VyU0hCLWFSdnFWZjZ5a3YxQWdFaTM1Mjdfd2c0QU9KUW94RmxvYnBrVE1XTk1CTkstMlpBY0hB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "06627e950f1c",
    "title": "Tesla Model YL: I drove it across 3 cities and here's what I learned - Team-BHP",
@@ -83,9 +100,31 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "特斯拉Model YL：三城试驾后的心得",
    "zh_summary": "Model YL三城试驾体验",
+   "title_zh": "特斯拉Model YL：三城试驾后的心得",
    "sentiment": 0
+  },
+  {
+   "id": "057982ab6c28",
+   "title": "特斯拉Model Y北欧五国拿下全品类乘用车销冠 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUJxNUU0SHJQUXlPbXNjMmtJMjFtSnNBVTE2TXJ2dG9Dd2Fad1hrSjRmT2lTbUVvejJQVldyZVNaaE5UTldNTUUwSTdnWjlBNVItM0wxWk9sYzk5emZrNEdqblA5Q2doQVA5LWo4RFQ2ZTcxQWlOOUU0eGZvTjFpeWJKQjc0SGxxNXhpWg",
+   "source": "搜狐",
+   "published_at": "2026-10-12T08:23:56+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T08:23:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUJxNUU0SHJQUXlPbXNjMmtJMjFtSnNBVTE2TXJ2dG9Dd2Fad1hrSjRmT2lTbUVvejJQVldyZVNaaE5UTldNTUUwSTdnWjlBNVItM0wxWk9sYzk5emZrNEdqblA5Q2doQVA5LWo4RFQ2ZTcxQWlOOUU0eGZvTjFpeWJKQjc0SGxxNXhpWg"
+    },
+    {
+     "name": "观点网",
+     "published_at": "2026-10-12T08:35:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43ZkNWYzhMZnpSeFdSR1VqcVg0dFVwaG9RX1oxbW5GSlg5elNyRWhkeTA3aG5GYUZuQW5lTkZsTG40amxKSlFWZFFncmlmNVdkVTlWLVhON0loNVQ0cUNYS2h3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "cfe9ea298ac5",
@@ -143,8 +182,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "【网通社快报】特斯拉宣布2026年9月Model Y在北欧五国获全品类乘用车销冠 - 凤凰网",
    "zh_summary": "特斯拉Model Y夺北欧五国9月销量冠军",
+   "title_zh": "【网通社快报】特斯拉宣布2026年9月Model Y在北欧五国获全品类乘用车销冠 - 凤凰网",
    "sentiment": 1
   },
   {
@@ -608,8 +647,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "特斯拉将Grok机器人引入Cybercab，支持乘车语音操控",
    "zh_summary": "Cybercab接入Grok语音助手",
+   "title_zh": "特斯拉将Grok机器人引入Cybercab，支持乘车语音操控",
    "sentiment": 1
   },
   {
@@ -1348,8 +1387,8 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "title_zh": "Gerber Kawasaki CEO称特斯拉Roadster限量，悬浮是噱头",
    "zh_summary": "Gerber CEO称Roadster悬浮是噱头",
+   "title_zh": "Gerber Kawasaki CEO称特斯拉Roadster限量，悬浮是噱头",
    "sentiment": -1
   },
   {
@@ -1908,8 +1947,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
-   "title_zh": "特斯拉为Cybercab和Model Y启用Grok机器人",
    "zh_summary": "Cybercab和Model Y启用Grok助手",
+   "title_zh": "特斯拉为Cybercab和Model Y启用Grok机器人",
    "sentiment": 1
   },
   {
@@ -2228,6 +2267,23 @@
    "sentiment": 2
   },
   {
+   "id": "88b9fed4855d",
+   "title": "特斯拉FSD新能力曝光：自动驾驶开始拥有「用户模型」，AI司机千人千面 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNQ1Y4bHpZRHJQaG1meldpUFA1N0Q3bTNoVkdSNHlwbWRFbTlxXzQzSk9oUDhUbW0zQlpJOGZqOVpoU1NqRmlvaXVDUnFxdGFlSWdiU2xwSk14QXExYVJSbzBGY25KVzFkLW5OM3N2dnhyTkV0djEwSDMyWVU0ekVwelU5S1ZRbjY1dkZnbG9XbXdzQUJmdDZTbXlQU1g0cDFjR0x4VVBuX0RkX3JlX09JR0dQZlFLSGdXVldLTHAwQnJqZ1JOaG9MN09tTzVuRUtDU3oxZTJIZENnOWlDWmNVc1Q3U2lmQWNkNHkwem53Rnl5ejBlX1hHVm82YWhVZ2VpejZWd3BvQS1HOXdFT082RTBDSXFLVDFwbUp1bW0wV2pxTVdoYUpNczVvdGVMVkxMa0x4MUNObXdJZTgzUXhtYVlFRWdzUkNIYU5uTjJ1UEVFaDBGdV9iVmwwODhCbUM4amU1dHppNXNpbjNOeEZKX3NWdVVaWTgyQUw4LU9fcy1jcmFsSUtyRURXQkhKV2lMLVhZa0xpR3RPUnJmSXgya3dvSXd5eGhOb0tzOThGekJIWFlSeXlsMExaZ1RoUk16ZHdOUjNuYi1YRVJ1MXpLS0hlLWdKSGlHTUgwdTFnUzR2WXdSNnlQYThCR1VGUVFKQm1peGN2RG5fQTJtVXNkeC1LTkFLSllKd0lHUUJkejRrWi0weXc4WHQ3VVloQnpuUXlJaFVOOU5Yc2pUQW41RThDMjBHdk0tZzZnaEVLSWNrRG1ORUxjZzBqXzRKcjlwTVRQS2VfVFpMdmYyczVKT0xn",
+   "source": "新浪财经",
+   "published_at": "2026-10-11T06:51:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-11T06:51:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNQ1Y4bHpZRHJQaG1meldpUFA1N0Q3bTNoVkdSNHlwbWRFbTlxXzQzSk9oUDhUbW0zQlpJOGZqOVpoU1NqRmlvaXVDUnFxdGFlSWdiU2xwSk14QXExYVJSbzBGY25KVzFkLW5OM3N2dnhyTkV0djEwSDMyWVU0ekVwelU5S1ZRbjY1dkZnbG9XbXdzQUJmdDZTbXlQU1g0cDFjR0x4VVBuX0RkX3JlX09JR0dQZlFLSGdXVldLTHAwQnJqZ1JOaG9MN09tTzVuRUtDU3oxZTJIZENnOWlDWmNVc1Q3U2lmQWNkNHkwem53Rnl5ejBlX1hHVm82YWhVZ2VpejZWd3BvQS1HOXdFT082RTBDSXFLVDFwbUp1bW0wV2pxTVdoYUpNczVvdGVMVkxMa0x4MUNObXdJZTgzUXhtYVlFRWdzUkNIYU5uTjJ1UEVFaDBGdV9iVmwwODhCbUM4amU1dHppNXNpbjNOeEZKX3NWdVVaWTgyQUw4LU9fcy1jcmFsSUtyRURXQkhKV2lMLVhZa0xpR3RPUnJmSXgya3dvSXd5eGhOb0tzOThGekJIWFlSeXlsMExaZ1RoUk16ZHdOUjNuYi1YRVJ1MXpLS0hlLWdKSGlHTUgwdTFnUzR2WXdSNnlQYThCR1VGUVFKQm1peGN2RG5fQTJtVXNkeC1LTkFLSllKd0lHUUJkejRrWi0weXc4WHQ3VVloQnpuUXlJaFVOOU5Yc2pUQW41RThDMjBHdk0tZzZnaEVLSWNrRG1ORUxjZzBqXzRKcjlwTVRQS2VfVFpMdmYyczVKT0xn"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
    "id": "9369119d51f4",
    "title": "特斯拉|紧急脱离功能|防枪击_新浪新闻 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SNEw2UXc0S09DcW95QnItN21FQWRSQ1V4MUtYckNSS0VUZERRbUdiQ2xzN29fbDNKeUJnUVk4TV91RERPYnFwbVhvOGFGc0VlMmtDamlJWWUxdUZGeDZxc1YxSQ",
@@ -2396,6 +2452,23 @@
    "zh_summary": "Model Y车主6.5万英里高压电池失效",
    "title_zh": "Model Y车主6.5万英里高压电池无预警失效，保修更换仍存疑问",
    "sentiment": -1
+  },
+  {
+   "id": "0b83d2c689d7",
+   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-11T02:42:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-11T02:42:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末"
   },
   {
    "id": "d6aa863cb102",
@@ -6261,6 +6334,23 @@
    "sentiment": -1
   },
   {
+   "id": "75524a9f3329",
+   "title": "Tesla (NASDAQ:TSLA) Stock Jumps 2.1% - Should You Buy? - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkpaWEtOTkttZDNMX3NRWU5xWnFDVlZYMjlaTFduOWh6MTJSUmFQN1NheVhma002b0EtaDFLcnk3ZERmRE82TEpnS3dZbDY2M0JzQm9wSUxlb1pRdDdvT1MwOVh0UDhNb2tCWWNmbHlUT01US2FGb1c2RDQ5LThmWVcwWWNObm4zUDdNdFI3bHV5UVRzc1FPaUl1Z2I4TjdOWnZJUEY4bmxJTGs",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T21:46:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T21:46:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkpaWEtOTkttZDNMX3NRWU5xWnFDVlZYMjlaTFduOWh6MTJSUmFQN1NheVhma002b0EtaDFLcnk3ZERmRE82TEpnS3dZbDY2M0JzQm9wSUxlb1pRdDdvT1MwOVh0UDhNb2tCWWNmbHlUT01US2FGb1c2RDQ5LThmWVcwWWNObm4zUDdNdFI3bHV5UVRzc1FPaUl1Z2I4TjdOWnZJUEY4bmxJTGs"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
+  {
    "id": "a7aa6098d09a",
    "title": "Tesla Robotaxi App 26.8.3 Now Live on iOS - BASENOR",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkV3M2dPZEVIMzhXcC1mZzl6UkZ2eTl2Q1gxaFNMSVJ0NE05dGQxdi1KNzMwSkgxZzVKUEhyTVJ4cnBsSmN1dElPWGJ0c001c1lxSmNzVWV1SW5TdHJ2ajY3VUJURjRiaFI5QjA2Uk9mLUZlclRWdXVqWHBMeFltSTN3",
@@ -6459,116 +6549,6 @@
    "zh_summary": "特斯拉商用充电桩六个关键细节",
    "title_zh": "特斯拉商用充电桩：六个值得关注的细节",
    "sentiment": 0
-  },
-  {
-   "id": "d91d352beaf8",
-   "title": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58% - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkh4V0JvSzNnYlhZTEtTVEg4UDlSVlF4OTlZUGVBc2RNb1IxMC0xcXg4QVRnZTI1S2lab1dfZGxYeHU4RHJhNC1YZ0t3SmxxclpzV1AwMFY0RlFXNGs0aW5SeXYyb2xBRjFaR0JMYUN2UDlyNlJJcjNyUUtYcFJOMzZSMF9NZ2tWaVhjeFg2eDVQNTVHREVWTE9mYw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-09T18:45:17+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-09T18:45:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkh4V0JvSzNnYlhZTEtTVEg4UDlSVlF4OTlZUGVBc2RNb1IxMC0xcXg4QVRnZTI1S2lab1dfZGxYeHU4RHJhNC1YZ0t3SmxxclpzV1AwMFY0RlFXNGs0aW5SeXYyb2xBRjFaR0JMYUN2UDlyNlJJcjNyUUtYcFJOMzZSMF9NZ2tWaVhjeFg2eDVQNTVHREVWTE9mYw"
-    },
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-09T18:45:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUxudGNtR0tqM0x3V015Rldrd05zaFplQldLRWxoRWpqQjJZODJseTZMZW1lLXJBSFV6RkZMOUVGNXc1R1pSNEhVVVdxb0J6WVNfdDducmV0WldoRXN0MVBHeWlMVmxUdlFid3gtc2V2WVpRUmdvZk5UMmNUdHR1aDZ6amVlLUcycUd1YXBZZ1pvbUZJWEJnM0N6UEw3bGJkdHNHaw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "特斯拉中国零售跌9%出口增58%",
-   "title_zh": "特斯拉中国零售销量跌9%，上海出口激增58%",
-   "sentiment": -1
-  },
-  {
-   "id": "beecd0ae5ff9",
-   "title": "特斯拉Model 3没有混动？燃油/插混/增程/纯电4种能源区别一次说清+FAQ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BSVlLZjc1bVBrQzRlM0Q1WGJyQWg3QTg5QXUyb2NzM2ZLUlVCcS1mTnBKVmtlSnBhUEtKbXhXdjFrZnhaSGRjZExDNllSWEcySEVQMXYxRmxHSUpHdjlONm81QzNpNHBWUTZNV0RhWjdZZw",
-   "source": "新浪网",
-   "published_at": "2026-10-09T18:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-09T18:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BSVlLZjc1bVBrQzRlM0Q1WGJyQWg3QTg5QXUyb2NzM2ZLUlVCcS1mTnBKVmtlSnBhUEtKbXhXdjFrZnhaSGRjZExDNllSWEcySEVQMXYxRmxHSUpHdjlONm81QzNpNHBWUTZNV0RhWjdZZw"
-    }
-   ],
-   "category": "能源",
-   "session": "盘中",
-   "zh_summary": "Model 3无混动版：四种能源形式解析",
-   "title_zh": "特斯拉Model 3没有混动？燃油/插混/增程/纯电4种能源区别一次说清+FAQ - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "17197405f921",
-   "title": "Tesla's Overseas Recovery Is Gaining Ground - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDZ2aDNZSUZqWnVCZS1qM0E2YTBYNEpRdGRYdVpMWFVqSERPQ0N4eTVXWWNOWWprOVcyaVBJSnVUbjFOTlVISFV1RjZoVGRpX3oyc01SejkwMU9uUHJ0X045NFpVMDJTVHRiRTZPR2g3d2FENDcxZ3J6U20tdWRYWTA4OFNWajhi",
-   "source": "GuruFocus",
-   "published_at": "2026-10-09T18:35:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-09T18:35:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDZ2aDNZSUZqWnVCZS1qM0E2YTBYNEpRdGRYdVpMWFVqSERPQ0N4eTVXWWNOWWprOVcyaVBJSnVUbjFOTlVISFV1RjZoVGRpX3oyc01SejkwMU9uUHJ0X045NFpVMDJTVHRiRTZPR2g3d2FENDcxZ3J6U20tdWRYWTA4OFNWajhi"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-09T19:20:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWnUyMXZSa2N4d1dhVFhfRnZ6ZVdBc25sRndGdzhHemhDejV1RnRVMWJCMWlTTHBzRWxVMDMzSDJ5WDB5eHMyT2lDT3FZSGxtX2RaQ25wc1Y0a3FNdW5EN1BGSmxCTTJNZTQxQlFZZkJtZmNoZk9xalZUOHhHay0xb29Sek5GYkdtTm9Oc0FFMEgyRzNobThNU0VoaHlqYmQ0ZEU5M2xB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉海外复苏势头增强",
-   "title_zh": "特斯拉海外复苏势头正在增强",
-   "sentiment": 1
-  },
-  {
-   "id": "21f2b2765f63",
-   "title": "Rivian’s Rad Reinterpretation of an Iconic Movie Car Just Put Tesla on Notice - Gear Patrol",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14TnVHdzlVUTBPc1BoenpFLUozcWVYOXROSnBrMHZNNEJTdHVrTndzQVhRblE3N2JWWng0SEQ3aFhZLUJfaWVYRk4tRGxHWXYzeWNxNTlacEdUcU1KeFRWdEdRdjdwRGczeXpfdEZRdw",
-   "source": "Gear Patrol",
-   "published_at": "2026-10-09T18:28:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gear Patrol",
-     "published_at": "2026-10-09T18:28:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14TnVHdzlVUTBPc1BoenpFLUozcWVYOXROSnBrMHZNNEJTdHVrTndzQVhRblE3N2JWWng0SEQ3aFhZLUJfaWVYRk4tRGxHWXYzeWNxNTlacEdUcU1KeFRWdEdRdjdwRGczeXpfdEZRdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Rivian新车被指威胁特斯拉",
-   "title_zh": "Rivian翻新经典电影座驾，被指对特斯拉构成威胁",
-   "sentiment": -1
-  },
-  {
-   "id": "2af6e3781e60",
-   "title": "Video Shows Man Stuck in Tesla Cybercab That Goes in Circles Around Parking Lot - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDUyR01GemJMXzFGYjUybEhCd0g3T1JsVURBc1BwYm1sUHBPT19yazR3N1ZsMUJnYmJhRXBmSWgwWnhLYWhOc2p6Q2FUUFZfTjFNMWliZnVqUVNQU2xWOHg4OWVzTFFteG10OGpaMGY3VWdmMVc4SFhzdDh0TENoRWRZNS1VV1gwYTkxMTNDZGVlMV9XZXA4ZXJR",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-09T18:26:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-09T18:26:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDUyR01GemJMXzFGYjUybEhCd0g3T1JsVURBc1BwYm1sUHBPT19yazR3N1ZsMUJnYmJhRXBmSWgwWnhLYWhOc2p6Q2FUUFZfTjFNMWliZnVqUVNQU2xWOHg4OWVzTFFteG10OGpaMGY3VWdmMVc4SFhzdDh0TENoRWRZNS1VV1gwYTkxMTNDZGVlMV9XZXA4ZXJR"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "男子被困Cybercab停车场转圈",
-   "title_zh": "男子被困特斯拉Cybercab 在停车场打转",
-   "sentiment": -1
   }
  ]
 }
