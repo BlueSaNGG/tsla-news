@@ -59,7 +59,11 @@
    "session": "盘中",
    "zh_summary": "联邦调查特斯拉Robotaxi学区超速",
    "title_zh": "联邦机构调查特斯拉Robotaxi是否在学区超速",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.0,
+    "window_h": 1.6
+   }
   },
   {
    "id": "fd79f5286f84",
@@ -1103,6 +1107,31 @@
    "session": "盘前",
    "zh_summary": "马斯克反对美国对华电车加税",
    "title_zh": "特斯拉离不开中国！马斯克反对美对华电车加税 一句揭开美国遮羞布 - 新浪网",
+   "sentiment": 0
+  },
+  {
+   "id": "32e266f97d88",
+   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
+   "source": "Technology Org",
+   "published_at": "2026-10-12T11:27:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-12T11:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
+    },
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T12:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前",
+   "zh_summary": "特斯拉为何在欧洲更名FSD",
+   "title_zh": "为什么特斯拉在欧洲将FSD改名",
    "sentiment": 0
   },
   {
@@ -35801,5 +35830,5 @@
    "sentiment": -1
   }
  ],
- "count": 1695
+ "count": 1696
 }
