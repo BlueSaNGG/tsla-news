@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T17:22:34.788172+00:00",
+ "updated_at": "2026-10-12T17:37:30.459226+00:00",
  "market": {
-  "price": 379.14,
-  "change_pct": -0.93,
+  "price": 379.32,
+  "change_pct": -0.88,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（114条已评分）"
+     "note": "今日新闻情绪 +0.18（116条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.14 vs 20日均线 $369.67"
+     "note": "现价 $379.32 vs 20日均线 $369.68"
     },
     {
      "key": "分析师动向",
@@ -43,8 +43,8 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 5.5,
-   "ma20": 369.67,
-   "as_of": "2026-10-12T17:22:34.776778+00:00"
+   "ma20": 369.68,
+   "as_of": "2026-10-12T17:37:30.454343+00:00"
   },
   "pe_ttm": 104.9,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.18,
-   "count": 114
+   "count": 116
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "5c8f89c62e41",
+   "title": "Tesla Model 3 Breaks Its Own Efficiency Record LA to NY - Autoweek",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjk4a3pqVUlyUWJXcEVFeENiOUJyU2Q0T0hKc0VDWVF6dmtsbDVXMW5BYjFlcmVTNmVLTFI1OFVyZVV4ckp3TTNVSUFzTFNzaHJPXzFVNndJbVlnbkdUN2M5R2J1WWg5a0ZEaWZiTVhheTJZY1JZVEpOQ1dJcGRNenF2cGRhdGJsVGJaWDUzTmZEdw",
+   "source": "Autoweek",
+   "published_at": "2026-10-12T17:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoweek",
+     "published_at": "2026-10-12T17:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjk4a3pqVUlyUWJXcEVFeENiOUJyU2Q0T0hKc0VDWVF6dmtsbDVXMW5BYjFlcmVTNmVLTFI1OFVyZVV4ckp3TTNVSUFzTFNzaHJPXzFVNndJbVlnbkdUN2M5R2J1WWg5a0ZEaWZiTVhheTJZY1JZVEpOQ1dJcGRNenF2cGRhdGJsVGJaWDUzTmZEdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "7edc372ed45a",
+   "title": "First Look Review: Tesla Cybercab wants to make driverless travel everyday life - TopElectricSUV",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoUGhNYXRmMC1Nbk5xRV9nZTUwa3p3Y1ZTTFg0R2hqVTBQMjhTVzhVT1lWMzVYTjZiZk4yVkszSmJMN00yNElLclpUREl3U1FYYUU4Q29tb0d3ZVBYelFZT2hOVQ",
+   "source": "TopElectricSUV",
+   "published_at": "2026-10-12T17:23:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TopElectricSUV",
+     "published_at": "2026-10-12T17:23:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoUGhNYXRmMC1Nbk5xRV9nZTUwa3p3Y1ZTTFg0R2hqVTBQMjhTVzhVT1lWMzVYTjZiZk4yVkszSmJMN00yNElLclpUREl3U1FYYUU4Q29tb0d3ZVBYelFZT2hOVQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "1011ab278fbe",
+   "title": "News | Tesla signs lease at office building in Richardson, Texas - CoStar",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXZyeXJCcHRaRFVTclR2allrM21ZN2h1Umx3LWlXUHVIVjF4YXhwblFiTm4yLWdyTnEwVWNmOEJEN1ZGLUJkZFNwZ3Y3WUV2Rzh6aTNyYkZfQ2lWenpUWU1LUURPYUhSVUsxSUdfYmExWGFkV1VFMFgxc0t1TVd1RTVVcmJKUGd6MmhoNDlFdkhyTDJtcjRqNkdSaFRJZw",
+   "source": "CoStar",
+   "published_at": "2026-10-12T17:22:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CoStar",
+     "published_at": "2026-10-12T17:22:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXZyeXJCcHRaRFVTclR2allrM21ZN2h1Umx3LWlXUHVIVjF4YXhwblFiTm4yLWdyTnEwVWNmOEJEN1ZGLUJkZFNwZ3Y3WUV2Rzh6aTNyYkZfQ2lWenpUWU1LUURPYUhSVUsxSUdfYmExWGFkV1VFMFgxc0t1TVd1RTVVcmJKUGd6MmhoNDlFdkhyTDJtcjRqNkdSaFRJZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "88da2cab354a",
    "title": "Lucid Plans 16 France Locations, Challenging Tesla - Lucid Group (NASDAQ:LCID) - Benzinga",
@@ -86,6 +137,23 @@
    "zh_summary": "Lucid计划在法国开16家门店挑战特斯拉",
    "title_zh": "Lucid计划在法国开设16家门店，挑战特斯拉（LCID）",
    "sentiment": 0
+  },
+  {
+   "id": "1722d948dfc7",
+   "title": "Tesla Updates Wall Connector and Powerwall With Smarter Charging - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODY4N3U1amVsMk1EdWJuYlV2b091TWR5dXdMVGdTV1VHX29OQ0h3Z283YTE0ZHlkZU5RelVraklLZHBqV3BpQ2lqX21RRnRYbXFxMm1MWldacU5iaTNnTmozSjE4aHZKUmQtTVhjRHFxdEF6TFpZTWY1aUQwYjZ0SXpKazlqNlY0MXdhalRvcw",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-12T17:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-12T17:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODY4N3U1amVsMk1EdWJuYlV2b091TWR5dXdMVGdTV1VHX29OQ0h3Z283YTE0ZHlkZU5RelVraklLZHBqV3BpQ2lqX21RRnRYbXFxMm1MWldacU5iaTNnTmozSjE4aHZKUmQtTVhjRHFxdEF6TFpZTWY1aUQwYjZ0SXpKazlqNlY0MXdhalRvcw"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
   },
   {
    "id": "6e54df2dc2db",
@@ -6518,121 +6586,6 @@
    "session": "周末",
    "zh_summary": "巴黎车展：特斯拉小鹏领衔体验",
    "title_zh": "欧洲主场被中美包场！巴黎车展公开体验特斯拉和小鹏：欧洲车企全缺席_热点推荐 - 证券之星",
-   "sentiment": 1
-  },
-  {
-   "id": "9b3b1ab7798d",
-   "title": "两辆特斯拉高架“斗气”致车祸 上海警方通报 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzBPNi1NMXBwbkRqaUxmWm8yZjBwb3dnYWdOZHEyU19YR0hjYkhSMGxUQWxwYlhyaWJxLUk2U2szc0lNaFBDcl9yend6Ymp1OVl2T1R6bXZjeDJhWWtfXzZHNFhuTi1JT0dqMmlGdHN1NTh2TWhwRkxVSno1Z0NzRndWLXpTSF9h",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T07:40:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T07:40:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzBPNi1NMXBwbkRqaUxmWm8yZjBwb3dnYWdOZHEyU19YR0hjYkhSMGxUQWxwYlhyaWJxLUk2U2szc0lNaFBDcl9yend6Ymp1OVl2T1R6bXZjeDJhWWtfXzZHNFhuTi1JT0dqMmlGdHN1NTh2TWhwRkxVSno1Z0NzRndWLXpTSF9h"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "两特斯拉高架'斗气'致车祸警方通报",
-   "title_zh": "两辆特斯拉高架'斗气'致车祸 上海警方通报",
-   "sentiment": -1
-  },
-  {
-   "id": "605f54090db6",
-   "title": "Castleview Partners LLC Buys 2,052 Shares of Tesla, Inc. $TSLA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1yWDhPTnJGdUxaTHZlb2pZTk4tM2ZwdmM0UHRsUkE4cmVxZFlfMFZqQ0hkSTJyRnpSSEpMbDZST1o0NlNiVXBYLTFpUVl3elBpOWxoWk5Fd0lqM0NZM3RyWnoyVmtBXzE1V0NVUG5xazNjczJ6QkFkYldJYUZQNVMwc2VieDlVYmZaM3l5ekRXOFNwUVhNR1l2VHhpeG1nalBXSHo5Q05LeFppdmpQUGIzLVhlbjJlNmJr",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:36:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:36:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk1yWDhPTnJGdUxaTHZlb2pZTk4tM2ZwdmM0UHRsUkE4cmVxZFlfMFZqQ0hkSTJyRnpSSEpMbDZST1o0NlNiVXBYLTFpUVl3elBpOWxoWk5Fd0lqM0NZM3RyWnoyVmtBXzE1V0NVUG5xazNjczJ6QkFkYldJYUZQNVMwc2VieDlVYmZaM3l5ekRXOFNwUVhNR1l2VHhpeG1nalBXSHo5Q05LeFppdmpQUGIzLVhlbjJlNmJr"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "机构买入2052股特斯拉股票",
-   "title_zh": "Castleview Partners LLC 买入 2,052 股特斯拉股票",
-   "sentiment": 1
-  },
-  {
-   "id": "06df2a1b7737",
-   "title": "2026巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmtkcDJUT2dTa2NEaFJ5UmJSc3BJS29PS1pXTXlGYWtXX1dZM2lJV08ydG1HZTBhZmRla082N2hJc2ZMb09JVVRJZEh4Z1Q5d3JpQlJtSFc5Z1AwUnd5bFVHMXcwT0RmQWJORUhjcFc5c2hVYjEzSEJvVzVKTU83QzdmVUFwTVJD",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T07:33:24+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T07:33:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmtkcDJUT2dTa2NEaFJ5UmJSc3BJS29PS1pXTXlGYWtXX1dZM2lJV08ydG1HZTBhZmRla082N2hJc2ZMb09JVVRJZEh4Z1Q5d3JpQlJtSFc5Z1AwUnd5bFVHMXcwT0RmQWJORUhjcFc5c2hVYjEzSEJvVzVKTU83QzdmVUFwTVJD"
-    },
-    {
-     "name": "网通社",
-     "published_at": "2026-10-10T07:36:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tRHVTdkg1THpsQzN1ck5tZ2VHa2xNN3hPQnVYb0VJbmlZdmlUMGZ3aVdGNzNqY3h0SHNJczgyOGZtOUZiUUsxUDhyTEM3cDc1N0x4MGw1c3dUbnc"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-10T07:36:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LZnlVMHd5VllXZDRMZVF3QVg3NkRnc1dvdk9PYVdhUkYzRGVVSDZKMTNJcU1SVy1PY0lweXY0MkZtUzFsLWFfRGJjR1g"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-10T07:36:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hYWcwaWlZNzl2NVFqNGVvM21mdnpHOVVkdUYzWnBNMklBMHdkMUdEcVp2V09pdXFUcHh6ZXJ1alpfN0w4SGRTUm5ib0E"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T08:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPU2tHT2wtaU9XT2xhN3haQ1h4a0hYbnBDTlM2bHNRQjh3TlVqZS1xRVBTak1oeFlCcUhpUG50MzdwTmxkUDlBOGswWFAxQnFmSVpWMW9HMGVvcFk3aXYyeEQ4V2RPY2NpdXByUHdfeEliQ3A0eFFfWUNiSkJiZw"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-10T07:36:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hYWcwaWlZNzl2NVFqNGVvM21mdnpHOVVkdUYzWnBNMklBMHdkMUdEcVp2V09pdXFUcHh6ZXJ1alpfN0w4SGRTUm5ib0E"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T11:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTdETndBNV9fRC1Xcm5NUzJvSHg5SFR6WnN4MVBmZ0ktWVhLcmI1Yko4bG5LRUNsM1JvdW9zQldWZ01Eb3VtU2M5UkRjUXVhMmFGdFpsVkJ5cG5YSENZcW9MeFJXN3M2eXAtck5ON1pJT2FuRGxXNm16SldjcS1XaG93dVNiMlhrYUtNSzB1NU9tYm9PQ0cwQ3RaWGd5cUJ5SWo1TmVxaw"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-10T12:12:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmd1Q3hlSDIybG96eE9DUDh4YVVDeHhlUW5XaDBHSXoycEQyd0NFMWkwQ0tJWVk2V3JQSUFseF9BVkEwSUpmaHJ2VGV1WXRfZndPMTM4azRpbXNVdEVZejlLVjVsWS1QVTh6V0xDOXJXdkZBeGdqOElOSVFxS3plOGdsMlVDTEY4X3pURllIaHhiNHlpQTR6TFZiaEZpYjBzbGsxYTlPdTJULVZuTlBoZVl3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴黎车展智驾实验室仅小鹏特斯拉参与",
-   "title_zh": "2026巴黎车展新设'智驾实验室'公开体验活动，仅小鹏、特斯拉两家企业参与",
-   "sentiment": 1
-  },
-  {
-   "id": "ee14af19a297",
-   "title": "Tesla, Inc. $TSLA Stock: Balefire LLC Increases Holdings - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2pFZDFEQll4cWVWdXdCRTNYQ3FMQnhpdVI1TTF2U3hDU3ZkaF9RRW0ydHNtd1I4dURjYjRNX2lEbGtoMHM2eUJQR1g2ckFmWWhldUltRzVFSUNLdVBmQlEyWlpOVUM1bHJZREVQN0lIRlBaRU1MWjNYejVsMWNGUVdJZHF2d3d5NG5kQk5GMnBlMklHRmxOM010SWFZWTl6a2FnY2R4SmZGREtUbjdOeUtoWQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:30:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:30:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2pFZDFEQll4cWVWdXdCRTNYQ3FMQnhpdVI1TTF2U3hDU3ZkaF9RRW0ydHNtd1I4dURjYjRNX2lEbGtoMHM2eUJQR1g2ckFmWWhldUltRzVFSUNLdVBmQlEyWlpOVUM1bHJZREVQN0lIRlBaRU1MWjNYejVsMWNGUVdJZHF2d3d5NG5kQk5GMnBlMklHRmxOM010SWFZWTl6a2FnY2R4SmZGREtUbjdOeUtoWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "机构Balefire增持特斯拉股份",
-   "title_zh": "Balefire LLC 增持特斯拉 $TSLA 股票",
    "sentiment": 1
   }
  ]
