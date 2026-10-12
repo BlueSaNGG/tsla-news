@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T11:22:28.142549+00:00",
+ "updated_at": "2026-10-12T11:37:26.218305+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（53条已评分）"
+     "note": "今日新闻情绪 +0.29（55条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T11:22:28.120738+00:00"
+   "as_of": "2026-10-12T11:37:26.211473+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.34,
-   "count": 53
+   "avg": 0.29,
+   "count": 55
   }
  },
  "meta": {
@@ -68,15 +68,37 @@
  },
  "stories": [
   {
+   "id": "0e7403821982",
+   "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VMSjJpM1hCSU5WeU1sRDVJazg5eGU3OUVoazJGUEhRRmw3UmM0Q2NvRG9hMGR0REJCdnpSWU5vYm9xMGlxN1FXSHlQenpHU1dmUFZod29qMVRja2QwUnhkSG5lblVpczlINkdpYzhOY1pqMGZiMmhjMFI5enNDT09jLU1SMVk",
+   "source": "Barron's",
+   "published_at": "2026-10-12T11:19:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T11:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VMSjJpM1hCSU5WeU1sRDVJazg5eGU3OUVoazJGUEhRRmw3UmM0Q2NvRG9hMGR0REJCdnpSWU5vYm9xMGlxN1FXSHlQenpHU1dmUFZod29qMVRja2QwUnhkSG5lblVpczlINkdpYzhOY1pqMGZiMmhjMFI5enNDT09jLU1SMVk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "cf7c7d1a4dd1",
    "title": "NHTSA Considers Probe of Tesla Robotaxis Over Alleged Speeding in School Zones - www.marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakViYlA5VW9yenZFSEZlMk1leGt0TV9wYmZseldjTjdNa3ZROGVtXzNqR2p5bkFNbmN1SmxnSzRZMGVISHczUEZGSnZjSk5lc3d4cmNXdV9LUkl6NTZWYkZJbTJWeVpLTnR4aWUzR0ZTTXJNZjZxQVpuSWtaRXU3eF9jQTBqcnNWcEg0TGU2MVBPaE53RUdhejJWaHlwODJjeUJWbmFlOERJWW5hcDhwOW5FWFQ0d3FQOUVFZ3JwRHUwcWM1QXZua2l4OA",
    "source": "www.marketscreener.com",
    "published_at": "2026-10-12T11:15:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.marketscreener.com",
+     "published_at": "2026-10-12T11:15:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakViYlA5VW9yenZFSEZlMk1leGt0TV9wYmZseldjTjdNa3ZROGVtXzNqR2p5bkFNbmN1SmxnSzRZMGVISHczUEZGSnZjSk5lc3d4cmNXdV9LUkl6NTZWYkZJbTJWeVpLTnR4aWUzR0ZTTXJNZjZxQVpuSWtaRXU3eF9jQTBqcnNWcEg0TGU2MVBPaE53RUdhejJWaHlwODJjeUJWbmFlOERJWW5hcDhwOW5FWFQ0d3FQOUVFZ3JwRHUwcWM1QXZua2l4OA"
+    },
+    {
+     "name": "marketscreener.com",
      "published_at": "2026-10-12T11:15:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakViYlA5VW9yenZFSEZlMk1leGt0TV9wYmZseldjTjdNa3ZROGVtXzNqR2p5bkFNbmN1SmxnSzRZMGVISHczUEZGSnZjSk5lc3d4cmNXdV9LUkl6NTZWYkZJbTJWeVpLTnR4aWUzR0ZTTXJNZjZxQVpuSWtaRXU3eF9jQTBqcnNWcEg0TGU2MVBPaE53RUdhejJWaHlwODJjeUJWbmFlOERJWW5hcDhwOW5FWFQ0d3FQOUVFZ3JwRHUwcWM1QXZua2l4OA"
     }
@@ -1156,6 +1178,23 @@
    "zh_summary": "特斯拉Cybercab亮相苏州",
    "title_zh": "【视频】极致的具象化特斯拉Cybercab来苏州了！ - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "bbbd21c503c9",
+   "title": "小鹏去巴黎 带了机器人、飞行汽车 还主动和特斯拉同个智驾体验区 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zT0JBYnR6b3doblJtS0R2S3FMWldiTkV4RXlhdDdPMG9pQm1pOEtXaDhqbThvbE9TMUQ5UzNZcTc1Qk50X2ExMlRnOFZkazkwb2E4QWNPbWtFTFk",
+   "source": "汽车之家",
+   "published_at": "2026-10-12T05:22:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-12T05:22:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zT0JBYnR6b3doblJtS0R2S3FMWldiTkV4RXlhdDdPMG9pQm1pOEtXaDhqbThvbE9TMUQ5UzNZcTc1Qk50X2ExMlRnOFZkazkwb2E4QWNPbWtFTFk"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "b098f9b4725e",
@@ -2451,6 +2490,23 @@
    "zh_summary": "马斯克警告未来2-3年资本开支上升",
    "title_zh": "马斯克称资本效率略低可接受，警告资本开支上升",
    "sentiment": -1
+  },
+  {
+   "id": "a47c6b40b00c",
+   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
+   "source": "InsideEVs",
+   "published_at": "2026-10-11T13:02:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-11T13:02:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "9e42b8df245f",
@@ -6492,71 +6548,6 @@
    "zh_summary": "特斯拉签约包下亚利桑那综合体90%产能",
    "title_zh": "特斯拉签下亚利桑那综合体90%产能协议",
    "sentiment": 1
-  },
-  {
-   "id": "f60bea756c35",
-   "title": "特斯拉上海超级工厂9月交付量95336辆 国内销量64837辆 - 太平洋汽车网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdnliandsMmEweUtHZUQzSEtIR1lJU0RZdHkwQjJLakkwQW91VVVVOGVIczBYaVpWaF8tbUJLY1hqbjdwY3FKRk9NYlV2S1dnWVN1NmwzRnlEU2RWSUE",
-   "source": "太平洋汽车网",
-   "published_at": "2026-10-10T00:08:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "太平洋汽车网",
-     "published_at": "2026-10-10T00:08:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdnliandsMmEweUtHZUQzSEtIR1lJU0RZdHkwQjJLakkwQW91VVVVOGVIczBYaVpWaF8tbUJLY1hqbjdwY3FKRk9NYlV2S1dnWVN1NmwzRnlEU2RWSUE"
-    },
-    {
-     "name": "太平洋汽车",
-     "published_at": "2026-10-10T18:57:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdnliandsMmEweUtHZUQzSEtIR1lJU0RZdHkwQjJLakkwQW91VVVVOGVIczBYaVpWaF8tbUJLY1hqbjdwY3FKRk9NYlV2S1dnWVN1NmwzRnlEU2RWSUE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "上海工厂9月交付95336辆国内售64837辆",
-   "title_zh": "特斯拉上海超级工厂9月交付量95336辆 国内销量64837辆 - 太平洋汽车网",
-   "sentiment": 0
-  },
-  {
-   "id": "963dca65b1b7",
-   "title": "Tesla’s next big clean energy source is rising in the Arizona desert - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3ZnSGc0dVVYT3dnMnFZS3ZDN0w1YWlQY1FvbnV4OWpsTnVDQjJDeDVTREZKQ19JaVlGWTljSXViaFRVZGtyc0dDd0VDOVBGVVREcWhrWXRDRVkyRzNiQ24weWU4Z3ktWXN4V0trSnJFeVJFaEdySHl1NWkyNGZkaFRJRXpGUzNsRVRZcGNJcnlROGdjM0x5emktZHNqZHUt",
-   "source": "Electrek",
-   "published_at": "2026-10-10T00:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-10T00:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3ZnSGc0dVVYT3dnMnFZS3ZDN0w1YWlQY1FvbnV4OWpsTnVDQjJDeDVTREZKQ19JaVlGWTljSXViaFRVZGtyc0dDd0VDOVBGVVREcWhrWXRDRVkyRzNiQ24weWU4Z3ktWXN4V0trSnJFeVJFaEdySHl1NWkyNGZkaFRJRXpGUzNsRVRZcGNJcnlROGdjM0x5emktZHNqZHUt"
-    }
-   ],
-   "category": "能源",
-   "session": "盘后",
-   "zh_summary": "特斯拉亚利桑那沙漠建新清洁能源项目",
-   "title_zh": "特斯拉下一个大型清洁能源项目在亚利桑那沙漠崛起",
-   "sentiment": 1
-  },
-  {
-   "id": "bbfe75a9b318",
-   "title": "California man buys new 2026 Tesla Model X Plaid for $118,880 and manages to sell it for a surprising profit after driving 7,000 miles in it - supercarblondie.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aallncEd2cHY5XzR1eFJ2T3k2ZFFieTFIdjBkTDJ2S0NKSW05c0lfN05Ed1hBcnB1T091YVN2c1NQV1BqWnVqYUQ4R1gxZkVnQjBHWmNObnNKa3N1WUppYWZ2NTZaSUVEbUtKRmRNX25WVzR2N2FDTVBFQQ",
-   "source": "supercarblondie.com",
-   "published_at": "2026-10-10T00:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "supercarblondie.com",
-     "published_at": "2026-10-10T00:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aallncEd2cHY5XzR1eFJ2T3k2ZFFieTFIdjBkTDJ2S0NKSW05c0lfN05Ed1hBcnB1T091YVN2c1NQV1BqWnVqYUQ4R1gxZkVnQjBHWmNObnNKa3N1WUppYWZ2NTZaSUVEbUtKRmRNX25WVzR2N2FDTVBFQQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "加州男子驾Model X行驶7000英里后转手盈利",
-   "title_zh": "加州男子$118,880购Model X Plaid行驶7000英里后转手盈利",
-   "sentiment": 0
   }
  ]
 }
