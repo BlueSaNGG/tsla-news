@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T15:07:32.805900+00:00",
+ "updated_at": "2026-10-12T15:22:52.853165+00:00",
  "market": {
-  "price": 380.02,
-  "change_pct": -0.7,
+  "price": 378.4,
+  "change_pct": -1.12,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,22 +16,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 42% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.3%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（99条已评分）"
+     "note": "今日新闻情绪 +0.20（104条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.02 vs 20日均线 $369.71"
+     "note": "现价 $378.40 vs 20日均线 $369.63"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.3,
-   "ma20": 369.71,
-   "as_of": "2026-10-12T15:07:32.794002+00:00"
+   "implied_upside_pct": 5.7,
+   "ma20": 369.63,
+   "as_of": "2026-10-12T15:22:52.843939+00:00"
   },
-  "pe_ttm": 105.1,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
+  "pe_ttm": 104.7,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 99
+   "avg": 0.2,
+   "count": 104
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d2282f6d23bb",
+   "title": "Jefferies raises its target price for Tesla stock - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGplRlRvbVZ2WGdsOEY5QS15dXk4djZzZURzdDQzTGp0Uk5ySXBTWF85TmRLZjZYZEVpYmF1RmtJY0xfVm9peHZkUnVqUm5OOUhUTzNtbDc2cWV1YXE5QkNBV1EzSnFNTDlkMzFYeTgwT012OHR3aE5tLWJiYzNQM25sUmpuQW9sN2s3VGF2TkRGd05ZUkVRN09oc2ZWYVVLcWctaw",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-12T15:12:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-12T15:12:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGplRlRvbVZ2WGdsOEY5QS15dXk4djZzZURzdDQzTGp0Uk5ySXBTWF85TmRLZjZYZEVpYmF1RmtJY0xfVm9peHZkUnVqUm5OOUhUTzNtbDc2cWV1YXE5QkNBV1EzSnFNTDlkMzFYeTgwT012OHR3aE5tLWJiYzNQM25sUmpuQW9sN2s3VGF2TkRGd05ZUkVRN09oc2ZWYVVLcWctaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3256f616a2e7",
+   "title": "与特斯拉同场、智驾首次公开路测：小鹏在巴黎迈出关键一步 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tX3hJR1RfQThtVEdnYUd2RVl0UjdrWkxLUkFYWkF3WE11SDFycHI1a1hHOW10QlBzMVhQb0c2d2lZeGtQXzN3RlNTV3BVYnQ0N1VBaVAtNkZ1T1IwQ0N0dXgzNGVmMWVHRUkw",
+   "source": "汽车之家",
+   "published_at": "2026-10-12T15:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-12T15:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tX3hJR1RfQThtVEdnYUd2RVl0UjdrWkxLUkFYWkF3WE11SDFycHI1a1hHOW10QlBzMVhQb0c2d2lZeGtQXzN3RlNTV3BVYnQ0N1VBaVAtNkZ1T1IwQ0N0dXgzNGVmMWVHRUkw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "1f4553688e1a",
    "title": "Here's How Much $100 Invested In Tesla 10 Years Ago Would Be Worth Today - Benzinga",
@@ -153,12 +187,17 @@
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUVJrYUR1bnFYNEY3Z3VhcE5IaUI0WS11SWV3WV9zWFlVbUJlOUtLdWkxaXVIYmRBeGp5OTdic1J0VUZmSHV6VzJfbWlxaXlIaTZtRWZSX1o5dW1lTWdXd1E0S3NabUFuMjB1Q0FkRURVX0RFU3Zoci05TTVBMjB2ZVFNVHU1bmN2cUV3Ty1PZkw5WFYtczBBTV9IQnJON1R0b29JeTl1RnUyb0xTTXRqUFM0ZWU5dERPTEo5S3Q5UVJmZGpId1psai1KaXFic044SjZHdVBlSF9yV3djcV82SnJHc2JQZnhld1hjcWNn",
    "source": "Proactive financial news",
    "published_at": "2026-10-12T14:44:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Proactive financial news",
      "published_at": "2026-10-12T14:44:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUVJrYUR1bnFYNEY3Z3VhcE5IaUI0WS11SWV3WV9zWFlVbUJlOUtLdWkxaXVIYmRBeGp5OTdic1J0VUZmSHV6VzJfbWlxaXlIaTZtRWZSX1o5dW1lTWdXd1E0S3NabUFuMjB1Q0FkRURVX0RFU3Zoci05TTVBMjB2ZVFNVHU1bmN2cUV3Ty1PZkw5WFYtczBBTV9IQnJON1R0b29JeTl1RnUyb0xTTXRqUFM0ZWU5dERPTEo5S3Q5UVJmZGpId1psai1KaXFic044SjZHdVBlSF9yV3djcV82SnJHc2JQZnhld1hjcWNn"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-12T14:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWNVRVRVTzh6bE9MQklRNUl5dzRuai1PZDI3TktMSjh5cWFPb2xITnNaTGlhT3lwME1zN3VUTUxjMXZuSXJST0VUNXFIZ0VtcHVKMGZSMWlzMkFva1ZfRUxKZUtjcGdtallPNWhqMEhob0tIQ2RLZGlwbnN0VWVqbl9NWWRhaV9aOVcySw"
     }
    ],
    "category": "分析师",
@@ -523,7 +562,7 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZktVTkV4TkV1RUlkOTdlOXhmbElHVVZocU5CZDdVT1dVdVNQSDk3ZlBIWktPV2cwZkx5VDVBMm9WNkZJdWVTLUVPbzl6VmtyWDB0NHotWHJqZ2ZZamt0VUZpV0t4ck40MGlTNXFFQ3l4aWVhNGtRa2stYVo3M1RsNjdHQ0ljTm9vN3hFNkEyRDlHbnc",
    "source": "Yahoo Finance",
    "published_at": "2026-10-12T12:57:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -534,13 +573,22 @@
      "name": "Zacks Investment Research",
      "published_at": "2026-10-12T13:41:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOW1IaHF3dE1RQkU1NFl2U2YyU0FuVHJ2b25TQlphQmRhZjZHUWVIS3k2YWdNNi1iM3J6OUl3VVhZSl9vNTdiNk5raEUweXRSUlVWYzU5TWtsNTAtbVNuVWpxREVFZGxOWDRQdDlXNmhuMjJYTEpuek9oNXZOWW5VcWNzaHAyTnFyRGRsTDZxUy1UYnVhaHBlZU9ZT19kSmRRV0FOYV9xVnpxbkNncFE"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-12T12:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzlmMG00TXc1QmIwNS11dHRzeWM2MERxVkd6c1JLMUN1dUlzRWt0N0wxaFZUQ2Z6MTR6R0RrRVktZl9MODVjN2FMVTN3RXVWVnh2Rl9kQjE0N2NZSjJsdFViOGstN3FrMWNPMU9vanJCZDh6MXpCTW5kNGlrWHJra1NvTUlxUUpONVVMdHA0Wkp3NmJSZTRtYWV0cmlOQ0JHMHBuZEZTcGZqdkc2TUJ4RGF4NW95emhkdWxOUVBhT1cwQQ"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
    "zh_summary": "Zacks:Cybercab扩张后是否买入TSLA",
    "title_zh": "Cybercab车队扩张后，TSLA股票该买入、持有还是卖出？",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 1.9
+   }
   },
   {
    "id": "fdb1e142a407",
@@ -4686,26 +4734,6 @@
    "sentiment": -1
   },
   {
-   "id": "0a05e2ded125",
-   "title": "TSLA Stock In Focus: Margins, Robotaxis, Capex — What Gene Munster Is Watching Ahead Of Tesla Earnings Call - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-10T20:47:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-10T20:47:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "Munster关注特斯拉利润率等",
-   "title_zh": "特斯拉财报电话会前：Munster关注利润率、Robotaxi、资本开支",
-   "sentiment": 0
-  },
-  {
    "id": "8ac9999f58d4",
    "title": "Tesla Map Update NA-2026.38 Rolling Out: What's New and How to Get It - BASENOR - Tesla Accessories",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWnlmQnhUV2xESnBZeXpDODlPRjFOd196MlFxc285Sm00ejFMdG56bG41cUFFVmswOTBnOTktekRMMks0eEt1TERUc3RUbEhnbnlYaUtOa2h2dkNteTB0amY4TUkxTmE4TWc",
@@ -5235,7 +5263,6 @@
    ],
    "category": "其他",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "交付超预期2.5万辆，股价仍未突破",
    "title_zh": "特斯拉交付超预期2.5万辆，股价为何仍未突破",
    "sentiment": 1,
@@ -6385,6 +6412,23 @@
    "sentiment": -1
   },
   {
+   "id": "8490c00e5755",
+   "title": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw",
+   "source": "21财经",
+   "published_at": "2026-10-10T07:15:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-10T07:15:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
    "id": "8b8d95a0ff76",
    "title": "Key facts: Tesla, Inc. Q3 486k; Musk: Terafab Owned; Margins at Risk - TradingView",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3BBbnotVVdNNVJiaWUzTUpwY3ZjSEhlTVVZQkpYWFk4U2dDdUFCOThZSktIaHpxY1J3a01zVE9hT2NPMFNkUG95MVpaTm5RdE5idG9FM2NsTDQxM0lyTXpvdHJITGttRDJWb1VUT2RSWE8xZlFIYU9xVTFsV3pJYzVzTkJaQWFoRnY0Mk5vTURUb0NPczFjQmJDUEdhQzRxakdLMFRhTVVndnZQT0dNWUtucjdqMjdNWjh6TnJSaURMQQ",
@@ -6423,6 +6467,23 @@
    "zh_summary": "FSD欧洲更名为特斯拉辅助驾驶",
    "title_zh": "特斯拉FSD在欧洲更名为“特斯拉辅助驾驶” - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "79155e10f696",
+   "title": "特斯拉FSD，在欧洲被打回原形 - 量子位",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg",
+   "source": "量子位",
+   "published_at": "2026-10-10T06:59:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "量子位",
+     "published_at": "2026-10-10T06:59:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "a5c8aed22ba8",
@@ -6508,71 +6569,6 @@
    "zh_summary": "艾夫斯力挺特斯拉称物理AI最佳投资标的",
    "title_zh": "知名分析师丹·艾夫斯力挺特斯拉：布局物理AI最直接的投资标的 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "2b6a9b542187",
-   "title": "特斯拉改口：“全自动驾驶”变“辅助驾驶” - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0pEZnBMZ3lNMXFwdkRSYkNvZzR1YVNmUDJ4WWNobGdvNHNUcG80Y0p1NHdxcmJaa2hwc2c3cENOSDBnY1BRNmU2cmpUSTg3aXNIaFRQVjcyODFqN3dOVWt1djl1UlJtbkRMTmJtUG1Gb25kWndGYTdDMXpqVWl0X3h1RTUzOHRjLW9ITw",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T06:14:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T06:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0pEZnBMZ3lNMXFwdkRSYkNvZzR1YVNmUDJ4WWNobGdvNHNUcG80Y0p1NHdxcmJaa2hwc2c3cENOSDBnY1BRNmU2cmpUSTg3aXNIaFRQVjcyODFqN3dOVWt1djl1UlJtbkRMTmJtUG1Gb25kWndGYTdDMXpqVWl0X3h1RTUzOHRjLW9ITw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T06:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MR0xIc2JvWlQtRHc1Vm1iVFAtRWtFWTJPZFBZeW55LUZnaUl1SG0zWTNNWUhENHhqNXZCRDU2V0Y4Q2NKaWZSWVFleHA2cGduRWREZ0F2N2IwSXpXZ2k2c3dDaFlmUXNOYWtfMUc3dXJYN0NTNHhTdkJsOUh2Ujg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉将全自动驾驶改称为辅助驾驶",
-   "title_zh": "特斯拉改口：“全自动驾驶”变“辅助驾驶” - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "07043a92dc54",
-   "title": "特斯拉9月国内零售销量确认：共计交付64837辆 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hM1FXdE1NcXZkSW04UzFKWHFUU2JIT0ZreXRvWU8wODZGbHl6MWk5RXcydk5SWXhFSE1qTE1KeTFoQUNYT2hVeEl6WjVsVm5RVW5Qbk55Rjl2TmM",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T06:03:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T06:03:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hM1FXdE1NcXZkSW04UzFKWHFUU2JIT0ZreXRvWU8wODZGbHl6MWk5RXcydk5SWXhFSE1qTE1KeTFoQUNYT2hVeEl6WjVsVm5RVW5Qbk55Rjl2TmM"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉9月国内交付64837辆",
-   "title_zh": "特斯拉9月国内零售销量确认：共计交付64837辆 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "372e33ce962e",
-   "title": "特斯拉冷知识：紧急驶离，插着枪也可以强行开走 - 手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0MDFpc0tpdXpnQzZsMU5rVWlRbDdHQWJpVk5kYXFrU2JHR0dVVjEwRlQtRTFRWUppeDQxSTJnY0dxamdqZUs0UzFBa0F2bnhtdUt4bA",
-   "source": "手机网易网",
-   "published_at": "2026-10-10T05:56:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机网易网",
-     "published_at": "2026-10-10T05:56:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0MDFpc0tpdXpnQzZsMU5rVWlRbDdHQWJpVk5kYXFrU2JHR0dVVjEwRlQtRTFRWUppeDQxSTJnY0dxamdqZUs0UzFBa0F2bnhtdUt4bA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉冷知识：充电枪插着也能开走",
-   "title_zh": "特斯拉冷知识：紧急驶离，插着枪也可以强行开走 - 手机网易网",
-   "sentiment": 0
   }
  ]
 }
