@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T01:52:30.462814+00:00",
+ "updated_at": "2026-10-12T02:07:26.275413+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（55条已评分）"
+     "note": "今日新闻情绪 +0.05（56条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T01:52:30.441614+00:00"
+   "as_of": "2026-10-12T02:07:26.260295+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 55
+   "avg": 0.05,
+   "count": 56
   }
  },
  "meta": {
@@ -1263,7 +1263,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xc2RlM0JVYTZaSUliTUtLUzFkM2NGNHB1OWExYjRyek1GZlpqeGZYNGFMdlZXY3NwNnMyM0FQdWNNSWZ3VXU2TnJzRGg",
    "source": "凤凰网",
    "published_at": "2026-10-11T04:20:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网",
@@ -1274,6 +1274,11 @@
      "name": "网通社",
      "published_at": "2026-10-11T04:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ORU5sMC1FZnJiOFkzNWx6c0lfbXpaSmJsVlM4UnlPVmdaejhFaVBXcGhLcXZjYkpFMXZYMVFsVkEySDBnM09pcV9RWmxfNXB3VVl2YUVad0FlWnM"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T01:34:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmZnWlQ1aG1kcVQ2UnN4dFVRV0hvNG11YWpheVBsaHp3NndzQTQ3N2dBb2JzX1hVTjZ3ZXp0dnpjTDJlemlPYk1rVW1fMG5udWxRR1NKOFc5bWswcWVGekJERGpvRm0tdmQ3eWhLd080OHphNU4zdE1Rd2pldXNmX2xTd1YxQzFQ"
     }
    ],
    "category": "车型产品",
@@ -2006,6 +2011,23 @@
    "zh_summary": "特斯拉获亚利桑那光储电站九成产能",
    "title_zh": "特斯拉锁定亚利桑那光储新电站90%产能",
    "sentiment": 1
+  },
+  {
+   "id": "f8b491d16607",
+   "title": "10月11日，特斯拉宣布，投入运营的Cybercab已超300辆。 ​ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFE3M2xyV3h1TFJTVDV1WFIwVjE0OUVBcEFudC1nSWJUVml3bS1vc3VuZks3X1llSVVzb0lDbjlsNk51LWxsVHpOMUVXaWJSd1FvSkNWUHdZZTJHMXJ6UVo4MmFxVnc0OWZpZXBxSGx5ZWVLSzhuOVhnN3BjVGZBOQ",
+   "source": "新浪网",
+   "published_at": "2026-10-10T16:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-10T16:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFE3M2xyV3h1TFJTVDV1WFIwVjE0OUVBcEFudC1nSWJUVml3bS1vc3VuZks3X1llSVVzb0lDbjlsNk51LWxsVHpOMUVXaWJSd1FvSkNWUHdZZTJHMXJ6UVo4MmFxVnc0OWZpZXBxSGx5ZWVLSzhuOVhnN3BjVGZBOQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
   },
   {
    "id": "a06974b9bcbf",
@@ -5086,26 +5108,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉欧洲FSD更名为TAD应对监管",
    "title_zh": "特斯拉将欧洲FSD更名为Tesla Assisted Driving 此前遭德国交通部反对 - 凤凰网",
-   "sentiment": -1
-  },
-  {
-   "id": "1fea6673b862",
-   "title": "TSLA Stock Sinks As SpaceX IPO Nears — Analyst Says Investors Are Selling Tesla To Catch A Day-1 Pop In Next Musk Trade - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWhTS3VHemxZNE92eHVGb0lhLW56UE5PaWJBblZkVzJCX21LR0hJZEN3bGpVRHoyQWRrUW9YekJGeGNmR0FncU5pUmEzWHBLWkxOVUNQRWhVcXNjR25MRkhGY21nSlQ2SmRxWWRaZFVKdWRSVU9HdU1NM25NUUtrOU1ZazNwMWh4dnc4TjIwS1hvQUgxOG5CanI2S1ptZGFFWTRFODlBVTg2WWtPSkRmbzJMS1pJRkF2VTNn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-09T22:15:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-09T22:15:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWhTS3VHemxZNE92eHVGb0lhLW56UE5PaWJBblZkVzJCX21LR0hJZEN3bGpVRHoyQWRrUW9YekJGeGNmR0FncU5pUmEzWHBLWkxOVUNQRWhVcXNjR25MRkhGY21nSlQ2SmRxWWRaZFVKdWRSVU9HdU1NM25NUUtrOU1ZazNwMWh4dnc4TjIwS1hvQUgxOG5CanI2S1ptZGFFWTRFODlBVTg2WWtPSkRmbzJMS1pJRkF2VTNn"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘后",
-   "zh_summary": "特斯拉下跌，分析师称资金转向SpaceX IPO",
-   "title_zh": "SpaceX临近IPO，特斯拉下跌，分析师称投资者抛售",
    "sentiment": -1
   },
   {
