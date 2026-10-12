@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T17:37:30.459226+00:00",
+ "updated_at": "2026-10-12T17:52:28.831018+00:00",
  "market": {
-  "price": 379.32,
-  "change_pct": -0.88,
+  "price": 379.26,
+  "change_pct": -0.9,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（116条已评分）"
+     "note": "今日新闻情绪 +0.18（120条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.32 vs 20日均线 $369.68"
+     "note": "现价 $379.26 vs 20日均线 $369.67"
     },
     {
      "key": "分析师动向",
@@ -43,8 +43,8 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 5.5,
-   "ma20": 369.68,
-   "as_of": "2026-10-12T17:37:30.454343+00:00"
+   "ma20": 369.67,
+   "as_of": "2026-10-12T17:52:28.816619+00:00"
   },
   "pe_ttm": 104.9,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.18,
-   "count": 116
+   "count": 120
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c8eb545ae434",
+   "title": "Tuner Teases Out More Electric Ponies From Tesla Model S Plaid — Hits 200 MPH In 16 Seconds - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTBSMjlsRzRkLWFRZk8tWFB5aXAyNHVVQW5iaVJ0c0JQdjJhcy1idUJuVEliY0FCcEprSHFWX0tfZFdoc1hVcUVDYldtLS12WXB5b0tDTGpKTFpDTWVCOEw1bE43MXU0MVJzZWVMdDloUW5XT3lhZGZyRUFIbl8zbFhSenBfREZCUzdRZFk5ZzJKMnFuckNSSnAxbHRKMWVfOUE",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-12T17:30:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-12T17:30:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTBSMjlsRzRkLWFRZk8tWFB5aXAyNHVVQW5iaVJ0c0JQdjJhcy1idUJuVEliY0FCcEprSHFWX0tfZFdoc1hVcUVDYldtLS12WXB5b0tDTGpKTFpDTWVCOEw1bE43MXU0MVJzZWVMdDloUW5XT3lhZGZyRUFIbl8zbFhSenBfREZCUzdRZFk5ZzJKMnFuckNSSnAxbHRKMWVfOUE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "5c8f89c62e41",
    "title": "Tesla Model 3 Breaks Its Own Efficiency Record LA to NY - Autoweek",
@@ -186,6 +203,23 @@
    "zh_summary": "特斯拉在得州扩Cybercab、停Model Y出租",
    "title_zh": "特斯拉在得州扩大Cybercab规模，停止增加Model Y Robotaxi",
    "sentiment": 1
+  },
+  {
+   "id": "9128f7ed5e23",
+   "title": "Starbucks Denies A Chipotle Bid As Tesla Faces NHTSA Probe - Finimize",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWkdwZ3hXVTJ6VjNuY0tUR2FqMHhOWjJLY1ZxQUJBNTk2RWZIREdzdWZ6dlhiRm9HNThtdnZLcDFsczBZZEwwS1lTZkg1bDcxajhhcFhnQ2NseHNuQjNobWNZbG1fNVZPZ0dWWHZuLUpLZ0NwNTZBdVNTejU5eE9OeXFYYi1iM1R2eFpFaGlKY0E",
+   "source": "Finimize",
+   "published_at": "2026-10-12T16:50:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finimize",
+     "published_at": "2026-10-12T16:50:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWkdwZ3hXVTJ6VjNuY0tUR2FqMHhOWjJLY1ZxQUJBNTk2RWZIREdzdWZ6dlhiRm9HNThtdnZLcDFsczBZZEwwS1lTZkg1bDcxajhhcFhnQ2NseHNuQjNobWNZbG1fNVZPZ0dWWHZuLUpLZ0NwNTZBdVNTejU5eE9OeXFYYi1iM1R2eFpFaGlKY0E"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "e7415113806f",
@@ -5078,26 +5112,6 @@
    "sentiment": -1
   },
   {
-   "id": "0a05e2ded125",
-   "title": "TSLA Stock In Focus: Margins, Robotaxis, Capex — What Gene Munster Is Watching Ahead Of Tesla Earnings Call - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-10T20:47:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-10T20:47:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "财报前聚焦特斯拉毛利率与Robotaxi",
-   "title_zh": "财报前瞻：分析师关注特斯拉毛利率与Robotaxi",
-   "sentiment": 0
-  },
-  {
    "id": "8ac9999f58d4",
    "title": "Tesla Map Update NA-2026.38 Rolling Out: What's New and How to Get It - BASENOR - Tesla Accessories",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWnlmQnhUV2xESnBZeXpDODlPRjFOd196MlFxc285Sm00ejFMdG56bG41cUFFVmswOTBnOTktekRMMks0eEt1TERUc3RUbEhnbnlYaUtOa2h2dkNteTB0amY4TUkxTmE4TWc",
@@ -6559,46 +6573,6 @@
    "zh_summary": "紧急驶离致车辆充电桩损失2.5万美元",
    "title_zh": "特斯拉'紧急驶离'恐致充电桩与车辆损失$25,000",
    "sentiment": -1
-  },
-  {
-   "id": "a6907511a7ad",
-   "title": "欧洲主场被中美包场！巴黎车展公开体验特斯拉和小鹏：欧洲车企全缺席 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4S2dxZENBMEtDX01RdDRIWU9sUlJoUXh1SVg0Y0s3MnM5VlItZVd4N3NFcUZkcW9TTWlXc05RMlVZVWtORXVQMDU2VWVpelgwUG1fdEdxdzU",
-   "source": "驱动之家",
-   "published_at": "2026-10-10T07:43:00+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-10T07:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4S2dxZENBMEtDX01RdDRIWU9sUlJoUXh1SVg0Y0s3MnM5VlItZVd4N3NFcUZkcW9TTWlXc05RMlVZVWtORXVQMDU2VWVpelgwUG1fdEdxdzU"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-10T07:43:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsTEtGNE5pS2ZOTUZVLTU1azhHcmN2T3FFZ2FJY3pSNFg1U0pYNGhiTlRELUxtTmQ0VlBYX3otUjI5ZHdLVkZCVy15djg2MVdEZ0JjQjJSZkZsbksyRDdWTQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T07:43:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGtIbTlUYkJ0Q01ObFMzSjRibzN1bFpna3ZraDJDY3Z4eUV1Sm1IVDZRbTU2ckd1Z283UDhoMzlWeENTTDFZWVNMUGdBSVp3TlFnQzJYM00zX1NkSHAyaEhrak04UFNWOFJrSnJqU2xZa3FrMGJFa1B3eThmQ2UxRmRnYUZvNGp6"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T08:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZ1FfYkRXQTVQdnM5TmpsS2J1Z0RsWG9CemYxdjRzdzZ0d2NkdmNSV2IwNElOREd6RlBNUVpLTjMyN3F5Rnltc1RhSXprUHNVa3VzRWJVNklYWmQtRmp1SnlSV3luWVVyM2NPaFJVMkN2ekV4Z3czei1nWDNweHM"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T07:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oOTJJVUE4R3dCN1lCS21fcVhzeEdqZ0tlTXpfOF8yVURHaUZqNkdJMUs4dExMb1ZHWXF5ZUd1RENtc0NGU3hHamstSDhGdWVCZ09FemdmMGdoWVQ5cllqNUJJN2k0aW5EZGs2emdHcVFJMU1fallMTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴黎车展：特斯拉小鹏领衔体验",
-   "title_zh": "欧洲主场被中美包场！巴黎车展公开体验特斯拉和小鹏：欧洲车企全缺席_热点推荐 - 证券之星",
-   "sentiment": 1
   }
  ]
 }
