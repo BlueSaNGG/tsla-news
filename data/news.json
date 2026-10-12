@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:07:29.322341+00:00",
+ "updated_at": "2026-10-12T18:22:34.290411+00:00",
  "market": {
-  "price": 379.14,
-  "change_pct": -0.93,
+  "price": 379.08,
+  "change_pct": -0.95,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（122条已评分）"
+     "note": "今日新闻情绪 +0.16（122条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.14 vs 20日均线 $369.67"
+     "note": "现价 $379.08 vs 20日均线 $369.66"
     },
     {
      "key": "分析师动向",
@@ -43,10 +43,10 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 5.5,
-   "ma20": 369.67,
-   "as_of": "2026-10-12T18:07:29.310201+00:00"
+   "ma20": 369.66,
+   "as_of": "2026-10-12T18:22:34.271731+00:00"
   },
-  "pe_ttm": 104.9,
+  "pe_ttm": 104.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.5%空间：估值适中，预期中性",
   "next_delivery": {
@@ -56,7 +56,7 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
+   "avg": 0.16,
    "count": 122
   }
  },
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "0e8953d8d021",
+   "title": "Tesla Owner Says Model Y Saved Him and His Son in Wrong-Way Head-On Crash - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2RWaGR4bEhaQjdTM3pPRE9tRjFDaFJpVE1aUlhMbnFHM1JqMHhTZ0EzQ3prbFRFamtVQm1VWGxoZjI2cWNRYjR0cmtaYUxEbjVMSzRwM3c1bnZIMk1hUVVWaU82Vzg4QmNtUGdYTU16YXhTS1RPM2E1ZXhQdUpmdmNiMGVrMVNDM0Y0NFFNR2hzc0ZvOTU3XzRuSmZsY3MzSWxDS29XSTBVU3czR3c",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-12T18:19:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-12T18:19:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2RWaGR4bEhaQjdTM3pPRE9tRjFDaFJpVE1aUlhMbnFHM1JqMHhTZ0EzQ3prbFRFamtVQm1VWGxoZjI2cWNRYjR0cmtaYUxEbjVMSzRwM3c1bnZIMk1hUVVWaU82Vzg4QmNtUGdYTU16YXhTS1RPM2E1ZXhQdUpmdmNiMGVrMVNDM0Y0NFFNR2hzc0ZvOTU3XzRuSmZsY3MzSWxDS29XSTBVU3czR3c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "be4e72321e47",
+   "title": "The Hypersquare Is a New ‘Steering Wheel’ That’s Even Weirder Than Tesla’s Yoke - The Drive",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ084NmhhVmtaZ2cyRlc3a3h1T1dPVTRrZ3g1Yk9qN1o0eUNEbDJUX0VLNnJybnhpam02cWdibFZPYm9TczN5eHdraG1kZXRyQTlXbWlPOE5NWnlNQl9VSXJJaE1OWS0yc0ZCOXlxYm1oV3IwRnY0eGlvb1duVFhVM1kxaVpzczdjOEV2dVFBUEJpcjRFRGgwbFN3bF9tVHRuN1J0NHZ2dVI",
+   "source": "The Drive",
+   "published_at": "2026-10-12T18:05:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Drive",
+     "published_at": "2026-10-12T18:05:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ084NmhhVmtaZ2cyRlc3a3h1T1dPVTRrZ3g1Yk9qN1o0eUNEbDJUX0VLNnJybnhpam02cWdibFZPYm9TczN5eHdraG1kZXRyQTlXbWlPOE5NWnlNQl9VSXJJaE1OWS0yc0ZCOXlxYm1oV3IwRnY0eGlvb1duVFhVM1kxaVpzczdjOEV2dVFBUEJpcjRFRGgwbFN3bF9tVHRuN1J0NHZ2dVI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "51674d4d5ff2",
+   "title": "Tesla Stocks Slip as Europe Gets 'Assisted Driving' Rebrand - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0Y2LXlYY1pmVVpnQzc1UU9SVFZ4YUt3dWRIYWZJWTVRUVlmTzJSTHFxc2sxWnFEUE1SUGR6YUF0QWlKY0pUZDZ5UXpWb2RzMF9jUVJhY0xoTU45UjAxaVMxV1VRSmM2YnRvY05acXVNTEhnMklhc1VQaDhKcXlOVDZEcFdJeUg1YmtpMEdWOTNSeVVEOTRncktnVDM",
+   "source": "GuruFocus",
+   "published_at": "2026-10-12T18:01:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-12T18:01:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0Y2LXlYY1pmVVpnQzc1UU9SVFZ4YUt3dWRIYWZJWTVRUVlmTzJSTHFxc2sxWnFEUE1SUGR6YUF0QWlKY0pUZDZ5UXpWb2RzMF9jUVJhY0xoTU45UjAxaVMxV1VRSmM2YnRvY05acXVNTEhnMklhc1VQaDhKcXlOVDZEcFdJeUg1YmtpMEdWOTNSeVVEOTRncktnVDM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "1c45630f1f62",
    "title": "Xpeng’s Tesla FSD rival arrives in Europe for test drives. I tried NGP for 30 minutes in chaotic Paris traffic - CarNewsChina.com",
@@ -1421,31 +1472,6 @@
    "sentiment": 0
   },
   {
-   "id": "32e266f97d88",
-   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
-   "source": "Technology Org",
-   "published_at": "2026-10-12T11:27:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Technology Org",
-     "published_at": "2026-10-12T11:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
-    },
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-12T12:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉为何在欧洲更名FSD",
-   "title_zh": "为什么特斯拉在欧洲将FSD改名",
-   "sentiment": 0
-  },
-  {
    "id": "0e7403821982",
    "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger - Barron's",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VMSjJpM1hCSU5WeU1sRDVJazg5eGU3OUVoazJGUEhRRmw3UmM0Q2NvRG9hMGR0REJCdnpSWU5vYm9xMGlxN1FXSHlQenpHU1dmUFZod29qMVRja2QwUnhkSG5lblVpczlINkdpYzhOY1pqMGZiMmhjMFI5enNDT09jLU1SMVk",
@@ -2766,6 +2792,23 @@
    "zh_summary": "汽车之家展示Cybercab无方向盘视频",
    "title_zh": "【视频】我的方向盘呢？Tesla Cybercab！ - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "af435a9837a2",
+   "title": "$特斯拉 (TSLA.US)$ 3天内搞定Roadster - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVp2V3A5dVN5TzBHeFJ3ZDhaZl9CMHd2Q3k3V3M5MWVhcjZqYWQ5OV8zc0FWWWx4ck5Gd0kwNVhjZVZ5MXhacXlvVlNrM1ZXVXRZUlYwamphN1kwM2o4U1M1UFBBa0xsWlU2UlJDamJFMjhMZkxrMllUTnZUZ2UwMEpKV1BCdDRUNWRlSUFtZDdTVzRhNHc",
+   "source": "Moomoo",
+   "published_at": "2026-10-12T04:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-12T04:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVp2V3A5dVN5TzBHeFJ3ZDhaZl9CMHd2Q3k3V3M5MWVhcjZqYWQ5OV8zc0FWWWx4ck5Gd0kwNVhjZVZ5MXhacXlvVlNrM1ZXVXRZUlYwamphN1kwM2o4U1M1UFBBa0xsWlU2UlJDamJFMjhMZkxrMllUTnZUZ2UwMEpKV1BCdDRUNWRlSUFtZDdTVzRhNHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "ff11b91f4c8f",
@@ -6499,81 +6542,6 @@
    "zh_summary": "质疑FSD在欧洲的能力与安全性",
    "title_zh": "全面驳斥特斯拉FSD在欧洲的能力与安全说法",
    "sentiment": -1
-  },
-  {
-   "id": "a09ce5c5af0b",
-   "title": "巴黎车展智驾体验只有小鹏特斯拉报名 两大智驾系统同台竞技 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fTDZOd3dfMGhrQzhXVXpBTXJDcl9SNlJQTVlvd3ZReDR3ai1VRzVLdy15VW5aZDdzRkUtdmFEV1RWaUZnWjZGVWczQmJpVXlUcFB1RlJLTWtnajFwZm5nRG1SeTlhTXEzVFdBbXZFNHk",
-   "source": "中华网",
-   "published_at": "2026-10-10T08:05:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-10T08:05:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fTDZOd3dfMGhrQzhXVXpBTXJDcl9SNlJQTVlvd3ZReDR3ai1VRzVLdy15VW5aZDdzRkUtdmFEV1RWaUZnWjZGVWczQmJpVXlUcFB1RlJLTWtnajFwZm5nRG1SeTlhTXEzVFdBbXZFNHk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴黎车展智驾体验特斯拉与小鹏同台",
-   "title_zh": "巴黎车展智驾体验只有小鹏特斯拉报名 两大智驾系统同台竞技 - 中华网",
-   "sentiment": 0
-  },
-  {
-   "id": "cb75f679da49",
-   "title": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7表现亮眼丨盖世汽车研究院-汽车资讯 - 盖世汽车社区",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBycFNSZE1jYVFBbExpUlc2ZERtWlZKWl9sWWlvaGFESWMwRV9oUE0tQi1GVWVtMGdTYlNjNllWbGJLLU0yT1dnd3JWdVRZOERR",
-   "source": "盖世汽车社区",
-   "published_at": "2026-10-10T08:02:28+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "盖世汽车社区",
-     "published_at": "2026-10-10T08:02:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBycFNSZE1jYVFBbExpUlc2ZERtWlZKWl9sWWlvaGFESWMwRV9oUE0tQi1GVWVtMGdTYlNjNllWbGJLLU0yT1dnd3JWdVRZOERR"
-    },
-    {
-     "name": "盖世汽车",
-     "published_at": "2026-10-10T08:13:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YanA3RzhGNHk3UlhSZHZvQlIwckluS0loZ3NubGo0T1hTNEhrWFpYRmpmS1VoRnRFemtleWVzeE5RYXp4SmdReGlpTHdqNzN6"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-10T08:24:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVQXRJcE1rYjRDcVhLMFM2UDNGSzJTVjVjZEh5Y3cxTEN6VlNwUDc1R1hBUU45MXdtQVNvVE4zTGtQYmY5SHZrTE5mMFhCaW43dGx6NDEtQzJsMXNrVzdXb2NRMmE2dFZadmR3"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORElYT1BMcEMzWmF1VFNwMVJsMklxdDNWTG9aUzVzOGw1YUpLMnhOdVVGajRMdTFrQ2ZVcDR6MzJoTkhYSEt0cEFCMlR6WjRNNGYxdUpvb0pzcWRHR2VYX3NrQWRNaWlfQVQ3LWEyTFRRN0R1UkJaazZZWnJJSVNucGhfQkxXNUI3"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "8月销量榜：Model Y领跑",
-   "title_zh": "2026年8月越野/高端/猎装销量榜：特斯拉Model Y领跑，方程豹钛7 表现亮眼丨盖世汽车研究院 - 盖世汽车",
-   "sentiment": 1
-  },
-  {
-   "id": "d6807d07c7eb",
-   "title": "Tesla Taylor Railhead Hail Canopy Project 2026 - Hoodline",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONFdMejZFT1V6S1JOdEpISUpiX1ZpWnVvZUEwSzJiMEdJNUtTUl9EZmJhUmdSajd1dUx0UGFPNzdiQ3FfVWNDdDRBTloyaWxWZ0ppQ3p3Ujk0c3VMY1Q3dmIxb0VxM0FGSFdNZFJ6alYxQm51RGp6U3VrYVNCb3BIRV9NRnNTemM0OTJBakl3S3BseVFtcTlfVDZjMl9VeEE",
-   "source": "Hoodline",
-   "published_at": "2026-10-10T07:48:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Hoodline",
-     "published_at": "2026-10-10T07:48:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONFdMejZFT1V6S1JOdEpISUpiX1ZpWnVvZUEwSzJiMEdJNUtTUl9EZmJhUmdSajd1dUx0UGFPNzdiQ3FfVWNDdDRBTloyaWxWZ0ppQ3p3Ujk0c3VMY1Q3dmIxb0VxM0FGSFdNZFJ6alYxQm51RGp6U3VrYVNCb3BIRV9NRnNTemM0OTJBakl3S3BseVFtcTlfVDZjMl9VeEE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Taylor铁路站冰雹防护棚项目",
-   "title_zh": "特斯拉Taylor Railhead冰雹防护棚项目2026",
-   "sentiment": 0
   }
  ]
 }
