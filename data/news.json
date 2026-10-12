@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:52:29.268917+00:00",
+ "updated_at": "2026-10-12T19:07:28.339556+00:00",
  "market": {
-  "price": 378.37,
-  "change_pct": -1.13,
+  "price": 378.35,
+  "change_pct": -1.14,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（127条已评分）"
+     "note": "今日新闻情绪 +0.15（129条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.37 vs 20日均线 $369.63"
+     "note": "现价 $378.35 vs 20日均线 $369.63"
     },
     {
      "key": "分析师动向",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.7,
    "ma20": 369.63,
-   "as_of": "2026-10-12T18:52:29.257812+00:00"
+   "as_of": "2026-10-12T19:07:28.324280+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 127
+   "avg": 0.15,
+   "count": 129
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "085d823614f0",
+   "title": "Tesla ordered to pay $162,000 for Model X fire after failed ‘vandalism’ defense - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGNWaFJ5UHR0U0VkSHJQXzhrWERVeFphMkF2TDNBZkF6X3ZTOEpOVTFnQzBkV3IzakYzSUEyMFdrOTFOem41am1pV2Z1MS1QU2IzWmh2dXBfdmpOV0FZeTltT21iZ0l3UlBoQkwxUEtkdVVPZHRtVEstLV9TSkd5d3Y0NEU3Nlg4eVpN",
+   "source": "Electrek",
+   "published_at": "2026-10-12T18:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-12T18:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGNWaFJ5UHR0U0VkSHJQXzhrWERVeFphMkF2TDNBZkF6X3ZTOEpOVTFnQzBkV3IzakYzSUEyMFdrOTFOem41am1pV2Z1MS1QU2IzWmh2dXBfdmpOV0FZeTltT21iZ0l3UlBoQkwxUEtkdVVPZHRtVEstLV9TSkd5d3Y0NEU3Nlg4eVpN"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "08b0b1bf4994",
    "title": "Tesla Is Currently Charging Driverless Robotaxis by Hand [VIDEO] - Not a Tesla App",
@@ -534,6 +551,23 @@
    "zh_summary": "小鹏智驾巴黎首次公开路测",
    "title_zh": "与特斯拉同场、智驾首次公开路测：小鹏在巴黎迈出关键一步 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "2101ced046cb",
+   "title": "视频 | 特斯拉活动现场连线 小女儿意外亮相 马斯克:先不说了，我要去带娃了 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6engtVUNhTnRlQ1d3eXhIYndpVjZOQXZVWG5qdzlvbEl3MklyamMzVDhPRWVHaHBXR1NKbHc5VnJmdms4QWZsOXY4Qmc5MkNSMDZMcHR3SjVGR1J1N285bFE2ZVVaNEM5NVpVVV91Mm82SXUwU0FFNA",
+   "source": "新浪财经",
+   "published_at": "2026-10-12T15:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-12T15:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6engtVUNhTnRlQ1d3eXhIYndpVjZOQXZVWG5qdzlvbEl3MklyamMzVDhPRWVHaHBXR1NKbHc5VnJmdms4QWZsOXY4Qmc5MkNSMDZMcHR3SjVGR1J1N285bFE2ZVVaNEM5NVpVVV91Mm82SXUwU0FFNA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "1f4553688e1a",
@@ -6508,46 +6542,6 @@
    "session": "周末",
    "zh_summary": "特斯拉Model 3安全带钢丝断裂",
    "title_zh": "【视频】特斯拉Model 3安全带内部钢丝断裂 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "1cc6b8f6f658",
-   "title": "【视频】2023款特斯拉Model Y - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00RlMtVWd1SEZsS3FqcldlSk5Fakl3T1JPZ3pOMWxHXzlMYWNBdFhSYzJzanZCZ0p5bnZ3ZzVraXY2bE1DeE9nOHFLQjBWSk9LQkM4bzVvOUtPUFk",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T08:33:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T08:33:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00RlMtVWd1SEZsS3FqcldlSk5Fakl3T1JPZ3pOMWxHXzlMYWNBdFhSYzJzanZCZ0p5bnZ3ZzVraXY2bE1DeE9nOHFLQjBWSk9LQkM4bzVvOUtPUFk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "2023款特斯拉Model Y视频",
-   "title_zh": "【视频】2023款特斯拉Model Y",
-   "sentiment": 0
-  },
-  {
-   "id": "e3d3e69a5d27",
-   "title": "6,203 Tesla, Inc. $TSLA Shares Sold by Mirador Capital Partners LP - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWJUbXZQcVFfRndaeHN0RWdBbU4td1l3OHR2elhlUzk4TlVZdFdWV1pzaUx5b2FTWFdLX3B0Wl9yZUxKZk8zSXEtYi1UN0RRMU9GYkV5R2RyUDFqYkNfeENtT2VoVUI5SlJ3dHNMY1UxUTJkTWl0SmZPUFRJMk1ROGYwaUtaZmRhMi1RMzFYZElMdzN3bzJJejJuUnNJVExLRHV6M2I0TU1QbEVsd2RzRFlPNThQOE9FLTJoblYyU3M",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T08:28:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T08:28:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWJUbXZQcVFfRndaeHN0RWdBbU4td1l3OHR2elhlUzk4TlVZdFdWV1pzaUx5b2FTWFdLX3B0Wl9yZUxKZk8zSXEtYi1UN0RRMU9GYkV5R2RyUDFqYkNfeENtT2VoVUI5SlJ3dHNMY1UxUTJkTWl0SmZPUFRJMk1ROGYwaUtaZmRhMi1RMzFYZElMdzN3bzJJejJuUnNJVExLRHV6M2I0TU1QbEVsd2RzRFlPNThQOE9FLTJoblYyU3M"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "Mirador资本出售6203股特斯拉",
-   "title_zh": "Mirador Capital Partners出售6203股特斯拉股票",
    "sentiment": -1
   }
  ]
