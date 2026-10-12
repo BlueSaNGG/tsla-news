@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T12:07:24.916974+00:00",
+ "updated_at": "2026-10-12T12:22:47.847933+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -21,12 +21,12 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +4.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（57条已评分）"
+     "note": "今日新闻情绪 +0.29（59条已评分）"
     },
     {
      "key": "动量",
@@ -35,16 +35,16 @@
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 44,
-   "target_median": 400,
-   "target_count": 15,
+   "target_median": 400.0,
+   "target_count": 16,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T12:07:24.897644+00:00"
+   "as_of": "2026-10-12T12:22:47.828290+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 57
+   "avg": 0.29,
+   "count": 59
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "bb34261a223f",
+   "title": "Pilot and Tesla switch on first Megacharger Truck Site - Mobility Plaza",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDE2ekNUTHg3SUtpQW50SHB4bUZ2SWVuNm1Oa2tRbDRUcFBxMWlteVVpQWlrbmRiR2NzTTVYN0F3bkxjMWNQcXgxRE1faG4wanFack5XV1FQTGRhNHJwbVdSeTU2NnhubUdXQUpOWjUtS3oxejltNnNVYS1VV2VSTW9jN0FVN2x1MVY0NTJWWm9KelE",
+   "source": "Mobility Plaza",
+   "published_at": "2026-10-12T12:19:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mobility Plaza",
+     "published_at": "2026-10-12T12:19:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDE2ekNUTHg3SUtpQW50SHB4bUZ2SWVuNm1Oa2tRbDRUcFBxMWlteVVpQWlrbmRiR2NzTTVYN0F3bkxjMWNQcXgxRE1faG4wanFack5XV1FQTGRhNHJwbVdSeTU2NnhubUdXQUpOWjUtS3oxejltNnNVYS1VV2VSTW9jN0FVN2x1MVY0NTJWWm9KelE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ddbba0751986",
+   "title": "Tesla’s Full Self-Driving Gets a More Honest Name - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0hBTFBEbHhINUFaaERhalBKQjZhRVNSU2ZaTGY1NElWNmlhekFabFJVWF95aHpfREpZODh3SWlUWEVhRC1ENHd2c0syRHpWS1VYa2RFUkF3YVJrQ1RCTXN4WDloclhMWVB2RmwwdEhPVkV1Q2piVDdYeVdYZE8yN3NmNTQ",
+   "source": "Autoblog",
+   "published_at": "2026-10-12T12:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-12T12:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0hBTFBEbHhINUFaaERhalBKQjZhRVNSU2ZaTGY1NElWNmlhekFabFJVWF95aHpfREpZODh3SWlUWEVhRC1ENHd2c0syRHpWS1VYa2RFUkF3YVJrQ1RCTXN4WDloclhMWVB2RmwwdEhPVkV1Q2piVDdYeVdYZE8yN3NmNTQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "7ca846916858",
    "title": "【视频】特斯拉Model 3车内脏乱差？带狗车主必看的固特异脚垫评测 - 汽车之家",
@@ -86,6 +120,46 @@
    "zh_summary": "汽车之家评测固特异Model 3脚垫",
    "title_zh": "【视频】特斯拉Model 3车内脏乱差？带狗车主必看的固特异脚垫评测",
    "sentiment": 0
+  },
+  {
+   "id": "e87ebf8f3d81",
+   "title": "Tesla Cybercab at Paris Motor Show: 5 Details That Matter - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbThJZUp5Y2tPZVlQTl9Qbm9vUGRIMmp0UTQyb0xucDVmRUlIU05fM0pnRXo5V1VOMklldFhrLWJOVFVEYkJ2UmZRblVtRHRzck1EYlRXM21mcDRIWWl5RzBlR1dfTEhsT1lLR3d1RmZfWFRFUUdHQnBRcWZsM3JIVEtMV3FjOVg1UVYwWFJpTWNnOEwxaWc",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-12T12:03:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-12T12:03:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbThJZUp5Y2tPZVlQTl9Qbm9vUGRIMmp0UTQyb0xucDVmRUlIU05fM0pnRXo5V1VOMklldFhrLWJOVFVEYkJ2UmZRblVtRHRzck1EYlRXM21mcDRIWWl5RzBlR1dfTEhsT1lLR3d1RmZfWFRFUUdHQnBRcWZsM3JIVEtMV3FjOVg1UVYwWFJpTWNnOEwxaWc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
+   "id": "bdb442b5d7de",
+   "title": "Today's Analyst Rating | Tesla Price Target Raised to $400 by Jefferies, CrowdStrike Price Target Raised to $300 by Wells Fargo - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXdHbmNHZmZreHJNNHp6RGUyY01Xa0U0TFM1Yi05MERaY0xhWkE4NFgzNEt3OTNHYUZ0c1NMWWlnQVB2dGhjUk5oTnRrWFhSTUh3NW95RGNTa1dvUC1rTUVDb2NlQ0VGTnpIWmp1QTVKQUJLTVgwU3U1Rl95Zlo3emVreVg0WGQyZmpwSENTMzV2WDVUWHdPeDZoWDBnMnc",
+   "source": "富途牛牛",
+   "published_at": "2026-10-12T12:00:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-12T12:00:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXdHbmNHZmZreHJNNHp6RGUyY01Xa0U0TFM1Yi05MERaY0xhWkE4NFgzNEt3OTNHYUZ0c1NMWWlnQVB2dGhjUk5oTnRrWFhSTUh3NW95RGNTa1dvUC1rTUVDb2NlQ0VGTnpIWmp1QTVKQUJLTVgwU3U1Rl95Zlo3emVreVg0WGQyZmpwSENTMzV2WDVUWHdPeDZoWDBnMnc"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "Wells Fargo",
+    "action": "上调",
+    "target": "$400",
+    "rating": null
+   }
   },
   {
    "id": "f7b08855b1ee",
@@ -133,7 +207,7 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakViYlA5VW9yenZFSEZlMk1leGt0TV9wYmZseldjTjdNa3ZROGVtXzNqR2p5bkFNbmN1SmxnSzRZMGVISHczUEZGSnZjSk5lc3d4cmNXdV9LUkl6NTZWYkZJbTJWeVpLTnR4aWUzR0ZTTXJNZjZxQVpuSWtaRXU3eF9jQTBqcnNWcEg0TGU2MVBPaE53RUdhejJWaHlwODJjeUJWbmFlOERJWW5hcDhwOW5FWFQ0d3FQOUVFZ3JwRHUwcWM1QXZua2l4OA",
    "source": "www.marketscreener.com",
    "published_at": "2026-10-12T11:15:20+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "www.marketscreener.com",
@@ -144,6 +218,11 @@
      "name": "marketscreener.com",
      "published_at": "2026-10-12T11:15:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakViYlA5VW9yenZFSEZlMk1leGt0TV9wYmZseldjTjdNa3ZROGVtXzNqR2p5bkFNbmN1SmxnSzRZMGVISHczUEZGSnZjSk5lc3d4cmNXdV9LUkl6NTZWYkZJbTJWeVpLTnR4aWUzR0ZTTXJNZjZxQVpuSWtaRXU3eF9jQTBqcnNWcEg0TGU2MVBPaE53RUdhejJWaHlwODJjeUJWbmFlOERJWW5hcDhwOW5FWFQ0d3FQOUVFZ3JwRHUwcWM1QXZua2l4OA"
+    },
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-12T12:14:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUjNHUW0xZ0xCbFY3dHY5TGY1bHVKQy1qakxLMzZMalhPeEhCTlk5aHJQYmZld2lvRlpMQm9hSHlUM0hvalZObmFjZDdabGIycFZwWW1mdW1SWkNIbDBuV0lpSkZtUmVNVWdqNUVRZmxOV0dtWE5UdVpDMDRIYVlUQ0EzMndUcVVRVl9fZ3NrVGVGQ2tXWi02WVU0RGhZN2V0ZUZXR09iSU9LeGF2bXk4T25hS3g"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6482,86 +6561,6 @@
    "zh_summary": "特斯拉欧洲改驾驶辅助套件名推欧盟审批",
    "title_zh": "特斯拉在欧洲更改驾驶辅助套件名称以推动欧盟审批_车市动态 - 中金在线",
    "sentiment": 1
-  },
-  {
-   "id": "177479ab5f32",
-   "title": "TSLA Stock Falls Behind MSFT To Become Mag 7’s Worst Performer Ahead Of Q2 Earnings — But Retail Is Betting On A Musk Surprise - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFY5NmJhMmM0TXpudEhTcE5FaVRkMmFvcEdiMzlVcDdmRVpIeHJMYThaQ2VzWHZ1Z2pfTUtCZW9pbU1haVVVbjRtWGlZTm9MVkJsbEhtcWRtaTY3LUVlc3NRbXJzMmVKZWYyU0NKWEZlMmxPYlZpaFpLU2hsYTljUUJmZVNPeFZ2Qkw1dndIa0RrVG1rNkJ5YzNEYW9QUmJDU09XS2V4aEZrNGFRbUc5N2EtN3h4SkNNWGc",
-   "source": "Stocktwits",
-   "published_at": "2026-10-10T01:01:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-10T01:01:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFY5NmJhMmM0TXpudEhTcE5FaVRkMmFvcEdiMzlVcDdmRVpIeHJMYThaQ2VzWHZ1Z2pfTUtCZW9pbU1haVVVbjRtWGlZTm9MVkJsbEhtcWRtaTY3LUVlc3NRbXJzMmVKZWYyU0NKWEZlMmxPYlZpaFpLU2hsYTljUUJmZVNPeFZ2Qkw1dndIa0RrVG1rNkJ5YzNEYW9QUmJDU09XS2V4aEZrNGFRbUc5N2EtN3h4SkNNWGc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "TSLA成Mag7最差表现股，散户押注财报惊喜",
-   "title_zh": "TSLA落后MSFT成Mag7最差表现股，但散户押注马斯克财报惊喜",
-   "sentiment": 0
-  },
-  {
-   "id": "bd39cb40f41a",
-   "title": "Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOC1sZjhudTFieC0wNktTd1JtUUFzcko0VXkzMUNEUW02UTFHRGRZN0s1V0ZkN2VlY0pjdGRWeHVfdWVkWnQ1QjBFc3Y0azd6UGh4ZDBmWU1ubTVuRUtHcmdteWFQelRzbkpnT050TktER2lJSTdKa3B4MDNmRzc0NVI5THpGMjg2bE1ma3RnR21yYWFneHY3NlJVU1dxLXduaEZ3",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-10T01:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-10T01:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOC1sZjhudTFieC0wNktTd1JtUUFzcko0VXkzMUNEUW02UTFHRGRZN0s1V0ZkN2VlY0pjdGRWeHVfdWVkWnQ1QjBFc3Y0azd6UGh4ZDBmWU1ubTVuRUtHcmdteWFQelRzbkpnT050TktER2lJSTdKa3B4MDNmRzc0NVI5THpGMjg2bE1ma3RnR21yYWFneHY3NlJVU1dxLXduaEZ3"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉上海出口强劲，Cybercab车队扩张",
-   "title_zh": "特斯拉上海出口强劲，得州Cybercab车队扩张，Lucid产量低于销量",
-   "sentiment": 1
-  },
-  {
-   "id": "7fa0adb71bb1",
-   "title": "上海两辆特斯拉高架上“斗气” 危险驾驶引警示 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qemlwWi1ZTVV5RFdDQXdHdzM2VXlVVnR4TUtoSzFnSU1JWjJ1OW8yQ3YyWGFxNmg5bmlNNmN6Wnp1ajZVREEzenRLRm5ZVmlfeXpjb2VLY0JQLU85ZGwxYmkxMlJ6Sk1SOU5zbk5vVGE",
-   "source": "中华网",
-   "published_at": "2026-10-10T00:51:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-10T00:51:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qemlwWi1ZTVV5RFdDQXdHdzM2VXlVVnR4TUtoSzFnSU1JWjJ1OW8yQ3YyWGFxNmg5bmlNNmN6Wnp1ajZVREEzenRLRm5ZVmlfeXpjb2VLY0JQLU85ZGwxYmkxMlJ6Sk1SOU5zbk5vVGE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "上海两辆特斯拉高架上斗气驾驶",
-   "title_zh": "上海两辆特斯拉高架上“斗气” 危险驾驶引警示 - 中华网",
-   "sentiment": -1
-  },
-  {
-   "id": "df7e67cfcf03",
-   "title": "花28万买的特斯拉model3，在北京跑网约车，4年跑了60多万km！ - 手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lT2s4bnhoRjc4Y0I3M2xSS0VQVjFiRUlQdm1KclFvRnlyanRSeDVobU5xdlVFeHZWb0JpR05OaGpqTTlqa0w3TnpCQVRkcFFKT3FtTw",
-   "source": "手机网易网",
-   "published_at": "2026-10-10T00:48:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机网易网",
-     "published_at": "2026-10-10T00:48:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lT2s4bnhoRjc4Y0I3M2xSS0VQVjFiRUlQdm1KclFvRnlyanRSeDVobU5xdlVFeHZWb0JpR05OaGpqTTlqa0w3TnpCQVRkcFFKT3FtTw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Model3四年网约车跑60万公里",
-   "title_zh": "花28万买的特斯拉model3，在北京跑网约车，4年跑了60多万km！ - 手机网易网",
-   "sentiment": 0
   }
  ]
 }
