@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T19:07:28.339556+00:00",
+ "updated_at": "2026-10-12T19:22:35.383852+00:00",
  "market": {
-  "price": 378.35,
-  "change_pct": -1.14,
+  "price": 378.81,
+  "change_pct": -1.02,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.7%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（129条已评分）"
+     "note": "今日新闻情绪 +0.14（131条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.35 vs 20日均线 $369.63"
+     "note": "现价 $378.81 vs 20日均线 $369.65"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.7,
-   "ma20": 369.63,
-   "as_of": "2026-10-12T19:07:28.324280+00:00"
+   "implied_upside_pct": 5.6,
+   "ma20": 369.65,
+   "as_of": "2026-10-12T19:22:35.367818+00:00"
   },
-  "pe_ttm": 104.6,
+  "pe_ttm": 104.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.6%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 129
+   "avg": 0.14,
+   "count": 131
   }
  },
  "meta": {
@@ -67,6 +67,66 @@
   }
  },
  "stories": [
+  {
+   "id": "c03c2a55c758",
+   "title": "Analyst: Tesla Profit Per Vehicle Could Exceed Today's Selling Price - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk91WlVsOXJzQzJmVGxVUHFDSFE3NEctRzFuYlM0QzBSMElvZlU2N2lNNk4yeXdVc1Q5bm91cVJIQ0p2N2Roc0FIR1liQUNzeWtZa0NVeHdEcU5VQU8wcU9pQ0ZRQm53Skc4dDQwcFAzdE1naUdFNzZqdGlMTkZXcVVQWDNkSEY3ejFNcnRzakZJMERXRVFoY0I4ak9yNjZnQVZV",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-12T19:07:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-12T19:07:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk91WlVsOXJzQzJmVGxVUHFDSFE3NEctRzFuYlM0QzBSMElvZlU2N2lNNk4yeXdVc1Q5bm91cVJIQ0p2N2Roc0FIR1liQUNzeWtZa0NVeHdEcU5VQU8wcU9pQ0ZRQm53Skc4dDQwcFAzdE1naUdFNzZqdGlMTkZXcVVQWDNkSEY3ejFNcnRzakZJMERXRVFoY0I4ak9yNjZnQVZV"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中",
+   "zh_summary": "分析师称特斯拉单车利润或超售价",
+   "title_zh": "分析师：特斯拉单车利润可能超过当前售价",
+   "sentiment": 1
+  },
+  {
+   "id": "b49c922332fb",
+   "title": "Tesla Model Y Saves Father and Son in Head-On Freeway Crash - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjRtZTVPR1RIbXA5OXJiS1dHalp1emV4LWZpU3JwMERaUTdEOFZkLUFTTnhjN0xnZXJLTlFYbjhHdW9Mcl9GMDhBTUdvaGtLVkE0QjlINmE1Wk1pSWJZQ3ZEY25NUUNhbGtjTmpubDNaNXVud1FLTVJRc0JfWTJHVGFrclViOTVVUjYzQmFGczhqZ2hDc1hZUlR3",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-12T19:05:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-12T19:05:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjRtZTVPR1RIbXA5OXJiS1dHalp1emV4LWZpU3JwMERaUTdEOFZkLUFTTnhjN0xnZXJLTlFYbjhHdW9Mcl9GMDhBTUdvaGtLVkE0QjlINmE1Wk1pSWJZQ3ZEY25NUUNhbGtjTmpubDNaNXVud1FLTVJRc0JfWTJHVGFrclViOTVVUjYzQmFGczhqZ2hDc1hZUlR3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "Model Y正面相撞事故中救下父子",
+   "title_zh": "特斯拉Model Y在正面碰撞中救下父子两人",
+   "sentiment": 1
+  },
+  {
+   "id": "3fe2de526c8c",
+   "title": "Tesla Calls Its Cars the Only 'Robot Cars' You Can Buy — What Does That Mean? - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFhxcXdFelFFVC1Dc1FnYmduSTFqOXdCS1RLTS04Z29HSE83TFY3VTR3YUtkdDloNGNoaWxGbUlXblg0cFdpOVNqMUlJaXdJUmRtcnE5c21kLTFFbzRfX2dFVWJFNnA5d3dpdkFjSllkVUtReFhCYngwcTR4MG5OWnI3LXY2TGJKbk9wX19raHJtcE1CSHh1Q0pwOGlrQjZiT3IzSzM4SkdheTQ",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-12T19:03:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-12T19:03:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFhxcXdFelFFVC1Dc1FnYmduSTFqOXdCS1RLTS04Z29HSE83TFY3VTR3YUtkdDloNGNoaWxGbUlXblg0cFdpOVNqMUlJaXdJUmRtcnE5c21kLTFFbzRfX2dFVWJFNnA5d3dpdkFjSllkVUtReFhCYngwcTR4MG5OWnI3LXY2TGJKbk9wX19raHJtcE1CSHh1Q0pwOGlrQjZiT3IzSzM4SkdheTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉自称唯一可购买的'机器人车'",
+   "title_zh": "特斯拉称其车型是唯一可购买的'机器人汽车'",
+   "sentiment": 0
+  },
   {
    "id": "085d823614f0",
    "title": "Tesla ordered to pay $162,000 for Model X fire after failed ‘vandalism’ defense - Electrek",
@@ -193,12 +253,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0Y2LXlYY1pmVVpnQzc1UU9SVFZ4YUt3dWRIYWZJWTVRUVlmTzJSTHFxc2sxWnFEUE1SUGR6YUF0QWlKY0pUZDZ5UXpWb2RzMF9jUVJhY0xoTU45UjAxaVMxV1VRSmM2YnRvY05acXVNTEhnMklhc1VQaDhKcXlOVDZEcFdJeUg1YmtpMEdWOTNSeVVEOTRncktnVDM",
    "source": "GuruFocus",
    "published_at": "2026-10-12T18:01:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-12T18:01:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0Y2LXlYY1pmVVpnQzc1UU9SVFZ4YUt3dWRIYWZJWTVRUVlmTzJSTHFxc2sxWnFEUE1SUGR6YUF0QWlKY0pUZDZ5UXpWb2RzMF9jUVJhY0xoTU45UjAxaVMxV1VRSmM2YnRvY05acXVNTEhnMklhc1VQaDhKcXlOVDZEcFdJeUg1YmtpMEdWOTNSeVVEOTRncktnVDM"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-12T18:58:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3pqaUdBRWdybFh2THV3Y2pvOFFidlRuZzBYNnhFLUcwNFVMNzJQRW5aVVo2VUxuNHlvU2dNdm1jWU1GOU9QY1NRaWplRHlxZEtRNXNBWDNXUEFDeThjcVhEenY5WFZoLU1xRVI2b3ZTTTB2RU1hc1N0NzhhUVAzTUwwdHh5dE9OSUFDb2dKZ0loc1E4YnNOVlVLU1JpTUxoS1pRcWwtVjVMR2lQN0tFNUpWRWhGTGdh"
     }
    ],
    "category": "其他",
@@ -6489,66 +6554,6 @@
    "zh_summary": "特斯拉高管称Cybercab将登陆达拉斯",
    "title_zh": "特斯拉高管称Cybercab「很快」将在达拉斯上线",
    "sentiment": 1
-  },
-  {
-   "id": "6a624c1d19e8",
-   "title": "【视频】新到22年特斯拉model Y，个人一手车，实表四万多公里 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1djSUw3N1NpQkRMelZWVzA5cGozdFJYS2J1UmRySmQ0SWdpS3poekpPUURnZEs5WW5vMHZ4VDhDd0h0SnotMXdZWUI4QmR2UThyTXROamlvNFk",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T09:25:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T09:25:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1djSUw3N1NpQkRMelZWVzA5cGozdFJYS2J1UmRySmQ0SWdpS3poekpPUURnZEs5WW5vMHZ4VDhDd0h0SnotMXdZWUI4QmR2UThyTXROamlvNFk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "22年特斯拉Model Y二手车，实表4万多公里",
-   "title_zh": "【视频】新到22年特斯拉model Y，个人一手车，实表四万多公里 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "40b05cece834",
-   "title": "特斯拉FSD欧洲改名TAD辅助驾驶 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zeVZXNDVlazJ1eUJmc21RckVKVjk3XzVuTWVkUFdfNmhac1dlQzZkTnJyUVltc01tY01ST0JhWUhMb1YzTWJvQWpxS1IxbHVReW5BVXNmYm12Nk1aWkdacGhrRkUzcC0xdDlLOW1fczVuR2M4YVRHcU4zNUxnQQ",
-   "source": "新浪网",
-   "published_at": "2026-10-10T09:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T09:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zeVZXNDVlazJ1eUJmc21RckVKVjk3XzVuTWVkUFdfNmhac1dlQzZkTnJyUVltc01tY01ST0JhWUhMb1YzTWJvQWpxS1IxbHVReW5BVXNmYm12Nk1aWkdacGhrRkUzcC0xdDlLOW1fczVuR2M4YVRHcU4zNUxnQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉FSD在欧洲改名TAD",
-   "title_zh": "特斯拉FSD欧洲改名TAD辅助驾驶 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "b68302233695",
-   "title": "【视频】特斯拉Model 3安全带内部钢丝断裂 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XaXg3a09IbXRVRUVXeUZ6YWllaUphamNRbGl2c3VjUnRWM0NtaDNuQjc4QTdyNFF1SlJ5Q1d0TXVUaHhXZXRBcTd5Sm5OVExtQU15bG9KZUF2bDQ",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T08:58:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T08:58:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XaXg3a09IbXRVRUVXeUZ6YWllaUphamNRbGl2c3VjUnRWM0NtaDNuQjc4QTdyNFF1SlJ5Q1d0TXVUaHhXZXRBcTd5Sm5OVExtQU15bG9KZUF2bDQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model 3安全带钢丝断裂",
-   "title_zh": "【视频】特斯拉Model 3安全带内部钢丝断裂 - 汽车之家",
-   "sentiment": -1
   }
  ]
 }
