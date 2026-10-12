@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T14:22:52.018165+00:00",
+ "updated_at": "2026-10-12T14:37:31.631023+00:00",
  "market": {
-  "price": 379.92,
-  "change_pct": -0.73,
+  "price": 380.28,
+  "change_pct": -0.63,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.3%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（88条已评分）"
+     "note": "今日新闻情绪 +0.22（92条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.92 vs 20日均线 $369.71"
+     "note": "现价 $380.28 vs 20日均线 $369.73"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 43,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.3,
-   "ma20": 369.71,
-   "as_of": "2026-10-12T14:22:52.004106+00:00"
+   "implied_upside_pct": 5.2,
+   "ma20": 369.73,
+   "as_of": "2026-10-12T14:37:31.619750+00:00"
   },
-  "pe_ttm": 105.1,
+  "pe_ttm": 105.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.2%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
-   "count": 88
+   "avg": 0.22,
+   "count": 92
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "32a00a52ae68",
+   "title": "Tesla range-bound at $380 with weak trend: Live levels - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUNDbzl6M0ExUXlKV2xxOUpsMmlabjh1eWVUeXk2RC1TNHBhR3pyTzVfdDdaN1lRZGQtNDkyM3hRbFEtTHFfSXBvUVI2cGNfMUxmbHZQLTBCVVhjelVTRmZpVldqVWpidXk4dHV3Zm9kNWRqUDg4bDUyU1VLal9YOXFKbjhWUFpBXzdEaVIyVjYwSWVLMjJ2ZDBzcDdYQVhiQjYwX1BicFBEbl8yNFAyWG9xYw",
+   "source": "Investing.com",
+   "published_at": "2026-10-12T14:22:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-12T14:22:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUNDbzl6M0ExUXlKV2xxOUpsMmlabjh1eWVUeXk2RC1TNHBhR3pyTzVfdDdaN1lRZGQtNDkyM3hRbFEtTHFfSXBvUVI2cGNfMUxmbHZQLTBCVVhjelVTRmZpVldqVWpidXk4dHV3Zm9kNWRqUDg4bDUyU1VLal9YOXFKbjhWUFpBXzdEaVIyVjYwSWVLMjJ2ZDBzcDdYQVhiQjYwX1BicFBEbl8yNFAyWG9xYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "919c0769e11f",
+   "title": "Jefferies Adjusts Tesla Price Target to $400 From $350 - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWhCNEZQVjF6YnBqLWQ5TG5ZOV9oUG9lM3l1cTczLVpWR2NuNkxuNHZsT3lldXM3MExyQXZRMFZJZHNLanE3TDYyQTVNcUxERHZSZURJSUZUdHIzYlkyZkpXT0ZVWVcxMWdpbG9XVTFRTExmYmZuUVkxRUZCMlpOZGpDS0l6TVZoaF8xVy05dWhZUThmbVdqT2Ywc09seXhQdFlrcE9xTXE",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-12T14:14:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-12T14:14:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWhCNEZQVjF6YnBqLWQ5TG5ZOV9oUG9lM3l1cTczLVpWR2NuNkxuNHZsT3lldXM3MExyQXZRMFZJZHNLanE3TDYyQTVNcUxERHZSZURJSUZUdHIzYlkyZkpXT0ZVWVcxMWdpbG9XVTFRTExmYmZuUVkxRUZCMlpOZGpDS0l6TVZoaF8xVy05dWhZUThmbVdqT2Ywc09seXhQdFlrcE9xTXE"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
   {
    "id": "28032df411dc",
    "title": "汽车交付后商业模式延伸：特斯拉改FSD订阅，蔚来推BaaS，宝马停座椅加热订阅 - 虎嗅网",
@@ -133,12 +167,17 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaC1Cejh5aXliNlNKUEpQY1RJSEZvR3BldDQzclNpZnAyVHM3SFZPcU85LWdqNkxmbklYaXBpR3N2RlI0UU52bWtxUXdDbjJTVUFjUWN3MlpjOGJXRmJvc19GWnZYWG5sRThmRnNvNnBPWVVtV2RGMllXMDI4TzlDeXZJTENLZlFvcTdIMWtGWExrNzJGYnlqTThIMHh1Xy1tT0c1Wnh4N0hnTVdHRnBIQQ",
    "source": "Yahoo Autos",
    "published_at": "2026-10-12T14:04:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Autos",
      "published_at": "2026-10-12T14:04:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaC1Cejh5aXliNlNKUEpQY1RJSEZvR3BldDQzclNpZnAyVHM3SFZPcU85LWdqNkxmbklYaXBpR3N2RlI0UU52bWtxUXdDbjJTVUFjUWN3MlpjOGJXRmJvc19GWnZYWG5sRThmRnNvNnBPWVVtV2RGMllXMDI4TzlDeXZJTENLZlFvcTdIMWtGWExrNzJGYnlqTThIMHh1Xy1tT0c1Wnh4N0hnTVdHRnBIQQ"
+    },
+    {
+     "name": "Trucking Dive",
+     "published_at": "2026-10-12T14:24:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVVac1RjOUFEcmt3X1BrWmVyQ0VnWU9oVktrMGVPN1ZyMDA0Q3lob2ZyQ3JVNW9xTGJMVkNsUXVCSHU1Nnp2TWlselBoWHJobk1xVWhZSmhGVmdFYzNHYWJlYnBTcnlhR2FraGE2dUV0Z216UFpxMlc4LVlXRlZpMVhVQmxCalFILVlHcW9wUDVfc25BbHdGenEzVVFfQQ"
     }
    ],
    "category": "其他",
@@ -228,26 +267,6 @@
    "sentiment": -1
   },
   {
-   "id": "25d6ad5393ba",
-   "title": "Should You Buy, Hold or Sell TSLA Stock After Its Cybercab Fleet Jump? - Zacks Investment Research",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOW1IaHF3dE1RQkU1NFl2U2YyU0FuVHJ2b25TQlphQmRhZjZHUWVIS3k2YWdNNi1iM3J6OUl3VVhZSl9vNTdiNk5raEUweXRSUlVWYzU5TWtsNTAtbVNuVWpxREVFZGxOWDRQdDlXNmhuMjJYTEpuek9oNXZOWW5VcWNzaHAyTnFyRGRsTDZxUy1UYnVhaHBlZU9ZT19kSmRRV0FOYV9xVnpxbkNncFE",
-   "source": "Zacks Investment Research",
-   "published_at": "2026-10-12T13:41:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-12T13:41:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOW1IaHF3dE1RQkU1NFl2U2YyU0FuVHJ2b25TQlphQmRhZjZHUWVIS3k2YWdNNi1iM3J6OUl3VVhZSl9vNTdiNk5raEUweXRSUlVWYzU5TWtsNTAtbVNuVWpxREVFZGxOWDRQdDlXNmhuMjJYTEpuek9oNXZOWW5VcWNzaHAyTnFyRGRsTDZxUy1UYnVhaHBlZU9ZT19kSmRRV0FOYV9xVnpxbkNncFE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Zacks:Cybercab扩张后是否买入TSLA",
-   "title_zh": "Cybercab车队扩张后，TSLA股票该买入、持有还是卖出？",
-   "sentiment": 0
-  },
-  {
    "id": "ab1562d577e1",
    "title": "Tesla Robotaxis Face New Speeding Safety Probe - Tesla (NASDAQ:TSLA) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUFvS3R0M1FlTEd3NE94WF8tVHoxRm4xTl9XWUJBeE8wRmFwU1paZnM3ZUx6VFBLOHY5UkZBcW1aMzA1dkFQZTJUdnROb3BfOUMtMU9UODdFUXVvY2Q1Q3hUZl90NFlhY2o4Yk1rd05GdFpOY0dwYWhObXZJMVFvaFBreGg4SW1jLW5MaGtGZzRleG1obWhsSXZ2X0tDNEZlRG14aEVvVHo3aFE3SHc",
@@ -273,7 +292,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxclV5MnZlSE5hUjZ1b09VdnhKT3RkclNneVpaYTVQanVzVTV1VS0zZy1aWWo4QnQyT1BUTEZXVFdsbm9tS3hFUnlYTU5uZUJuZzhhd2huS0dSV0Zwb3Z5Vi1pNHN0SEJId21qM2VYSW8",
    "source": "英为财情 Investing.com",
    "published_at": "2026-10-12T13:27:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "英为财情 Investing.com",
@@ -284,13 +303,22 @@
      "name": "证券之星",
      "published_at": "2026-10-12T13:27:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrUWs2QUx5eURTYkVSMm5PVHRRV291UHVGQXE5VnNGckUtQzNJUHpTZUU4TS1sRjJDQlZ6dUlJcnlFXzZDNFU3WklMdHhwQlJpOFYxdzZvaUw2VlFhTkxaTA"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-10-12T14:02:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOcGw0V3hqNjFWVk8zVkVyd3JqR1JMQXRhang0Vnc1Yzg2a2lvV3EtbTl5d2xpWkxwaTBZelZWRFJYSzFmQURDcktfTjJfVGN2S3ZMQUdGRGRVR19QOG8zdlJUbWZYVVh0OFRJ"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
    "zh_summary": "特斯拉Robotaxi校区超速被调查",
    "title_zh": "特斯拉(TSLA.US)Robotaxi再遇监管考验：学校区域超速遭调查，Cybercab扩张蒙上阴影提供者智通财经 - 英为财情 Investing.com",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.3,
+    "window_h": 1.1
+   }
   },
   {
    "id": "e365b0023943",
@@ -336,6 +364,31 @@
    "zh_summary": "特斯拉9月在华销量增长5%，欧洲回暖延续",
    "title_zh": "特斯拉9月在华电动车销量增长5%，欧洲复苏持续",
    "sentiment": 1
+  },
+  {
+   "id": "25d6ad5393ba",
+   "title": "Should You Buy, Hold or Sell TSLA Stock After Its Cybercab Fleet Jump? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZktVTkV4TkV1RUlkOTdlOXhmbElHVVZocU5CZDdVT1dVdVNQSDk3ZlBIWktPV2cwZkx5VDVBMm9WNkZJdWVTLUVPbzl6VmtyWDB0NHotWHJqZ2ZZamt0VUZpV0t4ck40MGlTNXFFQ3l4aWVhNGtRa2stYVo3M1RsNjdHQ0ljTm9vN3hFNkEyRDlHbnc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-12T12:57:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T12:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZktVTkV4TkV1RUlkOTdlOXhmbElHVVZocU5CZDdVT1dVdVNQSDk3ZlBIWktPV2cwZkx5VDVBMm9WNkZJdWVTLUVPbzl6VmtyWDB0NHotWHJqZ2ZZamt0VUZpV0t4ck40MGlTNXFFQ3l4aWVhNGtRa2stYVo3M1RsNjdHQ0ljTm9vN3hFNkEyRDlHbnc"
+    },
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-12T13:41:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOW1IaHF3dE1RQkU1NFl2U2YyU0FuVHJ2b25TQlphQmRhZjZHUWVIS3k2YWdNNi1iM3J6OUl3VVhZSl9vNTdiNk5raEUweXRSUlVWYzU5TWtsNTAtbVNuVWpxREVFZGxOWDRQdDlXNmhuMjJYTEpuek9oNXZOWW5VcWNzaHAyTnFyRGRsTDZxUy1UYnVhaHBlZU9ZT19kSmRRV0FOYV9xVnpxbkNncFE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前",
+   "zh_summary": "Zacks:Cybercab扩张后是否买入TSLA",
+   "title_zh": "Cybercab车队扩张后，TSLA股票该买入、持有还是卖出？",
+   "sentiment": 0
   },
   {
    "id": "fdb1e142a407",
@@ -1416,6 +1469,23 @@
    "zh_summary": "特斯拉停售太阳能屋顶后该产品依然罕见",
    "title_zh": "为何特斯拉停售后太阳能屋顶瓷砖仍罕见及何时值得买",
    "sentiment": 0
+  },
+  {
+   "id": "650f39304b4d",
+   "title": "Tesla drops ‘self-driving’ branding to appease Europe regulators - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96Si1KNjlJYlFfSE9rVmpWa2hfUlpvQU04YWk0VGIyS1FyRnhPY0xzbzR6dWNIRnZ6bTZxNkVFU3pKMFMwVzBfYTZIWk8wZHRwR2ctaktmNnY3dzBZX3oxLU40a1BoUkdDRHFCNDFpQnpSbms",
+   "source": "Automotive News",
+   "published_at": "2026-10-12T07:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive News",
+     "published_at": "2026-10-12T07:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96Si1KNjlJYlFfSE9rVmpWa2hfUlpvQU04YWk0VGIyS1FyRnhPY0xzbzR6dWNIRnZ6bTZxNkVFU3pKMFMwVzBfYTZIWk8wZHRwR2ctaktmNnY3dzBZX3oxLU40a1BoUkdDRHFCNDFpQnpSbms"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "1fc7c7bfa664",
@@ -6553,71 +6623,6 @@
    "zh_summary": "沃尔沃XC70保留实体按键未学特斯拉",
    "title_zh": "【视频】沃尔沃XC70保留实体按键，盲操作安全不学特斯拉？",
    "sentiment": 0
-  },
-  {
-   "id": "523ebf5d97b3",
-   "title": "巴黎车展官方公开体验特斯拉小鹏 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiZVlFczhhdksza0FuOVFkR0xnbVhHTzlOOFRtaE9sUWtGd2JJd0x1UVRkZ05STjFQT0U4WnZETm1JY19Celhucmw1aExrUEozZXIwdFR4S3o5alZuMF9GUGsyS0otOG9vV0tR",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T05:23:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T05:23:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiZVlFczhhdksza0FuOVFkR0xnbVhHTzlOOFRtaE9sUWtGd2JJd0x1UVRkZ05STjFQT0U4WnZETm1JY19Celhucmw1aExrUEozZXIwdFR4S3o5alZuMF9GUGsyS0otOG9vV0tR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴黎车展官方公开体验特斯拉小鹏",
-   "title_zh": "巴黎车展官方公开体验特斯拉小鹏",
-   "sentiment": 0
-  },
-  {
-   "id": "12272879c60e",
-   "title": "马斯克印度合作关系破裂：星链、特斯拉项目陷入停滞|埃隆·马斯克|SpaceX|电信|特朗普|卫星 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZnVtOHN5b1I3T00yR2Uxdk0xTXdqTjdHc05xSlVUZ1l1eFNYR1hJTjB3M09GejRHd2t1ZzNFX3gxTEhNYW1iUVBpRmFNN0F2LWRCYU5Db1dKSFNhNVhWYnpLZG5OM01URnptWkc2YzJFRjlBQWZlaGZvNC1xdkltTkVGWFFUQ1BHOE9STjRqNGRRUldvUm1KTDNPX1p3S1RzRXFLc1ZGbFRFckhiRWtJUnpKdEg4MUNaTDc4NDV6c2x2aDRRYWlwSFBuUDY5TXpCNHpVYWU4YVAzS1Jzamc1QTE1ekt5My1CLWtBLUJwZHk2ZW1vTUt6NkJhVUdBUWpvd2s5RFgtZ2RrQQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-10T05:09:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T05:09:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZnVtOHN5b1I3T00yR2Uxdk0xTXdqTjdHc05xSlVUZ1l1eFNYR1hJTjB3M09GejRHd2t1ZzNFX3gxTEhNYW1iUVBpRmFNN0F2LWRCYU5Db1dKSFNhNVhWYnpLZG5OM01URnptWkc2YzJFRjlBQWZlaGZvNC1xdkltTkVGWFFUQ1BHOE9STjRqNGRRUldvUm1KTDNPX1p3S1RzRXFLc1ZGbFRFckhiRWtJUnpKdEg4MUNaTDc4NDV6c2x2aDRRYWlwSFBuUDY5TXpCNHpVYWU4YVAzS1Jzamc1QTE1ekt5My1CLWtBLUJwZHk2ZW1vTUt6NkJhVUdBUWpvd2s5RFgtZ2RrQQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "马斯克印度合作破裂星链特斯拉停滞",
-   "title_zh": "马斯克印度合作关系破裂：星链、特斯拉项目陷入停滞",
-   "sentiment": -1
-  },
-  {
-   "id": "cc30d809fa29",
-   "title": "特斯拉车型更新，多款车型获安全高评级、海外多市场销量走高 - 中国经济网",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YN3c3UUx1WEhKNmJCeGY0U09IcmpPd3hEcWsybnRtSGpUSGN4c21ERDNnZWNnUTQ0NWp4R213cEQ4ODZUWVJYZlNFLXlkaTM0aHhGaEtuOXZSQmg2ZGJJ",
-   "source": "中国经济网",
-   "published_at": "2026-10-10T05:01:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "中国经济网",
-     "published_at": "2026-10-10T05:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YN3c3UUx1WEhKNmJCeGY0U09IcmpPd3hEcWsybnRtSGpUSGN4c21ERDNnZWNnUTQ0NWp4R213cEQ4ODZUWVJYZlNFLXlkaTM0aHhGaEtuOXZSQmg2ZGJJ"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-10T06:43:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90cUNMMVVXTmtuQzRoVTlQVkU5Zk1ma3VMaHJ3bXZfOEVULUFvbU00VTZfNDJoRWtqcHBuZVpjUXlJeFI3cEpubC1WY2h3LWoyR0lwV0xPYlhBYzZVNjZEalZzWHk4aWJxSE9B"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "特斯拉多款车型获安全高评级销量走高",
-   "title_zh": "特斯拉车型更新，多款车型获安全高评级、海外多市场销量走高 - 中国经济网",
-   "sentiment": 1
   }
  ]
 }
