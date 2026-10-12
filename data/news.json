@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T16:37:34.095802+00:00",
+ "updated_at": "2026-10-12T16:52:46.695279+00:00",
  "market": {
-  "price": 379.43,
-  "change_pct": -0.85,
+  "price": 378.77,
+  "change_pct": -1.03,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（112条已评分）"
+     "note": "今日新闻情绪 +0.19（113条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.43 vs 20日均线 $369.68"
+     "note": "现价 $378.77 vs 20日均线 $369.65"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.4,
-   "ma20": 369.68,
-   "as_of": "2026-10-12T16:37:34.083083+00:00"
+   "implied_upside_pct": 5.6,
+   "ma20": 369.65,
+   "as_of": "2026-10-12T16:52:46.689330+00:00"
   },
-  "pe_ttm": 104.9,
+  "pe_ttm": 104.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.6%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.19,
-   "count": 112
+   "count": 113
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e7415113806f",
+   "title": "No single person has spent more money to harm EVs than Tesla CEO Elon Musk - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkJJbDdnMHRMSjNieE5fZ1UzSXJGUzlzdU5SZW04YldEMy1IS0xkd1VDSGk1aXJ1bmIyd2RIZlFBNFZ6VlJLaHhRUTNiVm0xV0hEZGhUbDhNWURZeVJSTTlTRFBINUIxNlFwNHhscXY3djFSRWIzTmpZbDdPV0dnNFczbl9QQnVCRzQxTktRZmVBal95SVdYbDJraFdGUEU1R2VIbFloR2NFZw",
+   "source": "Electrek",
+   "published_at": "2026-10-12T16:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-12T16:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkJJbDdnMHRMSjNieE5fZ1UzSXJGUzlzdU5SZW04YldEMy1IS0xkd1VDSGk1aXJ1bmIyd2RIZlFBNFZ6VlJLaHhRUTNiVm0xV0hEZGhUbDhNWURZeVJSTTlTRFBINUIxNlFwNHhscXY3djFSRWIzTmpZbDdPV0dnNFczbl9QQnVCRzQxTktRZmVBal95SVdYbDJraFdGUEU1R2VIbFloR2NFZw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "95ae6d9da1fb",
    "title": "合并后！丰田两款燃油车重回销量汽车榜前十|卡罗拉锐放|新能源车|一汽丰田|特斯拉|model y - 新浪财经",
@@ -83,8 +100,8 @@
    ],
    "category": "交付量",
    "session": "盘中",
-   "title_zh": "合并后丰田两款燃油车重回销量榜前十",
    "zh_summary": "丰田两款燃油车重回销量榜前十",
+   "title_zh": "合并后丰田两款燃油车重回销量榜前十",
    "sentiment": 0
   },
   {
@@ -93,12 +110,17 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkpPMzdaaUNRYl9pN0hRWjdyOGI0WFY5WFoxOFU1RkpIRXJJTl9IT3pReEdXZS1XSHd1THR3WVNwMDdUVUxGMWZOLTROb1pybmN0VTIybTRmQmgxbmJaMlVwZXpaaGV2b3JsbXAyemd5cktaMGlaWlVUdEtXOUJ5Y0cxTXJINkM4ZXoyLUdoYV9PdF9KZ3Y4bjN1cXduZw",
    "source": "Road & Track",
    "published_at": "2026-10-12T15:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Road & Track",
      "published_at": "2026-10-12T15:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkpPMzdaaUNRYl9pN0hRWjdyOGI0WFY5WFoxOFU1RkpIRXJJTl9IT3pReEdXZS1XSHd1THR3WVNwMDdUVUxGMWZOLTROb1pybmN0VTIybTRmQmgxbmJaMlVwZXpaaGV2b3JsbXAyemd5cktaMGlaWlVUdEtXOUJ5Y0cxTXJINkM4ZXoyLUdoYV9PdF9KZ3Y4bjN1cXduZw"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-12T15:30:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE1vZHhKemZDaU8yS0Rpbk55eFlSZlRnVG1IM2pNRlNKd1d6T24tUGo5T1l4MVIzZzBTM1FPdWVoUXpZZk9sT1FrM0Jkdlh1SmljRkhPZTByQllXMERxNENfNnNaSkhjT3JqSkpvZ3hCSDNFYWIyWi1fUkRpd05Vd19yLTNCQ3laYXo3X19TUEEtTXp3"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -227,12 +249,17 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOW9uS1VEbC1RQUxFNnMyWGdEOHA3a2c0UVMtYk9YX3R4VjV6N01nZHlBcDAwYzRCWjFjclZyZDd0NjhNNkJiWVJfYVViUmhSeHR1cElXMFBFcl9pQTBaR3d1SjgxWVJFSC1DNUVFUm1zUzNkSkdzaExhUEhnaEFVVUdRUjNRYURBOTFTU3RPeTI3UQ",
    "source": "Business Insider",
    "published_at": "2026-10-12T14:59:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Insider",
      "published_at": "2026-10-12T14:59:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOW9uS1VEbC1RQUxFNnMyWGdEOHA3a2c0UVMtYk9YX3R4VjV6N01nZHlBcDAwYzRCWjFjclZyZDd0NjhNNkJiWVJfYVViUmhSeHR1cElXMFBFcl9pQTBaR3d1SjgxWVJFSC1DNUVFUm1zUzNkSkdzaExhUEhnaEFVVUdRUjNRYURBOTFTU3RPeTI3UQ"
+    },
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-12T16:36:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tcWVFUTctMDcwYTBTT0dBZjhFaDlHUWJwcTJ3YWJYTWhVaUZ4VjNQcEJ5cEZ2bHYzMlNTNDJvbl9FN3pqaW9VbUVLc1NlYmtzVm8wTGJtOHZHTFJwV3E3RkZLLTJibUhBUWh3UTNZVF8"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -727,7 +754,7 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZktVTkV4TkV1RUlkOTdlOXhmbElHVVZocU5CZDdVT1dVdVNQSDk3ZlBIWktPV2cwZkx5VDVBMm9WNkZJdWVTLUVPbzl6VmtyWDB0NHotWHJqZ2ZZamt0VUZpV0t4ck40MGlTNXFFQ3l4aWVhNGtRa2stYVo3M1RsNjdHQ0ljTm9vN3hFNkEyRDlHbnc",
    "source": "Yahoo Finance",
    "published_at": "2026-10-12T12:57:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -743,6 +770,11 @@
      "name": "TradingView",
      "published_at": "2026-10-12T12:57:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzlmMG00TXc1QmIwNS11dHRzeWM2MERxVkd6c1JLMUN1dUlzRWt0N0wxaFZUQ2Z6MTR6R0RrRVktZl9MODVjN2FMVTN3RXVWVnh2Rl9kQjE0N2NZSjJsdFViOGstN3FrMWNPMU9vanJCZDh6MXpCTW5kNGlrWHJra1NvTUlxUUpONVVMdHA0Wkp3NmJSZTRtYWV0cmlOQ0JHMHBuZEZTcGZqdkc2TUJ4RGF4NW95emhkdWxOUVBhT1cwQQ"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-12T15:30:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXF1YzdZN3lZS0trZTdqdXV2akZwSEFidHVESWduSUV5d3RfRnAwSVFhczhyUEhsT1ZWb3g2aUpnQjR3VmFPWnFHel9SY0xuNS1fV09tWVBNSXctSmphaXozemJhZTFLNmk3RWNZemxnQ01wQ2lwcmR5U25zaUtwMVFTZ2hfN3hvLUQxbC11dWt1NGJkckNJWTVHS2xBN0lMU3hHWmlkREdBV1FCd3c5TVY2WnJuRVJrWi1nOXlHemdZOWlDeWh1Sm1uVHVKVC1BX0I1Q240MzBYbnM3dXB0X3k5LW96MzZX"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -2624,40 +2656,6 @@
    "sentiment": 1
   },
   {
-   "id": "650b319fc2eb",
-   "title": "杰富瑞将 特斯拉 目标价从350美元上调至400美元。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQkFYZjVfZkFsUklhOGFJYXBDZTBhcDVuY09Fa1R4VlczYS1ELTNlTmx5c2cwX1ppSjdvWEhWVmZpX3FZeDMxb01OTQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-12T03:51:40+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-12T03:51:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQkFYZjVfZkFsUklhOGFJYXBDZTBhcDVuY09Fa1R4VlczYS1ELTNlTmx5c2cwX1ppSjdvWEhWVmZpX3FZeDMxb01OTQ"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-12T03:52:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVF2b3VURUZDY3lIUmtKVFdtTFFyUWVDa25BTk1GX2ZCYnlEY1JtYVRhclNpYlBGNDNyN0pkbXR3anBDR1N3c3BTem41YlMwUU0waENRbnFWdjlBVWRaMzZnMG1vWjFIR3drWUJKT0tsLWlTS0J3TWpjU0VtVmM2TkdDTW1nVEtxODdXcG9KOTNEZUVyYUsyMFlnMVB4SGc"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-12T04:43:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ3dYekdCMy1oX1FsQ1YtXzZpM1JPTmg0ZHc0VXZ5X1h4Ty1ONnFOSER5RFBmalo0amtTNlpvZ1hGTHhaMWNXckJYUEUzSFlFMWRRblRUSldpSnVoWE9tM2wwTnlaZw"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "杰富瑞将特斯拉目标价上调至400美元",
-   "title_zh": "杰富瑞将特斯拉目标价从350美元上调至400美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.13,
-    "window_h": 0.1
-   }
-  },
-  {
    "id": "7be2c62a7050",
    "title": "Tesla cuts AI5 chip memory to 96GB to secure Optimus production supply - Global Sources",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUZsRWE2dUtRZWZVUnI3TldDMm5WbHlNWXFwQVdkZXRXZktGdmZ1bDJlY3JVRVZGZHVTbm8yOXoyeXh6empMam9QOTN4emtLMTVzNG5ETXBqQTdMV2dwZmUzVWNBZU4wUkM4bDdERVFRRG1hMkFoUzhUX2ZXMG1XS1lsQWhRZTZ1VlBDVFAyNjduMDcwUE1vLVdXbzRmMGdfS25aZDJWZGxyU21WTHpVb1hCTC1VM0pCRWRIaUZ0bDhhTGxLOEZHMHJlRHZ1eHFvdlRj",
@@ -2716,6 +2714,40 @@
    "zh_summary": "特斯拉看跌期权成交3.16万张",
    "title_zh": "期权异动 | 特斯拉一看跌期权成交量3.16万张，该期权跌59.62% 港美股资讯 - 华盛通",
    "sentiment": 0
+  },
+  {
+   "id": "2ab865274be4",
+   "title": "杰富瑞将特斯拉目标价从350美元上调至400美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ3dYekdCMy1oX1FsQ1YtXzZpM1JPTmg0ZHc0VXZ5X1h4Ty1ONnFOSER5RFBmalo0amtTNlpvZ1hGTHhaMWNXckJYUEUzSFlFMWRRblRUSldpSnVoWE9tM2wwTnlaZw",
+   "source": "东方财富",
+   "published_at": "2026-10-12T02:39:34+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T02:39:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ3dYekdCMy1oX1FsQ1YtXzZpM1JPTmg0ZHc0VXZ5X1h4Ty1ONnFOSER5RFBmalo0amtTNlpvZ1hGTHhaMWNXckJYUEUzSFlFMWRRblRUSldpSnVoWE9tM2wwTnlaZw"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-12T03:51:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQkFYZjVfZkFsUklhOGFJYXBDZTBhcDVuY09Fa1R4VlczYS1ELTNlTmx5c2cwX1ppSjdvWEhWVmZpX3FZeDMxb01OTQ"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-12T03:52:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVF2b3VURUZDY3lIUmtKVFdtTFFyUWVDa25BTk1GX2ZCYnlEY1JtYVRhclNpYlBGNDNyN0pkbXR3anBDR1N3c3BTem41YlMwUU0waENRbnFWdjlBVWRaMzZnMG1vWjFIR3drWUJKT0tsLWlTS0J3TWpjU0VtVmM2TkdDTW1nVEtxODdXcG9KOTNEZUVyYUsyMFlnMVB4SGc"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末",
+   "zh_summary": "杰富瑞将特斯拉目标价上调至400美元",
+   "title_zh": "杰富瑞将特斯拉目标价从350美元上调至400美元",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "42d4ccea0246",
@@ -3679,26 +3711,6 @@
    "zh_summary": "新提特斯拉发现车损引发质量质疑",
    "title_zh": "女子新提特斯拉发现车辆受损",
    "sentiment": -1
-  },
-  {
-   "id": "58da122b395d",
-   "title": "2025款特斯拉Model3实测：续航智能都到位，缺点也实在 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zTlZrQmpiU3diOFlGOUhKYVFHOWM2YnYyMi1GcXp6Qmw5LXE3RWVHWnpSaUpRekZlVGpIWWhlSFRHTzcwT29aZW1JVmI5TmRfc20yRVVnbW00LUE",
-   "source": "汽车之家",
-   "published_at": "2026-10-11T13:53:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T13:53:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zTlZrQmpiU3diOFlGOUhKYVFHOWM2YnYyMi1GcXp6Qmw5LXE3RWVHWnpSaUpRekZlVGpIWWhlSFRHTzcwT29aZW1JVmI5TmRfc20yRVVnbW00LUE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "2025款Model 3实测：续航智能到位也有缺点",
-   "title_zh": "2025款特斯拉Model3实测：续航智能都到位，缺点也实在 - 汽车之家",
-   "sentiment": 0
   },
   {
    "id": "148946ec8efb",
