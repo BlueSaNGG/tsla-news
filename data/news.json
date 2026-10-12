@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T07:22:28.129496+00:00",
+ "updated_at": "2026-10-12T07:37:30.529188+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（15条已评分）"
+     "note": "今日新闻情绪 +0.26（19条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T07:22:28.118244+00:00"
+   "as_of": "2026-10-12T07:37:30.518995+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
-   "count": 15
+   "avg": 0.26,
+   "count": 19
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3ce5f0b43430",
+   "title": "加皇资本市场维持特斯拉(TSLA.US)买入评级，维持目标价480美元 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2xlWDFPc0ZzUTQtX3hMNG1BLVoxenJjeWotYzFuUHVOOVpjd1ladnQ0TF9qa0xJeFJMNmF1YjRVcXRtOEVzUzk0UjhZNlNoZTNzajVWTU1IV0FxS3VQbHJQVDFQcTBLZ2NkQnBqQXZ2LTRaTW9fOThKaWU2MlgwMFM5eTRnalcwZnV4YW5zN1R6SWxBeDh0SzIyWXdOaUxEVS13QTJDNUFWdS1jM2JQX2dYRHlZNDA",
+   "source": "Moomoo",
+   "published_at": "2026-10-12T07:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-12T07:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2xlWDFPc0ZzUTQtX3hMNG1BLVoxenJjeWotYzFuUHVOOVpjd1ladnQ0TF9qa0xJeFJMNmF1YjRVcXRtOEVzUzk0UjhZNlNoZTNzajVWTU1IV0FxS3VQbHJQVDFQcTBLZ2NkQnBqQXZ2LTRaTW9fOThKaWU2MlgwMFM5eTRnalcwZnV4YW5zN1R6SWxBeDh0SzIyWXdOaUxEVS13QTJDNUFWdS1jM2JQX2dYRHlZNDA"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "93f72e636234",
+   "title": "【视频】特斯拉model3标续黑 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWUU1lTko5RFFXSXBIa2t4eFNNdWM2NGlZMHZtUUFkMWZ4Und5elAtQXBtNHFqN2lwSGh5WkZjSWttM1JtMWl2OWNoNGVKeWJIcFRNdFJEZl84Zm8",
+   "source": "汽车之家",
+   "published_at": "2026-10-12T07:23:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-12T07:23:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWUU1lTko5RFFXSXBIa2t4eFNNdWM2NGlZMHZtUUFkMWZ4Und5elAtQXBtNHFqN2lwSGh5WkZjSWttM1JtMWl2OWNoNGVKeWJIcFRNdFJEZl84Zm8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "f8b886821da7",
    "title": "特斯拉：今年9月，Model Y在丹麦、芬兰、冰岛、挪威、瑞典拿下全品类乘用车销冠。 - 手机新浪网",
@@ -83,8 +117,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "特斯拉：9月Model Y在北欧五国夺乘用车销冠",
    "zh_summary": "Model Y九月登顶北欧五国销冠",
+   "title_zh": "特斯拉：9月Model Y在北欧五国夺乘用车销冠",
    "sentiment": 1
   },
   {
@@ -103,8 +137,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "RBC维持特斯拉买入评级",
    "zh_summary": "RBC维持特斯拉买入评级",
+   "title_zh": "RBC维持特斯拉买入评级",
    "sentiment": 1
   },
   {
@@ -113,12 +147,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rd0xvMDdCeTY2Z3ExaDhKcWVaUXdwb2x3blFfVkJ1aDBaMWNqSzVDYjNkaE9nLTZWYjJwZlN0dDllV09kOFJDQ0dfMVJJakJ5bVUxTjFZWnc",
    "source": "驱动之家",
    "published_at": "2026-10-12T07:01:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-12T07:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rd0xvMDdCeTY2Z3ExaDhKcWVaUXdwb2x3blFfVkJ1aDBaMWNqSzVDYjNkaE9nLTZWYjJwZlN0dDllV09kOFJDQ0dfMVJJakJ5bVUxTjFZWnc"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-12T07:01:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VR00xc2ZZZFhERllEeHA4VTE3bG04MUg0QkREdldJLXlhUnIxa2NuWjFUM25qOS1fejRfOHo3MW9lRW5zZ2sxTjVHM3I"
     }
    ],
    "category": "马斯克",
@@ -143,8 +182,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "特斯拉德州超级工厂年产10枚芯片，Cybertruck滞后",
    "zh_summary": "特斯拉得州芯片进展，Cybertruck滞后",
+   "title_zh": "特斯拉德州超级工厂年产10枚芯片，Cybertruck滞后",
    "sentiment": 0
   },
   {
@@ -463,8 +502,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "喷泡泡的特斯拉助车主融入改装车圈",
    "zh_summary": "BBC报道喷泡泡的特斯拉改装车主",
+   "title_zh": "喷泡泡的特斯拉助车主融入改装车圈",
    "sentiment": 0
   },
   {
@@ -916,6 +955,23 @@
    "zh_summary": "特斯拉Robotaxi运营延长至23点",
    "title_zh": "特斯拉Robotaxi运营延长至23点，不能通宵跑",
    "sentiment": 1
+  },
+  {
+   "id": "053931b2211b",
+   "title": "TSLA Stock Gains For First Time In Five Sessions – Tesla Expands Robotaxi Service In Florida Ahead Of Q2 Earnings - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMEY2SkFkc3lIRXdZckFpUzBZcnhPajZoYXQxV21xdndJN21BUXlQWHFUMnAteElpdUEya0d0XzAyYk0zZmphSlhEVDBhZjlNbXRoQW4xemZFcGE0NEJTUWg4YkVRUzN0N2FKdmRORkRydV9haUxWUU8zR2xsUUp5T0taUEloUHlDbFE0Tmp6Nkc1ZVM3M0JJTkdFeUx2MTJoZ2RBS2duNHRzMnk1T0kzbEt4dlF3TDlleE5hQlR0ZENnVkM2MHQ1ZU9VSy1vZ0FvM3VIYm9nMDN1Q0JnZHFXeXJqU3R2OW02UERSZ1hlNVNUNDZfcnpkMHFkMEpRV0RMS0x5XzZn",
+   "source": "Stocktwits",
+   "published_at": "2026-10-11T21:26:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-11T21:26:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMEY2SkFkc3lIRXdZckFpUzBZcnhPajZoYXQxV21xdndJN21BUXlQWHFUMnAteElpdUEya0d0XzAyYk0zZmphSlhEVDBhZjlNbXRoQW4xemZFcGE0NEJTUWg4YkVRUzN0N2FKdmRORkRydV9haUxWUU8zR2xsUUp5T0taUEloUHlDbFE0Tmp6Nkc1ZVM3M0JJTkdFeUx2MTJoZ2RBS2duNHRzMnk1T0kzbEt4dlF3TDlleE5hQlR0ZENnVkM2MHQ1ZU9VSy1vZ0FvM3VIYm9nMDN1Q0JnZHFXeXJqU3R2OW02UERSZ1hlNVNUNDZfcnpkMHFkMEpRV0RMS0x5XzZn"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
   },
   {
    "id": "1769f8d02a73",
@@ -1523,6 +1579,23 @@
    "sentiment": -1
   },
   {
+   "id": "3a67b2494f95",
+   "title": "特斯拉Model Y值得买吗？3个维度看清优缺点+FAQ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Vzc0N1p2a1lZNXZyVm90TmV5N1RXTHFtSWU3MlR1Z0lyWTRxRHdnaE1rN2ZoZmdHRmtaSW1aaFp0OUNpWTNpZ0J6dm16NFhGcVhnTEE3RHFWWlVvUGxPcWt0R1VjMVY0dlYteVViaklvc0YtQUZLNWd4dy1lems",
+   "source": "新浪网",
+   "published_at": "2026-10-11T13:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-11T13:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Vzc0N1p2a1lZNXZyVm90TmV5N1RXTHFtSWU3MlR1Z0lyWTRxRHdnaE1rN2ZoZmdHRmtaSW1aaFp0OUNpWTNpZ0J6dm16NFhGcVhnTEE3RHFWWlVvUGxPcWt0R1VjMVY0dlYteVViaklvc0YtQUZLNWd4dy1lems"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
+  {
    "id": "43e61265b2c1",
    "title": "TSLA Stock Continues Slide After Musk Says ‘A Little Less Capital Efficient’ Is Acceptable — Warns Of Rising Capex for Next 2-3 Years - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaUI2NVFhZmZHS0dZUGxjQTRXVl9RVUJhOHBxN25GSFhBZjJHNHppc2hMSkhiYzRCdnZOb1l1X1VvVmdCQnRiQzFQYllybnpLTndsMThLcTF0a0lYQWw5bTB0eGxVQkJ1blFKNzFKZF9ybzlad0llMzZUT2xwUUhoVk1zYlJHQVpDN0dkallWcFpIeUltYm1WSUFUUzZiOXdvSE9SRVBHc2pORTFxcFpGRE1FemNTY3F5VktPM3dJX0FaWUlsYzJpdUhqV2JTdURjc1FrbWxiZzZNU3gzZFhyMERkckZKWDUycjlEekhoX2RUT2RFRDdJNGUtdTlnSFQ5Ujg2a3d2QnBhSDd4SW1GWU41YUR3Z0JJSm9KNzRB",
@@ -2088,8 +2161,8 @@
    ],
    "category": "分析师",
    "session": "周末",
-   "title_zh": "特斯拉德国产能爬坡，分析师预期今年交付增10%并改善利润率",
    "zh_summary": "分析师看好德国工厂爬坡，交付或增10%",
+   "title_zh": "特斯拉德国产能爬坡，分析师预期今年交付增10%并改善利润率",
    "sentiment": 1
   },
   {
@@ -4202,6 +4275,23 @@
    "sentiment": 0
   },
   {
+   "id": "93e4aebfddc2",
+   "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype? - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU",
+   "source": "WSJ",
+   "published_at": "2026-10-10T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-10T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFNWYlBmSmtGZVVTR3l6N0o2X0VBeldFU2ZoLVRjckNwOUwyNzVEaENSb0RXWUVJMGFtemNDQXNaLWhNeElacG9NdHZ3dUN2N093cjl6RzZNbU5GQUt2WDNZN2FlZ2dQYnlkYzA3N0pubWdYakoxWXJ6QS1xdlJ1SlhuRFVnT09zRVU2RmNXT0dpc09yTHlBbko1akNmZDFfNkdzT0xvaGpwUmNjUHQ3SjlRUTdReXJVOERDUDFESlU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
+  {
    "id": "a5c8aed22ba8",
    "title": "巴黎车展将公开体验特斯拉和小鹏，小鹏在欧洲首次NGP大规模公开体验 - 泰伯网",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VX1VFeFQwOWhkZW5BaXlqeHo5X2swdkljdWdnZHhBOXU3bmJ2Z1EyNmx0U0hMNmlleWRmT3ZheXlSNGtTcy0yVXgwZUhDWkdoLWdN",
@@ -4420,6 +4510,23 @@
    "zh_summary": "特斯拉欧洲更名辅助驾驶推审批",
    "title_zh": "特斯拉欧洲更名驾驶辅助 推欧盟审批 - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "79155e10f696",
+   "title": "特斯拉FSD，在欧洲被打回原形 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5halV2LWNxWXdRQ3kzQVViUUdtYjZ0ZjVYZHV2R3gwczVVTGFpMmFpcThKYW5HV3ZCTWE4SmVDM0RPbUxoNHR1dlpiWTV4ZWo5eXdv",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-10T05:43:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-10T05:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5halV2LWNxWXdRQ3kzQVViUUdtYjZ0ZjVYZHV2R3gwczVVTGFpMmFpcThKYW5HV3ZCTWE4SmVDM0RPbUxoNHR1dlpiWTV4ZWo5eXdv"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f97edad713d7",
@@ -6459,131 +6566,6 @@
    "zh_summary": "特斯拉上海交付连涨11个月",
    "title_zh": "上海交付连续11个月增长，特斯拉股价上涨",
    "sentiment": 1
-  },
-  {
-   "id": "b8b6f0ae7694",
-   "title": "Tesla, Inc. $TSLA Shares Sold by Journey Retirement Planning & Investment Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXUycUljM3ZzS2pBdTJ3MFlQcWJGcXAzOTBUQVhPRDBvM0FGV1BMQnZjZDZnZHd1UFZlZ2RIZmZTZDlBajZoYkJqSXE3aVU5YVNaUXJ1blFsS2hDMFVDYjl5QTlwWmxUUFZtMXo2WGYtaGVXTmF4b29TZ04yU3BrSGFOdWhkNHFUdDItVk0tRE9KTkRTenk5VXU0OWdfTl9VWWd5ZVFXUmJDQ1pSTTh4Q3poZnNxaXNSQlE5cFFhVDVFQ28zTkEwVVJ0UktqaFd4a1lRLTc4Ukhidy1o",
-   "source": "MarketBeat",
-   "published_at": "2026-10-09T17:23:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-09T17:23:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXUycUljM3ZzS2pBdTJ3MFlQcWJGcXAzOTBUQVhPRDBvM0FGV1BMQnZjZDZnZHd1UFZlZ2RIZmZTZDlBajZoYkJqSXE3aVU5YVNaUXJ1blFsS2hDMFVDYjl5QTlwWmxUUFZtMXo2WGYtaGVXTmF4b29TZ04yU3BrSGFOdWhkNHFUdDItVk0tRE9KTkRTenk5VXU0OWdfTl9VWWd5ZVFXUmJDQ1pSTTh4Q3poZnNxaXNSQlE5cFFhVDVFQ28zTkEwVVJ0UktqaFd4a1lRLTc4Ukhidy1o"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "一机构减持特斯拉股票",
-   "title_zh": "Journey Retirement Planning卖出TSLA股票",
-   "sentiment": -1
-  },
-  {
-   "id": "3b5f0030eda6",
-   "title": "TSLA Stock Holds Flat — Tesla Hit With Wrongful Death Lawsuit, NTSB Probe Over Fatal Texas Crash - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWmJuYzhnTERTanJsNWNYWGpaVVk3aVAzUTB6N000WjZmUDRkNzhLUkhteEkyZW9Tc2lTSWk0djdiZ09XSlhQRmhKcWZDZjQ3VEFwWE5PRk95ZVhVYTdMenpWLVlEWWYwenJ0dUY0cW1XLVBaZlNlOVJTWHhBODl1THhMZ2o4d2VqN1NwcGNXWl9ILVQzaU5zeS1USUlxeExCdUZFN0FWVTg0UkZsZzdXc2QxdEl5UTE0NTZmRm5FSHJUNU5WY1JXcjg5MGMxSi1WQm1IRVg1MFBneER6M2lkTEhaek1iQ1dxYTVCVGxn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-09T17:21:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-09T17:21:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWmJuYzhnTERTanJsNWNYWGpaVVk3aVAzUTB6N000WjZmUDRkNzhLUkhteEkyZW9Tc2lTSWk0djdiZ09XSlhQRmhKcWZDZjQ3VEFwWE5PRk95ZVhVYTdMenpWLVlEWWYwenJ0dUY0cW1XLVBaZlNlOVJTWHhBODl1THhMZ2o4d2VqN1NwcGNXWl9ILVQzaU5zeS1USUlxeExCdUZFN0FWVTg0UkZsZzdXc2QxdEl5UTE0NTZmRm5FSHJUNU5WY1JXcjg5MGMxSi1WQm1IRVg1MFBneER6M2lkTEhaek1iQ1dxYTVCVGxn"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "特斯拉因德州致命车祸被诉及调查",
-   "title_zh": "TSLA持平；特斯拉因致命车祸被诉并遭NTSB调查",
-   "sentiment": -1
-  },
-  {
-   "id": "752cc5363aa1",
-   "title": "Delta CEO says there's no Elon Musk feud: 'I drive a Tesla' - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZy1JQmx2NDNBQ2lUcmFRMEJHMWFYRkwzWDdPSktDampDbG93eFlvZEpWaV9ybEMyZVlrc0VpS1MzN0tGcllaQ1RVY2pEaDQxQWJTZXJ2Q3JUTFF3NU5DeDNpU3dRSGI5eEVNMTUyejYwVVBpWk5BMFM5cHN0dGlCNC0xdGxlblZOYTRjMg",
-   "source": "Business Insider",
-   "published_at": "2026-10-09T17:09:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-09T17:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZy1JQmx2NDNBQ2lUcmFRMEJHMWFYRkwzWDdPSktDampDbG93eFlvZEpWaV9ybEMyZVlrc0VpS1MzN0tGcllaQ1RVY2pEaDQxQWJTZXJ2Q3JUTFF3NU5DeDNpU3dRSGI5eEVNMTUyejYwVVBpWk5BMFM5cHN0dGlCNC0xdGxlblZOYTRjMg"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "达美CEO否认与马斯克有矛盾",
-   "title_zh": "达美CEO称与马斯克无矛盾：我开特斯拉",
-   "sentiment": 0
-  },
-  {
-   "id": "88bf695899b6",
-   "title": "Blotter: Tesla driver arrested for DUI after passerby saw half-clothed woman getting out of car - Gillette News Record",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcV9HZUN6Y1hyUDZBUXo0RlZna1Uyb0VrbW1JMktEU3JuLWw3M3QyTUxQaHk2XzQ3Z2dGYkhxRnBMN0FTMGVvVEM4Wlhad3hCM3hpcDE3ZnBoQzFycFVFWUp6S1ZLUkNmVEI2M2t3dXVLY3Y3RnJOS1V5cXRyUFZiZnRmNVZxeUh5a21iNGNsYkFTVk41eFFOZW1lcWFpOUEwbWxEYVJqMldYZw",
-   "source": "Gillette News Record",
-   "published_at": "2026-10-09T17:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gillette News Record",
-     "published_at": "2026-10-09T17:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcV9HZUN6Y1hyUDZBUXo0RlZna1Uyb0VrbW1JMktEU3JuLWw3M3QyTUxQaHk2XzQ3Z2dGYkhxRnBMN0FTMGVvVEM4Wlhad3hCM3hpcDE3ZnBoQzFycFVFWUp6S1ZLUkNmVEI2M2t3dXVLY3Y3RnJOS1V5cXRyUFZiZnRmNVZxeUh5a21iNGNsYkFTVk41eFFOZW1lcWFpOUEwbWxEYVJqMldYZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉司机涉嫌酒驾被捕",
-   "title_zh": "特斯拉司机涉嫌酒驾被捕，路人目击女子衣衫不整下车",
-   "sentiment": 0
-  },
-  {
-   "id": "e211e226a8fb",
-   "title": "Midday Need to Know: Delta slides on earnings miss, Tesla gains on China sales & more (SPY:NYSEARCA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1djNFduTFZtS0ZzMndZaEtiVUlNOGozN3hqTThYNFFqYy1BOUQxcExzbS1tdmU5aW9rM0xMOWExX2VpWW0xbnliemNCZk50UDdEZTEzbkR3VXloaktnOHYxMW5yeHVfVHlMd3QzbGFUNjhxVUhDMWp5YTR1Wk9PdnRSOUt5VGtqeFVVaFRzakV1UFA3MnlKWk1oUjVzNGQtYzAtdU1Hbm5VUF9jRi1McGpkWWFJYmJ3b1Nv",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-09T16:58:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-09T16:58:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1djNFduTFZtS0ZzMndZaEtiVUlNOGozN3hqTThYNFFqYy1BOUQxcExzbS1tdmU5aW9rM0xMOWExX2VpWW0xbnliemNCZk50UDdEZTEzbkR3VXloaktnOHYxMW5yeHVfVHlMd3QzbGFUNjhxVUhDMWp5YTR1Wk9PdnRSOUt5VGtqeFVVaFRzakV1UFA3MnlKWk1oUjVzNGQtYzAtdU1Hbm5VUF9jRi1McGpkWWFJYmJ3b1Nv"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-09T16:58:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWmdvYU8wVk9PdmNsSFp3YWlHT0Y3d1Bqd2ZsTXVDRFNndU5oVWhxZ29kQjZ3SmdseWc4Q0Nzb2Q2UlZNajJ2MFU4eGhvNEVUNEg3NW5JajVZdW5XN2plaDFRSHlMRGJxS254bjlZal95SXZBQ0Q5Q3g4cGU5czNCMDFZVnZ3QXU1dlp1X2ZMZURSQjVDWDlGM2V6MV9YMk56WERqbk1aNE1WMVVSQUZndFJGemtFc200SEpFR2xlSGZySzlqaVNkNkI5dFphNk43Zl9WV0Z1Vk1QU29Y"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉中国销量推动股价上涨",
-   "title_zh": "午盘速递：达美财报不及预期，特斯拉因中国销量上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "4fb59ac823a8",
-   "title": "TSLA Stock Sinks Toward Worst Week This Year After Weak Q2 — But CEO Elon Musk Is A 'Big Fan' Of His Insightful Retail Investor Army - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVV9KRmdKX0xCWE81Vk03OC1sZnJoaFE3dW1yNW56T3NvU1BKTi1yQ1h1b0NTZWgzazV4Q3ZNTHJCZGlfRnBDZ1FnYXRHaXFtOUxNd1RQVDIxSlJlSmhNMGlTM21Wc0pvWWd5d0R5ZlptbUw3OWVjOGwxR01JZExNRkhOY21SdXFPbmpDeUZHLTVLdThDX0VxQlRrVFhBb2pXc1N2Wll3aFJVblFMNE5WX0txekgyUXZLeXc",
-   "source": "Stocktwits",
-   "published_at": "2026-10-09T16:57:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-09T16:57:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVV9KRmdKX0xCWE81Vk03OC1sZnJoaFE3dW1yNW56T3NvU1BKTi1yQ1h1b0NTZWgzazV4Q3ZNTHJCZGlfRnBDZ1FnYXRHaXFtOUxNd1RQVDIxSlJlSmhNMGlTM21Wc0pvWWd5d0R5ZlptbUw3OWVjOGwxR01JZExNRkhOY21SdXFPbmpDeUZHLTVLdThDX0VxQlRrVFhBb2pXc1N2Wll3aFJVblFMNE5WX0txekgyUXZLeXc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉二季度疲软，股价临近年内最大周跌幅",
-   "title_zh": "TSLA受二季度疲软拖累逼近年内最大周跌幅，马斯克称赞散户投资者",
-   "sentiment": -1
   }
  ]
 }
