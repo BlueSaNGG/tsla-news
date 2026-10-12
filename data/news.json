@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T20:22:53.840195+00:00",
+ "updated_at": "2026-10-12T20:37:29.169239+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.13（139条已评分）"
+     "note": "今日新闻情绪 +0.12（142条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-12T20:22:53.824551+00:00"
+   "as_of": "2026-10-12T20:37:29.146428+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.13,
-   "count": 139
+   "avg": 0.12,
+   "count": 142
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1c964311dee8",
+   "title": "Tesla coils in tight range near $378: Live levels - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUNDbzl6M0ExUXlKV2xxOUpsMmlabjh1eWVUeXk2RC1TNHBhR3pyTzVfdDdaN1lRZGQtNDkyM3hRbFEtTHFfSXBvUVI2cGNfMUxmbHZQLTBCVVhjelVTRmZpVldqVWpidXk4dHV3Zm9kNWRqUDg4bDUyU1VLal9YOXFKbjhWUFpBXzdEaVIyVjYwSWVLMjJ2ZDBzcDdYQVhiQjYwX1BicFBEbl8yNFAyWG9xYw",
+   "source": "Investing.com",
+   "published_at": "2026-10-12T20:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-12T20:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUNDbzl6M0ExUXlKV2xxOUpsMmlabjh1eWVUeXk2RC1TNHBhR3pyTzVfdDdaN1lRZGQtNDkyM3hRbFEtTHFfSXBvUVI2cGNfMUxmbHZQLTBCVVhjelVTRmZpVldqVWpidXk4dHV3Zm9kNWRqUDg4bDUyU1VLal9YOXFKbjhWUFpBXzdEaVIyVjYwSWVLMjJ2ZDBzcDdYQVhiQjYwX1BicFBEbl8yNFAyWG9xYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "4e606346c603",
    "title": "Tesla's New Lineup Image Drops Model S and X — The Flagships Are Officially Gone - BASENOR - Tesla Accessories",
@@ -3622,6 +3639,23 @@
    "sentiment": 0
   },
   {
+   "id": "dbf966b76850",
+   "title": "Watch Tesla to Debut Cybercab at Paris Motor Show - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1zNk9MZ0hpZXdVMkpPZTZRaWt1MjFSeGRoTlctNzBrVEEtVjdSaWZJWjRZOGZwVVY2SFMwV19PUHBXSFNKWlFtZXRxOGVlRFBZcXBUT21GUTZTSktGcGpNVEp2eE0tbU5pb3lSemQ1Q1JvWmowRGtWamxpbmhqeGVtYWZPZ2o4RmRRVXdzYzZyYmYwS0JxZmJQb0l6UGs",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-12T00:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-12T00:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1zNk9MZ0hpZXdVMkpPZTZRaWt1MjFSeGRoTlctNzBrVEEtVjdSaWZJWjRZOGZwVVY2SFMwV19PUHBXSFNKWlFtZXRxOGVlRFBZcXBUT21GUTZTSktGcGpNVEp2eE0tbU5pb3lSemQ1Q1JvWmowRGtWamxpbmhqeGVtYWZPZ2o4RmRRVXdzYzZyYmYwS0JxZmJQb0l6UGs"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
    "id": "3b33bdcd80e1",
    "title": "Tesla’s Shanghai Exports Hit Quarterly Record as China Sales Fall 16% - Electric Vehicles",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTY0X2o5U2NpeVBaSmFFYjA4WWQxdnViR2kyZE5OV2dJWnFWMDI0M1pMaUNhUW5lNTJpZEJtQnBnSmJSanVLaVd2X2ZtTkVNS1hGa0V5aGJqOUJ4MG02Wml6SzUtNzhpeUZsUlpWNF9zSUJjX29jd3RHOHlSeDJtV0lzV1Q1djNPVDAtWko1QVFhUkhGV0t4VVhnX01RdUZ0dGF5MlVB",
@@ -6473,51 +6507,6 @@
    "zh_summary": "特斯拉FSD更名Tesla辅助驾驶盼欧盟批准",
    "title_zh": "告别FSD，特斯拉辅助驾驶改名能否换来欧盟批准？",
    "sentiment": 0
-  },
-  {
-   "id": "2bd6dbac79d3",
-   "title": "Tesla Plans 6 New Supercharger Stations Across South Korea - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWtoa2p4c05HQUFsOWdmeDRxUzBrd2dlTm96U0pEelA0VzZtTXRveWpXUEFDTVg5TDh0Q25Oa0c3LXVRN1lsRFBCaUNHT2JNN3h2OV80dFFqYWVKb2xDMHI4c3RaX3NPRVBPR3hZQlBjR01RVXF5ejRBQVNiVUk2c3BLY3F4UHp2RmtHZ19vUXpKRjNMWlB0cA",
-   "source": "BASENOR",
-   "published_at": "2026-10-10T11:03:38+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-10T11:03:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWtoa2p4c05HQUFsOWdmeDRxUzBrd2dlTm96U0pEelA0VzZtTXRveWpXUEFDTVg5TDh0Q25Oa0c3LXVRN1lsRFBCaUNHT2JNN3h2OV80dFFqYWVKb2xDMHI4c3RaX3NPRVBPR3hZQlBjR01RVXF5ejRBQVNiVUk2c3BLY3F4UHp2RmtHZ19vUXpKRjNMWlB0cA"
-    },
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-10T11:03:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWtoa2p4c05HQUFsOWdmeDRxUzBrd2dlTm96U0pEelA0VzZtTXRveWpXUEFDTVg5TDh0Q25Oa0c3LXVRN1lsRFBCaUNHT2JNN3h2OV80dFFqYWVKb2xDMHI4c3RaX3NPRVBPR3hZQlBjR01RVXF5ejRBQVNiVUk2c3BLY3F4UHp2RmtHZ19vUXpKRjNMWlB0cA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉计划在韩国新建6座超充站",
-   "title_zh": "特斯拉计划在韩国新建6座超级充电站",
-   "sentiment": 1
-  },
-  {
-   "id": "33eab2c196ea",
-   "title": "Their loved ones died in this fiery Tesla crash. Door failure made it a ‘death trap,’ they say - Toronto Star",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX0FjTnRlN0lFejhKVjZuQllzMVM2aHZxcnN0UjBMMVBSTWFtZVIybHZub081SUM5eWV0VDVweHhpTW9sWGFSbVR3akNGZk1KTTJrbERDOWw1cUt0RzJrbTZHN3lTSmZ3SFJaTkZiRlhKUW5DaE9heDR4VTFNbmVxVENzVFd6QVRFOE9tU1lwV1MtMWJIUVBUQ0R1N19zQUh3YjBpdzVXaFJ5R0M0Z3BSQzZrc0c4VGpXVlZYRTFoUzhUNkpqblJZM1RhN1ZYNVlCMkxOejN5aDNkMUQtTElYdjR3RDgtVW1pakVwZG5kVVg5QXhwbVdVRkhVNFJZV19CRGc",
-   "source": "Toronto Star",
-   "published_at": "2026-10-10T11:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Toronto Star",
-     "published_at": "2026-10-10T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOX0FjTnRlN0lFejhKVjZuQllzMVM2aHZxcnN0UjBMMVBSTWFtZVIybHZub081SUM5eWV0VDVweHhpTW9sWGFSbVR3akNGZk1KTTJrbERDOWw1cUt0RzJrbTZHN3lTSmZ3SFJaTkZiRlhKUW5DaE9heDR4VTFNbmVxVENzVFd6QVRFOE9tU1lwV1MtMWJIUVBUQ0R1N19zQUh3YjBpdzVXaFJ5R0M0Z3BSQzZrc0c4VGpXVlZYRTFoUzhUNkpqblJZM1RhN1ZYNVlCMkxOejN5aDNkMUQtTElYdjR3RDgtVW1pakVwZG5kVVg5QXhwbVdVRkhVNFJZV19CRGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车祸起火遇难者家属指责车门故障",
-   "title_zh": "特斯拉致命车祸：家属称车门故障成\"死亡陷阱\"（多伦多星报）",
-   "sentiment": -1
   }
  ]
 }
