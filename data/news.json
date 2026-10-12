@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T19:52:27.363550+00:00",
+ "updated_at": "2026-10-12T20:07:35.163010+00:00",
  "market": {
-  "price": 378.36,
-  "change_pct": -1.13,
+  "price": 378.03,
+  "change_pct": -1.22,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.7%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（135条已评分）"
+     "note": "今日新闻情绪 +0.15（137条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.36 vs 20日均线 $369.63"
+     "note": "现价 $378.03 vs 20日均线 $369.61"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.7,
-   "ma20": 369.63,
-   "as_of": "2026-10-12T19:52:27.350568+00:00"
+   "implied_upside_pct": 5.8,
+   "ma20": 369.61,
+   "as_of": "2026-10-12T20:07:35.149726+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.8%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 135
+   "avg": 0.15,
+   "count": 137
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a168659ac888",
+   "title": "Tesla hit with allegations that robotaxis speed in school zones - Austin American-Statesman",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2dXWGwyRDRDVldyVGU1MUxsRFpxYXY4aDNnNFNVcEw5dFREeVVCbmU3RzU3N3Y3UzJZVENuR1VhT1lTazJVV1FtUGRROENwR1FyQUVsRjRabHJNQkJzNDdYSS1xWXpIdjFKbGYwNkx2WjdjN0haUzJGTVdSVlZKQjR1bHB0UVI3NGlmZGRyZS1wd0pxNy1yQzBjbmRHYUk",
+   "source": "Austin American-Statesman",
+   "published_at": "2026-10-12T20:01:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Austin American-Statesman",
+     "published_at": "2026-10-12T20:01:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2dXWGwyRDRDVldyVGU1MUxsRFpxYXY4aDNnNFNVcEw5dFREeVVCbmU3RzU3N3Y3UzJZVENuR1VhT1lTazJVV1FtUGRROENwR1FyQUVsRjRabHJNQkJzNDdYSS1xWXpIdjFKbGYwNkx2WjdjN0haUzJGTVdSVlZKQjR1bHB0UVI3NGlmZGRyZS1wd0pxNy1yQzBjbmRHYUk"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "e000fba452dd",
+   "title": "NHTSA Reviews Petition on Alleged Tesla Robotaxi Speeds in School Zones - VOI.ID",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jTGNSN21PaS03Q3k2Uno0cjg2TmtTYV9nTHp1VU0weUw1dnZfdmo4Yzd4RWNTOGljZ2J5TEczVEd3bVZRazhN0gFCQVVfeXFMTWEwREx2UGMxZWhuaTFmQ1ZXUlVuLVVLbmdGZlYxbWJXM0dTaGx1YUhIMi1lZlFVaERkemRQbTJySm1B",
+   "source": "VOI.ID",
+   "published_at": "2026-10-12T19:51:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VOI.ID",
+     "published_at": "2026-10-12T19:51:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jTGNSN21PaS03Q3k2Uno0cjg2TmtTYV9nTHp1VU0weUw1dnZfdmo4Yzd4RWNTOGljZ2J5TEczVEd3bVZRazhN0gFCQVVfeXFMTWEwREx2UGMxZWhuaTFmQ1ZXUlVuLVVLbmdGZlYxbWJXM0dTaGx1YUhIMi1lZlFVaERkemRQbTJySm1B"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "dbef8a25d4b2",
    "title": "Tesla Stock Rises as Elon Musk Asserts Control Over Terafab Chip Project - Barron's",
@@ -1724,6 +1758,28 @@
    "zh_summary": "马斯克反对美国对华电车加税",
    "title_zh": "特斯拉离不开中国！马斯克反对美对华电车加税 一句揭开美国遮羞布 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "32e266f97d88",
+   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
+   "source": "Technology Org",
+   "published_at": "2026-10-12T11:27:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-12T11:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
+    },
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T12:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "0e7403821982",
@@ -4450,7 +4506,7 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUU4yMlNYdTAxVjUtT1VKa2FxYlBZekk1Zi1tZUxZTDJzMWhCRVI1dDlKbWloaV9QZ0FSaWlJWlk0ZUVJbGstMjdUR1VlcERTeVF2aXRXWXJXNWlZXzgtSlhqWmxmOFlYY0pUc05VYlpXaExtSThWZHpZb3lVV1hrVk16NFhFUQ",
    "source": "The Cool Down",
    "published_at": "2026-10-11T11:50:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Cool Down",
@@ -4461,13 +4517,22 @@
      "name": "Yahoo News UK",
      "published_at": "2026-10-11T11:50:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0c2UtbDlmaU5GbGs2MEZxS2l6alphdEZrZDJZa3BVU3UxSTVsakJ6OWg4bEo1YnVEaV80Z2t1bE1PdTdGNkJsUGc2bWNRU0J5czlySGFQX1pFZ3ZMRTJEQ09tRXFDd0FrRXkzME4xYVp3Zw"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-11T11:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxBSUpRX2tBSHQwMldaNU9TbXRaUkZjbzF6VlB2VTJhcXlKcFZ4bFVZVnhuY1FsUEE3WmRBZV9yLTRmTWljSUszalluR2dqU0hqVXl0UnlWQnI3V3BMYVQ1ZFBYVXNacTZqQzhHbDRnSDVDRmhNY1NLTFk5RWtEWGlFeVdMdGFXaF9mWHNvd1VndVNP"
     }
    ],
    "category": "其他",
    "session": "周末",
    "zh_summary": "车主31天开1857英里，充电花费136美元",
    "title_zh": "特斯拉车主称31天行驶1857英里，充电费136美元、省油235美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.04,
+    "window_h": 2.0
+   }
   },
   {
    "id": "1a9d284d86a8",
@@ -5216,26 +5281,6 @@
    "zh_summary": "渲染图设想车企学特斯拉造卡车",
    "title_zh": "若捷豹法拉利奥迪造半挂卡车长啥样",
    "sentiment": 0
-  },
-  {
-   "id": "c9ba48a4d20b",
-   "title": "2026.38.5 (FSD 14.3 Lite & 14.3.12) Official Tesla Release Notes - Software Updates - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXy1LUnRMbzRyaTRnNXQwSHFvNVl2SUNka3pkcnJTQnJkSVlLNVNVQ19EZDJZcnVZajlNSkxZNUJ0U2kwSklxOXF0dkVYalhhbS1YN0NMenhnUzhWUjBxampCLXFvYzMxR2VfU0YwY0tuaDJmXzEza0ZrX2E1eDJ6TmNRRQ",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-10T22:43:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-10T22:43:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXy1LUnRMbzRyaTRnNXQwSHFvNVl2SUNka3pkcnJTQnJkSVlLNVNVQ19EZDJZcnVZajlNSkxZNUJ0U2kwSklxOXF0dkVYalhhbS1YN0NMenhnUzhWUjBxampCLXFvYzMxR2VfU0YwY0tuaDJmXzEza0ZrX2E1eDJ6TmNRRQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉发布2026.38.5软件更新说明",
-   "title_zh": "特斯拉2026.38.5版(FSD 14.3 Lite及14.3.12)官方发布说明",
-   "sentiment": 1
   },
   {
    "id": "292d3642902e",
@@ -6499,46 +6544,6 @@
    "zh_summary": "汽车之家二手车视频介绍Model Y",
    "title_zh": "【视频】酷车地带二手车特斯拉ModelY - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "750d0b0a6bed",
-   "title": "公司是否与特斯拉Cybercab有合作？拓邦股份回应_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1reEtqbkhlWHVLNXV1VWNIUHB6d3dfaXJ2Q3N0bnhwTGpOVEZuUkZhWGdXREpPOE9wRFNBdldSUXlmWGE2MXpuM0VrRQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-10T10:13:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-10T10:13:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1reEtqbkhlWHVLNXV1VWNIUHB6d3dfaXJ2Q3N0bnhwTGpOVEZuUkZhWGdXREpPOE9wRFNBdldSUXlmWGE2MXpuM0VrRQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "拓邦股份回应与特斯拉Cybercab合作传闻",
-   "title_zh": "公司是否与特斯拉Cybercab有合作？拓邦股份回应",
-   "sentiment": 0
-  },
-  {
-   "id": "bf1036e57001",
-   "title": "特斯拉Model 3/Y在美启用Powershare家庭供电功能 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40THJQTXN5a21VVDJEOVVzeDNncG9Ic1hvQ3NrSTdTUXNGX2pUaUlZYUdHOEpBblo0NWJ4aEUtNWFoeHA5a1B1aXpGQ3g4dmRBSW9vU3VRQVlOVmRfa0E",
-   "source": "DoNews",
-   "published_at": "2026-10-10T10:11:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-10T10:11:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40THJQTXN5a21VVDJEOVVzeDNncG9Ic1hvQ3NrSTdTUXNGX2pUaUlZYUdHOEpBblo0NWJ4aEUtNWFoeHA5a1B1aXpGQ3g4dmRBSW9vU3VRQVlOVmRfa0E"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model 3/Y在美上线家庭供电",
-   "title_zh": "特斯拉Model 3/Y在美启用Powershare家庭供电功能",
-   "sentiment": 1
   }
  ]
 }
