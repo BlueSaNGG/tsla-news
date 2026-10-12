@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T16:22:39.240312+00:00",
+ "updated_at": "2026-10-12T16:37:34.095802+00:00",
  "market": {
-  "price": 379.11,
-  "change_pct": -0.94,
+  "price": 379.43,
+  "change_pct": -0.85,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（111条已评分）"
+     "note": "今日新闻情绪 +0.19（112条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.11 vs 20日均线 $369.67"
+     "note": "现价 $379.43 vs 20日均线 $369.68"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.5,
-   "ma20": 369.67,
-   "as_of": "2026-10-12T16:22:39.230306+00:00"
+   "implied_upside_pct": 5.4,
+   "ma20": 369.68,
+   "as_of": "2026-10-12T16:37:34.083083+00:00"
   },
   "pe_ttm": 104.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.2,
-   "count": 111
+   "avg": 0.19,
+   "count": 112
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "95ae6d9da1fb",
+   "title": "合并后！丰田两款燃油车重回销量汽车榜前十|卡罗拉锐放|新能源车|一汽丰田|特斯拉|model y - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbmNETGtSaEhvdDh6Vm1MUWlDSUJlUkVQc3Q4QjdZc3pjSFpBQVpLX190MlpwOGRycG96WEVmMHhnT01ZcjByTEVPT1lPQ3huRXJQWmdGakpNOENXMDNVcUdSVWxJZmVXWDZCLUlhZEN0STZ3OEw2dQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-12T16:22:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-12T16:22:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vbmNETGtSaEhvdDh6Vm1MUWlDSUJlUkVQc3Q4QjdZc3pjSFpBQVpLX190MlpwOGRycG96WEVmMHhnT01ZcjByTEVPT1lPQ3huRXJQWmdGakpNOENXMDNVcUdSVWxJZmVXWDZCLUlhZEN0STZ3OEw2dQ"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
   {
    "id": "459da35ef9b2",
    "title": "The Feds Are Looking Into Whether Tesla’s Robotaxis Have Been Speeding in School Zones - Road & Track",
@@ -113,7 +130,7 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUV83TDk4NjJfQVRnMXRjVGExSWRpeWpXOWJwTlhmNzVwVDd6dXN1NkhwTi1RRzZwbWhEM0tmR0FnOEtVQjVnN1M2a21KblZNUFpDN1N3dUNzb0NOT1VXWGNrNThPdXRuM0JFeFBOa2VFOUc1dmcyMm9PRThnMGJqZmNhTmo",
    "source": "Yahoo! Finance Canada",
    "published_at": "2026-10-12T15:20:08+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo! Finance Canada",
@@ -124,13 +141,22 @@
      "name": "Moomoo",
      "published_at": "2026-10-12T15:27:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjF1T1p0eVJSU3FpSEVCLXhDUHZORlExUHlDTlNIZ2pwQ2FtcnlxMGFqZ2QxVnFtU2JiNDl6ckFvcnpuY3R0aTNBd0pGMjVGQXdEaDZYYkE2dWNndUU4TDhVU2huS0VZcGNoYU9KYWhrWUZqdEZycFI5Y1h1bjJYLVVIZ0VYRGdzYjJZSy05VXhWalhmbDBRNXpkUEtOLWpSeTlGczZWZHRhNHNhalE"
+    },
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-12T16:28:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdjR1OGtGa0tnNC1LOENNWjZhSEM2M0lxX1VwaHA1YUthSU5qcnk4RnFqWFJEdDVKSFFRN2JCalVkM1Q3aEJ0UkhiREQtZ2xzeVAwb0JoX3VNaTJTT1ZIdXRwRG15NlU1NF9wTkJHdnVjUm1uSVZkNGZVWVJNMUZOQjhQb0dzRlZvc1BzMFJ4dzh4RWgzYkRsRms2THZCLVdodG01SFhmSmJ0NHQtTkZjLW5KQmg4enozMThvUGcyeTJIUUpYeFNHQVQydW5SOGVFWjRqZmNRTVFZUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "加银称特斯拉等美车企将受益强劲需求",
    "title_zh": "加银称特斯拉、通用等美车企将受益强韧的SAAR",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.23,
+    "window_h": 1.2
+   }
   },
   {
    "id": "d2282f6d23bb",
@@ -594,12 +620,17 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYm10Zkt6R1FTZHUzZUpWdG93NlZFd1BOc3JBRkg1R0RLdFYzVmJYZTFKcUVSem1KMDYwU21JOFRzdExORW0wXzBRUmRUdkw3VEFyWmVUcWYyTDhlMDhtZW1BaEp5REo4R016SE0xS0tka3ZQTTU0R1lDdzBiajhqRkpPbV9hMWxOUnJOSnhzMlhqMDFhdGZQYlVHeTE0U0FUV3c",
    "source": "Yahoo Finance",
    "published_at": "2026-10-12T13:31:07+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-12T13:31:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYm10Zkt6R1FTZHUzZUpWdG93NlZFd1BOc3JBRkg1R0RLdFYzVmJYZTFKcUVSem1KMDYwU21JOFRzdExORW0wXzBRUmRUdkw3VEFyWmVUcWYyTDhlMDhtZW1BaEp5REo4R016SE0xS0tka3ZQTTU0R1lDdzBiajhqRkpPbV9hMWxOUnJOSnhzMlhqMDFhdGZQYlVHeTE0U0FUV3c"
+    },
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-12T13:31:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUFvS3R0M1FlTEd3NE94WF8tVHoxRm4xTl9XWUJBeE8wRmFwU1paZnM3ZUx6VFBLOHY5UkZBcW1aMzA1dkFQZTJUdnROb3BfOUMtMU9UODdFUXVvY2Q1Q3hUZl90NFlhY2o4Yk1rd05GdFpOY0dwYWhObXZJMVFvaFBreGg4SW1jLW5MaGtGZzRleG1obWhsSXZ2X0tDNEZlRG14aEVvVHo3aFE3SHc"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1744,15 +1775,15 @@
   {
    "id": "1f3a94241838",
    "title": "【视频】现在特斯拉都没人要了吗 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Rekd2MUYtMTBKSEJxb1hmNjNpaC10WlBRV18zR3EwdURHb1Vib0RvTUgzemxOaUE5YnM1YnJ1Wm1TSmROeDF1WUw0dlBoTnNaVkp5Ym9EM2tfX3hEcnU0aWdtWVB3YndPcmJn",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GelVpMWo5aVU2aHUzMEVDbEZoVXhGdnhtWGtTMzAwaThjb0FBSVVHYkVKUUs3ODMzR1Ztdjk5bGV4NU9lZmhOYmRtbGRaYVZOV05nelVDTXh5TE0",
    "source": "汽车之家",
-   "published_at": "2026-10-12T08:14:25+00:00",
+   "published_at": "2026-10-12T08:13:45+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-12T08:14:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Rekd2MUYtMTBKSEJxb1hmNjNpaC10WlBRV18zR3EwdURHb1Vib0RvTUgzemxOaUE5YnM1YnJ1Wm1TSmROeDF1WUw0dlBoTnNaVkp5Ym9EM2tfX3hEcnU0aWdtWVB3YndPcmJn"
+     "published_at": "2026-10-12T08:13:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GelVpMWo5aVU2aHUzMEVDbEZoVXhGdnhtWGtTMzAwaThjb0FBSVVHYkVKUUs3ODMzR1Ztdjk5bGV4NU9lZmhOYmRtbGRaYVZOV05nelVDTXh5TE0"
     }
    ],
    "category": "其他",
@@ -6565,26 +6596,6 @@
    "session": "周末",
    "zh_summary": "特斯拉欧洲弃用全自动驾驶名称",
    "title_zh": "特斯拉歐洲棄用全自動駕駛名稱 改稱輔助駕駛",
-   "sentiment": -1
-  },
-  {
-   "id": "8490c00e5755",
-   "title": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw",
-   "source": "21财经",
-   "published_at": "2026-10-10T07:15:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-10T07:15:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉欧洲弃用全自动驾驶改称辅助驾驶",
-   "title_zh": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
    "sentiment": -1
   }
  ]
