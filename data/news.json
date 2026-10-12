@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T21:22:29.586834+00:00",
+ "updated_at": "2026-10-12T21:37:29.009287+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（143条已评分）"
+     "note": "今日新闻情绪 +0.10（145条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-12T21:22:29.569544+00:00"
+   "as_of": "2026-10-12T21:37:28.998382+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.1,
-   "count": 143
+   "count": 145
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "18f94ef7e855",
+   "title": "Tesla's Steering-Wheel-Free Cybercab Makes a Surprise Appearance at the Paris Motor Show - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlRIUmM1bG1EZWtrTkQ2QzZsZVpsMDBiZjN4NEtXcnZFbHVpdElpTGxDUnBNeVpuMzYzV0VZcmRLdFRLUzFwX3ZZcjBjMTNib3Z4dHVSdlk3THd0QTg4VGg3Z1RQcE9nNmFTWmxGbVVndndtcWlKaXZNTV9GTDlWUmVVU3NyaVlJTllSUVFCQjkzbFdtYTV6VUxRbWtCZDllMi1sMnpEOEQzdzNfUU5ManE0a0pvM1lJ",
+   "source": "Autoblog",
+   "published_at": "2026-10-12T21:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-12T21:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlRIUmM1bG1EZWtrTkQ2QzZsZVpsMDBiZjN4NEtXcnZFbHVpdElpTGxDUnBNeVpuMzYzV0VZcmRLdFRLUzFwX3ZZcjBjMTNib3Z4dHVSdlk3THd0QTg4VGg3Z1RQcE9nNmFTWmxGbVVndndtcWlKaXZNTV9GTDlWUmVVU3NyaVlJTllSUVFCQjkzbFdtYTV6VUxRbWtCZDllMi1sMnpEOEQzdzNfUU5ManE0a0pvM1lJ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "9424e1a27127",
    "title": "Tesla And Wright’s Law: My Notes On The Deviations (NASDAQ:TSLA) - Seeking Alpha",
@@ -146,46 +163,6 @@
    "zh_summary": "特斯拉阵容图移除Model S/X",
    "title_zh": "特斯拉新阵容图下线Model S和X，旗舰车型正式退出",
    "sentiment": 0
-  },
-  {
-   "id": "c75da09bb1e2",
-   "title": "Tesla Faces Technical Hurdle Near $400 - Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnZtanQwUlFHejhwcXNMdzgyd2dvN3A5NlJLc0Q2NnRCS0w3ZmxMYk1Lb1JfZ2VEMjl3RU9UWndZWHY5TDlSWEVjMFhKQU1RV3lFcnRlY3AyeVI1WWZqLTRXTjJnRl82WUZ0M0loeW4zVVNBUDdGc0dmbk9lbmZpVG96M29nOC14QW9fRw",
-   "source": "Briefs Finance",
-   "published_at": "2026-10-12T20:02:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Briefs Finance",
-     "published_at": "2026-10-12T20:02:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnZtanQwUlFHejhwcXNMdzgyd2dvN3A5NlJLc0Q2NnRCS0w3ZmxMYk1Lb1JfZ2VEMjl3RU9UWndZWHY5TDlSWEVjMFhKQU1RV3lFcnRlY3AyeVI1WWZqLTRXTjJnRl82WUZ0M0loeW4zVVNBUDdGc0dmbk9lbmZpVG96M29nOC14QW9fRw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉股价在400美元附近遇阻",
-   "title_zh": "特斯拉在400美元附近面临技术阻力",
-   "sentiment": 0
-  },
-  {
-   "id": "edd48cf5f521",
-   "title": "NHTSA Probes Tesla Robotaxis in School Zones - Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekVxZU1yb2tDaEQzUjRFem1Vc1kzNDhGazV1VVN2QUQ3STBTVGRYMm5CVWQ2MWU5dHZDUEZHVkxhRmtVeDNVZDNCNXNFdnVPSUU0VzF2QXNZdW9WTWNKTk5tOUtwQTM0T1gyOVJJeXNOdU9aZW1QR0VYUU9RbXNVbUV5NUdnT05TclU4NS1peWpZdw",
-   "source": "Briefs Finance",
-   "published_at": "2026-10-12T20:02:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Briefs Finance",
-     "published_at": "2026-10-12T20:02:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekVxZU1yb2tDaEQzUjRFem1Vc1kzNDhGazV1VVN2QUQ3STBTVGRYMm5CVWQ2MWU5dHZDUEZHVkxhRmtVeDNVZDNCNXNFdnVPSUU0VzF2QXNZdW9WTWNKTk5tOUtwQTM0T1gyOVJJeXNOdU9aZW1QR0VYUU9RbXNVbUV5NUdnT05TclU4NS1peWpZdw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "NHTSA调查特斯拉Robotaxi校园区行驶",
-   "title_zh": "NHTSA对特斯拉Robotaxi学校区域行驶展开调查",
-   "sentiment": -1
   },
   {
    "id": "a168659ac888",
@@ -711,6 +688,46 @@
    "zh_summary": "丰田两款燃油车重回销量榜前十",
    "title_zh": "合并后丰田两款燃油车重回销量榜前十",
    "sentiment": 0
+  },
+  {
+   "id": "c75da09bb1e2",
+   "title": "Tesla Faces Technical Hurdle Near $400 - Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnZtanQwUlFHejhwcXNMdzgyd2dvN3A5NlJLc0Q2NnRCS0w3ZmxMYk1Lb1JfZ2VEMjl3RU9UWndZWHY5TDlSWEVjMFhKQU1RV3lFcnRlY3AyeVI1WWZqLTRXTjJnRl82WUZ0M0loeW4zVVNBUDdGc0dmbk9lbmZpVG96M29nOC14QW9fRw",
+   "source": "Briefs Finance",
+   "published_at": "2026-10-12T15:57:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Briefs Finance",
+     "published_at": "2026-10-12T15:57:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnZtanQwUlFHejhwcXNMdzgyd2dvN3A5NlJLc0Q2NnRCS0w3ZmxMYk1Lb1JfZ2VEMjl3RU9UWndZWHY5TDlSWEVjMFhKQU1RV3lFcnRlY3AyeVI1WWZqLTRXTjJnRl82WUZ0M0loeW4zVVNBUDdGc0dmbk9lbmZpVG96M29nOC14QW9fRw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉股价在400美元附近遇阻",
+   "title_zh": "特斯拉在400美元附近面临技术阻力",
+   "sentiment": 0
+  },
+  {
+   "id": "edd48cf5f521",
+   "title": "NHTSA Probes Tesla Robotaxis in School Zones - Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekVxZU1yb2tDaEQzUjRFem1Vc1kzNDhGazV1VVN2QUQ3STBTVGRYMm5CVWQ2MWU5dHZDUEZHVkxhRmtVeDNVZDNCNXNFdnVPSUU0VzF2QXNZdW9WTWNKTk5tOUtwQTM0T1gyOVJJeXNOdU9aZW1QR0VYUU9RbXNVbUV5NUdnT05TclU4NS1peWpZdw",
+   "source": "Briefs Finance",
+   "published_at": "2026-10-12T15:56:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Briefs Finance",
+     "published_at": "2026-10-12T15:56:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekVxZU1yb2tDaEQzUjRFem1Vc1kzNDhGazV1VVN2QUQ3STBTVGRYMm5CVWQ2MWU5dHZDUEZHVkxhRmtVeDNVZDNCNXNFdnVPSUU0VzF2QXNZdW9WTWNKTk5tOUtwQTM0T1gyOVJJeXNOdU9aZW1QR0VYUU9RbXNVbUV5NUdnT05TclU4NS1peWpZdw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "NHTSA调查特斯拉Robotaxi校园区行驶",
+   "title_zh": "NHTSA对特斯拉Robotaxi学校区域行驶展开调查",
+   "sentiment": -1
   },
   {
    "id": "459da35ef9b2",
@@ -6501,26 +6518,6 @@
    "session": "周末",
    "zh_summary": "9年前预付25万美元的Roadster终于交付",
    "title_zh": "9年前他花25万美元订的特斯拉Roadster终于交付，表现能否达到预期",
-   "sentiment": 0
-  },
-  {
-   "id": "83b9848abdcd",
-   "title": "【视频】特斯拉Model Y保姆级导购，四个版本怎么选，辅助驾驶值得买吗 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNW9MTmY4cXJvRDJIYTl1d2sya25PaHVlcGpfREx3YTdvTW43TE9BcTA4ODFLdGdyaEgxSDJQTzdHbk85eTM3cmVncTBxSWdZWkpsX0d1QnY2LUk",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T11:50:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T11:50:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNW9MTmY4cXJvRDJIYTl1d2sya25PaHVlcGpfREx3YTdvTW43TE9BcTA4ODFLdGdyaEgxSDJQTzdHbk85eTM3cmVncTBxSWdZWkpsX0d1QnY2LUk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "汽车之家发布Model Y选购导购视频",
-   "title_zh": "特斯拉Model Y选购指南：四个版本如何选，辅助驾驶值得买吗",
    "sentiment": 0
   }
  ]
