@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T14:07:38.022598+00:00",
+ "updated_at": "2026-10-12T14:22:52.018165+00:00",
  "market": {
-  "price": 379.73,
-  "change_pct": -0.78,
+  "price": 379.92,
+  "change_pct": -0.73,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,7 +16,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
@@ -26,12 +26,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（85条已评分）"
+     "note": "今日新闻情绪 +0.20（88条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.73 vs 20日均线 $369.69"
+     "note": "现价 $379.92 vs 20日均线 $369.71"
     },
     {
      "key": "分析师动向",
@@ -39,14 +39,14 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 43,
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 5.3,
-   "ma20": 369.69,
-   "as_of": "2026-10-12T14:07:38.004888+00:00"
+   "ma20": 369.71,
+   "as_of": "2026-10-12T14:22:52.004106+00:00"
   },
-  "pe_ttm": 105.0,
+  "pe_ttm": 105.1,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
   "next_delivery": {
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 85
+   "avg": 0.2,
+   "count": 88
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "28032df411dc",
+   "title": "汽车交付后商业模式延伸：特斯拉改FSD订阅，蔚来推BaaS，宝马停座椅加热订阅 - 虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VM2hoZ3ljWUFweEk4VWlCNDdtdFBYQl9idTBVbEJNZS1wLWF2VGgyejVXdEp0VEViM1lBVjNxa3kxTk55ZkxuZ2YwUGdkTFc4UDFXTA",
+   "source": "虎嗅网",
+   "published_at": "2026-10-12T14:14:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅网",
+     "published_at": "2026-10-12T14:14:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VM2hoZ3ljWUFweEk4VWlCNDdtdFBYQl9idTBVbEJNZS1wLWF2VGgyejVXdEp0VEViM1lBVjNxa3kxTk55ZkxuZ2YwUGdkTFc4UDFXTA"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "e52f2c31da8a",
+   "title": "上路39天连吃三记监管重拳！特斯拉Cybercab被指学区超速遭调查 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wakN0QW5veDVEbGNLY0hRVVhZWXROWFY4WEJGSjRNZWhWLV93TUVwRHU1NVU3Z0lXLUZyck9fbzh3dUdBcjBzd2JMNHNWNmdVNmgwWEVKX2Q",
+   "source": "驱动之家",
+   "published_at": "2026-10-12T14:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-12T14:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wakN0QW5veDVEbGNLY0hRVVhZWXROWFY4WEJGSjRNZWhWLV93TUVwRHU1NVU3Z0lXLUZyck9fbzh3dUdBcjBzd2JMNHNWNmdVNmgwWEVKX2Q"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "23eafe7b046a",
+   "title": "Tesla Automation App Arrives in Europe: How to Set It Up - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tVUJlS3hoelFjWDZpUkVpbU5oWGdnNmE4QzNldUZOYndod29ENDBOMFFZQnRETEt1cEZOVERTaEVFSTV0TDR4VE91MUpJWGN2cUxsTndOZFB6aVNZLTR1RHZzQmtNMEhCQ3ZDSw",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-12T14:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-12T14:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tVUJlS3hoelFjWDZpUkVpbU5oWGdnNmE4QzNldUZOYndod29ENDBOMFFZQnRETEt1cEZOVERTaEVFSTV0TDR4VE91MUpJWGN2cUxsTndOZFB6aVNZLTR1RHZzQmtNMEhCQ3ZDSw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "a8740430bb9a",
+   "title": "Tesla expands Megacharger network in California, Georgia - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaC1Cejh5aXliNlNKUEpQY1RJSEZvR3BldDQzclNpZnAyVHM3SFZPcU85LWdqNkxmbklYaXBpR3N2RlI0UU52bWtxUXdDbjJTVUFjUWN3MlpjOGJXRmJvc19GWnZYWG5sRThmRnNvNnBPWVVtV2RGMllXMDI4TzlDeXZJTENLZlFvcTdIMWtGWExrNzJGYnlqTThIMHh1Xy1tT0c1Wnh4N0hnTVdHRnBIQQ",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-12T14:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-12T14:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaC1Cejh5aXliNlNKUEpQY1RJSEZvR3BldDQzclNpZnAyVHM3SFZPcU85LWdqNkxmbklYaXBpR3N2RlI0UU52bWtxUXdDbjJTVUFjUWN3MlpjOGJXRmJvc19GWnZYWG5sRThmRnNvNnBPWVVtV2RGMllXMDI4TzlDeXZJTENLZlFvcTdIMWtGWExrNzJGYnlqTThIMHh1Xy1tT0c1Wnh4N0hnTVdHRnBIQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "dc260a9583ae",
    "title": "特斯拉的刹车问题 - 新浪网",
@@ -234,12 +302,17 @@
   },
   {
    "id": "6eb5b2b179ce",
-   "title": "Tesla China Electric Vehicle Sales Jump 5% in September as European Rebound Continues - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN25oYUgtLTVCam9CY3hiWlJjbEYxaDZlUzE3QVZlQ29qS2JwTDVWcHYwREtXWW5ZN2RQSUMwMklQRGJlaENTSTNZbnBfWlZ2VGhRY01BbmNyRGMxNEdwN3FxUnZIbXBUZ2lzWWRNRDRaNXYzdjE3S1BLZTB0eHB0eQ",
-   "source": "TIKR.com",
-   "published_at": "2026-10-12T13:18:45+00:00",
-   "outlets_count": 1,
+   "title": "Tesla China Electric Vehicle Sales Jump 5% in September as European Rebound Continues - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2JBdnNUcVZjdEJWcURtU3BBT1lWUHhNUks2Q2ZPY3lXSDRiLUZJZGQ4Q1IzTU9nRHA3ejY4SXJUTG5mY2xGZU5UX1lJSTN6MVhyR2tnZTM0UTRhZGZNV285S2t0R1E1S1BLVVdERTdBZzd5VzdpVmdjaXlzMGtGUWR0RW0zTTlJd25TM2F0ZmhMVEFrRDFPNU04WXRPOWNq",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-12T13:05:19+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T13:05:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2JBdnNUcVZjdEJWcURtU3BBT1lWUHhNUks2Q2ZPY3lXSDRiLUZJZGQ4Q1IzTU9nRHA3ejY4SXJUTG5mY2xGZU5UX1lJSTN6MVhyR2tnZTM0UTRhZGZNV285S2t0R1E1S1BLVVdERTdBZzd5VzdpVmdjaXlzMGtGUWR0RW0zTTlJd25TM2F0ZmhMVEFrRDFPNU04WXRPOWNq"
+    },
     {
      "name": "TIKR.com",
      "published_at": "2026-10-12T13:18:45+00:00",
@@ -2215,6 +2288,23 @@
    "sentiment": -1
   },
   {
+   "id": "00499cdeaf07",
+   "title": "Chevy Bolt Driver Pulls Into Charging Lot After Forgetting To Charge At Home—It’s Full Of Teslas - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaDNPX2dXSnk3NVg5UW95QWcxMHR2ME9UM0RuQUdveVNfc2VjZkN5MnhfVU5PWlFrcFRURUthWF81c1RXYzJkVVo1S3BuRm80R0xPdXY3U3J5TElXS19XcEpDR1YzWUJKUEE",
+   "source": "Motor1.com",
+   "published_at": "2026-10-12T02:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-12T02:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QaDNPX2dXSnk3NVg5UW95QWcxMHR2ME9UM0RuQUdveVNfc2VjZkN5MnhfVU5PWlFrcFRURUthWF81c1RXYzJkVVo1S3BuRm80R0xPdXY3U3J5TElXS19XcEpDR1YzWUJKUEE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "ae6e2812b8ce",
    "title": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE",
@@ -2483,6 +2573,23 @@
    "zh_summary": "阿波罗电力采购特斯拉Megapack储能设备",
    "title_zh": "中国台湾阿波罗电力采购特斯拉Megapack储能设备",
    "sentiment": 1
+  },
+  {
+   "id": "79d4bd842e62",
+   "title": "连特斯拉都接入豆包？车企究竟看中了它什么？ - 热点科技",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkUUJjU2h0dmxiZ0dxeFNNZDBWUV9EV2JFWGhobGR1Wml5eUhtQ2oxYVZFZjNmY1Z5U2t5b3U1OVBsdXAxNzBjajhIV3ZFVHc",
+   "source": "热点科技",
+   "published_at": "2026-10-11T23:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "热点科技",
+     "published_at": "2026-10-11T23:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkUUJjU2h0dmxiZ0dxeFNNZDBWUV9EV2JFWGhobGR1Wml5eUhtQ2oxYVZFZjNmY1Z5U2t5b3U1OVBsdXAxNzBjajhIV3ZFVHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "793a241489c6",
@@ -6493,126 +6600,6 @@
    "zh_summary": "特斯拉多款车型获安全高评级销量走高",
    "title_zh": "特斯拉车型更新，多款车型获安全高评级、海外多市场销量走高 - 中国经济网",
    "sentiment": 1
-  },
-  {
-   "id": "87e28c0e0e35",
-   "title": "特斯拉在欧洲将FSD更名为TAD 中国5月已调整 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFA5ZWJRVWJab3I3T0pyRjhEV1daRVYzWmpCTF9RU09VajVDckRqYUxET095WFF2UFA3VE5JQWxqNTVSanZqaGFTQkFmY1AxQW9XMTV3MFZGWUxodWE2cXVyc0F2aWF6WE1iZ0xhMFhPQ2VQN0ltbDkxNGcydVpRNHJoOGFKRGFMbHNKdzZPSHJWN0U",
-   "source": "新浪财经",
-   "published_at": "2026-10-10T05:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T05:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFA5ZWJRVWJab3I3T0pyRjhEV1daRVYzWmpCTF9RU09VajVDckRqYUxET095WFF2UFA3VE5JQWxqNTVSanZqaGFTQkFmY1AxQW9XMTV3MFZGWUxodWE2cXVyc0F2aWF6WE1iZ0xhMFhPQ2VQN0ltbDkxNGcydVpRNHJoOGFKRGFMbHNKdzZPSHJWN0U"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉欧洲FSD更名TAD求欧盟审批",
-   "title_zh": "特斯拉在欧洲将FSD更名为TAD 中国5月已调整 - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "6598f96a25e7",
-   "title": "特斯拉新车频发共振异响修也修不好特斯拉多次维修未果轮毂质保起争议 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWlFbWRyWGFubkk5cVU3ZTVkSWx6NUdYX2NMS3ozNDIzN3ZSVTBUeUk1cEdQeWtMTVdjVTE3akRIbkhhS0dOQXl5M2otOFc5Yk1wMTFWTFhfTnZabjNrZGtVa1RHUnptb0xZbG9wZnhlbEVoRlF2Qy1wVllCQUFsRg",
-   "source": "新浪网",
-   "published_at": "2026-10-10T04:31:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T04:31:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWlFbWRyWGFubkk5cVU3ZTVkSWx6NUdYX2NMS3ozNDIzN3ZSVTBUeUk1cEdQeWtMTVdjVTE3akRIbkhhS0dOQXl5M2otOFc5Yk1wMTFWTFhfTnZabjNrZGtVa1RHUnptb0xZbG9wZnhlbEVoRlF2Qy1wVllCQUFsRg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉新车共振异响多次维修未果",
-   "title_zh": "特斯拉新车频发共振异响修也修不好特斯拉多次维修未果轮毂质保起争议 - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "d31016fa6aba",
-   "title": "【视频】22款特斯拉Model Y 改款后轮驱动版，原版原漆零出险 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWHFnT1dhMGg3Wm5XaXRlOWdPOVpBalkwZFdHZ3JsTzJmZ3k0Rlhub3IzaVQ3QWU1MXNzcDNpSkkzT1pVd2wwVHVwaE15ekhrZm1RQVRZQzd4N28",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T04:18:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T04:18:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWHFnT1dhMGg3Wm5XaXRlOWdPOVpBalkwZFdHZ3JsTzJmZ3k0Rlhub3IzaVQ3QWU1MXNzcDNpSkkzT1pVd2wwVHVwaE15ekhrZm1RQVRZQzd4N28"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Model Y改款后驱版原漆零出险",
-   "title_zh": "【视频】22款特斯拉Model Y 改款后轮驱动版，原版原漆零出险 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "ee1f2cb06063",
-   "title": "巴黎车展官方公开体验特斯拉小鹏_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yZS0zbE9YdHdLenMxXzNHaVhBY08tVVNHUjdCRzIyM3VNeXFRckhNMnFqLVpfLWxZc1I4WkdHRGdadGVPc005TnE5cw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-10T04:17:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-10T04:17:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yZS0zbE9YdHdLenMxXzNHaVhBY08tVVNHUjdCRzIyM3VNeXFRckhNMnFqLVpfLWxZc1I4WkdHRGdadGVPc005TnE5cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "巴黎车展公开体验特斯拉小鹏",
-   "title_zh": "巴黎车展官方公开体验特斯拉小鹏_7x24快讯_新浪财经 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "7412b1e9f430",
-   "title": "【视频】为进欧洲连名字都不要了，特斯拉FSD更名TAD - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdVV2OEFHV0FsNVJXakNlX2RTOXZXUmdNNG4tWUdiTi1VLUpuZ2dOZ3pCSXZsWW5QMVhWQ2dicWlFNnFHbmhUdHA2aGxDLUxwbkJCdWNXRkgwSkU",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T04:08:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T04:08:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RdVV2OEFHV0FsNVJXakNlX2RTOXZXUmdNNG4tWUdiTi1VLUpuZ2dOZ3pCSXZsWW5QMVhWQ2dicWlFNnFHbmhUdHA2aGxDLUxwbkJCdWNXRkgwSkU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD欧洲更名TAD",
-   "title_zh": "【视频】为进欧洲连名字都不要了，特斯拉FSD更名TAD - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "e7f858658b3f",
-   "title": "Tesla Semi Mass Production: Your Questions Answered - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBZRlpJZzJkOHI0NjgxQ3pJWWxSUl9KVnF4RUZwT2NNd1ZKdWV6M3BZVlFPblpIZE9mY0paVzFhUGdiSXRtalRMRFZ5Q3ZwTUQzR1F2MGp4eXllR2U2Qkc4T2JnUHU0SGJNTnRrSFFROE9rUlA0OFJIaW12ejlfVWdNa0ZPSUhuQnh6YklB",
-   "source": "BASENOR",
-   "published_at": "2026-10-10T04:05:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-10T04:05:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlBZRlpJZzJkOHI0NjgxQ3pJWWxSUl9KVnF4RUZwT2NNd1ZKdWV6M3BZVlFPblpIZE9mY0paVzFhUGdiSXRtalRMRFZ5Q3ZwTUQzR1F2MGp4eXllR2U2Qkc4T2JnUHU0SGJNTnRrSFFROE9rUlA0OFJIaW12ejlfVWdNa0ZPSUhuQnh6YklB"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉Semi量产问答",
-   "title_zh": "特斯拉Semi量产：解答你的疑问",
-   "sentiment": 0
   }
  ]
 }
