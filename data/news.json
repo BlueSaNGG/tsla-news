@@ -1,37 +1,37 @@
 {
- "updated_at": "2026-10-12T13:22:29.324278+00:00",
+ "updated_at": "2026-10-12T13:37:41.124076+00:00",
  "market": {
-  "price": 382.7,
-  "change_pct": 2.05,
-  "as_of": "2026-10-09",
+  "price": 379.67,
+  "change_pct": -0.79,
+  "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
    "days_left": 9
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 44% 分位"
+     "note": "现价处于52周区间 42% 分位"
     },
     {
      "key": "目标价空间",
-     "score": -1,
-     "note": "目标价中位数 $400（16家），隐含空间 +4.5%"
+     "score": 0,
+     "note": "目标价中位数 $400（16家），隐含空间 +5.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（77条已评分）"
+     "note": "今日新闻情绪 +0.29（79条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $382.70 vs 20日均线 $368.66"
+     "note": "现价 $379.67 vs 20日均线 $369.69"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 44,
+   "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 4.5,
-   "ma20": 368.66,
-   "as_of": "2026-10-12T13:22:29.305313+00:00"
+   "implied_upside_pct": 5.4,
+   "ma20": 369.69,
+   "as_of": "2026-10-12T13:37:41.117234+00:00"
   },
-  "pe_ttm": 105.8,
+  "pe_ttm": 105.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.4%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 77
+   "avg": 0.29,
+   "count": 79
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "ab1562d577e1",
+   "title": "Tesla Robotaxis Face New Speeding Safety Probe - Tesla (NASDAQ:TSLA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUFvS3R0M1FlTEd3NE94WF8tVHoxRm4xTl9XWUJBeE8wRmFwU1paZnM3ZUx6VFBLOHY5UkZBcW1aMzA1dkFQZTJUdnROb3BfOUMtMU9UODdFUXVvY2Q1Q3hUZl90NFlhY2o4Yk1rd05GdFpOY0dwYWhObXZJMVFvaFBreGg4SW1jLW5MaGtGZzRleG1obWhsSXZ2X0tDNEZlRG14aEVvVHo3aFE3SHc",
+   "source": "Benzinga",
+   "published_at": "2026-10-12T13:31:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-12T13:31:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUFvS3R0M1FlTEd3NE94WF8tVHoxRm4xTl9XWUJBeE8wRmFwU1paZnM3ZUx6VFBLOHY5UkZBcW1aMzA1dkFQZTJUdnROb3BfOUMtMU9UODdFUXVvY2Q1Q3hUZl90NFlhY2o4Yk1rd05GdFpOY0dwYWhObXZJMVFvaFBreGg4SW1jLW5MaGtGZzRleG1obWhsSXZ2X0tDNEZlRG14aEVvVHo3aFE3SHc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "e365b0023943",
+   "title": "Tesla's factory in Freemont, California, has made parents of a nearby Elementary School 'angry'; protests - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNLTNaTzQ1b3ptS1JrZDlxdElXaDBhVFE1SUpVUGJTVUFVeklzSUJVX2YwU1VScFZMXzdadXFJRWRTWE5jVS1TcEUyUTlQUDNOUzNjLThGdTk3MTg5d1dtRHotUkNwR1pZT3NPa1BZTHhnVFpfcTdhMG1vTHJUV1NtS01sOUxsd3lGeW5fb1A1aXBNbE11cW1yU3NYZUJ4enVXVHJ4d0tQc2lqc3gyX0xIQlZCVnBKYnl6TXdWY1FMcFFiUEM4aW5mVy1MNGNmemtDaUEtRFVLTmZPZ3BpaHhhVWw1V05jVklqY2p2QXpiUU5GY25Fa3ZTaE9GcFQ0NHZiYmpiMU9rT0toQlNPQThDNWhTRFN5TWJHY2N2Vy1jTGZLcFM3ZmV4ek10R3l2UThqTmkyRmN6WkF6ZE5mZ1daY2RaYlc2U0dFTHlKclBUTE52cDFfck1wMFhEREh3aWZPUUE4UmZMY3JqdGh1c2VmVExUWm5MUjFOOUNQRUJJemNBZjZIV1HSAYsDQVVfeXFMTjlVdnNlcEMyV2hXQS1waTk5VEE5eTZZTmFvM1RVX2NVamFYTFFHYWRib2lLazdxVnoxbnBDdnhKa2xyQ0lnZlRheVo4dkFzaGlHQjgxMUdCSXV4aktjX0l3Y19HOFZ2ZnFjUDNYcEgteTdZd1FwcHg4VXZKbVZ4SVM0NXY2WWJxelY5bnBoLUNRSWFXbzM1Z2Ruc0FnR2x5b0lieDRfSXBIWThKU2k4b056N01yellBNFAzR2x1NG9rY29aWWdGNHQ2cm9WMkgySGpRV2t6WEE2TG5pYWdLQjkyTDh4Qm54YjctdlN2TFFzVkRNT3dBWEtlRURBZzNHT3JRTU9URGY0dHdHWDFockRrNkxBV2dzdnl3eGRmSlZ6LTdUY2ZMY05PcTJLbmhBZmNkM1lPbE1Razl4c011M1dKanJ3OU56UjZlWFVpWEQ2VW9tamlWdGxmQzhOYmZPUmd4WTdJMVNYSm56REN0U2tuQUdVOVBEYzRadWVsVHYzZDdLSHJfcXRhazA",
+   "source": "The Times of India",
+   "published_at": "2026-10-12T13:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-12T13:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNLTNaTzQ1b3ptS1JrZDlxdElXaDBhVFE1SUpVUGJTVUFVeklzSUJVX2YwU1VScFZMXzdadXFJRWRTWE5jVS1TcEUyUTlQUDNOUzNjLThGdTk3MTg5d1dtRHotUkNwR1pZT3NPa1BZTHhnVFpfcTdhMG1vTHJUV1NtS01sOUxsd3lGeW5fb1A1aXBNbE11cW1yU3NYZUJ4enVXVHJ4d0tQc2lqc3gyX0xIQlZCVnBKYnl6TXdWY1FMcFFiUEM4aW5mVy1MNGNmemtDaUEtRFVLTmZPZ3BpaHhhVWw1V05jVklqY2p2QXpiUU5GY25Fa3ZTaE9GcFQ0NHZiYmpiMU9rT0toQlNPQThDNWhTRFN5TWJHY2N2Vy1jTGZLcFM3ZmV4ek10R3l2UThqTmkyRmN6WkF6ZE5mZ1daY2RaYlc2U0dFTHlKclBUTE52cDFfck1wMFhEREh3aWZPUUE4UmZMY3JqdGh1c2VmVExUWm5MUjFOOUNQRUJJemNBZjZIV1HSAYsDQVVfeXFMTjlVdnNlcEMyV2hXQS1waTk5VEE5eTZZTmFvM1RVX2NVamFYTFFHYWRib2lLazdxVnoxbnBDdnhKa2xyQ0lnZlRheVo4dkFzaGlHQjgxMUdCSXV4aktjX0l3Y19HOFZ2ZnFjUDNYcEgteTdZd1FwcHg4VXZKbVZ4SVM0NXY2WWJxelY5bnBoLUNRSWFXbzM1Z2Ruc0FnR2x5b0lieDRfSXBIWThKU2k4b056N01yellBNFAzR2x1NG9rY29aWWdGNHQ2cm9WMkgySGpRV2t6WEE2TG5pYWdLQjkyTDh4Qm54YjctdlN2TFFzVkRNT3dBWEtlRURBZzNHT3JRTU9URGY0dHdHWDFockRrNkxBV2dzdnl3eGRmSlZ6LTdUY2ZMY05PcTJLbmhBZmNkM1lPbE1Razl4c011M1dKanJ3OU56UjZlWFVpWEQ2VW9tamlWdGxmQzhOYmZPUmd4WTdJMVNYSm56REN0U2tuQUdVOVBEYzRadWVsVHYzZDdLSHJfcXRhazA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "6eb5b2b179ce",
+   "title": "Tesla China Electric Vehicle Sales Jump 5% in September as European Rebound Continues - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN25oYUgtLTVCam9CY3hiWlJjbEYxaDZlUzE3QVZlQ29qS2JwTDVWcHYwREtXWW5ZN2RQSUMwMklQRGJlaENTSTNZbnBfWlZ2VGhRY01BbmNyRGMxNEdwN3FxUnZIbXBUZ2lzWWRNRDRaNXYzdjE3S1BLZTB0eHB0eQ",
+   "source": "TIKR.com",
+   "published_at": "2026-10-12T13:18:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-12T13:18:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN25oYUgtLTVCam9CY3hiWlJjbEYxaDZlUzE3QVZlQ29qS2JwTDVWcHYwREtXWW5ZN2RQSUMwMklQRGJlaENTSTNZbnBfWlZ2VGhRY01BbmNyRGMxNEdwN3FxUnZIbXBUZ2lzWWRNRDRaNXYzdjE3S1BLZTB0eHB0eQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "fdb1e142a407",
    "title": "Tesla Chart Watchers Eye $400-Mark as Key Level For Breakout - Bloomberg.com",
@@ -233,26 +284,6 @@
    "sentiment": -1
   },
   {
-   "id": "0d67a1cdcd91",
-   "title": "Can Tesla Sustain China EV Sales Growth Amid Competition? - Zacks Investment Research",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTBrenJxQmZ4RmJpVlVrVjdfaEdJSmlKemZPRVl2LXhqM2hBb01YQk00Vm13dWpjZmV0dTNXS05nWGZrQ19HNWF3ZEdsVnlOZTZqZWlHZmNwR01YZ3AyeVdWZXJfcG41akduNkxUWVQ5WklzRnlCVjRlZUJJSXh2QjdUQ1Rwal9NeFo3MDhlYmE1bjVyd0N0QWh2NEJVdw",
-   "source": "Zacks Investment Research",
-   "published_at": "2026-10-12T12:32:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-12T12:32:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTBrenJxQmZ4RmJpVlVrVjdfaEdJSmlKemZPRVl2LXhqM2hBb01YQk00Vm13dWpjZmV0dTNXS05nWGZrQ19HNWF3ZEdsVnlOZTZqZWlHZmNwR01YZ3AyeVdWZXJfcG41akduNkxUWVQ5WklzRnlCVjRlZUJJSXh2QjdUQ1Rwal9NeFo3MDhlYmE1bjVyd0N0QWh2NEJVdw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "分析：在华竞争下特斯拉销量增长能否持续",
-   "title_zh": "竞争下特斯拉中国电动车销量增长能持续吗",
-   "sentiment": 0
-  },
-  {
    "id": "2b8745437e57",
    "title": "What Is Tesla Megapack? - Interesting Engineering",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6cXJRYlRBckRoX0dxR3dIdFh4UGNwZUJ6ZGd5a0xPN1h0X2g1UktHVjZRck1YRWlNR2o1cTFpaFdkdVZtWDVneGhFOWxzUFdHVFBnejRUeGhuOWRoM1Fxdzl5NlA0TzBhbUdWeWVqWFhWUQ",
@@ -311,6 +342,31 @@
    "zh_summary": "特斯拉第二代跑车将亮相",
    "title_zh": "#特斯拉第二代跑车将亮相#",
    "sentiment": 1
+  },
+  {
+   "id": "0d67a1cdcd91",
+   "title": "Can Tesla Sustain China EV Sales Growth Amid Competition? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWpKOUdTc1lHVXZpTUY5ZWdocFJpeFBwZVpLV0U4Z1haQ1p3eTBBekxiTURNbnVYd2JrTzdOWUM2Zlgzbm9Fd2tKMGhwbURkcjJOdWdVbHZYeHAzcTZhbl9PdXBSUmx2R1BRbVdDNnJPUXliZmpyLUk4SThpaGNPMm0xUFBwOHk4RkdOQ0xNVDN4ZG52UDJTMw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-12T12:20:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T12:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWpKOUdTc1lHVXZpTUY5ZWdocFJpeFBwZVpLV0U4Z1haQ1p3eTBBekxiTURNbnVYd2JrTzdOWUM2Zlgzbm9Fd2tKMGhwbURkcjJOdWdVbHZYeHAzcTZhbl9PdXBSUmx2R1BRbVdDNnJPUXliZmpyLUk4SThpaGNPMm0xUFBwOHk4RkdOQ0xNVDN4ZG52UDJTMw"
+    },
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-12T12:32:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTBrenJxQmZ4RmJpVlVrVjdfaEdJSmlKemZPRVl2LXhqM2hBb01YQk00Vm13dWpjZmV0dTNXS05nWGZrQ19HNWF3ZEdsVnlOZTZqZWlHZmNwR01YZ3AyeVdWZXJfcG41akduNkxUWVQ5WklzRnlCVjRlZUJJSXh2QjdUQ1Rwal9NeFo3MDhlYmE1bjVyd0N0QWh2NEJVdw"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前",
+   "zh_summary": "分析：在华竞争下特斯拉销量增长能否持续",
+   "title_zh": "竞争下特斯拉中国电动车销量增长能持续吗",
+   "sentiment": 0
   },
   {
    "id": "bb34261a223f",
@@ -544,7 +600,7 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakViYlA5VW9yenZFSEZlMk1leGt0TV9wYmZseldjTjdNa3ZROGVtXzNqR2p5bkFNbmN1SmxnSzRZMGVISHczUEZGSnZjSk5lc3d4cmNXdV9LUkl6NTZWYkZJbTJWeVpLTnR4aWUzR0ZTTXJNZjZxQVpuSWtaRXU3eF9jQTBqcnNWcEg0TGU2MVBPaE53RUdhejJWaHlwODJjeUJWbmFlOERJWW5hcDhwOW5FWFQ0d3FQOUVFZ3JwRHUwcWM1QXZua2l4OA",
    "source": "www.marketscreener.com",
    "published_at": "2026-10-12T11:15:20+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "www.marketscreener.com",
@@ -570,14 +626,22 @@
      "name": "Yahoo",
      "published_at": "2026-10-12T12:34:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHQ4bWxUMTJ3R3VkZWZCZ1ZlVDc1YjJvUUR1bzVKZzNUMGJtbDhnUUdldEdBb0NKeF83QTdzcFk5UjhKRzIxVlpnZGo1a2NaUU8yUC1OQTlxV0ZfbWo5U2lKNFAwVGdZY05CZGdBRS1ZM2hmUjNOMGd5Y3pYbTZjaHpFN3VraU9Hek1LUTVuY19DUjlf"
+    },
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-12T13:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDF3VURuN0RGSXE1cXdTRXI5eV9Yd19HVGFYRHMtTlN6bG5NUVhaWFE5TzNZRjU3bGU2aFRucHFiQXdNV3ptbmxZZlJsSUM4UmZlQnpmcUFTQ3oxelRpZnpRZFBKWDJ1TTFuLV9BenEwa1ZQQkRZd3lrcW1ic0xRMjMzUEJMQkN6aVE"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "breaking": true,
    "zh_summary": "特斯拉Robotaxi涉校区超速NHTSA拟调查",
    "title_zh": "NHTSA考虑就校区超速调查特斯拉Robotaxi",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "c8883d423bbb",
@@ -1103,7 +1167,11 @@
    "breaking": true,
    "zh_summary": "特斯拉Model Y夺北欧五国9月销量冠军",
    "title_zh": "【网通社快报】特斯拉宣布2026年9月Model Y在北欧五国获全品类乘用车销冠 - 凤凰网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "ff68d04d9265",
@@ -1443,7 +1511,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉Cybercab瞄准达拉斯，股价隔夜涨",
    "title_zh": "TSLA隔夜走高，Cybercab瞄准达拉斯",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "34faf257541a",
@@ -1533,7 +1605,11 @@
    "session": "盘前",
    "zh_summary": "9月销量榜：比亚迪宋力压Model Y登顶",
    "title_zh": "9月车型销量榜出炉：比亚迪宋力压特斯拉Model Y登顶 - 新浪财经",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "3817f3d279b6",
@@ -1868,7 +1944,11 @@
    "session": "周末",
    "zh_summary": "杰富瑞将特斯拉目标价上调至400美元",
    "title_zh": "杰富瑞将特斯拉目标价从350美元上调至400美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "7be2c62a7050",
@@ -2393,7 +2473,11 @@
    "session": "周末",
    "zh_summary": "特斯拉财报市场反应看关键指标",
    "title_zh": "忘记交付超预期：财报反响看这一个关键数字",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "4cbc3887b397",
@@ -2778,7 +2862,11 @@
    "session": "周末",
    "zh_summary": "欧洲各国或对特斯拉出手",
    "title_zh": "欧洲各国，对特斯拉出手了？ - 汽车之家",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "acf55dcf3785",
@@ -3503,7 +3591,11 @@
    "session": "周末",
    "zh_summary": "上海特斯拉Model3车主投诉安全带卡扣断裂",
    "title_zh": "上海一特斯拉Model 3车主因安全带卡扣钢缆断裂向多部门投诉",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "8bdfb81e7c65",
@@ -3693,7 +3785,11 @@
    "session": "周末",
    "zh_summary": "特斯拉安全带卡扣断裂被投诉为质量缺陷",
    "title_zh": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损 - 凤凰网科技",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "c1341958d7d5",
@@ -4039,26 +4135,6 @@
    "zh_summary": "特斯拉欧洲FSD更名，因德交管部门反对",
    "title_zh": "特斯拉将欧洲FSD更名，此前遭德国交通部反对 - 手机网易网",
    "sentiment": -1
-  },
-  {
-   "id": "0a05e2ded125",
-   "title": "TSLA Stock In Focus: Margins, Robotaxis, Capex — What Gene Munster Is Watching Ahead Of Tesla Earnings Call - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-10T20:47:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-10T20:47:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "财报前关注点：毛利率、Robotaxi与资本支出",
-   "title_zh": "TSLA备受关注：毛利率、Robotaxi、资本支出——Munster看点",
-   "sentiment": 0
   },
   {
    "id": "8ac9999f58d4",
@@ -4468,7 +4544,11 @@
    "session": "周末",
    "zh_summary": "特斯拉一竞争对手疑现需求疲软",
    "title_zh": "特斯拉竞争对手似乎出现需求问题",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "8337d87f176c",
@@ -4589,7 +4669,11 @@
    "breaking": true,
    "zh_summary": "交付超预期2.5万辆，股价仍未突破",
    "title_zh": "特斯拉交付超预期2.5万辆，股价为何仍未突破",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2c8244ac924d",
@@ -6514,46 +6598,6 @@
    "session": "盘后",
    "zh_summary": "马斯克将惊喜现身X Takeover活动",
    "title_zh": "马斯克惊喜加入X Takeover阵容引发粉丝热议",
-   "sentiment": 0
-  },
-  {
-   "id": "ea20bb3c746a",
-   "title": "小鹏集团、特斯拉将参与2026巴黎车展“智驾实验室”公开体验活动 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZk1XSDFON0d1Z0lUNXJHeWhMdmJYMS1BYjV3SklPNjR6RHNxOTRsMzAtaWRkQTlqOHkzQjFLcUdta0IzcHNDeThnNUVZMGxFamVQc2NVTGQ2MHEydlNQUG1xTlVSdw",
-   "source": "东方财富",
-   "published_at": "2026-10-10T03:39:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-10T03:39:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZk1XSDFON0d1Z0lUNXJHeWhMdmJYMS1BYjV3SklPNjR6RHNxOTRsMzAtaWRkQTlqOHkzQjFLcUdta0IzcHNDeThnNUVZMGxFamVQc2NVTGQ2MHEydlNQUG1xTlVSdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉将参与2026巴黎车展智驾体验",
-   "title_zh": "小鹏集团、特斯拉将参与2026巴黎车展“智驾实验室”公开体验活动 - 东方财富",
-   "sentiment": 0
-  },
-  {
-   "id": "f6e9b3c92821",
-   "title": "“空中的特斯拉”，也要靠烧油？ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcktSOFV5MXl0M1lTaG1kTjQ4U1FnVWNiWlRQUGZQRUhXYTJVNDhfMTY4dnBLZ21UNlhJb1YtanMzaWZGSmxvQWNQakROeXYzd3pVSl9SVW00bm84b3ppSnFzLXJJVUZhR3otNTRNRVUwS2dXSlZuNTdQQnkwQQ",
-   "source": "新浪网",
-   "published_at": "2026-10-10T03:39:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T03:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcktSOFV5MXl0M1lTaG1kTjQ4U1FnVWNiWlRQUGZQRUhXYTJVNDhfMTY4dnBLZ21UNlhJb1YtanMzaWZGSmxvQWNQakROeXYzd3pVSl9SVW00bm84b3ppSnFzLXJJVUZhR3otNTRNRVUwS2dXSlZuNTdQQnkwQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "空中版特斯拉仍靠燃油",
-   "title_zh": "“空中的特斯拉”，也要靠烧油？",
    "sentiment": 0
   }
  ]
