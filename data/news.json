@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T05:52:33.427088+00:00",
+ "updated_at": "2026-10-12T06:07:29.015202+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "note": "今日新闻情绪 +0.75（4条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T05:52:33.414223+00:00"
+   "as_of": "2026-10-12T06:07:29.006779+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.75,
+   "count": 4
   }
  },
  "meta": {
@@ -67,6 +67,28 @@
   }
  },
  "stories": [
+  {
+   "id": "f6b04bd7c1d1",
+   "title": "9月车型销量榜出炉：比亚迪宋力压特斯拉Model Y登顶 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zUl9GQVhZR3Z5NzBvbnhWUUtxUFJ5YWVJZlp1YnlobEpISEM0bUVzcmhZelVEOWcwQ1kwLVhxeFQ5WWFCSnFacE5tZHhzbHQwbW4yU0R2WjhwSzBfNmdCVjRmTUJrcVpEeWYwZjYxbGI0S3pxZC1YbzBnN1k3Qjg",
+   "source": "新浪财经",
+   "published_at": "2026-10-12T05:54:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-12T05:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zUl9GQVhZR3Z5NzBvbnhWUUtxUFJ5YWVJZlp1YnlobEpISEM0bUVzcmhZelVEOWcwQ1kwLVhxeFQ5WWFCSnFacE5tZHhzbHQwbW4yU0R2WjhwSzBfNmdCVjRmTUJrcVpEeWYwZjYxbGI0S3pxZC1YbzBnN1k3Qjg"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-12T05:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ILTJfQW92U1U2NEFwRkhkcjZTMk9vZ09sVjhGbE1UbTlmOTRQeUJ5eHh1d015MmxwQmg4cVZYakRyeWNhZmdodFBDSGMtMWtUZGZkWmFhQlA"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
+  },
   {
    "id": "3817f3d279b6",
    "title": "Tesla’s mirrorless Cybercab will give riders a visibility upgrade - Teslarati",
@@ -1726,6 +1748,23 @@
    "zh_summary": "Model Y车主6.5万英里高压电池失效",
    "title_zh": "Model Y车主6.5万英里高压电池无预警失效，保修更换仍存疑问",
    "sentiment": -1
+  },
+  {
+   "id": "0b83d2c689d7",
+   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-11T02:42:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-11T02:42:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末"
   },
   {
    "id": "d6aa863cb102",
@@ -4182,7 +4221,6 @@
    ],
    "category": "分析师",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "特斯拉获分析师力挺：实体AI最佳投资标的",
    "title_zh": "特斯拉获知名分析师力挺：实体人工智能最好投资标的",
    "sentiment": 1
@@ -5351,26 +5389,6 @@
    "zh_summary": "特斯拉悄然恢复转向灯提示音",
    "title_zh": "特斯拉悄然恢复转向灯提示音",
    "sentiment": 0
-  },
-  {
-   "id": "041ff288579f",
-   "title": "为进欧洲 特斯拉用了十年的FSD改名为TAD - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14bGFTSWtlT18teDRPZFpyMXJIcDd6N25yM0I5T0U3c0FNZkRyYm1CdGhNMHQ4V3JaYkRBUElaakR5TEh6WGducVFPUFVXekcwTEg4MzRPVHNudERrOEg0b09MZEdwUQ",
-   "source": "东方财富",
-   "published_at": "2026-10-09T23:02:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-09T23:02:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14bGFTSWtlT18teDRPZFpyMXJIcDd6N25yM0I5T0U3c0FNZkRyYm1CdGhNMHQ4V3JaYkRBUElaakR5TEh6WGducVFPUFVXekcwTEg4MzRPVHNudERrOEg0b09MZEdwUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD在欧洲改名为TAD",
-   "title_zh": "为进欧洲 特斯拉用了十年的FSD改名为TAD",
-   "sentiment": 1
   },
   {
    "id": "ab9d8b6c38d4",
@@ -6654,26 +6672,6 @@
     "pct": -0.77,
     "window_h": 1.2
    }
-  },
-  {
-   "id": "0aeb7a3659ea",
-   "title": "Tesla outdraws Honda and Nissan in Japan’s EV subsidy rush - Automotive World",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaF9ZOHc5aTNaV2IwUEpyZEVxMGpZZ2ZCNFVFLTY0eUpTeFlFMHZEUFZRb2F3VnBhUEcwZUhxcTRULWUwdnFJX1E3cWpERnlFcTViLWdUYzZfLUtQU1Z4aVNnTy1PSE9KaUpHV1pZMmdhTERLQlZpYnR3TkwzR2w2R2NBMEpfU3lCemJCY0N5clpLSkRmb0pzNW9iWUl6ZGthdXE0QW5R",
-   "source": "Automotive World",
-   "published_at": "2026-10-09T14:50:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Automotive World",
-     "published_at": "2026-10-09T14:50:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaF9ZOHc5aTNaV2IwUEpyZEVxMGpZZ2ZCNFVFLTY0eUpTeFlFMHZEUFZRb2F3VnBhUEcwZUhxcTRULWUwdnFJX1E3cWpERnlFcTViLWdUYzZfLUtQU1Z4aVNnTy1PSE9KaUpHV1pZMmdhTERLQlZpYnR3TkwzR2w2R2NBMEpfU3lCemJCY0N5clpLSkRmb0pzNW9iWUl6ZGthdXE0QW5R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉在日本补贴抢购中领先",
-   "title_zh": "特斯拉在日本电动汽车补贴抢购中超本田日产",
-   "sentiment": 1
   }
  ]
 }
