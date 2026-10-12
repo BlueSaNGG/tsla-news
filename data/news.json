@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T14:52:38.739144+00:00",
+ "updated_at": "2026-10-12T15:07:32.805900+00:00",
  "market": {
-  "price": 379.44,
-  "change_pct": -0.85,
+  "price": 380.02,
+  "change_pct": -0.7,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,39 +16,39 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（95条已评分）"
+     "note": "今日新闻情绪 +0.21（99条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.44 vs 20日均线 $369.68"
+     "note": "现价 $380.02 vs 20日均线 $369.71"
     },
     {
      "key": "分析师动向",
      "score": 1,
-     "note": "近14天 1 家上调 / 0 家下调"
+     "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 43,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.4,
-   "ma20": 369.68,
-   "as_of": "2026-10-12T14:52:38.732933+00:00"
+   "implied_upside_pct": 5.3,
+   "ma20": 369.71,
+   "as_of": "2026-10-12T15:07:32.794002+00:00"
   },
-  "pe_ttm": 104.9,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.4%空间：估值适中，预期中性",
+  "pe_ttm": 105.1,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.21,
-   "count": 95
+   "count": 99
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "1f4553688e1a",
+   "title": "Here's How Much $100 Invested In Tesla 10 Years Ago Would Be Worth Today - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2lvdUkyZDdjTkRuVVRzQS02eFBvMlk2cEtLRkJhMGZULXh1ZGlDNmo4T0xPLUdyaDQyanFvdTRNMEhDajRuNzBuaHNoWEptaEFyazJIY3A0c3F5RFNra05RNkZ3MUQ0UV82UDFhcVJ0VEM5NzRyS3BkR0hxRi16dlFaSGFRX3pkY0VEQ2V1aTA4Q1lTWlF1NC1pUFAxaFJBNUNoeFVocTdmcUNtMTdhVU15dw",
+   "source": "Benzinga",
+   "published_at": "2026-10-12T15:00:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-12T15:00:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2lvdUkyZDdjTkRuVVRzQS02eFBvMlk2cEtLRkJhMGZULXh1ZGlDNmo4T0xPLUdyaDQyanFvdTRNMEhDajRuNzBuaHNoWEptaEFyazJIY3A0c3F5RFNra05RNkZ3MUQ0UV82UDFhcVJ0VEM5NzRyS3BkR0hxRi16dlFaSGFRX3pkY0VEQ2V1aTA4Q1lTWlF1NC1pUFAxaFJBNUNoeFVocTdmcUNtMTdhVU15dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "c5f911a06192",
+   "title": "Tesla's robotaxis face new regulator scrutiny over school zone-speeding claim - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOW9uS1VEbC1RQUxFNnMyWGdEOHA3a2c0UVMtYk9YX3R4VjV6N01nZHlBcDAwYzRCWjFjclZyZDd0NjhNNkJiWVJfYVViUmhSeHR1cElXMFBFcl9pQTBaR3d1SjgxWVJFSC1DNUVFUm1zUzNkSkdzaExhUEhnaEFVVUdRUjNRYURBOTFTU3RPeTI3UQ",
+   "source": "Business Insider",
+   "published_at": "2026-10-12T14:59:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-12T14:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOW9uS1VEbC1RQUxFNnMyWGdEOHA3a2c0UVMtYk9YX3R4VjV6N01nZHlBcDAwYzRCWjFjclZyZDd0NjhNNkJiWVJfYVViUmhSeHR1cElXMFBFcl9pQTBaR3d1SjgxWVJFSC1DNUVFUm1zUzNkSkdzaExhUEhnaEFVVUdRUjNRYURBOTFTU3RPeTI3UQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "6f837c3e400f",
    "title": "Tesla Cybercabs Face Another Regulatory Probe - Investor's Business Daily",
@@ -86,6 +120,46 @@
    "zh_summary": "特斯拉Cybercab再遭监管调查",
    "title_zh": "特斯拉Cybercab再遭监管调查",
    "sentiment": -1
+  },
+  {
+   "id": "e7bfee142fd7",
+   "title": "Tesla Cybercabs Face Regulatory Probe For Speeding In School Zones - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDhEdUZqanQtaXgySDF5Z2hsUWRYaE5BOFp3ZUlKU0pqR2tWbFFYZ01QSmEwejVDUFFLb2VWbEl4ZGxuM3VXdHp0MWhna1VrbkFiYWJDUUxzRlZaT1FFMFBOdWx2amt0UGZTaVdaTTlnUl9iMkxfOEItT2VaVV92WWJuS1h4OWxUQVRmb0pnRkRTTVR4d2k3VTRTTmFlZw",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-12T14:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-12T14:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDhEdUZqanQtaXgySDF5Z2hsUWRYaE5BOFp3ZUlKU0pqR2tWbFFYZ01QSmEwejVDUFFLb2VWbEl4ZGxuM3VXdHp0MWhna1VrbkFiYWJDUUxzRlZaT1FFMFBOdWx2amt0UGZTaVdaTTlnUl9iMkxfOEItT2VaVV92WWJuS1h4OWxUQVRmb0pnRkRTTVR4d2k3VTRTTmFlZw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "885184e8424d",
+   "title": "Jefferies raises Tesla price target as resilient deliveries support automotive outlook - Proactive financial news",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUVJrYUR1bnFYNEY3Z3VhcE5IaUI0WS11SWV3WV9zWFlVbUJlOUtLdWkxaXVIYmRBeGp5OTdic1J0VUZmSHV6VzJfbWlxaXlIaTZtRWZSX1o5dW1lTWdXd1E0S3NabUFuMjB1Q0FkRURVX0RFU3Zoci05TTVBMjB2ZVFNVHU1bmN2cUV3Ty1PZkw5WFYtczBBTV9IQnJON1R0b29JeTl1RnUyb0xTTXRqUFM0ZWU5dERPTEo5S3Q5UVJmZGpId1psai1KaXFic044SjZHdVBlSF9yV3djcV82SnJHc2JQZnhld1hjcWNn",
+   "source": "Proactive financial news",
+   "published_at": "2026-10-12T14:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Proactive financial news",
+     "published_at": "2026-10-12T14:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUVJrYUR1bnFYNEY3Z3VhcE5IaUI0WS11SWV3WV9zWFlVbUJlOUtLdWkxaXVIYmRBeGp5OTdic1J0VUZmSHV6VzJfbWlxaXlIaTZtRWZSX1o5dW1lTWdXd1E0S3NabUFuMjB1Q0FkRURVX0RFU3Zoci05TTVBMjB2ZVFNVHU1bmN2cUV3Ty1PZkw5WFYtczBBTV9IQnJON1R0b29JeTl1RnUyb0xTTXRqUFM0ZWU5dERPTEo5S3Q5UVJmZGpId1psai1KaXFic044SjZHdVBlSF9yV3djcV82SnJHc2JQZnhld1hjcWNn"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中",
+   "analyst": {
+    "firm": "Jefferies",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
   },
   {
    "id": "dc3b955abaa3",
@@ -2133,6 +2207,23 @@
    "zh_summary": "小鹏携机器人飞行汽车赴巴黎 展台紧邻特斯拉",
    "title_zh": "小鹏去巴黎 带了机器人、飞行汽车 还主动和特斯拉同个智驾体验区",
    "sentiment": 0
+  },
+  {
+   "id": "1a08e9225688",
+   "title": "TSLA Stock Jumps Nearly 4% — Tesla Integrates Starlink Into Cybercabs But Not For Safety Purposes - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaF9RWkVncTUzc1F0bmNTQUdTaTJfRjhUOVFIWm5vOFE0RHZPSy1BZ2tfQ1BuRXhqMXo0Z09adWNmSVJ1anZCV2RzOXlha184R29OUmtuSzAxSTRYRFRJWWMyMllqNnl4X0VDaFU5Y1lnSEg0a1ZBeFEtaG1OWjRQd0dNd1B2UjFzNnZjOXBLNjFRSUpqU0xRTmZuVzc4SFBLWDF4MDdpNUZ2N3RoZVV4V0Fuem0wVGlyWjQtYnVITXpuQTZoRzNRTFJaLWxIWFhwN1lVOGNkUGszVWZCRVdaWWgzRVNkbjlWSmRCVnYxOA",
+   "source": "Stocktwits",
+   "published_at": "2026-10-12T05:16:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-12T05:16:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaF9RWkVncTUzc1F0bmNTQUdTaTJfRjhUOVFIWm5vOFE0RHZPSy1BZ2tfQ1BuRXhqMXo0Z09adWNmSVJ1anZCV2RzOXlha184R29OUmtuSzAxSTRYRFRJWWMyMllqNnl4X0VDaFU5Y1lnSEg0a1ZBeFEtaG1OWjRQd0dNd1B2UjFzNnZjOXBLNjFRSUpqU0xRTmZuVzc4SFBLWDF4MDdpNUZ2N3RoZVV4V0Fuem0wVGlyWjQtYnVITXpuQTZoRzNRTFJaLWxIWFhwN1lVOGNkUGszVWZCRVdaWWgzRVNkbjlWSmRCVnYxOA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "b098f9b4725e",
@@ -6466,126 +6557,6 @@
    "session": "周末",
    "zh_summary": "特斯拉冷知识：充电枪插着也能开走",
    "title_zh": "特斯拉冷知识：紧急驶离，插着枪也可以强行开走 - 手机网易网",
-   "sentiment": 0
-  },
-  {
-   "id": "e957506a5470",
-   "title": "特斯拉欧洲市场放弃“全自动驾驶”，改为“辅助驾驶” - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41cEZXSU1NSGRpWG5lYlJWTHl1WUxJaVo4VHJjWW5BVDJadzZVbDE5S2lOSUY0Tjlya2ZFZWZXaXdsTG5jREd2TWt2bnJZbm01",
-   "source": "凤凰网",
-   "published_at": "2026-10-10T05:49:39+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-10T05:49:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41cEZXSU1NSGRpWG5lYlJWTHl1WUxJaVo4VHJjWW5BVDJadzZVbDE5S2lOSUY0Tjlya2ZFZWZXaXdsTG5jREd2TWt2bnJZbm01"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-10T16:06:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcnJmX1d1dWhVUGxKS1dWN3I1YWNINXJmTTFxTmhGREg1ZkhwcU1UaXFZZ2Y0dlpUQm5MVEhzTnFuWnNfQXF5MHNUdTBubDFqSjlBSmxkaU53am1HN29lT21FUWdJQQ"
-    },
-    {
-     "name": "21财经",
-     "published_at": "2026-10-10T07:15:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉欧洲弃用“全自动驾驶”称号",
-   "title_zh": "特斯拉欧洲市场放弃“全自动驾驶”，改为“辅助驾驶” - 凤凰网",
-   "sentiment": 0
-  },
-  {
-   "id": "a21b7bda6d8c",
-   "title": "9月中国造特斯拉销量加速增长 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pd1Zyd3pHMV9BMC15bHVFWTEyRk8weUcyWUwzbTNTckk2V1RlTVRadmQtUVp0TXNfRlNJVmc5LTZwT0k1eWtINUJOZUxIMXNPQkJFdmtleThrMWNIY3o1QXNJbkFSaGZnZmw4",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T05:48:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T05:48:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pd1Zyd3pHMV9BMC15bHVFWTEyRk8weUcyWUwzbTNTckk2V1RlTVRadmQtUVp0TXNfRlNJVmc5LTZwT0k1eWtINUJOZUxIMXNPQkJFdmtleThrMWNIY3o1QXNJbkFSaGZnZmw4"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉9月在华销量加速增长",
-   "title_zh": "特斯拉9月在华销量加速增长",
-   "sentiment": 1
-  },
-  {
-   "id": "4c25baa7c483",
-   "title": "特斯拉欧洲更名驾驶辅助 推欧盟审批 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMHBCaWUwdHZ5Z0JrTzJ6Tl9PclpCdXNaSEFiNFg5TFA3SWR4QTMta0FfYW53VEp4STJfNTU5RklIUjdmV1BrLVNRdnYyUDJ6TXBDNFBXZkdxcE0",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T05:43:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T05:43:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMHBCaWUwdHZ5Z0JrTzJ6Tl9PclpCdXNaSEFiNFg5TFA3SWR4QTMta0FfYW53VEp4STJfNTU5RklIUjdmV1BrLVNRdnYyUDJ6TXBDNFBXZkdxcE0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉欧洲更名辅助驾驶推审批",
-   "title_zh": "特斯拉欧洲更名驾驶辅助 推欧盟审批 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "79155e10f696",
-   "title": "特斯拉FSD，在欧洲被打回原形 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5halV2LWNxWXdRQ3kzQVViUUdtYjZ0ZjVYZHV2R3gwczVVTGFpMmFpcThKYW5HV3ZCTWE4SmVDM0RPbUxoNHR1dlpiWTV4ZWo5eXdv",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-10T05:43:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-10T05:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5halV2LWNxWXdRQ3kzQVViUUdtYjZ0ZjVYZHV2R3gwczVVTGFpMmFpcThKYW5HV3ZCTWE4SmVDM0RPbUxoNHR1dlpiWTV4ZWo5eXdv"
-    },
-    {
-     "name": "量子位",
-     "published_at": "2026-10-10T06:59:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉FSD在欧洲被打回原形",
-   "title_zh": "特斯拉FSD，在欧洲被打回原形 - 电子工程专辑",
-   "sentiment": -1
-  },
-  {
-   "id": "f97edad713d7",
-   "title": "巴黎车展上演小鹏NGP VS 特斯拉FSD 智驾仅两家报名 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTlRRnhPMHhGNkN6WlNfNUYxZS1Xd3VHdEN0eUQzT3RBcWlNTGttcFg2YkJhT091TFd5YzRCUEtZNS1BWVJtcXRHT1JSRGFnSjE0YV9qR21WcV9oVG52UmlFMWFDdFpET1RIM0dLODhIT1drbmZCUDRHYzcyRzlscTVvUExpTjVh",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T05:39:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T05:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTlRRnhPMHhGNkN6WlNfNUYxZS1Xd3VHdEN0eUQzT3RBcWlNTGttcFg2YkJhT091TFd5YzRCUEtZNS1BWVJtcXRHT1JSRGFnSjE0YV9qR21WcV9oVG52UmlFMWFDdFpET1RIM0dLODhIT1drbmZCUDRHYzcyRzlscTVvUExpTjVh"
-    },
-    {
-     "name": "CNMO",
-     "published_at": "2026-10-10T05:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxTm9hYzZQUHZubVNJUnhEU3VqcW5FMWd6YVp5eWJLUXlMTWpja1cyUG5hZEt5YmJUSWZPTjFpSV9ic3hVM1ZqWDFQdUFlUVVBaEVNd20xWHk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴黎车展仅特斯拉与小鹏展示智驾",
-   "title_zh": "巴黎车展上演小鹏NGP VS 特斯拉FSD 智驾仅两家报名 - 搜狐网",
    "sentiment": 0
   }
  ]
