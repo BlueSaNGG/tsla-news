@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:07:29.015202+00:00",
+ "updated_at": "2026-10-12T06:22:31.615760+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.75（4条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.40（5条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T06:07:29.006779+00:00"
+   "as_of": "2026-10-12T06:22:31.606682+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.75,
-   "count": 4
+   "avg": 0.4,
+   "count": 5
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ea2c42d8e9cc",
+   "title": "Cybercab 成多空新战场，特斯拉估值博弈换赛道，无人驾驶车队数据成华尔街新标尺！ - www.tmgm.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlpDV0NtcXo4aHJ4RVQ4UlFwNUVRSmFZMEl1cjVGNlRXU21XLWlBZHhscXN3WGFYRUZ6elQ3T1J2Q2FWYy1ZQnB4UGVwSkEzclN0V3N4WGhaSWtZeVFKdWV5aEpIVFJEYVVuOHZKR1pzTU51Sm9JczhDb1pYTGl2NlRDYlk0V0NGNko4",
+   "source": "www.tmgm.com",
+   "published_at": "2026-10-12T06:06:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.tmgm.com",
+     "published_at": "2026-10-12T06:06:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlpDV0NtcXo4aHJ4RVQ4UlFwNUVRSmFZMEl1cjVGNlRXU21XLWlBZHhscXN3WGFYRUZ6elQ3T1J2Q2FWYy1ZQnB4UGVwSkEzclN0V3N4WGhaSWtZeVFKdWV5aEpIVFJEYVVuOHZKR1pzTU51Sm9JczhDb1pYTGl2NlRDYlk0V0NGNko4"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "f6b04bd7c1d1",
    "title": "9月车型销量榜出炉：比亚迪宋力压特斯拉Model Y登顶 - 新浪财经",
@@ -131,6 +148,23 @@
    "zh_summary": "特斯拉中国9月新能源车零售破2万辆",
    "title_zh": "乘联分会：9月比亚迪、吉利、零跑、特斯拉中国等新能源乘用车零售破2万辆 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "1318eacf87b6",
+   "title": "挪威9月纯电份额98.8%创纪录，特斯拉+2.2%重夺榜首、比亚迪+192.7%逼近前十 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkF0WENjRS1CWHlLalJRbWdPMzR2dkdlbTY1MXp1eEJsN1FZejZZSlhyc3Y0NDR5TkEweHJjemtsWENqSUthblJaQUJrRW1XY21wUlV6My1seEEwdWlqZWwyaWZnajRyY1lha2FVcmhOYW9TNE5JS1d5WTU4TjVYeUE2cnNUa2RP",
+   "source": "搜狐",
+   "published_at": "2026-10-12T05:30:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T05:30:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkF0WENjRS1CWHlLalJRbWdPMzR2dkdlbTY1MXp1eEJsN1FZejZZSlhyc3Y0NDR5TkEweHJjemtsWENqSUthblJaQUJrRW1XY21wUlV6My1seEEwdWlqZWwyaWZnajRyY1lha2FVcmhOYW9TNE5JS1d5WTU4TjVYeUE2cnNUa2RP"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0fe30ea8f4be",
@@ -258,13 +292,18 @@
    "sentiment": -1
   },
   {
-   "id": "1e30a5527826",
-   "title": "杰富瑞：将特斯拉(TSLA.O)目标价从350美元上调至400美元。 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVF2b3VURUZDY3lIUmtKVFdtTFFyUWVDa25BTk1GX2ZCYnlEY1JtYVRhclNpYlBGNDNyN0pkbXR3anBDR1N3c3BTem41YlMwUU0waENRbnFWdjlBVWRaMzZnMG1vWjFIR3drWUJKT0tsLWlTS0J3TWpjU0VtVmM2TkdDTW1nVEtxODdXcG9KOTNEZUVyYUsyMFlnMVB4SGc",
-   "source": "富途牛牛",
-   "published_at": "2026-10-12T03:52:28+00:00",
-   "outlets_count": 2,
+   "id": "650b319fc2eb",
+   "title": "杰富瑞将 特斯拉 目标价从350美元上调至400美元。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQkFYZjVfZkFsUklhOGFJYXBDZTBhcDVuY09Fa1R4VlczYS1ELTNlTmx5c2cwX1ppSjdvWEhWVmZpX3FZeDMxb01OTQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-12T03:51:40+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-12T03:51:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQkFYZjVfZkFsUklhOGFJYXBDZTBhcDVuY09Fa1R4VlczYS1ELTNlTmx5c2cwX1ppSjdvWEhWVmZpX3FZeDMxb01OTQ"
+    },
     {
      "name": "富途牛牛",
      "published_at": "2026-10-12T03:52:28+00:00",
@@ -666,26 +705,6 @@
    "zh_summary": "特斯拉财报市场反应看关键指标",
    "title_zh": "忘记交付超预期：财报反响看这一个关键数字",
    "sentiment": 0
-  },
-  {
-   "id": "4cbc3887b397",
-   "title": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report — Wall Street Expects Year-On-Year Growth - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-11T20:10:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-11T20:10:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "TSLA连涨四天，市场预期交付同比增长",
-   "title_zh": "TSLA连涨四天迎周四交付报告，华尔街预期同比增长 - Stocktwits",
-   "sentiment": 1
   },
   {
    "id": "9be0f2b64c70",
@@ -1751,26 +1770,6 @@
    "zh_summary": "Model Y车主6.5万英里高压电池失效",
    "title_zh": "Model Y车主6.5万英里高压电池无预警失效，保修更换仍存疑问",
    "sentiment": -1
-  },
-  {
-   "id": "0b83d2c689d7",
-   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-11T02:42:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-11T02:42:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "特斯拉股价隔夜上涨，分析师看好交付增长",
-   "title_zh": "TSLA股价隔夜上涨：分析师预计今年交付增长10%",
-   "sentiment": 1
   },
   {
    "id": "d6aa863cb102",
