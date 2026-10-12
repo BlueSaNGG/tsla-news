@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T21:37:29.009287+00:00",
+ "updated_at": "2026-10-12T21:52:28.538752+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（145条已评分）"
+     "note": "今日新闻情绪 +0.10（146条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-12T21:37:28.998382+00:00"
+   "as_of": "2026-10-12T21:52:28.516853+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.1,
-   "count": 145
+   "count": 146
   }
  },
  "meta": {
@@ -253,12 +253,17 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3NCMHVqNjc2VlN5WDJEbkpucUZ0WUFsQWc3OEowNTVCOWwtQ3V4M1A4SmdWVjkxa1RubnZFcEpPQTNJNTlWRHIwVUJSWWVzV0lIdHdkWGRVYjVkdnh4Mzl6cTQtUmtTcFVRR0VZcDZUd19KMjZJcGw2V3lXN1VQclNRc21WMFJiZ04yUmRfTHVOSTd4ZDVYSG5fYnI1N2x0T3VucHAzQW81NTFlYWhUTnFR",
    "source": "New York Post",
    "published_at": "2026-10-12T19:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "New York Post",
      "published_at": "2026-10-12T19:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3NCMHVqNjc2VlN5WDJEbkpucUZ0WUFsQWc3OEowNTVCOWwtQ3V4M1A4SmdWVjkxa1RubnZFcEpPQTNJNTlWRHIwVUJSWWVzV0lIdHdkWGRVYjVkdnh4Mzl6cTQtUmtTcFVRR0VZcDZUd19KMjZJcGw2V3lXN1VQclNRc21WMFJiZ04yUmRfTHVOSTd4ZDVYSG5fYnI1N2x0T3VucHAzQW81NTFlYWhUTnFR"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-12T20:58:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDVYZWJicVNXOEYwMV9JNjBVZ3VFcG1kY21uc09HNExMMl84Q0NkeDZhTHZJQWU3LThUSUNnZm9GbzRGN0pPMUczZ3hzYmljVjlka01UQk1SdFhuOXhFcVE0MjNYZjdJNE5fVVlLeS1aNlpQOU0xdlRkS081MGVKcGdxYlNzaGM2MXBfTDFLeks"
     }
    ],
    "category": "Robotaxi与FSD",
