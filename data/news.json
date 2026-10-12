@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T19:37:27.998733+00:00",
+ "updated_at": "2026-10-12T19:52:27.363550+00:00",
  "market": {
-  "price": 378.07,
-  "change_pct": -1.21,
+  "price": 378.36,
+  "change_pct": -1.13,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -21,17 +21,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（134条已评分）"
+     "note": "今日新闻情绪 +0.14（135条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.07 vs 20日均线 $369.61"
+     "note": "现价 $378.36 vs 20日均线 $369.63"
     },
     {
      "key": "分析师动向",
@@ -42,13 +42,13 @@
    "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.8,
-   "ma20": 369.61,
-   "as_of": "2026-10-12T19:37:27.977401+00:00"
+   "implied_upside_pct": 5.7,
+   "ma20": 369.63,
+   "as_of": "2026-10-12T19:52:27.350568+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.7%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 134
+   "avg": 0.14,
+   "count": 135
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "dbef8a25d4b2",
+   "title": "Tesla Stock Rises as Elon Musk Asserts Control Over Terafab Chip Project - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFCSjgtU1laOVpiLW9sY3YxZ3ZHc2VyRDRVMXI0MHUtSFlKbjhFaHpfSjYxTnVSeF9GVUxmRkcwbmtrSmxHSWx6aC1nMXI2cVpLSldFenh3bmFpMW94WWJyTUZaZU5YOFJsQ1hBM0k1MUlEZGhRZVp4aGU0Z1E2ZUREcw",
+   "source": "Barron's",
+   "published_at": "2026-10-12T19:48:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T19:48:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFCSjgtU1laOVpiLW9sY3YxZ3ZHc2VyRDRVMXI0MHUtSFlKbjhFaHpfSjYxTnVSeF9GVUxmRkcwbmtrSmxHSWx6aC1nMXI2cVpLSldFenh3bmFpMW94WWJyTUZaZU5YOFJsQ1hBM0k1MUlEZGhRZVp4aGU0Z1E2ZUREcw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
+   "id": "934464fb050a",
+   "title": "Tesla’s Automations Feature Is Ready for Launch, Hidden Behind a Flag - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkw5ejRfVVlkVlo5VHlGZE5jV0dHVnJoRkpyb0dCTTc3U0l0ekpkM2hoWlBRWFI2TVRZNTFiaUFjQmFpdnhBVEpKWDJ4TVlmLTl4NkJObzgwWTVDdnctNXBXSk15aklWYk8tUHpSaUhYSjFOTFp5aGFuRnpIeFRZMXJNVXZCaXQ3dnA1RlBieU9BNUtuZDR1SkJUZVh3NmxRT1drcVZ5dlhhUQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-12T19:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-12T19:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkw5ejRfVVlkVlo5VHlGZE5jV0dHVnJoRkpyb0dCTTc3U0l0ekpkM2hoWlBRWFI2TVRZNTFiaUFjQmFpdnhBVEpKWDJ4TVlmLTl4NkJObzgwWTVDdnctNXBXSk15aklWYk8tUHpSaUhYSjFOTFp5aGFuRnpIeFRZMXJNVXZCaXQ3dnA1RlBieU9BNUtuZDR1SkJUZVh3NmxRT1drcVZ5dlhhUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "fc839a773497",
    "title": "Tesla robotaxis face investigation over alleged speeding in school zones - New York Post",
@@ -6498,61 +6532,6 @@
    "session": "周末",
    "zh_summary": "特斯拉Model 3/Y在美上线家庭供电",
    "title_zh": "特斯拉Model 3/Y在美启用Powershare家庭供电功能",
-   "sentiment": 1
-  },
-  {
-   "id": "788de554d4ee",
-   "title": "特斯拉在美最新Model 3/Y车型已支持V2H家庭备用供电 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lWGlOdlZiaURKODJSV0FsbFByZ1JsTmw1R3NoRHRnNVpfR2JrSmZueWx2SlJNbVdjX3FRb0FOeFNqeUFwT21QMDVlM08",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-10T09:57:13+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-10T09:57:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lWGlOdlZiaURKODJSV0FsbFByZ1JsTmw1R3NoRHRnNVpfR2JrSmZueWx2SlJNbVdjX3FRb0FOeFNqeUFwT21QMDVlM08"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T10:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5UmpDdmljZVNBaWdfOHEtNVkyOWw0MEI4TjI4NjFaTnVvbWxkOWpicHZuMFJmSTJfaW1PMDFNWUZ3T0JyQ2prVkxNMGY5cjJxSnRRY2YzYWZwWmFjaU93MTRSbURKMWs5ZmlTS2o1U3lmTnI5WUJGWGZzU2I"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-10T09:57:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlV19rWmlLT0dFNmd1TmFGOUdYU2NxRWpwbVhEREIxRXE1Szd3TkotVUktMkV5QlJKQzhsZWdEWkNSS05Zbnp5UQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T09:57:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmRTX3Jwam5xNW91elcySGE1WjdWMmc3MTVEcDlTWlVlVHFDUW5hbERUS3RZejRCczJvN3VuWnJ1SUZYRmI3WlRacHRzM0pZcmlCeWZ3NXNJUWZvS0dqTFZwcHdGdUVRaUtFbDZPWjYycHd2NGFOOFZ2RGlLR1ZWZnprcGZwVXd2"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "美版Model 3/Y新款支持V2H供电",
-   "title_zh": "特斯拉在美最新Model 3/Y车型已支持V2H家庭备用供电 - 凤凰网科技",
-   "sentiment": 1
-  },
-  {
-   "id": "09d8bfab0d03",
-   "title": "不敢上场？巴黎智驾大考，仅小鹏、特斯拉应战，欧系车企集体缺席 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzJSSlJsTEV4eFR1WWlIbGNRSVk2WlBlQ2hEa2w5UWNsaGtZajZmVE1aUC1HajFkZjFhalMyMXJYR3psaXlkRWk0VWVDczdGTXJRZm5ZQTliSE10QnVfN2JPeHJLbTdFaUVJbDZUVkV2TWFERE5ycW1ndHZsaXBQaDRmTVVHcEty",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T09:28:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T09:28:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzJSSlJsTEV4eFR1WWlIbGNRSVk2WlBlQ2hEa2w5UWNsaGtZajZmVE1aUC1HajFkZjFhalMyMXJYR3psaXlkRWk0VWVDczdGTXJRZm5ZQTliSE10QnVfN2JPeHJLbTdFaUVJbDZUVkV2TWFERE5ycW1ndHZsaXBQaDRmTVVHcEty"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴黎智驾大考小鹏特斯拉应战欧系缺席",
-   "title_zh": "不敢上场？巴黎智驾大考，仅小鹏、特斯拉应战，欧系车企集体缺席 - 搜狐网",
    "sentiment": 1
   }
  ]
