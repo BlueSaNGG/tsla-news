@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T22:07:31.414023+00:00",
+ "updated_at": "2026-10-12T22:22:28.532292+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（146条已评分）"
+     "note": "今日新闻情绪 +0.09（149条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-12T22:07:31.396003+00:00"
+   "as_of": "2026-10-12T22:22:28.517761+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 146
+   "avg": 0.09,
+   "count": 149
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "b5114e2b76b1",
+   "title": "New Cybercab Seats and ‘Very Cool Upgrades’ Coming Soon - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcEpTU3lPVGVibW1SRzZuYmFaSDM0bUVFYTllSFJqV1B2dVNKcXBmQlB3VFhiUEVIdjNsN0xwSGllYzhyU1U2QlVvV2c3dy1fYTQxR0RRaTZ2ODlrWklDUU80UU1HX0ROMm5kMzJyM1hLNmM0eEhqcFNCVGlDZnU2bWdLSEJhUXdaRS1FcGtXQlBuQjVpUnk0",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-12T22:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-12T22:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcEpTU3lPVGVibW1SRzZuYmFaSDM0bUVFYTllSFJqV1B2dVNKcXBmQlB3VFhiUEVIdjNsN0xwSGllYzhyU1U2QlVvV2c3dy1fYTQxR0RRaTZ2ODlrWklDUU80UU1HX0ROMm5kMzJyM1hLNmM0eEhqcFNCVGlDZnU2bWdLSEJhUXdaRS1FcGtXQlBuQjVpUnk0"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后"
+  },
+  {
+   "id": "76d5cfac6f9f",
+   "title": "Pilot Launches First Tesla Megacharger Station in U.S. to Boost Heavy-Duty EV Charging - EnergyTech",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT0tTakV4OHU1ZmlCd1dvOENtUTVTNDVDMmZJdWNqcUJZaWlrSlBLOG00S253c2I5WGtIRk5kUU9Ld1hfb1JiRTBSbmxqWWItLUY0LWU2UHNmekRGUlFMbHVIUkZIWmxEakVJa01XNWNlVkhMbEZhUDVIZk1IM012R1pJeDFBLXBwd054ZjNfYllEVGdZLUNmZWllblNGd0xHOERlZ1ZETWo1S0lBTTVEX3p5QmR4SzRMUXhZLV9BRThqQUZhZmJjN3lKRkx0M2VD",
+   "source": "EnergyTech",
+   "published_at": "2026-10-12T22:09:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "EnergyTech",
+     "published_at": "2026-10-12T22:09:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT0tTakV4OHU1ZmlCd1dvOENtUTVTNDVDMmZJdWNqcUJZaWlrSlBLOG00S253c2I5WGtIRk5kUU9Ld1hfb1JiRTBSbmxqWWItLUY0LWU2UHNmekRGUlFMbHVIUkZIWmxEakVJa01XNWNlVkhMbEZhUDVIZk1IM012R1pJeDFBLXBwd054ZjNfYllEVGdZLUNmZWllblNGd0xHOERlZ1ZETWo1S0lBTTVEX3p5QmR4SzRMUXhZLV9BRThqQUZhZmJjN3lKRkx0M2VD"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "3af45765082f",
    "title": "Tesla (NASDAQ:TSLA) Shares Down 1.2% - Time to Sell? - MarketBeat",
@@ -3801,6 +3835,23 @@
    "sentiment": 1
   },
   {
+   "id": "d2f079e576a0",
+   "title": "Watch Tesla Cybercab to Make European Debut at Paris Motor Show - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1zNk9MZ0hpZXdVMkpPZTZRaWt1MjFSeGRoTlctNzBrVEEtVjdSaWZJWjRZOGZwVVY2SFMwV19PUHBXSFNKWlFtZXRxOGVlRFBZcXBUT21GUTZTSktGcGpNVEp2eE0tbU5pb3lSemQ1Q1JvWmowRGtWamxpbmhqeGVtYWZPZ2o4RmRRVXdzYzZyYmYwS0JxZmJQb0l6UGs",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-12T00:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-12T00:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW1zNk9MZ0hpZXdVMkpPZTZRaWt1MjFSeGRoTlctNzBrVEEtVjdSaWZJWjRZOGZwVVY2SFMwV19PUHBXSFNKWlFtZXRxOGVlRFBZcXBUT21GUTZTSktGcGpNVEp2eE0tbU5pb3lSemQ1Q1JvWmowRGtWamxpbmhqeGVtYWZPZ2o4RmRRVXdzYzZyYmYwS0JxZmJQb0l6UGs"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
    "id": "3b33bdcd80e1",
    "title": "Tesla’s Shanghai Exports Hit Quarterly Record as China Sales Fall 16% - Electric Vehicles",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVTY0X2o5U2NpeVBaSmFFYjA4WWQxdnViR2kyZE5OV2dJWnFWMDI0M1pMaUNhUW5lNTJpZEJtQnBnSmJSanVLaVd2X2ZtTkVNS1hGa0V5aGJqOUJ4MG02Wml6SzUtNzhpeUZsUlpWNF9zSUJjX29jd3RHOHlSeDJtV0lzV1Q1djNPVDAtWko1QVFhUkhGV0t4VVhnX01RdUZ0dGF5MlVB",
@@ -5706,6 +5757,23 @@
    "sentiment": -1
   },
   {
+   "id": "0a05e2ded125",
+   "title": "TSLA Stock In Focus: Margins, Robotaxis, Capex — What Gene Munster Is Watching Ahead Of Tesla Earnings Call - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn",
+   "source": "Stocktwits",
+   "published_at": "2026-10-10T20:47:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-10T20:47:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkstUjdTRXFITlFXakNmZnVpT3ZENUFPdDEtS3dVVktmdTlqUGlxcC16YWlmTEZHMGN4c3lubmJxcnotelM5TV9HU2FzVUFZTUJLR0s2V19VU3YxUkVNREZDbGx5dzUtdk5fLUl3V1ZrVnM4SFlTZGdIM3d1R2ZwSGVvbjJ4SFhYV3ZnUjNLWXlfQ1dKZTlXM00xQjNaUlZ4bUJYZlpwd3owNl9Oelk5OEQ5VjBLT1FMQ3pFYmdUbGlVM1ZNMUF4UmlENG14eDFzZE90aktSbmtXNUIxM0E1Ym1DdFhkX0tSM2YwR2l0ZzluRDZKTmNUQ2hn"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
+  },
+  {
    "id": "8ac9999f58d4",
    "title": "Tesla Map Update NA-2026.38 Rolling Out: What's New and How to Get It - BASENOR - Tesla Accessories",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWnlmQnhUV2xESnBZeXpDODlPRjFOd196MlFxc285Sm00ejFMdG56bG41cUFFVmswOTBnOTktekRMMks0eEt1TERUc3RUbEhnbnlYaUtOa2h2dkNteTB0amY4TUkxTmE4TWc",
@@ -6452,86 +6520,6 @@
    "zh_summary": "特斯拉清洁能源项目落地亚利桑那沙漠",
    "title_zh": "特斯拉下一个清洁能源项目在亚利桑那沙漠崛起-能源电力 - 至顶网",
    "sentiment": 0
-  },
-  {
-   "id": "a360a3dc7de7",
-   "title": "Tesla Films Its Mandatory Assisted Driving Video in Berlin Ahead of German Approval - TeslaNorth.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81dUkwVndodHN6dHNDRGh4aEM3MHgzYWlwTEphYy0xd3RLSnUzeHFjTDNfLTh0REdCYmJIckRaVUZVR0dHMFpjS0FwM3lYMEN1NC1WS3Z6ODgtU3ZMRk51eHNXUjhXV0FRZnZOVHZfbWxfNHpxUnYydUNkR0hFQQ",
-   "source": "TeslaNorth.com",
-   "published_at": "2026-10-10T13:00:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TeslaNorth.com",
-     "published_at": "2026-10-10T13:00:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81dUkwVndodHN6dHNDRGh4aEM3MHgzYWlwTEphYy0xd3RLSnUzeHFjTDNfLTh0REdCYmJIckRaVUZVR0dHMFpjS0FwM3lYMEN1NC1WS3Z6ODgtU3ZMRk51eHNXUjhXV0FRZnZOVHZfbWxfNHpxUnYydUNkR0hFQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉在柏林拍摄辅助驾驶认证视频",
-   "title_zh": "特斯拉在柏林拍摄强制辅助驾驶视频，等待德国审批",
-   "sentiment": 1
-  },
-  {
-   "id": "f77feced79c9",
-   "title": "【视频】23年特斯拉，仅仅行驶6000公里，原版原漆，个人一手车 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HVzlkZF93MnVVVDZkUEY4d1ZiM1k0WWF1M3BlaWRlc2VUT3FWVHNSaUtsbjlxZEE0RXd2eWY4bXJlYTFFT2xNb0xvZVR4Wl9EeEhON0NoellNakk",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T12:50:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T12:50:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HVzlkZF93MnVVVDZkUEY4d1ZiM1k0WWF1M3BlaWRlc2VUT3FWVHNSaUtsbjlxZEE0RXd2eWY4bXJlYTFFT2xNb0xvZVR4Wl9EeEhON0NoellNakk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "二手特斯拉个人车源广告",
-   "title_zh": "23年特斯拉仅行驶6000公里原版原漆",
-   "sentiment": 0
-  },
-  {
-   "id": "effd40701948",
-   "title": "【视频】纯电车保值率排名小米和特斯拉霸榜 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMmMxZHFTU3JNSjF3QW01TlNMaERoak1DLXhGX1RDOEpGTUhSUC1GMXFwZ2k0TjhWMmRDTDBNc1dRNDFSTy02NEMyT3VpT1ViTmk0R0l4TEZUZGM",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T12:39:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T12:39:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMmMxZHFTU3JNSjF3QW01TlNMaERoak1DLXhGX1RDOEpGTUhSUC1GMXFwZ2k0TjhWMmRDTDBNc1dRNDFSTy02NEMyT3VpT1ViTmk0R0l4TEZUZGM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "纯电车保值率榜小米特斯拉霸榜",
-   "title_zh": "【视频】纯电车保值率排名小米和特斯拉霸榜 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "032bbf392c99",
-   "title": "特斯拉在拉斯维加斯获批首个Semi服务中心，业务启动 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWZiRmlMaS1BOVpqT21Tdk92UVJCclEwVlFZR195YkcyMnJfU0xKekdSV0JYVW81dkljdUZJdkJYTkNxWUloMllua3cta2ZPcWFvQUdwRUl5M1hIdGotTndET0JhaVdOM2l3TGM1NmZDXzg1MHBnSkkwWFhHQjF5VTFRX0lPTExM",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T12:11:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T12:11:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWZiRmlMaS1BOVpqT21Tdk92UVJCclEwVlFZR195YkcyMnJfU0xKekdSV0JYVW81dkljdUZJdkJYTkNxWUloMllua3cta2ZPcWFvQUdwRUl5M1hIdGotTndET0JhaVdOM2l3TGM1NmZDXzg1MHBnSkkwWFhHQjF5VTFRX0lPTExM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉首个Semi服务中心获批开业",
-   "title_zh": "特斯拉在拉斯维加斯获批首个Semi服务中心，业务启动 - 搜狐网",
-   "sentiment": 1
   }
  ]
 }
