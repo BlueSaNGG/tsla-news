@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T04:37:29.356222+00:00",
+ "updated_at": "2026-10-12T04:52:38.772933+00:00",
  "market": {
   "price": 382.7,
   "change_pct": 2.05,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（64条已评分）"
+     "note": "今日新闻情绪 +0.09（65条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 15,
    "implied_upside_pct": 4.5,
    "ma20": 368.66,
-   "as_of": "2026-10-12T04:37:29.339062+00:00"
+   "as_of": "2026-10-12T04:52:38.756882+00:00"
   },
   "pe_ttm": 105.8,
   "pe_pct_5y": 52,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 64
+   "avg": 0.09,
+   "count": 65
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2ab865274be4",
+   "title": "杰富瑞将特斯拉目标价从350美元上调至400美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ3dYekdCMy1oX1FsQ1YtXzZpM1JPTmg0ZHc0VXZ5X1h4Ty1ONnFOSER5RFBmalo0amtTNlpvZ1hGTHhaMWNXckJYUEUzSFlFMWRRblRUSldpSnVoWE9tM2wwTnlaZw",
+   "source": "东方财富",
+   "published_at": "2026-10-12T04:43:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T04:43:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CZ3dYekdCMy1oX1FsQ1YtXzZpM1JPTmg0ZHc0VXZ5X1h4Ty1ONnFOSER5RFBmalo0amtTNlpvZ1hGTHhaMWNXckJYUEUzSFlFMWRRblRUSldpSnVoWE9tM2wwTnlaZw"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末"
+  },
   {
    "id": "ff11b91f4c8f",
    "title": "特斯拉欧洲FSD更名TAD - 汽车之家",
@@ -511,6 +528,23 @@
    "zh_summary": "特斯拉财报市场反应看关键指标",
    "title_zh": "忘记交付超预期：财报反响看这一个关键数字",
    "sentiment": 0
+  },
+  {
+   "id": "4cbc3887b397",
+   "title": "TSLA Stock Up for Fourth Straight Day Before Thursday Deliveries Report — Wall Street Expects Year-On-Year Growth - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB",
+   "source": "Stocktwits",
+   "published_at": "2026-10-11T20:10:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-11T20:10:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTUVoa2xVVTlwbWtXdG9zYm9fUmlDcC04elM3UDE4RGVFTGlyeG16NjliS2xpa05wcFBIb1FwOFA1cHRYYzljOG5lcjJpRkJuVVJKNFpfTEJ5N3ZoY0prOW03aXJNUG54UzY4U3FackJmV1RHdmc4MUEwUDFIaGtGOTQ2M2tNM09naTFlcWpZOXVtMUlJcFJxM1V1WW1pVkhZUnhCNklxZEJoOGVRZDdvS002TjFyOFFIb24wWTVuZmVERURLcDNJSEpMRTZ6OWFVbks5QkExaGtjZXFfQ2RNYzduUmwtbDVHd3E0enFZLWU0TlQ4QmE5Y1E4ckc1Wlc4WUFodVdTWm9YWUJHODJIN0dB"
+    }
+   ],
+   "category": "交付量",
+   "session": "周末"
   },
   {
    "id": "9be0f2b64c70",
@@ -1576,6 +1610,23 @@
    "zh_summary": "Model Y车主6.5万英里高压电池失效",
    "title_zh": "Model Y车主6.5万英里高压电池无预警失效，保修更换仍存疑问",
    "sentiment": -1
+  },
+  {
+   "id": "0b83d2c689d7",
+   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-11T02:42:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-11T02:42:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末"
   },
   {
    "id": "d6aa863cb102",
@@ -5204,6 +5255,23 @@
    "sentiment": 0
   },
   {
+   "id": "041ff288579f",
+   "title": "为进欧洲 特斯拉用了十年的FSD改名为TAD - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14bGFTSWtlT18teDRPZFpyMXJIcDd6N25yM0I5T0U3c0FNZkRyYm1CdGhNMHQ4V3JaYkRBUElaakR5TEh6WGducVFPUFVXekcwTEg4MzRPVHNudERrOEg0b09MZEdwUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-09T23:02:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-09T23:02:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14bGFTSWtlT18teDRPZFpyMXJIcDd6N25yM0I5T0U3c0FNZkRyYm1CdGhNMHQ4V3JaYkRBUElaakR5TEh6WGducVFPUFVXekcwTEg4MzRPVHNudERrOEg0b09MZEdwUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "ab9d8b6c38d4",
    "title": "德国交通部提出异议后，特斯拉在欧洲市场将FSD更名为“特斯拉辅助驾驶” - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJkcS1EbE9IRWswemFBR1REUlFwS2VySlFjbkcyTVBlZ1RCOHp2T3J5T0JXdjdERHJJVFg5blRDZVNib2h6VmZabTl0Q1JXLV9VcnYya29KWW1wSjMyVUU5eVpCTXg1ZXIwQnN5cFhUOWJFeTlWLTZsNU9FdzAwcTgzX3JhMEpi",
@@ -6335,6 +6403,23 @@
    "sentiment": 0
   },
   {
+   "id": "f36ffbba2474",
+   "title": "TSLA Stock Slips After Hours — EV Giant Reports High Cash Burn In Q2 Amid AI, Robotics Pivot - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg",
+   "source": "Stocktwits",
+   "published_at": "2026-10-09T15:53:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-09T15:53:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUEkzUkJEMFRrSi1lV2dmVjdoNlFvNFdnUDFvelhOX292VkN2WUF6eGo5cHJKZnQwdEszNUN3RThlQ3R6QnFOQ3RrUE9WU3NpblduRjNKLWhVNU1YZ1BjS3RmY2RFTk5UQTduUmd5TEIwMTdWeEFfa2k4N1FrSm1nWTg4RkhSX0RmcXBla1lqaEF1My1KQl9fYkg1YmQ0a2N6TEVaU3dBbmM4RjRnTEFJX0c4a0NUQ2d1WVdmOExENUZUR0J5dHU4VExaY1ZTblN5TkI2X1NYWVlBNHlFSXc1WlloQlhfSjZWdk83dk9HSlE1SnlmV090Vg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "0c90f405206f",
    "title": "Dan Ives' $500 Tesla Target Hinges on Robotaxis - Tesla (NASDAQ:TSLA) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdE9sSE5nTDA0MnNlNmRPMFBZanBCT1g5c2REdm9BckZYbFpsYzA4ZmVQN1FiLWRLQXNla2RRNFNFa2hubGZVdVB5UlJqbE4yMnJVRXdCeWJqR2NaR2lob0ppTFRsUjFIU0F2aGx1b21aOVpCTWUxUExPVjFxeE1jclp0NWJMM2hPbmZDSEpwQU5VZw",
@@ -6578,116 +6663,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉中国销量创年内最佳",
    "title_zh": "特斯拉股价因年内最佳中国销量大涨",
-   "sentiment": 1
-  },
-  {
-   "id": "a05b4a486bff",
-   "title": "特斯拉\"紧急驶离\"功能或致损2.5万美元 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGZMVFgzRUxwMHJtMXBSMVI1T0ZyRWpJeVdfVm56MkRzMkRIdWZQNFNKVWVQdDVEQTJyN1gtSHdJVlJLMlBRd3dWcXVpcnF4VGE2Wms3eW1IQ2I0cHVRdlVkUm5seVhucGVQeFBtMXg3ckFIa3NZUjlHTnRpenczRE9BRWEwRDlY",
-   "source": "搜狐网",
-   "published_at": "2026-10-09T14:43:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T14:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGZMVFgzRUxwMHJtMXBSMVI1T0ZyRWpJeVdfVm56MkRzMkRIdWZQNFNKVWVQdDVEQTJyN1gtSHdJVlJLMlBRd3dWcXVpcnF4VGE2Wms3eW1IQ2I0cHVRdlVkUm5seVhucGVQeFBtMXg3ckFIa3NZUjlHTnRpenczRE9BRWEwRDlY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉紧急驶离功能或致损2.5万美元",
-   "title_zh": "特斯拉\"紧急驶离\"功能或致损2.5万美元 - 搜狐网",
-   "sentiment": -1
-  },
-  {
-   "id": "379723f84df7",
-   "title": "特斯拉2026年第三季度交付486532辆，同比降2%但超预期 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGtxcXlvcXpfUEVsRnZ4UkxGYV8tcTJjWDRyd1RZcTUycUNDTW90T2ZDcEhZbTdsa2pRRFJtQU9MUVdnOVpZVVZwYnZaeDlQNUFuZC1VQWpHV2hLN1lQOUJUeVJ5dnBMcnRHcExCTTFkZUJHZ2dLNFFocU00TFA4MjRIMmtXeDUt",
-   "source": "搜狐网",
-   "published_at": "2026-10-09T14:41:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T14:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGtxcXlvcXpfUEVsRnZ4UkxGYV8tcTJjWDRyd1RZcTUycUNDTW90T2ZDcEhZbTdsa2pRRFJtQU9MUVdnOVpZVVZwYnZaeDlQNUFuZC1VQWpHV2hLN1lQOUJUeVJ5dnBMcnRHcExCTTFkZUJHZ2dLNFFocU00TFA4MjRIMmtXeDUt"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T14:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OcHQwQy1XendueUZIbkd5aHdJY1lPLTk5ZjhxWUhpY2p6bE1xazNpT2JlMHRfOGIwWHFhanZrTU91Sy1OUV9iS1BZMVRfamgtY3c"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉三季度交付48.65万辆超预期",
-   "title_zh": "特斯拉2026年第三季度交付486532辆，同比降2%但超预期 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "10329c35b9bd",
-   "title": "Oracle, Tesla among market cap stock movers on Friday - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDhZV3lrOGlyd2dxQl9DU1VPek9lRWJmLWZNZEU2QmRlak5jTTBoZUdJellUR01rSGN0S2RiZHk5VnhEUG5YeTN4aEhLbDQxbWI2cU9uRGlHbV9sM3ZQWnpnWHgwcnF5eFlsNzZmNFZQemczdWM4YmtucU15MmlKQnhueU84ZWgxNE1yZFNBekt0WDBZSjcwWEo0TW9EeDl6UEhVUENPNi1EdVdKbk9oT01iLTE",
-   "source": "Investing.com",
-   "published_at": "2026-10-09T14:38:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-09T14:38:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDhZV3lrOGlyd2dxQl9DU1VPek9lRWJmLWZNZEU2QmRlak5jTTBoZUdJellUR01rSGN0S2RiZHk5VnhEUG5YeTN4aEhLbDQxbWI2cU9uRGlHbV9sM3ZQWnpnWHgwcnF5eFlsNzZmNFZQemczdWM4YmtucU15MmlKQnhueU84ZWgxNE1yZFNBekt0WDBZSjcwWEo0TW9EeDl6UEhVUENPNi1EdVdKbk9oT01iLTE"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "特斯拉等成周五市值波动股",
-   "title_zh": "甲骨文、特斯拉等成周五市值波动股",
-   "sentiment": 0
-  },
-  {
-   "id": "321ac938e92b",
-   "title": "Earnings Preview: What to Expect From Tesla's Report - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHF0dHlYSWc3QWVaZTFRYTlSNXNqQk5hTk9NQ1hnaGVFTklmZnNvYXpNVkRSa09kb05zLW5CeFNaQUh0bU55a0NsRWZpSUZELXNvbjBTLVRabXNGY0xKeWlqdHFDYWFkcmpNc1FVNHhsVmx5bnlnMlZyUmVGVzVxdDQtTWVjaWw2N2ludks2ZldMTU9SMnh5MXVPZjRyT0tKQ2tfeQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-09T14:34:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-09T14:34:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHF0dHlYSWc3QWVaZTFRYTlSNXNqQk5hTk9NQ1hnaGVFTklmZnNvYXpNVkRSa09kb05zLW5CeFNaQUh0bU55a0NsRWZpSUZELXNvbjBTLVRabXNGY0xKeWlqdHFDYWFkcmpNc1FVNHhsVmx5bnlnMlZyUmVGVzVxdDQtTWVjaWw2N2ludks2ZldMTU9SMnh5MXVPZjRyT0tKQ2tfeQ"
-    },
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-09T14:34:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0R4RDJWeVhCbzA2RHJlSnplZEpTSjk2Tkp5UzRzbEdiTHV5d0FjcDBTV3M4LTlxbnA4MmZhQ0plRXFBdTMtUnBKN25uQ2toSHBvTUV4LXdVemtGb2IyckNuMDhTaG1hZEFPM2hqU1hSY3JrN2pnc0RvdzlKQXFuam9WN2lQcmtnRGo3azRkSkZoTGY2SXltVkNXWQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "雅虎财经发布特斯拉财报前瞻",
-   "title_zh": "特斯拉财报前瞻：对本次财报的预期（雅虎财经）",
-   "sentiment": 0
-  },
-  {
-   "id": "d49496d2eee6",
-   "title": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWnJjenJ1TUdxcU0zRlhPYWhwSmoxeXRTMFIxc3dQMm1NT0NncDdBU0t0Um9CcFFyaXBsWlREbXM1SW5xMjlGUQ",
-   "source": "财联社",
-   "published_at": "2026-10-09T14:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-09T14:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lWnJjenJ1TUdxcU0zRlhPYWhwSmoxeXRTMFIxc3dQMm1NT0NncDdBU0t0Um9CcFFyaXBsWlREbXM1SW5xMjlGUQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉欧洲弃FSD品牌助审批",
-   "title_zh": "为欧盟审批铺路，特斯拉在欧洲放弃“全自动驾驶”品牌",
    "sentiment": 1
   }
  ]
