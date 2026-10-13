@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T14:52:22.922145+00:00",
+ "updated_at": "2026-10-13T15:07:27.384046+00:00",
  "market": {
-  "price": 375.64,
-  "change_pct": -0.63,
+  "price": 375.97,
+  "change_pct": -0.54,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 41% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（77条已评分）"
+     "note": "今日新闻情绪 +0.22（78条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.64 vs 20日均线 $370.57"
+     "note": "现价 $375.97 vs 20日均线 $370.58"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 41,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.5,
-   "ma20": 370.57,
-   "as_of": "2026-10-13T14:52:22.908064+00:00"
+   "implied_upside_pct": 6.4,
+   "ma20": 370.58,
+   "as_of": "2026-10-13T15:07:27.377104+00:00"
   },
-  "pe_ttm": 103.9,
+  "pe_ttm": 104.0,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 77
+   "avg": 0.22,
+   "count": 78
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "1cf870f6f105",
+   "title": "Tesla Stock's $1.5 Trillion Valuation Leaves a Nearly $1 Trillio - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHl5UGIxNzd1VWthRjVVTGdwX25mZ0pyOGg3NnBXdDF5bkpnanBsMU9LT3dyVWFRSVJmV0Roam5YY08wVy00OHhZNUZUN2R4b19ycU9FOENZUkZ1Wk9LZE9hbjY1YjNBbGp2VzJCcWZoel9pcURmUkFucnltckxybkM0MTRETmRCazNPdlhYSktFNm5YajZQVFpCNzlxckdRNGdJVnllbHdTSF9HMXc",
+   "source": "GuruFocus",
+   "published_at": "2026-10-13T15:03:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-13T15:03:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHl5UGIxNzd1VWthRjVVTGdwX25mZ0pyOGg3NnBXdDF5bkpnanBsMU9LT3dyVWFRSVJmV0Roam5YY08wVy00OHhZNUZUN2R4b19ycU9FOENZUkZ1Wk9LZE9hbjY1YjNBbGp2VzJCcWZoel9pcURmUkFucnltckxybkM0MTRETmRCazNPdlhYSktFNm5YajZQVFpCNzlxckdRNGdJVnllbHdTSF9HMXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "7d2f0ff2d830",
+   "title": "Tesla’s China business is flipping: sales down 12%, exports double - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWdWVjl0MTNMb1MwMHM5ODkyWnNMZjJGNVcyY0RpNXY5U09HQ0ZIMGdIM3RoRVExNE1iZzNIOE9ScFY3RzRkLXF1MDFEdU5tdHJITFBSai0wWnZFSTM2LVdkaDg0X2VnR01yRDdVd2I2bk9TY0kzWVM2VmUySE9TR1lBRERvNVlkbEJZdUQxRnQ",
+   "source": "Electrek",
+   "published_at": "2026-10-13T14:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-13T14:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWdWVjl0MTNMb1MwMHM5ODkyWnNMZjJGNVcyY0RpNXY5U09HQ0ZIMGdIM3RoRVExNE1iZzNIOE9ScFY3RzRkLXF1MDFEdU5tdHJITFBSai0wWnZFSTM2LVdkaDg0X2VnR01yRDdVd2I2bk9TY0kzWVM2VmUySE9TR1lBRERvNVlkbEJZdUQxRnQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "e5b344186616",
+   "title": "Expert maps Tesla’s path to $2,000 record high - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83X3NXbmE0dUpxSURXcDFYUldkNzVjZ1hQT3NkU3JtOU1CN3U5bzZYb2U0Qm9GT0FDNGVBd2htSEt1TG1YQlFNem1vdFNWc2FYWjUya3hiZjVLVk9TNVlOMHpCTlRJMi1KamRFYnB5NG1hQQ",
+   "source": "Finbold",
+   "published_at": "2026-10-13T14:45:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-13T14:45:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83X3NXbmE0dUpxSURXcDFYUldkNzVjZ1hQT3NkU3JtOU1CN3U5bzZYb2U0Qm9GT0FDNGVBd2htSEt1TG1YQlFNem1vdFNWc2FYWjUya3hiZjVLVk9TNVlOMHpCTlRJMi1KamRFYnB5NG1hQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5611d2c3719d",
    "title": "Tesla Expected To Launch IFTTT-Style Automations in North America and Europe With the Holiday Update - autoevolution",
@@ -3371,7 +3422,7 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUjNHUW0xZ0xCbFY3dHY5TGY1bHVKQy1qakxLMzZMalhPeEhCTlk5aHJQYmZld2lvRlpMQm9hSHlUM0hvalZObmFjZDdabGIycFZwWW1mdW1SWkNIbDBuV0lpSkZtUmVNVWdqNUVRZmxOV0dtWE5UdVpDMDRIYVlUQ0EzMndUcVVRVl9fZ3NrVGVGQ2tXWi02WVU0RGhZN2V0ZUZXR09iSU9LeGF2bXk4T25hS3g",
    "source": "Bloomberg.com",
    "published_at": "2026-10-12T12:14:34+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -3387,6 +3438,11 @@
      "name": "Claims Journal",
      "published_at": "2026-10-13T05:00:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZVmFQczhCSmVkaUplbDFMQWlfVDZ5Tm5vclpMOTVtb0Y0RGpmallibERneWdJWUNzbDRlT1VoNV96Z2RzVlBUZXpJNXFmZk9iNVVwd1lCOXBiNzRqR3cycl95aWY1MzlVZC1SeThKQXZ0Qk0"
+    },
+    {
+     "name": "Transport Topics",
+     "published_at": "2026-10-13T14:16:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XanRjOXNTTG9pRDJtSVdqMTBVV0VJUlpVd1N3V3RfWnA5Q1hfcGNpS1VxTmRIY194QWdYZ1BFaVFhMS1CRV85ajcxYVR0bGNzY3F2YTRJUUpFM0ozb3kxQmJuMU1KalJTNkVVZw"
     }
    ],
    "category": "Robotaxi与FSD",
