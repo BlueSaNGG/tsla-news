@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T14:37:27.054292+00:00",
+ "updated_at": "2026-10-13T14:52:22.922145+00:00",
  "market": {
-  "price": 374.54,
-  "change_pct": -0.92,
+  "price": 375.64,
+  "change_pct": -0.63,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（74条已评分）"
+     "note": "今日新闻情绪 +0.23（77条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $374.54 vs 20日均线 $370.51"
+     "note": "现价 $375.64 vs 20日均线 $370.57"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.8,
-   "ma20": 370.51,
-   "as_of": "2026-10-13T14:37:27.033316+00:00"
+   "implied_upside_pct": 6.5,
+   "ma20": 370.57,
+   "as_of": "2026-10-13T14:52:22.908064+00:00"
   },
-  "pe_ttm": 103.6,
+  "pe_ttm": 103.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 74
+   "avg": 0.23,
+   "count": 77
   }
  },
  "meta": {
@@ -83,9 +83,9 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "sentiment": 0,
+   "zh_summary": "假日更新或推IFTTT式自动化",
    "title_zh": "特斯拉假日更新或在北美欧洲推出类IFTTT自动化功能",
-   "zh_summary": "假日更新或推IFTTT式自动化"
+   "sentiment": 0
   },
   {
    "id": "427c974e67c0",
@@ -123,9 +123,9 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "sentiment": -1,
+   "zh_summary": "分析师称219倍市盈率过高不看好",
    "title_zh": "特斯拉市盈率219倍：我为何不赌它的未来",
-   "zh_summary": "分析师称219倍市盈率过高不看好"
+   "sentiment": -1
   },
   {
    "id": "64127e899329",
@@ -667,6 +667,23 @@
    "sentiment": 1
   },
   {
+   "id": "e6006ce670cc",
+   "title": "Tesla Changes Full Self-Driving Mode Name to Something More Accurate as Europe Continues to Express Doubts in Its Safety and Capabilities - Autonocion.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZk1Ibm1vYWIzOE5RZlc3WG51SmNQUG1LclZUV2RWUXBZOG1TWTFsMDRuQnZQZGM4WHR3eGl0V0wwWGpkWG9VY3ZTVFZJUWgtR3Exa0pTVFhjVDJ5OE5sZDFsR3NEZlNXRWc",
+   "source": "Autonocion.com",
+   "published_at": "2026-10-13T11:15:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autonocion.com",
+     "published_at": "2026-10-13T11:15:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZk1Ibm1vYWIzOE5RZlc3WG51SmNQUG1LclZUV2RWUXBZOG1TWTFsMDRuQnZQZGM4WHR3eGl0V0wwWGpkWG9VY3ZTVFZJUWgtR3Exa0pTVFhjVDJ5OE5sZDFsR3NEZlNXRWc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "34ebde16aeb5",
    "title": "Tesla Rolls Out Tempting Model Y Lease Offers This October - Autoblog",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw",
@@ -1007,9 +1024,9 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "sentiment": 0,
+   "zh_summary": "视频：Model Y精品二手车车况",
    "title_zh": "特斯拉model Y 车况精品 - 汽车之家",
-   "zh_summary": "视频：Model Y精品二手车车况"
+   "sentiment": 0
   },
   {
    "id": "1ba3f9ab9dba",
@@ -3515,9 +3532,9 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "sentiment": -1,
+   "zh_summary": "视频讨论特斯拉需求是否降温",
    "title_zh": "现在特斯拉都没人要了吗 - 汽车之家",
-   "zh_summary": "视频讨论特斯拉需求是否降温"
+   "sentiment": -1
   },
   {
    "id": "49e125003cdc",
@@ -3890,9 +3907,9 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "Cybertruck充电月均成本远低于油车",
    "title_zh": "Cybertruck充电成本远低于GMC Canyon油费",
-   "zh_summary": "Cybertruck充电月均成本远低于油车"
+   "sentiment": 1
   },
   {
    "id": "750faac74391",
@@ -3910,9 +3927,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "车主称充电$136省油费$235",
    "title_zh": "车主31天开1857英里充电花$136省油$235",
-   "zh_summary": "车主称充电$136省油费$235"
+   "sentiment": 1
   },
   {
    "id": "51f17a3126ff",
@@ -3930,9 +3947,9 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "Cybercab车队一月扩大8倍将进军达拉斯",
    "title_zh": "Cybercab车队一月扩大8倍，达拉斯接棒",
-   "zh_summary": "Cybercab车队一月扩大8倍将进军达拉斯"
+   "sentiment": 1
   },
   {
    "id": "8e934bace47a",
@@ -3950,9 +3967,9 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "特斯拉Model S/X或停产引讨论",
    "title_zh": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？",
-   "zh_summary": "特斯拉Model S/X或停产引讨论"
+   "sentiment": -1
   },
   {
    "id": "88b9fed4855d",
@@ -3970,9 +3987,9 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "FSD将引入用户模型实现千人千面",
    "title_zh": "特斯拉FSD新能力曝光：自动驾驶开始拥有「用户模型」，AI司机千人千面",
-   "zh_summary": "FSD将引入用户模型实现千人千面"
+   "sentiment": 1
   },
   {
    "id": "0b83d2c689d7",
@@ -3990,9 +4007,9 @@
    ],
    "category": "分析师",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "分析师预计交付增长10%利润改善",
    "title_zh": "分析师料特斯拉交付今年增10%，利润改善",
-   "zh_summary": "分析师预计交付增长10%利润改善"
+   "sentiment": 1
   },
   {
    "id": "ffdbaec79f14",
@@ -4010,9 +4027,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "安全带卡扣断裂被质疑质量缺陷",
    "title_zh": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损 - 驱动之家",
-   "zh_summary": "安全带卡扣断裂被质疑质量缺陷"
+   "sentiment": -1
   },
   {
    "id": "c1341958d7d5",
@@ -4030,9 +4047,9 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "新Model 3/Y支持停电时家庭供电",
    "title_zh": "美版新Model 3/Y可为家庭停电备用供电",
-   "zh_summary": "新Model 3/Y支持停电时家庭供电"
+   "sentiment": 1
   },
   {
    "id": "ec6ec43cda0d",
@@ -4050,9 +4067,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": 0,
+   "zh_summary": "原版召唤正式更名为Dumb Summon",
    "title_zh": "特斯拉将原版召唤更名为傻瓜召唤",
-   "zh_summary": "原版召唤正式更名为Dumb Summon"
+   "sentiment": 0
   },
   {
    "id": "b63c3ac56b9c",
@@ -4070,9 +4087,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": 0,
+   "zh_summary": "特斯拉在北美推送新版地图",
    "title_zh": "特斯拉开始在北美推送新版地图更新",
-   "zh_summary": "特斯拉在北美推送新版地图"
+   "sentiment": 0
   },
   {
    "id": "90b342992880",
@@ -4090,9 +4107,9 @@
    ],
    "category": "政策监管",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "中国制造车型9月销量增5%连增11个月",
    "title_zh": "特斯拉中国9月销量涨5%，连续11个月增长",
-   "zh_summary": "中国制造车型9月销量增5%连增11个月"
+   "sentiment": 1
   },
   {
    "id": "3e1ea221fd64",
@@ -4110,9 +4127,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": 0,
+   "zh_summary": "交付超预期2.5万辆但股价未突破",
    "title_zh": "特斯拉交付超预期2.5万辆为何股价未涨",
-   "zh_summary": "交付超预期2.5万辆但股价未突破"
+   "sentiment": 0
   },
   {
    "id": "d2bec003f695",
@@ -4130,9 +4147,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "评论谈特斯拉背后的马斯克争议",
    "title_zh": "吴汉钧：特斯拉与背后那个“恶魔” - 联合早报",
-   "zh_summary": "评论谈特斯拉背后的马斯克争议"
+   "sentiment": -1
   },
   {
    "id": "c7090aa8e655",
@@ -4150,9 +4167,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "分析师认为TSLA估值偏贵",
    "title_zh": "分析称TSLA股价仍显偏贵",
-   "zh_summary": "分析师认为TSLA估值偏贵"
+   "sentiment": -1
   },
   {
    "id": "26a91db051c5",
@@ -4170,9 +4187,9 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "sentiment": 0,
+   "zh_summary": "Roadster订车9年后终于准备交付",
    "title_zh": "车主9年前花$25万订Roadster终于交付",
-   "zh_summary": "Roadster订车9年后终于准备交付"
+   "sentiment": 0
   },
   {
    "id": "c41e64dc2e85",
@@ -4190,9 +4207,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "欧洲FSD改名TAD审批边界待厘清",
    "title_zh": "特斯拉欧洲改称“TAD”，辅助驾驶的边界仍待审批厘清 - 华尔街见闻",
-   "zh_summary": "欧洲FSD改名TAD审批边界待厘清"
+   "sentiment": -1
   },
   {
    "id": "ee14af19a297",
@@ -4210,9 +4227,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": 1,
+   "zh_summary": "机构Balefire增持特斯拉股票",
    "title_zh": "Balefire LLC增持TSLA股份",
-   "zh_summary": "机构Balefire增持特斯拉股票"
+   "sentiment": 1
   },
   {
    "id": "8490c00e5755",
@@ -4230,9 +4247,9 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "欧洲FSD更名辅助驾驶放弃全自动驾驶",
    "title_zh": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
-   "zh_summary": "欧洲FSD更名辅助驾驶放弃全自动驾驶"
+   "sentiment": -1
   },
   {
    "id": "79155e10f696",
@@ -4250,9 +4267,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "特斯拉FSD在欧洲遇监管挫折",
    "title_zh": "特斯拉FSD，在欧洲被打回原形 - 量子位",
-   "zh_summary": "特斯拉FSD在欧洲遇监管挫折"
+   "sentiment": -1
   },
   {
    "id": "fd2b7a1502e1",
@@ -4270,9 +4287,9 @@
    ],
    "category": "其他",
    "session": "周末",
-   "sentiment": -1,
+   "zh_summary": "特斯拉在华沦为明星背景板",
    "title_zh": "特斯拉 在中国沦为“明星背景板” - 新浪财经",
-   "zh_summary": "特斯拉在华沦为明星背景板"
+   "sentiment": -1
   },
   {
    "id": "6df1de8d759f",
@@ -4290,9 +4307,9 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "sentiment": 0,
+   "zh_summary": "报道聚焦最后600辆特斯拉",
    "title_zh": "最后600辆特斯拉 - 汽车之家",
-   "zh_summary": "报道聚焦最后600辆特斯拉"
+   "sentiment": 0
   },
   {
    "id": "6eef491108f2",
@@ -4310,9 +4327,9 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "sentiment": 1,
+   "zh_summary": "机构Systrade增持特斯拉股票",
    "title_zh": "Systrade AG增持TSLA股份",
-   "zh_summary": "机构Systrade增持特斯拉股票"
+   "sentiment": 1
   },
   {
    "id": "21dcde28b89b",
@@ -4330,9 +4347,9 @@
    ],
    "category": "政策监管",
    "session": "盘后",
-   "sentiment": 0,
+   "zh_summary": "上海销量创新高在华整体下滑9.4%",
    "title_zh": "上海销量创新高但在华总销量降9.4%",
-   "zh_summary": "上海销量创新高在华整体下滑9.4%"
+   "sentiment": 0
   },
   {
    "id": "aa600f965211",
@@ -4350,9 +4367,9 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "sentiment": 0,
+   "zh_summary": "特斯拉新专利涉车辆吸尘技术",
    "title_zh": "新专利曝光：特斯拉未来车型能吸尘",
-   "zh_summary": "特斯拉新专利涉车辆吸尘技术"
+   "sentiment": 0
   },
   {
    "id": "13372f5f990b",
@@ -4370,9 +4387,9 @@
    ],
    "category": "市场宏观",
    "session": "盘后",
-   "sentiment": 0,
+   "zh_summary": "2026年资本开支或超250亿美元",
    "title_zh": "TSLA 2026展望：资本开支超250亿美元",
-   "zh_summary": "2026年资本开支或超250亿美元"
+   "sentiment": 0
   },
   {
    "id": "75524a9f3329",
@@ -4390,9 +4407,9 @@
    ],
    "category": "市场宏观",
    "session": "盘后",
-   "sentiment": 1,
+   "zh_summary": "TSLA上涨2.1%引是否买入讨论",
    "title_zh": "TSLA跳涨2.1%：现在值得买吗",
-   "zh_summary": "TSLA上涨2.1%引是否买入讨论"
+   "sentiment": 1
   },
   {
    "id": "a043b1837f93",
@@ -4784,6 +4801,23 @@
     }
    ],
    "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "9991e3957629",
+   "title": "特斯拉“电动风扇车”专利 令Roadster发布会悬念拉满 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTl9FTW9XNVdfZjdrYUlBeHVpSVgyN19KaG5TSDZkRGdBQUhPNFRxME1kSHd5RWZIU05WbGJHNWkyOEtGcWtEaGQ3MXhaempsTTZwb3ktUzc5UnZ6bFVxNHFURGFEYVcwVkdsLXRndWJjSWpxZzRQRzY3UHg0YXdnNGdyY3lING8",
+   "source": "新浪财经",
+   "published_at": "2026-10-08T12:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-08T12:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTl9FTW9XNVdfZjdrYUlBeHVpSVgyN19KaG5TSDZkRGdBQUhPNFRxME1kSHd5RWZIU05WbGJHNWkyOEtGcWtEaGQ3MXhaempsTTZwb3ktUzc5UnZ6bFVxNHFURGFEYVcwVkdsLXRndWJjSWpxZzRQRzY3UHg0YXdnNGdyY3lING8"
+    }
+   ],
+   "category": "其他",
    "session": "盘前"
   },
   {
