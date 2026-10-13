@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T05:37:29.800807+00:00",
+ "updated_at": "2026-10-13T05:52:30.717605+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 3,
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.25（4条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T05:37:29.794260+00:00"
+   "as_of": "2026-10-13T05:52:30.707233+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.25,
+   "count": 4
   }
  },
  "meta": {
@@ -88,17 +88,39 @@
    "sentiment": -1
   },
   {
+   "id": "f6e5c5f0fd49",
+   "title": "比亚迪赢了品牌、特斯拉赢了单品，小米、零跑成最大黑马 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xb0V1NllvSFlwX3laWVp4Wk1qSWJXcFBEcmVMRmJqaUdDUDVvSE96LTMtcHdrY2JhU1E5WF9KV0tFTmg2WWo2N2xXcEVoR3VTSzRXYjVqRW4zMWI4M0E2QlNfdXRtS3JaNlJ6TUJUMlRyU0s0R1JGUGpva0thMGc",
+   "source": "新浪网",
+   "published_at": "2026-10-13T05:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T05:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xb0V1NllvSFlwX3laWVp4Wk1qSWJXcFBEcmVMRmJqaUdDUDVvSE96LTMtcHdrY2JhU1E5WF9KV0tFTmg2WWo2N2xXcEVoR3VTSzRXYjVqRW4zMWI4M0E2QlNfdXRtS3JaNlJ6TUJUMlRyU0s0R1JGUGpva0thMGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "ada94e2be10d",
    "title": "新剑传动回复问询函称“特斯拉机器人方案接近定型，即将量产” - 21财经",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJVbGJDRlBxeXdrVmQzNl9OYWp3NlJUZE1uRnpnczNsY3BxLXVQSHlWY0VsX1FSVEVpNXV1b0VwcmZvZlhNR0JjcjFQZ2NmeEktTFVic0dCYTVxVENERUJBX0NCS0RFUUxWelJxcVBkTmZmVG9KSy1fNkREdktNelBjMUdBUFdNcUJLYlFtMA",
    "source": "21财经",
    "published_at": "2026-10-13T05:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "21财经",
      "published_at": "2026-10-13T05:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJVbGJDRlBxeXdrVmQzNl9OYWp3NlJUZE1uRnpnczNsY3BxLXVQSHlWY0VsX1FSVEVpNXV1b0VwcmZvZlhNR0JjcjFQZ2NmeEktTFVic0dCYTVxVENERUJBX0NCS0RFUUxWelJxcVBkTmZmVG9KSy1fNkREdktNelBjMUdBUFdNcUJLYlFtMA"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T05:46:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnNzY2JxMWw4RHBVUmN6bkR4VXhvXzFkZUhyTHZtN3E2LWlKTHNTTU9RT20xUE9yY1JjZEQtbUJpMFN2S0hGcDdOVUUzSVBveVFQVkdIdHdxc0RLOU1GZ1RsUVRLRjVZcTZZVW44N1huQjFKNzd4RmhXU1BSbE5pckpqZ2dsX3ZoM09wYw"
     }
    ],
    "category": "车型产品",
@@ -2927,6 +2949,23 @@
    "zh_summary": "马斯克反对美国对华电车加税",
    "title_zh": "特斯拉离不开中国！马斯克反对美对华电车加税 一句揭开美国遮羞布 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "32e266f97d88",
+   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
+   "source": "Technology Org",
+   "published_at": "2026-10-12T11:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-12T11:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "0e7403821982",
@@ -6424,65 +6463,6 @@
    "session": "周末",
    "zh_summary": "特朗普授予马斯克国家科学奖章",
    "title_zh": "特朗普称马斯克为\"国宝\"，并授予国家科学奖章",
-   "sentiment": 1
-  },
-  {
-   "id": "ffdbaec79f14",
-   "title": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jN0Nmb0VWa3FVeFVSV1ZBenJXYlJSd2hYdUc0OTl2dHNPVHY5Yzh6NVRDbVl3a0tObl9WRjhBSmhiVWFGMWxuc0dTdXBkQVMtRnJLWHRWNUo",
-   "source": "驱动之家",
-   "published_at": "2026-10-11T01:27:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-11T01:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jN0Nmb0VWa3FVeFVSV1ZBenJXYlJSd2hYdUc0OTl2dHNPVHY5Yzh6NVRDbVl3a0tObl9WRjhBSmhiVWFGMWxuc0dTdXBkQVMtRnJLWHRWNUo"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-11T01:27:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00UnVSVGNGMElCRWN3ZE1aMVRMeENKSmhjb3lvTFowV2NqZVNRUEJvT3VzY0RpQXRrM3R4dHh3Q3ZJbFVMcllwLVdWekU"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-11T01:27:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxVDhRcFZJR2lWYTd1MHQ2aTVxR2ppMmh5cVZqbl95aUVNRXNHN1VYcWxwVVgxXzZDTTE0NVR5VW9qeUx3aEZWTw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉安全带卡扣断裂被投诉为质量缺陷",
-   "title_zh": "特斯拉安全带卡扣无故断裂 女车主搬出国标投诉：是质量缺陷不是磨损 - 凤凰网科技",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.13,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "c1341958d7d5",
-   "title": "In the US, new Tesla Model 3 and Model Y orders can now back up a home during outages - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0puRGhZdFRwNWY4bFRIbXN5Rmc0R092ajhsRS05M0lWUGRfbjNjNjA3N2Q4MFZzMGxZMy1xMFZWMzFFcDlCUFl1ZzBsaENuZVRwTzNZWmxaVFZqLV9oNFVCNG1yRk5SV1UzTjYzUWZDV1hxNkljcV9LM0Z3NGh4cGNEMWo2SFVrV0U4",
-   "source": "The Cool Down",
-   "published_at": "2026-10-11T01:15:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-11T01:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0puRGhZdFRwNWY4bFRIbXN5Rmc0R092ajhsRS05M0lWUGRfbjNjNjA3N2Q4MFZzMGxZMy1xMFZWMzFFcDlCUFl1ZzBsaENuZVRwTzNZWmxaVFZqLV9oNFVCNG1yRk5SV1UzTjYzUWZDV1hxNkljcV9LM0Z3NGh4cGNEMWo2SFVrV0U4"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-11T01:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1hiU2pDUFhHNFJZZC0wZUZ3VHM3RGVaRDlfTWtFTUhQMms2dVlzZmJvU1JJUDR5Vl9PM2Z1UWJFbkNyRzdCNGNnMlJNTW50UEJtUVkwOEcwWm9QMzM1LTZfX3lEZzROYjNENUlFbEJWbmRSTVp3cVFCWWVGNGwxZWtWT2t5WW9iVFJkT1JUa1pucVk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "美版Model 3/Y支持家庭断电备用供电",
-   "title_zh": "美国新订购的特斯拉 Model 3 和 Model Y 可在停电时为家庭供电",
    "sentiment": 1
   }
  ]
