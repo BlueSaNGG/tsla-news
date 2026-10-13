@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T23:52:27.605305+00:00",
+ "updated_at": "2026-10-13T00:07:35.677307+00:00",
  "market": {
-  "price": 378.03,
-  "change_pct": -1.22,
+  "price": 382.7,
+  "change_pct": 2.05,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-10-21",
@@ -10,28 +10,28 @@
    "days_left": 9
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.8%"
+     "score": -1,
+     "note": "目标价中位数 $400（16家），隐含空间 +4.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（155条已评分）"
+     "note": "今日新闻情绪 +0.11（157条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.03 vs 20日均线 $369.61"
+     "note": "现价 $382.70 vs 20日均线 $368.66"
     },
     {
      "key": "分析师动向",
@@ -39,16 +39,16 @@
      "note": "近14天 2 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 44,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.8,
-   "ma20": 369.61,
-   "as_of": "2026-10-12T23:52:27.593546+00:00"
+   "implied_upside_pct": 4.5,
+   "ma20": 368.66,
+   "as_of": "2026-10-13T00:07:35.663030+00:00"
   },
-  "pe_ttm": 104.6,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.8%空间：估值适中，预期中性",
+  "pe_ttm": 105.8,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.5%空间：估值适中，预期中性",
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
@@ -57,7 +57,7 @@
   },
   "day_sentiment": {
    "avg": 0.11,
-   "count": 155
+   "count": 157
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "4c18058653ee",
+   "title": "Tesla Model 3 Premium Canada Order Halt: 5 Details That Matter - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVBkWklUSTBzWkUtOEFWanNRSTR3RkZtQzl6S2VMd2VSS3IyX19HVjZKX1djWEpfUzh4WVFJcFlsOHRRcGp1ZFVWTVQ2UmIxNWEzbzJYaExDZXpyMjVhN3hjUmZlQXhGMWw1cWRWWDlPa2podmMtVVRjVDJVaWRDNDRWc2N3aDNSblpHMlhIWjZJemtJN3BQTzJJbFY",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-13T00:03:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-13T00:03:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVBkWklUSTBzWkUtOEFWanNRSTR3RkZtQzl6S2VMd2VSS3IyX19HVjZKX1djWEpfUzh4WVFJcFlsOHRRcGp1ZFVWTVQ2UmIxNWEzbzJYaExDZXpyMjVhN3hjUmZlQXhGMWw1cWRWWDlPa2podmMtVVRjVDJVaWRDNDRWc2N3aDNSblpHMlhIWjZJemtJN3BQTzJJbFY"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
+   "id": "b812a4be596b",
+   "title": "Pilot, Tesla open first Megacharger site in Ellabell, Georgia - Truck News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ056d0RhYTRjMEFqM3RsWDZpTGZzSEszU3NYaVlUN1MyMXNJN2xNMzhxNmtSZFJYU3BqV2JLRHNXYzZFMzk3M0hSX2FsVkJGUlBKeUdMRUh3NE40eHRfWGFzblpRWDZ5bVNfRmZndF9vRjk0LXVNZXFXS2xsT0lqWG5HdjFXUmEwRm1HN1pEX3Jud0FvRTlYVUZvTUphM2p4M1VlYVJacEJFZ2FuR1FncGl3",
+   "source": "Truck News",
+   "published_at": "2026-10-12T23:53:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Truck News",
+     "published_at": "2026-10-12T23:53:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ056d0RhYTRjMEFqM3RsWDZpTGZzSEszU3NYaVlUN1MyMXNJN2xNMzhxNmtSZFJYU3BqV2JLRHNXYzZFMzk3M0hSX2FsVkJGUlBKeUdMRUh3NE40eHRfWGFzblpRWDZ5bVNfRmZndF9vRjk0LXVNZXFXS2xsT0lqWG5HdjFXUmEwRm1HN1pEX3Jud0FvRTlYVUZvTUphM2p4M1VlYVJacEJFZ2FuR1FncGl3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "9c7415b6a773",
    "title": "比亚迪整体销量第一，特斯拉单车销量第一，零跑、小米大亮 - 搜狐",
@@ -83,8 +117,8 @@
    ],
    "category": "交付量",
    "session": "盘后",
-   "title_zh": "比亚迪整体销量第一，特斯拉单车销量第一，零跑、小米大亮 - 搜狐",
    "zh_summary": "比亚迪销量居首，特斯拉单车型第一",
+   "title_zh": "比亚迪整体销量第一，特斯拉单车销量第一，零跑、小米大亮 - 搜狐",
    "sentiment": 0
   },
   {
@@ -471,6 +505,23 @@
    "zh_summary": "特斯拉Model X起火被判赔16.2万美元",
    "title_zh": "特斯拉被判为Model X起火赔偿16.2万美元",
    "sentiment": -1
+  },
+  {
+   "id": "c7f201169d94",
+   "title": "NHTSA审议有关特斯拉自动驾驶出租车在学校附近疑似超速的请愿书——Electrek - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbk9BOVRlX0FhOWhPelJwZEE1Z1ZEZTcxenNRODdNQ0lmY21UVTRyeUdRYUdidGVKNFZxTEg1d3RDU3B1ZmJyOTJXRS1CYUhxMGZQQ1U2WmJlREJQYi1uSnROSzFBc3NxaTVFREM2dmdCbkM2WnYtSHhab2lMa3o2UXRKVjBBMVpQUWJSdFBNUUR5ZVlYU1lhOUtYdHFJRlVidHo0clkyM3FaQS1JN25jMnpQUmNpcnoxaUpOUUxzbTRqV0FSVzZFdUoxY0RFNlFwblJxOA",
+   "source": "UA.NEWS",
+   "published_at": "2026-10-12T18:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "UA.NEWS",
+     "published_at": "2026-10-12T18:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbk9BOVRlX0FhOWhPelJwZEE1Z1ZEZTcxenNRODdNQ0lmY21UVTRyeUdRYUdidGVKNFZxTEg1d3RDU3B1ZmJyOTJXRS1CYUhxMGZQQ1U2WmJlREJQYi1uSnROSzFBc3NxaTVFREM2dmdCbkM2WnYtSHhab2lMa3o2UXRKVjBBMVpQUWJSdFBNUUR5ZVlYU1lhOUtYdHFJRlVidHo0clkyM3FaQS1JN25jMnpQUmNpcnoxaUpOUUxzbTRqV0FSVzZFdUoxY0RFNlFwblJxOA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "08b0b1bf4994",
@@ -2354,8 +2405,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "特斯拉三周涨势面临考验，分析师因Waymo转向防守更加看好",
    "zh_summary": "分析师因Waymo转向防守看好特斯拉",
+   "title_zh": "特斯拉三周涨势面临考验，分析师因Waymo转向防守更加看好",
    "sentiment": 1
   },
   {
@@ -6467,66 +6518,6 @@
    "zh_summary": "奥斯汀Cybercab超300辆，注册数319",
    "title_zh": "特斯拉称奥斯汀运营Cybercab超300辆，注册数达319",
    "sentiment": 1
-  },
-  {
-   "id": "e7acf140a052",
-   "title": "Tesla’s Digital Optimus shows progress in gaming skills, from Diablo to Counter-Strike - Crypto Briefing",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKenh1Nmt4RG91RXlIdDZoUFN3dzVfVVM5cUl5QlY1anJvY3NEaXVSa1NZUW5JMGpqYVR6bkU0RHdwdmxPTVQzSVFScW0xSFlkSGc5Smd4LUU4NXM5bkQ0c2czWlo1Yi12dk1YY1M2Tks0NHM",
-   "source": "Crypto Briefing",
-   "published_at": "2026-10-10T14:29:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Crypto Briefing",
-     "published_at": "2026-10-10T14:29:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKenh1Nmt4RG91RXlIdDZoUFN3dzVfVVM5cUl5QlY1anJvY3NEaXVSa1NZUW5JMGpqYVR6bkU0RHdwdmxPTVQzSVFScW0xSFlkSGc5Smd4LUU4NXM5bkQ0c2czWlo1Yi12dk1YY1M2Tks0NHM"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Optimus数字版展示游戏技能进展",
-   "title_zh": "特斯拉数字Optimus展现游戏技能进步：从暗黑到CS",
-   "sentiment": 0
-  },
-  {
-   "id": "f4e4b7bed557",
-   "title": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc",
-   "source": "Stocktwits",
-   "published_at": "2026-10-10T14:10:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-10T14:10:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "瑞典工会结束近三年罢工",
-   "title_zh": "TSLA股价上涨：瑞典工会近三年罢工在特斯拉买断后结束",
-   "sentiment": 1
-  },
-  {
-   "id": "07e8e2408353",
-   "title": "【视频】开焕新款特斯拉Model Y后驱标续版，用比亚迪闪充是种什么体验？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUWN6cTJnaXBNZ0pCdHdEbG5CUmxuZmZya2huQW9QR04tVTI4SkhSc09jWFg4cmdfVTVxYlg1Q1p0aUNiYVpyaWtLbmhfbDFmQXBqTFVONnFobTQ",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T13:40:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T13:40:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUWN6cTJnaXBNZ0pCdHdEbG5CUmxuZmZya2huQW9QR04tVTI4SkhSc09jWFg4cmdfVTVxYlg1Q1p0aUNiYVpyaWtLbmhfbDFmQXBqTFVONnFobTQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "焕新Model Y标续版用比亚迪闪充体验",
-   "title_zh": "【视频】开焕新款特斯拉Model Y后驱标续版，用比亚迪闪充是种什么体验？",
-   "sentiment": 0
   }
  ]
 }
