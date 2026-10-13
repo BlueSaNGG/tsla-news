@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T01:22:31.038090+00:00",
+ "updated_at": "2026-10-13T01:37:28.812089+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（165条已评分）"
+     "note": "今日新闻情绪 +0.10（166条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T01:22:31.028176+00:00"
+   "as_of": "2026-10-13T01:37:28.799948+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 165
+   "avg": 0.1,
+   "count": 166
   }
  },
  "meta": {
@@ -271,6 +271,23 @@
    "zh_summary": "马斯克称特斯拉无人驾驶不撞宠物",
    "title_zh": "马斯克称Waymo是'宠物杀手'：特斯拉无人车不会撞到小猫",
    "sentiment": 0
+  },
+  {
+   "id": "e0b2edcadce1",
+   "title": "Tesla’s Automations App Appears Ready for Release in Latest Software - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUlPNTNVQTA1Y2VWUUlQZ1ZTUXd4X3d5YTJyVkFLekpjOXJOU0VwUlRIVXhkSDhNTHNsX0FGelhINXh5YWgtcFhSY1hUaV9iUFpGVWV0dmx6STkwN05STlhfLUZXQUh4OHoxdENLMXBvT1M0YjRBRVJ6SFB5eks0TWZGcXhtQQ",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-12T22:29:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-12T22:29:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUlPNTNVQTA1Y2VWUUlQZ1ZTUXd4X3d5YTJyVkFLekpjOXJOU0VwUlRIVXhkSDhNTHNsX0FGelhINXh5YWgtcFhSY1hUaV9iUFpGVWV0dmx6STkwN05STlhfLUZXQUh4OHoxdENLMXBvT1M0YjRBRVJ6SFB5eks0TWZGcXhtQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "b5114e2b76b1",
@@ -2254,31 +2271,6 @@
    "sentiment": 0
   },
   {
-   "id": "32e266f97d88",
-   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
-   "source": "Technology Org",
-   "published_at": "2026-10-12T11:27:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Technology Org",
-     "published_at": "2026-10-12T11:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
-    },
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-12T12:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉将FSD在欧洲更名为辅助驾驶",
-   "title_zh": "特斯拉在欧洲将FSD更名为辅助驾驶",
-   "sentiment": -1
-  },
-  {
    "id": "0e7403821982",
    "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger - Barron's",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VMSjJpM1hCSU5WeU1sRDVJazg5eGU3OUVoazJGUEhRRmw3UmM0Q2NvRG9hMGR0REJCdnpSWU5vYm9xMGlxN1FXSHlQenpHU1dmUFZod29qMVRja2QwUnhkSG5lblVpczlINkdpYzhOY1pqMGZiMmhjMFI5enNDT09jLU1SMVk",
@@ -2833,12 +2825,12 @@
    "title": "特斯拉第二代跑车Roadster即将在周四揭晓，传闻该跑车将具备悬浮飞行的功能 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb25UOFRva1c4X21NWi05YVdLMGt1dDBtUFYwQWFOcHByYThDQ01aVjFQTEJVRVJkLW5RSmJ2LWFwYVZuVjR3c0ZBOVhZbGNfTTJOOS1sM05LZ200S1ZkSlFTSW1QSzUzY3JiZXZqNk11QUo5bC0yc2JScTg5bGt3enNBdDVya0lBdzhGVWpjNnRJdkU0Qmc3M3ZUU2k",
    "source": "富途牛牛",
-   "published_at": "2026-10-12T08:36:15+00:00",
+   "published_at": "2026-10-12T08:31:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "富途牛牛",
-     "published_at": "2026-10-12T08:36:15+00:00",
+     "published_at": "2026-10-12T08:31:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb25UOFRva1c4X21NWi05YVdLMGt1dDBtUFYwQWFOcHByYThDQ01aVjFQTEJVRVJkLW5RSmJ2LWFwYVZuVjR3c0ZBOVhZbGNfTTJOOS1sM05LZ200S1ZkSlFTSW1QSzUzY3JiZXZqNk11QUo5bC0yc2JScTg5bGt3enNBdDVya0lBdzhGVWpjNnRJdkU0Qmc3M3ZUU2k"
     }
    ],
