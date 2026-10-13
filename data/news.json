@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T13:52:25.915947+00:00",
+ "updated_at": "2026-10-13T14:07:32.101133+00:00",
  "market": {
-  "price": 373.45,
-  "change_pct": -1.21,
+  "price": 373.65,
+  "change_pct": -1.16,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（64条已评分）"
+     "note": "今日新闻情绪 +0.24（67条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.45 vs 20日均线 $370.46"
+     "note": "现价 $373.65 vs 20日均线 $370.47"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 7.1,
-   "ma20": 370.46,
-   "as_of": "2026-10-13T13:52:25.900440+00:00"
+   "ma20": 370.47,
+   "as_of": "2026-10-13T14:07:32.081632+00:00"
   },
   "pe_ttm": 103.3,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 64
+   "avg": 0.24,
+   "count": 67
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f405de0f260e",
+   "title": "Tesla Completes Comeback, Paving Way For 30% Upside - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZVYUEyM1pqaTdYN2NHUmZ3WnJNS2FrX1NIOGxWSFJHSjRCMHE5WFpfZWh1d0NDZ1ZwR2FfdlNzUnVfbVZVNmx5N3RQN3I5Y3hONVFzWE1hUlhQVUYyOEltOWVEOEl2dWZqNEdBeWNHcXNfVkZxdFRZVXVPNTVnVjZ0WDU3blRNYWlGOVBKQ21kdTVOZmJJMA",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-13T14:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-13T14:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZVYUEyM1pqaTdYN2NHUmZ3WnJNS2FrX1NIOGxWSFJHSjRCMHE5WFpfZWh1d0NDZ1ZwR2FfdlNzUnVfbVZVNmx5N3RQN3I5Y3hONVFzWE1hUlhQVUYyOEltOWVEOEl2dWZqNEdBeWNHcXNfVkZxdFRZVXVPNTVnVjZ0WDU3blRNYWlGOVBKQ21kdTVOZmJJMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "873484740b24",
    "title": "School zone petition adds to Tesla’s robotaxi probe pile - Automotive World",
@@ -106,6 +123,23 @@
    "zh_summary": "TSLA涨10%但2倍ETF未跟涨",
    "title_zh": "TSLA涨10%，但2倍杠杆ETF未跟涨",
    "sentiment": 0
+  },
+  {
+   "id": "1c7fc6fc0c2f",
+   "title": "Tesla Is Up 10% — So Why Are These 2X TSLA ETFs Heading in the Opposite Direction? - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOF9hUXJ6YWd4QWJxWldHc0Y2cldhdi1TYzVoOTZLaVNKN0tmYjZVdVJ6NlVUOFFDc09jYVZmbEs4TTZyMFEtTTNIcVNvS0ZfNDBxYllXTU5sUnJQSmMxNzNXYkRQS0h3SWFpaS1LNjJ2c2ZWYW8yTXZ5dnJCaTRFbDhGMC1WdzNsekVUVkFGb2lZWS1PaDVrcWx6S0h2dw",
+   "source": "Benzinga",
+   "published_at": "2026-10-13T13:39:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-13T13:39:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOF9hUXJ6YWd4QWJxWldHc0Y2cldhdi1TYzVoOTZLaVNKN0tmYjZVdVJ6NlVUOFFDc09jYVZmbEs4TTZyMFEtTTNIcVNvS0ZfNDBxYllXTU5sUnJQSmMxNzNXYkRQS0h3SWFpaS1LNjJ2c2ZWYW8yTXZ5dnJCaTRFbDhGMC1WdzNsekVUVkFGb2lZWS1PaDVrcWx6S0h2dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "2ce44f3ffaa8",
@@ -583,12 +617,17 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3Vyc2ZiT1BST05BZC1TRUp4Sk5rZmVReWhJZHZDTVRXOFR6T0g1QlVVcDVpUVBpV05SRHcwanh2WU40VHkxbFRYQ3V0X3ZSOUZINEh4RjE0bS1lcTIzVThnMXd6SDZWWDNZWU5JYWJKb3JFQjhOTFRCZmh1UXlicmhHUExYNU95VXdpS0dfY3l6M0U",
    "source": "Yahoo Finance",
    "published_at": "2026-10-13T10:50:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-13T10:50:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3Vyc2ZiT1BST05BZC1TRUp4Sk5rZmVReWhJZHZDTVRXOFR6T0g1QlVVcDVpUVBpV05SRHcwanh2WU40VHkxbFRYQ3V0X3ZSOUZINEh4RjE0bS1lcTIzVThnMXd6SDZWWDNZWU5JYWJKb3JFQjhOTFRCZmh1UXlicmhHUExYNU95VXdpS0dfY3l6M0U"
+    },
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-13T11:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTVpU0tQam9VcFJ5cUkwcTZMbm9JUHRCMXlPVmFPb2dFNDdLQ0d0N1pfbUFZM0pWZGdpV090SF9HSTVjM0tRVnp4RTRYLTlRa0RTak11SDlIZjc2cFFpZUVVRHZHYkxoSnNnSDRVVzd2eGpLcmxJVzNGalNrWmlHNHlKN20zekNhU0picDNidzBBdXNkbHU3Yw"
     }
    ],
    "category": "马斯克",
@@ -1478,26 +1517,6 @@
    "sentiment": 1
   },
   {
-   "id": "bf65bd5f8332",
-   "title": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN",
-   "source": "Stocktwits",
-   "published_at": "2026-10-13T04:34:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-13T04:34:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "晨星称特斯拉暴跌后极具吸引力",
-   "title_zh": "盘前下跌：晨星称特斯拉暴跌后非常值得买入",
-   "sentiment": 1
-  },
-  {
    "id": "d747f7989efd",
    "title": "特斯拉FSD在欧洲改名，中国车企出海智驾要过几道关？ - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUVVbDV6dnRZeExPc25NbXhBR09TTXducFRwVlFZV210bFZnbVk2bVRNZl9HclVPTHVoY3M5bWMtRVBMVHEtOE95TVZIX0VSakNSZnQtcEhuMjE0eWViV0hjaTBfMG9yaTRMYlBtV0ZXdGVUTGhDck16Tlg0QmpXV1VERkxiMHJi",
@@ -1821,6 +1840,26 @@
    "zh_summary": "Robotaxi运营时间延长至23点",
    "title_zh": "特斯拉Robotaxi运营时间延长至23点",
    "sentiment": 0
+  },
+  {
+   "id": "bf65bd5f8332",
+   "title": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN",
+   "source": "Stocktwits",
+   "published_at": "2026-10-13T01:21:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-13T01:21:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后",
+   "zh_summary": "晨星称特斯拉暴跌后极具吸引力",
+   "title_zh": "盘前下跌：晨星称特斯拉暴跌后非常值得买入",
+   "sentiment": 1
   },
   {
    "id": "f95e5682d74b",
@@ -2148,13 +2187,13 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
+   "zh_summary": "Robotaxi涉校园超速NHTSA调查",
+   "title_zh": "特斯拉Robotaxi被指校园超速，NHTSA展开调查",
+   "sentiment": -1,
    "price_reaction": {
     "pct": 0.25,
     "window_h": 0.1
-   },
-   "zh_summary": "Robotaxi涉校园超速NHTSA调查",
-   "title_zh": "特斯拉Robotaxi被指校园超速，NHTSA展开调查",
-   "sentiment": -1
+   }
   },
   {
    "id": "9424e1a27127",
@@ -3221,6 +3260,23 @@
     }
    ],
    "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "0fe30ea8f4be",
+   "title": "【视频】极致的具象化特斯拉Cybercab来苏州了！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZMnFsb1B1bTh2VlBzaXY4UmJ6bEtRZThjZ2NQTVlhRTdQRzRybU51M1J2My01MFZjVGc2dWs0VG15UlU3eGxxQUdULTB1UG5oTlJrbG5nblBSV28",
+   "source": "汽车之家",
+   "published_at": "2026-10-12T05:28:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-12T05:28:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZMnFsb1B1bTh2VlBzaXY4UmJ6bEtRZThjZ2NQTVlhRTdQRzRybU51M1J2My01MFZjVGc2dWs0VG15UlU3eGxxQUdULTB1UG5oTlJrbG5nblBSV28"
+    }
+   ],
+   "category": "Robotaxi与FSD",
    "session": "盘前"
   },
   {
@@ -4400,23 +4456,6 @@
     }
    ],
    "category": "Robotaxi与FSD",
-   "session": "盘中"
-  },
-  {
-   "id": "3a37afc6a814",
-   "title": "Tesla sold under 1,000 cars in its first year in India, but it’s ramping - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRxZ2FIUTNsYURiQmxwOWpjTHA4SUFKSTFDUHBYem1iS2s0LU5NOVp3QnZEQ2RlczdDc21ZWTVXSlJrdEtOdmtnbVVNVk1jdG5ibnVpX0ZwRTRubkNKdUdrRV9sOVdUbG5SeUJVb2lIRVdPakJ1WVM0QmVnaGxMcDcwVzZuMGc0ODhGS3FR",
-   "source": "Electrek",
-   "published_at": "2026-10-06T13:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-06T13:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRxZ2FIUTNsYURiQmxwOWpjTHA4SUFKSTFDUHBYem1iS2s0LU5NOVp3QnZEQ2RlczdDc21ZWTVXSlJrdEtOdmtnbVVNVk1jdG5ibnVpX0ZwRTRubkNKdUdrRV9sOVdUbG5SeUJVb2lIRVdPakJ1WVM0QmVnaGxMcDcwVzZuMGc0ODhGS3FR"
-    }
-   ],
-   "category": "交付量",
    "session": "盘中"
   }
  ]
