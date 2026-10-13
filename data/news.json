@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T18:22:30.981336+00:00",
+ "updated_at": "2026-10-13T18:37:36.792439+00:00",
  "market": {
-  "price": 373.92,
-  "change_pct": -1.09,
+  "price": 373.57,
+  "change_pct": -1.18,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +7.0%"
+     "note": "目标价中位数 $400（16家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.13（107条已评分）"
+     "note": "今日新闻情绪 +0.12（109条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.92 vs 20日均线 $370.48"
+     "note": "现价 $373.57 vs 20日均线 $370.46"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 7.0,
-   "ma20": 370.48,
-   "as_of": "2026-10-13T18:22:30.971772+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 370.46,
+   "as_of": "2026-10-13T18:37:36.779444+00:00"
   },
-  "pe_ttm": 103.4,
+  "pe_ttm": 103.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.13,
-   "count": 107
+   "avg": 0.12,
+   "count": 109
   }
  },
  "meta": {
@@ -542,6 +542,23 @@
    "sentiment": 0
   },
   {
+   "id": "81b303a663e8",
+   "title": "Tesla unlocks faster Supercharger openings with new ‘Flex Connect’ system - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSG1mSnJRM2w3V3luQ1hIeWRGaUlQcTdSNXB1NmdvOWE2cEl4X2xxcGh0M0FZNzlNN2dEelFtQ1lMRHI5Xy1YaF9TMXpSeEcxOVFZTGlVQ1NNQWZrblZnUl9SN2dDbnp3aWtRb1Q2SnlRby1QaTk3aFZ1akozd1hsZkYyVlZHRGtkOVY0",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-13T14:50:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-13T14:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSG1mSnJRM2w3V3luQ1hIeWRGaUlQcTdSNXB1NmdvOWE2cEl4X2xxcGh0M0FZNzlNN2dEelFtQ1lMRHI5Xy1YaF9TMXpSeEcxOVFZTGlVQ1NNQWZrblZnUl9SN2dDbnp3aWtRb1Q2SnlRby1QaTk3aFZ1akozd1hsZkYyVlZHRGtkOVY0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "e5b344186616",
    "title": "Expert maps Tesla’s path to $2,000 record high - Finbold",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83X3NXbmE0dUpxSURXcDFYUldkNzVjZ1hQT3NkU3JtOU1CN3U5bzZYb2U0Qm9GT0FDNGVBd2htSEt1TG1YQlFNem1vdFNWc2FYWjUya3hiZjVLVk9TNVlOMHpCTlRJMi1KamRFYnB5NG1hQQ",
@@ -580,6 +597,23 @@
    "zh_summary": "电动卡车：特斯拉Semi车队现状",
    "title_zh": "电动卡车：特斯拉Semi与沃尔沃车队的现实",
    "sentiment": 0
+  },
+  {
+   "id": "66fd3194d730",
+   "title": "Tesla to pause Canadian sales of cheaper Chinese Model 3s - Driving",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1JVZFhKMk43YjRZeHZrdU1ocldraTQ5N2hYMUFrTG1DalB3LXlPYTg4dk54X2RjZS1CUGh0YW1MaG4wNEx4a0RqUVk1ZHNlUDVPLVZVNC0yOFVNSFRFMW14UTFpWDVDY3VoRi1kNEdQTEtmVXU1OU82ak1QN3drNlZHaW45ZEpNYjFTRnUtaUVabk5DcHpocEtB",
+   "source": "Driving",
+   "published_at": "2026-10-13T14:32:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Driving",
+     "published_at": "2026-10-13T14:32:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1JVZFhKMk43YjRZeHZrdU1ocldraTQ5N2hYMUFrTG1DalB3LXlPYTg4dk54X2RjZS1CUGh0YW1MaG4wNEx4a0RqUVk1ZHNlUDVPLVZVNC0yOFVNSFRFMW14UTFpWDVDY3VoRi1kNEdQTEtmVXU1OU82ak1QN3drNlZHaW45ZEpNYjFTRnUtaUVabk5DcHpocEtB"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "5611d2c3719d",
@@ -2523,12 +2557,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmc4SlZKMzAzRTU2Um9TdzRQalBxUEdRNTQ1bmpURUpEdnhvZmNYU2VGbnpYVDFUcjVTdkk1dG5PQlREZ2NRcVJpRmw4MVE0T3RZUy1FM1hKZnFNV2Q0Sml3blRRRV9vdURsdTNsTW5XYWtvUTl5SldGVktoYl93TG1RdVVpaU9aZllz0gGQAUFVX3lxTFBGcGpEMzdCX0cwX0s4bU1rZjZQRFcwV3dxY1ZQTVRlZkp4NmkwSEFHWDRjbjg1SjA5aW1ULTBMaVlyakhTT3FZVjBoalJCaUFXcmRZRVpXSGh2bnV6ay1DQ1AyNk9Sb1RZQUpDb0RqbzktM1RKU0JRSnNpaDZsQVdHOHdaSHNZRlZRdGFseExCcA",
    "source": "KRON4",
    "published_at": "2026-10-13T03:43:13+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "KRON4",
      "published_at": "2026-10-13T03:43:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmc4SlZKMzAzRTU2Um9TdzRQalBxUEdRNTQ1bmpURUpEdnhvZmNYU2VGbnpYVDFUcjVTdkk1dG5PQlREZ2NRcVJpRmw4MVE0T3RZUy1FM1hKZnFNV2Q0Sml3blRRRV9vdURsdTNsTW5XYWtvUTl5SldGVktoYl93TG1RdVVpaU9aZllz0gGQAUFVX3lxTFBGcGpEMzdCX0cwX0s4bU1rZjZQRFcwV3dxY1ZQTVRlZkp4NmkwSEFHWDRjbjg1SjA5aW1ULTBMaVlyakhTT3FZVjBoalJCaUFXcmRZRVpXSGh2bnV6ay1DQ1AyNk9Sb1RZQUpDb0RqbzktM1RKU0JRSnNpaDZsQVdHOHdaSHNZRlZRdGFseExCcA"
+    },
+    {
+     "name": "Patch",
+     "published_at": "2026-10-13T17:46:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUJzVi1ZOVVnWmN6UG9jZlhRdXhuVjFlNkdfb05nMTN4R21FeFNNYk1MYmFuSEtzc1hzNmFZUTM0VjdNSEl4OUlHcVJiYVpSdVhnR3k3akt5cVE2QnFXOTJ6NW1hVEk5LVQ3enZvb0lCR2ZQdzVxcFlWcHJ4bTZwRU01eGp2YjM2RjhjRDlUSVdCcW9WZXhLcmpDRDBtWVQ1dGIydmQ2eFNJbXPSAa4BQVVfeXFMT1k4c2M3VDMxYnZwNC1BTlI0Z0VjaHFlV0UwY1pydlFvWEtFQ0Q4T3dISVFpNFZDZ1NoN1JLbktIN2dvZG5nSkR6ZUdVc3A5SmhtdVhEcEFyck8yUUJibHV5MHp3bWRWVXhJRnl4NUlFMjFxNHJybkZueEg1dW1Kcks2NFJUeWRReFUzN3A1TEVkNk40ZFdNYXYzWnVqbUhEblcwd19VX3hMVHJGYmZR"
     }
    ],
    "category": "其他",
@@ -4523,6 +4562,23 @@
    "zh_summary": "散户质疑Robotaxi目标未达预期",
    "title_zh": "TSLA或周线收跌，散户就Robotaxi目标落空质问马斯克",
    "sentiment": -1
+  },
+  {
+   "id": "dfac24e26efb",
+   "title": "上海一特斯拉Model 3车主因安全带卡扣钢缆断裂向多部门投诉 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnUXd3M2d3bnV3NVd3Y3Q5Mk1MZjBnUVJFUU1aMzB4XzJwM1c2TkZmZ1BQUnVuN1lmNHVNT3RoWUFLNUVBYWpOYjFQUGdqUENKNTJnTExYWFRKSEE",
+   "source": "网通社",
+   "published_at": "2026-10-12T01:34:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-12T01:34:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnUXd3M2d3bnV3NVd3Y3Q5Mk1MZjBnUVJFUU1aMzB4XzJwM1c2TkZmZ1BQUnVuN1lmNHVNT3RoWUFLNUVBYWpOYjFQUGdqUENKNTJnTExYWFRKSEE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "053931b2211b",
