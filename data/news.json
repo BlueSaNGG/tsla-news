@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T18:52:24.245452+00:00",
+ "updated_at": "2026-10-13T19:07:28.254217+00:00",
  "market": {
-  "price": 373.17,
-  "change_pct": -1.28,
+  "price": 373.78,
+  "change_pct": -1.12,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +7.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +7.0%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.17 vs 20日均线 $370.44"
+     "note": "现价 $373.78 vs 20日均线 $370.47"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 7.2,
-   "ma20": 370.44,
-   "as_of": "2026-10-13T18:52:24.229076+00:00"
+   "implied_upside_pct": 7.0,
+   "ma20": 370.47,
+   "as_of": "2026-10-13T19:07:28.244269+00:00"
   },
-  "pe_ttm": 103.2,
+  "pe_ttm": 103.4,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.12,
    "count": 111
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9e7ec02ec24e",
+   "title": "美国国家公路交通安全管理局审查特斯拉Robotaxi在学校区域的超速指控- Tesla 特斯拉 - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtcEluSEZmNk9JWWFCeVVIWUpVNzVaTlZxb2tiLWtxZXRVdFcxNU9qY2gwYnZYeHRNZEs3ZEkzT3AtSHdRdVdobEdZMnVpNXkwWkdHbFVjT1FrYkRVaGgyNA",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-13T18:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-13T18:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtcEluSEZmNk9JWWFCeVVIWUpVNzVaTlZxb2tiLWtxZXRVdFcxNU9qY2gwYnZYeHRNZEs3ZEkzT3AtSHdRdVdobEdZMnVpNXkwWkdHbFVjT1FrYkRVaGgyNA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "907888230586",
+   "title": "Rivian’s Robotics Spinoff Gets Former Ford EV Chief, Tesla Exec - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1NicmFvaGVSM1RrTlhtMU5pcU8xQ0thU3BPRG9JZ3c4NDhFeFQyR2lLdkJTY0FlOVAydWhoeElRNl9STkpuR1p0NzJPOUJ4ZDI5QlBtVlNJMnBBbjNKSXdzaEJKWEhYZGt3RUVJWWVFSXMxLVVVTlhaTGI1OU1tc2V5VmdodGx4eldicmJ6WW8wQ2sxc0czTkhGRnlTTVVwNXdOaG4tRFliUzJKMW9BRXJ6ejdmaFpaeWJLa3ZWSEF2WnNHaDNGbUtJb2pYUTN5NUJkdC1mZm9CMElpcXgtZUkxTXdVTHVKeE1jNlRSUmctbUYtWk16Sw",
+   "source": "WSJ",
+   "published_at": "2026-10-13T18:39:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-13T18:39:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY1NicmFvaGVSM1RrTlhtMU5pcU8xQ0thU3BPRG9JZ3c4NDhFeFQyR2lLdkJTY0FlOVAydWhoeElRNl9STkpuR1p0NzJPOUJ4ZDI5QlBtVlNJMnBBbjNKSXdzaEJKWEhYZGt3RUVJWWVFSXMxLVVVTlhaTGI1OU1tc2V5VmdodGx4eldicmJ6WW8wQ2sxc0czTkhGRnlTTVVwNXdOaG4tRFliUzJKMW9BRXJ6ejdmaFpaeWJLa3ZWSEF2WnNHaDNGbUtJb2pYUTN5NUJkdC1mZm9CMElpcXgtZUkxTXdVTHVKeE1jNlRSUmctbUYtWk16Sw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ed0b4da024c1",
    "title": "Tesla Roadster Event: How to Watch & What to Expect - Not a Tesla App",
@@ -986,12 +1020,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdXZINUV3c0tJeDJJNU1TdUhwbHBBd0l3aFl6SC1qR2Exd3ZqR3dIdTZyUm9WaFMwNTZEMU1sVTJERHV2ZF9zQzlVT1FEZWlJSHllMDI3eEk2NGc",
    "source": "网通社",
    "published_at": "2026-10-13T12:51:10+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "网通社",
      "published_at": "2026-10-13T12:51:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdXZINUV3c0tJeDJJNU1TdUhwbHBBd0l3aFl6SC1qR2Exd3ZqR3dIdTZyUm9WaFMwNTZEMU1sVTJERHV2ZF9zQzlVT1FEZWlJSHllMDI3eEk2NGc"
+    },
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-13T12:51:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WFI1b1JHVDB3cGlHLXdidlZ4VUM1MnBZbDhvWjBoTzRvZjZLR3E5bXpZbmRod2dkaW9lcjZTOHJtNHJGYWpYdkNySXE"
     }
    ],
    "category": "其他",
@@ -999,6 +1038,23 @@
    "zh_summary": "美国Q3新增4106个公用快充，特斯拉超充调价",
    "title_zh": "2026年第三季度美国新增4106个公共快充接口，特斯拉超级充电站调价",
    "sentiment": 0
+  },
+  {
+   "id": "0a2c75b510ac",
+   "title": "【视频】22改款特斯拉modelY 23年上牌大轮毂 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUnRQRzc2VUtHSUtVVTFRR3RlV2tDT2o4dEtwTWFNZWhsNGg2ajBCNEVORE81bnMxSHNIZmNUd0Mxa3NMOTR2SkVzaGlMSGswMi1aR1paX0J1dWM",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T12:51:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T12:51:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUnRQRzc2VUtHSUtVVTFRR3RlV2tDT2o4dEtwTWFNZWhsNGg2ajBCNEVORE81bnMxSHNIZmNUd0Mxa3NMOTR2SkVzaGlMSGswMi1aR1paX0J1dWM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "79be8149f0fa",
