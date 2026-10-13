@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T06:07:26.401620+00:00",
+ "updated_at": "2026-10-13T06:22:27.297175+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（5条已评分）"
+     "note": "今日新闻情绪 +0.44（9条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T06:07:26.384720+00:00"
+   "as_of": "2026-10-13T06:22:27.273277+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 5
+   "avg": 0.44,
+   "count": 9
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "马斯克",
    "session": "盘前",
-   "title_zh": "车主感谢特斯拉救命，马斯克：您的安全一直都是第一优先级 - 新浪网",
    "zh_summary": "马斯克回应车主：安全始终第一优先级",
+   "title_zh": "车主感谢特斯拉救命，马斯克：您的安全一直都是第一优先级 - 新浪网",
    "sentiment": 1
   },
   {
@@ -103,8 +103,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "【视频】纯视觉智驾的博弈体验特斯拉FSD - 汽车之家",
    "zh_summary": "汽车之家视频体验特斯拉纯视觉FSD",
+   "title_zh": "【视频】纯视觉智驾的博弈体验特斯拉FSD - 汽车之家",
    "sentiment": 0
   },
   {
@@ -123,8 +123,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
-   "title_zh": "特斯拉Cybercab与Robotaxi真正优势非打车服务",
    "zh_summary": "外媒称Robotaxi优势不在打车服务",
+   "title_zh": "特斯拉Cybercab与Robotaxi真正优势非打车服务",
    "sentiment": 1
   },
   {
@@ -248,8 +248,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "【网通社快报】特斯拉Automations自动化功能英文界面现身海外版固件 - 凤凰网汽车",
    "zh_summary": "特斯拉Automations功能英文界面曝光",
+   "title_zh": "【网通社快报】特斯拉Automations自动化功能英文界面现身海外版固件 - 凤凰网汽车",
    "sentiment": 0
   },
   {
@@ -791,6 +791,23 @@
    "zh_summary": "特斯拉Cybercab学区超速被调查",
    "title_zh": "【网通社快报】美国国家公路交通安全管理局对特斯拉Cybercab和Model Y在学区超速指控展开初步调查 - 凤凰网汽车",
    "sentiment": -1
+  },
+  {
+   "id": "e65dbcd62745",
+   "title": "【视频】孕婴级无异味！特斯拉Model 3专车专用脚垫防滑实测 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BNk91elpQVkwyLUhoZER5WE8zQnNscFJ1bG1vWFh6TUktYTcwM2gyUGNZWE9pRks4dVg5WTZCM0h3bWRfNzVNZmV1el9PMW9OMENOcml0WkRlcW8",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T00:06:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T00:06:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BNk91elpQVkwyLUhoZER5WE8zQnNscFJ1bG1vWFh6TUktYTcwM2gyUGNZWE9pRks4dVg5WTZCM0h3bWRfNzVNZmV1el9PMW9OMENOcml0WkRlcW8"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "4c18058653ee",
@@ -6454,26 +6471,6 @@
    "session": "周末",
    "zh_summary": "冰岛9月特斯拉销量下滑57.0%",
    "title_zh": "冰岛2026年9月：特斯拉-57.0%失守、比亚迪+48.1%逆势冲高 - 搜狐",
-   "sentiment": -1
-  },
-  {
-   "id": "b681c734b4ea",
-   "title": "Tesla Model Y Owner’s HV Battery Dies at Only 65,000 Miles With Zero Warning, but a Warranty Replacement Still Leaves Questions About Long-Term Reliability - Torque News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVZObXo0Y1NFU0NGMkJJaUljdC1UR1lETkxTV3dmR1gxRUVVRXkzeldDc0ZnNElQX3paV2JRRDQ5MzNfb0RMLWJtb1VBRHlraW85SnEzMlJyWWZhMXZfMjI5QXlCM2o3ekZJZXpCSnF6ZHJ3V1BhTmd5TGNUaWxuYVRGeV9wQS15RVdCNUgxQ2RLMVdmM2l5NUpld1RabXk2Yl9OWHNNc3U5Uzdobm53VC1nSHFkU2sxbHRPcEVwcmRYX1pJ",
-   "source": "Torque News",
-   "published_at": "2026-10-11T03:25:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Torque News",
-     "published_at": "2026-10-11T03:25:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVZObXo0Y1NFU0NGMkJJaUljdC1UR1lETkxTV3dmR1gxRUVVRXkzeldDc0ZnNElQX3paV2JRRDQ5MzNfb0RMLWJtb1VBRHlraW85SnEzMlJyWWZhMXZfMjI5QXlCM2o3ekZJZXpCSnF6ZHJ3V1BhTmd5TGNUaWxuYVRGeV9wQS15RVdCNUgxQ2RLMVdmM2l5NUpld1RabXk2Yl9OWHNNc3U5Uzdobm53VC1nSHFkU2sxbHRPcEVwcmRYX1pJ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Model Y车主6.5万英里高压电池失效",
-   "title_zh": "Model Y车主6.5万英里高压电池无预警失效，保修更换仍存疑问",
    "sentiment": -1
   }
  ]
