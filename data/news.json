@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T16:37:23.317178+00:00",
+ "updated_at": "2026-10-13T16:52:28.106730+00:00",
  "market": {
-  "price": 375.99,
-  "change_pct": -0.54,
+  "price": 376.4,
+  "change_pct": -0.43,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（95条已评分）"
+     "note": "今日新闻情绪 +0.15（98条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.99 vs 20日均线 $370.58"
+     "note": "现价 $376.40 vs 20日均线 $370.60"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 41,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.4,
-   "ma20": 370.58,
-   "as_of": "2026-10-13T16:37:23.302980+00:00"
+   "implied_upside_pct": 6.3,
+   "ma20": 370.6,
+   "as_of": "2026-10-13T16:52:28.099251+00:00"
   },
-  "pe_ttm": 104.0,
+  "pe_ttm": 104.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.3%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.15,
-   "count": 95
+   "count": 98
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "aa3775b77364",
+   "title": "情侣因特斯拉FSD争执，女方称6万够一年工资不如买宝马X5 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM00xakFoMmUyRllWTVNxdE10dVRWUXNmWFF3M3hScUpIcERXcm1YRTRQVTVTMjkzMXE1azRnNmU4cHFuS2ZIQVM1LUxpWjJWWnR0dHNTNVkxOXZOSjdUNjRVbUJEZzBBMm1LQUFPNF96TGFwSHBkdWcwNEQtRkhwZA",
+   "source": "新浪网",
+   "published_at": "2026-10-13T16:50:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T16:50:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM00xakFoMmUyRllWTVNxdE10dVRWUXNmWFF3M3hScUpIcERXcm1YRTRQVTVTMjkzMXE1azRnNmU4cHFuS2ZIQVM1LUxpWjJWWnR0dHNTNVkxOXZOSjdUNjRVbUJEZzBBMm1LQUFPNF96TGFwSHBkdWcwNEQtRkhwZA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b37c41b19d09",
+   "title": "Taiwan power firm bets big on Tesla Megapacks as AI data center thirst grows - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aZzNma2N2aGw5MmNCNkVQbTJ2VU9ObVZBTjdVbTN5MkxZYTdlRlQybngyc2JzS0JWVjdZclNQSTVwRHR1b2FndTQyZXdMQjhwRHhvZThvamE5SFA5WDRfQXBpNFBfcVNYUTdRanJDeVI",
+   "source": "Teslarati",
+   "published_at": "2026-10-13T16:40:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-13T16:40:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aZzNma2N2aGw5MmNCNkVQbTJ2VU9ObVZBTjdVbTN5MkxZYTdlRlQybngyc2JzS0JWVjdZclNQSTVwRHR1b2FndTQyZXdMQjhwRHhvZThvamE5SFA5WDRfQXBpNFBfcVNYUTdRanJDeVI"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "1df1baa310af",
    "title": "理想i6欧洲首秀，与蔚来ES6/特斯拉Model Y同级参数对比 - 网通社",
@@ -273,7 +307,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHl5UGIxNzd1VWthRjVVTGdwX25mZ0pyOGg3NnBXdDF5bkpnanBsMU9LT3dyVWFRSVJmV0Roam5YY08wVy00OHhZNUZUN2R4b19ycU9FOENZUkZ1Wk9LZE9hbjY1YjNBbGp2VzJCcWZoel9pcURmUkFucnltckxybkM0MTRETmRCazNPdlhYSktFNm5YajZQVFpCNzlxckdRNGdJVnllbHdTSF9HMXc",
    "source": "GuruFocus",
    "published_at": "2026-10-13T15:03:04+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "GuruFocus",
@@ -284,13 +318,22 @@
      "name": "TradingView",
      "published_at": "2026-10-13T15:45:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZzVBR3gyZFJhUmdxRUszRXctTWlwdldLVGE1eVRkM1Z2ZW5WOWFZSC1mUHNKMk1ZdEhXUkVxUy05N19YWkdNLWdQdVloZU1PQW9rRGFLYnktaG1FWFZQdU00eUZzb3RHekxXUnRwdVh0ek0tWWhUUmx2cUJfNThiTmE1ZVpvT2xSU3RKQm8tUlYzdlhWSHprTldhRVdadjJvWF9EYS1zLTZuTDVHT3ZGWldud3JPOFdSS01SMzdOR1Mwc09QQ0Z1dUZUMGk"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T15:45:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTVZmVEF0dkFjTEczOEtxcy1VWWFiaHRMUFF5TFgzcmVYSlVKVS1lSEZZTHZXWHc0dXpQUFdTN3ZRX3lOZ3k1M2NkQldOMTJDRlg2S3p4QkhfekswdzBERWp2eXBHM1hDbjRQWlRXVEZOYmZNOHdOWm1faG9Sc1dMNHkzS2Vlemp0TEZEZHJTUkJpTFdy"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉1.5万亿估值被指偏高",
    "title_zh": "特斯拉1.5万亿美元估值隐含近1万亿差距",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.12,
+    "window_h": 1.8
+   }
   },
   {
    "id": "7d2f0ff2d830",
