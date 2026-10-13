@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T06:37:28.097046+00:00",
+ "updated_at": "2026-10-13T06:52:36.545254+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 2,
+   "score": 3,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.44（9条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.55（11条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T06:37:28.079152+00:00"
+   "as_of": "2026-10-13T06:52:36.523903+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 9
+   "avg": 0.55,
+   "count": 11
   }
  },
  "meta": {
@@ -73,12 +73,22 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX19NRV9XZjVsbXBEZzBfY0hORHcyTGdUaUNhZ3NTSkRTUl9CbUwxY0Q3ekNTRGhZLS1Yd2l6bGthOFdiTWF5c0RCdVdQamU3MjFZOFpTclhsYTJtXzM1Ml9pQVdnbnFxRHZuMFJTV2JfLWRVX2c4UUc1T25WdzBhRldtMF9HbHpJ",
    "source": "搜狐",
    "published_at": "2026-10-13T06:23:37+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-13T06:23:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX19NRV9XZjVsbXBEZzBfY0hORHcyTGdUaUNhZ3NTSkRTUl9CbUwxY0Q3ekNTRGhZLS1Yd2l6bGthOFdiTWF5c0RCdVdQamU3MjFZOFpTclhsYTJtXzM1Ml9pQVdnbnFxRHZuMFJTV2JfLWRVX2c4UUc1T25WdzBhRldtMF9HbHpJ"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-13T06:25:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wbHM3cDR3Z0dHbXp4bHFDQUtmV0VmcTJzN2tONDJ3emx3QS1WNzFLQ0NCYUx2YlE2OFgwazE0Zkg0Rk13c0JpRUtMVEQ"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T06:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Mdm1lWXVsU3h2QnB4UVNqNHVVQ3RkV0IwWkppMUVieDJxQ0hFVEpvNjlmOUd5ZEt4QzFDQ1U5anZ0eE9waHZNUnJ5cVNESThoMFJyQkRaaHNIaHpUTzBVcm55Qnlqa2RMNll1WURUcXVIX1BXOWlxUHAzeG44QQ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -3144,6 +3154,23 @@
    "sentiment": 0
   },
   {
+   "id": "32e266f97d88",
+   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
+   "source": "Technology Org",
+   "published_at": "2026-10-12T11:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-12T11:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "0e7403821982",
    "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger - Barron's",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VMSjJpM1hCSU5WeU1sRDVJazg5eGU3OUVoazJGUEhRRmw3UmM0Q2NvRG9hMGR0REJCdnpSWU5vYm9xMGlxN1FXSHlQenpHU1dmUFZod29qMVRja2QwUnhkSG5lblVpczlINkdpYzhOY1pqMGZiMmhjMFI5enNDT09jLU1SMVk",
@@ -4931,6 +4958,23 @@
    "sentiment": 1
   },
   {
+   "id": "dfac24e26efb",
+   "title": "上海一特斯拉Model 3车主因安全带卡扣钢缆断裂向多部门投诉 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmZnWlQ1aG1kcVQ2UnN4dFVRV0hvNG11YWpheVBsaHp3NndzQTQ3N2dBb2JzX1hVTjZ3ZXp0dnpjTDJlemlPYk1rVW1fMG5udWxRR1NKOFc5bWswcWVGekJERGpvRm0tdmQ3eWhLd080OHphNU4zdE1Rd2pldXNmX2xTd1YxQzFQ",
+   "source": "搜狐",
+   "published_at": "2026-10-12T01:34:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T01:34:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmZnWlQ1aG1kcVQ2UnN4dFVRV0hvNG11YWpheVBsaHp3NndzQTQ3N2dBb2JzX1hVTjZ3ZXp0dnpjTDJlemlPYk1rVW1fMG5udWxRR1NKOFc5bWswcWVGekJERGpvRm0tdmQ3eWhLd080OHphNU4zdE1Rd2pldXNmX2xTd1YxQzFQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
+  {
    "id": "ab748149b5d6",
    "title": "Inside the X Takeover: Giga Texas Tours, Cybercab Rides, and The Boring Company's Bastrop Hub - BASENOR - Tesla Accessories",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmlRTTVQbEViNEpvajA1eFJrRkFoclZHN0swWVhmSDZwcmlrR18wRkJnbnZvc010a2JfdGw0X2RIX2dNaV9tSlhlRGdNbU1DNi1HT3R1TnFEbGZ1NUp1UGJxT1ZSSjJTakFyaDd4QjI2c2NSQTFlOFRnUnlfdW1JN1VmU0xmVnM3UWhGZFN3dXh0ZG4ydlY5SUNvVEh3SFJTM1F4YWlGX1o0TkkxN2JiMmplZy14b2JWNy1jaGNsemp3UQ",
@@ -6426,46 +6470,6 @@
    "zh_summary": "特斯拉Model Y L长续航版视频",
    "title_zh": "【视频】特斯拉Model Y L 2025款长续航全轮驱动版 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "9369119d51f4",
-   "title": "特斯拉|紧急脱离功能|防枪击_新浪新闻 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SNEw2UXc0S09DcW95QnItN21FQWRSQ1V4MUtYckNSS0VUZERRbUdiQ2xzN29fbDNKeUJnUVk4TV91RERPYnFwbVhvOGFGc0VlMmtDamlJWWUxdUZGeDZxc1YxSQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-11T06:18:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-11T06:18:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SNEw2UXc0S09DcW95QnItN21FQWRSQ1V4MUtYckNSS0VUZERRbUdiQ2xzN29fbDNKeUJnUVk4TV91RERPYnFwbVhvOGFGc0VlMmtDamlJWWUxdUZGeDZxc1YxSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉推紧急脱离功能可防枪击",
-   "title_zh": "特斯拉|紧急脱离功能|防枪击_新浪新闻 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "76a8f5e4dbee",
-   "title": "全隐藏门把手要凉 特斯拉Model 3们得改设计 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wVlNJRVRhY3Vza0swUjBQZU9Fd2daUU9PdTNTaUdKTjN5bk8yZV9Wa0VIRHBLMFNMZDVQNTFVTzVvVjR0b1pXal8ySDJZVlZtRmRIY3ZvbFhLOE0",
-   "source": "汽车之家",
-   "published_at": "2026-10-11T05:48:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T05:48:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wVlNJRVRhY3Vza0swUjBQZU9Fd2daUU9PdTNTaUdKTjN5bk8yZV9Wa0VIRHBLMFNMZDVQNTFVTzVvVjR0b1pXal8ySDJZVlZtRmRIY3ZvbFhLOE0"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "隐藏门把手将退场 Model 3须改设计",
-   "title_zh": "全隐藏门把手要凉 特斯拉Model 3们得改设计 - 汽车之家",
-   "sentiment": -1
   }
  ]
 }
