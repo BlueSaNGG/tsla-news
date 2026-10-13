@@ -2273,7 +2273,11 @@
     }
    ],
    "category": "Robotaxi与FSD",
-   "session": "盘后"
+   "session": "盘后",
+   "price_reaction": {
+    "pct": 0.25,
+    "window_h": 0.1
+   }
   },
   {
    "id": "9424e1a27127",
@@ -7255,6 +7259,23 @@
    "zh_summary": "特斯拉Cybercab车队一月增8倍，达拉斯将上线",
    "title_zh": "特斯拉Cybercab车队一个月内增长8倍，达拉斯站即将上线",
    "sentiment": 2
+  },
+  {
+   "id": "8e934bace47a",
+   "title": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c",
+   "source": "汽车之家",
+   "published_at": "2026-10-11T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-11T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "88b9fed4855d",
@@ -39294,5 +39315,5 @@
    "sentiment": -1
   }
  ],
- "count": 1868
+ "count": 1869
 }
