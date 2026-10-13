@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T10:37:30.235002+00:00",
+ "updated_at": "2026-10-13T10:52:28.566920+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（35条已评分）"
+     "note": "今日新闻情绪 +0.14（37条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T10:37:30.224873+00:00"
+   "as_of": "2026-10-13T10:52:28.550387+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 35
+   "avg": 0.14,
+   "count": 37
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "ecc6948442a0",
+   "title": "Maye Musk Praises Elon Musk’s ‘Safety First’ Focus After Tesla Owner Says EV Saved Him and Son in Crash - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTS0xSmFFS1VBOVBNRFlZM2x6QTlqY1J3UjdLTWRnY1pheGtuY19PZFo4T2YxX1lJbmpBUUFNMkxiM3RZRUVUbmlwS0wtNF9xQUQ1NGJiQ2tmOWRhLW1vWi01YnlETVJFTTlaY1NiRUljUkFxM0h3clZzSDd1d184YlRpbnkzQWg5ZklRNmFsZUlpNXExZHIwS2F0ckFlN3lMdTlYcjVQanFZeFZGRFRkbnJtaGd0Vm1OOXkwUGRrbm1XRnY2REVyRVQ3ZFZaTm1xdXZMWW8wZUVDMXJ1dEowVjFzckpObERl",
+   "source": "Benzinga",
+   "published_at": "2026-10-13T10:45:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-13T10:45:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTS0xSmFFS1VBOVBNRFlZM2x6QTlqY1J3UjdLTWRnY1pheGtuY19PZFo4T2YxX1lJbmpBUUFNMkxiM3RZRUVUbmlwS0wtNF9xQUQ1NGJiQ2tmOWRhLW1vWi01YnlETVJFTTlaY1NiRUljUkFxM0h3clZzSDd1d184YlRpbnkzQWg5ZklRNmFsZUlpNXExZHIwS2F0ckFlN3lMdTlYcjVQanFZeFZGRFRkbnJtaGd0Vm1OOXkwUGRrbm1XRnY2REVyRVQ3ZFZaTm1xdXZMWW8wZUVDMXJ1dEowVjFzckpObERl"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
+   "id": "7f00062c3cad",
+   "title": "China NEV market share in September: BYD leads with 22.8%, Tesla rises to fourth - CnEVPost",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVphMzVoaDctbGVRbGJsMWIwOERZeDM5dkxndUluQWtnX0kxc3V0MHh1dUhxbEEwaUV6R0JpZnBfNVQtUGhwRTMyMVYtcVNJX2d4Zl9keTM0VE5FWXc3WkZuUlZMTGRRT1RBMU56d3NYM25leDhDbUtDRTdZZy0wMA",
+   "source": "CnEVPost",
+   "published_at": "2026-10-13T10:35:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CnEVPost",
+     "published_at": "2026-10-13T10:35:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVphMzVoaDctbGVRbGJsMWIwOERZeDM5dkxndUluQWtnX0kxc3V0MHh1dUhxbEEwaUV6R0JpZnBfNVQtUGhwRTMyMVYtcVNJX2d4Zl9keTM0VE5FWXc3WkZuUlZMTGRRT1RBMU56d3NYM25leDhDbUtDRTdZZy0wMA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "d3a76c9ce1c0",
+   "title": "9月中国新能源汽车市场份额：比亚迪以22.8%居首，特斯拉升至第四 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUksySTVNdVhmUExKSGtjWUZfQzFPcER5WW55TEI5RFZBeVl6VTMxZ0lYc0JqdjZQVWJqSWFaYmZ2blF1Yy05UUJLb0hhQVBfcEFFNFJTSW5EZDhYdmFFRDUzUmdmMUc2bmtJbkw1X3J0RGhHUm15Y2VnQTYwWDZURlBBUE1zMF94aEhyeGpNREl0UkxOc1lxMQ",
+   "source": "富途牛牛",
+   "published_at": "2026-10-13T10:35:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-13T10:35:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUksySTVNdVhmUExKSGtjWUZfQzFPcER5WW55TEI5RFZBeVl6VTMxZ0lYc0JqdjZQVWJqSWFaYmZ2blF1Yy05UUJLb0hhQVBfcEFFNFJTSW5EZDhYdmFFRDUzUmdmMUc2bmtJbkw1X3J0RGhHUm15Y2VnQTYwWDZURlBBUE1zMF94aEhyeGpNREl0UkxOc1lxMQ"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
+  },
   {
    "id": "c8173da58fa4",
    "title": "Not Tesla. Not Nvidia. Elon Musk's Chip Ambitions Could Supercharge This Artificial Intelligence (AI) Stock. - The Motley Fool",
@@ -86,6 +137,28 @@
    "zh_summary": "马斯克芯片野心或带飞某AI股票",
    "title_zh": "不是特斯拉也不是英伟达：马斯克芯片野心或提振这只AI股票",
    "sentiment": 0
+  },
+  {
+   "id": "70a7938bc4be",
+   "title": "何小鹏巴黎街头体验特斯拉FSD：整体很流畅 但小鹏的模型更大 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SblVyTU9iOEprNHk2el9Mb2Y2bE52bW50RG11VjBKcUo1SVVTMU8tTmZlOEFJSi1lTm0yYk1GTUxFMnFvZmJJSlN5c1lTMklQR0UwTVJkTms",
+   "source": "驱动之家",
+   "published_at": "2026-10-13T10:31:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-13T10:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SblVyTU9iOEprNHk2el9Mb2Y2bE52bW50RG11VjBKcUo1SVVTMU8tTmZlOEFJSi1lTm0yYk1GTUxFMnFvZmJJSlN5c1lTMklQR0UwTVJkTms"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T10:31:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVNqeUluN0UwcDZpcmsySmlLN0lhZmdKYXVXeGJJRHpYdTg3dVJRclJMeUszNzI4ZGpRTGlaT0tBOFFfVTRWUDV0bnByZ01teTRYUTdxVUJualhCRWVmZ3JkYXBxQ1hYdVQ4X1hQSXBpajJjR2w0YjJkbkxfTl9uMnlJamdSenFF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "400175d16d17",
@@ -293,36 +366,6 @@
    "sentiment": 0
   },
   {
-   "id": "19d77221039f",
-   "title": "Should You Sell Tesla? I Sold 1 Other Winner Too Early. Here's What I Learned. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmo5UU9BSEE0S3VaeUl1Q21BV0xiRE5yWU9ZdnlQU2hLVkdSTHZiUFFtckFnQU9maERjVGZ2elNFTE5kZ1FxdEJIVHFYd0FfanJ2SkZwSGRtMHBxaHhZaFpieExGbnBUaWlZMU9MRVlLMmR5WDA4Z1V2d09zRnVnNkhhdXdqek9aZUJwR2kwaVVsVUdmb0NCQg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-13T08:49:35+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-13T08:49:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmo5UU9BSEE0S3VaeUl1Q21BV0xiRE5yWU9ZdnlQU2hLVkdSTHZiUFFtckFnQU9maERjVGZ2elNFTE5kZ1FxdEJIVHFYd0FfanJ2SkZwSGRtMHBxaHhZaFpieExGbnBUaWlZMU9MRVlLMmR5WDA4Z1V2d09zRnVnNkhhdXdqek9aZUJwR2kwaVVsVUdmb0NCQg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T09:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjJHMjdOYWk4b1RuM1Z1RmlBZFdGWXhVSnBaVUl2YWZvNldxa2JWRld0NE5FdFVOQmttSENjRFZJRDVCaWh4QjAxNmphclN4LXJfZ3B0Ynd4eDRVU2xESnpkZU12T1JReHctRHRBMW4yeURHbWdSU0JBbjYxTlRWN21SbThhand6OXNCbDhPb3ViUQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-13T09:12:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcUFPOWttREVtTF9DLVFtWVY2NTRHclRRMEFiNkZ4bnVfb2c1V2pSTG5vMHF6N09iZXdkSENEN3Y4X3BxWTJDUUVZcEZITTU2Rkx4UC1YcE9MMmRWZm9xVmJ3NlZGS3NCYnhLemdOSHo5akFERFc3empHRVRpZlVwMHRUTndOZEFQMlN5SjVsWE5IWTR5Mkx3eU5TeG5wS0VmaXhXVXlnTlVqOVo4ZGZ0MEpJRnp2ZGZEV1k4Y2p0SHdFQmo2emprR1pDVThJQWFqWjBuZ3VHTTNMUV9qRTNIMnFMRUFLWEhncVJiei1HazY"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "专栏谈过早卖出赢家股票的教训",
-   "title_zh": "你该卖出特斯拉吗？我也曾过早卖出一只赢家股——这是我学到的",
-   "sentiment": 0
-  },
-  {
    "id": "d006c221661a",
    "title": "【视频】总有黑粉将我，特斯拉好还是长城好，我从没吹过任何车全是实话 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRkNSNnFZbTdDWXJFMThUcmEwTnpFOC1mRGVEV0phdHJ5VDFTRjdiS1Zhb3lVbk0tNmJ0T3o5R0RtVUdJMFpscTVvLXFxMjhlOERySE5SYV8zbzg",
@@ -361,6 +404,36 @@
    "zh_summary": "特斯拉与小鹏参展巴黎车展智驾实验室",
    "title_zh": "小鹏与特斯拉是唯二参与巴黎车展「智驾实验室」的汽车品牌 - 新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "19d77221039f",
+   "title": "Should You Sell Tesla? I Sold 1 Other Winner Too Early. Here's What I Learned. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmo5UU9BSEE0S3VaeUl1Q21BV0xiRE5yWU9ZdnlQU2hLVkdSTHZiUFFtckFnQU9maERjVGZ2elNFTE5kZ1FxdEJIVHFYd0FfanJ2SkZwSGRtMHBxaHhZaFpieExGbnBUaWlZMU9MRVlLMmR5WDA4Z1V2d09zRnVnNkhhdXdqek9aZUJwR2kwaVVsVUdmb0NCQg",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-13T08:47:52+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-13T08:47:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmo5UU9BSEE0S3VaeUl1Q21BV0xiRE5yWU9ZdnlQU2hLVkdSTHZiUFFtckFnQU9maERjVGZ2elNFTE5kZ1FxdEJIVHFYd0FfanJ2SkZwSGRtMHBxaHhZaFpieExGbnBUaWlZMU9MRVlLMmR5WDA4Z1V2d09zRnVnNkhhdXdqek9aZUJwR2kwaVVsVUdmb0NCQg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T09:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjJHMjdOYWk4b1RuM1Z1RmlBZFdGWXhVSnBaVUl2YWZvNldxa2JWRld0NE5FdFVOQmttSENjRFZJRDVCaWh4QjAxNmphclN4LXJfZ3B0Ynd4eDRVU2xESnpkZU12T1JReHctRHRBMW4yeURHbWdSU0JBbjYxTlRWN21SbThhand6OXNCbDhPb3ViUQ"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-13T09:12:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcUFPOWttREVtTF9DLVFtWVY2NTRHclRRMEFiNkZ4bnVfb2c1V2pSTG5vMHF6N09iZXdkSENEN3Y4X3BxWTJDUUVZcEZITTU2Rkx4UC1YcE9MMmRWZm9xVmJ3NlZGS3NCYnhLemdOSHo5akFERFc3empHRVRpZlVwMHRUTndOZEFQMlN5SjVsWE5IWTR5Mkx3eU5TeG5wS0VmaXhXVXlnTlVqOVo4ZGZ0MEpJRnp2ZGZEV1k4Y2p0SHdFQmo2emprR1pDVThJQWFqWjBuZ3VHTTNMUV9qRTNIMnFMRUFLWEhncVJiei1HazY"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前",
+   "zh_summary": "专栏谈过早卖出赢家股票的教训",
+   "title_zh": "你该卖出特斯拉吗？我也曾过早卖出一只赢家股——这是我学到的",
+   "sentiment": 0
   },
   {
    "id": "f408f282cf76",
@@ -2661,12 +2734,17 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6engtVUNhTnRlQ1d3eXhIYndpVjZOQXZVWG5qdzlvbEl3MklyamMzVDhPRWVHaHBXR1NKbHc5VnJmdms4QWZsOXY4Qmc5MkNSMDZMcHR3SjVGR1J1N285bFE2ZVVaNEM5NVpVVV91Mm82SXUwU0FFNA",
    "source": "新浪财经",
    "published_at": "2026-10-12T15:07:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-12T15:07:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6engtVUNhTnRlQ1d3eXhIYndpVjZOQXZVWG5qdzlvbEl3MklyamMzVDhPRWVHaHBXR1NKbHc5VnJmdms4QWZsOXY4Qmc5MkNSMDZMcHR3SjVGR1J1N285bFE2ZVVaNEM5NVpVVV91Mm82SXUwU0FFNA"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-12T21:03:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmpqLUdIZmIxeFdDb1Z6eWNvZzdqQWlwVV9rZjRjQkZodHYxeG1YWmoxX3lyWThDQmhHWW11em1RcVpYS21iSkM3U1JVcFUwcEdVTUczbGlldGdQMjdKalBESDNZTU1ZcTRrdTlSVHVZOTU3c21DTzFyRkFnbEdsY0ZB"
     }
    ],
    "category": "马斯克",
@@ -3401,6 +3479,23 @@
    "zh_summary": "特斯拉代币化期货徘徊关键支撑",
    "title_zh": "特斯拉代币化期货在关键枢轴支撑附近徘徊",
    "sentiment": 0
+  },
+  {
+   "id": "0cce27255f1b",
+   "title": "Why Tesla Renamed ‘Full-Self Driving’ in Europe - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg",
+   "source": "Barron's",
+   "published_at": "2026-10-12T12:38:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T12:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktGTGpJZExmNjJqWmNrU0ZxT2pTZG9fOEg4d1Y1dFNyNXItQlV4WTFTa0VGU3BLak4xVTBkWHVjVGVxaER3NmhGWWp6OHJfMDgzR291QzhldmdUTHJNdHBWQ0Jfai1ocDlXcVRLZlZtRUpfUWN1U1U1VDBPVkRyOXdzMjBMeXZPZi1oczd2SGg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "1169817719b9",
@@ -6367,130 +6462,6 @@
    "session": "周末",
    "zh_summary": "特斯拉在亚利桑那建450MW太阳能+储能项目",
    "title_zh": "特斯拉新绿能巨舰：亚利桑那沙漠的450MW太阳能+储能项目 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "7e7235f8da13",
-   "title": "欧洲各国，对特斯拉出手了？ - 凤凰网汽车",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53c01Uek1BYXlBWFdvZmVPblNoTERxYXU2S2kteEtDNnVZQThWQUI5STFKazUzVTc5dTBFaDB3S1Rhd2FsQUttNTREZHU",
-   "source": "凤凰网汽车",
-   "published_at": "2026-10-11T14:14:49+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-11T14:14:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53c01Uek1BYXlBWFdvZmVPblNoTERxYXU2S2kteEtDNnVZQThWQUI5STFKazUzVTc5dTBFaDB3S1Rhd2FsQUttNTREZHU"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T14:22:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZR1FfWjFESHhjVDNBVlIzWVVYcTNhLWFyZl9VanFMU0FkdFFlaldVcXh6UGw0Um5fUWI2bktEU0xacmNsaktpVkJMMzF6Uk5hUFBLdE8zOENQZm8"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-11T14:14:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53c01Uek1BYXlBWFdvZmVPblNoTERxYXU2S2kteEtDNnVZQThWQUI5STFKazUzVTc5dTBFaDB3S1Rhd2FsQUttNTREZHU"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "欧洲各国或对特斯拉出手",
-   "title_zh": "欧洲各国，对特斯拉出手了？ - 汽车之家",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.13,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "acf55dcf3785",
-   "title": "Musk Calls for Chip Engineers to Join Tesla and SpaceX - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1BQdnJvekpSVzliZkJRcE5QLUlhR0JnZ3R6eWI2RnRMV01ocEVERlkzWngxLW91UnVaRFBHQlhsSG1qT0Qtam56TW9IVEtIdjIwdFpJVWRmbEVEUnFyZzBwRF81aTc5c3ZKYUpzNkFZMWpUNHBGbHNBcGhIUFNPMkhEcnpoTGVZOTZ6ZDliUkxBekk",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-11T14:03:46+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-11T14:03:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1BQdnJvekpSVzliZkJRcE5QLUlhR0JnZ3R6eWI2RnRMV01ocEVERlkzWngxLW91UnVaRFBHQlhsSG1qT0Qtam56TW9IVEtIdjIwdFpJVWRmbEVEUnFyZzBwRF81aTc5c3ZKYUpzNkFZMWpUNHBGbHNBcGhIUFNPMkhEcnpoTGVZOTZ6ZDliUkxBekk"
-    },
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-11T18:34:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0ZtSlRTcjJXV1FnbmdDd0RmejVMaTY4bkU0OXkwcXJCdjBTSExvQmZPVHpKSEJoXy1LS29uemRIRXBmaDFlSTROV0laV3pzVmJ4ZWJfTHFhQnQ4VTA5Uk9ZTVQ5VHlKNnd5S0dGQm44VWFGSjIyTlE0MF9QejR6UQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "马斯克招募芯片工程师加盟特斯拉与SpaceX",
-   "title_zh": "马斯克呼吁芯片工程师加入特斯拉与SpaceX",
-   "sentiment": 1
-  },
-  {
-   "id": "ecc35941e497",
-   "title": "Woman Gets Her Brand-New Tesla Delivered. Then She Realizes It’s Damaged - Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GV2VBbjJtVF9oRGdtN25tcWgweEVhcS1PNmxrUURpbkdBWF9fT00wNzc2amJmRk45cGZob1E0Y3RsbnJtRk94OFF0LW5VRmRkZUp1QnFHWi1lV0VBWnRna1AwcGlMSGlMV0tR",
-   "source": "Motor1.com",
-   "published_at": "2026-10-11T14:01:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Motor1.com",
-     "published_at": "2026-10-11T14:01:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GV2VBbjJtVF9oRGdtN25tcWgweEVhcS1PNmxrUURpbkdBWF9fT00wNzc2amJmRk45cGZob1E0Y3RsbnJtRk94OFF0LW5VRmRkZUp1QnFHWi1lV0VBWnRna1AwcGlMSGlMV0tR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "新提特斯拉发现车损引发质量质疑",
-   "title_zh": "女子新提特斯拉发现车辆受损",
-   "sentiment": -1
-  },
-  {
-   "id": "148946ec8efb",
-   "title": "$Alphabet-C (GOOG.US)$ $SpaceX (SPCX.US)$ $Tesla (TSLA.US)$ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3dhOXRJNW9BQjNNRHZieG55UmF1ZE52VzhibENQZGJGNmlHOEhMczNvSTlSb0s0c2J6MGhmZjNUVldkRURKZE9TeFoyd3UyWGRYZUVZNGhtY0pndlVIR2UxNk5JS3Qxa1FEQnBfX0J0b2xVN0gwM2R2TDJlY2NXVVRlRzQwZjZaS2ZFQ1FnblZaTGJtSnp5cFFMV205SmRVSGln",
-   "source": "Moomoo",
-   "published_at": "2026-10-11T13:52:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-11T13:52:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3dhOXRJNW9BQjNNRHZieG55UmF1ZE52VzhibENQZGJGNmlHOEhMczNvSTlSb0s0c2J6MGhmZjNUVldkRURKZE9TeFoyd3UyWGRYZUVZNGhtY0pndlVIR2UxNk5JS3Qxa1FEQnBfX0J0b2xVN0gwM2R2TDJlY2NXVVRlRzQwZjZaS2ZFQ1FnblZaTGJtSnp5cFFMV205SmRVSGln"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Moomoo 文章提及 GOOG 与 TSLA",
-   "title_zh": "$Alphabet-C (GOOG.US)$ $SpaceX (SPCX.US)$ $Tesla (TSLA.US)$ - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "ec124bf190c1",
-   "title": "【视频】纯电动车保值率特斯拉为啥能稳居前三？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb0txZzliUkhUSllUNXNFUW1YcHJESEFqNUJ0YUs4M29LTWtnQTRWczVfRTMwc2M1aTFvZG9OYzcyblFoSUN4ekNZa0x2bVkxQTR6bGR6cW1yZ1U",
-   "source": "汽车之家",
-   "published_at": "2026-10-11T13:46:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T13:46:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Cb0txZzliUkhUSllUNXNFUW1YcHJESEFqNUJ0YUs4M29LTWtnQTRWczVfRTMwc2M1aTFvZG9OYzcyblFoSUN4ekNZa0x2bVkxQTR6bGR6cW1yZ1U"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-11T13:51:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnBrVS1qcERnSVhISzA2czZZWDdmVm9mRUJRX3dtRXRVekpwQ1hpbmxKSUxqdDlhU1NqdnktTXdSVXA5U2c3MXpzbU95Ym5JR280V0cxY0JMY1Z3cDhxNVZBU0tpWnRLOHRPZmZkbElOSTRpaUllTGtVMTFnYm9KRkJHRGQ5Qjgx"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "纯电动车保值率特斯拉稳居前三",
-   "title_zh": "【视频】纯电动车保值率特斯拉为啥能稳居前三？ - 汽车之家",
    "sentiment": 1
   }
  ]
