@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T07:37:26.237511+00:00",
+ "updated_at": "2026-10-13T07:52:25.772729+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 3,
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.54（13条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.43（14条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T07:37:26.230746+00:00"
+   "as_of": "2026-10-13T07:52:25.766337+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.54,
-   "count": 13
+   "avg": 0.43,
+   "count": 14
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "630cefb19650",
+   "title": "【视频】你选特斯拉还是极氪 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tUkQyeGNMNTdlV1VKbm01eE11dnlNM0JtNWFla2xibDI0MFNSVkVKbEMxbEphSDY5QWpFZDJJcFpScVV3ekxPcDVzV1BPTHAycGwteFA5THJEVzJUcnlXdmtVTl9wTFdGNVJR",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T07:49:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T07:49:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tUkQyeGNMNTdlV1VKbm01eE11dnlNM0JtNWFla2xibDI0MFNSVkVKbEMxbEphSDY5QWpFZDJJcFpScVV3ekxPcDVzV1BPTHAycGwteFA5THJEVzJUcnlXdmtVTl9wTFdGNVJR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "731aae531e76",
+   "title": "【视频】2021年特斯拉Model 3 后驱标续3D6 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVnhPMFNlWU83OE91MXhXVlpWRlN6UUZDSUh4bmtwVXRaTkRnZEEwSUZEdlg1dzEyZjExY0drSUlseDZ1SzYxMGlrOTVkUG1wbnlUQm0wNlNaMW8",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T07:38:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T07:38:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVnhPMFNlWU83OE91MXhXVlpWRlN6UUZDSUh4bmtwVXRaTkRnZEEwSUZEdlg1dzEyZjExY0drSUlseDZ1SzYxMGlrOTVkUG1wbnlUQm0wNlNaMW8"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "091d8d08d462",
    "title": "Model X开启暖气五分钟后起火 特斯拉被判赔偿76万元 - 驱动之家",
@@ -3244,6 +3278,23 @@
    "sentiment": 0
   },
   {
+   "id": "32e266f97d88",
+   "title": "Tesla Renames FSD to Assisted Driving in Europe - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R",
+   "source": "Technology Org",
+   "published_at": "2026-10-12T11:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-12T11:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2Jpd2xsSkFLeTRfSW43Y01ERC03LUhrYVNJREw5YnhBd1NoMm1GRUhPQTc1YmN4T2RrTDg2U090U21kWlFYU0ZKamRTOXBfT2tpSG9NWk5IMHFMeG9OUG44MnNZYURUNl9Ed21kLTZwVU1yQzBKMktVZEdLTDVHanFSNUhDMVNwU0pnWTlyTF9HNm9RQTNIdC1R"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "0e7403821982",
    "title": "How SpaceX’s Spectrum Purchase Brings It Closer to a Tesla Merger - Barron's",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VMSjJpM1hCSU5WeU1sRDVJazg5eGU3OUVoazJGUEhRRmw3UmM0Q2NvRG9hMGR0REJCdnpSWU5vYm9xMGlxN1FXSHlQenpHU1dmUFZod29qMVRja2QwUnhkSG5lblVpczlINkdpYzhOY1pqMGZiMmhjMFI5enNDT09jLU1SMVk",
@@ -6415,81 +6466,6 @@
    "session": "周末",
    "zh_summary": "Gary Black称特斯拉营销应加强",
    "title_zh": "Gary Black称特斯拉须提升营销以对抗苹果",
-   "sentiment": 0
-  },
-  {
-   "id": "d80c08ab43db",
-   "title": "Gary Black Says Tesla Needs to Follow Apple’s Playbook: TSLA Has Been ‘Underinvested in Marketing Forever’ - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDhDVERnVGl6R2twVnJOTTNiZGo1dnRxQUhlZk1sQW5qZ1Z3T0NVVzRqcHZFRHh1WHliVkR4aG9qdmhKOHpnTTRPLUlkNEdUUzFPLU9fTFNYeUdGZnFqQ2RJREt1RUk0cm1oT0lsRjZ3X1c2YTI3bnVpT0R6WXAxTnBER0JDVnNtYVB2NldkVVVTVDRJODc4eTJHNmY",
-   "source": "Benzinga",
-   "published_at": "2026-10-11T08:50:28+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-11T08:50:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWDhDVERnVGl6R2twVnJOTTNiZGo1dnRxQUhlZk1sQW5qZ1Z3T0NVVzRqcHZFRHh1WHliVkR4aG9qdmhKOHpnTTRPLUlkNEdUUzFPLU9fTFNYeUdGZnFqQ2RJREt1RUk0cm1oT0lsRjZ3X1c2YTI3bnVpT0R6WXAxTnBER0JDVnNtYVB2NldkVVVTVDRJODc4eTJHNmY"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-11T08:50:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeUttVEtkUjBERmhMaFVNY09iSGhzUjg2d1lXekxRWWFLYl9zZUxvd0ljQUZEQkEyTm80bEdudEJZQ2x6SFRMVnNzcFdsaHRNSW5MQWIxYzluYk5rd2tQbVVMQnI0aEt1ODlMTkhKU1Nub041Z0xhTlEydlNOQ2dkWV9jTUVBT0w5eEtrUlBMcm56RGV2NGpBa1YtSk5nQXFybmhBWVdWRnN6RDlzMDl2WjdWWDkxaUhUODZwMjBhbmZUSVpNazVIckc5NUU3cHV1bHlXZmk2RzJkQ1p0VXJRUGNXaC11S1ZkZk92Mll3aEZmeEJN"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "加里·布莱克称特斯拉营销投入长期不足",
-   "title_zh": "加里·布莱克称特斯拉应学苹果：TSLA营销投入长期不足",
-   "sentiment": 0
-  },
-  {
-   "id": "5711d3eaf6e8",
-   "title": "Tesla forced to rename its Full Self-Driving system in Europe - BetaNews",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUM1bS01eU14bzF4ZUJyMHVlRUR4ZFpRajhfa3JCQlVhRm9tSUdNTHN3TW9Sa2pQQUhhM2k4UlBfczFKWkk4NjlBcFFJS0oyVHFVZHBiVkRfdWJEUTRiR3hBbEVGa3FjVWMyU0hWTldyWGN1YUhrZ243NEh0REM0QlRqQUNXTmZOS3RLQkJYRml6VjJqX2c",
-   "source": "BetaNews",
-   "published_at": "2026-10-11T08:29:42+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BetaNews",
-     "published_at": "2026-10-11T08:29:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUM1bS01eU14bzF4ZUJyMHVlRUR4ZFpRajhfa3JCQlVhRm9tSUdNTHN3TW9Sa2pQQUhhM2k4UlBfczFKWkk4NjlBcFFJS0oyVHFVZHBiVkRfdWJEUTRiR3hBbEVGa3FjVWMyU0hWTldyWGN1YUhrZ243NEh0REM0QlRqQUNXTmZOS3RLQkJYRml6VjJqX2c"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-12T11:33:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGdwMFUtRzdJN3BwSkFlZkNXaTRoRkhYQ3FNRHRsa1F2VmhqaEltMzN1WV9Yb29WczVkMDI4TnVWS25PVGRUQnRseXR6dXVoVjdJRTMteU1PdG92aUZLRXpKdWxsQ3JacGF5RlF1X25BblZrWjhCNElLdC1iUEU4Y1BwcEs3Y1lKUmdlSjZ4aFp5cWxsQWROV0NYX0huQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉被迫在欧洲更名全自动驾驶系统",
-   "title_zh": "特斯拉被迫在欧洲更名其全自动驾驶系统",
-   "sentiment": -1
-  },
-  {
-   "id": "b3ef3b93f001",
-   "title": "马斯克再放狠招：特斯拉削减 AI 芯片内存为 Optimus 人形机器人让路 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEloNy1ubHlBbEVuNU94V2ZkNEhqb3M5YnZlY0U3VkRpMGFLbHhaX3hVZXY2TXhyaWthNDJFemxrNDlCd3YwWW9Td09SVGE4cGN3UC1tenhBd2cxSVlyYlFiQURwd25GV0JDTDJ4NXBHTkZ2TzRQcjBSRkRQOWJUUHljQjUzYmpTek5IYQ",
-   "source": "搜狐",
-   "published_at": "2026-10-11T08:05:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-11T08:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEloNy1ubHlBbEVuNU94V2ZkNEhqb3M5YnZlY0U3VkRpMGFLbHhaX3hVZXY2TXhyaWthNDJFemxrNDlCd3YwWW9Td09SVGE4cGN3UC1tenhBd2cxSVlyYlFiQURwd25GV0JDTDJ4NXBHTkZ2TzRQcjBSRkRQOWJUUHljQjUzYmpTek5IYQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-11T08:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEloNy1ubHlBbEVuNU94V2ZkNEhqb3M5YnZlY0U3VkRpMGFLbHhaX3hVZXY2TXhyaWthNDJFemxrNDlCd3YwWW9Td09SVGE4cGN3UC1tenhBd2cxSVlyYlFiQURwd25GV0JDTDJ4NXBHTkZ2TzRQcjBSRkRQOWJUUHljQjUzYmpTek5IYQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉削减AI芯片内存为Optimus让路",
-   "title_zh": "马斯克再放狠招：特斯拉削减 AI 芯片内存为 Optimus 人形机器人让路 - 搜狐",
    "sentiment": 0
   }
  ]
