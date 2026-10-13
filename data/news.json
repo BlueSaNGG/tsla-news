@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T21:37:28.137973+00:00",
+ "updated_at": "2026-10-13T21:52:28.824008+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（122条已评分）"
+     "note": "今日新闻情绪 +0.10（123条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-13T21:37:28.111919+00:00"
+   "as_of": "2026-10-13T21:52:28.810190+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 122
+   "avg": 0.1,
+   "count": 123
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2b59f28d5e82",
+   "title": "Tesla Cybercab, Model Y under federal review over claims of speeding near schools - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnM3UkxQOFlmYnQwZVpBVXFGMFozbm5OVVlkdkxZSzAyWC1BZmQ2eVU2eHlpYVh4WHpCZVdJcVZwRm9VRW90NjlIblRCT3Z6NVpSN25vWHlEN0w5NU1Ha2tWMzJLT2huS1NfMnBueDktcjhoSGlmM1doMGVETENUZFNfUENGeTRfLWxSQkJFLXU4Y19rR1hIaFVjdV8",
+   "source": "Automotive News",
+   "published_at": "2026-10-13T21:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive News",
+     "published_at": "2026-10-13T21:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnM3UkxQOFlmYnQwZVpBVXFGMFozbm5OVVlkdkxZSzAyWC1BZmQ2eVU2eHlpYVh4WHpCZVdJcVZwRm9VRW90NjlIblRCT3Z6NVpSN25vWHlEN0w5NU1Ha2tWMzJLT2huS1NfMnBueDktcjhoSGlmM1doMGVETENUZFNfUENGeTRfLWxSQkJFLXU4Y19rR1hIaFVjdV8"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "3983601dae25",
    "title": "Feds Eye Probe Into Reports of Tesla Robotaxis Zooming Through School Zones - Gizmodo",
@@ -146,6 +163,23 @@
    "zh_summary": "TSLA长期投资分析报告",
    "title_zh": "TSLA长期投资分析（Stock Traders Daily）",
    "sentiment": 0
+  },
+  {
+   "id": "2263efb9339b",
+   "title": "EXCLUSIVE: Ross Gerber Says Tesla May Make Just ‘a Few Hundred’ Roadsters: ‘Hovering Is a Gimmick’ - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXUzYWcxNnJIWThXMEM1eHBhb3dkMExVMWFZWEN6WGpkMzZvcTJjeEE0YlNxYktXUTdhSnVBSkI1dUtYTUdJdlRsZTBWWEM1MXNsMUxsajM1dHRIMkZzSGQtWFhkMzZWSC1IZ2ZVeXdWbzN4OWl1QWcyM3Z6R2I1REJQdFBGbVY3dk9ZenF1ZUx1YzBNY1hfcHhISWpIdw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T20:30:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T20:30:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXUzYWcxNnJIWThXMEM1eHBhb3dkMExVMWFZWEN6WGpkMzZvcTJjeEE0YlNxYktXUTdhSnVBSkI1dUtYTUdJdlRsZTBWWEM1MXNsMUxsajM1dHRIMkZzSGQtWFhkMzZWSC1IZ2ZVeXdWbzN4OWl1QWcyM3Z6R2I1REJQdFBGbVY3dk9ZenF1ZUx1YzBNY1hfcHhISWpIdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "70a844f61f43",
@@ -266,6 +300,23 @@
    "zh_summary": "NHTSA审查特斯拉Robotaxi校园超速指控",
    "title_zh": "美国国家公路交通安全管理局审查特斯拉Robotaxi在学校区域的超速指控- Tesla 特斯拉 - cnBeta.COM",
    "sentiment": -1
+  },
+  {
+   "id": "e5eaea05874e",
+   "title": "Tesla Stops Taking Orders for China-Made Model 3 in Canada Due to Import Restrictions - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWJWYy0zSG02S21LU0ZVVXVsdU1pdE1CUTNwNFpHa2xEMlY0UU5SU2FYWUtCVkpIQ084Q3RWbnZBM0ZNWVJxN3BzLTFkXzBjcE9GVE0wVGlRLTFCb21qUnV3MGx1akdEbWlkbHcyeEhpU0g4TlJYeTRzYkRIdEtkZExiTnhyMzVZUkRJLXRYQVVhdVU1Zi04VGNEWGlMRG9NRGtYQ3YzbG9UZHplc25Kck1nOV94UQ",
+   "source": "TipRanks",
+   "published_at": "2026-10-13T18:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-13T18:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWJWYy0zSG02S21LU0ZVVXVsdU1pdE1CUTNwNFpHa2xEMlY0UU5SU2FYWUtCVkpIQ084Q3RWbnZBM0ZNWVJxN3BzLTFkXzBjcE9GVE0wVGlRLTFCb21qUnV3MGx1akdEbWlkbHcyeEhpU0g4TlJYeTRzYkRIdEtkZExiTnhyMzVZUkRJLXRYQVVhdVU1Zi04VGNEWGlMRG9NRGtYQ3YzbG9UZHplc25Kck1nOV94UQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "907888230586",
@@ -413,6 +464,23 @@
    "sentiment": 0
   },
   {
+   "id": "6febffad87b7",
+   "title": "“Pet Destroyers”: Tesla Stock (NASDAQ:TSLA) Slides as Musk Takes Aim at Waymo - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3RoOXpmSXA5Z1N4djJsRmM0OWdKOEpLdXc1NnphTHhHT0lwcTl0UE13eVhvdVRfdnUyeHNudUljNFRpRmJUWTJQYlJobHBHb0N6aGR2aVdWU1FnYVo0eG1HelVGQkZjbjkwZ05LRXRYb1QwQlFXV1dMSFZQYUR3MmhPWm1GclppOGxXT0o1S3pJZ1o0ZEpFek84SnpZQ09zQnlR",
+   "source": "TipRanks",
+   "published_at": "2026-10-13T17:09:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-13T17:09:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3RoOXpmSXA5Z1N4djJsRmM0OWdKOEpLdXc1NnphTHhHT0lwcTl0UE13eVhvdVRfdnUyeHNudUljNFRpRmJUWTJQYlJobHBHb0N6aGR2aVdWU1FnYVo0eG1HelVGQkZjbjkwZ05LRXRYb1QwQlFXV1dMSFZQYUR3MmhPWm1GclppOGxXT0o1S3pJZ1o0ZEpFek84SnpZQ09zQnlR"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
    "id": "96a5707409bc",
    "title": "Tesla Drops \"Full Self-Driving\" Name After Pressure From Regulators - Autoguide.com",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFo5cHNZRmpWMFBYaFlkLUhTZzMwVG5pVW8xaWNaTlRHWFBseTlHVnllQUN4VTJSWUNlbkl0eEFrM0pnazBZZ0Rmdk9iNWRLVFhUSzJTQ0otZXdKUGk2VWhNZmZyRWJ6T3JaaUFuTzY1eHFnNC1aN1ZNV2w4Ulpwal85anFkTG1iazhoUEJZbGxhRGZyWDdNRnRjQmlVSENldzJISXNJQUEtVTBDVktoYTR1b2EwYzQyVW5aWDdhc0dNXzV5bGpmRTZkTy1wbzl5OWxaR1dn",
@@ -456,6 +524,23 @@
    "zh_summary": "情侣因特斯拉FSD功能争执",
    "title_zh": "情侣因特斯拉FSD争执，女方称6万够一年工资不如买宝马X5 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "cf3e7a35b5fd",
+   "title": "Tesla Still Sells Over Half of America’s EVs - TeslaNorth.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZm0yb1J0cEFvdHZ5NjVUaUljQ1Y2eVJrSGh0UkJyUnlzU3ZGOUNqQUtROWxPRkd4NXNVQ3pRQ1YwcDBraHVlRTZ4SGRwMWt6ZnhyTFVEeGhPNnc5OTFOWnFJbEhnMFdqaFAxT09OWHdVckFfQkFBaHVwN0dLaS1pNWNPYms",
+   "source": "TeslaNorth.com",
+   "published_at": "2026-10-13T16:45:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TeslaNorth.com",
+     "published_at": "2026-10-13T16:45:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZm0yb1J0cEFvdHZ5NjVUaUljQ1Y2eVJrSGh0UkJyUnlzU3ZGOUNqQUtROWxPRkd4NXNVQ3pRQ1YwcDBraHVlRTZ4SGRwMWt6ZnhyTFVEeGhPNnc5OTFOWnFJbEhnMFdqaFAxT09OWHdVckFfQkFBaHVwN0dLaS1pNWNPYms"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b37c41b19d09",
@@ -556,6 +641,23 @@
    "zh_summary": "特斯拉获台湾2.65亿美元Megapack订单",
    "title_zh": "特斯拉获得台湾2.65亿美元1吉瓦时储能大单",
    "sentiment": 1
+  },
+  {
+   "id": "65c641901697",
+   "title": "Tesla and Xpeng face off in AI-driven autonomy at the Paris Motor Show - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPQ1RLcHhKZXJQcFlxSWpUeTBNcS1yVVpHZW5yeXJ6TDhjaVYzZUpBRVZSVE9FZGVmNmFqcEZOVmRvZFR6X2ZGU1AzcjJoZC10YnFiQkVqWjdPTmh5V0xJd3JsQkFVZTBUUk5tU05UaDgtdlU",
+   "source": "Crypto Briefing",
+   "published_at": "2026-10-13T15:55:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Crypto Briefing",
+     "published_at": "2026-10-13T15:55:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPQ1RLcHhKZXJQcFlxSWpUeTBNcS1yVVpHZW5yeXJ6TDhjaVYzZUpBRVZSVE9FZGVmNmFqcEZOVmRvZFR6X2ZGU1AzcjJoZC10YnFiQkVqWjdPTmh5V0xJd3JsQkFVZTBUUk5tU05UaDgtdlU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "7ad7b9c10021",
@@ -975,6 +1077,23 @@
    "zh_summary": "特斯拉涉五车连环撞，所幸仅轻伤",
    "title_zh": "长青隧道出口突发五车连环撞，有人被困，幸好仅是轻伤|特斯拉_新浪新闻 - 手机新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "4bb785bfda1b",
+   "title": "Tesla stock holds recent range with volatility high and momentum indicators diverging: weekly analysis - Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFaNDVaSmdjU2gwOEE4enRJNlU5VEV0aG1IVklubGpKbGIwZ3dyRl9EMFVQZm5zd19CWG14RVVnWC10NF92b3c5N3M2X3JySUp3YW1EMFZWb1Q5OXNSTG5ZMGx4UkRncTNxQ0lHdHgtZ1NzNzVDT2JuTmdwMFl1WXE0Uzhud2dDeW5j",
+   "source": "Traders Union",
+   "published_at": "2026-10-13T14:13:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Traders Union",
+     "published_at": "2026-10-13T14:13:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFaNDVaSmdjU2gwOEE4enRJNlU5VEV0aG1IVklubGpKbGIwZ3dyRl9EMFVQZm5zd19CWG14RVVnWC10NF92b3c5N3M2X3JySUp3YW1EMFZWb1Q5OXNSTG5ZMGx4UkRncTNxQ0lHdHgtZ1NzNzVDT2JuTmdwMFl1WXE0Uzhud2dDeW5j"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b234c27e48b9",
@@ -6236,46 +6355,6 @@
    "zh_summary": "WSJ质疑Roadster能否兑现期待",
    "title_zh": "他们花5万美元等了九年：特斯拉Roadster能否兑现期待？",
    "sentiment": 0
-  },
-  {
-   "id": "82a808096c3a",
-   "title": "Tesla is browbeating the EU to approve its ‘Full Self-Driving’ tech. The pressure is working. - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjBuOTVpakJxeU9NUm55Z2xWcU42ellEeUI4XzhuaGdNWWViVkFqSGJwVGg5Y3NPNmFlTFVBdVBiWGh3TmdCbjF1UnhGM00tQXFPSS1lOHB2YVk1d3ZGbnEwMkRuWGJFREdOcmFaZ3VOYm4tTHkydlZEOEJrTGNqVDZHSk5IZFkxSGFHREhFcm9ZamZNU2YxbmRfVVpmYUJwYm5Wc2Zhdm9yUnlZYW1UM2xjcXVtWGNsQlZsTjh2eXBjQWRaSm9OQg",
-   "source": "Reuters",
-   "published_at": "2026-10-07T06:13:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-07T06:13:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjBuOTVpakJxeU9NUm55Z2xWcU42ellEeUI4XzhuaGdNWWViVkFqSGJwVGg5Y3NPNmFlTFVBdVBiWGh3TmdCbjF1UnhGM00tQXFPSS1lOHB2YVk1d3ZGbnEwMkRuWGJFREdOcmFaZ3VOYm4tTHkydlZEOEJrTGNqVDZHSk5IZFkxSGFHREhFcm9ZamZNU2YxbmRfVVpmYUJwYm5Wc2Zhdm9yUnlZYW1UM2xjcXVtWGNsQlZsTjh2eXBjQWRaSm9OQg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉向欧盟施压FSD审批见效",
-   "title_zh": "特斯拉向欧盟施压审批FSD，压力正在见效",
-   "sentiment": 1
-  },
-  {
-   "id": "1da5c83698f9",
-   "title": "Tesla, Inc. $TSLA Stock Bought by Congress Asset Management Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnFFRlZFNUJoTDlZOWMzZTVTbmdNZWVwdGY3eUROUkc2OTZqSm1nQklZTEpQSWxKcjdnQy15WlhOZWFlbFdSYW14bDQyUGUtV1dfaUN6Mzl3Y29rRXBBUGNSOFZFQVVnQ1RoeDNSdHR2VHBVRTRMVEJzLW10MGd2WkgwN3E2VXNzamtrNTJNMlNJRHBFdlgyMEszQU9OcFN2eWxzTG1qXzd0anNNMzJtb2s1eVc1OWJ2M2Rxbw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-06T23:35:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-06T23:35:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnFFRlZFNUJoTDlZOWMzZTVTbmdNZWVwdGY3eUROUkc2OTZqSm1nQklZTEpQSWxKcjdnQy15WlhOZWFlbFdSYW14bDQyUGUtV1dfaUN6Mzl3Y29rRXBBUGNSOFZFQVVnQ1RoeDNSdHR2VHBVRTRMVEJzLW10MGd2WkgwN3E2VXNzamtrNTJNMlNJRHBFdlgyMEszQU9OcFN2eWxzTG1qXzd0anNNMzJtb2s1eVc1OWJ2M2Rxbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Congress资产管理公司买入特斯拉",
-   "title_zh": "Congress资产管理公司买入特斯拉股票",
-   "sentiment": 1
   }
  ]
 }
