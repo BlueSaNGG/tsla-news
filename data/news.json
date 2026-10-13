@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T08:22:26.579400+00:00",
+ "updated_at": "2026-10-13T08:37:26.688888+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（18条已评分）"
+     "note": "今日新闻情绪 +0.37（19条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T08:22:26.571755+00:00"
+   "as_of": "2026-10-13T08:37:26.680944+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 18
+   "avg": 0.37,
+   "count": 19
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "bd065bbb10c1",
+   "title": "【视频】特斯拉Cybertruck交付日高速驾驶 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWWk2bldYNm8yTlhDZnQ4N3hReXllTUpVZ2U1WEYtUjJQMTdMc0xRYVM1TEp2X2xORm5Id2pvX2YyeGF6ZEp1Nmlkbk9rVXdLY3dlVFoxN3lraWM",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T08:27:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T08:27:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWWk2bldYNm8yTlhDZnQ4N3hReXllTUpVZ2U1WEYtUjJQMTdMc0xRYVM1TEp2X2xORm5Id2pvX2YyeGF6ZEp1Nmlkbk9rVXdLY3dlVFoxN3lraWM"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
+  },
   {
    "id": "92fa9527972b",
    "title": "【视频】天气转凉了，特斯拉的胎压一定检查好，随时让它保持标准胎压 - 汽车之家",
@@ -86,6 +103,23 @@
    "zh_summary": "天气转凉提醒检查特斯拉胎压",
    "title_zh": "【视频】天气转凉了，特斯拉的胎压一定检查好，随时让它保持标准胎压 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "59c457c68353",
+   "title": "BBA和特斯拉全被干翻！小米SU7拿下20万元以上轿车销量第一 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42VTlkNjEtYmh3QXpNUTltbUNHQVk5NDNob1dITWhvdUpwc01ZN0V4bVg5MHhVanZmSEthMVRiYmdCNy0zYTVZWVpKb1VtaXdNcUFxQlNHWWQ",
+   "source": "驱动之家",
+   "published_at": "2026-10-13T08:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-13T08:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42VTlkNjEtYmh3QXpNUTltbUNHQVk5NDNob1dITWhvdUpwc01ZN0V4bVg5MHhVanZmSEthMVRiYmdCNy0zYTVZWVpKb1VtaXdNcUFxQlNHWWQ"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
   },
   {
    "id": "3fbb4bbf1ae7",
@@ -388,7 +422,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJVbGJDRlBxeXdrVmQzNl9OYWp3NlJUZE1uRnpnczNsY3BxLXVQSHlWY0VsX1FSVEVpNXV1b0VwcmZvZlhNR0JjcjFQZ2NmeEktTFVic0dCYTVxVENERUJBX0NCS0RFUUxWelJxcVBkTmZmVG9KSy1fNkREdktNelBjMUdBUFdNcUJLYlFtMA",
    "source": "21财经",
    "published_at": "2026-10-13T05:24:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "21财经",
@@ -404,10 +438,16 @@
      "name": "观点网",
      "published_at": "2026-10-13T07:09:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKeVFXc3Z5djBsZmxoQXlTNFJJb25VUVo2V3JFUTh3QzBJd2hUZ3FEZUEtbjhXMmFfQTdSS0FsU3JJMkhzcE9IVUg1WXJlUy15X0l3bDN4SXlTMk1MWmJsanVR"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T06:46:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05VWNVUUZUVjVzclVPOTBkeFZFMEZ0VHFfZklTTVVQMnFrR1VTRjFlRUtRSlZQYzVWaThHb1lWekp4cm54SWpqZWJEZm9OLXp3WkVEOTBOUTdsU2dVT3JEZmtQYVZ5QQ"
     }
    ],
    "category": "车型产品",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "新剑传动称特斯拉机器人方案将量产",
    "title_zh": "新剑传动回复问询函称“特斯拉机器人方案接近定型，即将量产” - 21财经",
    "sentiment": 1
@@ -593,12 +633,17 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmWElCRHZCMTIxMFFCeHI2cHFsMkFWMFdKUERkclBnRFNIT1ZEUTYwM1FJa0syZHM3RmZ5NndKek9OUmdlaHh5d2FpZ04",
    "source": "凤凰网",
    "published_at": "2026-10-13T04:18:41+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网",
      "published_at": "2026-10-13T04:18:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmWElCRHZCMTIxMFFCeHI2cHFsMkFWMFdKUERkclBnRFNIT1ZEUTYwM1FJa0syZHM3RmZ5NndKek9OUmdlaHh5d2FpZ04"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T08:22:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUFoxRlVvSFFOZDFDR25oS2tMakFXRkE0NjZZVmc5Q3JXZnNEeTBDY2trMGNiR2t3YVFJaVg5RUxYbmxVY1RFZzhTRUoyNUZUVlZoWVVQd0ZYZEE"
     }
    ],
    "category": "其他",
@@ -6441,46 +6486,6 @@
    "zh_summary": "71岁特斯拉司机变道被泄愤别车",
    "title_zh": "71岁特斯拉司机高架变道被泄愤别车|超车|上海市|变更车道|罚款|新民晚报 - 新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "f2ab18d8b399",
-   "title": "71岁特斯拉司机高架变道被泄愤别车 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWFLOWEwYUtKQzA5R1ZCM19abnFMQmtVbGxMWlI3OENVSTY1VVZuTjFCQ3FPNUJRemZQTkZIOVNNYTg5MTQ5ajZMMTdaWVZYU0JIUzNCSWN1Slc2cVRCY19hZjJFdzNRSFdqaXhfZ084OFlhNzBieENSdllVR0VnZzRB",
-   "source": "新浪网",
-   "published_at": "2026-10-11T09:46:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-11T09:46:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWFLOWEwYUtKQzA5R1ZCM19abnFMQmtVbGxMWlI3OENVSTY1VVZuTjFCQ3FPNUJRemZQTkZIOVNNYTg5MTQ5ajZMMTdaWVZYU0JIUzNCSWN1Slc2cVRCY19hZjJFdzNRSFdqaXhfZ084OFlhNzBieENSdllVR0VnZzRB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "71岁特斯拉司机高架变道被泄愤别车",
-   "title_zh": "71岁特斯拉司机高架变道被泄愤别车 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "d235b6087bc7",
-   "title": "特斯拉三季度全球交付48.6万辆超预期 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZXY3Z1AwbVNvN2dIbUwzeFZfUWtiTUg4R1BGLWE1S1UyQkhFSWFManVVa3BFMEpTMTNHaGVEQWJQckFxM2psZWRmXzhvNFdCZ1lMR0I0aXp4MWc",
-   "source": "汽车之家",
-   "published_at": "2026-10-11T09:40:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T09:40:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZXY3Z1AwbVNvN2dIbUwzeFZfUWtiTUg4R1BGLWE1S1UyQkhFSWFManVVa3BFMEpTMTNHaGVEQWJQckFxM2psZWRmXzhvNFdCZ1lMR0I0aXp4MWc"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度交付48.6万辆超预期",
-   "title_zh": "特斯拉三季度全球交付48.6万辆超预期 - 汽车之家",
-   "sentiment": 1
   }
  ]
 }
