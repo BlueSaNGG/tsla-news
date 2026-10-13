@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T19:52:29.077721+00:00",
+ "updated_at": "2026-10-13T20:07:26.007773+00:00",
  "market": {
-  "price": 376.3,
-  "change_pct": -0.46,
+  "price": 375.23,
+  "change_pct": -0.74,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.3%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（114条已评分）"
+     "note": "今日新闻情绪 +0.09（115条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.30 vs 20日均线 $370.60"
+     "note": "现价 $375.23 vs 20日均线 $370.54"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.3,
-   "ma20": 370.6,
-   "as_of": "2026-10-13T19:52:29.066843+00:00"
+   "implied_upside_pct": 6.6,
+   "ma20": 370.54,
+   "as_of": "2026-10-13T20:07:25.989902+00:00"
   },
-  "pe_ttm": 104.1,
+  "pe_ttm": 103.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 114
+   "avg": 0.09,
+   "count": 115
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "45e0524a1b3b",
+   "title": "Motorcyclist dies in East Bay crash with Tesla - San Francisco Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJGdnZKbmE4Z0VTVWxHc2ZxLWNDWUJhblcxLXQwYTl5d0dnZkI5MHMySXNKbDdOY1Z1TkFEM0xPdzNhemtFSUU0N0RzYjRINVFhclhWdFZlY2RDaTR2MlN1alN6RnJURGlWcERHcjc0RzV2LWNBSS03dFRsV2ZXa25SRVRaQWI4RXdfRTJMcUs3bW04YkxCUkQxZw",
+   "source": "San Francisco Chronicle",
+   "published_at": "2026-10-13T19:53:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "San Francisco Chronicle",
+     "published_at": "2026-10-13T19:53:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJGdnZKbmE4Z0VTVWxHc2ZxLWNDWUJhblcxLXQwYTl5d0dnZkI5MHMySXNKbDdOY1Z1TkFEM0xPdzNhemtFSUU0N0RzYjRINVFhclhWdFZlY2RDaTR2MlN1alN6RnJURGlWcERHcjc0RzV2LWNBSS03dFRsV2ZXa25SRVRaQWI4RXdfRTJMcUs3bW04YkxCUkQxZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "26a644639cba",
+   "title": "Tesla Cybercab to Let Riders See Rear and Side Camera Feeds - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzFWZnpUcUhUVXNFQWpudF9yUkcwLXp1c3JPakZvSUNzemxrX2R4UFZTeVA5cEgwMFBub2NSMUFZUHRZU2RpT3AxTjFTOUlKU01GV0NFS1RwNG83c2laV1NZVFVkOEVGTkNsYk5uWDFIZWZ5dERIcmtqV2tncW8zaUJQZEp0WHRXcm1pUXd5aVdnMERSeW1wUzFEZGw3TGs",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-13T19:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-13T19:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzFWZnpUcUhUVXNFQWpudF9yUkcwLXp1c3JPakZvSUNzemxrX2R4UFZTeVA5cEgwMFBub2NSMUFZUHRZU2RpT3AxTjFTOUlKU01GV0NFS1RwNG83c2laV1NZVFVkOEVGTkNsYk5uWDFIZWZ5dERIcmtqV2tncW8zaUJQZEp0WHRXcm1pUXd5aVdnMERSeW1wUzFEZGw3TGs"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "44ad4e19d740",
    "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief - Electrek",
@@ -253,12 +287,17 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFo5cHNZRmpWMFBYaFlkLUhTZzMwVG5pVW8xaWNaTlRHWFBseTlHVnllQUN4VTJSWUNlbkl0eEFrM0pnazBZZ0Rmdk9iNWRLVFhUSzJTQ0otZXdKUGk2VWhNZmZyRWJ6T3JaaUFuTzY1eHFnNC1aN1ZNV2w4Ulpwal85anFkTG1iazhoUEJZbGxhRGZyWDdNRnRjQmlVSENldzJISXNJQUEtVTBDVktoYTR1b2EwYzQyVW5aWDdhc0dNXzV5bGpmRTZkTy1wbzl5OWxaR1dn",
    "source": "Autoguide.com",
    "published_at": "2026-10-13T16:55:34+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Autoguide.com",
      "published_at": "2026-10-13T16:55:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFo5cHNZRmpWMFBYaFlkLUhTZzMwVG5pVW8xaWNaTlRHWFBseTlHVnllQUN4VTJSWUNlbkl0eEFrM0pnazBZZ0Rmdk9iNWRLVFhUSzJTQ0otZXdKUGk2VWhNZmZyRWJ6T3JaaUFuTzY1eHFnNC1aN1ZNV2w4Ulpwal85anFkTG1iazhoUEJZbGxhRGZyWDdNRnRjQmlVSENldzJISXNJQUEtVTBDVktoYTR1b2EwYzQyVW5aWDdhc0dNXzV5bGpmRTZkTy1wbzl5OWxaR1dn"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-13T19:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkt0TmFDajhDNWgtVktmS3V6cHlQS3pRbGtXX2VNME4wVHNEdXNjX2NpM0VIRW9Fd1F4SHBlWW9SdzZyZmJ3V1VZT3JFUHJBY3NSTTlGcnBtS2ZDSnBWU1NFd1kwanVWUE1IMDc0NnhwOF81bkhscGtURFd2LUhZVF9vNm9sUGJNQjE0aXAweENUSnJvalpjRWJrR2c"
     }
    ],
    "category": "Robotaxi与FSD",
