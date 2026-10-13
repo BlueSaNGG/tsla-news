@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T01:52:33.416878+00:00",
+ "updated_at": "2026-10-13T02:07:32.801185+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -26,7 +26,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（167条已评分）"
+     "note": "今日新闻情绪 +0.09（171条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T01:52:33.403723+00:00"
+   "as_of": "2026-10-13T02:07:32.759006+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 167
+   "avg": 0.09,
+   "count": 171
   }
  },
  "meta": {
@@ -68,17 +68,39 @@
  },
  "stories": [
   {
+   "id": "55c01cab0e22",
+   "title": "Tesla Ordered to Pay $162,000 for Model X Fire [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZTBoVzlhUUdUTFBUX2h5REVNMnRTSkRTZkk5TG5OcDdaNFZsSlNRNXc5cVRWVm90YlRZTWp5UDc1WDRKeUlvc0VqTElNeUg2TnJSa3ZiV2ZEX01wbWtkQ3d0WjIxRHZWQzB4V3RNM3VOVlNoOUxr",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-13T01:53:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-13T01:53:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZTBoVzlhUUdUTFBUX2h5REVNMnRTSkRTZkk5TG5OcDdaNFZsSlNRNXc5cVRWVm90YlRZTWp5UDc1WDRKeUlvc0VqTElNeUg2TnJSa3ZiV2ZEX01wbWtkQ3d0WjIxRHZWQzB4V3RNM3VOVlNoOUxr"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
    "id": "242b63f79dee",
    "title": "中国品牌压轴巴黎车展 小鹏G9L全球上市，与特斯拉同场竞技智驾｜巴黎车展 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXFNbWdoQndDMlgyMFhfc2RzVnlReE9fN1hGUUdDQ0hQeDJucXVHZll3S0lCRzRGR3NsSFdOcVplTE9ra3Eya1NoLXBnZEdwQ1Rwd0ltU05JejVUYXJqWkxRSlJQZTVVM0Y1d09NT1VQSF9Qd2xRNl9tRzY3ODNGaUpTdFZRY1d6Q3kxbw",
    "source": "搜狐",
    "published_at": "2026-10-13T01:46:03+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-13T01:46:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXFNbWdoQndDMlgyMFhfc2RzVnlReE9fN1hGUUdDQ0hQeDJucXVHZll3S0lCRzRGR3NsSFdOcVplTE9ra3Eya1NoLXBnZEdwQ1Rwd0ltU05JejVUYXJqWkxRSlJQZTVVM0Y1d09NT1VQSF9Qd2xRNl9tRzY3ODNGaUpTdFZRY1d6Q3kxbw"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T01:54:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUlYQkJSa0hlaUk5Q1dsOExyRGVwVnZwVXU5U3ZIZDBpY0ZjZzdBc0kyYlZudnNiM0VJcXNQZTBsYmRzVG03NW1xZnJuT2dzcmUyNGlFTVEtSnEtRGlNS2l3RXJHTmpaWDRYTlpYZkoyQ29GZG1ibl9IanV0UDUzQnlfbzdkbmJ3aFVEMHBR"
     }
    ],
    "category": "其他",
@@ -511,6 +533,23 @@
    "zh_summary": "视频称此价位不值得买特斯拉",
    "title_zh": "【视频】这价格还买什么特斯拉",
    "sentiment": -1
+  },
+  {
+   "id": "2d49efb9fe7f",
+   "title": "Tesla releases plans for Australia's largest EV charging hub - ABC News & Headlines – Australian Broadcasting Corporation",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnlvdXFEa01LRmIzVWk1VlU2T0gyaV95LWtJa0tqcGZqTVl3Z1RlVVUzNjRuLW82VjZBSkYtbWRaOHh2ZzVkMHdkdHdWS0R0dFJZMkxSNkFFcF9fcnFvMEo2OWFwR1RmSWRscFFQR0hUazdGSVAxZHpXenN1MDZqOFJRUzBVWjlqcG51U0hYcjlCeW96RE95SUZ0MzRWX2ZiRlVnZS1sa2VFc2NlX21jN1pLSQ",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published_at": "2026-10-12T20:33:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "published_at": "2026-10-12T20:33:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnlvdXFEa01LRmIzVWk1VlU2T0gyaV95LWtJa0tqcGZqTVl3Z1RlVVUzNjRuLW82VjZBSkYtbWRaOHh2ZzVkMHdkdHdWS0R0dFJZMkxSNkFFcF9fcnFvMEo2OWFwR1RmSWRscFFQR0hUazdGSVAxZHpXenN1MDZqOFJRUzBVWjlqcG51U0hYcjlCeW96RE95SUZ0MzRWX2ZiRlVnZS1sa2VFc2NlX21jN1pLSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "1c964311dee8",
@@ -6438,46 +6477,6 @@
    "session": "周末",
    "zh_summary": "特斯拉称运营中Cybercab超300辆",
    "title_zh": "10月11日，特斯拉宣布，投入运营的Cybercab已超300辆。 ​ - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "a06974b9bcbf",
-   "title": "Neuralink植入者P7 Jake Schneider现身特斯拉得州工厂活动 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wT2sxMkhUN2lfVjk5VWpnTHRyekZiajYzWWZySmhaektjRjRCSnNnYWYtMXVrT1FVRy04YkVDUW5fUnFqVG8xbjRBUmNqTUp5VjJsdHNHd0theFZxQzYxajNVRUlqWGJwWldF",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T16:35:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T16:35:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wT2sxMkhUN2lfVjk5VWpnTHRyekZiajYzWWZySmhaektjRjRCSnNnYWYtMXVrT1FVRy04YkVDUW5fUnFqVG8xbjRBUmNqTUp5VjJsdHNHd0theFZxQzYxajNVRUlqWGJwWldF"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Neuralink植入者P7现身特斯拉德州工厂",
-   "title_zh": "Neuralink植入者P7 Jake Schneider现身特斯拉得州工厂活动",
-   "sentiment": 0
-  },
-  {
-   "id": "50483b04f0f0",
-   "title": "今日新闻丨多部门出手整顿“速成车”！银河战舰700、新款深蓝L06、新款启源A06上市！特斯拉9月中国销量64837台！ - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdElkY2Zqd1pZNTl4dWQxNGpTM3hFd2otM3ZUcEUxdy1HbzdnaVo0SnE0ZFRwX2U5bG1yb09kYk81UGhDYjk3MVlWekxYSHBxd3J3",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-10T16:13:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-10T16:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdElkY2Zqd1pZNTl4dWQxNGpTM3hFd2otM3ZUcEUxdy1HbzdnaVo0SnE0ZFRwX2U5bG1yb09kYk81UGhDYjk3MVlWekxYSHBxd3J3"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉9月中国销量64837台",
-   "title_zh": "今日新闻丨多部门出手整顿\"速成车\"！银河战舰700、新款深蓝L06、新款启源A06上市！特斯拉9月中国销量64837台！ - 电子工程专辑",
    "sentiment": 1
   }
  ]
