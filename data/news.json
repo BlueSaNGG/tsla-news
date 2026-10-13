@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T13:37:26.734356+00:00",
+ "updated_at": "2026-10-13T13:52:25.915947+00:00",
  "market": {
-  "price": 373.28,
-  "change_pct": -1.26,
+  "price": 373.45,
+  "change_pct": -1.21,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +7.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（60条已评分）"
+     "note": "今日新闻情绪 +0.27（64条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.28 vs 20日均线 $370.44"
+     "note": "现价 $373.45 vs 20日均线 $370.46"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 7.2,
-   "ma20": 370.44,
-   "as_of": "2026-10-13T13:37:26.715231+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 370.46,
+   "as_of": "2026-10-13T13:52:25.900440+00:00"
   },
-  "pe_ttm": 103.2,
+  "pe_ttm": 103.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.27,
-   "count": 60
+   "count": 64
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "873484740b24",
+   "title": "School zone petition adds to Tesla’s robotaxi probe pile - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmMyTnVKM2h6aklXcXh5dWNoU1BQSG9rRXcxM1JHRkxIR29TU2x2eWR1X1BibzNYZEcweGFEbFcwakR1MHBkX3BWcG9fSmcwNE1nbVIxOUZRbVMzZU56ZEFiblhLcWd4a2cxUkhTcV9uX0k5LUdnRzdyWVV0Rno0X3FwT2I3ckJESk5MYmd0dHY3MEhudWhOeg",
+   "source": "Automotive World",
+   "published_at": "2026-10-13T13:42:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-10-13T13:42:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmMyTnVKM2h6aklXcXh5dWNoU1BQSG9rRXcxM1JHRkxIR29TU2x2eWR1X1BibzNYZEcweGFEbFcwakR1MHBkX3BWcG9fSmcwNE1nbVIxOUZRbVMzZU56ZEFiblhLcWd4a2cxUkhTcV9uX0k5LUdnRzdyWVV0Rno0X3FwT2I3ckJESk5MYmd0dHY3MEhudWhOeg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "774a0e2278bb",
+   "title": "Tesla Is Up 10%, But Not These 2X TSLA ETFs - Tesla (NASDAQ:TSLA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOF9hUXJ6YWd4QWJxWldHc0Y2cldhdi1TYzVoOTZLaVNKN0tmYjZVdVJ6NlVUOFFDc09jYVZmbEs4TTZyMFEtTTNIcVNvS0ZfNDBxYllXTU5sUnJQSmMxNzNXYkRQS0h3SWFpaS1LNjJ2c2ZWYW8yTXZ5dnJCaTRFbDhGMC1WdzNsekVUVkFGb2lZWS1PaDVrcWx6S0h2dw",
+   "source": "Benzinga",
+   "published_at": "2026-10-13T13:39:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-13T13:39:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOF9hUXJ6YWd4QWJxWldHc0Y2cldhdi1TYzVoOTZLaVNKN0tmYjZVdVJ6NlVUOFFDc09jYVZmbEs4TTZyMFEtTTNIcVNvS0ZfNDBxYllXTU5sUnJQSmMxNzNXYkRQS0h3SWFpaS1LNjJ2c2ZWYW8yTXZ5dnJCaTRFbDhGMC1WdzNsekVUVkFGb2lZWS1PaDVrcWx6S0h2dw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "2ce44f3ffaa8",
    "title": "GM's Plans To Rival Tesla's Self-Driving On Track For 2028, CEO Says - Investor's Business Daily",
@@ -86,6 +120,23 @@
    "zh_summary": "通用CEO称2028年追赶特斯拉智驾",
    "title_zh": "通用CEO称追赶特斯拉的自动驾驶计划2028年就绪",
    "sentiment": 0
+  },
+  {
+   "id": "63fd9d4e4c24",
+   "title": "Tesla offers free Supercharging in Florida following Hurricane Isaias - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXlBVVRpc2E3OEtXMTl1dmI1NHJINFNoaUZEZDdTTEx0MTZ2M2JuZUVTcy13Tkh6VHM2THdWSnBUWDBEQzVRckx6Vzk4S1hPY2thMExNb25OUld1VjRET09WYkJqRFYxRlBkUjZRYmV6VVBBN1NnVWRsNldlWmhYOFFoVDY0YU0tMU1F",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-13T13:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-13T13:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXlBVVRpc2E3OEtXMTl1dmI1NHJINFNoaUZEZDdTTEx0MTZ2M2JuZUVTcy13Tkh6VHM2THdWSnBUWDBEQzVRckx6Vzk4S1hPY2thMExNb25OUld1VjRET09WYkJqRFYxRlBkUjZRYmV6VVBBN1NnVWRsNldlWmhYOFFoVDY0YU0tMU1F"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0d5d7d2f6c58",
@@ -153,12 +204,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZVREcEtFUkpiaXRNU2dENW9ESEV2ZUxsaklPbUFhb0NOdDdrNHh1ZUFlQV9NSjVzVWZmbnNSQm1PQTNKelc2UUt5WUlUOGJzOWM3aFFoLXkxazVkZUNUM3p2dk5wQzVBR1d0T2g3X1U",
    "source": "手机新浪网",
    "published_at": "2026-10-13T12:41:08+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-10-13T12:41:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZVREcEtFUkpiaXRNU2dENW9ESEV2ZUxsaklPbUFhb0NOdDdrNHh1ZUFlQV9NSjVzVWZmbnNSQm1PQTNKelc2UUt5WUlUOGJzOWM3aFFoLXkxazVkZUNUM3p2dk5wQzVBR1d0T2g3X1U"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T13:49:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkdlhzSWVzUDRUVjd4OUs2d0hGX09sQjVTWWZCSDJOUUNRalNmTGJxd3ZuN1lMaVhoUGU2c2VESGF3TWNwWGtEUVhmU245VXRmTjlNaXU2OThkN1RaWVlhZmZma1pQU1VqRTZz"
     }
    ],
    "category": "其他",
@@ -1040,15 +1096,15 @@
   {
    "id": "630cefb19650",
    "title": "【视频】你选特斯拉还是极氪 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tUkQyeGNMNTdlV1VKbm01eE11dnlNM0JtNWFla2xibDI0MFNSVkVKbEMxbEphSDY5QWpFZDJJcFpScVV3ekxPcDVzV1BPTHAycGwteFA5THJEVzJUcnlXdmtVTl9wTFdGNVJR",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmd3dCeGVPU3ZWUE1rR3JXNlBEODVTQ3VYZExXUTVYVlVlYWFraG16T2NvbW1jUG9oVHh5dVB0R1laV0p0cVB2NHhDcnJ2eDV1aHZJNWNINlNZWTg",
    "source": "汽车之家",
-   "published_at": "2026-10-13T07:49:28+00:00",
+   "published_at": "2026-10-13T07:49:24+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-13T07:49:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tUkQyeGNMNTdlV1VKbm01eE11dnlNM0JtNWFla2xibDI0MFNSVkVKbEMxbEphSDY5QWpFZDJJcFpScVV3ekxPcDVzV1BPTHAycGwteFA5THJEVzJUcnlXdmtVTl9wTFdGNVJR"
+     "published_at": "2026-10-13T07:49:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmd3dCeGVPU3ZWUE1rR3JXNlBEODVTQ3VYZExXUTVYVlVlYWFraG16T2NvbW1jUG9oVHh5dVB0R1laV0p0cVB2NHhDcnJ2eDV1aHZJNWNINlNZWTg"
     }
    ],
    "category": "其他",
@@ -2794,12 +2850,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3lzZHRrWk5Ma1ZSaHVwcFFCdmpsVmV0NU9OR1JWcXBCUklzMWpuU3pLVlpVdEgwNU1uRnlNdWpJZlFFMDN2WFVjSTFqSFF5SWpzcGxhdXVUVnplMVFudEI4VFlwR1NYd18xc0JseGozbDEwRnJWU1BUQzVmNk1sZ1ZrdU03bE5GRGV3Y2tCejBpcXZHQ09tYg",
    "source": "Yahoo Finance",
    "published_at": "2026-10-12T12:55:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-12T12:55:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3lzZHRrWk5Ma1ZSaHVwcFFCdmpsVmV0NU9OR1JWcXBCUklzMWpuU3pLVlpVdEgwNU1uRnlNdWpJZlFFMDN2WFVjSTFqSFF5SWpzcGxhdXVUVnplMVFudEI4VFlwR1NYd18xc0JseGozbDEwRnJWU1BUQzVmNk1sZ1ZrdU03bE5GRGV3Y2tCejBpcXZHQ09tYg"
+    },
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-12T14:14:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGc5NWZhMV9zZmxxd2NTZFpTaUNGdzNMa01vblZEc1VOeFZWOG9Pb2tsWktzaVBHTlBERUxEWU9INmtfTE9nbUQ5V2JjMlZFQkVMTTBSejZlTENiOFNqLUR5VzlTYlNGNWo2d21OZ2daZGFFcXFELUt0Q1o5OWx3cmJmdEdfVlhpT2pab0RyVUNWRllLMDYxOThpT2lkTDNXbTB2RnpKTjUzcTVVa3ow"
     }
    ],
    "category": "其他",
@@ -2817,6 +2878,23 @@
      "name": "东方财富",
      "published_at": "2026-10-12T12:34:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtQXFjNnhzczdRTTZzWUpYdTA0dzVMNXNIUU92V0dnM0VNS0dYTlJ6YXFDdW0xVTdzdURiY0xWZEhBb2ptcWYzSDA4VGpmVXAwQ3p3YU84SnVyVzczaUJZcA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
+   "id": "9d643b783260",
+   "title": "U.S. regulators are probing Tesla's robotaxis for speeding in school zones - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SktyMXY2NEMzQ3ZrQnItSG0wT2ZGZmJPV3BMU0g0ZTRMWG5UMWFmckRGQm1HT1QxSnVmbVprb0kwU0s1LXhpeFNzY2l6NE1UUTVrNGJZTDVYZU1xbnFMMG5lTmI4OGxvVWwxMFdFOHNwZw",
+   "source": "Quartz",
+   "published_at": "2026-10-12T12:34:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-12T12:34:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SktyMXY2NEMzQ3ZrQnItSG0wT2ZGZmJPV3BMU0g0ZTRMWG5UMWFmckRGQm1HT1QxSnVmbVprb0kwU0s1LXhpeFNzY2l6NE1UUTVrNGJZTDVYZU1xbnFMMG5lTmI4OGxvVWwxMFdFOHNwZw"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -3067,23 +3145,6 @@
      "name": "Stocktwits",
      "published_at": "2026-10-12T04:05:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW9OcDhBYUtfRllZbjlteFkxM3pqdkx1NzFpNXE2aGppaThESU1Xcldjbl9aWlhvZm5iQVhwYS1aNzB5SnhDb0NBRkV1S2x4eEFSUEZCWERVaFBuY25yX1QzTklGMTNidlE3b2JKZ1JYT2Rocmd2OGJpTldqbWJWeHFRWjZaNDgyWlBkeEI2djVlUGhmZTFjcGNKeEU2ZlhhUV9XZmlTLUxERVU5UktLMU84bUlzSTNZVnRwZ0lrZENzX2FpRHdWczhWRFRXNnc0V2dPVnBjLXhJNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末"
-  },
-  {
-   "id": "4241eeb4f803",
-   "title": "TSLA Stock Heads For Weekly Win: Dan Ives Sees Over 30% Upside From AI, UBS Calls Setup ‘Tactically Favorable’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaktOemM0cFRPbU40VkM4cDJHaWJscmFGcjFoSU9YbHpaczNuMzZMYUZ2NmlySEx4N3JUVXNTa0M0azVybEZpU21WWElmbDZ5NHVtN3lRUnNhX1RNT3F0WU9mX3NEVDRVa0hIWk1hcEpXLTRwbE92Uk0tdUprSmtmWEJrSGF0NDBDRUQxcWQyVDhoR2twd3lKX0t0VmpNYjh4TnBnaGY2ZjM0NHZxX2FZTnFubWU4RlBxdmx1Ty1saUlBQQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-12T04:02:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-12T04:02:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaktOemM0cFRPbU40VkM4cDJHaWJscmFGcjFoSU9YbHpaczNuMzZMYUZ2NmlySEx4N3JUVXNTa0M0azVybEZpU21WWElmbDZ5NHVtN3lRUnNhX1RNT3F0WU9mX3NEVDRVa0hIWk1hcEpXLTRwbE92Uk0tdUprSmtmWEJrSGF0NDBDRUQxcWQyVDhoR2twd3lKX0t0VmpNYjh4TnBnaGY2ZjM0NHZxX2FZTnFubWU4RlBxdmx1Ty1saUlBQQ"
     }
    ],
    "category": "其他",
@@ -4091,6 +4152,28 @@
     }
    ],
    "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "4241eeb4f803",
+   "title": "TSLA Stock Heads For Weekly Win: Dan Ives Sees Over 30% Upside From AI, UBS Calls Setup ‘Tactically Favorable’ - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNS1fMnRzN1RhNUQ0dkVLUWJhUUtvU1RpMVE4bUpJVzAwOC05QXMzUDZudG54RUFjUVpNZkV5RmtTSVRzNGI4cWdSRVMtbHZ1dkJaM1J5ZnNRdzJoTG9ZNDFYdVRLa2VCOFVmSExXS3ZvY2R3QlpIVnhJUE52MkUzUDVnZEVqc0h2ZGVBY2ZNY3pYRWNRZDNVSEVvOHJ2ckx5QkYyeFlRamEyVWtCMnB6MmswZTV3X3dHWXRSQm5VNnEzcF9IUE9QVnJzQlh1TV82QmtSSlZIYnZwMmw3N2tHZTZjajlEaU5WN3RBOEhFeGo0c0VFNTJYLQ",
+   "source": "TradingView",
+   "published_at": "2026-10-08T06:13:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-08T06:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNS1fMnRzN1RhNUQ0dkVLUWJhUUtvU1RpMVE4bUpJVzAwOC05QXMzUDZudG54RUFjUVpNZkV5RmtTSVRzNGI4cWdSRVMtbHZ1dkJaM1J5ZnNRdzJoTG9ZNDFYdVRLa2VCOFVmSExXS3ZvY2R3QlpIVnhJUE52MkUzUDVnZEVqc0h2ZGVBY2ZNY3pYRWNRZDNVSEVvOHJ2ckx5QkYyeFlRamEyVWtCMnB6MmswZTV3X3dHWXRSQm5VNnEzcF9IUE9QVnJzQlh1TV82QmtSSlZIYnZwMmw3N2tHZTZjajlEaU5WN3RBOEhFeGo0c0VFNTJYLQ"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-12T04:02:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaktOemM0cFRPbU40VkM4cDJHaWJscmFGcjFoSU9YbHpaczNuMzZMYUZ2NmlySEx4N3JUVXNTa0M0azVybEZpU21WWElmbDZ5NHVtN3lRUnNhX1RNT3F0WU9mX3NEVDRVa0hIWk1hcEpXLTRwbE92Uk0tdUprSmtmWEJrSGF0NDBDRUQxcWQyVDhoR2twd3lKX0t0VmpNYjh4TnBnaGY2ZjM0NHZxX2FZTnFubWU4RlBxdmx1Ty1saUlBQQ"
+    }
+   ],
+   "category": "其他",
    "session": "盘前"
   },
   {
