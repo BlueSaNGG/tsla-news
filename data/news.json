@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T14:07:32.101133+00:00",
+ "updated_at": "2026-10-13T14:22:18.983934+00:00",
  "market": {
-  "price": 373.65,
-  "change_pct": -1.16,
+  "price": 374.1,
+  "change_pct": -1.04,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +7.1%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（67条已评分）"
+     "note": "今日新闻情绪 +0.25（69条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.65 vs 20日均线 $370.47"
+     "note": "现价 $374.10 vs 20日均线 $370.49"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 7.1,
-   "ma20": 370.47,
-   "as_of": "2026-10-13T14:07:32.081632+00:00"
+   "implied_upside_pct": 6.9,
+   "ma20": 370.49,
+   "as_of": "2026-10-13T14:22:18.972516+00:00"
   },
-  "pe_ttm": 103.3,
+  "pe_ttm": 103.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 67
+   "avg": 0.25,
+   "count": 69
   }
  },
  "meta": {
@@ -68,17 +68,73 @@
  },
  "stories": [
   {
+   "id": "427c974e67c0",
+   "title": "马斯克邀工程师加入特斯拉，曾取消向创始人埃伯哈德售车 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmVSZ05tUFhVYUd5S2IybWQtdjZPWDk2U3MyUGdCU3NhVVBpeWxnU083Y2xqaXlQUHlXUXN1UnBnZXhsNTRUc00xWEZCNUJ5a1hBeExkUjNOdkpGUnMzSVowb2N5TlBoQWZDc05JYWdfcFFTbGgtM1N1RkduYWppWg",
+   "source": "新浪网",
+   "published_at": "2026-10-13T14:17:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T14:17:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmVSZ05tUFhVYUd5S2IybWQtdjZPWDk2U3MyUGdCU3NhVVBpeWxnU083Y2xqaXlQUHlXUXN1UnBnZXhsNTRUc00xWEZCNUJ5a1hBeExkUjNOdkpGUnMzSVowb2N5TlBoQWZDc05JYWdfcFFTbGgtM1N1RkduYWppWg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
+   "id": "64127e899329",
+   "title": "Tesla pauses Model 3 orders in Canada amid China EV quota - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmYtM1lVbm50cTR0QUFaT194RXlqTFF3Q1dIRVMxaUs3cjBUWHl3ZkEzamdFRmNPalRobHBBU3hlOHVVSUd3aXYzNXVhV1RmYXd4M1piWnNYbnVESjVoUmwtbnM3WHVtZmd4OXAwVFBKZnZaN0xsMlJkVXA0amgtN2Y2VlIxVUN2SGJ3TkJ3",
+   "source": "Electrek",
+   "published_at": "2026-10-13T14:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-13T14:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmYtM1lVbm50cTR0QUFaT194RXlqTFF3Q1dIRVMxaUs3cjBUWHl3ZkEzamdFRmNPalRobHBBU3hlOHVVSUd3aXYzNXVhV1RmYXd4M1piWnNYbnVESjVoUmwtbnM3WHVtZmd4OXAwVFBKZnZaN0xsMlJkVXA0amgtN2Y2VlIxVUN2SGJ3TkJ3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "ccc1f824cc11",
+   "title": "U.S. EV Sales Rebound in Q3 2026 as Tesla Captures 54% of Market - driveteslacanada.ca",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ObklYcjA1bWhsbGo2am54VmU3VEJsTm9od2hfYUdsb0dLQXpERjZ4eFk0ZlVPNl9GVTBubDh1QVNLOGJHWXVVaC1HS204N0xfY3RWVkRjMVVJUnhlbGh4Y0RkTnB6RXZZd2hRTkU4SjBZdmxqQmMxeTN3MHk",
+   "source": "driveteslacanada.ca",
+   "published_at": "2026-10-13T14:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "driveteslacanada.ca",
+     "published_at": "2026-10-13T14:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ObklYcjA1bWhsbGo2am54VmU3VEJsTm9od2hfYUdsb0dLQXpERjZ4eFk0ZlVPNl9GVTBubDh1QVNLOGJHWXVVaC1HS204N0xfY3RWVkRjMVVJUnhlbGh4Y0RkTnB6RXZZd2hRTkU4SjBZdmxqQmMxeTN3MHk"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "f405de0f260e",
    "title": "Tesla Completes Comeback, Paving Way For 30% Upside - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZVYUEyM1pqaTdYN2NHUmZ3WnJNS2FrX1NIOGxWSFJHSjRCMHE5WFpfZWh1d0NDZ1ZwR2FfdlNzUnVfbVZVNmx5N3RQN3I5Y3hONVFzWE1hUlhQVUYyOEltOWVEOEl2dWZqNEdBeWNHcXNfVkZxdFRZVXVPNTVnVjZ0WDU3blRNYWlGOVBKQ21kdTVOZmJJMA",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-13T14:01:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-13T14:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkZVYUEyM1pqaTdYN2NHUmZ3WnJNS2FrX1NIOGxWSFJHSjRCMHE5WFpfZWh1d0NDZ1ZwR2FfdlNzUnVfbVZVNmx5N3RQN3I5Y3hONVFzWE1hUlhQVUYyOEltOWVEOEl2dWZqNEdBeWNHcXNfVkZxdFRZVXVPNTVnVjZ0WDU3blRNYWlGOVBKQ21kdTVOZmJJMA"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-13T14:01:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUS1PQVlaanpKRy03WTJaSkZwWkRRY1ZMWkhGSFdXUXRUUlVwOEphb1k3TlgzWVlUam85bEZhMHBNLTdhdFpGS3ZyWWVJZms5R2FmUEZGbl9lOWlfckhhS3htZF81MEdUdkd3aGtxN1hLYUpqaHZ5UG5VeHdlOUo0YnVRLWstZw"
     }
    ],
    "category": "其他",
@@ -86,6 +142,23 @@
    "zh_summary": "媒体称特斯拉完成反弹或迎30%上行空间",
    "title_zh": "特斯拉完成反弹，为30%上行空间铺路",
    "sentiment": 1
+  },
+  {
+   "id": "28c1200d7e1d",
+   "title": "Tesla extends home backup functions to Model 3 and Model Y in the US - electrive.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0dZM0RCRU1sTkx4elVnVUFTa1ZMZjIyR0loQmdxTGY0OUw5MUY1ci1kWVlTU3h2MGt2QUVtenNJTmJqUXBCS3owREZabFJDdFJPVGF1ZW4tOE9pQlBkd2JEb2oxMGwyRS1BUHdZOHpHLUNQbWpyT2g3WWFNTGZqNVZfU0VnMVplZDd6Tlhqb2dER29oeVZlNjN2eGpXZzJ4TnBER1pHMzNiZw",
+   "source": "electrive.com",
+   "published_at": "2026-10-13T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "electrive.com",
+     "published_at": "2026-10-13T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0dZM0RCRU1sTkx4elVnVUFTa1ZMZjIyR0loQmdxTGY0OUw5MUY1ci1kWVlTU3h2MGt2QUVtenNJTmJqUXBCS3owREZabFJDdFJPVGF1ZW4tOE9pQlBkd2JEb2oxMGwyRS1BUHdZOHpHLUNQbWpyT2g3WWFNTGZqNVZfU0VnMVplZDd6Tlhqb2dER29oeVZlNjN2eGpXZzJ4TnBER1pHMzNiZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "873484740b24",
@@ -1070,15 +1143,15 @@
   {
    "id": "92fa9527972b",
    "title": "【视频】天气转凉了，特斯拉的胎压一定检查好，随时让它保持标准胎压 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hMXVXaTdJZGRhNk1MZ01md0d5elhaM2Y5dXlrSUdvMm5kNWlXS3U4YkoybWdNdVN4T1hiQ2Y4RW9Dd1Y0a1Utb09iU19UbGk5VkphUlhIV1ZxcVpCMG51U0lWQWRhSzNDNUZJ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQ0lVS1prTDBVTVJuS0pKN091WlIwbmdBTzNmMm1IQU13QXpqcEh6dmFmY0hGQWw5Rmxlb0E1WXplV21ZZk95OTBQY2tsSkhtNTU3VUN2U2NjeEk",
    "source": "汽车之家",
-   "published_at": "2026-10-13T08:18:34+00:00",
+   "published_at": "2026-10-13T08:18:30+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-13T08:18:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hMXVXaTdJZGRhNk1MZ01md0d5elhaM2Y5dXlrSUdvMm5kNWlXS3U4YkoybWdNdVN4T1hiQ2Y4RW9Dd1Y0a1Utb09iU19UbGk5VkphUlhIV1ZxcVpCMG51U0lWQWRhSzNDNUZJ"
+     "published_at": "2026-10-13T08:18:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjQ0lVS1prTDBVTVJuS0pKN091WlIwbmdBTzNmMm1IQU13QXpqcEh6dmFmY0hGQWw5Rmxlb0E1WXplV21ZZk95OTBQY2tsSkhtNTU3VUN2U2NjeEk"
     }
    ],
    "category": "其他",
@@ -1341,6 +1414,23 @@
    "zh_summary": "视频体验特斯拉纯视觉FSD智驾",
    "title_zh": "【视频】纯视觉智驾的博弈体验特斯拉FSD",
    "sentiment": 0
+  },
+  {
+   "id": "260e70ee222f",
+   "title": "TSLA Stock Remains Volatile Ahead Of Q2 Earnings: Analysts Raise Price Targets With Cautious Optimism - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUkNyaWoxTFNoNmtjUU9BR3JXcnRLRFUtX256YVVVVXhYOWxRdnVId3NVU0JoTUgwSlVQRDIxVkxNNVVLRURTME9wQkg0RUJ5bUNsZzR6SHN1THR0MmtKbkV5dGZSMHFHb1kzYmlPaFR0SmFsRHB2VFY3Vzk2NVhFVFg2ak5jS2RKdGl1cVV4a2FJWDRyLXJUM3BwencwcXRkR181OGUwSE9pck5mZzd1RUNhb0ZOQmJIMmlzSHp0ckNybUZvSVNUUncxUTBIbG1QUzNpbU1xRzFFV2VKZm9OZlp6QzZUOWF4cW4xVUJGR2tYS3oyeWVF",
+   "source": "Stocktwits",
+   "published_at": "2026-10-13T05:53:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-13T05:53:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUkNyaWoxTFNoNmtjUU9BR3JXcnRLRFUtX256YVVVVXhYOWxRdnVId3NVU0JoTUgwSlVQRDIxVkxNNVVLRURTME9wQkg0RUJ5bUNsZzR6SHN1THR0MmtKbkV5dGZSMHFHb1kzYmlPaFR0SmFsRHB2VFY3Vzk2NVhFVFg2ak5jS2RKdGl1cVV4a2FJWDRyLXJUM3BwencwcXRkR181OGUwSE9pck5mZzd1RUNhb0ZOQmJIMmlzSHp0ckNybUZvSVNUUncxUTBIbG1QUzNpbU1xRzFFV2VKZm9OZlp6QzZUOWF4cW4xVUJGR2tYS3oyeWVF"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "93207a628144",
@@ -2260,6 +2350,23 @@
    "zh_summary": "视频质疑特斯拉价格竞争力",
    "title_zh": "【视频】这价格还买什么特斯拉",
    "sentiment": 0
+  },
+  {
+   "id": "2d49efb9fe7f",
+   "title": "Tesla releases plans for Australia's largest EV charging hub - ABC News & Headlines – Australian Broadcasting Corporation",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnlvdXFEa01LRmIzVWk1VlU2T0gyaV95LWtJa0tqcGZqTVl3Z1RlVVUzNjRuLW82VjZBSkYtbWRaOHh2ZzVkMHdkdHdWS0R0dFJZMkxSNkFFcF9fcnFvMEo2OWFwR1RmSWRscFFQR0hUazdGSVAxZHpXenN1MDZqOFJRUzBVWjlqcG51U0hYcjlCeW96RE95SUZ0MzRWX2ZiRlVnZS1sa2VFc2NlX21jN1pLSQ",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published_at": "2026-10-12T20:33:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "published_at": "2026-10-12T20:33:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnlvdXFEa01LRmIzVWk1VlU2T0gyaV95LWtJa0tqcGZqTVl3Z1RlVVUzNjRuLW82VjZBSkYtbWRaOHh2ZzVkMHdkdHdWS0R0dFJZMkxSNkFFcF9fcnFvMEo2OWFwR1RmSWRscFFQR0hUazdGSVAxZHpXenN1MDZqOFJRUzBVWjlqcG51U0hYcjlCeW96RE95SUZ0MzRWX2ZiRlVnZS1sa2VFc2NlX21jN1pLSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "3b5f0030eda6",
@@ -3216,6 +3323,23 @@
     }
    ],
    "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "b27da362e599",
+   "title": "America’s Biggest Non-Tesla EV Fast Charging Network Just Hit A New Milestone - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSU5nUVlCdU1LcUV3UHdxY0EtMVNiNUVpeDllTUJsWGRsV0JFd3JGR1BYUngwaDRzOXp0cl96Snp5U0ZzMl9SQXo5UldBLWZPOTZidFdPNS02X0RmM3U0TjNnREVOdzNfNzZ5ZWY2S0tLc3B3eWh1ckh5aUVCaTZseGtfS0hTZ0pBenc",
+   "source": "InsideEVs",
+   "published_at": "2026-10-12T08:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-12T08:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSU5nUVlCdU1LcUV3UHdxY0EtMVNiNUVpeDllTUJsWGRsV0JFd3JGR1BYUngwaDRzOXp0cl96Snp5U0ZzMl9SQXo5UldBLWZPOTZidFdPNS02X0RmM3U0TjNnREVOdzNfNzZ5ZWY2S0tLc3B3eWh1ckh5aUVCaTZseGtfS0hTZ0pBenc"
+    }
+   ],
+   "category": "其他",
    "session": "盘前"
   },
   {
