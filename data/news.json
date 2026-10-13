@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T05:22:28.014773+00:00",
+ "updated_at": "2026-10-13T05:37:29.800807+00:00",
  "market": {
   "price": 378.03,
   "change_pct": -1.22,
@@ -11,7 +11,7 @@
   },
   "daily_signal": {
    "verdict": "偏多",
-   "score": 2,
+   "score": 3,
    "dims": [
     {
      "key": "估值位置",
@@ -25,8 +25,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -44,7 +44,7 @@
    "target_count": 16,
    "implied_upside_pct": 5.8,
    "ma20": 369.61,
-   "as_of": "2026-10-13T05:22:27.998366+00:00"
+   "as_of": "2026-10-13T05:37:29.794260+00:00"
   },
   "pe_ttm": 104.6,
   "pe_pct_5y": 50,
@@ -56,8 +56,8 @@
    "estimated": true
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "b09d744190e1",
+   "title": "Bernie Sanders Says ‘Stop Musk’ as Tesla CEO Spends $366 Million to Keep GOP in Control — Elon Musk Got - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdW5RZWVDek5BMG9JS1R6VndmaFk2aVFXc0FsOVlnU1FtTGF6RTBtQ0tzRHpxeVV2M1lBQ0V5OGRDU1phRXhLUEV5UzgzdHNMckIxMVFfZEszM1ZKUF9CRzNDUURwYVZ1SURSOFpSMHJqRUlhR09qYnZtMWxWaWlVNlBLQ1VQR3BVT19JckFrb05NV0dXOURyOXp3aTA1UkRackhwWFhaYkJjbUFuRGs5b3Jsd05sTFZmUzNES1dnM2xVTEt6NjJTbG1kU0lrX0xuQkZPeFdpLUJ2dFEza19yV0llTF9SYm9IMXpCU0dRdDhfSEdHT3NxSHpUazV4dk1MVVhnY1ZiRWlqS2tnalJaLTcwc0FsSjBrUENKTGN0TGtNdw",
+   "source": "Benzinga",
+   "published_at": "2026-10-13T05:30:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-13T05:30:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdW5RZWVDek5BMG9JS1R6VndmaFk2aVFXc0FsOVlnU1FtTGF6RTBtQ0tzRHpxeVV2M1lBQ0V5OGRDU1phRXhLUEV5UzgzdHNMckIxMVFfZEszM1ZKUF9CRzNDUURwYVZ1SURSOFpSMHJqRUlhR09qYnZtMWxWaWlVNlBLQ1VQR3BVT19JckFrb05NV0dXOURyOXp3aTA1UkRackhwWFhaYkJjbUFuRGs5b3Jsd05sTFZmUzNES1dnM2xVTEt6NjJTbG1kU0lrX0xuQkZPeFdpLUJ2dFEza19yV0llTF9SYm9IMXpCU0dRdDhfSEdHT3NxSHpUazV4dk1MVVhnY1ZiRWlqS2tnalJaLTcwc0FsSjBrUENKTGN0TGtNdw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
+   "id": "ada94e2be10d",
+   "title": "新剑传动回复问询函称“特斯拉机器人方案接近定型，即将量产” - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJVbGJDRlBxeXdrVmQzNl9OYWp3NlJUZE1uRnpnczNsY3BxLXVQSHlWY0VsX1FSVEVpNXV1b0VwcmZvZlhNR0JjcjFQZ2NmeEktTFVic0dCYTVxVENERUJBX0NCS0RFUUxWelJxcVBkTmZmVG9KSy1fNkREdktNelBjMUdBUFdNcUJLYlFtMA",
+   "source": "21财经",
+   "published_at": "2026-10-13T05:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-13T05:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkJVbGJDRlBxeXdrVmQzNl9OYWp3NlJUZE1uRnpnczNsY3BxLXVQSHlWY0VsX1FSVEVpNXV1b0VwcmZvZlhNR0JjcjFQZ2NmeEktTFVic0dCYTVxVENERUJBX0NCS0RFUUxWelJxcVBkTmZmVG9KSy1fNkREdktNelBjMUdBUFdNcUJLYlFtMA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "3e9258458241",
    "title": "特斯拉Automations功能完成本地化，即将全球推送 - DoNews",
@@ -83,8 +117,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉Automations功能完成本地化，即将全球推送 - DoNews",
    "zh_summary": "特斯拉Automations本地化完成将全球推送",
+   "title_zh": "特斯拉Automations功能完成本地化，即将全球推送 - DoNews",
    "sentiment": 1
   },
   {
@@ -123,8 +157,8 @@
    ],
    "category": "马斯克",
    "session": "盘后",
-   "title_zh": "特斯拉165亿大单刚给三星，转头又找上台积电？马斯克承认：正在谈 - 搜狐",
    "zh_summary": "马斯克承认特斯拉正与台积电谈判",
+   "title_zh": "特斯拉165亿大单刚给三星，转头又找上台积电？马斯克承认：正在谈 - 搜狐",
    "sentiment": 1
   },
   {
@@ -746,6 +780,23 @@
    "zh_summary": "比亚迪销量居首，特斯拉单车型第一",
    "title_zh": "比亚迪整体销量第一，特斯拉单车销量第一，零跑、小米大亮 - 搜狐",
    "sentiment": 0
+  },
+  {
+   "id": "64886093e550",
+   "title": "特斯拉 FSD进军中国再下一步！已完成首轮审查 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KVmRwdWFaOGVTcEI2TE1iSjk1UUNTb1d4SWxBNE8ybHZrbzZWaWp5RjRmNzRwSWdXZzc4dkpDcDdLQmdyVTJqaW5CTXRjR0FTTnZjcWVuTHBVZk0",
+   "source": "汽车之家",
+   "published_at": "2026-10-12T23:19:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-12T23:19:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KVmRwdWFaOGVTcEI2TE1iSjk1UUNTb1d4SWxBNE8ybHZrbzZWaWp5RjRmNzRwSWdXZzc4dkpDcDdLQmdyVTJqaW5CTXRjR0FTTnZjcWVuTHBVZk0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "d31e4b46f41c",
@@ -4392,8 +4443,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "TSLA股票本周上涨，Dan Ives看好AI上涨30%以上",
    "zh_summary": "分析师看好TSLA AI上涨超30%",
+   "title_zh": "TSLA股票本周上涨，Dan Ives看好AI上涨30%以上",
    "sentiment": 1
   },
   {
@@ -6424,66 +6475,6 @@
    "zh_summary": "美版Model 3/Y支持家庭断电备用供电",
    "title_zh": "美国新订购的特斯拉 Model 3 和 Model Y 可在停电时为家庭供电",
    "sentiment": 1
-  },
-  {
-   "id": "f94fa1e402f1",
-   "title": "Paren的数据显示，马斯克执掌的特斯拉今年新增超3500根快充桩，全美快充桩总量约40000根。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rX3NPbVBWMm5PdF9uLUYwcGFCMURsb1dEaWhlZjdIUDhNVzlrUUN0VHlfRTRGcUNsMld4SFE5WVJzRk9qUDU3NFFLcw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-11T01:01:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-11T01:01:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rX3NPbVBWMm5PdF9uLUYwcGFCMURsb1dEaWhlZjdIUDhNVzlrUUN0VHlfRTRGcUNsMld4SFE5WVJzRk9qUDU3NFFLcw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "特斯拉今年新增超3500根快充桩",
-   "title_zh": "Paren的数据显示，马斯克执掌的特斯拉今年新增超3500根快充桩，全美快充桩总量约40000根。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "ff5c2eeb1728",
-   "title": "特斯拉车主称上车后安全带卡扣断裂 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YbVdmRE1lOF9nRzN4Umw2REFKaUs4ZFpudXJ3c043RnBsWUwyeXA2cC1lcnd5dzdPM3VjWFFsQnZIX2dsTElId19hUHU",
-   "source": "凤凰网",
-   "published_at": "2026-10-11T00:54:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-11T00:54:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YbVdmRE1lOF9nRzN4Umw2REFKaUs4ZFpudXJ3c043RnBsWUwyeXA2cC1lcnd5dzdPM3VjWFFsQnZIX2dsTElId19hUHU"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车主称安全带卡扣断裂",
-   "title_zh": "特斯拉车主称上车后安全带卡扣断裂",
-   "sentiment": -1
-  },
-  {
-   "id": "95de4dd98f81",
-   "title": "【视频】特斯拉再升级，为什么Model Y/3仍不上800V架构 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04NTF6djhhTjlOcmJZbHVyVDk2RXV5WDdUVDd5Vzk3LThUcEZOV2FKRzFqdnNZWFhsZ2FUUnVaeFF3UG1sZWVMY2owUFVMRjJ5QWZJMlVpdHY3T1U",
-   "source": "汽车之家",
-   "published_at": "2026-10-11T00:47:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T00:47:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04NTF6djhhTjlOcmJZbHVyVDk2RXV5WDdUVDd5Vzk3LThUcEZOV2FKRzFqdnNZWFhsZ2FUUnVaeFF3UG1sZWVMY2owUFVMRjJ5QWZJMlVpdHY3T1U"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉再升级，Model Y/3为何仍不上800V架构",
-   "title_zh": "特斯拉再升级，为什么Model Y/3仍不上800V架构",
-   "sentiment": 0
   }
  ]
 }
