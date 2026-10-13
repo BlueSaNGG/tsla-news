@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T15:37:27.833167+00:00",
+ "updated_at": "2026-10-13T15:52:33.525250+00:00",
  "market": {
-  "price": 376.65,
-  "change_pct": -0.37,
+  "price": 376.57,
+  "change_pct": -0.39,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（85条已评分）"
+     "note": "今日新闻情绪 +0.14（90条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.65 vs 20日均线 $370.62"
+     "note": "现价 $376.57 vs 20日均线 $370.61"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 6.2,
-   "ma20": 370.62,
-   "as_of": "2026-10-13T15:37:27.819754+00:00"
+   "ma20": 370.61,
+   "as_of": "2026-10-13T15:52:33.509744+00:00"
   },
-  "pe_ttm": 104.2,
+  "pe_ttm": 104.1,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 85
+   "avg": 0.14,
+   "count": 90
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "7ad7b9c10021",
+   "title": "Tesla, Xpeng Showcase Autonomous Cars in Paris - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk9BeG5KLUZsQUk1Tnd5NzJCc2FYbG9vSnpFYVZXZUVrOE5ralkyVnpEbFJkMUJ4ZERyYzZRY1A4bzA0Vl9NUEZGTWxGZnBVT2V6a3pvUVRCVUFNdnhlcGVfSU1obk1rZ25sUFJEMHd3LVl5Qzg0SjZGbldVVzRnZHNfZzFLUWlQNDVoN0JPX2tnLVJKSUI0Z0ctOTRjMloxdUZWanZJdTBnUkoyUlh4UXItYnI0R0N4ZTM4MFN3",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-13T15:42:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-13T15:42:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMk9BeG5KLUZsQUk1Tnd5NzJCc2FYbG9vSnpFYVZXZUVrOE5ralkyVnpEbFJkMUJ4ZERyYzZRY1A4bzA0Vl9NUEZGTWxGZnBVT2V6a3pvUVRCVUFNdnhlcGVfSU1obk1rZ25sUFJEMHd3LVl5Qzg0SjZGbldVVzRnZHNfZzFLUWlQNDVoN0JPX2tnLVJKSUI0Z0ctOTRjMloxdUZWanZJdTBnUkoyUlh4UXItYnI0R0N4ZTM4MFN3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "a56e0e2bd5a8",
+   "title": "La Salle approves special use permit for ground-mounted solar with Tesla home battery - Shaw Local",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVEZCNWxZa3pUZWZDV05lREhqX3JrWWFfRUtMc3h0UnAwcjlfR211LU5uS0R0cXlhRktZc2ZRcy13NlJoV2NQSVF4elVLTzUweWoyU2RENWJldmRRUFFVcTF6VTlxV1pLWE9JTTVoZ1lnbllUQjd6RU4yTzRNbWE0dlFMYkRscW01SjlocEh6RlpCS3ByN2N3VnNnV1J1SVdSVGdxNTBCQ18zVnNmbVl5cm5URDByV0hVb2MtZXIwOVFBaW5IbWJTU2NsNDdTZGltLXhDN29B",
+   "source": "Shaw Local",
+   "published_at": "2026-10-13T15:42:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Shaw Local",
+     "published_at": "2026-10-13T15:42:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVEZCNWxZa3pUZWZDV05lREhqX3JrWWFfRUtMc3h0UnAwcjlfR211LU5uS0R0cXlhRktZc2ZRcy13NlJoV2NQSVF4elVLTzUweWoyU2RENWJldmRRUFFVcTF6VTlxV1pLWE9JTTVoZ1lnbllUQjd6RU4yTzRNbWE0dlFMYkRscW01SjlocEh6RlpCS3ByN2N3VnNnV1J1SVdSVGdxNTBCQ18zVnNmbVl5cm5URDByV0hVb2MtZXIwOVFBaW5IbWJTU2NsNDdTZGltLXhDN29B"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "c56aab15f080",
    "title": "The Undocumented Features of Tesla Update 2026.32: Ad Blocker, Seat Heater Timeout and More - Not a Tesla App",
@@ -1436,26 +1470,6 @@
    "sentiment": 0
   },
   {
-   "id": "81479564b346",
-   "title": "Tesla Halts Shanghai-Built Model 3 Orders in Canada Over Import Quota - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlVoUzhtTDdxdnZ5S0VZeE9jT2ZXaUlFaGlCUlBSVmE0cEhNcEhUWWE5dk5EWVNmTmF4MVNRVHBwWHJ1dl9XaDE2SG1Cb09pM0ZmeVA5S1BCUzNGWEJKRHVDT3hmQkZwSEdvTmhGcWhEem5QRzlnek8xOXpnMW1vV19lYjdMb2pkOFp4U2tjZnZmV2N2RDRjWWdCbFFPbi1TMENvRk53QWo",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-13T08:42:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-13T08:42:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlVoUzhtTDdxdnZ5S0VZeE9jT2ZXaUlFaGlCUlBSVmE0cEhNcEhUWWE5dk5EWVNmTmF4MVNRVHBwWHJ1dl9XaDE2SG1Cb09pM0ZmeVA5S1BCUzNGWEJKRHVDT3hmQkZwSEdvTmhGcWhEem5QRzlnek8xOXpnMW1vV19lYjdMb2pkOFp4U2tjZnZmV2N2RDRjWWdCbFFPbi1TMENvRk53QWo"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉加拿大停售上海产Model 3",
-   "title_zh": "因进口配额特斯拉在加暂停上海产Model 3订单",
-   "sentiment": -1
-  },
-  {
    "id": "f408f282cf76",
    "title": "【视频】BP机爆炸，关特斯拉和苹果什么事儿？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQmdUcGEzeENsR05aNTctV3pnZHBxUzNqc2wtZTZITTFrVGpGSmQxUkxSZW4xclZoc01KVkpLU2R3eEtQaUVwa1dnR2g1WVFheVJKSlpvUVNrOFU",
@@ -1816,6 +1830,26 @@
    "sentiment": 1
   },
   {
+   "id": "81479564b346",
+   "title": "Tesla Halts Shanghai-Built Model 3 Orders in Canada Over Import Quota - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlVoUzhtTDdxdnZ5S0VZeE9jT2ZXaUlFaGlCUlBSVmE0cEhNcEhUWWE5dk5EWVNmTmF4MVNRVHBwWHJ1dl9XaDE2SG1Cb09pM0ZmeVA5S1BCUzNGWEJKRHVDT3hmQkZwSEdvTmhGcWhEem5QRzlnek8xOXpnMW1vV19lYjdMb2pkOFp4U2tjZnZmV2N2RDRjWWdCbFFPbi1TMENvRk53QWo",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-13T05:42:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-13T05:42:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlVoUzhtTDdxdnZ5S0VZeE9jT2ZXaUlFaGlCUlBSVmE0cEhNcEhUWWE5dk5EWVNmTmF4MVNRVHBwWHJ1dl9XaDE2SG1Cb09pM0ZmeVA5S1BCUzNGWEJKRHVDT3hmQkZwSEdvTmhGcWhEem5QRzlnek8xOXpnMW1vV19lYjdMb2pkOFp4U2tjZnZmV2N2RDRjWWdCbFFPbi1TMENvRk53QWo"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前",
+   "zh_summary": "特斯拉加拿大停售上海产Model 3",
+   "title_zh": "因进口配额特斯拉在加暂停上海产Model 3订单",
+   "sentiment": -1
+  },
+  {
    "id": "93207a628144",
    "title": "中国新能源汽车周报：周订单环比增5%，吉利/零跑/特斯拉领涨，9月渗透率升至67% - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2VFcjFwY08zTlJLcDhfZ1g3VXNDVnJNNDY3aUI1SlhnWlZqOVVFZU5MN050TllDU3gteDhRN0dyTnpNcXgwYkNTeE5NdEdBNXRrRkJjSldVcjdoLXIycl9YdjgwMmcwbzRlVXlQbDN4bnZHZHFadDFwTXBsWGFZQjhWbGpiM3NTcDIzaUkxN1NHa1hWZUZZUWlNekU5dm10",
@@ -2085,12 +2119,12 @@
    "title": "特斯拉欧洲弃用完全自动驾驶名称,新名待公布 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaFF1UDFYRDctN1lvVWVYZ21QZWFhRFFwaEtwM1RDSXQxUnQya3NzUUtMZ0l0UHBReWhnbVBzRUZtMWZ5bzJLWU1mckRGREMtcnd2Rm01Uml3ZHc",
    "source": "汽车之家",
-   "published_at": "2026-10-13T03:47:44+00:00",
+   "published_at": "2026-10-13T03:47:34+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-13T03:47:44+00:00",
+     "published_at": "2026-10-13T03:47:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaFF1UDFYRDctN1lvVWVYZ21QZWFhRFFwaEtwM1RDSXQxUnQya3NzUUtMZ0l0UHBReWhnbVBzRUZtMWZ5bzJLWU1mckRGREMtcnd2Rm01Uml3ZHc"
     }
    ],
