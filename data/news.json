@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-13T13:22:27.130572+00:00",
+ "updated_at": "2026-10-13T13:37:26.734356+00:00",
  "market": {
-  "price": 378.03,
-  "change_pct": -1.22,
-  "as_of": "2026-10-12",
+  "price": 373.28,
+  "change_pct": -1.26,
+  "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +7.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（30条已评分）"
+     "note": "今日新闻情绪 +0.27（60条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.03 vs 20日均线 $369.61"
+     "note": "现价 $373.28 vs 20日均线 $370.44"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.8,
-   "ma20": 369.61,
-   "as_of": "2026-10-13T13:22:27.121524+00:00"
+   "implied_upside_pct": 7.2,
+   "ma20": 370.44,
+   "as_of": "2026-10-13T13:37:26.715231+00:00"
   },
-  "pe_ttm": 104.6,
+  "pe_ttm": 103.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 30
+   "avg": 0.27,
+   "count": 60
   }
  },
  "meta": {
@@ -1949,7 +1949,7 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JvdDdTY084WFVCVFc3dE9mc0p6ZEVTSWhYOEpGSDNDTTZBT0ZYbk5tbEo5QmoyeU1fZ2ltbUw5YlhIN3RINVVnN2JsY2toT3dJa0dIblJYTVlVR0dFZXVRNFhGUnBQa3lma04zUHB0X2NvdXk1dnZVTGk4ZVFiZFFXNjh5NDFFaWZidlZhYngwa2xOWU9sNVM1RkFTY0tIM0ROTzBrRm83aHNNSndzRA",
    "source": "Not a Tesla App",
    "published_at": "2026-10-12T21:09:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Not a Tesla App",
@@ -1960,10 +1960,19 @@
      "name": "MotorBiscuit",
      "published_at": "2026-10-13T12:45:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHpobWVjMjRpZ0ZpcURMQVB5LUFsVjZHbGI2ZFVnMy01aUVIRkNMdFg2TlRQVmpjcURSVGczNGNKTHJ3eTRONjdMR2dGYVExTGRNcUh6eTZsamkyRUIwTzAyRkY2MVk5c3Rxam5PWE9FbnlMN3V0eTU4MFlCQ2lGd19obUNVZ0xMZWJmNERUaERuZDd1c1lFRmU3ckRHcU9oN2pTQ192ZWtlN1BheUE"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-13T12:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNm5maGRHRHRha0hrNVFxd3NEeFhISk5kOE1OTmlFSDU1Qy1sV3hYSnZTTUlheTg2NEJMcXRZY1ZacTEtUm5NSnZSWDZwS2tpRVhEZm8teXVNSWRWaGRqRXdzNVZQSS1mVk1fR21kMmRSMnNqNG85dG9Xb0lEU1pHcWpPSE5uOV9nZDA4QWFELTJCU0RBa1NSWQ"
     }
    ],
    "category": "Robotaxi与FSD",
-   "session": "盘后"
+   "session": "盘后",
+   "price_reaction": {
+    "pct": 0.25,
+    "window_h": 0.1
+   }
   },
   {
    "id": "9424e1a27127",
@@ -3178,6 +3187,23 @@
    "session": "周末"
   },
   {
+   "id": "750faac74391",
+   "title": "Tesla owner drove 1,857 miles in 31 days, says charging cost $136 and saved $235 on gas - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxBSUpRX2tBSHQwMldaNU9TbXRaUkZjbzF6VlB2VTJhcXlKcFZ4bFVZVnhuY1FsUEE3WmRBZV9yLTRmTWljSUszalluR2dqU0hqVXl0UnlWQnI3V3BMYVQ1ZFBYVXNacTZqQzhHbDRnSDVDRmhNY1NLTFk5RWtEWGlFeVdMdGFXaF9mWHNvd1VndVNP",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-11T11:50:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-11T11:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxBSUpRX2tBSHQwMldaNU9TbXRaUkZjbzF6VlB2VTJhcXlKcFZ4bFVZVnhuY1FsUEE3WmRBZV9yLTRmTWljSUszalluR2dqU0hqVXl0UnlWQnI3V3BMYVQ1ZFBYVXNacTZqQzhHbDRnSDVDRmhNY1NLTFk5RWtEWGlFeVdMdGFXaF9mWHNvd1VndVNP"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "51f17a3126ff",
    "title": "Tesla’s Cybercab fleet jumped 8x in a month, with Dallas up next - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTVQxaEFNdm1TaEYxNThtdUtOSFp4SUxBVGFTejBXRTZySHdsWDl6ancxa3p1UURLV3JRMkJ2VlpMaVRvazZ2M3h2cm9MNUdlT19yNF8zU1JSZ0lG",
@@ -3192,6 +3218,23 @@
     }
    ],
    "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
+   "id": "8e934bace47a",
+   "title": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c",
+   "source": "汽车之家",
+   "published_at": "2026-10-11T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-11T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c"
+    }
+   ],
+   "category": "车型产品",
    "session": "周末"
   },
   {
@@ -3246,20 +3289,20 @@
    "session": "周末"
   },
   {
-   "id": "c9ba48a4d20b",
-   "title": "2026.38.5 (FSD 14.3 Lite & 14.3.12) Official Tesla Release Notes - Software Updates - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXy1LUnRMbzRyaTRnNXQwSHFvNVl2SUNka3pkcnJTQnJkSVlLNVNVQ19EZDJZcnVZajlNSkxZNUJ0U2kwSklxOXF0dkVYalhhbS1YN0NMenhnUzhWUjBxampCLXFvYzMxR2VfU0YwY0tuaDJmXzEza0ZrX2E1eDJ6TmNRRQ",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-10T22:43:46+00:00",
+   "id": "c1341958d7d5",
+   "title": "In the US, new Tesla Model 3 and Model Y orders can now back up a home during outages - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1hiU2pDUFhHNFJZZC0wZUZ3VHM3RGVaRDlfTWtFTUhQMms2dVlzZmJvU1JJUDR5Vl9PM2Z1UWJFbkNyRzdCNGNnMlJNTW50UEJtUVkwOEcwWm9QMzM1LTZfX3lEZzROYjNENUlFbEJWbmRSTVp3cVFCWWVGNGwxZWtWT2t5WW9iVFJkT1JUa1pucVk",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-11T01:15:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-10T22:43:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXy1LUnRMbzRyaTRnNXQwSHFvNVl2SUNka3pkcnJTQnJkSVlLNVNVQ19EZDJZcnVZajlNSkxZNUJ0U2kwSklxOXF0dkVYalhhbS1YN0NMenhnUzhWUjBxampCLXFvYzMxR2VfU0YwY0tuaDJmXzEza0ZrX2E1eDJ6TmNRRQ"
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-11T01:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1hiU2pDUFhHNFJZZC0wZUZ3VHM3RGVaRDlfTWtFTUhQMms2dVlzZmJvU1JJUDR5Vl9PM2Z1UWJFbkNyRzdCNGNnMlJNTW50UEJtUVkwOEcwWm9QMzM1LTZfX3lEZzROYjNENUlFbEJWbmRSTVp3cVFCWWVGNGwxZWtWT2t5WW9iVFJkT1JUa1pucVk"
     }
    ],
-   "category": "Robotaxi与FSD",
+   "category": "车型产品",
    "session": "周末"
   },
   {
@@ -3314,6 +3357,23 @@
    "session": "周末"
   },
   {
+   "id": "3e1ea221fd64",
+   "title": "Tesla Beat Delivery Estimates by 25,000 Vehicles. Here's Why the Stock Still Hasn't Broken Out. - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2pHcm55c3BiYXQ2RGVlNXpoeGpPUHFiRHctYXYxZkVxVHBGLVZBREx0SW9ybjhwNUV4T19qQzVLT3FDdEM5S1dqal9pR0JfYm5ScEw2N2xQZEpJSVRmVWt1elYyS2V3OElUR0EwSTY5VjBGZVdpZTN4UUs0RlIyVl9tSjZFMWZ5S0Q1UWJ6TUxqT3dtZVp1Y0Z1WGtRQQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-10T15:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-10T15:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2pHcm55c3BiYXQ2RGVlNXpoeGpPUHFiRHctYXYxZkVxVHBGLVZBREx0SW9ybjhwNUV4T19qQzVLT3FDdEM5S1dqal9pR0JfYm5ScEw2N2xQZEpJSVRmVWt1elYyS2V3OElUR0EwSTY5VjBGZVdpZTN4UUs0RlIyVl9tSjZFMWZ5S0Q1UWJ6TUxqT3dtZVp1Y0Z1WGtRQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "d2bec003f695",
    "title": "吴汉钧：特斯拉与背后那个“恶魔” - 联合早报",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TVzhPTGcxc2J0azBqQVQtTTRpTGY4dTdVR1A1a0ptN3ctaGRsdy1kVmFPX3ZBTTkxSVNSazhvcC1qRU0yVlFTZlJYWWJVMmZnTnVXVzFObmRsaHhiV1YtUkYzMTJBWUU",
@@ -3345,6 +3405,23 @@
     }
    ],
    "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "26a91db051c5",
+   "title": "He paid $250K nine years ago for a Tesla Roadster — and it's finally ready. Will it meet expectations? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHh3UU9fbF9hcHEtWGNPVXFjc2NWRGdBSFdlQTJ5TkQ5QldBazZETlhQRmNBbU5MUWd5ZTBfM0RYTmFWdXNzZlNWZy1kTVFvOTN1ZjdXVktvcGQyb1J4SXdSalNUM0FWaDNwd0pROVRUNlJ6YW9FZkdnRXFXR1pfUDBUUWtIVlRkbE1xNUlraWFMOGM",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-10T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-10T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHh3UU9fbF9hcHEtWGNPVXFjc2NWRGdBSFdlQTJ5TkQ5QldBazZETlhQRmNBbU5MUWd5ZTBfM0RYTmFWdXNzZlNWZy1kTVFvOTN1ZjdXVktvcGQyb1J4SXdSalNUM0FWaDNwd0pROVRUNlJ6YW9FZkdnRXFXR1pfUDBUUWtIVlRkbE1xNUlraWFMOGM"
+    }
+   ],
+   "category": "车型产品",
    "session": "周末"
   },
   {
@@ -3484,6 +3561,23 @@
    "session": "盘后"
   },
   {
+   "id": "aa600f965211",
+   "title": "Tesla’s Future Cars Could Literally Suck After New Patent Emerges - Carscoops",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGtkLWNRNzBiMkxUQVU0VjVhZGZXRnpaeGNQZGVkbTVGQmtWdl9rTkF1TUFRLVdCLXZmSzYzNkw3VEQ4SFUzZ1p6QTcyYk5kT1R5NVRVQkM4ZThhUTNyUlhqbkxscnlsUi0tams5QmRScXdOcWFULUhWekx1THRLNEpRLTBKQk4wMTlTZlk1NHNjN055Qnp5V0ZGS0E2QU9s",
+   "source": "Carscoops",
+   "published_at": "2026-10-09T23:04:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Carscoops",
+     "published_at": "2026-10-09T23:04:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGtkLWNRNzBiMkxUQVU0VjVhZGZXRnpaeGNQZGVkbTVGQmtWdl9rTkF1TUFRLVdCLXZmSzYzNkw3VEQ4SFUzZ1p6QTcyYk5kT1R5NVRVQkM4ZThhUTNyUlhqbkxscnlsUi0tams5QmRScXdOcWFULUhWekx1THRLNEpRLTBKQk4wMTlTZlk1NHNjN055Qnp5V0ZGS0E2QU9s"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "13372f5f990b",
    "title": "Tesla (NASDAQ: TSLA) stock price forecast 2026 – Capital spending above $25 bn - Beinsure",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XZWFzaWVSZV80blc2THhyeVAtT3o3RzRscjVSR2FkYTl1N1JWQm1NSVZrcTNaLURxQ3lwZnVpU3d4anptM3JUenhicVdEeF9KY29oeWJoMFNBbFMtZkVOcU1vUQ",
@@ -3515,6 +3609,23 @@
     }
    ],
    "category": "市场宏观",
+   "session": "盘后"
+  },
+  {
+   "id": "a043b1837f93",
+   "title": "New project from Tesla in the works in Taylor, TDLR filings show - KVUE",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDhTdklqRlh6LWFxako5RFVtbmJhMW1ILU5xakJ6dDVibVdzby1kWjZtcURnT2tPXzBOS080Z08wWDhFUUJkX19WbFprbTRDLU92cTFUNjBFVlIyS2VJel9HdlVCOXVmaGJPU1NxbFhWbzMzZmd6bDg3aUdKUFNzUEMyeEhIQ3Q5LUd0elA0UlpiWVVrY0gzZEVfTTRzeENybUYwZGlXQlZNLWNrWHdqTHN4RndIQWlUbWxwdTFUTDJaRWdQZndtQW54TkV0QlRW",
+   "source": "KVUE",
+   "published_at": "2026-10-09T20:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KVUE",
+     "published_at": "2026-10-09T20:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDhTdklqRlh6LWFxako5RFVtbmJhMW1ILU5xakJ6dDVibVdzby1kWjZtcURnT2tPXzBOS080Z08wWDhFUUJkX19WbFprbTRDLU92cTFUNjBFVlIyS2VJel9HdlVCOXVmaGJPU1NxbFhWbzMzZmd6bDg3aUdKUFNzUEMyeEhIQ3Q5LUd0elA0UlpiWVVrY0gzZEVfTTRzeENybUYwZGlXQlZNLWNrWHdqTHN4RndIQWlUbWxwdTFUTDJaRWdQZndtQW54TkV0QlRW"
+    }
+   ],
+   "category": "其他",
    "session": "盘后"
   },
   {
@@ -3620,6 +3731,23 @@
     }
    ],
    "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "3b3041297d07",
+   "title": "Tesla Spikes After Best China Sales Numbers Of The Year - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHFhdGZCWWM5ekZWYnhkaUNRdl9RQk1pT0YyRzNZeWVDRjNBb203TjdJVFVfQjUxNFNhZThEZHZYUWpra1hDMlFDTVZXSDIwM3VFcHRGa3Q0Z1Jhd2hrWjRKVHlNX3k5THpCd0M0VHlBTFZRSDl6MUF5SnhmTTFORGNvWmx1R1B0Q1J0M3N3",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-09T14:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-09T14:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHFhdGZCWWM5ekZWYnhkaUNRdl9RQk1pT0YyRzNZeWVDRjNBb203TjdJVFVfQjUxNFNhZThEZHZYUWpra1hDMlFDTVZXSDIwM3VFcHRGa3Q0Z1Jhd2hrWjRKVHlNX3k5THpCd0M0VHlBTFZRSDl6MUF5SnhmTTFORGNvWmx1R1B0Q1J0M3N3"
+    }
+   ],
+   "category": "交付量",
    "session": "盘中"
   },
   {
@@ -3876,6 +4004,23 @@
    "session": "盘前"
   },
   {
+   "id": "975c4d6a55bd",
+   "title": "Tesla's Halloween Mode: Photos & Videos of Every Feature - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVp0YklBZnUyd0J6SVl5VTJoeFIycTVweVRzUWcwWHJIMnBYWUY4Um8zeFBKZmxvNzA3UThlOXpYUVNtN2M5RXgya2RUVUtXTmdhWXRYN3NlS2RsSWxZd2xWODRSU0RFZEtKc3JGWTV2Y2hQN0o3VUtXT2V2R1JMeG83RkRRM0JzUnhLdW5yZnl6UQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-07T20:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-07T20:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVp0YklBZnUyd0J6SVl5VTJoeFIycTVweVRzUWcwWHJIMnBYWUY4Um8zeFBKZmxvNzA3UThlOXpYUVNtN2M5RXgya2RUVUtXTmdhWXRYN3NlS2RsSWxZd2xWODRSU0RFZEtKc3JGWTV2Y2hQN0o3VUtXT2V2R1JMeG83RkRRM0JzUnhLdW5yZnl6UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "8659a0203814",
    "title": "TSLA Stock: 5 Impending Events That Could Invalidate the Thesis - Trefis",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGYtZUlsU1g4MktyWnRtbXo0TlhudUlFUUt1em5FU2p0dHFnb0Vrcm1QTDdaT0piWFc1V19kQTUzU3FRbVZNVDBLSTZvY2lfT3h3cHdIbkxyS3JoZ21SVXl2enhxUmJ3cWFPSEJHUl8xUnpkcnBIdEFQaWRvRE0xYzEyQlVlX2hGT21ETWtLa1ZqQzhUUDhvVWVDR2xUMGdNTVhUblpUdFFmdXRKN1VnWnNNaGF2b3F3aXM5US1lTHVwZFNycEdROWtNd1g",
@@ -3944,6 +4089,40 @@
    "session": "盘后"
   },
   {
+   "id": "6ad96abe0998",
+   "title": "2026.38.3 Official Tesla Release Notes - Software Updates - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG1ic2sweFRaMmFIZTJsUC0yME5mMVlwbXF2V2t0S1VHRmloWC1XSkRtUm5jTnhrRVUweUhBY1NCSnh5X3owX0lmODhsTDNEbUlhU0l1MlpoX3FIb0R0QjdSdFZ1TFdxSkRIZ3c4eHg5Q2hBU2U3RVo2VEx5SzNzeHJ4VQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-06T20:33:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-06T20:33:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG1ic2sweFRaMmFIZTJsUC0yME5mMVlwbXF2V2t0S1VHRmloWC1XSkRtUm5jTnhrRVUweUhBY1NCSnh5X3owX0lmODhsTDNEbUlhU0l1MlpoX3FIb0R0QjdSdFZ1TFdxSkRIZ3c4eHg5Q2hBU2U3RVo2VEx5SzNzeHJ4VQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "3dc3a7bacd7a",
+   "title": "Toyota Vs. Tesla At 250,000 Miles: It’s Not Even Close - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsTjFXQmo4YzNVWEdoSVFzbzdBb1I4S2VwelVHcW1CMHd3TFlBYjE0RFNqT2JUaThnSEoyVnloblBSYmQ0Y19hUUpOazNXSTBGM1ZxRHdPSDJtT0hZUkMzaE02bUcyNEhqbzlFTy1Vc2p2dFU",
+   "source": "Autoblog",
+   "published_at": "2026-10-06T18:05:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-06T18:05:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsTjFXQmo4YzNVWEdoSVFzbzdBb1I4S2VwelVHcW1CMHd3TFlBYjE0RFNqT2JUaThnSEoyVnloblBSYmQ0Y19hUUpOazNXSTBGM1ZxRHdPSDJtT0hZUkMzaE02bUcyNEhqbzlFTy1Vc2p2dFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "82695719aac3",
    "title": "Five things that are keeping Tesla Full Self-Driving supervised - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXJCN3FTeXhyUHBSQWJpRHdjSk1tVGhDUXctbEN4cnRhNFZ2T0oxT04wZHA1UnZJT002OENsTFQyZjFXZ0ZjUVhfSHBuMUVaM0d2NndCQWs4Um9WVEt1ZlhwRjQ5SldfaV9JaFRuNkxOZUdtMlh5a015aEFpbEc4Z1c3Q0RrMzVMbEhTT3lB",
@@ -3958,6 +4137,23 @@
     }
    ],
    "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "3a37afc6a814",
+   "title": "Tesla sold under 1,000 cars in its first year in India, but it’s ramping - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRxZ2FIUTNsYURiQmxwOWpjTHA4SUFKSTFDUHBYem1iS2s0LU5NOVp3QnZEQ2RlczdDc21ZWTVXSlJrdEtOdmtnbVVNVk1jdG5ibnVpX0ZwRTRubkNKdUdrRV9sOVdUbG5SeUJVb2lIRVdPakJ1WVM0QmVnaGxMcDcwVzZuMGc0ODhGS3FR",
+   "source": "Electrek",
+   "published_at": "2026-10-06T13:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-06T13:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRxZ2FIUTNsYURiQmxwOWpjTHA4SUFKSTFDUHBYem1iS2s0LU5NOVp3QnZEQ2RlczdDc21ZWTVXSlJrdEtOdmtnbVVNVk1jdG5ibnVpX0ZwRTRubkNKdUdrRV9sOVdUbG5SeUJVb2lIRVdPakJ1WVM0QmVnaGxMcDcwVzZuMGc0ODhGS3FR"
+    }
+   ],
+   "category": "交付量",
    "session": "盘中"
   }
  ]
