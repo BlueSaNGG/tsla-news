@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T18:41:08.316362+00:00",
+ "updated_at": "2026-10-14T18:55:27.420690+00:00",
  "market": {
-  "price": 364.34,
-  "change_pct": -2.9,
+  "price": 364.48,
+  "change_pct": -2.86,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 34% 分位"
+     "note": "现价处于52周区间 35% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（132条已评分）"
+     "note": "今日新闻情绪 +0.31（135条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $364.34 vs 20日均线 $370.86"
+     "note": "现价 $364.48 vs 20日均线 $370.86"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 34,
+   "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.8,
+   "implied_upside_pct": 9.7,
    "ma20": 370.86,
-   "as_of": "2026-10-14T18:41:08.302412+00:00"
+   "as_of": "2026-10-14T18:55:27.411368+00:00"
   },
   "pe_ttm": 100.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 132
+   "avg": 0.31,
+   "count": 135
   }
  },
  "meta": {
@@ -3791,26 +3791,6 @@
    "sentiment": 1
   },
   {
-   "id": "616da40badaa",
-   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
-   "source": "财联社",
-   "published_at": "2026-10-14T00:19:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-14T00:19:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "特斯拉财报会押注机器人和储能，资本开支扩张",
-   "title_zh": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
-   "sentiment": 0
-  },
-  {
    "id": "a2aaff220d93",
    "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ZmVISTE3VmZxRG9PRHA3dVg2NUsxTGVaczI4cm9rQWRYRjM1OFdnUjhNSmZRb05PWHlTNG9TTWlZZm8taFd4a3JRTjFicWQ4dzdIODl6QTRySG8wRTNKU0F3Zw",
@@ -6517,6 +6497,23 @@
    "zh_summary": "TSLA股价隔夜续跌，分析师警告资本开支超预期",
    "title_zh": "TSLA股价隔夜延续跌势：Munster认为明年资本开支将远超预期",
    "sentiment": -1
+  },
+  {
+   "id": "0b83d2c689d7",
+   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-13T08:33:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-13T08:33:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   }
  ]
 }
