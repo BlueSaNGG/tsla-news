@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T19:41:16.017470+00:00",
+ "updated_at": "2026-10-14T19:55:00.415340+00:00",
  "market": {
-  "price": 366.11,
-  "change_pct": -2.43,
+  "price": 365.81,
+  "change_pct": -2.51,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（139条已评分）"
+     "note": "今日新闻情绪 +0.27（142条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $366.11 vs 20日均线 $370.95"
+     "note": "现价 $365.81 vs 20日均线 $370.94"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 9.3,
-   "ma20": 370.95,
-   "as_of": "2026-10-14T19:41:16.000343+00:00"
+   "ma20": 370.94,
+   "as_of": "2026-10-14T19:55:00.400086+00:00"
   },
-  "pe_ttm": 101.3,
+  "pe_ttm": 101.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 139
+   "avg": 0.27,
+   "count": 142
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8e5272b2cac9",
+   "title": "Tesla driver slams into CHP car, injuring officers investigating fatal I-80 crash - KRON4",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaThBbHFQckNCY21ZNkl1elEyZVlNX0lkcEExYmNoM2UxVW5VeUZPMnZIUlh3UnRGNGtkM0F6ZTdLVE9rQTZuOEFvbVVMZm52dFhLN0VoaDhjeF9WVVhTZDJhcm9INUtHSXpfcVhod0VfSEluWGNaaDBkc1hkbFFUek1CWDd5VDdsWDNmY1hkTTRQQU9RS082RmxuRVRNRzBRdG1OQUZuM1Q2YTZxU1VsT0J6Z09hRWtx0gG-AUFVX3lxTFBIWXIxN3Bxd0NicklaYXhCMnk4Szl2WE5hdDU2UzMwOExTYXR0MEVCTkRjdDJwNXlTbHdnY2NoVDV4SkFkeGFTTElOYmxSejBOcFpGS1VVQlkwZC1FVGhVQjAxb1oza0pwVXJzRFJCOTRQNHpfenU4aWFqNGJhcTlUcC03ci1tZVQyV0hTaHFjOU1jdU1ZeWRtZ0pMakxWQWVCS3l3WVhSNFVhSjZQbEtKZndDSFNkeDYtR2JVNXc",
+   "source": "KRON4",
+   "published_at": "2026-10-14T19:42:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KRON4",
+     "published_at": "2026-10-14T19:42:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaThBbHFQckNCY21ZNkl1elEyZVlNX0lkcEExYmNoM2UxVW5VeUZPMnZIUlh3UnRGNGtkM0F6ZTdLVE9rQTZuOEFvbVVMZm52dFhLN0VoaDhjeF9WVVhTZDJhcm9INUtHSXpfcVhod0VfSEluWGNaaDBkc1hkbFFUek1CWDd5VDdsWDNmY1hkTTRQQU9RS082RmxuRVRNRzBRdG1OQUZuM1Q2YTZxU1VsT0J6Z09hRWtx0gG-AUFVX3lxTFBIWXIxN3Bxd0NicklaYXhCMnk4Szl2WE5hdDU2UzMwOExTYXR0MEVCTkRjdDJwNXlTbHdnY2NoVDV4SkFkeGFTTElOYmxSejBOcFpGS1VVQlkwZC1FVGhVQjAxb1oza0pwVXJzRFJCOTRQNHpfenU4aWFqNGJhcTlUcC03ci1tZVQyV0hTaHFjOU1jdU1ZeWRtZ0pMakxWQWVCS3l3WVhSNFVhSjZQbEtKZndDSFNkeDYtR2JVNXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "74a3049627e5",
+   "title": "Tesla Plans Giga Berlin Hall More Than Twice the Size of Its Existing One - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWS1Dd1E5T1dOZTRLbmJwb1FHYkMtS1pJajd6LW9zaU9fWlJXazFoMk9TSWpQVXk3b19XMFVFZUVWQk5WVlBQU1hBcHd2cERFMEN3MjhETlR1SXpoQjlpRHJzRDRPUmRMWnE0S0lGNXdlRWEzeGZ4LXpjNWZzTEtMMjVQRnpVdG9SQTdKTjFrM3RLYXpvd19sYXJUeFQ5SS1IaFhDUUpHWWZlcUFrV0E",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-14T19:38:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-14T19:38:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWS1Dd1E5T1dOZTRLbmJwb1FHYkMtS1pJajd6LW9zaU9fWlJXazFoMk9TSWpQVXk3b19XMFVFZUVWQk5WVlBQU1hBcHd2cERFMEN3MjhETlR1SXpoQjlpRHJzRDRPUmRMWnE0S0lGNXdlRWEzeGZ4LXpjNWZzTEtMMjVQRnpVdG9SQTdKTjFrM3RLYXpvd19sYXJUeFQ5SS1IaFhDUUpHWWZlcUFrV0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "b4527360e140",
    "title": "First Shift: Tesla pauses China-built Model 3 imports to Canada - Automotive News",
@@ -888,6 +922,23 @@
    "sentiment": 1
   },
   {
+   "id": "c6d54dc20b73",
+   "title": "Tesla Expected to Unveil Production Roadster in Waco After Near-Decade Wait - Northeast Times",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1htajFOd0hsNi1qMndxRTBjaVFnZHhuVWRMRF9sQ1U1ZUs1Nkc1UU40MHJZaTA1YVFJTU1FWi12RXZHZFc0UloyVlJ5MXRjVzhJaHNQczdCSTVEZUYtUGdPem9uWGVPa3VkWmZGVE5iLW0td0NOQW1wSGNhbGY3OFJRbnU0ZWNPSERZMkxXdzdsX2lGV2RVcHlHaEtWNWI0RkhtcHhEdGxQaXlpNV9SM0FBMzY",
+   "source": "Northeast Times",
+   "published_at": "2026-10-14T14:56:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Northeast Times",
+     "published_at": "2026-10-14T14:56:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1htajFOd0hsNi1qMndxRTBjaVFnZHhuVWRMRF9sQ1U1ZUs1Nkc1UU40MHJZaTA1YVFJTU1FWi12RXZHZFc0UloyVlJ5MXRjVzhJaHNQczdCSTVEZUYtUGdPem9uWGVPa3VkWmZGVE5iLW0td0NOQW1wSGNhbGY3OFJRbnU0ZWNPSERZMkxXdzdsX2lGV2RVcHlHaEtWNWI0RkhtcHhEdGxQaXlpNV9SM0FBMzY"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
    "id": "48b7fd825ae1",
    "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch - Electrek",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmQ1QlRVcTFlaS1GQnp6U3R1bXFoTm1SS3pUeDRSVUtoRUtaLXZ6b1hIbEJDcGgzT29fRDRENWgzd3YtWXI5NHlqbmg1WWozRFlYbmFBVExJQy16LXQ2cDlkYzR6cVppc3ZUaVFmV2ZMbXpsSFpBUzNyMVBwWGhVdzk2V0hHLW5SYjJ1Y2lKNk9EWG0ydE5XVg",
@@ -1241,26 +1292,6 @@
    "zh_summary": "小鹏G9L巴黎亮相与特斯拉同场",
    "title_zh": "【视频】巴黎高光：小鹏G9L把“中国智驾”带到了特斯拉旁边 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "912774096419",
-   "title": "TSLA Stock’s 3-Week Rally Faces A Test — Why Waymo’s ‘Defensive’ Turn Makes This Bullish Analyst Love Tesla Even More - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R",
-   "source": "Stocktwits",
-   "published_at": "2026-10-14T12:45:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-14T12:45:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师因Waymo守势看好TSLA",
-   "title_zh": "TSLA连续三周反弹面临考验，分析师因Waymo守势更看好",
-   "sentiment": 1
   },
   {
    "id": "49d5181e9afa",
@@ -6476,46 +6507,6 @@
    "session": "盘前",
    "zh_summary": "何小鹏体验FSD称整体非常流畅",
    "title_zh": "何小鹏巴黎街头体验特斯拉FSD 称整体表现非常流畅",
-   "sentiment": 1
-  },
-  {
-   "id": "176d69e021a6",
-   "title": "Michael Burry’s latest bet raises uncomfortable questions for Tesla - TheStreet",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93aXM0NGY5SmVEYV9IMjdnTXM4Wm9WRHIydklxR3J6N2ROYW95cllQVUZ5VzVMWWQ2QzNvYlZxNmdQRC1VRm4xQ0UwaVVmNjRGZmFYalpMOFFCTzJPWVlIU29Gb1NwV1pyMGlkVDE3VWxNR005bDYzTA",
-   "source": "TheStreet",
-   "published_at": "2026-10-13T10:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-13T10:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93aXM0NGY5SmVEYV9IMjdnTXM4Wm9WRHIydklxR3J6N2ROYW95cllQVUZ5VzVMWWQ2QzNvYlZxNmdQRC1VRm4xQ0UwaVVmNjRGZmFYalpMOFFCTzJPWVlIU29Gb1NwV1pyMGlkVDE3VWxNR005bDYzTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Burry最新押注引发对特斯拉质疑",
-   "title_zh": "Burry最新押注给特斯拉带来尖锐质疑",
-   "sentiment": -1
-  },
-  {
-   "id": "46ec5c584e5d",
-   "title": "Model 3限时立减5000元！特斯拉9月国内销量6.5万辆，10月抄底时机？ - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3TXlXZUNFb2cwdmMwelpTdEhnTXNDY2gzd2FFeHB3a004OGRIanh4MTQ1MktxNi1QQlh1cHBubHZiMkp5SFVvWXBTUkFwWWNGc2xmM3NWdUNkSVE",
-   "source": "网通社",
-   "published_at": "2026-10-13T09:48:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-13T09:48:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3TXlXZUNFb2cwdmMwelpTdEhnTXNDY2gzd2FFeHB3a004OGRIanh4MTQ1MktxNi1QQlh1cHBubHZiMkp5SFVvWXBTUkFwWWNGc2xmM3NWdUNkSVE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉9月国内销量6.5万辆",
-   "title_zh": "Model 3限时立减5000元！特斯拉9月国内销量6.5万辆，10月抄底时机？",
    "sentiment": 1
   }
  ]
