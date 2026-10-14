@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T04:52:29.551582+00:00",
+ "updated_at": "2026-10-14T05:07:26.303275+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -7,12 +7,12 @@
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
-   "days_left": 8
+   "days_left": 7
   },
   "next_delivery": {
    "date": "2027-01-02",
    "label": "Q4 2026 交付报告",
-   "days_left": 81,
+   "days_left": 80,
    "estimated": true
   },
   "daily_signal": {
@@ -50,7 +50,7 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-14T04:52:29.545052+00:00"
+   "as_of": "2026-10-14T05:07:26.290208+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
@@ -807,6 +807,23 @@
    "zh_summary": "Cybercab费城行驶中车门脱落",
    "title_zh": "金色特斯拉Cybercab在费城脱落车门，当地无自动驾驶许可",
    "sentiment": -1
+  },
+  {
+   "id": "d960da119f96",
+   "title": "At $45,900, the Tesla Model 3 RWD is aiming at the BYD Seal - Drive",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUIwODdUckhhTlJjVkVkU0Y1MjhJelRhVmdIOXRVUVd0eEZHWU9NdDZoZVVKTEhNTTlSS2tZblVWMjY5RXpRRm5BLUpXZzUtNzU1TW5qRDVLUzQxc1RoUXRKX1ZmVGRKTUQ2M2RHZ05tUXd0RnBpMHd0bFBHVkFfbEdzbWwyUTBp",
+   "source": "Drive",
+   "published_at": "2026-10-13T23:04:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive",
+     "published_at": "2026-10-13T23:04:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUIwODdUckhhTlJjVkVkU0Y1MjhJelRhVmdIOXRVUVd0eEZHWU9NdDZoZVVKTEhNTTlSS2tZblVWMjY5RXpRRm5BLUpXZzUtNzU1TW5qRDVLUzQxc1RoUXRKX1ZmVGRKTUQ2M2RHZ05tUXd0RnBpMHd0bFBHVkFfbEdzbWwyUTBp"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "b2072cd26c46",
@@ -2053,7 +2070,7 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Xzl6UlktMjlpU3ZRVlVrUUtDaThOb3A2VmlMVTNKQlhUY0pJOHdYLXRhVjlQZnpaUzNQeGdRcDRtUnhzVmtWUnZTRW5sLWYza1V2Q2pvN3pwRnZ5U1ZJX2xMU2RtU1p0eEpNbm9BUGw1UQ",
    "source": "手机新浪网",
    "published_at": "2026-10-13T14:24:28+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "手机新浪网",
@@ -2064,13 +2081,22 @@
      "name": "搜狐",
      "published_at": "2026-10-13T15:05:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON01aVllvQmZlRE90MXNMZUtBai1CSE01TDJxank0VlE5QXVKLWNoa0xua3pTRVF3M1FQSm9kcEZpLTQ1cHp1di1sdGFyeGl0WFpPSGJhZUt4Njl6NVBnTVEzNFJNc1hTdHhiQVg2dlNBOWh6aTlCa29YVnd6XzJzQ0tHRVlkZ0VJSTl6TQ"
+    },
+    {
+     "name": "雷科技",
+     "published_at": "2026-10-13T14:25:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mT3hRMmNIek11bHUzckhRMmdwUU96ZlNUemhUMk9ZUlFmdWNqYjZTOUhZcENMb2pGdnhjMUVBaFBtMkZHeGRWc0lSVGJsQQ"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
    "zh_summary": "何小鹏实测特斯拉FSD称表现流畅",
    "title_zh": "巴黎车展正面交手！何小鹏实测特斯拉 FSD：表现很流畅，但小鹏模型更大 - 手机新浪网",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.44,
+    "window_h": 2.0
+   }
   },
   {
    "id": "427c974e67c0",
@@ -6382,26 +6408,6 @@
    "zh_summary": "上海Model 3车主因安全带故障投诉",
    "title_zh": "上海一特斯拉Model 3车主因安全带卡扣钢缆断裂向多部门投诉",
    "sentiment": -1
-  },
-  {
-   "id": "053931b2211b",
-   "title": "TSLA Stock Gains For First Time In Five Sessions – Tesla Expands Robotaxi Service In Florida Ahead Of Q2 Earnings - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMEY2SkFkc3lIRXdZckFpUzBZcnhPajZoYXQxV21xdndJN21BUXlQWHFUMnAteElpdUEya0d0XzAyYk0zZmphSlhEVDBhZjlNbXRoQW4xemZFcGE0NEJTUWg4YkVRUzN0N2FKdmRORkRydV9haUxWUU8zR2xsUUp5T0taUEloUHlDbFE0Tmp6Nkc1ZVM3M0JJTkdFeUx2MTJoZ2RBS2duNHRzMnk1T0kzbEt4dlF3TDlleE5hQlR0ZENnVkM2MHQ1ZU9VSy1vZ0FvM3VIYm9nMDN1Q0JnZHFXeXJqU3R2OW02UERSZ1hlNVNUNDZfcnpkMHFkMEpRV0RMS0x5XzZn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-11T21:26:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-11T21:26:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMEY2SkFkc3lIRXdZckFpUzBZcnhPajZoYXQxV21xdndJN21BUXlQWHFUMnAteElpdUEya0d0XzAyYk0zZmphSlhEVDBhZjlNbXRoQW4xemZFcGE0NEJTUWg4YkVRUzN0N2FKdmRORkRydV9haUxWUU8zR2xsUUp5T0taUEloUHlDbFE0Tmp6Nkc1ZVM3M0JJTkdFeUx2MTJoZ2RBS2duNHRzMnk1T0kzbEt4dlF3TDlleE5hQlR0ZENnVkM2MHQ1ZU9VSy1vZ0FvM3VIYm9nMDN1Q0JnZHFXeXJqU3R2OW02UERSZ1hlNVNUNDZfcnpkMHFkMEpRV0RMS0x5XzZn"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "特斯拉在佛州扩大Robotaxi服务",
-   "title_zh": "TSLA五连跌后首涨，特斯拉在佛罗里达扩大Robotaxi服务",
-   "sentiment": 1
   }
  ]
 }
