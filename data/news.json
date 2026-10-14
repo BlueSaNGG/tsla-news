@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T03:37:34.591132+00:00",
+ "updated_at": "2026-10-14T03:52:36.815547+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（173条已评分）"
+     "note": "今日新闻情绪 +0.06（175条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-14T03:37:34.574158+00:00"
+   "as_of": "2026-10-14T03:52:36.804407+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 173
+   "avg": 0.06,
+   "count": 175
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "84afe80fdeb8",
+   "title": "特斯拉9月销量出炉：国内6.5万辆创新高，争议与热销并存！ - 维科号",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tVWszeDJvOTh1b0htU2VmQnBtMDZHVDdLT2lYVVRwdUhxTjRVU28wRGpwU0Ftck42d0dGZW1kTGxwanJsRjBIMHBR",
+   "source": "维科号",
+   "published_at": "2026-10-14T03:42:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "维科号",
+     "published_at": "2026-10-14T03:42:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tVWszeDJvOTh1b0htU2VmQnBtMDZHVDdLT2lYVVRwdUhxTjRVU28wRGpwU0Ftck42d0dGZW1kTGxwanJsRjBIMHBR"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
+  {
+   "id": "34f9658597ea",
+   "title": "拟IPO公司新剑传动透露：特斯拉机器人计划2026年年底前开启量产 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGVKcTFPSUxISVVBcUo2ZGJoV3I2c2NkYTdCbzBfTU1HUFExVDRucDd6TjJhd25QT1BubDZ5Wm1YYXhza1ZnbFhMNW95eTBQZ3JNemZhdTlGVmFBM2J6bjhZTVlJS0h0QnNXSk9SY09ibWUtRUVVbF9HVDRaY01tTUZCUjB6bHUzTWdwVQ",
+   "source": "搜狐",
+   "published_at": "2026-10-14T03:34:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T03:34:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGVKcTFPSUxISVVBcUo2ZGJoV3I2c2NkYTdCbzBfTU1HUFExVDRucDd6TjJhd25QT1BubDZ5Wm1YYXhza1ZnbFhMNW95eTBQZ3JNemZhdTlGVmFBM2J6bjhZTVlJS0h0QnNXSk9SY09ibWUtRUVVbF9HVDRaY01tTUZCUjB6bHUzTWdwVQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "7f5ebd242daa",
    "title": "特斯拉司机讲理用普通话遭遇委屈 - 新浪网",
@@ -103,8 +137,8 @@
    ],
    "category": "车型产品",
    "session": "盘后",
-   "title_zh": "曝特斯拉机器人即将量产 Optimus接近定型",
    "zh_summary": "特斯拉Optimus机器人接近定型",
+   "title_zh": "曝特斯拉机器人即将量产 Optimus接近定型",
    "sentiment": 1
   },
   {
@@ -146,6 +180,23 @@
    "zh_summary": "2023款二手Model 3行驶6.3万公里",
    "title_zh": "【视频】2023年特斯拉model3太新了6.3万公里 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "5d055c62587b",
+   "title": "Tesla Rival XPeng Says It Can Adapt Driver-Assist Tech for Europe in Just 2 Weeks as Elon Musk's TSLA Faces Fresh Regulatory Pushback Over FSD - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHU3NmNNRWxwdWlab1djeW9ZYkZZRWotSmNJbE1DSVdXTHkxdEs3MmRCbGhpTlhJeWNIWHJac2lLNUppRDludHpZc3Y4cEFhX0UtVENvNURtX21DR1VZalBCb0p6RWpWZzNtTDJtNV9SOGlkQlpNRHhPdnl1U3oxNUVWUFo5SXNnQk5CdFF5dXlaczF5Qldz",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T02:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T02:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHU3NmNNRWxwdWlab1djeW9ZYkZZRWotSmNJbE1DSVdXTHkxdEs3MmRCbGhpTlhJeWNIWHJac2lLNUppRDludHpZc3Y4cEFhX0UtVENvNURtX21DR1VZalBCb0p6RWpWZzNtTDJtNV9SOGlkQlpNRHhPdnl1U3oxNUVWUFo5SXNnQk5CdFF5dXlaczF5Qldz"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "b5672f25425c",
@@ -782,6 +833,23 @@
    "zh_summary": "两中国公民涉冒用身份租购特斯拉被起诉",
    "title_zh": "涉冒用身分租購特斯拉 兩中國公民面臨指控 - 大紀元",
    "sentiment": -1
+  },
+  {
+   "id": "a1d70ef1421f",
+   "title": "特斯拉在华销量降12%，上海出口增长逾一倍 - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkNsMTNJTVl5VTlpQXJGQS0tV2dRQklmYkxpXzlsQmZGclp0RVhBc3o1cHBkY2FjWkM1M1U0Sjk5dGh3cnhlUzhvU010TVFGVHFtSkdnUzR3YTBYajFWRDg5eUZEQ3c0OUw4V3htTHZsT25CU1BQclEzRjVLanpmZHRtZ29KMXBXVTR6MTRhQVJSRG1PZXdlemNpNm9lcUcyaGlwM2Y5RTU4bVN4RmlrTnU3QzAyMm4tZ0ZB",
+   "source": "UA.NEWS",
+   "published_at": "2026-10-13T22:38:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "UA.NEWS",
+     "published_at": "2026-10-13T22:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdkNsMTNJTVl5VTlpQXJGQS0tV2dRQklmYkxpXzlsQmZGclp0RVhBc3o1cHBkY2FjWkM1M1U0Sjk5dGh3cnhlUzhvU010TVFGVHFtSkdnUzR3YTBYajFWRDg5eUZEQ3c0OUw4V3htTHZsT25CU1BQclEzRjVLanpmZHRtZ29KMXBXVTR6MTRhQVJSRG1PZXdlemNpNm9lcUcyaGlwM2Y5RTU4bVN4RmlrTnU3QzAyMm4tZ0ZB"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
   },
   {
    "id": "6ec108ee9aad",
@@ -3209,8 +3277,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "TSLA隔夜上涨，分析师预计今年交付增长10%",
    "zh_summary": "分析师预计特斯拉今年交付增长10%",
+   "title_zh": "TSLA隔夜上涨，分析师预计今年交付增长10%",
    "sentiment": 1
   },
   {
@@ -6306,86 +6374,6 @@
    "zh_summary": "Model Y购买3维度优缺点解析",
    "title_zh": "特斯拉Model Y值得买吗？3个维度看清优缺点+FAQ - 新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "43e61265b2c1",
-   "title": "TSLA Stock Continues Slide After Musk Says ‘A Little Less Capital Efficient’ Is Acceptable — Warns Of Rising Capex for Next 2-3 Years - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaUI2NVFhZmZHS0dZUGxjQTRXVl9RVUJhOHBxN25GSFhBZjJHNHppc2hMSkhiYzRCdnZOb1l1X1VvVmdCQnRiQzFQYllybnpLTndsMThLcTF0a0lYQWw5bTB0eGxVQkJ1blFKNzFKZF9ybzlad0llMzZUT2xwUUhoVk1zYlJHQVpDN0dkallWcFpIeUltYm1WSUFUUzZiOXdvSE9SRVBHc2pORTFxcFpGRE1FemNTY3F5VktPM3dJX0FaWUlsYzJpdUhqV2JTdURjc1FrbWxiZzZNU3gzZFhyMERkckZKWDUycjlEekhoX2RUT2RFRDdJNGUtdTlnSFQ5Ujg2a3d2QnBhSDd4SW1GWU41YUR3Z0JJSm9KNzRB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-11T13:03:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-11T13:03:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaUI2NVFhZmZHS0dZUGxjQTRXVl9RVUJhOHBxN25GSFhBZjJHNHppc2hMSkhiYzRCdnZOb1l1X1VvVmdCQnRiQzFQYllybnpLTndsMThLcTF0a0lYQWw5bTB0eGxVQkJ1blFKNzFKZF9ybzlad0llMzZUT2xwUUhoVk1zYlJHQVpDN0dkallWcFpIeUltYm1WSUFUUzZiOXdvSE9SRVBHc2pORTFxcFpGRE1FemNTY3F5VktPM3dJX0FaWUlsYzJpdUhqV2JTdURjc1FrbWxiZzZNU3gzZFhyMERkckZKWDUycjlEekhoX2RUT2RFRDdJNGUtdTlnSFQ5Ujg2a3d2QnBhSDd4SW1GWU41YUR3Z0JJSm9KNzRB"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "马斯克警告未来2-3年资本开支上升",
-   "title_zh": "TSLA延续跌势，马斯克称未来2-3年资本开支将上升",
-   "sentiment": -1
-  },
-  {
-   "id": "a47c6b40b00c",
-   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
-   "source": "InsideEVs",
-   "published_at": "2026-10-11T13:02:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-11T13:02:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉结束欧洲13个月销量连跌",
-   "title_zh": "特斯拉终结欧洲连续13个月销量下滑",
-   "sentiment": 1
-  },
-  {
-   "id": "9742ea5ccc97",
-   "title": "The gap between the monthly cost of charging a Tesla Cybertruck vs filling a GMC Canyon in the US is nothing short of staggering - supercarblondie.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MOXNac3NoQWdiQTRYS1duN3lFajNQTUFPY21Ca0FIdEFLXzhVT2Rkdkdla3cxTmtFODgtQ2l5T0RvU010MU1hVzU4M29sVll1LTFrRnZrLTM5Qk5xS0NaTlVZZjFvZlhEM0JTcG5Cb0M4ckloT0I4NmppOHQ",
-   "source": "supercarblondie.com",
-   "published_at": "2026-10-11T12:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "supercarblondie.com",
-     "published_at": "2026-10-11T12:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MOXNac3NoQWdiQTRYS1duN3lFajNQTUFPY21Ca0FIdEFLXzhVT2Rkdkdla3cxTmtFODgtQ2l5T0RvU010MU1hVzU4M29sVll1LTFrRnZrLTM5Qk5xS0NaTlVZZjFvZlhEM0JTcG5Cb0M4ckloT0I4NmppOHQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Cybertruck充电月均成本远低于油车",
-   "title_zh": "Cybertruck充电成本远低于GMC Canyon油费",
-   "sentiment": 1
-  },
-  {
-   "id": "750faac74391",
-   "title": "Tesla owner drove 1,857 miles in 31 days, says charging cost $136 and saved $235 on gas - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxBSUpRX2tBSHQwMldaNU9TbXRaUkZjbzF6VlB2VTJhcXlKcFZ4bFVZVnhuY1FsUEE3WmRBZV9yLTRmTWljSUszalluR2dqU0hqVXl0UnlWQnI3V3BMYVQ1ZFBYVXNacTZqQzhHbDRnSDVDRmhNY1NLTFk5RWtEWGlFeVdMdGFXaF9mWHNvd1VndVNP",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-11T11:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-11T11:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxBSUpRX2tBSHQwMldaNU9TbXRaUkZjbzF6VlB2VTJhcXlKcFZ4bFVZVnhuY1FsUEE3WmRBZV9yLTRmTWljSUszalluR2dqU0hqVXl0UnlWQnI3V3BMYVQ1ZFBYVXNacTZqQzhHbDRnSDVDRmhNY1NLTFk5RWtEWGlFeVdMdGFXaF9mWHNvd1VndVNP"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "车主称充电$136省油费$235",
-   "title_zh": "车主31天开1857英里充电花$136省油$235",
-   "sentiment": 1
   }
  ]
 }
