@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T01:37:25.343681+00:00",
+ "updated_at": "2026-10-14T01:52:29.148134+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（157条已评分）"
+     "note": "今日新闻情绪 +0.05（158条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-14T01:37:25.330478+00:00"
+   "as_of": "2026-10-14T01:52:29.134525+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.05,
-   "count": 157
+   "count": 158
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a2b8f3818328",
+   "title": "Tesla is unveiling the new Roadster for real this time, promise - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZldvNlhnZTNyUUh6bFdiN2E1SmNZalV4TnZ5WUJiNUFCY240cE8xYVBSaUdhYVMyUFhOYUZUUUVXT21oUU8yY1czaXEtbDhFck0tNFFKcWtyUEdBcWtNNkQ2d1RNTWE2SUQ2UU42bmw0MTdSWFRYNzUxb0Z2VmdNRzEyeVpjZw",
+   "source": "Electrek",
+   "published_at": "2026-10-14T01:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-14T01:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZldvNlhnZTNyUUh6bFdiN2E1SmNZalV4TnZ5WUJiNUFCY240cE8xYVBSaUdhYVMyUFhOYUZUUUVXT21oUU8yY1czaXEtbDhFck0tNFFKcWtyUEdBcWtNNkQ2d1RNTWE2SUQ2UU42bmw0MTdSWFRYNzUxb0Z2VmdNRzEyeVpjZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "a12adae8bea2",
    "title": "Tesla Robotaxi Fart Mode Glitch: What Happened [2026] - https://tech-insider.org/",
@@ -6345,26 +6362,6 @@
    "zh_summary": "机构Balefire增持特斯拉股票",
    "title_zh": "Balefire LLC增持TSLA股份",
    "sentiment": 1
-  },
-  {
-   "id": "8490c00e5755",
-   "title": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw",
-   "source": "21财经",
-   "published_at": "2026-10-10T07:15:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-10T07:15:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1NwQVY5QnByeGY5SEJ5dzFUSWpiT1R6b1JDaHVZY0JIanlzMHVkTVZycGdCQm4wSnFRczh0enZ5ZWdNanEwZjhreGlpQTNIY1RCY3ZRT2o3eGw4ZmI5VUdhMUZ3OVY5QlVGU2VKUUFzMmg3Skt2OE9JSVNzWk1DQ3RXOHhzRDRtZ0dZZ0l4dw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "欧洲FSD更名辅助驾驶放弃全自动驾驶",
-   "title_zh": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
-   "sentiment": -1
   }
  ]
 }
