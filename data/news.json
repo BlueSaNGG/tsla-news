@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T23:52:40.880508+00:00",
+ "updated_at": "2026-10-14T00:07:25.443222+00:00",
  "market": {
-  "price": 375.23,
-  "change_pct": -0.74,
+  "price": 378.03,
+  "change_pct": -1.22,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 42% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.6%"
+     "note": "目标价中位数 $400（16家），隐含空间 +5.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（141条已评分）"
+     "note": "今日新闻情绪 +0.06（142条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.23 vs 20日均线 $370.54"
+     "note": "现价 $378.03 vs 20日均线 $369.61"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 42,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.6,
-   "ma20": 370.54,
-   "as_of": "2026-10-13T23:52:40.868283+00:00"
+   "implied_upside_pct": 5.8,
+   "ma20": 369.61,
+   "as_of": "2026-10-14T00:07:25.436286+00:00"
   },
-  "pe_ttm": 103.8,
+  "pe_ttm": 104.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.06,
-   "count": 141
+   "count": 142
   }
  },
  "meta": {
@@ -4136,7 +4136,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3NCMHVqNjc2VlN5WDJEbkpucUZ0WUFsQWc3OEowNTVCOWwtQ3V4M1A4SmdWVjkxa1RubnZFcEpPQTNJNTlWRHIwVUJSWWVzV0lIdHdkWGRVYjVkdnh4Mzl6cTQtUmtTcFVRR0VZcDZUd19KMjZJcGw2V3lXN1VQclNRc21WMFJiZ04yUmRfTHVOSTd4ZDVYSG5fYnI1N2x0T3VucHAzQW81NTFlYWhUTnFR",
    "source": "New York Post",
    "published_at": "2026-10-12T19:20:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "New York Post",
@@ -4147,13 +4147,22 @@
      "name": "Autoblog",
      "published_at": "2026-10-13T12:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWVjaEFXZGlmWHJmTWtSalFreWhIMGNiajNnTXNGYjdaTEFxd29fVFlJT0JzQUtKSDJPWDNyT000ZDEyU2I1cnZ5VEtoWVpQZTBPNndKZ3JRcXB2UkdXSDV6ZmVJOVVSRGI5SG5MN1dNTndiMVNrODhzckxHNi1RWHZocGV0UFM5V01KekVfS2VPV0xFV25GZXpBQjV0NHAzZ242eDFfSQ"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-13T12:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamhNM2dvTnpvZ254QmstaHNRUDl5RENGblZ5d0JMRy0wbXgzeVVkM1NtOHBTLUUzSktwZ2drQlVLNWFEeWtxX2VDRzdDdERUVHVrazZfRU1fNE1teUswVXZtXzZhXzJ3ZzlXNVNlcDJzY2hlUTZnZGJvWFpjeGE4eVE1ZW9nSGFjWWVxZ1BEYWR6M2dleUYwMi10Um1sX2syZDlONUtJX3RuMW1OaGZR"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
    "zh_summary": "Robotaxi校园超速遭调查",
    "title_zh": "特斯拉Robotaxi因涉嫌校园超速面临调查",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.17,
+    "window_h": 0.6
+   }
   },
   {
    "id": "c03c2a55c758",
