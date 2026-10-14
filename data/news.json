@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T13:53:07.407927+00:00",
+ "updated_at": "2026-10-14T14:07:57.610309+00:00",
  "market": {
-  "price": 366.1,
-  "change_pct": -2.43,
+  "price": 366.02,
+  "change_pct": -2.45,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（84条已评分）"
+     "note": "今日新闻情绪 +0.39（88条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $366.10 vs 20日均线 $370.95"
+     "note": "现价 $366.02 vs 20日均线 $370.94"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 9.3,
-   "ma20": 370.95,
-   "as_of": "2026-10-14T13:53:07.388157+00:00"
+   "ma20": 370.94,
+   "as_of": "2026-10-14T14:07:57.597534+00:00"
   },
-  "pe_ttm": 101.3,
+  "pe_ttm": 101.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 84
+   "avg": 0.39,
+   "count": 88
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "35ef15b5f526",
+   "title": "Tesla robotaxis accused of speeding in school zones, NHTSA weighs probe - CBT News",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52a1JTaUZ4R1RjWkF5NmJzbkFpcVNicENiVktBQ3FoQkFfYlU2Tk53c1g0c2t2MXV5bDVFd2FJRUJfSEE0U2M1UlU5SWhvSVNLeFRiUGJCUWxWTjQ4ajdOb3pWbEpJVVgtRG5SaklpOG9lOTQ",
+   "source": "CBT News",
+   "published_at": "2026-10-14T14:02:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CBT News",
+     "published_at": "2026-10-14T14:02:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52a1JTaUZ4R1RjWkF5NmJzbkFpcVNicENiVktBQ3FoQkFfYlU2Tk53c1g0c2t2MXV5bDVFd2FJRUJfSEE0U2M1UlU5SWhvSVNLeFRiUGJCUWxWTjQ4ajdOb3pWbEpJVVgtRG5SaklpOG9lOTQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "88bef12aa3a4",
    "title": "First Look: The PIX Robobus is like the Tesla Robovan, only smaller! - TopElectricSUV",
@@ -86,6 +103,23 @@
    "zh_summary": "PIX发布Robobus，类似缩小版Robovan",
    "title_zh": "首看：PIX Robobus如同特斯拉Robovan，只是更小",
    "sentiment": 0
+  },
+  {
+   "id": "8440dc364606",
+   "title": "长盛轴承(300718.SZ)：产品已应用于奔驰、宝马、特斯拉等全球知名主机厂_公司新闻_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hc0lveWJXVzdXVXMxN19JdE5YaHNXSGtTZ2pWTDROa0pacmdqZDhaakxURVBabjEtQ3ZrSy11TURpSnU4SzJpdWVjQ0JsVVBTc1BiNmRQY0JySjJZS3hEZA",
+   "source": "证券之星",
+   "published_at": "2026-10-14T13:45:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-14T13:45:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hc0lveWJXVzdXVXMxN19JdE5YaHNXSGtTZ2pWTDROa0pacmdqZDhaakxURVBabjEtQ3ZrSy11TURpSnU4SzJpdWVjQ0JsVVBTc1BiNmRQY0JySjJZS3hEZA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "965ec11c645f",
@@ -2780,6 +2814,23 @@
    "zh_summary": "UNICOM购入特斯拉股票",
    "title_zh": "UNICOM Systems公司买入特斯拉$TSLA股票",
    "sentiment": 1
+  },
+  {
+   "id": "616da40badaa",
+   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
+   "source": "财联社",
+   "published_at": "2026-10-14T00:19:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-14T00:19:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "2dbc6a385306",
@@ -6440,66 +6491,6 @@
    "zh_summary": "蒙斯特称特斯拉明年资本开支或超预期",
    "title_zh": "TSLA 股价隔夜继续下跌：蒙斯特认为明年资本开支将超华尔街预期",
    "sentiment": -1
-  },
-  {
-   "id": "b30bfadb3802",
-   "title": "Tesla Cybertruck Driver Hauls His Son’s Drumline Gear, Logs 103 Miles, and Reaches a Charger With About 15% Battery - Torque News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTEtNWF5R0ctLWRwbWZKcDlpb2FpcXJCZGRSZDlOWVV4NXlwT0RUSDVQal9vU20zVU54VnQ1OF9jR1ZyWnRFWUI3R1Ryc2pVUTNXUk9kajVSM1dpX0lPOG81TGVsQ0VwUDlEZHBYU2d0Yjc2N3IzZ21teHN2OGxBMm9jS0tPRlJqNmROQjEtTm94RlRiTi00ZnRULWV3Q3cxZ0t2RThPcE1mYjRPY04wM1J6MExfVkZpakIzLWw2b25iMWVX",
-   "source": "Torque News",
-   "published_at": "2026-10-13T02:36:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Torque News",
-     "published_at": "2026-10-13T02:36:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTEtNWF5R0ctLWRwbWZKcDlpb2FpcXJCZGRSZDlOWVV4NXlwT0RUSDVQal9vU20zVU54VnQ1OF9jR1ZyWnRFWUI3R1Ryc2pVUTNXUk9kajVSM1dpX0lPOG81TGVsQ0VwUDlEZHBYU2d0Yjc2N3IzZ21teHN2OGxBMm9jS0tPRlJqNmROQjEtTm94RlRiTi00ZnRULWV3Q3cxZ0t2RThPcE1mYjRPY04wM1J6MExfVkZpakIzLWw2b25iMWVX"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Cybertruck载鼓队器材跑103英里",
-   "title_zh": "Cybertruck车主拉鼓队器材跑103英里剩15%电",
-   "sentiment": 0
-  },
-  {
-   "id": "47b8caad4ddd",
-   "title": "Tesla Cybertruck Driver Says He Towed 1,100 Miles Without Unhitching, but Made 14 Charging Stops - Torque News",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUJDckFyd3AtdDVONTBITVBCWDlKNmtfTFVucXV5YjUzQWlyNGVvOG4wVnhWVTRGanN3Ynlyd0pIUUJkel9xdXRCMTZicUJIZkptbHlKeGg3QldDM1RUUnNxa3lNU29KaWlsUkdqX2g4VldpeGJ6WTVFbUo5UldQOVFZX0g0Y2VpM3VXY1FwSE52WkowYzFjcktSLUw5X0ltQlV0MFhEU1BIUUZ3R202WjhJQ1dRQm95WHJ0WnZKeS0",
-   "source": "Torque News",
-   "published_at": "2026-10-13T02:29:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Torque News",
-     "published_at": "2026-10-13T02:29:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWUJDckFyd3AtdDVONTBITVBCWDlKNmtfTFVucXV5YjUzQWlyNGVvOG4wVnhWVTRGanN3Ynlyd0pIUUJkel9xdXRCMTZicUJIZkptbHlKeGg3QldDM1RUUnNxa3lNU29KaWlsUkdqX2g4VldpeGJ6WTVFbUo5UldQOVFZX0g0Y2VpM3VXY1FwSE52WkowYzFjcktSLUw5X0ltQlV0MFhEU1BIUUZ3R202WjhJQ1dRQm95WHJ0WnZKeS0"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Cybertruck拖行1100英里充电14次",
-   "title_zh": "Cybertruck拖行1100英里不停靠充电14次",
-   "sentiment": 0
-  },
-  {
-   "id": "0db343896bad",
-   "title": "特斯拉欧洲调整FSD命名适配当地法规 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjREpXYUl2dlJJZFhFeHFZVVdzREdVLVhSX1BzNmhMaHZuY3lFdFBER2xiNGRyVEtPVUpDcWpmaThlN3U0LXIzaTNlcHIxNDNqYVM3N2lIVmtzVW8",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T02:14:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T02:14:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjREpXYUl2dlJJZFhFeHFZVVdzREdVLVhSX1BzNmhMaHZuY3lFdFBER2xiNGRyVEtPVUpDcWpmaThlN3U0LXIzaTNlcHIxNDNqYVM3N2lIVmtzVW8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉欧洲调整FSD命名适配法规",
-   "title_zh": "特斯拉欧洲调整FSD命名适配当地法规",
-   "sentiment": 0
   }
  ]
 }
