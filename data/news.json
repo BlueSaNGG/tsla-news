@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T17:39:49.821640+00:00",
+ "updated_at": "2026-10-14T17:53:54.145991+00:00",
  "market": {
-  "price": 366.2,
-  "change_pct": -2.41,
+  "price": 365.47,
+  "change_pct": -2.6,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.4%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $366.20 vs 20日均线 $370.95"
+     "note": "现价 $365.47 vs 20日均线 $370.91"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.2,
-   "ma20": 370.95,
-   "as_of": "2026-10-14T17:39:49.806017+00:00"
+   "implied_upside_pct": 9.4,
+   "ma20": 370.91,
+   "as_of": "2026-10-14T17:53:54.139317+00:00"
   },
-  "pe_ttm": 101.3,
+  "pe_ttm": 101.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.32,
    "count": 123
@@ -841,6 +841,23 @@
    "zh_summary": "特斯拉股价下跌Uber提万亿美元问题",
    "title_zh": "特斯拉股价下跌，Uber提出万亿美元问题",
    "sentiment": -1
+  },
+  {
+   "id": "baf64cf24563",
+   "title": "Tesla Changes ‘Full Self-Driving’ Name in Europe Following Regulatory Pushback Over Accuracy - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnZ5UEQ0dWVFclpmNFViQ1ZEbWlfamE3dEx0b3pBRnJIaDlWaTlRd1piT29mcmV0djlGT01ZeUQyb2pUdHI0TE40c2VodkpNcVp6S3VLYk95U1VERUtpTkVkLXdib3dQb0JMSTE0Z3ctR1pFSkpEV003M2xSbXFSZW04ZDhtQjM2S1czNjBoREhvYzRHNGcybG9lanFiYXBzejR5cg",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-14T13:04:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-14T13:04:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnZ5UEQ0dWVFclpmNFViQ1ZEbWlfamE3dEx0b3pBRnJIaDlWaTlRd1piT29mcmV0djlGT01ZeUQyb2pUdHI0TE40c2VodkpNcVp6S3VLYk95U1VERUtpTkVkLXdib3dQb0JMSTE0Z3ctR1pFSkpEV003M2xSbXFSZW04ZDhtQjM2S1czNjBoREhvYzRHNGcybG9lanFiYXBzejR5cg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "102ef0265c09",
@@ -3343,12 +3360,17 @@
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40QmNQeFpWbVdvNWxucVRXWnNRN3JMaVpqcE5QY0EzQ3Zzcy10eWg5UmF1LWZoZzBUQm9ZanlzU2kzUUUtelAwb1pR",
    "source": "集微网",
    "published_at": "2026-10-14T00:48:19+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "集微网",
      "published_at": "2026-10-14T00:48:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40QmNQeFpWbVdvNWxucVRXWnNRN3JMaVpqcE5QY0EzQ3Zzcy10eWg5UmF1LWZoZzBUQm9ZanlzU2kzUUUtelAwb1pR"
+    },
+    {
+     "name": "网通社",
+     "published_at": "2026-10-14T11:34:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZmZnU3JHMG9tdl9UR2FtUHg4Sjc0aW1LblNaRU9HeVhDaFh2b3hQckhTRUplOGt4bUZIcm10d0Z6YV9KUXVETHdXNThHSEZBakVxZ0Vxdnp5TE0"
     }
    ],
    "category": "车型产品",
@@ -3532,12 +3554,29 @@
    "sentiment": 1
   },
   {
+   "id": "616da40badaa",
+   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
+   "source": "财联社",
+   "published_at": "2026-10-14T00:19:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-14T00:19:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
    "id": "a2aaff220d93",
    "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ZmVISTE3VmZxRG9PRHA3dVg2NUsxTGVaczI4cm9rQWRYRjM1OFdnUjhNSmZRb05PWHlTNG9TTWlZZm8taFd4a3JRTjFicWQ4dzdIODl6QTRySG8wRTNKU0F3Zw",
    "source": "东方财富",
    "published_at": "2026-10-14T00:15:42+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "东方财富",
@@ -3553,6 +3592,11 @@
      "name": "证券之星",
      "published_at": "2026-10-14T15:14:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsRS1xLUh1aWF3Vng0X0V1bnF5dzUtWjlfLUlQTmZjdXVwR3RVMV9RVFBQbXZTWmVnVUpCVW44WWlybFNyci1FWlJHRHlQY3dLMzlmZFluMFNrVFdkTlE"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-14T17:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ1ZlVm1fVXMzQksxektrOEk2SVV4dkRKaW9CcW5WckJfNHI3YS1venRxVmpmakM3LVlnMmtLSTV4X1U0NC0yWVpxX0V0OE10T3NIUS1SaEFOWkw4akFDSnNpSUZtR2RkNC1DNENYaGg0Zld5U1l3c2FJXzRZblpEeUdR"
     }
    ],
    "category": "其他",
@@ -6467,45 +6511,6 @@
    "zh_summary": "天冷提醒特斯拉车主检查胎压",
    "title_zh": "【视频】天气转凉了，特斯拉的胎压一定检查好，随时让它保持标准胎压",
    "sentiment": 0
-  },
-  {
-   "id": "b29df1a29cd1",
-   "title": "Tesla FSD v14.3.12 with Halloween Update (2026.38.5) goes wide release (demo videos, release notes) - Tesla Oracle",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1FBenNicTRxcnJPYVVrWE5Hd1o3RXo3dVlzT1lMOFBmdjNRSGp2REh4S3BUclMxNExUQm5Sckc2bjJTN0doMXExMmJZeGRvQ1lkeGloUjMzd3dsSG1pU1g0U21tVE00R3VTTzUzOHF2azJRNjJDVHJqcElEcENOY1BWOENtOHhTSHRrUnJMMWliNkdGT0ktcGNYYjdIeTB5R3hqQlc2MU5XZXlkS0ViTkpyWm9JRC1vd2luSjZvLVVZblFvZjVPUWdDUExDQQ",
-   "source": "Tesla Oracle",
-   "published_at": "2026-10-13T07:59:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tesla Oracle",
-     "published_at": "2026-10-13T07:59:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1FBenNicTRxcnJPYVVrWE5Hd1o3RXo3dVlzT1lMOFBmdjNRSGp2REh4S3BUclMxNExUQm5Sckc2bjJTN0doMXExMmJZeGRvQ1lkeGloUjMzd3dsSG1pU1g0U21tVE00R3VTTzUzOHF2azJRNjJDVHJqcElEcENOY1BWOENtOHhTSHRrUnJMMWliNkdGT0ktcGNYYjdIeTB5R3hqQlc2MU5XZXlkS0ViTkpyWm9JRC1vd2luSjZvLVVZblFvZjVPUWdDUExDQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前"
-  },
-  {
-   "id": "091d8d08d462",
-   "title": "Model X开启暖气五分钟后起火 特斯拉被判赔偿76万元 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKOE9Wc2xETERUUURIN2wxMXpuN0tVd3R3eGswZDM0S2l1dF83elpGdlJtWUxuRjVMWHk5OExaRHp1VHdfMHpuenRXVWNFMzdrYlI5SVp5eXY",
-   "source": "驱动之家",
-   "published_at": "2026-10-13T07:27:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-13T07:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKOE9Wc2xETERUUURIN2wxMXpuN0tVd3R3eGswZDM0S2l1dF83elpGdlJtWUxuRjVMWHk5OExaRHp1VHdfMHpuenRXVWNFMzdrYlI5SVp5eXY"
-    },
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-13T09:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3cUtpZFBpc0xTWEJSbExDSmNwUGtKeHUyOFlMN3V4bGZzWDhRTmZqNzI2WnhIUXN3X1hPeDNac0tYdkduY0RlOHRwNzEzcDVRQnBLemR3QWpjTGdBTGVldg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前"
   }
  ]
 }
