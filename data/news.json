@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T19:55:00.415340+00:00",
+ "updated_at": "2026-10-14T20:09:58.044008+00:00",
  "market": {
-  "price": 365.81,
-  "change_pct": -2.51,
+  "price": 367.16,
+  "change_pct": -2.15,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 35% 分位"
+     "note": "现价处于52周区间 36% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.3%"
+     "note": "目标价中位数 $400（16家），隐含空间 +8.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（142条已评分）"
+     "note": "今日新闻情绪 +0.28（145条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $365.81 vs 20日均线 $370.94"
+     "note": "现价 $367.16 vs 20日均线 $371.00"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 35,
+   "price_52w_pct": 36,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.3,
-   "ma20": 370.94,
-   "as_of": "2026-10-14T19:55:00.400086+00:00"
+   "implied_upside_pct": 8.9,
+   "ma20": 371.0,
+   "as_of": "2026-10-14T20:09:58.026949+00:00"
   },
-  "pe_ttm": 101.2,
+  "pe_ttm": 101.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 142
+   "avg": 0.28,
+   "count": 145
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "14b8d38eae58",
+   "title": "Tesla Just Launched the Cybercab in Austin. Here's How Many People Can Actually Hail One. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb19YMTlvX2xubGkwaExOQWlwRDFRUTI4R3IwVW1QcnRUY3YxdE8wT3lyb2JqSEFxRHdfSTRtOWNqWTNlZFpSTF9yNm5vVkUzZEtWb2E2NUQ1TDZOVG9PU2gzZHp5Y2tCQmpnMGw5WHdXaU9OU3huOEx6bWZ1bVB0RHdoNF9TT0k1LXhnS2F3",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-14T20:02:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-14T20:02:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb19YMTlvX2xubGkwaExOQWlwRDFRUTI4R3IwVW1QcnRUY3YxdE8wT3lyb2JqSEFxRHdfSTRtOWNqWTNlZFpSTF9yNm5vVkUzZEtWb2E2NUQ1TDZOVG9PU2gzZHp5Y2tCQmpnMGw5WHdXaU9OU3huOEx6bWZ1bVB0RHdoNF9TT0k1LXhnS2F3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "95eccf51e9b4",
+   "title": "Let's Try Again: Tesla Teases October 15 Debut For Delayed Roadster - Autoguide.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEF5Q2Juckl6Ukhpd1RORy1GandWX1NMQUZXQWZVMHpsZzFyTVNjM19mdE9ZcWJjN2U3LV8yQXJIQzFMZnp4aXMxbi14N2lwZkZZOU1MVFZOaWVuZXVYLWpjSjVMdDlncE5CMmtqblZGVmozOVkxU0owN05zZ253cDZaOUhncno0WTFkVjlVUURQRHZmamtUSVV1aXppVFVJN0V2S2E2dVdjQQ",
+   "source": "Autoguide.com",
+   "published_at": "2026-10-14T19:59:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoguide.com",
+     "published_at": "2026-10-14T19:59:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEF5Q2Juckl6Ukhpd1RORy1GandWX1NMQUZXQWZVMHpsZzFyTVNjM19mdE9ZcWJjN2U3LV8yQXJIQzFMZnp4aXMxbi14N2lwZkZZOU1MVFZOaWVuZXVYLWpjSjVMdDlncE5CMmtqblZGVmozOVkxU0owN05zZ253cDZaOUhncno0WTFkVjlVUURQRHZmamtUSVV1aXppVFVJN0V2S2E2dVdjQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "8e5272b2cac9",
    "title": "Tesla driver slams into CHP car, injuring officers investigating fatal I-80 crash - KRON4",
@@ -126,6 +160,23 @@
    "zh_summary": "特斯拉暂停加拿大进口中国Model 3",
    "title_zh": "特斯拉暂停从中国向加拿大进口 Model 3",
    "sentiment": -1
+  },
+  {
+   "id": "6154764b5e82",
+   "title": "Tesla Roadster Price: $50K Deposit Due at 7:55 PM Reveal - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Gekd6d2FLZWF1Z2NXLXJhOTZDWmJodlJRRi1HTTQxOC1uSENyYlpyY25xbmNLSVhDdkhBaHNzR0F4ZklfMDNEenpBcTZOOGxpaGRza1VFR21rUDg2ck9VdUlRZTB1WExIOFhua05aX3RnUQ",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-14T19:22:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-14T19:22:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Gekd6d2FLZWF1Z2NXLXJhOTZDWmJodlJRRi1HTTQxOC1uSENyYlpyY25xbmNLSVhDdkhBaHNzR0F4ZklfMDNEenpBcTZOOGxpaGRza1VFR21rUDg2ck9VdUlRZTB1WExIOFhua05aX3RnUQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "8f0e8b0c81d2",
@@ -1301,6 +1352,23 @@
    "zh_summary": "小鹏G9L巴黎亮相与特斯拉同场",
    "title_zh": "【视频】巴黎高光：小鹏G9L把“中国智驾”带到了特斯拉旁边 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "912774096419",
+   "title": "TSLA Stock’s 3-Week Rally Faces A Test — Why Waymo’s ‘Defensive’ Turn Makes This Bullish Analyst Love Tesla Even More - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T12:45:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T12:45:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "49d5181e9afa",
@@ -3991,26 +4059,6 @@
    "sentiment": 1
   },
   {
-   "id": "616da40badaa",
-   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
-   "source": "财联社",
-   "published_at": "2026-10-14T00:19:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-14T00:19:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "特斯拉押注机器人与自动驾驶，资本开支扩张",
-   "title_zh": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
-   "sentiment": 0
-  },
-  {
    "id": "a2aaff220d93",
    "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ZmVISTE3VmZxRG9PRHA3dVg2NUsxTGVaczI4cm9rQWRYRjM1OFdnUjhNSmZRb05PWHlTNG9TTWlZZm8taFd4a3JRTjFicWQ4dzdIODl6QTRySG8wRTNKU0F3Zw",
@@ -6456,66 +6504,6 @@
    "session": "盘前",
    "zh_summary": "何小鹏体验特斯拉FSD称很流畅",
    "title_zh": "何小鹏巴黎街头体验特斯拉FSD：整体很流畅 但小鹏的模型更大",
-   "sentiment": 1
-  },
-  {
-   "id": "400175d16d17",
-   "title": "【视频】巴黎车展智驾测试仅有小鹏特斯拉报名，欧洲车企是否已全面掉队？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTF90UTRYazlqb2lfWlBuVnBnU282NWZIZmVqcFpkMDhlQ1l1VVQtSklxYUlBVVhvblFZN2VpTG5qeGt3dUZZYllEcjdRejN3VVktN0I2aEExQjA3bFd1TEdtcm0xeUxTV1M0",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T10:28:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T10:28:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTF90UTRYazlqb2lfWlBuVnBnU282NWZIZmVqcFpkMDhlQ1l1VVQtSklxYUlBVVhvblFZN2VpTG5qeGt3dUZZYllEcjdRejN3VVktN0I2aEExQjA3bFd1TEdtcm0xeUxTV1M0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "巴黎车展智驾测试仅小鹏特斯拉报名",
-   "title_zh": "【视频】巴黎车展智驾测试仅有小鹏特斯拉报名，欧洲车企是否已全面掉队？",
-   "sentiment": 1
-  },
-  {
-   "id": "b6cbf1672181",
-   "title": "#巴黎车展官方公开体验特斯拉小鹏#巴黎车展，等待测试特斯拉FSD和小鹏NGP的媒体排起了长队。小鹏和特斯拉作为全球唯二在巴黎提供智能辅助驾驶体验的品牌，在巴黎真实城市道路上同台竞技，吸引全球超过400家媒体踊跃报名，每天测试名额全部爆满。#小鹏在 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53dmEtLVVsanZ5R1BhOExfd2RPSVREeUE0a2pxcDdGNVNxY0U0Ukg4LW9XOGJtTGx2UGVUUnlnem9DYWxnNnJfM2FNU05YRG9RM0dPVk9GRUlfaTA3WlhLTi1qNA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T10:27:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T10:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53dmEtLVVsanZ5R1BhOExfd2RPSVREeUE0a2pxcDdGNVNxY0U0Ukg4LW9XOGJtTGx2UGVUUnlnem9DYWxnNnJfM2FNU05YRG9RM0dPVk9GRUlfaTA3WlhLTi1qNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "巴黎车展特斯拉小鹏开放智驾体验",
-   "title_zh": "#巴黎车展官方公开体验特斯拉小鹏#巴黎车展，等待测试特斯拉FSD和小鹏NGP的媒体排起了长队。小鹏和特斯拉作为全球唯二在巴黎提供智能辅助驾驶体验的品牌，在巴黎真实城市道路上同台竞技，吸引全球超过400家媒体踊跃报名，每天测试名额全部爆满。#小鹏在 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "a7cd1f651974",
-   "title": "何小鹏巴黎街头体验特斯拉FSD 称整体表现非常流畅 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYzZNZE90WjJWMHlFdWt5RkF6aENBUWRDbU1PTDBubzZMYjFQaTBjblJkbm9veHRtM3BjdEdvWW55dDBCbU5BaEc5N2phbHd4cWFKai13OTc5SXc",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T10:22:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T10:22:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mYzZNZE90WjJWMHlFdWt5RkF6aENBUWRDbU1PTDBubzZMYjFQaTBjblJkbm9veHRtM3BjdEdvWW55dDBCbU5BaEc5N2phbHd4cWFKai13OTc5SXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "何小鹏体验FSD称整体非常流畅",
-   "title_zh": "何小鹏巴黎街头体验特斯拉FSD 称整体表现非常流畅",
    "sentiment": 1
   }
  ]
