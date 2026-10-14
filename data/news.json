@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T15:53:08.565757+00:00",
+ "updated_at": "2026-10-14T16:08:40.802654+00:00",
  "market": {
-  "price": 366.23,
-  "change_pct": -2.4,
+  "price": 365.94,
+  "change_pct": -2.48,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（103条已评分）"
+     "note": "今日新闻情绪 +0.33（105条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $366.23 vs 20日均线 $370.95"
+     "note": "现价 $365.94 vs 20日均线 $370.94"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.2,
-   "ma20": 370.95,
-   "as_of": "2026-10-14T15:53:08.556921+00:00"
+   "implied_upside_pct": 9.3,
+   "ma20": 370.94,
+   "as_of": "2026-10-14T16:08:40.780685+00:00"
   },
-  "pe_ttm": 101.3,
+  "pe_ttm": 101.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.35,
-   "count": 103
+   "avg": 0.33,
+   "count": 105
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "89fd2b404382",
+   "title": "【视频】芜湖街头偶遇特斯拉同款无人驾驶：奇瑞这台出租车真的没司机！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41NnhoNVd2d3QyZ21La1lITUFrZmdQRnJqVlFOS2JjbDdQMlJPbktIZXJZd3pWeGRCVXotbTFuMDI4anhXM3JBcmxRQVdZdldCalp3c3c5eWU2aXc",
+   "source": "汽车之家",
+   "published_at": "2026-10-14T16:05:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-14T16:05:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41NnhoNVd2d3QyZ21La1lITUFrZmdQRnJqVlFOS2JjbDdQMlJPbktIZXJZd3pWeGRCVXotbTFuMDI4anhXM3JBcmxRQVdZdldCalp3c3c5eWU2aXc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "6cb09d5317dd",
    "title": "Rivian Replaces R2 Assembly Head With Tesla Cybercab Line Manager - Electric Vehicles",
@@ -86,6 +103,23 @@
    "zh_summary": "Rivian聘特斯拉Cybercab经理管R2装配",
    "title_zh": "Rivian更换R2装配负责人，由特斯拉Cybercab产线经理接任",
    "sentiment": 0
+  },
+  {
+   "id": "4a036681805c",
+   "title": "Tesla Told To Pay Over $150,000 in Damages After Quebec Man's EV Caught Fire - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNKS0xEWmZSU3Q1dGtTaEtZMVF2YjB4dV8xdVFzUVF6eXdNZ2tXeVNpcExTdExGbnFWMkN6SjAxY3hoNTFsZkpxU2lLS3h5T1ZwdTFsNEJRYXhTRUx3Q0dka1p2SmFwbS0wSGhjNkdyYy1nOFR2WXdveWQ0LU1CdVZ4ODVQV3RpcDR4aER5WFJxeHNp",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-14T15:41:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-14T15:41:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNKS0xEWmZSU3Q1dGtTaEtZMVF2YjB4dV8xdVFzUVF6eXdNZ2tXeVNpcExTdExGbnFWMkN6SjAxY3hoNTFsZkpxU2lLS3h5T1ZwdTFsNEJRYXhTRUx3Q0dka1p2SmFwbS0wSGhjNkdyYy1nOFR2WXdveWQ0LU1CdVZ4ODVQV3RpcDR4aER5WFJxeHNp"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "3fa37f91456b",
@@ -138,12 +172,17 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGVmUnM4SnM2aDh6Nm9LM3dNYU9EeVNWYVhjbHdDaGRMZXQ1bkZRdWE3bzJ2ejVzU3lFLV9uUkFPUGFjc094Ymh3M25KZ2k4MW1aRHFNUTBINU9PTkU3WnJ3RmVJZkdMTnNuTlhWZGxuZmtpNmhESGlJU3U1Y3dBTkQteS1vWlhkRDNtWlpEeDF2dFZRcFF1TjZqSVJ0a28t",
    "source": "Yahoo Autos",
    "published_at": "2026-10-14T15:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Autos",
      "published_at": "2026-10-14T15:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGVmUnM4SnM2aDh6Nm9LM3dNYU9EeVNWYVhjbHdDaGRMZXQ1bkZRdWE3bzJ2ejVzU3lFLV9uUkFPUGFjc094Ymh3M25KZ2k4MW1aRHFNUTBINU9PTkU3WnJ3RmVJZkdMTnNuTlhWZGxuZmtpNmhESGlJU3U1Y3dBTkQteS1vWlhkRDNtWlpEeDF2dFZRcFF1TjZqSVJ0a28t"
+    },
+    {
+     "name": "MotorTrend",
+     "published_at": "2026-10-14T15:05:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnVScWxDZUFPUzBHVG44ZzhQV3FIRVBzYkdnYUNNTWVqb0hkYTNBekZYcWVmX0tyelNyRzg2a1Rwd0R3akpZSlJFU2hfVC14SVllNm1aU2dQUnBoSEZMSkVNQVBpVmR4WHRaaWdqbWNqSlJlUWg4WHp1aVBjTjdJRzZB"
     }
    ],
    "category": "车型产品",
@@ -748,12 +787,17 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ0SnQzcENDeGE3T2FvZTdYWnpVbHNiMnVsUGhGV2RxQnRpQTRwYy0xcjJxMW90ZnlPUUJWMGJ0c005S3pnLUZLZXEwR1J0Ukd0WUlEb2VNSjBRZmEtTlpjck8zMERTZ05JbElaNm13UHlQMlU0dlNiNmZLemRkRQ",
    "source": "InsideEVs",
    "published_at": "2026-10-14T11:31:46+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "InsideEVs",
      "published_at": "2026-10-14T11:31:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ0SnQzcENDeGE3T2FvZTdYWnpVbHNiMnVsUGhGV2RxQnRpQTRwYy0xcjJxMW90ZnlPUUJWMGJ0c005S3pnLUZLZXEwR1J0Ukd0WUlEb2VNSjBRZmEtTlpjck8zMERTZ05JbElaNm13UHlQMlU0dlNiNmZLemRkRQ"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-14T15:30:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjlRaXBDdDR5U25XOFpqYVZGNlg4SnJVaUE3V0NocnZUQzFXZm5aSnZwaFdpMTFEMXE2NTZrWVNNLUhUYUg1LTlITUNjUmVUdlhULVpWWWRyVkxyaGwzUHhJZHhPaHBiLVBBYjZFWWp4WUJ2aGdnTnVWZjlkdDBhdWtqQVdHeUR5V21vSnphaG1KUVpyaWtFNkFVSS0wblFsbTh2a3J3"
     }
    ],
    "category": "其他",
@@ -3140,6 +3184,23 @@
    "zh_summary": "UNICOM购入特斯拉股票",
    "title_zh": "UNICOM Systems公司买入特斯拉$TSLA股票",
    "sentiment": 1
+  },
+  {
+   "id": "616da40badaa",
+   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
+   "source": "财联社",
+   "published_at": "2026-10-14T00:19:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-14T00:19:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "a2aaff220d93",
@@ -6440,66 +6501,6 @@
    "session": "盘前",
    "zh_summary": "车主感谢特斯拉救命马斯克回应",
    "title_zh": "车主感谢特斯拉救命，马斯克：您的安全一直都是第一优先级",
-   "sentiment": 1
-  },
-  {
-   "id": "ee6c6029c5b1",
-   "title": "Tesla Cybercab and Robotaxi’s real advantage won’t be the ride service - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v",
-   "source": "Teslarati",
-   "published_at": "2026-10-13T05:33:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-13T05:33:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "分析：Cybercab真正优势不在打车服务",
-   "title_zh": "特斯拉Cybercab的真正优势并非打车服务",
-   "sentiment": 1
-  },
-  {
-   "id": "b09d744190e1",
-   "title": "Bernie Sanders Says ‘Stop Musk’ as Tesla CEO Spends $366 Million to Keep GOP in Control — Elon Musk Got - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdW5RZWVDek5BMG9JS1R6VndmaFk2aVFXc0FsOVlnU1FtTGF6RTBtQ0tzRHpxeVV2M1lBQ0V5OGRDU1phRXhLUEV5UzgzdHNMckIxMVFfZEszM1ZKUF9CRzNDUURwYVZ1SURSOFpSMHJqRUlhR09qYnZtMWxWaWlVNlBLQ1VQR3BVT19JckFrb05NV0dXOURyOXp3aTA1UkRackhwWFhaYkJjbUFuRGs5b3Jsd05sTFZmUzNES1dnM2xVTEt6NjJTbG1kU0lrX0xuQkZPeFdpLUJ2dFEza19yV0llTF9SYm9IMXpCU0dRdDhfSEdHT3NxSHpUazV4dk1MVVhnY1ZiRWlqS2tnalJaLTcwc0FsSjBrUENKTGN0TGtNdw",
-   "source": "Benzinga",
-   "published_at": "2026-10-13T05:30:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-13T05:30:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdW5RZWVDek5BMG9JS1R6VndmaFk2aVFXc0FsOVlnU1FtTGF6RTBtQ0tzRHpxeVV2M1lBQ0V5OGRDU1phRXhLUEV5UzgzdHNMckIxMVFfZEszM1ZKUF9CRzNDUURwYVZ1SURSOFpSMHJqRUlhR09qYnZtMWxWaWlVNlBLQ1VQR3BVT19JckFrb05NV0dXOURyOXp3aTA1UkRackhwWFhaYkJjbUFuRGs5b3Jsd05sTFZmUzNES1dnM2xVTEt6NjJTbG1kU0lrX0xuQkZPeFdpLUJ2dFEza19yV0llTF9SYm9IMXpCU0dRdDhfSEdHT3NxSHpUazV4dk1MVVhnY1ZiRWlqS2tnalJaLTcwc0FsSjBrUENKTGN0TGtNdw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "桑德斯批马斯克掏3.66亿美元挺共和党",
-   "title_zh": "桑德斯喊Stop Musk：马斯克掏3.66亿美元助共和党",
-   "sentiment": -1
-  },
-  {
-   "id": "3e9258458241",
-   "title": "特斯拉Automations功能完成本地化，即将全球推送 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmYWEyQjJHNXFoOWlvWENmNGd1dWpPSW95b1hkU3pyYmd4a3V3NGtPT2Z0V0dlVmp0Qjg4WEJ4QmJKNXlobzZlVXZzVXRWWlFYOWVHazdNd0ZXdzg3R3c",
-   "source": "DoNews",
-   "published_at": "2026-10-13T05:05:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-13T05:05:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmYWEyQjJHNXFoOWlvWENmNGd1dWpPSW95b1hkU3pyYmd4a3V3NGtPT2Z0V0dlVmp0Qjg4WEJ4QmJKNXlobzZlVXZzVXRWWlFYOWVHazdNd0ZXdzg3R3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Automations功能本地化即将全球推送",
-   "title_zh": "特斯拉Automations功能完成本地化，即将全球推送",
    "sentiment": 1
   }
  ]
