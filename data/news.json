@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T23:22:35.668677+00:00",
+ "updated_at": "2026-10-14T23:37:29.299589+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（171条已评分）"
+     "note": "今日新闻情绪 +0.30（172条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-14T23:22:35.658753+00:00"
+   "as_of": "2026-10-14T23:37:29.291784+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.3,
-   "count": 171
+   "count": 172
   }
  },
  "meta": {
@@ -68,13 +68,35 @@
  },
  "stories": [
   {
-   "id": "ac25fbd0de6d",
-   "title": "特斯拉(TSLA.US)SpaceX(SPCX.US)合并进入倒计时？巴克莱：今年可能官宣，障碍在股东投票 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBocDdfZ0JQUks0ZWprekRMTWhaSGJHdHY4QmpHbFFvLWZBM3hZY1Qta0FZbTdHT09ZdzBHa1R5aUQ4eEhoUUtDVVM4SWlTd0hkaUNoR3hVMkxOaXJCMDRQeA",
-   "source": "证券之星",
-   "published_at": "2026-10-14T22:52:23+00:00",
+   "id": "d76fd706a217",
+   "title": "Man who set fire to vehicles at Las Vegas Tesla facility gets 5 years in prison - Las Vegas Sun",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1p2S0VMVG1nNm5WSlBIVE8ySXJONEI5SzJLYjNxRml6ajAwUHpkZEt0UVBIUlBKMXVUUmNxb3JXeGo2YlFBRlk0MGVSRE1tekFDT0U1SWtENTJSZmJWWXRocm91dnBLWFZ4VEpRaTZnbjM1V0kxLWRvbzlhUHoyTDRCdGs4MkZPSFR5dXhseHEtckt3azY4",
+   "source": "Las Vegas Sun",
+   "published_at": "2026-10-14T23:25:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Las Vegas Sun",
+     "published_at": "2026-10-14T23:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1p2S0VMVG1nNm5WSlBIVE8ySXJONEI5SzJLYjNxRml6ajAwUHpkZEt0UVBIUlBKMXVUUmNxb3JXeGo2YlFBRlk0MGVSRE1tekFDT0U1SWtENTJSZmJWWXRocm91dnBLWFZ4VEpRaTZnbjM1V0kxLWRvbzlhUHoyTDRCdGs4MkZPSFR5dXhseHEtckt3azY4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "03d402d15251",
+   "title": "特斯拉(TSLA.US)SpaceX(SPCX.US)合并进入倒计时？巴克莱：今年可能官宣，障碍在股东投票提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUW9VbGFrRjQtcV9ieF9xTzRkOVc2M2lxaHNadldtWkhLeTNHWklRS0ViX0M0bUJuYTlGOFFvNFRKa0hnN3BRdU5TbVBVeUpkS19hM1ItLWtOa3EyS0lYX1djVXp2TU40R19aNWM1YXg",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-14T22:52:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-14T22:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUW9VbGFrRjQtcV9ieF9xTzRkOVc2M2lxaHNadldtWkhLeTNHWklRS0ViX0M0bUJuYTlGOFFvNFRKa0hnN3BRdU5TbVBVeUpkS19hM1ItLWtOa3EyS0lYX1djVXp2TU40R19aNWM1YXg"
+    },
     {
      "name": "证券之星",
      "published_at": "2026-10-14T22:52:23+00:00",
@@ -93,12 +115,17 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2dMTTRJSWdMYmVUZ2pLc2xXYUNzNWowcUxxRlVnZTRob1BpOTJlcFhIQlFUbkowY3pxZmtWallDOGc4b3dKNUNhOEtnQTFlTGxyMTUxTVZaam90ajZfR2pnV0QtU1Z5MU5XSzZ1ekY3VTYybVBkYnJVYlY1Y084d1JDV0J5ZERQNWpYSkdpdm83VkxEZmdn",
    "source": "The Motley Fool",
    "published_at": "2026-10-14T22:51:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-14T22:51:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2dMTTRJSWdMYmVUZ2pLc2xXYUNzNWowcUxxRlVnZTRob1BpOTJlcFhIQlFUbkowY3pxZmtWallDOGc4b3dKNUNhOEtnQTFlTGxyMTUxTVZaam90ajZfR2pnV0QtU1Z5MU5XSzZ1ekY3VTYybVBkYnJVYlY1Y084d1JDV0J5ZERQNWpYSkdpdm83VkxEZmdn"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T23:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHEzQ0N2eklYTnJwY1JvNXpQWXptVTJDV0FpTWF5UExlLS10TmUzSDA4dlhIZlpCN2FEZ1VyUjBQVUg5Q3JnV1JSd2dHYnNHazVVdGRIUzJqVjh4VUpkLXB5QW10ajd1SmJDa2JFaXQwb19ZQWpZU09GUGlTaU9oeHl6VXBHbGpicG5UdFdrSjRMSU1vaUI4"
     }
    ],
    "category": "马斯克",
@@ -6474,26 +6501,6 @@
    "session": "盘前",
    "zh_summary": "22款特斯拉Model Y二手车视频",
    "title_zh": "【视频】22改款特斯拉modelY 23年上牌大轮毂 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "79be8149f0fa",
-   "title": "Goldman Says Tesla’s Robotaxi, Optimus Outlook Will Matter More Than Q3 Earnings. Here’s the Bar for Oct. 21 - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWGlwYS1pOGxpbXAtOGJVVE5maFhlOTBON0VXR2tZOTZsenZQbU4zdkN5UDNXLTBvYzNlb1FVU0YtS3c1U2k3bl91dmt0OVAteGRKT0hYWHBMS1c1aENvVGpQaVN5ZlJPLWxKeUZRNXkxXzN4X08wb1k5OWxPanV0U0JQbEZWV0xjY3I1SFVLd0Y1d2ZFamN1endvbHJmb3lsLVE3bE85SWNVcUtfVlI1QzdhMjNQTUM1Q0dGQlBuV200WElhNjVjc3ZrSWtXQV9vRmE3ZUZ4STk5dElhQWthNFdxa1k2Sy1QbzVRcjJlT3o5Yzl1MWFF",
-   "source": "Benzinga",
-   "published_at": "2026-10-13T12:41:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-13T12:41:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWGlwYS1pOGxpbXAtOGJVVE5maFhlOTBON0VXR2tZOTZsenZQbU4zdkN5UDNXLTBvYzNlb1FVU0YtS3c1U2k3bl91dmt0OVAteGRKT0hYWHBMS1c1aENvVGpQaVN5ZlJPLWxKeUZRNXkxXzN4X08wb1k5OWxPanV0U0JQbEZWV0xjY3I1SFVLd0Y1d2ZFamN1endvbHJmb3lsLVE3bE85SWNVcUtfVlI1QzdhMjNQTUM1Q0dGQlBuV200WElhNjVjc3ZrSWtXQV9vRmE3ZUZ4STk5dElhQWthNFdxa1k2Sy1QbzVRcjJlT3o5Yzl1MWFF"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "高盛称Q3财报关键在Robotaxi展望",
-   "title_zh": "高盛：特斯拉Robotaxi与Optimus展望比三季度财报更重要",
    "sentiment": 0
   }
  ]
