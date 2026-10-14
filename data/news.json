@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T06:22:27.859725+00:00",
+ "updated_at": "2026-10-14T06:37:30.942967+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.25（4条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.57（7条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-14T06:22:27.845094+00:00"
+   "as_of": "2026-10-14T06:37:30.935592+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 4
+   "avg": 0.57,
+   "count": 7
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b35c735b2bef",
+   "title": "Tesla (TSLA) Set to Announce Quarterly Earnings on Wednesday - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUxCN1VUNnhITmRvQWo4M25fNXBDdkpIOEpOdUV4MFBzV2NfYWJkZmRCZDBsdktnSWRhdm91UnF0UUcwNnY1SFA4alE0bDhFTzRpUndkWGFpclFSbGJTUTU1ZkJySWV5amJ2c09SNGZmYVRLTlJzVXJybnZ0RnhJWEJ2UEgzNVA3V2V0VDd0WGFZRkpjb1YtVVRWUFQ2T1F2WkJfRC0xVXk3Y3VBT3d1RDVtenpJQXB1QzF2Tmhn",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T06:30:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T06:30:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUxCN1VUNnhITmRvQWo4M25fNXBDdkpIOEpOdUV4MFBzV2NfYWJkZmRCZDBsdktnSWRhdm91UnF0UUcwNnY1SFA4alE0bDhFTzRpUndkWGFpclFSbGJTUTU1ZkJySWV5amJ2c09SNGZmYVRLTlJzVXJybnZ0RnhJWEJ2UEgzNVA3V2V0VDd0WGFZRkpjb1YtVVRWUFQ2T1F2WkJfRC0xVXk3Y3VBT3d1RDVtenpJQXB1QzF2Tmhn"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "5e436be53d73",
    "title": "Tesla: The Next Growth Engine Is Taking Shape (NASDAQ:TSLA) - Seeking Alpha",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉下一增长引擎正成形",
    "title_zh": "特斯拉：下一个增长引擎正在形成（纳斯达克：TSLA）",
    "sentiment": 1
+  },
+  {
+   "id": "b97b1a655c2e",
+   "title": "特斯拉Roadster活动本周四晚直播 马斯克转发并称“时机就是一切” - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGtkYXM0dEFBdVRmd2puM2tDd3pxT1pHWXR4di1rTTBRa01OU0wzanFIeklnaEpfOXFfNDZlM0U1MDBJaE5kNlFHcmRQOGdTSkY2RHAtR2IzX0J4WFE3TDRSd2JPbDlNaDFFWXFEUkxKZ3V3SDRrT00wSmxYNnNIbVdvaXRPWWhCY0Jzbg",
+   "source": "搜狐",
+   "published_at": "2026-10-14T06:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T06:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGtkYXM0dEFBdVRmd2puM2tDd3pxT1pHWXR4di1rTTBRa01OU0wzanFIeklnaEpfOXFfNDZlM0U1MDBJaE5kNlFHcmRQOGdTSkY2RHAtR2IzX0J4WFE3TDRSd2JPbDlNaDFFWXFEUkxKZ3V3SDRrT00wSmxYNnNIbVdvaXRPWWhCY0Jzbg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "e94bbcfb62c2",
@@ -3005,26 +3039,6 @@
    "sentiment": -1
   },
   {
-   "id": "34ebde16aeb5",
-   "title": "Tesla Rolls Out Tempting Model Y Lease Offers This October - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw",
-   "source": "Autoblog",
-   "published_at": "2026-10-13T11:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-13T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉10月推Model Y租赁优惠",
-   "title_zh": "特斯拉10月推出Model Y诱人租赁优惠",
-   "sentiment": 0
-  },
-  {
    "id": "0fffcc2e3eca",
    "title": "Tesla opens first Megacharger in Pilot partnership in Georgia - EV Infrastructure News",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1o4RlkyWHNYRW9IUV9fTEZ0SnJjcEs0cFQ0cXRDdjNOcFA2bUhOQXFRMXR3NmE4dk1CRVZUcEt1NnZDLXROUmJUY1hUU3gzVURwZm9XVXNKcWs5MU9nQXYwNHhsbXEzQnFkb2pZR2FNS1VxT01LVGJrRGJPMVMzVVNqSDhaTVlWQXBpY2hLczNWTGJNcGRwN1k0RW1lLUZaZXJHS0tBSkg",
@@ -5365,6 +5379,26 @@
    "sentiment": -1
   },
   {
+   "id": "34ebde16aeb5",
+   "title": "Tesla Rolls Out Tempting Model Y Lease Offers This October - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw",
+   "source": "Autoblog",
+   "published_at": "2026-10-12T18:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-12T18:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "特斯拉10月推Model Y租赁优惠",
+   "title_zh": "特斯拉10月推出Model Y诱人租赁优惠",
+   "sentiment": 0
+  },
+  {
    "id": "01c410c11fd5",
    "title": "If You're Wondering What Elon Musk's Politics Have To Do With Tesla's Cars, Watch 'Musk' - Jalopnik",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUNJbWRtQ1lscUhhSUgtaUgyOHhUR0Y3UUtXWXhFckdHaGJpVG9UZ3lLVzdVZlNaMk54Z3hIOWZTenhUY20tVzlscy1UOS1BSTQ1SXNiN0RjRmJEOFhhNDRBd2NxeWZpLXpObXNhQWNCaFhpS1VRXzg5cW4yMjJtdzE3Zk85aUhCTU1tQUl3cHBXY01rMF8zeDRoX1dIdHk2dUxjQVR3",
@@ -6380,51 +6414,6 @@
    "zh_summary": "21款Model 3标准续航版展示",
    "title_zh": "【视频】21年特斯拉model3黑外黑内标准续航 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "d70a73ad58d2",
-   "title": "TSLA Stock Climbs Overnight As Cybercab Eyes Dallas — Musk Recalls When Shorts Had Tesla In ‘Checkmate’ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUx0MEtYNEdLQU9MTHJ5ME1tVUQybm1PT0JhSTNsVTdaQVZodUxRYmpTc3dUUE5qam9vWVVQWVVvdXFDelNPSjJWbEZvM2JzcU90cm5SbjRtdjdVMzg4Q2pyS0ZrclgyS3FrbUFjNjRPX00wYjJ0a0kwR0IyT1ozZ0tlNWJ1bzU5c3ByTTZCX3VnbGhOOC1IM3RxNVJlUDdzOWF3",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-12T06:34:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-12T06:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUx0MEtYNEdLQU9MTHJ5ME1tVUQybm1PT0JhSTNsVTdaQVZodUxRYmpTc3dUUE5qam9vWVVQWVVvdXFDelNPSjJWbEZvM2JzcU90cm5SbjRtdjdVMzg4Q2pyS0ZrclgyS3FrbUFjNjRPX00wYjJ0a0kwR0IyT1ozZ0tlNWJ1bzU5c3ByTTZCX3VnbGhOOC1IM3RxNVJlUDdzOWF3"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-12T06:34:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQUJxWmxJX3FoNUtSb2gtdFV4S3Yxbk5OT3hQZ1gwVk5EbTNwdXhPYnozLV9IX0dod05UOVNjRFJHVmdwMEZjNGFtRTRfYkkzdW40ODhQbFMwODlpZm1LYWExaS05UFNLWlc0NmpEMHgzalZJVGJkbnFzLW80TjRuM1lOU2tjZnFwYy1jQ1lqTWQ1NDlsLV8xMm82eHdrR3YwaTEyOGY4Y3BxX2JEdzRxSzdMdzRlZXNBNEFROVpOSXI5QzA2bEU4YVowMFJ4bkd3NHZEcDdKbnA1RTRNX3UwLXE1Ym1zUW0xNV9sR0RrX1Y"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab拟进达拉斯，TSLA隔夜上涨",
-   "title_zh": "TSLA隔夜上涨，Cybercab瞄准达拉斯，马斯克忆空头曾逼特斯拉入'将军'",
-   "sentiment": 1
-  },
-  {
-   "id": "f6b04bd7c1d1",
-   "title": "9月车型销量榜出炉：比亚迪宋力压特斯拉Model Y登顶 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ILTJfQW92U1U2NEFwRkhkcjZTMk9vZ09sVjhGbE1UbTlmOTRQeUJ5eHh1d015MmxwQmg4cVZYakRyeWNhZmdodFBDSGMtMWtUZGZkWmFhQlA",
-   "source": "驱动之家",
-   "published_at": "2026-10-12T05:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-12T05:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ILTJfQW92U1U2NEFwRkhkcjZTMk9vZ09sVjhGbE1UbTlmOTRQeUJ5eHh1d015MmxwQmg4cVZYakRyeWNhZmdodFBDSGMtMWtUZGZkWmFhQlA"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "比亚迪宋力压Model Y夺9月销量冠军",
-   "title_zh": "9月车型销量榜出炉：比亚迪宋力压特斯拉Model Y登顶 - 驱动之家",
-   "sentiment": -1
   }
  ]
 }
