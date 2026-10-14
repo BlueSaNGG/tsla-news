@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T01:22:35.100498+00:00",
+ "updated_at": "2026-10-14T01:37:25.343681+00:00",
  "market": {
-  "price": 378.03,
-  "change_pct": -1.22,
+  "price": 375.23,
+  "change_pct": -0.74,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 42% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +5.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（152条已评分）"
+     "note": "今日新闻情绪 +0.05（157条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $378.03 vs 20日均线 $369.61"
+     "note": "现价 $375.23 vs 20日均线 $370.54"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 42,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 5.8,
-   "ma20": 369.61,
-   "as_of": "2026-10-14T01:22:35.086701+00:00"
+   "implied_upside_pct": 6.6,
+   "ma20": 370.54,
+   "as_of": "2026-10-14T01:37:25.330478+00:00"
   },
-  "pe_ttm": 104.6,
+  "pe_ttm": 103.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 152
+   "avg": 0.05,
+   "count": 157
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a12adae8bea2",
+   "title": "Tesla Robotaxi Fart Mode Glitch: What Happened [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0Q0JqQkJtQW44Mm8wREl5NDk4MDNfUUU5d0lfZFpFbXE3bUlxeXU0Z3ljSEpqbnVDd1dHWVI0YzJablotMW9wTmlzQ2xhNlVwbHVFRFJCRnZyQ3pPRXI2N3RKY09ERDl1Y2lTVy1jaw",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-14T01:16:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-14T01:16:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0Q0JqQkJtQW44Mm8wREl5NDk4MDNfUUU5d0lfZFpFbXE3bUlxeXU0Z3ljSEpqbnVDd1dHWVI0YzJablotMW9wTmlzQ2xhNlVwbHVFRFJCRnZyQ3pPRXI2N3RKY09ERDl1Y2lTVy1jaw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "df648c7b394c",
    "title": "小伙花5万买永久免费充电特斯拉跑318 - 新浪网",
@@ -86,26 +103,6 @@
    "zh_summary": "男子花5万买永久免费充电特斯拉",
    "title_zh": "小伙花5万买永久免费充电特斯拉跑318 - 新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "8fc81305d14f",
-   "title": "特斯拉Optimus方案接近定型，首期目标年产5万台 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRHBxNHM5a0EtOW10aEExTVBkQlNRVzVkSUcwSE9zM0tYX19SdHM2UnRFQXVLalJFTi16ajR1djg4cGdnVUd2U3BpMjU2RXFWbC1sVGFLaTZRUUpQNjM2Z3lmdVZlRnFYcFBTRVdsYWlQeks4SGQ4VXBQUngzdw",
-   "source": "新浪网",
-   "published_at": "2026-10-14T01:13:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-14T01:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRHBxNHM5a0EtOW10aEExTVBkQlNRVzVkSUcwSE9zM0tYX19SdHM2UnRFQXVLalJFTi16ajR1djg4cGdnVUd2U3BpMjU2RXFWbC1sVGFLaTZRUUpQNjM2Z3lmdVZlRnFYcFBTRVdsYWlQeks4SGQ4VXBQUngzdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Optimus方案接近定型",
-   "title_zh": "特斯拉Optimus方案接近定型，首期目标年产5万台 - 新浪网",
-   "sentiment": 1
   },
   {
    "id": "708acbd49c21",
@@ -145,6 +142,31 @@
    "session": "盘后",
    "zh_summary": "特斯拉Roadster发布活动定档",
    "title_zh": "特斯拉Roadster发布活动，已定时北京时间10月16日8:55",
+   "sentiment": 1
+  },
+  {
+   "id": "8fc81305d14f",
+   "title": "特斯拉Optimus方案接近定型，首期目标年产5万台 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3SDhVemdCdEdra1FBYjFxMFZhcm5Hak13cEFMcVhBdG1nZ1kyVE9zaXBzam1td2RrQkxZVENfRzBkRzI3VktXV1FTUEh3Zjd3NG9odGxFb1EybVVXWmx1UHlBT0RTWnVlSTBZRXRzSkU",
+   "source": "手机新浪网",
+   "published_at": "2026-10-14T00:59:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-14T00:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3SDhVemdCdEdra1FBYjFxMFZhcm5Hak13cEFMcVhBdG1nZ1kyVE9zaXBzam1td2RrQkxZVENfRzBkRzI3VktXV1FTUEh3Zjd3NG9odGxFb1EybVVXWmx1UHlBT0RTWnVlSTBZRXRzSkU"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-14T01:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRHBxNHM5a0EtOW10aEExTVBkQlNRVzVkSUcwSE9zM0tYX19SdHM2UnRFQXVLalJFTi16ajR1djg4cGdnVUd2U3BpMjU2RXFWbC1sVGFLaTZRUUpQNjM2Z3lmdVZlRnFYcFBTRVdsYWlQeks4SGQ4VXBQUngzdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉Optimus方案接近定型",
+   "title_zh": "特斯拉Optimus方案接近定型，首期目标年产5万台 - 新浪网",
    "sentiment": 1
   },
   {
@@ -253,7 +275,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWU9jLXFlM1FDaTkzM1M3Mm41LW9lYTN5bGQ5YW5PUFRZcTdzM1VPZGVxaHFSMVBLQ1BVelFBMXRhN05pNlJLOHFmcks2d1ZheFJTQUN5eUhidUxwc2pEbjI3TDdheUxWdThHNVdFejk",
    "source": "英为财情 Investing.com",
    "published_at": "2026-10-14T00:30:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "英为财情 Investing.com",
@@ -264,6 +286,11 @@
      "name": "证券之星",
      "published_at": "2026-10-14T00:30:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45ZHo4LWoyOXJDREFmT2g3ajlTVXpyV3NTalM1X1dEN3FBYlAtcTBWUEZ5Y1FjcTdDUXYtYUNldWFFeWdWTGNwYXllM2pOM2dkdzExb0R5TkQ3Mnc2SFlsaQ"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-10-14T01:27:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zdW5GUTJmUHZxeFFld25UaXloamxmREV1U19IOXduOUQ2SFlEWGcyQ3haSmhuNnJVampOczJmZDh1Z0Y0VUxTWjFDejlzWGFpYVpIMXlWc3NwX1A5WnlHVzNwelN5a2o0dWVsTg"
     }
    ],
    "category": "其他",
@@ -6334,26 +6361,6 @@
    "session": "周末",
    "zh_summary": "欧洲FSD更名辅助驾驶放弃全自动驾驶",
    "title_zh": "特斯拉欧洲市场放弃 “全自动驾驶”，改为“辅助驾驶” - 21财经",
-   "sentiment": -1
-  },
-  {
-   "id": "79155e10f696",
-   "title": "特斯拉FSD，在欧洲被打回原形 - 量子位",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg",
-   "source": "量子位",
-   "published_at": "2026-10-10T06:59:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "量子位",
-     "published_at": "2026-10-10T06:59:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XTEl3dXdGWEtXeUY5eGdhdkxEcUtMM09NemYxSks2SE12SDVEZWhjeGZaWERVR1ZYQ09NTC1obXNlMjE1ZmJOVkxMaFVKODZTOWJNcg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉FSD在欧洲遇监管挫折",
-   "title_zh": "特斯拉FSD，在欧洲被打回原形 - 量子位",
    "sentiment": -1
   }
  ]
