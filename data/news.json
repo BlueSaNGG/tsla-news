@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T10:22:36.601482+00:00",
+ "updated_at": "2026-10-14T10:37:25.811620+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.56（39条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.44（45条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-14T10:22:36.594371+00:00"
+   "as_of": "2026-10-14T10:37:25.799432+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 39
+   "avg": 0.44,
+   "count": 45
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "abe4ef10df57",
+   "title": "Tesla plans Australia’s largest EV charging hub with 37 stalls in Albury - Beinsure",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwN2NHYk1iY3YwTU0tXzlBT3RiTVJSMjBBaWZoV2M5NzlHV3I1QkJYSlVJWWxBTnA2Y2dSd0NwcFVLVVc3YmFldXBXREtSUzBmaHVWYm9zQVZHc0VHeGNpN2lvODlzaW5qYkNIQ0ticmZuaTVu",
+   "source": "Beinsure",
+   "published_at": "2026-10-14T10:32:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Beinsure",
+     "published_at": "2026-10-14T10:32:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwN2NHYk1iY3YwTU0tXzlBT3RiTVJSMjBBaWZoV2M5NzlHV3I1QkJYSlVJWWxBTnA2Y2dSd0NwcFVLVVc3YmFldXBXREtSUzBmaHVWYm9zQVZHc0VHeGNpN2lvODlzaW5qYkNIQ0ticmZuaTVu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ac2c02346272",
+   "title": "Elon Musk sets the record straight on Tesla's founding - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEdOY0N0d2Rhd3M5Zmt6MVQzcUxGdzY3VG5oS1c1bTdvSGk1V3lNLWlPVGhQN1RTYnhSVV93TFJtU21reHdrSVowQ0xORmlCN3dJWXpacUQ4YU1VVS1Mc2FKNndISks1aWJRX25VNmRxc0h2OEpUb1dMZXVFbUQ2RmNrZlpmMG9DWUNINnNjN1BrZw",
+   "source": "Dealroom",
+   "published_at": "2026-10-14T10:26:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dealroom",
+     "published_at": "2026-10-14T10:26:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEdOY0N0d2Rhd3M5Zmt6MVQzcUxGdzY3VG5oS1c1bTdvSGk1V3lNLWlPVGhQN1RTYnhSVV93TFJtU21reHdrSVowQ0xORmlCN3dJWXpacUQ4YU1VVS1Mc2FKNndISks1aWJRX25VNmRxc0h2OEpUb1dMZXVFbUQ2RmNrZlpmMG9DWUNINnNjN1BrZw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
   {
    "id": "d155615f5cb7",
    "title": "Why Wall Street Is Cautious About Tesla, and Why I'm Not Worried - The Motley Fool",
@@ -106,6 +140,23 @@
    "zh_summary": "密歇根车主测算发现老混动车几乎一样便宜",
    "title_zh": "密歇根特斯拉车主算完账：老款混动车几乎一样便宜",
    "sentiment": -1
+  },
+  {
+   "id": "71acd209ee85",
+   "title": "特斯拉Cybercab全国巡展更新日程，将登陆苏州、深圳等五城 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUt6bW44VGJqTFpmWnZXb0lVNVNZdFBJVFd6Njd6NUJZQmxjYUxIWVNEdjAtWkxBdWNad3Fpd1d2c1dtb0dIS2pNWi1ySzk1TFVVZWRtS2dRSmUtSm4zU0NKUWc0WWd3b3BvMmF5SFpNcUhwWEpFa2xDY2FFNTVQMGpqbVI4WjBY",
+   "source": "搜狐",
+   "published_at": "2026-10-14T10:12:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T10:12:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUt6bW44VGJqTFpmWnZXb0lVNVNZdFBJVFd6Njd6NUJZQmxjYUxIWVNEdjAtWkxBdWNad3Fpd1d2c1dtb0dIS2pNWi1ySzk1TFVVZWRtS2dRSmUtSm4zU0NKUWc0WWd3b3BvMmF5SFpNcUhwWEpFa2xDY2FFNTVQMGpqbVI4WjBY"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "12b705686530",
@@ -583,7 +634,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZV3lQMy1oMkNpMTh3SFFhZ0lZazdPVzBMM0Z3aUVvX3NGQkRWY0hZbURFU0dxc1c1bTNsRUJlUjd2Y2E1Rm4zdVVKVXh2S0N6R1RQMnZVSUtLWkVUWHNEQ0ZieC1hcGdDZG8tVjVzeUd5anJNV3lBQkx3cWgzdGc",
    "source": "新浪网",
    "published_at": "2026-10-14T07:21:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "新浪网",
@@ -604,6 +655,11 @@
      "name": "东方财富",
      "published_at": "2026-10-14T07:32:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRkFBY3hIWHhpa25ETUt3aWF4SnZlTDVhUG5VME9DN2kxazlDY2lwcngwaHJJRHA5LWRFbjZnRlJ2alptZzFsbHBHSGtRTDJMT1RoY0dsUjBEc3JDZ2R2eg"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-14T07:26:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GUHZkYmFtai15a21QNWphUjFlUXF2dEFtUHY0RWJhc01CY1FGeEZiYW9DeTM2QzFLVVpsaDJveDdWYnZsNnY4SjlhT2g"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6382,66 +6438,6 @@
    "zh_summary": "Model X起火判赔16.2万美元",
    "title_zh": "特斯拉被判为Model X起火赔偿16.2万美元，'破坏'辩护失败",
    "sentiment": -1
-  },
-  {
-   "id": "34ebde16aeb5",
-   "title": "Tesla Rolls Out Tempting Model Y Lease Offers This October - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw",
-   "source": "Autoblog",
-   "published_at": "2026-10-12T18:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-12T18:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXBuNXNzNFZLcE5uLUNfRmxCUFZxRGNta2hQOWN1QWpFdkdfYloxb1pUdWRsaFpvdEtPQWZRMkE2LU12aldpSzV1X2JEc3pxOTVYZTUwcHhGVTJhbHRwN0x3cUZ1aXdLdDNOakFHRTNnSm1QT21ZdEN4Rk4yM2RBWTBEa2pjRHY0bjRPVzg3ZzhERTYyakNaNw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉10月推Model Y租赁优惠",
-   "title_zh": "特斯拉10月推出Model Y诱人租赁优惠",
-   "sentiment": 0
-  },
-  {
-   "id": "01c410c11fd5",
-   "title": "If You're Wondering What Elon Musk's Politics Have To Do With Tesla's Cars, Watch 'Musk' - Jalopnik",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUNJbWRtQ1lscUhhSUgtaUgyOHhUR0Y3UUtXWXhFckdHaGJpVG9UZ3lLVzdVZlNaMk54Z3hIOWZTenhUY20tVzlscy1UOS1BSTQ1SXNiN0RjRmJEOFhhNDRBd2NxeWZpLXpObXNhQWNCaFhpS1VRXzg5cW4yMjJtdzE3Zk85aUhCTU1tQUl3cHBXY01rMF8zeDRoX1dIdHk2dUxjQVR3",
-   "source": "Jalopnik",
-   "published_at": "2026-10-12T18:25:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Jalopnik",
-     "published_at": "2026-10-12T18:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUNJbWRtQ1lscUhhSUgtaUgyOHhUR0Y3UUtXWXhFckdHaGJpVG9UZ3lLVzdVZlNaMk54Z3hIOWZTenhUY20tVzlscy1UOS1BSTQ1SXNiN0RjRmJEOFhhNDRBd2NxeWZpLXpObXNhQWNCaFhpS1VRXzg5cW4yMjJtdzE3Zk85aUhCTU1tQUl3cHBXY01rMF8zeDRoX1dIdHk2dUxjQVR3"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "纪录片谈马斯克政治与特斯拉",
-   "title_zh": "想知道马斯克的政治与特斯拉汽车有何关系，就看《Musk》",
-   "sentiment": 0
-  },
-  {
-   "id": "1a2b91cbc27d",
-   "title": "TSLA Stock Cools Overnight After Miami Robotaxi Rally — But Morgan Stanley Sees 30,000-Vehicle Fleet By 2030 - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXBDR09mbWJCLWdwUUhpQkhKaTB6aHNBdXpueXQxNkdqMmUyc05NLU5BcDFaei12dms2QXdjTW9lamc2T29saHFSRDZ3ZVFSZEw0ZUpLNmhETkNZY0k5d0dmcUVPaURENkRleG9YbVh4V3RXOVpLOGE5TVRBTGs0X2tOOFVxcjZXRjFHdUthei1qdHRNX200ZHFhLWtXeVp4WXFHZmxMQ3E2ODkxYmJmOTlB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-12T18:06:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-12T18:06:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXBDR09mbWJCLWdwUUhpQkhKaTB6aHNBdXpueXQxNkdqMmUyc05NLU5BcDFaei12dms2QXdjTW9lamc2T29saHFSRDZ3ZVFSZEw0ZUpLNmhETkNZY0k5d0dmcUVPaURENkRleG9YbVh4V3RXOVpLOGE5TVRBTGs0X2tOOFVxcjZXRjFHdUthei1qdHRNX200ZHFhLWtXeVp4WXFHZmxMQ3E2ODkxYmJmOTlB"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "大摩预计2030年特斯拉车队达3万辆",
-   "title_zh": "迈阿密Robotaxi上涨后TSLA隔夜降温，大摩预计2030年车队达3万辆",
-   "sentiment": 1
   }
  ]
 }
