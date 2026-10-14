@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-14T13:22:31.097827+00:00",
+ "updated_at": "2026-10-14T13:37:37.668795+00:00",
  "market": {
-  "price": 375.23,
-  "change_pct": -0.74,
-  "as_of": "2026-10-13",
+  "price": 368.36,
+  "change_pct": -1.83,
+  "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -17,27 +17,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 37% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.6%"
+     "note": "目标价中位数 $400（16家），隐含空间 +8.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（78条已评分）"
+     "note": "今日新闻情绪 +0.40（82条已评分）"
     },
     {
      "key": "动量",
-     "score": 1,
-     "note": "现价 $375.23 vs 20日均线 $370.54"
+     "score": -1,
+     "note": "现价 $368.36 vs 20日均线 $371.06"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 37,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.6,
-   "ma20": 370.54,
-   "as_of": "2026-10-14T13:22:31.087556+00:00"
+   "implied_upside_pct": 8.6,
+   "ma20": 371.06,
+   "as_of": "2026-10-14T13:37:37.656489+00:00"
   },
-  "pe_ttm": 103.8,
+  "pe_ttm": 101.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 78
+   "avg": 0.4,
+   "count": 82
   }
  },
  "meta": {
@@ -68,13 +68,35 @@
  },
  "stories": [
   {
-   "id": "be35f76858b1",
-   "title": "Tesla Roadster Livestream – How to Watch - driveteslacanada.ca",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVN3WGpWYUplRkJESEI2eEpGWG9fTXpuVEh4UG1nR2tXZmQ3aEs4TGI0NGJ5Uldzd0ZycjRYeTY4dlBLMTBUSFN2OHdBR044cmlkS0E4NlhMS1VwQkk4TEJBRWRiVzFWNjBXVlJQVjQyZUJ1Z3FSNnVhc3lRUVpybXNhTWRabHdpSGIyaXdR",
-   "source": "driveteslacanada.ca",
-   "published_at": "2026-10-14T13:21:04+00:00",
+   "id": "5020da494802",
+   "title": "Tesla batteries boost Texas energy storage site to 300 MW capacity - Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA2T29CaHZkaGNHTC1hbUpxTi01ZjNOTWY2ZGp0SEkyYXlEdlFMbV9GZlE5S1NENXlRYU5RRjJKQmk4Q3c4WjJHVVJOR0hjOU0yQjBqZzRzVFNvWUZZZzZiZERvREZMTzdlcGVTRDBuRFotRHZMOWY3OFRIZ1VwQg",
+   "source": "Interesting Engineering",
+   "published_at": "2026-10-14T13:23:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Interesting Engineering",
+     "published_at": "2026-10-14T13:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA2T29CaHZkaGNHTC1hbUpxTi01ZjNOTWY2ZGp0SEkyYXlEdlFMbV9GZlE5S1NENXlRYU5RRjJKQmk4Q3c4WjJHVVJOR0hjOU0yQjBqZzRzVFNvWUZZZzZiZERvREZMTzdlcGVTRDBuRFotRHZMOWY3OFRIZ1VwQg"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
+  },
+  {
+   "id": "be35f76858b1",
+   "title": "Tesla Roadster Livestream – How to Watch - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVN3WGpWYUplRkJESEI2eEpGWG9fTXpuVEh4UG1nR2tXZmQ3aEs4TGI0NGJ5Uldzd0ZycjRYeTY4dlBLMTBUSFN2OHdBR044cmlkS0E4NlhMS1VwQkk4TEJBRWRiVzFWNjBXVlJQVjQyZUJ1Z3FSNnVhc3lRUVpybXNhTWRabHdpSGIyaXdR",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-14T13:20:36+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-14T13:20:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVN3WGpWYUplRkJESEI2eEpGWG9fTXpuVEh4UG1nR2tXZmQ3aEs4TGI0NGJ5Uldzd0ZycjRYeTY4dlBLMTBUSFN2OHdBR044cmlkS0E4NlhMS1VwQkk4TEJBRWRiVzFWNjBXVlJQVjQyZUJ1Z3FSNnVhc3lRUVpybXNhTWRabHdpSGIyaXdR"
+    },
     {
      "name": "driveteslacanada.ca",
      "published_at": "2026-10-14T13:21:04+00:00",
@@ -126,6 +148,23 @@
    "zh_summary": "欧洲特斯拉被迫改名全自动驾驶",
    "title_zh": "特斯拉欧洲改名全自动驾驶因监管压力",
    "sentiment": -1
+  },
+  {
+   "id": "17d20becc864",
+   "title": "【视频】巴黎高光：小鹏G9L把“中国智驾”带到了特斯拉旁边 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oYkVGUjJtVlVfNlZmY2R0VFotRXhTZzVxeU93S0xLMlhmcS0tSFZfVnA3X1lkOEE2ZjJfSzdSQ0pfMVJXZzQ1dUhJb21MczA0WlJHWmItZnlCR0E",
+   "source": "汽车之家",
+   "published_at": "2026-10-14T12:55:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-14T12:55:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oYkVGUjJtVlVfNlZmY2R0VFotRXhTZzVxeU93S0xLMlhmcS0tSFZfVnA3X1lkOEE2ZjJfSzdSQ0pfMVJXZzQ1dUhJb21MczA0WlJHWmItZnlCR0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "49d5181e9afa",
@@ -540,7 +579,11 @@
    "session": "盘前",
    "zh_summary": "新款Roadster真能飞吗？物理学解析",
    "title_zh": "新款SpaceX版特斯拉Roadster真能飞吗？FAA法规与物理学给出答案",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "876daa22f168",
@@ -750,7 +793,11 @@
    "session": "盘前",
    "zh_summary": "华尔街对特斯拉谨慎，作者不担心",
    "title_zh": "华尔街为何谨慎看待特斯拉，而我并不担心",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "7a6197c29ef7",
@@ -1105,7 +1152,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉Roadster发布会定档周四",
    "title_zh": "特斯拉Roadster发布会定档周四 马斯克表态\"时机就是一切\"再添悬念",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "524f550551b8",
@@ -1370,7 +1421,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉Cybercab将在达拉斯运营",
    "title_zh": "特斯拉Cybercab将在美国得州达拉斯投入运营 - 新浪网",
-   "sentiment": 2
+   "sentiment": 2,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "430103446eea",
@@ -1520,7 +1575,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉第二代Roadster定档北京时间16日上午发布",
    "title_zh": "特斯拉第二代Roadster发布正式定档：北京时间16日上午8:55见 - 新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "e3eda274cf01",
@@ -2221,7 +2280,11 @@
    "breaking": true,
    "zh_summary": "Cybercab乘客可查看侧后摄像头画面",
    "title_zh": "坐无后视镜的特斯拉Cybercab心里发慌？未来乘客行程中可随时查看侧、后摄像头画面 - 搜狐",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "a2b8f3818328",
@@ -2561,7 +2624,11 @@
    "session": "盘后",
    "zh_summary": "飞行演示难破特斯拉市值魔咒",
    "title_zh": "飞行演示难破特斯拉(TSLA.US)市值魔咒_全球市场_财经 - 证券之星",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.1
+   }
   },
   {
    "id": "d919b88887d1",
@@ -6413,46 +6480,6 @@
    "zh_summary": "CyberCab实车展示无人驾驶出租车",
    "title_zh": "特斯拉CyberCab实车展示无人驾驶出租车",
    "sentiment": 1
-  },
-  {
-   "id": "82a144290a06",
-   "title": "特斯拉安全带卡扣断裂引争议 车主质疑质量缺陷 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZUTI0TjM1M251aTlyU0RMQVRtYXo5MWxIMEJIMlQzSndzTzAyS3RIVzVVY1JJMHFNMTlVVUtQc19rQ2xLZGtKUTNJV0JWRnpzNkxZcG9Qd1IxR2ZOSExacFAwQXJmSGFCN3Q0Njg5Wmo",
-   "source": "中华网",
-   "published_at": "2026-10-13T01:33:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-13T01:33:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZUTI0TjM1M251aTlyU0RMQVRtYXo5MWxIMEJIMlQzSndzTzAyS3RIVzVVY1JJMHFNMTlVVUtQc19rQ2xLZGtKUTNJV0JWRnpzNkxZcG9Qd1IxR2ZOSExacFAwQXJmSGFCN3Q0Njg5Wmo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "安全带卡扣断裂车主质疑质量",
-   "title_zh": "特斯拉安全带卡扣断裂引争议 车主质疑质量缺陷",
-   "sentiment": -1
-  },
-  {
-   "id": "8bdf83ed63b9",
-   "title": "【图】被灰色小猫难住！特斯拉Robotaxi不能通宵跑？运营时间延长至23点 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jeWNmX1djSy10X1d4NnJZcGdDdi1sNXR3cGNlZDZlUGxHc0NpMTc4REpXZjI4VHhWXzUybjh1d1RILVVqNTd6bUg0ZnYxT3EzdWZBQjFEM0o4UTlOc3RWTkpn",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T01:31:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T01:31:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jeWNmX1djSy10X1d4NnJZcGdDdi1sNXR3cGNlZDZlUGxHc0NpMTc4REpXZjI4VHhWXzUybjh1d1RILVVqNTd6bUg0ZnYxT3EzdWZBQjFEM0o4UTlOc3RWTkpn"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Robotaxi运营时间延长至23点",
-   "title_zh": "特斯拉Robotaxi运营时间延长至23点",
-   "sentiment": 0
   }
  ]
 }
