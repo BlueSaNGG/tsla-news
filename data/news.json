@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T18:25:07.068132+00:00",
+ "updated_at": "2026-10-14T18:41:08.316362+00:00",
  "market": {
-  "price": 364.44,
-  "change_pct": -2.88,
+  "price": 364.34,
+  "change_pct": -2.9,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,7 +22,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 35% 分位"
+     "note": "现价处于52周区间 34% 分位"
     },
     {
      "key": "目标价空间",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（128条已评分）"
+     "note": "今日新闻情绪 +0.30（132条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $364.44 vs 20日均线 $370.86"
+     "note": "现价 $364.34 vs 20日均线 $370.86"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 35,
+   "price_52w_pct": 34,
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 9.8,
    "ma20": 370.86,
-   "as_of": "2026-10-14T18:25:07.053498+00:00"
+   "as_of": "2026-10-14T18:41:08.302412+00:00"
   },
   "pe_ttm": 100.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.3,
-   "count": 128
+   "count": 132
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "5daa5e888e9b",
+   "title": "Tesla Wants to Make Its Own Chips—What Could Go Wrong? - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3dsRjV1VHlsVEkwVFN4aU56LUVXRDVFc1JHTm45MU5zOHRWbnU2UDYzWGhSVU9pOHJ4aXI3dm1GUHB1MHVERlZ6NjhpMjJaZFk1Qlh5VUdiRm45MlNES2pBb1JIbDNfVXlYV2J1ZlNFMWltQkh3UVFZSFp4S0hEME1KQnZKelhEc0JoZnljLTg1U1U",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T18:32:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T18:32:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3dsRjV1VHlsVEkwVFN4aU56LUVXRDVFc1JHTm45MU5zOHRWbnU2UDYzWGhSVU9pOHJ4aXI3dm1GUHB1MHVERlZ6NjhpMjJaZFk1Qlh5VUdiRm45MlNES2pBb1JIbDNfVXlYV2J1ZlNFMWltQkh3UVFZSFp4S0hEME1KQnZKelhEc0JoZnljLTg1U1U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "95439b042794",
+   "title": "Tesla Rolls Out a Pair of Cybertruck Lease Offers for October - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3lMN1phN2ZfLWNDUWcxTllHLVpPbUFaZHFaV2RWVE85UUpKZG5MT1NvaEJEbUUtZEZuenpXbFdZcll0RHdqOG5sWmJfTkxZNng2bG1aaTFSbHYtcFZ2Q2N6THBLRERDam9nSHVxbWNWWDVqaEU3QkFSUS1hYzhuS3dodlpzY2pzckJvVDdWSVhXM2k5NHZSdlRYeng",
+   "source": "Autoblog",
+   "published_at": "2026-10-14T18:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-14T18:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3lMN1phN2ZfLWNDUWcxTllHLVpPbUFaZHFaV2RWVE85UUpKZG5MT1NvaEJEbUUtZEZuenpXbFdZcll0RHdqOG5sWmJfTkxZNng2bG1aaTFSbHYtcFZ2Q2N6THBLRERDam9nSHVxbWNWWDVqaEU3QkFSUS1hYzhuS3dodlpzY2pzckJvVDdWSVhXM2k5NHZSdlRYeng"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "cfba3a2aaaaf",
+   "title": "tesla-taiwan-megapack-taipei - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjNPVThFcHpuZndGWEFvNGNpLU9xNlBCQUxKOFZzeGsya0h6X2hoVTNvN2I0elZxQUl4LXNVU1Y0cV9FcFI4WVJLMXlVTEpoQVJIQ1RRWHF3M0pFZkFFZnJ4NnQwT25xLWpnWGNaVEU2bDY4S0ctMTd0N3BoU3QxendtNkZfOGt0X29oNVN3ckxqYkI3OGNZ",
+   "source": "Teslarati",
+   "published_at": "2026-10-14T18:24:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-14T18:24:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjNPVThFcHpuZndGWEFvNGNpLU9xNlBCQUxKOFZzeGsya0h6X2hoVTNvN2I0elZxQUl4LXNVU1Y0cV9FcFI4WVJLMXlVTEpoQVJIQ1RRWHF3M0pFZkFFZnJ4NnQwT25xLWpnWGNaVEU2bDY4S0ctMTd0N3BoU3QxendtNkZfOGt0X29oNVN3ckxqYkI3OGNZ"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "525105e6ba55",
    "title": "#微博视频号续航计划#特斯拉Optimus 当起了酒保 还是个话唠 - 新浪网",
@@ -6457,66 +6508,6 @@
    "zh_summary": "TSLA股价隔夜续跌，分析师警告资本开支超预期",
    "title_zh": "TSLA股价隔夜延续跌势：Munster认为明年资本开支将远超预期",
    "sentiment": -1
-  },
-  {
-   "id": "9877cf666ba3",
-   "title": "特斯拉Model 3还值得买吗？2026新款4个维度深度拆解，23.55万起贵不贵+FAQ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zc1FBMkFSTUs4YXlVLVF1YTFNbkx4M202ZnlNajVXOWhsOWhNcFFFLTJXNXk5d0w3VnJ5eU9PQ3dwQ084UDQtdWNXTTdzTW5kRlFMTmhWUWJ2eHhydW16OEo4ZWxURFhGbFhLalpqTTFJUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-13T09:05:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-13T09:05:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zc1FBMkFSTUs4YXlVLVF1YTFNbkx4M202ZnlNajVXOWhsOWhNcFFFLTJXNXk5d0w3VnJ5eU9PQ3dwQ084UDQtdWNXTTdzTW5kRlFMTmhWUWJ2eHhydW16OEo4ZWxURFhGbFhLalpqTTFJUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "拆解2026新款Model 3：23.55万起值得买吗",
-   "title_zh": "特斯拉Model 3还值得买吗？2026新款4个维度深度拆解，23.55万起贵不贵+FAQ",
-   "sentiment": 0
-  },
-  {
-   "id": "db53177cb4be",
-   "title": "【视频】特斯拉的手机支架里这个属于设计的最巧妙的了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00enNveXRhbUxzWk9JNEQ3cFZITDJRWlpWMUVmNmxWdDV4eVBKRHFkUW9RcmtFYmVDaXk5UlJlQURzNGUycWtHcVhBWTJmWFdId1RVV1U4NmV6TVU",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T08:53:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T08:53:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00enNveXRhbUxzWk9JNEQ3cFZITDJRWlpWMUVmNmxWdDV4eVBKRHFkUW9RcmtFYmVDaXk5UlJlQURzNGUycWtHcVhBWTJmWFdId1RVV1U4NmV6TVU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉手机支架设计巧妙受好评",
-   "title_zh": "【视频】特斯拉的手机支架里这个属于设计的最巧妙的了",
-   "sentiment": 0
-  },
-  {
-   "id": "d006c221661a",
-   "title": "【视频】总有黑粉将我，特斯拉好还是长城好，我从没吹过任何车全是实话 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRkNSNnFZbTdDWXJFMThUcmEwTnpFOC1mRGVEV0phdHJ5VDFTRjdiS1Zhb3lVbk0tNmJ0T3o5R0RtVUdJMFpscTVvLXFxMjhlOERySE5SYV8zbzg",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T08:48:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T08:48:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZRkNSNnFZbTdDWXJFMThUcmEwTnpFOC1mRGVEV0phdHJ5VDFTRjdiS1Zhb3lVbk0tNmJ0T3o5R0RtVUdJMFpscTVvLXFxMjhlOERySE5SYV8zbzg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "视频对比特斯拉与长城汽车",
-   "title_zh": "【视频】总有黑粉将我，特斯拉好还是长城好，我从没吹过任何车全是实话",
-   "sentiment": 0
   }
  ]
 }
