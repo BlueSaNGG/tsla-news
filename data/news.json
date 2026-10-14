@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T19:27:01.991263+00:00",
+ "updated_at": "2026-10-14T19:41:16.017470+00:00",
  "market": {
-  "price": 365.96,
-  "change_pct": -2.47,
+  "price": 366.11,
+  "change_pct": -2.43,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（136条已评分）"
+     "note": "今日新闻情绪 +0.29（139条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $365.96 vs 20日均线 $370.94"
+     "note": "现价 $366.11 vs 20日均线 $370.95"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 16,
    "implied_upside_pct": 9.3,
-   "ma20": 370.94,
-   "as_of": "2026-10-14T19:27:01.977457+00:00"
+   "ma20": 370.95,
+   "as_of": "2026-10-14T19:41:16.000343+00:00"
   },
-  "pe_ttm": 101.2,
+  "pe_ttm": 101.3,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 136
+   "avg": 0.29,
+   "count": 139
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b4527360e140",
+   "title": "First Shift: Tesla pauses China-built Model 3 imports to Canada - Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDVlSzZhalA4akMyTHI3ZHZkRFdxakdvMUE3MnZTQzM0dTF3UmtFNzBxRVlxNTliWFpwMmRNSXUtUERDQkhQZ1BzdU1fZVc4Y0h0V3J0U1RTeXBEUWd3d19tZGhHNXY0TEdHWi1JMHdxYjhUUFpCNjFZeDZhVlNKWGNveVFVMlVPel82dDNkMGlNYUZzeTFqYXl3",
+   "source": "Automotive News",
+   "published_at": "2026-10-14T19:28:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive News",
+     "published_at": "2026-10-14T19:28:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDVlSzZhalA4akMyTHI3ZHZkRFdxakdvMUE3MnZTQzM0dTF3UmtFNzBxRVlxNTliWFpwMmRNSXUtUERDQkhQZ1BzdU1fZVc4Y0h0V3J0U1RTeXBEUWd3d19tZGhHNXY0TEdHWi1JMHdxYjhUUFpCNjFZeDZhVlNKWGNveVFVMlVPel82dDNkMGlNYUZzeTFqYXl3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "8f0e8b0c81d2",
    "title": "DeLorean Commends Tesla, Teases Upcoming EV - Not a Tesla App",
@@ -86,6 +103,23 @@
    "zh_summary": "DeLorean 赞特斯拉并预热新电动车",
    "title_zh": "DeLorean 称赞特斯拉，并预热即将推出的电动车",
    "sentiment": 0
+  },
+  {
+   "id": "6bb420fce178",
+   "title": "CHP officers injured in Fairfield when Sacramento man in Tesla hits their vehicle - Sacramento Bee",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNEIyZGo4TDR6MVQwRkItZHdzbWRMRVNOYVlGcFdNS2dMcTNKSGtDME9BVlhrNi04U1NkT0doRjRIcFJJWnZXSWRnX1F2RWFYczR0OVAzYmo2clpfX2FvZzNxdnFJZUJDeGZJTTNTc2NMUndELTIzcUx1ODVQLTcwWEswYzZPZlViOG9PVdIBjwFBVV95cUxQY1k5TWhmUi1lbHNBdFRhMEZTUHNoaGFFckJ1MUVQaXUtZkF3SkJfTEdXeE1Ld21BRHNCcHNtc2FkdDdUVzZNZEE5MVZvX0EyaS1tSURSNWthODVRV1IxbVZmOWRmZzVOSWZuS2VQNG4tQ09sUU1COTlOb3pYcF9OeDNpMkJZb0dza2g5N1NNQQ",
+   "source": "Sacramento Bee",
+   "published_at": "2026-10-14T19:20:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Sacramento Bee",
+     "published_at": "2026-10-14T19:20:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNEIyZGo4TDR6MVQwRkItZHdzbWRMRVNOYVlGcFdNS2dMcTNKSGtDME9BVlhrNi04U1NkT0doRjRIcFJJWnZXSWRnX1F2RWFYczR0OVAzYmo2clpfX2FvZzNxdnFJZUJDeGZJTTNTc2NMUndELTIzcUx1ODVQLTcwWEswYzZPZlViOG9PVdIBjwFBVV95cUxQY1k5TWhmUi1lbHNBdFRhMEZTUHNoaGFFckJ1MUVQaXUtZkF3SkJfTEdXeE1Ld21BRHNCcHNtc2FkdDdUVzZNZEE5MVZvX0EyaS1tSURSNWthODVRV1IxbVZmOWRmZzVOSWZuS2VQNG4tQ09sUU1COTlOb3pYcF9OeDNpMkJZb0dza2g5N1NNQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f5646f160743",
@@ -591,6 +625,23 @@
    "zh_summary": "特斯拉拉动南加至休斯敦联运激增",
    "title_zh": "特斯拉推动南加州到休斯敦多式联运激增",
    "sentiment": 1
+  },
+  {
+   "id": "35843d54a90f",
+   "title": "New Tesla Roadster preview: it’s really happening this time, promise - Carwow",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2hJS05WbFdvV2FBdjBZRktRZ1JmVzlMTGUwY3NhU0xuTERxMFIzMnNXTmRhQ3dPRGNqMExpMnZpWFU3eUFVME4yUVB2WmJjMlZxQ3JxVWg2c1Ywc3lYbmd2bGoyeXBrNWlwYVJuR3c5d0JBRUhqVjRyOWpBZ2RmQW5hR2NrMzFaUlE",
+   "source": "Carwow",
+   "published_at": "2026-10-14T16:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Carwow",
+     "published_at": "2026-10-14T16:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2hJS05WbFdvV2FBdjBZRktRZ1JmVzlMTGUwY3NhU0xuTERxMFIzMnNXTmRhQ3dPRGNqMExpMnZpWFU3eUFVME4yUVB2WmJjMlZxQ3JxVWg2c1Ywc3lYbmd2bGoyeXBrNWlwYVJuR3c5d0JBRUhqVjRyOWpBZ2RmQW5hR2NrMzFaUlE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "be3e9995b155",
@@ -1181,6 +1232,23 @@
    "zh_summary": "小鹏G9L巴黎亮相与特斯拉同场",
    "title_zh": "【视频】巴黎高光：小鹏G9L把“中国智驾”带到了特斯拉旁边 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "912774096419",
+   "title": "TSLA Stock’s 3-Week Rally Faces A Test — Why Waymo’s ‘Defensive’ Turn Makes This Bullish Analyst Love Tesla Even More - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T12:45:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T12:45:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm9JVXczN2ljZzBZR3p5NUo5ZGVaT3FiNmJrZ096TWZycEhTeVdjUHZzcXJIV3IwZE8tbnI2VTJqTk9CVXoyWWdkd21wNWszTi1SNmhFeFdmS3JxaEp3YnVGT2k4enVaWVl5MlZ2Y2N0NUQ4RExReGZFX3plXzF2bEZkaGpSR3Y0S3ZvOU5MTG1mcUlVLTQzVk9TMnZxNHJiOHhhTzU2NVpBX0dSQ2FHQ2YtU3Q1cWw0Q0VFQk1R"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "49d5181e9afa",
@@ -6437,86 +6505,6 @@
    "zh_summary": "特斯拉9月国内销量6.5万辆",
    "title_zh": "Model 3限时立减5000元！特斯拉9月国内销量6.5万辆，10月抄底时机？",
    "sentiment": 1
-  },
-  {
-   "id": "0584e48b5e47",
-   "title": "巴黎车展智驾“唯二”同台：何小鹏体验特斯拉FSD，称小鹏泛化能力更强 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kMXVFT0I5b1BibXBUT21MMFprSVJJdE9vSm5tdXpZNzNpdV9fdDdmLXdQdEtEblh4cmhJWXNsTGFGdEJ4SHZ0TnZrWjU",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-13T09:46:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-13T09:46:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kMXVFT0I5b1BibXBUT21MMFprSVJJdE9vSm5tdXpZNzNpdV9fdDdmLXdQdEtEblh4cmhJWXNsTGFGdEJ4SHZ0TnZrWjU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "何小鹏体验FSD赞其流畅",
-   "title_zh": "巴黎车展智驾“唯二”同台：何小鹏体验特斯拉FSD，称小鹏泛化能力更强",
-   "sentiment": 1
-  },
-  {
-   "id": "d8e952dcdeb1",
-   "title": "Elon Musk Says Terafab Could Rank Among ‘Top 20 of Country GDPs’ as Tesla and SpaceX Build Massive Texas Chip Empire - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEIzM3FBcTRLdVRFX1ZGMFM3WHRNRG9wclpJQ3p2cWxLLTRJZXVCU3dvVFBCMzl5UElTVkRXc1U1YkdETHkzTTEzQ0FaYjRmZVNFRUlhYk9EMFIyYkFvTFJEaFliVFpRdmtrdXJqT2dJNVJiUERMZFlkU3hVZUpaZGxIdmhwVURCZEY3VmhSRQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T09:45:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T09:45:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEIzM3FBcTRLdVRFX1ZGMFM3WHRNRG9wclpJQ3p2cWxLLTRJZXVCU3dvVFBCMzl5UElTVkRXc1U1YkdETHkzTTEzQ0FaYjRmZVNFRUlhYk9EMFIyYkFvTFJEaFliVFpRdmtrdXJqT2dJNVJiUERMZFlkU3hVZUpaZGxIdmhwVURCZEY3VmhSRQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克称Terafab或比肩国家GDP",
-   "title_zh": "马斯克称Terafab可跻身全球GDP前20",
-   "sentiment": 1
-  },
-  {
-   "id": "375b9897caf2",
-   "title": "【视频】特斯拉model Y 车况精品 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUHZpTm1nd2JDUnhXTEpCWXkwbWRRV2pjNEFjb0xiR1ZkTnVZeW1pandmaEtYTGhkQnowdlFjOTJvODZZNmh2bEdxYUktaW12S0w4VjBuMDFYeEU",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T09:29:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T09:29:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UUHZpTm1nd2JDUnhXTEpCWXkwbWRRV2pjNEFjb0xiR1ZkTnVZeW1pandmaEtYTGhkQnowdlFjOTJvODZZNmh2bEdxYUktaW12S0w4VjBuMDFYeEU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "视频：Model Y精品二手车车况",
-   "title_zh": "特斯拉model Y 车况精品 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "1ba3f9ab9dba",
-   "title": "NHTSA Investigates Tesla's Autonomous Taxis for Speeding in School Zones - KuCoin",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tCQ1VkVG9UeUVkS0FubVFncUVfOXJNZkg4MFBrdkwyM0xIVHFQdUZGbUQ5dG9Ybnd6VWpjTWV1QU81UUV6MHlMakhIdkJjb1NGckt6THg1NTExSHdHVHlQal9OenpYNlhHQkJsdzdrUUFReGNsbmczUWxqS1RfZy1Xd2kwWFl6YnlVVlJnRUYyMl9DSDYwSDhYcF9DZ2ZHUlBlN0wwV1BYdw",
-   "source": "KuCoin",
-   "published_at": "2026-10-13T09:28:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "KuCoin",
-     "published_at": "2026-10-13T09:28:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0tCQ1VkVG9UeUVkS0FubVFncUVfOXJNZkg4MFBrdkwyM0xIVHFQdUZGbUQ5dG9Ybnd6VWpjTWV1QU81UUV6MHlMakhIdkJjb1NGckt6THg1NTExSHdHVHlQal9OenpYNlhHQkJsdzdrUUFReGNsbmczUWxqS1RfZy1Xd2kwWFl6YnlVVlJnRUYyMl9DSDYwSDhYcF9DZ2ZHUlBlN0wwV1BYdw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉无人出租车学区超速遭NHTSA调查",
-   "title_zh": "NHTSA调查特斯拉无人出租车校园超速问题",
-   "sentiment": -1
   }
  ]
 }
