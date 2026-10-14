@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T15:37:33.515264+00:00",
+ "updated_at": "2026-10-14T15:53:08.565757+00:00",
  "market": {
-  "price": 366.7,
-  "change_pct": -2.27,
+  "price": 366.23,
+  "change_pct": -2.4,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 36% 分位"
+     "note": "现价处于52周区间 35% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.1%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.37（101条已评分）"
+     "note": "今日新闻情绪 +0.35（103条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $366.70 vs 20日均线 $370.98"
+     "note": "现价 $366.23 vs 20日均线 $370.95"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 36,
+   "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.1,
-   "ma20": 370.98,
-   "as_of": "2026-10-14T15:37:33.495874+00:00"
+   "implied_upside_pct": 9.2,
+   "ma20": 370.95,
+   "as_of": "2026-10-14T15:53:08.556921+00:00"
   },
-  "pe_ttm": 101.4,
+  "pe_ttm": 101.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.37,
-   "count": 101
+   "avg": 0.35,
+   "count": 103
   }
  },
  "meta": {
@@ -68,15 +68,37 @@
  },
  "stories": [
   {
+   "id": "6cb09d5317dd",
+   "title": "Rivian Replaces R2 Assembly Head With Tesla Cybercab Line Manager - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnI1aE5KeTNHNHdkSFplMXZ0c1d4YndybkVhVm54YkpwUlFnOGNRbXJnVTlwZGgwQlIwZ1Yzcm03VWdHZm9oMDZpS0dodTFzZHlSRDJmREpkSnM0cDVWZnZsSFlPb2hGNnYxU0l4RXZkdUN6TG16aGE1QnNhRkt5ejEtYmVOQXBvUHVxQ2c0TFU2ZDdVa2ZxVjdNQnl0bU9raVhDZg",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-14T15:41:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-14T15:41:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnI1aE5KeTNHNHdkSFplMXZ0c1d4YndybkVhVm54YkpwUlFnOGNRbXJnVTlwZGgwQlIwZ1Yzcm03VWdHZm9oMDZpS0dodTFzZHlSRDJmREpkSnM0cDVWZnZsSFlPb2hGNnYxU0l4RXZkdUN6TG16aGE1QnNhRkt5ejEtYmVOQXBvUHVxQ2c0TFU2ZDdVa2ZxVjdNQnl0bU9raVhDZg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "3fa37f91456b",
    "title": "Tesla Links Canada Model 3 Order Halt to Ottawa’s Quota Powers - eletric-vehicles.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0ZVX0NYcy1PZzVUcThxYUY5X1BrODNLc2VVRzJ0LTZxYkx0WlM3M0toR1ZLeGtkVmVCNWFrV2loeThEVDBQQjl1UGh2QnVtdzJRX294WDBGMFpjazFWM2ZiWV9qVDBzTGkyUWJJaDFzbkdVdzdUUHR6QV8xaTNEVC1Hc3BieG1pVGFocl94Yk0ycDJqVEgwZGN2MWIzQQ",
    "source": "eletric-vehicles.com",
    "published_at": "2026-10-14T15:21:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "eletric-vehicles.com",
+     "published_at": "2026-10-14T15:21:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0ZVX0NYcy1PZzVUcThxYUY5X1BrODNLc2VVRzJ0LTZxYkx0WlM3M0toR1ZLeGtkVmVCNWFrV2loeThEVDBQQjl1UGh2QnVtdzJRX294WDBGMFpjazFWM2ZiWV9qVDBzTGkyUWJJaDFzbkdVdzdUUHR6QV8xaTNEVC1Hc3BieG1pVGFocl94Yk0ycDJqVEgwZGN2MWIzQQ"
+    },
+    {
+     "name": "Electric Vehicles",
      "published_at": "2026-10-14T15:21:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0ZVX0NYcy1PZzVUcThxYUY5X1BrODNLc2VVRzJ0LTZxYkx0WlM3M0toR1ZLeGtkVmVCNWFrV2loeThEVDBQQjl1UGh2QnVtdzJRX294WDBGMFpjazFWM2ZiWV9qVDBzTGkyUWJJaDFzbkdVdzdUUHR6QV8xaTNEVC1Hc3BieG1pVGFocl94Yk0ycDJqVEgwZGN2MWIzQQ"
     }
@@ -273,6 +295,23 @@
    "sentiment": -1
   },
   {
+   "id": "5fe9c207a74c",
+   "title": "Tesla Driver Pinned By Tree Branch In Garden State Parkway Washington Twp Crash: Firefighters - Daily Voice",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk9VRnQwNWZRWEQtRTZaVlp5TTl1bmYzZlFXdmVMWjIzR3I4NjhILUswQjhLdHJWU0V4UVFfTjh1OWZ4VXJfajNpVWJld1RTUzk5Q1NvYmhoZ2dMT09FcmZrU1htRWdxdjhVM2U3NjlWc0k4OHItLWNsUVo4NXRjbU1CVEd4SDVmYXRTSTlyUE50T2h2YWJuZnVjcW9QR1ZzajdITg",
+   "source": "Daily Voice",
+   "published_at": "2026-10-14T13:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Daily Voice",
+     "published_at": "2026-10-14T13:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk9VRnQwNWZRWEQtRTZaVlp5TTl1bmYzZlFXdmVMWjIzR3I4NjhILUswQjhLdHJWU0V4UVFfTjh1OWZ4VXJfajNpVWJld1RTUzk5Q1NvYmhoZ2dMT09FcmZrU1htRWdxdjhVM2U3NjlWc0k4OHItLWNsUVo4NXRjbU1CVEd4SDVmYXRTSTlyUE50T2h2YWJuZnVjcW9QR1ZzajdITg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "88bef12aa3a4",
    "title": "First Look: The PIX Robobus is like the Tesla Robovan, only smaller! - TopElectricSUV",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRFJKbGpIeVc4UmJISEZiejdDX0FReEhyWHB0SzhtTFVGMmtmZ0c5TW41ZldqcEZHSFVDR2FsM1ZhTHR6Q3Bjc0F5MnI4N3hXdDItQ2ttdkFralN3YTc4N3JKUFNYZzNk",
@@ -351,26 +390,6 @@
    "zh_summary": "特斯拉Roadster配10个推进器无需FAA批准",
    "title_zh": "特斯拉Roadster搭载10个推进器，无需FAA批准",
    "sentiment": 1
-  },
-  {
-   "id": "7b0faeb863c7",
-   "title": "Tesla Supercharging Prices Have Jumped 15% In A Year - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ0SnQzcENDeGE3T2FvZTdYWnpVbHNiMnVsUGhGV2RxQnRpQTRwYy0xcjJxMW90ZnlPUUJWMGJ0c005S3pnLUZLZXEwR1J0Ukd0WUlEb2VNSjBRZmEtTlpjck8zMERTZ05JbElaNm13UHlQMlU0dlNiNmZLemRkRQ",
-   "source": "InsideEVs",
-   "published_at": "2026-10-14T13:31:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-14T13:31:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ0SnQzcENDeGE3T2FvZTdYWnpVbHNiMnVsUGhGV2RxQnRpQTRwYy0xcjJxMW90ZnlPUUJWMGJ0c005S3pnLUZLZXEwR1J0Ukd0WUlEb2VNSjBRZmEtTlpjck8zMERTZ05JbElaNm13UHlQMlU0dlNiNmZLemRkRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉超充价格一年上涨15%",
-   "title_zh": "特斯拉超级充电价格一年内上涨15%",
-   "sentiment": 0
   },
   {
    "id": "5020da494802",
@@ -716,6 +735,26 @@
    "zh_summary": "德国政策转向或为特斯拉每年解锁9.32亿欧元",
    "title_zh": "德国政策大转向：每年或为特斯拉解锁9.32亿欧元",
    "sentiment": 1
+  },
+  {
+   "id": "7b0faeb863c7",
+   "title": "Tesla Supercharging Prices Have Jumped 15% In A Year - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ0SnQzcENDeGE3T2FvZTdYWnpVbHNiMnVsUGhGV2RxQnRpQTRwYy0xcjJxMW90ZnlPUUJWMGJ0c005S3pnLUZLZXEwR1J0Ukd0WUlEb2VNSjBRZmEtTlpjck8zMERTZ05JbElaNm13UHlQMlU0dlNiNmZLemRkRQ",
+   "source": "InsideEVs",
+   "published_at": "2026-10-14T11:31:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-14T11:31:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ0SnQzcENDeGE3T2FvZTdYWnpVbHNiMnVsUGhGV2RxQnRpQTRwYy0xcjJxMW90ZnlPUUJWMGJ0c005S3pnLUZLZXEwR1J0Ukd0WUlEb2VNSjBRZmEtTlpjck8zMERTZ05JbElaNm13UHlQMlU0dlNiNmZLemRkRQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "特斯拉超充价格一年上涨15%",
+   "title_zh": "特斯拉超级充电价格一年内上涨15%",
+   "sentiment": 0
   },
   {
    "id": "f4afd46d69cf",
@@ -6455,51 +6494,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉Automations功能本地化即将全球推送",
    "title_zh": "特斯拉Automations功能完成本地化，即将全球推送",
-   "sentiment": 1
-  },
-  {
-   "id": "a470d5b31748",
-   "title": "Tesla vs CATL: how the two titans of energy storage measure up - Recharge News",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2RIMjZnZWJXWm1yRU5QV1NqVHJQekFBc2k2ZjZubndCZTNzZjNZOG1fWHFacGJ4QnN5QXdlVEkyVHJzLUJyMVNMb3Q0MWY2bUw5bHEwa2pvdUpzY0pXdGx3bjYxSTlReGd1dmlvRC1JM21qdzh2YjJRcmpQMFBraFViVFhFR1ZjcWZxZFhBSTlwbVhxNDY0cXNabVB0V0NqRXZ4VlkybFhwaG5sT0xn",
-   "source": "Recharge News",
-   "published_at": "2026-10-13T05:00:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Recharge News",
-     "published_at": "2026-10-13T05:00:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2RIMjZnZWJXWm1yRU5QV1NqVHJQekFBc2k2ZjZubndCZTNzZjNZOG1fWHFacGJ4QnN5QXdlVEkyVHJzLUJyMVNMb3Q0MWY2bUw5bHEwa2pvdUpzY0pXdGx3bjYxSTlReGd1dmlvRC1JM21qdzh2YjJRcmpQMFBraFViVFhFR1ZjcWZxZFhBSTlwbVhxNDY0cXNabVB0V0NqRXZ4VlkybFhwaG5sT0xn"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "特斯拉与宁德时代储能对决",
-   "title_zh": "特斯拉VS宁德时代：储能双雄对比",
-   "sentiment": 0
-  },
-  {
-   "id": "8c37e1df7cc1",
-   "title": "【网通社快报】特斯拉Automations自动化功能英文界面现身海外版固件 - 凤凰网汽车",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtUVNSbGs0MS1xa0w4cG1VYzVFckpfeHJzRHlkNlRUc0VwbGJXT0lVak1acmJKY1ZsdllEMnh2WW1fX19pc0V0NG9sMWg",
-   "source": "凤凰网汽车",
-   "published_at": "2026-10-13T05:00:09+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-13T05:00:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtUVNSbGs0MS1xa0w4cG1VYzVFckpfeHJzRHlkNlRUc0VwbGJXT0lVak1acmJKY1ZsdllEMnh2WW1fX19pc0V0NG9sMWg"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-13T05:00:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtUVNSbGs0MS1xa0w4cG1VYzVFckpfeHJzRHlkNlRUc0VwbGJXT0lVak1acmJKY1ZsdllEMnh2WW1fX19pc0V0NG9sMWg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Automations功能界面现身海外固件",
-   "title_zh": "特斯拉Automations自动化功能英文界面现身海外版固件",
    "sentiment": 1
   }
  ]
