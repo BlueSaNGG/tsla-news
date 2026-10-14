@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T14:37:47.570119+00:00",
+ "updated_at": "2026-10-14T14:52:45.966312+00:00",
  "market": {
-  "price": 367.65,
-  "change_pct": -2.02,
+  "price": 368.99,
+  "change_pct": -1.66,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 36% 分位"
+     "note": "现价处于52周区间 37% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +8.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +8.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（92条已评分）"
+     "note": "今日新闻情绪 +0.35（97条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $367.65 vs 20日均线 $371.02"
+     "note": "现价 $368.99 vs 20日均线 $371.09"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 36,
+   "price_52w_pct": 37,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 8.8,
-   "ma20": 371.02,
-   "as_of": "2026-10-14T14:37:47.556787+00:00"
+   "implied_upside_pct": 8.4,
+   "ma20": 371.09,
+   "as_of": "2026-10-14T14:52:45.934331+00:00"
   },
-  "pe_ttm": 101.7,
+  "pe_ttm": 102.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 92
+   "avg": 0.35,
+   "count": 97
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "48b7fd825ae1",
+   "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmQ1QlRVcTFlaS1GQnp6U3R1bXFoTm1SS3pUeDRSVUtoRUtaLXZ6b1hIbEJDcGgzT29fRDRENWgzd3YtWXI5NHlqbmg1WWozRFlYbmFBVExJQy16LXQ2cDlkYzR6cVppc3ZUaVFmV2ZMbXpsSFpBUzNyMVBwWGhVdzk2V0hHLW5SYjJ1Y2lKNk9EWG0ydE5XVg",
+   "source": "Electrek",
+   "published_at": "2026-10-14T14:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-14T14:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmQ1QlRVcTFlaS1GQnp6U3R1bXFoTm1SS3pUeDRSVUtoRUtaLXZ6b1hIbEJDcGgzT29fRDRENWgzd3YtWXI5NHlqbmg1WWozRFlYbmFBVExJQy16LXQ2cDlkYzR6cVppc3ZUaVFmV2ZMbXpsSFpBUzNyMVBwWGhVdzk2V0hHLW5SYjJ1Y2lKNk9EWG0ydE5XVg"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
+  {
+   "id": "013e65a3f5a3",
+   "title": "Tesla Rolls Out FSD V14.3 Lite to Legacy Model S and Model X With Intel MCU for the First Time - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFlRbzZRYjRqZV9vbE1nOHB0NVhwTWJkZ0NLM1FTSDNjVFhCZ0JmLW00Zy11UjY1YVI0eW9UaDRPOGhjeVBkVVltbGFDeVRRazBHVkQ4MlJUYnNyT1JaeF8xTFh4QXpnNEVjeVNiTGNSemM4Ymo1ZjY1aWhFaTY2S3VrQ1JBdVIwSWptQjRWSUpYdVhmbE1wb2VReVk3UmlPTGVMUmxaVHdFX2JMTUx1eUVQeEROa3B0Z082d0hubHhsRVNEUndVUWFXd0h3d25neWlwNG9Iaw",
+   "source": "autoevolution",
+   "published_at": "2026-10-14T14:42:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "autoevolution",
+     "published_at": "2026-10-14T14:42:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFlRbzZRYjRqZV9vbE1nOHB0NVhwTWJkZ0NLM1FTSDNjVFhCZ0JmLW00Zy11UjY1YVI0eW9UaDRPOGhjeVBkVVltbGFDeVRRazBHVkQ4MlJUYnNyT1JaeF8xTFh4QXpnNEVjeVNiTGNSemM4Ymo1ZjY1aWhFaTY2S3VrQ1JBdVIwSWptQjRWSUpYdVhmbE1wb2VReVk3UmlPTGVMUmxaVHdFX2JMTUx1eUVQeEROa3B0Z082d0hubHhsRVNEUndVUWFXd0h3d25neWlwNG9Iaw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "386e80cfa077",
    "title": "特斯拉开发Cybercab乘客行程中查看侧后方摄像头功能，无后视镜设计的安全感补丁 - 网通社",
@@ -217,12 +251,12 @@
    "title": "Fairfield I-80 crash injures 2 CHP officers after Tesla hits patrol car - CBS News",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaE9WVkdjbGdTLXowSzQ4TXNsWnA2YnRua2huY1psajRrM2ZzOXM0YlFzM1ViMnJURTBrQTZScWpici02b0NNdkdNZF9yZ1o5aDl4V0hpYnVGakEwblNDVjNuMlpBUmRRNHdYRG96YnJDQlhPSk04QWJWUGFYVmF3UjE4X3hFWk9EU0lWeUZiTQ",
    "source": "CBS News",
-   "published_at": "2026-10-14T13:43:28+00:00",
+   "published_at": "2026-10-14T13:43:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "CBS News",
-     "published_at": "2026-10-14T13:43:28+00:00",
+     "published_at": "2026-10-14T13:43:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaE9WVkdjbGdTLXowSzQ4TXNsWnA2YnRua2huY1psajRrM2ZzOXM0YlFzM1ViMnJURTBrQTZScWpici02b0NNdkdNZF9yZ1o5aDl4V0hpYnVGakEwblNDVjNuMlpBUmRRNHdYRG96YnJDQlhPSk04QWJWUGFYVmF3UjE4X3hFWk9EU0lWeUZiTQ"
     }
    ],
@@ -6460,46 +6494,6 @@
     "pct": 1.2,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "1c8e30a492b6",
-   "title": "Tesla Cybercab Spotted Giving Unsupervised Rides in Austin - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTVqMDQwdG9YZWN5MFQ0ZHBHemRVTjQyYjE1Mk50RzE4cVhyV1JIT0EzRDFPN3NyM0UyZmZzQUJhOHhQdjFwMHdsand2eFBOWmxoMFpURTk5dTRYZGlKWXBtc1dvNGpDWXBtT1QxQnBVdXRwZTBJTHRkT0otRTRxYnJwNUpZLUZWT3FMMEYxaktSZHhHcExDRA",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-13T04:03:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-13T04:03:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTVqMDQwdG9YZWN5MFQ0ZHBHemRVTjQyYjE1Mk50RzE4cVhyV1JIT0EzRDFPN3NyM0UyZmZzQUJhOHhQdjFwMHdsand2eFBOWmxoMFpURTk5dTRYZGlKWXBtc1dvNGpDWXBtT1QxQnBVdXRwZTBJTHRkT0otRTRxYnJwNUpZLUZWT3FMMEYxaktSZHhHcExDRA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Cybercab奥斯汀无人监督载客被拍",
-   "title_zh": "Cybercab在奥斯汀提供无人监督乘车被拍到",
-   "sentiment": 1
-  },
-  {
-   "id": "fa81c84a0c65",
-   "title": "特斯拉的无后视镜Cybercab将升级，为乘客提供更佳视野 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EX0N1RE9uanBQbkhlRThZNDJ6dGtpTk1Dc2w3TGNhMFV1TlZHMWc2eWp6ZWFuX2RMRkxFelBRekhoSENMLUQydU9SWWVUVU00ZFBYanh1NFhxYk0",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T03:55:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T03:55:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EX0N1RE9uanBQbkhlRThZNDJ6dGtpTk1Dc2w3TGNhMFV1TlZHMWc2eWp6ZWFuX2RMRkxFelBRekhoSENMLUQydU9SWWVUVU00ZFBYanh1NFhxYk0"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "无后视镜Cybercab升级改善视野",
-   "title_zh": "特斯拉的无后视镜Cybercab将升级，为乘客提供更佳视野",
-   "sentiment": 1
   }
  ]
 }
