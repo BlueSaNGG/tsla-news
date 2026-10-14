@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T03:22:31.524779+00:00",
+ "updated_at": "2026-10-14T03:37:34.591132+00:00",
  "market": {
   "price": 375.23,
   "change_pct": -0.74,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（170条已评分）"
+     "note": "今日新闻情绪 +0.05（173条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.6,
    "ma20": 370.54,
-   "as_of": "2026-10-14T03:22:31.506456+00:00"
+   "as_of": "2026-10-14T03:37:34.574158+00:00"
   },
   "pe_ttm": 103.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.05,
-   "count": 170
+   "count": 173
   }
  },
  "meta": {
@@ -86,6 +86,23 @@
    "zh_summary": "特斯拉司机讲理反遭委屈",
    "title_zh": "特斯拉司机讲理用普通话遭遇委屈 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "e088bb9ba988",
+   "title": "曝特斯拉机器人即将量产 Optimus接近定型 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nN3RjTkNNXzNwT1EyalZtcUFqVURGM3A2SnJUTkxnVEdtQmlXbHlxdFcxWTNKYmlWM3ZhMzlrS2JDM1lzOF93anVrOWxxbDItTGRuYWJ6bWs0Smxt",
+   "source": "Moomoo",
+   "published_at": "2026-10-14T03:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-14T03:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nN3RjTkNNXzNwT1EyalZtcUFqVURGM3A2SnJUTkxnVEdtQmlXbHlxdFcxWTNKYmlWM3ZhMzlrS2JDM1lzOF93anVrOWxxbDItTGRuYWJ6bWs0Smxt"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "4f984b2c1871",
@@ -3172,6 +3189,23 @@
    "zh_summary": "BP机爆炸与特斯拉苹果有何关系",
    "title_zh": "【视频】BP机爆炸，关特斯拉和苹果什么事儿？",
    "sentiment": 0
+  },
+  {
+   "id": "0b83d2c689d7",
+   "title": "TSLA Stock Rises Overnight On Germany Ramp Ahead Of Q2: Analyst Sees 10% Delivery Jump This Year, Improving Margins - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-13T08:33:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-13T08:33:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtxOW9jRl9GQ1I1Zzl1dVVBVmh1OEZSZU42YzRheTJkQ3FsTXJSX0FqcVowYlpXaTliS0VvRzc5UXFoODBpRUpYUWI5YVpreXlpTHltcnhwMTA5Mm1scUlVMjBDMUlFOHZLMTcxZVdjSWxsWElVV05JT1lMUi03eFVITDVna1VrSHZXLVQ3TjAtbWNiNmtDVGVmcF9wUEpwN2dyWTUxMTBlRFhiOWZIQURpSVl0VmFyYThHaFoxbmdGQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "2bcbf2657171",
@@ -6346,46 +6380,6 @@
    "zh_summary": "车主称充电$136省油费$235",
    "title_zh": "车主31天开1857英里充电花$136省油$235",
    "sentiment": 1
-  },
-  {
-   "id": "51f17a3126ff",
-   "title": "Tesla’s Cybercab fleet jumped 8x in a month, with Dallas up next - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTVQxaEFNdm1TaEYxNThtdUtOSFp4SUxBVGFTejBXRTZySHdsWDl6ancxa3p1UURLV3JRMkJ2VlpMaVRvazZ2M3h2cm9MNUdlT19yNF8zU1JSZ0lG",
-   "source": "Teslarati",
-   "published_at": "2026-10-11T07:02:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-11T07:02:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTVQxaEFNdm1TaEYxNThtdUtOSFp4SUxBVGFTejBXRTZySHdsWDl6ancxa3p1UURLV3JRMkJ2VlpMaVRvazZ2M3h2cm9MNUdlT19yNF8zU1JSZ0lG"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "Cybercab车队一月扩大8倍将进军达拉斯",
-   "title_zh": "Cybercab车队一月扩大8倍，达拉斯接棒",
-   "sentiment": 1
-  },
-  {
-   "id": "8e934bace47a",
-   "title": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c",
-   "source": "汽车之家",
-   "published_at": "2026-10-11T07:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-11T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model S/X或停产引讨论",
-   "title_zh": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？",
-   "sentiment": -1
   }
  ]
 }
