@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T19:13:39.501893+00:00",
+ "updated_at": "2026-10-14T19:27:01.991263+00:00",
  "market": {
-  "price": 364.85,
-  "change_pct": -2.77,
+  "price": 365.96,
+  "change_pct": -2.47,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.6%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（135条已评分）"
+     "note": "今日新闻情绪 +0.30（136条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $364.85 vs 20日均线 $370.88"
+     "note": "现价 $365.96 vs 20日均线 $370.94"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.6,
-   "ma20": 370.88,
-   "as_of": "2026-10-14T19:13:39.491459+00:00"
+   "implied_upside_pct": 9.3,
+   "ma20": 370.94,
+   "as_of": "2026-10-14T19:27:01.977457+00:00"
   },
-  "pe_ttm": 100.9,
+  "pe_ttm": 101.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 135
+   "avg": 0.3,
+   "count": 136
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "8f0e8b0c81d2",
+   "title": "DeLorean Commends Tesla, Teases Upcoming EV - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUgxdHZOU2NKX0JORlJvd01CTzhzbUQ0b3NGdnF0eS13SzAydVk0Y3c3V1FwTzV3cXc5RlFjVUZzSnBsRC1iNElobVkzY0x0T0FNUnBkQ2k2b1M3SlotN3lRRTltbkUxZjZBT3JRSjM1Y1FPenF2TzBtN3hLUmhGYTNteW1hTmQy",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-14T19:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-14T19:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUgxdHZOU2NKX0JORlJvd01CTzhzbUQ0b3NGdnF0eS13SzAydVk0Y3c3V1FwTzV3cXc5RlFjVUZzSnBsRC1iNElobVkzY0x0T0FNUnBkQ2k2b1M3SlotN3lRRTltbkUxZjZBT3JRSjM1Y1FPenF2TzBtN3hLUmhGYTNteW1hTmQy"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "f5646f160743",
+   "title": "Amazon Is the Most Crowded Stock for Hedge Funds. Tesla, Not So Much. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmxOSUo1VDQwejdPVHRGYjQtdVRPaTRONzI1MnE4OXJmVnJXdWRXZ3dYckR0ck9vamNhWmFCOHlOSGVXUFh3QkRGT3NlbU94VkxHUzlYUURfTDRVa3BodmVzdXB0NVZuazFQanZrcWJUdTA2YTZNUVlIemVUNVcxc2JvYUU",
+   "source": "Barron's",
+   "published_at": "2026-10-14T19:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-14T19:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmxOSUo1VDQwejdPVHRGYjQtdVRPaTRONzI1MnE4OXJmVnJXdWRXZ3dYckR0ck9vamNhWmFCOHlOSGVXUFh3QkRGT3NlbU94VkxHUzlYUURfTDRVa3BodmVzdXB0NVZuazFQanZrcWJUdTA2YTZNUVlIemVUNVcxc2JvYUU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "9b77a1859701",
+   "title": "How China's Best Hands-Free Driving Tech Competes With Tesla - Edmunds",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWDN3MFNtb25UdzJZdmdtSGJya0Nad0Q5TnZlSHJxZDJhN2VDU2l0d0VKZnFVVVpoblJxQ2xueUpXWWZ5SkxfZHhOMExzYXRaYUV2QUJQVXB1Nk53ZXQ1YUhCQ2o4NHE1LVF3UVFMS3plMmtwLVpwa0VJdUo",
+   "source": "Edmunds",
+   "published_at": "2026-10-14T19:13:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Edmunds",
+     "published_at": "2026-10-14T19:13:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWDN3MFNtb25UdzJZdmdtSGJya0Nad0Q5TnZlSHJxZDJhN2VDU2l0d0VKZnFVVVpoblJxQ2xueUpXWWZ5SkxfZHhOMExzYXRaYUV2QUJQVXB1Nk53ZXQ1YUhCQ2o4NHE1LVF3UVFMS3plMmtwLVpwa0VJdUo"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
   {
    "id": "5daa5e888e9b",
    "title": "Tesla Wants to Make Its Own Chips—What Could Go Wrong? - MarketBeat",
@@ -1080,26 +1131,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉股价下跌Uber提万亿美元问题",
    "title_zh": "特斯拉股价下跌，Uber提出万亿美元问题",
-   "sentiment": -1
-  },
-  {
-   "id": "baf64cf24563",
-   "title": "Tesla Changes ‘Full Self-Driving’ Name in Europe Following Regulatory Pushback Over Accuracy - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnZ5UEQ0dWVFclpmNFViQ1ZEbWlfamE3dEx0b3pBRnJIaDlWaTlRd1piT29mcmV0djlGT01ZeUQyb2pUdHI0TE40c2VodkpNcVp6S3VLYk95U1VERUtpTkVkLXdib3dQb0JMSTE0Z3ctR1pFSkpEV003M2xSbXFSZW04ZDhtQjM2S1czNjBoREhvYzRHNGcybG9lanFiYXBzejR5cg",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-14T13:04:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-14T13:04:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUnZ5UEQ0dWVFclpmNFViQ1ZEbWlfamE3dEx0b3pBRnJIaDlWaTlRd1piT29mcmV0djlGT01ZeUQyb2pUdHI0TE40c2VodkpNcVp6S3VLYk95U1VERUtpTkVkLXdib3dQb0JMSTE0Z3ctR1pFSkpEV003M2xSbXFSZW04ZDhtQjM2S1czNjBoREhvYzRHNGcybG9lanFiYXBzejR5cg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉在欧洲改名FSD因监管质疑",
-   "title_zh": "特斯拉迫于监管压力在欧洲更改全自动驾驶名称",
    "sentiment": -1
   },
   {
@@ -6477,46 +6508,6 @@
    "zh_summary": "特斯拉无人出租车学区超速遭NHTSA调查",
    "title_zh": "NHTSA调查特斯拉无人出租车校园超速问题",
    "sentiment": -1
-  },
-  {
-   "id": "d950f64c90e7",
-   "title": "【视频】德国与特斯拉达成共识，支持FSD落地欧洲，但需改名 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZHdqQ0pCX2oxdzBpX1dwc3BGNzdReE5Hd2lqQm9LWTQtVkg5Z3BMUzhQVjVHaEhNME0tbFRCdEZ1ZFhYSmtwZmpubHNnR3pNOGVMTjdxVGczR2c",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T09:23:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T09:23:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZHdqQ0pCX2oxdzBpX1dwc3BGNzdReE5Hd2lqQm9LWTQtVkg5Z3BMUzhQVjVHaEhNME0tbFRCdEZ1ZFhYSmtwZmpubHNnR3pNOGVMTjdxVGczR2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德国与特斯拉达成共识支持FSD落地欧洲",
-   "title_zh": "【视频】德国与特斯拉达成共识，支持FSD落地欧洲，但需改名",
-   "sentiment": 1
-  },
-  {
-   "id": "465eeafc02a0",
-   "title": "38号车评实测特斯拉Model Y：改款后还能闭眼选吗？3个维度说清+FAQ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jLVhuM081SjF3SkI2a0ZuaWg5ejFBNkNydVlONFJOMGs0MjlxSXJ3SDc2ZU55emZydnNaQkNNTjg2TkUzZ2o4NHY1RTYtLThwd2pZSlU1cFVzaWluWnNn",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T09:18:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T09:18:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jLVhuM081SjF3SkI2a0ZuaWg5ejFBNkNydVlONFJOMGs0MjlxSXJ3SDc2ZU55emZydnNaQkNNTjg2TkUzZ2o4NHY1RTYtLThwd2pZSlU1cFVzaWluWnNn"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "实测改款特斯拉Model Y是否还值得闭眼选",
-   "title_zh": "38号车评实测特斯拉Model Y：改款后还能闭眼选吗？3个维度说清+FAQ",
-   "sentiment": 0
   }
  ]
 }
