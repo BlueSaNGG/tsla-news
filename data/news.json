@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T16:08:50.259997+00:00",
+ "updated_at": "2026-10-15T16:22:38.036838+00:00",
  "market": {
-  "price": 361.74,
-  "change_pct": -1.48,
+  "price": 360.7,
+  "change_pct": -1.76,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.6%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（120条已评分）"
+     "note": "今日新闻情绪 +0.24（127条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $361.74 vs 20日均线 $370.78"
+     "note": "现价 $360.70 vs 20日均线 $370.72"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 33,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.6,
-   "ma20": 370.78,
-   "as_of": "2026-10-15T16:08:50.248812+00:00"
+   "implied_upside_pct": 10.9,
+   "ma20": 370.72,
+   "as_of": "2026-10-15T16:22:38.022453+00:00"
   },
-  "pe_ttm": 100.0,
+  "pe_ttm": 99.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.24,
-   "count": 120
+   "count": 127
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "4b3ca2e1bcc4",
+   "title": "Tesla Stock Is Down Nearly 20% This Year. Is it a Buy Ahead of Earnings? - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTNDVGw3dEl3U3A5dEdWZ1BJUjRhQVl3MzZ3MmtwN0tIX2MzaFc2eDhKdXNtSnkySFBhQVk3by13UFFvSUJsZWhwZWJJUU9lbHl2N1VXTkhMSnBla1ljbmQ0cjFYZ2pMcVhQWnVlOXF5Nm4wdWstTEwwMm5JWVJjMWJjZl9aanNKR0lkZmtHQ0RmMnYyYjZnVGFvR0lOdVE2NDFHRkN6LUh0QmtU",
+   "source": "Morningstar",
+   "published_at": "2026-10-15T16:10:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Morningstar",
+     "published_at": "2026-10-15T16:10:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTNDVGw3dEl3U3A5dEdWZ1BJUjRhQVl3MzZ3MmtwN0tIX2MzaFc2eDhKdXNtSnkySFBhQVk3by13UFFvSUJsZWhwZWJJUU9lbHl2N1VXTkhMSnBla1ljbmQ0cjFYZ2pMcVhQWnVlOXF5Nm4wdWstTEwwMm5JWVJjMWJjZl9aanNKR0lkZmtHQ0RmMnYyYjZnVGFvR0lOdVE2NDFHRkN6LUh0QmtU"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "7e1ee8dbd3e7",
+   "title": "Elon Musk says Tesla’s Roadster demo could be a bang, quite literally - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zZC1YOG1MTUxWZ0pEQ2N0LVU2QjFJM1JSTjJraURGUkE4ZjdSLTRHbzRMUUFHTTBkbHZNazJTWmZtOTd3TTl0ZHczVzUxal9CVEtuOEZVdWdBNkMxdTBlWVYxRU1oamcxWEVIT0pNNA",
+   "source": "Teslarati",
+   "published_at": "2026-10-15T16:08:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-15T16:08:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zZC1YOG1MTUxWZ0pEQ2N0LVU2QjFJM1JSTjJraURGUkE4ZjdSLTRHbzRMUUFHTTBkbHZNazJTWmZtOTd3TTl0ZHczVzUxal9CVEtuOEZVdWdBNkMxdTBlWVYxRU1oamcxWEVIT0pNNA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "eb538bd6646a",
    "title": "Tesla readies flying Roadster reveal in Texas to re-energize car business - Investing.com",
@@ -93,12 +127,17 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakROLUVKVHBxWlVJUDNWbHViZlh3RXQ4R0w2WTQySVpHVndaTUVwODFCRmxwTk53anl6TnJob0wzeHZaM204Zk5PM21WN2I3WjVVVDkzejdyblhWRG82VFh6bDYwRnVZRDNDMnBmYm1fbUFUYWY1M1p6cHpEaXM4cXcwR0RscDJfdkQyYVJhWURtX3FjbTNMTlRjSThVWEduUXkyUGo4NkRRRlNLcURaTV9GdDI1UQ",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-15T16:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-15T16:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakROLUVKVHBxWlVJUDNWbHViZlh3RXQ4R0w2WTQySVpHVndaTUVwODFCRmxwTk53anl6TnJob0wzeHZaM204Zk5PM21WN2I3WjVVVDkzejdyblhWRG82VFh6bDYwRnVZRDNDMnBmYm1fbUFUYWY1M1p6cHpEaXM4cXcwR0RscDJfdkQyYVJhWURtX3FjbTNMTlRjSThVWEduUXkyUGo4NkRRRlNLcURaTV9GdDI1UQ"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-15T16:00:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHc5bEVWWWducVpwVVlFaDBkcHdoZ3hXblkzWk5Ua0FxQWZNdEZYNFcxSDkzQVROcFFCNVZoNVpVMll4d0NVZFlHWnh5REFKeWdnbkF3V1FLSlMtM1EtYWNtTUhfR3p1Q0Q1WUdheWFxXzJjLVdMUklWLW9jc1RSc3hEV0Y"
     }
    ],
    "category": "其他",
@@ -166,6 +205,23 @@
    "zh_summary": "特斯拉Roadster发布会定于美东晚9点",
    "title_zh": "特斯拉Roadster发布会定于美东晚9点",
    "sentiment": 1
+  },
+  {
+   "id": "57d29ff24ef3",
+   "title": "Exclusive | An Ex-Tesla Executive Is Steering Uber Freight’s Turnaround - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA",
+   "source": "WSJ",
+   "published_at": "2026-10-15T15:48:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-15T15:48:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "2a0019b304ef",
@@ -761,6 +817,23 @@
    "zh_summary": "特斯拉第二代Roadster即将揭幕",
    "title_zh": "特斯拉第二代Roadster即将揭幕，2.1秒破百 千公里续航 - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "eb43fba62609",
+   "title": "Tesla’s Delivery Beat Isn’t Enough to Make TSLA Stock a Buy Ahead of Q3 Earnings - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG4tdElERnMzeWVCNVJJNUNNRDdkUnhNc1NjYjVTaXp5QkkzTFdleWFya3RsZnpOYUFqWXRoSUxnelFlMWQ4dG5HZWc3VFFtdWtxVkR3N0lwT0c1R2xwWVJNX2J5ekc1RHdFcXVIOTQ0cVk2R1M0RENLYk1RTnlrZU96VVNsOWhxR3ZFSTVZX08xbkJYNkJicTJzUFZQeGtiaVFMZ1NidTF4ZERmdHpjOWdmTHM0dFJLSFIxbGV2NA",
+   "source": "Barchart.com",
+   "published_at": "2026-10-15T13:34:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-10-15T13:34:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG4tdElERnMzeWVCNVJJNUNNRDdkUnhNc1NjYjVTaXp5QkkzTFdleWFya3RsZnpOYUFqWXRoSUxnelFlMWQ4dG5HZWc3VFFtdWtxVkR3N0lwT0c1R2xwWVJNX2J5ekc1RHdFcXVIOTQ0cVk2R1M0RENLYk1RTnlrZU96VVNsOWhxR3ZFSTVZX08xbkJYNkJicTJzUFZQeGtiaVFMZ1NidTF4ZERmdHpjOWdmTHM0dFJLSFIxbGV2NA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "393cda2efdc3",
@@ -6487,86 +6560,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉10月15日直播发布新款Roadster",
    "title_zh": "特斯拉10月15日将直播发布新款Roadster",
-   "sentiment": 1
-  },
-  {
-   "id": "ebe8347117b3",
-   "title": "特斯拉Cybercab将更换新款座椅，乘坐体验将迎来多项升级 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IRVRGNHYtbGtQOWlMbFFFMGNrZDlMNEtlQ1VMSXkxbzM2QW5IMGlaVnRLUXFYVUlYbEIwX3V0R1NSZUJhM1o0ejhNTXJkRmdHNUlqZkJKaEJDVWM",
-   "source": "汽车之家",
-   "published_at": "2026-10-14T10:43:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-14T10:43:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IRVRGNHYtbGtQOWlMbFFFMGNrZDlMNEtlQ1VMSXkxbzM2QW5IMGlaVnRLUXFYVUlYbEIwX3V0R1NSZUJhM1o0ejhNTXJkRmdHNUlqZkJKaEJDVWM"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab将更换新款座椅",
-   "title_zh": "特斯拉Cybercab将更换新款座椅，乘坐体验将迎来多项升级 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "865f32ed2049",
-   "title": "特斯拉在美遭联邦调查，涉自动驾驶出租车在学区路段超速 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IZVg4MUZ5VjQxNFRqSTRla0E5LXNEQk5abTJ1MkgwRVFZSjY5dk1aYk45Z0dUTGF3b3lTYXE5SVRWaW8xNVJ5NmQ0SDZCWlFUZWxTVUltU1pnTVU",
-   "source": "汽车之家",
-   "published_at": "2026-10-14T10:43:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-14T10:43:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IZVg4MUZ5VjQxNFRqSTRla0E5LXNEQk5abTJ1MkgwRVFZSjY5dk1aYk45Z0dUTGF3b3lTYXE5SVRWaW8xNVJ5NmQ0SDZCWlFUZWxTVUltU1pnTVU"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉在美遭联邦调查涉Robotaxi超速",
-   "title_zh": "特斯拉在美遭联邦调查，涉自动驾驶出租车在学区路段超速 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "e9e42f2175a0",
-   "title": "Tesla Cybertruck Driver Says He Reached a Charger With 1% Battery While Bringing Home a 4,000-Pound Trailer - Torque News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnRDeDFnX3I5dzRjdkhIWmtZWnFucWhZa0FPaXpfZnlZWW5mSFVpS1BoUngzdnFxa2MwbXpRR0dDeGp3NmpxTnB1S25GVTRZOHVlemJJZEQtSEpoU29sLU9HWXdrdUZZbnJTRG9RU0dIMExPSGZ2WEdMZ0lLWlBHODkxWURBMGFCUk9Fc2cwS2xEeXB4eGdocjVSakwwWkhyVG9fdV93Z1pJay0tZjZJVWtjX1YtbEpkclVLZHRR",
-   "source": "Torque News",
-   "published_at": "2026-10-14T10:40:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Torque News",
-     "published_at": "2026-10-14T10:40:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnRDeDFnX3I5dzRjdkhIWmtZWnFucWhZa0FPaXpfZnlZWW5mSFVpS1BoUngzdnFxa2MwbXpRR0dDeGp3NmpxTnB1S25GVTRZOHVlemJJZEQtSEpoU29sLU9HWXdrdUZZbnJTRG9RU0dIMExPSGZ2WEdMZ0lLWlBHODkxWURBMGFCUk9Fc2cwS2xEeXB4eGdocjVSakwwWkhyVG9fdV93Z1pJay0tZjZJVWtjX1YtbEpkclVLZHRR"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Cybertruck拖4千磅拖车仅剩1%电量",
-   "title_zh": "Cybertruck车主拖着4000磅拖车以1%电量抵达充电桩",
-   "sentiment": 0
-  },
-  {
-   "id": "abe4ef10df57",
-   "title": "Tesla plans Australia’s largest EV charging hub with 37 stalls in Albury - Beinsure",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwN2NHYk1iY3YwTU0tXzlBT3RiTVJSMjBBaWZoV2M5NzlHV3I1QkJYSlVJWWxBTnA2Y2dSd0NwcFVLVVc3YmFldXBXREtSUzBmaHVWYm9zQVZHc0VHeGNpN2lvODlzaW5qYkNIQ0ticmZuaTVu",
-   "source": "Beinsure",
-   "published_at": "2026-10-14T10:32:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Beinsure",
-     "published_at": "2026-10-14T10:32:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwN2NHYk1iY3YwTU0tXzlBT3RiTVJSMjBBaWZoV2M5NzlHV3I1QkJYSlVJWWxBTnA2Y2dSd0NwcFVLVVc3YmFldXBXREtSUzBmaHVWYm9zQVZHc0VHeGNpN2lvODlzaW5qYkNIQ0ticmZuaTVu"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉将在澳大利亚建最大充电中心",
-   "title_zh": "特斯拉计划在澳大利亚阿尔伯里建37桩充电枢纽",
    "sentiment": 1
   }
  ]
