@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T20:37:34.950818+00:00",
+ "updated_at": "2026-10-15T20:52:30.576009+00:00",
  "market": {
   "price": 362.44,
   "change_pct": -1.29,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（168条已评分）"
+     "note": "今日新闻情绪 +0.26（171条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 10.4,
    "ma20": 370.81,
-   "as_of": "2026-10-15T20:37:34.943655+00:00"
+   "as_of": "2026-10-15T20:52:30.559535+00:00"
   },
   "pe_ttm": 100.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.26,
-   "count": 168
+   "count": 171
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "73e32aedab68",
+   "title": "Tesla Is An Incredible Company - Its Valuation Is Another Story (NASDAQ:TSLA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1hreHhWVGRzRkRia01jbnAzNGsyeTl6V0dZd1BTMy0xY2VfRGlXbC1iY09GWnVWbl8ta2pkSXpEZ2YtMFFhQlFIYno4QTVzM0UzeG5XXzEyX2xCdTVzeTFpWnk1aHFKdGpFYmVEbzBkSWdldTVUamM3Y0JvX2wtcWF1YWVYVUdZN3JHcG02dHk0RUV4ZVBmZU12aDVYZVZyLXlhVA",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-15T20:23:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-15T20:23:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX1hreHhWVGRzRkRia01jbnAzNGsyeTl6V0dZd1BTMy0xY2VfRGlXbC1iY09GWnVWbl8ta2pkSXpEZ2YtMFFhQlFIYno4QTVzM0UzeG5XXzEyX2xCdTVzeTFpWnk1aHFKdGpFYmVEbzBkSWdldTVUamM3Y0JvX2wtcWF1YWVYVUdZN3JHcG02dHk0RUV4ZVBmZU12aDVYZVZyLXlhVA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
   {
    "id": "421032966348",
    "title": "2008–11 Tesla Roadster: Digital Heart, Analog Body, Tempting Price - Hagerty",
@@ -6513,26 +6530,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉向老款S/X推送FSD V14.3 Lite",
    "title_zh": "特斯拉向老款Model S/X首次推送FSD V14.3 Lite",
-   "sentiment": 1
-  },
-  {
-   "id": "386e80cfa077",
-   "title": "特斯拉开发Cybercab乘客行程中查看侧后方摄像头功能，无后视镜设计的安全感补丁 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZWFGWHc3LWtfRkVSSWI3cEtoc1hNeDNCR3R3ZW9aTWVlNmNWM2NYcnJXdnQ0RmFOeDZaNDlPUFV0dWF5OTdydEYxcDBRclBsbEZMdE5QM25jTkk",
-   "source": "网通社",
-   "published_at": "2026-10-14T14:27:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-14T14:27:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZWFGWHc3LWtfRkVSSWI3cEtoc1hNeDNCR3R3ZW9aTWVlNmNWM2NYcnJXdnQ0RmFOeDZaNDlPUFV0dWF5OTdydEYxcDBRclBsbEZMdE5QM25jTkk"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉开发Cybercab查看侧后方摄像头功能",
-   "title_zh": "特斯拉Cybercab开发查看侧后方摄像头功能",
    "sentiment": 1
   }
  ]
