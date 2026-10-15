@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T06:07:30.464697+00:00",
+ "updated_at": "2026-10-15T06:22:40.825565+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（4条已评分）"
+     "note": "今日新闻情绪 +0.60（5条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T06:07:30.452640+00:00"
+   "as_of": "2026-10-15T06:22:40.818981+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 4
+   "avg": 0.6,
+   "count": 5
   }
  },
  "meta": {
@@ -73,12 +73,17 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdk5RNFNqelVjTWU2a09hbXh0NnROd3U2UjRwSU8xQ3RSeTVDcldmX1NnVjdxcC1rUnRRU1V3dHY5Uk5HQi1HQTY4RWRFcEtaRzROZ0JYN1VoN0N0VnpmMmFsSlY3SHlObm5WOERJeGFDNDZPTTFjdFI0MEJkWWdXb0dubC1QUjZwZWIyTGIzczZQLTQtczdpVXZndmJjdTRyWllnU2RiclZMbDZqRWlQQTlZSUhMVGJIcFlzZG41c3N5YVlnS2dOVnU0Vl9NQQ",
    "source": "Stocktwits",
    "published_at": "2026-10-15T05:39:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
      "published_at": "2026-10-15T05:39:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdk5RNFNqelVjTWU2a09hbXh0NnROd3U2UjRwSU8xQ3RSeTVDcldmX1NnVjdxcC1rUnRRU1V3dHY5Uk5HQi1HQTY4RWRFcEtaRzROZ0JYN1VoN0N0VnpmMmFsSlY3SHlObm5WOERJeGFDNDZPTTFjdFI0MEJkWWdXb0dubC1QUjZwZWIyTGIzczZQLTQtczdpVXZndmJjdTRyWllnU2RiclZMbDZqRWlQQTlZSUhMVGJIcFlzZG41c3N5YVlnS2dOVnU0Vl9NQQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T05:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFp0MFZBM29UTlNHVGxRVzZtemNJV0ppR05wODItdlFWTWwzUzdqNUE0azVBdnduV0NwdTIxZWZvWktzM053VEdLVTB2cjU0ZkEzaGJsTThnYmZiV18zNHpCcklkbjlTWW5mZ284eTRDdElkUDVpMWNnNFJ2ZXhMMGl1VGttR2tNd251bVNnMUVWXzV0cHUwQlQtaTRjUQ"
     }
    ],
    "category": "车型产品",
@@ -486,6 +491,23 @@
    "zh_summary": "特斯拉与SpaceX合并年内或官宣",
    "title_zh": "大局已定！SpaceX特斯拉合并：年内或将官宣 - 驱动之家",
    "sentiment": 1
+  },
+  {
+   "id": "08b3977d4bb2",
+   "title": "曝特斯拉机器人即将量产 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWkZ2b0lXbXpYVWdvT090TFhOam5td3V0MUM0LVdHMTI4R2VLSndsLUtZcjRTWkJDSWRhNWNPNEhVMjAtYk1mTS1jenRCRGkwOHFn",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-15T01:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-15T01:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWkZ2b0lXbXpYVWdvT090TFhOam5td3V0MUM0LVdHMTI4R2VLSndsLUtZcjRTWkJDSWRhNWNPNEhVMjAtYk1mTS1jenRCRGkwOHFn"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "ccddbf50defb",
@@ -6500,31 +6522,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉美国销量下滑Rivian上涨",
    "title_zh": "特斯拉美国销量下滑，Rivian销量上涨",
-   "sentiment": -1
-  },
-  {
-   "id": "1719e8575daa",
-   "title": "Tesla target lowered by analysts worried about runaway $25 billion spending - TheStreet",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmxIRk5hLVdMWHpiNE1iaHJnZXN0aFhrVXN2SEJPbEZzNzVUdHdBZHpZRk5RNzRZNTJvemN5dUtxRzVia1FlUU91QTc0ajRSdFdpVllyai1DVm5EUnRsVVZVdEFWb1BPakl4cGtJNGVxeVV5UXAyTUIwZ1ZzYmxXMklsdFFFVUJ5ZHZWWWNRZXlIb3Y5T3ZXQU9IZTh6YlZnb1JNTElMNXRlaXJWTUVkS04zbVdobXZ5",
-   "source": "TheStreet",
-   "published_at": "2026-10-13T17:33:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-13T17:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmxIRk5hLVdMWHpiNE1iaHJnZXN0aFhrVXN2SEJPbEZzNzVUdHdBZHpZRk5RNzRZNTJvemN5dUtxRzVia1FlUU91QTc0ajRSdFdpVllyai1DVm5EUnRsVVZVdEFWb1BPakl4cGtJNGVxeVV5UXAyTUIwZ1ZzYmxXMklsdFFFVUJ5ZHZWWWNRZXlIb3Y5T3ZXQU9IZTh6YlZnb1JNTElMNXRlaXJWTUVkS04zbVdobXZ5"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T20:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUxtWnczNEFjcS1raEdSNWtWSm9QUTBhVkZLTWJGYm1HWWZJMEYtc2tRT1VnVTZwOFoyOTdsaVdvYl92MVp2YW5Sci11SjFrMGxZbVNfT2xOclZkekZiclNNZllRVFB5RndVRGg4d0NvejAtNVg5ZzlNQzd1b1daRXdEcFZ3NDljdU04RHNxcGlGWllnbno4a3ltUDBnMURveUg5QQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "分析师因250亿美元支出下调特斯拉目标价",
-   "title_zh": "分析师因$25亿美元支出失控下调特斯拉目标价",
    "sentiment": -1
   }
  ]
