@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T19:37:39.047893+00:00",
+ "updated_at": "2026-10-15T19:52:30.913437+00:00",
  "market": {
-  "price": 362.82,
-  "change_pct": -1.18,
+  "price": 362.5,
+  "change_pct": -1.27,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（154条已评分）"
+     "note": "今日新闻情绪 +0.26（158条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $362.82 vs 20日均线 $370.83"
+     "note": "现价 $362.50 vs 20日均线 $370.82"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 34,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.2,
-   "ma20": 370.83,
-   "as_of": "2026-10-15T19:37:39.038007+00:00"
+   "implied_upside_pct": 10.3,
+   "ma20": 370.82,
+   "as_of": "2026-10-15T19:52:30.901221+00:00"
   },
   "pe_ttm": 100.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 154
+   "avg": 0.26,
+   "count": 158
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "519b8f686e2d",
+   "title": "Tesla to livestream delayed Roadster event on Thursday - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CVU5RQnpmYkd1UFpBcnlKWXNtUFNDQ2lCbE94WjdBR0FlNXFVaFhWcmZPNXNOSjVPbXk1M1FxdmFJZGFJTHFYQWk0OGs4UFRpeVZveHg4b2Z4V3FmRmVmLWpkeDNodUVFSE5xbg",
+   "source": "Quartz",
+   "published_at": "2026-10-15T19:40:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-15T19:40:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CVU5RQnpmYkd1UFpBcnlKWXNtUFNDQ2lCbE94WjdBR0FlNXFVaFhWcmZPNXNOSjVPbXk1M1FxdmFJZGFJTHFYQWk0OGs4UFRpeVZveHg4b2Z4V3FmRmVmLWpkeDNodUVFSE5xbg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "45b8537845ca",
    "title": "【视频】特斯拉Model Y的车主们，你们是为什么选特斯拉啊？ - 汽车之家",
@@ -83,8 +100,8 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "【视频】特斯拉Model Y的车主们，你们是为什么选特斯拉啊？ - 汽车之家",
    "zh_summary": "Model Y车主为何选择特斯拉",
+   "title_zh": "【视频】特斯拉Model Y的车主们，你们是为什么选特斯拉啊？ - 汽车之家",
    "sentiment": 0
   },
   {
@@ -93,12 +110,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem9qUm02anVkX09rRTd5aTdqZEtvRzVJd0JpNE9wNFl1cUlCZUM4T2UzaDlTWVlNWTRXeUp1QkxfWk9XZVI0V0laNzlTSGZScElXQUpFREZWakdtWVZLRFZvYXpRWW54QTRtd3RiSW1wN0tKOTBNMjFTaWp6TnNnSjYzbW9ITTFGVGx2cTRMN3h5OHVKVTBqUw",
    "source": "The Motley Fool",
    "published_at": "2026-10-15T19:15:47+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-15T19:15:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem9qUm02anVkX09rRTd5aTdqZEtvRzVJd0JpNE9wNFl1cUlCZUM4T2UzaDlTWVlNWTRXeUp1QkxfWk9XZVI0V0laNzlTSGZScElXQUpFREZWakdtWVZLRFZvYXpRWW54QTRtd3RiSW1wN0tKOTBNMjFTaWp6TnNnSjYzbW9ITTFGVGx2cTRMN3h5OHVKVTBqUw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T19:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHd4M21CYTRBVnRVRkE2ajhSM0NIMHViV3kzMjVra1JQc1Rsc2wzdjZQb05jb0Y5TWRWQkIxTjdmVEFxa3QyM3VJWG0xR1FCR1N0dEdqUVRfTTlzc2VKZ09PX01EZkNRc0YwMFF0YnI0Qm9EQ2V3M2prUWYtRE1yR3JyYjMtcnVvSjRHMmJoZEphUU1SUFJuSHBaMzR5dWNOQUVn"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -123,8 +145,8 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "title_zh": "特斯拉股价跌1.7%，Roadster发布面临营收现实考验",
    "zh_summary": "特斯拉股价跌1.7%",
+   "title_zh": "特斯拉股价跌1.7%，Roadster发布面临营收现实考验",
    "sentiment": -1
   },
   {
@@ -163,8 +185,8 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "马斯克在德州直播发布特斯拉Roadster",
    "zh_summary": "Roadster在德州发布直播",
+   "title_zh": "马斯克在德州直播发布特斯拉Roadster",
    "sentiment": 1
   },
   {
@@ -246,6 +268,23 @@
    "zh_summary": "特斯拉之外关注四只AI交易股票",
    "title_zh": "特斯拉之外：我关注的下一波AI交易4只股票",
    "sentiment": 0
+  },
+  {
+   "id": "d88d3b5996ba",
+   "title": "Tesla Roadster hype, the Meta-Apple AI deal, and how AI spending is saving the economy - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS21sd3dqZmlOdkZYaGZlM0VCOEotQk1zTVk3YTVUV0VkaEgwaFJfVjZjSmxRcWFSYUdvaUp3U2QtNWFLVzBKOGg5Tm9wczR4RHZkZzhOLXlzWmtaQmc1VTdDUTdFYTRXSTFCWkE2cG9rdkx5WlVmMGlzczQySFNHYWJScWNlOEhGZm0yWmZZSENCVU9kVHBCaG5DMjQzSHNxT2Y5a2JsZ280eFI4WFQ4UW5aWWluRVpSYlZoNnJVTC1tSklvWTRUNGI4UQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T18:00:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T18:00:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS21sd3dqZmlOdkZYaGZlM0VCOEotQk1zTVk3YTVUV0VkaEgwaFJfVjZjSmxRcWFSYUdvaUp3U2QtNWFLVzBKOGg5Tm9wczR4RHZkZzhOLXlzWmtaQmc1VTdDUTdFYTRXSTFCWkE2cG9rdkx5WlVmMGlzczQySFNHYWJScWNlOEhGZm0yWmZZSENCVU9kVHBCaG5DMjQzSHNxT2Y5a2JsZ280eFI4WFQ4UW5aWWluRVpSYlZoNnJVTC1tSklvWTRUNGI4UQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "2fcff0d149f0",
@@ -637,16 +676,33 @@
    "sentiment": 1
   },
   {
+   "id": "57d29ff24ef3",
+   "title": "Exclusive | An Ex-Tesla Executive Is Steering Uber Freight’s Turnaround - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA",
+   "source": "WSJ",
+   "published_at": "2026-10-15T15:48:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-15T15:48:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "b979557ddf61",
    "title": "Tesla Roadster unveil set for 9PM ET - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUo5OEpvS0FYWUhkaGY4S29laEQtSkV1eTFmOGI3Yl81Uk9VZ1pMZHNHVU83VFA0b1BRelcyZWpUb2RlZ1dUcGhlZEhOVTJYOVUtQVdUY05vVksxUFJ6OHR2N1duSkNERVhCRWNMcnpNa2d5TFZXVjNDRkRFS2xsM2c5ampKUQ",
    "source": "CNBC",
-   "published_at": "2026-10-15T15:52:40+00:00",
+   "published_at": "2026-10-15T15:44:11+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "CNBC",
-     "published_at": "2026-10-15T15:52:40+00:00",
+     "published_at": "2026-10-15T15:44:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUo5OEpvS0FYWUhkaGY4S29laEQtSkV1eTFmOGI3Yl81Uk9VZ1pMZHNHVU83VFA0b1BRelcyZWpUb2RlZ1dUcGhlZEhOVTJYOVUtQVdUY05vVksxUFJ6OHR2N1duSkNERVhCRWNMcnpNa2d5TFZXVjNDRkRFS2xsM2c5ampKUQ"
     }
    ],
@@ -1147,8 +1203,8 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
    "zh_summary": "Model S/X将停产",
+   "title_zh": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
    "sentiment": 0
   },
   {
@@ -1342,12 +1398,17 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG4tdElERnMzeWVCNVJJNUNNRDdkUnhNc1NjYjVTaXp5QkkzTFdleWFya3RsZnpOYUFqWXRoSUxnelFlMWQ4dG5HZWc3VFFtdWtxVkR3N0lwT0c1R2xwWVJNX2J5ekc1RHdFcXVIOTQ0cVk2R1M0RENLYk1RTnlrZU96VVNsOWhxR3ZFSTVZX08xbkJYNkJicTJzUFZQeGtiaVFMZ1NidTF4ZERmdHpjOWdmTHM0dFJLSFIxbGV2NA",
    "source": "Barchart.com",
    "published_at": "2026-10-15T13:34:22+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barchart.com",
      "published_at": "2026-10-15T13:34:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaG4tdElERnMzeWVCNVJJNUNNRDdkUnhNc1NjYjVTaXp5QkkzTFdleWFya3RsZnpOYUFqWXRoSUxnelFlMWQ4dG5HZWc3VFFtdWtxVkR3N0lwT0c1R2xwWVJNX2J5ekc1RHdFcXVIOTQ0cVk2R1M0RENLYk1RTnlrZU96VVNsOWhxR3ZFSTVZX08xbkJYNkJicTJzUFZQeGtiaVFMZ1NidTF4ZERmdHpjOWdmTHM0dFJLSFIxbGV2NA"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T13:34:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDFvRkx2M1FuOE52a2dCV29uaWw1MWNmdkhzeUp0UkNmRnpZTzFWNHdkMEVrZ1RIME8tZngxdTgySG1MRVo2NnROZW9TREJ0TXlEN3ZUZW5PWEdGRFQxM2ZDeURiV180Q1IzR0txX2E1VkpSNHRuNWRhXzA0aTh2b1JEVFlUV05OTVRHVXlmWVp5eW9E"
     }
    ],
    "category": "财报",
@@ -6346,6 +6407,23 @@
    "sentiment": 0
   },
   {
+   "id": "a7ca39fc5cc0",
+   "title": "Tesla Stock Dips. Uber Raises a Trillion-Dollar Question. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlZvcS1KRDVuYzZNZmFlN19xMHVYMkpMd2NzeVBrX0d3VjZib1poSVY5U0JRNEJjZFFMX1ZON2tuR216LXFjSWd0OU5jMzlTWm5BUzJqdUtITHBObV9ucVVBNUhjTWRBYnYxYVREaEY3QlJHUWdIdXBlMVJaWm9WZDRXTTBFbVBZYmF1bHVn",
+   "source": "Barron's",
+   "published_at": "2026-10-14T14:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-14T14:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlZvcS1KRDVuYzZNZmFlN19xMHVYMkpMd2NzeVBrX0d3VjZib1poSVY5U0JRNEJjZFFMX1ZON2tuR216LXFjSWd0OU5jMzlTWm5BUzJqdUtITHBObV9ucVVBNUhjTWRBYnYxYVREaEY3QlJHUWdIdXBlMVJaWm9WZDRXTTBFbVBZYmF1bHVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "5fe9c207a74c",
    "title": "Tesla Driver Pinned By Tree Branch In Garden State Parkway Washington Twp Crash: Firefighters - Daily Voice",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk9VRnQwNWZRWEQtRTZaVlp5TTl1bmYzZlFXdmVMWjIzR3I4NjhILUswQjhLdHJWU0V4UVFfTjh1OWZ4VXJfajNpVWJld1RTUzk5Q1NvYmhoZ2dMT09FcmZrU1htRWdxdjhVM2U3NjlWc0k4OHItLWNsUVo4NXRjbU1CVEd4SDVmYXRTSTlyUE50T2h2YWJuZnVjcW9QR1ZzajdITg",
@@ -6449,86 +6527,6 @@
    "zh_summary": "特斯拉撞上巡逻车致2名CHP警员受伤",
    "title_zh": "费尔菲尔德I-80车祸：特斯拉撞上巡逻车，2名CHP警员受伤",
    "sentiment": -1
-  },
-  {
-   "id": "04b3186cd59a",
-   "title": "Tesla Roadster’s 10 Thrusters, Zero FAA Approval [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlptcGFQSGlUenNQWVdPaXVPUmhfOFMwS2ZVNm5Qb2Z1ZWRIZWI5ejM2a1dXUng0VVZZRTZCMHR6YXgtS1ZBNjliSGY3d05iSmNOdlJnck1KV2pFYk1vS0RLUGNDUUlvV0dCb0NibWJRaEFyQklmUTFQSjVMVXpXMQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-14T13:39:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-14T13:39:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlptcGFQSGlUenNQWVdPaXVPUmhfOFMwS2ZVNm5Qb2Z1ZWRIZWI5ejM2a1dXUng0VVZZRTZCMHR6YXgtS1ZBNjliSGY3d05iSmNOdlJnck1KV2pFYk1vS0RLUGNDUUlvV0dCb0NibWJRaEFyQklmUTFQSjVMVXpXMQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Roadster配10个推进器无需FAA批准",
-   "title_zh": "特斯拉Roadster搭载10个推进器，无需FAA批准",
-   "sentiment": 1
-  },
-  {
-   "id": "3b5f0030eda6",
-   "title": "TSLA Stock Holds Flat — Tesla Hit With Wrongful Death Lawsuit, NTSB Probe Over Fatal Texas Crash - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWmJuYzhnTERTanJsNWNYWGpaVVk3aVAzUTB6N000WjZmUDRkNzhLUkhteEkyZW9Tc2lTSWk0djdiZ09XSlhQRmhKcWZDZjQ3VEFwWE5PRk95ZVhVYTdMenpWLVlEWWYwenJ0dUY0cW1XLVBaZlNlOVJTWHhBODl1THhMZ2o4d2VqN1NwcGNXWl9ILVQzaU5zeS1USUlxeExCdUZFN0FWVTg0UkZsZzdXc2QxdEl5UTE0NTZmRm5FSHJUNU5WY1JXcjg5MGMxSi1WQm1IRVg1MFBneER6M2lkTEhaek1iQ1dxYTVCVGxn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-14T13:27:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-14T13:27:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWmJuYzhnTERTanJsNWNYWGpaVVk3aVAzUTB6N000WjZmUDRkNzhLUkhteEkyZW9Tc2lTSWk0djdiZ09XSlhQRmhKcWZDZjQ3VEFwWE5PRk95ZVhVYTdMenpWLVlEWWYwenJ0dUY0cW1XLVBaZlNlOVJTWHhBODl1THhMZ2o4d2VqN1NwcGNXWl9ILVQzaU5zeS1USUlxeExCdUZFN0FWVTg0UkZsZzdXc2QxdEl5UTE0NTZmRm5FSHJUNU5WY1JXcjg5MGMxSi1WQm1IRVg1MFBneER6M2lkTEhaek1iQ1dxYTVCVGxn"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "特斯拉因得州致命事故遭诉讼和NTSB调查",
-   "title_zh": "特斯拉因得州致命车祸遭死亡诉讼与NTSB调查，TSLA持平",
-   "sentiment": -1
-  },
-  {
-   "id": "5020da494802",
-   "title": "Tesla batteries boost Texas energy storage site to 300 MW capacity - Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA2T29CaHZkaGNHTC1hbUpxTi01ZjNOTWY2ZGp0SEkyYXlEdlFMbV9GZlE5S1NENXlRYU5RRjJKQmk4Q3c4WjJHVVJOR0hjOU0yQjBqZzRzVFNvWUZZZzZiZERvREZMTzdlcGVTRDBuRFotRHZMOWY3OFRIZ1VwQg",
-   "source": "Interesting Engineering",
-   "published_at": "2026-10-14T13:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Interesting Engineering",
-     "published_at": "2026-10-14T13:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA2T29CaHZkaGNHTC1hbUpxTi01ZjNOTWY2ZGp0SEkyYXlEdlFMbV9GZlE5S1NENXlRYU5RRjJKQmk4Q3c4WjJHVVJOR0hjOU0yQjBqZzRzVFNvWUZZZzZiZERvREZMTzdlcGVTRDBuRFotRHZMOWY3OFRIZ1VwQg"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "特斯拉电池助德州储能项目达300MW",
-   "title_zh": "特斯拉电池推动德州储能站扩容至300MW",
-   "sentiment": 1
-  },
-  {
-   "id": "89cc815a0562",
-   "title": "Tesla batteries help Texas energy site double storage capacity to 300 megawatts - Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA2T29CaHZkaGNHTC1hbUpxTi01ZjNOTWY2ZGp0SEkyYXlEdlFMbV9GZlE5S1NENXlRYU5RRjJKQmk4Q3c4WjJHVVJOR0hjOU0yQjBqZzRzVFNvWUZZZzZiZERvREZMTzdlcGVTRDBuRFotRHZMOWY3OFRIZ1VwQg",
-   "source": "Interesting Engineering",
-   "published_at": "2026-10-14T13:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Interesting Engineering",
-     "published_at": "2026-10-14T13:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHA2T29CaHZkaGNHTC1hbUpxTi01ZjNOTWY2ZGp0SEkyYXlEdlFMbV9GZlE5S1NENXlRYU5RRjJKQmk4Q3c4WjJHVVJOR0hjOU0yQjBqZzRzVFNvWUZZZzZiZERvREZMTzdlcGVTRDBuRFotRHZMOWY3OFRIZ1VwQg"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "特斯拉电池助德州储能站扩至300兆瓦",
-   "title_zh": "特斯拉电池助德州能源站储能容量翻倍至300兆瓦",
-   "sentiment": 1
   }
  ]
 }
