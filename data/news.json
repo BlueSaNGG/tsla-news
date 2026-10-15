@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T20:07:39.407358+00:00",
+ "updated_at": "2026-10-15T20:22:35.654542+00:00",
  "market": {
   "price": 362.44,
   "change_pct": -1.29,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（161条已评分）"
+     "note": "今日新闻情绪 +0.26（166条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 10.4,
    "ma20": 370.81,
-   "as_of": "2026-10-15T20:07:39.398044+00:00"
+   "as_of": "2026-10-15T20:22:35.645122+00:00"
   },
   "pe_ttm": 100.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 161
+   "avg": 0.26,
+   "count": 166
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ef83c581ae4f",
+   "title": "Tesla unveils redesigned next-generation Roadster after long-awaited anticipation - New York Post",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGxiRkNTcUdjX0lEYkJyRWhydVpUR2JjWVB3aGtDQWhZYWZVaGlBZlhmRU9jR3ZfOVU3QVpnQ3FYUDZGZm5pMjBqeFY4ZUdYa3U4VTB0WjJ6cTYzZWlUbENOdTFJU3hYS3JLY1BmaGprMks3bFRlbGpvcGFvQmJCQTRjZGZERzlTaHFVcWZIWm5uaC1aY0FfMnNaaTdvWHdJaTlQVU80VFgyQkdORUhlNGhYclNzNWpkTzlERUN3",
+   "source": "New York Post",
+   "published_at": "2026-10-15T20:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "New York Post",
+     "published_at": "2026-10-15T20:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGxiRkNTcUdjX0lEYkJyRWhydVpUR2JjWVB3aGtDQWhZYWZVaGlBZlhmRU9jR3ZfOVU3QVpnQ3FYUDZGZm5pMjBqeFY4ZUdYa3U4VTB0WjJ6cTYzZWlUbENOdTFJU3hYS3JLY1BmaGprMks3bFRlbGpvcGFvQmJCQTRjZGZERzlTaHFVcWZIWm5uaC1aY0FfMnNaaTdvWHdJaTlQVU80VFgyQkdORUhlNGhYclNzNWpkTzlERUN3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
+   "id": "5a80c8e3eb39",
+   "title": "Here's A Refresher On Everything Elon Said The Tesla Roadster Is Supposed To Be Before Its Big Reveal Tonight - The Autopian",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmVPelI1OFVhTzVCZUlpM0RPTnNTcWxnZGJONVpUcm5iZ08zQmNfZUtESlJyUkRQQ0tkakhsc01vamYwZndTc2UzY3EwOTZJalo3TUFEQ0VUaHJkWlNJVjFCU05FNDB0ZWZqLXQtekdLVndLTEU2VkYxcm40Y2E4eEp0b0NKRUtRRnRuTENYSXJ1dG4xTkJyZE9OMnBSM1l4dFN2TGJ4WlYyOVFKQ1NJTXlQR05BQk9HcEo0R1lNcmR2aVRncmNKXy1oMzJ5SXY4MWo0",
+   "source": "The Autopian",
+   "published_at": "2026-10-15T20:10:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Autopian",
+     "published_at": "2026-10-15T20:10:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmVPelI1OFVhTzVCZUlpM0RPTnNTcWxnZGJONVpUcm5iZ08zQmNfZUtESlJyUkRQQ0tkakhsc01vamYwZndTc2UzY3EwOTZJalo3TUFEQ0VUaHJkWlNJVjFCU05FNDB0ZWZqLXQtekdLVndLTEU2VkYxcm40Y2E4eEp0b0NKRUtRRnRuTENYSXJ1dG4xTkJyZE9OMnBSM1l4dFN2TGJ4WlYyOVFKQ1NJTXlQR05BQk9HcEo0R1lNcmR2aVRncmNKXy1oMzJ5SXY4MWo0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "81160e07b74f",
    "title": "特斯拉与SpaceX的合并可能在数周内实现 数周内或官宣！SpaceX收购特斯拉，马斯克要织一张天地AI大网 - 搜狐",
@@ -782,26 +816,6 @@
    "sentiment": 1
   },
   {
-   "id": "57d29ff24ef3",
-   "title": "Exclusive | An Ex-Tesla Executive Is Steering Uber Freight’s Turnaround - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA",
-   "source": "WSJ",
-   "published_at": "2026-10-15T15:48:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-15T15:48:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "前特斯拉高管执掌Uber Freight扭亏",
-   "title_zh": "独家 | 一名前特斯拉高管正在领导Uber Freight扭亏",
-   "sentiment": 0
-  },
-  {
    "id": "b979557ddf61",
    "title": "Tesla Roadster unveil set for 9PM ET - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUo5OEpvS0FYWUhkaGY4S29laEQtSkV1eTFmOGI3Yl81Uk9VZ1pMZHNHVU83VFA0b1BRelcyZWpUb2RlZ1dUcGhlZEhOVTJYOVUtQVdUY05vVksxUFJ6OHR2N1duSkNERVhCRWNMcnpNa2d5TFZXVjNDRkRFS2xsM2c5ampKUQ",
@@ -1487,12 +1501,17 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3RtMjBBTzZ1R2VJSzluNDVubFFxTEtjQTZNS01OSGIyeGdGUHNvMlhzbGFqM3RjMG1yeWNvTmlHbmltYUhlTWJLTmRXVGwxamZGSmF6eU5VWHJ0dmhBQUNhMkpCRzFEbVF2QVk4dFp4Mk9nT28yOV9Ic2UtSnNfUXFETTFkZkR1SktfMGJfOHJicHlyNkkxQ0pQOXB4OGNnMjBlV25EWQ",
    "source": "The Mercury News",
    "published_at": "2026-10-15T13:34:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Mercury News",
      "published_at": "2026-10-15T13:34:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3RtMjBBTzZ1R2VJSzluNDVubFFxTEtjQTZNS01OSGIyeGdGUHNvMlhzbGFqM3RjMG1yeWNvTmlHbmltYUhlTWJLTmRXVGwxamZGSmF6eU5VWHJ0dmhBQUNhMkpCRzFEbVF2QVk4dFp4Mk9nT28yOV9Ic2UtSnNfUXFETTFkZkR1SktfMGJfOHJicHlyNkkxQ0pQOXB4OGNnMjBlV25EWQ"
+    },
+    {
+     "name": "East Bay Times",
+     "published_at": "2026-10-15T13:34:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUkFRdE9VSTFHMjVhYkIwc19DdFFwTkFyU0taU1VmZUFiOWRpT1ozRnNYS3Q0SFJWS2x1LTJuMkIxMTZheXJVdjJFUkVJUF9qY3FEdXJPTUN2cWk3ZzlQTlR0d1Y1Z3Q4eEJWb25VRGNzZEk0ZW9tc1N0dWxKYkdPYksyNnF1c2J0WE1BdTZEYVZjVUl6OEpIaWIyZ1RUSnNpZ3UxbzBfcDI"
     }
    ],
    "category": "其他",
@@ -6508,31 +6527,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉财报后股价或波动5.1%",
    "title_zh": "特斯拉股价或在10月21日财报发布后波动5.1%",
-   "sentiment": 0
-  },
-  {
-   "id": "6532e893328e",
-   "title": "The Tesla That Wouldn’t Let Federal Agents Install a Tracker - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjVZVTNRTWNGdGZaTHNIVElaalpNOW00a3RxLXFsYV9RODR5dmtESVpVWElyc3FOMXBVN1JLd0hDcVJXQkRZUDRGTURTOW1CRFBBTzJ6WXVUMDF5NkhjYVBzU3YxdFZ6bUpQSEZOT1drQ1ZGeGVGd2dVNk9tMlRQZUhRSkFTblU",
-   "source": "Yahoo",
-   "published_at": "2026-10-14T14:16:09+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-14T14:16:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjVZVTNRTWNGdGZaTHNIVElaalpNOW00a3RxLXFsYV9RODR5dmtESVpVWElyc3FOMXBVN1JLd0hDcVJXQkRZUDRGTURTOW1CRFBBTzJ6WXVUMDF5NkhjYVBzU3YxdFZ6bUpQSEZOT1drQ1ZGeGVGd2dVNk9tMlRQZUhRSkFTblU"
-    },
-    {
-     "name": "Gadget Review",
-     "published_at": "2026-10-14T14:16:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVmhLYXNySGdOczg4MEFDVDhCYV9mRWItTzJmTUJwOEVFTnhjYVJIVHg2ejBmcERBaTR3TFpIa0ttZWRaQlNVQ1ZpNkdyamZZcEF5aWJrUDVIVEg2c29NQ3VhMG8teU9jQlJ5Q3plX2x1bVcycEV0bkxDVkh0VWZOeEdJRjhzWmdGcHA4MmxYUUdTUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉阻止联邦特工安装追踪器",
-   "title_zh": "一辆特斯拉拒绝联邦特工安装追踪器",
    "sentiment": 0
   }
  ]
