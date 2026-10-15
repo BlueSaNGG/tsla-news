@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T06:37:33.728436+00:00",
+ "updated_at": "2026-10-15T06:52:30.212522+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.60（5条已评分）"
+     "note": "今日新闻情绪 +0.50（6条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T06:37:33.716728+00:00"
+   "as_of": "2026-10-15T06:52:30.205073+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.6,
-   "count": 5
+   "avg": 0.5,
+   "count": 6
   }
  },
  "meta": {
@@ -68,23 +68,40 @@
  },
  "stories": [
   {
+   "id": "eb8ead72032c",
+   "title": "巴克莱分析师：特斯拉与SpaceX合并公告或于10月下旬至11月初发布 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93Sk9sd3diNFlXRVhFcGZ1Y2JlOXNRZ1I2Xzh4ODU1c2FremRtLVdXNGZDXzg5d3NyVjR3QUUwZndfUktGXzZZdV9UbUNBb29VQmpGc21rMTdOdGMwdmU2dDJR",
+   "source": "观点网",
+   "published_at": "2026-10-15T06:45:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-15T06:45:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93Sk9sd3diNFlXRVhFcGZ1Y2JlOXNRZ1I2Xzh4ODU1c2FremRtLVdXNGZDXzg5d3NyVjR3QUUwZndfUktGXzZZdV9UbUNBb29VQmpGc21rMTdOdGMwdmU2dDJR"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
    "id": "2ff042081975",
    "title": "1000公里续航+推进器加持，特斯拉Roadster这次能兑现承诺吗？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14ZTBNTUx1bGZ3NVZtYVhDVzRMTTRJZXM3SzBhbno0ZV85Z3lFMHRSaXpJckNCRUs1cmgtN3BBVEVtZEZqQlZwcUhzTlJ4YS1vRFg1NS1JamdDZkZac1BGX1YxTHJaQzd5YjJ3",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWDd5TTUwVEJxZmlZdzgzV2dreEpHaUJQX2toSnk5czdBYXRUWmhFTmpoRTdBX1ZHb2V6emlsTW5PVXdkOENHOXp4TXh3QkRjQmE3QXNQdnIxa28",
    "source": "汽车之家",
-   "published_at": "2026-10-15T06:22:17+00:00",
+   "published_at": "2026-10-15T06:22:03+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-15T06:22:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14ZTBNTUx1bGZ3NVZtYVhDVzRMTTRJZXM3SzBhbno0ZV85Z3lFMHRSaXpJckNCRUs1cmgtN3BBVEVtZEZqQlZwcUhzTlJ4YS1vRFg1NS1JamdDZkZac1BGX1YxTHJaQzd5YjJ3"
+     "published_at": "2026-10-15T06:22:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWDd5TTUwVEJxZmlZdzgzV2dreEpHaUJQX2toSnk5czdBYXRUWmhFTmpoRTdBX1ZHb2V6emlsTW5PVXdkOENHOXp4TXh3QkRjQmE3QXNQdnIxa28"
     }
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "1000公里续航+推进器加持，特斯拉Roadster这次能兑现承诺吗？ - 汽车之家",
    "zh_summary": "特斯拉Roadster续航1000公里配推进器",
+   "title_zh": "1000公里续航+推进器加持，特斯拉Roadster这次能兑现承诺吗？ - 汽车之家",
    "sentiment": 0
   },
   {
@@ -588,12 +605,17 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWVBDUW4yOU52akdaZjgweV9qM1JxUVFYWTZKcGhhT1A5MmdsYnBCNFRQdWlVYmNCdTFFbDNDajg0Zkh0cHN1RkJValVyc2ZQR3pta2pEamp5elJQTWdSRXZDOWNIaHpUclJSNEFjVW9SOGQ2VExj",
    "source": "CarBuzz",
    "published_at": "2026-10-15T01:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CarBuzz",
      "published_at": "2026-10-15T01:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWVBDUW4yOU52akdaZjgweV9qM1JxUVFYWTZKcGhhT1A5MmdsYnBCNFRQdWlVYmNCdTFFbDNDajg0Zkh0cHN1RkJValVyc2ZQR3pta2pEamp5elJQTWdSRXZDOWNIaHpUclJSNEFjVW9SOGQ2VExj"
+    },
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-15T06:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSmpiR1J6MjRZS1ptT213WU5xZzU3VWhyNkRYQnFXMThCLUY4YkVQZ0M4SV9paGN0MGpYa1hpVG5PdHNqd0U4b0NfRmg5bWRyM0F5bzB1Nko5Z2U5NE9HbV9IUlZNTXpWY0dGNFhvaUFneFZ4RUc1Sm1VZ3RQM2lNc3Izcw"
     }
    ],
    "category": "车型产品",
@@ -645,15 +667,15 @@
   {
    "id": "f416c5225cab",
    "title": "【视频】特斯拉多次升级不用800V，为什么连大电池包也不舍得用 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pSmxDN0xTU0FBMjdzdTQ5XzA3RWRsaWpFVVFZZS1qcXhaVjV4YkZhZ0hLbXFBeVA1cUFheW0wQUtnWEZTbEJRbTl5TEZHSnZRc1h3T3VTZVBFRjkxM1hSSk5SM0lnT1dRU0l3",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85eGhpV3VKdUtWSzNzRTVOWjhMbVN6RWdvRlJGWnlUODFhVmVRWGdvaW5NcEVjV1d5Z2xWbWJ4WkFUQnpjRWJ0WFJvd00zQUk3bHcycHNFOXJBNTg",
    "source": "汽车之家",
-   "published_at": "2026-10-15T00:50:32+00:00",
+   "published_at": "2026-10-15T00:49:26+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-15T00:50:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pSmxDN0xTU0FBMjdzdTQ5XzA3RWRsaWpFVVFZZS1qcXhaVjV4YkZhZ0hLbXFBeVA1cUFheW0wQUtnWEZTbEJRbTl5TEZHSnZRc1h3T3VTZVBFRjkxM1hSSk5SM0lnT1dRU0l3"
+     "published_at": "2026-10-15T00:49:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85eGhpV3VKdUtWSzNzRTVOWjhMbVN6RWdvRlJGWnlUODFhVmVRWGdvaW5NcEVjV1d5Z2xWbWJ4WkFUQnpjRWJ0WFJvd00zQUk3bHcycHNFOXJBNTg"
     }
    ],
    "category": "其他",
@@ -3088,7 +3110,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CRGxqLTNtV1cySzZheE4tZmJYWTZnNGtDaEkxMnlXQzlwMXZrUHNRbXp0LVR1cEFwUDQ2T1VMU1V2MVFrMUZMU3g4TklXVzQzMk1XLXFuNA",
    "source": "环球网",
    "published_at": "2026-10-14T11:28:00+00:00",
-   "outlets_count": 6,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "环球网",
@@ -3119,6 +3141,16 @@
      "name": "搜狐网",
      "published_at": "2026-10-15T03:07:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDg4UEJDdF9STmxtcXg5RVo4WFJIYlVSUGxnSURqVmxCN01zamY2dzNwWXJxRXp2dXVUc29lVGhVMThnNUxOWnV6dFF6MDMzVDdBLUNZb211cXFJblNkdTFNckNNWHF6MU9RelBkc01EMU5LdlhnZ2ZsUE9UZDFGRDFGQjBQSWJOUDZHaUVR"
+    },
+    {
+     "name": "观点网",
+     "published_at": "2026-10-15T06:28:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41dmt2dlFiWlVKaTIxeXFYazhkaE1HaEhDY0lzd3dlWHlXY1h0MmtWOUdKUVMwMG41RzJIWTlFdkc5Rks3clZISXBzZzUzZFh4bzA5R21JLWRUekEtazBWU0ZB"
+    },
+    {
+     "name": "联合早报",
+     "published_at": "2026-10-15T06:35:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cUc3bXFCM2s1MHZIa2dsS2JwVFo0cDMwNThKVmpKbEZHWXFYOVdXcHpwdnRpZDl3OHAtaUZETFJKQk5aTUw5clZtdm50WWVHVTlZTUM0NEVQcGkxM2paazgyTm9QMExsVFNfMTZB"
     }
    ],
    "category": "分析师",
@@ -6505,26 +6537,6 @@
    "session": "盘中",
    "zh_summary": "联邦拟调查特斯拉Robotaxi校园超速",
    "title_zh": "美联邦拟就Robotaxi校园区超速报道展开调查",
-   "sentiment": -1
-  },
-  {
-   "id": "6799d46783a8",
-   "title": "Tesla’s U.S. Sales Drop While Rivian’s Rise - American Cars And Racing",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV21TLTQ2M2NPcWdKM21IcDJqcnpOZjlDMTdQSXYwb3RzNGp5dkF2VTVPWjdzWUxCTmxXZlBKSEZMMlB3Z2k0WjQ2MXZTckhzNGtuRm1tQVBwaUFwVVptZGlHekdLdFZTbmgzSk1CTGloTXRoSnVtWUZnbTc5NHU3VDBOTFdnM2c",
-   "source": "American Cars And Racing",
-   "published_at": "2026-10-13T17:38:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "American Cars And Racing",
-     "published_at": "2026-10-13T17:38:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV21TLTQ2M2NPcWdKM21IcDJqcnpOZjlDMTdQSXYwb3RzNGp5dkF2VTVPWjdzWUxCTmxXZlBKSEZMMlB3Z2k0WjQ2MXZTckhzNGtuRm1tQVBwaUFwVVptZGlHekdLdFZTbmgzSk1CTGloTXRoSnVtWUZnbTc5NHU3VDBOTFdnM2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉美国销量下滑Rivian上涨",
-   "title_zh": "特斯拉美国销量下滑，Rivian销量上涨",
    "sentiment": -1
   }
  ]
