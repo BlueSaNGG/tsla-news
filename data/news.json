@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T13:37:29.806878+00:00",
+ "updated_at": "2026-10-15T13:52:35.005942+00:00",
  "market": {
-  "price": 358.95,
-  "change_pct": -2.24,
+  "price": 357.5,
+  "change_pct": -2.63,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 32% 分位"
+     "note": "现价处于52周区间 31% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +11.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +11.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（84条已评分）"
+     "note": "今日新闻情绪 +0.24（88条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $358.95 vs 20日均线 $370.64"
+     "note": "现价 $357.50 vs 20日均线 $370.57"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 32,
+   "price_52w_pct": 31,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 11.4,
-   "ma20": 370.64,
-   "as_of": "2026-10-15T13:37:29.793081+00:00"
+   "implied_upside_pct": 11.9,
+   "ma20": 370.57,
+   "as_of": "2026-10-15T13:52:34.996531+00:00"
   },
-  "pe_ttm": 99.3,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+11.4%空间：估值适中，预期中性",
+  "pe_ttm": 98.9,
+  "pe_pct_5y": 47,
+  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+11.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 84
+   "avg": 0.24,
+   "count": 88
   }
  },
  "meta": {
@@ -68,24 +68,38 @@
  },
  "stories": [
   {
-   "id": "ccdc0b66c1ae",
-   "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRDZUd3pGV1VLaUVZNENkQmx6NUNkX05sbE5VOFkxNm1sTzFSa29WbTVVY2I2WUZEUks2TWlKWkE2RFdKcllnN18tWlNlZC1hdGQ1UUV3X1JQMmY1VnRXajlSVQ",
-   "source": "东方财富",
-   "published_at": "2026-10-15T13:24:11+00:00",
+   "id": "37aa1becccc1",
+   "title": "市场动态：彭博社报道，特斯拉将在得克萨斯州展示飞行汽车 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEZreHFFT2lsV2tKTXEzZEZ2SU9BM1ROSVc3clVYSmZlRmVoUmI3QWc5QzI1MlZZYjdOVHRNSjJXNk1ldllkc0h0eXkzaFBYZmlzeFN0MmwwWEhmVGZBdWZ2X240UG1sQ1lmT3gzSEpBanpzQy1fUUd2NFVQSXJWdzlTbTBpdzA0Vk9CY2RjVklzSjRnMWNKT0JBSDFiMzRkM0Q4Tmc0WGxtWHZWNXJvTG1R",
+   "source": "Moomoo",
+   "published_at": "2026-10-15T13:42:02+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "东方财富",
-     "published_at": "2026-10-15T13:24:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRDZUd3pGV1VLaUVZNENkQmx6NUNkX05sbE5VOFkxNm1sTzFSa29WbTVVY2I2WUZEUks2TWlKWkE2RFdKcllnN18tWlNlZC1hdGQ1UUV3X1JQMmY1VnRXajlSVQ"
+     "name": "Moomoo",
+     "published_at": "2026-10-15T13:42:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEZreHFFT2lsV2tKTXEzZEZ2SU9BM1ROSVc3clVYSmZlRmVoUmI3QWc5QzI1MlZZYjdOVHRNSjJXNk1ldllkc0h0eXkzaFBYZmlzeFN0MmwwWEhmVGZBdWZ2X240UG1sQ1lmT3gzSEpBanpzQy1fUUd2NFVQSXJWdzlTbTBpdzA0Vk9CY2RjVklzSjRnMWNKT0JBSDFiMzRkM0Q4Tmc0WGxtWHZWNXJvTG1R"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "新款Roadster将亮相，特斯拉会飞吗",
-   "title_zh": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 东方财富",
-   "sentiment": 0
+   "session": "盘中"
+  },
+  {
+   "id": "82f2cab0f9a7",
+   "title": "特斯拉第二代Roadster即将揭幕，2.1秒破百 千公里续航 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VZWZobDVRd0ZGU0ZBT0FodG5TUl9PZXpjZXFKQmV0alEwa0ROYTRFZmswZFg5YXhNSGZKRzJpbERiUDFFeWQ0cjgtYzdHSWV4S1FHSkF4cnl6YkU",
+   "source": "汽车之家",
+   "published_at": "2026-10-15T13:37:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T13:37:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VZWZobDVRd0ZGU0ZBT0FodG5TUl9PZXpjZXFKQmV0alEwa0ROYTRFZmswZFg5YXhNSGZKRzJpbERiUDFFeWQ0cjgtYzdHSWV4S1FHSkF4cnl6YkU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "3d7d75314544",
@@ -108,6 +122,31 @@
    "sentiment": 0
   },
   {
+   "id": "ccdc0b66c1ae",
+   "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hzZnd6OWxXZVJQSGdfZnVERTlITWJ1aGhudy05X18tR0tSMEtsYU9oOHpUQlVWbmQ2dmd0LVJDekxfWER5YW56SU1mUGNsRGtaSW84eDZlY21lQWhmbjFvNXp3TGNDakFSZXFqd1lycmUxWXFEM2JTZlI0Z3VWMW54VFBpZ2No",
+   "source": "搜狐",
+   "published_at": "2026-10-15T13:20:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T13:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hzZnd6OWxXZVJQSGdfZnVERTlITWJ1aGhudy05X18tR0tSMEtsYU9oOHpUQlVWbmQ2dmd0LVJDekxfWER5YW56SU1mUGNsRGtaSW84eDZlY21lQWhmbjFvNXp3TGNDakFSZXFqd1lycmUxWXFEM2JTZlI0Z3VWMW54VFBpZ2No"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T13:24:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRDZUd3pGV1VLaUVZNENkQmx6NUNkX05sbE5VOFkxNm1sTzFSa29WbTVVY2I2WUZEUks2TWlKWkE2RFdKcllnN18tWlNlZC1hdGQ1UUV3X1JQMmY1VnRXajlSVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "新款Roadster将亮相，特斯拉会飞吗",
+   "title_zh": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 东方财富",
+   "sentiment": 0
+  },
+  {
    "id": "a8bdba894662",
    "title": "Tesla Turns Bearish as Shopify Hits a Critical Price Target - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa09SY1h6SF9wNkZZSHZ6aGFDU3lxMG5ZVlhuYW9JTG5fUjR4YzdFQ0M2emsxbHdtdGw2dk1sMUZ5bzA3MXJ0OUlXSExtRkVOcHdYWXA2X3YycDlvLVhWNWVBUGVGZXBTTDlzNEpxNFg2aXV2WnpRRVBaM2Y1UTFXM1RzSUM1ZzAxcWJ5N2Vobk4wOEdMUS1iZEE4OGZrOXlCS1FOOVBwaw",
@@ -126,6 +165,23 @@
    "zh_summary": "特斯拉转向看空趋势",
    "title_zh": "特斯拉转跌，Shopify达到关键目标价",
    "sentiment": -1
+  },
+  {
+   "id": "69ffe99b644e",
+   "title": "Tesla Readies Flying Car Demo to Pump Up Sluggish Auto Business - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWxFMF9jckZGUDA4TEZRSEFPczJTZWs5RngtQUZGaHU4OFBkb2hZMWFBRmNiSjlNWGs0TVZfb2VwclBySmFobGREeVFwWHJkQ2JBaS0xcmN0OHg5azF0NVMzUERvN0VwTVVQWG1PaXV3ZnpaejgyaDB6WEwtbUw2S1lpWmVzNnFXNVJITXo3M3VNcm9hX2VzUmpBY1NmanRtOVd5b1FxMHE0R2Q2cENxRk9TaUc",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-15T13:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-15T13:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWxFMF9jckZGUDA4TEZRSEFPczJTZWs5RngtQUZGaHU4OFBkb2hZMWFBRmNiSjlNWGs0TVZfb2VwclBySmFobGREeVFwWHJkQ2JBaS0xcmN0OHg5azF0NVMzUERvN0VwTVVQWG1PaXV3ZnpaejgyaDB6WEwtbUw2S1lpWmVzNnFXNVJITXo3M3VNcm9hX2VzUmpBY1NmanRtOVd5b1FxMHE0R2Q2cENxRk9TaUc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "6d7399807de6",
@@ -623,7 +679,7 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnBPMlpSS2ZDU3RJUjhpSmdwQjlmZ0pZT2RrRkk0bGVRMTd0RXhMOWxHa2VadWxNOXZKcHNSSDVkQWVtUWM4Y3Z1Y01uVzdIMmNBZWM2T3FMamN0WXpsYjFJZTdZRTkyYVd5VWZhcmVHcC1DbGNQd3BpVzJTVlpsWTczeENPMkZXc09GZFNrSkhHNU9sR04xXzdJd2NnVWRZMGt3dFEwa1FkUmFBbGNIMjRTdEo",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-15T11:35:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -634,13 +690,22 @@
      "name": "Quartz",
      "published_at": "2026-10-15T11:57:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGxpbDZLZ0d3THJmT3Rta3lxNXZ0RHRDSG9HenlZMFFxeXVoZFI2ZExOQ3BodUM0M1UwR3h5a3lSNFJhWkt2SWdlNXVmSlhOQmZwNmoyN1E0NWtEckxUeEM0LWFiVC1zWkNqaUhMYUxyempoTWo5Mjl4VDVXZmpLWWw3bzg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T11:35:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbV92WXZJb1dPaFZZdTVIMjhrWkdRVi1va1dscDZxQWNDX2NlblhkeTA5VlZxMVJybm9PUUtQVGNlb003N2pIMTItclNSek56WHBJR0VFVTU1eW1pclVPbWtxNGFyNFdoaWNLQVBQUUVTMC1iYXFjRHRybWpnR2NPQkRnckx4MHprM0gwNVA3QTZZQTdJLUU2Z2EzTE5BdUk"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "巴克莱称特斯拉与SpaceX或12月前宣布合并",
    "title_zh": "巴克莱：特斯拉与SpaceX合并或于12月前宣布",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.14,
+    "window_h": 0.4
+   }
   },
   {
    "id": "6c50d6982cd5",
@@ -801,31 +866,6 @@
    "zh_summary": "特斯拉Roadster跳票六年将发布",
    "title_zh": "特斯拉Roadster跳票六年终将发布",
    "sentiment": 0
-  },
-  {
-   "id": "1989cd7b0dc2",
-   "title": "特斯拉 Robotaxi 扩张，正在等一个“触发开关” - 汽车之心",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tZEFnemxPOVExYXNhZHdlMWhXSUh6djFnelpTLTBHRWI5Z2dzUi02cFpLWlgzTVRidVp6U3lDY2h2bmRocW1OS2NWMFEtbHM",
-   "source": "汽车之心",
-   "published_at": "2026-10-15T10:11:56+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之心",
-     "published_at": "2026-10-15T10:11:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tZEFnemxPOVExYXNhZHdlMWhXSUh6djFnelpTLTBHRWI5Z2dzUi02cFpLWlgzTVRidVp6U3lDY2h2bmRocW1OS2NWMFEtbHM"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-15T12:56:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTjlVWEE4S1NINF8zWDU2clp3ci0tUDJ0aWxaYkd1djBGckFFMkdPSnJFSUhFQ0c4Zlc3X3JmNW1iWkg5bHVLUzdpMnp2SUtL"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi扩张等触发开关",
-   "title_zh": "特斯拉 Robotaxi 扩张，正在等一个“触发开关” - 汽车之心",
-   "sentiment": 1
   },
   {
    "id": "0868a37b131e",
@@ -2981,6 +3021,40 @@
    "zh_summary": "特斯拉在华年销量降近12%",
    "title_zh": "特斯拉在华销量年降近12%，但仍有一线希望",
    "sentiment": -1
+  },
+  {
+   "id": "1989cd7b0dc2",
+   "title": "特斯拉 Robotaxi 扩张，正在等一个“触发开关” - 36氪",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10MU05ekFoMndzX2M1bHRvbTNHWm0xajhfbG5BMWtHdmtoV1k4OENsN24xNUdwSlVud09YaldFaFN6dHJ5V0hGX0NjS3dmUQ",
+   "source": "36氪",
+   "published_at": "2026-10-14T21:52:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "36氪",
+     "published_at": "2026-10-14T21:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10MU05ekFoMndzX2M1bHRvbTNHWm0xajhfbG5BMWtHdmtoV1k4OENsN24xNUdwSlVud09YaldFaFN6dHJ5V0hGX0NjS3dmUQ"
+    },
+    {
+     "name": "汽车之心",
+     "published_at": "2026-10-15T10:11:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tZEFnemxPOVExYXNhZHdlMWhXSUh6djFnelpTLTBHRWI5Z2dzUi02cFpLWlgzTVRidVp6U3lDY2h2bmRocW1OS2NWMFEtbHM"
+    },
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-15T12:56:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTjlVWEE4S1NINF8zWDU2clp3ci0tUDJ0aWxaYkd1djBGckFFMkdPSnJFSUhFQ0c4Zlc3X3JmNW1iWkg5bHVLUzdpMnp2SUtL"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后",
+   "zh_summary": "特斯拉Robotaxi扩张等触发开关",
+   "title_zh": "特斯拉 Robotaxi 扩张，正在等一个“触发开关” - 汽车之心",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.14,
+    "window_h": 0.4
+   }
   },
   {
    "id": "fc5b1bde6492",
@@ -6523,66 +6597,6 @@
    "zh_summary": "Contravisory减持特斯拉24,127股",
    "title_zh": "Contravisory减持特斯拉（TSLA）24,127股",
    "sentiment": 0
-  },
-  {
-   "id": "9d05474ee131",
-   "title": "特斯拉自动驾驶出租车因学区超速遭NHTSA调查，涉及约1000台车辆 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51ZWNiWTg4aW9NUTY3Z2JXRUJYLXdFQnpULWRJenh6SDFGaWpIMlEzR0VNTkV6MENuVkctM2MwTE5QUmZ5UWhKV2RFdHJoamduRU56TDJ3bzJsR3VTWWRGOVhHSER5emhBUWg5ZjVNaFMtNXdpLUM5ZGFJdzdCUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-14T07:12:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-14T07:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51ZWNiWTg4aW9NUTY3Z2JXRUJYLXdFQnpULWRJenh6SDFGaWpIMlEzR0VNTkV6MENuVkctM2MwTE5QUmZ5UWhKV2RFdHJoamduRU56TDJ3bzJsR3VTWWRGOVhHSER5emhBUWg5ZjVNaFMtNXdpLUM5ZGFJdzdCUQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi学区超速遭NHTSA调查",
-   "title_zh": "特斯拉自动驾驶出租车因学区超速遭NHTSA调查，涉及约1000台车辆 - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "9c48b00ef0e2",
-   "title": "Tesla, Inc. $TSLA Stock: B. Riley Wealth Advisors Inc. Raises Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1JJZEotTGZ5WF9LNXBoMVNlUkI1aEVrckFQRTR4RmQ3UVZ5a0g0UjZNQk5uNHR5N1ZTd0l6anQ2OWJsT1ZNYUhnVjdoWEJfbTVZaFNXb1VkQktpU1U4TDdXYm5RQjk2Qm9iaE1qR1BYQTBsTk9SMElSQ3RTZjJLNFhkcTllWWwzQUdfOS1JSUNTWU5wdEJrZktiS09nN0xSRFE2bEk3bkQzQjRoeXExLVJjXzRZc1FndUNDc0ZQaw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T07:10:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T07:10:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1JJZEotTGZ5WF9LNXBoMVNlUkI1aEVrckFQRTR4RmQ3UVZ5a0g0UjZNQk5uNHR5N1ZTd0l6anQ2OWJsT1ZNYUhnVjdoWEJfbTVZaFNXb1VkQktpU1U4TDdXYm5RQjk2Qm9iaE1qR1BYQTBsTk9SMElSQ3RTZjJLNFhkcTllWWwzQUdfOS1JSUNTWU5wdEJrZktiS09nN0xSRFE2bEk3bkQzQjRoeXExLVJjXzRZc1FndUNDc0ZQaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "B.Riley加仓特斯拉",
-   "title_zh": "B. Riley Wealth Advisors增持特斯拉（TSLA）股票",
-   "sentiment": 1
-  },
-  {
-   "id": "b4c2b7c7fc6a",
-   "title": "Tesla Roadster Unveil Reset to Oct. 15, 7:55 PM [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iTnNQSmN0VklOWElEVG4xMXhlMVZVaHhsR0p1cW9BR2hmeTBXWmV6UVJTeFN2MEJFOXpyVXdjTGxOVWJoZ2ZxclMyZWk3WUpmQWVuZTNPLW9VZ2pEYzBTeVVuWEd2UWktcWVwN2x4OVhyOV9S",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-14T07:07:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-14T07:07:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iTnNQSmN0VklOWElEVG4xMXhlMVZVaHhsR0p1cW9BR2hmeTBXWmV6UVJTeFN2MEJFOXpyVXdjTGxOVWJoZ2ZxclMyZWk3WUpmQWVuZTNPLW9VZ2pEYzBTeVVuWEd2UWktcWVwN2x4OVhyOV9S"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster发布会定于10月15日举行",
-   "title_zh": "特斯拉Roadster发布定于10月15日晚上7:55",
-   "sentiment": 1
   }
  ]
 }
