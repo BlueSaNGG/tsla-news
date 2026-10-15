@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T05:07:35.787273+00:00",
+ "updated_at": "2026-10-15T05:22:32.853877+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.26（211条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T05:07:35.769691+00:00"
+   "as_of": "2026-10-15T05:22:32.838949+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 211
+   "avg": 1.0,
+   "count": 1
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7abc710b3e29",
+   "title": "More than 85,000 homes just behaved like ONE giant power plant. Tesla Powerwalls across California pushed more than 600 MW back into the grid right when demand was peaking. That’s the kind of output you’d expect from a proper power station, except it c - X",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2b01OeVRmOVIwU2JsZVJfM2pRZnpwVFYxX3NkaTRqeWc0SnNFVVpQS2pUbnVsT1c2cGlSZ2hnN2s3SExBVWplN2YwVGF0UDNMN3cwMWI3Wmh3SVBPQ09TczNYaHhlMnhHeVpEaw",
+   "source": "X",
+   "published_at": "2026-10-15T05:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "X",
+     "published_at": "2026-10-15T05:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2b01OeVRmOVIwU2JsZVJfM2pRZnpwVFYxX3NkaTRqeWc0SnNFVVpQS2pUbnVsT1c2cGlSZ2hnN2s3SExBVWplN2YwVGF0UDNMN3cwMWI3Wmh3SVBPQ09TczNYaHhlMnhHeVpEaw"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
+  },
   {
    "id": "1dcd55189292",
    "title": "Tesla Roadster Demo Tonight: 5 Details That Matter - BASENOR - Tesla Accessories",
@@ -385,26 +402,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉与SpaceX合并年内或官宣",
    "title_zh": "大局已定！SpaceX特斯拉合并：年内或将官宣 - 驱动之家",
-   "sentiment": 1
-  },
-  {
-   "id": "08b3977d4bb2",
-   "title": "曝特斯拉机器人即将量产 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWkZ2b0lXbXpYVWdvT090TFhOam5td3V0MUM0LVdHMTI4R2VLSndsLUtZcjRTWkJDSWRhNWNPNEhVMjAtYk1mTS1jenRCRGkwOHFn",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-15T01:28:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-15T01:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWkZ2b0lXbXpYVWdvT090TFhOam5td3V0MUM0LVdHMTI4R2VLSndsLUtZcjRTWkJDSWRhNWNPNEhVMjAtYk1mTS1jenRCRGkwOHFn"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉机器人即将量产",
-   "title_zh": "曝特斯拉机器人即将量产 - 电子工程专辑",
    "sentiment": 1
   },
   {
@@ -5928,6 +5925,23 @@
    "sentiment": 0
   },
   {
+   "id": "1e005bf29ba8",
+   "title": "特斯拉宣布接入Carplay，历史的车轮倒退了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CWEJudFVJQ0RGam1nRnN6amN1TzRiWlRNMXhYM2lCVW9GNklMSU02MFR3S2REYi1OMlVUdVJKR2s0YTdnM3lJdy1sb0xxWmVxbko5N1NYN1NtMUE",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T22:36:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T22:36:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CWEJudFVJQ0RGam1nRnN6amN1TzRiWlRNMXhYM2lCVW9GNklMSU02MFR3S2REYi1OMlVUdVJKR2s0YTdnM3lJdy1sb0xxWmVxbko5N1NYN1NtMUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "2ebc1dc3eb5c",
    "title": "2026.38.5.1 Official Tesla Release Notes - Software Updates - Not a Tesla App",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURReDB4RTZqSFVmenVVWE1PM1JIOTgyaGN2RF95cU1kVUVkdWhvaWJ1YW9CdWx0VmVsN21TaEtpMXdsaTk5aktkd0ZYWmN3bVNFaE5EZkZVeDVsOEQ3LWhfdHR4WkVzM0RmbmJ4VDNEUXZ6YU9Kc3g0a1UtdmxYWDFVWE9NQQ",
@@ -6501,31 +6515,6 @@
    "zh_summary": "特斯拉Cybercab在奥斯汀上路",
    "title_zh": "特斯拉Cybercab奥斯汀上路，博主称十年努力终成现实 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "96a5707409bc",
-   "title": "Tesla Drops \"Full Self-Driving\" Name After Pressure From Regulators - Autoguide.com",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFo5cHNZRmpWMFBYaFlkLUhTZzMwVG5pVW8xaWNaTlRHWFBseTlHVnllQUN4VTJSWUNlbkl0eEFrM0pnazBZZ0Rmdk9iNWRLVFhUSzJTQ0otZXdKUGk2VWhNZmZyRWJ6T3JaaUFuTzY1eHFnNC1aN1ZNV2w4Ulpwal85anFkTG1iazhoUEJZbGxhRGZyWDdNRnRjQmlVSENldzJISXNJQUEtVTBDVktoYTR1b2EwYzQyVW5aWDdhc0dNXzV5bGpmRTZkTy1wbzl5OWxaR1dn",
-   "source": "Autoguide.com",
-   "published_at": "2026-10-13T16:55:34+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Autoguide.com",
-     "published_at": "2026-10-13T16:55:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFo5cHNZRmpWMFBYaFlkLUhTZzMwVG5pVW8xaWNaTlRHWFBseTlHVnllQUN4VTJSWUNlbkl0eEFrM0pnazBZZ0Rmdk9iNWRLVFhUSzJTQ0otZXdKUGk2VWhNZmZyRWJ6T3JaaUFuTzY1eHFnNC1aN1ZNV2w4Ulpwal85anFkTG1iazhoUEJZbGxhRGZyWDdNRnRjQmlVSENldzJISXNJQUEtVTBDVktoYTR1b2EwYzQyVW5aWDdhc0dNXzV5bGpmRTZkTy1wbzl5OWxaR1dn"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-13T19:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkt0TmFDajhDNWgtVktmS3V6cHlQS3pRbGtXX2VNME4wVHNEdXNjX2NpM0VIRW9Fd1F4SHBlWW9SdzZyZmJ3V1VZT3JFUHJBY3NSTTlGcnBtS2ZDSnBWU1NFd1kwanVWUE1IMDc0NnhwOF81bkhscGtURFd2LUhZVF9vNm9sUGJNQjE0aXAweENUSnJvalpjRWJrR2c"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉监管压力下停用FSD名称",
-   "title_zh": "特斯拉在监管压力下停用Full Self-Driving名称",
-   "sentiment": -1
   }
  ]
 }
