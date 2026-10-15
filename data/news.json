@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:22:28.214370+00:00",
+ "updated_at": "2026-10-15T07:37:28.436220+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.60（10条已评分）"
+     "note": "今日新闻情绪 +0.55（11条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T07:22:28.206087+00:00"
+   "as_of": "2026-10-15T07:37:28.426384+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.6,
-   "count": 10
+   "avg": 0.55,
+   "count": 11
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "af7417ce4062",
+   "title": "特斯拉推出2-6岁专用儿童平衡车：没电机、没脚蹬，1399元 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk52R2Zma1hCNXhOMk5kVnZMMzNuZHRCQTREVzJsUnBOTXFuYmR6X0pUaE1OZmwxRy1GUURhTGxQQVFzVTY1cXFVcWt5MlRxZWdiNDd3TFdORXotc1lidUdkSmlRaHFBQjhRREdVVDZheFFiSHdrLWpqZUVkSnpneS1vbVZxWGd0",
+   "source": "搜狐",
+   "published_at": "2026-10-15T07:11:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T07:11:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk52R2Zma1hCNXhOMk5kVnZMMzNuZHRCQTREVzJsUnBOTXFuYmR6X0pUaE1OZmwxRy1GUURhTGxQQVFzVTY1cXFVcWt5MlRxZWdiNDd3TFdORXotc1lidUdkSmlRaHFBQjhRREdVVDZheFFiSHdrLWpqZUVkSnpneS1vbVZxWGd0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "d7de77dfe750",
    "title": "Tesla's China-Built Model 3 Premium Exhausts Canadian Import Quota - autoevolution",
@@ -6525,26 +6542,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉在佛州扩大Robotaxi服务",
    "title_zh": "TSLA五连跌后反弹，特斯拉在佛州扩大Robotaxi服务",
-   "sentiment": 1
-  },
-  {
-   "id": "74512196dcc1",
-   "title": "Forget the $15,000 Battery Replacement Claim: One Tesla's $3,700 A/C Repair Was the Real EV Surprise, But a 100k Maintenance Ledger Still Beats a Honda Hybrid - Torque News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUVRcFZqUkF1MDRlX3JfNC1HNzgzdXNPakVJVUx6WkY4OFVzSVBTSkpYaU5LLWMzX3R0VW5haHF0aVBtUTNnYU10aUxMWnpMRDNNZkVQUmlwazdJMVp2cVluNm1uMV9kaVhEdTc2OEpTOU93aHdJVkhFSGQ0akJmRDYtRnRtZ0tjQmZ6SWdCdVlGR2hXUjVJMzE3cWZ4eFNTaTlWLWQyTUk2eV8wV3Zfbm0yNDh0YzBvRHAtUw",
-   "source": "Torque News",
-   "published_at": "2026-10-13T18:56:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Torque News",
-     "published_at": "2026-10-13T18:56:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUVRcFZqUkF1MDRlX3JfNC1HNzgzdXNPakVJVUx6WkY4OFVzSVBTSkpYaU5LLWMzX3R0VW5haHF0aVBtUTNnYU10aUxMWnpMRDNNZkVQUmlwazdJMVp2cVluNm1uMV9kaVhEdTc2OEpTOU93aHdJVkhFSGQ0akJmRDYtRnRtZ0tjQmZ6SWdCdVlGR2hXUjVJMzE3cWZ4eFNTaTlWLWQyTUk2eV8wV3Zfbm0yNDh0YzBvRHAtUw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉3,700美元空调维修费引热议",
-   "title_zh": "特斯拉空调维修花3,700美元引关注，10万公里保养仍胜本田混动",
    "sentiment": 1
   }
  ]
