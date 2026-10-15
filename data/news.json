@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T19:07:37.828334+00:00",
+ "updated_at": "2026-10-15T19:22:31.015719+00:00",
  "market": {
-  "price": 361.99,
-  "change_pct": -1.41,
+  "price": 363.44,
+  "change_pct": -1.01,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 33% 分位"
+     "note": "现价处于52周区间 34% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（152条已评分）"
+     "note": "今日新闻情绪 +0.26（153条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $361.99 vs 20日均线 $370.79"
+     "note": "现价 $363.44 vs 20日均线 $370.86"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 33,
+   "price_52w_pct": 34,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.5,
-   "ma20": 370.79,
-   "as_of": "2026-10-15T19:07:37.814221+00:00"
+   "implied_upside_pct": 10.1,
+   "ma20": 370.86,
+   "as_of": "2026-10-15T19:22:30.994808+00:00"
   },
-  "pe_ttm": 100.1,
+  "pe_ttm": 100.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 152
+   "avg": 0.26,
+   "count": 153
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a2539d78ff14",
+   "title": "Tesla's Cybercab Robotaxi Fleet Jumped Eightfold in a Month to More Than 300 Vehicles in Austin, With Dallas Up Next. Is Elon Musk's Robotaxi Bet Finally Scaling? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem9qUm02anVkX09rRTd5aTdqZEtvRzVJd0JpNE9wNFl1cUlCZUM4T2UzaDlTWVlNWTRXeUp1QkxfWk9XZVI0V0laNzlTSGZScElXQUpFREZWakdtWVZLRFZvYXpRWW54QTRtd3RiSW1wN0tKOTBNMjFTaWp6TnNnSjYzbW9ITTFGVGx2cTRMN3h5OHVKVTBqUw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-15T19:15:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-15T19:15:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem9qUm02anVkX09rRTd5aTdqZEtvRzVJd0JpNE9wNFl1cUlCZUM4T2UzaDlTWVlNWTRXeUp1QkxfWk9XZVI0V0laNzlTSGZScElXQUpFREZWakdtWVZLRFZvYXpRWW54QTRtd3RiSW1wN0tKOTBNMjFTaWp6TnNnSjYzbW9ITTFGVGx2cTRMN3h5OHVKVTBqUw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "c8ee81f35672",
+   "title": "Tesla Says Gov't Brief Shows USPTO Wants 'Absolute Power' - Law360",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWtLSURRLXFTanVod19QUVd5YWUtc3VfQ2VLYThSQkxkcXNSOXd1UGR2NjQweFJReDNfSXZxcTQ4SnBGbF9BeGpCZFp4eFA4U2NGdjVMWnphRl96ZnB5ODFKQmlTNm9tY09iRkZlMjluMVBITkNRQ2tJMDFnTVFmcFFucF9XSXd1X0M3YkRieVk2dTNXeGFGaTM2TGxWQjR6dlJmdGJOblpHelXSAVZBVV95cUxNNTMtNV9BeVdOeDlDemRJSTBuaGtBWGlacFVwWmt0NWRvd0lNTWliallVMS1nRmxqWVptXy03V2dzeVpZdHB0M0lJRVc4dEk0R1NiYXBnQQ",
+   "source": "Law360",
+   "published_at": "2026-10-15T19:00:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Law360",
+     "published_at": "2026-10-15T19:00:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWtLSURRLXFTanVod19QUVd5YWUtc3VfQ2VLYThSQkxkcXNSOXd1UGR2NjQweFJReDNfSXZxcTQ4SnBGbF9BeGpCZFp4eFA4U2NGdjVMWnphRl96ZnB5ODFKQmlTNm9tY09iRkZlMjluMVBITkNRQ2tJMDFnTVFmcFFucF9XSXd1X0M3YkRieVk2dTNXeGFGaTM2TGxWQjR6dlJmdGJOblpHelXSAVZBVV95cUxNNTMtNV9BeVdOeDlDemRJSTBuaGtBWGlacFVwWmt0NWRvd0lNTWliallVMS1nRmxqWVptXy03V2dzeVpZdHB0M0lJRVc4dEk0R1NiYXBnQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ed0b4da024c1",
    "title": "Tesla Roadster Event: How to Watch & What to Expect - Not a Tesla App",
@@ -557,26 +591,6 @@
    "sentiment": 1
   },
   {
-   "id": "57d29ff24ef3",
-   "title": "Exclusive | An Ex-Tesla Executive Is Steering Uber Freight’s Turnaround - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA",
-   "source": "WSJ",
-   "published_at": "2026-10-15T15:48:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-15T15:48:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉前高管领导Uber Freight扭亏",
-   "title_zh": "独家｜特斯拉前高管主导Uber Freight转型",
-   "sentiment": 0
-  },
-  {
    "id": "2a0019b304ef",
    "title": "Tesla Roadster Event Could Quite Literally Turn Explosive, Warns Elon Musk - autoevolution",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObjF0Qk9CMWpkR2tkY2Z3dlRWd25uLXV1ZThWdkhhY3BFMVBuTFM0bkwxY0lfb0xxRm50VllPWm1sTWhGZ3poWi1oNmV2QUJBOHhFR20zZ2kxQ2NvWEtuMjhCT1ZwcjNFNGJEV3VQUXVBT19Bc0ZxRW9zUk0tMGhJcnd4dmZFMjVfclhPVUNBS0xqTngwOXFjbTRCTlp2b1JrckZxcHZTWjJMSjVXYUZWU29VM2dEbF9kd2V4Qw",
@@ -1052,26 +1066,6 @@
    "sentiment": 1
   },
   {
-   "id": "8e934bace47a",
-   "title": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c",
-   "source": "汽车之家",
-   "published_at": "2026-10-15T14:01:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-15T14:01:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Model S与Model X传将停产",
-   "title_zh": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？",
-   "sentiment": -1
-  },
-  {
    "id": "0ec0429e7397",
    "title": "美股异动｜特斯拉跌超3%，Roadster即将亮相 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGNmWUFHOHhCU0N2V3lJb1VBRVJBSGdPZ1dJTnRMdDlEcndDNDhHWUhHaGljVXh1dEs2c3hwdDZzRmVxUm9MMWVjYlJxbWFUbjloaGgzWmhDLVVTNlhIR01QMnZadk03RDd6ZjBRZnB3LXhiMkhITnpqTHRxZjE2YndUQlBOc2ZBcTRkYlZrYmF5SHFtZ25vYW1MZTM",
@@ -1295,6 +1289,26 @@
    "zh_summary": "巴克莱称特斯拉与SpaceX或12月前宣布合并",
    "title_zh": "特斯拉与SpaceX合并或于12月前宣布，Barclays如是说",
    "sentiment": 1
+  },
+  {
+   "id": "57d29ff24ef3",
+   "title": "Exclusive | An Ex-Tesla Executive Is Steering Uber Freight’s Turnaround - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA",
+   "source": "WSJ",
+   "published_at": "2026-10-15T13:27:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-15T13:27:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "特斯拉前高管领导Uber Freight扭亏",
+   "title_zh": "独家｜特斯拉前高管主导Uber Freight转型",
+   "sentiment": 0
   },
   {
    "id": "3d7d75314544",
@@ -6509,26 +6523,6 @@
    "zh_summary": "特斯拉股价下跌Uber提万亿美元问题",
    "title_zh": "特斯拉股价下跌，Uber提出万亿美元问题",
    "sentiment": -1
-  },
-  {
-   "id": "112c62d16f68",
-   "title": "TSLA Stock Breaks Losing Streak On Tesla’s 10-Million Vehicle Feat - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmVhWTVKZjdlX0czX3paaXV0WnlLbjkyekhSeGdod3FpQzRxdm1mdFRuaThPMXdLdXdxYVJUa3ROWXlOajRRSlVSVnpad0ZqaFpKWVpJTTZkTWZoa3FZQ3hDSFRtOVV1amNpUFNIa1lpVGxsandRSzVPMktNSmxTbEd3a2lwbTlCa3FXdHRCOHZraDdvdWRxXzhKc1J6eUh0aXI4OWJob184a241TkctZnJqZkxUd1B6WkxLZnZZQjRLWGQwUkxKZ0Rn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-14T13:05:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-14T13:05:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmVhWTVKZjdlX0czX3paaXV0WnlLbjkyekhSeGdod3FpQzRxdm1mdFRuaThPMXdLdXdxYVJUa3ROWXlOajRRSlVSVnpad0ZqaFpKWVpJTTZkTWZoa3FZQ3hDSFRtOVV1amNpUFNIa1lpVGxsandRSzVPMktNSmxTbEd3a2lwbTlCa3FXdHRCOHZraDdvdWRxXzhKc1J6eUh0aXI4OWJob184a241TkctZnJqZkxUd1B6WkxLZnZZQjRLWGQwUkxKZ0Rn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA终结连跌产量破千万辆",
-   "title_zh": "TSLA终结连跌，特斯拉达成千万辆生产里程碑",
-   "sentiment": 1
   }
  ]
 }
