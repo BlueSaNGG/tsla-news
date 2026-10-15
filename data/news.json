@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T14:37:31.634917+00:00",
+ "updated_at": "2026-10-15T14:52:35.700703+00:00",
  "market": {
-  "price": 357.72,
-  "change_pct": -2.57,
+  "price": 361.07,
+  "change_pct": -1.66,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 31% 分位"
+     "note": "现价处于52周区间 33% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +11.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（103条已评分）"
+     "note": "今日新闻情绪 +0.22（108条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $357.72 vs 20日均线 $370.58"
+     "note": "现价 $361.07 vs 20日均线 $370.74"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 31,
+   "price_52w_pct": 33,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 11.8,
-   "ma20": 370.58,
-   "as_of": "2026-10-15T14:37:31.620829+00:00"
+   "implied_upside_pct": 10.8,
+   "ma20": 370.74,
+   "as_of": "2026-10-15T14:52:35.681926+00:00"
   },
-  "pe_ttm": 98.9,
-  "pe_pct_5y": 47,
-  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+11.8%空间：估值适中，预期中性",
+  "pe_ttm": 99.9,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 103
+   "avg": 0.22,
+   "count": 108
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "56f044127244",
+   "title": "Tesla Roadster Debut Is ‘Candidate for Greatest Product Demo,’ Musk Says - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY01xRlQxdjZlSkhmRzVGU1dIUWh3YlhycHpKcHZvLVlnbHZ0WkU3anVaNHZLaVB0eEtlaktiN2l1bFZiV29iS0hrSks5QlJIQk56Mk96ZlF5TTdzbVV6aUhLY3VwZW9vNGxWblVlU0wtLUEwTy1McFdHcWhtWkdla0UwckNNN0JtWGRQbGZtSExCZ0lkZ1pCZmpTR25WX2ZYYk9lN2c0c08",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-15T14:46:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-15T14:46:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY01xRlQxdjZlSkhmRzVGU1dIUWh3YlhycHpKcHZvLVlnbHZ0WkU3anVaNHZLaVB0eEtlaktiN2l1bFZiV29iS0hrSks5QlJIQk56Mk96ZlF5TTdzbVV6aUhLY3VwZW9vNGxWblVlU0wtLUEwTy1McFdHcWhtWkdla0UwckNNN0JtWGRQbGZtSExCZ0lkZ1pCZmpTR25WX2ZYYk9lN2c0c08"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "689f6f7d4aca",
+   "title": "Tesla’s Volatility Is Tempting Investors Again at $375 - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHRURZOWwzODJwcUZyd0VEZzNXdHpIR1F4cGJ5S1hxeGY5eVphdmJpR191MEp5NHNHRE8zOGFfMlJUa2d0dVM5NFVtQWpSZlhPVkM5N3pkSHlCQzNrQkxnVkRBcVBNYkFOTU1Zc3lFWFItOUZqbFhaYU1nWjZkbU5QQnFtNU10Rzh3VkVWZU9sQUpYNnl4LTNtamI",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-15T14:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-15T14:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHRURZOWwzODJwcUZyd0VEZzNXdHpIR1F4cGJ5S1hxeGY5eVphdmJpR191MEp5NHNHRE8zOGFfMlJUa2d0dVM5NFVtQWpSZlhPVkM5N3pkSHlCQzNrQkxnVkRBcVBNYkFOTU1Zc3lFWFItOUZqbFhaYU1nWjZkbU5QQnFtNU10Rzh3VkVWZU9sQUpYNnl4LTNtamI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "a56429460138",
+   "title": "Tesla Still Says The New Roadster Is Coming Tonight - Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aQzItN2tKRklQcDZjTWNhZDMyMmQ4MXdHSjVqWUJVWkE1NDN4NXpyeUkzeGp1Vzk4MllmbmFGM25wMEZSam9veWhMajJVZVd4UWU1am1KZEJyRkhkMzhNS1VJeUt5RFFzTm9lRmFNS2Z6N2pIOHc",
+   "source": "Jalopnik",
+   "published_at": "2026-10-15T14:34:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jalopnik",
+     "published_at": "2026-10-15T14:34:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aQzItN2tKRklQcDZjTWNhZDMyMmQ4MXdHSjVqWUJVWkE1NDN4NXpyeUkzeGp1Vzk4MllmbmFGM25wMEZSam9veWhMajJVZVd4UWU1am1KZEJyRkhkMzhNS1VJeUt5RFFzTm9lRmFNS2Z6N2pIOHc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "7cc3b7c9d03b",
    "title": "Why is Tesla stock sliding today? - Investing.com",
@@ -173,12 +224,17 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHdRTVNLeVpHSFlmOTZJTU9MTE9Qb2RNZE5VTE5qZUppeWtBWjlHUTRSdEJHRHF1anVWalhOYzRBOGpmZVFFbGlVd2hZU214N0Vzbk1Ud2ZqeDRMa2pUZ3llVmZSSWxNNU9tTVpRTEpaYWRBMTFmSk15ejdGMjZkS0k0R0cxckc3aHBzSDk2cnF2d3FZUmNjeS1iRjVlQWZaOF83VWowUQ",
    "source": "Yahoo Finance",
    "published_at": "2026-10-15T14:09:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-15T14:09:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHdRTVNLeVpHSFlmOTZJTU9MTE9Qb2RNZE5VTE5qZUppeWtBWjlHUTRSdEJHRHF1anVWalhOYzRBOGpmZVFFbGlVd2hZU214N0Vzbk1Ud2ZqeDRMa2pUZ3llVmZSSWxNNU9tTVpRTEpaYWRBMTFmSk15ejdGMjZkS0k0R0cxckc3aHBzSDk2cnF2d3FZUmNjeS1iRjVlQWZaOF83VWowUQ"
+    },
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-15T14:09:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzJDbHBUMnMyMHpGV2lHVUhSZ3BVT0hCak45RU02bko0eHZSV25VcWdrSEdXTEFQSEFNSm1aWkR5eTFvbktueTdIbVNtWnR1UVNDdHMxVEIzSGV3NFM5djhKcmVoN1FGVE9jeWlEazd3YkdfcUdORmRNN1Y4MDhkVHZCcTVlZTVPazF5OUxxY09GOW9tS2FhMVZpM3FlOVk"
     }
    ],
    "category": "车型产品",
@@ -450,31 +506,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉推出儿童车吸引孩子关注",
    "title_zh": "圈粉从孩子抓起？特斯拉儿童车来了 - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "ccdc0b66c1ae",
-   "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hzZnd6OWxXZVJQSGdfZnVERTlITWJ1aGhudy05X18tR0tSMEtsYU9oOHpUQlVWbmQ2dmd0LVJDekxfWER5YW56SU1mUGNsRGtaSW84eDZlY21lQWhmbjFvNXp3TGNDakFSZXFqd1lycmUxWXFEM2JTZlI0Z3VWMW54VFBpZ2No",
-   "source": "搜狐",
-   "published_at": "2026-10-15T13:20:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T13:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hzZnd6OWxXZVJQSGdfZnVERTlITWJ1aGhudy05X18tR0tSMEtsYU9oOHpUQlVWbmQ2dmd0LVJDekxfWER5YW56SU1mUGNsRGtaSW84eDZlY21lQWhmbjFvNXp3TGNDakFSZXFqd1lycmUxWXFEM2JTZlI0Z3VWMW54VFBpZ2No"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-15T13:24:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRDZUd3pGV1VLaUVZNENkQmx6NUNkX05sbE5VOFkxNm1sTzFSa29WbTVVY2I2WUZEUks2TWlKWkE2RFdKcllnN18tWlNlZC1hdGQ1UUV3X1JQMmY1VnRXajlSVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "新款Roadster将亮相，特斯拉会飞吗",
-   "title_zh": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 东方财富",
    "sentiment": 0
   },
   {
@@ -1003,6 +1034,40 @@
    "sentiment": 0
   },
   {
+   "id": "ccdc0b66c1ae",
+   "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVRTVtTzl3N3hndDRTM3FDM3ljcklTQWg0ZXVnS21zTnZ5MkZiVzJJZVVudHlUWG94ODVWemJER3d0OEVsUlRyUA",
+   "source": "财联社",
+   "published_at": "2026-10-15T11:53:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-15T11:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVRTVtTzl3N3hndDRTM3FDM3ljcklTQWg0ZXVnS21zTnZ5MkZiVzJJZVVudHlUWG94ODVWemJER3d0OEVsUlRyUA"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T13:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2hzZnd6OWxXZVJQSGdfZnVERTlITWJ1aGhudy05X18tR0tSMEtsYU9oOHpUQlVWbmQ2dmd0LVJDekxfWER5YW56SU1mUGNsRGtaSW84eDZlY21lQWhmbjFvNXp3TGNDakFSZXFqd1lycmUxWXFEM2JTZlI0Z3VWMW54VFBpZ2No"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T13:24:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IRDZUd3pGV1VLaUVZNENkQmx6NUNkX05sbE5VOFkxNm1sTzFSa29WbTVVY2I2WUZEUks2TWlKWkE2RFdKcllnN18tWlNlZC1hdGQ1UUV3X1JQMmY1VnRXajlSVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "新款Roadster将亮相，特斯拉会飞吗",
+   "title_zh": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？ - 东方财富",
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.84,
+    "window_h": 1.4
+   }
+  },
+  {
    "id": "fdc0fea00f43",
    "title": "Tesla Roadster Reveal Is Finally Here After Nearly Nine Years - GuruFocus",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWU5lcnZ1d0Jfak5QSmZMRW1MSXlEYkloUjJIdHJZWlU3QUN4TThhdVJ2b1dYdXZQQ2RaekFtdGZ3dE5WSWRheVhFaS1BSFNGVWNxR1VkOW0yWFMycG1tcUNndTRGZlBlTmxxeXhqX2JBMVBjX1pnQ09vREZ3amNyVzJ0OTYyS0ZqLUpETjJHUWkwcWx1OHVPVmlHWDVrcDRqSUE",
@@ -1227,7 +1292,7 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONy1uMkJpY1F4VEVWNnEwMVdHcmY4RTF1TGR1NE1QMERuS3ZHNXdIM0N2cHBUVk9hWXdQdTNJa3Z1ZXZGVjFnTFprNENnSkV3UWRYM0ZDSFM3ZU1Jc21HS0RocVJJdmEwTXRFWVY1TlNQdU8zZ0ZVbl9LSnYzYklKYm5OalpqbVYwUVlrQ1hFRHBoc19lT1l6N1dmT2N3WGJVQ0NsdE9xZ3BhR0VyV3lHSG1jeWU3bmJJNkt5MWJuNUVzenpkV0E",
    "source": "StreetInsider",
    "published_at": "2026-10-15T10:04:50+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "StreetInsider",
@@ -1248,6 +1313,11 @@
      "name": "The Independent",
      "published_at": "2026-10-15T13:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUFVZWo4WEJjQm0tZG1WZE1yd055b3laQ0tzWnpQV2F2U0E4LXp3cTJDQmo3RVNQZzl3d2hLMG5sRk1tajZfNkUxd2gxZFNVSzRsREdYTGt1LW5WVW04UnZ5VVpNQ0RhT0p3MG9obFV5cklzWXdTUUFOY2tnTjBZN0FxOTBxUVVDUFItZ190M2otY3h1amVESzBfNjQ4LUFBUUtwTVptYw"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-15T10:18:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMC1nWUx6ckZ3VDF5OEdDR3dTazRaWldzaGp0bVpSRlRJWVN3N0FXdGFVelBNMG9fYjRsR0pGUnRqa3pBWlJrQjlucjdIVTM0bUJzVXJIUzc4WWpGdGV6YUl5NzhqU3JMRUJ4ZmxIVTJRWHdwU1BhTmNFZDFwME1PbUVKbksyRDViLXJjYmU2VmwtNlY1VzNHQmpEaXgxNWktalZNLVE0WkJBX3RuM0ZuTHZHU0Y1dHhrUkN5aENxZE1KbWZQdnR0b2hKTjI"
     }
    ],
    "category": "车型产品",
@@ -2654,6 +2724,23 @@
    "sentiment": 0
   },
   {
+   "id": "3695f9de4fcc",
+   "title": "TSLA Stock Slips Overnight Ahead Of Roadster Event — Elon Musk Promises ‘Greatest Product Demo Of All Time’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdk5RNFNqelVjTWU2a09hbXh0NnROd3U2UjRwSU8xQ3RSeTVDcldmX1NnVjdxcC1rUnRRU1V3dHY5Uk5HQi1HQTY4RWRFcEtaRzROZ0JYN1VoN0N0VnpmMmFsSlY3SHlObm5WOERJeGFDNDZPTTFjdFI0MEJkWWdXb0dubC1QUjZwZWIyTGIzczZQLTQtczdpVXZndmJjdTRyWllnU2RiclZMbDZqRWlQQTlZSUhMVGJIcFlzZG41c3N5YVlnS2dOVnU0Vl9NQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-15T01:40:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-15T01:40:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdk5RNFNqelVjTWU2a09hbXh0NnROd3U2UjRwSU8xQ3RSeTVDcldmX1NnVjdxcC1rUnRRU1V3dHY5Uk5HQi1HQTY4RWRFcEtaRzROZ0JYN1VoN0N0VnpmMmFsSlY3SHlObm5WOERJeGFDNDZPTTFjdFI0MEJkWWdXb0dubC1QUjZwZWIyTGIzczZQLTQtczdpVXZndmJjdTRyWllnU2RiclZMbDZqRWlQQTlZSUhMVGJIcFlzZG41c3N5YVlnS2dOVnU0Vl9NQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
    "id": "05406606751e",
    "title": "巴克莱银行称特斯拉 $特斯拉 (TSLA.US)$ 和SpaceX $SpaceX (SPCX.US)$ 可能在2026年12月前宣布合并计划 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUl9yQnAzRXVDRlc3RHdrZFZyWGJubkFTMnZzVENHTk9kWDB0VkhSN3RpWWFkR2pLUFpuX0hrVXFoQmhXS0JSMTB5SVpaWDdsZkN1Y29GTmI3dWpRd21IQXluTmp3Z250THNOb2N6WjBfZFVOQUt0UGQtUWExeVp4MmdneTVmdXJCYmtDak5uazR6MklVQ1hTZ2V1SlhuWDB5eGVwUDVQNVVCWjJ5TTU1bHJ4SGQtdw",
@@ -3249,6 +3336,23 @@
    }
   },
   {
+   "id": "9fca2a47b62d",
+   "title": "特斯拉“低头”了，2026巴黎车展探展特斯拉Cybercab - 热点科技",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKZENoeFlCdXRiaVJZd2JjQkdRdHFQTHVUU0dfRkgtQnRPT1U2bTNfQW91TG1rcTh4UGdfaVlaOWxxTzU2d1cxQV91SFJ4WGs",
+   "source": "热点科技",
+   "published_at": "2026-10-14T23:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "热点科技",
+     "published_at": "2026-10-14T23:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKZENoeFlCdXRiaVJZd2JjQkdRdHFQTHVUU0dfRkgtQnRPT1U2bTNfQW91TG1rcTh4UGdfaVlaOWxxTzU2d1cxQV91SFJ4WGs"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
    "id": "03d402d15251",
    "title": "特斯拉(TSLA.US)SpaceX(SPCX.US)合并进入倒计时？巴克莱：今年可能官宣，障碍在股东投票提供者智通财经 - 英为财情 Investing.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUW9VbGFrRjQtcV9ieF9xTzRkOVc2M2lxaHNadldtWkhLeTNHWklRS0ViX0M0bUJuYTlGOFFvNFRKa0hnN3BRdU5TbVBVeUpkS19hM1ItLWtOa3EyS0lYX1djVXp2TU40R19aNWM1YXg",
@@ -3640,6 +3744,23 @@
    "zh_summary": "特斯拉欧洲把FSD改名为辅助驾驶",
    "title_zh": "为什么特斯拉在欧洲将FSD改名为辅助驾驶 - The Weekly Driver",
    "sentiment": 0
+  },
+  {
+   "id": "177479ab5f32",
+   "title": "TSLA Stock Falls Behind MSFT To Become Mag 7’s Worst Performer Ahead Of Q2 Earnings — But Retail Is Betting On A Musk Surprise - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFY5NmJhMmM0TXpudEhTcE5FaVRkMmFvcEdiMzlVcDdmRVpIeHJMYThaQ2VzWHZ1Z2pfTUtCZW9pbU1haVVVbjRtWGlZTm9MVkJsbEhtcWRtaTY3LUVlc3NRbXJzMmVKZWYyU0NKWEZlMmxPYlZpaFpLU2hsYTljUUJmZVNPeFZ2Qkw1dndIa0RrVG1rNkJ5YzNEYW9QUmJDU09XS2V4aEZrNGFRbUc5N2EtN3h4SkNNWGc",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T20:53:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T20:53:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFY5NmJhMmM0TXpudEhTcE5FaVRkMmFvcEdiMzlVcDdmRVpIeHJMYThaQ2VzWHZ1Z2pfTUtCZW9pbU1haVVVbjRtWGlZTm9MVkJsbEhtcWRtaTY3LUVlc3NRbXJzMmVKZWYyU0NKWEZlMmxPYlZpaFpLU2hsYTljUUJmZVNPeFZ2Qkw1dndIa0RrVG1rNkJ5YzNEYW9QUmJDU09XS2V4aEZrNGFRbUc5N2EtN3h4SkNNWGc"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "f8b3086b0311",
@@ -6438,126 +6559,6 @@
    "zh_summary": "特斯拉前高管助Uber Freight扭亏",
    "title_zh": "独家|特斯拉前高管正推动Uber Freight转型 - 华尔街日报",
    "sentiment": 0
-  },
-  {
-   "id": "83fc297632dc",
-   "title": "特斯拉Model Y 9月夺丹麦等北欧五国全品类乘用车销冠 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50ckxWTzI1SFhkUW9NQmdVQTFRMUFmc09Bakp0bGY1MGs0Sjkxc2lTYURGb3JBTjI5a2QyZEJBV3NxbnFXNk5QQzR1aDJZSlhPVUdpaWRYWHlVMDZvUmlZZ0RR",
-   "source": "观点网",
-   "published_at": "2026-10-14T09:23:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-14T09:23:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50ckxWTzI1SFhkUW9NQmdVQTFRMUFmc09Bakp0bGY1MGs0Sjkxc2lTYURGb3JBTjI5a2QyZEJBV3NxbnFXNk5QQzR1aDJZSlhPVUdpaWRYWHlVMDZvUmlZZ0RR"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model Y 9月夺北欧五国销冠",
-   "title_zh": "特斯拉Model Y 9月夺丹麦等北欧五国全品类乘用车销冠",
-   "sentiment": 1
-  },
-  {
-   "id": "feae36224d3a",
-   "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World - WIRED",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNczk5UHJraXZ0ZWxLMTZaZmVGT0RsM2QzY1Mzd01qVUwyOENSZVZTNExfaFhRN3dCODVTc1dzYzFFazQ5cm81VWR2N2hzVlpHZk5CeTgtY3dDbHVlbi02NXZybmttYmE3OE5IbTZJR2ZlcTNZY0tFV3pMOFdDZXRsMHhUMWhpcDNNUzFqQXhVblI",
-   "source": "WIRED",
-   "published_at": "2026-10-14T09:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WIRED",
-     "published_at": "2026-10-14T09:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNczk5UHJraXZ0ZWxLMTZaZmVGT0RsM2QzY1Mzd01qVUwyOENSZVZTNExfaFhRN3dCODVTc1dzYzFFazQ5cm81VWR2N2hzVlpHZk5CeTgtY3dDbHVlbi02NXZybmttYmE3OE5IbTZJR2ZlcTNZY0tFV3pMOFdDZXRsMHhUMWhpcDNNUzFqQXhVblI"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster 2发布推迟",
-   "title_zh": "特斯拉Roadster 2迟到，进入不同的电动车市场",
-   "sentiment": -1
-  },
-  {
-   "id": "505a13d353ce",
-   "title": "特斯拉德国车友会会长试驾小鹏NGP - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHI0RnpYSjFSOFpnRFdWamowY2VIYTZFdEtubmhTOXNKQl9ZSVVvRDVfYWVZTFNHYkdMeHZXUTAzcEdibzhaRGVacjg0SmRycjh2R1lQc3ozZ1V1Sm1xanBSUUQ4eVpfM29YWXNnX2k2c3lOQUdzX1lsNEp2ejN2RQ",
-   "source": "新浪网",
-   "published_at": "2026-10-14T09:11:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-14T09:11:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHI0RnpYSjFSOFpnRFdWamowY2VIYTZFdEtubmhTOXNKQl9ZSVVvRDVfYWVZTFNHYkdMeHZXUTAzcEdibzhaRGVacjg0SmRycjh2R1lQc3ozZ1V1Sm1xanBSUUQ4eVpfM29YWXNnX2k2c3lOQUdzX1lsNEp2ejN2RQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉德国车友会会长试驾小鹏NGP",
-   "title_zh": "特斯拉德国车友会会长试驾小鹏NGP - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "6e1852d7eeeb",
-   "title": "Tesla (TSLA), What Is Behind The Fresh Attention? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWNpTzAzUEh2al95eWQwSHJXV3NXV2Zrci11SXgzLUFPaEYybEVrbG1fd0ZBbWhaLVNhUGNtb280bXRNZVZQbTQ4dHRIWXlhUVgxTEVxNGE5U3JsdlY3bTFnSDFwVVBsRzUxUDl1ak1JN012VTVCZTBSWWNoczdZa2pOUV9iem5QZGlLbThLdmk3TkI2LS14Um1tMGd5MDQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-14T09:11:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-14T09:11:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWNpTzAzUEh2al95eWQwSHJXV3NXV2Zrci11SXgzLUFPaEYybEVrbG1fd0ZBbWhaLVNhUGNtb280bXRNZVZQbTQ4dHRIWXlhUVgxTEVxNGE5U3JsdlY3bTFnSDFwVVBsRzUxUDl1ak1JN012VTVCZTBSWWNoczdZa2pOUV9iem5QZGlLbThLdmk3TkI2LS14Um1tMGd5MDQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "雅虎分析特斯拉近期受关注原因",
-   "title_zh": "特斯拉近期为何再度受到关注？",
-   "sentiment": 0
-  },
-  {
-   "id": "e96d36a4bed3",
-   "title": "特斯拉Robotaxi被指在学校区域超速，NHTSA现在只是审请愿 - 汽车商业评论",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16R29JTDdKUmpIRl9SeDJMOHR6QVIza1R6azViTW1NQ1RPTkduSjlFY1dBTFZFdHp0RlUwOEh2dmcwQQ",
-   "source": "汽车商业评论",
-   "published_at": "2026-10-14T09:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车商业评论",
-     "published_at": "2026-10-14T09:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16R29JTDdKUmpIRl9SeDJMOHR6QVIza1R6azViTW1NQ1RPTkduSjlFY1dBTFZFdHp0RlUwOEh2dmcwQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi被指学区超速",
-   "title_zh": "特斯拉Robotaxi被指在学校区域超速，NHTSA现在只是审请愿 - 汽车商业评论",
-   "sentiment": -1
-  },
-  {
-   "id": "001a5e3b02b3",
-   "title": "Driver Injured After Tesla Crashes Off Garden State Parkway, Strikes Tree in Bergen County - RLS Media",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeThTZ3R5SlJqSnQ2blIzQ3oxNzBRekY2YlF5a0plNW0wMEZkVHdqQ3JfZHhJR3VycktOSEZ2M0MwRERHLVdSYzAxbUtSaktHNDUydkVINVhQQlVQblZHZmNGS2o1QjVjV0xnbjhYcnBkWDBvcWs2RkRCazA3NzJUNWtFNzBMZEJXWDRlV1VlTElSUFdVckEtYkVENzhHVEU4RmtHQVZHNnFBOVRsR1RMYmw1SEg0UQ",
-   "source": "RLS Media",
-   "published_at": "2026-10-14T09:07:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "RLS Media",
-     "published_at": "2026-10-14T09:07:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeThTZ3R5SlJqSnQ2blIzQ3oxNzBRekY2YlF5a0plNW0wMEZkVHdqQ3JfZHhJR3VycktOSEZ2M0MwRERHLVdSYzAxbUtSaktHNDUydkVINVhQQlVQblZHZmNGS2o1QjVjV0xnbjhYcnBkWDBvcWs2RkRCazA3NzJUNWtFNzBMZEJXWDRlV1VlTElSUFdVckEtYkVENzhHVEU4RmtHQVZHNnFBOVRsR1RMYmw1SEg0UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉冲出公路撞树致司机受伤",
-   "title_zh": "特斯拉冲出花园州高速公路撞树，司机受伤",
-   "sentiment": -1
   }
  ]
 }
