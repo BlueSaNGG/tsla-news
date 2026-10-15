@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T13:52:35.005942+00:00",
+ "updated_at": "2026-10-15T14:07:29.448682+00:00",
  "market": {
-  "price": 357.5,
-  "change_pct": -2.63,
+  "price": 357.07,
+  "change_pct": -2.75,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +11.9%"
+     "note": "目标价中位数 $400（16家），隐含空间 +12.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（88条已评分）"
+     "note": "今日新闻情绪 +0.24（91条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $357.50 vs 20日均线 $370.57"
+     "note": "现价 $357.07 vs 20日均线 $370.55"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 31,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 11.9,
-   "ma20": 370.57,
-   "as_of": "2026-10-15T13:52:34.996531+00:00"
+   "implied_upside_pct": 12.0,
+   "ma20": 370.55,
+   "as_of": "2026-10-15T14:07:29.438170+00:00"
   },
-  "pe_ttm": 98.9,
+  "pe_ttm": 98.8,
   "pe_pct_5y": 47,
-  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+11.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.24,
-   "count": 88
+   "count": 91
   }
  },
  "meta": {
@@ -67,6 +67,91 @@
   }
  },
  "stories": [
+  {
+   "id": "b5439e3c62c0",
+   "title": "Tesla Roadster Reveal Live: Updates From The Launch Of The Next-Gen Sportscar - Engadget",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2Y085aklxTHN0b2lZeFJ5dkZKZTQyUHNtRncxVmhwbVdSaEw5d01uRUk2ZUprV0IxeTFiZTFWMl9ITDhKOUc3a3VWU0FuaDA3R2dXNERua0dFVElRYzJkblRVSUgwRUtNaFQyWjIycVdLdHM",
+   "source": "Engadget",
+   "published_at": "2026-10-15T14:01:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Engadget",
+     "published_at": "2026-10-15T14:01:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2Y085aklxTHN0b2lZeFJ5dkZKZTQyUHNtRncxVmhwbVdSaEw5d01uRUk2ZUprV0IxeTFiZTFWMl9ITDhKOUc3a3VWU0FuaDA3R2dXNERua0dFVElRYzJkblRVSUgwRUtNaFQyWjIycVdLdHM"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "8da29578573c",
+   "title": "Tesla Roadster 2.0: Promises, Specs, and Rumors - The Supercar Blog",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzVESVNGdnZsQ0hIeU1BaGZmdEd5LWxGV3lBYUdqR2xEN0pna2JiSDQxbmNhM0pMcEpVbXZFcmU3LVFzRWpRTktraUVheml2YVJxRVpmb3RRNjNiNncyR0pBRmE5S3k1VE1CdEtKM1JldzRLSjlmcUhEeVUxWlcwYUNaSQ",
+   "source": "The Supercar Blog",
+   "published_at": "2026-10-15T13:57:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Supercar Blog",
+     "published_at": "2026-10-15T13:57:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzVESVNGdnZsQ0hIeU1BaGZmdEd5LWxGV3lBYUdqR2xEN0pna2JiSDQxbmNhM0pMcEpVbXZFcmU3LVFzRWpRTktraUVheml2YVJxRVpmb3RRNjNiNncyR0pBRmE5S3k1VE1CdEtKM1JldzRLSjlmcUhEeVUxWlcwYUNaSQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "0b1b4dec8c67",
+   "title": "Tesla to unveil its next-generation Roadster EV: What to know - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0x2T2NNMnJhb2NralR4OHhlMHBwWk11N1U1LVE3TXNOOWViWm1DWDFod0E0MVVaQ1F4ZkhMSDlrRjVIWUwzUjR5eVBGVktKcnlhU0hzcFFZUDNLdlZ4NmcwQkJwckhjWVlLd1A2OUVFRUlBNzRNamRtOVpWa01tMVl6U0lxc0pWUURjT3Q1N0hleDNMTGw2UVowQnlwcW5VbGZCbHdhUF95LVE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T13:47:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T13:47:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0x2T2NNMnJhb2NralR4OHhlMHBwWk11N1U1LVE3TXNOOWViWm1DWDFod0E0MVVaQ1F4ZkhMSDlrRjVIWUwzUjR5eVBGVktKcnlhU0hzcFFZUDNLdlZ4NmcwQkJwckhjWVlLd1A2OUVFRUlBNzRNamRtOVpWa01tMVl6U0lxc0pWUURjT3Q1N0hleDNMTGw2UVowQnlwcW5VbGZCbHdhUF95LVE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "cb47600af114",
+   "title": "Tesla’s Long-Delayed Roadster Returns: Next-Generation Electric Sports Car Set for Reveal - Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHpwc0NUZmVUMTBodzU3djYtalNhOS02T0wxN09PNUR4VmtqNzBJYkNyUS1ZaTlPS2RreVE2MTVpcFNsb3l0MWxpd3VaSjBEanF1YlBseVJLMHozSU0wVmg3YXlENFZWNnlhc3NZVWY5RUZ0UWVRWGZjVEVKR0FCVDA0VFJqUjVXUkFaZzJQY2p2dG1GVnlSaWlfbUlULTlkOEROVG1jT0tUZWp0X2dwT0RocUd2WHlxU01yWGpNVU53STYy",
+   "source": "Modern Diplomacy",
+   "published_at": "2026-10-15T13:44:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Modern Diplomacy",
+     "published_at": "2026-10-15T13:44:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHpwc0NUZmVUMTBodzU3djYtalNhOS02T0wxN09PNUR4VmtqNzBJYkNyUS1ZaTlPS2RreVE2MTVpcFNsb3l0MWxpd3VaSjBEanF1YlBseVJLMHozSU0wVmg3YXlENFZWNnlhc3NZVWY5RUZ0UWVRWGZjVEVKR0FCVDA0VFJqUjVXUkFaZzJQY2p2dG1GVnlSaWlfbUlULTlkOEROVG1jT0tUZWp0X2dwT0RocUd2WHlxU01yWGpNVU53STYy"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "cd6b55567c92",
+   "title": "A Tesla Cybertruck Owner Says This Is the Best Vehicle He’s Ever Owned – He Adds, “I Finally Understand Why People Love Their Trucks” - Torque News",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2l6SGZ5bWhwdmpZdGVuR3VnaHJ3cm9EV3VZOGxncXdsLWNuVURId1E2ZzJVUEVTTzVnZGlOTGRkcXpISXdYY05ycDhwamphNHRvVlVPbU04alpLa1pmbzNweVl3NlpwSHRtRktybWtic2dpYU1XNkhSWWJnUmNNRDB6Qi1wRjVpM3N3Wlp5VzNvc05IZ2FmYnpWUEYxOXhmTW42SnY4UWtmZWZlMW1hVlRRRGdZN3BqbHdURXp3",
+   "source": "Torque News",
+   "published_at": "2026-10-15T13:43:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Torque News",
+     "published_at": "2026-10-15T13:43:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2l6SGZ5bWhwdmpZdGVuR3VnaHJ3cm9EV3VZOGxncXdsLWNuVURId1E2ZzJVUEVTTzVnZGlOTGRkcXpISXdYY05ycDhwamphNHRvVlVPbU04alpLa1pmbzNweVl3NlpwSHRtRktybWtic2dpYU1XNkhSWWJnUmNNRDB6Qi1wRjVpM3N3Wlp5VzNvc05IZ2FmYnpWUEYxOXhmTW42SnY4UWtmZWZlMW1hVlRRRGdZN3BqbHdURXp3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "37aa1becccc1",
    "title": "市场动态：彭博社报道，特斯拉将在得克萨斯州展示飞行汽车 - Moomoo",
@@ -83,8 +168,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "市场动态：彭博社报道，特斯拉将在得克萨斯州展示飞行汽车 - Moomoo",
    "zh_summary": "特斯拉将在得州展示飞行汽车",
+   "title_zh": "市场动态：彭博社报道，特斯拉将在得克萨斯州展示飞行汽车 - Moomoo",
    "sentiment": 0
   },
   {
@@ -103,9 +188,26 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉第二代Roadster即将揭幕，2.1秒破百 千公里续航 - 汽车之家",
    "zh_summary": "特斯拉第二代Roadster即将揭幕",
+   "title_zh": "特斯拉第二代Roadster即将揭幕，2.1秒破百 千公里续航 - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "393cda2efdc3",
+   "title": "特斯拉与SpaceX合并或于12月前宣布，Barclays如是说 提供者 Investing.com - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMYzJFdDBtS0RoZDF0RTJXU01GT0RFSk9MVkFuSXRMSVdhOFZ6c2xZd0l6WW5nMUFEU2wwNUVHV1JjTThBN0hHM25YbjAxb0d4cFJuUHRwdnJCam5XVUlBNzQ5X0hnLTgzazFuV19UUmI",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-15T13:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-15T13:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMYzJFdDBtS0RoZDF0RTJXU01GT0RFSk9MVkFuSXRMSVdhOFZ6c2xZd0l6WW5nMUFEU2wwNUVHV1JjTThBN0hHM25YbjAxb0d4cFJuUHRwdnJCam5XVUlBNzQ5X0hnLTgzazFuV19UUmI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "3d7d75314544",
@@ -188,8 +290,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉准备飞行汽车演示以提振疲软的汽车业务",
    "zh_summary": "特斯拉将在得州展示飞行汽车",
+   "title_zh": "特斯拉准备飞行汽车演示以提振疲软的汽车业务",
    "sentiment": 0
   },
   {
@@ -596,6 +698,23 @@
    "zh_summary": "特斯拉财报临近期权预计波动5%",
    "title_zh": "特斯拉财报日临近 期权预计股价波动5%",
    "sentiment": 0
+  },
+  {
+   "id": "95aced751fc5",
+   "title": "Tesla Roadster Event Liveblog: Tesla's Second-Gen Sports Car Makes Its Debut - BGR",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vOExIb1I0Mm1QdkNNSVB4SjVqRU5WTmV0cTRFRU03VERrUDhUOE9wMHp1NmtoTEp1OGJCeGRnclUtVzRzdDhlUlh3TlN0TUJiNzZacFdsd0dXUTd5TGFlTEZ5bzNXWWpQUHc",
+   "source": "BGR",
+   "published_at": "2026-10-15T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-10-15T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vOExIb1I0Mm1QdkNNSVB4SjVqRU5WTmV0cTRFRU03VERrUDhUOE9wMHp1NmtoTEp1OGJCeGRnclUtVzRzdDhlUlh3TlN0TUJiNzZacFdsd0dXUTd5TGFlTEZ5bzNXWWpQUHc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "a25f76ee2453",
@@ -1200,10 +1319,15 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SOTJTV3VhWmJLZ1ZYSllPVmJaZzFKVXpEWGw1dkhFNmRscHhxei1hcFBwZEVwQ24zSWNvenpmay1pcHR1dzh6MlBXLTZCR0d0YTZfeHctZWJZMVpQeko1UjJKbDZoTDlYQjVPcDhocEhzRXU2",
    "source": "tech-insider.org",
    "published_at": "2026-10-15T08:54:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-15T08:54:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SOTJTV3VhWmJLZ1ZYSllPVmJaZzFKVXpEWGw1dkhFNmRscHhxei1hcFBwZEVwQ24zSWNvenpmay1pcHR1dzh6MlBXLTZCR0d0YTZfeHctZWJZMVpQeko1UjJKbDZoTDlYQjVPcDhocEhzRXU2"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-15T08:54:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SOTJTV3VhWmJLZ1ZYSllPVmJaZzFKVXpEWGw1dkhFNmRscHhxei1hcFBwZEVwQ24zSWNvenpmay1pcHR1dzh6MlBXLTZCR0d0YTZfeHctZWJZMVpQeko1UjJKbDZoTDlYQjVPcDhocEhzRXU2"
     }
@@ -6432,180 +6556,6 @@
    "zh_summary": "特斯拉第二代Roadster发布定档",
    "title_zh": "特斯拉第二代Roadster发布定档- Tesla 特斯拉 - cnBeta.COM",
    "sentiment": 1
-  },
-  {
-   "id": "14609f39e561",
-   "title": "特斯拉加码机器人触觉 DeepSkin厚积十年 剑指薄膜式触觉新赛道 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SEswby05NVEtSVo2My1kOTBJamJGRmdRZnpWZC1PbHlITG5kZmgyRmcyeVNwaDNNalhkZ3Z6SkJvQW1vOXRyMEd4RHplRzlKeG9rUUtWc2c",
-   "source": "驱动之家",
-   "published_at": "2026-10-14T07:50:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-14T07:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SEswby05NVEtSVo2My1kOTBJamJGRmdRZnpWZC1PbHlITG5kZmgyRmcyeVNwaDNNalhkZ3Z6SkJvQW1vOXRyMEd4RHplRzlKeG9rUUtWc2c"
-    },
-    {
-     "name": "中华网",
-     "published_at": "2026-10-14T08:15:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RX3pZMllpcmdMQkxHUmE3eXZkOXJQdjM4SlAyMlFJTTRMRTRnQTlTNDF5MXkzUkRxank4cGJMeUd6bXY3OHppY1BnRlhaUjR5UjYyVE41Yk5DMVdLbE9uZGdTV3BCenk4Ti1kR1V3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉加码机器人触觉传感器布局",
-   "title_zh": "特斯拉加码机器人触觉 DeepSkin厚积十年 剑指薄膜式触觉新赛道",
-   "sentiment": 1
-  },
-  {
-   "id": "f139687c0304",
-   "title": "TSLA Momentum Gains: Full Details - JournalArta",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2pwUzRzaVd4U1pCM21pbGhfWEdKZXF6OU5vWmRpakxIT2oydGV0OTRPSy1MTWxYNDB4M1daVEFiU1hLdFFnOHVGYjFYMXY5S1FkcnlXSF9ralhzcW5fTVlwTlZSSVF4Y0I0MUJ5d0Y3T1A3NGZHMlpWbXJjLVU1LXQwT1lOWmlEQ1ViUUZSU1pYVEJjSHc",
-   "source": "JournalArta",
-   "published_at": "2026-10-14T07:49:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "JournalArta",
-     "published_at": "2026-10-14T07:49:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2pwUzRzaVd4U1pCM21pbGhfWEdKZXF6OU5vWmRpakxIT2oydGV0OTRPSy1MTWxYNDB4M1daVEFiU1hLdFFnOHVGYjFYMXY5S1FkcnlXSF9ralhzcW5fTVlwTlZSSVF4Y0I0MUJ5d0Y3T1A3NGZHMlpWbXJjLVU1LXQwT1lOWmlEQ1ViUUZSU1pYVEJjSHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA动能增强详情",
-   "title_zh": "TSLA涨势增强：全部详情",
-   "sentiment": 0
-  },
-  {
-   "id": "dbdf16d23f5b",
-   "title": "Tesla Schedules an October 15 Roadster Demonstration After Postponing Its Original October 1 Reveal - Hypebeast",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hTGtVWEZ1MmdfM2V1WHVVZXcxZ3didU1fYUtZZWNzU3ZfZnJCS2tqUTQ5b0Q3bVRXdzNRSXEyZTdBSlFrZGVTUEhsT2VpSGM1MnU2cmk3dTRPRXBVVWt5SDVjWlRjcmE5dUpYMVY1UXFWVGVISDNSNW4yQVU1dw",
-   "source": "Hypebeast",
-   "published_at": "2026-10-14T07:37:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Hypebeast",
-     "published_at": "2026-10-14T07:37:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hTGtVWEZ1MmdfM2V1WHVVZXcxZ3didU1fYUtZZWNzU3ZfZnJCS2tqUTQ5b0Q3bVRXdzNRSXEyZTdBSlFrZGVTUEhsT2VpSGM1MnU2cmk3dTRPRXBVVWt5SDVjWlRjcmE5dUpYMVY1UXFWVGVISDNSNW4yQVU1dw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster演示定于10月15日",
-   "title_zh": "特斯拉Roadster演示推迟至10月15日举行",
-   "sentiment": 1
-  },
-  {
-   "id": "3cc11f2e3c6a",
-   "title": "Tesla Roadster to Debut Oct. 15: Can This High-Performance Sports Car Boost TSLA Stock? - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1Fpby1tR3B3ajNPa1BYSnJPOFVOeHc3aEczd2w1NEFFbno4akMxelJXWDA3Q3N1bkQ0S3EzbUE5bzhYc29HS0VyaWgzaGtxSTdIWWF5SnNUaXFYbVoxVHJUM3ZfSlo2dS1ZNzQ1ZzlndWVDbEpFMk5WQ2dtSjhlaVJ2NTRQV1R3aEFIaUFQcm42M2xzaDF4Y05oUDVUUUVPakFXVWhR",
-   "source": "TradingKey",
-   "published_at": "2026-10-14T07:24:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-14T07:24:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1Fpby1tR3B3ajNPa1BYSnJPOFVOeHc3aEczd2w1NEFFbno4akMxelJXWDA3Q3N1bkQ0S3EzbUE5bzhYc29HS0VyaWgzaGtxSTdIWWF5SnNUaXFYbVoxVHJUM3ZfSlo2dS1ZNzQ1ZzlndWVDbEpFMk5WQ2dtSjhlaVJ2NTRQV1R3aEFIaUFQcm42M2xzaDF4Y05oUDVUUUVPakFXVWhR"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster定于10月15日发布",
-   "title_zh": "特斯拉Roadster将于10月15日亮相，高性能跑车能否提振TSLA股价？",
-   "sentiment": 1
-  },
-  {
-   "id": "58adaa2e8b3f",
-   "title": "Tesla's Next Growth Engine: Cybercab, Semi, Megapack 2026 - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaTdZMjdTMmt0LUlqRGRycUlET1pXbDJTZnh1d3NqUmtsYTZfS2JOYk5PcWJYTEswa2QwX2RfSUhpTGZULTVyQk80NjJiUGpWbEJPZENzWDRUeC1zZmxBb1lKMUc2cmw4dlY0aERPbWpJVE1sc25nM1ZjM2dNQQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-14T07:22:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-14T07:22:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaTdZMjdTMmt0LUlqRGRycUlET1pXbDJTZnh1d3NqUmtsYTZfS2JOYk5PcWJYTEswa2QwX2RfSUhpTGZULTVyQk80NjJiUGpWbEJPZENzWDRUeC1zZmxBb1lKMUc2cmw4dlY0aERPbWpJVE1sc25nM1ZjM2dNQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉下代增长引擎Cybercab等",
-   "title_zh": "特斯拉下代增长引擎：Cybercab、Semi、Megapack 2026",
-   "sentiment": 1
-  },
-  {
-   "id": "9dedaf55d987",
-   "title": "特斯拉Cybercab将在美国得州达拉斯投入运营 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZV3lQMy1oMkNpMTh3SFFhZ0lZazdPVzBMM0Z3aUVvX3NGQkRWY0hZbURFU0dxc1c1bTNsRUJlUjd2Y2E1Rm4zdVVKVXh2S0N6R1RQMnZVSUtLWkVUWHNEQ0ZieC1hcGdDZG8tVjVzeUd5anJNV3lBQkx3cWgzdGc",
-   "source": "新浪网",
-   "published_at": "2026-10-14T07:21:00+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-14T07:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZV3lQMy1oMkNpMTh3SFFhZ0lZazdPVzBMM0Z3aUVvX3NGQkRWY0hZbURFU0dxc1c1bTNsRUJlUjd2Y2E1Rm4zdVVKVXh2S0N6R1RQMnZVSUtLWkVUWHNEQ0ZieC1hcGdDZG8tVjVzeUd5anJNV3lBQkx3cWgzdGc"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-14T07:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NWXRPM3l4V1g5YUJqdzNEbmJYZlppRnphYTdjWks0dXdxbjVPeXlUcmUzc0dnTTFSY3h4NnlkeUNQbldxZ3lnQ2RfNXE3QmlsVlRkSDBMb0l6NTVp"
-    },
-    {
-     "name": "网通社",
-     "published_at": "2026-10-14T07:26:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53QVFKMmFubVVFQUM3ZzJRd0M2SjU5UV9aTXpDS0d4UFM5RGoyMnJvOXMtaUJjaDA1anlmSEUzRGF0OEhkNHZDazhjY1hfTXhiaVF2bmVhN0U2SnM"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-14T07:32:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRkFBY3hIWHhpa25ETUt3aWF4SnZlTDVhUG5VME9DN2kxazlDY2lwcngwaHJJRHA5LWRFbjZnRlJ2alptZzFsbHBHSGtRTDJMT1RoY0dsUjBEc3JDZ2R2eg"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-14T07:26:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GUHZkYmFtai15a21QNWphUjFlUXF2dEFtUHY0RWJhc01CY1FGeEZiYW9DeTM2QzFLVVpsaDJveDdWYnZsNnY4SjlhT2g"
-    },
-    {
-     "name": "21财经",
-     "published_at": "2026-10-14T10:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEdzLWdBNzV3YmtUV1JTTlMyMVE4SFpxX3hpWkRaVVlJaGl4MnlfVW13QW9UQV9QUjl3dmRRblp4eXp0SEdFUXNYeXFkZEhwMjQ5SWI2bXBaWTVqQ0VtaVpETndfTEw5S1BWelhITjdCMWlIVkdGemdabnVFR1lLTzg4SFgtNGxQUnp0bmFPbw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab将在达拉斯运营",
-   "title_zh": "特斯拉Cybercab将在美国得州达拉斯投入运营 - 新浪网",
-   "sentiment": 2,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "430103446eea",
-   "title": "Contravisory Investment Management Inc. Sells 24,127 Shares of Tesla, Inc. $TSLA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSWtGX1c5OWt0eXpGbkpBQmZxYk5YZVV6T0lzV3AtRFFMcUZ1Y29DUHhwVE4yenVBZ1p3NGhtVXhoZUNabERlQ0FfVDRSVVM1NEM0MTRVNFlTTmZEeWpJMjd5WHZUaU9QNmhEODY5S280WGpEYU1xaVRDMDVCNGJ4dk5ZME5TZ2kyOVhFdUlYb1Zrc3QydDhaNjlYVnc1MjN4SGRES3VnYlNfWlNmb0l4N0FfWHFPYmRKdE96alV6VklJVWFmTGVERmhlSkxoUmJBV3c",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T07:20:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T07:20:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSWtGX1c5OWt0eXpGbkpBQmZxYk5YZVV6T0lzV3AtRFFMcUZ1Y29DUHhwVE4yenVBZ1p3NGhtVXhoZUNabERlQ0FfVDRSVVM1NEM0MTRVNFlTTmZEeWpJMjd5WHZUaU9QNmhEODY5S280WGpEYU1xaVRDMDVCNGJ4dk5ZME5TZ2kyOVhFdUlYb1Zrc3QydDhaNjlYVnc1MjN4SGRES3VnYlNfWlNmb0l4N0FfWHFPYmRKdE96alV6VklJVWFmTGVERmhlSkxoUmJBV3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Contravisory减持特斯拉24,127股",
-   "title_zh": "Contravisory减持特斯拉（TSLA）24,127股",
-   "sentiment": 0
   }
  ]
 }
