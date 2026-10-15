@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T17:37:30.018452+00:00",
+ "updated_at": "2026-10-15T17:52:33.658477+00:00",
  "market": {
-  "price": 360.83,
-  "change_pct": -1.72,
+  "price": 361.84,
+  "change_pct": -1.45,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.9%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.5%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $360.83 vs 20日均线 $370.73"
+     "note": "现价 $361.84 vs 20日均线 $370.78"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 33,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.9,
-   "ma20": 370.73,
-   "as_of": "2026-10-15T17:37:30.008831+00:00"
+   "implied_upside_pct": 10.5,
+   "ma20": 370.78,
+   "as_of": "2026-10-15T17:52:33.643127+00:00"
   },
-  "pe_ttm": 99.8,
+  "pe_ttm": 100.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.22,
    "count": 136
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "1fce34d244cf",
+   "title": "No Wheel, No Pedals, No Mirrors: Tesla’s Autonomous Cybercab Revs Up for Dallas Debut - Dallas Innovates",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXhGQ1ZRMUJCdHMwbFJ6U0xUcy1zazVhMFJCelR4ZERpby1COGo4Qy01TWIwSi1lMURRVVprdFVnZlk2SDVST1BtMTU4a3B0NjR6enNxVVNxVXFteHpURnN2M0hYWWdpd2dCbHRpTFpCMG5PcWFBWERYQmQycEVmeFZsNURSVjRSeWJNUEdUWXJtSVNlSkhUVmhhQkY3M2VDaWVfS0JZUGxkUF85WTY4",
+   "source": "Dallas Innovates",
+   "published_at": "2026-10-15T17:49:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dallas Innovates",
+     "published_at": "2026-10-15T17:49:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXhGQ1ZRMUJCdHMwbFJ6U0xUcy1zazVhMFJCelR4ZERpby1COGo4Qy01TWIwSi1lMURRVVprdFVnZlk2SDVST1BtMTU4a3B0NjR6enNxVVNxVXFteHpURnN2M0hYWWdpd2dCbHRpTFpCMG5PcWFBWERYQmQycEVmeFZsNURSVjRSeWJNUEdUWXJtSVNlSkhUVmhhQkY3M2VDaWVfS0JZUGxkUF85WTY4"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "95af22fc3bd8",
+   "title": "Tesla Unveils Redesigned Roadster At SpaceX Testing Facility In McGregor, Texas: 6 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzBPSXRHaVpKTjZyd2xRUl9fckFOdGFMNm5yTHd6Y0ZrOE16UUZZb25WdDMwaVQzUTVFTVhuZHFPVGpwcU5jeDlPcWlYSnN4QTIya05xdllINTVrTnB4ak5wQXZXX3h4X1k5bnpkakwtVzhldzhuZEZLeU1UdHhzMFNhOHNIWEZmaVZ4cWozamN2Ynd3dlVqQnE0Y0V4YzUzS0ZHZHY4YVg3WXkyaHBlcXp1OTBSNzJSaml1R1FNaU5fUjg4YTRFeDhuWDNPOW1jSy1WNzdmRVNWaEgtMFFtbWFFeFc5TWc",
+   "source": "NewsCord",
+   "published_at": "2026-10-15T17:21:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NewsCord",
+     "published_at": "2026-10-15T17:21:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzBPSXRHaVpKTjZyd2xRUl9fckFOdGFMNm5yTHd6Y0ZrOE16UUZZb25WdDMwaVQzUTVFTVhuZHFPVGpwcU5jeDlPcWlYSnN4QTIya05xdllINTVrTnB4ak5wQXZXX3h4X1k5bnpkakwtVzhldzhuZEZLeU1UdHhzMFNhOHNIWEZmaVZ4cWozamN2Ynd3dlVqQnE0Y0V4YzUzS0ZHZHY4YVg3WXkyaHBlcXp1OTBSNzJSaml1R1FNaU5fUjg4YTRFeDhuWDNPOW1jSy1WNzdmRVNWaEgtMFFtbWFFeFc5TWc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "a180d7d615b9",
    "title": "特斯拉儿童平衡车卖1399块你觉得贵吗？ - 汽车之家",
@@ -780,6 +814,23 @@
    "zh_summary": "特斯拉第二代Roadster跑车发布直播",
    "title_zh": "特斯拉新一代Roadster发布会直播：最新动态",
    "sentiment": 1
+  },
+  {
+   "id": "8e934bace47a",
+   "title": "特斯拉 Model S 和 Model X 要停产，到底发生了什么？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c",
+   "source": "汽车之家",
+   "published_at": "2026-10-15T14:01:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T14:01:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DSDQ4YzR0bE9Hd3pZZ3cwMmdKVGtiZFRHbXZRT2dVV2xFMGtqU3N2QXNta2Z2bWI1N3BaQkF2bVp4eFh6eE80N2FUTHdGOFREWFBpUTYyZ1JBY2c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "0ec0429e7397",
@@ -3149,6 +3200,23 @@
    "zh_summary": "小鹏辅助驾驶在法国道路实测对比",
    "title_zh": "【视频】敢和特斯拉同场竞技，法国道路实际体验小鹏辅助驾驶 - 汽车之家",
    "sentiment": -1
+  },
+  {
+   "id": "9ebb527f21ed",
+   "title": "Thursday’s Headlines Are Trouble for Tesla - Streetsblog USA",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkIxczdFUk1BVVIxMFAxT3dTUERDSU5IR1JGWHBVSmdETy1iVEZYZDVMdnNBcFc0WXlVS1czd1Y2V2tiNFE1ZE40S2ZrRF9EOUtkd3VpZ0ZJalNTRzBfenBza1JIRVFIenB1M0tJRWM3R2d2bjk0a0JQM2w5R2xaeFFudmViZDQ",
+   "source": "Streetsblog USA",
+   "published_at": "2026-10-15T04:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Streetsblog USA",
+     "published_at": "2026-10-15T04:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkIxczdFUk1BVVIxMFAxT3dTUERDSU5IR1JGWHBVSmdETy1iVEZYZDVMdnNBcFc0WXlVS1czd1Y2V2tiNFE1ZE40S2ZrRF9EOUtkd3VpZ0ZJalNTRzBfenBza1JIRVFIenB1M0tJRWM3R2d2bjk0a0JQM2w5R2xaeFFudmViZDQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "51ee35ef28e2",
@@ -6081,6 +6149,23 @@
    "sentiment": -1
   },
   {
+   "id": "112c62d16f68",
+   "title": "TSLA Stock Breaks Losing Streak On Tesla’s 10-Million Vehicle Feat - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmVhWTVKZjdlX0czX3paaXV0WnlLbjkyekhSeGdod3FpQzRxdm1mdFRuaThPMXdLdXdxYVJUa3ROWXlOajRRSlVSVnpad0ZqaFpKWVpJTTZkTWZoa3FZQ3hDSFRtOVV1amNpUFNIa1lpVGxsandRSzVPMktNSmxTbEd3a2lwbTlCa3FXdHRCOHZraDdvdWRxXzhKc1J6eUh0aXI4OWJob184a241TkctZnJqZkxUd1B6WkxLZnZZQjRLWGQwUkxKZ0Rn",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T13:05:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T13:05:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmVhWTVKZjdlX0czX3paaXV0WnlLbjkyekhSeGdod3FpQzRxdm1mdFRuaThPMXdLdXdxYVJUa3ROWXlOajRRSlVSVnpad0ZqaFpKWVpJTTZkTWZoa3FZQ3hDSFRtOVV1amNpUFNIa1lpVGxsandRSzVPMktNSmxTbEd3a2lwbTlCa3FXdHRCOHZraDdvdWRxXzhKc1J6eUh0aXI4OWJob184a241TkctZnJqZkxUd1B6WkxLZnZZQjRLWGQwUkxKZ0Rn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "102ef0265c09",
    "title": "Earnings Preview: Tesla (TSLA) Q3 Earnings Expected to Decline - Yahoo Finance Singapore",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNblFlVVNPR2w0cHFjT19JdzFaXy1DU3p3VTdyWVVISlppZWFySEVjY1ZJUVljSjhyZ1AzSy0zRW1pVEJlRzRGTjRwUGNjN2tsWm1Ra21FZ2EwdVBQSzBpajZqVnJaUWxuYnFSN3pqdW9mcmpsM2RENkQwbnhFX09RRzR6eW5xdw",
@@ -6478,120 +6563,6 @@
     "pct": -0.52,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "4d54868f33fe",
-   "title": "2026巴黎车展：特斯拉Cybercab抢镜，没方向盘的汽车离我们还有多远？ - 热点科技",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZcWFrb2I0Rkh2a3dsVUVVX1ZNLUdiaDBXZjg4endlZ01OaGZ1NHctcmc2c0xzMlpzVGVfVmd4X0JDQkpJZmF2aUkxRTA3RXM",
-   "source": "热点科技",
-   "published_at": "2026-10-14T11:24:43+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "热点科技",
-     "published_at": "2026-10-14T11:24:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZcWFrb2I0Rkh2a3dsVUVVX1ZNLUdiaDBXZjg4endlZ01OaGZ1NHctcmc2c0xzMlpzVGVfVmd4X0JDQkpJZmF2aUkxRTA3RXM"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-14T12:31:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zOERaa25KN0w0aTRrRU9lemNzbW5PX2hGRjNTSDZ4aV9TQnJZUHJIaDk4ckhvTVdCOERQSDlYUmxZVnhTUEtuZ0NiZ0J5NTlQdEVGZG9BZHl4NWc"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-14T11:54:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmptM0tla25kWlMzNW9EZ2ZvMGtuUFFCWF9DT19zLUN4SUFad3dFUDloaDQyU0x0VjU1ODBxblJNbmU0TTRZLXBqVWRJcGFXckxYblgteURmbmhPTG1VTnpnUFEzREJuY3N3aUs4dFI1NWtMa2E0NXhSaDZMN2R6ZWZmR29jM1lw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab亮相巴黎车展吸睛",
-   "title_zh": "2026巴黎车展：特斯拉Cybercab抢镜，没方向盘的汽车离我们还有多远？",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.52,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "92aed3f2c511",
-   "title": "Tesla, Inc. $TSLA Stock Holdings Raised by First Citizens Bank & Trust Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0ptNHBKMENxMXI4UWZzdGREZ0xIQTUyQnppYWM3TThtQ3F5bmhSZmZkbUhFd2xXaFJ4eTlsWURoNnJlMWpCOFo3bzhFRlZLYXU4cjN1RDRPcEZoSVVFYXo5WmRlWTVqcjRqSDhrMUFBM2tkREdNMEpEbGE1bFVyV0hJcUJIQVBXUm1qLXpRdmkwOVgyQnF1LTZacnRRZjI4Skp6OHYwdXExbWRWU0h2WE5VWWtSY2J3UVAzTXNCYl9uZWliVVR2OQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T11:23:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T11:23:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0ptNHBKMENxMXI4UWZzdGREZ0xIQTUyQnppYWM3TThtQ3F5bmhSZmZkbUhFd2xXaFJ4eTlsWURoNnJlMWpCOFo3bzhFRlZLYXU4cjN1RDRPcEZoSVVFYXo5WmRlWTVqcjRqSDhrMUFBM2tkREdNMEpEbGE1bFVyV0hJcUJIQVBXUm1qLXpRdmkwOVgyQnF1LTZacnRRZjI4Skp6OHYwdXExbWRWU0h2WE5VWWtSY2J3UVAzTXNCYl9uZWliVVR2OQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "First Citizens增持特斯拉股票",
-   "title_zh": "First Citizens增持特斯拉$TSLA持仓",
-   "sentiment": 1
-  },
-  {
-   "id": "ae6e2812b8ce",
-   "title": "TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE",
-   "source": "Stocktwits",
-   "published_at": "2026-10-14T11:23:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-14T11:23:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc2VqM1JQbmZfbWdMR2gzRDc3QUo0MUhJaUtBVFQ4TjBvR1dja1lnekNnakVnVmJmb2k5M0JJeGdSVGFPdDBodDZTa3JjOHB1TXR5Mm1PQzZLQXczdGl1TUEwV2V0dnRCaXc3Q2FGQ1BRMkd1MkFaUlM4SlcxVW9KT081TG1xTjdHa2NsN0VaOUh5QVQ2dGZ3X0cteE1YYS1OTHlsck5ldHlycl8zRVE"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "TSLA或周线收跌，散户质疑Robotaxi目标",
-   "title_zh": "TSLA或周线收跌，散户就未达成的Robotaxi目标质问马斯克",
-   "sentiment": -1
-  },
-  {
-   "id": "8a5230af42be",
-   "title": "Tesla stock forecast: Can Roadster momentum help TSLA reclaim $383? - Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazM3c1ViMEsycDVBMEpiLWF2ZmI1aGVnRUFyamJsZGt5VE1qZklQby15YlBnS3o2eWFKaE1fVHh6XzJHYnk4TG8tRUd0QWdHNTN4aXlhV0NRYjBkelZOMUYtUEZwNTJXc1R6S01NTmR4X2xrMlNDX1lnajNDcVVmLTRUVHVQZw",
-   "source": "Traders Union",
-   "published_at": "2026-10-14T11:13:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Traders Union",
-     "published_at": "2026-10-14T11:13:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazM3c1ViMEsycDVBMEpiLWF2ZmI1aGVnRUFyamJsZGt5VE1qZklQby15YlBnS3o2eWFKaE1fVHh6XzJHYnk4TG8tRUd0QWdHNTN4aXlhV0NRYjBkelZOMUYtUEZwNTJXc1R6S01NTmR4X2xrMlNDX1lnajNDcVVmLTRUVHVQZw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "看Roadster热度能否助TSLA重返$383",
-   "title_zh": "Roadster热度能否助TSLA重返$383？",
-   "sentiment": 0
-  },
-  {
-   "id": "8f914f6e236f",
-   "title": "Tesla’s Robotaxis Are Accused of Speeding Through School Zones. Texas Already Knows Whose Name Goes on the Ticket: Tesla’s - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNra3MxRDJNZW5VS2RFMzlMa0t6NGcwZG5hRXpYaUdlU1JMVUMzblBENFVJRURidFlMRTNRVFpialhXdEJYUkRnSW5iUDcweDZQUlRnalhaczlKLVdwWEdKdlBDdnVuMWxKTVBWazdmeTQ1VVZrT25xRUVfSG5XX1FmYmwtZ04ycEgtTnVPSmJZTTlVZkRpZHFmMnpKWVBsQi1UUWVGNXRva0hUTkVz",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-14T11:12:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-14T11:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNra3MxRDJNZW5VS2RFMzlMa0t6NGcwZG5hRXpYaUdlU1JMVUMzblBENFVJRURidFlMRTNRVFpialhXdEJYUkRnSW5iUDcweDZQUlRnalhaczlKLVdwWEdKdlBDdnVuMWxKTVBWazdmeTQ1VVZrT25xRUVfSG5XX1FmYmwtZ04ycEgtTnVPSmJZTTlVZkRpZHFmMnpKWVBsQi1UUWVGNXRva0hUTkVz"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi被指在学校区域超速",
-   "title_zh": "特斯拉Robotaxi被指学校区域超速，罚单开给特斯拉",
-   "sentiment": -1
   }
  ]
 }
