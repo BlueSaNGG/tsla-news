@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:52:29.386114+00:00",
+ "updated_at": "2026-10-15T08:07:28.125445+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（12条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.38（16条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T07:52:29.378562+00:00"
+   "as_of": "2026-10-15T08:07:28.114543+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 12
+   "avg": 0.38,
+   "count": 16
   }
  },
  "meta": {
@@ -83,9 +83,43 @@
    ],
    "category": "马斯克",
    "session": "盘前",
-   "title_zh": "最想让马斯克在10月21日电话会上回答的一件事",
    "zh_summary": "盼马斯克在财报电话会答问",
+   "title_zh": "最想让马斯克在10月21日电话会上回答的一件事",
    "sentiment": 0
+  },
+  {
+   "id": "552d864bc69d",
+   "title": "特斯拉机器人接近量产，浙江供应商忙起来了 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTRobFZaUnlPNF8xX3oyYm5aN1FpQV96bUJ1NHZIVF92eE1UWktVamNKSnI0ZkJ6Z3QtYTJ6eGk0cnpBbUVtZWhGdGx1bExBREo0SXJYbkhNUEJyUjhnNE5JZy1qcXpYRzNKNXh3UWF6b2ZvSWFIS0pjdEdZanhCNVZ2WnI1ZUpLUTRGdw",
+   "source": "搜狐",
+   "published_at": "2026-10-15T07:49:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T07:49:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTRobFZaUnlPNF8xX3oyYm5aN1FpQV96bUJ1NHZIVF92eE1UWktVamNKSnI0ZkJ6Z3QtYTJ6eGk0cnpBbUVtZWhGdGx1bExBREo0SXJYbkhNUEJyUjhnNE5JZy1qcXpYRzNKNXh3UWF6b2ZvSWFIS0pjdEdZanhCNVZ2WnI1ZUpLUTRGdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "84414822800f",
+   "title": "没电机、没脚蹬！特斯拉推出儿童专用平衡车：1399元 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHl3TXJuWDZrNjVHSWpqZkJLZjJEZDU1MHR4WVl3X3hPM0dSQ2xlX2YzbVJUem45cFBNd1hkdU84THA1UVl3MWdlREdDWDZtNzZDb3IxQkJ1UXlqLTgzb3l2Vk5zaHBpcGx4bXB3Yl84ckZucHpndnZOeUgtNkZMWko4TGpXNW1x",
+   "source": "搜狐",
+   "published_at": "2026-10-15T07:41:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T07:41:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHl3TXJuWDZrNjVHSWpqZkJLZjJEZDU1MHR4WVl3X3hPM0dSQ2xlX2YzbVJUem45cFBNd1hkdU84THA1UVl3MWdlREdDWDZtNzZDb3IxQkJ1UXlqLTgzb3l2Vk5zaHBpcGx4bXB3Yl84ckZucHpndnZOeUgtNkZMWko4TGpXNW1x"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "975c0b2fdce0",
@@ -103,8 +137,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "Family Office Research 减持特斯拉股票",
    "zh_summary": "一机构投资者减持特斯拉股票",
+   "title_zh": "Family Office Research 减持特斯拉股票",
    "sentiment": -1
   },
   {
@@ -123,8 +157,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉上架第一款“两轮新车”售价1399元，已开放预定，客服：专为2–6岁儿童设计，需在成人的监督保护下骑行 - 搜狐",
    "zh_summary": "特斯拉儿童自行车1399元开售",
+   "title_zh": "特斯拉上架第一款“两轮新车”售价1399元，已开放预定，客服：专为2–6岁儿童设计，需在成人的监督保护下骑行 - 搜狐",
    "sentiment": 0
   },
   {
@@ -148,9 +182,26 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "马斯克称SpaceX十年或达百万亿美元，传Roadster发布会揭晓合并",
    "zh_summary": "传特斯拉与SpaceX合并揭晓在即",
+   "title_zh": "马斯克称SpaceX十年或达百万亿美元，传Roadster发布会揭晓合并",
    "sentiment": 1
+  },
+  {
+   "id": "6687464755cb",
+   "title": "【网通社快报】特斯拉儿童平衡车上线官网，售价1399元 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HbGlPNHZ5aGFKd0NPcjFpclBXaGIxMUdOdHdvYkYyLWpKVmphOTFoRk5xTXg3NXlWSElnZzRjSWIzLVNfUHc3V0lJY1I",
+   "source": "凤凰网",
+   "published_at": "2026-10-15T07:22:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-15T07:22:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HbGlPNHZ5aGFKd0NPcjFpclBXaGIxMUdOdHdvYkYyLWpKVmphOTFoRk5xTXg3NXlWSElnZzRjSWIzLVNfUHc3V0lJY1I"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "af7417ce4062",
@@ -256,6 +307,23 @@
    "zh_summary": "巴克莱称特斯拉与SpaceX合并公告或将至",
    "title_zh": "巴克莱分析师：特斯拉与SpaceX合并公告或于10月下旬至11月初发布 - 观点网",
    "sentiment": 1
+  },
+  {
+   "id": "7d6802e039d2",
+   "title": "特斯拉9月无敌了，上险6.4万台、Model Y破4.5万！ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1FZVzJZRlRJQ2FRNm5mVE9WRFdXRWFHc0l0R2FoTks0MGJQM1JTQzc1Vm1vb0VBVDhHWTVvLVZBZzJVbV9jWGxuZmZOT0FrWU0tT1BheUVMZ1dKc2VHQUthTHB1c296b1hzWDE1NThldGhoT2ktMzdOZjBveDVBb1NNU1plX0g3",
+   "source": "搜狐",
+   "published_at": "2026-10-15T06:44:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T06:44:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1FZVzJZRlRJQ2FRNm5mVE9WRFdXRWFHc0l0R2FoTks0MGJQM1JTQzc1Vm1vb0VBVDhHWTVvLVZBZzJVbV9jWGxuZmZOT0FrWU0tT1BheUVMZ1dKc2VHQUthTHB1c296b1hzWDE1NThldGhoT2ktMzdOZjBveDVBb1NNU1plX0g3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "c0098e71e724",
@@ -667,12 +735,12 @@
    "title": "【视频】当你的特斯拉Model Y需要换轮胎时，应该怎么选？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nQWVRT2ZSTjhYem1Qa2dOcC1jOHdqVkRPTkppOUFVWlU5eUNtUDYxQkZOMl9aaGZzOFh3U3NtRVFPU01KM2JieldGM0hwRGJxRWlOZDUybmZyeE0",
    "source": "汽车之家",
-   "published_at": "2026-10-15T01:55:20+00:00",
+   "published_at": "2026-10-15T01:54:33+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-15T01:55:20+00:00",
+     "published_at": "2026-10-15T01:54:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nQWVRT2ZSTjhYem1Qa2dOcC1jOHdqVkRPTkppOUFVWlU5eUNtUDYxQkZOMl9aaGZzOFh3U3NtRVFPU01KM2JieldGM0hwRGJxRWlOZDUybmZyeE0"
     }
    ],
@@ -6470,91 +6538,6 @@
    "session": "盘后",
    "zh_summary": "Gerber称特斯拉Roadster仅产数百辆",
    "title_zh": "Ross Gerber称特斯拉Roadster或仅生产几百辆，悬浮功能是噱头",
-   "sentiment": -1
-  },
-  {
-   "id": "70a844f61f43",
-   "title": "Intact wins $161,700 fight with Tesla over Model X fire - Insurance Business",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHBjVTNuNE1Hc0FoOUtrdkpSUm5NZXNscFpjLWMtNkZzcGtzQUo0V2VlYU1la2RxR01Ka2VnZ0FZRVRZRDlIQk5KdXNkQWJfS0F6V3N2NTZVTGtSMERfUHNCb3hPaDFHdGRNVVhQYXh6dXF0V2Y4WVFadjJ5N014ekdQM0Vrdm54bUhGNlpqWVF2NkdWLVJRd2xJY2xvTmV3Nm5OaEc1aU1FdFZPTjlMWnRNNi1HWFJsS3dSaVJ3",
-   "source": "Insurance Business",
-   "published_at": "2026-10-13T20:29:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Insurance Business",
-     "published_at": "2026-10-13T20:29:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHBjVTNuNE1Hc0FoOUtrdkpSUm5NZXNscFpjLWMtNkZzcGtzQUo0V2VlYU1la2RxR01Ka2VnZ0FZRVRZRDlIQk5KdXNkQWJfS0F6V3N2NTZVTGtSMERfUHNCb3hPaDFHdGRNVVhQYXh6dXF0V2Y4WVFadjJ5N014ekdQM0Vrdm54bUhGNlpqWVF2NkdWLVJRd2xJY2xvTmV3Nm5OaEc1aU1FdFZPTjlMWnRNNi1HWFJsS3dSaVJ3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model X起火保险纠纷特斯拉败诉赔16万美元",
-   "title_zh": "保险公司Intact赢得与特斯拉就Model X起火的16.17万美元赔偿纠纷",
-   "sentiment": -1
-  },
-  {
-   "id": "e679835bc33a",
-   "title": "特斯拉Model 3在加拿大停订，39490加元的北美最便宜版本暂别市场 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNWZFVWFzQ3MxNmgyOUM5TFhBUTNQajJpaGZxZmF1dVlsRHNqQjFnMjRvYmJkQnZTRGRLMDlTcmwxNkxoVi1rZ3JMYmlpalA1TGRqTGdVWTNjakk",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T20:27:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T20:27:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNWZFVWFzQ3MxNmgyOUM5TFhBUTNQajJpaGZxZmF1dVlsRHNqQjFnMjRvYmJkQnZTRGRLMDlTcmwxNkxoVi1rZ3JMYmlpalA1TGRqTGdVWTNjakk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉暂停加拿大Model 3最便宜版本订单",
-   "title_zh": "特斯拉Model 3加拿大停订，最便宜版本暂别市场",
-   "sentiment": -1
-  },
-  {
-   "id": "4fb2e3be9774",
-   "title": "特斯拉暂停加拿大最便宜Model 3订单 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TLW5INWpMLU1GeEdlMnhQT0JoSm8zNFJZUmFOWG84QzRmb29QYkRHb1pSc2I5OThySl9IR2NaVDdHUW9zWGkyNVJ5NGQ5QXZpSDF0a2VJWEVLeDA",
-   "source": "汽车之家",
-   "published_at": "2026-10-13T20:07:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-13T20:07:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TLW5INWpMLU1GeEdlMnhQT0JoSm8zNFJZUmFOWG84QzRmb29QYkRHb1pSc2I5OThySl9IR2NaVDdHUW9zWGkyNVJ5NGQ5QXZpSDF0a2VJWEVLeDA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "加拿大最便宜Model 3暂停接受订单",
-   "title_zh": "特斯拉暂停加拿大最便宜Model 3订单",
-   "sentiment": -1
-  },
-  {
-   "id": "45e0524a1b3b",
-   "title": "Motorcyclist dies in East Bay crash with Tesla - San Francisco Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJGdnZKbmE4Z0VTVWxHc2ZxLWNDWUJhblcxLXQwYTl5d0dnZkI5MHMySXNKbDdOY1Z1TkFEM0xPdzNhemtFSUU0N0RzYjRINVFhclhWdFZlY2RDaTR2MlN1alN6RnJURGlWcERHcjc0RzV2LWNBSS03dFRsV2ZXa25SRVRaQWI4RXdfRTJMcUs3bW04YkxCUkQxZw",
-   "source": "San Francisco Chronicle",
-   "published_at": "2026-10-13T19:53:37+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "San Francisco Chronicle",
-     "published_at": "2026-10-13T19:53:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWJGdnZKbmE4Z0VTVWxHc2ZxLWNDWUJhblcxLXQwYTl5d0dnZkI5MHMySXNKbDdOY1Z1TkFEM0xPdzNhemtFSUU0N0RzYjRINVFhclhWdFZlY2RDaTR2MlN1alN6RnJURGlWcERHcjc0RzV2LWNBSS03dFRsV2ZXa25SRVRaQWI4RXdfRTJMcUs3bW04YkxCUkQxZw"
-    },
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-13T20:49:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlZ4QzN0MXNwd1V3UlotVTAxczhYbWZtejBxRzkya1Rra3NmMUxrRGFlSXgyd1k3UjBZRl93NklmLTJsTWhZVVl1R1pSMjB3ZVEzdHBxNlMtRnNVV2U1NW1ocllVbUVXVHJKOWNnVkpDVGF5dWlmOWRBd0ZnOUpaY0ZfRGxxZ0dvXzRn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "东湾摩托车手与特斯拉相撞身亡",
-   "title_zh": "旧金山纪事报：东湾摩托车手与特斯拉相撞身亡",
    "sentiment": -1
   }
  ]
