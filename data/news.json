@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T02:52:31.105922+00:00",
+ "updated_at": "2026-10-15T03:07:30.058547+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（201条已评分）"
+     "note": "今日新闻情绪 +0.28（203条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T02:52:31.099185+00:00"
+   "as_of": "2026-10-15T03:07:30.045911+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.28,
-   "count": 201
+   "count": 203
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "72232dffa393",
+   "title": "【视频】特斯拉同款Robotaxi！奇瑞的无人驾驶出租车已经在路上跑了？！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QRUNXUy1ySEx6QW1fYS1lVzhYd2g5T2pEY0VIVFVfbVRjUkRWd2R2OUlSQlktSWlQZWh5TU9acVJMTTFENXRIdFVadS00SEpaMVpSSjZzQUdOTm8",
+   "source": "汽车之家",
+   "published_at": "2026-10-15T03:01:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T03:01:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QRUNXUy1ySEx6QW1fYS1lVzhYd2g5T2pEY0VIVFVfbVRjUkRWd2R2OUlSQlktSWlQZWh5TU9acVJMTTFENXRIdFVadS00SEpaMVpSSjZzQUdOTm8"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "9f6755ccd6b6",
    "title": "Tesla Roadster’s 1.1-Second Claim Meets Flight Doubt [2026] - https://tech-insider.org/",
@@ -5614,6 +5631,23 @@
    "sentiment": 0
   },
   {
+   "id": "1e005bf29ba8",
+   "title": "特斯拉宣布接入Carplay，历史的车轮倒退了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CWEJudFVJQ0RGam1nRnN6amN1TzRiWlRNMXhYM2lCVW9GNklMSU02MFR3S2REYi1OMlVUdVJKR2s0YTdnM3lJdy1sb0xxWmVxbko5N1NYN1NtMUE",
+   "source": "汽车之家",
+   "published_at": "2026-10-13T22:36:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-13T22:36:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CWEJudFVJQ0RGam1nRnN6amN1TzRiWlRNMXhYM2lCVW9GNklMSU02MFR3S2REYi1OMlVUdVJKR2s0YTdnM3lJdy1sb0xxWmVxbko5N1NYN1NtMUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "6ec108ee9aad",
    "title": "Tesla Robotaxi Fleet in Austin Soars 8x in a Month While Elon Musk Admits TSLA Is Still Working on Not Running Over Cats - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHp3Y0lQcHhZa0w2c1lScnlNRFRMaFlSZUdmRFBSX0ZLUUc2NGJhUm9fOXhLT3lVeFVwVm1jbWNBd00xWnJKNm1hRnl6YmotbmpYaDVBcm9xZXNMZS1CSmUzOVZpaVl0czhrRE5LOENZUW5ORk5kZUxlUkdJN0l0MUF6NmZPd2FDS3E3VzU5ckpBbWJhSHVEU1JCSXlnUQ",
@@ -6471,46 +6505,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉更新2026.32新增隐藏功能",
    "title_zh": "特斯拉2026.32更新隐藏功能：广告拦截、座椅加热超时等",
-   "sentiment": 0
-  },
-  {
-   "id": "0518b8b4dee7",
-   "title": "Tesla pauses Canadian sales of China-built Model 3 after ‘exhausting’ import quota - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xbWNVZmRIV3FfTl9RVjRlYk5kQzNRYnBRYmZtU01NZXV0UFNmc05CMUozZC1Ha0EzUVBJSFRwSUFJWUIyUzE4clRmNjVmaDBQVkVQejk1YlBLVmdueWRkT3ZJQkZWNUl4TjRTWGQ2UFhpb2NjcnVXUmF3",
-   "source": "Automotive News",
-   "published_at": "2026-10-13T15:18:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Automotive News",
-     "published_at": "2026-10-13T15:18:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xbWNVZmRIV3FfTl9RVjRlYk5kQzNRYnBRYmZtU01NZXV0UFNmc05CMUozZC1Ha0EzUVBJSFRwSUFJWUIyUzE4clRmNjVmaDBQVkVQejk1YlBLVmdueWRkT3ZJQkZWNUl4TjRTWGQ2UFhpb2NjcnVXUmF3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉暂停加拿大国产Model 3销售",
-   "title_zh": "特斯拉暂停在加销售国产Model 3：进口配额用尽",
-   "sentiment": -1
-  },
-  {
-   "id": "2101ced046cb",
-   "title": "视频 | 特斯拉活动现场连线 小女儿意外亮相 马斯克:先不说了，我要去带娃了 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONi0zb3FTTnlqcGk2OW1xeUtBWVBnSWZVWGxFVlU5bHBaU3lENXp1STQyWldQZGgzc3VTdUxEaGx3MWtiVTktTC1OR1F4VnlFa2tFVEVCV2ptWnhGNmQ3amEwR2lPcFJIMkpuNVluTUJNQlhkV3VMYXQ0Yk1mV1NHbA",
-   "source": "新浪网",
-   "published_at": "2026-10-13T15:13:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-13T15:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONi0zb3FTTnlqcGk2OW1xeUtBWVBnSWZVWGxFVlU5bHBaU3lENXp1STQyWldQZGgzc3VTdUxEaGx3MWtiVTktTC1OR1F4VnlFa2tFVEVCV2ptWnhGNmQ3amEwR2lPcFJIMkpuNVluTUJNQlhkV3VMYXQ0Yk1mV1NHbA"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克在特斯拉活动现场提前离场带娃",
-   "title_zh": "视频|特斯拉活动现场连线 小女儿意外亮相 马斯克：先不说了，我要去带娃了",
    "sentiment": 0
   }
  ]
