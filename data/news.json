@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T16:37:33.032732+00:00",
+ "updated_at": "2026-10-15T16:52:36.413222+00:00",
  "market": {
-  "price": 359.7,
-  "change_pct": -2.03,
+  "price": 359.99,
+  "change_pct": -1.95,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +11.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +11.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（129条已评分）"
+     "note": "今日新闻情绪 +0.23（131条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $359.70 vs 20日均线 $370.67"
+     "note": "现价 $359.99 vs 20日均线 $370.69"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 32,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 11.2,
-   "ma20": 370.67,
-   "as_of": "2026-10-15T16:37:33.021049+00:00"
+   "implied_upside_pct": 11.1,
+   "ma20": 370.69,
+   "as_of": "2026-10-15T16:52:36.404564+00:00"
   },
-  "pe_ttm": 99.5,
+  "pe_ttm": 99.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+11.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+11.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.22,
-   "count": 129
+   "avg": 0.23,
+   "count": 131
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "70ff28d702e9",
+   "title": "Tesla remote operators keep crashing its ‘Robotaxis,’ data shows - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBicjRZeS1ya1k4Qkg0d01pVExIWUpUN1MxXzl0Rmk3UWg4SXRKYnJKUXZ5elZlc1I4NkNXQTlLcW5pcS1DMDd0SlZja3RTX0UxSm5lWTU3SGN3U2dTemlnTExqbFpVVjhGN2d3UHdfOEJNVW5GeXVJQmhfeXB2Zw",
+   "source": "Electrek",
+   "published_at": "2026-10-15T16:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-15T16:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBicjRZeS1ya1k4Qkg0d01pVExIWUpUN1MxXzl0Rmk3UWg4SXRKYnJKUXZ5elZlc1I4NkNXQTlLcW5pcS1DMDd0SlZja3RTX0UxSm5lWTU3SGN3U2dTemlnTExqbFpVVjhGN2d3UHdfOEJNVW5GeXVJQmhfeXB2Zw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "0ee92b572570",
    "title": "老车主集体过年！2017年的特斯拉Model S/X喜提FSD V14 Lite - 驱动之家",
@@ -3045,6 +3062,23 @@
    "zh_summary": "特斯拉Roadster计划10月15日重新发布",
    "title_zh": "特斯拉计划重新推出Roadster，现在是10月15日 - VOI.ID",
    "sentiment": 1
+  },
+  {
+   "id": "5002861f71a4",
+   "title": "特斯拉Model Y L（六座版）即将在欧洲推出 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRaGlCdllPSmNBYnJRQk9idDEyT1JOSnQ1RVNSYm5ySFdHV0R5d05mWlhiRjN6WXVPTG8zRlJ1V2gwQXh6YnpfOWJrRXloeGwxT0NENzJzRUZ0MFE",
+   "source": "汽车之家",
+   "published_at": "2026-10-15T03:40:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T03:40:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRaGlCdllPSmNBYnJRQk9idDEyT1JOSnQ1RVNSYm5ySFdHV0R5d05mWlhiRjN6WXVPTG8zRlJ1V2gwQXh6YnpfOWJrRXloeGwxT0NENzJzRUZ0MFE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "bd8ffbc488a8",
@@ -6532,60 +6566,6 @@
    "session": "盘前",
    "zh_summary": "媒体称Roadster本可能停留在概念阶段",
    "title_zh": "The Verge：特斯拉Roadster本可能停留在概念阶段",
-   "sentiment": 0
-  },
-  {
-   "id": "f48b04256ee4",
-   "title": "Can the New SpaceX-Spec Tesla Roadster Actually Fly? Here’s What FAA Rules and Physics Tell Us - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEFWNjN3Rk9DbHozTkJvbXBUaFBvai1mQmtzQXNWaUluek5CT0tDRENkd2NIYzVOOWVab3loVUc4Q2d3LXltQWN0VzNKa3IzY0tmLWVSVFJaY1JwNDkyZ2FSZjBTRUx5cUVLUS1zdm1VWHNMbmdWRC1yQnRsNDZBTGY3THRfcHhKYmwyWUpLd2QzOERaRmx3ZjRWdFZidEhDdjFKSQ",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-14T11:00:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-14T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEFWNjN3Rk9DbHozTkJvbXBUaFBvai1mQmtzQXNWaUluek5CT0tDRENkd2NIYzVOOWVab3loVUc4Q2d3LXltQWN0VzNKa3IzY0tmLWVSVFJaY1JwNDkyZ2FSZjBTRUx5cUVLUS1zdm1VWHNMbmdWRC1yQnRsNDZBTGY3THRfcHhKYmwyWUpLd2QzOERaRmx3ZjRWdFZidEhDdjFKSQ"
-    },
-    {
-     "name": "MotorTrend",
-     "published_at": "2026-10-14T11:04:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYkJIMmFITVlzc1Zjck5UbG1vUVZOSWtjQUJlaHg3dUJSRDNjbjN4TVpiYW5mNVB5TTlhNlJOWnBCckxhWndKSGNOQTF6cjUwVHRmcEFmX2JlZ0ptQjJRMVlCVWpRbl9uaEFFb24tS2VDU0gzLWhnTmRGRUQ4cTdjbjhIYmVOWVNqcEFF"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-14T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXh3UTJEbmdUSkFpTjJLZ1FWNnpheTFueVFnVWlpNF9CdkdWdFJYVWFYUTFQWUs3eVZtQmJaY3pXRTNoWXlnay1raml6Si15NVgya2F5WXF0bUtfanZJRW5DaEFlQkJzSjZiWjBORDdPMWxGRjc5MXNoLV9qcDg2bTB0eHB2dw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "新款Roadster真能飞吗？物理学解析",
-   "title_zh": "新款SpaceX版特斯拉Roadster真能飞吗？FAA法规与物理学给出答案",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f2d0886db3d4",
-   "title": "At Austin-area fan event, Elon Musk says Tesla has much to learn about chipmaking - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHFNSnRLaFNtQ01JSEpoZm1ZNGFwUndoRW52M0RqaFpfU1RaaFUyRHJveWZqWElFZHFVbF9jRlJHNUhrX0tvQmhkdFZJQm53NVl0SVFvUENkX1FwNW1hdDI5QmE1YzVjb3g5YzdvWHo0di0zRnFUS0piYlNtd01WRS1VS21PbnF1d0RleGlxdC0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-14T11:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-14T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHFNSnRLaFNtQ01JSEpoZm1ZNGFwUndoRW52M0RqaFpfU1RaaFUyRHJveWZqWElFZHFVbF9jRlJHNUhrX0tvQmhkdFZJQm53NVl0SVFvUENkX1FwNW1hdDI5QmE1YzVjb3g5YzdvWHo0di0zRnFUS0piYlNtd01WRS1VS21PbnF1d0RleGlxdC0"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克称特斯拉在芯片制造上仍需学习",
-   "title_zh": "奥斯汀粉丝活动上马斯克称特斯拉芯片制造仍需学习",
    "sentiment": 0
   }
  ]
