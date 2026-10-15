@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T23:52:33.621780+00:00",
+ "updated_at": "2026-10-15T00:07:32.562560+00:00",
  "market": {
-  "price": 367.16,
-  "change_pct": -2.15,
+  "price": 375.23,
+  "change_pct": -0.74,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-10-21",
@@ -17,27 +17,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 36% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +8.9%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（173条已评分）"
+     "note": "今日新闻情绪 +0.29（174条已评分）"
     },
     {
      "key": "动量",
-     "score": -1,
-     "note": "现价 $367.16 vs 20日均线 $371.00"
+     "score": 1,
+     "note": "现价 $375.23 vs 20日均线 $370.54"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 36,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 8.9,
-   "ma20": 371.0,
-   "as_of": "2026-10-14T23:52:33.608181+00:00"
+   "implied_upside_pct": 6.6,
+   "ma20": 370.54,
+   "as_of": "2026-10-15T00:07:32.542964+00:00"
   },
-  "pe_ttm": 101.5,
+  "pe_ttm": 103.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.6%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.29,
-   "count": 173
+   "count": 174
   }
  },
  "meta": {
@@ -67,6 +67,45 @@
   }
  },
  "stories": [
+  {
+   "id": "8c2ad13b136d",
+   "title": "SEC Approves Trading On Apple, Tesla Performance Metrics - Law360",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1hcm5qWkFkZ3BOek41N1JCRFMtblA2aVpjU2NNaGhZelVZTlctakV1Z01jZ3BWVW1waXhEVHBWZTZ1OUxKalNnSEtyNTlRbzU4Xzc4ZTdLNlVRUnhaTnNCSmk1dF8tRDllVTY5UWtmUjZ1MXpJWVdyMmFnMmo3QVZONy1FU1BqemZHcHlGZ1ZaVHVjRi1pTHQ0Y9IBVkFVX3lxTE9hc24zdEplaVFOVlZtSXJLODlsSktvcjh1SGNfcWpKM1hzQi01STZLTFA3dUJBMURGZ1hzM2Z2WnBtWE1XX25Jb1ZZMXk5akoyTWNYZzVR",
+   "source": "Law360",
+   "published_at": "2026-10-14T23:57:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Law360",
+     "published_at": "2026-10-14T23:57:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1hcm5qWkFkZ3BOek41N1JCRFMtblA2aVpjU2NNaGhZelVZTlctakV1Z01jZ3BWVW1waXhEVHBWZTZ1OUxKalNnSEtyNTlRbzU4Xzc4ZTdLNlVRUnhaTnNCSmk1dF8tRDllVTY5UWtmUjZ1MXpJWVdyMmFnMmo3QVZONy1FU1BqemZHcHlGZ1ZaVHVjRi1pTHQ0Y9IBVkFVX3lxTE9hc24zdEplaVFOVlZtSXJLODlsSktvcjh1SGNfcWpKM1hzQi01STZLTFA3dUJBMURGZ1hzM2Z2WnBtWE1XX25Jb1ZZMXk5akoyTWNYZzVR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "04087ea85aba",
+   "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T23:47:57+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T23:47:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T23:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUzNwNFRQenVpN2c0T043QlotMjFzdFJDVWF1ZkIzbkJSY0NfSnhiUE9lNjRsdG1XNndyWUd6YXM3SlQ2VVVzYW85aGNNRWswZ1FUSnZjdGJiU0tndmlNcFhnVmVQMkxSa21GTFd3eUhHZXRDSXhnM2dFVTVfaXJGYlNRcnZ2MkVhaXU1b09HRG1nYmRrUF9HVE5lc2NjTGtPTkpXZUh5WUNFU3Axb2E3ZktraG92eFYwQmN0OFVyaTNJc0NySk9ybEY4OTBqei1jSmZMcHNnT0EzVHJIN1FVaHZTNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d76fd706a217",
    "title": "Man who set fire to vehicles at Las Vegas Tesla facility gets 5 years in prison - Las Vegas Sun",
@@ -443,13 +482,18 @@
    "sentiment": 0
   },
   {
-   "id": "f03d3f7e1cc3",
-   "title": "巴克莱称特斯拉与SpaceX的合并或将于12月前公布 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdVVPRWZwMXFVQU5UMFJzR1BYRjNJUkJidkdCeWhJZTdWMmhDaXlSR1Y5T1ZiT1NlQXNZemxpdHUzWWp1UnJUS1dTUU9WMjNnNUREZEI0ZWZoRXlmdmE2V3NORQ",
-   "source": "东方财富",
-   "published_at": "2026-10-14T20:27:43+00:00",
-   "outlets_count": 2,
+   "id": "878b06c24d9c",
+   "title": "巴克莱：特斯拉与SPACEX的合并或将于12月前公布。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMUUVzc3Nrcnk1bUE3WGxBMURkSzdrTU5qdTFFNEYyRTNQOW4tRDI1eG9zQkVOTEVNU3ppOFhzMFE4SjNDb21CYTFkTQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-14T20:19:41+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-14T20:19:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMUUVzc3Nrcnk1bUE3WGxBMURkSzdrTU5qdTFFNEYyRTNQOW4tRDI1eG9zQkVOTEVNU3ppOFhzMFE4SjNDb21CYTFkTQ"
+    },
     {
      "name": "东方财富",
      "published_at": "2026-10-14T20:27:43+00:00",
@@ -6459,56 +6503,6 @@
    "session": "盘前",
    "zh_summary": "飓风后佛州特斯拉免费超充",
    "title_zh": "飓风过后特斯拉在佛州提供免费超充",
-   "sentiment": 0
-  },
-  {
-   "id": "0d5d7d2f6c58",
-   "title": "Tesla Gears Up to Report Q3 Earnings: Here's What to Expect - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN29hVExSeTZhb0lHd2RXdDJ0Y0ZVQWpCLU5UaWU5NV9YYWhkdW4ycW9hTDFsSWxRWVpuMkhIQlpId1ViQVU5dkRuNzcwZENvOXBKUWdBSWZSeXFWYkZsRHJ4NF83Y2hDTC1LdlM0a1Q4bWRwanA4SWU5LVVtM3NMWHl2djZDQnFoZ0Nxcy1PYk56QjM2QTJGcEVGQQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T12:58:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T12:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN29hVExSeTZhb0lHd2RXdDJ0Y0ZVQWpCLU5UaWU5NV9YYWhkdW4ycW9hTDFsSWxRWVpuMkhIQlpId1ViQVU5dkRuNzcwZENvOXBKUWdBSWZSeXFWYkZsRHJ4NF83Y2hDTC1LdlM0a1Q4bWRwanA4SWU5LVVtM3NMWHl2djZDQnFoZ0Nxcy1PYk56QjM2QTJGcEVGQQ"
-    },
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-13T13:04:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFA3VzFDckR1c2xMUFFiTlBqZV9heW1HMzRVejRUdkN1SmtzVGR2X2NiOUdkX1hIN2hCY00tTVVzblA4aWpHVEgwNFFCWUJ3WjB1YlFvM3lycXdEOFRWNXhPX2ZRREpEV25DamlHeDctSTNLczlhanRDYkVHTmZCbXgzYlVVZE9NX2daS1hhUThmTE9KTEpBRDhRYkc4UmM"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉即将发布三季度财报前瞻",
-   "title_zh": "特斯拉三季度财报前瞻：市场预期一览",
-   "sentiment": 0
-  },
-  {
-   "id": "5c296e43241b",
-   "title": "2026年第三季度美国新增4106个公共快充接口，特斯拉超级充电站调价 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdXZINUV3c0tJeDJJNU1TdUhwbHBBd0l3aFl6SC1qR2Exd3ZqR3dIdTZyUm9WaFMwNTZEMU1sVTJERHV2ZF9zQzlVT1FEZWlJSHllMDI3eEk2NGc",
-   "source": "网通社",
-   "published_at": "2026-10-13T12:51:10+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-13T12:51:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdXZINUV3c0tJeDJJNU1TdUhwbHBBd0l3aFl6SC1qR2Exd3ZqR3dIdTZyUm9WaFMwNTZEMU1sVTJERHV2ZF9zQzlVT1FEZWlJSHllMDI3eEk2NGc"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-13T12:51:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WFI1b1JHVDB3cGlHLXdidlZ4VUM1MnBZbDhvWjBoTzRvZjZLR3E5bXpZbmRod2dkaW9lcjZTOHJtNHJGYWpYdkNySXE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美国Q3新增4106个公用快充，特斯拉超充调价",
-   "title_zh": "2026年第三季度美国新增4106个公共快充接口，特斯拉超级充电站调价",
    "sentiment": 0
   }
  ]
