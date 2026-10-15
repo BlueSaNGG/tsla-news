@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T23:37:37.533391+00:00",
+ "updated_at": "2026-10-15T23:52:32.893669+00:00",
  "market": {
   "price": 362.44,
   "change_pct": -1.29,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（199条已评分）"
+     "note": "今日新闻情绪 +0.22（201条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 10.4,
    "ma20": 370.81,
-   "as_of": "2026-10-15T23:37:37.525486+00:00"
+   "as_of": "2026-10-15T23:52:32.875514+00:00"
   },
   "pe_ttm": 100.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 199
+   "avg": 0.22,
+   "count": 201
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b3bbb4db6e68",
+   "title": "Finally: The Tesla Roadster Is About To Be Revealed - The Drive",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFNEQ3RDlXRlpwcmNJVXBCREt6Nk1GZXg0MjdMSkZRMkxscWVuaFNFZGk3M0N3cUswOXRaX3lqWVRlSzNuRmNHb2I3VmI2ZFdBMDROQUh1b1g2RzNUYkVkb1NFRFg5bkpQVHV3",
+   "source": "The Drive",
+   "published_at": "2026-10-15T23:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Drive",
+     "published_at": "2026-10-15T23:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFNEQ3RDlXRlpwcmNJVXBCREt6Nk1GZXg0MjdMSkZRMkxscWVuaFNFZGk3M0N3cUswOXRaX3lqWVRlSzNuRmNHb2I3VmI2ZFdBMDROQUh1b1g2RzNUYkVkb1NFRFg5bkpQVHV3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "2714eea42f2c",
    "title": "特斯拉Roadster即将亮相！机构紧盯多只概念股(名单) - 东方财富",
@@ -106,6 +123,23 @@
    "zh_summary": "马斯克称特斯拉新跑车将是史上最伟大演示",
    "title_zh": "马斯克回应特斯拉新款跑车：是史上最伟大的产品演示 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "d5d403745dfa",
+   "title": "Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGk2Vk03M1BLX0lCWW8yRzVybEgteHR3bHFscnBabVA0N2NDOS1RRjB3WWlvYW9acjBmQVJqT1Q1dklTUUtHYk4yOG9TeGdpa2hFOG9uTHhlUXZOV2NzdHBrZDRmaG5CaG1BMjhSa3NZM3FTN3VtLWp4NWFTNlA4cXVJdC1JQVp1NUtETUJaTFVOSFUydXA0TDdSSHdScXpVbVEzb2tFX1hDWFFDaGZKTDlvdGxHdG9tQkFUbUFNa05VcFdJeE5pMllGRW5kYU9wcmhXbE9wNXAxNzJJOVNfZGQ2eDBsZ3pL",
+   "source": "Stocktwits",
+   "published_at": "2026-10-15T23:20:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-15T23:20:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGk2Vk03M1BLX0lCWW8yRzVybEgteHR3bHFscnBabVA0N2NDOS1RRjB3WWlvYW9acjBmQVJqT1Q1dklTUUtHYk4yOG9TeGdpa2hFOG9uTHhlUXZOV2NzdHBrZDRmaG5CaG1BMjhSa3NZM3FTN3VtLWp4NWFTNlA4cXVJdC1JQVp1NUtETUJaTFVOSFUydXA0TDdSSHdScXpVbVEzb2tFX1hDWFFDaGZKTDlvdGxHdG9tQkFUbUFNa05VcFdJeE5pMllGRW5kYU9wcmhXbE9wNXAxNzJJOVNfZGQ2eDBsZ3pL"
+    }
+   ],
+   "category": "能源",
+   "session": "盘后"
   },
   {
    "id": "a618e6eb98ba",
@@ -6544,46 +6578,6 @@
    "zh_summary": "三季度美新增4106个快充接口，特斯拉超充调价",
    "title_zh": "新能源市场太卷了！第三季度美国新增4106个公共快充接口，特斯拉超级充电站调价 - 网通社",
    "sentiment": 0
-  },
-  {
-   "id": "9dc69bc83767",
-   "title": "Tesla (TSLA Stock) Turns to Arizona Desert Sun for Its Next Big Clean Energy Project - CarbonCredits.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQm93OHZWLXRPODZ3eUtTSXJxT2tuYlNhR2lsTkRXM0xvNWh1cVBiSG1rWnlJNVVhYlB2RkZ0aHk5UFB2N2ZwLXIwV2Y4M29kTUdHLXVhWmlNSDZBUmd5OVl4dlJNY2pSb2s2TjF6N3o3UjE4WTRvOG91SUZsOTRDc2V3RkpoTG9lTnc",
-   "source": "CarbonCredits.com",
-   "published_at": "2026-10-14T17:16:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CarbonCredits.com",
-     "published_at": "2026-10-14T17:16:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQm93OHZWLXRPODZ3eUtTSXJxT2tuYlNhR2lsTkRXM0xvNWh1cVBiSG1rWnlJNVVhYlB2RkZ0aHk5UFB2N2ZwLXIwV2Y4M29kTUdHLXVhWmlNSDZBUmd5OVl4dlJNY2pSb2s2TjF6N3o3UjE4WTRvOG91SUZsOTRDc2V3RkpoTG9lTnc"
-    }
-   ],
-   "category": "能源",
-   "session": "盘中",
-   "zh_summary": "特斯拉亚利桑那投建新清洁能源项目",
-   "title_zh": "特斯拉转向亚利桑那沙漠阳光 推进下一个大型清洁能源项目",
-   "sentiment": 1
-  },
-  {
-   "id": "d032a85abb3f",
-   "title": "Tesla, Inc. $TSLA Stock: Generate Investment Management Ltd Grows Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHl0MzVtZkZVT24yb2FKZjVheXZQb3h2THAyRnItMDRNSTJEMGlYMnkzcEdjSEpUNGpSYWllTl80QmJmXzhiWlFTUlFtbmdYdk4xUFNyLVh1bl9RQnhjaHlFeGhZM25tSm04YWRCQ0huUWJ3YmY2Xzh3VmtmTUE0ck9sV1VWWWRJZ05KRHdqV3l5YnRUd1RJMi1fU1M2TWZ0c2VPbUU2ek1SNGdFTU4wY1BLWUd2TmhIRUxjQllKUGZQdHRQUWlJ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T17:12:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T17:12:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHl0MzVtZkZVT24yb2FKZjVheXZQb3h2THAyRnItMDRNSTJEMGlYMnkzcEdjSEpUNGpSYWllTl80QmJmXzhiWlFTUlFtbmdYdk4xUFNyLVh1bl9RQnhjaHlFeGhZM25tSm04YWRCQ0huUWJ3YmY2Xzh3VmtmTUE0ck9sV1VWWWRJZ05KRHdqV3l5YnRUd1RJMi1fU1M2TWZ0c2VPbUU2ek1SNGdFTU4wY1BLWUd2TmhIRUxjQllKUGZQdHRQUWlJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Generate资管增持特斯拉股份",
-   "title_zh": "Generate Investment Management增持特斯拉股票",
-   "sentiment": 1
   }
  ]
 }
