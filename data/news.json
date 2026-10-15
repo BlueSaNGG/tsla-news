@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T23:07:32.894571+00:00",
+ "updated_at": "2026-10-15T23:22:30.064147+00:00",
  "market": {
   "price": 362.44,
   "change_pct": -1.29,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（190条已评分）"
+     "note": "今日新闻情绪 +0.21（195条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 10.4,
    "ma20": 370.81,
-   "as_of": "2026-10-15T23:07:32.872536+00:00"
+   "as_of": "2026-10-15T23:22:30.050556+00:00"
   },
   "pe_ttm": 100.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.21,
-   "count": 190
+   "count": 195
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a618e6eb98ba",
+   "title": "特斯拉能源业务负责人据悉已离职 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwRFo5RWk1X1kzakpNSkVJVG9NTjY3aU5tbEdtR1ZyZ3FFX1B6elJVaWpqMWVuUnBMUHY4VkJ6aEJBTFU3TnpFajFReTU3SDVRcGdUaWhDa055YzlQd2ZLcg",
+   "source": "东方财富",
+   "published_at": "2026-10-15T23:14:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T23:14:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwRFo5RWk1X1kzakpNSkVJVG9NTjY3aU5tbEdtR1ZyZ3FFX1B6elJVaWpqMWVuUnBMUHY4VkJ6aEJBTFU3TnpFajFReTU3SDVRcGdUaWhDa055YzlQd2ZLcg"
+    }
+   ],
+   "category": "能源",
+   "session": "盘后"
+  },
   {
    "id": "798d020cf77f",
    "title": "Tesla Stock: Europeans Bought More EVs Than Ever Last Month - Investor's Business Daily",
@@ -93,7 +110,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGpSU21qQXZfRDRiTnhpdHhTUWtZM09icFRSeUZFN3lGVTgxQUhqTDIzOE4xbDJfcG1veTlDU01yVkhaUjdhSHRyQVNkbGllQ05QMEt2OGNoYUpNMmFOOGw4V19MSkNoOWdma3d0V19ialZjS2dfR1hVTFZOdGV5blhjMnpOZi1ya1NJcUFnODZja2lkY0VFNUo0X2xadkhrUVUtT2plLUk",
    "source": "Reuters",
    "published_at": "2026-10-15T22:55:59+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Reuters",
@@ -104,6 +121,11 @@
      "name": "Investing.com",
      "published_at": "2026-10-15T22:57:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkxXZHFrWlVqY3libmpobGlxTWpyVXNmczJwUGRWd2NJS3V3NDZpNm1kVVlhSzBqMGJ5bXk4Q2VxRlY0aTQ5R0YtMUtHc3VLcndTX0x2MVIyOElrcWtTSHdKRWM3OWxjS3JFSVA1ODc0MWt0YkhDZ0xWdUd4OWE2ei0yNnpMbjhwUDV1blJob3Nsd0FOUHlYNjEtVGl2aVVYUHlEaVkxSXJHUk1INUE"
+    },
+    {
+     "name": "WHTC",
+     "published_at": "2026-10-15T23:18:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEw2eGxqT3c5ak5uaG9HSnhCQnVnS01VTHF3RTBEd3hodENudnlLdHBLVE55WUQxQi1rTkhrRVRWME9QczczQ2V1RGwya3Babm9rMkdfeVVaQkR6OWwtZGdDcWVuVjlueHNsWHFzLUJWelpqdVc0QXVoOXNJbDk1Vloxbl9yZlRa"
     }
    ],
    "category": "能源",
@@ -118,10 +140,15 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NG9rY3ZFbUlkMkd1Z0wtSmpTcDhnREVMRDg1WUMyMWxZcW9ZZ0tySTRZNTFaNTlJaVY2MTdRaEdWT1JxWXRINkFNUFZUNnNLbHYtRkhqZjk3ZjRPS0hSNXEzODNJdDlvVVl5bWVrek1RVUh4bERaWA",
    "source": "tech-insider.org",
    "published_at": "2026-10-15T22:53:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-15T22:53:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NG9rY3ZFbUlkMkd1Z0wtSmpTcDhnREVMRDg1WUMyMWxZcW9ZZ0tySTRZNTFaNTlJaVY2MTdRaEdWT1JxWXRINkFNUFZUNnNLbHYtRkhqZjk3ZjRPS0hSNXEzODNJdDlvVVl5bWVrek1RVUh4bERaWA"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-15T22:53:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56NG9rY3ZFbUlkMkd1Z0wtSmpTcDhnREVMRDg1WUMyMWxZcW9ZZ0tySTRZNTFaNTlJaVY2MTdRaEdWT1JxWXRINkFNUFZUNnNLbHYtRkhqZjk3ZjRPS0hSNXEzODNJdDlvVVl5bWVrek1RVUh4bERaWA"
     }
@@ -2934,6 +2961,23 @@
    "sentiment": 0
   },
   {
+   "id": "a52978ecfca2",
+   "title": "The Tesla Roadster Livestream Time Could Be Hinting That This EV Actually Can Fly After All - Autonocion.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xRWkyT1lNRVZ1QjdEbmdHOWM2bTFMcWZ0VzNwZzRRa1czbWZ1bHA4VjNuYmNDYURpLWE5dXVZM1hZR3J3cnhXSVhpUF9NbzAzYUFiV1JDNlc2Vm1Oa1ZKa3FoOWFaaFBDaUE5QU9mT1diS1pvdkdR",
+   "source": "Autonocion.com",
+   "published_at": "2026-10-15T11:00:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autonocion.com",
+     "published_at": "2026-10-15T11:00:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xRWkyT1lNRVZ1QjdEbmdHOWM2bTFMcWZ0VzNwZzRRa1czbWZ1bHA4VjNuYmNDYURpLWE5dXVZM1hZR3J3cnhXSVhpUF9NbzAzYUFiV1JDNlc2Vm1Oa1ZKa3FoOWFaaFBDaUE5QU9mT1diS1pvdkdR"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "100de5e45082",
    "title": "Tesla set to unveil long-delayed Roadster tonight in central Texas - Audacy",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUJfOXp1MTl0VnktWW9sQkhjbnlyeXJqTFhVa1JWVmtLZ3dUb1pvS1h2N3pwSWN1S0Jla0l0c3NKT1B3eUtZN3hNTGtlU1EzNVNfZWJhTXJobXFJdmNIN2RTVzhGbDFCNm55eTBrVHpjdjFRRlJrem9KTkpyYzBJV19lbVVOUHFjWXJUMTQyS2laS3NiaERVU096UWJaTnQ4d0wwTkJZZTU",
@@ -3582,6 +3626,23 @@
    "sentiment": 0
   },
   {
+   "id": "36a833a778d9",
+   "title": "Tesla's Roadster event is back on for Thursday night. Here's what to expect. - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPczRXSFJxNVlnWHZvME9JTEVNRVZkaXRac0taTW9LWEhUUmtYTlBoTzlRNmRuRVljd2FpbU1LVHcxcnVnTUVFTGJTUE9GcjNwTldKaUJQYmkyaVNiNjROa1ZaaGo4SUltTTlvdnlRckdPYkRFVGl3cXFRM2owN0E3NW1FalFCcnFKYmVtbW13YjVONEczbnFwS3JURUJ5Sm80R2pra1lKZHNabk96X0JYaGszX0haa2h0alBrUWtoajZFTXctdU4wUGdYY3RWTmxHWnc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T08:25:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T08:25:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPczRXSFJxNVlnWHZvME9JTEVNRVZkaXRac0taTW9LWEhUUmtYTlBoTzlRNmRuRVljd2FpbU1LVHcxcnVnTUVFTGJTUE9GcjNwTldKaUJQYmkyaVNiNjROa1ZaaGo4SUltTTlvdnlRckdPYkRFVGl3cXFRM2owN0E3NW1FalFCcnFKYmVtbW13YjVONEczbnFwS3JURUJ5Sm80R2pra1lKZHNabk96X0JYaGszX0haa2h0alBrUWtoajZFTXctdU4wUGdYY3RWTmxHWnc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "256767925d67",
    "title": "特斯拉第二代Roadster北京时间10月16日亮相： 2.1秒破百 极速超400km/h - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHBzMUFNMklIQUNmSXBhRGZ0S3k5YlktWG1NNUtnQmNjU2RMN3VWamZrNVBsVktuUDBuN3dEQUtwMG9ZVnBHR0tqb1B3aWIxdWZBZDF4OE1pajlnR0pnbjhMUHNNU0ozTHFidExfT2Y5RG91d2NCcWZpeEJQWDg5UVJBLWNIZDFYdmJ3Wg",
@@ -4159,6 +4220,23 @@
    "zh_summary": "2023年款白色Model 3车况极新",
    "title_zh": "【视频】2023年特斯拉model3原版原漆白色内饰太新了 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "16aa7cfd461b",
+   "title": "特斯拉第二代Roadster跑车将于北京时间10月16日正式亮相 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nRmp6UEZKTUVJM1ZjMUhoSS1VSHpzWE9JTU91UkVCNWdsR094eXNsRWd0Smx5Vnp1T0Z4V3hIQm1OZktJTkxOcm1yOVo",
+   "source": "凤凰网",
+   "published_at": "2026-10-15T05:50:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-15T05:50:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nRmp6UEZKTUVJM1ZjMUhoSS1VSHpzWE9JTU91UkVCNWdsR094eXNsRWd0Smx5Vnp1T0Z4V3hIQm1OZktJTkxOcm1yOVo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "af6490b360ff",
@@ -4806,6 +4884,23 @@
     "pct": 0.25,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "3b3277263896",
+   "title": "TSLA Stock Rises Overnight: Tesla’s Long-Delayed Roadster Event Is Back On — Musk Teases ‘Timing Is Everything’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOblRHc05SRmg5VG51Yi1CYktPelczMDg5YTcyNDZSMW9rSUNPUjVXUE5Ba0s5c19CcDJFUXpUUXZjVWhSalI4Vk9IOC1XaVZrNkNoUFkxX1V4RGdkQ3REOWg3bFpGdVZiY1BsTkRUSHpGMGsyWFJwTWN4amxtc1lMQnQwRVJaVUxQWVFNSEVUQXBXNThyUmZ0eHVLd1JVSTBubmxTWTVZOXFWY2dhM1hybjNvbWcxZW5GWGREZmc5OXQ3N1hqQzM2djgwdmZJdw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-15T01:04:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-15T01:04:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOblRHc05SRmg5VG51Yi1CYktPelczMDg5YTcyNDZSMW9rSUNPUjVXUE5Ba0s5c19CcDJFUXpUUXZjVWhSalI4Vk9IOC1XaVZrNkNoUFkxX1V4RGdkQ3REOWg3bFpGdVZiY1BsTkRUSHpGMGsyWFJwTWN4amxtc1lMQnQwRVJaVUxQWVFNSEVUQXBXNThyUmZ0eHVLd1JVSTBubmxTWTVZOXFWY2dhM1hybjNvbWcxZW5GWGREZmc5OXQ3N1hqQzM2djgwdmZJdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "32e6335bb6aa",
@@ -6463,106 +6558,6 @@
    "zh_summary": "Model Y夺日本进口车销量冠军",
    "title_zh": "特斯拉Model Y销量大涨 夺得日本外国车型销量冠军",
    "sentiment": 1
-  },
-  {
-   "id": "31d628b93892",
-   "title": "Tesla shares Roadster unveiling live-stream timings, \"Timing is everything,\" says Musk - Tesla Oracle",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX240NmMxTjBtYldGNzlDZjBGbWdjV3lyYk5OTGpBU0phZmMzRFRpUXZyaFRaQVhrYnJaOXl3ZkVrWW0tV3FDRW1Bb1BzZ1BSWkFwcVVlN2U5R3lvdmJ2UE90cFF4SDRoRzlmMFBHSm5MVGtpbUVWSDJVNUlub005QldER2x1Vk5Vb1I5Sk0ySFdpTTg0RjhVT2M2TGYxWXJCOVVtMDJiOFBSNW9BQjJWMU1HYVpWLS1tS2FrR3Q2Yw",
-   "source": "Tesla Oracle",
-   "published_at": "2026-10-14T16:58:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tesla Oracle",
-     "published_at": "2026-10-14T16:58:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX240NmMxTjBtYldGNzlDZjBGbWdjV3lyYk5OTGpBU0phZmMzRFRpUXZyaFRaQVhrYnJaOXl3ZkVrWW0tV3FDRW1Bb1BzZ1BSWkFwcVVlN2U5R3lvdmJ2UE90cFF4SDRoRzlmMFBHSm5MVGtpbUVWSDJVNUlub005QldER2x1Vk5Vb1I5Sk0ySFdpTTg0RjhVT2M2TGYxWXJCOVVtMDJiOFBSNW9BQjJWMU1HYVpWLS1tS2FrR3Q2Yw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉公布Roadster发布直播时间",
-   "title_zh": "特斯拉公布Roadster发布直播时间表，马斯克称「时机就是一切」",
-   "sentiment": 1
-  },
-  {
-   "id": "de93dad57abc",
-   "title": "TSLA Stock Climbs Overnight: ‘SPAC King’ Chamath Palihapitiya Sees ‘Obvious’ Logic In Tesla-SpaceX Merger - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlhUdUJfMDZuY2lxSEtVX3JhYWxLbFg5TGctQndDR0R0T0tJalNiMkdtS0lvZUNsTHozOWxJQzdfOEFlWFZTRnAyWVR3cnoyVVFIdzR5NzFfNHZJSUFiTnE1SF9aOXBKZFV3Q0hneFpYREozTTV6NDZIaGpDZFBCV2JLYUhiNE5INHp4TmVXMmlIY0FqQlB2UEExTXR0UnFYSDlydXJhQlRpdmVDWVE",
-   "source": "Stocktwits",
-   "published_at": "2026-10-14T16:56:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-14T16:56:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlhUdUJfMDZuY2lxSEtVX3JhYWxLbFg5TGctQndDR0R0T0tJalNiMkdtS0lvZUNsTHozOWxJQzdfOEFlWFZTRnAyWVR3cnoyVVFIdzR5NzFfNHZJSUFiTnE1SF9aOXBKZFV3Q0hneFpYREozTTV6NDZIaGpDZFBCV2JLYUhiNE5INHp4TmVXMmlIY0FqQlB2UEExTXR0UnFYSDlydXJhQlRpdmVDWVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "SPAC之王称特斯拉与SpaceX合并逻辑清晰",
-   "title_zh": "TSLA夜盘上涨，SPAC之王称特斯拉SpaceX合并逻辑明显",
-   "sentiment": 1
-  },
-  {
-   "id": "47cdd03e5ba7",
-   "title": "Tesla Left Intriguing Hints in the Roadster Demo Confirmation, Here's How To Watch the Livestream - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUVYU2l3dmJfZXlVckdJZm16NkFxRW1yVzZrVnQtcGhxUUdDUUNYR3FzR3lPd0RNVkRtMlNiX0N3VFBXcHBJc0g1cEVjcm42bTVWdi01XzZsQUVFSEdPRjFEcGJBMmUwNl9qTTlFeWxSUmZvUlE1OG5KSkxURzdaeFVDRmphZHRYeXJVQlIxc1AxeXIwZmRmMThSQkdCOVJ5WV8zTEdUNXdLNmR1WWF0RmRleGZGMVEzN3JpYVVkNDJzeF8tdDJWVXEwMExud2s2enZxQk1SZlVialU",
-   "source": "autoevolution",
-   "published_at": "2026-10-14T16:44:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-14T16:44:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUVYU2l3dmJfZXlVckdJZm16NkFxRW1yVzZrVnQtcGhxUUdDUUNYR3FzR3lPd0RNVkRtMlNiX0N3VFBXcHBJc0g1cEVjcm42bTVWdi01XzZsQUVFSEdPRjFEcGJBMmUwNl9qTTlFeWxSUmZvUlE1OG5KSkxURzdaeFVDRmphZHRYeXJVQlIxc1AxeXIwZmRmMThSQkdCOVJ5WV8zTEdUNXdLNmR1WWF0RmRleGZGMVEzN3JpYVVkNDJzeF8tdDJWVXEwMExud2s2enZxQk1SZlVialU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉确认举办Roadster演示直播",
-   "title_zh": "特斯拉暗示Roadster演示活动细节并公布直播方式",
-   "sentiment": 0
-  },
-  {
-   "id": "43e61265b2c1",
-   "title": "TSLA Stock Continues Slide After Musk Says ‘A Little Less Capital Efficient’ Is Acceptable — Warns Of Rising Capex for Next 2-3 Years - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaUI2NVFhZmZHS0dZUGxjQTRXVl9RVUJhOHBxN25GSFhBZjJHNHppc2hMSkhiYzRCdnZOb1l1X1VvVmdCQnRiQzFQYllybnpLTndsMThLcTF0a0lYQWw5bTB0eGxVQkJ1blFKNzFKZF9ybzlad0llMzZUT2xwUUhoVk1zYlJHQVpDN0dkallWcFpIeUltYm1WSUFUUzZiOXdvSE9SRVBHc2pORTFxcFpGRE1FemNTY3F5VktPM3dJX0FaWUlsYzJpdUhqV2JTdURjc1FrbWxiZzZNU3gzZFhyMERkckZKWDUycjlEekhoX2RUT2RFRDdJNGUtdTlnSFQ5Ujg2a3d2QnBhSDd4SW1GWU41YUR3Z0JJSm9KNzRB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-14T16:41:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-14T16:41:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaUI2NVFhZmZHS0dZUGxjQTRXVl9RVUJhOHBxN25GSFhBZjJHNHppc2hMSkhiYzRCdnZOb1l1X1VvVmdCQnRiQzFQYllybnpLTndsMThLcTF0a0lYQWw5bTB0eGxVQkJ1blFKNzFKZF9ybzlad0llMzZUT2xwUUhoVk1zYlJHQVpDN0dkallWcFpIeUltYm1WSUFUUzZiOXdvSE9SRVBHc2pORTFxcFpGRE1FemNTY3F5VktPM3dJX0FaWUlsYzJpdUhqV2JTdURjc1FrbWxiZzZNU3gzZFhyMERkckZKWDUycjlEekhoX2RUT2RFRDdJNGUtdTlnSFQ5Ujg2a3d2QnBhSDd4SW1GWU41YUR3Z0JJSm9KNzRB"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价续跌，马斯克预警资本开支上升",
-   "title_zh": "TSLA股价续跌，马斯克警告未来两三年资本开支上升",
-   "sentiment": -1
-  },
-  {
-   "id": "bb5ad7f810b4",
-   "title": "Tesla Stock (NASDAQ:TSLA) Slides as the FAA Weighs in on a Flying Roadster - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVZZcEw5TnRmdFpueGNhUTB2Z0tYNXU5VWlUcG5UYWJaeXZ1MVVscGNpMktEUDdEeEM1ZDc5V3ZfT3ZfaFpDTEFLT3lscER3V1RkbUdycHNQMUNuMXJhZi1jQ0VIQmlyVGZpMUNKWjB2YUlMc2MtcllpOTdxUUFkNTI5MDg1ZEVoZGN2V1l4SEZCUERUQ19vTVlmTG9oYzh0UU5N",
-   "source": "TipRanks",
-   "published_at": "2026-10-14T16:39:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-14T16:39:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVZZcEw5TnRmdFpueGNhUTB2Z0tYNXU5VWlUcG5UYWJaeXZ1MVVscGNpMktEUDdEeEM1ZDc5V3ZfT3ZfaFpDTEFLT3lscER3V1RkbUdycHNQMUNuMXJhZi1jQ0VIQmlyVGZpMUNKWjB2YUlMc2MtcllpOTdxUUFkNTI5MDg1ZEVoZGN2V1l4SEZCUERUQ19vTVlmTG9oYzh0UU5N"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "FAA介入飞行版Roadster特斯拉股价下跌",
-   "title_zh": "FAA介入飞行版Roadster，特斯拉股价下跌",
-   "sentiment": -1
   }
  ]
 }
