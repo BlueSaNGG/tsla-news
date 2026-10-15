@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T01:07:36.267261+00:00",
+ "updated_at": "2026-10-15T01:22:30.091850+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（185条已评分）"
+     "note": "今日新闻情绪 +0.27（192条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T01:07:36.254692+00:00"
+   "as_of": "2026-10-15T01:22:30.085754+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 185
+   "avg": 0.27,
+   "count": 192
   }
  },
  "meta": {
@@ -68,23 +68,40 @@
  },
  "stories": [
   {
+   "id": "b4bdf57b1a72",
+   "title": "前特斯拉高管掌舵，引领Uber货运业务转型 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1BWYmlTWEdzYlNsZHNIdVJGSmxuSGprb1IyeE9ZUzEwalA2RWZIdWVzMFdZYTRKNGpHZHhHQ1BkanBTaE5hcjI3RWIyMkdyOVVuVnM1NXlmd0JCdHlsOWh5QWU0dWRHeXM2X01KeE1ZbHBHZmRIODdVLXhYal81ZWJB",
+   "source": "新浪网",
+   "published_at": "2026-10-15T01:11:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-15T01:11:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1BWYmlTWEdzYlNsZHNIdVJGSmxuSGprb1IyeE9ZUzEwalA2RWZIdWVzMFdZYTRKNGpHZHhHQ1BkanBTaE5hcjI3RWIyMkdyOVVuVnM1NXlmd0JCdHlsOWh5QWU0dWRHeXM2X01KeE1ZbHBHZmRIODdVLXhYal81ZWJB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "32e6335bb6aa",
    "title": "小鹏和特斯拉在巴黎车展“智驾双雄”，中国智驾方案杀进欧洲心脏 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sSGR1SFQxdUJlLU56TTJBQlZCSTgzdmVEeEYwNldhMGhXTU45cmx5ZWlZbFBxVXc0b2VzSkxwQkUtY0RyTjVOdThaTzhGRV9fLXpLZ1BnRFlyV1U",
    "source": "汽车之家",
-   "published_at": "2026-10-15T01:04:29+00:00",
+   "published_at": "2026-10-15T01:03:48+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-15T01:04:29+00:00",
+     "published_at": "2026-10-15T01:03:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sSGR1SFQxdUJlLU56TTJBQlZCSTgzdmVEeEYwNldhMGhXTU45cmx5ZWlZbFBxVXc0b2VzSkxwQkUtY0RyTjVOdThaTzhGRV9fLXpLZ1BnRFlyV1U"
     }
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "小鹏和特斯拉在巴黎车展\"智驾双雄\"，中国智驾方案杀进欧洲心脏",
    "zh_summary": "巴黎车展小鹏特斯拉智驾争锋",
+   "title_zh": "小鹏和特斯拉在巴黎车展\"智驾双雄\"，中国智驾方案杀进欧洲心脏",
    "sentiment": 0
   },
   {
@@ -103,8 +120,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "特斯拉Cybercab奥斯汀部署超300辆：硬件规格",
    "zh_summary": "特斯拉奥斯汀投放超300辆Cybercab",
+   "title_zh": "特斯拉Cybercab奥斯汀部署超300辆：硬件规格",
    "sentiment": 1
   },
   {
@@ -188,8 +205,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "纵火烧特斯拉的男子在拉斯维加斯被判入狱",
    "zh_summary": "拉斯维加斯纵火烧车者被判入狱",
+   "title_zh": "纵火烧特斯拉的男子在拉斯维加斯被判入狱",
    "sentiment": 0
   },
   {
@@ -228,28 +245,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "拉斯维加斯特斯拉纵火犯获刑5年而非20年",
    "zh_summary": "纵火案罪犯获刑5年低于预期20年",
-   "sentiment": 0
-  },
-  {
-   "id": "c8cb97fbbf4c",
-   "title": "Las Vegas man sentenced to 5 years for Tesla Collision Center arson - FOX5 Vegas",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFIxblVHVlVBVHNabGNsZng2TFhjLTFOWFE3OVZXVVIteFp3UFU2b0lLM0RRQzVzOUxPcUNKRkZzQnprcnNLbW9nOWF3cElKc2FOLWpEM3NUZzJWcEFFNXF4cFdWWldneFpYeE50Uk9WXzFQX3p4VkxKdnBqUURFTEN0Z3JDdno0MU0wSlMzZWotWHlmMXB1aldkUW9tRVE",
-   "source": "FOX5 Vegas",
-   "published_at": "2026-10-15T00:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FOX5 Vegas",
-     "published_at": "2026-10-15T00:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFIxblVHVlVBVHNabGNsZng2TFhjLTFOWFE3OVZXVVIteFp3UFU2b0lLM0RRQzVzOUxPcUNKRkZzQnprcnNLbW9nOWF3cElKc2FOLWpEM3NUZzJWcEFFNXF4cFdWWldneFpYeE50Uk9WXzFQX3p4VkxKdnBqUURFTEN0Z3JDdno0MU0wSlMzZWotWHlmMXB1aldkUW9tRVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "title_zh": "男子纵火烧特斯拉碰撞中心获刑5年",
-   "zh_summary": "特斯拉碰撞中心纵火案获刑5年",
+   "title_zh": "拉斯维加斯特斯拉纵火犯获刑5年而非20年",
    "sentiment": 0
   },
   {
@@ -258,7 +255,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE45cTdZVm50NlhGWnRqM0x6N2ZzdURlZHJYOUF1NWJLdGlpY3J0YkFBbXpfbmQ5N3JTcUFUUHMzTUxJUERpNnZhdElScDM0SkNHMTQ3bG1jbkRiY2pwMjBMaWFVVVR3blktMHlPcHhxRFZJa1ZJbFFiM3F4WFlnaG9hLURrSFMx",
    "source": "搜狐",
    "published_at": "2026-10-15T00:22:55+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐",
@@ -274,10 +271,16 @@
      "name": "凤凰网",
      "published_at": "2026-10-15T00:32:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZM09Ga2duWnFQYW1RMFpVYlQ1RHA4NDVNamk3d0pReWwwbG1KTkEyV3ZMRG5tLUlRMXJkZjZKbEhvbXJxeV9IOQ"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-15T00:32:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05NVZXTUhRVDZSQnV5R2NCa0luTXdGemszYlhfWE9NNkg2dEZIYWxmV2E4ZlIxX2RvenptUEZZbnM5My1yZFdmREx0ZUs"
     }
    ],
    "category": "分析师",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "巴克莱称特斯拉或与SpaceX年内合并",
    "title_zh": "巴克莱银行分析师：特斯拉、SpaceX合并或在年内官宣 - 搜狐",
    "sentiment": 0
@@ -438,6 +441,31 @@
    "sentiment": -1
   },
   {
+   "id": "52118ddfe95c",
+   "title": "District of Nevada | Las Vegas Man Sentenced to 5 Years in Prison for Tesla Collision Center Arson - Department of Justice (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1rdWhpRzlzNHRudXJTcFBOYVRERmNpUUQxWEw1eGlJWHVjMnRRM3J3SVJmRFFmR0ZxZTVUa1QxWUQ0Z3dDWUhURGs5eHBnRU9mUGVoYk5uSXNaNFBEWlpjdE0yc05jdDBXa2s2a1hQamsyZnpCZzBGakFTc2ZhRzlFbW0xY1F6SVg0WEo2d2paYTFMUVBwWkxOTlR1WnpkelhlTQ",
+   "source": "Department of Justice (.gov)",
+   "published_at": "2026-10-14T23:13:54+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Department of Justice (.gov)",
+     "published_at": "2026-10-14T23:13:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1rdWhpRzlzNHRudXJTcFBOYVRERmNpUUQxWEw1eGlJWHVjMnRRM3J3SVJmRFFmR0ZxZTVUa1QxWUQ0Z3dDWUhURGs5eHBnRU9mUGVoYk5uSXNaNFBEWlpjdE0yc05jdDBXa2s2a1hQamsyZnpCZzBGakFTc2ZhRzlFbW0xY1F6SVg0WEo2d2paYTFMUVBwWkxOTlR1WnpkelhlTQ"
+    },
+    {
+     "name": "FOX5 Vegas",
+     "published_at": "2026-10-15T00:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFIxblVHVlVBVHNabGNsZng2TFhjLTFOWFE3OVZXVVIteFp3UFU2b0lLM0RRQzVzOUxPcUNKRkZzQnprcnNLbW9nOWF3cElKc2FOLWpEM3NUZzJWcEFFNXF4cFdWWldneFpYeE50Uk9WXzFQX3p4VkxKdnBqUURFTEN0Z3JDdno0MU0wSlMzZWotWHlmMXB1aldkUW9tRVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉碰撞中心纵火案获刑5年",
+   "title_zh": "男子纵火烧特斯拉碰撞中心获刑5年",
+   "sentiment": 0
+  },
+  {
    "id": "03d402d15251",
    "title": "特斯拉(TSLA.US)SpaceX(SPCX.US)合并进入倒计时？巴克莱：今年可能官宣，障碍在股东投票提供者智通财经 - 英为财情 Investing.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUW9VbGFrRjQtcV9ieF9xTzRkOVc2M2lxaHNadldtWkhLeTNHWklRS0ViX0M0bUJuYTlGOFFvNFRKa0hnN3BRdU5TbVBVeUpkS19hM1ItLWtOa3EyS0lYX1djVXp2TU40R19aNWM1YXg",
@@ -503,8 +531,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "法官裁定：特斯拉纵火犯入狱5年",
    "zh_summary": "拉斯维加斯特斯拉纵火犯判5年",
+   "title_zh": "法官裁定：特斯拉纵火犯入狱5年",
    "sentiment": 0
   },
   {
@@ -608,8 +636,8 @@
    ],
    "category": "政策监管",
    "session": "盘后",
-   "title_zh": "特斯拉在华销量年降近12%，但仍有一线希望",
    "zh_summary": "特斯拉在华年销量降近12%",
+   "title_zh": "特斯拉在华销量年降近12%，但仍有一线希望",
    "sentiment": -1
   },
   {
@@ -1091,6 +1119,23 @@
    "zh_summary": "中国最佳免手驾驶技术如何与特斯拉竞争",
    "title_zh": "中国最佳免手驾驶技术如何与特斯拉竞争",
    "sentiment": -1
+  },
+  {
+   "id": "0f89ff4d274e",
+   "title": "Forget Becoming the Next Tesla, Lucid Group Stock Has Been a Bottomless Pit - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORldjTmp1Vk83MXY0U1kzVlNWR1BYZGpZZk5mbTUyaGdIWnNHVGtlVkxHYWk0VFFzYkVBUmlNcDVJQ2dSSjB4LUVXSkdab3RCeE9YOUZNWEVoZEJfejlvb05Wd0xidjRwY3BlRGRsekp6UG1HcXN3LS13RWk5N3FseDRPSlpJQmNkR1VwMUU2aEdJY2ZQYlFjcmJVT0FlZw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T18:37:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T18:37:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORldjTmp1Vk83MXY0U1kzVlNWR1BYZGpZZk5mbTUyaGdIWnNHVGtlVkxHYWk0VFFzYkVBUmlNcDVJQ2dSSjB4LUVXSkdab3RCeE9YOUZNWEVoZEJfejlvb05Wd0xidjRwY3BlRGRsekp6UG1HcXN3LS13RWk5N3FseDRPSlpJQmNkR1VwMUU2aEdJY2ZQYlFjcmJVT0FlZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "5daa5e888e9b",
@@ -5046,6 +5091,23 @@
    "sentiment": 1
   },
   {
+   "id": "616da40badaa",
+   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
+   "source": "财联社",
+   "published_at": "2026-10-14T00:19:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-14T00:19:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
    "id": "a2aaff220d93",
    "title": "戴尔、甲骨文直线跳水7%，特斯拉市值蒸发超2800亿元，美股存储芯片下挫，白银暴跌5%，比特币跌破8.3万美元 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5ZmVISTE3VmZxRG9PRHA3dVg2NUsxTGVaczI4cm9rQWRYRjM1OFdnUjhNSmZRb05PWHlTNG9TTWlZZm8taFd4a3JRTjFicWQ4dzdIODl6QTRySG8wRTNKU0F3Zw",
@@ -5845,6 +5907,23 @@
    "sentiment": -1
   },
   {
+   "id": "b234c27e48b9",
+   "title": "特斯拉Cybercab奥斯汀上路，博主称十年努力终成现实 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaDZpblk5VTdiaWtSTDh6eEVFbHJCYnlJeFgxenVCMl82UEVsQThIWEkxOXJMMGt1S2ZQZ01YOGdGQWNiSHNZa2RtWFJKYkR2RlgyRzRkSnE0YXBBQ1JIeFluNldWeG5XUGtjM3FHaVg4c0xZRk90a0J4TDM2MEJTRg",
+   "source": "新浪网",
+   "published_at": "2026-10-13T17:08:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T17:08:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaDZpblk5VTdiaWtSTDh6eEVFbHJCYnlJeFgxenVCMl82UEVsQThIWEkxOXJMMGt1S2ZQZ01YOGdGQWNiSHNZa2RtWFJKYkR2RlgyRzRkSnE0YXBBQ1JIeFluNldWeG5XUGtjM3FHaVg4c0xZRk90a0J4TDM2MEJTRg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "96a5707409bc",
    "title": "Tesla Drops \"Full Self-Driving\" Name After Pressure From Regulators - Autoguide.com",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFo5cHNZRmpWMFBYaFlkLUhTZzMwVG5pVW8xaWNaTlRHWFBseTlHVnllQUN4VTJSWUNlbkl0eEFrM0pnazBZZ0Rmdk9iNWRLVFhUSzJTQ0otZXdKUGk2VWhNZmZyRWJ6T3JaaUFuTzY1eHFnNC1aN1ZNV2w4Ulpwal85anFkTG1iazhoUEJZbGxhRGZyWDdNRnRjQmlVSENldzJISXNJQUEtVTBDVktoYTR1b2EwYzQyVW5aWDdhc0dNXzV5bGpmRTZkTy1wbzl5OWxaR1dn",
@@ -6416,86 +6495,6 @@
    "zh_summary": "专家绘制特斯拉涨至2000美元路径",
    "title_zh": "专家描绘特斯拉通往2000美元新高的路径",
    "sentiment": 1
-  },
-  {
-   "id": "ff8d0e27c527",
-   "title": "Electric Trucks: The REALITY for Tesla Semi & Volvo Fleets - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOTN2RjMtb3Jqc2RHc3h5a1dlcTZuNVJEeXZBRkgzLVlTNFZGYy1kM3BTUWxyLTI0aTBqWGV4ZXEwU2tFeFFfeXRRTm1VcUt3MGF0MnZVM1JuSHVkVC11NDRlQjRFN1A1NHNYdUdFMy1ObjV6LW5HcnloVzhsZy1EU1Y4MUR1MDdaQ3lmdzg2aWdiMkhyUFE",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T14:35:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T14:35:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOTN2RjMtb3Jqc2RHc3h5a1dlcTZuNVJEeXZBRkgzLVlTNFZGYy1kM3BTUWxyLTI0aTBqWGV4ZXEwU2tFeFFfeXRRTm1VcUt3MGF0MnZVM1JuSHVkVC11NDRlQjRFN1A1NHNYdUdFMy1ObjV6LW5HcnloVzhsZy1EU1Y4MUR1MDdaQ3lmdzg2aWdiMkhyUFE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "电动卡车：特斯拉Semi车队现状",
-   "title_zh": "电动卡车：特斯拉Semi与沃尔沃车队的现实",
-   "sentiment": 0
-  },
-  {
-   "id": "66fd3194d730",
-   "title": "Tesla to pause Canadian sales of cheaper Chinese Model 3s - Driving",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1JVZFhKMk43YjRZeHZrdU1ocldraTQ5N2hYMUFrTG1DalB3LXlPYTg4dk54X2RjZS1CUGh0YW1MaG4wNEx4a0RqUVk1ZHNlUDVPLVZVNC0yOFVNSFRFMW14UTFpWDVDY3VoRi1kNEdQTEtmVXU1OU82ak1QN3drNlZHaW45ZEpNYjFTRnUtaUVabk5DcHpocEtB",
-   "source": "Driving",
-   "published_at": "2026-10-13T14:32:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Driving",
-     "published_at": "2026-10-13T14:32:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1JVZFhKMk43YjRZeHZrdU1ocldraTQ5N2hYMUFrTG1DalB3LXlPYTg4dk54X2RjZS1CUGh0YW1MaG4wNEx4a0RqUVk1ZHNlUDVPLVZVNC0yOFVNSFRFMW14UTFpWDVDY3VoRi1kNEdQTEtmVXU1OU82ak1QN3drNlZHaW45ZEpNYjFTRnUtaUVabk5DcHpocEtB"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉加拿大暂停销售中国产Model 3",
-   "title_zh": "特斯拉暂停在加拿大销售较便宜的中国产 Model 3",
-   "sentiment": -1
-  },
-  {
-   "id": "b4f206e0dbcb",
-   "title": "TSLA Stock: Elon Musk Exercises 2018 Stock Options Award, Boosts Stake In EV Giant - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz",
-   "source": "Stocktwits",
-   "published_at": "2026-10-13T14:25:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-13T14:25:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGxzTEx6YWhWWkFZTGk5Z2FGbl9pRUxhenpNZ3lXRHE5VDUzN2pQWjBRNG03djh2QWxYOGgzZllRSHhNak1qWXUxOHZaMzBkMWtxMjBUMjFxTDN3andsRlE5WWptWjNMSEZxSlRISjF3cXJwdFpWQXN1RE1oUFp6bGtGSWR0c1hYYzNTQ0phWWZHVmdEQWhrVTdKQ1JBUVdrbDZrbjhocDFEWndZdVBqRVR6X3hfWDNZTkRqWGdhMmU0OXUzQjdNTlh2OFRaMXlucnljazhiYjY2YWZz"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克行使2018年期权，增持特斯拉",
-   "title_zh": "TSLA：马斯克行使2018年期权奖励，增持公司股份",
-   "sentiment": 1
-  },
-  {
-   "id": "5611d2c3719d",
-   "title": "Tesla Expected To Launch IFTTT-Style Automations in North America and Europe With the Holiday Update - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa1F3UE56NDhkcXo4Zm1aZmM4NExpeGh3anNRaXppNWhxV1J4WmE1M2tEb2c0b0pNalpWbG94aVlnaXdsQVdheTRTUDhRS0lzN3o4WmdHc2I1aHdjMmd6WW1VS25VVkVaT3JFblRERUF0d3NTTXc2Rmk1bldzeXRic2lBSndNZThJZ19KSjQ0UFcxV2c5R0ZKRWZyOUxVSUR3Q1hLVTdRampxaExyak1xTTdIUkowVS0tMGNMSGE3b2RrYmthSjR4SGZKZUlQU1FET3NhQjZsX2pQSGIwNEhPZA",
-   "source": "autoevolution",
-   "published_at": "2026-10-13T14:24:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-13T14:24:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa1F3UE56NDhkcXo4Zm1aZmM4NExpeGh3anNRaXppNWhxV1J4WmE1M2tEb2c0b0pNalpWbG94aVlnaXdsQVdheTRTUDhRS0lzN3o4WmdHc2I1aHdjMmd6WW1VS25VVkVaT3JFblRERUF0d3NTTXc2Rmk1bldzeXRic2lBSndNZThJZ19KSjQ0UFcxV2c5R0ZKRWZyOUxVSUR3Q1hLVTdRampxaExyak1xTTdIUkowVS0tMGNMSGE3b2RrYmthSjR4SGZKZUlQU1FET3NhQjZsX2pQSGIwNEhPZA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "假日更新或推IFTTT式自动化",
-   "title_zh": "特斯拉假日更新或在北美欧洲推出类IFTTT自动化功能",
-   "sentiment": 0
   }
  ]
 }
