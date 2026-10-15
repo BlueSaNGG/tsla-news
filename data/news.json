@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T16:22:38.036838+00:00",
+ "updated_at": "2026-10-15T16:37:33.032732+00:00",
  "market": {
-  "price": 360.7,
-  "change_pct": -1.76,
+  "price": 359.7,
+  "change_pct": -2.03,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 33% 分位"
+     "note": "现价处于52周区间 32% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.9%"
+     "note": "目标价中位数 $400（16家），隐含空间 +11.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（127条已评分）"
+     "note": "今日新闻情绪 +0.22（129条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $360.70 vs 20日均线 $370.72"
+     "note": "现价 $359.70 vs 20日均线 $370.67"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 33,
+   "price_52w_pct": 32,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.9,
-   "ma20": 370.72,
-   "as_of": "2026-10-15T16:22:38.022453+00:00"
+   "implied_upside_pct": 11.2,
+   "ma20": 370.67,
+   "as_of": "2026-10-15T16:37:33.021049+00:00"
   },
-  "pe_ttm": 99.8,
+  "pe_ttm": 99.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+11.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 127
+   "avg": 0.22,
+   "count": 129
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0ee92b572570",
+   "title": "老车主集体过年！2017年的特斯拉Model S/X喜提FSD V14 Lite - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85TDl0TkNMTHdxMklFdUl2M2dXY2FXM05sZDhBUExGaUFuenFWR00tcEZhNnJ2SW5DZTBqWl9Zc3Zsb21lanpfb1BweVY1bG9CS2RNZHN6YmI",
+   "source": "驱动之家",
+   "published_at": "2026-10-15T16:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-15T16:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85TDl0TkNMTHdxMklFdUl2M2dXY2FXM05sZDhBUExGaUFuenFWR00tcEZhNnJ2SW5DZTBqWl9Zc3Zsb21lanpfb1BweVY1bG9CS2RNZHN6YmI"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "4b3ca2e1bcc4",
    "title": "Tesla Stock Is Down Nearly 20% This Year. Is it a Buy Ahead of Earnings? - Morningstar",
@@ -158,12 +175,17 @@
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmx0V3NfUVRsR1ZSRUsxeVBFWXo1UVYyckhlZXFyZmJTYVFubENReUhUMk0yMklkUUc5WkV0YlJiN0NuTkY3aDBCWkswRjNUVFhaRkZJaUVxMmR1UHk5eEdHeDdPYmxNQ0dxMFJIVV9yRWdtNFJ4STNpNVc0RDJTTUhNRUhGTTkyVm1NYlVoYXBsaUlvd3JLUlRtMDRwaVJJQ21RV1VvcVhjc0U5TmVVVmJpeW53TE9aTDVGSlp3QVQySVlvbnBNMlNPdW1paW1sb1FFaWRaYXRsamZQR1JSSA",
    "source": "Yahoo Finance",
    "published_at": "2026-10-15T15:57:10+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-15T15:57:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmx0V3NfUVRsR1ZSRUsxeVBFWXo1UVYyckhlZXFyZmJTYVFubENReUhUMk0yMklkUUc5WkV0YlJiN0NuTkY3aDBCWkswRjNUVFhaRkZJaUVxMmR1UHk5eEdHeDdPYmxNQ0dxMFJIVV9yRWdtNFJ4STNpNVc0RDJTTUhNRUhGTTkyVm1NYlVoYXBsaUlvd3JLUlRtMDRwaVJJQ21RV1VvcVhjc0U5TmVVVmJpeW53TE9aTDVGSlp3QVQySVlvbnBNMlNPdW1paW1sb1FFaWRaYXRsamZQR1JSSA"
+    },
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-15T15:57:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnp1T0FhcGxxSUVvc3dSYkhkQWVHZ0xENTdGUGNnWU44ZmNuOHg2NGZ2THNNeXFmX3drRTd4U3p3cjJTWVJzeXRpc3N6dGwzNk5xRVd1NUJLSk9qdm1LQmtieHd2Y2ZRd1NqdnppdEdvM2M5aDFYYUc2T1lWaGF5ZFJZVE9OU1lsQXhSRUlsNXFhb1h6LWJVeWxBUklMRi1HVVQwRVFRTTdONW9Td2NlTGJ2alNkWjhfUWJQVHpRT1NPLTBlSkY0aXNBZWFCUTNrSGxYeVF3"
     }
    ],
    "category": "其他",
@@ -211,26 +233,6 @@
    "zh_summary": "特斯拉Roadster发布会定于美东晚9点",
    "title_zh": "特斯拉Roadster发布会定于美东晚9点",
    "sentiment": 1
-  },
-  {
-   "id": "57d29ff24ef3",
-   "title": "Exclusive | An Ex-Tesla Executive Is Steering Uber Freight’s Turnaround - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA",
-   "source": "WSJ",
-   "published_at": "2026-10-15T15:48:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-15T15:48:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVU3ZE1wUEtHZlZzUTA1WEVuaGt1ZE1IYXlhVm9KOU55X0MtY3VVQ0kzb2FyWXhMcEN3ZWhXUVF2UG5tcTY3LUxhNWpOclI3WFFrQjlheW1lMUdBQnFCNTdpbU9KVmpmQ3A2eVdsa25vSmN0anY2X2NZalJfbkpFdHZQMG0zUzhNNjFLTWp2a1BjUkZKdHduaW9lMEVSdXBNX0VuY0hXMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉前高管主导Uber Freight扭亏",
-   "title_zh": "独家：特斯拉前高管正主导Uber Freight扭亏",
-   "sentiment": 0
   },
   {
    "id": "2a0019b304ef",
@@ -601,6 +603,23 @@
    "zh_summary": "预测市场看好Roadster今晚发布",
    "title_zh": "特斯拉Roadster今晚会发布吗？预测市场认为可能性大",
    "sentiment": 1
+  },
+  {
+   "id": "1970253e9269",
+   "title": "What's causing the latest AI stock sell-off? Plus, TSMC earnings and Tesla's new Roadster - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbE5OZEtScjlfbnhMNEo1TjVSVlhJQmx3ZkJWUFVVNXN6Ulg5UXFlOWZreEhJbHBjLVN2ZkExZjBxS2hSdzhGd3A0dEw0U2VNS2VjQTBteUthNHlMbGRUWnlhenlXN3J0cm42VlVRZzgzT0xESWJGbFlBbnRuNTZZb1lEV3p2elNzQ25iZ0ZsN0VobHFQRTJJOXpRU2JPdnVNOUhRVHBPYU1saTR6RXpiVVY1WjFPOTFvN1gteFRiYVVlWUlUWXcwSmtwRnE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T14:09:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T14:09:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbE5OZEtScjlfbnhMNEo1TjVSVlhJQmx3ZkJWUFVVNXN6Ulg5UXFlOWZreEhJbHBjLVN2ZkExZjBxS2hSdzhGd3A0dEw0U2VNS2VjQTBteUthNHlMbGRUWnlhenlXN3J0cm42VlVRZzgzT0xESWJGbFlBbnRuNTZZb1lEV3p2elNzQ25iZ0ZsN0VobHFQRTJJOXpRU2JPdnVNOUhRVHBPYU1saTR6RXpiVVY1WjFPOTFvN1gteFRiYVVlWUlUWXcwSmtwRnE"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "ccb76163ed20",
@@ -2493,31 +2512,6 @@
    "sentiment": 0
   },
   {
-   "id": "fe4abac062ea",
-   "title": "Elon Musk Sees SpaceX Topping $100 Trillion In Under 10 Years — Retail Eyes Tesla Merger Reveal At Roadster Event - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkdZdlo5ZXE4cXh1RWN0LTVUbTBoclZKaG9DRDVqdVMxMUpEZFlUV09BU0toVm0yRUxWODZsXzEyZmxoNzBjZXF4N0ZPMlZQczE4c3htenAwUXdTaUF2WkxnU01FMjVXOGFmRkU1S3JqWlpuUnBPNjg4aVBJR3k4bW1QTWRZX2VlSDl4U3hNMzlTRzlGVUZaWWNn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-15T07:34:01+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T07:34:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkdZdlo5ZXE4cXh1RWN0LTVUbTBoclZKaG9DRDVqdVMxMUpEZFlUV09BU0toVm0yRUxWODZsXzEyZmxoNzBjZXF4N0ZPMlZQczE4c3htenAwUXdTaUF2WkxnU01FMjVXOGFmRkU1S3JqWlpuUnBPNjg4aVBJR3k4bW1QTWRZX2VlSDl4U3hNMzlTRzlGVUZaWWNn"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-15T07:34:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZXZnNUcxUGNyYTRrR0NZajlyYXhvR2x4bFpLUTFxeTNQOWx2QzF5ajVZWjN3cGVHcFBHWDVXOWFiVjF5M0FheUZJeVBoMTRtV2psYjMtd2FVRWNjM1E2UnZYbUhPaG1kNEFGdzB5ZGpxOHYteGlua2MwbmJrYzFsOUpFRW5TbjdZWkdlcFFCVmNvM29zTWNOeF9HRS10UzJtWEhvRWtxWE90YWI3bUt5bXI0amxVM1RHSUtnT0JHMk55eXcwWU9FcW1Qdkx5UWJ6LWFhdW10b2kzTWtka1lQYjZUYzlWX3RidTVXWXdqSkYySGN0WkJXczhnRFliMmkw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "传特斯拉与SpaceX合并揭晓在即",
-   "title_zh": "马斯克称SpaceX十年或达百万亿美元，传Roadster发布会揭晓合并",
-   "sentiment": 1
-  },
-  {
    "id": "6687464755cb",
    "title": "【网通社快报】特斯拉儿童平衡车上线官网，售价1399元 - 凤凰网",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HbGlPNHZ5aGFKd0NPcjFpclBXaGIxMUdOdHdvYkYyLWpKVmphOTFoRk5xTXg3NXlWSElnZzRjSWIzLVNfUHc3V0lJY1I",
@@ -2886,6 +2880,40 @@
    "zh_summary": "特斯拉与Sunrun向加州电网供电745兆瓦创纪录",
    "title_zh": "特斯拉与Sunrun创纪录向加州电网供应745兆瓦",
    "sentiment": 1
+  },
+  {
+   "id": "fe4abac062ea",
+   "title": "Elon Musk Sees SpaceX Topping $100 Trillion In Under 10 Years — Retail Eyes Tesla Merger Reveal At Roadster Event - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNnQ0N2drN0dvZHd4cUpxOUZQX1Q1bGpJaEk1NmVwc1hRUHRzZkdzdnBfZlp3enVHTElWWFBCWWF1TWhtcXc0NVRIb3J3NVBRc1hzOHFhNDloSjZJa1pfNWFWdlNfME5CRF9lM1VNMXNsS2p6U0M0eTQ4MklGZDZCN3hxYnN1UnZYODFsSUZaeGxMNGNNWXR6SThNbE83LTR0dVk5Sm9FaTZpYUJtbS0xSGRCUGNZSS13TmxiaDZzM2E1V2JSU0JQRS1TWXJGdktod0hKNldfME9FVGQ1aVQ5YlpGT0s",
+   "source": "Stocktwits",
+   "published_at": "2026-10-15T04:35:49+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-15T04:35:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNnQ0N2drN0dvZHd4cUpxOUZQX1Q1bGpJaEk1NmVwc1hRUHRzZkdzdnBfZlp3enVHTElWWFBCWWF1TWhtcXc0NVRIb3J3NVBRc1hzOHFhNDloSjZJa1pfNWFWdlNfME5CRF9lM1VNMXNsS2p6U0M0eTQ4MklGZDZCN3hxYnN1UnZYODFsSUZaeGxMNGNNWXR6SThNbE83LTR0dVk5Sm9FaTZpYUJtbS0xSGRCUGNZSS13TmxiaDZzM2E1V2JSU0JQRS1TWXJGdktod0hKNldfME9FVGQ1aVQ5YlpGT0s"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T07:34:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkdZdlo5ZXE4cXh1RWN0LTVUbTBoclZKaG9DRDVqdVMxMUpEZFlUV09BU0toVm0yRUxWODZsXzEyZmxoNzBjZXF4N0ZPMlZQczE4c3htenAwUXdTaUF2WkxnU01FMjVXOGFmRkU1S3JqWlpuUnBPNjg4aVBJR3k4bW1QTWRZX2VlSDl4U3hNMzlTRzlGVUZaWWNn"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-15T07:34:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZXZnNUcxUGNyYTRrR0NZajlyYXhvR2x4bFpLUTFxeTNQOWx2QzF5ajVZWjN3cGVHcFBHWDVXOWFiVjF5M0FheUZJeVBoMTRtV2psYjMtd2FVRWNjM1E2UnZYbUhPaG1kNEFGdzB5ZGpxOHYteGlua2MwbmJrYzFsOUpFRW5TbjdZWkdlcFFCVmNvM29zTWNOeF9HRS10UzJtWEhvRWtxWE90YWI3bUt5bXI0amxVM1RHSUtnT0JHMk55eXcwWU9FcW1Qdkx5UWJ6LWFhdW10b2kzTWtka1lQYjZUYzlWX3RidTVXWXdqSkYySGN0WkJXczhnRFliMmkw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后",
+   "zh_summary": "传特斯拉与SpaceX合并揭晓在即",
+   "title_zh": "马斯克称SpaceX十年或达百万亿美元，传Roadster发布会揭晓合并",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 1.3,
+    "window_h": 2.0
+   }
   },
   {
    "id": "061136fbf5bd",
@@ -6553,26 +6581,6 @@
    "zh_summary": "马斯克称特斯拉在芯片制造上仍需学习",
    "title_zh": "奥斯汀粉丝活动上马斯克称特斯拉芯片制造仍需学习",
    "sentiment": 0
-  },
-  {
-   "id": "876daa22f168",
-   "title": "Tesla Swears It'll Livestream The New Roadster's Reveal On October 15 - Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQ1V4dThXeGdNUzJvczJWendwRTlBM3c4ZTVNei05TW1tcENHaUEyLU9HeFozYUphMGo4QVg3RUNxZnFXX1hfZ1lrR2czaFR3WVY2N010cTVGaGpIa1hheTlMdzhyUFJOeDFDbm5YLXZidTA",
-   "source": "Motor1.com",
-   "published_at": "2026-10-14T10:55:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Motor1.com",
-     "published_at": "2026-10-14T10:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQ1V4dThXeGdNUzJvczJWendwRTlBM3c4ZTVNei05TW1tcENHaUEyLU9HeFozYUphMGo4QVg3RUNxZnFXX1hfZ1lrR2czaFR3WVY2N010cTVGaGpIa1hheTlMdzhyUFJOeDFDbm5YLXZidTA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉10月15日直播发布新款Roadster",
-   "title_zh": "特斯拉10月15日将直播发布新款Roadster",
-   "sentiment": 1
   }
  ]
 }
