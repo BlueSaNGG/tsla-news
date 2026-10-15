@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T05:52:31.974183+00:00",
+ "updated_at": "2026-10-15T06:07:30.464697+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（2条已评分）"
+     "note": "今日新闻情绪 +0.50（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T05:52:31.962733+00:00"
+   "as_of": "2026-10-15T06:07:30.452640+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 2
+   "avg": 0.5,
+   "count": 4
   }
  },
  "meta": {
@@ -86,6 +86,23 @@
    "zh_summary": "TSLA盘前走低，马斯克预告Roadster演示",
    "title_zh": "TSLA盘前下跌，Roadster发布会前马斯克称史上最伟大演示",
    "sentiment": -1
+  },
+  {
+   "id": "af6490b360ff",
+   "title": "特斯拉Model 3全系升级16英寸触摸屏 并新增内饰配色 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGdFNS1MTXNySmlsMHA5RWI0ZzFzeUxSakpXOGU4SkxsN3VrNGJQSHV0ZVpodWk1aG9JT2xkU1FtYXlMdHVkNkk4SmFpTGxBN2hKaUU5SWVtNXdRWWluWFk2OEdzZG1CUHRIUGNrcGViRVFCUUdKSm9yTlNzNTcwbWJ3NXkxSDdU",
+   "source": "搜狐",
+   "published_at": "2026-10-15T05:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T05:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGdFNS1MTXNySmlsMHA5RWI0ZzFzeUxSakpXOGU4SkxsN3VrNGJQSHV0ZVpodWk1aG9JT2xkU1FtYXlMdHVkNkk4SmFpTGxBN2hKaUU5SWVtNXdRWWluWFk2OEdzZG1CUHRIUGNrcGViRVFCUUdKSm9yTlNzNTcwbWJ3NXkxSDdU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "c4b8ade578ea",
@@ -6506,26 +6523,6 @@
    "zh_summary": "分析师因250亿美元支出下调特斯拉目标价",
    "title_zh": "分析师因$25亿美元支出失控下调特斯拉目标价",
    "sentiment": -1
-  },
-  {
-   "id": "6e3f852174a1",
-   "title": "Tesla, Inc. $TSLA Stock Sold by McCollum Christoferson Group LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWJPaTR3OVlOX1ByMUZJVDlEby12SHk1Vjh6VFBOWGlDUEphaWtJMk5uTlA1WEhmRzJrTnB0T28wZll0SzExVkRwMWg2T3NKSWVlRHBNZ0NIRkt0QnpreDdTaVJZU2ZsQjQ2RUgwVFQzME9Kb1BOcWZKOW9LbGZjOERBek9kY2EzS0hIQno0TDdRR0NKUFZJTXhUX1BrUDNUWGc1X01JTV9TSk93eTVUSmV6S2ZoaG1MaEVmWGs4NA",
-   "source": "MarketBeat",
-   "published_at": "2026-10-13T17:28:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-13T17:28:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWJPaTR3OVlOX1ByMUZJVDlEby12SHk1Vjh6VFBOWGlDUEphaWtJMk5uTlA1WEhmRzJrTnB0T28wZll0SzExVkRwMWg2T3NKSWVlRHBNZ0NIRkt0QnpreDdTaVJZU2ZsQjQ2RUgwVFQzME9Kb1BOcWZKOW9LbGZjOERBek9kY2EzS0hIQno0TDdRR0NKUFZJTXhUX1BrUDNUWGc1X01JTV9TSk93eTVUSmV6S2ZoaG1MaEVmWGs4NA"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "Christoferson减持特斯拉股票",
-   "title_zh": "McCollum Christoferson Group减持特斯拉股票",
-   "sentiment": 0
   }
  ]
 }
