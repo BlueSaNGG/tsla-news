@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T11:22:28.194025+00:00",
+ "updated_at": "2026-10-15T11:37:30.666334+00:00",
  "market": {
   "price": 367.16,
   "change_pct": -2.15,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（52条已评分）"
+     "note": "今日新闻情绪 +0.44（54条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.9,
    "ma20": 371.0,
-   "as_of": "2026-10-15T11:22:28.186921+00:00"
+   "as_of": "2026-10-15T11:37:30.657280+00:00"
   },
   "pe_ttm": 101.5,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.44,
-   "count": 52
+   "count": 54
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6c50d6982cd5",
+   "title": "Tesla to Unveil Roadster After Nine Years of Delays - CEO Today",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemcwb0NDYW8zNHVtOTgzRVU2aHdFQS1tMktScXBYQ1plYkVzTFNxU1BDYmZhVWFBa1pPTVlRanM2LU5FRVBIcTRMYzUtNGJtZ25FMUVkaXZkdUNMYXFaRnVpdWQwX2ZNVUFUTXJEMFN0LW5hYXVfZzdjc04zQzhqbEphcmI2Tk4tMExUNVVfUHpUNDhHY09KazdOc3hfVHV2TVBqOGhQTnEtOU0",
+   "source": "CEO Today",
+   "published_at": "2026-10-15T11:34:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CEO Today",
+     "published_at": "2026-10-15T11:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemcwb0NDYW8zNHVtOTgzRVU2aHdFQS1tMktScXBYQ1plYkVzTFNxU1BDYmZhVWFBa1pPTVlRanM2LU5FRVBIcTRMYzUtNGJtZ25FMUVkaXZkdUNMYXFaRnVpdWQwX2ZNVUFUTXJEMFN0LW5hYXVfZzdjc04zQzhqbEphcmI2Tk4tMExUNVVfUHpUNDhHY09KazdOc3hfVHV2TVBqOGhQTnEtOU0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "8e4b679e05f8",
+   "title": "When Can You Buy a Tesla Cybercab? Investors Press Elon Musk on Robotaxis, HW3 FSD and More Ahead of TSLA - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYVN0dGlTZkVkbEtFVmZWeGNmU1dGcnB2TEk5bGIxQzZWMzFRbzlMX1VBdVdxMHFOTVpLR0QyR0xUclI5bVg0cnEwQ1JHal9LbkdobHBpOGYxdzh5Z0hmTzV2WG5obGprVHQzdi1lSVVlOVdhTEp2bmJmTEZEZHNZMUFOaHpBTjFrSTBsZUdiWWVGbVhESENoTTc1TDdVRktxU2p2WHllMEJ5WGM4YnpOOU04RTJOd09oSXF6SGlic0Y2SWJpdFBhdlNFeHV2ZnRNaHhfZndRYy1rZGJiVWRjSmdmWm5kUTJRNUZpaE9maTc4TUlKaEMwUjZReGktUQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-15T11:27:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-15T11:27:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYVN0dGlTZkVkbEtFVmZWeGNmU1dGcnB2TEk5bGIxQzZWMzFRbzlMX1VBdVdxMHFOTVpLR0QyR0xUclI5bVg0cnEwQ1JHal9LbkdobHBpOGYxdzh5Z0hmTzV2WG5obGprVHQzdi1lSVVlOVdhTEp2bmJmTEZEZHNZMUFOaHpBTjFrSTBsZUdiWWVGbVhESENoTTc1TDdVRktxU2p2WHllMEJ5WGM4YnpOOU04RTJOd09oSXF6SGlic0Y2SWJpdFBhdlNFeHV2ZnRNaHhfZndRYy1rZGJiVWRjSmdmWm5kUTJRNUZpaE9maTc4TUlKaEMwUjZReGktUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "faeb76d49c08",
    "title": "【视频】恪守第一性原则，细节考量由内而外二次试驾特斯拉Model Y+ - 汽车之家",
@@ -86,31 +120,6 @@
    "zh_summary": "二次试驾特斯拉Model Y+视频",
    "title_zh": "【视频】恪守第一性原则，细节考量由内而外二次试驾特斯拉Model Y+ - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "094a3a15fe13",
-   "title": "老车主狂喜！特斯拉给9年老车升级智驾，马斯克“打脸”自己 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTdsaW5GaGstOC1SX0dxbklLelMwWGtpV0toNHUxSmtoUEEzWnJOeU1sQW9nOFVyQ1NhbjNXLTh0WEJ0bG90RVZlM3NpZWJCQ0dFVS1UcXZ4NGM1aHJ3b19Ta21pdTQ4Z0QwRVA4OXFSN1BjWFZYQmxGNkZKN1poMFlGM3N5Q3A0",
-   "source": "搜狐",
-   "published_at": "2026-10-15T11:10:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T11:10:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTdsaW5GaGstOC1SX0dxbklLelMwWGtpV0toNHUxSmtoUEEzWnJOeU1sQW9nOFVyQ1NhbjNXLTh0WEJ0bG90RVZlM3NpZWJCQ0dFVS1UcXZ4NGM1aHJ3b19Ta21pdTQ4Z0QwRVA4OXFSN1BjWFZYQmxGNkZKN1poMFlGM3N5Q3A0"
-    },
-    {
-     "name": "车东西",
-     "published_at": "2026-10-15T11:21:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xLXVjNllKVUx2VVBkY1pYWTE0d0xFbVRaRGEydkJXbTFuMk1xaVduTllRVnNNNE1jVXdNaTgtaDc3ZzM3RENQQ2xmdw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "特斯拉为9年老车主升级智驾功能",
-   "title_zh": "老车主狂喜！特斯拉给9年老车升级智驾，马斯克“打脸”自己 - 搜狐",
-   "sentiment": 1
   },
   {
    "id": "91c45cf27611",
@@ -320,6 +329,36 @@
    "session": "盘前",
    "zh_summary": "马斯克称Roadster或为史上最伟大产品演示",
    "title_zh": "马斯克称特斯拉Roadster或是有史以来最伟大的产品演示",
+   "sentiment": 1
+  },
+  {
+   "id": "094a3a15fe13",
+   "title": "老车主狂喜！特斯拉给9年老车升级智驾，马斯克“打脸”自己 - 凤凰网汽车",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xWFV3Tl8ySEE0aE9pNTc1Z0tOcUpTMHd4V0t0MUxvb3RxZ0N4Z01tb2Y2WDJPLVB0VkRXVlZLTjhocm45UFBESklFRlU",
+   "source": "凤凰网汽车",
+   "published_at": "2026-10-15T09:02:04+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-15T09:02:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xWFV3Tl8ySEE0aE9pNTc1Z0tOcUpTMHd4V0t0MUxvb3RxZ0N4Z01tb2Y2WDJPLVB0VkRXVlZLTjhocm45UFBESklFRlU"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T11:10:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTdsaW5GaGstOC1SX0dxbklLelMwWGtpV0toNHUxSmtoUEEzWnJOeU1sQW9nOFVyQ1NhbjNXLTh0WEJ0bG90RVZlM3NpZWJCQ0dFVS1UcXZ4NGM1aHJ3b19Ta21pdTQ4Z0QwRVA4OXFSN1BjWFZYQmxGNkZKN1poMFlGM3N5Q3A0"
+    },
+    {
+     "name": "车东西",
+     "published_at": "2026-10-15T11:21:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xLXVjNllKVUx2VVBkY1pYWTE0d0xFbVRaRGEydkJXbTFuMk1xaVduTllRVnNNNE1jVXdNaTgtaDc3ZzM3RENQQ2xmdw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前",
+   "zh_summary": "特斯拉为9年老车主升级智驾功能",
+   "title_zh": "老车主狂喜！特斯拉给9年老车升级智驾，马斯克“打脸”自己 - 搜狐",
    "sentiment": 1
   },
   {
@@ -1568,7 +1607,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUl83Vmp3enk2TlQ1ZVBOWUlYTlJNcXBrZjd2Wmgxam5pcEw0b3RwRkxjc2xJb3E4aEFwS1dPNExHZUs1elM2SzdfVlNuSEt3Q2xweVJsSVJ2SnNSak5qMFI2RVFRZGE3VHJNeU92RU1zUE9oZE1aczV3U2RDZ3dSNGZQQXpkM3JX",
    "source": "搜狐",
    "published_at": "2026-10-15T01:12:02+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -1579,6 +1618,11 @@
      "name": "新浪网",
      "published_at": "2026-10-15T01:37:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zUkRJbWdfOG9wS084c0tQLU1XVTRMb3o0MXp1OEszcjl4b2RhQmQ3T2JxcGRQY0phX2lZUEtXbVp1WE5Wa0xtd1pyRXRCbGNHMjV4TFMxNkV2Wjg1djV5V1ZCbUNFc1RRai1xblJLeDFqS0tQdW1SOGxRWVYzUQ"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T11:27:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLekJNR1hHSWY4d05IYkZfcFVCMGd3SjY4cjhWZ2tmMHJPWFZRMS01T1NHZ0huUTktMjl4R3YtdE1nSU9KdmtjUHVqbFRMbm55OWMtNzlTOEliWFk"
     }
    ],
    "category": "车型产品",
@@ -6489,80 +6533,6 @@
    "zh_summary": "摩托车手在特斯拉事故中丧生",
    "title_zh": "摩托车手在特斯拉事故中身亡 系奥克兰市雇员",
    "sentiment": -1
-  },
-  {
-   "id": "ae2ffced57fc",
-   "title": "【网通社快报】特斯拉正在开发Cybercab乘客行程中查看侧后方摄像头画面功能 - 凤凰网汽车",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MaWRUOHAweGdPRk5CbnFGUGM1eW0wTWg1TTZKZDFiNmRzTDJzSzNNU0REMDdFVUFiaEd2T3lMVnk5MUZUcV81Y0ZWc1Q",
-   "source": "凤凰网汽车",
-   "published_at": "2026-10-14T01:45:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-14T01:45:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MaWRUOHAweGdPRk5CbnFGUGM1eW0wTWg1TTZKZDFiNmRzTDJzSzNNU0REMDdFVUFiaEd2T3lMVnk5MUZUcV81Y0ZWc1Q"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-14T01:45:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MaWRUOHAweGdPRk5CbnFGUGM1eW0wTWg1TTZKZDFiNmRzTDJzSzNNU0REMDdFVUFiaEd2T3lMVnk5MUZUcV81Y0ZWc1Q"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉Cybercab开发侧后摄像头查看功能",
-   "title_zh": "【网通社快报】特斯拉正在开发Cybercab乘客行程中查看侧后方摄像头画面功能 - 凤凰网汽车",
-   "sentiment": 0
-  },
-  {
-   "id": "d4ac53dce64a",
-   "title": "坐无后视镜的特斯拉Cybercab心里发慌？未来乘客行程中可随时查看侧、后摄像头画面 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUozX051Q09YOHMtMzVJdXRQN3Q1dHdYX0kyTkVkdC1wQmxFMHZpRGt6YkYycUF4SW5odWgyZXZzcTJzQTFpZE9jdm5zT2RoZTQwUU4xN2VrWXd4OHNoRksteDlFYmhFZF9aNHJpMjdleHQxUy16b24wbGgzMVdZOUFBVDRtOVJj",
-   "source": "搜狐",
-   "published_at": "2026-10-14T01:36:05+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-14T01:36:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUozX051Q09YOHMtMzVJdXRQN3Q1dHdYX0kyTkVkdC1wQmxFMHZpRGt6YkYycUF4SW5odWgyZXZzcTJzQTFpZE9jdm5zT2RoZTQwUU4xN2VrWXd4OHNoRksteDlFYmhFZF9aNHJpMjdleHQxUy16b24wbGgzMVdZOUFBVDRtOVJj"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-14T02:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DblhDTjdKaUp6RzMxdG16eXJhUWNRYjN3UEdGQmxnZnliQlJta3UyYlVDNzE1RW9TbWI5R1hiYjVhLTB0T2tRWFYyR1oyMWIxWWNwQW9lc294VGdnVnVwbVE3TldWSjN6b3pkUTl1dXROQXhzM3dFLUltNHJZd3M"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-14T01:52:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tVE5DQ2w1TlBBX0ppWGg2OGZHWm13SUtKVnAtWmxPQzJ5UWR0WnkzSnl0Ym1JOWJrTnNaWmR2UmJPcEdycnA5eGNTRzk"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-14T03:08:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVllCeXllUGljMFJOd2JhZWFha1dwcHdBb2R3anBhQVRRYTg2bDBWY2Y5OHJlc3RwTzR2UUh4ZWozczk5akt1LW5JYkZQZHE1MEptS3RnbF9GeVk"
-    },
-    {
-     "name": "金融界",
-     "published_at": "2026-10-14T01:47:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WVUFObmc3RG5HTnNOTU1WOWRZWHIzY3RkSWpwRGpZZWpQV2Zqc0J6czRiT3gzdEcxQ0dOX21pS0p0eF90cTV6V2gwMVlmXzJXSVJPWUJfQ0pPaEpkVGpoSE5CaTBJVkdDR0I4TWt2VFg"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-14T03:38:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnBnanU4U2p1dExJY2w3emlKeW9MaXItYkYwOXB1MjV2eGlVME1GNjctLWkxb0RJdEZEcUpOYjRyR3VWUTZ2ZkFqUG9mLUJzeVFVRV9QVXQxV3JvM25oaFFXWThMYUMzUWlCbDdoZkJNZ1E5dmY5OVBXN0habVE4eVpRdTlVcTltY3JiV0lJbkdqbVdoTXJJU3phcnlfYklqM1NjSDlXVUZUSzhnXy1McGdn"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Cybercab乘客可查看侧后摄像头画面",
-   "title_zh": "坐无后视镜的特斯拉Cybercab心里发慌？未来乘客行程中可随时查看侧、后摄像头画面 - 搜狐",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
   }
  ]
 }
