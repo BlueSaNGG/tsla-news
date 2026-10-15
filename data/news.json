@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T15:07:30.820343+00:00",
+ "updated_at": "2026-10-15T15:22:32.345199+00:00",
  "market": {
-  "price": 361.98,
-  "change_pct": -1.41,
+  "price": 362.51,
+  "change_pct": -1.27,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 33% 分位"
+     "note": "现价处于52周区间 34% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（111条已评分）"
+     "note": "今日新闻情绪 +0.24（112条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $361.98 vs 20日均线 $370.79"
+     "note": "现价 $362.51 vs 20日均线 $370.81"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 33,
+   "price_52w_pct": 34,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.5,
-   "ma20": 370.79,
-   "as_of": "2026-10-15T15:07:30.807022+00:00"
+   "implied_upside_pct": 10.3,
+   "ma20": 370.81,
+   "as_of": "2026-10-15T15:22:32.326814+00:00"
   },
-  "pe_ttm": 100.1,
+  "pe_ttm": 100.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 111
+   "avg": 0.24,
+   "count": 112
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "40c1bd1e0679",
+   "title": "特斯拉Cybercab进军达拉斯：Robotaxi从“演示”走向“收割” - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fdkc5VEkwUlBDb0h2enF0b1ZqUGlfWkU4eHRMWEFJZlk5bEpTNUV2U29tb3BZV0U4T2pBTklyZVExYzc3Uno1Qk1JaUdhUDhfNVI5dnJ1NzJnRjg",
+   "source": "网通社",
+   "published_at": "2026-10-15T15:09:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-15T15:09:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fdkc5VEkwUlBDb0h2enF0b1ZqUGlfWkU4eHRMWEFJZlk5bEpTNUV2U29tb3BZV0U4T2pBTklyZVExYzc3Uno1Qk1JaUdhUDhfNVI5dnJ1NzJnRjg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "0b82e49f62fd",
+   "title": "Rivian Taps Tesla Cybercab Veteran to Lead R2 Assembly - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWYyMmxwUlgwZE5vSmsxYzJPbDhRVVo0ZElGdXllYWpPV2hwOTVkTEhVWlh5ejVsZ2Z4RVNWWXpYVXRjeDFTUmhvcmJIWnp0eVZobDlwYXVKOVlXUlplVmszZU94NEE2MldFWldBZ3YzVExwUjdyeUFpNF9FVkNhTHdHeUEyR3pEWGZQczJ2OGRLTG1GbXM4Yg",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-15T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-15T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWYyMmxwUlgwZE5vSmsxYzJPbDhRVVo0ZElGdXllYWpPV2hwOTVkTEhVWlh5ejVsZ2Z4RVNWWXpYVXRjeDFTUmhvcmJIWnp0eVZobDlwYXVKOVlXUlplVmszZU94NEE2MldFWldBZ3YzVExwUjdyeUFpNF9FVkNhTHdHeUEyR3pEWGZQczJ2OGRLTG1GbXM4Yg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "2ec749fdf967",
    "title": "巴克莱：特斯拉与SpaceX最快12月前宣布合并，马斯克或借此掌握新公司56%投票权 - 富途牛牛",
@@ -113,12 +147,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHRURZOWwzODJwcUZyd0VEZzNXdHpIR1F4cGJ5S1hxeGY5eVphdmJpR191MEp5NHNHRE8zOGFfMlJUa2d0dVM5NFVtQWpSZlhPVkM5N3pkSHlCQzNrQkxnVkRBcVBNYkFOTU1Zc3lFWFItOUZqbFhaYU1nWjZkbU5QQnFtNU10Rzh3VkVWZU9sQUpYNnl4LTNtamI",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-15T14:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-15T14:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWpHRURZOWwzODJwcUZyd0VEZzNXdHpIR1F4cGJ5S1hxeGY5eVphdmJpR191MEp5NHNHRE8zOGFfMlJUa2d0dVM5NFVtQWpSZlhPVkM5N3pkSHlCQzNrQkxnVkRBcVBNYkFOTU1Zc3lFWFItOUZqbFhaYU1nWjZkbU5QQnFtNU10Rzh3VkVWZU9sQUpYNnl4LTNtamI"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T14:45:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX24zUlBBVVRMVVVXX2ttMzMxTWk2Q1ZpRGxlYktuUGlVYS1CR3pfM2tpQ3Rpc3ZBTTctTXNZeTZ2clUtc3pKMHg1Y1BwZElGcFUya1RBbkxzNGJlUEoxUzZVSm91ZjJzMVZWNEdSOTRjS0xvQkhwSXVRYmE2em5PNXNwd0h4LW51TDdUako2RHFGSXdMMmUwd0k0TXdhZklveFdlLVlidXc2dw"
     }
    ],
    "category": "其他",
@@ -206,6 +245,23 @@
    "zh_summary": "特斯拉在韩国高速扩张超充网络",
    "title_zh": "特斯拉沿韩国高速公路扩张超级充电网络",
    "sentiment": 1
+  },
+  {
+   "id": "6ea562653fcc",
+   "title": "Tesla shares fall amid inflation data and rate concerns - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDBqZHFUU0xjZ3ZKZjFac1EybkFEcl9LaHZCVVlDaFQ5X0ZQMVRLTWtGRE5SZ2U4MWdFWE14TXJIUC16R0hoSnUwdDhZZWV3NlBiTWdJQXdqWUhqd01rTGU4NXRqYnpta3FxSXFNZktxaWtRcDY4Z2RkMkRxR0prTWhndFExQ3l1V3V0cENuYlpUMHZCb0tZcDFPa2dKSUt0Rzc4UlZfSHcyclo4Wmc",
+   "source": "StreetInsider",
+   "published_at": "2026-10-15T14:28:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "StreetInsider",
+     "published_at": "2026-10-15T14:28:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDBqZHFUU0xjZ3ZKZjFac1EybkFEcl9LaHZCVVlDaFQ5X0ZQMVRLTWtGRE5SZ2U4MWdFWE14TXJIUC16R0hoSnUwdDhZZWV3NlBiTWdJQXdqWUhqd01rTGU4NXRqYnpta3FxSXFNZktxaWtRcDY4Z2RkMkRxR0prTWhndFExQ3l1V3V0cENuYlpUMHZCb0tZcDFPa2dKSUt0Rzc4UlZfSHcyclo4Wmc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "534774dd33c0",
@@ -1490,7 +1546,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xWFV3Tl8ySEE0aE9pNTc1Z0tOcUpTMHd4V0t0MUxvb3RxZ0N4Z01tb2Y2WDJPLVB0VkRXVlZLTjhocm45UFBESklFRlU",
    "source": "凤凰网汽车",
    "published_at": "2026-10-15T09:02:04+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "凤凰网汽车",
@@ -1506,6 +1562,11 @@
      "name": "车东西",
      "published_at": "2026-10-15T11:21:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xLXVjNllKVUx2VVBkY1pYWTE0d0xFbVRaRGEydkJXbTFuMk1xaVduTllRVnNNNE1jVXdNaTgtaDc3ZzM3RENQQ2xmdw"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T15:07:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HR0laUDlEWldranBDRWdlVjNCU0RFbVlZR1ZPbWNHcVZXUFlMRjBHUlN4RXdDczM4QktrSnFIU2dlQ1AxZER3WTNRdWZGWmxONXA2MTJNYVF0ZDk0X2lhWWpCTk1HWFV3WVNV"
     }
    ],
    "category": "马斯克",
@@ -5253,6 +5314,23 @@
    "sentiment": -1
   },
   {
+   "id": "01e91147b168",
+   "title": "TSLA Stock Eyes Red Week: Elon Musk Says Tesla’s FSD Could Soon Take Directions Like An Uber Driver - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXN1QWd4TVp6MDNJM0NCUVlWX3dXTXBhdXo5WEVQaE1uZ0V6cXhNTV9ibFNOYnBOMkJYS2haWXZOYjdjRjRsRjZNZnlUN24wZlpCZ1BNdkxzajItWWJiSzVKSzQyTklWUXFuVnE1ZXpkQkxJbDk3QmJBamFiSnY2MkQtTTVWejRkZGYydzZMeXpPWVBqNXJlbGliNXB5cWZyampJTXpuQzdnNGxQWG5uWURzMzA",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T13:55:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T13:55:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXN1QWd4TVp6MDNJM0NCUVlWX3dXTXBhdXo5WEVQaE1uZ0V6cXhNTV9ibFNOYnBOMkJYS2haWXZOYjdjRjRsRjZNZnlUN24wZlpCZ1BNdkxzajItWWJiSzVKSzQyTklWUXFuVnE1ZXpkQkxJbDk3QmJBamFiSnY2MkQtTTVWejRkZGYydzZMeXpPWVBqNXJlbGliNXB5cWZyampJTXpuQzdnNGxQWG5uWURzMzA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "88bef12aa3a4",
    "title": "First Look: The PIX Robobus is like the Tesla Robovan, only smaller! - TopElectricSUV",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRFJKbGpIeVc4UmJISEZiejdDX0FReEhyWHB0SzhtTFVGMmtmZ0c5TW41ZldqcEZHSFVDR2FsM1ZhTHR6Q3Bjc0F5MnI4N3hXdDItQ2ttdkFralN3YTc4N3JKUFNYZzNk",
@@ -5336,6 +5414,23 @@
    "zh_summary": "特斯拉Roadster配10个推进器无需FAA批准",
    "title_zh": "特斯拉Roadster搭载10个推进器，无需FAA批准",
    "sentiment": 1
+  },
+  {
+   "id": "3b5f0030eda6",
+   "title": "TSLA Stock Holds Flat — Tesla Hit With Wrongful Death Lawsuit, NTSB Probe Over Fatal Texas Crash - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWmJuYzhnTERTanJsNWNYWGpaVVk3aVAzUTB6N000WjZmUDRkNzhLUkhteEkyZW9Tc2lTSWk0djdiZ09XSlhQRmhKcWZDZjQ3VEFwWE5PRk95ZVhVYTdMenpWLVlEWWYwenJ0dUY0cW1XLVBaZlNlOVJTWHhBODl1THhMZ2o4d2VqN1NwcGNXWl9ILVQzaU5zeS1USUlxeExCdUZFN0FWVTg0UkZsZzdXc2QxdEl5UTE0NTZmRm5FSHJUNU5WY1JXcjg5MGMxSi1WQm1IRVg1MFBneER6M2lkTEhaek1iQ1dxYTVCVGxn",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T13:27:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T13:27:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWmJuYzhnTERTanJsNWNYWGpaVVk3aVAzUTB6N000WjZmUDRkNzhLUkhteEkyZW9Tc2lTSWk0djdiZ09XSlhQRmhKcWZDZjQ3VEFwWE5PRk95ZVhVYTdMenpWLVlEWWYwenJ0dUY0cW1XLVBaZlNlOVJTWHhBODl1THhMZ2o4d2VqN1NwcGNXWl9ILVQzaU5zeS1USUlxeExCdUZFN0FWVTg0UkZsZzdXc2QxdEl5UTE0NTZmRm5FSHJUNU5WY1JXcjg5MGMxSi1WQm1IRVg1MFBneER6M2lkTEhaek1iQ1dxYTVCVGxn"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
   },
   {
    "id": "5020da494802",
@@ -6476,106 +6571,6 @@
    "session": "盘前",
    "zh_summary": "俄勒冈男子新特斯拉试驾失控",
    "title_zh": "俄勒冈男子试驾新买的特斯拉，场面失控",
-   "sentiment": -1
-  },
-  {
-   "id": "35ef15b5f526",
-   "title": "Tesla robotaxis accused of speeding in school zones, NHTSA weighs probe - CBT News",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52a1JTaUZ4R1RjWkF5NmJzbkFpcVNicENiVktBQ3FoQkFfYlU2Tk53c1g0c2t2MXV5bDVFd2FJRUJfSEE0U2M1UlU5SWhvSVNLeFRiUGJCUWxWTjQ4ajdOb3pWbEpJVVgtRG5SaklpOG9lOTQ",
-   "source": "CBT News",
-   "published_at": "2026-10-14T10:00:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CBT News",
-     "published_at": "2026-10-14T10:00:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52a1JTaUZ4R1RjWkF5NmJzbkFpcVNicENiVktBQ3FoQkFfYlU2Tk53c1g0c2t2MXV5bDVFd2FJRUJfSEE0U2M1UlU5SWhvSVNLeFRiUGJCUWxWTjQ4ajdOb3pWbEpJVVgtRG5SaklpOG9lOTQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi被指在校区超速",
-   "title_zh": "特斯拉Robotaxi被指控在校区超速，NHTSA考虑调查",
-   "sentiment": -1
-  },
-  {
-   "id": "90b66a6a5209",
-   "title": "特斯拉赛博无人驾驶电动车官宣打卡更多城市，覆盖深圳、宁波、成都等 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3AwbktGUUExUkFMdWN1bmpaLVhUWElmYlhQXzhsNlBJYUt5b2NEUXJ1SFFsR3NMS2JMSVVnS01FTmdPNDNVdC1zbE9MN29iWEZBZThJTmZOV253bWJKTURLMUJ2NnZoNFhKVHhWQTBQZmNTNFZiV0ZuOEp3SmE0U1BZLW9tb2VN",
-   "source": "搜狐",
-   "published_at": "2026-10-14T09:53:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-14T09:53:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3AwbktGUUExUkFMdWN1bmpaLVhUWElmYlhQXzhsNlBJYUt5b2NEUXJ1SFFsR3NMS2JMSVVnS01FTmdPNDNVdC1zbE9MN29iWEZBZThJTmZOV253bWJKTURLMUJ2NnZoNFhKVHhWQTBQZmNTNFZiV0ZuOEp3SmE0U1BZLW9tb2VN"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉赛博无人驾驶车覆盖深圳、宁波、成都等更多城市",
-   "title_zh": "特斯拉赛博无人驾驶电动车官宣打卡更多城市，覆盖深圳、宁波、成都等 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "c8978c3548fc",
-   "title": "特斯拉Model Y续航821公里、驾驶爽、内饰简 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTzM4RzZZME02NlBaNGR2RXcwMnI4eHB0V3BjeFVxcHNscjJoajhlcXdaWExrZHNCUnd2MXFpc2VuY2V0SmxQeXozOVprenZmdlhwenBqcnhOQ09uTVdidUxLNERacHZxOGpDS1VmY3lKN0E",
-   "source": "新浪网",
-   "published_at": "2026-10-14T09:51:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-14T09:51:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTzM4RzZZME02NlBaNGR2RXcwMnI4eHB0V3BjeFVxcHNscjJoajhlcXdaWExrZHNCUnd2MXFpc2VuY2V0SmxQeXozOVprenZmdlhwenBqcnhOQ09uTVdidUxLNERacHZxOGpDS1VmY3lKN0E"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Model Y续航821公里",
-   "title_zh": "特斯拉Model Y续航821公里、驾驶爽、内饰简 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "21205cbb2f81",
-   "title": "BYD one-ups Tesla with 500-mile range and 9-minute charging in $35,000 Da Han sedan - Notebookcheck",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0UtemFzWkY2aXFQdXZ5dUtUemRUMTljTnlBRWFxU1d2TWZjQ1paVXJ1N1Bpckdjby12U3RKYThyZFpnTE1iOTc2MWtlNEZEdmhqMElPV1BqQUVRZmVMbi10WVFKb05RSHNSRkhjUl9mTlU1ek4wQldPdWNDUDlMSlZPOE5fc0ZVVDcyd3o5R2d5T0kxYUs3aFBSZkdKZDdnR1BNbUdGUzJwSkM0eXlpa1Z5QjFJV3V0SFR3bnVSamw5bkl4REE",
-   "source": "Notebookcheck",
-   "published_at": "2026-10-14T09:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Notebookcheck",
-     "published_at": "2026-10-14T09:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0UtemFzWkY2aXFQdXZ5dUtUemRUMTljTnlBRWFxU1d2TWZjQ1paVXJ1N1Bpckdjby12U3RKYThyZFpnTE1iOTc2MWtlNEZEdmhqMElPV1BqQUVRZmVMbi10WVFKb05RSHNSRkhjUl9mTlU1ek4wQldPdWNDUDlMSlZPOE5fc0ZVVDcyd3o5R2d5T0kxYUs3aFBSZkdKZDdnR1BNbUdGUzJwSkM0eXlpa1Z5QjFJV3V0SFR3bnVSamw5bkl4REE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "比亚迪$35,000新车续航500英里9分钟充满",
-   "title_zh": "比亚迪$35,000新车续航500英里、9分钟充电，超越特斯拉",
-   "sentiment": -1
-  },
-  {
-   "id": "fec4941c4581",
-   "title": "Tesla Roadster Delay Hits 9 Years as EV Rivals Surge [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZMlVmTzBwdHdpcDBYWjNISkxDRWFGdER5Q1JCSDU1bF9PdUo1VU9ueWVvLXFFTzdETHJFT3FxQ1RiaWhGdUNXSWFOUUZ1Rm85djhWeTlzRlFBeGNIUGl2VEdtUlVBMEpvdFhvVm9kRHFtMHZ0Wmtr",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-14T09:35:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-14T09:35:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZMlVmTzBwdHdpcDBYWjNISkxDRWFGdER5Q1JCSDU1bF9PdUo1VU9ueWVvLXFFTzdETHJFT3FxQ1RiaWhGdUNXSWFOUUZ1Rm85djhWeTlzRlFBeGNIUGl2VEdtUlVBMEpvdFhvVm9kRHFtMHZ0Wmtr"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster延期达9年，对手追赶",
-   "title_zh": "特斯拉Roadster延期9年，电动车对手加速追赶",
    "sentiment": -1
   }
  ]
