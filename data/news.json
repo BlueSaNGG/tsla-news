@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T17:52:26.426773+00:00",
+ "updated_at": "2026-10-16T18:07:50.301179+00:00",
  "market": {
-  "price": 353.4,
-  "change_pct": -2.49,
+  "price": 352.88,
+  "change_pct": -2.64,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-10-21",
@@ -17,27 +17,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
      "score": 1,
-     "note": "现价处于52周区间 29% 分位（偏低）"
+     "note": "现价处于52周区间 28% 分位（偏低）"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +13.2%"
+     "note": "目标价中位数 $400（16家），隐含空间 +13.4%"
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（290条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.49（295条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $353.40 vs 20日均线 $370.27"
+     "note": "现价 $352.88 vs 20日均线 $370.24"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 29,
+   "price_52w_pct": 28,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 13.2,
-   "ma20": 370.27,
-   "as_of": "2026-10-16T17:52:26.416688+00:00"
+   "implied_upside_pct": 13.4,
+   "ma20": 370.24,
+   "as_of": "2026-10-16T18:07:50.290024+00:00"
   },
-  "pe_ttm": 97.7,
+  "pe_ttm": 97.6,
   "pe_pct_5y": 47,
-  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+13.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+13.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 290
+   "avg": 0.49,
+   "count": 295
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8d88b3dd2c69",
+   "title": "马斯克特斯拉Roadster会飞，李副总破局 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iYThoQXFiMjJWV2lDaGhOOXFWQndFRVZSZWtfQjFuUjR5ZWhKQ3RXeVExSGVoYzRZV29TSTR2ZTZwVEw5V1dyMVZFcWpQc0VPLU5zQWVDbFdNOXZoa2pkRmctalNWRWNKU05nallUanhtMXc",
+   "source": "新浪网",
+   "published_at": "2026-10-16T18:04:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-16T18:04:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iYThoQXFiMjJWV2lDaGhOOXFWQndFRVZSZWtfQjFuUjR5ZWhKQ3RXeVExSGVoYzRZV29TSTR2ZTZwVEw5V1dyMVZFcWpQc0VPLU5zQWVDbFdNOXZoa2pkRmctalNWRWNKU05nallUanhtMXc"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "59c17de330da",
    "title": "事实证明，未来确实有飞行汽车 #特斯拉roadster2# ​ - 新浪网",
@@ -88,17 +105,39 @@
    "sentiment": 1
   },
   {
+   "id": "d12f805145d8",
+   "title": "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0I2Z29pYmxyeDFLSDZ2XzBZcjk1NGtxM19DVkNJSDllNlVSSVNQakRsUjZnMFRSVEQ4dmxwbTR5Nk11RW5oaUk5ZDJxOTkyNzdreU1QZUEydkk5dG5NakVhbGVuU2lwamo3eHFNUDNYVXE2am1TbnVzZ1ZES0JaYjNzMA",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-16T17:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-16T17:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0I2Z29pYmxyeDFLSDZ2XzBZcjk1NGtxM19DVkNJSDllNlVSSVNQakRsUjZnMFRSVEQ4dmxwbTR5Nk11RW5oaUk5ZDJxOTkyNzdreU1QZUEydkk5dG5NakVhbGVuU2lwamo3eHFNUDNYVXE2am1TbnVzZ1ZES0JaYjNzMA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "b82335999225",
    "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt - Electrek",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhpSmVncnNVdmxoMEJCSV95eWJmZU9sWW4yZnZPRDhUenFUZmR3OHVEcWdVM3ZwelUzaWtDZmh1dHJudFhkRGV1TzFzUnh6R2lLNEpyUEg4bTA5cnRkVmFBd2FlVWhfQUJ6THNyXy1WVkdjbGNwUmtDZU5Bck9USEJOOUhmelZtUjU3QkNmSQ",
    "source": "Electrek",
    "published_at": "2026-10-16T17:14:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Electrek",
      "published_at": "2026-10-16T17:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVhpSmVncnNVdmxoMEJCSV95eWJmZU9sWW4yZnZPRDhUenFUZmR3OHVEcWdVM3ZwelUzaWtDZmh1dHJudFhkRGV1TzFzUnh6R2lLNEpyUEg4bTA5cnRkVmFBd2FlVWhfQUJ6THNyXy1WVkdjbGNwUmtDZU5Bck9USEJOOUhmelZtUjU3QkNmSQ"
+    },
+    {
+     "name": "Road & Track",
+     "published_at": "2026-10-16T17:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcU14S0cxUlliR3dRWTNPTHBST3dkZUdDajFjZ0hjS05IUi1hWXIzS1VRSzNDTDJYeDQ4QTUycXVFUDlPeTZ5QzZ6VlkxTlpncURzeHl0LWhZVUtSMExTMmtqSUVTSHk3akN6dUFlamRXOXo3MVNlNm1FaWNVOFhsM1J0ZG9ETTM2MG9ieEhURkh4NUw1dHZvRDVtR1JDNlJSVUIyd2tSSkNUNDB3MG55QUY2RHlRZEgwQjYtcXBCS2pyVzlTZ19LNEpzOHE"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -768,6 +807,23 @@
    "sentiment": -1
   },
   {
+   "id": "ceefa4c3a57e",
+   "title": "特斯拉找上宁波，汽配大市转向人形机器人 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02b1NrNlM1dnJnT2s5ekhsRmFOZ0RFNFd6dnNCZkF6TW1YOTdEbXpNREtlZklyb01WZURLajRKSTdRdXRJUzM4OW1NWEtjSHBmSVlfellJeTVncDJEZ3JxdnllUldXUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-16T15:20:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-16T15:20:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02b1NrNlM1dnJnT2s5ekhsRmFOZ0RFNFd6dnNCZkF6TW1YOTdEbXpNREtlZklyb01WZURLajRKSTdRdXRJUzM4OW1NWEtjSHBmSVlfellJeTVncDJEZ3JxdnllUldXUQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "5da452379d4e",
    "title": "Video shows Tesla hitting CHP patrol car on I-80 in Fairfield - NBC Bay Area",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3dwQzJaX3F3YXVWUndBOWZMSXVtUjZCcjE4QXk3ODVqRngxTzVEMVVuLTd4Y0ZNU1hqWk1zMDFiQ3JxMEZEcDlCNS0wT2xhcGNvNUVIS2dEbDRRVE5nVUFqNm9HLWR6TTBBZW1sS1FFV0NjWWY2cVZvYnhpY3liV3NQNjFRR0drLVHSAZIBQVVfeXFMUDc0aXZpVG54Wkw5b2F5b1Z3V0NuYlRXQ1pmN29KTGc0a20yaV9fYTdwbWl0TW1pS1JwMm9BZDRQc2w3WDRHcmcwcWkzbmNGaWktNm40OWV0SjNvTjMwc3RtSHpZWk5RbDQ2LWtMLWl6UWZMQlkteWF2REFqbzlXYXg2VVNZSzZFdW80Ulg4dEx4RXc",
@@ -866,6 +922,23 @@
    "zh_summary": "特斯拉与SpaceX合并讨论升温",
    "title_zh": "现在是特斯拉与SpaceX合并的时机吗？",
    "sentiment": 0
+  },
+  {
+   "id": "3de0a4c901f2",
+   "title": "Tesla’s new Roadster can launch itself into the air - Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkJxbWxLVGJmM2hSYWloT24xbVA4R1l3N0c2NGlnWkl2NDc4SXotYi1oc1dfbzd5NmUwa2JZd1oyTnIwRjdzb21raG00Q1gwRUNuWm1oQzJTREQ4RnFHVG9rTWxHOXRaY1pNSjlILUJ3enhlWEtPc3pvRktXWnFxcXB2bXJrSG9FRmQ5UUp4UGxORnJianQ5bXFfZXBRekdMTlIyTEV2M2g3WkNCTzhMczc1UzcxSHAw",
+   "source": "Spectrum News",
+   "published_at": "2026-10-16T14:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Spectrum News",
+     "published_at": "2026-10-16T14:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkJxbWxLVGJmM2hSYWloT24xbVA4R1l3N0c2NGlnWkl2NDc4SXotYi1oc1dfbzd5NmUwa2JZd1oyTnIwRjdzb21raG00Q1gwRUNuWm1oQzJTREQ4RnFHVG9rTWxHOXRaY1pNSjlILUJ3enhlWEtPc3pvRktXWnFxcXB2bXJrSG9FRmQ5UUp4UGxORnJianQ5bXFfZXBRekdMTlIyTEV2M2g3WkNCTzhMczc1UzcxSHAw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "64d021f8f20a",
@@ -2366,26 +2439,6 @@
    "sentiment": 1
   },
   {
-   "id": "e1f3822a5cb7",
-   "title": "特斯拉发布“会飞”的跑车Roadster：零百加速接近1秒，国内预订金33.2万 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOTXFUdWlGYkRzWVBjR0dzLWN5LVVFUFRfLUlsRmFEUElBaXc5aC1qcmFIejMzeDBTRE9aQ2dvcWk3djFsZ1F2dTF0d3g5aklJUVBieXZFbDlKV3czUmZEQ2hMRjM3T1owT203bzNCVjNQUC1MMk5VaVNYejJSb1l2S05OUXdialdreDh5QjFBc3diNGdWclZEOFpPZU1XMHVWYzExcjB5ZXFvNVZJdnBMVDVSWThtMk1pZUYwc2d5WFhEcF9ENHNfUjFibGtuSXluN000MkNudzNUMXByS2tfNk9sRzY5UTczSFFwQzVxQzdPN0tGWENjQWlVYy1UVFBrMVlzT2xSN1VidlZVQjFMdmpFNmpUYVdjTFJ3eGdpaGNnOGJMWl9VSk1OWEpPbGpQWkgtMUpIaw",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-16T12:30:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-16T12:30:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOTXFUdWlGYkRzWVBjR0dzLWN5LVVFUFRfLUlsRmFEUElBaXc5aC1qcmFIejMzeDBTRE9aQ2dvcWk3djFsZ1F2dTF0d3g5aklJUVBieXZFbDlKV3czUmZEQ2hMRjM3T1owT203bzNCVjNQUC1MMk5VaVNYejJSb1l2S05OUXdialdreDh5QjFBc3diNGdWclZEOFpPZU1XMHVWYzExcjB5ZXFvNVZJdnBMVDVSWThtMk1pZUYwc2d5WFhEcF9ENHNfUjFibGtuSXluN000MkNudzNUMXByS2tfNk9sRzY5UTczSFFwQzVxQzdPN0tGWENjQWlVYy1UVFBrMVlzT2xSN1VidlZVQjFMdmpFNmpUYVdjTFJ3eGdpaGNnOGJMWl9VSk1OWEpPbGpQWkgtMUpIaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉发布会飞Roadster预订金33.2万",
-   "title_zh": "特斯拉发布“会飞”的跑车Roadster：零百加速接近1秒，国内预订金33.2万",
-   "sentiment": 1
-  },
-  {
    "id": "932bd08874f5",
    "title": "Tesla Roadster performs a 'kick flip' flight - Fox Business",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KT3g0am52OEtRMzNPaDhxeEhYWmtFYzhaNkVld1NpN2NsbTFmZ0hfbFpxUWZMdjlyY3VpT3NPbDh4MTFYbW5RbzJPZkt2YWR1clZEY0FUNklOWXc",
@@ -3587,6 +3640,23 @@
    "zh_summary": "特斯拉盘前料上涨",
    "title_zh": "WSB热议：周五盘前涨跌互现，特斯拉将上涨",
    "sentiment": 1
+  },
+  {
+   "id": "c8e00e2a45ea",
+   "title": "特斯拉Roadster真会飞，2028年才量产 - 凤凰网汽车",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yZWV2SWNIRFZBSzFXdE9jenRsaUMzMk5IUnBUUXo4UDJzak1zRWFrbnRwbUQteFU0SnVNelIzTlZyX0RfbUlCU21HeGk",
+   "source": "凤凰网汽车",
+   "published_at": "2026-10-16T10:41:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-16T10:41:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yZWV2SWNIRFZBSzFXdE9jenRsaUMzMk5IUnBUUXo4UDJzak1zRWFrbnRwbUQteFU0SnVNelIzTlZyX0RfbUlCU21HeGk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "22fc2999d28c",
@@ -6199,86 +6269,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉Roadster二代33.2万起订",
    "title_zh": "特斯拉第二代 Roadster 预订意向金 33.2 万元起，2028 年量产",
-   "sentiment": 1
-  },
-  {
-   "id": "a466c900d1ce",
-   "title": "特斯拉Roadster定义The Last Best Drivers Car，宣传片发布 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jNzYzZE1GMDhKeWtmQ2tsUi1FMmwtTXdvanpfaGpZOVByR0dtOUpIY0JtbzB0cURkaHllZldUSkhYZEtRSEhTSHpSaWR4REFuZTl1MWpoLU53YjlLN3dPUmd1Y3A5d0ZjbUJDTVNtbkk5M2s",
-   "source": "新浪网",
-   "published_at": "2026-10-16T07:45:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T07:45:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jNzYzZE1GMDhKeWtmQ2tsUi1FMmwtTXdvanpfaGpZOVByR0dtOUpIY0JtbzB0cURkaHllZldUSkhYZEtRSEhTSHpSaWR4REFuZTl1MWpoLU53YjlLN3dPUmd1Y3A5d0ZjbUJDTVNtbkk5M2s"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉发布Roadster宣传片",
-   "title_zh": "特斯拉Roadster定义The Last Best Drivers Car，宣传片发布 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "4e073546e6d6",
-   "title": "马斯克发布特斯拉Roadster，0.59秒破百，2028年投产 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XWW9MX21Gcm9FOVhFbF8wUHBwZWJCQkN3dmhaYWNXaFM2WmdMc3RXTENNWVpSNFBCM2tLVXprM2JJYmJMRnkzNUw0XzNHNFFBTE9hd0lfOTdVSjNQVEdHclFyRmJZa1hmWnlEajhvSE5xRWhobTVaUGtMbEJGZw",
-   "source": "新浪网",
-   "published_at": "2026-10-16T07:44:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T07:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XWW9MX21Gcm9FOVhFbF8wUHBwZWJCQkN3dmhaYWNXaFM2WmdMc3RXTENNWVpSNFBCM2tLVXprM2JJYmJMRnkzNUw0XzNHNFFBTE9hd0lfOTdVSjNQVEdHclFyRmJZa1hmWnlEajhvSE5xRWhobTVaUGtMbEJGZw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "Roadster 0.59秒破百，2028年投产",
-   "title_zh": "马斯克发布特斯拉Roadster，0.59秒破百，2028年投产 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "cc78531d765e",
-   "title": "AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say - Axios",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91RkVtdC1DR1ZXa1AxUTRKNDZ0VUxCVnk4ZUNjMUE1RERObkxMTU5CMUJxMHFZTHYwajFmdkpRS0tIZ0hVNzh3VlYxb3l6SFRlUTRvUTYzVXZobnVDbHJQS3l6QWUtV3JNQk1tV0txV0FKZTRNTWRoUTNR",
-   "source": "Axios",
-   "published_at": "2026-10-16T07:42:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Axios",
-     "published_at": "2026-10-16T07:42:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91RkVtdC1DR1ZXa1AxUTRKNDZ0VUxCVnk4ZUNjMUE1RERObkxMTU5CMUJxMHFZTHYwajFmdkpRS0tIZ0hVNzh3VlYxb3l6SFRlUTRvUTYzVXZobnVDbHJQS3l6QWUtV3JNQk1tV0txV0FKZTRNTWRoUTNR"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师称特斯拉SpaceX今秋或合并",
-   "title_zh": "分析师称AI或推动特斯拉SpaceX今秋合并",
-   "sentiment": 0
-  },
-  {
-   "id": "87a3e009e6d7",
-   "title": "TSLA Stock Price Surges by 5% on Hyperliquid After Tesla Flying Car Reveal - The Crypto Times",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTRjV3Rfd1RfckdDbXFqOGl4dUg4bGhpZmJoWk5zVDE5Sy1TOEg2ajlxOW5FUFEwekp3SFMzQlhpSzZGeExKUm95aFBLaHFWaGdqaDk2WV83VjR6VjhjNUlqdHV6UXlkaVpGTkdzZUdsTV9taW1KNjd3c3p3QzFmOWd5TlhEM3JmR2p5R3pBR2ZQMFhtb1Ywd0RkUkRjTTRJRmxmYkY1UFRHaXMtYk1kYkJn",
-   "source": "The Crypto Times",
-   "published_at": "2026-10-16T07:39:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Crypto Times",
-     "published_at": "2026-10-16T07:39:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTRjV3Rfd1RfckdDbXFqOGl4dUg4bGhpZmJoWk5zVDE5Sy1TOEg2ajlxOW5FUFEwekp3SFMzQlhpSzZGeExKUm95aFBLaHFWaGdqaDk2WV83VjR6VjhjNUlqdHV6UXlkaVpGTkdzZUdsTV9taW1KNjd3c3p3QzFmOWd5TlhEM3JmR2p5R3pBR2ZQMFhtb1Ywd0RkUkRjTTRJRmxmYkY1UFRHaXMtYk1kYkJn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA在Hyperliquid上因飞行车涨5%",
-   "title_zh": "TSLA飞车亮相后在Hyperliquid上涨5%",
    "sentiment": 1
   }
  ]
