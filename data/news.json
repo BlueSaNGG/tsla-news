@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T14:37:32.135412+00:00",
+ "updated_at": "2026-10-16T14:52:38.569645+00:00",
  "market": {
-  "price": 365.55,
-  "change_pct": 0.86,
+  "price": 362.22,
+  "change_pct": -0.06,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 35% 分位"
+     "note": "现价处于52周区间 33% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.4%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.52（292条已评分）"
+     "note": "今日新闻情绪 +0.52（293条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $365.55 vs 20日均线 $370.87"
+     "note": "现价 $362.22 vs 20日均线 $370.71"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 35,
+   "price_52w_pct": 33,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.4,
-   "ma20": 370.87,
-   "as_of": "2026-10-16T14:37:32.124339+00:00"
+   "implied_upside_pct": 10.4,
+   "ma20": 370.71,
+   "as_of": "2026-10-16T14:52:38.561701+00:00"
   },
-  "pe_ttm": 101.1,
+  "pe_ttm": 100.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.52,
-   "count": 292
+   "count": 293
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "728b9839feb5",
+   "title": "特斯拉发布Roadster 马斯克称能飞 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTBzYUE0U2ppMkNQclZzYVZMRDFwajl1bVJNQ3AzQzB6bXAyVGsxRlc4ODYwYmpyeUg0UkhjaFZRcmQ1UEd4NVFtLWpUR1JkQXZvOUY3eDh3X2o3S25ycHlwODRnbFNtZ3pqWTlKcHhvQnZoeXc0anF6Tm1IYTNHRml0aHpBZEx2V2czUy1qdkY",
+   "source": "新浪网",
+   "published_at": "2026-10-16T14:47:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-16T14:47:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTBzYUE0U2ppMkNQclZzYVZMRDFwajl1bVJNQ3AzQzB6bXAyVGsxRlc4ODYwYmpyeUg0UkhjaFZRcmQ1UEd4NVFtLWpUR1JkQXZvOUY3eDh3X2o3S25ycHlwODRnbFNtZ3pqWTlKcHhvQnZoeXc0anF6Tm1IYTNHRml0aHpBZEx2V2czUy1qdkY"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "699bf51d1de9",
    "title": "Rich Ross Sees Tesla Tsla Stock Price Above $400 as Breakout Nears - شبكة تواصل الإخبارية",
@@ -83,8 +100,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "分析师看涨特斯拉股价将突破$400",
    "zh_summary": "分析师预计特斯拉股价突破400美元",
+   "title_zh": "分析师看涨特斯拉股价将突破$400",
    "sentiment": 1
   },
   {
@@ -103,8 +120,8 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "特斯拉Roadster展示独特技术，有望成为强势旗舰车型",
    "zh_summary": "晨星称Roadster技术独特或成品牌旗舰",
+   "title_zh": "特斯拉Roadster展示独特技术，有望成为强势旗舰车型",
    "sentiment": 1
   },
   {
@@ -123,29 +140,26 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉宣布其FSD系统已在斯洛伐克获得批准 - 东方财富",
    "zh_summary": "特斯拉FSD获斯洛伐克批准",
+   "title_zh": "特斯拉宣布其FSD系统已在斯洛伐克获得批准 - 东方财富",
    "sentiment": 1
   },
   {
-   "id": "5e4431eecfd1",
-   "title": "Tesla's new Roadster car can thrust itself in the air. Don't expect to drive it anytime soon - PBS",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnRGM3NUczZNZ1d0X25Wc2ZHVW9INFFnQXlhOXBFSFpacGNXVUVvV29XX3F2ZE9QcTZFLVNXRTBGcHhVai12SkRlT3pFRk5NRWl0TU93V3ZuVjV5dlRQUXRNYjFWODhtbHpfVEwwWk15bmw4aG1xdUZzVldZRHkwcDBYZHZaQzRtM2tWdzVHWHNzQTg2UUZEX2k3OFNQNGZNTkpKcmVXYjYzWVFXek12c3MwYmRCQl9reFlQWUxZWUFLQUk",
-   "source": "PBS",
-   "published_at": "2026-10-16T14:16:21+00:00",
+   "id": "3693cf14154b",
+   "title": "大摩：Robotaxi贡献特斯拉(TSLA.US)目标价120美元/股 Roadster凸显与SpaceX技术协同潜力_全球市场_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcGNjTzRMQUdPT3V2Ql92TmswRVk1ZUJhdVJpbVFCcWl6eGNKV2IzRVNkc2ZpLXREWmxwb1FDdkpicjRsUEp2Mkh5My0zRFVKREJ4ODlZREZ4STVYVTgwUA",
+   "source": "证券之星",
+   "published_at": "2026-10-16T14:18:45+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "PBS",
-     "published_at": "2026-10-16T14:16:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnRGM3NUczZNZ1d0X25Wc2ZHVW9INFFnQXlhOXBFSFpacGNXVUVvV29XX3F2ZE9QcTZFLVNXRTBGcHhVai12SkRlT3pFRk5NRWl0TU93V3ZuVjV5dlRQUXRNYjFWODhtbHpfVEwwWk15bmw4aG1xdUZzVldZRHkwcDBYZHZaQzRtM2tWdzVHWHNzQTg2UUZEX2k3OFNQNGZNTkpKcmVXYjYzWVFXek12c3MwYmRCQl9reFlQWUxZWUFLQUk"
+     "name": "证券之星",
+     "published_at": "2026-10-16T14:18:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jcGNjTzRMQUdPT3V2Ql92TmswRVk1ZUJhdVJpbVFCcWl6eGNKV2IzRVNkc2ZpLXREWmxwb1FDdkpicjRsUEp2Mkh5My0zRFVKREJ4ODlZREZ4STVYVTgwUA"
     }
    ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Roadster演示升空能力",
-   "title_zh": "特斯拉新款Roadster可腾空，但别指望很快能开上",
-   "sentiment": 0
+   "category": "分析师",
+   "session": "盘中"
   },
   {
    "id": "1b3b2c9534ed",
@@ -163,8 +177,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉“起飞”了，中国飞行汽车飞到哪了？ - 电子工程专辑",
    "zh_summary": "特斯拉起飞，中国飞行汽车进展受关注",
+   "title_zh": "特斯拉“起飞”了，中国飞行汽车飞到哪了？ - 电子工程专辑",
    "sentiment": 0
   },
   {
@@ -203,9 +217,34 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "22岁男子疑在自动驾驶特斯拉中睡着撞上警车致2名警员重伤",
    "zh_summary": "疑睡着的特斯拉司机撞警车致2人重伤",
+   "title_zh": "22岁男子疑在自动驾驶特斯拉中睡着撞上警车致2名警员重伤",
    "sentiment": -1
+  },
+  {
+   "id": "4238e3b43d8e",
+   "title": "Tesla's new Roadster car can thrust itself in the air. But don't expect to drive it anytime soon - Norwalk Hour",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZERRNGNOZVVyM3NpbU5IWDROb3FGaW5fb045bjFNWG9YbENtdzBHek8zZE1IMFozckhRX0UtM3lYU1RxQVdGLUhqOVNiZGExcVNCWVo5LUVPMlV4dmFHVTNxUUJ5LW4zOVNVeTJIcGR5R2lYaFFrSVhMeVNocEdSc3N3d05hRTZTLU9vWU91eHJWNVo4bVJFRlFWTnNLaFgwbmk5RUln",
+   "source": "Norwalk Hour",
+   "published_at": "2026-10-16T14:05:30+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Norwalk Hour",
+     "published_at": "2026-10-16T14:05:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZERRNGNOZVVyM3NpbU5IWDROb3FGaW5fb045bjFNWG9YbENtdzBHek8zZE1IMFozckhRX0UtM3lYU1RxQVdGLUhqOVNiZGExcVNCWVo5LUVPMlV4dmFHVTNxUUJ5LW4zOVNVeTJIcGR5R2lYaFFrSVhMeVNocEdSc3N3d05hRTZTLU9vWU91eHJWNVo4bVJFRlFWTnNLaFgwbmk5RUln"
+    },
+    {
+     "name": "PBS",
+     "published_at": "2026-10-16T14:16:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnRGM3NUczZNZ1d0X25Wc2ZHVW9INFFnQXlhOXBFSFpacGNXVUVvV29XX3F2ZE9QcTZFLVNXRTBGcHhVai12SkRlT3pFRk5NRWl0TU93V3ZuVjV5dlRQUXRNYjFWODhtbHpfVEwwWk15bmw4aG1xdUZzVldZRHkwcDBYZHZaQzRtM2tWdzVHWHNzQTg2UUZEX2k3OFNQNGZNTkpKcmVXYjYzWVFXek12c3MwYmRCQl9reFlQWUxZWUFLQUk"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "特斯拉Roadster演示升空能力",
+   "title_zh": "特斯拉新款Roadster可腾空，但别指望很快能开上",
+   "sentiment": 0
   },
   {
    "id": "09f01fef631c",
@@ -223,8 +262,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉飞行汽车能否带动销量和股价飙升？",
    "zh_summary": "欧新社探讨飞行汽车对销量股价影响",
+   "title_zh": "特斯拉飞行汽车能否带动销量和股价飙升？",
    "sentiment": 0
   },
   {
@@ -268,6 +307,23 @@
    "sentiment": 1
   },
   {
+   "id": "bd505a9c4ca5",
+   "title": "WATCH: Tesla showcases flying Roadster car - KVUE",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTNHMVNTYUdtbldvSlk4cUUtaW12aTNGMHFaOGY0S05td01MN0xVVk5YZTdrTnNJeURHdmEzNkhjN3JhWkxfQ1l2MzlCNFJsdlpiUUlVeS1DVkxMY1dkTjRjNUd4SW5jSWx6dmZRbDJxNTRrQ0dTbGZZTE4yR3hZRl81akdBMXdseTV6eHlIdEo2eGVLS0xvbmltY3pvSFdWNHpERmhXTXZSOVBwRWxWaXJqREVNSFNNWnNyS2VZLV84cXh4WFNwNg",
+   "source": "KVUE",
+   "published_at": "2026-10-16T13:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KVUE",
+     "published_at": "2026-10-16T13:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTNHMVNTYUdtbldvSlk4cUUtaW12aTNGMHFaOGY0S05td01MN0xVVk5YZTdrTnNJeURHdmEzNkhjN3JhWkxfQ1l2MzlCNFJsdlpiUUlVeS1DVkxMY1dkTjRjNUd4SW5jSWx6dmZRbDJxNTRrQ0dTbGZZTE4yR3hZRl81akdBMXdseTV6eHlIdEo2eGVLS0xvbmltY3pvSFdWNHpERmhXTXZSOVBwRWxWaXJqREVNSFNNWnNyS2VZLV84cXh4WFNwNg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "50c353beeefa",
    "title": "美股异动| “会飞”的Roadster正式亮相特斯拉(TSLA.US)开盘涨超2%_全球市场_财经 - 证券之星",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUWVVCOW1nV3FPUnotR0x2ZGx2MGlTNUc4M05TZlhya0hsMWNubGFrZXRfdkZNU2RMTmVfQUx3R051RlQtQ2dtZHpTUnJUbTl1YlB5b0RJdUsyUERGSG9sdA",
@@ -283,8 +339,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "美股异动|“会飞”的Roadster正式亮相特斯拉开盘涨超2%",
    "zh_summary": "会飞Roadster亮相，特斯拉开盘涨超2%",
+   "title_zh": "美股异动|“会飞”的Roadster正式亮相特斯拉开盘涨超2%",
    "sentiment": 1
   },
   {
@@ -366,26 +422,6 @@
    "zh_summary": "预测市场押注特斯拉SpaceX2027年合并",
    "title_zh": "预测市场：特斯拉与SpaceX 2027年初合并概率超50%",
    "sentiment": 0
-  },
-  {
-   "id": "f319efe88113",
-   "title": "李斌评Roadster会飞：这个我们真没有，为特斯拉点赞 - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajA0bjE4VGtfaXlROG9sOXZlalcyUnpKbjZqQjIwLWdwRlFDS3JDdVJYLUNzN2E4NW1JYW5rVW9RVHB2NFpnQndDNjBrMHB1R1FWLUp6cEtCM1lKY2ZROURaQ05ZYk9GSk1ENzFSVXJFbGpaWjQxZGxEWVVIM1N5dVFPM0VRcFgyM2NCaldKbw",
-   "source": "21财经",
-   "published_at": "2026-10-16T13:21:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-16T13:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajA0bjE4VGtfaXlROG9sOXZlalcyUnpKbjZqQjIwLWdwRlFDS3JDdVJYLUNzN2E4NW1JYW5rVW9RVHB2NFpnQndDNjBrMHB1R1FWLUp6cEtCM1lKY2ZROURaQ05ZYk9GSk1ENzFSVXJFbGpaWjQxZGxEWVVIM1N5dVFPM0VRcFgyM2NCaldKbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "蔚来李斌称赞特斯拉Roadster会飞",
-   "title_zh": "李斌评Roadster会飞：这个我们真没有，为特斯拉点赞",
-   "sentiment": 1
   },
   {
    "id": "e26bda2a92fa",
@@ -528,6 +564,23 @@
    "sentiment": 1
   },
   {
+   "id": "7e49d1a004b5",
+   "title": "特斯拉发布 Roadster 原型车，采用冷气体推进器实现短暂腾空与空中姿态控制 - 虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9icWhXVW1CekMyNDVOVlpyb2dqV3JSWHRqT3R2ZGRIVTdNWHMwY0gyQ3RiUVZyNlVHblMtakhWdDVtZEdKUUVDbjNiNXBSRl8wSzV0Rg",
+   "source": "虎嗅网",
+   "published_at": "2026-10-16T13:02:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅网",
+     "published_at": "2026-10-16T13:02:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9icWhXVW1CekMyNDVOVlpyb2dqV3JSWHRqT3R2ZGRIVTdNWHMwY0gyQ3RiUVZyNlVHblMtakhWdDVtZEdKUUVDbjNiNXBSRl8wSzV0Rg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "630b9f07fd81",
    "title": "Tesla’s Biggest Opportunity May Have Little to Do With Electric Cars - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX296VDk3VnpjYkU2NVJtNEhfOXhseEZEbVgyekxId0FoVXRNcE5ZeFI4NjJOUHQyTWpBQ1ZpbVpObjBQaEd5QzNYVVgzenkzekN4VDNjVzVVZzM0T2t3UnNOelFGeXdRZG5wTzYzYzNHU0FLQWk3NXA3SVZCWFpDTnFRejZIWm5NeTJ3eTdrY09RVnpoRnRudnItRmVnVTZ0aE13",
@@ -668,8 +721,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "别再提零百加速：特斯拉Roadster靠SpaceX推进器飞行翻转",
    "zh_summary": "新一代Roadster用SpaceX推进器实现飞行",
+   "title_zh": "别再提零百加速：特斯拉Roadster靠SpaceX推进器飞行翻转",
    "sentiment": 1
   },
   {
@@ -856,6 +909,23 @@
    "zh_summary": "何小鹏点赞特斯拉会飞的车，提飞行安全认证",
    "title_zh": "何小鹏点赞特斯拉会“飞”的车 飞行安全与认证成关键 - 中华网",
    "sentiment": 1
+  },
+  {
+   "id": "b307f6878094",
+   "title": "特斯拉新款Roadster亮相：马斯克称2028年量产，演示推进器与空中姿态控制 - 虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBudTZnb1pwQUZfbjZlb0Nna3puYThIMVVBWHJBM0VsTGtDaExrczJ2cEFuREVzQzBoQ3ZhUWJuV1FhV1VvMVJRRTFKaEdqLVBJZTI0Qg",
+   "source": "虎嗅网",
+   "published_at": "2026-10-16T12:35:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅网",
+     "published_at": "2026-10-16T12:35:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBudTZnb1pwQUZfbjZlb0Nna3puYThIMVVBWHJBM0VsTGtDaExrczJ2cEFuREVzQzBoQ3ZhUWJuV1FhV1VvMVJRRTFKaEdqLVBJZTI0Qg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "405ea3aa52e7",
@@ -1115,6 +1185,31 @@
    "session": "盘前",
    "zh_summary": "会飞的特斯拉Roadster带你看懂未来",
    "title_zh": "【视频】马斯克彻底开挂！会飞的特斯拉Roadster带你看懂未来 - 车家号",
+   "sentiment": 1
+  },
+  {
+   "id": "47f681a8852e",
+   "title": "李斌盛赞特斯拉Roadster 2空中翻滚：这个我们真没有，为特斯拉点赞 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sOVRTaWU1ZmVwWVhDTGhYWVlXRHZfNU4xWU1hbFhpMXExNFdzZzgxSTBtSEZpeTlNUk9HT29aczlOMUVmMGRSakFjcFc",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-16T12:17:01+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-16T12:17:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sOVRTaWU1ZmVwWVhDTGhYWVlXRHZfNU4xWU1hbFhpMXExNFdzZzgxSTBtSEZpeTlNUk9HT29aczlOMUVmMGRSakFjcFc"
+    },
+    {
+     "name": "21财经",
+     "published_at": "2026-10-16T13:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajA0bjE4VGtfaXlROG9sOXZlalcyUnpKbjZqQjIwLWdwRlFDS3JDdVJYLUNzN2E4NW1JYW5rVW9RVHB2NFpnQndDNjBrMHB1R1FWLUp6cEtCM1lKY2ZROURaQ05ZYk9GSk1ENzFSVXJFbGpaWjQxZGxEWVVIM1N5dVFPM0VRcFgyM2NCaldKbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "蔚来李斌称赞特斯拉Roadster会飞",
+   "title_zh": "李斌评Roadster会飞：这个我们真没有，为特斯拉点赞",
    "sentiment": 1
   },
   {
@@ -1902,6 +1997,23 @@
    "sentiment": 1
   },
   {
+   "id": "ed85bf9eecc0",
+   "title": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3d1MGhFR2poYUsyZkNFY2tnNl9naUx3MzJGMlRsMWVVSUI3OFd2bUR1bjVnU1Fna1FMV2ZWMTFmTjkwMk1yYVhDRmJGaUY4WUppX2Z1VEtQRnpEelRXcXpNYWl0OHVER0JrcU1DVlBqY3hDUnlBTVI2WWQ3Qlo5X1IzcERfMVdLLXNOQ3lZODRRVmtiRkdmTWkwMVpUdXJSYjcwZnRrM2tVeWZKZmJTc2lhRQ",
+   "source": "CNBC",
+   "published_at": "2026-10-16T10:46:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-16T10:46:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3d1MGhFR2poYUsyZkNFY2tnNl9naUx3MzJGMlRsMWVVSUI3OFd2bUR1bjVnU1Fna1FMV2ZWMTFmTjkwMk1yYVhDRmJGaUY4WUppX2Z1VEtQRnpEelRXcXpNYWl0OHVER0JrcU1DVlBqY3hDUnlBTVI2WWQ3Qlo5X1IzcERfMVdLLXNOQ3lZODRRVmtiRkdmTWkwMVpUdXJSYjcwZnRrM2tVeWZKZmJTc2lhRQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "6db00b2b4139",
    "title": "Alef flying car takes on Tesla Roadster with new flight demonstration - Interesting Engineering",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHZVb2FHTnRvYUxlV3lMcUFUQ2VteG9IaExsVjZYOU5LWC13UGhoWEh4cjhvbi14VXhSWFVTc2xfYmRMQVJYcDZSZ0J3OWxrS1Z5cUtodDk0VzRuYkhic0hNQUpscXRkMzZGT2RrTFZ1WWN0c3ZjdDZ4VFBWOXJpemhHeTVid2FyX3RsblBYT29qMkpXU1E",
@@ -2496,7 +2608,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHk5YzFkbWQ2RGVSZmVCcGtZTGtiYWxKX3BWZEUxMFhabkhmdk5XV2dkeVluVFdvc05raHplUVBraFRVcVo2dGRJRUctOG9XZU5rZktPWWRqZEJYcTd3S0YxUUxoQ01IcUtGNUFLd0RocWlVSlNVMWhKcnVEQ19zTWZLU0ZfdFJuZXBTa1ZTSQ",
    "source": "21财经",
    "published_at": "2026-10-16T09:59:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "21财经",
@@ -2512,10 +2624,16 @@
      "name": "东方财富",
      "published_at": "2026-10-16T10:00:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMlJGa2V1dWVpMExLckttTTBBZnJVR1p3M3Z2SzlBQTViMWZpdnp0RjZoekhIaktHN3Y4WTVONi1SRXdpR25SSzFNUzc3Tzg2Sm8zNks4R2xEQ3pTTGZhS2d1OC1Zdw"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-16T10:29:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nbGlsNFJ5LW1LN3pReUl5czQ3ZkdpdDR1eUE5dGNfYkU1TWN4eTRleVR1b0hlejhqZGdiaXp1YTdadWhxOGlORlZ2SVdNTFpkRlVzWkhuSlFjTWhpOEhBTG5R"
     }
    ],
    "category": "马斯克",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉腾空引爆飞行汽车概念股",
    "title_zh": "马斯克让特斯拉腾空，意外引爆A股飞行汽车概念股 - 21财经",
    "sentiment": 0,
@@ -2667,26 +2785,6 @@
    "session": "盘前",
    "zh_summary": "等待九年，特斯拉Roadster会飞",
    "title_zh": "等了九年，特斯拉真的会飞！马斯克：“你看，飞行汽车是真实的” - 21财经",
-   "sentiment": 1
-  },
-  {
-   "id": "b5c48becf781",
-   "title": "会飞的车！特斯拉新款Roadster跑车亮相，中国官网开放预订，意向金33.2万 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVXVpSDZhVWhEZU1xWEJnS1dWbHpyQ1FiRnlKWXZPb3EzdXBEeDRJYzR6cE9nQmw4R2FBUlppSFFLS05aYVgxRFVEU2hFaHUtdElPWjN3V3kydmlrX1Jka2ZYZjRzamNlNUwxclhOOFVDcjQ",
-   "source": "新浪网",
-   "published_at": "2026-10-16T09:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T09:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVXVpSDZhVWhEZU1xWEJnS1dWbHpyQ1FiRnlKWXZPb3EzdXBEeDRJYzR6cE9nQmw4R2FBUlppSFFLS05aYVgxRFVEU2hFaHUtdElPWjN3V3kydmlrX1Jka2ZYZjRzamNlNUwxclhOOFVDcjQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉新Roadster亮相中国开启预订",
-   "title_zh": "会飞的车！特斯拉新款Roadster跑车亮相，中国官网开放预订，意向金33.2万 - 新浪网",
    "sentiment": 1
   },
   {
@@ -3172,26 +3270,6 @@
    "session": "盘前",
    "zh_summary": "马斯克展示飞行Roadster",
    "title_zh": "Roadster亮相，马斯克称飞行汽车成真",
-   "sentiment": 1
-  },
-  {
-   "id": "314d02735151",
-   "title": "Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBHa1NpdEU0Zjg2Q1lwVlR0djdXaHZvalJvajdnWkYwR1cyNG1UMDdQS3h5bmVfLXcweUhLMnNQQWM2NlhNVDhUY2tpT3hDc1BLUVRDaEJCYmg2aFhKbFdWZkZ2N2N0UlpkRElqQUpWbTRzTGJPSXZEVTBPN1B1LUNkeFc",
-   "source": "Financial Times",
-   "published_at": "2026-10-16T09:28:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Financial Times",
-     "published_at": "2026-10-16T09:28:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXBHa1NpdEU0Zjg2Q1lwVlR0djdXaHZvalJvajdnWkYwR1cyNG1UMDdQS3h5bmVfLXcweUhLMnNQQWM2NlhNVDhUY2tpT3hDc1BLUVRDaEJCYmg2aFhKbFdWZkZ2N2N0UlpkRElqQUpWbTRzTGJPSXZEVTBPN1B1LUNkeFc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉发布火箭推进可飞跑车",
-   "title_zh": "特斯拉发布会飞跑车，搭载SpaceX火箭推进器",
    "sentiment": 1
   },
   {
@@ -4210,26 +4288,6 @@
    "sentiment": 1
   },
   {
-   "id": "a0a5529e2dcc",
-   "title": "特斯拉第二代Roadster亮相 中国官网意向金33.2万元 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pMEFHbk1sSENSRFJlWmVRQ19HREhBOVBxWWhNR1V1NEJpLVpub2Z2QmtPaUw0M3ZUZGdxaFRmM3ZrbTBFdG1WelgyazRUQ3ZuNklnelpLUThYTEctSGRkbk9n",
-   "source": "观点网",
-   "published_at": "2026-10-16T07:57:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-16T07:57:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pMEFHbk1sSENSRFJlWmVRQ19HREhBOVBxWWhNR1V1NEJpLVpub2Z2QmtPaUw0M3ZUZGdxaFRmM3ZrbTBFdG1WelgyazRUQ3ZuNklnelpLUThYTEctSGRkbk9n"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉第二代Roadster亮相意向金33.2万元",
-   "title_zh": "特斯拉第二代Roadster亮相 中国官网意向金33.2万元 - 观点网",
-   "sentiment": 1
-  },
-  {
    "id": "4121ee1673b7",
    "title": "Roadster飞起来了：特斯拉打开的，可能是一个比飞行汽车更大的技术市场 - 全天候科技",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96T2hyTEFjOWU4N3lHTjlWd1RNbWVfaThzSDFpNmprSWEtTzZ1el9lU0M2QVl6MHNUUldlZVF6QzJkV2pocFJ5d2dB",
@@ -4872,6 +4930,23 @@
    "zh_summary": "马斯克称Roadster是最后手动驾驶车",
    "title_zh": "马斯克：Roadster将是特斯拉最后一款手动驾驶汽车 - 新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "fbd8e3b3d25d",
+   "title": "Tesla Roadster supercar flies, sucks to wall, hits sub-1 second 0-60 mph - The Detroit News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnJvV1V2SzA0STdSeUJJaDJZQjNnRXUybHctVlFtSDEtaTZKT2RjZ2F0TzQyc3VEZzBqZG96TF9Qb0J4REJBNW1hdkFVWHVZMU5GTlRucm94cTJEOGZZb19OQmZyYURVTnpONFZyU3Rjd1J6Yzg4dFV6Q3VidlFFZVlUSGJaazl5NHZ3Mk0tcTZRem1EeFozcVBQSjRIZTFtMUY5cEUyMXJTTzhXVDZJNHZrc3c",
+   "source": "The Detroit News",
+   "published_at": "2026-10-16T07:18:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Detroit News",
+     "published_at": "2026-10-16T07:18:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnJvV1V2SzA0STdSeUJJaDJZQjNnRXUybHctVlFtSDEtaTZKT2RjZ2F0TzQyc3VEZzBqZG96TF9Qb0J4REJBNW1hdkFVWHVZMU5GTlRucm94cTJEOGZZb19OQmZyYURVTnpONFZyU3Rjd1J6Yzg4dFV6Q3VidlFFZVlUSGJaazl5NHZ3Mk0tcTZRem1EeFozcVBQSjRIZTFtMUY5cEUyMXJTTzhXVDZJNHZrc3c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "6dea042a6c49",
@@ -6209,110 +6284,6 @@
    "session": "盘前",
    "zh_summary": "新一代Roadster演示悬浮飞行",
    "title_zh": "【视频】订金33万！跳票9年的特斯拉Roadster居然能飞？",
-   "sentiment": 0
-  },
-  {
-   "id": "4220d3183e6e",
-   "title": "特斯拉Roadster发布 国内同步预订Performanc - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02ckY4Y0ZiM3ItRFE2YXZwWElpX1VjalJXQkhiN3dDdC1ZSndoYjd5Y2tOQkh1NXVTdFRoY1habDVxSy1YVnpFcS03MDkzc3VoOUMySXdvRi1VLTQ",
-   "source": "汽车之家",
-   "published_at": "2026-10-16T05:47:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-16T05:47:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02ckY4Y0ZiM3ItRFE2YXZwWElpX1VjalJXQkhiN3dDdC1ZSndoYjd5Y2tOQkh1NXVTdFRoY1habDVxSy1YVnpFcS03MDkzc3VoOUMySXdvRi1VLTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster发布国内开启预订",
-   "title_zh": "特斯拉Roadster发布 国内同步预订Performanc",
-   "sentiment": 1
-  },
-  {
-   "id": "4e597ce6e03c",
-   "title": "特斯拉Roadster能飞能吸地2028年量产 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRmJnXzczV3ZrOWJHNFNHMnBHb0wxNENYNl9HWEYtaVBkcjhwYTNsa3FMcGF4dnlWNEFMRDZDSThnNThDa1J0T1ZFM3U1MVRuemVvbXI5RVBIRVU",
-   "source": "汽车之家",
-   "published_at": "2026-10-16T05:47:26+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-16T05:47:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRmJnXzczV3ZrOWJHNFNHMnBHb0wxNENYNl9HWEYtaVBkcjhwYTNsa3FMcGF4dnlWNEFMRDZDSThnNThDa1J0T1ZFM3U1MVRuemVvbXI5RVBIRVU"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-16T10:41:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yZWV2SWNIRFZBSzFXdE9jenRsaUMzMk5IUnBUUXo4UDJzak1zRWFrbnRwbUQteFU0SnVNelIzTlZyX0RfbUlCU21HeGk"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-16T10:53:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qTTJvbW5HWGxwaC11dGlPNERVUlQ4cVF3OU1xdVJlVkJfQXJBVVpjenl0NWJsaVJwbVFRN251aWNJZ2hkeXc3TG9rWk1BODMxS1lhcXZRYmNCS3c"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T12:58:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01dHEzMmZaeGVnTnZyRXQ1QzNlOFFlYmRZX09fU3kzQkZ0N0gxLXNDenJqeFFIUHZ1QnprU0ZoQXc2SHFFOWtDc3V2VUgzNXpzSFMwek5EVFZKaWpncnNPem03STU2S0pzU2ZsbnZzdUJBTWEzQ2hLTS1uOFVZRk0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster可飞行吸地2028年量产",
-   "title_zh": "特斯拉Roadster能飞能吸地2028年量产",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "e536262135e0",
-   "title": "特斯拉新Roadster演示悬浮翻转2028年投产 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNzhXV3RtanpDazZMZmVuekZSWUUwc2dmdlo4cjE4VEFKU3h5ZXFrS3ozNm80VkhDWW95blhSZGxfMFVITU9FNWt5Sk5XQUNoTlJST1lJdTZ2NTQ",
-   "source": "车家号",
-   "published_at": "2026-10-16T05:47:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-16T05:47:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNzhXV3RtanpDazZMZmVuekZSWUUwc2dmdlo4cjE4VEFKU3h5ZXFrS3ozNm80VkhDWW95blhSZGxfMFVITU9FNWt5Sk5XQUNoTlJST1lJdTZ2NTQ"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-16T05:48:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SNzhXV3RtanpDazZMZmVuekZSWUUwc2dmdlo4cjE4VEFKU3h5ZXFrS3ozNm80VkhDWW95blhSZGxfMFVITU9FNWt5Sk5XQUNoTlJST1lJdTZ2NTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "新Roadster展示悬浮翻转2028投产",
-   "title_zh": "特斯拉新Roadster演示悬浮翻转2028年投产",
-   "sentiment": 0
-  },
-  {
-   "id": "bdd4e7dcc60c",
-   "title": "【视频】这不是AI！特斯拉Roadster倒挂翻转，还从卡车头顶飞过去了！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tcTFZYVJMUkdoMEctOXZtZkxyMzZzRGZtekVRc3g1d0luM1h6Mk1zVVNiaDF3bnBBM2UyTXFTTVhsLTlVOFVQYTAxS3ZYSUNYcWtlY2JFZHM5YUU",
-   "source": "汽车之家",
-   "published_at": "2026-10-16T05:44:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-16T05:44:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tcTFZYVJMUkdoMEctOXZtZkxyMzZzRGZtekVRc3g1d0luM1h6Mk1zVVNiaDF3bnBBM2UyTXFTTVhsLTlVOFVQYTAxS3ZYSUNYcWtlY2JFZHM5YUU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster演示倒挂翻转飞行",
-   "title_zh": "【视频】这不是AI！特斯拉Roadster倒挂翻转，还从卡车头顶飞过去了！",
    "sentiment": 0
   }
  ]
