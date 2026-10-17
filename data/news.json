@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T23:07:29.805838+00:00",
+ "updated_at": "2026-10-17T23:22:34.580541+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（217条已评分）"
+     "note": "今日新闻情绪 +0.25（219条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-17T23:07:29.788608+00:00"
+   "as_of": "2026-10-17T23:22:34.567859+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 217
+   "avg": 0.25,
+   "count": 219
   }
  },
  "meta": {
@@ -4064,26 +4064,6 @@
    "sentiment": 0
   },
   {
-   "id": "5049a5891598",
-   "title": "Tesla unveils new Roadster and yes, it can actually fly - Mashable",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OZ2NYWVdTdTQ1aHBPNVFGSnBEQjROTW5Fbm5LMVNicmRRRlZhak9ZQlktV2ROT2p6TDU1OFpxbEpTN1VKNXgtN0pPbHpsZWVnWE94OFhjRlJHS3c",
-   "source": "Mashable",
-   "published_at": "2026-10-17T06:43:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Mashable",
-     "published_at": "2026-10-17T06:43:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OZ2NYWVdTdTQ1aHBPNVFGSnBEQjROTW5Fbm5LMVNicmRRRlZhak9ZQlktV2ROT2p6TDU1OFpxbEpTN1VKNXgtN0pPbHpsZWVnWE94OFhjRlJHS3c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉发布新款Roadster可飞行",
-   "title_zh": "特斯拉发布新款Roadster，真的可以飞",
-   "sentiment": 1
-  },
-  {
    "id": "1e2a1210fab8",
    "title": "特斯拉Roadster发布会现场竖立巨型U形跑道 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qM3FRUkpNVFdhWXNVN2FxeElmcUYyV3BROGd5RTNUQXEtTmY1VmFuem9pTlV5TXpsS19OU1NsYlk5aldvcHRBUlA2ZUdERDMxQ045am9KSndFT2loaHZuZUVaUVZPaU5kakZycHNVaDZwc0U",
@@ -5344,12 +5324,17 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0ROQXpRRXpNRTlUczdiMW1tN1NVUGNjeEZqWGgya3lKN2hOa2ZveVJtNWlJUy1CMlRaazRmTTFoMVRuUDViQy1BLXdWREJWS1BwWTVXRk95RU1JVzhIaU9td2JVZTZNanREMVZBTTZTTjNvdjJqaDFjd05NNGNuTmM0YTc3dy1kS0FXTUs0NVJXSTZ0NXd4d0psTl9aZ1Bwc0ZhemdQdld2TzNpM252SWV3",
    "source": "KMPH Fox 26",
    "published_at": "2026-10-17T03:51:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "KMPH Fox 26",
      "published_at": "2026-10-17T03:51:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0ROQXpRRXpNRTlUczdiMW1tN1NVUGNjeEZqWGgya3lKN2hOa2ZveVJtNWlJUy1CMlRaazRmTTFoMVRuUDViQy1BLXdWREJWS1BwWTVXRk95RU1JVzhIaU9td2JVZTZNanREMVZBTTZTTjNvdjJqaDFjd05NNGNuTmM0YTc3dy1kS0FXTUs0NVJXSTZ0NXd4d0psTl9aZ1Bwc0ZhemdQdld2TzNpM252SWV3"
+    },
+    {
+     "name": "FOX 29 Philadelphia",
+     "published_at": "2026-10-17T22:12:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmZkdXhWU2p5NmJtbnlsTk9DUTVpa1lGUzV4Mk5yNkg1X3BJWFNBSm9xWURsZFZ5NGdHakxYMHlfTTJiYVM3MFRpQktyUmt2bGRTN0NvVkw4bThPekhNRmZKZlRrSHB5cmE0VkZkeHVjcUc1TXc0UjRKSUpfSTF2LTRQZldqWHF0aXZqZDU0OUttamFQTHhBQm83S29DNGFHSmIzS1RqbWdBbmZsUlpNdzY4cXFZQ1hiMkc4"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6327,6 +6312,23 @@
    "zh_summary": "特斯拉推Roadster飞行科幻功能",
    "title_zh": "特斯拉推科幻功能，国产车若做恐被批不务正业",
    "sentiment": 0
+  },
+  {
+   "id": "588109e0598b",
+   "title": "历史押韵｜特斯拉飞天 vs 刹车踏板断裂，三部门彻查背后，谁在遥遥领先？ - China Digital Times",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MaDFoRmdLSlBvTWo4MjNUdmtFcG91NTQzYUw0YlBhbnNXWXpHRlBVdVB5dVEzX05mMldEVDYzaDhJc3VCbTdZUWo2ZF9QT0ZDaU9velVIOUJzZDhIbnfSAV5BVV95cUxNTGgxaEZnS0pQb01qODIzVHZrRXBvdTU0M2FMNGJQYW5zV1l6R0ZQVXVQeXVRM19OZjJXRFQ2M2g4SXN1Qm03WVFqNmRfUE9GQ2lPb3pVSDlCc2Q4SG53",
+   "source": "China Digital Times",
+   "published_at": "2026-10-17T01:11:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "China Digital Times",
+     "published_at": "2026-10-17T01:11:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MaDFoRmdLSlBvTWo4MjNUdmtFcG91NTQzYUw0YlBhbnNXWXpHRlBVdVB5dVEzX05mMldEVDYzaDhJc3VCbTdZUWo2ZF9QT0ZDaU9velVIOUJzZDhIbnfSAV5BVV95cUxNTGgxaEZnS0pQb01qODIzVHZrRXBvdTU0M2FMNGJQYW5zV1l6R0ZQVXVQeXVRM19OZjJXRFQ2M2g4SXN1Qm03WVFqNmRfUE9GQ2lPb3pVSDlCc2Q4SG53"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
   }
  ]
 }
