@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T00:22:31.491826+00:00",
+ "updated_at": "2026-10-17T00:37:30.109613+00:00",
  "market": {
   "price": 362.44,
   "change_pct": -1.29,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（297条已评分）"
+     "note": "今日新闻情绪 +0.45（297条已评分）"
     },
     {
      "key": "动量",
@@ -50,13 +50,13 @@
    "target_count": 16,
    "implied_upside_pct": 10.4,
    "ma20": 370.81,
-   "as_of": "2026-10-17T00:22:31.481387+00:00"
+   "as_of": "2026-10-17T00:37:30.104536+00:00"
   },
   "pe_ttm": 100.2,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.44,
+   "avg": 0.45,
    "count": 297
   }
  },
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "76b407e4d2ef",
+   "title": "Video Elon Musk unveils Tesla's \"flying car\" more than a decade in the making - ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbW1RaXlSbURjSFBISzFqUjhWenhMdHprNnZiZFNNUVo3STVKLU5TYk5aT2Zlck0xaG9PSzB3c0lUeXB4WE5kdkxhRzhqNGE4Mk1YWTFrOFBRVERpbHM4T2lVaEdhQlkyOWlVMzNaSW5QZ0pMNzVIWUNtemdTZWtVSUVLeFJZWEpqVWR4NUtLb3hJc1E",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "published_at": "2026-10-17T00:10:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "published_at": "2026-10-17T00:10:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbW1RaXlSbURjSFBISzFqUjhWenhMdHprNnZiZFNNUVo3STVKLU5TYk5aT2Zlck0xaG9PSzB3c0lUeXB4WE5kdkxhRzhqNGE4Mk1YWTFrOFBRVERpbHM4T2lVaEdhQlkyOWlVMzNaSW5QZ0pMNzVIWUNtemdTZWtVSUVLeFJZWEpqVWR4NUtLb3hJc1E"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
   {
    "id": "9529da2e5366",
    "title": "带偏L4无人驾驶后，特斯拉飞车，又要让搞飞行汽车的破防？ - 汽车之家",
@@ -83,9 +100,43 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "带偏L4无人驾驶后，特斯拉飞车，又要让搞飞行汽车的破防？ - 汽车之家",
    "zh_summary": "新一代Roadster可短暂飞行",
+   "title_zh": "带偏L4无人驾驶后，特斯拉飞车，又要让搞飞行汽车的破防？ - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "c29b5ece13e9",
+   "title": "Tesla shows off new flying car concept - CBS News",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82LTBma1Qtek5DNk5sMmIzME1ZVDBaTkxBU3Jrc2JfTnVqeFNlMW81NGtJWnVDekY3WlVoSTMxdW1NcjF0dVRMbFJDYzMzYVM4WTVwdVRJMGxkeGNuYU1aUTRtZjdhRlotT0hRcEt6RV80THd3RVM2LQ",
+   "source": "CBS News",
+   "published_at": "2026-10-16T23:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CBS News",
+     "published_at": "2026-10-16T23:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82LTBma1Qtek5DNk5sMmIzME1ZVDBaTkxBU3Jrc2JfTnVqeFNlMW81NGtJWnVDekY3WlVoSTMxdW1NcjF0dVRMbFJDYzMzYVM4WTVwdVRJMGxkeGNuYU1aUTRtZjdhRlotT0hRcEt6RV80THd3RVM2LQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "762d4801b2b9",
+   "title": "等了九年，特斯拉Roadster飞起来了 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iSVRkSXVMR2l6ZW9CNkw1cUpSLWszRjBCT3FNdmVCbFZOYnFOeWFSZEE3Zk9tdWI3XzhxMFF6Z3BVV2NKUDA5OEs4VDY",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-16T23:43:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-16T23:43:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iSVRkSXVMR2l6ZW9CNkw1cUpSLWszRjBCT3FNdmVCbFZOYnFOeWFSZEE3Zk9tdWI3XzhxMFF6Z3BVV2NKUDA5OEs4VDY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "fd0bdc0b07de",
@@ -143,8 +194,8 @@
    ],
    "category": "马斯克",
    "session": "盘后",
-   "title_zh": "马斯克发布特斯拉首款飞车创速度纪录",
    "zh_summary": "马斯克发布特斯拉飞车创纪录",
+   "title_zh": "马斯克发布特斯拉首款飞车创速度纪录",
    "sentiment": 1
   },
   {
@@ -3586,8 +3637,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "突破物理极限？特斯拉全新Roadster，一台可以短暂飞行的电动跑车 - 手机新浪网",
    "zh_summary": "全新Roadster可短暂飞行",
+   "title_zh": "突破物理极限？特斯拉全新Roadster，一台可以短暂飞行的电动跑车 - 手机新浪网",
    "sentiment": 1
   },
   {
@@ -6236,91 +6287,6 @@
    "zh_summary": "Roadster发布会推动TSLA涨超3%",
    "title_zh": "Roadster发布会推动TSLA涨超3%，能突破400美元吗？",
    "sentiment": 1
-  },
-  {
-   "id": "0258c277f6b1",
-   "title": "换个视角看下特斯拉Roadster的飞行机动动作 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfLVZONXVkTjU1LU50RldKcmd4T1hpcDdLUE9rT1M1VFlVdGpPTGZ4cFUyc2pzZFg3bTJmYTZYaFpQT2RmQXI2X1p4eDV4TU1Dam16YWZrSVFHeWxwN1FXdlgyeVRxaE5lakJXNlZWQnpCSTA",
-   "source": "新浪网",
-   "published_at": "2026-10-16T10:11:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T10:11:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfLVZONXVkTjU1LU50RldKcmd4T1hpcDdLUE9rT1M1VFlVdGpPTGZ4cFUyc2pzZFg3bTJmYTZYaFpQT2RmQXI2X1p4eDV4TU1Dam16YWZrSVFHeWxwN1FXdlgyeVRxaE5lakJXNlZWQnpCSTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster展示飞行机动",
-   "title_zh": "换个视角看下特斯拉Roadster的飞行机动动作 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "722e10b37fd5",
-   "title": "Tesla stock jumps 4.5% after CEO unveils new fl... - Pluang",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFJPbkM4c090dFBrY1REZmJxd1M3Mjh5Rnhxekw0NEtFRTc0cFVORXgwbFA5ZERUV2s5d2E3T085Z0NidGhpTk9hUHJEWWR1azBueFBvUWtKRTZZMXJtMVNZU3UyZnlpUWRFTlF4R2tFVFdxYVBZeElnU0hIYWhtWjRmSWJiaFNQZ2JIZEpaS3dmMDBnM04xSzVRSTZ3YXYtTVp6RkdTZw",
-   "source": "Pluang",
-   "published_at": "2026-10-16T10:11:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Pluang",
-     "published_at": "2026-10-16T10:11:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFJPbkM4c090dFBrY1REZmJxd1M3Mjh5Rnhxekw0NEtFRTc0cFVORXgwbFA5ZERUV2s5d2E3T085Z0NidGhpTk9hUHJEWWR1azBueFBvUWtKRTZZMXJtMVNZU3UyZnlpUWRFTlF4R2tFVFdxYVBZeElnU0hIYWhtWjRmSWJiaFNQZ2JIZEpaS3dmMDBnM04xSzVRSTZ3YXYtTVp6RkdTZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA涨4.5%，CEO发布新品",
-   "title_zh": "Tesla股票涨4.5%，CEO发布新品后 - Pluang",
-   "sentiment": 1
-  },
-  {
-   "id": "fcc2dc87f7e4",
-   "title": "蔚来李斌：特斯拉Roadster会飞太厉害了 这个我们真没有 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93cXBBUjhLaGktMUVrLW9taW85ZUpDRURScDlib3FEVjJoN2FIdHJIaEE0dllQVmJVc1BUYURfY1lfbGszdEJZQ0pUbFBoTTdlT2ZEMDFzZ08",
-   "source": "驱动之家",
-   "published_at": "2026-10-16T10:06:00+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-16T10:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93cXBBUjhLaGktMUVrLW9taW85ZUpDRURScDlib3FEVjJoN2FIdHJIaEE0dllQVmJVc1BUYURfY1lfbGszdEJZQ0pUbFBoTTdlT2ZEMDFzZ08"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T10:06:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSE52cTZTSUExX2J4MzB2Ry1Ba1N6TmxtMnZMbW1uR3BPZ1RIY3E3SXljS21qMzVWQjhrYjI3QXpMb3JpWm1CYzdxdUU3ZzZ6M19fcXlzUlNZb2NMMjVIWFhLNzRoU3hkd2szZ0JncjFIdzJqQ29HZDlNak81U1dHOGd5ay13cDNt"
-    },
-    {
-     "name": "中华网",
-     "published_at": "2026-10-16T10:44:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VM1ZEbXVtcXkxWEY1anV3QWZKVUZ6MXpzdEpSVlZBZjVwMi01bXpNMUJvUXdDR0xlZVZpeHpzdzdtaFBUVm5Ub3E5YUVpRHd5RENhSEIwc1ItQ2JzRElrV1FBek5FSGVLdUxSX1NaTkE"
-    },
-    {
-     "name": "新京报",
-     "published_at": "2026-10-16T11:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CbldlcjR0Z0tvaWlaSmtTRDZ5cXFKOFFnRUlzdGFtUXRmamtESHF1NkJMWEtXR05nVEhCbmQwLXc2YkJlODJ4UTBBRXU5NjVvVW9BLVNBc3lJTXZkdEhyVzBjWlY"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T10:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iM256LTF4OFZNcUV1aUd4YlI2dGxuLUVseElvUUd0N182TlhGUVBnSHdjSHdRaXhSVUVCS0hQSnZqUGFVVDhoaDhDcnoweEZleXhmSXJ5WWs0emxFTlh4QnhQNG1PVXhsdjZSME1kVE16QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "蔚来李斌称Roadster会飞太厉害",
-   "title_zh": "蔚来李斌：特斯拉Roadster会飞太厉害了 这个我们真没有 - 驱动之家",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.42,
-    "window_h": 0.1
-   }
   }
  ]
 }
