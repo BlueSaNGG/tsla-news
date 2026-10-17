@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-17T01:22:41.251156+00:00",
+ "updated_at": "2026-10-17T01:37:35.410835+00:00",
  "market": {
-  "price": 362.44,
-  "change_pct": -1.29,
+  "price": 354.72,
+  "change_pct": -2.13,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-10-21",
@@ -17,27 +17,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
-     "score": 0,
-     "note": "现价处于52周区间 33% 分位"
+     "score": 1,
+     "note": "现价处于52周区间 29% 分位（偏低）"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +12.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（296条已评分）"
+     "note": "今日新闻情绪 +0.45（298条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $362.44 vs 20日均线 $370.81"
+     "note": "现价 $354.72 vs 20日均线 $370.33"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 33,
+   "price_52w_pct": 29,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.4,
-   "ma20": 370.81,
-   "as_of": "2026-10-17T01:22:41.241925+00:00"
+   "implied_upside_pct": 12.8,
+   "ma20": 370.33,
+   "as_of": "2026-10-17T01:37:35.404206+00:00"
   },
-  "pe_ttm": 100.2,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.4%空间：估值适中，预期中性",
+  "pe_ttm": 98.1,
+  "pe_pct_5y": 47,
+  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.45,
-   "count": 296
+   "count": 298
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d950783fdb2a",
+   "title": "\"这个我们真没有\" 特斯拉Roadster腾空起飞，蔚小理如何评价？ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtQ09MYzB0c1NkWUtoUE45MjAzaHluWEwzN2RkYWZONVRQNXY5Tzd1OFRNTUM5R3RBV2xFYVJPQmNrWnpheE5OUW8zOThyZ0xkcTh0blNmYzBnN0l6",
+   "source": "Moomoo",
+   "published_at": "2026-10-17T01:22:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-17T01:22:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtQ09MYzB0c1NkWUtoUE45MjAzaHluWEwzN2RkYWZONVRQNXY5Tzd1OFRNTUM5R3RBV2xFYVJPQmNrWnpheE5OUW8zOThyZ0xkcTh0blNmYzBnN0l6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "8cc320a8f13b",
+   "title": "特斯拉新Roadster跑车“飞上天”，外媒都如何评价？ - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByNlVkc2pZMkNmZThJNFJtZFRKV2ZmZ0p5akM3d2V1d1RYM2xDSFBockp3UXZzVDNPOEsxQ0lkbE93TDlfUkhMU1NmUTI",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-17T01:19:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-17T01:19:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByNlVkc2pZMkNmZThJNFJtZFRKV2ZmZ0p5akM3d2V1d1RYM2xDSFBockp3UXZzVDNPOEsxQ0lkbE93TDlfUkhMU1NmUTI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "a383967501c9",
    "title": "特斯拉Roadster腾空首秀摘要 - 新浪新闻",
@@ -6256,46 +6290,6 @@
    "zh_summary": "Roadster采用航天技术短时悬浮",
    "title_zh": "马斯克称特斯拉Roadster会飞，航天技术下放实现短时离地悬浮 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "8e89d8c44904",
-   "title": "Tesla Has Built a Flying Car. It May Blow Your Mind. - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmdZVGM1VHF2QzY3cUJPQXJKMWljRlo3d0tBSXJBajRoNVFCVzNfRjRIWTlPV3oybHlldk5meHZTcXg3b1E3Y2FCMmVzV1Y2Z3V0UTFMQ1hwUkdGWDQyV1BWN0JFVEJpemZmc3RkcVY5QzNDVUJYRFR0MWlURHM2R19JOWYxSlJqbDVRSkR4QVpSUUhZZ2xHcGdUeS0",
-   "source": "Barron's",
-   "published_at": "2026-10-16T10:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-16T10:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmdZVGM1VHF2QzY3cUJPQXJKMWljRlo3d0tBSXJBajRoNVFCVzNfRjRIWTlPV3oybHlldk5meHZTcXg3b1E3Y2FCMmVzV1Y2Z3V0UTFMQ1hwUkdGWDQyV1BWN0JFVEJpemZmc3RkcVY5QzNDVUJYRFR0MWlURHM2R19JOWYxSlJqbDVRSkR4QVpSUUhZZ2xHcGdUeS0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "巴伦周刊报道特斯拉飞行汽车",
-   "title_zh": "特斯拉造出飞行汽车，巴伦周刊：令人惊叹",
-   "sentiment": 1
-  },
-  {
-   "id": "79ba72c7ad34",
-   "title": "空中翻滚之后，特斯拉Roadster没能回答的那个问题 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjlfemMwQjZYVm1FdWI4NjRET0pUam1JSFlIM2VhdUVKQndseHJXdS1HdnlGbW5XellMbGhkRmdKZFpCd05pMkhNTWdlc1REbWVGSDdKQlpMN0lRQXZkNHBneEFBZDI1Z0lLTkYtTEJWdnFFVFVfWm1SQWF1dGRCd2ZOR00wZXVh",
-   "source": "搜狐",
-   "published_at": "2026-10-16T10:32:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T10:32:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjlfemMwQjZYVm1FdWI4NjRET0pUam1JSFlIM2VhdUVKQndseHJXdS1HdnlGbW5XellMbGhkRmdKZFpCd05pMkhNTWdlc1REbWVGSDdKQlpMN0lRQXZkNHBneEFBZDI1Z0lLTkYtTEJWdnFFVFVfWm1SQWF1dGRCd2ZOR00wZXVh"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster空中翻滚后仍有疑问",
-   "title_zh": "空中翻滚之后，特斯拉Roadster没能回答的那个问题 - 搜狐",
-   "sentiment": 0
   }
  ]
 }
