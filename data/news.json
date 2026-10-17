@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T12:07:27.115512+00:00",
+ "updated_at": "2026-10-17T12:22:30.361472+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（90条已评分）"
+     "note": "今日新闻情绪 +0.23（92条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-17T12:07:27.023754+00:00"
+   "as_of": "2026-10-17T12:22:30.352311+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 90
+   "avg": 0.23,
+   "count": 92
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "cf0fd9fad519",
+   "title": "Feds Investigating Tesla Cybercab Robotaxis For Speeding In School Zones - CarBuzz",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDZwQ0JZVk43MUtnTUp4OXVZVWhKV1dVek4tcXM1RTVyS1NfM3hQQlJlb0QyRjJENHRveXIyMW8xUXRlOThEWWNsOHVyLWpIMlMzeE53QW40aU90V2YzdUtPMHVoQ19QMFJOR2hxYlIxNlgyQ2kwY2N0bHBwS0FWWVhDYllWSjd4SGVV",
+   "source": "CarBuzz",
+   "published_at": "2026-10-17T12:00:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CarBuzz",
+     "published_at": "2026-10-17T12:00:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDZwQ0JZVk43MUtnTUp4OXVZVWhKV1dVek4tcXM1RTVyS1NfM3hQQlJlb0QyRjJENHRveXIyMW8xUXRlOThEWWNsOHVyLWpIMlMzeE53QW40aU90V2YzdUtPMHVoQ19QMFJOR2hxYlIxNlgyQ2kwY2N0bHBwS0FWWVhDYllWSjd4SGVV"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
   {
    "id": "214a7fbad4b4",
    "title": "【网通社快报】特斯拉新一代Roadster亮相并展示冷气反推技术 - 凤凰网汽车",
@@ -84,8 +101,8 @@
    "category": "其他",
    "session": "周末",
    "zh_summary": "新一代Roadster亮相展示冷气反推技术",
-   "sentiment": 1,
-   "title_zh": "【网通社快报】特斯拉新一代Roadster亮相并展示冷气反推技术 - 凤凰网汽车"
+   "title_zh": "【网通社快报】特斯拉新一代Roadster亮相并展示冷气反推技术 - 凤凰网汽车",
+   "sentiment": 1
   },
   {
    "id": "f30d4c3fc404",
@@ -366,6 +383,28 @@
    "zh_summary": "特斯拉Roadster技术重新定义超跑边界",
    "title_zh": "特斯拉Roadster技术新鲜吗 重新定义超跑边界",
    "sentiment": 0
+  },
+  {
+   "id": "e09d3b0c7286",
+   "title": "马斯克遭踢馆！对手甩飞行车飞越特斯拉视频：喊话领先11年 - 第一电动网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IN2pUam96bkNfMXlEVFdVdU9zWEt6b19WRWZKVVFWSWV5VHZRc0VRcFc0SjhuSjJlUDlaRmt3V2VLdUxMTnFmLVdLNlVzQQ",
+   "source": "第一电动网",
+   "published_at": "2026-10-17T10:24:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "第一电动网",
+     "published_at": "2026-10-17T10:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IN2pUam96bkNfMXlEVFdVdU9zWEt6b19WRWZKVVFWSWV5VHZRc0VRcFc0SjhuSjJlUDlaRmt3V2VLdUxMTnFmLVdLNlVzQQ"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-17T10:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lWDRNMVIzZnNteGthM2NsS0pQUDVmaXZKYVVZUjJSYkpMVkk3TGlOUWNUMC1fdTVxRXl3cmlWOTg2Q1pvaXpsUEttUmxsak40alRtNjdqbGI"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
   },
   {
    "id": "89e53e24d055",
@@ -3973,12 +4012,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16RXdqaHFDeWJST0JmanhYY3BDVi1Mb18yQXNuT2VLLVZlcnExa1pUWEdKYjJMYWhacG53QzhTWmR6TDVOaDJoU2h4bjM5MG5LWDljTk9LSWFDV0k",
    "source": "车家号",
    "published_at": "2026-10-17T00:53:12+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "车家号",
      "published_at": "2026-10-17T00:53:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16RXdqaHFDeWJST0JmanhYY3BDVi1Mb18yQXNuT2VLLVZlcnExa1pUWEdKYjJMYWhacG53QzhTWmR6TDVOaDJoU2h4bjM5MG5LWDljTk9LSWFDV0k"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-17T00:59:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sbXNDRXRobHJOc2xlcl9Rc2FrUUtXeUhNV3dJRXBPbk14WVJva2w1SkNrczI4amZZekw1NkY0ckVfN1Z2cGZuTUsyQlB5Q3VVVzRWbEtremJCdmEzeFE"
     }
    ],
    "category": "其他",
@@ -5764,8 +5808,8 @@
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉发布会飞的Roadster",
-   "sentiment": 1,
-   "title_zh": "会飞的汽车真的来了！特斯拉发布Roadster - 新浪网"
+   "title_zh": "会飞的汽车真的来了！特斯拉发布Roadster - 新浪网",
+   "sentiment": 1
   },
   {
    "id": "20402b78eb03",
@@ -6229,46 +6273,6 @@
    "session": "盘中",
    "zh_summary": "Edmunds记者亲历Roadster发布",
    "title_zh": "Edmunds亲历特斯拉Roadster发布：怪异又狂野",
-   "sentiment": 0
-  },
-  {
-   "id": "87e3fe5caca0",
-   "title": "Tesla unveils highly anticipated Roadster that can fly through the air - NBC 5 Dallas-Fort Worth",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1JrOTgyM0ozdExzOEx2ZVN3dEU4QmtiNUM1d0xCTVk2Z2ZrOHJ1VEpERDNUdXlpNzZ1SFo0ZDc2U0d5YktMeWNZVkk3RlRiSmxobFJ1bjI1VnhJeFZlMDVOUFZHOWRXYTF6SG0ycDRRZ0tGWFVHaG1HQUlqOFdQdjZsSkxkVlc4cHBhdEd0SzZKa3lNMkF4OHd3cURmYkFwRl82NHcyTVZwT1ZVRThxM0dERncxRktq0gHAAUFVX3lxTFBTc2xBY1FGTWJHMnB4QXBSbDlzczlCU3lYWEpGdWo5UU1rTlE4ajFGYWZUcUEwWW9XTF9ha1FvY1dnS1NjLXkzWkJHa0VYWnowQmRBZnRnbk9JOWRjVlFrVWdEeC0xV3FRSUhiY3otOVhWcWtBd2poMTJyVDdKUnl4TVhXeVlJOWpKV0hwb05TMUlUMVJpVkVzV0hyR3prRXBGNlhRd19WZGhDUExoVDJBQzFDSlVFck9MelB0VnRBVw",
-   "source": "NBC 5 Dallas-Fort Worth",
-   "published_at": "2026-10-16T16:45:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NBC 5 Dallas-Fort Worth",
-     "published_at": "2026-10-16T16:45:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1JrOTgyM0ozdExzOEx2ZVN3dEU4QmtiNUM1d0xCTVk2Z2ZrOHJ1VEpERDNUdXlpNzZ1SFo0ZDc2U0d5YktMeWNZVkk3RlRiSmxobFJ1bjI1VnhJeFZlMDVOUFZHOWRXYTF6SG0ycDRRZ0tGWFVHaG1HQUlqOFdQdjZsSkxkVlc4cHBhdEd0SzZKa3lNMkF4OHd3cURmYkFwRl82NHcyTVZwT1ZVRThxM0dERncxRktq0gHAAUFVX3lxTFBTc2xBY1FGTWJHMnB4QXBSbDlzczlCU3lYWEpGdWo5UU1rTlE4ajFGYWZUcUEwWW9XTF9ha1FvY1dnS1NjLXkzWkJHa0VYWnowQmRBZnRnbk9JOWRjVlFrVWdEeC0xV3FRSUhiY3otOVhWcWtBd2poMTJyVDdKUnl4TVhXeVlJOWpKV0hwb05TMUlUMVJpVkVzV0hyR3prRXBGNlhRd19WZGhDUExoVDJBQzFDSlVFck9MelB0VnRBVw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉发布可飞行的Roadster",
-   "title_zh": "特斯拉发布万众期待的可飞行Roadster",
-   "sentiment": 1
-  },
-  {
-   "id": "aba3702de71f",
-   "title": "Tesla Jumps On Flying Roadster, But Not For Long - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVBseERmLW5lclhibjl5cF9pbHFIOW9PTWhaYS1Ka2k5NnBkZkIyaWNZZUFidnkxbW9lREJqNVNQQ0NpOUdDdDBWTFQybHphOXY4OFdpT2N6NEoxcWFFckowVVFzankwc3lCXzhkY0QwMmdvdFQySjFIOVNhNGpSUl9mU2Vzems",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-16T16:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-16T16:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVBseERmLW5lclhibjl5cF9pbHFIOW9PTWhaYS1Ka2k5NnBkZkIyaWNZZUFidnkxbW9lREJqNVNQQ0NpOUdDdDBWTFQybHphOXY4OFdpT2N6NEoxcWFFckowVVFzankwc3lCXzhkY0QwMmdvdFQySjFIOVNhNGpSUl9mU2Vzems"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价因飞行跑车短暂跳涨",
-   "title_zh": "特斯拉股价因飞行跑车跳涨但未能持久",
    "sentiment": 0
   }
  ]
