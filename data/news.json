@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T10:37:30.156135+00:00",
+ "updated_at": "2026-10-17T10:52:24.919023+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（73条已评分）"
+     "note": "今日新闻情绪 +0.30（77条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-17T10:37:30.127666+00:00"
+   "as_of": "2026-10-17T10:52:24.908086+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 73
+   "avg": 0.3,
+   "count": 77
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "227cca42d722",
+   "title": "California’s Peculiar ‘N-Word’ Case Against Tesla - National Review",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjd0NnY2Vk9aVUgyLU10dVdILW8xQVg1Vy1LazBqbTNGRDRHTE9JdmJBdTVGV0NTeE1mNmp6VmxXV1U2VGZjYlVtRW5CRHQ1UkFTdk1mNG9Pc2lIU3VZNW5QV1ZQT1hWYWhaZlI0SlJ2R0FxV1NkMHNjNldPT2ZKMlBfdXlQV1NYb1RjTGJWWdIBlAFBVV95cUxNWTM4VnpiZ3dsNWNLRDM2UXpTVE96ZU9RQkR3UDRkMHlDWXNrcXJkQzB0eW1CLURKRWU2bWdXMDJCdVE2Nk1BMGtOTzFyVklJT194dko2RTBvMEVGLURldTA4dm1wNTg3NFRlNFE3Nk9iWDU0cDU4Q0FkUnBVWTI5ZDZCRUxFYmdObHhscDhFTDZjTkNG",
+   "source": "National Review",
+   "published_at": "2026-10-17T10:30:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "National Review",
+     "published_at": "2026-10-17T10:30:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjd0NnY2Vk9aVUgyLU10dVdILW8xQVg1Vy1LazBqbTNGRDRHTE9JdmJBdTVGV0NTeE1mNmp6VmxXV1U2VGZjYlVtRW5CRHQ1UkFTdk1mNG9Pc2lIU3VZNW5QV1ZQT1hWYWhaZlI0SlJ2R0FxV1NkMHNjNldPT2ZKMlBfdXlQV1NYb1RjTGJWWdIBlAFBVV95cUxNWTM4VnpiZ3dsNWNLRDM2UXpTVE96ZU9RQkR3UDRkMHlDWXNrcXJkQzB0eW1CLURKRWU2bWdXMDJCdVE2Nk1BMGtOTzFyVklJT194dko2RTBvMEVGLURldTA4dm1wNTg3NFRlNFE3Nk9iWDU0cDU4Q0FkUnBVWTI5ZDZCRUxFYmdObHhscDhFTDZjTkNG"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "e5cac63007d5",
    "title": "Porsche launched a car on flying Tesla day and the memes are incredible - Mashable",
@@ -1783,10 +1800,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5OWY3Nm5XOHpXNENJQU5WQ1BzYWtFLWd2MTF4bXpPTldIbDRWaERXaDdBT3dlb19pV1ltNXJOYzhTZE05WnNvUWYxNDVOQ3lZUjBYR0NuSWNwWkU",
    "source": "车家号",
    "published_at": "2026-10-17T04:42:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "车家号",
+     "published_at": "2026-10-17T04:42:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5OWY3Nm5XOHpXNENJQU5WQ1BzYWtFLWd2MTF4bXpPTldIbDRWaERXaDdBT3dlb19pV1ltNXJOYzhTZE05WnNvUWYxNDVOQ3lZUjBYR0NuSWNwWkU"
+    },
+    {
+     "name": "汽车之家",
      "published_at": "2026-10-17T04:42:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5OWY3Nm5XOHpXNENJQU5WQ1BzYWtFLWd2MTF4bXpPTldIbDRWaERXaDdBT3dlb19pV1ltNXJOYzhTZE05WnNvUWYxNDVOQ3lZUjBYR0NuSWNwWkU"
     }
@@ -5420,31 +5442,6 @@
    "session": "盘中",
    "zh_summary": "马斯克称Roadster会飞",
    "title_zh": "马斯克特斯拉Roadster会飞，李副总破局",
-   "sentiment": 1
-  },
-  {
-   "id": "05439acd48c0",
-   "title": "会飞的汽车真的来了！特斯拉发布Roadster - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVM1VmdWJIY0d6T0ViemZrTVNuVmkzb20tSEk2VE9sVlBjTC1vbkpGUzBtZFJoUFV1UF9LSVVQQzZMSHFkRXpBOUZTeElSUmxKaGN0LWxBbEhFQTg0QjUwZjFMekdVM0d6TExRUmNHY0hXeTA",
-   "source": "新浪网",
-   "published_at": "2026-10-16T18:01:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T18:01:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVM1VmdWJIY0d6T0ViemZrTVNuVmkzb20tSEk2VE9sVlBjTC1vbkpGUzBtZFJoUFV1UF9LSVVQQzZMSHFkRXpBOUZTeElSUmxKaGN0LWxBbEhFQTg0QjUwZjFMekdVM0d6TExRUmNHY0hXeTA"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-17T09:02:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tTnVJd0pMSjltNjZLTU1zb1ZoWEhGeVZBSk9VWjFqU044dGd2UW1hejdUNUJ6ZHk3RUFxNUJIVUtJdU4tNEsyQ0JBZ0lUZVAycTBwcmdZSlhLcDA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "会飞的汽车来了，特斯拉发布Roadster",
-   "title_zh": "会飞的汽车真的来了！特斯拉发布Roadster",
    "sentiment": 1
   },
   {
