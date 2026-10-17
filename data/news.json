@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:52:27.301827+00:00",
+ "updated_at": "2026-10-17T12:07:27.115512+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（89条已评分）"
+     "note": "今日新闻情绪 +0.21（90条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-17T11:52:27.292805+00:00"
+   "as_of": "2026-10-17T12:07:27.023754+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 89
+   "avg": 0.21,
+   "count": 90
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "214a7fbad4b4",
+   "title": "【网通社快报】特斯拉新一代Roadster亮相并展示冷气反推技术 - 凤凰网汽车",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85cGdEQ3NXWVc4Yk5CWUNqQkRzQlJ1NHhtbFgtX1A5MkxERXFNWVJkOTlkaWQxcVRmTmI4SFRvZGMzYl9HVlVjSEVxWUc",
+   "source": "凤凰网汽车",
+   "published_at": "2026-10-17T11:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-17T11:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85cGdEQ3NXWVc4Yk5CWUNqQkRzQlJ1NHhtbFgtX1A5MkxERXFNWVJkOTlkaWQxcVRmTmI4SFRvZGMzYl9HVlVjSEVxWUc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "f30d4c3fc404",
+   "title": "特斯拉第二代Roadster演示短时间“飞行”能力并宣布2028年生产，追求极致体验的用户会喜欢吗？ - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMDl5WDI0ZWZlVlpHeF80M0ljNHd5QjFtbERia2gwREptck9Xb2NJUkJrNDZtUzVkUDM0M3pFc0Vaa3U5OUpjYW8tdDBpS1VHVWJHY3I1XzhnRU0",
+   "source": "网通社",
+   "published_at": "2026-10-17T11:46:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-17T11:46:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMDl5WDI0ZWZlVlpHeF80M0ljNHd5QjFtbERia2gwREptck9Xb2NJUkJrNDZtUzVkUDM0M3pFc0Vaa3U5OUpjYW8tdDBpS1VHVWJHY3I1XzhnRU0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "03072872afc0",
    "title": "特斯拉刚发布Roadster 竞争对手飞车越过车顶 - 新浪网",
@@ -1723,10 +1757,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1b21zMmNkb21wZDcwQ1lhdUVUTFM1M0VqU1Bub1RjcWhUTUNHalNVYkMwZWdJNUhpelJ0VU9ITGJjalNTUnlSZlM0bWZWNlRhMmhVRXpqcDUweXc",
    "source": "车家号",
    "published_at": "2026-10-17T05:58:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "车家号",
+     "published_at": "2026-10-17T05:58:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1b21zMmNkb21wZDcwQ1lhdUVUTFM1M0VqU1Bub1RjcWhUTUNHalNVYkMwZWdJNUhpelJ0VU9ITGJjalNTUnlSZlM0bWZWNlRhMmhVRXpqcDUweXc"
+    },
+    {
+     "name": "汽车之家",
      "published_at": "2026-10-17T05:58:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1b21zMmNkb21wZDcwQ1lhdUVUTFM1M0VqU1Bub1RjcWhUTUNHalNVYkMwZWdJNUhpelJ0VU9ITGJjalNTUnlSZlM0bWZWNlRhMmhVRXpqcDUweXc"
     }
@@ -4808,26 +4847,6 @@
    "sentiment": 1
   },
   {
-   "id": "16440cab3466",
-   "title": "With flying Roadster, Tesla waves goodbye to the car business - Axios",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjBmLVRhZVNzRjA1WXZxYnJXNEtSMFUxMGg3QXFnenVpaTE5eTY5dnM5MzBXa2RtYXlTUjB1bWR0eXlXVHZqQ21MNnFlem1USk5uRHJpTXFfRkh4cVExOEN4ZUJJa0VDcW1IVUhaeVJpZ0h3bGp0NG1kdjByRl9iNw",
-   "source": "Axios",
-   "published_at": "2026-10-16T21:17:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Axios",
-     "published_at": "2026-10-16T21:17:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjBmLVRhZVNzRjA1WXZxYnJXNEtSMFUxMGg3QXFnenVpaTE5eTY5dnM5MzBXa2RtYXlTUjB1bWR0eXlXVHZqQ21MNnFlem1USk5uRHJpTXFfRkh4cVExOEN4ZUJJa0VDcW1IVUhaeVJpZ0h3bGp0NG1kdjByRl9iNw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉发布会飞的Roadster",
-   "title_zh": "Roadster会飞，特斯拉告别造车业务——Axios",
-   "sentiment": 0
-  },
-  {
    "id": "6f8d6e6d340f",
    "title": "小摩点评Roadster发布会：特斯拉意在展示工程能力而非商业化计划 维持“中性”评级 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QNG1pcXdlTzllSVdleDVZY2xzNm9xLWxSdmc0TzNoczlacEtvU044VjNId3RYd2FOdnBUa3dUXzlMX3NIcVdNTEVKZ28yaWVzaWxzamZwM3FqNVluaGxBX3JUYw",
@@ -4888,6 +4907,26 @@
    "sentiment": 0
   },
   {
+   "id": "16440cab3466",
+   "title": "With flying Roadster, Tesla waves goodbye to the car business - Axios",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjBmLVRhZVNzRjA1WXZxYnJXNEtSMFUxMGg3QXFnenVpaTE5eTY5dnM5MzBXa2RtYXlTUjB1bWR0eXlXVHZqQ21MNnFlem1USk5uRHJpTXFfRkh4cVExOEN4ZUJJa0VDcW1IVUhaeVJpZ0h3bGp0NG1kdjByRl9iNw",
+   "source": "Axios",
+   "published_at": "2026-10-16T21:02:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Axios",
+     "published_at": "2026-10-16T21:02:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjBmLVRhZVNzRjA1WXZxYnJXNEtSMFUxMGg3QXFnenVpaTE5eTY5dnM5MzBXa2RtYXlTUjB1bWR0eXlXVHZqQ21MNnFlem1USk5uRHJpTXFfRkh4cVExOEN4ZUJJa0VDcW1IVUhaeVJpZ0h3bGp0NG1kdjByRl9iNw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后",
+   "zh_summary": "特斯拉发布会飞的Roadster",
+   "title_zh": "Roadster会飞，特斯拉告别造车业务——Axios",
+   "sentiment": 0
+  },
+  {
    "id": "2a1930322155",
    "title": "New Tesla Roadster Specs: Battery, Range, Speed, Trims, and More - Not a Tesla App",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFZYSjNjVlBxUGhLbl9VdGYwU05xSWZ2YmtNZXJvbmktRGw2aUowMGhSVFA2WnJNUDRCbDVPRGRfTk1CS2hsMGNibk9HdTlZRF9EUEpZRl9nMEFlUmZQMGREbG14bmRuMHBJd01IZExzSTZ4UXJmR3Q0akhBMHlzbXloODdsYWpOTGFrT3gzNWhVdDBYUVBBRmsxRXhvNm8",
@@ -4906,6 +4945,23 @@
    "zh_summary": "新款Roadster规格参数公布",
    "title_zh": "特斯拉新款Roadster规格：电池、续航、速度与版本一览",
    "sentiment": 0
+  },
+  {
+   "id": "09345221f337",
+   "title": "Tesla unveils its next generation 'flying' Roadster - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVZLXzROSWs5WnNHbV8zeE9kRkt3R01TOHE5QnlwMjFjWHNaQy1pTTNfMW5mY2NZNmVjcnRFMVdDOGFReVR2RTNJT2lxWUlSU3BfX0F1LTNUZHVrVEIySUhjOGZQcVVfajNVT2hrTV83b1JaQlEyQzB5ZVYtdk1DYnRmUEFXTDV1OFl6VjZhZVBheTVEd0tESTFqRlY",
+   "source": "NBC News",
+   "published_at": "2026-10-16T20:53:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NBC News",
+     "published_at": "2026-10-16T20:53:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVZLXzROSWs5WnNHbV8zeE9kRkt3R01TOHE5QnlwMjFjWHNaQy1pTTNfMW5mY2NZNmVjcnRFMVdDOGFReVR2RTNJT2lxWUlSU3BfX0F1LTNUZHVrVEIySUhjOGZQcVVfajNVT2hrTV83b1JaQlEyQzB5ZVYtdk1DYnRmUEFXTDV1OFl6VjZhZVBheTVEd0tESTFqRlY"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "59cd0d160b2c",
@@ -5678,6 +5734,28 @@
    "sentiment": 1
   },
   {
+   "id": "05439acd48c0",
+   "title": "会飞的汽车真的来了！特斯拉发布Roadster - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVM1VmdWJIY0d6T0ViemZrTVNuVmkzb20tSEk2VE9sVlBjTC1vbkpGUzBtZFJoUFV1UF9LSVVQQzZMSHFkRXpBOUZTeElSUmxKaGN0LWxBbEhFQTg0QjUwZjFMekdVM0d6TExRUmNHY0hXeTA",
+   "source": "新浪网",
+   "published_at": "2026-10-16T18:01:20+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-16T18:01:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVM1VmdWJIY0d6T0ViemZrTVNuVmkzb20tSEk2VE9sVlBjTC1vbkpGUzBtZFJoUFV1UF9LSVVQQzZMSHFkRXpBOUZTeElSUmxKaGN0LWxBbEhFQTg0QjUwZjFMekdVM0d6TExRUmNHY0hXeTA"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-17T09:02:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DelJ2bEkwa0hUMGdycHdKTGNjRTlxZWRjRnJGQ2tNRlloVVdLRnBtVDZpeUxxUU1JN1ZuUTlnNjFSMXBuN0Y1TVJqZmxiZmxUMnNGSGZoN3BkbmIzSXBwc29ld29QZlJkMVh3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "20402b78eb03",
    "title": "Was Tesla's Roadster reveal just a big marketing stunt? - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGt0RUZDazNMazZhRTRFTDV5dXdlWGFaTkdNVE9UZEYzWXFOU25UX25YelI1bVRBbTU5YlFIYzFnRENaMF9jNVYxQ3FuRWM4eTMwenladXNCOF9CZzBNOFpXc3RPTWZyc3g4S1hSeFJqamxBVnhYeU5sX1Z2bTdIaFpzUzRzOGJUc3pnMWhYamJqdzhzbkxSV2NPQlN1TW9MVWc",
@@ -6180,86 +6258,6 @@
    "zh_summary": "特斯拉股价因飞行跑车短暂跳涨",
    "title_zh": "特斯拉股价因飞行跑车跳涨但未能持久",
    "sentiment": 0
-  },
-  {
-   "id": "2c6e403b613c",
-   "title": "Alef Trolls Tesla With Video of Its Car Flying Over a Roadster - Gizmodo",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTJWMnlmdmdfQzdRNk9mOGFkdkFoVkx1QXJJdFkzSUNkRjAzQzlTQ2x2YUF3UlJwbzBsbllELWk1cDZoNEZhM29iWFpYUzVTNXNVMGdzdlRjTFRFRW5hang3N2lxZ0NaSG9vUlBRbHZiLTZBZTU1SzByY0lPNTJmSEdkZTFzU2ZpdUJNemp4RTlJUjZpWTZPbg",
-   "source": "Gizmodo",
-   "published_at": "2026-10-16T16:40:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gizmodo",
-     "published_at": "2026-10-16T16:40:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTJWMnlmdmdfQzdRNk9mOGFkdkFoVkx1QXJJdFkzSUNkRjAzQzlTQ2x2YUF3UlJwbzBsbllELWk1cDZoNEZhM29iWFpYUzVTNXNVMGdzdlRjTFRFRW5hang3N2lxZ0NaSG9vUlBRbHZiLTZBZTU1SzByY0lPNTJmSEdkZTFzU2ZpdUJNemp4RTlJUjZpWTZPbg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "Alef发视频嘲讽特斯拉飞行Roadster",
-   "title_zh": "Alef发布视频嘲讽特斯拉：其汽车飞越Roadster",
-   "sentiment": -1
-  },
-  {
-   "id": "f1b4ec834809",
-   "title": "I waited so long for this flying Tesla Roadster that I lost all faith in Elon Musk - TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVRIa1dFRk9rMDhQTE5iZjRNZUlkTFhJaExpd3YwblVrZkh4YXdoRDVjZjFxNk9OTlk1b3lJc3pPSzNkRjNfamdUdlBOLVRtVEhxUW9BVkNXSDg4VzFSdjFkcVMwXzB0T3ZiR2RORThEekdvY2FGbUJoS2RzSFRTemdCNXJYOWN4eW95NG40M1h6NnpENnRaQS1wbFFCTTFndmJBOE1NZXRBVmdwMkV1ME8zSTJNaXRqVzJrNXdJeE4xamgxdXBzd0cxVnk0NURFTUI2TDJoZw",
-   "source": "TechRadar",
-   "published_at": "2026-10-16T16:34:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechRadar",
-     "published_at": "2026-10-16T16:34:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVRIa1dFRk9rMDhQTE5iZjRNZUlkTFhJaExpd3YwblVrZkh4YXdoRDVjZjFxNk9OTlk1b3lJc3pPSzNkRjNfamdUdlBOLVRtVEhxUW9BVkNXSDg4VzFSdjFkcVMwXzB0T3ZiR2RORThEekdvY2FGbUJoS2RzSFRTemdCNXJYOWN4eW95NG40M1h6NnpENnRaQS1wbFFCTTFndmJBOE1NZXRBVmdwMkV1ME8zSTJNaXRqVzJrNXdJeE4xamgxdXBzd0cxVnk0NURFTUI2TDJoZw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "美媒称对马斯克失去信心因Roadster迟迟未至",
-   "title_zh": "我为飞天Roadster等太久，对马斯克失去信心",
-   "sentiment": -1
-  },
-  {
-   "id": "dc95c422d994",
-   "title": "Watch the Tesla’s Roadster’s 3 Wildest Stunts—Flying, Barrel-Rolling, 0-60 in Under 1 Second—Here - Road & Track",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEJTZUZTX3RqOTFsLVBGLVMyQjNydzZPaTRHSVZrLTFWdUlFUkd1TDVDd3dnN1Q3ZGttcXg3Znd4UmhUSHlHWFVkVjR5TFlpRVNIN0xEU1ZFU3U4eU9hLWYzRy1uSHZvRTQycHZjcDRxaEVPOWFiVjVNUWtKSGVMQ2NUaVN2ZlJFZndIa1NJMWg1UHJKM2dqbFRLUm13blVCaVBn",
-   "source": "Road & Track",
-   "published_at": "2026-10-16T16:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Road & Track",
-     "published_at": "2026-10-16T16:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEJTZUZTX3RqOTFsLVBGLVMyQjNydzZPaTRHSVZrLTFWdUlFUkd1TDVDd3dnN1Q3ZGttcXg3Znd4UmhUSHlHWFVkVjR5TFlpRVNIN0xEU1ZFU3U4eU9hLWYzRy1uSHZvRTQycHZjcDRxaEVPOWFiVjVNUWtKSGVMQ2NUaVN2ZlJFZndIa1NJMWg1UHJKM2dqbFRLUm13blVCaVBn"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "Roadster演示飞行等三项特技",
-   "title_zh": "看Roadster三大特技：飞行、翻滚、加速1秒内",
-   "sentiment": 1
-  },
-  {
-   "id": "d405ba46e616",
-   "title": "Tesla Stocks Rise After Elon Musk Reveals Highly Anticipated Flying Roadster: ‘Well, It Worked’ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGI0a2tfVHhFRWxvVWdTNTBaVnlBVHVTVmdPb3c5S1J3bmhMMGxsWG1fZWVWSjZiWV9iNkdqUnM1cDZ4dXB6UXlabDJmTzBtX0dibHJDaGlySzZTbDJkQ185WGRlQmkxNV9OT3dRWXBveTd4TlpNb21JVUN5VjVMN2hpOVFqbjh3dWYzUm1oOUZhWXZaalk4",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-16T16:31:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T16:31:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGI0a2tfVHhFRWxvVWdTNTBaVnlBVHVTVmdPb3c5S1J3bmhMMGxsWG1fZWVWSjZiWV9iNkdqUnM1cDZ4dXB6UXlabDJmTzBtX0dibHJDaGlySzZTbDJkQ185WGRlQmkxNV9OT3dRWXBveTd4TlpNb21JVUN5VjVMN2hpOVFqbjh3dWYzUm1oOUZhWXZaalk4"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "马斯克发布飞行Roadster，股价上涨",
-   "title_zh": "马斯克发布会飞Roadster后特斯拉股价上涨——雅虎财经",
-   "sentiment": 1
   }
  ]
 }
