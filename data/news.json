@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:37:35.265865+00:00",
+ "updated_at": "2026-10-17T11:52:27.301827+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（86条已评分）"
+     "note": "今日新闻情绪 +0.24（89条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-17T11:37:35.258829+00:00"
+   "as_of": "2026-10-17T11:52:27.292805+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 86
+   "avg": 0.24,
+   "count": 89
   }
  },
  "meta": {
@@ -448,6 +448,23 @@
    "sentiment": 1
   },
   {
+   "id": "f3ba2ab3cdf3",
+   "title": "Watch: Tesla on Full Self-Driving Slams Into CHP Cruiser After Driver Admits He Was Asleep - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmRHdXFVQTNneFk5Z2pLZ0M0VTNqME5kbWsyazQtcFZFNVY3enRfcWhuYXdHM0xmWGc2WkVNYWdCeHk5bE5mMmdPNnYzWHU4TU9rYnd0bi1oUG9mUk5URVMwU1ZKanJIRlNGZFpyajhUSUVKeVVpejdfdnZoMV94ME0tMmcxdFl1S2Jz",
+   "source": "Yahoo",
+   "published_at": "2026-10-17T10:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-17T10:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmRHdXFVQTNneFk5Z2pLZ0M0VTNqME5kbWsyazQtcFZFNVY3enRfcWhuYXdHM0xmWGc2WkVNYWdCeHk5bE5mMmdPNnYzWHU4TU9rYnd0bi1oUG9mUk5URVMwU1ZKanJIRlNGZFpyajhUSUVKeVVpejdfdnZoMV94ME0tMmcxdFl1S2Jz"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
    "id": "f06e44210fa8",
    "title": "特斯拉Roadster发布会腾空翻滚，马斯克宣布2028年量产 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTBUSjhQVFF1QjFMVjYtNXh0SFNRZTFnRmtjNHRyUGFjWFlXOHdPdTdobDJYWUxubVViMFdTMmkxYTM2dEdJdDVCdENtMVZMM0VYVV92S1BlT21QaThCMWJIN0dfQlNyUEp4SDdQdFVkcjNCRzB3MlNqazIzN1V6aA",
@@ -546,26 +563,6 @@
    "zh_summary": "特斯拉Roadster起飞技术细节揭秘",
    "title_zh": "特斯拉Roadster起飞靠喷 技术细节揭秘 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "b1be4b88f7e5",
-   "title": "特斯拉开始卖儿童平衡车了 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UnF3ZkhNWnd3RFRYbDJHTVl1UzFURGh0SGc1Y0ZqMG5zb2NNalFJMTh5ZU1JT21FTjlKR2JjRUZmTnR3VmV2TzdwTzhkdFBUNVdzR2tDM1RIMFNadnhWREpGZ0FYTndWZ1dNOVhIcHlla2tabjk1MzhfQnpVNnM",
-   "source": "新浪网",
-   "published_at": "2026-10-17T09:45:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T09:45:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05UnF3ZkhNWnd3RFRYbDJHTVl1UzFURGh0SGc1Y0ZqMG5zb2NNalFJMTh5ZU1JT21FTjlKR2JjRUZmTnR3VmV2TzdwTzhkdFBUNVdzR2tDM1RIMFNadnhWREpGZ0FYTndWZ1dNOVhIcHlla2tabjk1MzhfQnpVNnM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉开始销售儿童平衡车",
-   "title_zh": "特斯拉开始卖儿童平衡车了 - 新浪网",
-   "sentiment": 0
   },
   {
    "id": "ee9e91c8163c",
@@ -1763,10 +1760,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kSGwwUnI0bFNWRHN2bXhsQ1NLakczaE03NUIxOGJJN1RYTnlFemN2WEdoYjNpMFprQU93cjdpRlowb0Z4cUQ4U1RnWlctVFZ1ZXJWM2pqcDFjWmM",
    "source": "车家号",
    "published_at": "2026-10-17T05:48:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "车家号",
+     "published_at": "2026-10-17T05:48:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kSGwwUnI0bFNWRHN2bXhsQ1NLakczaE03NUIxOGJJN1RYTnlFemN2WEdoYjNpMFprQU93cjdpRlowb0Z4cUQ4U1RnWlctVFZ1ZXJWM2pqcDFjWmM"
+    },
+    {
+     "name": "汽车之家",
      "published_at": "2026-10-17T05:48:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kSGwwUnI0bFNWRHN2bXhsQ1NLakczaE03NUIxOGJJN1RYTnlFemN2WEdoYjNpMFprQU93cjdpRlowb0Z4cUQ4U1RnWlctVFZ1ZXJWM2pqcDFjWmM"
     }
@@ -2111,6 +2113,23 @@
    "zh_summary": "SpaceX冷气推进器助Roadster飞行",
    "title_zh": "SpaceX冷气推进器让第二代Roadster飞起来",
    "sentiment": 1
+  },
+  {
+   "id": "223cb6b36430",
+   "title": "Optimus 驾驶 Roadster 演示与 Starmind 计划发酵，巴克莱预测 SpaceX 或于 12 月 6 日前收购特斯拉 - 虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vUWZhZWNWN1JnaGZFOFJwQVIweVVQdW9QZkM2OGhuX2pFY09oR0kxZnF2NlRYeU45VU10TWxTMXdwODNRbTRObVYtdU9iZkp1ZzdBXw",
+   "source": "虎嗅网",
+   "published_at": "2026-10-17T04:38:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅网",
+     "published_at": "2026-10-17T04:38:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vUWZhZWNWN1JnaGZFOFJwQVIweVVQdW9QZkM2OGhuX2pFY09oR0kxZnF2NlRYeU45VU10TWxTMXdwODNRbTRObVYtdU9iZkp1ZzdBXw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "083e7c23a2f3",
@@ -5650,31 +5669,6 @@
    "session": "盘中",
    "zh_summary": "马斯克称Roadster会飞",
    "title_zh": "马斯克特斯拉Roadster会飞，李副总破局",
-   "sentiment": 1
-  },
-  {
-   "id": "05439acd48c0",
-   "title": "会飞的汽车真的来了！特斯拉发布Roadster - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVM1VmdWJIY0d6T0ViemZrTVNuVmkzb20tSEk2VE9sVlBjTC1vbkpGUzBtZFJoUFV1UF9LSVVQQzZMSHFkRXpBOUZTeElSUmxKaGN0LWxBbEhFQTg0QjUwZjFMekdVM0d6TExRUmNHY0hXeTA",
-   "source": "新浪网",
-   "published_at": "2026-10-16T18:01:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-16T18:01:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVM1VmdWJIY0d6T0ViemZrTVNuVmkzb20tSEk2VE9sVlBjTC1vbkpGUzBtZFJoUFV1UF9LSVVQQzZMSHFkRXpBOUZTeElSUmxKaGN0LWxBbEhFQTg0QjUwZjFMekdVM0d6TExRUmNHY0hXeTA"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-17T09:02:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tTnVJd0pMSjltNjZLTU1zb1ZoWEhGeVZBSk9VWjFqU044dGd2UW1hejdUNUJ6ZHk3RUFxNUJIVUtJdU4tNEsyQ0JBZ0lUZVAycTBwcmdZSlhLcDA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉发布可飞行Roadster",
-   "title_zh": "会飞的汽车真的来了！特斯拉发布Roadster - 新浪网",
    "sentiment": 1
   },
   {
