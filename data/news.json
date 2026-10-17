@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T23:37:25.468962+00:00",
+ "updated_at": "2026-10-17T23:52:31.257959+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（219条已评分）"
+     "note": "今日新闻情绪 +0.25（223条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-17T23:37:25.459070+00:00"
+   "as_of": "2026-10-17T23:52:31.243412+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.25,
-   "count": 219
+   "count": 223
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8cef8031e306",
+   "title": "韩国工程师指控特斯拉施压三星压低AI芯片报价并挖角 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTYW1ZemNidXQ1c3ZMVGV4QVFSTFN1Z3ZDQUxvcHRCWUxFUDEyMXdQZWdvbjY3M21tX1lhZTkzQnFWY1hqcHhqUElHV3I0NXZSbVQzWkJLRWVxTmNCTldJMTZ6eGtTd29fSURicVkyX0FucDR0TnNaVU5pRzhNUQ",
+   "source": "新浪网",
+   "published_at": "2026-10-17T23:46:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-17T23:46:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTYW1ZemNidXQ1c3ZMVGV4QVFSTFN1Z3ZDQUxvcHRCWUxFUDEyMXdQZWdvbjY3M21tX1lhZTkzQnFWY1hqcHhqUElHV3I0NXZSbVQzWkJLRWVxTmNCTldJMTZ6eGtTd29fSURicVkyX0FucDR0TnNaVU5pRzhNUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "2ae4cf22461b",
    "title": "特斯拉飞行汽车尾流如霰弹枪 - 新浪网",
@@ -83,9 +100,26 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉飞行汽车尾流如霰弹枪 - 新浪网",
    "zh_summary": "特斯拉飞行汽车尾流如霰弹枪",
+   "title_zh": "特斯拉飞行汽车尾流如霰弹枪 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "38bac39b8b7e",
+   "title": "特斯拉第二代Roadster跑车正式亮相：横向加速度2g，风扇吸附系统突破性能极限 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQTJkOUpQcVE2NGxyTVVPcGd3SGJNQXMwYkgyVTlVSWtrSXVhSU5OdUZlOWN4QkNMaHljZTV4QVo3cjZhZnBYWFZ4cUo5RDJhYmxFZ1BsXzhtWVU",
+   "source": "网通社",
+   "published_at": "2026-10-17T23:30:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-17T23:30:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQTJkOUpQcVE2NGxyTVVPcGd3SGJNQXMwYkgyVTlVSWtrSXVhSU5OdUZlOWN4QkNMaHljZTV4QVo3cjZhZnBYWFZ4cUo5RDJhYmxFZ1BsXzhtWVU"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "e2c5bb1d4d61",
@@ -103,8 +137,8 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "title_zh": "特斯拉Roadster车主将获飞行特技模式及环形赛道使用权",
    "zh_summary": "Roadster将获飞行特技模式和环形赛道使用权",
+   "title_zh": "特斯拉Roadster车主将获飞行特技模式及环形赛道使用权",
    "sentiment": 1
   },
   {
@@ -123,18 +157,40 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉飞行跑车被指无实用性，公共道路无法使用 - 新浪网",
    "zh_summary": "特斯拉飞行跑车被指无实用性",
+   "title_zh": "特斯拉飞行跑车被指无实用性，公共道路无法使用 - 新浪网",
    "sentiment": -1
   },
   {
-   "id": "edeed8d9bc4b",
-   "title": "马斯克：新款特斯拉Roadster可自主完成特技动作，得州总部将建环形赛道 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVjNWMTRMTnJjRXZFZ2FRbmlxYTEyMkdjTVpXdkJwOWVWcVF1QVpzeGM4bC1URzBSbFR4eHJqZGpSWDhIcXpzT2xxSkNoSW1hZE5oQUQydFNWYjdTczk5Y19kNnpwMVV3eWtoVjdqM1dDOEQxX2xaZGg0d0UteGs",
-   "source": "新浪网",
-   "published_at": "2026-10-17T23:19:00+00:00",
-   "outlets_count": 2,
+   "id": "c965af581a28",
+   "title": "Tesla (TSLA) Gets A Lift From China’s $37 Billion Subsidies And EV Tipping Point - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWVVeW02UGJ2WlY3SWRGeThvNmMxRDVJT0ZVVkJBSG9XeWJ0SlJXaWdtNkppRTNOOW84Mk1qS3JQNVN3cWNQMVIybENCUG9XNDVJZElEbjJRM056cmtwZ0ZmVUZ1TmJTRENlYjlYSXJWNlpwSEU0NHh6VTM3bjdBVnJaUWUtVTlmVWpXSFp4X19KTFhvZEE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-17T23:16:19+00:00",
+   "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-17T23:16:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORWVVeW02UGJ2WlY3SWRGeThvNmMxRDVJT0ZVVkJBSG9XeWJ0SlJXaWdtNkppRTNOOW84Mk1qS3JQNVN3cWNQMVIybENCUG9XNDVJZElEbjJRM056cmtwZ0ZmVUZ1TmJTRENlYjlYSXJWNlpwSEU0NHh6VTM3bjdBVnJaUWUtVTlmVWpXSFp4X19KTFhvZEE"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
+  },
+  {
+   "id": "37409712db0f",
+   "title": "马斯克称新款特斯拉Roadster可自主完成特技动作，得州总部将建环形赛道 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVTTBsU2IxM0EyeEEza09XQ09STnpRWTZ0MEdKR1hWdUdERks0NUJVLWp6dWp1OHYwejVrb3IzVHlYQ09PeTE0eG0zTU9OLVhUVkpjN04wVjlyS3M",
+   "source": "网通社",
+   "published_at": "2026-10-17T23:09:07+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-17T23:09:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVTTBsU2IxM0EyeEEza09XQ09STnpRWTZ0MEdKR1hWdUdERks0NUJVLWp6dWp1OHYwejVrb3IzVHlYQ09PeTE0eG0zTU9OLVhUVkpjN04wVjlyS3M"
+    },
     {
      "name": "新浪网",
      "published_at": "2026-10-17T23:19:00+00:00",
@@ -148,8 +204,8 @@
    ],
    "category": "马斯克",
    "session": "周末",
-   "title_zh": "马斯克：新款特斯拉Roadster可自主完成特技动作，得州总部将建环形赛道 - 新浪网",
    "zh_summary": "马斯克称新Roadster可自主完成特技动作",
+   "title_zh": "马斯克：新款特斯拉Roadster可自主完成特技动作，得州总部将建环形赛道 - 新浪网",
    "sentiment": 1
   },
   {
@@ -913,6 +969,23 @@
    "sentiment": -1
   },
   {
+   "id": "a924704328de",
+   "title": "【视频】如果特斯拉Roadster2在山城重庆？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OeDB6Y1RNSUlDMlJDOUZOb0VfSExPcFI2ak5YbjJKR1BMWEh3dXRPS3BqZm03OGhmTmZCWjB1UzBsd0VMaXZ2N0F6WmU1dVliWnR4a2hYOGxCa0k",
+   "source": "汽车之家",
+   "published_at": "2026-10-17T17:43:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-17T17:43:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OeDB6Y1RNSUlDMlJDOUZOb0VfSExPcFI2ak5YbjJKR1BMWEh3dXRPS3BqZm03OGhmTmZCWjB1UzBsd0VMaXZ2N0F6WmU1dVliWnR4a2hYOGxCa0k"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "1b90a5c2e860",
    "title": "【视频】特斯拉Roadster 少有人知的秘密 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Njh1TFdJdEI0eFZzNmo1Q21sLWhLWUpxRkRnNDgxY0c1eXA1UEN0YkJZRk9qYnJJbzYxRU1WbnVncFNUcFFNRzF5dnRFOWFVblktVExJTnBvUXc",
@@ -1441,6 +1514,23 @@
    "zh_summary": "Roadster发布后TSLA会涨到1000美元吗",
    "title_zh": "Roadster发布后，TSLA会涨到$1,000吗？",
    "sentiment": 1
+  },
+  {
+   "id": "0228551da978",
+   "title": "特斯拉Roadster三个版本有何区别，售价分别是多少？ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpSzB3MGRuU2FETTQ3RHZUb0Q4WURjNTB0cF9nZlZpOU91MldSSkhUVlNUZGtEZTJlYjdqM2hCZHprQ0E2SVdtei1FMkFVZzBfN2w1eWNMZkxnUlVtb2JJcnBFc0FMQmo4cVp3eWgyb3Rrd09zYW9tMkpucjV3aG8",
+   "source": "新浪网",
+   "published_at": "2026-10-17T14:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-17T14:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpSzB3MGRuU2FETTQ3RHZUb0Q4WURjNTB0cF9nZlZpOU91MldSSkhUVlNUZGtEZTJlYjdqM2hCZHprQ0E2SVdtei1FMkFVZzBfN2w1eWNMZkxnUlVtb2JJcnBFc0FMQmo4cVp3eWgyb3Rrd09zYW9tMkpucjV3aG8"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "db62e968f3c2",
@@ -2127,6 +2217,23 @@
    "zh_summary": "特斯拉Roadster测试画面曝光可原地起降",
    "title_zh": "含坠落爆炸瞬间！特斯拉新车内部测试画面曝光：车辆原地起飞再着陆",
    "sentiment": 1
+  },
+  {
+   "id": "c7a976be567c",
+   "title": "Tesla Driver Says He Was Asleep With FSD On When He Hit Police Car - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnUzV2JSMFVjSjNZVEZaQ0hRNEJOZGdraThjNzVrMWpXVHJacUlxbk5WZTlVUEFDZm0yRDR0UERnYnl2TlJqeFJZcEtSc2VtNUNuTFNXdWlqYjZQUzVVazRYTDlMZUhfVGh5UkFTNW9zYW5jZ0RUcEdKLUU1eDBmMmF4aVFVdnE5Ync",
+   "source": "Yahoo",
+   "published_at": "2026-10-17T12:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-17T12:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnUzV2JSMFVjSjNZVEZaQ0hRNEJOZGdraThjNzVrMWpXVHJacUlxbk5WZTlVUEFDZm0yRDR0UERnYnl2TlJqeFJZcEtSc2VtNUNuTFNXdWlqYjZQUzVVazRYTDlMZUhfVGh5UkFTNW9zYW5jZ0RUcEdKLUU1eDBmMmF4aVFVdnE5Ync"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
   },
   {
    "id": "e972e615a74a",
@@ -6084,8 +6191,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
-   "title_zh": "TSLA股价涨近4%，特斯拉将Starlink集成至Cybercab",
    "zh_summary": "特斯拉将Starlink集成至Cybercab",
+   "title_zh": "TSLA股价涨近4%，特斯拉将Starlink集成至Cybercab",
    "sentiment": 1
   },
   {
@@ -6207,131 +6314,6 @@
    "zh_summary": "分析师称飞天Roadster无商业价值",
    "title_zh": "Munster称飞天Roadster无商业价值仅是暗示",
    "sentiment": -1
-  },
-  {
-   "id": "0149465b6021",
-   "title": "会飞的特斯拉，特斯拉二代Roadster能飞，33万订金你交吗？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CaGl0cjlVdFRUcGZUenF5aXltTnF5RXNWVFNuT0Z3bGYyUnNqZ1RXNHg5YVZWbTJrRXRMdm1wTnUzRm1DS012MUhFc0RtNEk4U3FfQzllUzJSclU",
-   "source": "汽车之家",
-   "published_at": "2026-10-17T02:21:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-17T02:21:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CaGl0cjlVdFRUcGZUenF5aXltTnF5RXNWVFNuT0Z3bGYyUnNqZ1RXNHg5YVZWbTJrRXRMdm1wTnUzRm1DS012MUhFc0RtNEk4U3FfQzllUzJSclU"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-17T02:21:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CaGl0cjlVdFRUcGZUenF5aXltTnF5RXNWVFNuT0Z3bGYyUnNqZ1RXNHg5YVZWbTJrRXRMdm1wTnUzRm1DS012MUhFc0RtNEk4U3FfQzllUzJSclU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉二代Roadster可飞，订金33万",
-   "title_zh": "会飞的特斯拉，特斯拉二代Roadster能飞，33万订金你交吗？",
-   "sentiment": 1
-  },
-  {
-   "id": "a2188199c851",
-   "title": "特斯拉官宣新款Roadster，电动车冲击性能天花板 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3c2RzM4MW52MjVQU3F2VzNmTnFtckNGOXpVcndZNTdKZ2tNQUtsaUhGeDhsTDhPdlMzSHhCTHlKd3Q1ekFMVmNzeFFWRFo1eUR4V1ctV25DblFycWt3MGdpNkctbXVDaHlWYmtXUVRfMTQ1dkRDOGVGNTAyZ0ZsWQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T02:19:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T02:19:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3c2RzM4MW52MjVQU3F2VzNmTnFtckNGOXpVcndZNTdKZ2tNQUtsaUhGeDhsTDhPdlMzSHhCTHlKd3Q1ekFMVmNzeFFWRFo1eUR4V1ctV25DblFycWt3MGdpNkctbXVDaHlWYmtXUVRfMTQ1dkRDOGVGNTAyZ0ZsWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉官宣新款Roadster冲击性能天花板",
-   "title_zh": "特斯拉官宣新款Roadster，电动车冲击性能天花板 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "b6f7db39287f",
-   "title": "特斯拉发布火箭超跑，紧急情况可以飞上天逃生！#特斯拉Roadster真的会飞# ​ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1idmd3YjBla0N4ZlF6NHRGVGdDRG5LM3RKdFdTMlM2N19lQ1FiaXFaZXBHNS1YVkZEZXFrOXBLT3F2dXBSM2RkNHFUS1Nsb1F0dGxnOXRJaHI1YldHQTRQT2ZiN2M0UklXSlBQMlNnZVY2Z2s",
-   "source": "新浪网",
-   "published_at": "2026-10-17T02:18:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T02:18:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1idmd3YjBla0N4ZlF6NHRGVGdDRG5LM3RKdFdTMlM2N19lQ1FiaXFaZXBHNS1YVkZEZXFrOXBLT3F2dXBSM2RkNHFUS1Nsb1F0dGxnOXRJaHI1YldHQTRQT2ZiN2M0UklXSlBQMlNnZVY2Z2s"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉发布可飞行Roadster超跑",
-   "title_zh": "特斯拉发布火箭超跑，紧急情况可以飞上天逃生！#特斯拉Roadster真的会飞#",
-   "sentiment": 1
-  },
-  {
-   "id": "35a76564ad6f",
-   "title": "特斯拉秀了一下空翻落地，怎么汽车圈都跪下了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tV3QyaDdCamliclpCVkFaRHpWVWhUc19WUzlVckkwQ010NEtEUG5tTVBWOEY4S0V6Ukc4aDh4c1MzbngxZnU2R29JaFF3NEY3X3lWcElfTVctcjA",
-   "source": "汽车之家",
-   "published_at": "2026-10-17T02:17:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-17T02:17:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tV3QyaDdCamliclpCVkFaRHpWVWhUc19WUzlVckkwQ010NEtEUG5tTVBWOEY4S0V6Ukc4aDh4c1MzbngxZnU2R29JaFF3NEY3X3lWcElfTVctcjA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster空翻落地引业界热议",
-   "title_zh": "特斯拉秀了一下空翻落地，怎么汽车圈都跪下了",
-   "sentiment": 1
-  },
-  {
-   "id": "a8870366c6ce",
-   "title": "特斯拉Roadster真的会飞，意向金33.2万，量产在即 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnlwNVNFMzBYTzRoR1NDN3RjWWZJUTczcWl3RlljMUk1WVowVGxaMzU2LVhpa3pnZkVKRWkwTVV4emdYTjBtZGJwdXdnMm9GeXBCeDJ2bHk2cVF0XzFETDd4cEdORHlKTVQxX185cl9FVlc1bmxCVWVQb2lPbmlidA",
-   "source": "新浪网",
-   "published_at": "2026-10-17T02:16:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T02:16:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnlwNVNFMzBYTzRoR1NDN3RjWWZJUTczcWl3RlljMUk1WVowVGxaMzU2LVhpa3pnZkVKRWkwTVV4emdYTjBtZGJwdXdnMm9GeXBCeDJ2bHk2cVF0XzFETDd4cEdORHlKTVQxX185cl9FVlc1bmxCVWVQb2lPbmlidA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Roadster量产在即意向金33.2万",
-   "title_zh": "特斯拉Roadster真的会飞，意向金33.2万，量产在即",
-   "sentiment": 1
-  },
-  {
-   "id": "ac1fd21b782e",
-   "title": "Tesla Roadster专利显示最大下压力可达1543磅，超级跑车的终结 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0lXTERrSTkzX1FDN0o1LW9GTEdfSmVTbGRoR00wTTloNVhsRVc1UURoWHpmS3JFdE5JVjdYZGkzU3RCb1ZFTDM3V2hOc2lxdURXanVfeGhWeVo4aWJERWNhdldQZlVsbEJRNl9vWDZ1VENpdUo5OVVqaENTbGRxZw",
-   "source": "新浪网",
-   "published_at": "2026-10-17T02:16:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T02:16:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0lXTERrSTkzX1FDN0o1LW9GTEdfSmVTbGRoR00wTTloNVhsRVc1UURoWHpmS3JFdE5JVjdYZGkzU3RCb1ZFTDM3V2hOc2lxdURXanVfeGhWeVo4aWJERWNhdldQZlVsbEJRNl9vWDZ1VENpdUo5OVVqaENTbGRxZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Roadster专利下压力达1543磅",
-   "title_zh": "Tesla Roadster专利显示最大下压力可达1543磅，超级跑车的终结",
-   "sentiment": 1
   }
  ]
 }
