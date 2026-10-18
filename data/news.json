@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T03:52:36.564942+00:00",
+ "updated_at": "2026-10-18T04:07:30.916157+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（272条已评分）"
+     "note": "今日新闻情绪 +0.24（276条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-18T03:52:36.557540+00:00"
+   "as_of": "2026-10-18T04:07:30.903570+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.24,
-   "count": 272
+   "count": 276
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f3ca2049f415",
+   "title": "【视频】特斯拉为什么会飞，其实你买的并不是一台车 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nSXY5WmlmdVNRS0hicFptaHJtdUtxcmxxR2xqbzVKR21KeHBzbUpCQUFrdngwWHJyYWIxTW8zSVk3MlZQOXVLWklfMlJzTkZZWmJRMi1lcUU0OUk",
+   "source": "汽车之家",
+   "published_at": "2026-10-18T03:58:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-18T03:58:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nSXY5WmlmdVNRS0hicFptaHJtdUtxcmxxR2xqbzVKR21KeHBzbUpCQUFrdngwWHJyYWIxTW8zSVk3MlZQOXVLWklfMlJzTkZZWmJRMi1lcUU0OUk"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "df7280c13307",
    "title": "特斯拉新车为何能“飞”？ - 新浪网",
@@ -205,31 +222,6 @@
    "session": "周末",
    "zh_summary": "Roadster火箭版配600升气瓶2028年投产",
    "title_zh": "特斯拉披露新款Roadster飞行技术方案：Rocket版本配备600升储气瓶，计划2028年投产 - 网通社",
-   "sentiment": 1
-  },
-  {
-   "id": "ad9e28337e94",
-   "title": "马斯克曝新进展：得州将为特斯拉 Roadster规划专属环形赛道 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFZza2FwLWpRSGkzalZPUnRMMmRTaldRc3Byb2QzRkZ5RE0tNl9lMHg1X2pxU0lTUldDZXhiUk5XdTJnSzJCd0VLcEROV1RNQ3dEaTRScFRyamt6bUJmUFdUSDNnSW8xTjlFQjdMaU95eFgyTWRhZHZYNHBTSVlpM1ZQcmpVN2Z2TXRObmNR",
-   "source": "搜狐网",
-   "published_at": "2026-10-18T02:51:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-18T02:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFZza2FwLWpRSGkzalZPUnRMMmRTaldRc3Byb2QzRkZ5RE0tNl9lMHg1X2pxU0lTUldDZXhiUk5XdTJnSzJCd0VLcEROV1RNQ3dEaTRScFRyamt6bUJmUFdUSDNnSW8xTjlFQjdMaU95eFgyTWRhZHZYNHBTSVlpM1ZQcmpVN2Z2TXRObmNR"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T03:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lV3hIYVo0M1FkWVU5aFhTbDVpNXFsd1ZadXl0S2VRcXdtTEtfRF9WcnNMbV96a1pxMzM0eTR6a3hiX2NNRnlfc1Y4NDhWTU5oU3BSZGVfelZWX3RMYkNuZEl1R21vYVZhSVFpTS1HUVNPX29uczJucWVGWVUtN3M"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "得州将为特斯拉Roadster规划赛道",
-   "title_zh": "马斯克曝新进展：得州将为特斯拉 Roadster规划专属环形赛道 - 搜狐网",
    "sentiment": 1
   },
   {
@@ -543,12 +535,17 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFA0bE5rb0lmRnZiRlYteWJnZmtIMkpSckFVSWZOWW1IaGx1Z2dUemRTZU9wNk9QUHlZTDVvYzRWc0tzOUpPc2pSMjVPRHo0aHlxQVJHME5NUnlwNERRRmtEREtMYk00Mm5yN3d6YjYyUUxBTWNyWXlPUkVPWlVuQ1M4cw",
    "source": "新浪新闻_手机新浪网",
    "published_at": "2026-10-18T01:25:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪新闻_手机新浪网",
      "published_at": "2026-10-18T01:25:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFA0bE5rb0lmRnZiRlYteWJnZmtIMkpSckFVSWZOWW1IaGx1Z2dUemRTZU9wNk9QUHlZTDVvYzRWc0tzOUpPc2pSMjVPRHo0aHlxQVJHME5NUnlwNERRRmtEREtMYk00Mm5yN3d6YjYyUUxBTWNyWXlPUkVPWlVuQ1M4cw"
+    },
+    {
+     "name": "新浪新闻",
+     "published_at": "2026-10-18T04:04:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEp0TGU5NHAyMHBYbGFoTlVINFZfZjI0VFJNSk5rOEVSZEdMMHNneXpvNkZqQXBkU21nU3VJczVoajlfRVRIMm5Wa1k5a1hDeXd6X1RaMHBoaGlLWkFpdzhYMWpJSDlUT3FIajY1NlhwaGUtYlM4c0FvdzVpQ1JoQllKdw"
     }
    ],
    "category": "其他",
@@ -1099,12 +1096,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmZkdXhWU2p5NmJtbnlsTk9DUTVpa1lGUzV4Mk5yNkg1X3BJWFNBSm9xWURsZFZ5NGdHakxYMHlfTTJiYVM3MFRpQktyUmt2bGRTN0NvVkw4bThPekhNRmZKZlRrSHB5cmE0VkZkeHVjcUc1TXc0UjRKSUpfSTF2LTRQZldqWHF0aXZqZDU0OUttamFQTHhBQm83S29DNGFHSmIzS1RqbWdBbmZsUlpNdzY4cXFZQ1hiMkc4",
    "source": "FOX 29 Philadelphia",
    "published_at": "2026-10-17T22:12:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "FOX 29 Philadelphia",
      "published_at": "2026-10-17T22:12:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmZkdXhWU2p5NmJtbnlsTk9DUTVpa1lGUzV4Mk5yNkg1X3BJWFNBSm9xWURsZFZ5NGdHakxYMHlfTTJiYVM3MFRpQktyUmt2bGRTN0NvVkw4bThPekhNRmZKZlRrSHB5cmE0VkZkeHVjcUc1TXc0UjRKSUpfSTF2LTRQZldqWHF0aXZqZDU0OUttamFQTHhBQm83S29DNGFHSmIzS1RqbWdBbmZsUlpNdzY4cXFZQ1hiMkc4"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "published_at": "2026-10-17T22:12:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSkJlcDlyMDROLXZUV0Y3NHFpU0dQbEJuRUVBNUhNZHlacmpBYlU2eld6em81bS1lNUZDUEFxWmh2dG9DVjR1WnFKMGphMGVKSnBSX3h6MUVYNi1CRTJJeTRTMnNhaGRWZGlaQjR0Z09LZE5GMmZYeFZNZmk2VlNKbXdEVXpHR1pQMW8xTnBQUEVmdXAyMWJVQ21NOU5US0N2bEl0c191Vmg2Rm5SNVZEbnY3SS1TWFhKN2VyeHhGNXU3Zw"
     }
    ],
    "category": "其他",
@@ -2680,26 +2682,6 @@
    "sentiment": 0
   },
   {
-   "id": "443282419468",
-   "title": "Tesla ‘Cannot Guarantee’ Roadster Reservation Holders Will Ever Get a Car - The Drive",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2NDTGtQX3JCVmpQT1lRMEdSdmRXLVpWTmdJb1RaYnU4eWZlQ3hpTnIwa2JqWHdnMjRIVURibE5Sal9MbUdWZFF1QUFaeEJOUW5PeWd5cm53RExEYk1pMHhXWTNSMU9xUGFTUkFxMWVoNnl1bzItN0tEcFJXWXQ0RjVkd0pTeDBwNmgzY2I4dklXakswZ1c1eTlrSWJVeVBWazFZ",
-   "source": "The Drive",
-   "published_at": "2026-10-17T14:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Drive",
-     "published_at": "2026-10-17T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2NDTGtQX3JCVmpQT1lRMEdSdmRXLVpWTmdJb1RaYnU4eWZlQ3hpTnIwa2JqWHdnMjRIVURibE5Sal9MbUdWZFF1QUFaeEJOUW5PeWd5cm53RExEYk1pMHhXWTNSMU9xUGFTUkFxMWVoNnl1bzItN0tEcFJXWXQ0RjVkd0pTeDBwNmgzY2I4dklXakswZ1c1eTlrSWJVeVBWazFZ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉称无法保证Roadster车主提车",
-   "title_zh": "特斯拉称无法保证Roadster预订车主能提车",
-   "sentiment": -1
-  },
-  {
    "id": "346fcc007757",
    "title": "胡锡进谈特斯拉Roadster会飞 机器人坐空中旋转车双手抱头 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3czR21HeFBzWWtmdEJuYzUxM2ZsOVlXM3Z4NFl5TWxCZTNXNjJoZGZCU1pmTk1BSUhJcVI4YldObU9OdW02WXVEVEQxX0tqWk1xRVVJUFg5aVk4aHdiRlUtUThFanNoR3NkUS1aTUlFLUpWTWZTek1LQllKaHVnUQ",
@@ -3262,6 +3244,36 @@
    "session": "周末",
    "zh_summary": "飞行特斯拉凸显与中国车企科技差距",
    "title_zh": "会飞的特斯拉 敲打了中国车企 科技与现实的差距 - 中华网",
+   "sentiment": 1
+  },
+  {
+   "id": "ad9e28337e94",
+   "title": "马斯克曝新进展：得州将为特斯拉 Roadster规划专属环形赛道 - 环球网",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZGp1S2FITkF2ZVZhTU5DUFNLODhvNHBWRngtZUZ5cnNyQ053R3lvR2RneHRUaE9ER0NHOEU5SHliaE02b1FuMldTendkVVJyQWZpT2FLaw",
+   "source": "环球网",
+   "published_at": "2026-10-17T11:50:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "环球网",
+     "published_at": "2026-10-17T11:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZGp1S2FITkF2ZVZhTU5DUFNLODhvNHBWRngtZUZ5cnNyQ053R3lvR2RneHRUaE9ER0NHOEU5SHliaE02b1FuMldTendkVVJyQWZpT2FLaw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-18T02:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFZza2FwLWpRSGkzalZPUnRMMmRTaldRc3Byb2QzRkZ5RE0tNl9lMHg1X2pxU0lTUldDZXhiUk5XdTJnSzJCd0VLcEROV1RNQ3dEaTRScFRyamt6bUJmUFdUSDNnSW8xTjlFQjdMaU95eFgyTWRhZHZYNHBTSVlpM1ZQcmpVN2Z2TXRObmNR"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-18T03:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lV3hIYVo0M1FkWVU5aFhTbDVpNXFsd1ZadXl0S2VRcXdtTEtfRF9WcnNMbV96a1pxMzM0eTR6a3hiX2NNRnlfc1Y4NDhWTU5oU3BSZGVfelZWX3RMYkNuZEl1R21vYVZhSVFpTS1HUVNPX29uczJucWVGWVUtN3M"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末",
+   "zh_summary": "得州将为特斯拉Roadster规划赛道",
+   "title_zh": "马斯克曝新进展：得州将为特斯拉 Roadster规划专属环形赛道 - 搜狐网",
    "sentiment": 1
   },
   {
