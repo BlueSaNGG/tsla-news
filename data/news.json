@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T22:07:32.728563+00:00",
+ "updated_at": "2026-10-18T22:22:36.603349+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（164条已评分）"
+     "note": "今日新闻情绪 -0.02（167条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-18T22:07:32.713625+00:00"
+   "as_of": "2026-10-18T22:22:36.590807+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 164
+   "avg": -0.02,
+   "count": 167
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c27625b56c3d",
+   "title": "BYD Beats Tesla by €5,500 in Europe’s EV Price War [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2pXQVFMOGtQNDJpa1dzQUpSTjhnWTBrbUFKTXBKZFIyRFJOdGhJekNTR0lPQTg4SkpjeUMwSWQtMDNfMm5HRy03QWFsUGszMlJuaFdOY3gySlNNeGZ3aE03MC1jS1JoY3dzNDFwaUx6ZWFMRUFGNGtSU3hEZWpPaHNB",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-18T22:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-18T22:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2pXQVFMOGtQNDJpa1dzQUpSTjhnWTBrbUFKTXBKZFIyRFJOdGhJekNTR0lPQTg4SkpjeUMwSWQtMDNfMm5HRy03QWFsUGszMlJuaFdOY3gySlNNeGZ3aE03MC1jS1JoY3dzNDFwaUx6ZWFMRUFGNGtSU3hEZWpPaHNB"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "6c7d15a3aeba",
    "title": "特斯拉发布第二代Roadster 原型车飞越特斯拉车型 - 新浪网",
@@ -146,6 +163,23 @@
    "zh_summary": "Roadster表演车疑被大幅减重",
    "title_zh": "马特·沃森认为特斯拉0.81秒Roadster表演车被大幅减重",
    "sentiment": -1
+  },
+  {
+   "id": "1b5f49ce84ef",
+   "title": "Will Tesla’s Q3 Earnings Help TSLA Stock Recover? Here’s What Analysts Expect - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWlMcWdXV0dDRVhLSVhUdVVpcEhtQWk3TnBWckZyN0RjdVdLaHNqNG1PaWNReDZYRWw4SUt5N1JyYTM2R095NnZUd0ZhN1FVc0NrWlB0Y2lTRWtXclRmSDE5Q1IyWDgxSjV1bkJrc3pzZmRYZTF4b0pBbi12RlphaGh0S2dEaHY0U1VUbkVfLW1mcEFzNGhNVnFwNVdnWjdhV2RaNjlWQQ",
+   "source": "TipRanks",
+   "published_at": "2026-10-18T21:05:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-18T21:05:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWlMcWdXV0dDRVhLSVhUdVVpcEhtQWk3TnBWckZyN0RjdVdLaHNqNG1PaWNReDZYRWw4SUt5N1JyYTM2R095NnZUd0ZhN1FVc0NrWlB0Y2lTRWtXclRmSDE5Q1IyWDgxSjV1bkJrc3pzZmRYZTF4b0pBbi12RlphaGh0S2dEaHY0U1VUbkVfLW1mcEFzNGhNVnFwNVdnWjdhV2RaNjlWQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "周末"
   },
   {
    "id": "2565045d7f70",
@@ -438,12 +472,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVRaT1JEZnBQMDRXOHRXZTBQdnE1LXM1WFpmaVlQOGJrZ1A4b0lzMVB0RzNXamtBb2hLMXRYYUFjeWN5WmNVM0VPYnViYU5xSzg0OEstby1JNGEwVzd6LTFFc3dqdVZhOGFuX1pTamR6TEI3WHMzNmc1a1JmMXItMkVwSmpXMGJ2OGF1MTF4aW1wMlZvbU85NVh2UXk",
    "source": "TheStreet",
    "published_at": "2026-10-18T17:33:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TheStreet",
      "published_at": "2026-10-18T17:33:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVRaT1JEZnBQMDRXOHRXZTBQdnE1LXM1WFpmaVlQOGJrZ1A4b0lzMVB0RzNXamtBb2hLMXRYYUFjeWN5WmNVM0VPYnViYU5xSzg0OEstby1JNGEwVzd6LTFFc3dqdVZhOGFuX1pTamR6TEI3WHMzNmc1a1JmMXItMkVwSmpXMGJ2OGF1MTF4aW1wMlZvbU85NVh2UXk"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-18T20:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeU56bTREOHhQUGpNMklxYVZiLXlBYUxFMXU0elZIVnQ4VXZ5MHZidm9vZXNZQ0RXNGdEWVhWeVNOeTVZYjdQTExnQzhkaHZPOGJJekhKT2FGenVqR1VsVzk3bmhnLXoxRENaMzZTRUZDX0RZUlpOejhOc2xoRTZCRHFmWV9DWjZIdGVNXzY4UWtMZw"
     }
    ],
    "category": "车型产品",
@@ -591,26 +630,6 @@
    "zh_summary": "订购新款Roadster需付$250k但交车无保障",
    "title_zh": "付$250k订购新款特斯拉Roadster？细则称交车无保障",
    "sentiment": -1
-  },
-  {
-   "id": "c3efc12fe429",
-   "title": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln",
-   "source": "汽车之家",
-   "published_at": "2026-10-18T16:29:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-18T16:29:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉发布全新Roadster国内可订",
-   "title_zh": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
-   "sentiment": 1
   },
   {
    "id": "70d0eb4edbe3",
@@ -4140,6 +4159,23 @@
    "sentiment": 0
   },
   {
+   "id": "39da2b5513b0",
+   "title": "特斯拉能“飞”，高管披露技术细节 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxWUxrbl9Hc0dJZ1p6aVBaVU1NNWRKX3hMNGg4aFZKQ1d5Ql9sYjZCTXRxbG9zUWxTM0dQV3dMLVE3aXpYNldJUA",
+   "source": "财联社",
+   "published_at": "2026-10-18T02:50:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-18T02:50:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxWUxrbl9Hc0dJZ1p6aVBaVU1NNWRKX3hMNGg4aFZKQ1d5Ql9sYjZCTXRxbG9zUWxTM0dQV3dMLVE3aXpYNldJUA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "281fb8e5e4d1",
    "title": "特斯拉市值蒸发超6200 亿，本周五连跌|特斯拉_新浪新闻 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5Ym1oM0lwVWNsTTAzdUI2Z1h5R2dWY1VHVEI5UW81MUhBbFpCaC1LVzliWUhXUnRtUl96MHZJTWNWTU1nRUFySUNVZW9weU1mWGpudmZsNFE0QWxJeUExdlk3cw",
@@ -6335,46 +6371,6 @@
    "zh_summary": "Roadster跳跃能力引发网友调侃",
    "title_zh": "按特斯拉这个轻功，以后ETC卡要开发对空感应功能了 - 新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "2d6d15c933e7",
-   "title": "特斯拉新一代Roadster展示飞行能力，空中完成尖翻动作 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcW53TmgwVy1QUXNtb092V1VjcUVFR0xIZGdLT0NlMFNIU0toZzhjMXhuRTN5WWVSenYyUVpaY1ZLV1FCU20wSWJTNnlmWk4tM3M1dmh0cWwxNWljR0thM1JiaE9rMEJaT2dZdG10VmtMX3RNOS1wbEhXOWx4RXR0Xw",
-   "source": "新浪网",
-   "published_at": "2026-10-17T16:04:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T16:04:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcW53TmgwVy1QUXNtb092V1VjcUVFR0xIZGdLT0NlMFNIU0toZzhjMXhuRTN5WWVSenYyUVpaY1ZLV1FCU20wSWJTNnlmWk4tM3M1dmh0cWwxNWljR0thM1JiaE9rMEJaT2dZdG10VmtMX3RNOS1wbEhXOWx4RXR0Xw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Roadster展示飞行能力空中翻滚",
-   "title_zh": "特斯拉新一代Roadster展示飞行能力，空中完成尖翻动作 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "d0b6dc95cb69",
-   "title": "Tesla Wins Major Self-Driving Lawsuit Appeal Because Buyers May Not Have Seen Its Advertising - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMWM0Vzl3NGNkamZyR21nZjVEa1J3Q3RwODZLb3lXdlBWRV9YRnFYZTU2LTF6Y1pZbmZOLXhFVjVCcHhiRE0wNXBtaTlETmFtVkdKNldRRG1pUTVxNXo4aXBXRi1hVTdFTjJDenBnTDcxNWIwbnJ4d3B6R3lPdGZscHpxcE1aVVItTVVN",
-   "source": "Yahoo",
-   "published_at": "2026-10-17T15:59:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-17T15:59:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMWM0Vzl3NGNkamZyR21nZjVEa1J3Q3RwODZLb3lXdlBWRV9YRnFYZTU2LTF6Y1pZbmZOLXhFVjVCcHhiRE0wNXBtaTlETmFtVkdKNldRRG1pUTVxNXo4aXBXRi1hVTdFTjJDenBnTDcxNWIwbnJ4d3B6R3lPdGZscHpxcE1aVVItTVVN"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "特斯拉赢得自动驾驶诉讼上诉",
-   "title_zh": "特斯拉赢得自动驾驶重大诉讼上诉",
-   "sentiment": 1
   }
  ]
 }
