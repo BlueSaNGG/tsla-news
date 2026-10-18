@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T18:22:33.322627+00:00",
+ "updated_at": "2026-10-18T18:37:26.953113+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.02（141条已评分）"
+     "note": "今日新闻情绪 -0.03（144条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-18T18:22:33.315408+00:00"
+   "as_of": "2026-10-18T18:37:26.942859+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.02,
-   "count": 141
+   "avg": -0.03,
+   "count": 144
   }
  },
  "meta": {
@@ -153,12 +153,17 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd05QejV5S3VFR3ZXdnFxVnNKc1BQbWxJQXBmT20waEZXYzJDeVlZcTltTXA2Rkg3QS1rQ3BpNUtwTnhNX3RoZDFOU29CZU9NMTBKUkdnY2NiR1BtMUhkZjh2VHE1VXVoZGxxS2ZITnZMcHQwaG9jZXV5N0J6UGtWQTFWbmVhUmJ3RmZmVUJn",
    "source": "Yahoo",
    "published_at": "2026-10-18T17:35:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo",
      "published_at": "2026-10-18T17:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd05QejV5S3VFR3ZXdnFxVnNKc1BQbWxJQXBmT20waEZXYzJDeVlZcTltTXA2Rkg3QS1rQ3BpNUtwTnhNX3RoZDFOU29CZU9NMTBKUkdnY2NiR1BtMUhkZjh2VHE1VXVoZGxxS2ZITnZMcHQwaG9jZXV5N0J6UGtWQTFWbmVhUmJ3RmZmVUJn"
+    },
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-10-18T17:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGxSenRLYk1DZzRPa2NyUWJ6Y3NhWXc0cVdvZnYtczBDaFp6QUJLakN0QnNVVERHdmFjQzlyWW5pTmFkWlo0UVRGemZzX0hmSm1oNXJMNHh4VUQ1ODJKUFVYeTZVSjdJR0F3b3o2UGpSUEN0VkI1a0VNNlc2bDBKcTdQbF9ZdDBjX1hsbg"
     }
    ],
    "category": "其他",
@@ -1311,6 +1316,23 @@
    "zh_summary": "特斯拉虚拟电厂不止发电",
    "title_zh": "特斯拉虚拟电厂不只是发电",
    "sentiment": 1
+  },
+  {
+   "id": "7bf937c72b97",
+   "title": "【视频】特斯拉Roadster这一飞把AI画面变成现实了！ - 车家号",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2QXFzSVRoTlhIcVRvc2tQSjdicV9RR0xoelVhZjdWZGRDaXc0UG5LekpkRDB6OFZLWld0UlJSTTBjUnB0YXJscEdCYWt6Q2ZfY0FYQ3p3YW1JNWs",
+   "source": "车家号",
+   "published_at": "2026-10-18T12:06:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "车家号",
+     "published_at": "2026-10-18T12:06:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2QXFzSVRoTlhIcVRvc2tQSjdicV9RR0xoelVhZjdWZGRDaXc0UG5LekpkRDB6OFZLWld0UlJSTTBjUnB0YXJscEdCYWt6Q2ZfY0FYQ3p3YW1JNWs"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "32bcae4e8b49",
@@ -6384,26 +6406,6 @@
    "session": "周末",
    "zh_summary": "Roadster功率超Model S Plaid三分之一",
    "title_zh": "特斯拉Roadster电池驱动单元功率超Model S Plaid三分之一 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "1bf84dcba073",
-   "title": "特斯拉Roadster火箭版腾空翻滚，单座特技非飞行 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGsxRXpUM3VqNXZYOWF0UlpwemFzTHJRc1dTNkFKeTkxSFFibVBBTjY5SUFaZHJlc3MxZ28zb3o2blQ3VVdiS3pJTUFwTjRsV2cxUEdLbW5lcEtqSnpFbDdQc3VxVVBqaHlfUzNLQW1VS0p0aVpBdU9MWi1CcHlIOQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T14:13:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T14:13:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGsxRXpUM3VqNXZYOWF0UlpwemFzTHJRc1dTNkFKeTkxSFFibVBBTjY5SUFaZHJlc3MxZ28zb3o2blQ3VVdiS3pJTUFwTjRsV2cxUEdLbW5lcEtqSnpFbDdQc3VxVVBqaHlfUzNLQW1VS0p0aVpBdU9MWi1CcHlIOQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster火箭版腾空翻滚展示",
-   "title_zh": "特斯拉Roadster火箭版腾空翻滚，单座特技非飞行 - 新浪网",
    "sentiment": 1
   }
  ]
