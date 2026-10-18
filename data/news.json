@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T02:07:27.260498+00:00",
+ "updated_at": "2026-10-18T02:22:24.842719+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（248条已评分）"
+     "note": "今日新闻情绪 +0.27（253条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-18T02:07:27.252662+00:00"
+   "as_of": "2026-10-18T02:22:24.830858+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 248
+   "avg": 0.27,
+   "count": 253
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0f8ab7d96bbe",
+   "title": "特斯拉飞行汽车被质疑是噱头 炫酷特技引发争议 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Smd6VGxSRk83eWtEVjQxZy1QVDMxSXNBZFVJdU1jMUVWMDJrWEt2b3liLW12bmZNcFo5cmZOUWlDOUVnbnlIeDBPRkdPMmxFX3NUa0RYZnVwUFlhc1hoVG1LcnEyREkxYmpGQ3hyOGI",
+   "source": "中华网",
+   "published_at": "2026-10-18T02:11:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-18T02:11:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03Smd6VGxSRk83eWtEVjQxZy1QVDMxSXNBZFVJdU1jMUVWMDJrWEt2b3liLW12bmZNcFo5cmZOUWlDOUVnbnlIeDBPRkdPMmxFX3NUa0RYZnVwUFlhc1hoVG1LcnEyREkxYmpGQ3hyOGI"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "986209fcc720",
    "title": "Man who's used Full Self-Driving on his 2025 Tesla Model 3 Highland has taken 50 people from his village for a ride and they've all had one common experience - supercarblondie.com",
@@ -83,9 +100,26 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
-   "title_zh": "一名车主用FSD带50名村民试驾收获一致体验",
    "zh_summary": "车主用FSD带50名村民试驾印象深刻",
+   "title_zh": "一名车主用FSD带50名村民试驾收获一致体验",
    "sentiment": 1
+  },
+  {
+   "id": "51d3656646b4",
+   "title": "飞起来的特斯拉：贾跃亭的“生态化反”，被马斯克实现了 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jMENwejJoSjVHOXdzTlpmdVJYZXNUYWhnZ3hETFZkQ29zTVcybjZRdXE2QVZfcW5HMXU3eHlacmw3UGlaZzVndVlSam5mSHVLT2hEQ0hWRlpYUC1n",
+   "source": "Moomoo",
+   "published_at": "2026-10-18T01:57:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-18T01:57:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jMENwejJoSjVHOXdzTlpmdVJYZXNUYWhnZ3hETFZkQ29zTVcybjZRdXE2QVZfcW5HMXU3eHlacmw3UGlaZzVndVlSam5mSHVLT2hEQ0hWRlpYUC1n"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
   },
   {
    "id": "8544221bb251",
@@ -103,8 +137,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉高管详解新Roadster 揭秘颠覆性技术方案 - 中华网",
    "zh_summary": "特斯拉高管详解新Roadster技术方案",
+   "title_zh": "特斯拉高管详解新Roadster 揭秘颠覆性技术方案 - 中华网",
    "sentiment": 1
   },
   {
@@ -123,8 +157,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉Roadster新专利 风扇抽吸系统可吸附天花板 - 新浪网",
    "zh_summary": "Roadster新专利风扇系统可吸附天花板",
+   "title_zh": "特斯拉Roadster新专利 风扇抽吸系统可吸附天花板 - 新浪网",
    "sentiment": 0
   },
   {
@@ -166,6 +200,23 @@
    "zh_summary": "地效车可贴天花板行驶特斯拉非前行者",
    "title_zh": "地效车早可贴天花板行驶，特斯拉非前行者 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "3a191fb4e76a",
+   "title": "特斯拉Roadster腾空翻滚引爆全球摘要 - 新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFA0bE5rb0lmRnZiRlYteWJnZmtIMkpSckFVSWZOWW1IaGx1Z2dUemRTZU9wNk9QUHlZTDVvYzRWc0tzOUpPc2pSMjVPRHo0aHlxQVJHME5NUnlwNERRRmtEREtMYk00Mm5yN3d6YjYyUUxBTWNyWXlPUkVPWlVuQ1M4cw",
+   "source": "新浪新闻_手机新浪网",
+   "published_at": "2026-10-18T01:25:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪新闻_手机新浪网",
+     "published_at": "2026-10-18T01:25:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFA0bE5rb0lmRnZiRlYteWJnZmtIMkpSckFVSWZOWW1IaGx1Z2dUemRTZU9wNk9QUHlZTDVvYzRWc0tzOUpPc2pSMjVPRHo0aHlxQVJHME5NUnlwNERRRmtEREtMYk00Mm5yN3d6YjYyUUxBTWNyWXlPUkVPWlVuQ1M4cw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "9d7de665d933",
@@ -231,6 +282,23 @@
    "zh_summary": "特斯拉股价或涨3.8%(推测)",
    "title_zh": "特斯拉股价或上涨3.8% - KuCoin",
    "sentiment": 0
+  },
+  {
+   "id": "f188d726f889",
+   "title": "特斯拉Roadster国内预订开启，意向金33.2万 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DLTRMNFRtVEhLVXpEdGJTU01HMDhxUkx2ZjVoMEdyRm9LQ0xjeWFZUmxDX1EtaTRlOHg2d2xkdlFyazZDaU05dXhOMVlXZU9EME5zcXhmMndhVmprb2pzVE9pRUtTM1BTSTFka2RrWWJLWkE",
+   "source": "新浪网",
+   "published_at": "2026-10-18T01:06:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-18T01:06:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DLTRMNFRtVEhLVXpEdGJTU01HMDhxUkx2ZjVoMEdyRm9LQ0xjeWFZUmxDX1EtaTRlOHg2d2xkdlFyazZDaU05dXhOMVlXZU9EME5zcXhmMndhVmprb2pzVE9pRUtTM1BTSTFka2RrWWJLWkE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "8a36325613c7",
@@ -423,8 +491,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉Roadster推进器仅5秒助推，加满需2000美元 - 新浪网",
    "zh_summary": "Roadster推进器5秒助推加满需2000美元",
+   "title_zh": "特斯拉Roadster推进器仅5秒助推，加满需2000美元 - 新浪网",
    "sentiment": 0
   },
   {
@@ -2240,6 +2308,23 @@
    "sentiment": 0
   },
   {
+   "id": "443282419468",
+   "title": "Tesla ‘Cannot Guarantee’ Roadster Reservation Holders Will Ever Get a Car - The Drive",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2NDTGtQX3JCVmpQT1lRMEdSdmRXLVpWTmdJb1RaYnU4eWZlQ3hpTnIwa2JqWHdnMjRIVURibE5Sal9MbUdWZFF1QUFaeEJOUW5PeWd5cm53RExEYk1pMHhXWTNSMU9xUGFTUkFxMWVoNnl1bzItN0tEcFJXWXQ0RjVkd0pTeDBwNmgzY2I4dklXakswZ1c1eTlrSWJVeVBWazFZ",
+   "source": "The Drive",
+   "published_at": "2026-10-17T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Drive",
+     "published_at": "2026-10-17T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2NDTGtQX3JCVmpQT1lRMEdSdmRXLVpWTmdJb1RaYnU4eWZlQ3hpTnIwa2JqWHdnMjRIVURibE5Sal9MbUdWZFF1QUFaeEJOUW5PeWd5cm53RExEYk1pMHhXWTNSMU9xUGFTUkFxMWVoNnl1bzItN0tEcFJXWXQ0RjVkd0pTeDBwNmgzY2I4dklXakswZ1c1eTlrSWJVeVBWazFZ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
+  {
    "id": "346fcc007757",
    "title": "胡锡进谈特斯拉Roadster会飞 机器人坐空中旋转车双手抱头 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3czR21HeFBzWWtmdEJuYzUxM2ZsOVlXM3Z4NFl5TWxCZTNXNjJoZGZCU1pmTk1BSUhJcVI4YldObU9OdW02WXVEVEQxX0tqWk1xRVVJUFg5aVk4aHdiRlUtUThFanNoR3NkUS1aTUlFLUpWTWZTek1LQllKaHVnUQ",
@@ -2285,12 +2370,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGN1dEa0h5M0FUVjdycmxBLTd5ZWJmQ01PY2Q2V0VEOUdSblc1TkZndndkb3BpNEd6eU0xRi1ld2VpZ3prV0wtMGhibVNrWWYzcU40VE9vXzc",
    "source": "驱动之家",
    "published_at": "2026-10-17T13:57:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-17T13:57:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGN1dEa0h5M0FUVjdycmxBLTd5ZWJmQ01PY2Q2V0VEOUdSblc1TkZndndkb3BpNEd6eU0xRi1ld2VpZ3prV0wtMGhibVNrWWYzcU40VE9vXzc"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-17T15:03:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX3JCTm1BY3ZGeVRJUlhoUE1sSWtPX1VMZnZfMWh0ZWJGOHl0UG5KZzhGaE5ydmk5ZFlyM0hNczdXamIyaTA3dkRpSHFIeEFyc0paVWFsQ0tOS3A0NmZRc2JPSmFXY0FaWGVNcUc0d2t6WWdXekk2aC1TVUIyZnNfZk1GRzVDdWJyZ0s4SkxTSW5Mb2h6TWhEYnhGVW5SemM4T2NNRVZZSkRrNllPOUFRWHI1Yk5yWTNCSVNmaWl1ODR6T3Z5aURXb2tDQUZTVjgxTG9ZTFFDWDZrVkhuVU1DWXNidVp2b1RsWU5yRlgxaDdnNmxiZm5HTUtncUhCdTgzd093eHQ3OVM"
     }
    ],
    "category": "分析师",
@@ -2315,8 +2405,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉Roadster德州发布，0.81秒破百，2028年量产 - 新浪网",
    "zh_summary": "特斯拉新Roadster发布2028年量产",
+   "title_zh": "特斯拉Roadster德州发布，0.81秒破百，2028年量产 - 新浪网",
    "sentiment": 1
   },
   {
@@ -6263,106 +6353,6 @@
    "zh_summary": "Roadster道路版定金5万美元赛道版25万美元",
    "title_zh": "特斯拉新款Roadster定金公布，道路版5万美元赛道版25万美元",
    "sentiment": 1
-  },
-  {
-   "id": "109af494cbae",
-   "title": "2014年，张一鸣去了趟特斯拉总部 - ThePaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15cW1RejlnQUVheTVNTU1WYy02N2I3R2h2b1ZIZHlGQ3hhRi14OFVoSjZVY1NWUXlrWE9jLVV1V1Y3ZURITG5sWEhmNERVZlF5NE1jRjlKXzhFeGV6MFN4Qg",
-   "source": "ThePaper.cn",
-   "published_at": "2026-10-17T03:13:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ThePaper.cn",
-     "published_at": "2026-10-17T03:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15cW1RejlnQUVheTVNTU1WYy02N2I3R2h2b1ZIZHlGQ3hhRi14OFVoSjZVY1NWUXlrWE9jLVV1V1Y3ZURITG5sWEhmNERVZlF5NE1jRjlKXzhFeGV6MFN4Qg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "张一鸣2014年曾访特斯拉总部",
-   "title_zh": "2014年，张一鸣去了趟特斯拉总部 - ThePaper.cn",
-   "sentiment": 0
-  },
-  {
-   "id": "dec5d06d5c8e",
-   "title": "Roadster变脸美式艾尼氪V，能飞天的特斯拉火箭版不量产 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kQTl0aE1rVkdLbV9xdS1lZkVyMHBRUktzMjF4WmE1TnVjbVhyVWFrWloyUHplZnZNN2hWYll5eTdwN1l4SlhCRF9nWERKZG05SXhmWldNamtacjg",
-   "source": "车家号",
-   "published_at": "2026-10-17T03:11:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-17T03:11:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kQTl0aE1rVkdLbV9xdS1lZkVyMHBRUktzMjF4WmE1TnVjbVhyVWFrWloyUHplZnZNN2hWYll5eTdwN1l4SlhCRF9nWERKZG05SXhmWldNamtacjg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "能飞的Roadster火箭版不量产",
-   "title_zh": "Roadster变脸美式艾尼氪V，能飞天的特斯拉火箭版不量产",
-   "sentiment": 0
-  },
-  {
-   "id": "47b26b3b3cae",
-   "title": "特斯拉Roadster跑车倒档彩蛋 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjRmdm4wSG9qTldqdE5DVWtsNTB5cktvN00xWTRnRjBMRHlFbzM0Q054MURsbG10X0xFS3ZxRWZvcU52cWRhZzExMUVrczA2dnlhTFhoTnBfME5kLTA5QXNvODVtR0Rnb1BKT2NQU1JMbWxsNDJQRFZUVEZJVHdnVw",
-   "source": "新浪网",
-   "published_at": "2026-10-17T03:08:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T03:08:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjRmdm4wSG9qTldqdE5DVWtsNTB5cktvN00xWTRnRjBMRHlFbzM0Q054MURsbG10X0xFS3ZxRWZvcU52cWRhZzExMUVrczA2dnlhTFhoTnBfME5kLTA5QXNvODVtR0Rnb1BKT2NQU1JMbWxsNDJQRFZUVEZJVHdnVw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster跑车出现倒档彩蛋",
-   "title_zh": "特斯拉Roadster跑车倒档彩蛋 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "45a97dba77fb",
-   "title": "跑车飞上天？特斯拉Roadster 2发布，马斯克宣称：这是人类驾驶的绝唱 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDlfVFRISnc3TUZkQ3N2bE44UzE0SVlUUTRNaXZJRWdQQnViVDJVMWlMSjFsdzhXdlJKeWRXU1g2MTRzcW1aS0FQLVl2ZzJDcm1hcnhreGNDNk5pbjlzaS16OUZfa1dIYUNBblRucGtJZ2x0Wi1Rb1dJTi1MdzZrMQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T03:08:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T03:08:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDlfVFRISnc3TUZkQ3N2bE44UzE0SVlUUTRNaXZJRWdQQnViVDJVMWlMSjFsdzhXdlJKeWRXU1g2MTRzcW1aS0FQLVl2ZzJDcm1hcnhreGNDNk5pbjlzaS16OUZfa1dIYUNBblRucGtJZ2x0Wi1Rb1dJTi1MdzZrMQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克发布Roadster 2，宣称可飞行",
-   "title_zh": "跑车飞上天？特斯拉Roadster 2发布，马斯克宣称：这是人类驾驶的绝唱",
-   "sentiment": 1
-  },
-  {
-   "id": "86a4e07cd041",
-   "title": "特斯拉Roadster发布会表演飞行，量产要等2028年 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTA3RE1RanJBOVRub3RWVFYyTmpOU0hpUmdDaTRYNHFoRjd5TFdIWEpDaUpjSmxGWk9uVURpVGpKci0zQ0RrYXJWQUhrX2ZsRG5PWmhsTFB2V0ZlNlpQenN6NG5sdjFob19GZG5xNmpNZWFiVjlWQ2EycHg5RVVmVg",
-   "source": "新浪网",
-   "published_at": "2026-10-17T03:08:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T03:08:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTA3RE1RanJBOVRub3RWVFYyTmpOU0hpUmdDaTRYNHFoRjd5TFdIWEpDaUpjSmxGWk9uVURpVGpKci0zQ0RrYXJWQUhrX2ZsRG5PWmhsTFB2V0ZlNlpQenN6NG5sdjFob19GZG5xNmpNZWFiVjlWQ2EycHg5RVVmVg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Roadster表演飞行量产待2028年",
-   "title_zh": "特斯拉Roadster发布会表演飞行，量产要等2028年 - 新浪网",
-   "sentiment": 0
   }
  ]
 }
