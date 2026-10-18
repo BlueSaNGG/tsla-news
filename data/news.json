@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T05:37:26.954962+00:00",
+ "updated_at": "2026-10-18T05:52:30.528287+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（6条已评分）"
+     "note": "今日新闻情绪 +0.17（6条已评分）"
     },
     {
      "key": "动量",
@@ -50,13 +50,13 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-18T05:37:26.945775+00:00"
+   "as_of": "2026-10-18T05:52:30.519417+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
+   "avg": 0.17,
    "count": 6
   }
  },
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5216156f432e",
+   "title": "Korea EV Loss Ratio Hits 107.6% as Tesla Sales Triple [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xb0U5NHF6WnR5MldIb1EtWjZFbGhUczEySWRTYWZ1OVVhWEhBbXZJOVk5VmlVN3U4dkd6TmhIQ3ZwbDU1a1p6ZjQzT2tDVlV0b196MEV1enRSNXV1c3BiU3R3OHl6VXV4ZUVKeWl3Mi1sMTlj",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-18T05:36:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-18T05:36:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xb0U5NHF6WnR5MldIb1EtWjZFbGhUczEySWRTYWZ1OVVhWEhBbXZJOVk5VmlVN3U4dkd6TmhIQ3ZwbDU1a1p6ZjQzT2tDVlV0b196MEV1enRSNXV1c3BiU3R3OHl6VXV4ZUVKeWl3Mi1sMTlj"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "548b5a3e96d6",
+   "title": "Does the Tesla Roadster qualify as an aircraft? - LiveNOW from FOX",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oeXByb2Z5X2dEOWFrQlkzOEJ4SWVsZWpieWluWVRwQ3o3NGlLYUZnRzZWQWtIOFFDZmh0UVNGaVpzbVVfbGZMbW9samYtM1Y0MHN4bm9wLVVPLUc2UEQ1VjN3VdIBaEFVX3lxTFAtb3RabkdoNXlwXzRUQ1p1X3lzV3FRMGEyUjhmNHVHRzZDYktMekpxMVp5TDJWRzdVRi1BR21kdUNMaFg3T2ctcFllOWRsNGMySGVBd1AweFAwb0JLLXQ1bDFOME5hVzda",
+   "source": "LiveNOW from FOX",
+   "published_at": "2026-10-18T05:28:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "LiveNOW from FOX",
+     "published_at": "2026-10-18T05:28:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oeXByb2Z5X2dEOWFrQlkzOEJ4SWVsZWpieWluWVRwQ3o3NGlLYUZnRzZWQWtIOFFDZmh0UVNGaVpzbVVfbGZMbW9samYtM1Y0MHN4bm9wLVVPLUc2UEQ1VjN3VdIBaEFVX3lxTFAtb3RabkdoNXlwXzRUQ1p1X3lzV3FRMGEyUjhmNHVHRzZDYktMekpxMVp5TDJWRzdVRi1BR21kdUNMaFg3T2ctcFllOWRsNGMySGVBd1AweFAwb0JLLXQ1bDFOME5hVzda"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
   {
    "id": "39b1826b4140",
    "title": "特斯拉发布可飞行跑车，我怀疑马斯克玩火影 - 新浪网",
@@ -148,26 +182,6 @@
    "sentiment": 0
   },
   {
-   "id": "5481c45ad665",
-   "title": "特斯拉飞行汽车在美国引发一连串疑问！归谁管？拿何种驾照？从哪起飞？是否真能飞？ - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVhGNWVQWHhEbnJHTjdNQ3pBeTE4NnBwUXB6amJfN09scXpwUDY4R2hOUExWb2FKVkcyQTEyLTNralUwWUJDTkZ2ekhXNEs0eHUwY0JDblN2cDh1dV9kanhFYUQ1WEd0SnNvMFhSRkdTT1lUUkhZaGFUVFc1T0hMcXFaTnJhcWtENDZj",
-   "source": "搜狐网",
-   "published_at": "2026-10-18T05:08:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-18T05:08:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVhGNWVQWHhEbnJHTjdNQ3pBeTE4NnBwUXB6amJfN09scXpwUDY4R2hOUExWb2FKVkcyQTEyLTNralUwWUJDTkZ2ekhXNEs0eHUwY0JDblN2cDh1dV9kanhFYUQ1WEd0SnNvMFhSRkdTT1lUUkhZaGFUVFc1T0hMcXFaTnJhcWtENDZj"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "美媒热议特斯拉飞行汽车监管疑问",
-   "title_zh": "特斯拉飞行汽车在美国引发一连串疑问！归谁管？拿何种驾照？从哪起飞？是否真能飞？",
-   "sentiment": 0
-  },
-  {
    "id": "7a2a73369be4",
    "title": "特斯拉能“飞”，高管披露技术细节：引入SpaceX气体推进系统 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3lZRXhzZU1HQmVTaHNCTk1rejdHYmdkMFhkRmJ3Nk9jNGhZZXhjNWx3NWM0R056VVpTbEFQMWtSTnZoQ0RWQkpDOUpmcnhlMGhzU2ZEenZEX0VrVnhjZm5JWHgwNk5kbVhGMXVIdi00WWE3M3RjZkR1Sm96VGZ3Nk85M2N3WGNTQUdyeXc5TQ",
@@ -233,6 +247,23 @@
    "sentiment": 1
   },
   {
+   "id": "be257a6f5e78",
+   "title": "【视频】会飞檐走壁的特斯拉Roadster，华尔街分析员说它是废物？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdkwzUTJSRGpSVS16UmFEYVBkaVdObUlpdFh3OVA0WU0yQmw3eTBqeGZFUmxXWlJ1ZS1fTHpkcERsMk9TTXJsanZRcm43Nmp3Z0VNX2lkNFhuc0k",
+   "source": "汽车之家",
+   "published_at": "2026-10-18T04:48:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-18T04:48:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdkwzUTJSRGpSVS16UmFEYVBkaVdObUlpdFh3OVA0WU0yQmw3eTBqeGZFUmxXWlJ1ZS1fTHpkcERsMk9TTXJsanZRcm43Nmp3Z0VNX2lkNFhuc0k"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "d8cfe0f9a905",
    "title": "特斯拉Roadster“飞行”技术全揭秘：SpaceX冷气推进器上车，充一次气要等6小时 - 第一电动网",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lV0EycG0zWkM1dEp0TFlqTWlyTDg1emh1bDhjZGVHd2ZDYkVCSnJzQVV3NWswNkxFMFFwV0s1NHhybHoyMGpPYw",
@@ -251,6 +282,23 @@
    "zh_summary": "Roadster冷气推进器上车，充气需等6小时",
    "title_zh": "特斯拉Roadster“飞行”技术全揭秘：SpaceX冷气推进器上车，充一次气要等6小时 - 第一电动网",
    "sentiment": 0
+  },
+  {
+   "id": "1c5e4dd193b1",
+   "title": "🇺🇲 TESLAS GET SPOOKY 👻 Tesla owners got into the Halloween spirit with a \"Frunk & Treat\" event in SoCal. Hoods were popped and filled with decorations and candy. Check out all the creativity on display 🔥🎃 Writer: Marie - X",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNW95MUdnRHRRWUF4QTctd196Z0Z1ZVVnZ2FySkxWREpqUUVQNjFTOHMzTnhBcDFiZXMzMTNCYXA1N0Qyem1LaDVwSm1tNWhPX1BUcWNpLWZPX0xTcTgwMUZ3d29TQnlTYkY2Sg",
+   "source": "X",
+   "published_at": "2026-10-18T04:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "X",
+     "published_at": "2026-10-18T04:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNW95MUdnRHRRWUF4QTctd196Z0Z1ZVVnZ2FySkxWREpqUUVQNjFTOHMzTnhBcDFiZXMzMTNCYXA1N0Qyem1LaDVwSm1tNWhPX1BUcWNpLWZPX0xTcTgwMUZ3d29TQnlTYkY2Sg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
   },
   {
    "id": "87f4624fef62",
@@ -3600,26 +3648,6 @@
    "sentiment": 1
   },
   {
-   "id": "c7a976be567c",
-   "title": "Tesla Driver Says He Was Asleep With FSD On When He Hit Police Car - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnUzV2JSMFVjSjNZVEZaQ0hRNEJOZGdraThjNzVrMWpXVHJacUlxbk5WZTlVUEFDZm0yRDR0UERnYnl2TlJqeFJZcEtSc2VtNUNuTFNXdWlqYjZQUzVVazRYTDlMZUhfVGh5UkFTNW9zYW5jZ0RUcEdKLUU1eDBmMmF4aVFVdnE5Ync",
-   "source": "Yahoo",
-   "published_at": "2026-10-17T12:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-17T12:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnUzV2JSMFVjSjNZVEZaQ0hRNEJOZGdraThjNzVrMWpXVHJacUlxbk5WZTlVUEFDZm0yRDR0UERnYnl2TlJqeFJZcEtSc2VtNUNuTFNXdWlqYjZQUzVVazRYTDlMZUhfVGh5UkFTNW9zYW5jZ0RUcEdKLUU1eDBmMmF4aVFVdnE5Ync"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉司机称开FSD睡着撞上警车",
-   "title_zh": "特斯拉司机称开着FSD睡着时撞上警车",
-   "sentiment": -2
-  },
-  {
    "id": "8932671b0880",
    "title": "平地起跳、垂直悬停，特斯拉“会飞的车”震撼亮相，已可预订 - 奥一网",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiTlJ3NEptaDRKbUVMRXBHY19US0VpMzMyRTJFSEZIaWFST1VvVXBNaS1BTXJjRlhKMFRsX24wV18xZ1NhdFI5TGdMRFJueXhjLVBjaGhKTFhoSkdVUjJmQnoxMUR3QQ",
@@ -6363,46 +6391,6 @@
    "zh_summary": "特斯拉Roadster可飞续航引讨论",
    "title_zh": "特斯拉Roadster能飞续航与充气方式引讨论 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "c7cc76eb6b41",
-   "title": "特斯拉Roadster 2一再跳票，2026年4月发布真的靠谱吗？参数、交付、购买全解析+FAQ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KYWIzLVU0TEdLeVh5WE82WWVXWUJ2Y0g3MmhYMXpIMWxsNmg4SHJGcXZRU0djanBOVVpvUzc2ZTdOa3NfQTJXNjhmdjFCM0ZRLTZIenZndlFzUHNrQ0NnUEVFLUI4TXpOazU1d1FQbHNOUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T05:09:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T05:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KYWIzLVU0TEdLeVh5WE82WWVXWUJ2Y0g3MmhYMXpIMWxsNmg4SHJGcXZRU0djanBOVVpvUzc2ZTdOa3NfQTJXNjhmdjFCM0ZRLTZIenZndlFzUHNrQ0NnUEVFLUI4TXpOazU1d1FQbHNOUQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster 2多次跳票，4月发布存疑",
-   "title_zh": "特斯拉Roadster 2一再跳票，2026年4月发布真的靠谱吗？参数、交付、购买全解析+FAQ - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "197636b1cf0b",
-   "title": "理想高管说特斯拉Roadster“面目全非”，新设计真不如原型吗？3个维度深度解析+FAQ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTUEJ0emhJUTNTQTRMeEdKNG5zOWhpM2IwTHYxcUdHWndkSGtjU3V4SEl6ZzIyM1B3OC1HTXdFbE1jT3lnU2E1c0NWMF9OYkZwYVNZRXpHS01zMUlsdnpxVURJR3RIOEFoQkRIREVxTlJaQQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T05:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T05:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTUEJ0emhJUTNTQTRMeEdKNG5zOWhpM2IwTHYxcUdHWndkSGtjU3V4SEl6ZzIyM1B3OC1HTXdFbE1jT3lnU2E1c0NWMF9OYkZwYVNZRXpHS01zMUlsdnpxVURJR3RIOEFoQkRIREVxTlJaQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "理想高管评论特斯拉Roadster设计变化",
-   "title_zh": "理想高管评特斯拉Roadster设计：新设计不如原型？",
-   "sentiment": 0
   }
  ]
 }
