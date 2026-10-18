@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T18:37:26.953113+00:00",
+ "updated_at": "2026-10-18T18:52:27.889408+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.03（144条已评分）"
+     "note": "今日新闻情绪 -0.02（145条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-18T18:37:26.942859+00:00"
+   "as_of": "2026-10-18T18:52:27.874396+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.03,
-   "count": 144
+   "avg": -0.02,
+   "count": 145
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "be37e25bc208",
+   "title": "Tesla’s Roadster and the SpaceX Halo - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wWGQ3SW01bVFIUUV2QXIwRTZCLTdPMkRnaFUwenRaSTFlZHZnNWdUVVZIb1RuUDc3amg5T1ZVTUxKZi1qbnJVRFBtM3VMWDI5V0JGNUxLX05BRkVpTUFub0Y2cGoxaXA3MTAzalJmY2p0Q1hicGpj",
+   "source": "Barron's",
+   "published_at": "2026-10-18T18:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-18T18:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wWGQ3SW01bVFIUUV2QXIwRTZCLTdPMkRnaFUwenRaSTFlZHZnNWdUVVZIb1RuUDc3amg5T1ZVTUxKZi1qbnJVRFBtM3VMWDI5V0JGNUxLX05BRkVpTUFub0Y2cGoxaXA3MTAzalJmY2p0Q1hicGpj"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
   {
    "id": "66c8742bbeb9",
    "title": "特斯拉新款Roadster发布，与SpaceX联合开发能短暂腾空 - 新浪网",
@@ -105,26 +122,6 @@
    "session": "周末",
    "zh_summary": "美车主提醒注意特斯拉2026与2027款差异",
    "title_zh": "加州车主提醒：注意特斯拉2026款与2027款的关键差异",
-   "sentiment": 0
-  },
-  {
-   "id": "67ddccf74b5b",
-   "title": "Tesla, Meta, GE Aerospace, GM, IBM, and More Stocks to Watch This Week - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhRYXc4NWFxdV9CRG5wMkRHWXgyNW5qNVBKc2U0bHgxTFZndVJOUU05cGdaSmIzT3ZWYUduVkxJelFMcFNGcktvaHo0SUEyYm90cHRVTWY0dXRCMGxtSWpVaFEwWDYyZ054QVlkSFZOYlJKdTFMenF5TGdNSThadTN4VW9rWEZRQVN3NWhtdEVYZ0ZBa0dHMmh3b04zZHJza2dBdWFnTTRWWlU",
-   "source": "Barron's",
-   "published_at": "2026-10-18T18:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-18T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhRYXc4NWFxdV9CRG5wMkRHWXgyNW5qNVBKc2U0bHgxTFZndVJOUU05cGdaSmIzT3ZWYUduVkxJelFMcFNGcktvaHo0SUEyYm90cHRVTWY0dXRCMGxtSWpVaFEwWDYyZ054QVlkSFZOYlJKdTFMenF5TGdNSThadTN4VW9rWEZRQVN3NWhtdEVYZ0ZBa0dHMmh3b04zZHJza2dBdWFnTTRWWlU"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴伦周刊本周重点关注特斯拉等股票",
-   "title_zh": "巴伦周刊：本周值得关注的股票",
    "sentiment": 0
   },
   {
@@ -1835,6 +1832,26 @@
    "session": "周末",
    "zh_summary": "Model Y与Rivian R2座舱科技对比",
    "title_zh": "特斯拉Model Y对比Rivian R2座舱科技",
+   "sentiment": 0
+  },
+  {
+   "id": "67ddccf74b5b",
+   "title": "Tesla, Meta, GE Aerospace, GM, IBM, and More Stocks to Watch This Week - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhRYXc4NWFxdV9CRG5wMkRHWXgyNW5qNVBKc2U0bHgxTFZndVJOUU05cGdaSmIzT3ZWYUduVkxJelFMcFNGcktvaHo0SUEyYm90cHRVTWY0dXRCMGxtSWpVaFEwWDYyZ054QVlkSFZOYlJKdTFMenF5TGdNSThadTN4VW9rWEZRQVN3NWhtdEVYZ0ZBa0dHMmh3b04zZHJza2dBdWFnTTRWWlU",
+   "source": "Barron's",
+   "published_at": "2026-10-18T10:03:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-18T10:03:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhRYXc4NWFxdV9CRG5wMkRHWXgyNW5qNVBKc2U0bHgxTFZndVJOUU05cGdaSmIzT3ZWYUduVkxJelFMcFNGcktvaHo0SUEyYm90cHRVTWY0dXRCMGxtSWpVaFEwWDYyZ054QVlkSFZOYlJKdTFMenF5TGdNSThadTN4VW9rWEZRQVN3NWhtdEVYZ0ZBa0dHMmh3b04zZHJza2dBdWFnTTRWWlU"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "巴伦周刊本周重点关注特斯拉等股票",
+   "title_zh": "巴伦周刊：本周值得关注的股票",
    "sentiment": 0
   },
   {
@@ -6390,26 +6407,6 @@
    "zh_summary": "特斯拉发布飞行汽车",
    "title_zh": "特斯拉发布飞行汽车",
    "sentiment": 0
-  },
-  {
-   "id": "3a23c4659adc",
-   "title": "特斯拉Roadster电池驱动单元功率超Model S Plaid三分之一 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU5qSkJyamhRRUtPbVhSTEpBeXo2QmVyUm9YcWFZTjNubzdyUHlCNFBXQXNVWGpfMmJaUExjTk5FVUJwNURlaUhHbEp1S3IxOGJQa0NsM0IwZThsUXF5ZkJEY1Qwc2RQNVdBNnRQc2hub2U1SkpZS3hsZFhld2theQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T14:13:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T14:13:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZU5qSkJyamhRRUtPbVhSTEpBeXo2QmVyUm9YcWFZTjNubzdyUHlCNFBXQXNVWGpfMmJaUExjTk5FVUJwNURlaUhHbEp1S3IxOGJQa0NsM0IwZThsUXF5ZkJEY1Qwc2RQNVdBNnRQc2hub2U1SkpZS3hsZFhld2theQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Roadster功率超Model S Plaid三分之一",
-   "title_zh": "特斯拉Roadster电池驱动单元功率超Model S Plaid三分之一 - 新浪网",
-   "sentiment": 1
   }
  ]
 }
