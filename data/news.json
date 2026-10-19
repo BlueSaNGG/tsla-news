@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T15:22:28.631136+00:00",
+ "updated_at": "2026-10-19T15:37:27.404294+00:00",
  "market": {
-  "price": 367.88,
-  "change_pct": 3.71,
+  "price": 367.67,
+  "change_pct": 3.65,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +8.7%"
+     "note": "目标价中位数 $400（16家），隐含空间 +8.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（162条已评分）"
+     "note": "今日新闻情绪 +0.28（169条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $367.88 vs 20日均线 $369.96"
+     "note": "现价 $367.67 vs 20日均线 $369.95"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 36,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 8.7,
-   "ma20": 369.96,
-   "as_of": "2026-10-19T15:22:28.618385+00:00"
+   "implied_upside_pct": 8.8,
+   "ma20": 369.95,
+   "as_of": "2026-10-19T15:37:27.390786+00:00"
   },
   "pe_ttm": 101.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.28,
-   "count": 162
+   "count": 169
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "dafa432f9a23",
+   "title": "特斯拉FSD撞加州巡警车致两警员重伤 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BQ0N0ZkFGX1BDN0FZM1hCT3ltWERWelNVTnJ5TGFwLURJSV9sc2lfNmlWRkwwT1pnT2trU2xLalRCWnhGdVZwS05rX1JtZXAxU2lBRUZOSmZ4YWJZZ1dHaHU5S2NWZ2haN3VUN1NpVTJaQQ",
+   "source": "新浪网",
+   "published_at": "2026-10-19T15:30:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T15:30:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BQ0N0ZkFGX1BDN0FZM1hCT3ltWERWelNVTnJ5TGFwLURJSV9sc2lfNmlWRkwwT1pnT2trU2xLalRCWnhGdVZwS05rX1JtZXAxU2lBRUZOSmZ4YWJZZ1dHaHU5S2NWZ2haN3VUN1NpVTJaQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "13e345847ea6",
+   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB",
+   "source": "Teslarati",
+   "published_at": "2026-10-19T15:25:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-19T15:25:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "5bcfa1156bd0",
+   "title": "特斯拉Roadster跳票九年量产推至2028年 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ0NqNDRXUnQwMURIYmYyUFh0YmVzX2pyNUlCM0dLcE9fUnN0eERzVjZSN0wwY05kWXRnV0RTSFNjcTJpZEdMc2lDdFRnaWZZQUZwcHRXM25fT2paV0Ytam40Z1ZfS0JfWnBVc1FOSGRObEhUODBfWTd1UWkxRUZIYg",
+   "source": "新浪网",
+   "published_at": "2026-10-19T15:25:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T15:25:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ0NqNDRXUnQwMURIYmYyUFh0YmVzX2pyNUlCM0dLcE9fUnN0eERzVjZSN0wwY05kWXRnV0RTSFNjcTJpZEdMc2lDdFRnaWZZQUZwcHRXM25fT2paV0Ytam40Z1ZfS0JfWnBVc1FOSGRObEhUODBfWTd1UWkxRUZIYg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "38d4c59253ad",
+   "title": "跑车也能飞？特斯拉新一代Roadster参数全对比：推进系统/加速/续航什么水平 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04eXNIcWZ3eWdkVUF0R3BfT28ydWVmQVBsTUJVSkt6ZTFsdDJtZTlWY1hsWE1RZmp2cEdoRk5EWDhsdk5GclJCT0xWOHlnaDdoOWR4VTZYQ19pS1E",
+   "source": "网通社",
+   "published_at": "2026-10-19T15:23:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-19T15:23:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04eXNIcWZ3eWdkVUF0R3BfT28ydWVmQVBsTUJVSkt6ZTFsdDJtZTlWY1hsWE1RZmp2cEdoRk5EWDhsdk5GclJCT0xWOHlnaDdoOWR4VTZYQ19pS1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "29c382d87767",
    "title": "Tesla Inc Stock (TSLA) Moved Up by 3.53% on Oct 19: A Full Analysis - TradingKey",
@@ -228,6 +296,23 @@
    "sentiment": 1
   },
   {
+   "id": "0ab62640d3df",
+   "title": "Week ahead: Meta, Tesla earnings to test AI trade as inflation concerns linger - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYXcwb1hFamt1Qkx2ajEzekl3S0JfYmp1NDFOd2pOZTU0dWhqY0NIMzJGczRjWmlaaERyQWpjdWs2b0IxRUdreHhhT3VaNlZ4dXd6N2t2b3p2Q25tTEVfS3FsUTE2QWI1ODZiTU5sTnFzRzRHUkFFTVk3MFJCN0RZWHRDcDV1Zw",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-19T14:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-19T14:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYXcwb1hFamt1Qkx2ajEzekl3S0JfYmp1NDFOd2pOZTU0dWhqY0NIMzJGczRjWmlaaERyQWpjdWs2b0IxRUdreHhhT3VaNlZ4dXd6N2t2b3p2Q25tTEVfS3FsUTE2QWI1ODZiTU5sTnFzRzRHUkFFTVk3MFJCN0RZWHRDcDV1Zw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "95babb4582d2",
    "title": "美股异动| 与SpaceX合并传闻升温特斯拉(TSLA.US)涨逾3%_全球市场_财经 - 证券之星",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14YWpuMDZDcVQzR1hhSGZlSU42b3k5TXRHTnBHX0Z3S1dKeWpxNzNPYVl0TXNkb0FyS0YwdzIyeUZxbUJtS1RibThZcl9CVDhsOGVtZ18tUW5zY3h1YjlIaw",
@@ -326,6 +411,23 @@
    "zh_summary": "特斯拉FSD应对激进驾驶测试结果出人意料",
    "title_zh": "特斯拉FSD迎战激进驾驶的皇冠车，结果出人意料",
    "sentiment": 1
+  },
+  {
+   "id": "e6b69a4ffe13",
+   "title": "$特斯拉(TSLA.US)$近期的市场波动着实令人压力不小。我关注这位朋友很久了，他的分析一向条理清晰，对市场走势的判... - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdl9sWUxON3RJX2RnbHhGTzg5clhnbWwteDlfNU9McG9jWUVjejlQa2k4VWlIOV95blZDMDhBb1pOOFVfTjFiUDI5NzVsay1KT0o4TGVzanJqS0NmcEItaDNydEdCNEtjTU5xYTFQZmJHREhxOUJqbjZ0WkJSX3FOb1E5LTJ4aWp2R3c3clFUNWhWbEFDZURiTUwyZDJkQVdLYmdVOXN5SEJNR1VkQ1duWC11cjl6QUk",
+   "source": "Moomoo",
+   "published_at": "2026-10-19T14:21:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-19T14:21:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdl9sWUxON3RJX2RnbHhGTzg5clhnbWwteDlfNU9McG9jWUVjejlQa2k4VWlIOV95blZDMDhBb1pOOFVfTjFiUDI5NzVsay1KT0o4TGVzanJqS0NmcEItaDNydEdCNEtjTU5xYTFQZmJHREhxOUJqbjZ0WkJSX3FOb1E5LTJ4aWp2R3c3clFUNWhWbEFDZURiTUwyZDJkQVdLYmdVOXN5SEJNR1VkQ1duWC11cjl6QUk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "27e2040eb370",
@@ -3082,12 +3184,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWeG5RTEsya2dDVkhpWXNpZm9XMjhCUDNCRnhabU9ueWxRZGEtQ3AzeVpEUXYxTmlkRVRCejM2TjFNUS05blAwU29HREJ4ZDduN0hQeGdNZUZLTjVWY1dDZVNiQ1BLQmZkT2x5QmZNR0k",
    "source": "中华网",
    "published_at": "2026-10-19T07:32:51+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "中华网",
      "published_at": "2026-10-19T07:32:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWeG5RTEsya2dDVkhpWXNpZm9XMjhCUDNCRnhabU9ueWxRZGEtQ3AzeVpEUXYxTmlkRVRCejM2TjFNUS05blAwU29HREJ4ZDduN0hQeGdNZUZLTjVWY1dDZVNiQ1BLQmZkT2x5QmZNR0k"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T15:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IZEdQLU5ubVRyX3dFM1N5Vmg3QTFUS2dkT2RvWVV3TFZNSG5tMThBeXMyNml5RndYMFh0b3RseURaY3pYUWlJOVRTczFlei1sYWRWbURfb21nbnBkeXhOY0c0UHZsNG9jM2hKVVpEbl82SmpUeGxjbTFoS2l3cVU"
     }
    ],
    "category": "其他",
@@ -6336,126 +6443,6 @@
    "session": "周末",
    "zh_summary": "特斯拉飞行汽车2028量产收5万美元定金",
    "title_zh": "特斯拉飞行汽车2028年量产，5万美元定金，跳票九年 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "d03cc6e5c195",
-   "title": "Tesla's Hidden Alternate Destination Feature: How to Use It - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa01ybFdQdVRZTFljSHI5V2FHT19EVnRHeUhiS09TWXkwMkM3X2dub09WR3dKME5jRGJDYURPc2d2X05meFNjUEhHaHloQmIxanI3SHV6bDVCN2hOcHM1U2hWMFgtRVFKTkhFVVBlYXFpQXBYYkdxM2FjVWx5WmZpMGprZkRWVHpVZHpiQkJ1MXZwUldOdmxn",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-18T17:04:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-18T17:04:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa01ybFdQdVRZTFljSHI5V2FHT19EVnRHeUhiS09TWXkwMkM3X2dub09WR3dKME5jRGJDYURPc2d2X05meFNjUEhHaHloQmIxanI3SHV6bDVCN2hOcHM1U2hWMFgtRVFKTkhFVVBlYXFpQXBYYkdxM2FjVWx5WmZpMGprZkRWVHpVZHpiQkJ1MXZwUldOdmxn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉隐藏备选目的地功能使用介绍",
-   "title_zh": "特斯拉隐藏的备选目的地功能使用方法",
-   "sentiment": 0
-  },
-  {
-   "id": "420e1cb1e14f",
-   "title": "特斯拉装气瓶被称航天美学，比亚迪华为恐被骂移动炸弹 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmxHRkpkLUFVa2taQ3lCZDZnTzE0SnNGTXRWaERmVExibE56LWR6MlRDMVhrZDNaZkZuU2dwNDI2MWRRSlhvLU9venVCRzJlWHhXakRyMFhYNFg3aGs4UDgwTU5BUUNlSkNJeEhQb25kOWtkR3I2eVZ3MWZDYW10Mw",
-   "source": "新浪网",
-   "published_at": "2026-10-18T16:58:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T16:58:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmxHRkpkLUFVa2taQ3lCZDZnTzE0SnNGTXRWaERmVExibE56LWR6MlRDMVhrZDNaZkZuU2dwNDI2MWRRSlhvLU9venVCRzJlWHhXakRyMFhYNFg3aGs4UDgwTU5BUUNlSkNJeEhQb25kOWtkR3I2eVZ3MWZDYW10Mw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉装气瓶被称航天美学",
-   "title_zh": "特斯拉装气瓶被称航天美学，比亚迪华为恐被骂移动炸弹",
-   "sentiment": 0
-  },
-  {
-   "id": "45b46b4eae40",
-   "title": "#特斯拉飞行汽车引爆市场，低空经济掀涨停潮# 人类有史以来第一款会飞的汽车，这是有史以来最酷的现场产品演示！！🔥 - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbFVIdVl1eFJFMi1JTlBXalJhLTdfX0VOamdIWGoxdHhFZmp1UDlSTzAyN1BOQWt1djByYTAybEtpUDd1RkF1dXhTVDBSWmZGM3AxY1p3",
-   "source": "雪球",
-   "published_at": "2026-10-18T16:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "雪球",
-     "published_at": "2026-10-18T16:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbFVIdVl1eFJFMi1JTlBXalJhLTdfX0VOamdIWGoxdHhFZmp1UDlSTzAyN1BOQWt1djByYTAybEtpUDd1RkF1dXhTVDBSWmZGM3AxY1p3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行汽车引爆市场，低空经济掀涨停潮",
-   "title_zh": "特斯拉飞行汽车引爆市场，低空经济掀涨停潮",
-   "sentiment": 1
-  },
-  {
-   "id": "20edd577e129",
-   "title": "Putting $250k Down on a New Tesla Roadster? The Fine Print Says Delivery Isn't Guaranteed - Gadget Review",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE45SnQtS0FhQm1ITzMxczM5YVBWMXFBdkhYSks2cVY3NjVIaWFOZUFpeXFmMTNhOHdWT2lQQzcxNVhjOXIzb1dEUHJodHZtakZtSzBZaWY4eDdyS2VqalhTTTNIN2ZHNVV3NTQ3UExjdzNyNkhheWdtWnNJcGtVWDBMMk5QZ0J5bm5XMzA0NVJyNktreWt6TWdxNDJpTk94RkdTaGVzaV9lS2FOb3QzR09fd19lUQ",
-   "source": "Gadget Review",
-   "published_at": "2026-10-18T16:38:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gadget Review",
-     "published_at": "2026-10-18T16:38:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE45SnQtS0FhQm1ITzMxczM5YVBWMXFBdkhYSks2cVY3NjVIaWFOZUFpeXFmMTNhOHdWT2lQQzcxNVhjOXIzb1dEUHJodHZtakZtSzBZaWY4eDdyS2VqalhTTTNIN2ZHNVV3NTQ3UExjdzNyNkhheWdtWnNJcGtVWDBMMk5QZ0J5bm5XMzA0NVJyNktreWt6TWdxNDJpTk94RkdTaGVzaV9lS2FOb3QzR09fd19lUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "订购新款Roadster需付$250k但交车无保障",
-   "title_zh": "付$250k订购新款特斯拉Roadster？细则称交车无保障",
-   "sentiment": -1
-  },
-  {
-   "id": "c3efc12fe429",
-   "title": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln",
-   "source": "汽车之家",
-   "published_at": "2026-10-18T16:29:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-18T16:29:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉全新Roadster发布国内可订",
-   "title_zh": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "70d0eb4edbe3",
-   "title": "国产800V快充对比特斯拉400V谁更实用？ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81TWFTaXRZd2RDRXBCb2ZmbGZSQ1ZqQTJMUUhxdEJYRm1pRVJWVTA3b1JKSW9FXzVDUjNnSlN2XzhfaEQwQlNyejdnMkU3QkFtNHJMak1JVUVCT1JKTnl3Qm9UamdSdl9ISmFacjRWdFdxcl96UXBNbW5TdWpZZGM",
-   "source": "新浪网",
-   "published_at": "2026-10-18T16:13:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T16:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81TWFTaXRZd2RDRXBCb2ZmbGZSQ1ZqQTJMUUhxdEJYRm1pRVJWVTA3b1JKSW9FXzVDUjNnSlN2XzhfaEQwQlNyejdnMkU3QkFtNHJMak1JVUVCT1JKTnl3Qm9UamdSdl9ISmFacjRWdFdxcl96UXBNbW5TdWpZZGM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "国产800V快充对比400V谁更实用",
-   "title_zh": "国产800V快充对比特斯拉400V谁更实用？ - 新浪网",
    "sentiment": 0
   }
  ]
