@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-19T13:22:39.947247+00:00",
+ "updated_at": "2026-10-19T13:37:27.507981+00:00",
  "market": {
-  "price": 354.72,
-  "change_pct": -2.13,
-  "as_of": "2026-10-16",
+  "price": 358.81,
+  "change_pct": 1.15,
+  "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -17,27 +17,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
-     "score": 1,
-     "note": "现价处于52周区间 29% 分位（偏低）"
+     "score": 0,
+     "note": "现价处于52周区间 32% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +12.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +11.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（123条已评分）"
+     "note": "今日新闻情绪 +0.25（131条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $354.72 vs 20日均线 $370.33"
+     "note": "现价 $358.81 vs 20日均线 $369.51"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 29,
+   "price_52w_pct": 32,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 12.8,
-   "ma20": 370.33,
-   "as_of": "2026-10-19T13:22:39.944419+00:00"
+   "implied_upside_pct": 11.5,
+   "ma20": 369.51,
+   "as_of": "2026-10-19T13:37:27.503024+00:00"
   },
-  "pe_ttm": 98.1,
-  "pe_pct_5y": 47,
-  "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
+  "pe_ttm": 99.2,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+11.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 123
+   "avg": 0.25,
+   "count": 131
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "68ea736db937",
+   "title": "Tesla Proxy Puts Musk’s 2025 Pay at $158.4 Billion Against $62,800 Median - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWG83T0Z0R1FjVXE1Q2t2b1VJaDlsQzBzd2NmczhtQmhxMnhTM1oxd0dZbmRSVVhUMjhUU1ZhdGhBdHo1QlpleDVfNHd6S1dqYWdhM0EySnZKLXJhdm5ZeDFfRUx4M1lVR0QtZjFVRFI0cVFSLXVvTGhHWHhIZjN6YkdQeGdiV2s0S1hxV1A1V1RfODQtTTU4N0NPVFFIQ0tmZVpBT193T1Q",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-19T13:31:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-19T13:31:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWG83T0Z0R1FjVXE1Q2t2b1VJaDlsQzBzd2NmczhtQmhxMnhTM1oxd0dZbmRSVVhUMjhUU1ZhdGhBdHo1QlpleDVfNHd6S1dqYWdhM0EySnZKLXJhdm5ZeDFfRUx4M1lVR0QtZjFVRFI0cVFSLXVvTGhHWHhIZjN6YkdQeGdiV2s0S1hxV1A1V1RfODQtTTU4N0NPVFFIQ0tmZVpBT193T1Q"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "039ca7f4ab5b",
    "title": "White House Joins GTA 6 Joke With Trump, a Flying Tesla and Marine One - Military.com",
@@ -186,6 +203,23 @@
    "zh_summary": "特斯拉Roadster重新发布并演示空中翻转",
    "title_zh": "特斯拉重新发布Roadster，演示空中翻转，2028年交付",
    "sentiment": 1
+  },
+  {
+   "id": "ce3c849dcd63",
+   "title": "特斯拉新款Roadster亮相，可短暂悬空、零百加速不到1秒，Cantor Fitzgerald维持485美元目标价 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMFJwYmRJWVI0aDFuaEVzdWlVTWVMaVJ4MTZhZERDeWJzbEZad0R2TlBRR096Z1RaY3RzMVp3eXlvQzRoSTY4N1lwaTFRa1Qy",
+   "source": "富途牛牛",
+   "published_at": "2026-10-19T12:53:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-19T12:53:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qMFJwYmRJWVI0aDFuaEVzdWlVTWVMaVJ4MTZhZERDeWJzbEZad0R2TlBRR096Z1RaY3RzMVp3eXlvQzRoSTY4N1lwaTFRa1Qy"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "ef8dbddffe15",
@@ -573,6 +607,23 @@
    "sentiment": 0
   },
   {
+   "id": "36e890df6df5",
+   "title": "Meta, Tesla, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEtREF3Skg1Q24zS0J2RTlYQUFuN1IzZG95Z2lTd0Z5b1lTZFY4blNUQ2x2LUM3a3dzU2tkV3JaOFptOU5JZmVOWlVCaUQxSEFKV2F3TXZ6bTROcnZhemVkU1NlclVuWHphOVBfWFI0aTYzeXd5MEV1eV9vd0RHdnhXQm5tOGh4eXczZGJpRF9FWUlub0RUWEs5S1BKNzA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEtREF3Skg1Q24zS0J2RTlYQUFuN1IzZG95Z2lTd0Z5b1lTZFY4blNUQ2x2LUM3a3dzU2tkV3JaOFptOU5JZmVOWlVCaUQxSEFKV2F3TXZ6bTROcnZhemVkU1NlclVuWHphOVBfWFI0aTYzeXd5MEV1eV9vd0RHdnhXQm5tOGh4eXczZGJpRF9FWUlub0RUWEs5S1BKNzA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
    "id": "ea7738c1039f",
    "title": "Elon Musk unveils Tesla's new 'flying car' - blooloop",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QandWOVp1TjhmNFJJVWs5OUlUX1Q3ZVNyS0M0cXNWOFdSbE5PY19jOUtyVXo5M1BwVkxpQTZlQTF3Mm5fR3ppcjZEcWxCLVQwSHAzVzhOcElXVWNQMm1LR1JZdw",
@@ -835,7 +886,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉股东会12月改选马斯克等董事",
    "title_zh": "特斯拉提请股东在12月股东大会重新选举马斯克等人",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "e8f32b486602",
@@ -1816,7 +1871,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉否认Model Y L是速成车",
    "title_zh": "特斯拉声明称没有\"速成车\" 塌后悬的Model Y L车主表示不服",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "20fee75690d1",
@@ -2311,7 +2370,11 @@
    "session": "盘前",
    "zh_summary": "特斯拉称无速成车无4S店",
    "title_zh": "特斯拉称自己没有速成车、也没有4S店 网友：十几年只卖7款车 想速成也没机会 - 驱动之家",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "129aa65cf1be",
@@ -2422,6 +2485,23 @@
    "zh_summary": "Black称SpaceX或420美元/股收购特斯拉",
    "title_zh": "Gary Black认为SpaceX可能以每股420美元收购特斯拉",
    "sentiment": 1
+  },
+  {
+   "id": "125317531939",
+   "title": "特斯拉Roadster二代空中翻转秀：技术整合的边界探索 - 车家号",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lT3B5SGgyNUQ2czNab253NlpJN3A4QnNiNGRseHpnbFpneTQ2Qzh0TEpwdENzRHA3d0pRSzBZakUzTHE0LWU0LXdsT28wdE9PcXlBVlVFTnpnNFE",
+   "source": "车家号",
+   "published_at": "2026-10-19T07:13:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "车家号",
+     "published_at": "2026-10-19T07:13:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lT3B5SGgyNUQ2czNab253NlpJN3A4QnNiNGRseHpnbFpneTQ2Qzh0TEpwdENzRHA3d0pRSzBZakUzTHE0LWU0LXdsT28wdE9PcXlBVlVFTnpnNFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d8e66e8ecdf4",
@@ -3076,7 +3156,11 @@
    "session": "周末",
    "zh_summary": "财报前瞻：Roadster亮相，利润承压",
    "title_zh": "财报前瞻| Roadster飞起、利润坠地，特斯拉(TSLA.US)“叙事性估值”能否撑住？_全球市场_财经 - 证券之星",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "762d4801b2b9",
@@ -3312,7 +3396,11 @@
    "breaking": true,
    "zh_summary": "陶琳：让人安心是最大的豪华",
    "title_zh": "特斯拉官方喊话\"没有速成车\"，陶琳：让人安心是最大的豪华 - Moomoo",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "26be34640e29",
@@ -3362,7 +3450,11 @@
    "session": "周末",
    "zh_summary": "特斯拉否认速成车陶琳转发回应",
    "title_zh": "特斯拉官方发文称没有“速成车”，副总裁陶琳转发并表态 - 网通社",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "8d8328df880a",
@@ -3432,7 +3524,11 @@
    "session": "周末",
    "zh_summary": "陶琳称安全可靠是最大豪华",
    "title_zh": "特斯拉陶琳：安全稳定可靠，让人安心是最大的豪华 - 搜狐",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "0f352b0bfc9f",
@@ -3542,7 +3638,11 @@
    "session": "周末",
    "zh_summary": "特斯拉Roadster刷屏引发国内车企反应",
    "title_zh": "特斯拉“飞车”刷屏后，国内车企的反应远比“沉默”复杂 - 搜狐",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "98e96a75e5fc",
@@ -3717,7 +3817,11 @@
    "session": "周末",
    "zh_summary": "马斯克称车机将增加大字体选项",
    "title_zh": "老人看不清特斯拉车机文字，马斯克称将增加大字体选项 - 搜狐",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "0106243107ee",
@@ -4477,7 +4581,11 @@
    "session": "周末",
    "zh_summary": "SpaceX总裁关注特斯拉账号引合并传闻",
    "title_zh": "SpaceX总裁肖特韦尔关注特斯拉账号，双方合并传闻再起 - 搜狐",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "7a2a73369be4",
@@ -4592,7 +4700,11 @@
    "session": "周末",
    "zh_summary": "特斯拉发布新款Roadster，FAA称不算飞行器",
    "title_zh": "特斯拉发布新款Roadster跑车，FAA称不符合飞行器定义 - 新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "9e0099b4ea32",
@@ -4647,7 +4759,11 @@
    "session": "周末",
    "zh_summary": "马斯克称Optimus与Cybercab是价值主体",
    "title_zh": "马斯克称Optimus与Cybercab将成特斯拉价值主体",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.1
+   }
   },
   {
    "id": "862f235aea40",
@@ -6307,91 +6423,6 @@
    "session": "周末",
    "zh_summary": "会飞的Roadster起订价33.2万元",
    "title_zh": "33.2万起订，特斯拉会飞的Roadster来了！年轻人的第一台飞行汽车？",
-   "sentiment": 1
-  },
-  {
-   "id": "a2f213fc2e70",
-   "title": "会“飞”的特斯拉：拆解航天级车载技术与实用场景#独夫之心##微博新知# ​ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlhiN2NOQ0tSVkZ2QW5na1p3c0ZoOWNKZGlVQy1rcy1MVnpmUEZJQ0VxQXl3eE40ZjdvVUpBV0VfSFBJV2RoLVdrSnNaVkFrdkJuNzBaLWEzTk14TjhrQllfMmd2bVpKeWVRd2VpTmZqejJtemh6MDJFVS0zY1VKdA",
-   "source": "新浪网",
-   "published_at": "2026-10-18T13:22:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T13:22:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlhiN2NOQ0tSVkZ2QW5na1p3c0ZoOWNKZGlVQy1rcy1MVnpmUEZJQ0VxQXl3eE40ZjdvVUpBV0VfSFBJV2RoLVdrSnNaVkFrdkJuNzBaLWEzTk14TjhrQllfMmd2bVpKeWVRd2VpTmZqejJtemh6MDJFVS0zY1VKdA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉航天级车载技术拆解",
-   "title_zh": "会“飞”的特斯拉：拆解航天级车载技术与实用场景 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "40d7b50edea0",
-   "title": "【视频】Ray7六大技术创新，打破特斯拉的长期垄断 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTMGFJeTVXbTFlV1VzdTNBcFpaMGo4ZklzYllzaE5CU3RUOU1ZbkNJNkhhd1UtTWhmU0xPXzY5blowMEt4T21idUJjZ0cyczNld05sZFBkQ21mZU0",
-   "source": "汽车之家",
-   "published_at": "2026-10-18T13:10:50+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-18T13:10:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTMGFJeTVXbTFlV1VzdTNBcFpaMGo4ZklzYllzaE5CU3RUOU1ZbkNJNkhhd1UtTWhmU0xPXzY5blowMEt4T21idUJjZ0cyczNld05sZFBkQ21mZU0"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-18T13:10:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTMGFJeTVXbTFlV1VzdTNBcFpaMGo4ZklzYllzaE5CU3RUOU1ZbkNJNkhhd1UtTWhmU0xPXzY5blowMEt4T21idUJjZ0cyczNld05sZFBkQ21mZU0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Ray7六大技术创新挑战特斯拉垄断",
-   "title_zh": "【视频】Ray7六大技术创新，打破特斯拉的长期垄断 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "e326d4ab513b",
-   "title": "特斯拉飞行汽车被质疑是噱头，腾空仅几秒且无法上路 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFFTRlhtNFhFdWc0UzRnUnBITnU3MmpNR2VreDVnRUJOZC0wc25LMDhpSDJoc3k3VjJ6ZXdEZ1RhUk53bk5PMnRHWHVCenVQd0c4VEdTSkhaeHNkdGFXRjJaQVMyYzJURHRjRzB4UjIxbUtKNWdYSzRsbU5IWWhQZQ",
-   "source": "新浪网",
-   "published_at": "2026-10-18T13:04:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T13:04:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFFTRlhtNFhFdWc0UzRnUnBITnU3MmpNR2VreDVnRUJOZC0wc25LMDhpSDJoc3k3VjJ6ZXdEZ1RhUk53bk5PMnRHWHVCenVQd0c4VEdTSkhaeHNkdGFXRjJaQVMyYzJURHRjRzB4UjIxbUtKNWdYSzRsbU5IWWhQZQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行汽车被质疑是噱头",
-   "title_zh": "特斯拉飞行汽车被质疑是噱头，腾空仅几秒且无法上路 - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "8292efaa9942",
-   "title": "特斯拉焕新Model Y换Koni避震后经MAHA震动台检测数据GOOD - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjVtcTY1WWxPQ0lIYWJvbHpPNld5eDRzUlNHT2dGbWNPZmpla1Rtc2VzUTBsNXhmT2x0cVdFUEhqcWN2eG56TjZuU3JBd1ZXNjd3SUg1WXBZTHYwazM4ai1HV1M1TURtODI3VUZGRHdmSl9tTVpDbk9YaExyZW9WYg",
-   "source": "新浪网",
-   "published_at": "2026-10-18T13:03:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T13:03:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjVtcTY1WWxPQ0lIYWJvbHpPNld5eDRzUlNHT2dGbWNPZmpla1Rtc2VzUTBsNXhmT2x0cVdFUEhqcWN2eG56TjZuU3JBd1ZXNjd3SUg1WXBZTHYwazM4ai1HV1M1TURtODI3VUZGRHdmSl9tTVpDbk9YaExyZW9WYg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "焕新Model Y避震检测获GOOD评级",
-   "title_zh": "特斯拉焕新Model Y换Koni避震后经MAHA震动台检测数据GOOD - 新浪网",
    "sentiment": 1
   }
  ]
