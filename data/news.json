@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T13:52:34.517435+00:00",
+ "updated_at": "2026-10-19T14:07:31.441219+00:00",
  "market": {
-  "price": 361.8,
-  "change_pct": 2.0,
+  "price": 361.12,
+  "change_pct": 1.8,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.6%"
+     "note": "目标价中位数 $400（16家），隐含空间 +10.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（135条已评分）"
+     "note": "今日新闻情绪 +0.26（142条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $361.80 vs 20日均线 $369.65"
+     "note": "现价 $361.12 vs 20日均线 $369.62"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 33,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.6,
-   "ma20": 369.65,
-   "as_of": "2026-10-19T13:52:34.515431+00:00"
+   "implied_upside_pct": 10.8,
+   "ma20": 369.62,
+   "as_of": "2026-10-19T14:07:31.439004+00:00"
   },
-  "pe_ttm": 100.1,
+  "pe_ttm": 99.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.26,
-   "count": 135
+   "count": 142
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "cec67a820742",
+   "title": "【视频】特斯拉Roadster已经飞了，我们却还在卷彩电冰箱大沙发 - 车家号",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zS0NBTHRCYm1RUFVZNkJSaTNwRWJuZHl1am1fSVZlaHNNNThTVE1YdnZIVlBDbENUYUMtUlc5SlcwR2JBbC1lTDJoWnpDZHVjWmMzUmhZYXh6R1E",
+   "source": "车家号",
+   "published_at": "2026-10-19T14:03:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "车家号",
+     "published_at": "2026-10-19T14:03:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zS0NBTHRCYm1RUFVZNkJSaTNwRWJuZHl1am1fSVZlaHNNNThTVE1YdnZIVlBDbENUYUMtUlc5SlcwR2JBbC1lTDJoWnpDZHVjWmMzUmhZYXh6R1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "872608a371a8",
+   "title": "特斯拉Roadster发布会 Optimus坐驾驶座倒车竖拇指 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajh6RnNWY1JzRHFlTmRKcmJkdWh5Z1pMZzdoSnN4dDJHVDBFWHV5NTdXM0cwdi1aZ0J2b0FnSU9tZlBaeVNzbTJVVEt1ek9JUXlsWWcyRWF0azJyVHZtUzJFZGdVRmFoa1MzdXpKaU81elFTMUJJeGdxQ293eGRhdA",
+   "source": "新浪网",
+   "published_at": "2026-10-19T14:01:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T14:01:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajh6RnNWY1JzRHFlTmRKcmJkdWh5Z1pMZzdoSnN4dDJHVDBFWHV5NTdXM0cwdi1aZ0J2b0FnSU9tZlBaeVNzbTJVVEt1ek9JUXlsWWcyRWF0azJyVHZtUzJFZGdVRmFoa1MzdXpKaU81elFTMUJJeGdxQ293eGRhdA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "48afaa5b353f",
+   "title": "特斯拉官网上架金属卡片钥匙 材质升级更耐用 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dnVfZFJodVYtSGdlLUU0X0xoajZZM3NOclRvc01mdEd5enNsXzhPc3pfQ1gzem9LOUFXV1pNTENSMTNDc200OEtwNVJfQmpqcFpQc19tLTRYVFdSeHV0T19PWDl5ck01V1Fma2pWZ0Y",
+   "source": "中华网",
+   "published_at": "2026-10-19T13:55:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-19T13:55:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dnVfZFJodVYtSGdlLUU0X0xoajZZM3NOclRvc01mdEd5enNsXzhPc3pfQ1gzem9LOUFXV1pNTENSMTNDc200OEtwNVJfQmpqcFpQc19tLTRYVFdSeHV0T19PWDl5ck01V1Fma2pWZ0Y"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "a74b0f980ca2",
+   "title": "Tesla's $250,000 Roadster Deposit Fine Print Doesn't Guarantee You'll Ever Get The Car - HotCars",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kOURBcEt3VkRYdlRMVzcxWU1YUUVwTjUwaHBIR1pNNEFiWWhtbEhXWk9ZQ2pkUjE4MUVjdXJuR0NZV01fVng5MFlKa3YxakJYSFc3X21xZG82M0RhOUw1RE1XTWVsMzRVVmtUOHc5MmQ3dw",
+   "source": "HotCars",
+   "published_at": "2026-10-19T13:48:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotCars",
+     "published_at": "2026-10-19T13:48:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kOURBcEt3VkRYdlRMVzcxWU1YUUVwTjUwaHBIR1pNNEFiWWhtbEhXWk9ZQ2pkUjE4MUVjdXJuR0NZV01fVng5MFlKa3YxakJYSFc3X21xZG82M0RhOUw1RE1XTWVsMzRVVmtUOHc5MmQ3dw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "e1da9b6febb4",
    "title": "特斯拉Roadster演示空中360度翻转 - 车家号",
@@ -473,12 +541,17 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUENFQlVid1hmMURWakM4RzJHNGtpNVVkdTMyZkVUeVl4Y0ZvV3VFWTdPaTc1dGE1SXZXZi13ZGU5MGtCY3NEdHBaOHRPVDY4ZTNQd2NXX2xBRjREempyc0dtcW5oRjZrOXhMT1lacm9PbDBxaHJCYmwxN1Q3Ulk",
    "source": "新浪财经",
    "published_at": "2026-10-19T12:19:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-19T12:19:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUENFQlVid1hmMURWakM4RzJHNGtpNVVkdTMyZkVUeVl4Y0ZvV3VFWTdPaTc1dGE1SXZXZi13ZGU5MGtCY3NEdHBaOHRPVDY4ZTNQd2NXX2xBRjREempyc0dtcW5oRjZrOXhMT1lacm9PbDBxaHJCYmwxN1Q3Ulk"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-19T12:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53MzNiQWxMeG96a0ZZZXRibV9icmdZbHpyMzBPS1F5MWhDYmJjbjhLMzJ1WHIxVXdXbWFzWEp6eEcxQnRhNndJVm92Y0JJeFZhbElFSGZVb2YzUE5HWkNhQXdYZWkyRDhfR3hIamRn"
     }
    ],
    "category": "其他",
@@ -1256,6 +1329,23 @@
    "zh_summary": "特斯拉时隔九年重新发布Roadster",
    "title_zh": "特斯拉时隔九年重新发布Roadster，特技演示指向品牌技术光环",
    "sentiment": 1
+  },
+  {
+   "id": "820a9ad97341",
+   "title": "特斯拉年度股东大会将......_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxSGRSX1kzUkxwTnB3WEhMaGNaWVJuU3NMeGgzaHEyNUkwYnU5eS1SV1JTOFUtMjJYZ01uZWcyanJXaEc4endGT05XYw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-19T10:25:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-19T10:25:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxSGRSX1kzUkxwTnB3WEhMaGNaWVJuU3NMeGgzaHEyNUkwYnU5eS1SV1JTOFUtMjJYZ01uZWcyanJXaEc4endGT05XYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "23c36436ea44",
@@ -2442,17 +2532,39 @@
    "sentiment": 0
   },
   {
+   "id": "79eae55249aa",
+   "title": "Rivian机器人公司挖角特斯拉前高管道格·菲尔德-AI应用 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NbFppZFJHU1VaSlVKMjQySGhXUHV6VkQxdXlrbUNNMGJpb1huamVJN3dCTTBRdUZMbFlHNTk3dlZiTVJmdVVqZlJHa2I1Yi1PenExQ0tXR1BOMkRaUF9WTkFmX2lLbE1tdVg4U1IwVQ",
+   "source": "至顶网",
+   "published_at": "2026-10-19T08:02:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-19T08:02:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NbFppZFJHU1VaSlVKMjQySGhXUHV6VkQxdXlrbUNNMGJpb1huamVJN3dCTTBRdUZMbFlHNTk3dlZiTVJmdVVqZlJHa2I1Yi1PenExQ0tXR1BOMkRaUF9WTkFmX2lLbE1tdVg4U1IwVQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "ebbfaaff8a74",
    "title": "特斯拉在美国推迟ModelY L交付时间 订单排到2027年 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fbHQ5TE5zOUQwNGlXc2Q0dlNwT3JwSjBDMFdIbTg2VjRzZV91WmRSNEFRMEx1RzlnTmk4VzlEalRDM2lXOERDTU9xRk9PUV9UbmZoSHFtOExoYTZFOC1jVTNrUUoxX0NReVQ0",
    "source": "汽车之家",
    "published_at": "2026-10-19T07:53:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
      "published_at": "2026-10-19T07:53:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fbHQ5TE5zOUQwNGlXc2Q0dlNwT3JwSjBDMFdIbTg2VjRzZV91WmRSNEFRMEx1RzlnTmk4VzlEalRDM2lXOERDTU9xRk9PUV9UbmZoSHFtOExoYTZFOC1jVTNrUUoxX0NReVQ0"
+    },
+    {
+     "name": "车家号",
+     "published_at": "2026-10-19T07:53:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnalVNVGwxNDNkTHRfWktXMXE2dE9xWTVXNGJ3enZXY0wzNVJNMHptcWF3SlVEOGxRVWlwMXk0ZlprLVdmWG9pMWNXczJzWGV2TkVmMExCUlNtTEU"
     }
    ],
    "category": "交付量",
@@ -6316,126 +6428,6 @@
    "zh_summary": "视频证据为特斯拉车主澄清",
    "title_zh": "警官指控特斯拉车主危险驾驶，视频证据反转局面",
    "sentiment": 1
-  },
-  {
-   "id": "a5f7553b6c35",
-   "title": "Tesla Cameras Help Driver Confronted at Gunpoint Beat Reckless Driving Charge After Nearly Two Years - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHd5WG54S0dzUWVOc3p3SmFsRGJqMlVpLXl6R1ptWXI4VVV3aGlDMzNicjZwc1FYYTY1amdsYnpXamNTcmZ3M2E2cFpDbmJ1dWFsaFp5dk1zajV1RkZ2MUhDM09acmhXRVk3d0pFb19iaVFpSDhYV1ZwQXhVa1ptd1hjX0kxRzFTdXlUU2dHZWtIUQ",
-   "source": "Yahoo",
-   "published_at": "2026-10-18T14:15:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-18T14:15:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHd5WG54S0dzUWVOc3p3SmFsRGJqMlVpLXl6R1ptWXI4VVV3aGlDMzNicjZwc1FYYTY1amdsYnpXamNTcmZ3M2E2cFpDbmJ1dWFsaFp5dk1zajV1RkZ2MUhDM09acmhXRVk3d0pFb19iaVFpSDhYV1ZwQXhVa1ptd1hjX0kxRzFTdXlUU2dHZWtIUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉录像助车主撤销鲁莽驾驶指控",
-   "title_zh": "特斯拉摄像头帮车主洗清两年前的鲁莽驾驶指控",
-   "sentiment": 0
-  },
-  {
-   "id": "5f6d7df2f487",
-   "title": "特斯拉Roadster倒挂腾空，马斯克飞行汽车被质疑噱头 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVZMSzhxNDg3MEhtcEVOenRBMDhjdWdiUVlhVUgwY3JzUVJkbHNzM196bkZmbExKR2RNc1lQWkxzUVhJXzNFX0UtMG5RV1FoQ1pmdXc3X1ItMTBYWnh2WWRFMTBqMzdISy1SNGYzbUdiV3dDMWZzV1RWak9OLVZwNQ",
-   "source": "新浪网",
-   "published_at": "2026-10-18T14:13:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T14:13:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVZMSzhxNDg3MEhtcEVOenRBMDhjdWdiUVlhVUgwY3JzUVJkbHNzM196bkZmbExKR2RNc1lQWkxzUVhJXzNFX0UtMG5RV1FoQ1pmdXc3X1ItMTBYWnh2WWRFMTBqMzdISy1SNGYzbUdiV3dDMWZzV1RWak9OLVZwNQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster演示倒挂腾空遭质疑噱头",
-   "title_zh": "特斯拉Roadster倒挂腾空，马斯克飞行汽车被质疑噱头",
-   "sentiment": 0
-  },
-  {
-   "id": "fb6eab18f151",
-   "title": "Tesla Roadster Mega Gallery: See Tesla's 'Flying Car' From Every Angle - CarBuzz",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAybFk4Rmpna0FmNjJFU1Nac3VLaEctakJSNi1EVE5mQmF1QmxZZmxsV3EtdlY1REtialdPU1I3Y3Q1NEZmc0gyWjh6MGZBOEhjbXBiTGZUMk9kM3ZzaWdzMy1SZF9jXy10OGRUcWxHWklSTXhx",
-   "source": "CarBuzz",
-   "published_at": "2026-10-18T14:06:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CarBuzz",
-     "published_at": "2026-10-18T14:06:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAybFk4Rmpna0FmNjJFU1Nac3VLaEctakJSNi1EVE5mQmF1QmxZZmxsV3EtdlY1REtialdPU1I3Y3Q1NEZmc0gyWjh6MGZBOEhjbXBiTGZUMk9kM3ZzaWdzMy1SZF9jXy10OGRUcWxHWklSTXhx"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "多角度展示特斯拉飞行汽车Roadster",
-   "title_zh": "Tesla Roadster Mega Gallery：多角度看特斯拉'飞行汽车'",
-   "sentiment": 0
-  },
-  {
-   "id": "1195e4dfd043",
-   "title": "特斯拉跑车原型车装4台风扇，静止即可吸在地面 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ255SHVNekZ3TFdEZDFOTFZRQ2hIeWZxVGpnZnlnX0lUNVVXcEsxcmxCZzRPWVFZU1k5cWk2aVhoUzl6eU9JZ2d3QmhpNGFoaVdVOUpzaWEwTlF0cG9sY2dRUWJoS0JXY05JQ0V6VDBua3otek1PMm5Qa3QxMFhKWA",
-   "source": "新浪网",
-   "published_at": "2026-10-18T14:04:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T14:04:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ255SHVNekZ3TFdEZDFOTFZRQ2hIeWZxVGpnZnlnX0lUNVVXcEsxcmxCZzRPWVFZU1k5cWk2aVhoUzl6eU9JZ2d3QmhpNGFoaVdVOUpzaWEwTlF0cG9sY2dRUWJoS0JXY05JQ0V6VDBua3otek1PMm5Qa3QxMFhKWA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster原型车装4台风扇静吸地面",
-   "title_zh": "特斯拉跑车原型车装4台风扇，静止即可吸在地面",
-   "sentiment": 1
-  },
-  {
-   "id": "4b29a7f13b7b",
-   "title": "合并将近？特斯拉、SpaceX高管开始互相关注 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcFNRcUZwSnpNaVhVUjJDVXB1QUN1Rk41V2wzQ20zZktqQUpYM0pLRmZJWGkxd25QRDhLenRvUDZLbXh0RU5rdU5VbjJtMVF0R3RsdFJRY0p1ZUk",
-   "source": "车家号",
-   "published_at": "2026-10-18T14:04:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-18T14:04:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcFNRcUZwSnpNaVhVUjJDVXB1QUN1Rk41V2wzQ20zZktqQUpYM0pLRmZJWGkxd25QRDhLenRvUDZLbXh0RU5rdU5VbjJtMVF0R3RsdFJRY0p1ZUk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉与SpaceX高管开始互相关注",
-   "title_zh": "合并将近？特斯拉、SpaceX高管开始互相关注 - 车家号",
-   "sentiment": 0
-  },
-  {
-   "id": "907cca760570",
-   "title": "Tesla Implements New Accident-Avoidance Automation, But Millions of Tesla Customers Don’t Have Access To It - CleanTechnica",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFl5Z2U0SE1CcHNSaUJZYUVKZm8wdm1TcnlueW9aR1RGVERva2Zwbl96bTV2QllpWER2M3ZXN2dqX1FReTExTG04XzB1bGE3M1BzQ2RXYkZ0aFFkUDNscTdsLVp2RGlqMXh4cVpMcDZjSWRLNk5VWVBNUHNjS0RlM2podEhUdnZUYk5mYzJfMG5lM1lfX2wyUTNEM2RtNXZyLXkxME1xeVdUeUo4NjBnVG9yQVNxWUFmcEVSN05GZHRCY2xSTEk3M3VaU1M5dkVlNVJqNi1TYkRQdU0",
-   "source": "CleanTechnica",
-   "published_at": "2026-10-18T14:04:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CleanTechnica",
-     "published_at": "2026-10-18T14:04:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFl5Z2U0SE1CcHNSaUJZYUVKZm8wdm1TcnlueW9aR1RGVERva2Zwbl96bTV2QllpWER2M3ZXN2dqX1FReTExTG04XzB1bGE3M1BzQ2RXYkZ0aFFkUDNscTdsLVp2RGlqMXh4cVpMcDZjSWRLNk5VWVBNUHNjS0RlM2podEhUdnZUYk5mYzJfMG5lM1lfX2wyUTNEM2RtNXZyLXkxME1xeVdUeUo4NjBnVG9yQVNxWUFmcEVSN05GZHRCY2xSTEk3M3VaU1M5dkVlNVJqNi1TYkRQdU0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉推出事故规避功能多数车主无缘",
-   "title_zh": "特斯拉推出新事故规避自动化，但多数车主无法使用",
-   "sentiment": 0
   }
  ]
 }
