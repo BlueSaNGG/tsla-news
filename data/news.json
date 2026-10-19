@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T11:37:28.686317+00:00",
+ "updated_at": "2026-10-19T11:52:30.586768+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（84条已评分）"
+     "note": "今日新闻情绪 +0.29（89条已评分）"
     },
     {
      "key": "动量",
@@ -41,8 +41,8 @@
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 29,
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-19T11:37:28.679114+00:00"
+   "as_of": "2026-10-19T11:52:30.579376+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 84
+   "avg": 0.29,
+   "count": 89
   }
  },
  "meta": {
@@ -68,15 +68,37 @@
  },
  "stories": [
   {
+   "id": "9e240dae7d43",
+   "title": "网友演示特斯拉Roadster吸附路面原理 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVThiR1R6UGZTR2wyTXRaMndIWEJsOGs5WWZzUHM1XzJiSHJMUjlXZWZZdmxFU0VjZTdpSFN2eFZIYUhKSDE0dzgzeEJKTGdKX0VJcG5qZzllSGlycEFUM19HLXNxWFgyR1ljSjJPVnExeXYwVFdPLXBoelNPcHBBYw",
+   "source": "新浪网",
+   "published_at": "2026-10-19T11:49:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T11:49:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVThiR1R6UGZTR2wyTXRaMndIWEJsOGs5WWZzUHM1XzJiSHJMUjlXZWZZdmxFU0VjZTdpSFN2eFZIYUhKSDE0dzgzeEJKTGdKX0VJcG5qZzllSGlycEFUM19HLXNxWFgyR1ljSjJPVnExeXYwVFdPLXBoelNPcHBBYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "7e2730b26802",
    "title": "SpaceX, Tesla Earnings Test Musk AI Spending [2026] - tech-insider.org",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0JKc0JQeFE4RWM0RnpxUEFyTF94aEFkci0yR1cwRk0tN2NEZldLWWpnZEphTFBhSHBnNXVybWE3ZlBUYTZrUkZiMU54R21zTHl0bzd2MUFNNlV0OXhYamduUU1ZaFBzT09FcDFIb3g0S1NkTHlfZ3JNTVRiY09QTFd3",
    "source": "tech-insider.org",
    "published_at": "2026-10-19T11:24:27+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-19T11:24:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0JKc0JQeFE4RWM0RnpxUEFyTF94aEFkci0yR1cwRk0tN2NEZldLWWpnZEphTFBhSHBnNXVybWE3ZlBUYTZrUkZiMU54R21zTHl0bzd2MUFNNlV0OXhYamduUU1ZaFBzT09FcDFIb3g0S1NkTHlfZ3JNTVRiY09QTFd3"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-19T11:24:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0JKc0JQeFE4RWM0RnpxUEFyTF94aEFkci0yR1cwRk0tN2NEZldLWWpnZEphTFBhSHBnNXVybWE3ZlBUYTZrUkZiMU54R21zTHl0bzd2MUFNNlV0OXhYamduUU1ZaFBzT09FcDFIb3g0S1NkTHlfZ3JNTVRiY09QTFd3"
     }
@@ -191,6 +213,29 @@
    "zh_summary": "投资人称SpaceX数周内或官宣收购特斯拉",
    "title_zh": "Roadster只是前菜？投资人预言SpaceX数周内收购特斯拉，每股420美元",
    "sentiment": 1
+  },
+  {
+   "id": "856623b510ac",
+   "title": "Intel Shares Rise Nearly 4% Following JPMorgan Upgrade and Tesla Foundry Agreement - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0QzQzRmYmhjMlVoVlBpM25LTE50bkJEV19wQlVsMW0tUlVUd3V4dVRadzBwSVRidU1ubkpQdmVDYW45eTl3VFBYcFlTRlFYc0hPRFpyZFhXUUhhbUpxMldiTlhPME1MdHF3V3dhc25tbUxFRzloOHV2cW54MERyc3d0VkNnTWhtTkdXTWhKMm10MkZHbFE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T10:48:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T10:48:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0QzQzRmYmhjMlVoVlBpM25LTE50bkJEV19wQlVsMW0tUlVUd3V4dVRadzBwSVRidU1ubkpQdmVDYW45eTl3VFBYcFlTRlFYc0hPRFpyZFhXUUhhbUpxMldiTlhPME1MdHF3V3dhc25tbUxFRzloOHV2cW54MERyc3d0VkNnTWhtTkdXTWhKMm10MkZHbFE"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "JPMorgan",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
   },
   {
    "id": "57805e99296b",
@@ -4334,6 +4379,23 @@
    "sentiment": 0
   },
   {
+   "id": "67ddccf74b5b",
+   "title": "Tesla, Meta, GE Aerospace, GM, IBM, and More Stocks to Watch This Week - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhRYXc4NWFxdV9CRG5wMkRHWXgyNW5qNVBKc2U0bHgxTFZndVJOUU05cGdaSmIzT3ZWYUduVkxJelFMcFNGcktvaHo0SUEyYm90cHRVTWY0dXRCMGxtSWpVaFEwWDYyZ054QVlkSFZOYlJKdTFMenF5TGdNSThadTN4VW9rWEZRQVN3NWhtdEVYZ0ZBa0dHMmh3b04zZHJza2dBdWFnTTRWWlU",
+   "source": "Barron's",
+   "published_at": "2026-10-18T18:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-18T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnhRYXc4NWFxdV9CRG5wMkRHWXgyNW5qNVBKc2U0bHgxTFZndVJOUU05cGdaSmIzT3ZWYUduVkxJelFMcFNGcktvaHo0SUEyYm90cHRVTWY0dXRCMGxtSWpVaFEwWDYyZ054QVlkSFZOYlJKdTFMenF5TGdNSThadTN4VW9rWEZRQVN3NWhtdEVYZ0ZBa0dHMmh3b04zZHJza2dBdWFnTTRWWlU"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "60a4d3bfd306",
    "title": "Elon Musk Unveils Tesla Roadster Near Waco as FAA Says It Is Not an Aircraft: 8 outlets compared - NewsCord",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmY0dk0ycWRIV0MzTzd0Ykt4enNyRzFwUnIybWJtdzZpdGZpTDFQUTg0S1Q3V2NXMGJ1aGREYklKVmhCUnJvOGcxUFYxMi03dUcyZDlEV0E0aU5fLWNoWkQ4SE9nNWxCb2YzNXdhWGlBakkwUXFmalhTWE1fNGpoM25reFlOOXlIX29hYTJ1eU5pT3I4Mmp4SVFaeXQwMlE1Xzk4dkxqaE01U1pTYkczQUtvOGVFaDFaXy1BRXUyVmhCOUdwSkRzVTFR",
@@ -6312,76 +6374,6 @@
    "zh_summary": "马斯克承认特斯拉与SpaceX业务重叠",
    "title_zh": "特斯拉要和SpaceX合并了？马斯克承认两家公司业务存在重叠，双方将合资投建半导体工厂 #一财情报局 - 搜狐",
    "sentiment": 1
-  },
-  {
-   "id": "af29ebba4ecd",
-   "title": "特斯拉召回297万辆，隐藏门把手隐患波及全系 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWG41QmxWZHVwTkVBalI5RE44ZkZ3YVpUMTR6U1BtLXczY3VNQ09iOS04alNBRnowLXJIVG1UMUI1a0drSjJ0cjBMSXlxcTUzcF9lMnN6NHk2bjdnRDg5SlAwYXkwTjdMWFFyQ04tamVQMERuSTNzVnZPR1gwbDF0VA",
-   "source": "新浪网",
-   "published_at": "2026-10-18T10:13:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T10:13:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWG41QmxWZHVwTkVBalI5RE44ZkZ3YVpUMTR6U1BtLXczY3VNQ09iOS04alNBRnowLXJIVG1UMUI1a0drSjJ0cjBMSXlxcTUzcF9lMnN6NHk2bjdnRDg5SlAwYXkwTjdMWFFyQ04tamVQMERuSTNzVnZPR1gwbDF0VA"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "特斯拉召回297万辆，门把手存隐患",
-   "title_zh": "特斯拉召回297万辆，隐藏门把手隐患波及全系 - 新浪网",
-   "sentiment": -2
-  },
-  {
-   "id": "0593e75aa032",
-   "title": "特斯拉飞行汽车得州发布，美监管部门管辖问题无解 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56N2hMM1NacV80RkZqSmZHNFpuSk5NNEtaQVcwT2cyZlJaYkE3emVTLXd5bVBXTks5OU5rSWJPMGptOTJBMDBzaWJXSGNCUWc0MWZYUVczWW9ZWGhKZHZzZ2tRT1FPYldVcW5VNlN3",
-   "source": "新浪财经",
-   "published_at": "2026-10-18T10:10:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-18T10:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56N2hMM1NacV80RkZqSmZHNFpuSk5NNEtaQVcwT2cyZlJaYkE3emVTLXd5bVBXTks5OU5rSWJPMGptOTJBMDBzaWJXSGNCUWc0MWZYUVczWW9ZWGhKZHZzZ2tRT1FPYldVcW5VNlN3"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T10:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ORGdIRTEtbFYtMXJlNFVSdjRrd1N3Nk5TWncwOElieE0xRHR0MUMxcUZCTE10bGkxT3pxUVgyb2k4RGwwQllXdWZKM1JzUlYwaVJ0V2ZFMHUyRjN0ZHFjaDdkQkZXSk9vbUptbk5IRXpDdw"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-18T10:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56N2hMM1NacV80RkZqSmZHNFpuSk5NNEtaQVcwT2cyZlJaYkE3emVTLXd5bVBXTks5OU5rSWJPMGptOTJBMDBzaWJXSGNCUWc0MWZYUVczWW9ZWGhKZHZzZ2tRT1FPYldVcW5VNlN3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉得州发布飞行汽车监管管辖无解",
-   "title_zh": "特斯拉飞行汽车得州发布，美监管部门管辖问题无解 - 新浪财经",
-   "sentiment": -1
-  },
-  {
-   "id": "773c91a66356",
-   "title": "Tesla Model Y vs. Rivian R2 Cabin Tech Comparison: Two Screens or Not Two Screens? - Edmunds",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREdpM2lvWFFoT0RSOGlaa1R3MHM0UXZpdGZUTEJtRkRGTmljdng1dDdZZDY5eGQ4a3NIdTg2U1hXWWRTN09BWDJzb1RKcUF3Nk0wUzcxOTRMTXYycERtSkV4RzNwV3o5WDF3eGdUeU1rVmJQMVk2VHVnbThuRWxpaFBVZE1PRXRDMDRiaGJTcw",
-   "source": "Edmunds",
-   "published_at": "2026-10-18T10:08:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Edmunds",
-     "published_at": "2026-10-18T10:08:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREdpM2lvWFFoT0RSOGlaa1R3MHM0UXZpdGZUTEJtRkRGTmljdng1dDdZZDY5eGQ4a3NIdTg2U1hXWWRTN09BWDJzb1RKcUF3Nk0wUzcxOTRMTXYycERtSkV4RzNwV3o5WDF3eGdUeU1rVmJQMVk2VHVnbThuRWxpaFBVZE1PRXRDMDRiaGJTcw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Model Y与Rivian R2座舱科技对比",
-   "title_zh": "特斯拉Model Y对比Rivian R2座舱科技",
-   "sentiment": 0
   }
  ]
 }
