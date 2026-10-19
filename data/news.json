@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T14:37:30.431929+00:00",
+ "updated_at": "2026-10-19T14:52:33.822261+00:00",
  "market": {
-  "price": 365.58,
-  "change_pct": 3.06,
+  "price": 366.29,
+  "change_pct": 3.26,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.4%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（153条已评分）"
+     "note": "今日新闻情绪 +0.26（156条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $365.58 vs 20日均线 $369.85"
+     "note": "现价 $366.29 vs 20日均线 $369.89"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.4,
-   "ma20": 369.85,
-   "as_of": "2026-10-19T14:37:30.411550+00:00"
+   "implied_upside_pct": 9.2,
+   "ma20": 369.89,
+   "as_of": "2026-10-19T14:52:33.804672+00:00"
   },
-  "pe_ttm": 101.1,
+  "pe_ttm": 101.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.2%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.26,
-   "count": 153
+   "count": 156
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "42ce887a499d",
+   "title": "The Roadster Will Have Tesla’s Most Advanced Battery Pack Yet - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtY0tuaG92eFBSdFU5R0JiVTU2Y256cThUU2hVdWVTMEVtaVdHWUJXSEtQZy1zNzVGZC1pV1U4NW0wVVFyd3Nmc2lzMFhBTk9qN25QLTVHQkZCNGtIUHNVSVJHVk9KTm1RVEVXTVJUUGpZQ0tUWjU0",
+   "source": "InsideEVs",
+   "published_at": "2026-10-19T14:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-19T14:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtY0tuaG92eFBSdFU5R0JiVTU2Y256cThUU2hVdWVTMEVtaVdHWUJXSEtQZy1zNzVGZC1pV1U4NW0wVVFyd3Nmc2lzMFhBTk9qN25QLTVHQkZCNGtIUHNVSVJHVk9KTm1RVEVXTVJUUGpZQ0tUWjU0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "e1774f77bd7a",
    "title": "美国博主：为什么特斯拉的飞行汽车，大概率永远不会量产？ - 新浪网",
@@ -106,6 +123,40 @@
    "zh_summary": "特斯拉：没有速成车，没有4S店",
    "title_zh": "看热闹不怕事儿大！特斯拉：没有速成车，没有4S店！ - 搜狐",
    "sentiment": 0
+  },
+  {
+   "id": "f48fdf336ea7",
+   "title": "Tesla Model S Plaid Tuning Unlocks Hidden Power [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RSDh2MC1nUzdMWHEwdGVySHRXeWlhYkdtLW9tNmQtNXhybUxIRHBaTmxmdWFKbE53MEVSMnB1T2pRMmQ4TXZ1TVhheTVpUUNTZ2xsT202TUlTdzhuN08zbmN0bFRjQmlUZFlTUjdiS1ZYcmp4Tk9PMlFEalVOVDQ",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-19T14:24:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-19T14:24:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RSDh2MC1nUzdMWHEwdGVySHRXeWlhYkdtLW9tNmQtNXhybUxIRHBaTmxmdWFKbE53MEVSMnB1T2pRMmQ4TXZ1TVhheTVpUUNTZ2xsT202TUlTdzhuN08zbmN0bFRjQmlUZFlTUjdiS1ZYcmp4Tk9PMlFEalVOVDQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "f5c811ef5153",
+   "title": "Tesla’s Full Self-Driving Faces an Aggressive Driver in a Crown Victoria, and the Results Are Surprising - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHJQR1daM1pmNmxXeTE1ckZGb3laS3doN3FESmRXUGlXeUEzeXI2TEFPQjJtdjZhRGVjdmNlY0VnRy1teDdQOURubjRFN3lkNWFrOUhCemN0dDlHaDlHcWNaaURnb2xJRE9STS13Q0hubS02V1RfdVZwYXI3Z0JjaTFUbDRrRkxzVmxFR1JMMEV0NV8tckJFSW5iSFc",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-19T14:22:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-19T14:22:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHJQR1daM1pmNmxXeTE1ckZGb3laS3doN3FESmRXUGlXeUEzeXI2TEFPQjJtdjZhRGVjdmNlY0VnRy1teDdQOURubjRFN3lkNWFrOUhCemN0dDlHaDlHcWNaaURnb2xJRE9STS13Q0hubS02V1RfdVZwYXI3Z0JjaTFUbDRrRkxzVmxFR1JMMEV0NV8tckJFSW5iSFc"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "27e2040eb370",
@@ -921,6 +972,23 @@
    "zh_summary": "Zacks财报前瞻涉及特斯拉等",
    "title_zh": "Meta、特斯拉、英伟达等入选Zacks财报前瞻",
    "sentiment": 0
+  },
+  {
+   "id": "f0bc99b971c5",
+   "title": "WATCH: Flying Tesla Roadster wows crowd as it spins through air - Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMbTFQT0VSVDU0T2pHZ3hHNDFuVEhLalF5c1l3S1JCZ0dGQU9VdXpnWG05bF9OVjdmaEE0RmRPc1I3NnM0S0RvajFQOTR4TGd3WkdjWlFB",
+   "source": "Fox News",
+   "published_at": "2026-10-19T11:57:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fox News",
+     "published_at": "2026-10-19T11:57:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMbTFQT0VSVDU0T2pHZ3hHNDFuVEhLalF5c1l3S1JCZ0dGQU9VdXpnWG05bF9OVjdmaEE0RmRPc1I3NnM0S0RvajFQOTR4TGd3WkdjWlFB"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "ea7738c1039f",
@@ -3337,12 +3405,17 @@
   },
   {
    "id": "95d88ee7c6ff",
-   "title": "特斯拉超跑技术细节曝光：推力8吨堪比战机，还有特斯拉机器人黑科技 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVdFJWZUVGNE5aQ1RCUXRfRV9zVVZqVFhFeG00Q1pncW1fTUdjWUdBbWpxckhabnluNkJ5VEdNbGU0N0NTdXN5N1J2dEw",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-19T04:45:18+00:00",
-   "outlets_count": 1,
+   "title": "特斯拉超跑技术细节曝光：推力8吨堪比战机，还有特斯拉机器人黑科技 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Qa2FrVDktc0ZLaE1VMWRUM2hFTEhJR0NCZUZ6Uk1EMElrUXdCcGtsT1RyaEdKdXlmanRjX2NGLXdrckRUeVJWUGozQ3lFQndhVXAw",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-19T04:43:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-19T04:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Qa2FrVDktc0ZLaE1VMWRUM2hFTEhJR0NCZUZ6Uk1EMElrUXdCcGtsT1RyaEdKdXlmanRjX2NGLXdrckRUeVJWUGozQ3lFQndhVXAw"
+    },
     {
      "name": "凤凰网科技",
      "published_at": "2026-10-19T04:45:18+00:00",
@@ -6366,86 +6439,6 @@
    "zh_summary": "飞行Roadster需$5万订金，或不合法",
    "title_zh": "特斯拉飞行Roadster需$50,000订金，连马斯克也不确定能否上路",
    "sentiment": -1
-  },
-  {
-   "id": "1cdacc0c411d",
-   "title": "Tesla Loses Bid to Delay Fatal Crash Trial Amid Dispute Over Where Case Should Be Heard - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFprRUwzQ2R1TDF0VzZLVVlSS2FsVzkzXzFuVzdETzNfaXUzTWhESXdDTnktNTdycTBwSDBRTmNwVUU2clJwQ1JVM1Q4aURKSk5sUlBBNWd5NHJuSm1YbXA1Z3RiVFB3ZGZCcFRCSGFlY2NMTC0xS2I1X3JUUVZwNjNpTXRYSVBx",
-   "source": "Yahoo",
-   "published_at": "2026-10-18T14:47:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-18T14:47:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFprRUwzQ2R1TDF0VzZLVVlSS2FsVzkzXzFuVzdETzNfaXUzTWhESXdDTnktNTdycTBwSDBRTmNwVUU2clJwQ1JVM1Q4aURKSk5sUlBBNWd5NHJuSm1YbXA1Z3RiVFB3ZGZCcFRCSGFlY2NMTC0xS2I1X3JUUVZwNjNpTXRYSVBx"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉致命车祸案无法推迟审判",
-   "title_zh": "特斯拉推迟致命车祸审判的请求被驳回",
-   "sentiment": -1
-  },
-  {
-   "id": "f5d03054b7da",
-   "title": "特斯拉飞起来了!火箭技术“上车”，飞行汽车概念爆发，捷众科技30%涨停！ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV216MjNabk45bUpuNFRGLTJCVkJtcElEemoxX3BNc2RkN09Db0VLaHNqN1M0aFBjSjlxV1hERUpra1VLN2s2QzlUel9vNnVzUmJNeGJkSWItaG9pTWN0c0ZoQWFFLVlOTkFrWEZGQTVmR2hPeUl5T19pWkdfV0NqRFBYcEI",
-   "source": "新浪网",
-   "published_at": "2026-10-18T14:45:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T14:45:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV216MjNabk45bUpuNFRGLTJCVkJtcElEemoxX3BNc2RkN09Db0VLaHNqN1M0aFBjSjlxV1hERUpra1VLN2s2QzlUel9vNnVzUmJNeGJkSWItaG9pTWN0c0ZoQWFFLVlOTkFrWEZGQTVmR2hPeUl5T19pWkdfV0NqRFBYcEI"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "飞行汽车概念爆发，捷众科技30%涨停",
-   "title_zh": "特斯拉飞起来了!火箭技术“上车”，飞行汽车概念爆发，捷众科技30%涨停！ - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "e0be4a77950f",
-   "title": "Tesla’s new flying Roadster performs stunning maneuvers during live unveiling (Video) - New York Post",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3JwVzFieVNOS2xLM2NzcnNWY2xnemZuMVhfVjNkMXBwdHhJSDAzQzhqdDFxRWNVZ0lmSldfcVd2UEc5NVpXTVFMd1dMUlRxRDA5NHdFUTctcjAzZ0lQYVNFRjJZTnBLekVISGhtUXYxamM1UjhkcmIzUEpHUGhmMlZiSlFnT2Y1ZkNJdW5CaktBaUhneUpmN3I2Q2tBWjZ4QXByOQ",
-   "source": "New York Post",
-   "published_at": "2026-10-18T14:37:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "New York Post",
-     "published_at": "2026-10-18T14:37:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3JwVzFieVNOS2xLM2NzcnNWY2xnemZuMVhfVjNkMXBwdHhJSDAzQzhqdDFxRWNVZ0lmSldfcVd2UEc5NVpXTVFMd1dMUlRxRDA5NHdFUTctcjAzZ0lQYVNFRjJZTnBLekVISGhtUXYxamM1UjhkcmIzUEpHUGhmMlZiSlFnT2Y1ZkNJdW5CaktBaUhneUpmN3I2Q2tBWjZ4QXByOQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉新款飞行Roadster现场演示机动",
-   "title_zh": "特斯拉新款飞行Roadster现场演示惊艳机动",
-   "sentiment": 1
-  },
-  {
-   "id": "7401457b8d4e",
-   "title": "Andrew Left challenges fraud conviction over probe of witness (TSLA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUpPYzdNUlVTS0pkR2EzSG1uMUY2NkQzRDlxcVBERU1pOEdPU011cUJvY1Y0eVVoUE5hR18wWWRaRnYxVE1lY3pCd2dhS21tcHZ6ZlNnMmEzTGtqWEdFWVJ6VjEwVUJhYWpfZzM4d0wyS0xoS3pYRTlLSnN5LS15Vi1iZTBkNUx1OVI1bTBxdHNrTkhrMU5YZGt3WlBtZ0Ra",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-18T14:31:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-18T14:31:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUpPYzdNUlVTS0pkR2EzSG1uMUY2NkQzRDlxcVBERU1pOEdPU011cUJvY1Y0eVVoUE5hR18wWWRaRnYxVE1lY3pCd2dhS21tcHZ6ZlNnMmEzTGtqWEdFWVJ6VjEwVUJhYWpfZzM4d0wyS0xoS3pYRTlLSnN5LS15Vi1iZTBkNUx1OVI1bTBxdHNrTkhrMU5YZGt3WlBtZ0Ra"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "Andrew Left挑战欺诈定罪裁决",
-   "title_zh": "Andrew Left 就欺诈定罪提出质疑",
-   "sentiment": 0
   }
  ]
 }
