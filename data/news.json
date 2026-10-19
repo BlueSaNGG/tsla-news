@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T22:22:30.288630+00:00",
+ "updated_at": "2026-10-19T22:37:32.259995+00:00",
  "market": {
   "price": 368.06,
   "change_pct": 3.76,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（246条已评分）"
+     "note": "今日新闻情绪 +0.25（249条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.7,
    "ma20": 369.97,
-   "as_of": "2026-10-19T22:22:30.280678+00:00"
+   "as_of": "2026-10-19T22:37:32.253470+00:00"
   },
   "pe_ttm": 101.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 246
+   "avg": 0.25,
+   "count": 249
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "ARK预测：2031年特斯拉市值达17.5万亿美元",
    "zh_summary": "ARK称2031年特斯拉市值17.5万亿美元",
+   "title_zh": "ARK预测：2031年特斯拉市值达17.5万亿美元",
    "sentiment": 1
   },
   {
@@ -1589,7 +1589,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbTR4cm4wdDRqME9ndk9zTE5tU3ZTYW5OYXE5R1dyVENBX0xHa2FuSG11UGV2ZkI1ZXlOYlFHT3JZY3dPYmt0RUVKRmNTMldjWTBMM095OHpybDVwNlpKMnMycndYSUZwaldXaFVsYXA",
    "source": "英为财情 Investing.com",
    "published_at": "2026-10-19T14:37:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "英为财情 Investing.com",
@@ -1600,13 +1600,22 @@
      "name": "证券之星",
      "published_at": "2026-10-19T14:37:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14YWpuMDZDcVQzR1hhSGZlSU42b3k5TXRHTnBHX0Z3S1dKeWpxNzNPYVl0TXNkb0FyS0YwdzIyeUZxbUJtS1RibThZcl9CVDhsOGVtZ18tUW5zY3h1YjlIaw"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T14:37:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1dyOGY4d1JQZjNWTG1reHdoMVdzR3Zrc0dHTEVVemlBay1ZZmFHN2NyYXZ2ZEhCQkVBMk52S1NubzB5ci1JdkRwdXQ4M3RpcDVMNG1HUnUySTkzTzFacUF1azgtUjNOVDI1ai16STNsck0wQ1hxTmpQbWhIT3V0WkxBTWpHUVdBNjN2WURR"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "与SpaceX合并传闻升温涨逾3%",
    "title_zh": "美股异动|与SpaceX合并传闻升温特斯拉(TSLA.US)涨逾3%",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.76,
+    "window_h": 2.0
+   }
   },
   {
    "id": "7f68dc31673b",
@@ -2274,8 +2283,8 @@
    ],
    "category": "车型产品",
    "session": "盘前",
-   "title_zh": "两分钟发布会 特斯拉飞行汽车发布！马斯克能飞 28年量产 Tesla Roadster - 新浪网",
    "zh_summary": "特斯拉发布飞行汽车，28年量产",
+   "title_zh": "两分钟发布会 特斯拉飞行汽车发布！马斯克能飞 28年量产 Tesla Roadster - 新浪网",
    "sentiment": 1
   },
   {
@@ -3687,8 +3696,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉都会飞了，中国车企就落后了？ - 新浪财经",
    "zh_summary": "新浪财经：特斯拉会飞，中国车企落后？",
+   "title_zh": "特斯拉都会飞了，中国车企就落后了？ - 新浪财经",
    "sentiment": 1
   },
   {
