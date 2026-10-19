@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T05:22:28.230339+00:00",
+ "updated_at": "2026-10-19T05:37:29.409573+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.04（250条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-19T05:22:28.221422+00:00"
+   "as_of": "2026-10-19T05:37:29.393923+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 250
+   "avg": 1.0,
+   "count": 1
   }
  },
  "meta": {
@@ -1314,26 +1314,6 @@
    "sentiment": 0
   },
   {
-   "id": "6bdc50077bc2",
-   "title": "换国产早被骂退市？特斯拉飞行跑车吵翻全网 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWNUNTlJQ1FtQzQ0cElGcDJHOElQWDkxaWtKNHJibFpyb1QyRk5sdFRIR3VnYVlsOUdoMW52X0REenkybjVZYmVyaU9udmhxUXk0c3lMeUljZmE3NVgtcU1ZUnBURVpZNkJQbm90UkE4LWYtaFRWNExSanlUbFBIZzJR",
-   "source": "新浪网",
-   "published_at": "2026-10-19T00:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-19T00:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWNUNTlJQ1FtQzQ0cElGcDJHOElQWDkxaWtKNHJibFpyb1QyRk5sdFRIR3VnYVlsOUdoMW52X0REenkybjVZYmVyaU9udmhxUXk0c3lMeUljZmE3NVgtcU1ZUnBURVpZNkJQbm90UkE4LWYtaFRWNExSanlUbFBIZzJR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行跑车引发网上热议",
-   "title_zh": "换国产早被骂退市？特斯拉飞行跑车吵翻全网 - 新浪网",
-   "sentiment": 0
-  },
-  {
    "id": "4e4c6a88f871",
    "title": "Sam Altman praises the Tesla Roadster he gave up on - TheStreet",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVFLX0szWC1qcWRxNzJvMGVtOFV6ZzBYNW1LMWZMbGZrUUt6RUVKN291RU1kcDE4QXdLTDUxZzZUckhQTFBlRFZuTU5GcXNRaWxGN0x1MVp4QlBHMGo5OVZQb0Nab05hdGZNT3NoOFJONGlOLUJPVUlqSzlJNEFYNVJKTkJCUldncGxiYVd3",
@@ -1412,6 +1392,31 @@
    "zh_summary": "奥斯汀Robotaxi延至午夜，FSD冲刺全天候",
    "title_zh": "特斯拉奥斯汀Robotaxi运营延至午夜，FSD v15百亿参数量冲刺全天候 - 网通社",
    "sentiment": 1
+  },
+  {
+   "id": "6bdc50077bc2",
+   "title": "换国产早被骂退市？特斯拉飞行跑车吵翻全网 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yb1MtamU2bGsyd3RHb0RhMU05UkEzNGl6R0NrYTU1MnhOUXV2M1dBbFJTelJ0LVczampra0RIMzFPRU90amg5bzBrTUl4RWdOZHY2MDh1Mk10clVzWmNWSHc5SkRYa3VuTUdabk1OWGk",
+   "source": "金融界",
+   "published_at": "2026-10-19T00:02:01+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "金融界",
+     "published_at": "2026-10-19T00:02:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yb1MtamU2bGsyd3RHb0RhMU05UkEzNGl6R0NrYTU1MnhOUXV2M1dBbFJTelJ0LVczampra0RIMzFPRU90amg5bzBrTUl4RWdOZHY2MDh1Mk10clVzWmNWSHc5SkRYa3VuTUdabk1OWGk"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T00:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZWNUNTlJQ1FtQzQ0cElGcDJHOElQWDkxaWtKNHJibFpyb1QyRk5sdFRIR3VnYVlsOUdoMW52X0REenkybjVZYmVyaU9udmhxUXk0c3lMeUljZmE3NVgtcU1ZUnBURVpZNkJQbm90UkE4LWYtaFRWNExSanlUbFBIZzJR"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "特斯拉飞行跑车引发网上热议",
+   "title_zh": "换国产早被骂退市？特斯拉飞行跑车吵翻全网 - 新浪网",
+   "sentiment": 0
   },
   {
    "id": "25dcc5382a03",
