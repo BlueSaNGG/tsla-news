@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T05:52:29.194939+00:00",
+ "updated_at": "2026-10-19T06:07:30.951938+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +1.00（1条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-19T05:52:29.180415+00:00"
+   "as_of": "2026-10-19T06:07:30.940873+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 1
+   "avg": 0.0,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "38ea06817e2c",
+   "title": "特斯拉“飞天跑车”Roadster对全球汽车业竞争意味着什么？ - 华尔街日报中文网",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSjJLOFZFUGFiWlhHMUltWmZTcTRSYU16dFMybUdBbk94TFVpQlpPWUNoLWNRb2xDbEk5TUxKZUxueTJRTWlyWXR0cE5hMWl3TEYyZUp1VVoyaTI1QW9KQ1RxVW1zM1pFX2NQd1JKLXVCR2JmS1NfOU1VZzNONGxfdWMyd3hrZmpwSS1RR3hldFhfVmtEamZJdllBMTdVYUVqMzZFbndYWDl0R29aM1BCYmxhTWlQT1k3Rl83YS11SkdYSjZLeHBxa1ZrNXA1OHV2dGJ1c0J2SE91SXZ4bVd3Qkhham8wdXVPTUFsLVpGRGI4bVFtd1poZ1ZkbEs2SGsxTkZ6cUlHYUFjZ1ptdWxQUks3ZzNWdDJiWlk3c3M1WHBNd2pHdDhrOHFHVXF4RnBzaHg0TDBTTG1QbU5DelRv",
+   "source": "华尔街日报中文网",
+   "published_at": "2026-10-19T06:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街日报中文网",
+     "published_at": "2026-10-19T06:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSjJLOFZFUGFiWlhHMUltWmZTcTRSYU16dFMybUdBbk94TFVpQlpPWUNoLWNRb2xDbEk5TUxKZUxueTJRTWlyWXR0cE5hMWl3TEYyZUp1VVoyaTI1QW9KQ1RxVW1zM1pFX2NQd1JKLXVCR2JmS1NfOU1VZzNONGxfdWMyd3hrZmpwSS1RR3hldFhfVmtEamZJdllBMTdVYUVqMzZFbndYWDl0R29aM1BCYmxhTWlQT1k3Rl83YS11SkdYSjZLeHBxa1ZrNXA1OHV2dGJ1c0J2SE91SXZ4bVd3Qkhham8wdXVPTUFsLVpGRGI4bVFtd1poZ1ZkbEs2SGsxTkZ6cUlHYUFjZ1ptdWxQUks3ZzNWdDJiWlk3c3M1WHBNd2pHdDhrOHFHVXF4RnBzaHg0TDBTTG1QbU5DelRv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "606575a9eeb1",
+   "title": "特斯拉Roadster火箭版演示飞行，600升氮气罐被指是炸弹 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWnZmY0o2d3V5RWVaUlVBUEo0dWNQMkVZTmtzSTFhM0R4OUxqOVdyRjNCc09nTVJsNUJQSVlOc284b1ZuTG5uX3JjUzZIN28xV1BNb3RoMVQxdjRRSVUtQUpNSHJXNlNVakFJ",
+   "source": "汽车之家",
+   "published_at": "2026-10-19T05:51:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T05:51:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWnZmY0o2d3V5RWVaUlVBUEo0dWNQMkVZTmtzSTFhM0R4OUxqOVdyRjNCc09nTVJsNUJQSVlOc284b1ZuTG5uX3JjUzZIN28xV1BNb3RoMVQxdjRRSVUtQUpNSHJXNlNVakFJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "14af4ae6ae3a",
+   "title": "首发首展扎堆、特斯拉设专属展区，进博会临港展示区看点剧透 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hbHRmMnc5OEtjVzhGb3hUeWY1YlRsZkRDYkszaGlMT2YwdWRCRlNRaXBydUFXRXRKeWtrYVV1bEt6YUJWNl8wWTNHazhJNVBkajdMYnJtb0VXUDV2TUhDTkNpeUg3Qm5JNTVFMml5WXdPQjhwNEIzWg",
+   "source": "新浪财经",
+   "published_at": "2026-10-19T05:39:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T05:39:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hbHRmMnc5OEtjVzhGb3hUeWY1YlRsZkRDYkszaGlMT2YwdWRCRlNRaXBydUFXRXRKeWtrYVV1bEt6YUJWNl8wWTNHazhJNVBkajdMYnJtb0VXUDV2TUhDTkNpeUg3Qm5JNTVFMml5WXdPQjhwNEIzWg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ac9d1bf0c3d7",
+   "title": "特斯拉Roadster会飞，A股相关概念股有哪些？ - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclJwRmFXMnRDcGcyRzFUaTFGay1RWkNGNnJBNTJCeVpDMHh0RlI0NVZvYkJELXZEWHF3OFhfOUJZbEMzMnpFVWFLME1nMklfR1NqUzNUUWNabUR5RE5aV1U2QmRjX240MDcwY2VFT2pmd3Z5b0RPbE1sN1dHNEZLTHlrdkY2V0llN0FlaEhEZw",
+   "source": "21财经",
+   "published_at": "2026-10-19T05:24:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-19T05:24:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclJwRmFXMnRDcGcyRzFUaTFGay1RWkNGNnJBNTJCeVpDMHh0RlI0NVZvYkJELXZEWHF3OFhfOUJZbEMzMnpFVWFLME1nMklfR1NqUzNUUWNabUR5RE5aV1U2QmRjX240MDcwY2VFT2pmd3Z5b0RPbE1sN1dHNEZLTHlrdkY2V0llN0FlaEhEZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "bb932027f55a",
    "title": "TSLA: Tesla Reports Earnings with Shares Down 21% on Year (and a Failed Roadster Pump) - TradingView",
@@ -206,6 +274,23 @@
    "zh_summary": "新Roadster搭载受限版FSD，极端设计碍落地",
    "title_zh": "新款特斯拉Roadster将搭载受限版FSD，极端设计成智驾落地最大障碍",
    "sentiment": -1
+  },
+  {
+   "id": "0ae6af9578cd",
+   "title": "特斯拉发文称没有“速成车”，销售、交付、客服、技师全是自家人，陶琳：安全稳定可靠，让人安心是最大的豪华 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjVGhobi15REphN3AzSktmSEZib2ZITVU5M28zYkc4b2QzTFQwU19ISUFGWVY5ZVllN2hLZG9tTERNVkRHaC1XLUVoYTRsb2M3Z0c2Qll3RjlBVTVUdEhyMzRNOG9jaTlMTjd3dTgzb1A5ZWZtOTFWMg",
+   "source": "新浪财经",
+   "published_at": "2026-10-19T04:02:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T04:02:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjVGhobi15REphN3AzSktmSEZib2ZITVU5M28zYkc4b2QzTFQwU19ISUFGWVY5ZVllN2hLZG9tTERNVkRHaC1XLUVoYTRsb2M3Z0c2Qll3RjlBVTVUdEhyMzRNOG9jaTlMTjd3dTgzb1A5ZWZtOTFWMg"
+    }
+   ],
+   "category": "交付量",
+   "session": "周末"
   },
   {
    "id": "50afbc6008ed",
@@ -423,7 +508,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WRDdONENJU0NvcENDNk9aSEJjOTluaFJOS3ZVamFiT0NmTXN5TkdpSWVQTkxkR25DcUdHN1FULUZXN2xwUUlxOA",
    "source": "第一电动网",
    "published_at": "2026-10-19T03:12:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "第一电动网",
@@ -444,6 +529,11 @@
      "name": "搜狐",
      "published_at": "2026-10-19T04:00:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHh0eHk3VXRqdzk0dUF2X3FPcl9rdFo1enRnaHFPTGl5VDNOdUZoNUs1bmppbGY0LTRpLVplOGNKLS1wZUQ0dlo1d0J2S3NLWGNabldDV3BmVmIwazN6Vkx5dzNWRS04aDZuaW5fRS1Ed0xJTWZTeXhGSU1qZlpfcDB4dks5LU5u"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T04:00:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdFlMQzdQSnZlYzNSaDRZb1pHdFo0NUxtVWNaRHhNUXQxcE9VVUg4Qlgyc0YtaS1xd2NLUF90dEVWVFFrOUcwblJtemdZMURDMVNfdUF2MG12aVRKNUFDQ0NYei0xRDhhU3dTYWFMSUdKVGVCOEZGNHZBcEE2MFk"
     }
    ],
    "category": "其他",
@@ -544,12 +634,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTFRckp3Z0RLTTNrVFQ1d0lLMWtyUjNDdk5YWFI4WUw4dWdmeDk4emw3TmtITTd4T1IxMzc5bmoyTkxzcUw4TjNBQ2g0T1BWM2MxTDN2NVJabnp1YnFDX3BMNHhydUxkRG9ocm1GN3VraUVmd0xuY19PNnlXd0NmaDlHYlE5QlJz",
    "source": "搜狐",
    "published_at": "2026-10-19T03:03:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-19T03:03:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTFRckp3Z0RLTTNrVFQ1d0lLMWtyUjNDdk5YWFI4WUw4dWdmeDk4emw3TmtITTd4T1IxMzc5bmoyTkxzcUw4TjNBQ2g0T1BWM2MxTDN2NVJabnp1YnFDX3BMNHhydUxkRG9ocm1GN3VraUVmd0xuY19PNnlXd0NmaDlHYlE5QlJz"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T03:03:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ya2J6QjJPLXJ2enBQMW5rdDFyTWFEOWplOEVQa1Y5TW1BT1o4Z21DQzllbkhpN2dXdTFkSTR1bEZ2UVU5Y3d4cndvd0MtRklYR3NDemh5RlRwTXBNSGtKQ050WlVLcTdLVklxXzZYY0VMQ0tqRUdKTkVBcmp2aE0"
     }
    ],
    "category": "其他",
@@ -1644,7 +1739,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tUXJmLWNWMU5hSk1BU0h3NW9zaTNCb3QzQTNVTTlmSE4xWVZqNDcxUzlfZXI3M1lqMGVxTFN3ZDZvaEdVREsycUo2OFc",
    "source": "凤凰网科技",
    "published_at": "2026-10-18T23:29:12+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "凤凰网科技",
@@ -1660,6 +1755,11 @@
      "name": "新浪网",
      "published_at": "2026-10-19T02:46:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kS0JQM1pSNkFYZFVHempkZGp0aG9PYTRsdFBnTWlqeXEwT3Y1bFNNNmVJem85bVpuNzZLaXlBQjAxTVVNX0Z3VzJQMEU0Y25KODNOY3N4MFpnZEFhbVl5QWtlUkNBOGhnLXVKT0Fiekd1QQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T01:53:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QYWhNNWJnbndBUGlOZGdLMUlJbmNIc05FU29ESkhIMU5GSE42Ml8xQ1ZMOFhVWGFUeDdXTGY3N0hnR3pnVzNkY2hqRGsxN0dkaFVoTkMyN0kwdkRTdEdtczhCYTNxa0tWRmI5TEJYNkFRRzRRdnFIYnlqa1Y"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1687,6 +1787,23 @@
    "zh_summary": "Top Gear称Roadster华而不实",
    "title_zh": "Top Gear称特斯拉Roadster“华而不实”，与威航相提并论",
    "sentiment": -1
+  },
+  {
+   "id": "862f235aea40",
+   "title": "本周2只新股申购 苹果、华为、特斯拉“小伙伴”来了 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tNFgxWnQ3M0oycmFISWFjeEhiZ19ZNm9BNkplVk9JalIxX3lwY1hpTDRjN25hTTUwWUxHOEk5dUVLbVJrQmd6YkNoTWdkY3pOeGY4ZUFGOHpWVE03Q3pLQjBmZVE2cENqT09wNUJB",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-18T23:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-18T23:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tNFgxWnQ3M0oycmFISWFjeEhiZ19ZNm9BNkplVk9JalIxX3lwY1hpTDRjN25hTTUwWUxHOEk5dUVLbVJrQmd6YkNoTWdkY3pOeGY4ZUFGOHpWVE03Q3pLQjBmZVE2cENqT09wNUJB"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f7bb22fd3af7",
@@ -5184,12 +5301,17 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTVQY184eDFNbWM4X1l6dUxPaHkyVjFhaU52T0swVnhXMnZrMk8xa2UzMVJMZUxNRERYV1YxSDV5QzNIa2xDWEVxNW5sbTczWGNJTGF6S2JLTnk0UFVhcUx6T0JyYnJzeU5SVzUyVE5MYlR4R0lPOFZNYzNYQ1NUdw",
    "source": "新浪网",
    "published_at": "2026-10-18T05:46:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪网",
      "published_at": "2026-10-18T05:46:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTVQY184eDFNbWM4X1l6dUxPaHkyVjFhaU52T0swVnhXMnZrMk8xa2UzMVJMZUxNRERYV1YxSDV5QzNIa2xDWEVxNW5sbTczWGNJTGF6S2JLTnk0UFVhcUx6T0JyYnJzeU5SVzUyVE5MYlR4R0lPOFZNYzNYQ1NUdw"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T05:51:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MaVFzMDNERjVoVGFOUVp3dW1QSUVGalJBc05qNm5hcTZ0eXVNemprOGpqM25JRHNCczZvQVA1YXFHamFYNkk1YlFPOFhHN2FzeW9tc194NzZOclVqYmdWUTBCeWNGUDk0RTFF"
     }
    ],
    "category": "其他",
@@ -6182,156 +6304,6 @@
    "session": "周末",
    "zh_summary": "飞行汽车飞越特斯拉车队视频",
    "title_zh": "发布了一段自家飞行汽车飞越特斯拉车队的视 - 财富号",
-   "sentiment": 0
-  },
-  {
-   "id": "65e6514e0742",
-   "title": "马斯克遭遇“踢馆”，Alef飞行汽车飞跃特斯拉车队。踢馆的来了！就在特斯拉发布新款飞行跑车Roadster当天，电动飞行汽车公司AlefAeronautics，发布了一段自家飞行汽车飞越特斯拉车队的视_财富号 - 财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5ZUZTUG9zVXFYeUdOSko0NHZhMVktSlNTbndRenRWRjMwOXpvcjZsWk45dk4zQ2RTdU9KRk1FWjRrRzdScGxvQXNmdUlPalRIMW51UUV4M1diYnBRY2g3YzU1ZHpOaVJYNmhn",
-   "source": "财富号",
-   "published_at": "2026-10-18T02:16:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财富号",
-     "published_at": "2026-10-18T02:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5ZUZTUG9zVXFYeUdOSko0NHZhMVktSlNTbndRenRWRjMwOXpvcjZsWk45dk4zQ2RTdU9KRk1FWjRrRzdScGxvQXNmdUlPalRIMW51UUV4M1diYnBRY2g3YzU1ZHpOaVJYNmhn"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "Alef飞行汽车飞越特斯拉车队",
-   "title_zh": "马斯克遭遇“踢馆”，Alef飞行汽车飞跃特斯拉车队。踢馆的来了！就在特斯拉发布新款飞行跑车Roadster当天，电动飞行汽车公司AlefAeronautics，发布了一段自家飞行汽车飞越特斯拉车队的视_财富号 - 财富号",
-   "sentiment": 0
-  },
-  {
-   "id": "3c170873042d",
-   "title": "Family Buys 90-Year-Old a Tesla Model Y: ‘Chauffeur’ [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMmlrNWxDUXpDSG1YSTJZRk5zZVhjR3FQeVRMejNuc29EMFphWlNISGpBeFEzZl9FRkNsYXk5aWlTbm1FRzFnQ3ZaNkM5NE5OZDdiU3hId3RmUmRkOVBLQnZzd3FVLXNXWDM3SmdfbnBGekktRGU1NWpPTGpVUlk",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-18T02:07:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-18T02:07:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMmlrNWxDUXpDSG1YSTJZRk5zZVhjR3FQeVRMejNuc29EMFphWlNISGpBeFEzZl9FRkNsYXk5aWlTbm1FRzFnQ3ZaNkM5NE5OZDdiU3hId3RmUmRkOVBLQnZzd3FVLXNXWDM3SmdfbnBGekktRGU1NWpPTGpVUlk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "一家人为90岁老人买特斯拉Model Y",
-   "title_zh": "一家人给90岁老人买了辆特斯拉Model Y当‘司机’",
-   "sentiment": 0
-  },
-  {
-   "id": "a675d892270d",
-   "title": "#马斯克飞行汽车遭踢馆#特斯拉Roadster 2开发视频 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXZYTUtaelp1UllwcmkzM0ZmZHdvbDFFc25TckoyQWtjdDVkYzZfdlRnSFFUM3NzV3BFZ2dzSGdwcEN4YkNzQXo1REtveG1ONkNSMUNCSUlIVF9NTXFRa2w4OUNnSHpxemJTSGZNb3BQTFpKU1BOc0VPT0tNMGZiUg",
-   "source": "新浪网",
-   "published_at": "2026-10-18T02:02:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T02:02:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXZYTUtaelp1UllwcmkzM0ZmZHdvbDFFc25TckoyQWtjdDVkYzZfdlRnSFFUM3NzV3BFZ2dzSGdwcEN4YkNzQXo1REtveG1ONkNSMUNCSUlIVF9NTXFRa2w4OUNnSHpxemJTSGZNb3BQTFpKU1BOc0VPT0tNMGZiUg"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "Roadster 2开发视频引热议遭质疑",
-   "title_zh": "#马斯克飞行汽车遭踢馆#特斯拉Roadster 2开发视频",
-   "sentiment": 0
-  },
-  {
-   "id": "986209fcc720",
-   "title": "Man who's used Full Self-Driving on his 2025 Tesla Model 3 Highland has taken 50 people from his village for a ride and they've all had one common experience - supercarblondie.com",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXdReEROOC10NlZrNUU0MHZ0X05YUEllMm90d2lIOGtKT3JpMGJnUlBEaGp4TjcydldPUzRMTGtmSFRpdEh3cFNick8yWDJiMGZyOGtZdFJ4bUtNUUdWQ3hxSFRHd0lhT3VGVFpSbmVQdjFjYjhBczE3Rnc3OGJLNmNHeFpERVN3VjNOUWtTdHJfTllfUVpj",
-   "source": "supercarblondie.com",
-   "published_at": "2026-10-18T01:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "supercarblondie.com",
-     "published_at": "2026-10-18T01:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXdReEROOC10NlZrNUU0MHZ0X05YUEllMm90d2lIOGtKT3JpMGJnUlBEaGp4TjcydldPUzRMTGtmSFRpdEh3cFNick8yWDJiMGZyOGtZdFJ4bUtNUUdWQ3hxSFRHd0lhT3VGVFpSbmVQdjFjYjhBczE3Rnc3OGJLNmNHeFpERVN3VjNOUWtTdHJfTllfUVpj"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "车主用FSD带50名村民试驾印象深刻",
-   "title_zh": "一名车主用FSD带50名村民试驾收获一致体验",
-   "sentiment": 1
-  },
-  {
-   "id": "51d3656646b4",
-   "title": "飞起来的特斯拉：贾跃亭的“生态化反”，被马斯克实现了 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zeXVyTGd1eVNwN3NEbTI3QUdObGpSSENsWUhaQkRfSXNYMWh1WEFDazljbjFBMlczelh4V1l4clVuSWg5Y2Z3QlJvMUs",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-18T01:57:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-18T01:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zeXVyTGd1eVNwN3NEbTI3QUdObGpSSENsWUhaQkRfSXNYMWh1WEFDazljbjFBMlczelh4V1l4clVuSWg5Y2Z3QlJvMUs"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-18T01:57:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jMENwejJoSjVHOXdzTlpmdVJYZXNUYWhnZ3hETFZkQ29zTVcybjZRdXE2QVZfcW5HMXU3eHlacmw3UGlaZzVndVlSam5mSHVLT2hEQ0hWRlpYUC1n"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T01:57:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE9wZU5CSktNSnViTmUxaXRmTWNKa01QdW9Jc3d5LVp1ZF9iTGduMU1wVzA5dFhxQU5BaksxRTE3NTdhekNyb1V2Q2p5RkRiUFNuTjc4RDh5cW5acjNmczRfa3kwNkk2eU1YYTFyWGU0UWRUT1hISExXYkZBRnQtUkk2NFhyMFVI"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "特斯拉飞车被指实现贾跃亭生态化反",
-   "title_zh": "飞起来的特斯拉：贾跃亭的“生态化反”，被马斯克实现了 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "476eaf68584c",
-   "title": "Roadster腾飞之后：特斯拉的光环与代价 - 钛媒体",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FcW9yekg0WTlvY1EybS1pd0RqWG5HVUlYbjBEZEtjUE5kX3Rkc0MzcERDcFNVTU9DLUdCT1d0ZGU5R2ZRWFM5SUlJNG4",
-   "source": "钛媒体",
-   "published_at": "2026-10-18T01:57:00+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "钛媒体",
-     "published_at": "2026-10-18T01:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FcW9yekg0WTlvY1EybS1pd0RqWG5HVUlYbjBEZEtjUE5kX3Rkc0MzcERDcFNVTU9DLUdCT1d0ZGU5R2ZRWFM5SUlJNG4"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T01:57:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdndXN0hPQS10UDBBb3h4d0ZEVGtuRjhzclJjLWd3V0RiRXhiY3Rpcy1ZQWt1R0xiMkN4YndhakltTFZWSm5wbVI4Umg1YzZQNHo0MnZRVGptT04ya2lHemhMZ1VGRVUwX3phWWZONV9kUFZTTkJBTDJFa2JkOWZ6enJydW9NQVh4"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T02:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsb2MwM3RUSnlDSFlZQlZ1Wk5seFo1dkJwR3ZoTUFub2xhUmlaRVlNX3h1VVhSZE50bms5d1o2eE16cTdZMzFMbU9GbFpLRFBSdlZWWWtVN3huTzBsUlltTDFRVXZHQ3hRTVl1dTdDczl5dWozUGRGcGxVWHRCeWs"
-    },
-    {
-     "name": "中华网",
-     "published_at": "2026-10-18T05:31:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ma0VRRE9BWWw4b3JYcV84TXZJTEI4U2R5ODVfZTlsQVdnVTRHSnlmamxKZkdNM09nOTJmNVpqRElFSGdPR0NDU2JKb2VtU2tIdkJieUF4N2VuOVUzeU9OMVg4UUI2RnRQZ1gyYUZGY0o"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-18T04:13:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdVExbTFfV3I3NnhSX2pUdmdVaDM5aldwWjJqNFhRbEhoMGdhTGlPZEFULXpaVlJHRUNCV3BaZTQ4Uy1qUzhaZWZyYk41WVNKMmQ2WVpuTGpHQ3NwbzB1cmpUN0pzWTJCWEctQ3d3V05xVDlueHJYeEhvYVU0czl3VUpKYmhtVUl6Q2tIc1RQd0JiOVdFakxMMl9BTUxYaVB5S1YxTmpZWm1idHhRb2hCYlJIWVJFRTVPRVh4UnZyeG56NDFpVGlTUUUyakxNY0FidDNMUmZrdkVxUW5wWU1mQm9YYUZyb0ZpWWdaU0J2UXRJUk1nWWl4VnhSUFdRZUduWFNJVlVCNE03MkNRNmZWSkMzSzc0bnd1MW12QWxxMWVPSDVzWGhhZlJQV1lYU1lUS3MwRy1TQmJsRnU4cEtFRlo2OTE5Qml2OGVTU1BXN0FmUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Roadster腾飞之后光环与代价",
-   "title_zh": "Roadster腾飞之后：特斯拉的光环与代价 - 新浪网",
    "sentiment": 0
   }
  ]
