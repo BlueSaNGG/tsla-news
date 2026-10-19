@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T08:07:32.582204+00:00",
+ "updated_at": "2026-10-19T08:22:27.585767+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（17条已评分）"
+     "note": "今日新闻情绪 +0.09（22条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-19T08:07:32.572184+00:00"
+   "as_of": "2026-10-19T08:22:27.577450+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 17
+   "avg": 0.09,
+   "count": 22
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "8142859346b6",
+   "title": "特斯拉回应“速成车”争议：没有速成车，没有4S店，全直营 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOFN5eHhjUFdIdHRpckFaYVRJNHRkYlFweVFFSjdMZGdIb1JBdW5Ea1lUZ1daakxmMnA4Y09tYkM2QXVxVmttSDcxNHI5OU95SHVqdGhHRHQ5cWg5VDctQTFMNEhwSTUyYklv",
+   "source": "汽车之家",
+   "published_at": "2026-10-19T08:18:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T08:18:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOFN5eHhjUFdIdHRpckFaYVRJNHRkYlFweVFFSjdMZGdIb1JBdW5Ea1lUZ1daakxmMnA4Y09tYkM2QXVxVmttSDcxNHI5OU95SHVqdGhHRHQ5cWg5VDctQTFMNEhwSTUyYklv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "1d0707af1ab4",
+   "title": "特斯拉Roadster这项技术，50多年前就有人玩过 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ma19mTm5ObU5tT0NRYTA5VmNWcDhsNXJ0bmZ0ZFB1d2FxeWhBVTBUR0FBb1dLcHZEYll2M1M5RXFWUE9MbnA2RjhBejJQR3NZMVMxa1A1ZTJXeG8",
+   "source": "汽车之家",
+   "published_at": "2026-10-19T08:08:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T08:08:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ma19mTm5ObU5tT0NRYTA5VmNWcDhsNXJ0bmZ0ZFB1d2FxeWhBVTBUR0FBb1dLcHZEYll2M1M5RXFWUE9MbnA2RjhBejJQR3NZMVMxa1A1ZTJXeG8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "9036a3cc049d",
+   "title": "【视频】能飞的特斯拉Roadster2，在全球都不能上路吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Md1R1ZkRmTUJRXzdMcVRHTmdERHY3MmE5dU1EUEFDWkZEQkxIWDl3LXBWejlERTZFM2xfLUpNNzNrczhxSEJIcGo1ZFFjakhXc3V0bkg3QmIwTEU",
+   "source": "汽车之家",
+   "published_at": "2026-10-19T08:08:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T08:08:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Md1R1ZkRmTUJRXzdMcVRHTmdERHY3MmE5dU1EUEFDWkZEQkxIWDl3LXBWejlERTZFM2xfLUpNNzNrczhxSEJIcGo1ZFFjakhXc3V0bkg3QmIwTEU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "bad8ebaf93f9",
    "title": "All Aboard The Hype Train: Tesla Says The New Roadster Could Hit 330 MPH - Motor1.com",
@@ -663,13 +714,18 @@
    "sentiment": 0
   },
   {
-   "id": "124ae41e55ed",
-   "title": "财报前瞻| Roadster飞起、利润坠地，特斯拉(TSLA.US)“叙事性估值”能否撑住？_全球市场_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONDVrVGR2aGlDb1duSEFaVlFkRmRiWnNBQkprV2tENnlRNmYtc2NXNUliMUhWeDNraHh6Z3RkTGJpNE1JdEgyUVpQaHp0aTJvU3QtS010S3h1QmNOczJRcQ",
-   "source": "证券之星",
-   "published_at": "2026-10-19T03:42:44+00:00",
-   "outlets_count": 3,
+   "id": "3fd6a82e13bd",
+   "title": "财报前瞻| Roadster飞起、利润坠地，特斯拉(TSLA.US)“叙事性估值”能否撑住？ 提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdFFaRVdOS2c4NUxfX05Rb0ZxWnNVV214WE03QVJ2eGNfVnFCcHhtUE51SXk3QUo3QmllSnNwcHc3VDRDa1BITlNXTmJQRmE0RmZQbGJneFZJV2JMdFJMYjJvV3ZQZ0FzQ09zOVNqVmc",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-19T03:42:00+00:00",
+   "outlets_count": 4,
    "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-19T03:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CdFFaRVdOS2c4NUxfX05Rb0ZxWnNVV214WE03QVJ2eGNfVnFCcHhtUE51SXk3QUo3QmllSnNwcHc3VDRDa1BITlNXTmJQRmE0RmZQbGJneFZJV2JMdFJMYjJvV3ZQZ0FzQ09zOVNqVmc"
+    },
     {
      "name": "证券之星",
      "published_at": "2026-10-19T03:42:44+00:00",
@@ -1184,26 +1240,6 @@
    "sentiment": 1
   },
   {
-   "id": "595d3782ba5d",
-   "title": "TSLA Stock Rises Overnight: Musk Bets Tesla’s Value On Optimus, Cybercab — Analyst Sees Flying ‘Halo Car’ Luring Buyers - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ01wcS1EaG5aRTBuYWhiYXlvUEJ1UWVEMVVIUWVZWFdLVHE4ZVAzZWVBYkNBQWdDUkQ1Zm5HRGtmS2pNcmhXT2VpRG0yREtIc3ZtbEgtV3ZjUldRWVBJT2kwREQ5akxaSHJrVUVkc2xCWDJpNTZCT2x6S2FYbXJ0V1dleF9IeTJURUJNcmV2b3J3RVBBSExFSTJYNG15bzRhMWhGaVdNMlFra0tIcU9XcjhXbGlNZTVUZVdfNWtVcTNtSXpKaWh0NTAxZ1pWSHJxcVhra20xZDVBb09zTm9v",
-   "source": "Stocktwits",
-   "published_at": "2026-10-19T02:19:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-19T02:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ01wcS1EaG5aRTBuYWhiYXlvUEJ1UWVEMVVIUWVZWFdLVHE4ZVAzZWVBYkNBQWdDUkQ1Zm5HRGtmS2pNcmhXT2VpRG0yREtIc3ZtbEgtV3ZjUldRWVBJT2kwREQ5akxaSHJrVUVkc2xCWDJpNTZCT2x6S2FYbXJ0V1dleF9IeTJURUJNcmV2b3J3RVBBSExFSTJYNG15bzRhMWhGaVdNMlFra0tIcU9XcjhXbGlNZTVUZVdfNWtVcTNtSXpKaWh0NTAxZ1pWSHJxcVhra20xZDVBb09zTm9v"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "TSLA隔夜上涨马斯克押注Optimus",
-   "title_zh": "TSLA隔夜上涨：马斯克将特斯拉价值押在Optimus和Cybercab上",
-   "sentiment": 1
-  },
-  {
    "id": "c9eccbd51b74",
    "title": "特斯拉Roadster零百0.81秒：1340马力配600升储气瓶，2028年投产 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjUFBzTktkZldtQmVXTDQ5bjVuamhQdHIwUnZaSTFFSkpERmM4RC1Sb0FPdmpsd0Y0NmxNcTU2VVZTM2hjUllvV3VxSUsxRkFVUXU0OFhfbjRncnM",
@@ -1314,12 +1350,17 @@
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSU1feHRodVNIR0E5aVNvX2tIZ2V2a3F2bURzY0RRNVFzVDFyWmJBRUZZV3JFazRuQmNvTzZoa2lEamlaWXZQaUtlbzRWdXpjODUxMGpCRDZQaFF2djJoWEQycEwxcjc0SVFFT25nNWZUUFN6LTZfS1FCZW9FYkJUdHhTX1dzQ3hRb1Bkak0zbTEtUDZ3Y0JtU1h6V0pMZjJ1U0hxVGdwd0pibW9fTi1EZE1mZGpnaWRmNlJWLXlDMHdDd1lKRjRWQlhjb2o0RlJuc0Vqd1p6cXhGOVdMYUNrTjZtU0dSSV9TZFA4",
    "source": "TradingView",
    "published_at": "2026-10-19T02:04:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-19T02:04:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSU1feHRodVNIR0E5aVNvX2tIZ2V2a3F2bURzY0RRNVFzVDFyWmJBRUZZV3JFazRuQmNvTzZoa2lEamlaWXZQaUtlbzRWdXpjODUxMGpCRDZQaFF2djJoWEQycEwxcjc0SVFFT25nNWZUUFN6LTZfS1FCZW9FYkJUdHhTX1dzQ3hRb1Bkak0zbTEtUDZ3Y0JtU1h6V0pMZjJ1U0hxVGdwd0pibW9fTi1EZE1mZGpnaWRmNlJWLXlDMHdDd1lKRjRWQlhjb2o0RlJuc0Vqd1p6cXhGOVdMYUNrTjZtU0dSSV9TZFA4"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T02:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzBYM3JLQ2ZJNVhEc3RKYmlUeVhXN1RFNkJZQUVwRVVjS01fSXVFT2dpbjdaS1ZwUkZ3bFJIU3BlOUFlb1pRS2hTbVd1U0ZGSGJISS1ST3BPc05OS0pJQ0VrbWluYmVSNWNsd21FQ0dyTGF4bHcxckhuaks2eG5XbWtuYmFia2NkbWdXOWNwVFlVZw"
     }
    ],
    "category": "其他",
@@ -2984,6 +3025,23 @@
    "sentiment": 0
   },
   {
+   "id": "45b46b4eae40",
+   "title": "#特斯拉飞行汽车引爆市场，低空经济掀涨停潮# 人类有史以来第一款会飞的汽车，这是有史以来最酷的现场产品演示！！🔥 - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbFVIdVl1eFJFMi1JTlBXalJhLTdfX0VOamdIWGoxdHhFZmp1UDlSTzAyN1BOQWt1djByYTAybEtpUDd1RkF1dXhTVDBSWmZGM3AxY1p3",
+   "source": "雪球",
+   "published_at": "2026-10-18T16:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "雪球",
+     "published_at": "2026-10-18T16:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbFVIdVl1eFJFMi1JTlBXalJhLTdfX0VOamdIWGoxdHhFZmp1UDlSTzAyN1BOQWt1djByYTAybEtpUDd1RkF1dXhTVDBSWmZGM3AxY1p3"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "20edd577e129",
    "title": "Putting $250k Down on a New Tesla Roadster? The Fine Print Says Delivery Isn't Guaranteed - Gadget Review",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE45SnQtS0FhQm1ITzMxczM5YVBWMXFBdkhYSks2cVY3NjVIaWFOZUFpeXFmMTNhOHdWT2lQQzcxNVhjOXIzb1dEUHJodHZtakZtSzBZaWY4eDdyS2VqalhTTTNIN2ZHNVV3NTQ3UExjdzNyNkhheWdtWnNJcGtVWDBMMk5QZ0J5bm5XMzA0NVJyNktreWt6TWdxNDJpTk94RkdTaGVzaV9lS2FOb3QzR09fd19lUQ",
@@ -4397,6 +4455,23 @@
    "zh_summary": "Meta特斯拉芯片财报周，AI交易受考验",
    "title_zh": "本周前瞻：Meta、特斯拉与芯片财报考验AI交易",
    "sentiment": 0
+  },
+  {
+   "id": "92d8f6fc91e3",
+   "title": "Ninth Circuit Decertifies Class Action Against Tesla (NASDAQ: TSLA), But Stock Valuation Risks Remain - Foreign Policy Journal",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWR4RTMwejBHZDJFcEJtV3dETVZ2VEhxSUJfWUxIUzR6aDZHQmFMVnIwd2RZU2VJdWd1ZFlSU1ZqQ2Z6cGZERXhvWGk2SDVYS1RjeWhSNEhaLUh6QldEWUZ3TERfb2o1OWxrejBYRTI4X1VIZ3JxVzdaNUxxXzlvZE1SelJWTnBKRndGa3NoTEozQnJsSGhZa1gzLTBEcHlWM0ZmYWhZTG03YzVMdURtalJEOFJLRTE4Y3lya2h2TmZCQ3E5MmxhUEJ1LXZabzVuMVc2LU9lWXJTdHZMSW1v",
+   "source": "Foreign Policy Journal",
+   "published_at": "2026-10-18T11:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Foreign Policy Journal",
+     "published_at": "2026-10-18T11:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWR4RTMwejBHZDJFcEJtV3dETVZ2VEhxSUJfWUxIUzR6aDZHQmFMVnIwd2RZU2VJdWd1ZFlSU1ZqQ2Z6cGZERXhvWGk2SDVYS1RjeWhSNEhaLUh6QldEWUZ3TERfb2o1OWxrejBYRTI4X1VIZ3JxVzdaNUxxXzlvZE1SelJWTnBKRndGa3NoTEozQnJsSGhZa1gzLTBEcHlWM0ZmYWhZTG03YzVMdURtalJEOFJLRTE4Y3lya2h2TmZCQ3E5MmxhUEJ1LXZabzVuMVc2LU9lWXJTdHZMSW1v"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "周末"
   },
   {
    "id": "9881517ff6e4",
@@ -6266,86 +6341,6 @@
    "session": "周末",
    "zh_summary": "特斯拉飞行车实用性遭质疑",
    "title_zh": "特斯拉飞行车实用性受质疑，交通规则或需修改 - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "f3ca2049f415",
-   "title": "【视频】特斯拉为什么会飞，其实你买的并不是一台车 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nSXY5WmlmdVNRS0hicFptaHJtdUtxcmxxR2xqbzVKR21KeHBzbUpCQUFrdngwWHJyYWIxTW8zSVk3MlZQOXVLWklfMlJzTkZZWmJRMi1lcUU0OUk",
-   "source": "汽车之家",
-   "published_at": "2026-10-18T03:57:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-18T03:57:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nSXY5WmlmdVNRS0hicFptaHJtdUtxcmxxR2xqbzVKR21KeHBzbUpCQUFrdngwWHJyYWIxTW8zSVk3MlZQOXVLWklfMlJzTkZZWmJRMi1lcUU0OUk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "视频：特斯拉你买的不只是一台车",
-   "title_zh": "【视频】特斯拉为什么会飞，其实你买的并不是一台车 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "99990a1a6e55",
-   "title": "TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks ‘Coherent On Paper’ — But China Approval Risks Loom - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGdaUkJ2bHB1cWluVWdERFBaVVdxc3NyQVVSYWM2R2l5b05qR2diWElYeUtLV3Q1X3NTLVpnQU8yZElmSTBZbVVNNTZJOFRST0Q0akYycTk1Ti1sMmYtUVMwcUcyQURKZW1sRWJWWERxdjNoYlcxc21idmVIeHBQTmZ2aDZRbkg5amdLV2JHb1hydW82eU82MW5ITl9qd28zdWFzaXdn",
-   "source": "Stocktwits",
-   "published_at": "2026-10-18T03:57:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-18T03:57:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGdaUkJ2bHB1cWluVWdERFBaVVdxc3NyQVVSYWM2R2l5b05qR2diWElYeUtLV3Q1X3NTLVpnQU8yZElmSTBZbVVNNTZJOFRST0Q0akYycTk1Ti1sMmYtUVMwcUcyQURKZW1sRWJWWERxdjNoYlcxc21idmVIeHBQTmZ2aDZRbkg5amdLV2JHb1hydW82eU82MW5ITl9qd28zdWFzaXdn"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "特斯拉隔夜上涨小摩看合并合理",
-   "title_zh": "特斯拉股价隔夜上涨：小摩称特斯拉-SpaceX合并'纸面上合理'",
-   "sentiment": 1
-  },
-  {
-   "id": "4c36d71f897e",
-   "title": "超越技术强国，迈向目标强国：特斯拉的技术挑战韩国 - 亚洲日报",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tUHkxcFNESUNMVWl2VXA1NFdoMkNFdHN4SkhnTWdoeWZfWXk1WWVTMzVyR2lLSG51cloxRG9wN3ZWZGpyM2JXOTdNdGI2SWtyODdZTTJPcjAxZk0",
-   "source": "亚洲日报",
-   "published_at": "2026-10-18T03:56:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "亚洲日报",
-     "published_at": "2026-10-18T03:56:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tUHkxcFNESUNMVWl2VXA1NFdoMkNFdHN4SkhnTWdoeWZfWXk1WWVTMzVyR2lLSG51cloxRG9wN3ZWZGpyM2JXOTdNdGI2SWtyODdZTTJPcjAxZk0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉技术挑战韩国",
-   "title_zh": "超越技术强国，迈向目标强国：特斯拉的技术挑战韩国",
-   "sentiment": 0
-  },
-  {
-   "id": "a987b8a5f189",
-   "title": "特斯拉市值蒸发超6200亿，飞行汽车被质疑是噱头 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85bVVoXzFyMW52aXhyaUVmRHRZNzB6RU5iR05GdFk2WG14YTJwbFlrOXAxQTVLY0JEdHNFUFdrMDFqNHBxUE1rdDVPX0ZpbS10VnNnaUFqVm1yRS1Kd3k2RWhwMGZzeDE2dVFCdTRYbw",
-   "source": "新浪财经",
-   "published_at": "2026-10-18T03:49:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-18T03:49:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85bVVoXzFyMW52aXhyaUVmRHRZNzB6RU5iR05GdFk2WG14YTJwbFlrOXAxQTVLY0JEdHNFUFdrMDFqNHBxUE1rdDVPX0ZpbS10VnNnaUFqVm1yRS1Kd3k2RWhwMGZzeDE2dVFCdTRYbw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉市值蒸发超6200亿",
-   "title_zh": "特斯拉市值蒸发超6200亿，飞行汽车被质疑是噱头",
    "sentiment": -1
   }
  ]
