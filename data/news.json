@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T09:37:36.474861+00:00",
+ "updated_at": "2026-10-19T09:52:31.025709+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（40条已评分）"
+     "note": "今日新闻情绪 +0.34（44条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-19T09:37:36.467151+00:00"
+   "as_of": "2026-10-19T09:52:31.005701+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 40
+   "avg": 0.34,
+   "count": 44
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "0ad7263c92d1",
+   "title": "特斯拉称不造速成车 网友却不买账 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlh1b0ZJYzZRSldSeG5oRi1BOG1pZXNQM25CVUdZTTE1RHJNeEhpSTN6LWRrbmM2MnJQLTM0RFVtV2ZVNVZFTlBBRDdDSmR2Q1Zza2k4ZE1SYVNfalNQeVdnR3Q1dVVSQlFIclZPQXZobExVc0RSZURVYUNRc2NId0V5dk5IWjFq",
+   "source": "搜狐",
+   "published_at": "2026-10-19T09:46:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-19T09:46:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMlh1b0ZJYzZRSldSeG5oRi1BOG1pZXNQM25CVUdZTTE1RHJNeEhpSTN6LWRrbmM2MnJQLTM0RFVtV2ZVNVZFTlBBRDdDSmR2Q1Zza2k4ZE1SYVNfalNQeVdnR3Q1dVVSQlFIclZPQXZobExVc0RSZURVYUNRc2NId0V5dk5IWjFq"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "d43bebb6487c",
+   "title": "TSLA 特斯拉：本周财报即将公布，关注业绩与未来指引。 META Meta：重点留意AI业务投入及盈利前景。 科技板块... - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZJWmVKUmloSmNZSk9UN1V2bzF0WkYxcE03QXBKVHVjcXl1UHdQdkxtUG9hT2NLNFBva216bXppTXl1S2lrajY1RmVFLWxMYjFuNDRrLTJpOGVRa3JDRFM4Z1M3OEVoZ3pCSEhNcTFoSUdJN3ljbmV2N2dWaWZjaTN1OEM5dmZxUTczNlVNWHZDa2lvTzhZcThVall6ZE03TmRoQUVuVGpPTDNUWl9GSWFTSEk",
+   "source": "Moomoo",
+   "published_at": "2026-10-19T09:35:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-19T09:35:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZJWmVKUmloSmNZSk9UN1V2bzF0WkYxcE03QXBKVHVjcXl1UHdQdkxtUG9hT2NLNFBva216bXppTXl1S2lrajY1RmVFLWxMYjFuNDRrLTJpOGVRa3JDRFM4Z1M3OEVoZ3pCSEhNcTFoSUdJN3ljbmV2N2dWaWZjaTN1OEM5dmZxUTczNlVNWHZDa2lvTzhZcThVall6ZE03TmRoQUVuVGpPTDNUWl9GSWFTSEk"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "c7a4c83da560",
    "title": "Tesla Roadster could target 330 mph with over 1350 hp - The Supercar Blog",
@@ -86,6 +120,23 @@
    "zh_summary": "Roadster极速330英里马力超1350匹",
    "title_zh": "特斯拉Roadster目标极速330英里 马力超1350匹",
    "sentiment": 1
+  },
+  {
+   "id": "42810b59babd",
+   "title": "特斯拉新款Roadster能自主完成特技动作？一文看懂得州环形赛道及量产计划 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uakE5eG9neE9FdDRYUVBVODk4eFMzQldxNGtzVU9DU1FPeE92RmFJaUNueVJxTlIwRVhjYllmU2Q3QlhGdm9oUnE2ejU2SHBCVXF3eUdXLUota1E",
+   "source": "网通社",
+   "published_at": "2026-10-19T09:30:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-19T09:30:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uakE5eG9neE9FdDRYUVBVODk4eFMzQldxNGtzVU9DU1FPeE92RmFJaUNueVJxTlIwRVhjYllmU2Q3QlhGdm9oUnE2ejU2SHBCVXF3eUdXLUota1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "40eed6e28d0c",
@@ -1729,7 +1780,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3B2cXBTSWlUVkhzSHo3czYzZDJXR1MyUFVFdGJnZXVWdkpkbGptbVVFQkNnLXpFekJvaDYzM1pPUGxWcGJpRklLa051dDZLMXBpQTcyWTN3TnpLNFNsNVdwY0xKRTYtT2gxa2Q5MC1JeFVYdFlScW1YNmg4V21oa0cxQWp0eV9r",
    "source": "搜狐",
    "published_at": "2026-10-19T02:05:35+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -1740,6 +1791,11 @@
      "name": "凤凰网",
      "published_at": "2026-10-19T02:10:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xZW5jdjRPVzY4c2VZN3pwMERVSVota3EzclVHalNfTEgyMjZReURGQkRXX1lFMmN5MTdqMTBaRTk3ZjRkUFZyUQ"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-19T02:10:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2aXNwQmVnSlduUXlOekxmeUxLNjktaGY4dDBsQVRjTlVLcW9nZTNNaVg0MVlSZkh5N2czOWs0bl9CYVY2QmZmTDdlTDA"
     }
    ],
    "category": "马斯克",
@@ -2064,12 +2120,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LQUpmeVMxbVk4TkVoYmtzbW9vS3FhdzVkX3BJb1plWXpVMXE4OW1jTHNJMlFOT3YxMDRtQTAzYnhKSU5KRm9nNTlhbjA2M2o1d1pjakR4T3lBcDQ2THpqcndtbTBKd3N4LWRzRndiRkM",
    "source": "中华网",
    "published_at": "2026-10-19T01:21:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "中华网",
      "published_at": "2026-10-19T01:21:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LQUpmeVMxbVk4TkVoYmtzbW9vS3FhdzVkX3BJb1plWXpVMXE4OW1jTHNJMlFOT3YxMDRtQTAzYnhKSU5KRm9nNTlhbjA2M2o1d1pjakR4T3lBcDQ2THpqcndtbTBKd3N4LWRzRndiRkM"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T09:34:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zWXA2UWUtMmlEUGtsS0l5bTNoWlRmaVNsMVVTbHhITDcyRlFrV2NNLWp6UHU4emFNb2JZblUtTVNBeFptU0c1RTBSY0RhZ1pjUjkxN1pxRF9FLUpjUUV4Tk5GMjZFUjdBTlRJ"
     }
    ],
    "category": "其他",
@@ -3319,12 +3380,17 @@
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeXc4NWdoTndoY2R5OGhGTERQQmVuM0UtTUR5MDVWZV9wRjRqNkVOc2RtSXVJWFozUG9EOFhJM3pyWGxxZkVPSUtuNDQybWF3MDZkRmNEZFJ3aW9lQUI3ck03c01oaUJIOEtRdXhESm02TWpMN0dvcE1acW9tMko1aGY3bkxYQy1GLVFfWWcwbG1mS2RhOFBIcWJEa0V2WDJwV29oRU03dERqZ2pfd3NaT3M2X1JQcWVpaWNrejZsOFVZNkNESFhCZHQtc0xfejItbWlCUVpHdVNUS2dMOS04Sw",
    "source": "Stocktwits",
    "published_at": "2026-10-18T17:37:01+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
      "published_at": "2026-10-18T17:37:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeXc4NWdoTndoY2R5OGhGTERQQmVuM0UtTUR5MDVWZV9wRjRqNkVOc2RtSXVJWFozUG9EOFhJM3pyWGxxZkVPSUtuNDQybWF3MDZkRmNEZFJ3aW9lQUI3ck03c01oaUJIOEtRdXhESm02TWpMN0dvcE1acW9tMko1aGY3bkxYQy1GLVFfWWcwbG1mS2RhOFBIcWJEa0V2WDJwV29oRU03dERqZ2pfd3NaT3M2X1JQcWVpaWNrejZsOFVZNkNESFhCZHQtc0xfejItbWlCUVpHdVNUS2dMOS04Sw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T08:31:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSno5VWxiSnJOS1N0aXFvUXpOb01ITHR5XzVxSFhoRV9uWTkxN1k0R3EzSXZFMTRVZFR6N0E3Q0tOTDFDQnNqS21DV3k4OTkxWFNIQ0Z0TDBJY2dReTFvQ3lkWi1qVGo4UUVkUTZucW0waHp6dmV6NzJET1YtOE1qVENvQ09EbXhiZEMwMUdId1ctVlRHYlNhcDE3dUVPX1dLbnVv"
     }
    ],
    "category": "市场宏观",
@@ -6307,76 +6373,6 @@
    "zh_summary": "特斯拉Roadster能否飞引热议",
    "title_zh": "特斯拉Roadster“会飞”是真是假？咱掰开揉碎聊明白 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "06787cc813a5",
-   "title": "特斯拉飞行汽车“不知道归谁管”，路上跑天上飞两头都沾边 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ITktaYjZLNnlySzk4cWdLMzQxaFJ2NzRVS3pmNW1VMFdzTTJwN3VmcmVJeWJIbTM0b1VkRFViNXhqN0JDQjdPS3d2UXg",
-   "source": "凤凰网",
-   "published_at": "2026-10-18T05:52:24+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-18T05:52:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ITktaYjZLNnlySzk4cWdLMzQxaFJ2NzRVS3pmNW1VMFdzTTJwN3VmcmVJeWJIbTM0b1VkRFViNXhqN0JDQjdPS3d2UXg"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T06:10:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnpDTUJlOEVBMVRkR0VvT0dVMkxFeXN5X0QxU2R5LU82NUdxejYxSThfbVFyb2NxTlU2S3JCWTBkNk1qSUJUbXY3S3ZTcndWTmZ6cDN6UGUzZWRFODRIWG1xNm5kdUtCZ1pJdWZkejA2dDB5VmZaLTRVNktveWNPVFRmdVNyM2VsUlUxSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行汽车监管归属引热议",
-   "title_zh": "特斯拉飞行汽车归谁管引热议",
-   "sentiment": 0
-  },
-  {
-   "id": "ebc584b7951b",
-   "title": "特斯拉Roadster飞行版开发 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTVQY184eDFNbWM4X1l6dUxPaHkyVjFhaU52T0swVnhXMnZrMk8xa2UzMVJMZUxNRERYV1YxSDV5QzNIa2xDWEVxNW5sbTczWGNJTGF6S2JLTnk0UFVhcUx6T0JyYnJzeU5SVzUyVE5MYlR4R0lPOFZNYzNYQ1NUdw",
-   "source": "新浪网",
-   "published_at": "2026-10-18T05:46:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T05:46:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTVQY184eDFNbWM4X1l6dUxPaHkyVjFhaU52T0swVnhXMnZrMk8xa2UzMVJMZUxNRERYV1YxSDV5QzNIa2xDWEVxNW5sbTczWGNJTGF6S2JLTnk0UFVhcUx6T0JyYnJzeU5SVzUyVE5MYlR4R0lPOFZNYzNYQ1NUdw"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-19T05:51:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MaVFzMDNERjVoVGFOUVp3dW1QSUVGalJBc05qNm5hcTZ0eXVNemprOGpqM25JRHNCczZvQVA1YXFHamFYNkk1YlFPOFhHN2FzeW9tc194NzZOclVqYmdWUTBCeWNGUDk0RTFF"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉开发Roadster飞行版",
-   "title_zh": "特斯拉Roadster飞行版开发 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "219dd8772ca1",
-   "title": "特斯拉Roadster量产不带火箭飞行功能纯属伪命题 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XLThCVFdxZjI2QlpyU1RoMTJ3dWVTd2FnWk5MdlRPWnFFTGNhM1BuU2lPaU1peDV4enh3VzhDLW5MdFpvckhkNGRLazhfdENFZWFzRWQtc084RHNwb2FZaUp0U2FjNDh2VlM4",
-   "source": "汽车之家",
-   "published_at": "2026-10-18T05:38:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-18T05:38:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XLThCVFdxZjI2QlpyU1RoMTJ3dWVTd2FnWk5MdlRPWnFFTGNhM1BuU2lPaU1peDV4enh3VzhDLW5MdFpvckhkNGRLazhfdENFZWFzRWQtc084RHNwb2FZaUp0U2FjNDh2VlM4"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Roadster量产无火箭飞行功能",
-   "title_zh": "特斯拉Roadster量产不带火箭飞行功能纯属伪命题 - 汽车之家",
-   "sentiment": -1
   }
  ]
 }
