@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T16:37:29.116195+00:00",
+ "updated_at": "2026-10-19T16:52:29.177407+00:00",
  "market": {
-  "price": 369.18,
-  "change_pct": 4.08,
+  "price": 369.1,
+  "change_pct": 4.05,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +8.3%"
+     "note": "目标价中位数 $400（16家），隐含空间 +8.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（188条已评分）"
+     "note": "今日新闻情绪 +0.27（193条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $369.18 vs 20日均线 $370.03"
+     "note": "现价 $369.10 vs 20日均线 $370.02"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 37,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 8.3,
-   "ma20": 370.03,
-   "as_of": "2026-10-19T16:37:29.109381+00:00"
+   "implied_upside_pct": 8.4,
+   "ma20": 370.02,
+   "as_of": "2026-10-19T16:52:29.161621+00:00"
   },
   "pe_ttm": 102.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.27,
-   "count": 188
+   "count": 193
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f18420801c42",
+   "title": "马斯克称特斯拉新车唯一保留手动驾驶，追求纯粹驾驶乐趣 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTg1LUNLd3dVbFV6aWlwNTFBei1fYThGRTVQWDltSzNVYTNlanByb1NEdFV1YllCVU5LYVhNdzdZMm55aDJtZWxXbXlwc3M5UnNTSWM0bV9NaDRnSW9jOEg0NFBqYVBGU1d4N3c0RndvcklNMEY3NUVSMWZORUFiTQ",
+   "source": "新浪网",
+   "published_at": "2026-10-19T16:46:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T16:46:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTg1LUNLd3dVbFV6aWlwNTFBei1fYThGRTVQWDltSzNVYTNlanByb1NEdFV1YllCVU5LYVhNdzdZMm55aDJtZWxXbXlwc3M5UnNTSWM0bV9NaDRnSW9jOEg0NFBqYVBGU1d4N3c0RndvcklNMEY3NUVSMWZORUFiTQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
+   "id": "e84984fac793",
+   "title": "Tesla Stock Trends Higher: What's Going On? - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblJ2U2VlZmdxNld3NTAtbUM1a3BPdjFaZW5JcjlnWEZJbU5iSHdOdm9lcTVlNDNOLW51dUtGWEJEb3FJekhtUlJXRUtuLXlBNjFJamlmaHVpWl9mWVlnZDd2eUx4YWZRdXBxTTJOejVudnFCR21TXzloTERCLWpXNlc3Q1J2RGtfX1h2OGZVOTU4c00yWWQzZ2Ztcmg0M0FKaG04",
+   "source": "Benzinga",
+   "published_at": "2026-10-19T16:38:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-19T16:38:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblJ2U2VlZmdxNld3NTAtbUM1a3BPdjFaZW5JcjlnWEZJbU5iSHdOdm9lcTVlNDNOLW51dUtGWEJEb3FJekhtUlJXRUtuLXlBNjFJamlmaHVpWl9mWVlnZDd2eUx4YWZRdXBxTTJOejVudnFCR21TXzloTERCLWpXNlc3Q1J2RGtfX1h2OGZVOTU4c00yWWQzZ2Ztcmg0M0FKaG04"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "a38485572044",
    "title": "Elon Musk’s Tesla Pay In 2025 Was Over 2.5 Million Times Its Median Employee Salary - Forbes",
@@ -6199,6 +6233,23 @@
    "sentiment": 1
   },
   {
+   "id": "188c9e6a01d8",
+   "title": "SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQZG5YMVdVbVp3Z0czQU1icFFLWVUtM0toaFZYT01CaEFsdlU0aDZBM2RGcFZpRmxUZnJYR3hBZkVhVTU0LXVwTFNEY3ptTFJGbDl6bWRLMWhfRFJlQmpRTVNCckFwbXNMMHZMM2ptYk5XUQ",
+   "source": "Teslarati",
+   "published_at": "2026-10-18T22:03:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-18T22:03:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQZG5YMVdVbVp3Z0czQU1icFFLWVUtM0toaFZYT01CaEFsdlU0aDZBM2RGcFZpRmxUZnJYR3hBZkVhVTU0LXVwTFNEY3ptTFJGbDl6bWRLMWhfRFJlQmpRTVNCckFwbXNMMHZMM2ptYk5XUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "22fc3ff66d26",
    "title": "Meta, Tesla and Netflix Q3 Updates Coming This Week - The Information",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbW9lcjBTSl8tMElzazgxbURkV2wzZF9FeEVzUlpUaEw4OHVVX0xfU0IzTzJlZ1gydk9PZ3A2VEQwQ3BSemNseVQtR1VpU2hXWXFvcy1kS0JRS3JzTGprbE1lS3NaV3o5VUdkcUp2NUVNYTZEclkzdmFHaUhwSk1FR0xELVN4U09KMlpQX1BKSDRoa2NOcjgxRHQwNy1Idw",
@@ -6396,66 +6447,6 @@
    "session": "周末",
    "zh_summary": "特斯拉详解“会飞”的新车",
    "title_zh": "特斯拉详解“会飞”的新车有多疯狂？真正狠的是… - 文学城",
-   "sentiment": 0
-  },
-  {
-   "id": "98563cdb2887",
-   "title": "网友用AI设计出以后特斯拉的出行方式！ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXJRaG14LU9XdDFNRWZhYmxpdURsZ0ttVzRuU1pGSWZlU3lyOFNzYVBSQWw3WVVHaF9VQUV2aXBuUUk2eFJTb1RmQ3ZIVkxJTENoWGtleThlSXIxZW5BN0VyanVEbVVvdk5DQ1dyajZ3anNOaUM3VjFUajFKRDJ6eQ",
-   "source": "新浪网",
-   "published_at": "2026-10-18T20:31:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T20:31:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXJRaG14LU9XdDFNRWZhYmxpdURsZ0ttVzRuU1pGSWZlU3lyOFNzYVBSQWw3WVVHaF9VQUV2aXBuUUk2eFJTb1RmQ3ZIVkxJTENoWGtleThlSXIxZW5BN0VyanVEbVVvdk5DQ1dyajZ3anNOaUM3VjFUajFKRDJ6eQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "网友用AI设计特斯拉未来出行",
-   "title_zh": "网友用AI设计出以后特斯拉的出行方式！ - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "79aebd5906f5",
-   "title": "Tesla’s Flying Roadster and the SpaceX Halo - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLQi1aV2hJVS0tdGtPWjJBMWpPQW9qZlZsTUJQazd4bnV6bVRzZU9TNWthZ2Njd0luclZRU1RrczhlTjVmT1g3cDRNSVd3THNYVEwzSHBFSThyNlFfWmtXN0JUMHctbXJPUGlHZzFLQ3dmYk5kdDVKVmU1djA1OTA",
-   "source": "Barron's",
-   "published_at": "2026-10-18T20:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-18T20:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLQi1aV2hJVS0tdGtPWjJBMWpPQW9qZlZsTUJQazd4bnV6bVRzZU9TNWthZ2Njd0luclZRU1RrczhlTjVmT1g3cDRNSVd3THNYVEwzSHBFSThyNlFfWmtXN0JUMHctbXJPUGlHZzFLQ3dmYk5kdDVKVmU1djA1OTA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "巴伦周刊谈飞行Roadster与SpaceX光环",
-   "title_zh": "特斯拉飞行Roadster与SpaceX光环",
-   "sentiment": 1
-  },
-  {
-   "id": "e00ead396915",
-   "title": "5 Technologies Make Tesla Roadster a $250K Outlier [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6bjAtYU9xZHVQUi1RRElXWFJLYWZJTkdnakxlUGd5a2JjTW5hSHBNR1duVW4zMjRGZG83WXQycDdFbk12bHdWNTNBMkdwaWJRWlE0Y0V5QVZVYm5GUWtsVi0wMGZmNUJaWjBFV3dlU25WajlSMVpfWDVjYWFMUQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-18T20:10:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-18T20:10:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6bjAtYU9xZHVQUi1RRElXWFJLYWZJTkdnakxlUGd5a2JjTW5hSHBNR1duVW4zMjRGZG83WXQycDdFbk12bHdWNTNBMkdwaWJRWlE0Y0V5QVZVYm5GUWtsVi0wMGZmNUJaWjBFV3dlU25WajlSMVpfWDVjYWFMUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "解析特斯拉Roadster五项技术",
-   "title_zh": "让特斯拉Roadster成为$250K异类的五项技术",
    "sentiment": 0
   }
  ]
