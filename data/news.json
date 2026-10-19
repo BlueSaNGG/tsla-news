@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T14:07:31.441219+00:00",
+ "updated_at": "2026-10-19T14:22:48.655727+00:00",
  "market": {
-  "price": 361.12,
-  "change_pct": 1.8,
+  "price": 365.64,
+  "change_pct": 3.08,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 33% 分位"
+     "note": "现价处于52周区间 35% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +10.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +9.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（142条已评分）"
+     "note": "今日新闻情绪 +0.25（148条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $361.12 vs 20日均线 $369.62"
+     "note": "现价 $365.64 vs 20日均线 $369.85"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 33,
+   "price_52w_pct": 35,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 10.8,
-   "ma20": 369.62,
-   "as_of": "2026-10-19T14:07:31.439004+00:00"
+   "implied_upside_pct": 9.4,
+   "ma20": 369.85,
+   "as_of": "2026-10-19T14:22:48.647976+00:00"
   },
-  "pe_ttm": 99.9,
+  "pe_ttm": 101.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+10.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 142
+   "avg": 0.25,
+   "count": 148
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "2dcc83d01ad0",
+   "title": "Elon Musk Promises Tesla Roadster Owners a Wild Looping Track - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjBNNVQ0M0UxbzlEOVdtZDZhZzZzQ3VPNWgzX3VGVEhzeFFaRi1kdkZvMjlHb0h6bXgyQ2FuRkNCcmxOSkg3aDd6cWFreGlBcGl5N0RNS3lzTHFxN1ZUMEhhY254S1hVTnRKUlhMQjVTdmE1bXkzamVrZmkxWmRpalpjQjJqZjFqc2Y0c3lxenI0Rks1SkE",
+   "source": "Autoblog",
+   "published_at": "2026-10-19T14:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-19T14:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjBNNVQ0M0UxbzlEOVdtZDZhZzZzQ3VPNWgzX3VGVEhzeFFaRi1kdkZvMjlHb0h6bXgyQ2FuRkNCcmxOSkg3aDd6cWFreGlBcGl5N0RNS3lzTHFxN1ZUMEhhY254S1hVTnRKUlhMQjVTdmE1bXkzamVrZmkxWmRpalpjQjJqZjFqc2Y0c3lxenI0Rks1SkE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "1b3bb9993ec4",
+   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUpzOXdpajN0Tm1DbmtXN1RZa2k0UGl4MnBnREVhcXBPbnM2M3Q4NHVFaExfd25mVnhQTGVoT05KdUV4NkZmUlQ1TzFMRTN0N0VFSTQ0YW1kQWdVbVNKeko0Y2hIZERnUGp3eEpHeDYya0hxX3NTVTFIUXJiLVp3Wk9QZw",
+   "source": "Electrek",
+   "published_at": "2026-10-19T14:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-19T14:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUpzOXdpajN0Tm1DbmtXN1RZa2k0UGl4MnBnREVhcXBPbnM2M3Q4NHVFaExfd25mVnhQTGVoT05KdUV4NkZmUlQ1TzFMRTN0N0VFSTQ0YW1kQWdVbVNKeko0Y2hIZERnUGp3eEpHeDYya0hxX3NTVTFIUXJiLVp3Wk9QZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "f2fa957fbdb9",
+   "title": "Tesla Sets December 3 Shareholder Meeting: What's on the Ballot - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVNSMk5oaVlwdEJnYTBNN05oMndoS0h3bmU5aV9nOWJmU2lQWTRtM1NqZURhSVBpSVVtM2syeXBDUnhYdzdubUFkYm1yVG1COHhkNWhJODI1RFpaX0RNa0FlVlBPamtMYllBVnpsd2lGbTZrR1o5c3ljWXVuVUpJLXg0MGFHbENNelNOcUZyYlpfMEtmRVhRN2tleUw",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-19T14:03:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-19T14:03:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVNSMk5oaVlwdEJnYTBNN05oMndoS0h3bmU5aV9nOWJmU2lQWTRtM1NqZURhSVBpSVVtM2syeXBDUnhYdzdubUFkYm1yVG1COHhkNWhJODI1RFpaX0RNa0FlVlBPamtMYllBVnpsd2lGbTZrR1o5c3ljWXVuVUpJLXg0MGFHbENNelNOcUZyYlpfMEtmRVhRN2tleUw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "cec67a820742",
    "title": "【视频】特斯拉Roadster已经飞了，我们却还在卷彩电冰箱大沙发 - 车家号",
@@ -386,6 +437,23 @@
    "zh_summary": "特斯拉新款Roadster亮相可悬空",
    "title_zh": "特斯拉Roadster亮相，Cantor维持485美元目标价",
    "sentiment": 1
+  },
+  {
+   "id": "3db3ff0f3993",
+   "title": "两分钟发布会 特斯拉飞行汽车发布！马斯克能飞 28年量产 Tesla Roadster - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVdmMS1jV01BUWdhZkRuc09zYzhCMXdRTDBzSlRRSnhUMVBnc044ekcxTFlxSU02M18wV0xUVFF0NEVpcW43VXQwUWlBMk9XSU11SGQ5TVJBaFNCdmJaRGhiNnF0Mmp1OUFibl85UHBORDl5azJPZ00zTGNhOXFocA",
+   "source": "新浪网",
+   "published_at": "2026-10-19T12:52:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-19T12:52:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVdmMS1jV01BUWdhZkRuc09zYzhCMXdRTDBzSlRRSnhUMVBnc044ekcxTFlxSU02M18wV0xUVFF0NEVpcW43VXQwUWlBMk9XSU11SGQ5TVJBaFNCdmJaRGhiNnF0Mmp1OUFibl85UHBORDl5azJPZ00zTGNhOXFocA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "ef8dbddffe15",
@@ -2422,17 +2490,34 @@
    "sentiment": 0
   },
   {
+   "id": "e160b30b047a",
+   "title": "特斯拉Roadster展示贴壁倒挂，冷气推进系统推力超80千牛 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13VE5jZndPdjEwaWp1U0VZWm9Ma09nYkZ4d2p5QkNYNTJ6Vk9Jc0Z0RV9UR0tpMkFwRHg0VXBBX1pfTmRTWjl0QUplUEJBR0xxTXVQRVhSdkRQT3c",
+   "source": "汽车之家",
+   "published_at": "2026-10-19T08:17:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-19T08:17:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13VE5jZndPdjEwaWp1U0VZWm9Ma09nYkZ4d2p5QkNYNTJ6Vk9Jc0Z0RV9UR0tpMkFwRHg0VXBBX1pfTmRTWjl0QUplUEJBR0xxTXVQRVhSdkRQT3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "8142859346b6",
    "title": "特斯拉回应“速成车”争议：没有速成车，没有4S店，全直营 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOFN5eHhjUFdIdHRpckFaYVRJNHRkYlFweVFFSjdMZGdIb1JBdW5Ea1lUZ1daakxmMnA4Y09tYkM2QXVxVmttSDcxNHI5OU95SHVqdGhHRHQ5cWg5VDctQTFMNEhwSTUyYklv",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41MUZGOE5jTF9HZzI3T0cwVWRPY2swd2xRYkQ4eDZvSG45Z1l1b3AzYjZEV1RocXV1VWhqNThwaGhnYV9fM0xiT0M2em4tOHhxUkp4SHNvc0d3V00",
    "source": "汽车之家",
-   "published_at": "2026-10-19T08:18:15+00:00",
+   "published_at": "2026-10-19T08:17:44+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-10-19T08:18:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOFN5eHhjUFdIdHRpckFaYVRJNHRkYlFweVFFSjdMZGdIb1JBdW5Ea1lUZ1daakxmMnA4Y09tYkM2QXVxVmttSDcxNHI5OU95SHVqdGhHRHQ5cWg5VDctQTFMNEhwSTUyYklv"
+     "published_at": "2026-10-19T08:17:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41MUZGOE5jTF9HZzI3T0cwVWRPY2swd2xRYkQ4eDZvSG45Z1l1b3AzYjZEV1RocXV1VWhqNThwaGhnYV9fM0xiT0M2em4tOHhxUkp4SHNvc0d3V00"
     },
     {
      "name": "风闻",
@@ -6346,106 +6431,6 @@
    "zh_summary": "特斯拉汽车在格伦多拉高速坠毁起火",
    "title_zh": "一辆特斯拉在格伦多拉高速匝道坠毁起火",
    "sentiment": -1
-  },
-  {
-   "id": "a62a6fa00296",
-   "title": "Tesla Crashes and Burns on Freeway Transition; Forces Closure in Glendora - MyNewsLA.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlc1Rm9Xc3dNN01OUXpiZ3RzWEZ6Q1JKNmRBa2I5d0FtZmllNklpTFNHNkdqMnZQenNMVzBIRVd3SGQ2Y0gwWXJUY1R4bDBzV3AwU05GTUhHTDVCdmdrdzNYRTFwUmNHN0xzakNEMFpQakdBM0Npak5oZHR3Y0xFdnd3UHZIbWc0enRvc2poTDBDX21zbkYzc0Y5RlB1NVVraDU4YWNtQU16SFBBMzZlMXhOYUM",
-   "source": "MyNewsLA.com",
-   "published_at": "2026-10-18T14:26:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MyNewsLA.com",
-     "published_at": "2026-10-18T14:26:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlc1Rm9Xc3dNN01OUXpiZ3RzWEZ6Q1JKNmRBa2I5d0FtZmllNklpTFNHNkdqMnZQenNMVzBIRVd3SGQ2Y0gwWXJUY1R4bDBzV3AwU05GTUhHTDVCdmdrdzNYRTFwUmNHN0xzakNEMFpQakdBM0Npak5oZHR3Y0xFdnd3UHZIbWc0enRvc2poTDBDX21zbkYzc0Y5RlB1NVVraDU4YWNtQU16SFBBMzZlMXhOYUM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车辆事故引发高速封闭",
-   "title_zh": "特斯拉车辆在高速转换道起火致封闭",
-   "sentiment": -1
-  },
-  {
-   "id": "1aff6af4b41f",
-   "title": "特斯拉Roadster回应上路合法性：取决于街道，2028年量产 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ODgybjI4emRlNGVnS2l2SlNjQXR6UUVxXzRyX1BsT1BhYUpxZUV6Nnd6RjEwS3lVQ1lsOWpMOEd5RlNPeWdmazZYeW0wdGFxZjdNMlRIUUdNaG8",
-   "source": "网通社",
-   "published_at": "2026-10-18T14:16:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-18T14:16:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ODgybjI4emRlNGVnS2l2SlNjQXR6UUVxXzRyX1BsT1BhYUpxZUV6Nnd6RjEwS3lVQ1lsOWpMOEd5RlNPeWdmazZYeW0wdGFxZjdNMlRIUUdNaG8"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Roadster上路合法性存疑，2028年量产",
-   "title_zh": "特斯拉Roadster回应上路合法性：取决于街道，2028年量产",
-   "sentiment": -1
-  },
-  {
-   "id": "77fa44c7e5e8",
-   "title": "Tesla's flying Roadster lands in a legal gray area — even Elon Musk admits he's not sure it's street-legal - MoneyWise.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG9SZTZISVpYY1VxLXNuMVI3Vmtqbk1Wc0IyYnpsemtuMThWOURmLTRkWmFhdVNTUTdkMXRIb2VwcnhsU29nOHhvd3Z6YU5zVVBPZmhub1hfY0hNWFFvQTRkY0E1Y2dNRDVvY0gtNUtlc2F3NzNMYjNVdlZKTGN6VW15QzdSYnBY",
-   "source": "MoneyWise.com",
-   "published_at": "2026-10-18T14:16:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MoneyWise.com",
-     "published_at": "2026-10-18T14:16:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG9SZTZISVpYY1VxLXNuMVI3Vmtqbk1Wc0IyYnpsemtuMThWOURmLTRkWmFhdVNTUTdkMXRIb2VwcnhsU29nOHhvd3Z6YU5zVVBPZmhub1hfY0hNWFFvQTRkY0E1Y2dNRDVvY0gtNUtlc2F3NzNMYjNVdlZKTGN6VW15QzdSYnBY"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "飞行Roadster合法性存疑",
-   "title_zh": "飞行Roadster陷入法律灰色地带，马斯克承认不确定能否上路",
-   "sentiment": -1
-  },
-  {
-   "id": "70c16c9c5652",
-   "title": "Even Elon Musk isn't sure Tesla's flying Roadster is legal — but he still says it'll be a real car you can buy - MoneyWise.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG9SZTZISVpYY1VxLXNuMVI3Vmtqbk1Wc0IyYnpsemtuMThWOURmLTRkWmFhdVNTUTdkMXRIb2VwcnhsU29nOHhvd3Z6YU5zVVBPZmhub1hfY0hNWFFvQTRkY0E1Y2dNRDVvY0gtNUtlc2F3NzNMYjNVdlZKTGN6VW15QzdSYnBY",
-   "source": "MoneyWise.com",
-   "published_at": "2026-10-18T14:16:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MoneyWise.com",
-     "published_at": "2026-10-18T14:16:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG9SZTZISVpYY1VxLXNuMVI3Vmtqbk1Wc0IyYnpsemtuMThWOURmLTRkWmFhdVNTUTdkMXRIb2VwcnhsU29nOHhvd3Z6YU5zVVBPZmhub1hfY0hNWFFvQTRkY0E1Y2dNRDVvY0gtNUtlc2F3NzNMYjNVdlZKTGN6VW15QzdSYnBY"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "马斯克称飞行Roadster会是真车可买",
-   "title_zh": "马斯克也不确定飞行Roadster是否合法，但称会是可买到的真车",
-   "sentiment": 0
-  },
-  {
-   "id": "3de584cd1d85",
-   "title": "Police Officer Accuses Tesla Owner of Reckless Driving, but Video Evidence Changes Everything - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHd5WG54S0dzUWVOc3p3SmFsRGJqMlVpLXl6R1ptWXI4VVV3aGlDMzNicjZwc1FYYTY1amdsYnpXamNTcmZ3M2E2cFpDbmJ1dWFsaFp5dk1zajV1RkZ2MUhDM09acmhXRVk3d0pFb19iaVFpSDhYV1ZwQXhVa1ptd1hjX0kxRzFTdXlUU2dHZWtIUQ",
-   "source": "Yahoo",
-   "published_at": "2026-10-18T14:15:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-18T14:15:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHd5WG54S0dzUWVOc3p3SmFsRGJqMlVpLXl6R1ptWXI4VVV3aGlDMzNicjZwc1FYYTY1amdsYnpXamNTcmZ3M2E2cFpDbmJ1dWFsaFp5dk1zajV1RkZ2MUhDM09acmhXRVk3d0pFb19iaVFpSDhYV1ZwQXhVa1ptd1hjX0kxRzFTdXlUU2dHZWtIUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "视频证据为特斯拉车主澄清",
-   "title_zh": "警官指控特斯拉车主危险驾驶，视频证据反转局面",
-   "sentiment": 1
   }
  ]
 }
