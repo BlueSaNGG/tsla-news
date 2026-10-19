@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T01:37:37.234021+00:00",
+ "updated_at": "2026-10-19T01:52:32.097191+00:00",
  "market": {
   "price": 354.72,
   "change_pct": -2.13,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.03（199条已评分）"
+     "note": "今日新闻情绪 -0.04（207条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 12.8,
    "ma20": 370.33,
-   "as_of": "2026-10-19T01:37:37.221556+00:00"
+   "as_of": "2026-10-19T01:52:32.087876+00:00"
   },
   "pe_ttm": 98.1,
   "pe_pct_5y": 47,
   "valuation_sentence": "现价处5年P/E 47%分位，目标价隐含+12.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.03,
-   "count": 199
+   "avg": -0.04,
+   "count": 207
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d9beb5062822",
+   "title": "特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展 - 雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmbE1sdHZDRWEzdU9LSUpSTHZlTHo2NTRhZmY2MGxZamdISHhtcGtVbVlxRHYwc1BmV0VLNzBBOFFnczdDTEdCSkllUmJzNHd3NU5QQVI1TDF6eVFaQkpMX2FWc3FEd3ZOZmN4LXRxdw",
+   "source": "雷峰网",
+   "published_at": "2026-10-19T01:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "雷峰网",
+     "published_at": "2026-10-19T01:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmbE1sdHZDRWEzdU9LSUpSTHZlTHo2NTRhZmY2MGxZamdISHhtcGtVbVlxRHYwc1BmV0VLNzBBOFFnczdDTEdCSkllUmJzNHd3NU5QQVI1TDF6eVFaQkpMX2FWc3FEd3ZOZmN4LXRxdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
   {
    "id": "bcd5227be3ad",
    "title": "【视频】第二代Roadster发布，才懂为什么特斯拉Model3/Y不换代 - 车家号",
@@ -83,9 +100,26 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "【视频】第二代Roadster发布，才懂为什么特斯拉Model3/Y不换代 - 车家号",
    "zh_summary": "第二代Roadster发布解读",
+   "title_zh": "【视频】第二代Roadster发布，才懂为什么特斯拉Model3/Y不换代 - 车家号",
    "sentiment": 0
+  },
+  {
+   "id": "fb1a6cedb213",
+   "title": "特斯拉Roadster“一飞冲天”，但被指不符“飞行器”定义 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wZFJzN2pJLXU5aFlSdldtZGpRWDF5UlpkU2l2akp4Zk4tcjdVeGlGdzJKZkNOa3lsN2tTLXZSd19vMm9kSFI3MlFEZmFSWHhMYmZVaWg1SnUtZmhk",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-19T01:27:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-19T01:27:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wZFJzN2pJLXU5aFlSdldtZGpRWDF5UlpkU2l2akp4Zk4tcjdVeGlGdzJKZkNOa3lsN2tTLXZSd19vMm9kSFI3MlFEZmFSWHhMYmZVaWg1SnUtZmhk"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "422f02a7e80a",
@@ -103,8 +137,8 @@
    ],
    "category": "车型产品",
    "session": "周末",
-   "title_zh": "马斯克展示飞行跑车：特斯拉转向机器人战略，将大众市场拱手让给中国车企 - 凤凰网",
    "zh_summary": "马斯克展示飞行跑车转向机器人战略",
+   "title_zh": "马斯克展示飞行跑车：特斯拉转向机器人战略，将大众市场拱手让给中国车企 - 凤凰网",
    "sentiment": -1
   },
   {
@@ -123,8 +157,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "飞起来的特斯拉 - 搜狐",
    "zh_summary": "特斯拉飞行跑车亮相",
+   "title_zh": "飞起来的特斯拉 - 搜狐",
    "sentiment": 0
   },
   {
@@ -143,8 +177,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "特斯拉市值蒸发6200亿 飞行秀难挽颓势 - 中华网",
    "zh_summary": "特斯拉市值蒸发6200亿",
+   "title_zh": "特斯拉市值蒸发6200亿 飞行秀难挽颓势 - 中华网",
    "sentiment": -2
   },
   {
@@ -243,8 +277,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "$特斯拉 (TSLA.US)$ 这玩意救不了你吗？[裂开] - Moomoo",
    "zh_summary": "Moomoo帖子质疑特斯拉",
+   "title_zh": "$特斯拉 (TSLA.US)$ 这玩意救不了你吗？[裂开] - Moomoo",
    "sentiment": -1
   },
   {
@@ -528,8 +562,8 @@
    ],
    "category": "分析师",
    "session": "周末",
-   "title_zh": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限 - 财联社",
    "zh_summary": "分析师称飞行特斯拉商业价值有限",
+   "title_zh": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限 - 财联社",
    "sentiment": 0
   },
   {
@@ -798,8 +832,8 @@
    ],
    "category": "财报",
    "session": "周末",
-   "title_zh": "Meta、特斯拉与Netflix本周发布三季度更新",
    "zh_summary": "Meta特斯拉Netflix本周发三季度更新",
+   "title_zh": "Meta、特斯拉与Netflix本周发布三季度更新",
    "sentiment": 0
   },
   {
@@ -2953,6 +2987,23 @@
    "sentiment": 0
   },
   {
+   "id": "ad9e28337e94",
+   "title": "马斯克曝新进展：得州将为特斯拉 Roadster规划专属环形赛道 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRE1sSVVlb3EwRmlmQUxldXZUY195UjN6WS1CQWNLengyb1puSkFYSS1GOVYyLWtjZEFOX1JTNUpCMGFXYzRWd1J1Q3ppRUNMeGN4SjR2RjZ6NjBHMU5Bbg",
+   "source": "东方财富",
+   "published_at": "2026-10-18T10:24:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-18T10:24:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RRE1sSVVlb3EwRmlmQUxldXZUY195UjN6WS1CQWNLengyb1puSkFYSS1GOVYyLWtjZEFOX1JTNUpCMGFXYzRWd1J1Q3ppRUNMeGN4SjR2RjZ6NjBHMU5Bbg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
+  },
+  {
    "id": "a9a187b5cfeb",
    "title": "马斯克：特斯拉开发专用议价机器人 每年可节省成本最高6万亿美元 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0w2ZHZRTWNPRlF2eTBvQ1dDRUJDWGZ4UWppWDRiMnFwWjZqSWo2bk9JcElpNWJqTzJLdnktaHVxOUNYSUJLTkI3LW4zZUV2Yi1vUXFwNUhTV2RqaXV3MlROQzFNZVB4X2VXNUxORWNyRHVTWE5wLXlOcS0wTndENndhNHV0dEg3UU5n",
@@ -3943,8 +3994,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "是的，特斯拉真造了一辆「飞行汽车」！ - 新浪网",
    "zh_summary": "特斯拉推出飞行汽车",
+   "title_zh": "是的，特斯拉真造了一辆「飞行汽车」！ - 新浪网",
    "sentiment": 1
   },
   {
@@ -5835,26 +5886,6 @@
    "sentiment": 0
   },
   {
-   "id": "f25b3741828f",
-   "title": "特斯拉都飞了，还要自动驾驶？ - ThePaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RS1NMmtFMlV5NU95TERFMDVtQU1vT2ZJdW5vcmY3MzNZb0FnTTlJbVkxeHFZOW1UaUNUa0FkTjdxNmJzdGVpNG9DT1Jvam1pVkl6NV9ETXB0M0hEbnBaSA",
-   "source": "ThePaper.cn",
-   "published_at": "2026-10-17T23:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ThePaper.cn",
-     "published_at": "2026-10-17T23:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RS1NMmtFMlV5NU95TERFMDVtQU1vT2ZJdW5vcmY3MzNZb0FnTTlJbVkxeHFZOW1UaUNUa0FkTjdxNmJzdGVpNG9DT1Jvam1pVkl6NV9ETXB0M0hEbnBaSA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉腾空后还要自动驾驶吗",
-   "title_zh": "特斯拉都飞了，还要自动驾驶？ - ThePaper.cn",
-   "sentiment": 0
-  },
-  {
    "id": "c9c24468a34d",
    "title": "韩国工程师指控特斯拉施压三星压低AI芯片报价 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9URTFqam9wZVVxaW5Ja09YWFNhYUh1V0x2dTBtM0djZWlNMmdQOW02OC10a19PLUJYWFJ0TDVSQ3pEbFl2UkdxLTM1WkpmRnFtVW14ZHNjUVRXbTdnQmc2OVBvRW1TOXJNVkdpeld2NV8",
@@ -6338,46 +6369,6 @@
    "session": "周末",
    "zh_summary": "特斯拉飞车实验创新看点多",
    "title_zh": "特斯拉飞车实验震撼全网，创新看点多，但买车千万别盲目跟风 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "0e20e4482452",
-   "title": "Tesla Roadster Must Satisfy 2 Rulebooks to Fly [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieTladHpTcDQyMzVtUFJILWo1eXV0U25yNE5nWS1LVVRIelFVNF84cWhsbjIzcUdHUGlyZzN4aHBoZHFKelZiOVZRd0pfTnAtM2IxaG5JT3h2elNfZE9OalJNWVRxTlpmY0tDLXJqWnI",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-17T20:54:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-17T20:54:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieTladHpTcDQyMzVtUFJILWo1eXV0U25yNE5nWS1LVVRIelFVNF84cWhsbjIzcUdHUGlyZzN4aHBoZHFKelZiOVZRd0pfTnAtM2IxaG5JT3h2elNfZE9OalJNWVRxTlpmY0tDLXJqWnI"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster飞行需满足两套法规",
-   "title_zh": "特斯拉Roadster飞行须满足两套法规",
-   "sentiment": -1
-  },
-  {
-   "id": "eb918d46377c",
-   "title": "马斯克 人类驾驶终结者？#透过财经看世界##一分钟视频创作季##马斯克##飞行汽车##特斯拉roadster# ​ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTVsNmdBNm1QQUZOUHF4Nk1VdHpUT3dvM0M0N2gwWDgwU09mU19MaHhKWXJEWGJsb1Fzb1lsaEhpVzFGNndUYzJ1SFc0Mk1yS3h4a090aEFkTUJsUVhLUlJ2WDNRd1NvZkN2U0NyVkRsaU9kUHZqNTE1cmRyYXlMZQ",
-   "source": "新浪网",
-   "published_at": "2026-10-17T20:40:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T20:40:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTVsNmdBNm1QQUZOUHF4Nk1VdHpUT3dvM0M0N2gwWDgwU09mU19MaHhKWXJEWGJsb1Fzb1lsaEhpVzFGNndUYzJ1SFc0Mk1yS3h4a090aEFkTUJsUVhLUlJ2WDNRd1NvZkN2U0NyVkRsaU9kUHZqNTE1cmRyYXlMZQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster飞行汽车引关注",
-   "title_zh": "马斯克 人类驾驶终结者？",
    "sentiment": 0
   }
  ]
