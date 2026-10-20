@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T13:37:31.861619+00:00",
+ "updated_at": "2026-10-20T13:52:38.808790+00:00",
  "market": {
-  "price": 367.1,
-  "change_pct": -0.26,
+  "price": 367.92,
+  "change_pct": -0.04,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +9.0%"
+     "note": "目标价中位数 $400（16家），隐含空间 +8.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（118条已评分）"
+     "note": "今日新闻情绪 +0.27（120条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $367.10 vs 20日均线 $369.40"
+     "note": "现价 $367.92 vs 20日均线 $369.42"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 36,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 9.0,
-   "ma20": 369.4,
-   "as_of": "2026-10-20T13:37:31.845278+00:00"
+   "implied_upside_pct": 8.7,
+   "ma20": 369.42,
+   "as_of": "2026-10-20T13:52:38.797658+00:00"
   },
-  "pe_ttm": 101.5,
+  "pe_ttm": 101.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 118
+   "avg": 0.27,
+   "count": 120
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "5c9e61552f3a",
+   "title": "【视频】特斯拉Roadster怎么飞？飞多久？代价是什么？一条视频告诉你 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40ZW13VFlueEFnSlY2SExWOXluLUUybG42SlpmZERBZWlqSUpWMFMwb1NvWFFQa1NzZjA1QlROeE9WallNR1JsTnhkeWFMcmVtT0JoYVBocXRLQkE",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T13:41:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T13:41:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40ZW13VFlueEFnSlY2SExWOXluLUUybG42SlpmZERBZWlqSUpWMFMwb1NvWFFQa1NzZjA1QlROeE9WallNR1JsTnhkeWFMcmVtT0JoYVBocXRLQkE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b008ad6b7e84",
+   "title": "Tesla Roadster Thrust Costs $250,000 to Reserve - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnFsRGhZTjlkMGZkald1Q0dFWktaTWF3UDNkSHVrNEFHWVlLWV9SbjVjSUJlNHFLdFlXX25KVVpWUFhDZnoyc2JIT1U3QmdYS3JjbkFQcDczYmRvSXpyUjdManNmZE1TWkxLTXpQZ3NYa0VIc3ZLN0xWRUlLU2I2VzlhRGJJUjhISUJfaTB5T0M",
+   "source": "Technology Org",
+   "published_at": "2026-10-20T13:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-20T13:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnFsRGhZTjlkMGZkald1Q0dFWktaTWF3UDNkSHVrNEFHWVlLWV9SbjVjSUJlNHFLdFlXX25KVVpWUFhDZnoyc2JIT1U3QmdYS3JjbkFQcDczYmRvSXpyUjdManNmZE1TWkxLTXpQZ3NYa0VIc3ZLN0xWRUlLU2I2VzlhRGJJUjhISUJfaTB5T0M"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "87cececc90a7",
+   "title": "SpaceX And Tesla Prepare Side By Side Earnings Reports Amid Merger Speculation - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdTgzcVpzQkh4U3VyNkprZnV0eDN1U0hOZThKRHpTSVZBQWZWTVN6Y3RzdUVRb2V0WXpNYm1wbENlU2Njd0xSUkRNUjBMNDNIN0FSR09nVWlpU1NrSXBkTTMzU2JUc28wa0ZJWVREVnBWNHF0",
+   "source": "TIKR.com",
+   "published_at": "2026-10-20T13:34:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-20T13:34:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdTgzcVpzQkh4U3VyNkprZnV0eDN1U0hOZThKRHpTSVZBQWZWTVN6Y3RzdUVRb2V0WXpNYm1wbENlU2Njd0xSUkRNUjBMNDNIN0FSR09nVWlpU1NrSXBkTTMzU2JUc28wa0ZJWVREVnBWNHF0"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "1a7146360ea2",
+   "title": "OpenAI CEO Sam Altman Wanted His $50,000 Tesla Roadster Deposit Back. Now Elon Musk Says He's Changed His Mind - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlVOcl8tZGgyQnNVZkZDUk0yQ0xkb1ZnelRISHNFa19fS1ZOdEQ2LWMzUGdGQXBiMXQwM3lwUWlaOGhGdHQzdVhXQVFmSmVwdHdMajM4Vy1hZU1zQ25aNUlVM3hMOU5DTkFNOTJpMXFpM0hFOVZKSzgybjNRQnJCU0dKWU5VQTFPSWhNXzVVTkozbHB2U2xZd1I2Yw",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-20T13:26:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-20T13:26:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlVOcl8tZGgyQnNVZkZDUk0yQ0xkb1ZnelRISHNFa19fS1ZOdEQ2LWMzUGdGQXBiMXQwM3lwUWlaOGhGdHQzdVhXQVFmSmVwdHdMajM4Vy1hZU1zQ25aNUlVM3hMOU5DTkFNOTJpMXFpM0hFOVZKSzgybjNRQnJCU0dKWU5VQTFPSWhNXzVVTkozbHB2U2xZd1I2Yw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "b54672ab6c43",
    "title": "Tesla Signs Alipay In-Car Assistant Deal to Bring Parking Payments in China - Electric Vehicles",
@@ -238,6 +306,23 @@
    "sentiment": 0
   },
   {
+   "id": "0153850bf9eb",
+   "title": "Tech Weekly: Tesla's Roadster 'takes flight', Japan heads for Phobos - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Nd09TNjAzVGlTZnBzcmVhQWNQc0U3eHpBTlZ1Vm5rdFcyYWJCRFl2aHpDZDg4azFMcTM4eUFsSlgtcHVVWW9FTzNlM3M1THFqVnh4cm96bEZBUGZyUVdWOWVwaXctN2c",
+   "source": "Reuters",
+   "published_at": "2026-10-20T12:52:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-20T12:52:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Nd09TNjAzVGlTZnBzcmVhQWNQc0U3eHpBTlZ1Vm5rdFcyYWJCRFl2aHpDZDg4azFMcTM4eUFsSlgtcHVVWW9FTzNlM3M1THFqVnh4cm96bEZBUGZyUVdWOWVwaXctN2c"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "9e01fc4d9c5e",
    "title": "杨立昆称特斯拉Roadster推进系统不实用 马斯克回怼 - 观点网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CQWQyTkczUnFXdWJsM0dMZ3hta1Nia3pjdjNVOXY1TmxQYnNNRXY4T0ZxV1VqQV96X21acWVnZXRtSXlsYk15bXRBRVBEYW1QcUpBQW1GTllTZGJIRmQ5S3BB",
@@ -330,6 +415,23 @@
    "zh_summary": "分析认为特斯拉有望赚更多钱",
    "title_zh": "特斯拉为何能赚更多钱",
    "sentiment": 1
+  },
+  {
+   "id": "b37dfaf08362",
+   "title": "Tesla Promises Its Flying Roadster For 2028, but MKBHD Has One Question: ‘This Is A Prank, Right?’ - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTk3RDFkeC1DWUIyX19WUjhGMmlxYjB5emhmVW83Y1JHaEZYZ3NJcDFWNjM2NHkwbFFFUjFkczNkX2IzTDVGS0FhLW5xVUQxRExxRG5XalBNQ1Q0cTFRc24tTVR2RTcyVUg5UEtsTVBQVUo2Ni1HVVl1Mm9BXzBId0RrdDNad2pTRUtpbDdsVmQtTWIyVGlsUV9rRmw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T12:30:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T12:30:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTk3RDFkeC1DWUIyX19WUjhGMmlxYjB5emhmVW83Y1JHaEZYZ3NJcDFWNjM2NHkwbFFFUjFkczNkX2IzTDVGS0FhLW5xVUQxRExxRG5XalBNQ1Q0cTFRc24tTVR2RTcyVUg5UEtsTVBQVUo2Ni1HVVl1Mm9BXzBId0RrdDNad2pTRUtpbDdsVmQtTWIyVGlsUV9rRmw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "f1c6db449fdc",
@@ -744,6 +846,23 @@
    "zh_summary": "Black称SpaceX或420美元/股合并特斯拉",
    "title_zh": "Gary Black预测SpaceX将以每股420美元换股合并特斯拉",
    "sentiment": 1
+  },
+  {
+   "id": "fa7cb3408b0d",
+   "title": "The Physics Behind Tesla’s Flying Roadster - WIRED",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxY2tOcWRTQkNtMDFDZE9oamE4Q1NDM2R3WFVCT0xaZVVLSlFlZl83dnJidlRjT0tmUUVCQjdyTUIwRXdNcnBBcDRZYmtSMkoyWTJYUVdDMGFRazFBNmI0RFBieVFNTk93QUh5LW5kZ3RPc0k",
+   "source": "WIRED",
+   "published_at": "2026-10-20T10:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WIRED",
+     "published_at": "2026-10-20T10:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxY2tOcWRTQkNtMDFDZE9oamE4Q1NDM2R3WFVCT0xaZVVLSlFlZl83dnJidlRjT0tmUUVCQjdyTUIwRXdNcnBBcDRZYmtSMkoyWTJYUVdDMGFRazFBNmI0RFBieVFNTk93QUh5LW5kZ3RPc0k"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "169648192c74",
@@ -1161,7 +1280,7 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBycndjUmJHaTZMaGw1Ynk5VFVNVzdRTkJZQkRUVU1nenRQLUhtTURpdy1yb1I2aWwyaC1EUTFpV01vQ3M1SHQxa0hZbw",
    "source": "手机新浪网",
    "published_at": "2026-10-20T09:49:48+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "手机新浪网",
@@ -1197,11 +1316,15 @@
      "name": "新浪网",
      "published_at": "2026-10-20T11:33:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2ZPT2FCMmRjSVd4YzM1RmVtSUhiZVNaTTdZampmcTlVR2x1dE9xOXJlVmgta0wtOGZQcmJtZGNmREhkMF9tNW52ckZvNWlieWxCejZac2p5blBNa0dzQTdjaUNnZWZVcUdmZElWMmE5NXZXV3R5Y2tvMFA3Nlo4N2hR"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnQ1VUpKczZpdGJxN2ZnQjVaZUR5YkxjQkowVEVZVGpZc2wwbkZ4blR5XzZEYjZ0Y19Sb3VkeXFkRWlxeVBQUmdGY0xUcV93R1BhaU5ycjJlbjVkeFJBSml2Ul9OSlhwa0ktZGdoSG93MURuSW15TmpWLWs4bWZTVTZtSDFvelJY"
     }
    ],
    "category": "其他",
    "session": "盘前",
-   "breaking": true,
    "zh_summary": "特斯拉与支付宝合作车载助手",
    "title_zh": "告别手机停车缴费？特斯拉与支付宝达成车载助手项目合作 - 凤凰网科技",
    "sentiment": 1,
@@ -6348,160 +6471,6 @@
    "zh_summary": "特斯拉Model S Plaid改装解锁隐藏动力",
    "title_zh": "特斯拉Model S Plaid调校解锁隐藏性能",
    "sentiment": 1
-  },
-  {
-   "id": "83389be394d1",
-   "title": "看热闹不怕事儿大！特斯拉：没有速成车，没有4S店！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaSGk3eXQ2NElCQzVuOXNBSk9OWGVLUVAzYkFTaVJzVWFLY3pkazNQdTFiN0ZrekZLMWFFb2RTWTFJeHRDZ0xCd1lkc3lvQTJjeF9fWWx4ZU5jM1U",
-   "source": "汽车之家",
-   "published_at": "2026-10-19T14:22:48+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-19T14:22:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaSGk3eXQ2NElCQzVuOXNBSk9OWGVLUVAzYkFTaVJzVWFLY3pkazNQdTFiN0ZrekZLMWFFb2RTWTFJeHRDZ0xCd1lkc3lvQTJjeF9fWWx4ZU5jM1U"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T14:29:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2xYZmkyLUhvT25VWE5xcFY4MlJ0aE9RRWF5V05Rbk5YczMxN3I4aUdGVHhCN3k5U3RmZ1llZ2pJNDdmd0IzM1N6VkwyVVVIalBmcEhlUDdyQzRTVXVNQUpuMm9TbzZIaEQxQjZCV0tGOHdwQXNsQUlic0dKT3ljNGlkbFhmSzY2"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T02:15:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KRHktanpYc2puY0c4QTNxOWEyY0pfTmRFVUdTbjE2UUNELVpSUkJnaC1MVnNmRWtnUkpfX0ZuTmNlTVRCckpCOTJpdFdJUUJkQ2w4YWVsWHA5OXN4NHEzclktUXhEUWtNeTJ0aDlCbUI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉：没有速成车，没有4S店",
-   "title_zh": "看热闹不怕事儿大！特斯拉：没有速成车，没有4S店！ - 搜狐",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.61,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "a9702c12bd64",
-   "title": "彭博社体验特斯拉、Momenta、小鹏：Momenta表现令人印象深刻 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVM1hwekZYRkdWMmlEX3I1blhoT2YxQWF0X2hVTzJKc0N5RmkyUGxIMXkwQXlVTTBFanlPQzFSWlJuT3pEOFk1VmUyR09Ick9fZE9yUnFnQjN4NjA",
-   "source": "汽车之家",
-   "published_at": "2026-10-19T14:22:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-19T14:22:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVM1hwekZYRkdWMmlEX3I1blhoT2YxQWF0X2hVTzJKc0N5RmkyUGxIMXkwQXlVTTBFanlPQzFSWlJuT3pEOFk1VmUyR09Ick9fZE9yUnFnQjN4NjA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "彭博对比测试特斯拉Momenta小鹏",
-   "title_zh": "彭博社体验特斯拉、Momenta、小鹏：Momenta表现令人印象深刻 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "f5c811ef5153",
-   "title": "Tesla’s Full Self-Driving Faces an Aggressive Driver in a Crown Victoria, and the Results Are Surprising - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHJQR1daM1pmNmxXeTE1ckZGb3laS3doN3FESmRXUGlXeUEzeXI2TEFPQjJtdjZhRGVjdmNlY0VnRy1teDdQOURubjRFN3lkNWFrOUhCemN0dDlHaDlHcWNaaURnb2xJRE9STS13Q0hubS02V1RfdVZwYXI3Z0JjaTFUbDRrRkxzVmxFR1JMMEV0NV8tckJFSW5iSFc",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-19T14:22:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-19T14:22:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHJQR1daM1pmNmxXeTE1ckZGb3laS3doN3FESmRXUGlXeUEzeXI2TEFPQjJtdjZhRGVjdmNlY0VnRy1teDdQOURubjRFN3lkNWFrOUhCemN0dDlHaDlHcWNaaURnb2xJRE9STS13Q0hubS02V1RfdVZwYXI3Z0JjaTFUbDRrRkxzVmxFR1JMMEV0NV8tckJFSW5iSFc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉FSD应对激进驾驶测试结果出人意料",
-   "title_zh": "特斯拉FSD迎战激进驾驶的皇冠车，结果出人意料",
-   "sentiment": 1
-  },
-  {
-   "id": "e6b69a4ffe13",
-   "title": "$特斯拉(TSLA.US)$近期的市场波动着实令人压力不小。我关注这位朋友很久了，他的分析一向条理清晰，对市场走势的判... - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdl9sWUxON3RJX2RnbHhGTzg5clhnbWwteDlfNU9McG9jWUVjejlQa2k4VWlIOV95blZDMDhBb1pOOFVfTjFiUDI5NzVsay1KT0o4TGVzanJqS0NmcEItaDNydEdCNEtjTU5xYTFQZmJHREhxOUJqbjZ0WkJSX3FOb1E5LTJ4aWp2R3c3clFUNWhWbEFDZURiTUwyZDJkQVdLYmdVOXN5SEJNR1VkQ1duWC11cjl6QUk",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T14:21:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T14:21:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdl9sWUxON3RJX2RnbHhGTzg5clhnbWwteDlfNU9McG9jWUVjejlQa2k4VWlIOV95blZDMDhBb1pOOFVfTjFiUDI5NzVsay1KT0o4TGVzanJqS0NmcEItaDNydEdCNEtjTU5xYTFQZmJHREhxOUJqbjZ0WkJSX3FOb1E5LTJ4aWp2R3c3clFUNWhWbEFDZURiTUwyZDJkQVdLYmdVOXN5SEJNR1VkQ1duWC11cjl6QUk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉近期波动引发关注",
-   "title_zh": "$特斯拉(TSLA.US)$近期的市场波动着实令人压力不小。我关注这位朋友很久了，他的分析一向条理清晰，对市场走势的判... - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "27e2040eb370",
-   "title": "Alef飞行汽车飞越特斯拉Roadster，这款双座飞行车好看好开还安心吗？ - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTjBmb2lFVC1VZGptWFcxMDEzTTRPSGxqZFEwRm1kRm1jSjdqWmF6SDZKNFRiWXNmeWtHX1ZDSmFYTkZ4WW1DRC02UXBIMFdocFZjYlhhQURfWXc",
-   "source": "网通社",
-   "published_at": "2026-10-19T14:18:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-19T14:18:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTjBmb2lFVC1VZGptWFcxMDEzTTRPSGxqZFEwRm1kRm1jSjdqWmF6SDZKNFRiWXNmeWtHX1ZDSmFYTkZ4WW1DRC02UXBIMFdocFZjYlhhQURfWXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Alef飞行汽车飞越特斯拉Roadster",
-   "title_zh": "Alef飞行汽车飞越特斯拉Roadster，这款双座飞行车好看好开还安心吗？ - 网通社",
-   "sentiment": 0
-  },
-  {
-   "id": "2dcc83d01ad0",
-   "title": "Elon Musk Promises Tesla Roadster Owners a Wild Looping Track - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjBNNVQ0M0UxbzlEOVdtZDZhZzZzQ3VPNWgzX3VGVEhzeFFaRi1kdkZvMjlHb0h6bXgyQ2FuRkNCcmxOSkg3aDd6cWFreGlBcGl5N0RNS3lzTHFxN1ZUMEhhY254S1hVTnRKUlhMQjVTdmE1bXkzamVrZmkxWmRpalpjQjJqZjFqc2Y0c3lxenI0Rks1SkE",
-   "source": "Autoblog",
-   "published_at": "2026-10-19T14:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-19T14:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjBNNVQ0M0UxbzlEOVdtZDZhZzZzQ3VPNWgzX3VGVEhzeFFaRi1kdkZvMjlHb0h6bXgyQ2FuRkNCcmxOSkg3aDd6cWFreGlBcGl5N0RNS3lzTHFxN1ZUMEhhY254S1hVTnRKUlhMQjVTdmE1bXkzamVrZmkxWmRpalpjQjJqZjFqc2Y0c3lxenI0Rks1SkE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "马斯克承诺Roadster车主专属环形赛道",
-   "title_zh": "马斯克承诺为Roadster车主打造疯狂环形赛道",
-   "sentiment": 1
-  },
-  {
-   "id": "1b3bb9993ec4",
-   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUpzOXdpajN0Tm1DbmtXN1RZa2k0UGl4MnBnREVhcXBPbnM2M3Q4NHVFaExfd25mVnhQTGVoT05KdUV4NkZmUlQ1TzFMRTN0N0VFSTQ0YW1kQWdVbVNKeko0Y2hIZERnUGp3eEpHeDYya0hxX3NTVTFIUXJiLVp3Wk9QZw",
-   "source": "Electrek",
-   "published_at": "2026-10-19T14:07:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-19T14:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUpzOXdpajN0Tm1DbmtXN1RZa2k0UGl4MnBnREVhcXBPbnM2M3Q4NHVFaExfd25mVnhQTGVoT05KdUV4NkZmUlQ1TzFMRTN0N0VFSTQ0YW1kQWdVbVNKeko0Y2hIZERnUGp3eEpHeDYya0hxX3NTVTFIUXJiLVp3Wk9QZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "股东文件显示特斯拉筹备与SpaceX合并",
-   "title_zh": "特斯拉股东代理文件显示董事会准备与SpaceX合并",
-   "sentiment": 0
   }
  ]
 }
