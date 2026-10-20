@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T02:52:31.718914+00:00",
+ "updated_at": "2026-10-20T03:07:31.188428+00:00",
  "market": {
   "price": 368.06,
   "change_pct": 3.76,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（285条已评分）"
+     "note": "今日新闻情绪 +0.22（286条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.7,
    "ma20": 369.97,
-   "as_of": "2026-10-20T02:52:31.706252+00:00"
+   "as_of": "2026-10-20T03:07:31.175054+00:00"
   },
   "pe_ttm": 101.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.22,
-   "count": 285
+   "count": 286
   }
  },
  "meta": {
@@ -86,6 +86,23 @@
    "zh_summary": "看好特斯拉股价长期表现",
    "title_zh": "长期只能押一只股票，我会选特斯拉",
    "sentiment": 1
+  },
+  {
+   "id": "f3e41d6f0782",
+   "title": "马斯克2025年特斯拉股权薪酬1584亿美元 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40d0VDa1doaTlIWk1OWG5EcHBBQXA0RXYzQ1hCZ2FVYWYyN28tOUFwc0JCMHh0RllobU1IQlU3UVJoSDItVDRUSkRPTHhDM2YyLXR6UVZ5ZndrN0tkSTJlSlh1Y1N5QWRQdHpDd3BXXzQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-20T02:39:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-20T02:39:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40d0VDa1doaTlIWk1OWG5EcHBBQXA0RXYzQ1hCZ2FVYWYyN28tOUFwc0JCMHh0RllobU1IQlU3UVJoSDItVDRUSkRPTHhDM2YyLXR6UVZ5ZndrN0tkSTJlSlh1Y1N5QWRQdHpDd3BXXzQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "342899de9649",
@@ -3303,7 +3320,7 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNy1SYWJPYXc4b0Y2M01OTWtlRFNXWWRndlBzSUg2Z2hicXBtbEhPdTI4NGUzaTVFVFM5N3FuMUQ3OWV0VVVPQmtSQWJ2Y0txc01ZWURfZUpJbTVZN2JEOG1uOGdBeU5sVlJYZXNOTnhPbHJndThHbzRBRlh3b3BvYlVBaGRwcG93WktTNlRlZXZCbERYOGdqTDd0Vkx2dGhTZ0dyUUZuSjVGU1ZnOTlRdUJHSTc4bjJpVDk1UWJ1ZHdMd2c",
    "source": "Moomoo",
    "published_at": "2026-10-19T12:16:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Moomoo",
@@ -3314,13 +3331,22 @@
      "name": "证券之星",
      "published_at": "2026-10-19T12:16:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTng1Ri11THYweW1nb29XQWdTMWxhNDUwb1hkR3BLMk1VM1JJTXhCU0NSV3ItZ3hkcVd0XzM0VUVPTFRidVJhSU96dTdMbnFMbm90bXZDZXdNb0xfZE83dA"
+    },
+    {
+     "name": "华盛通",
+     "published_at": "2026-10-19T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhQ2ExcjlvZjZDZEZSVzd3ZWc4RUs1ajZEbjJRcUg0SmJVNkhuT3ZFd3Q5T1BCaHFXX3RSeTlGdlZEZFRleGhvdlEyaXJwa1kzV0xNWEUyUFFOOHZ5OGVQOVJ3"
     }
    ],
    "category": "财报",
    "session": "盘前",
    "zh_summary": "Roadster腾空飞行，财报聚焦Robotaxi与Optimus",
    "title_zh": "Roadster腾空飞行，特斯拉(TSLA.US)能否再掀上涨行情？Robotaxi与Optimus商业化成财报焦点 - Moomoo",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 2.38,
+    "window_h": 2.0
+   }
   },
   {
    "id": "21e8c7ca1994",
@@ -4905,12 +4931,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMC1WNDBQUGNaekQtamFvQW9kczZ5T0hWd25wQUxqeHB4U1VlT0tuWTZxMW5kV2JIZ182dGlGWjNBV1B4Z3JVY1dmbUFCMWNEenRBam9fenk5c0U",
    "source": "汽车之家",
    "published_at": "2026-10-19T09:03:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
      "published_at": "2026-10-19T09:03:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMC1WNDBQUGNaekQtamFvQW9kczZ5T0hWd25wQUxqeHB4U1VlT0tuWTZxMW5kV2JIZ182dGlGWjNBV1B4Z3JVY1dmbUFCMWNEenRBam9fenk5c0U"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-20T02:51:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12NDRMeXpSeVd6NkhBQ3piRVlkeURxcmc1RmpGcnpMamVQbno5TmgtYTBadzNLTW9meUFwbVAyRU9WMTZfN0RDLWNXR2Z4WVg2U2FEYkhNU29ZaDVVTExaTzlxSVJ1QmNxekpuR2lHNl9tUQ"
     }
    ],
    "category": "其他",
@@ -6444,26 +6475,6 @@
    "session": "周末",
    "zh_summary": "特斯拉Roadster九年磨一剑成功飞行",
    "title_zh": "等了九年，特斯拉Roadster飞起来了 - 汽车商业评论",
-   "sentiment": 1
-  },
-  {
-   "id": "26be34640e29",
-   "title": "保时捷很帅，但特斯拉能飞！ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yQ3dCWlloMDltRUtJb0VaVklZWUt0R3A2MkRhc2w4N0NRZ2V5a2FvOFVRbmp2WEJYSHQ4eFB3am9EWXJBSVRNMGt1eGk5c0ItU2JXcXJDZWxHTzQ1N215UW1ibFp6QUl4Z2ZCbm9ScnNhQQ",
-   "source": "新浪网",
-   "published_at": "2026-10-19T03:10:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-19T03:10:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yQ3dCWlloMDltRUtJb0VaVklZWUt0R3A2MkRhc2w4N0NRZ2V5a2FvOFVRbmp2WEJYSHQ4eFB3am9EWXJBSVRNMGt1eGk5c0ItU2JXcXJDZWxHTzQ1N215UW1ibFp6QUl4Z2ZCbm9ScnNhQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉能飞，媲美保时捷帅气",
-   "title_zh": "保时捷很帅，但特斯拉能飞！ - 新浪网",
    "sentiment": 1
   }
  ]
