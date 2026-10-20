@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T15:22:31.602135+00:00",
+ "updated_at": "2026-10-20T15:37:28.791648+00:00",
  "market": {
-  "price": 375.01,
-  "change_pct": 1.89,
+  "price": 373.58,
+  "change_pct": 1.5,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.7%"
+     "note": "目标价中位数 $400（16家），隐含空间 +7.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（146条已评分）"
+     "note": "今日新闻情绪 +0.26（151条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.01 vs 20日均线 $369.78"
+     "note": "现价 $373.58 vs 20日均线 $369.71"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.7,
-   "ma20": 369.78,
-   "as_of": "2026-10-20T15:22:31.594246+00:00"
+   "implied_upside_pct": 7.1,
+   "ma20": 369.71,
+   "as_of": "2026-10-20T15:37:28.779509+00:00"
   },
-  "pe_ttm": 103.7,
+  "pe_ttm": 103.3,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 146
+   "avg": 0.26,
+   "count": 151
   }
  },
  "meta": {
@@ -67,6 +67,45 @@
   }
  },
  "stories": [
+  {
+   "id": "b2316048fe82",
+   "title": "Mate Rimac Says He Considered Tesla Roadster-Style Cold Gas Thrusters Years Ago - Road & Track",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVVFMWN4VVUwU3YteTRPRGRkN0JueEdBWmc1VHRXdk9BcDV5MW9obDVfMV9pdU1fOUx1bzF1WnNCU0lNbjUydzhVQTBnNjRtZk00TXBpY0hUMnNJa2NWUm03cFRJcUdBWlhkNVUwUnRwLURFUTBMeG43VFVqQ0pNUEtPcXgydWE2aEVZRF9OSW9BeTZZ",
+   "source": "Road & Track",
+   "published_at": "2026-10-20T15:31:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Road & Track",
+     "published_at": "2026-10-20T15:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVVFMWN4VVUwU3YteTRPRGRkN0JueEdBWmc1VHRXdk9BcDV5MW9obDVfMV9pdU1fOUx1bzF1WnNCU0lNbjUydzhVQTBnNjRtZk00TXBpY0hUMnNJa2NWUm03cFRJcUdBWlhkNVUwUnRwLURFUTBMeG43VFVqQ0pNUEtPcXgydWE2aEVZRF9OSW9BeTZZ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "5a762853b50d",
+   "title": "Tesla Just Put a $158 Billion Price Tag on Elon Musk’s Pay for Last Year - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzJiYXBmTjJDb3pRTzZLYVFweS1KZi13R1ZCQkR3VzFkUHh5akxYUFVCTjV5Y2VpMGJLOHBhRUM3dFZlTUJkU0EzTmdqcmpSOElGbnZCeWNURk42QWs5X1k4SXppVGVCU0YxbUlGODRwTUswWHJwTk04MnNCa3J2UXlMNGVrQ1pUNnlYN1hCOEJaeC1pT3BEOFBKUEpXYWh6b2Q0Y2ZKcExQdjRJQmRMRUZ1cjE",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-20T15:17:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-20T15:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzJiYXBmTjJDb3pRTzZLYVFweS1KZi13R1ZCQkR3VzFkUHh5akxYUFVCTjV5Y2VpMGJLOHBhRUM3dFZlTUJkU0EzTmdqcmpSOElGbnZCeWNURk42QWs5X1k4SXppVGVCU0YxbUlGODRwTUswWHJwTk04MnNCa3J2UXlMNGVrQ1pUNnlYN1hCOEJaeC1pT3BEOFBKUEpXYWh6b2Q0Y2ZKcExQdjRJQmRMRUZ1cjE"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T15:17:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcV9lak81cGhVOUwtVERZdHRIYkhwbTZnZTczanZtMUV4bGlRVWFMVmNUckZFQjdGQzhaa3dtUGtnSnVmdDdqdHh1dThhLThycmhpWnBSX3RBZlpPNlB4RFlIUWRMUG4xNm9zdHRQa0x2YUcxNmdYT0xtNWlWN0hjbnk3OHNmd25DUEVsV3doUERWWUlENVE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "d912c48f6a92",
    "title": "$特斯拉 (TSLA.US)$ 我在这押注财报后它会跳水……天哪，不管输赢，仓位上限15k！ - Moomoo",
@@ -83,8 +122,8 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "title_zh": "Moomoo评论员押注特斯拉财报后股价下跌",
    "zh_summary": "散户讨论财报后做空特斯拉押注",
+   "title_zh": "Moomoo评论员押注特斯拉财报后股价下跌",
    "sentiment": -1
   },
   {
@@ -103,8 +142,8 @@
    ],
    "category": "车型产品",
    "session": "盘中",
-   "title_zh": "网友戏称会飞的Roadster更应该会游泳",
    "zh_summary": "趣评：会飞的Roadster更该会游泳",
+   "title_zh": "网友戏称会飞的Roadster更应该会游泳",
    "sentiment": 0
   },
   {
@@ -123,8 +162,8 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "title_zh": "期权市场预期财报后股价波动6%",
    "zh_summary": "期权交易预计财报后波动6%",
+   "title_zh": "期权市场预期财报后股价波动6%",
    "sentiment": 0
   },
   {
@@ -163,8 +202,8 @@
    ],
    "category": "马斯克",
    "session": "盘中",
-   "title_zh": "观众热议特斯拉与SpaceX合并传闻",
    "zh_summary": "特斯拉合并SpaceX传闻再发酵",
+   "title_zh": "观众热议特斯拉与SpaceX合并传闻",
    "sentiment": 0
   },
   {
@@ -186,6 +225,40 @@
    "zh_summary": "特斯拉Model Y登顶欧洲销量",
    "title_zh": "特斯拉Model Y登顶欧洲销量，品牌创月度纪录",
    "sentiment": 1
+  },
+  {
+   "id": "196582ac8b86",
+   "title": "Tesla Model Y Is Europe’s Best-Selling Car in September as Model 3 Takes Second - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzhZYm9aekp2aTFIS3pUeHh4V0JENmhjVHIyeHJMSVJxVVVfV3dRaW9BR1ptRmhnY1FvbzJsV2RmUTAtS0dUY1dkTnZWZ0ZvU2trcXFOb1p3UnlRTEYxVlAwZGprSVljTVJ5bWVNTWUtSEpkVTA0eXBDZEh1SHNkanlKd3JkY29CVzl0a3hMMA",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-20T14:54:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-20T14:54:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzhZYm9aekp2aTFIS3pUeHh4V0JENmhjVHIyeHJMSVJxVVVfV3dRaW9BR1ptRmhnY1FvbzJsV2RmUTAtS0dUY1dkTnZWZ0ZvU2trcXFOb1p3UnlRTEYxVlAwZGprSVljTVJ5bWVNTWUtSEpkVTA0eXBDZEh1SHNkanlKd3JkY29CVzl0a3hMMA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "578367827c6d",
+   "title": "Cathie Wood Sees Tesla At $5,000. The Cars Are Almost Beside The Point. - The Wealth Advisor",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFdPT3gxSWQyLWlRS0UxOHoxMW04a0trdGFYNm5vVTRkRDIxTlppNUJCaTBkV28xNHJ1VU82aWktb0pueFFYcS1xZlZnelpYam1PakNJb2JwVTVOLVlXUTRIVm83bll2VExtdHFzTkFuLU50VUt1YS0zRGNKdjJ1YXh2T2tyV1VTaG12aEdKMnNJM0tuT2lVS1FMLTVpUQ",
+   "source": "The Wealth Advisor",
+   "published_at": "2026-10-20T14:53:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Wealth Advisor",
+     "published_at": "2026-10-20T14:53:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFdPT3gxSWQyLWlRS0UxOHoxMW04a0trdGFYNm5vVTRkRDIxTlppNUJCaTBkV28xNHJ1VU82aWktb0pueFFYcS1xZlZnelpYam1PakNJb2JwVTVOLVlXUTRIVm83bll2VExtdHFzTkFuLU50VUt1YS0zRGNKdjJ1YXh2T2tyV1VTaG12aEdKMnNJM0tuT2lVS1FMLTVpUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "1ed28e878e51",
@@ -391,6 +464,23 @@
    "zh_summary": "特斯拉2026年股东大会12月3日举行",
    "title_zh": "特斯拉宣布2026年股东大会定于12月3日",
    "sentiment": 0
+  },
+  {
+   "id": "95934d8153ee",
+   "title": "Speculation grows over potential Tesla-SpaceX merger - Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLWU0UWk5c3NUQjJ5dFdBQmtKLTNsQy0xV1B2ZkFuaUhpUTNCLUlWSG9zOFVfcmplSHFubG1pU3djLWhTN0lCeGt0YXkzYmhSeExDRVRrdHlNRnc",
+   "source": "Fox Business",
+   "published_at": "2026-10-20T14:08:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fox Business",
+     "published_at": "2026-10-20T14:08:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLWU0UWk5c3NUQjJ5dFdBQmtKLTNsQy0xV1B2ZkFuaUhpUTNCLUlWSG9zOFVfcmplSHFubG1pU3djLWhTN0lCeGt0YXkzYmhSeExDRVRrdHlNRnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4e7b28b5ba02",
@@ -962,8 +1052,8 @@
    ],
    "category": "财报",
    "session": "盘前",
-   "title_zh": "TSLA等车企能否超Q3预期",
    "zh_summary": "前瞻：汽车股三季报能否超预期",
+   "title_zh": "TSLA等车企能否超Q3预期",
    "sentiment": 0
   },
   {
@@ -5327,26 +5417,6 @@
    "sentiment": -1
   },
   {
-   "id": "13e345847ea6",
-   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB",
-   "source": "Teslarati",
-   "published_at": "2026-10-19T20:54:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-19T20:54:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "title_zh": "马斯克重申Roadster的真正意义",
-   "zh_summary": "马斯克谈Roadster真正意义",
-   "sentiment": 0
-  },
-  {
    "id": "7cb134c36a05",
    "title": "Tesla Q3 Earnings Preview: Can It Reverse Recent EPS, Revenue Misses? - Tesla (NASDAQ:TSLA) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFZjeVJZa1lKTUwwYmJsUTcteFpsel9ITXQ5NVZQMlJwYVlBRFE2X0NuV0Y5eVBIY0N2aW9DYllrWGJ0NC1JYXZqMmtmdmo3SDFQZzNZUWlkanJPUVZPWGQwZE1SRHB1R2FheThQd2RTVEFFTDhBMFRVQWYybVJNLUptZWdHalNOYzlZZE1Lbnd1TDRWTkM2YlprV09QM3RpaE10WTNMM085eWN6aXdLeG42MEZhaHRTc2RMTEtzWFVEejVJRG9WcWEtaVpKVFE1b3BLVQ",
@@ -5753,8 +5823,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "一辆特斯拉撞上雷德蒙德公寓楼致住户疏散",
    "zh_summary": "特斯拉撞公寓楼致住户疏散",
+   "title_zh": "一辆特斯拉撞上雷德蒙德公寓楼致住户疏散",
    "sentiment": -1
   },
   {
@@ -5926,6 +5996,26 @@
    "zh_summary": "特斯拉Roadster披露飞行技术方案",
    "title_zh": "特斯拉Roadster披露飞行技术方案，计划2028年投产，追求极致体验的用户会喜欢吗？ - 网通社",
    "sentiment": 1
+  },
+  {
+   "id": "13e345847ea6",
+   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB",
+   "source": "Teslarati",
+   "published_at": "2026-10-19T17:26:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-19T17:26:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "马斯克谈Roadster真正意义",
+   "title_zh": "马斯克重申Roadster的真正意义",
+   "sentiment": 0
   },
   {
    "id": "0fbe4244e0d4",
@@ -6382,106 +6472,6 @@
    "zh_summary": "专家质疑特斯拉火箭跑车实用性",
    "title_zh": "“可爱但不切实际”：专家质疑特斯拉火箭Roadster能否真正实用",
    "sentiment": -1
-  },
-  {
-   "id": "aa9194cc4d94",
-   "title": "特斯拉新车发布，借鉴SpaceX技术揭秘过弯能力 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3JTYnluWWF5TTg3XzdseGdBc1ZuNnRtZ1EzUjBXYno5TkRHWDctZWtRc1B3NUdLZjN6U0JUbWdiZXByd2ZHa1JqX1NCTE9GZDFtclExb2RGamFrZVk0NnRlTTJDeTg4U3gyUEE1a0VYN211eVdfWDNrUDVZQWljUw",
-   "source": "新浪网",
-   "published_at": "2026-10-19T15:49:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-19T15:49:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3JTYnluWWF5TTg3XzdseGdBc1ZuNnRtZ1EzUjBXYno5TkRHWDctZWtRc1B3NUdLZjN6U0JUbWdiZXByd2ZHa1JqX1NCTE9GZDFtclExb2RGamFrZVk0NnRlTTJDeTg4U3gyUEE1a0VYN211eVdfWDNrUDVZQWljUw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉新车借鉴SpaceX技术，过弯能力提升",
-   "title_zh": "特斯拉新车发布，借鉴SpaceX技术揭秘过弯能力 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "0cac5d0be355",
-   "title": "TSLA Options | 19 Oct 2026 | Monday - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXM1dFNReFNNMFhtSFlqSGdYYVU2M0FwejBMTTNUbmVybDNBTF8xX3JvaWEzYV9VcDF4TlB2bHFqLVM2U0xQQXBKeGpqWTVMaWdxd0J0WnJPVDlmX3ZXMC1ib3pWWUxoeUdyLWFNcW5fSEU1b2Y3NEtxbGhvUDNrTTlqNjZtcE42cG91a0R3",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T15:47:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T15:47:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXM1dFNReFNNMFhtSFlqSGdYYVU2M0FwejBMTTNUbmVybDNBTF8xX3JvaWEzYV9VcDF4TlB2bHFqLVM2U0xQQXBKeGpqWTVMaWdxd0J0WnJPVDlmX3ZXMC1ib3pWWUxoeUdyLWFNcW5fSEU1b2Y3NEtxbGhvUDNrTTlqNjZtcE42cG91a0R3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉期权行情页面19日更新",
-   "title_zh": "特斯拉期权 | 2026年10月19日星期一 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "ee668b0bcd6f",
-   "title": "Star Ring’s Tesla Ambient Lighting Kit Covers 11 Cabin Zones - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVNmNFpIOTZYMTl1NWRvNDFNaUowaEVzNjZIblJGdXpHTzVxQjNEUUV3RWR0YkRSSFBic2p5NjNtQjdWZUt3NHluR3Z0QjFjNEQ0YlZ0SFc5SjJQZEl4Rm1ackZ6Q0RSWm4zMDQ3UzZLV05DblBiQ3FUQXZwYkJPQUFDYlJCVDlFVmRvSFU2VnJYRVpzTW1GSE1pbWxkLU9wcWxNdWNITQ",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-19T15:46:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-19T15:46:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVNmNFpIOTZYMTl1NWRvNDFNaUowaEVzNjZIblJGdXpHTzVxQjNEUUV3RWR0YkRSSFBic2p5NjNtQjdWZUt3NHluR3Z0QjFjNEQ0YlZ0SFc5SjJQZEl4Rm1ackZ6Q0RSWm4zMDQ3UzZLV05DblBiQ3FUQXZwYkJPQUFDYlJCVDlFVmRvSFU2VnJYRVpzTW1GSE1pbWxkLU9wcWxNdWNITQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Star Ring推出特斯拉氛围灯套件",
-   "title_zh": "Star Ring特斯拉氛围灯套件覆盖11个座舱区域",
-   "sentiment": 0
-  },
-  {
-   "id": "9360fb034520",
-   "title": "义乌开源技术助力特斯拉Roadster诞生 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tWFJzR2doRG9XRjl5SEtQc2RYcWJHWTNhdlVKc0l1SXY3aGFCWTdKYURRZDNBTnc3OVJJejQ4ZVFMNldyc0pGakdkd0g5cVFHWHMyWVRwZHhQN0NZZFpfLWxvWFh0elhyVm1DblRMLWNISlRRcUNMU2xqbjVrSDQ",
-   "source": "新浪网",
-   "published_at": "2026-10-19T15:46:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-19T15:46:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tWFJzR2doRG9XRjl5SEtQc2RYcWJHWTNhdlVKc0l1SXY3aGFCWTdKYURRZDNBTnc3OVJJejQ4ZVFMNldyc0pGakdkd0g5cVFHWHMyWVRwZHhQN0NZZFpfLWxvWFh0elhyVm1DblRMLWNISlRRcUNMU2xqbjVrSDQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "义乌开源技术助力特斯拉Roadster诞生",
-   "title_zh": "义乌开源技术助力特斯拉Roadster诞生 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "556f68427ee6",
-   "title": "特斯拉飞行汽车在美国引发一连串疑问，在中国却受到大面积鼎力膜拜，可笑！ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00d3lBODR5SzA0R2ppaGZVVS1HNkM1M05fTGYzNXpieWVDeEF2N0FfYnpaZ1hYUVpkWmZlNGxOVXhwczZfUzRndlR1WWtmTHFXSEs0UVRCalBPUlVCRTE2eWdLQmhiS3puNjFUWnJ3WHRQX2dRNWRZSllfc1J6VVU",
-   "source": "新浪网",
-   "published_at": "2026-10-19T15:46:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-19T15:46:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00d3lBODR5SzA0R2ppaGZVVS1HNkM1M05fTGYzNXpieWVDeEF2N0FfYnpaZ1hYUVpkWmZlNGxOVXhwczZfUzRndlR1WWtmTHFXSEs0UVRCalBPUlVCRTE2eWdLQmhiS3puNjFUWnJ3WHRQX2dRNWRZSllfc1J6VVU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉飞行汽车引发舆论争议",
-   "title_zh": "特斯拉飞行汽车在美国引发一连串疑问，在中国却受到大面积鼎力膜拜，可笑！ - 新浪网",
-   "sentiment": 0
   }
  ]
 }
