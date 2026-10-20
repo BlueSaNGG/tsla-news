@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T19:07:30.735680+00:00",
+ "updated_at": "2026-10-20T19:22:28.307555+00:00",
  "market": {
-  "price": 375.71,
-  "change_pct": 2.08,
+  "price": 374.44,
+  "change_pct": 1.73,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.5%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（184条已评分）"
+     "note": "今日新闻情绪 +0.23（185条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $375.71 vs 20日均线 $369.81"
+     "note": "现价 $374.44 vs 20日均线 $369.75"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.5,
-   "ma20": 369.81,
-   "as_of": "2026-10-20T19:07:30.724646+00:00"
+   "implied_upside_pct": 6.8,
+   "ma20": 369.75,
+   "as_of": "2026-10-20T19:22:28.302286+00:00"
   },
-  "pe_ttm": 103.9,
+  "pe_ttm": 103.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.23,
-   "count": 184
+   "count": 185
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5225a3055a74",
+   "title": "China-Built Tesla Model 3 Premium Hit With Safety Recall, Over 131,000 Units Affected - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lVODdWRFpjZDBlUFRuQjZaU0s3TzdDLTljRFJzYms0YzRTTDJhdXFoZzJ4QTBMUm5mYTFWY1RlRkxCbUh1SUpIV0VfRmhHTXZRaTRvRExZRW9TNzRialNWeGM0S185Rlc1dkZ0QjhEbi16dWtUY0lVNy1xNjhyT3g3dVdtRGxWTFV4WW5KM2tFdTNHV2pPanQwc1JPZFl5UjlxOVJrazRPVFVFNEoxeUJhWUtRc1VUUDNjdVl0LUM2N2tpV0JYVXdn",
+   "source": "autoevolution",
+   "published_at": "2026-10-20T19:06:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "autoevolution",
+     "published_at": "2026-10-20T19:06:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lVODdWRFpjZDBlUFRuQjZaU0s3TzdDLTljRFJzYms0YzRTTDJhdXFoZzJ4QTBMUm5mYTFWY1RlRkxCbUh1SUpIV0VfRmhHTXZRaTRvRExZRW9TNzRialNWeGM0S185Rlc1dkZ0QjhEbi16dWtUY0lVNy1xNjhyT3g3dVdtRGxWTFV4WW5KM2tFdTNHV2pPanQwc1JPZFl5UjlxOVJrazRPVFVFNEoxeUJhWUtRc1VUUDNjdVl0LUM2N2tpV0JYVXdn"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "7f03bb1efd85",
    "title": "Dear Tesla Stock Fans, Mark Your Calendars for October 21 - Barchart.com",
@@ -128,13 +145,18 @@
    "sentiment": 0
   },
   {
-   "id": "24dca2319cc2",
-   "title": "SpaceX investors, ahead of results, press Musk on Tesla merger - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUluMVVLVk9ZUmpHeTZNSkduQVlaYWtydVZ3WEptUWc0SXpqUGZ4ckZmOGM4X3JwY0V0WjJfelhvdWRLRTdZRUdnYUxwM0NRZWZGY0M4blhETWlzVnlQY0JMSEdRZFBDaG5MNW1jck9zaEdQdUs4bzhRSjdaX0xsV0xqN1RjWmRuRzAwMFZxamVNTlNuanFhVExaV3RDMEw2RmtSODg4RzB1RzRERWFz",
-   "source": "Reuters",
-   "published_at": "2026-10-20T18:14:18+00:00",
-   "outlets_count": 2,
+   "id": "c56cb3c54668",
+   "title": "SpaceX investors, ahead of results, press Musk on Tesla merger - The Spokesman-Review",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGlRNktSNHNHSEw3Uk9SMk5yMGVDbWxfbEJXcGloN1dibGtJN1ltT1BCN21NVHFwdHlhdkV4bGQ1WXZrSXY5NmpDTGVaaW04UmduMGZRMnh4UF9IYkNNX0ctaDlwb2ZjTXpKYkNSY0xUYWlyck5TTmZEeW9HZ3lseUNhNGtQSERiZ0dhUnRHcHFlSWFYQXk5TW1PR21HZw",
+   "source": "The Spokesman-Review",
+   "published_at": "2026-10-20T18:09:00+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "The Spokesman-Review",
+     "published_at": "2026-10-20T18:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGlRNktSNHNHSEw3Uk9SMk5yMGVDbWxfbEJXcGloN1dibGtJN1ltT1BCN21NVHFwdHlhdkV4bGQ1WXZrSXY5NmpDTGVaaW04UmduMGZRMnh4UF9IYkNNX0ctaDlwb2ZjTXpKYkNSY0xUYWlyck5TTmZEeW9HZ3lseUNhNGtQSERiZ0dhUnRHcHFlSWFYQXk5TW1PR21HZw"
+    },
     {
      "name": "Reuters",
      "published_at": "2026-10-20T18:14:18+00:00",
@@ -150,7 +172,11 @@
    "session": "盘中",
    "zh_summary": "SpaceX投资者追问马斯克合并事宜",
    "title_zh": "SpaceX投资者在财报前追问马斯克特斯拉合并",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.08,
+    "window_h": 1.2
+   }
   },
   {
    "id": "35b1a8726964",
@@ -2695,12 +2721,17 @@
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX3FOZ1psdDNldFJ4dHIzRnV4QlJtUVh2emhMVWZnYnpVNmJDNEZJaWZZVWxUbmdJcl9RTWdJM3BTWklkSVdLY0kyZW9MMC04amtGZnk4VFhCZ01XYjZIMWJxTEVwOS0zdExxTEtHZFo0emdEbEN1NjhJU095TjFoSDFuNWVCLWY2Y2xoR1hRRXI3eDVwcWdiX3dzNXJYQXVtUmhuRlZZVDhQOXlrN2kyZHBTVlFxMUpra2JhYzI0aERIMFlUbkFmM21KbUlRNWNSeXJFaXE0b1laN05VaXZXcVdVTzE0TF9jUlZrZE56S0w1c2hUZXBxZ2ItWVItaHJCVHNldQ",
    "source": "Benzinga",
    "published_at": "2026-10-20T08:58:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Benzinga",
      "published_at": "2026-10-20T08:58:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNX3FOZ1psdDNldFJ4dHIzRnV4QlJtUVh2emhMVWZnYnpVNmJDNEZJaWZZVWxUbmdJcl9RTWdJM3BTWklkSVdLY0kyZW9MMC04amtGZnk4VFhCZ01XYjZIMWJxTEVwOS0zdExxTEtHZFo0emdEbEN1NjhJU095TjFoSDFuNWVCLWY2Y2xoR1hRRXI3eDVwcWdiX3dzNXJYQXVtUmhuRlZZVDhQOXlrN2kyZHBTVlFxMUpra2JhYzI0aERIMFlUbkFmM21KbUlRNWNSeXJFaXE0b1laN05VaXZXcVdVTzE0TF9jUlZrZE56S0w1c2hUZXBxZ2ItWVItaHJCVHNldQ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-20T08:58:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZZncxWkdqSWtUV09XYzFCWFQ2bFR2SFphRG9WRWlDX3FQOXkxbXlGS1pUYk9MWVAtWlRRUTl5UVpmaG5lT1FpMXRsYU9NM0huVFNkSHl3V2ljVjBSdUFWbi14X0lSOE92"
     }
    ],
    "category": "其他",
@@ -5552,26 +5583,6 @@
    "sentiment": 1
   },
   {
-   "id": "b6ee3a0ab673",
-   "title": "特斯拉人形机器人，已准备好大规模量产 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEROWkxQNER1dzZfYkVpUWdaeEdDdklGclVhRDlDN0tMSjJXdWI2N2o1NHdCdlJsS2pIeTFOWU1GU0VKMXg0Y3ZPR3BrRGU5M296bWVwSTNVNlNpaUJ3dy1IZ0FERElmQ0pPZ2R5NC1PRWh0enRUWjVnbWJXZVNPUQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-20T00:10:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-20T00:10:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEROWkxQNER1dzZfYkVpUWdaeEdDdklGclVhRDlDN0tMSjJXdWI2N2o1NHdCdlJsS2pIeTFOWU1GU0VKMXg0Y3ZPR3BrRGU5M296bWVwSTNVNlNpaUJ3dy1IZ0FERElmQ0pPZ2R5NC1PRWh0enRUWjVnbWJXZVNPUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉人形机器人已准备大规模量产",
-   "title_zh": "特斯拉人形机器人，已准备好大规模量产 - 新浪财经",
-   "sentiment": 1
-  },
-  {
    "id": "01f0a5ca8e2a",
    "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁 - 爱范儿",
    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XSGRNZENkcFlhSGVlODVGZ08zQXdIT2tIY0ZOYnFCdnRpVkNWVGdFSUFLUG9NVkMxaEhSYWQxY0kxMVU",
@@ -5948,6 +5959,26 @@
    "session": "盘后",
    "zh_summary": "ARK称2031年特斯拉市值17.5万亿美元",
    "title_zh": "ARK预测：2031年特斯拉市值达17.5万亿美元",
+   "sentiment": 1
+  },
+  {
+   "id": "b6ee3a0ab673",
+   "title": "特斯拉人形机器人，已准备好大规模量产 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3FDVHhXY19jYV9lVHplZGI3Rm14ak10aGo4NjV3UHBsMUdBTXhCbmh2ZXZKSlExMFBUWEM0LUJxeFBjaUI4TWxyYktFVVYxb0FoVVRtZkFUN0RuaVBLZ3ZDWFVSSFFFN2VBbGh1dVkxYkIyRU02UFRyWWpSU2t1UlZncTNhNkNYSDY2czM0Q2tCY2JuUFNobmNfc19aWGVfZW9UdEJYc3JwcV9PZ0RuNFRZaDVlNkVOWGhQZW1RUWNQMVVPUmFQME9NTk1JX3hzbC1RNFBUTQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-19T22:04:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-19T22:04:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3FDVHhXY19jYV9lVHplZGI3Rm14ak10aGo4NjV3UHBsMUdBTXhCbmh2ZXZKSlExMFBUWEM0LUJxeFBjaUI4TWxyYktFVVYxb0FoVVRtZkFUN0RuaVBLZ3ZDWFVSSFFFN2VBbGh1dVkxYkIyRU02UFRyWWpSU2t1UlZncTNhNkNYSDY2czM0Q2tCY2JuUFNobmNfc19aWGVfZW9UdEJYc3JwcV9PZ0RuNFRZaDVlNkVOWGhQZW1RUWNQMVVPUmFQME9NTk1JX3hzbC1RNFBUTQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后",
+   "zh_summary": "特斯拉人形机器人已准备大规模量产",
+   "title_zh": "特斯拉人形机器人，已准备好大规模量产 - 新浪财经",
    "sentiment": 1
   },
   {
@@ -6490,26 +6521,6 @@
    "zh_summary": "特斯拉撞公寓楼致住户疏散",
    "title_zh": "一辆特斯拉撞上雷德蒙德公寓楼致住户疏散",
    "sentiment": -1
-  },
-  {
-   "id": "5af5ef1cc5a0",
-   "title": "Tesla, Micron among market cap stock movers on Monday - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODJRX1FwNXpYa1ppNlVKZUxGQkVIc2prTGpfY2lSR0NIU201bXVkWjMxUGtZSjB0UUZ1X0pQYXFlVUxoWmszOXZacjJJWnJXeEp3S0Y2UEJzdkJnOW14QWFMSERnNmtTWWR5OS1sY3JXdUxwQzJ5VDNyS3BqaXFJd2VmdkV6aGlKdnhpRVZaekJWVDBoTk9KSXhHOGJrQ0htend1NjR1VEx5akFaMk82SGVUUzY",
-   "source": "Investing.com",
-   "published_at": "2026-10-19T18:10:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-19T18:10:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODJRX1FwNXpYa1ppNlVKZUxGQkVIc2prTGpfY2lSR0NIU201bXVkWjMxUGtZSjB0UUZ1X0pQYXFlVUxoWmszOXZacjJJWnJXeEp3S0Y2UEJzdkJnOW14QWFMSERnNmtTWWR5OS1sY3JXdUxwQzJ5VDNyS3BqaXFJd2VmdkV6aGlKdnhpRVZaekJWVDBoTk9KSXhHOGJrQ0htend1NjR1VEx5akFaMk82SGVUUzY"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "周一特斯拉、美光等大盘股异动",
-   "title_zh": "周一市值异动股：特斯拉、美光等",
-   "sentiment": 0
   }
  ]
 }
