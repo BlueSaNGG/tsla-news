@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T21:52:29.907630+00:00",
+ "updated_at": "2026-10-20T22:07:28.583857+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（204条已评分）"
+     "note": "今日新闻情绪 +0.21（209条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-20T21:52:29.895435+00:00"
+   "as_of": "2026-10-20T22:07:28.571933+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.21,
-   "count": 204
+   "count": 209
   }
  },
  "meta": {
@@ -67,26 +67,6 @@
   }
  },
  "stories": [
-  {
-   "id": "4cd8777caae3",
-   "title": "马斯克：SpaceX 与特斯拉已成立委员会以讨论合并事宜 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QLUxmRUJTQVlFUFBXUmJreFdOTFUtZUYtSVlwVHpvd1FEQWNUSTAySHByeElsREdOWjNNekxvU0FMOFJCRldzY3V1VE05Z3pfTEdLNFhNQUJOSUJMYzgxNQ",
-   "source": "东方财富",
-   "published_at": "2026-10-20T21:49:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-20T21:49:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QLUxmRUJTQVlFUFBXUmJreFdOTFUtZUYtSVlwVHpvd1FEQWNUSTAySHByeElsREdOWjNNekxvU0FMOFJCRldzY3V1VE05Z3pfTEdLNFhNQUJOSUJMYzgxNQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "特斯拉与SpaceX成立委员会探讨合并",
-   "title_zh": "马斯克：SpaceX与特斯拉已成立委员会讨论合并——东方财富",
-   "sentiment": 0
-  },
   {
    "id": "1f621f56ee21",
    "title": "Elon Musk says Tesla and SpaceX have set up committees to explore a merger - Business Insider",
@@ -105,6 +85,65 @@
    "session": "盘后",
    "zh_summary": "特斯拉与SpaceX成立委员会探讨合并",
    "title_zh": "马斯克称特斯拉与SpaceX已成立委员会探讨合并",
+   "sentiment": 0
+  },
+  {
+   "id": "8c3a2e105e42",
+   "title": "Tesla and SpaceX now have committees weighing a merger - MarketScale",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObi0zdGlScnJGQ2NNai1qZ2RXZThKZ2lpX2wyUm5YWFlxN1pwRVhWVUVqZGlXR3lFdzVVWGR4RjRVT2xUdEkwYVVRcmQ0Nk9QMnJYc0lMdkRCWWo5VVFhQWp3MHdQVmRJdl9oVmxzalFqV2ZMaTd0eDZoZFFrRkZNbkxzUG5IcHdIc0NiVEZPX2pDYjItSkQtWDNBNElGVnd6cllSMmROeDF3WFp6",
+   "source": "MarketScale",
+   "published_at": "2026-10-20T21:45:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketScale",
+     "published_at": "2026-10-20T21:45:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObi0zdGlScnJGQ2NNai1qZ2RXZThKZ2lpX2wyUm5YWFlxN1pwRVhWVUVqZGlXR3lFdzVVWGR4RjRVT2xUdEkwYVVRcmQ0Nk9QMnJYc0lMdkRCWWo5VVFhQWp3MHdQVmRJdl9oVmxzalFqV2ZMaTd0eDZoZFFrRkZNbkxzUG5IcHdIc0NiVEZPX2pDYjItSkQtWDNBNElGVnd6cllSMmROeDF3WFp6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "326bac163b09",
+   "title": "SpaceX and Tesla form committees to explore a merger, Musk says - San Antonio Express-News",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWlvZUVrbUFkaC1tblNqTzdVcDJMVWZoNVoxX29oTGIzSGZwdVEwTWZ3NjNVeU1tMnNoQzVQMTZocE9GeWdRUWlZdWNka1lzVlRwQzlYTHVuZjFYbGZYakFuSlFmYUF4T0kwZHNTdGRHSU9XN2ZXX2w5UnpKdmlyWFdFSHgyNElRUkRaV0wzM3VQMmg0VXlSMndteW43TjVWcGVHQ29UMXpRdw",
+   "source": "San Antonio Express-News",
+   "published_at": "2026-10-20T21:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "San Antonio Express-News",
+     "published_at": "2026-10-20T21:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWlvZUVrbUFkaC1tblNqTzdVcDJMVWZoNVoxX29oTGIzSGZwdVEwTWZ3NjNVeU1tMnNoQzVQMTZocE9GeWdRUWlZdWNka1lzVlRwQzlYTHVuZjFYbGZYakFuSlFmYUF4T0kwZHNTdGRHSU9XN2ZXX2w5UnpKdmlyWFdFSHgyNElRUkRaV0wzM3VQMmg0VXlSMndteW43TjVWcGVHQ29UMXpRdw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
+   "id": "1fdedf1784ee",
+   "title": "马斯克：SpaceX与特斯拉已各自成立特别委员会，商讨合并事宜 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZzM4cjMzQmszZUF2MDByRjg2a0paODQ3ZnBmSk5nOU1aVmM3WnpTNFV5b3lKYmo2MWFhWjZ0WkdMUHhBXzd6M2pvM2gwX0pQY241ZGhqN1BsUnZfaHA5VGRsM2pYVVpVRC1Ha3ZDWmhpcWRSM0JQbGIxUjJIaGNXWmI2V2Q3TzZ1RmxsYTkzeHhvdUFLSi1rUHc2UVNJNWh0aFZSaTFDb1NqNUh6NVUtaTg3VmlsNWRKbmZkOEVTMjJRUjRiZHM5V1RRazNaQlNkdE1GalExM3d5X3pGOWxR",
+   "source": "新浪财经",
+   "published_at": "2026-10-20T21:43:11+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-20T21:43:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZzM4cjMzQmszZUF2MDByRjg2a0paODQ3ZnBmSk5nOU1aVmM3WnpTNFV5b3lKYmo2MWFhWjZ0WkdMUHhBXzd6M2pvM2gwX0pQY241ZGhqN1BsUnZfaHA5VGRsM2pYVVpVRC1Ha3ZDWmhpcWRSM0JQbGIxUjJIaGNXWmI2V2Q3TzZ1RmxsYTkzeHhvdUFLSi1rUHc2UVNJNWh0aFZSaTFDb1NqNUh6NVUtaTg3VmlsNWRKbmZkOEVTMjJRUjRiZHM5V1RRazNaQlNkdE1GalExM3d5X3pGOWxR"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-20T21:49:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QLUxmRUJTQVlFUFBXUmJreFdOTFUtZUYtSVlwVHpvd1FEQWNUSTAySHByeElsREdOWjNNekxvU0FMOFJCRldzY3V1VE05Z3pfTEdLNFhNQUJOSUJMYzgxNQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后",
+   "zh_summary": "特斯拉与SpaceX成立委员会探讨合并",
+   "title_zh": "马斯克：SpaceX与特斯拉已成立委员会讨论合并——东方财富",
    "sentiment": 0
   },
   {
@@ -286,6 +325,23 @@
    "zh_summary": "特斯拉三季度财报前瞻：营收持平利润下滑",
    "title_zh": "特斯拉（TSLA）2026年第三季度财报前瞻：营收持平，利润下滑",
    "sentiment": -1
+  },
+  {
+   "id": "0bc6c2dcedb9",
+   "title": "SpaceX and Tesla form special committees to study potential merger - Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzNRRDRYUUpYbk9aM3pLd0tOTXlibVA4blhxNS1oSGExUXdJWEcyTHhURy1CUGNnQkZwbEFvUGE3SXp3dS12VUtZeHozdzVWVUZ0QWJXUFpXNlJoOC1zaHlHR29ycktaYndmRTlzcUlPUzJ6b2FEdUpIZDhvTnBoekN3T1c",
+   "source": "Financial Times",
+   "published_at": "2026-10-20T20:12:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Financial Times",
+     "published_at": "2026-10-20T20:12:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzNRRDRYUUpYbk9aM3pLd0tOTXlibVA4blhxNS1oSGExUXdJWEcyTHhURy1CUGNnQkZwbEFvUGE3SXp3dS12VUtZeHozdzVWVUZ0QWJXUFpXNlJoOC1zaHlHR29ycktaYndmRTlzcUlPUzJ6b2FEdUpIZDhvTnBoekN3T1c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "295ca3eb8528",
@@ -6487,71 +6543,6 @@
    "zh_summary": "特斯拉人形机器人已准备大规模量产",
    "title_zh": "特斯拉人形机器人，已准备好大规模量产 - 新浪财经",
    "sentiment": 1
-  },
-  {
-   "id": "e61692148817",
-   "title": "ARK’s Expected Share Price For Tesla In 2031 - Ark Invest",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDlUSGZnZERMbEpsZl9LdzM4a04taHFWa1hFTjlOX0p4TzJ2TV9FRVhDazZIei1DUmUtMVBYajBhdmhPcU9TV0wwbDVKcWh0cnBfMkF5YnVLSk56OXlpaDRrcElIYkwwRGtpMkMzZmFLYjVkaGRLLVIycUtoMGhyamI1QllZbTdDTlBLQjlXVl9YQXo2dEtZag",
-   "source": "Ark Invest",
-   "published_at": "2026-10-19T21:48:50+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Ark Invest",
-     "published_at": "2026-10-19T21:48:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDlUSGZnZERMbEpsZl9LdzM4a04taHFWa1hFTjlOX0p4TzJ2TV9FRVhDazZIei1DUmUtMVBYajBhdmhPcU9TV0wwbDVKcWh0cnBfMkF5YnVLSk56OXlpaDRrcElIYkwwRGtpMkMzZmFLYjVkaGRLLVIycUtoMGhyamI1QllZbTdDTlBLQjlXVl9YQXo2dEtZag"
-    },
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-20T08:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazFMZkc5bmFFT283UThHLXVHQ2VUcWtwMzhGRllXTld1eHhURDd0MWp3a0N0LUtiUGdEWnktdjhyam02eHU0dFRVX0tQa1ZDQ1dKejBYSlhNMlRmOEJqMEk2QUwwMVJzbjNCNTZRNWswX3lxdXU4VDRmYjRBa282Q3NlOVktTFU1TklxMQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "ARK展望特斯拉2031年目标价",
-   "title_zh": "ARK Invest展望特斯拉2031年预期股价",
-   "sentiment": 1
-  },
-  {
-   "id": "c3c5b379aa8c",
-   "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2gtZmlxbk85a0hhLTVERkNDU2xKTnI2bDd1aGthazZObV9mLTdYMXBUaUxxaDFZRzNNZEt5QXdzVDNNVnNDMWtObkNycTNLc2tmWGZFTWhNU2RpN3JTMTBmUlFlZ2xzb3NiSGFMVTZ3d21lRjVHbVdUYkMyOHViVGlYcFNlUlM0eTZIQ0M0OUhvSlNHTTRHbWgtdFpRVDBLbVE5VG9DV01md0pjdERyUVp1dw",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-19T21:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-19T21:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2gtZmlxbk85a0hhLTVERkNDU2xKTnI2bDd1aGthazZObV9mLTdYMXBUaUxxaDFZRzNNZEt5QXdzVDNNVnNDMWtObkNycTNLc2tmWGZFTWhNU2RpN3JTMTBmUlFlZ2xzb3NiSGFMVTZ3d21lRjVHbVdUYkMyOHViVGlYcFNlUlM0eTZIQ0M0OUhvSlNHTTRHbWgtdFpRVDBLbVE5VG9DV01md0pjdERyUVp1dw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "特斯拉周三财报在即，道指期货走高",
-   "title_zh": "道指期货：AMD、英伟达领涨AI股，特斯拉等财报在即",
-   "sentiment": 0
-  },
-  {
-   "id": "7728c01b4108",
-   "title": "Why December 3 Could Be a Critical Date for Tesla and SpaceX Stocks - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWNjbXd1VzNUUEtDLUc4OFhEcmVvdTdrRUU5bU1lQTk2WnRaUXE3dmpPWkdKRHN4bXEzNmRSN2ktZThlaWxHSmEydkJlUTRobEFJQzVsOTN0Y3dxaUVUQmFnRXpEeUJXb3VNN1hnMXdDMXVpY3VSQnFQME5tWHEwaHBBSzk2SW55WGR6SGg1T2JmMjFIUWgtZmFB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T21:27:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T21:27:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWNjbXd1VzNUUEtDLUc4OFhEcmVvdTdrRUU5bU1lQTk2WnRaUXE3dmpPWkdKRHN4bXEzNmRSN2ktZThlaWxHSmEydkJlUTRobEFJQzVsOTN0Y3dxaUVUQmFnRXpEeUJXb3VNN1hnMXdDMXVpY3VSQnFQME5tWHEwaHBBSzk2SW55WGR6SGg1T2JmMjFIUWgtZmFB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "12月3日或成特斯拉SpaceX股价关键日",
-   "title_zh": "12月3日为何可能是特斯拉和SpaceX股价的关键日期——雅虎财经",
-   "sentiment": 0
   }
  ]
 }
