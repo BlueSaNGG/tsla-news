@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T19:52:31.630305+00:00",
+ "updated_at": "2026-10-20T20:07:33.101228+00:00",
  "market": {
-  "price": 374.68,
-  "change_pct": 1.8,
+  "price": 373.71,
+  "change_pct": 1.54,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +7.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（187条已评分）"
+     "note": "今日新闻情绪 +0.22（189条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $374.68 vs 20日均线 $369.76"
+     "note": "现价 $373.71 vs 20日均线 $369.71"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.8,
-   "ma20": 369.76,
-   "as_of": "2026-10-20T19:52:31.616501+00:00"
+   "implied_upside_pct": 7.0,
+   "ma20": 369.71,
+   "as_of": "2026-10-20T20:07:33.094013+00:00"
   },
-  "pe_ttm": 103.6,
+  "pe_ttm": 103.4,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.22,
-   "count": 187
+   "count": 189
   }
  },
  "meta": {
@@ -1098,12 +1098,17 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0V1MXhTT0NZS1RKOVB1OS1qYVRPSEl0UlhuXzBURjFHWlZHR21QVlZmcHAwdGZ5MkNnVk9iOEh4N25mTnFrOHMyTzV0VkJGd2RVRjRJck55VUI4enhoZDdKMHA4cWJhdU9Vc0dSWU94SmlkQ25IbHdXbHcyTjM2S3JwV2VDWkFYSmZDWEN4aUlRT3diSVBYczBGODlDMzJJTnpaUVB1dFpCcGFMVGQ5SmdraUpnQTlpY0xZRV9oMDVTdmcwTGx4TWpuRGpkTFNmOUNpQQ",
    "source": "Reuters",
    "published_at": "2026-10-20T13:59:25+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Reuters",
      "published_at": "2026-10-20T13:59:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0V1MXhTT0NZS1RKOVB1OS1qYVRPSEl0UlhuXzBURjFHWlZHR21QVlZmcHAwdGZ5MkNnVk9iOEh4N25mTnFrOHMyTzV0VkJGd2RVRjRJck55VUI4enhoZDdKMHA4cWJhdU9Vc0dSWU94SmlkQ25IbHdXbHcyTjM2S3JwV2VDWkFYSmZDWEN4aUlRT3diSVBYczBGODlDMzJJTnpaUVB1dFpCcGFMVGQ5SmdraUpnQTlpY0xZRV9oMDVTdmcwTGx4TWpuRGpkTFNmOUNpQQ"
+    },
+    {
+     "name": "WTVB",
+     "published_at": "2026-10-20T14:07:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWTFCS1BSd3NJQXl3TnFSWTNtSDZSdHFJSTVNRUluVWtXWGhZb1FCb291WVpoWlRhTVpzQzZIa0RJTXlvb1Y5MWM2UVVNb0h1NHNKZVl4VUl0NERQQmJiQ3ZBb1VkU2EwODU4UHJ5MmtPemVkZzRyeVBtY0pTYXg5aUEyUFpGU0thZEI2cTdfMURGV0NtdXdPeFB6NHR1V0tVdHFZX2tNMG5OaE8xVG1tWmtkTlU"
     }
    ],
    "category": "车型产品",
@@ -1111,6 +1116,23 @@
    "zh_summary": "法拉利CEO赞Roadster新设计为行业所需创新",
    "title_zh": "法拉利CEO盛赞特斯拉Roadster重新设计，称是行业所需的创新",
    "sentiment": 1
+  },
+  {
+   "id": "2ed5479a2769",
+   "title": "法拉利CEO盛赞特斯拉Roadster的重新设计是该行业亟需的大胆创新 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dW56cjNpR1Y4MFQyQThnMmQ5R3I5XzI4RzRta2w5b3BYamU3RzcyT3ljZXNSQXA0b1EySkhzY2hrOFplQklJWXZ5Zw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-20T13:58:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-20T13:58:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dW56cjNpR1Y4MFQyQThnMmQ5R3I5XzI4RzRta2w5b3BYamU3RzcyT3ljZXNSQXA0b1EySkhzY2hrOFplQklJWXZ5Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "bd88a05fdeb9",
@@ -1406,6 +1428,23 @@
    "zh_summary": "SpaceX与特斯拉财报临近，合并传闻持续",
    "title_zh": "SpaceX与特斯拉财报双双临近，合并传闻持续",
    "sentiment": 1
+  },
+  {
+   "id": "4956ff1ce61d",
+   "title": "特斯拉新款Roadster跑车亮相 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGdXUFN1X0Y2cGF3REVCRmE1RjBla3FNb1hERHRtOWtUUHVqZFB6RU1WVGNIVWUzb2RMSXMwM2hHTFZfX1hYWlBBeDhGUi1GLWhHWVhBRWkwWXdKeF80RWtZSktaejh5MXd2cVlPMlBwRzVJRzVCR241MWg5aWl2Nw",
+   "source": "新浪网",
+   "published_at": "2026-10-20T13:10:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-20T13:10:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGdXUFN1X0Y2cGF3REVCRmE1RjBla3FNb1hERHRtOWtUUHVqZFB6RU1WVGNIVWUzb2RMSXMwM2hHTFZfX1hYWlBBeDhGUi1GLWhHWVhBRWkwWXdKeF80RWtZSktaejh5MXd2cVlPMlBwRzVJRzVCR241MWg5aWl2Nw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "04f9a1a292bd",
@@ -6490,46 +6529,6 @@
    "zh_summary": "飞行汽车公司飞越特斯拉车型挑衅",
    "title_zh": "飞行汽车公司飞越特斯拉车型进行挑衅",
    "sentiment": -1
-  },
-  {
-   "id": "26714c1a681c",
-   "title": "Tesla keeps the new Roadster available to the Referral Award winners - Tesla Oracle",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPck9BMWJMMmJHbi1TTDNCay1CdHp5dkV2cHp0RVJQUXhZSnhtaWVudWpVUHdZUkhZcFpiYzhWMFhMaUd3ejUwaHcyYmg5dWxOY3JGYUNZaHJJUW1KdnRYRU9XYzUxZzVNeWMyTHdrUzNQVjNDSGlhUnowaFZLZVp5YTE2SlYyY0djVUtDNS11Uk1VX1ItMVlKd00zVEo0aVJYRVM2cGM0VFQxM0lK",
-   "source": "Tesla Oracle",
-   "published_at": "2026-10-19T18:40:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tesla Oracle",
-     "published_at": "2026-10-19T18:40:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPck9BMWJMMmJHbi1TTDNCay1CdHp5dkV2cHp0RVJQUXhZSnhtaWVudWpVUHdZUkhZcFpiYzhWMFhMaUd3ejUwaHcyYmg5dWxOY3JGYUNZaHJJUW1KdnRYRU9XYzUxZzVNeWMyTHdrUzNQVjNDSGlhUnowaFZLZVp5YTE2SlYyY0djVUtDNS11Uk1VX1ItMVlKd00zVEo0aVJYRVM2cGM0VFQxM0lK"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "新Roadster继续面向推荐获奖者供应",
-   "title_zh": "特斯拉继续向推荐奖励获奖者提供新Roadster",
-   "sentiment": 1
-  },
-  {
-   "id": "e3419cfbcf45",
-   "title": "Gary Black Predicts SpaceX Buys Tesla for “$420/Share” Within Weeks - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEJRakRhLW1OMnBtaFp0aFJHOVd4OFhNV0o1cFJMenIzaDFuckNocnRMQUtSS0g2c04xSnF6eXE5aGZ3Zml5UG9UU21LTzZ1WUxsY2hqSVk2aEt0ajhZOXpNMGJ0N2pUV3BabkdmRkwzTlFRTUk2RDFxZm5ZeDVIUG1Nblg2dXI1d19JbXZQNVMtaVF3dVJ0NkFTVFg",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T18:36:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T18:36:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEJRakRhLW1OMnBtaFp0aFJHOVd4OFhNV0o1cFJMenIzaDFuckNocnRMQUtSS0g2c04xSnF6eXE5aGZ3Zml5UG9UU21LTzZ1WUxsY2hqSVk2aEt0ajhZOXpNMGJ0N2pUV3BabkdmRkwzTlFRTUk2RDFxZm5ZeDVIUG1Nblg2dXI1d19JbXZQNVMtaVF3dVJ0NkFTVFg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "分析师预测SpaceX以420美元收购特斯拉",
-   "title_zh": "Gary Black预测SpaceX数周内以420美元/股收购特斯拉",
-   "sentiment": 1
   }
  ]
 }
