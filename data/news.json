@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:22:34.021003+00:00",
+ "updated_at": "2026-10-20T20:37:27.995551+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（191条已评分）"
+     "note": "今日新闻情绪 +0.21（195条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-20T20:22:34.014472+00:00"
+   "as_of": "2026-10-20T20:37:27.983158+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 191
+   "avg": 0.21,
+   "count": 195
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b20f0af4d667",
+   "title": "特斯拉第二代Roadster得州展示腾空动作，家庭用户最关心的空间、安全、成本怎么样？ - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOThaYkpEOF9yaGlNT0NfaWF1MXgybkpKeGpkczdLQVpZN292UU40ejV2Tk9BTmltRnhTWTZ4NEEyazkxZzRYNVAwMF9rVm1IMERVTW1QSXgycWs",
+   "source": "网通社",
+   "published_at": "2026-10-20T20:19:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-20T20:19:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOThaYkpEOF9yaGlNT0NfaWF1MXgybkpKeGpkczdLQVpZN292UU40ejV2Tk9BTmltRnhTWTZ4NEEyazkxZzRYNVAwMF9rVm1IMERVTW1QSXgycWs"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d4af1393ecaa",
    "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits - Electrek",
@@ -253,7 +270,7 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZm1ybHVXNEJWZVlPbXRQdk50X1ViQ2RMZ0QzNmZmc0tmbDEyNlFOZ2RMamt0X2pFS01BcUFJN255S1VpWHcyS1NDclVUUktzMkJKUGNCTmc4dDhPRUdxQXkyZV83S3VVdXJsd3ZYNGFta29WRmhXT05RVWU5OGF1WngycFRpTldPbnVhaEl5UW1YNEtOOFBjOXNhSVRKSFNyWTRXS29MNUkzMk9wU21XOWlkSUoyMWRoRTF4bmUzQ09UMGVxQ1FPVWZn",
    "source": "TradingView",
    "published_at": "2026-10-20T18:06:33+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "TradingView",
@@ -274,11 +291,15 @@
      "name": "KSL News",
      "published_at": "2026-10-20T18:17:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnRieDZla202V19UQUFNZ0s1Y0cwZHNjYUZJTEVhMl8tQ0RmMUd0SnZIenh3V1RTb2hZR3hwTDNYYkZUbl9lQlZET3Fjdy1rdU5uWXE0ZHQxdG42ZVl3U1BMOGk5UmNRdzV1RTV1VkdTSWxjRUg2ZVJTMXVYcVRkWEFyVnlHSlhyaFpqaU1NWUpZU0JMZmE1SjZocXctQQ"
+    },
+    {
+     "name": "WKZO",
+     "published_at": "2026-10-20T20:32:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmNlS01fektiNHEybGJUVWpSNGlRRmh0alAwUWhXU2NkbWFyRzNKbm5heE4wVFd2aHZWSVNXel9vN0YzQldPbmZQQmF3b1prODRkSUNnMTB1S21Bb2prZmhIZnJiU1ZpQWdZY19KdWU5LXlPUWhDc0dMdnJLcXJzM0JDTld0bVkyU2xzOGpwVXdlM3M"
     }
    ],
    "category": "财报",
    "session": "盘中",
-   "breaking": true,
    "zh_summary": "SpaceX投资者追问马斯克合并事宜",
    "title_zh": "SpaceX投资者在财报前追问马斯克特斯拉合并",
    "sentiment": 0,
@@ -6514,31 +6535,6 @@
    "zh_summary": "马斯克赠股后SpaceX股价上涨分析师测合并价格",
    "title_zh": "马斯克赠股后SpaceX股价攀升，分析师预测特斯拉合并价格",
    "sentiment": 1
-  },
-  {
-   "id": "a182cce22c5f",
-   "title": "Hutto explores using Tesla Cybertrucks for police, city departments | Pflugerville - Hutto - Community Impact Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWhuUzVuMXNvQjFMZ2pPeElKYjl4UWV1ODYtQzZzbkRIYTNMNHNVN2JGLUtYYUUwY2x4ZmdJTjBQamh0enhxQnBKN2lha1l2bE9DWm9WWldUcDJOWXJhNWxWX1ZLNjg1d0M0TFJSdFdyM0RNU0hwdm1fdWhBOFJZZGlwUVRvRWNTcHY5T053eGkyRTRnQWU2TzVON24yX2J6cWhaU1oyMHFOV09VMk0yRmdjUWVxM1pKZkVCU3NhbkpJcms",
-   "source": "Community Impact Newspaper",
-   "published_at": "2026-10-19T19:46:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Community Impact Newspaper",
-     "published_at": "2026-10-19T19:46:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWhuUzVuMXNvQjFMZ2pPeElKYjl4UWV1ODYtQzZzbkRIYTNMNHNVN2JGLUtYYUUwY2x4ZmdJTjBQamh0enhxQnBKN2lha1l2bE9DWm9WWldUcDJOWXJhNWxWX1ZLNjg1d0M0TFJSdFdyM0RNU0hwdm1fdWhBOFJZZGlwUVRvRWNTcHY5T053eGkyRTRnQWU2TzVON24yX2J6cWhaU1oyMHFOV09VMk0yRmdjUWVxM1pKZkVCU3NhbkpJcms"
-    },
-    {
-     "name": "Community Impact",
-     "published_at": "2026-10-20T00:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWhuUzVuMXNvQjFMZ2pPeElKYjl4UWV1ODYtQzZzbkRIYTNMNHNVN2JGLUtYYUUwY2x4ZmdJTjBQamh0enhxQnBKN2lha1l2bE9DWm9WWldUcDJOWXJhNWxWX1ZLNjg1d0M0TFJSdFdyM0RNU0hwdm1fdWhBOFJZZGlwUVRvRWNTcHY5T053eGkyRTRnQWU2TzVON24yX2J6cWhaU1oyMHFOV09VMk0yRmdjUWVxM1pKZkVCU3NhbkpJcms"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "哈托拟用赛博卡车作警车",
-   "title_zh": "哈托市考虑用特斯拉赛博卡车作警车和市政用车",
-   "sentiment": 0
   }
  ]
 }
