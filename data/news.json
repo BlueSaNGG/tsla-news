@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T06:52:26.151022+00:00",
+ "updated_at": "2026-10-20T07:07:27.421774+00:00",
  "market": {
   "price": 368.06,
   "change_pct": 3.76,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（17条已评分）"
+     "note": "今日新闻情绪 +0.18（22条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.7,
    "ma20": 369.97,
-   "as_of": "2026-10-20T06:52:26.143590+00:00"
+   "as_of": "2026-10-20T07:07:27.401719+00:00"
   },
   "pe_ttm": 101.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 17
+   "avg": 0.18,
+   "count": 22
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "eaa68959e631",
+   "title": "特斯拉Optimus量产提速，丰立智能人形机器人业务加速商业化 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XSE9OcnlTTGtwQ3dTZnhZLUhqS2wtYURBRlpEQ0pKTG83QW40d3JQV24wVzJKczlkTzl2QjNRMHVJanNhbGhoN3dvYXdBaEtibjZmSFJTcjFpUm1VckZfUzRwdzRiZw",
+   "source": "东方财富",
+   "published_at": "2026-10-20T07:01:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-20T07:01:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XSE9OcnlTTGtwQ3dTZnhZLUhqS2wtYURBRlpEQ0pKTG83QW40d3JQV24wVzJKczlkTzl2QjNRMHVJanNhbGhoN3dvYXdBaEtibjZmSFJTcjFpUm1VckZfUzRwdzRiZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "1503bee389a5",
+   "title": "特斯拉：品牌不存在速成车 强调安全与直营模式 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wX0lha0dHbTE1WUdmSDZMczI4VzFYT1Q2WTc4TEZRVWgzdGFER2s1XzZiVVBQZ2tsWVlVQTNnTEJpQlJ6LW1LcmVRVUIyeEk4MGhlaU0zT0xHSFdMcW85bERGQXdLdjFNcnAxWF9CTVg",
+   "source": "中华网",
+   "published_at": "2026-10-20T06:53:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-20T06:53:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wX0lha0dHbTE1WUdmSDZMczI4VzFYT1Q2WTc4TEZRVWgzdGFER2s1XzZiVVBQZ2tsWVlVQTNnTEJpQlJ6LW1LcmVRVUIyeEk4MGhlaU0zT0xHSFdMcW85bERGQXdLdjFNcnAxWF9CTVg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "45402372db50",
+   "title": "腾空的Roadster，是特斯拉向“人类驾驶”的一次告别 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpdGVnYXJObk51YzRBaWZJVHRNZzExNTI5SGNnWmRtY2d3SFVyTVU0QTRiQllQZFEyaUpVRktBRWlPS1duSzNtR1gwYmVFMDBVeXhlNDVjek5RbXB1Um1WQUIydjVDbDJjbTZ1TDg1czA",
+   "source": "金融界",
+   "published_at": "2026-10-20T06:52:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "金融界",
+     "published_at": "2026-10-20T06:52:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpdGVnYXJObk51YzRBaWZJVHRNZzExNTI5SGNnWmRtY2d3SFVyTVU0QTRiQllQZFEyaUpVRktBRWlPS1duSzNtR1gwYmVFMDBVeXhlNDVjek5RbXB1Um1WQUIydjVDbDJjbTZ1TDg1czA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "8191eaa3c599",
    "title": "特斯拉Roadster飞行细节披露，加注需两到六小时仅五秒推进 - 新浪网",
@@ -93,10 +144,15 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cW5sUDNPWVYzQnVPQ0d4SnRBdUR4SW82V2k4Yl8tVGZrMW81SWRIbmpCNWdZMHRQVDZpQ3JQMnNwTU1FaS1qSUVvclNoc2ZKc0NLMThIYjkyRFdmQjI0TTJoR1ZqREk5WHhNMDFPWHo0RHF2RE96WWdR",
    "source": "tech-insider.org",
    "published_at": "2026-10-20T06:43:05+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-20T06:43:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cW5sUDNPWVYzQnVPQ0d4SnRBdUR4SW82V2k4Yl8tVGZrMW81SWRIbmpCNWdZMHRQVDZpQ3JQMnNwTU1FaS1qSUVvclNoc2ZKc0NLMThIYjkyRFdmQjI0TTJoR1ZqREk5WHhNMDFPWHo0RHF2RE96WWdR"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-20T06:43:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cW5sUDNPWVYzQnVPQ0d4SnRBdUR4SW82V2k4Yl8tVGZrMW81SWRIbmpCNWdZMHRQVDZpQ3JQMnNwTU1FaS1qSUVvclNoc2ZKc0NLMThIYjkyRFdmQjI0TTJoR1ZqREk5WHhNMDFPWHo0RHF2RE96WWdR"
     }
@@ -106,6 +162,23 @@
    "zh_summary": "Model 3改款借鉴Roadster设计配16英寸屏",
    "title_zh": "特斯拉Model 3改款或借鉴Roadster设计，配备16英寸屏幕",
    "sentiment": 0
+  },
+  {
+   "id": "5e1085c048a7",
+   "title": "特斯拉飞行 Roadster：是未来出行，还是一场封闭场地的技术秀？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwbkZ3SDJ2X2RTQXRiX2VsR012UzBpZzV5YjlweEJ6OGw4NXFEQkg2ZC04Y1NYeUktSGc4UjgzS1hwN25TMEg3b3dEalhfR3BzWDR3bmJ3V2VaRms",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T06:41:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T06:41:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwbkZ3SDJ2X2RTQXRiX2VsR012UzBpZzV5YjlweEJ6OGw4NXFEQkg2ZC04Y1NYeUktSGc4UjgzS1hwN25TMEg3b3dEalhfR3BzWDR3bmJ3V2VaRms"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "f6d6ed05a1bd",
@@ -6356,91 +6429,6 @@
    "zh_summary": "特斯拉称无速成车，高管陶琳评论区翻车",
    "title_zh": "特斯拉喊话“没有速成车”，高管陶琳评论区却先“塌”了 - 新浪网",
    "sentiment": -1
-  },
-  {
-   "id": "40eed6e28d0c",
-   "title": "【视频】会飞的特斯拉VS蔚小理华国内品牌，差距有多大？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XODRPYWRxVVR6cEhGLWpKYVhHZnI4WU42dXM1SVZlU0FGRzIyNmZvUHFRNHI2OW1ObnN6NjFrVjBIbVNUVlUxdkZOaFVOdGZTQndIYm5UcHpkZ3M",
-   "source": "汽车之家",
-   "published_at": "2026-10-19T09:21:57+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-19T09:21:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XODRPYWRxVVR6cEhGLWpKYVhHZnI4WU42dXM1SVZlU0FGRzIyNmZvUHFRNHI2OW1ObnN6NjFrVjBIbVNUVlUxdkZOaFVOdGZTQndIYm5UcHpkZ3M"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T09:25:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFFhdDAxbHYyWmNNNnloWTlUQUt2RU9DeFllLVdCclQtdldRNEJVX1VHZUMwSlNKSmhfMmZEREZ2YWQtYkVSREk0bzAxSlNvT1EyTE9XOGJQbWI1Q1pFSUVOcFRuMi1FTnFmVTVjSEUzTU5fLTF1NnpSbHFGaWZBcTlReVk0dWpSNXR1Nw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "视频：会飞的特斯拉与蔚小理对比",
-   "title_zh": "【视频】会飞的特斯拉VS蔚小理华国内品牌，差距有多大？",
-   "sentiment": 0
-  },
-  {
-   "id": "77c6273e8a7a",
-   "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来 - 爱范儿",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsdXloRU1rd3BsSS0yY1FCWkVOZUxMMWNZTHBrcGIwdTg4SzQweV9VQlFGSExuWkRjakxSdnFkbXRYVTA",
-   "source": "爱范儿",
-   "published_at": "2026-10-19T09:21:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "爱范儿",
-     "published_at": "2026-10-19T09:21:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsdXloRU1rd3BsSS0yY1FCWkVOZUxMMWNZTHBrcGIwdTg4SzQweV9VQlFGSExuWkRjakxSdnFkbXRYVTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "花4元让特斯拉模型飞起来的趣味尝试",
-   "title_zh": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来 - 爱范儿",
-   "sentiment": 0
-  },
-  {
-   "id": "1eb611f0cf53",
-   "title": "每周信号 | 自ChatGPT问世以来，纳斯达克估值最低。特斯拉财报即将公布。 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQnNQcGZ6a3NYc1lsd29LY2l3bEI5SmpHdTRhbElzUjRmMWdIQ3RYbGduNXFjZFBEZ1JCN2JvWjVJSktrNHltVXN1UldnbHZ5VTN1X1c5ZklxQ1BMNlFmRHBLOHNESTJiVlBLLV84Nk5zSjlkOXV0MktncnFqYnJscDBZTEYzQml0bW5kMjdZd0tabS1SdU1sN05laF9hejhUN3NyZTJ0VFBLOGxINGtqYkNnTWlKd2xlMTgtZHZCLXJkVDg",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T09:20:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T09:20:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQnNQcGZ6a3NYc1lsd29LY2l3bEI5SmpHdTRhbElzUjRmMWdIQ3RYbGduNXFjZFBEZ1JCN2JvWjVJSktrNHltVXN1UldnbHZ5VTN1X1c5ZklxQ1BMNlFmRHBLOHNESTJiVlBLLV84Nk5zSjlkOXV0MktncnFqYnJscDBZTEYzQml0bW5kMjdZd0tabS1SdU1sN05laF9hejhUN3NyZTJ0VFBLOGxINGtqYkNnTWlKd2xlMTgtZHZCLXJkVDg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "纳斯达克估值低位，特斯拉财报将至",
-   "title_zh": "每周信号 | 自ChatGPT问世以来，纳斯达克估值最低。特斯拉财报即将公布。 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "c2632219a2df",
-   "title": "【网通社快报】特斯拉官方称品牌没有“速成车”Model YL车主在车内挂旗反驳 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KYVlESEZ3dnV3bzV4a00yUmVaelFIRUd0dF9JdEpWanFaWUpxaDR3eklKR2VmOUpieGtOZ29pS0VuSFdQVWdiYXppb1E",
-   "source": "凤凰网",
-   "published_at": "2026-10-19T09:16:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-19T09:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KYVlESEZ3dnV3bzV4a00yUmVaelFIRUd0dF9JdEpWanFaWUpxaDR3eklKR2VmOUpieGtOZ29pS0VuSFdQVWdiYXppb1E"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉称无速成车Model YL车主反驳",
-   "title_zh": "【网通社快报】特斯拉官方称品牌没有“速成车”Model YL车主在车内挂旗反驳 - 凤凰网",
-   "sentiment": 0
   }
  ]
 }
