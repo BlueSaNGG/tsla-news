@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T17:52:33.696574+00:00",
+ "updated_at": "2026-10-20T18:07:28.861611+00:00",
  "market": {
   "price": 374.62,
   "change_pct": 1.78,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（175条已评分）"
+     "note": "今日新闻情绪 +0.25（178条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 6.8,
    "ma20": 369.76,
-   "as_of": "2026-10-20T17:52:33.687315+00:00"
+   "as_of": "2026-10-20T18:07:28.849313+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 175
+   "avg": 0.25,
+   "count": 178
   }
  },
  "meta": {
@@ -67,6 +67,28 @@
   }
  },
  "stories": [
+  {
+   "id": "71e67a8f85d6",
+   "title": "Tesla's Earnings Will Put Its AI Spending to the Test - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0laYkx2eTQ1emNDWXpWNVRmRi1nbWxLVVVnRllOTzRZNEdTeWJWU2g5VTNMVGJUUVk4YXAtMEVCVUJlUjJZdTAtTndtOWhpY0lZa3JLRDNCOUlTczBsZnBpZ0hwd05JcmFHdF82T2RjbE5jY0dzZjlDWjViekFqLXFkeEV0NU9xem9oMk9xR2Fpdi05N1M5dFFxZHc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T17:17:15+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T17:17:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0laYkx2eTQ1emNDWXpWNVRmRi1nbWxLVVVnRllOTzRZNEdTeWJWU2g5VTNMVGJUUVk4YXAtMEVCVUJlUjJZdTAtTndtOWhpY0lZa3JLRDNCOUlTczBsZnBpZ0hwd05JcmFHdF82T2RjbE5jY0dzZjlDWjViekFqLXFkeEV0NU9xem9oMk9xR2Fpdi05N1M5dFFxZHc"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-20T17:17:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1BteTd2Mkk3bjlVZUVNZWFvMlJjQnJSZVRoUlA4V2dxY2NMTjBuSTdKUklGaEFjRGluR1hZdmhQVFRmTW1XSXpFbjU3OTB4R25kclMybzAtUS05SWNxWnowcnZQV05VOWJXeHpHZGlMQXQ1UEd3Y0FVLUszSWVCMHQ3M3hxMnlmZkNSOEYzYXBWVXR6dFNtQUZzb2JTSVlnZ3pGdHJUeXFpZW9qU2pxakFMaw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "5fcee209fdcd",
    "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect - Not a Tesla App",
@@ -193,10 +215,15 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJS2k5ZEVKNVRGZ2l2TVZ6ZUhObE9nTzZtVmd4NDJkV0NUdTJGckcxSjRKYU5YeVM4UDRtZ0dJS1ZHMmFaaWxyVlJmT3NrWG9mTXB4TEludThBd3NsTFE",
    "source": "汽车之家",
    "published_at": "2026-10-20T16:34:41+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-20T16:34:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJS2k5ZEVKNVRGZ2l2TVZ6ZUhObE9nTzZtVmd4NDJkV0NUdTJGckcxSjRKYU5YeVM4UDRtZ0dJS1ZHMmFaaWxyVlJmT3NrWG9mTXB4TEludThBd3NsTFE"
+    },
+    {
+     "name": "车家号",
      "published_at": "2026-10-20T16:34:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJS2k5ZEVKNVRGZ2l2TVZ6ZUhObE9nTzZtVmd4NDJkV0NUdTJGckcxSjRKYU5YeVM4UDRtZ0dJS1ZHMmFaaWxyVlJmT3NrWG9mTXB4TEludThBd3NsTFE"
     }
@@ -921,6 +948,23 @@
    "zh_summary": "SpaceX换股收购特斯拉或稀释股东",
    "title_zh": "SpaceX换股收购特斯拉：溢价难抵稀释，股东暴利梦碎",
    "sentiment": -1
+  },
+  {
+   "id": "b53976b479c3",
+   "title": "The Technical Signals Behind (TSLA) That Institutions Follow - Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcV9EcFVMbnlaQ0IzVnlyMVFDVEp5Z0EwblJFTmx5ZHVtRnR6M1ZVY1pWQ1NWREF3UVNNQmJUaW5UWHBLTXQ1TkNhQTI2bTZOM21vb3Z5b09mYVlBbFZZcnBVSVctckZMOFpLQ21peDdXRkF5X1hpbFVTbGNwd0NsNEx6MnNEZGZlakVESi1wQkhNSUZ6ZnpKRi13WUhMYnBvc3NLVUlMSlF6cTJ0Z29TN0IwcnFOeWItUF81alU3TTNoQlJOWGxaZ1pYZDRXYlItYjBoTQ",
+   "source": "Stock Traders Daily",
+   "published_at": "2026-10-20T13:52:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stock Traders Daily",
+     "published_at": "2026-10-20T13:52:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcV9EcFVMbnlaQ0IzVnlyMVFDVEp5Z0EwblJFTmx5ZHVtRnR6M1ZVY1pWQ1NWREF3UVNNQmJUaW5UWHBLTXQ1TkNhQTI2bTZOM21vb3Z5b09mYVlBbFZZcnBVSVctckZMOFpLQ21peDdXRkF5X1hpbFVTbGNwd0NsNEx6MnNEZGZlakVESi1wQkhNSUZ6ZnpKRi13WUhMYnBvc3NLVUlMSlF6cTJ0Z29TN0IwcnFOeWItUF81alU3TTNoQlJOWGxaZ1pYZDRXYlItYjBoTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8d37be7a3fcf",
@@ -6097,12 +6141,17 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1IxVFJOQ2JMbTI0OWZFbzQ1QTA2S0pLU052Y3ozQmQ5MVp1dm00RzJnd3czRndweGk2R0JIUkw5bVlyUU9LcEt5U3daYTFYMzNUWUVRNEY0NzNGVjFWOUZ2QWQ0TzZURTJYbFBKRkJHbmhybF9fVHZUc1lGV0dFc2hPQmF5SEF2WXpLa0prNTEtYUVYYVFTWnFmUGVDSUNSSmlTdEdyZG5IcS1XWG1XcTQ3T2RpN0k",
    "source": "Investopedia",
    "published_at": "2026-10-19T19:32:13+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Investopedia",
      "published_at": "2026-10-19T19:32:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1IxVFJOQ2JMbTI0OWZFbzQ1QTA2S0pLU052Y3ozQmQ5MVp1dm00RzJnd3czRndweGk2R0JIUkw5bVlyUU9LcEt5U3daYTFYMzNUWUVRNEY0NzNGVjFWOUZ2QWQ0TzZURTJYbFBKRkJHbmhybF9fVHZUc1lGV0dFc2hPQmF5SEF2WXpLa0prNTEtYUVYYVFTWnFmUGVDSUNSSmlTdEdyZG5IcS1XWG1XcTQ3T2RpN0k"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T19:32:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWRKZFJ5NWJRaFkwOVlaRndxNW9ZR0FjZzlwV0NMMy0tZ01RRmtVcmZiaDQ1dHU0LVJIVzFaRWxwc2h2c2c5YTdkeVd6Q2xyNjRlUUptZlhXb3lvYXgzXzh3Y2tNMDcybUpBb2lqVkRENklMNzJNWS1wR0hSbkxkRk5jc2xscjh3aWFYelVmcFNvM3lrTlFhQkt6bw"
     }
    ],
    "category": "财报",
@@ -6440,51 +6489,6 @@
    "zh_summary": "特斯拉Roadster披露飞行技术方案",
    "title_zh": "特斯拉Roadster披露飞行技术方案，计划2028年投产，追求极致体验的用户会喜欢吗？ - 网通社",
    "sentiment": 1
-  },
-  {
-   "id": "13e345847ea6",
-   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB",
-   "source": "Teslarati",
-   "published_at": "2026-10-19T17:26:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-19T17:26:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ZuTmxFZmpFQ2Y1RmVEMkhfWDJuaXUtdWNtVzB1VFZsRFVaZWMxNU5FS1RrUW1weXczN29yUkluT1dLc3dYNTd2X2FoZUpSY1U0OElOSVMxTGp3RUxpdUdiZ0lSZjA0THY5bHJZM0swMHFkMm5wZzFpNkdxTWJRaC1hREdmTUgySmFSTURB"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "马斯克谈Roadster真正意义",
-   "title_zh": "马斯克重申Roadster的真正意义",
-   "sentiment": 0
-  },
-  {
-   "id": "0fbe4244e0d4",
-   "title": "The Honda Civic That Helped Inspire the Tesla Roadster Is for Sale - Autoweek",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzdaWHNqUjBTZXB4UktFX19iMHdyaFAyNkNUMEpnS0t5YXVIamtITUFJUHVsV3poSzN4cHBmSVc0b3F3YlNoam9teDZVbGVldWw5WHZ6RGo5dmpaUC14STlPdDUwanhMajlnMDM1MGlpREFGVThsbU5zcWxZdm5SWTJRb1pnMUFRNk5rMmpFc1hJaG1iYVJSZEI4eko",
-   "source": "Autoweek",
-   "published_at": "2026-10-19T17:22:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Autoweek",
-     "published_at": "2026-10-19T17:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzdaWHNqUjBTZXB4UktFX19iMHdyaFAyNkNUMEpnS0t5YXVIamtITUFJUHVsV3poSzN4cHBmSVc0b3F3YlNoam9teDZVbGVldWw5WHZ6RGo5dmpaUC14STlPdDUwanhMajlnMDM1MGlpREFGVThsbU5zcWxZdm5SWTJRb1pnMUFRNk5rMmpFc1hJaG1iYVJSZEI4eko"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-19T17:22:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmRLNWVBUENzSl9mMmh4WFZHVnAzcEJCWXlmai03N2xxaW9FX1dKSGlEQUY4UkZtOUc4WklWUVl3RW5Kd0FSMGVlcXZIaFpXMjVSd294WC1mbGtodWJOQlp4THRTaTR0NV9LMlBfTkZUdGlpdHdxQkxTbUk4Tm5FRWpsZXBfMjZUeERNbGI4eEVkczJFWUltcTNmLUNvWXRNS2RnMw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "助推特斯拉Roadster灵感的本田思域出售",
-   "title_zh": "曾启发特斯拉Roadster的本田思域出售",
-   "sentiment": 0
   }
  ]
 }
