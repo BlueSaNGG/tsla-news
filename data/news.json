@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T17:07:33.897956+00:00",
+ "updated_at": "2026-10-20T17:22:26.885193+00:00",
  "market": {
-  "price": 374.06,
-  "change_pct": 1.63,
+  "price": 374.49,
+  "change_pct": 1.75,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.9%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $374.06 vs 20日均线 $369.73"
+     "note": "现价 $374.49 vs 20日均线 $369.75"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.9,
-   "ma20": 369.73,
-   "as_of": "2026-10-20T17:07:33.886375+00:00"
+   "implied_upside_pct": 6.8,
+   "ma20": 369.75,
+   "as_of": "2026-10-20T17:22:26.874479+00:00"
   },
-  "pe_ttm": 103.5,
+  "pe_ttm": 103.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.27,
    "count": 171
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "5fcee209fdcd",
+   "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQm5pclFxRlJjQUlBTksxalNXdmRsaE51cl93SGJ6OVZNeVFyTjVUcVA1Y28yXzVkYzhXSWJFTTBVVmlFS20wVU9pRXBkUHZJQTUtMUhjLUJaWVJzQlVUN2VvMTI1cDJ3UlpHelMtR0kzV3ZOTHNNTmx1TzNXTmtENGN1Uk1hY0IxZEZHRV92T2kxY093",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-20T17:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-20T17:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQm5pclFxRlJjQUlBTksxalNXdmRsaE51cl93SGJ6OVZNeVFyTjVUcVA1Y28yXzVkYzhXSWJFTTBVVmlFS20wVU9pRXBkUHZJQTUtMUhjLUJaWVJzQlVUN2VvMTI1cDJ3UlpHelMtR0kzV3ZOTHNNTmx1TzNXTmtENGN1Uk1hY0IxZEZHRV92T2kxY093"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "b797652f5541",
+   "title": "Full Self-Driving (Supervised) Had No Supervisor: Driver Says He Was Asleep When His Tesla Hit a CHP Cruiser - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdDA4RXMwWnN5VVZIM0NLdTQzUjJyYWo2ZWxDRl8xc3pyazVJZzgzaEhLZUpOcXZwNFFrZjFucy1IQnJMLUFCZS0tMjNfRGxoWEhiSGNXNGo1MlRGR0dMNXU3emlNcFBiQjNFTXN3elpJYXRmTDJ6UlR6Q3JCeHhtRkN2eUNZV2hSQnZ6SF9IMmFSQU9weHNXTE5NTVNocEVXMk5LN25n",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-20T17:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-20T17:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdDA4RXMwWnN5VVZIM0NLdTQzUjJyYWo2ZWxDRl8xc3pyazVJZzgzaEhLZUpOcXZwNFFrZjFucy1IQnJMLUFCZS0tMjNfRGxoWEhiSGNXNGo1MlRGR0dMNXU3emlNcFBiQjNFTXN3elpJYXRmTDJ6UlR6Q3JCeHhtRkN2eUNZV2hSQnZ6SF9IMmFSQU9weHNXTE5NTVNocEVXMk5LN25n"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "f4e9f17baf33",
+   "title": "美政府禁用DeepSeek，理想汽车确认2027年进军英国市场，汽车车灯禁止显示文字，特斯拉支付宝达成合作，这是今天的其他大新闻！ - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yOWdSLVFxUVdoUmdnOUJPcUloVnZRQU1iaEpKWlg3ejFkM0gzcXBIWEtmNk03ZHFJMFVhNXNhSURUdWVNMXFBZVBCemZIM3p1dEpROFRfZXBaazZvSV8wM3NJVXZ3UXVXYjZCREFZVGpyVFFBbnRzeUpVNG4",
+   "source": "新浪财经",
+   "published_at": "2026-10-20T16:51:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-20T16:51:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yOWdSLVFxUVdoUmdnOUJPcUloVnZRQU1iaEpKWlg3ejFkM0gzcXBIWEtmNk03ZHFJMFVhNXNhSURUdWVNMXFBZVBCemZIM3p1dEpROFRfZXBaazZvSV8wM3NJVXZ3UXVXYjZCREFZVGpyVFFBbnRzeUpVNG4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "8b74aaad3169",
    "title": "【视频】零预热却全网霸屏，特斯拉咋就上天了？ - 汽车之家",
@@ -3567,6 +3618,23 @@
    "sentiment": 1
   },
   {
+   "id": "d758bda5a25e",
+   "title": "你不能只在特斯拉耍杂技的时候才拍手叫好 - 创业邦",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9relAwTTlPSFZFY0NIZUVCb19ua2hrNnZGTVZ3RW1zVkRvQzNjQ1dSOWtBTnlpSEY1M2puM2lXUnJCcTZDSjVWVG82Uy1lOEdQeWxz",
+   "source": "创业邦",
+   "published_at": "2026-10-20T05:34:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "创业邦",
+     "published_at": "2026-10-20T05:34:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9relAwTTlPSFZFY0NIZUVCb19ua2hrNnZGTVZ3RW1zVkRvQzNjQ1dSOWtBTnlpSEY1M2puM2lXUnJCcTZDSjVWVG82Uy1lOEdQeWxz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "b298b7dcf377",
    "title": "“木头姐”：特斯拉2031年估值或超20万亿美元，SpaceX与特斯拉或在5年内合并 - www.caiwennews.com",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yYzhsaDIzOFNKaTJudy10ZnJuMDdsdTJzSlk2Y29vVDJCcTZMbTNUSWNkRk1OSEVfb0NiVV8ydms1cmRCZ3NINF9DNENQaDN3UVp2aUtfWVgwUkln",
@@ -6405,86 +6473,6 @@
    "zh_summary": "特斯拉涨4%，佛州州长支持飞行跑车",
    "title_zh": "佛州州长欲让飞行跑车合法，特斯拉涨4%",
    "sentiment": 1
-  },
-  {
-   "id": "c142be6529a3",
-   "title": "(TSLA) Investment Analysis and Advice (TSLA:CA) - Stock Traders Daily",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmZkVTNNZXRQZll2VmEyUDg0RDF3N2d1Qm51WXRuUzF0NW5CbnZTd1llNC1LdTY4X2N4d3lRNHExdFk3RVpzSFhNdUF0c1ZKVjQzR0UtRzZPNmxoRS1wOUptRFlWQXRnN1E1b09oeFJXN0pHMTlpY0RVeWVMV1A1Skl3V1ViOGdScGRJV1ppWk44cDRXc1E1WA",
-   "source": "Stock Traders Daily",
-   "published_at": "2026-10-19T17:04:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Traders Daily",
-     "published_at": "2026-10-19T17:04:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmZkVTNNZXRQZll2VmEyUDg0RDF3N2d1Qm51WXRuUzF0NW5CbnZTd1llNC1LdTY4X2N4d3lRNHExdFk3RVpzSFhNdUF0c1ZKVjQzR0UtRzZPNmxoRS1wOUptRFlWQXRnN1E1b09oeFJXN0pHMTlpY0RVeWVMV1A1Skl3V1ViOGdScGRJV1ppWk44cDRXc1E1WA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Stock Traders Daily发布TSLA投资分析",
-   "title_zh": "Stock Traders Daily：TSLA投资分析与建议（TSLA:CA）",
-   "sentiment": 0
-  },
-  {
-   "id": "3c80140ee35d",
-   "title": "时隔近九年，新款特斯拉跑车Roadster拟10月1日发布 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOeDI0VGZzcW56Nk91T1lyMFBVSWhTcl9lcGFlcy05Q3lHbGRrdHRpTGFPMkgweU82UDdaT052eVBMRktXZEtGX25oVFN4eGRkdFBfbHQ2eEpMQ1NYaExYRW1oM1VfUXdWWkpkNTdpZFA5OVJRVXdyWmRFUkpfRnYzWTIybVN4VlFpR2hmdmJ2OE1PVEp6eHIzc2VxQ0NzOHlSdFdVQTRLdmQ1VmZ0TV9HdkM1eW03a1djTnhpQlR3ZWZDSzg5eEVWd1FrNC01eW84eE5IMTRjSjBwYW1LZTdEZnRzelRLTUJVdXhVWnFJem9hV1pucXd6NkoyS2d3dFlIZnFvUUlkZkxFcnRrTlNCMjdiSXFPV0xQNHhQd1pzWUllNDFnUVE5c1lUTlhwZVVKb3FKU3hYb21JempESnNyNUNlX3hpYWthRF9nQzk3TUMwY0VCQlFSam5XZ1lPZFJWQmg2RDgycGxodHkxbGs5UzAxTXo4VnlZLUh0V0xpbFU5Z0RmakZ3eDdGWmJibFNYOWxlUEJCdFljTW9kNDAtWURwdUVJNjVzMlFmSnBjN252X2lHZW1BWHRJUExIbjNDZnJqUjg1SVdoWGlBVjd0OEhaQ3p3SVhXbWZZY1BhNFhFYU9Uc0xqMnNKN0Q2Yll3TEtFN0VBYnlLckpmZDV0d2wtVGNtbzdJMGo2LXk2TkFfMmlLUFl1S3Z1d3RhSVNKNmVWc1AzM3hxQzluQTVXNjdsUGlOV3lXYzBmYy1KRQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-19T16:58:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-19T16:58:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOeDI0VGZzcW56Nk91T1lyMFBVSWhTcl9lcGFlcy05Q3lHbGRrdHRpTGFPMkgweU82UDdaT052eVBMRktXZEtGX25oVFN4eGRkdFBfbHQ2eEpMQ1NYaExYRW1oM1VfUXdWWkpkNTdpZFA5OVJRVXdyWmRFUkpfRnYzWTIybVN4VlFpR2hmdmJ2OE1PVEp6eHIzc2VxQ0NzOHlSdFdVQTRLdmQ1VmZ0TV9HdkM1eW03a1djTnhpQlR3ZWZDSzg5eEVWd1FrNC01eW84eE5IMTRjSjBwYW1LZTdEZnRzelRLTUJVdXhVWnFJem9hV1pucXd6NkoyS2d3dFlIZnFvUUlkZkxFcnRrTlNCMjdiSXFPV0xQNHhQd1pzWUllNDFnUVE5c1lUTlhwZVVKb3FKU3hYb21JempESnNyNUNlX3hpYWthRF9nQzk3TUMwY0VCQlFSam5XZ1lPZFJWQmg2RDgycGxodHkxbGs5UzAxTXo4VnlZLUh0V0xpbFU5Z0RmakZ3eDdGWmJibFNYOWxlUEJCdFljTW9kNDAtWURwdUVJNjVzMlFmSnBjN252X2lHZW1BWHRJUExIbjNDZnJqUjg1SVdoWGlBVjd0OEhaQ3p3SVhXbWZZY1BhNFhFYU9Uc0xqMnNKN0Q2Yll3TEtFN0VBYnlLckpmZDV0d2wtVGNtbzdJMGo2LXk2TkFfMmlLUFl1S3Z1d3RhSVNKNmVWc1AzM3hxQzluQTVXNjdsUGlOV3lXYzBmYy1KRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "新款特斯拉Roadster拟10月1日发布",
-   "title_zh": "时隔近九年，新款特斯拉跑车Roadster拟10月1日发布",
-   "sentiment": 1
-  },
-  {
-   "id": "6a4c2f0b5e69",
-   "title": "I Think I Know the Real Reason Elon Unveiled the Flying Tesla - Slate",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEZsZWp6Ukkyd2lOeWhxaWExWXVNNU0zNnJjN0I2RWpNRzBsYnFONnNsd1NjM2pKS1ppOUZfYVB3bVdZd0lTVFVHWjh4S3pGbXhfNEhPZEtMaUc4M1AwampSSi1Tbmhvek9USnVZS2tla3JEM1NycUtXS21LNjJZTA",
-   "source": "Slate",
-   "published_at": "2026-10-19T16:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Slate",
-     "published_at": "2026-10-19T16:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEZsZWp6Ukkyd2lOeWhxaWExWXVNNU0zNnJjN0I2RWpNRzBsYnFONnNsd1NjM2pKS1ppOUZfYVB3bVdZd0lTVFVHWjh4S3pGbXhfNEhPZEtMaUc4M1AwampSSi1Tbmhvek9USnVZS2tla3JEM1NycUtXS21LNjJZTA"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "分析称马斯克发布飞行特斯拉另有深意",
-   "title_zh": "我认为我知道马斯克发布飞行特斯拉的真正原因",
-   "sentiment": 0
-  },
-  {
-   "id": "35ce9f52639a",
-   "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings? - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZE5tbnBGdk5OTzBtMG1yMHNGZ2p5Tk50elFETnhJWUpsMGtOajM4T2VXZ3h4Qk8wNlRWVkhqV1NnQWpUQW9UUS00RGJzdEZyeXhuSjdTM2tfMHpPak9oN1lCUTgxSHF4dzdOTWNCRG9PVXRTc2JGdE40eTVaOWo1cm9PU1RWZHhUamhsRVhIUHZCSjhRWFNzNDF6TlNJakRjanhB",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-19T16:49:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-19T16:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZE5tbnBGdk5OTzBtMG1yMHNGZ2p5Tk50elFETnhJWUpsMGtOajM4T2VXZ3h4Qk8wNlRWVkhqV1NnQWpUQW9UUS00RGJzdEZyeXhuSjdTM2tfMHpPak9oN1lCUTgxSHF4dzdOTWNCRG9PVXRTc2JGdE40eTVaOWo1cm9PU1RWZHhUamhsRVhIUHZCSjhRWFNzNDF6TlNJakRjanhB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉驻车界面或显示实景",
-   "title_zh": "如果特斯拉驻车界面与周围实景相符？",
-   "sentiment": 0
   }
  ]
 }
