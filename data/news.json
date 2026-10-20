@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T16:22:27.628310+00:00",
+ "updated_at": "2026-10-20T16:37:43.804960+00:00",
  "market": {
-  "price": 373.46,
-  "change_pct": 1.47,
+  "price": 374.65,
+  "change_pct": 1.79,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +7.1%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（161条已评分）"
+     "note": "今日新闻情绪 +0.27（168条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.46 vs 20日均线 $369.70"
+     "note": "现价 $374.65 vs 20日均线 $369.76"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 7.1,
-   "ma20": 369.7,
-   "as_of": "2026-10-20T16:22:27.619485+00:00"
+   "implied_upside_pct": 6.8,
+   "ma20": 369.76,
+   "as_of": "2026-10-20T16:37:43.790752+00:00"
   },
-  "pe_ttm": 103.3,
+  "pe_ttm": 103.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.27,
-   "count": 161
+   "count": 168
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6bb3f62df0d5",
+   "title": "Tesla earnings preview: Fireworks or the calm before the SpaceX merger? (TSLA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnc0dlNIM19SRGg5MXRxNWx4aWdjMVVUU0xJcC1RelF5blhRbVVlaHZOSVd2aHNERGVyWkw3dHM4TmxRRjhZVjM3OFFfdDMtQUtlbXh4V0xQc1JhTGtvMVZTUzg5cnBsWXpwNlhMWnE1VnpxNkdLSEhOaWdOTHBHc2M2WmlkX0JGcUJIUjNKUF9RVHJ0aHAxYXRKNDd4ZlFkVEJDcUN3b3VncTA",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-20T16:11:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-20T16:11:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnc0dlNIM19SRGg5MXRxNWx4aWdjMVVUU0xJcC1RelF5blhRbVVlaHZOSVd2aHNERGVyWkw3dHM4TmxRRjhZVjM3OFFfdDMtQUtlbXh4V0xQc1JhTGtvMVZTUzg5cnBsWXpwNlhMWnE1VnpxNkdLSEhOaWdOTHBHc2M2WmlkX0JGcUJIUjNKUF9RVHJ0aHAxYXRKNDd4ZlFkVEJDcUN3b3VncTA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "0e9971e6bf14",
    "title": "Tesla Roadster Reaction: Odds Crash From 33% to 10% - https://tech-insider.org/",
@@ -6465,26 +6482,6 @@
    "zh_summary": "特斯拉驻车屏或匹配真实环境",
    "title_zh": "特斯拉驻车屏幕若匹配真实环境会怎样",
    "sentiment": 0
-  },
-  {
-   "id": "3dbfbb3ebb7f",
-   "title": "SpaceX to Continue Sharing 'Ambitious' Updates as Interest Around Potential Tesla Merger Grows, RBC Says - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmQ5Uk5ZVTR3US1SX3dVT1JxZ2huTmZpWXhUM0lmQVVENl9QYklYdlp4aFZlMzZyWUhKNHp4TXUxYUJDZVRCWGdsaXhkaXdUZXBpWDFuOWdVWm9pZVp2MllLb0hQMkVtM2FhRk5HR2VBbklTQXBpdFZER2ZtVFhOMjY3cVhsVnVxZmFWYm8yWVNkaTUyMVV4R0VPV0tOaGw5V0t1X0VB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T16:46:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T16:46:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmQ5Uk5ZVTR3US1SX3dVT1JxZ2huTmZpWXhUM0lmQVVENl9QYklYdlp4aFZlMzZyWUhKNHp4TXUxYUJDZVRCWGdsaXhkaXdUZXBpWDFuOWdVWm9pZVp2MllLb0hQMkVtM2FhRk5HR2VBbklTQXBpdFZER2ZtVFhOMjY3cVhsVnVxZmFWYm8yWVNkaTUyMVV4R0VPV0tOaGw5V0t1X0VB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "SpaceX与特斯拉潜在合并预期升温",
-   "title_zh": "RBC：SpaceX将继续分享更新，特斯拉潜在合并预期升温",
-   "sentiment": 1
   }
  ]
 }
