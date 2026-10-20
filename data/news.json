@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T07:52:26.607669+00:00",
+ "updated_at": "2026-10-20T08:07:26.978073+00:00",
  "market": {
   "price": 368.06,
   "change_pct": 3.76,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（32条已评分）"
+     "note": "今日新闻情绪 +0.22（37条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.7,
    "ma20": 369.97,
-   "as_of": "2026-10-20T07:52:26.599716+00:00"
+   "as_of": "2026-10-20T08:07:26.966818+00:00"
   },
   "pe_ttm": 101.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.22,
-   "count": 32
+   "count": 37
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "bd1e1e8f45fd",
+   "title": "特斯拉二代Roadster亮相：三版本可选，Rocket版配 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZ0dBSlhPU1RrQmQ4NmpFYzZZYmVlS3VoNmZhNlUtYWh6Z0JteGtXSTA4NzFwXzBReWZPUmZrRFVuWmNNd0lPbmZpSHFsWjdsdnhnWDdZUlJKenc",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T08:03:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T08:03:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JZ0dBSlhPU1RrQmQ4NmpFYzZZYmVlS3VoNmZhNlUtYWh6Z0JteGtXSTA4NzFwXzBReWZPUmZrRFVuWmNNd0lPbmZpSHFsWjdsdnhnWDdZUlJKenc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "51af2a8747fc",
+   "title": "特斯拉Roadster亮相：火箭推进器加空中翻转 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MbzJHa2xyT2RGY2c0dEFnaVZ2MG5wUDZHOURZN3YtX01wX2NFM1VKeEdqdFc2WC16NVQ1bVdDRjNReENvamRWNGxuaWo0SG9lcnotR3hVQTQtM09YY0U4T1djSUZDSW9nZkw4",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T07:58:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T07:58:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MbzJHa2xyT2RGY2c0dEFnaVZ2MG5wUDZHOURZN3YtX01wX2NFM1VKeEdqdFc2WC16NVQ1bVdDRjNReENvamRWNGxuaWo0SG9lcnotR3hVQTQtM09YY0U4T1djSUZDSW9nZkw4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0823c2198168",
+   "title": "Tesla's Flying Roadster Thrills with Aerial Stunts and Mu... - X",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtWDEtNWZHdzZDa2Q5MS1mTUtqdE4tVi1KakN1dUJ3cVcwMnNhbWxSTzhiTmY4SkNTQTltdVgtZ2pkUWlWQ0wyWGJCSmVfYTNUaU52NFlycw",
+   "source": "X",
+   "published_at": "2026-10-20T07:51:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "X",
+     "published_at": "2026-10-20T07:51:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtWDEtNWZHdzZDa2Q5MS1mTUtqdE4tVi1KakN1dUJ3cVcwMnNhbWxSTzhiTmY4SkNTQTltdVgtZ2pkUWlWQ0wyWGJCSmVfYTNUaU52NFlycw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "5f88f3ad8262",
    "title": "特斯拉跑车会“飞”？3只浙股被带飞，真相藏在深夜公告里 - 杭州网",
@@ -1203,12 +1254,17 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3FPQy03VXgyS3FNc3R2LWVQZ2Eyc0o0ZFNVNTRwNDJKX08wa3JrX3lPbUd5VTA2Q0liMF9DLUpNYXlld0ZPLVNVZ2s1SUMxN0FiS0ZrWnZ6YnhLTXFreWpFckVyQ04wVW9HUlQzQ2huMm9BRXd2YXpfZGZDcENEZF9HQjVveTRnUml5aHZvMW9vbWN3cllGTVAzcjRfckhqQm8xczBBV2lLbnNKRk5aalpn",
    "source": "StockStory",
    "published_at": "2026-10-20T03:43:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "StockStory",
      "published_at": "2026-10-20T03:43:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3FPQy03VXgyS3FNc3R2LWVQZ2Eyc0o0ZFNVNTRwNDJKX08wa3JrX3lPbUd5VTA2Q0liMF9DLUpNYXlld0ZPLVNVZ2s1SUMxN0FiS0ZrWnZ6YnhLTXFreWpFckVyQ04wVW9HUlQzQ2huMm9BRXd2YXpfZGZDcENEZF9HQjVveTRnUml5aHZvMW9vbWN3cllGTVAzcjRfckhqQm8xczBBV2lLbnNKRk5aalpn"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T07:49:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXJsR3cwSE5KdmM5TGs2Z25ENnk0U0JOZ3NYUGhadDEtYXFkRzlrT2ZqYW1oT2lIekNMYzR4bWFVZmZQVm5NX2hfQTBpdjE2T3RtdXdyWHVieVlRY3E0TDd0T0hpckNQZUtScWlWVHI4N0x6RVdEWG1rcmQ2Yk00dFFlLWhSTzRUYWtrQWZXdy1PQXluQ2hFSHJ1ekF2VWhnZGZr"
     }
    ],
    "category": "财报",
@@ -1843,7 +1899,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbkVmVTNsM0xUS1E5RnB5SldqLW94d3ZNX1VLeTlWZHItSHZCZzRPM2tsSVpRc2dsbXhOWjNwQ3hqLW1Oc1oyeEVHVDc",
    "source": "凤凰网汽车",
    "published_at": "2026-10-20T01:27:10+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "凤凰网汽车",
@@ -1864,6 +1920,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-20T01:46:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WZEpHU2d0RjBIWmhDc1YzcnBoWTdSYkZMVDhaVFpXY1QwVVdqQ1F3TkM1Qlo4Q3RsVTZqUlVBWEZXN01KWEZWbFhqLW9yenJBLVE"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T02:02:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTVmZaSVhDTUxuOGlDZ2FkcG5tVlRySHUxamFMX3RUNjl2Y0Nyb1R0WVRuYXR4WmxfWnU2TUtnY2FyZ1RyYktOdE9nTTZCc2RacXl2bFptc3lJUEk"
     }
    ],
    "category": "其他",
@@ -6392,66 +6453,6 @@
    "zh_summary": "Roadster飞行演示引专家质疑量产前景",
    "title_zh": "特斯拉Roadster完成飞行，专家质疑量产前景",
    "sentiment": -1
-  },
-  {
-   "id": "33b4e32f7caa",
-   "title": "特斯拉Roadster冷气跳跃演示：比冲不到50秒 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9peTc2Ukw1emlsQTlBeDI0dnJxd2JTQkJaOWlJRy1TbEN1U1NtcDRRamJ1U1VkVjhuOVFWckpYOXRYNXl5bmJwbWV0RHNWbW4zaE5zNTJCaWV2MTg",
-   "source": "汽车之家",
-   "published_at": "2026-10-19T10:07:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-19T10:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9peTc2Ukw1emlsQTlBeDI0dnJxd2JTQkJaOWlJRy1TbEN1U1NtcDRRamJ1U1VkVjhuOVFWckpYOXRYNXl5bmJwbWV0RHNWbW4zaE5zNTJCaWV2MTg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster冷气跳跃演示比冲不到50秒",
-   "title_zh": "特斯拉Roadster冷气跳跃演示：比冲不到50秒 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "ae28fa91a037",
-   "title": "Tesla Roadster 330 MPH Target: 54% Above Current [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85V1B3Qkx0U2g4djJDTmFHNkhVV1k3RGFfbFZDMXYwXzNGRU9JVkNKWlpEU1cwRVNVQUpDTVdEaTdXeXc5RHJuaE55a2kyUVViVUNURU4zeFpoUGhNMFZLMFZheElPYnp2eGc3LTUxM2c2aXYy",
-   "source": "shattered.io",
-   "published_at": "2026-10-19T10:06:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-19T10:06:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85V1B3Qkx0U2g4djJDTmFHNkhVV1k3RGFfbFZDMXYwXzNGRU9JVkNKWlpEU1cwRVNVQUpDTVdEaTdXeXc5RHJuaE55a2kyUVViVUNURU4zeFpoUGhNMFZLMFZheElPYnp2eGc3LTUxM2c2aXYy"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Roadster目标时速330英里超现纪录54%",
-   "title_zh": "特斯拉Roadster目标时速330英里",
-   "sentiment": 1
-  },
-  {
-   "id": "f730dad194d5",
-   "title": "特斯拉都会飞了，中国车企就落后了？ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TRG94ZUM0dWFaQ3BDSUl3UC00andIT19vWExsMU0xc1hwV0l5N2Jtd3B6T1VCN3Q2QWZ2Sk9VVm13NVFtZ2gtTkxCSHB5b20xYzQyb1pjenZPZ2M5ODNxVElnTzltdl9BYWwtUno5ZUF0OXNtM1hLMw",
-   "source": "新浪财经",
-   "published_at": "2026-10-19T10:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-19T10:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TRG94ZUM0dWFaQ3BDSUl3UC00andIT19vWExsMU0xc1hwV0l5N2Jtd3B6T1VCN3Q2QWZ2Sk9VVm13NVFtZ2gtTkxCSHB5b20xYzQyb1pjenZPZ2M5ODNxVElnTzltdl9BYWwtUno5ZUF0OXNtM1hLMw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "新浪财经：特斯拉会飞，中国车企落后？",
-   "title_zh": "特斯拉都会飞了，中国车企就落后了？ - 新浪财经",
-   "sentiment": 1
   }
  ]
 }
