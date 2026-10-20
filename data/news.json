@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T23:22:29.248903+00:00",
+ "updated_at": "2026-10-20T23:37:29.450664+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（232条已评分）"
+     "note": "今日新闻情绪 +0.23（236条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-20T23:22:29.238877+00:00"
+   "as_of": "2026-10-20T23:37:29.439064+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.23,
-   "count": 232
+   "count": 236
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "34ecf97af72f",
+   "title": "SpaceX touts possible Tesla merger after profits soar - Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEZfdHJvSTlpQWdhU1FhdzhuQVg1eE80R1RqNTZTbzNrVENVNE9QWFljaWFidXkzV0FIY0hMZ3ZUZVhrQTZrQVh6UzExMVJPczJnb1Rha0lMTGdXdWJpdExxZE9hY05IekJwcXd5QlJUVS1rWTgzQm1kcWk2bTlfS0EwQk5vN0V5TkFYeE9QMDJJUjlXeGJ6Ym9ONERnZlMzUEV1ZVBn",
+   "source": "Los Angeles Times",
+   "published_at": "2026-10-20T23:31:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Los Angeles Times",
+     "published_at": "2026-10-20T23:31:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEZfdHJvSTlpQWdhU1FhdzhuQVg1eE80R1RqNTZTbzNrVENVNE9QWFljaWFidXkzV0FIY0hMZ3ZUZVhrQTZrQVh6UzExMVJPczJnb1Rha0lMTGdXdWJpdExxZE9hY05IekJwcXd5QlJUVS1rWTgzQm1kcWk2bTlfS0EwQk5vN0V5TkFYeE9QMDJJUjlXeGJ6Ym9ONERnZlMzUEV1ZVBn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "aba47adfb37b",
+   "title": "SpaceX与特斯拉成立特别委员会探讨合并 马斯克称需50%股东批准 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVU5YOTBSNG5kNUNCdGs2TjJfN05QQlVqa2Ryc0pMU2szbkFVMEVlTmhjVnEwd2FoOEprVXQ3UWRzOEl1Z0c1RExiX0Qtd1E2SGxTUEVPQkRkYnJ1bkhKZjNB",
+   "source": "观点网",
+   "published_at": "2026-10-20T23:24:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-20T23:24:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVU5YOTBSNG5kNUNCdGs2TjJfN05QQlVqa2Ryc0pMU2szbkFVMEVlTmhjVnEwd2FoOEprVXQ3UWRzOEl1Z0c1RExiX0Qtd1E2SGxTUEVPQkRkYnJ1bkhKZjNB"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
+   "id": "a19d9950d21a",
+   "title": "SpaceX and Tesla's Terafab targets 2028 for volume chip production, Musk says - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aHJPRHY4ZTFFZmNHT0d5bEQtSy1EUjBYaVNQOUxTbXdtOExjSEhoampjekEwQ3F5blUzN1F0QzdVc2xkNDZTZHlqYllaUlA2UDlyT1NGX2t1UDl1bDlUX2pVcVBhOWMyeGx3VE8tTlhsbHROTjhPNXpKbWcwdDREdnBfMHpEUk5tSnNzSW9OblZ0Z3NLcDJpSlhFSUxCQXRuNk9KQmRjLWhBR2NXOWl0a3AxR254Vm1TY1ltM09jWDZu",
+   "source": "Reuters",
+   "published_at": "2026-10-20T23:24:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-20T23:24:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFI5aHJPRHY4ZTFFZmNHT0d5bEQtSy1EUjBYaVNQOUxTbXdtOExjSEhoampjekEwQ3F5blUzN1F0QzdVc2xkNDZTZHlqYllaUlA2UDlyT1NGX2t1UDl1bDlUX2pVcVBhOWMyeGx3VE8tTlhsbHROTjhPNXpKbWcwdDREdnBfMHpEUk5tSnNzSW9OblZ0Z3NLcDJpSlhFSUxCQXRuNk9KQmRjLWhBR2NXOWl0a3AxR254Vm1TY1ltM09jWDZu"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
   {
    "id": "1db9c237a111",
    "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for - Teslarati",
@@ -146,6 +197,45 @@
    "zh_summary": "马斯克称特斯拉与SpaceX合并有好处",
    "title_zh": "地表最强科技联姻：马斯克称特斯拉与SpaceX合并“有很多好处” - 搜狐",
    "sentiment": 0
+  },
+  {
+   "id": "feb2d0d671d8",
+   "title": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ",
+   "source": "Reuters",
+   "published_at": "2026-10-20T23:04:58+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-20T23:04:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ"
+    },
+    {
+     "name": "The Japan Times",
+     "published_at": "2026-10-20T23:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZzZkNnJTRmIwb2EyaTg4UmZzOGZQQ0FzRUtlNndENG5qWElEZHZ4RWJLWmpaTjVKU0RyT2V5dUYyUFBuLW1sQmt1Ul9IaEsySl91UWJGYUowQzU2OGJDdnhsOWJRMHFxbGtCYWdZYUJyRFFleDd5Z1ZDSDJhVzA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
+   "id": "b47d5270b9c4",
+   "title": "SpaceX, Tesla Form Independent Committees To Explore Merger: Elon Musk Says Deal ‘Not A Certainty’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdE0wTllrSTdISVlyQlMyZjlqbTNEaDRib0NSTGV0NTVkaHhzZ0d0aTg5TjR2NkV6aVBVRzVLYXRuYlNfbTFXVWgtd1hMWl9DXzRiVEFwcGhOT2FURVVHWUU3ZnNaU2xRVFl3cW5CdnlROUo5eGxOdGxWN0tiM3Q3U0NfU0hRUzdyQXdaQ1NjWHVtYkw3SzN4UUV0VlEwMEJqdmpJcGxSejdCSEphcF8td1dZQjVJMEFTbXh2TEdmekZlODRYallja3dCRXlRTW9VN0kxelBvQlhSdU85UE5na3RKWUFPM1lVcWNDTmJfZkI",
+   "source": "Stocktwits",
+   "published_at": "2026-10-20T22:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-20T22:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdE0wTllrSTdISVlyQlMyZjlqbTNEaDRib0NSTGV0NTVkaHhzZ0d0aTg5TjR2NkV6aVBVRzVLYXRuYlNfbTFXVWgtd1hMWl9DXzRiVEFwcGhOT2FURVVHWUU3ZnNaU2xRVFl3cW5CdnlROUo5eGxOdGxWN0tiM3Q3U0NfU0hRUzdyQXdaQ1NjWHVtYkw3SzN4UUV0VlEwMEJqdmpJcGxSejdCSEphcF8td1dZQjVJMEFTbXh2TEdmekZlODRYallja3dCRXlRTW9VN0kxelBvQlhSdU85UE5na3RKWUFPM1lVcWNDTmJfZkI"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "7ca0a0a72bb1",
@@ -6466,106 +6556,6 @@
    "session": "盘后",
    "zh_summary": "Alef CEO称飞行汽车早于Tesla 11年",
    "title_zh": "Alef CEO称其飞行汽车比Tesla早11年",
-   "sentiment": 0
-  },
-  {
-   "id": "e5ca37514c8c",
-   "title": "特斯拉点燃飞行汽车概念，相关产业链何者受益 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWV2QV9UTWlfaW1TQnZFanhaOEhPQUU4VTVSUy0yazZqUjhJNTN4MWVRYWY3Smhwa1hHbjlCUXNyNDlaZjdXWTBlS3Y5TEJyQzBib1MxZE1Nbk5YTXpzWk5LYzM1S3p4MXFjSk9ocXA5RjU3U01tTTVjcEt0c1A5Zlk4YVp5TE1YVExJUQ",
-   "source": "搜狐",
-   "published_at": "2026-10-20T01:09:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T01:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWV2QV9UTWlfaW1TQnZFanhaOEhPQUU4VTVSUy0yazZqUjhJNTN4MWVRYWY3Smhwa1hHbjlCUXNyNDlaZjdXWTBlS3Y5TEJyQzBib1MxZE1Nbk5YTXpzWk5LYzM1S3p4MXFjSk9ocXA5RjU3U01tTTVjcEt0c1A5Zlk4YVp5TE1YVExJUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉飞行汽车概念产业链受益",
-   "title_zh": "特斯拉点燃飞行汽车概念，相关产业链何者受益 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "a01b9b07bc03",
-   "title": "368.06美元，但特斯拉的成本集群仍显拥挤 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlRiVTdqdldWeVNZNU1keVZJX29IUHFXTUFMU2NjZlBBQTNsQ054SkRaQ25GVTBGakUwb1BFd1VTM2FBeFhuWnd3eGcxaGFCa3RsNTJoVk9BRE5WRnVrNTRxZnMzTlVPem81LXpkaFF5SUlXVGZYTFk4RHRHcFI2aVJqWmdBYVBuZWRYT1A2ZDVkOUdXZk9sMURIVDVSa3ZFUWFjdUpwTjh3aUlLSTEw",
-   "source": "Moomoo",
-   "published_at": "2026-10-20T01:01:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-20T01:01:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlRiVTdqdldWeVNZNU1keVZJX29IUHFXTUFMU2NjZlBBQTNsQ054SkRaQ25GVTBGakUwb1BFd1VTM2FBeFhuWnd3eGcxaGFCa3RsNTJoVk9BRE5WRnVrNTRxZnMzTlVPem81LXpkaFF5SUlXVGZYTFk4RHRHcFI2aVJqWmdBYVBuZWRYT1A2ZDVkOUdXZk9sMURIVDVSa3ZFUWFjdUpwTjh3aUlLSTEw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉在368美元附近成本集群拥挤",
-   "title_zh": "368.06美元，但特斯拉的成本集群仍显拥挤 - Moomoo",
-   "sentiment": -1
-  },
-  {
-   "id": "52cb73d51af4",
-   "title": "美国网友恶搞，第一辆特斯拉Roadster飞行汽车belike[笑cry] ​ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGRHMV94c3dsLWZkX0ZFR2NFeVE4SGFXRmI3dmlNNTZDODU3V3RmWG5ZN045di1INmlxdGNFUk1pWU82allSdzJWelZDdWtLcnhxa3ZiRERobGs5ODNURlVlU2VnMzdsejNFWlJNLTFWV01vdUxKOTctRnMwa2dnTw",
-   "source": "新浪网",
-   "published_at": "2026-10-20T00:53:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T00:53:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGRHMV94c3dsLWZkX0ZFR2NFeVE4SGFXRmI3dmlNNTZDODU3V3RmWG5ZN045di1INmlxdGNFUk1pWU82allSdzJWelZDdWtLcnhxa3ZiRERobGs5ODNURlVlU2VnMzdsejNFWlJNLTFWV01vdUxKOTctRnMwa2dnTw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "网友恶搞特斯拉Roadster飞行汽车",
-   "title_zh": "美国网友恶搞，第一辆特斯拉Roadster飞行汽车belike[笑cry] - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "cde379880864",
-   "title": "马斯克万亿财富支柱：SpaceX 和特斯拉财报将亮相，合并传言会成真？ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOE00cHNWazZzYmtNSmFta1FiWHpWRjRLY2s1VUY4Z0QyUEROSGNfTjJfYTc3aF93cTFialU5WW16anMtTDJlRmNZdHYxZzlPdzJmTjRDbDNkOE5UZGZ3ZlJaNzFZb19JQmJIWFRVVVFORThESmNFNkg0OGpTMEJuSEhRWkNReGw5RzFqclJR",
-   "source": "新浪财经",
-   "published_at": "2026-10-20T00:52:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-20T00:52:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOE00cHNWazZzYmtNSmFta1FiWHpWRjRLY2s1VUY4Z0QyUEROSGNfTjJfYTc3aF93cTFialU5WW16anMtTDJlRmNZdHYxZzlPdzJmTjRDbDNkOE5UZGZ3ZlJaNzFZb19JQmJIWFRVVVFORThESmNFNkg0OGpTMEJuSEhRWkNReGw5RzFqclJR"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "SpaceX与特斯拉合并传闻引关注",
-   "title_zh": "马斯克万亿财富支柱：SpaceX 和特斯拉财报将亮相，合并传言会成真？",
-   "sentiment": 0
-  },
-  {
-   "id": "22f3f750ddd0",
-   "title": "专家解读特斯拉飞车 特技表演还是技术突破？ - 中华军事",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNXA4Tl85dTZ0cDhqS1dVdjlNNGc0WVBsSEh4QXNqWjdsSzY3Mkxtb0NycnZrbHA1X3g5U3lIRVdwR0k3UThlX1RhLWRlaEVZUzdpZmdqcjVpMGFLUzdyOVN2M0tJMkZpMXhqU0lhVV8",
-   "source": "中华军事",
-   "published_at": "2026-10-20T00:50:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华军事",
-     "published_at": "2026-10-20T00:50:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNXA4Tl85dTZ0cDhqS1dVdjlNNGc0WVBsSEh4QXNqWjdsSzY3Mkxtb0NycnZrbHA1X3g5U3lIRVdwR0k3UThlX1RhLWRlaEVZUzdpZmdqcjVpMGFLUzdyOVN2M0tJMkZpMXhqU0lhVV8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "专家解读特斯拉飞车是特技还是技术",
-   "title_zh": "专家解读特斯拉飞车 特技表演还是技术突破？ - 中华军事",
    "sentiment": 0
   }
  ]
