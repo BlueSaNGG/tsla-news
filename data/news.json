@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T04:07:40.060715+00:00",
+ "updated_at": "2026-10-20T04:22:40.097993+00:00",
  "market": {
   "price": 368.06,
   "change_pct": 3.76,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（297条已评分）"
+     "note": "今日新闻情绪 +0.21（296条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 16,
    "implied_upside_pct": 8.7,
    "ma20": 369.97,
-   "as_of": "2026-10-20T04:07:40.054324+00:00"
+   "as_of": "2026-10-20T04:22:40.080512+00:00"
   },
   "pe_ttm": 101.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.21,
-   "count": 297
+   "count": 296
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "9c0ee0655c5e",
+   "title": "特斯拉飞行汽车发布会后AI场景涌现 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVFhVVhpSk9lTTFDbk5NN0VBMlRrMDlNUnhiT0hSX2ZwZkdaS295bTVQMjBHRThFOWNvaHE4YXFUNW93MVFtMWpmV1owTkx1UVNvMFhqbTBmLUh1M2RFSjhaSnFCQ1NJRlVKdHkzTVl6TllIUFVkQjBPVEMyUmE2Yw",
+   "source": "新浪网",
+   "published_at": "2026-10-20T04:19:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-20T04:19:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVFhVVhpSk9lTTFDbk5NN0VBMlRrMDlNUnhiT0hSX2ZwZkdaS295bTVQMjBHRThFOWNvaHE4YXFUNW93MVFtMWpmV1owTkx1UVNvMFhqbTBmLUh1M2RFSjhaSnFCQ1NJRlVKdHkzTVl6TllIUFVkQjBPVEMyUmE2Yw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "1d7287400b87",
+   "title": "特斯拉 Roadster纯电超跑 火箭推进器加持 还能垂直翻转！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZmZfbXNLWGRIdmRtV0lndW5xRTlCWlUxUWh3emctaWJncFpraXlUV1d2NVZaSzdHNUctN0VSTE5JMGlXcXo2dDBYaWpOaTVIajl0X19uVzA3RFU",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T04:13:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T04:13:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZmZfbXNLWGRIdmRtV0lndW5xRTlCWlUxUWh3emctaWJncFpraXlUV1d2NVZaSzdHNUctN0VSTE5JMGlXcXo2dDBYaWpOaTVIajl0X19uVzA3RFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "b2439f4247f9",
+   "title": "特斯拉Roadster腾空翻滚180度四轮着地，FAA称不符合飞行器定义的性能解析 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vMVF6aTNIRDVEOERld0dBUHBDT2JqamVTTV9SbEFfNDYybFBKT3EzUUg2dlFnQmR3eldfUUIxY3dYRkhKUU1HZmNvM3gyaE5YcllyWW9ISmpuRDg",
+   "source": "网通社",
+   "published_at": "2026-10-20T04:05:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-20T04:05:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vMVF6aTNIRDVEOERld0dBUHBDT2JqamVTTV9SbEFfNDYybFBKT3EzUUg2dlFnQmR3eldfUUIxY3dYRkhKUU1HZmNvM3gyaE5YcllyWW9ISmpuRDg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "fb1d8c7ea721",
    "title": "Can Tesla (TSLA.US) shares hit $4,400? Cathie Wood’s ARK bets on Robotaxi and anticipates a merger with SpaceX within five years. - Moomoo",
@@ -291,6 +342,23 @@
    "zh_summary": "SpaceX与特斯拉合并传言引讨论",
    "title_zh": "SpaceX和特斯拉合并传言会成真吗 财报与AI支出成关键 - 中华军事",
    "sentiment": 0
+  },
+  {
+   "id": "398f1b6270d9",
+   "title": "会飞的Roadster：特斯拉给电车圈上了一堂“航天课”｜车圈 - 风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YS0RiQ0ZhTG5lZXU5LXRJQWlKTURPTGxVRVF1LWd2bGxSZEphRWNPQmROU0ZPR3hJWktxSkRhSlNscEZoU2Vlb1ltVGxwbXZvZ3FpYWotZ19oemM",
+   "source": "风闻",
+   "published_at": "2026-10-20T03:06:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "风闻",
+     "published_at": "2026-10-20T03:06:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YS0RiQ0ZhTG5lZXU5LXRJQWlKTURPTGxVRVF1LWd2bGxSZEphRWNPQmROU0ZPR3hJWktxSkRhSlNscEZoU2Vlb1ltVGxwbXZvZ3FpYWotZ19oemM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "84878e2826b1",
@@ -6389,91 +6457,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉飞的不只是车还有宏图计划",
    "title_zh": "特斯拉飞起来的，不只是车，还有“宏图”_车市动态 - 中金在线",
-   "sentiment": 1
-  },
-  {
-   "id": "8d06ec85f655",
-   "title": "特斯拉Roadster预订金5千美元起，0.9秒破百 - 车家号",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyQjY5aXBNWjl1ODd3Rmd6Q0xpeGhaQkhuWTUxLXNVTjhHWURYbTBLN09IbDc4Z21ISksteXBDeEREVWRZWmJ3QU5KaUNQWjdQWUV3eFVpRFJDWEk",
-   "source": "车家号",
-   "published_at": "2026-10-19T06:03:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "车家号",
-     "published_at": "2026-10-19T06:03:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyQjY5aXBNWjl1ODd3Rmd6Q0xpeGhaQkhuWTUxLXNVTjhHWURYbTBLN09IbDc4Z21ISksteXBDeEREVWRZWmJ3QU5KaUNQWjdQWUV3eFVpRFJDWEk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster预订金5千美元起，0.9秒破百",
-   "title_zh": "特斯拉Roadster预订金5千美元起，0.9秒破百 - 车家号",
-   "sentiment": 1
-  },
-  {
-   "id": "38ea06817e2c",
-   "title": "特斯拉“飞天跑车”Roadster对全球汽车业竞争意味着什么？ - 华尔街日报中文网",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSjJLOFZFUGFiWlhHMUltWmZTcTRSYU16dFMybUdBbk94TFVpQlpPWUNoLWNRb2xDbEk5TUxKZUxueTJRTWlyWXR0cE5hMWl3TEYyZUp1VVoyaTI1QW9KQ1RxVW1zM1pFX2NQd1JKLXVCR2JmS1NfOU1VZzNONGxfdWMyd3hrZmpwSS1RR3hldFhfVmtEamZJdllBMTdVYUVqMzZFbndYWDl0R29aM1BCYmxhTWlQT1k3Rl83YS11SkdYSjZLeHBxa1ZrNXA1OHV2dGJ1c0J2SE91SXZ4bVd3Qkhham8wdXVPTUFsLVpGRGI4bVFtd1poZ1ZkbEs2SGsxTkZ6cUlHYUFjZ1ptdWxQUks3ZzNWdDJiWlk3c3M1WHBNd2pHdDhrOHFHVXF4RnBzaHg0TDBTTG1QbU5DelRv",
-   "source": "华尔街日报中文网",
-   "published_at": "2026-10-19T06:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街日报中文网",
-     "published_at": "2026-10-19T06:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSjJLOFZFUGFiWlhHMUltWmZTcTRSYU16dFMybUdBbk94TFVpQlpPWUNoLWNRb2xDbEk5TUxKZUxueTJRTWlyWXR0cE5hMWl3TEYyZUp1VVoyaTI1QW9KQ1RxVW1zM1pFX2NQd1JKLXVCR2JmS1NfOU1VZzNONGxfdWMyd3hrZmpwSS1RR3hldFhfVmtEamZJdllBMTdVYUVqMzZFbndYWDl0R29aM1BCYmxhTWlQT1k3Rl83YS11SkdYSjZLeHBxa1ZrNXA1OHV2dGJ1c0J2SE91SXZ4bVd3Qkhham8wdXVPTUFsLVpGRGI4bVFtd1poZ1ZkbEs2SGsxTkZ6cUlHYUFjZ1ptdWxQUks3ZzNWdDJiWlk3c3M1WHBNd2pHdDhrOHFHVXF4RnBzaHg0TDBTTG1QbU5DelRv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华尔街日报分析Roadster对全球车企影响",
-   "title_zh": "特斯拉“飞天跑车”Roadster对全球汽车业竞争意味着什么？ - 华尔街日报中文网",
-   "sentiment": 0
-  },
-  {
-   "id": "606575a9eeb1",
-   "title": "特斯拉Roadster火箭版演示飞行，600升氮气罐被指是炸弹 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWnZmY0o2d3V5RWVaUlVBUEo0dWNQMkVZTmtzSTFhM0R4OUxqOVdyRjNCc09nTVJsNUJQSVlOc284b1ZuTG5uX3JjUzZIN28xV1BNb3RoMVQxdjRRSVUtQUpNSHJXNlNVakFJ",
-   "source": "汽车之家",
-   "published_at": "2026-10-19T05:51:54+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-19T05:51:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xWnZmY0o2d3V5RWVaUlVBUEo0dWNQMkVZTmtzSTFhM0R4OUxqOVdyRjNCc09nTVJsNUJQSVlOc284b1ZuTG5uX3JjUzZIN28xV1BNb3RoMVQxdjRRSVUtQUpNSHJXNlNVakFJ"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-19T05:52:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RLTlOdzd3MjRxOHA2V08yRUdWMkUyVFE0ZmJCZnhXcVJ4Y3d1ZjFIV3lGcVIwdkpIM19qNk9UV256b3lwT3VTWTg2UVpPcTRRQnJfSjRLSVhraU5VMXI2TGNsUms2QlBLUTlZ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster火箭版飞行演示，氮气罐被指是炸弹",
-   "title_zh": "特斯拉Roadster火箭版演示飞行，600升氮气罐被指是炸弹 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "a2e9480557ef",
-   "title": "特斯拉二代Roadster配喷气推进与大范围轻量化材料，低空经济概念获直接催化 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkd2M2VyeHhaVXF3LW15MG1RRjJXb0xGTWx4dDdxOTVpVXNYVnU2Y0dpdzRzRUNHSm5RUlRHQmR1U3FzSEdTZlJTbF9jTzNqM3hDRS1JYTZ0UUZIZXFyeWxNcEpTd2Y3YTBmZDE4ZXFmUXgwN042VGk3TkNPbS0tdkRieF9ZUVViU0ZGNA",
-   "source": "搜狐",
-   "published_at": "2026-10-19T05:51:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T05:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkd2M2VyeHhaVXF3LW15MG1RRjJXb0xGTWx4dDdxOTVpVXNYVnU2Y0dpdzRzRUNHSm5RUlRHQmR1U3FzSEdTZlJTbF9jTzNqM3hDRS1JYTZ0UUZIZXFyeWxNcEpTd2Y3YTBmZDE4ZXFmUXgwN042VGk3TkNPbS0tdkRieF9ZUVViU0ZGNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "二代Roadster催化低空经济概念",
-   "title_zh": "特斯拉二代Roadster配喷气推进与大范围轻量化材料，低空经济概念获直接催化 - 搜狐",
    "sentiment": 1
   }
  ]
