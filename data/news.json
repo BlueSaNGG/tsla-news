@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T16:37:43.804960+00:00",
+ "updated_at": "2026-10-20T16:52:26.909790+00:00",
  "market": {
-  "price": 374.65,
-  "change_pct": 1.79,
+  "price": 374.24,
+  "change_pct": 1.68,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
+     "note": "目标价中位数 $400（16家），隐含空间 +6.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（168条已评分）"
+     "note": "今日新闻情绪 +0.27（169条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $374.65 vs 20日均线 $369.76"
+     "note": "现价 $374.24 vs 20日均线 $369.74"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.8,
-   "ma20": 369.76,
-   "as_of": "2026-10-20T16:37:43.790752+00:00"
+   "implied_upside_pct": 6.9,
+   "ma20": 369.74,
+   "as_of": "2026-10-20T16:52:26.895724+00:00"
   },
-  "pe_ttm": 103.6,
+  "pe_ttm": 103.5,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.27,
-   "count": 168
+   "count": 169
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8b74aaad3169",
+   "title": "【视频】零预热却全网霸屏，特斯拉咋就上天了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSDdWamRaMHp5QWZMekluaU5NQXRpSGNFNTIzTWh1SjVibjlUcjlLUkMtNENwUmpmcUFSbkYyRVF2NlFQR19kc3pBWm9TUHFIYWp2TU96dndlNVE",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T16:50:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T16:50:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSDdWamRaMHp5QWZMekluaU5NQXRpSGNFNTIzTWh1SjVibjlUcjlLUkMtNENwUmpmcUFSbkYyRVF2NlFQR19kc3pBWm9TUHFIYWp2TU96dndlNVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2c832ff3771a",
+   "title": "Tesla Analyst Raises Revenues Estimates Ahead Of Q3 Results - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDdDTGVlaHloeTZOZUM3SUFIdG5xQTZYcGJPUk8zTEF2WU82amtrSk9DQXJGNHVjMlpCYTlmMmhsSlZWcGNtenNobndzX19CcHdRbm41Ykw3Sm9PalVLY2lDWGJXWmI5ekRPVmFuNTdBaUhfMFFrNXJSSUZDMjc2dmdld3lKakpOd3RSLVpaWUVTWXJMUGRoajJNZUx5a2JWTWRuYUNrTllEcFJya2hQN0I5VVlsS2czZGlrR2JRQVFoU1RmZ2xtUi1kdTI5Tk5H",
+   "source": "Benzinga",
+   "published_at": "2026-10-20T16:42:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-20T16:42:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDdDTGVlaHloeTZOZUM3SUFIdG5xQTZYcGJPUk8zTEF2WU82amtrSk9DQXJGNHVjMlpCYTlmMmhsSlZWcGNtenNobndzX19CcHdRbm41Ykw3Sm9PalVLY2lDWGJXWmI5ekRPVmFuNTdBaUhfMFFrNXJSSUZDMjc2dmdld3lKakpOd3RSLVpaWUVTWXJMUGRoajJNZUx5a2JWTWRuYUNrTllEcFJya2hQN0I5VVlsS2czZGlrR2JRQVFoU1RmZ2xtUi1kdTI5Tk5H"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
   {
    "id": "6bb3f62df0d5",
    "title": "Tesla earnings preview: Fireworks or the calm before the SpaceX merger? (TSLA:NASDAQ) - Seeking Alpha",
@@ -6444,46 +6478,6 @@
    "session": "盘中",
    "zh_summary": "分析称马斯克发布飞行特斯拉另有深意",
    "title_zh": "我认为我知道马斯克发布飞行特斯拉的真正原因",
-   "sentiment": 0
-  },
-  {
-   "id": "d0172561991d",
-   "title": "Tesla Rises 4% as DeSantis Vows to Make Flying Roadster Legal in Florida; Rivian and Lucid Slip - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2FtZDM5cU1ZUXdIeUM2YldubmNkbkJ6N3lCWlc0UHdOcXpjaDVQaUIxMm1rQ0VvUFRxVTN3SnBwRWhpTmF3Y2tndWhUNzhUUGY3OURJSDFKaUFSV1ZVd0QyZTE3UnVmOWZEV3lqTHRKdXlOR0YwTGxWbHJxTlU2dWxtdnhRWWRtQ0w5WlBNc0pJaFhTbXUtLXJhdkpSc2tlck9qNjlWelNLaTh1TjR5OXh3Z2JVUFVFWUFITnVIeUNNUTZJSUNGWFQ0QkRkNHNsZm84",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-19T16:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-19T16:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc2FtZDM5cU1ZUXdIeUM2YldubmNkbkJ6N3lCWlc0UHdOcXpjaDVQaUIxMm1rQ0VvUFRxVTN3SnBwRWhpTmF3Y2tndWhUNzhUUGY3OURJSDFKaUFSV1ZVd0QyZTE3UnVmOWZEV3lqTHRKdXlOR0YwTGxWbHJxTlU2dWxtdnhRWWRtQ0w5WlBNc0pJaFhTbXUtLXJhdkpSc2tlck9qNjlWelNLaTh1TjR5OXh3Z2JVUFVFWUFITnVIeUNNUTZJSUNGWFQ0QkRkNHNsZm84"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉涨4%，佛州州长支持飞行跑车",
-   "title_zh": "特斯拉涨4%：佛州州长欲让飞行Roadster合法",
-   "sentiment": 1
-  },
-  {
-   "id": "35ce9f52639a",
-   "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings? - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZE5tbnBGdk5OTzBtMG1yMHNGZ2p5Tk50elFETnhJWUpsMGtOajM4T2VXZ3h4Qk8wNlRWVkhqV1NnQWpUQW9UUS00RGJzdEZyeXhuSjdTM2tfMHpPak9oN1lCUTgxSHF4dzdOTWNCRG9PVXRTc2JGdE40eTVaOWo1cm9PU1RWZHhUamhsRVhIUHZCSjhRWFNzNDF6TlNJakRjanhB",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-19T16:49:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-19T16:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZE5tbnBGdk5OTzBtMG1yMHNGZ2p5Tk50elFETnhJWUpsMGtOajM4T2VXZ3h4Qk8wNlRWVkhqV1NnQWpUQW9UUS00RGJzdEZyeXhuSjdTM2tfMHpPak9oN1lCUTgxSHF4dzdOTWNCRG9PVXRTc2JGdE40eTVaOWo1cm9PU1RWZHhUamhsRVhIUHZCSjhRWFNzNDF6TlNJakRjanhB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉驻车屏或匹配真实环境",
-   "title_zh": "特斯拉驻车屏幕若匹配真实环境会怎样",
    "sentiment": 0
   }
  ]
