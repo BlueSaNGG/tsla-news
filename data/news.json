@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T05:52:27.379473+00:00",
+ "updated_at": "2026-10-21T06:07:28.162453+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（1条已评分）"
+     "note": "今日新闻情绪 +0.50（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T05:52:27.362543+00:00"
+   "as_of": "2026-10-21T06:07:28.149004+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 4
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "75f1362a4ba1",
+   "title": "Tesla And SpaceX On The Way To A Merger? Musk Is Calling It 'a Good Idea' - i24NEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYVZMLWVTWHRZNzhsUVZmNHJoUEhpdW5QZE1oREpzb1RCbmNkYnYxU3lWQzYwdy1OdDgteFV4NWxGNkl1dVJrV2lOMktiZWFCS1l2RllkUHlLUnA4OHdpWEZtdWJuNm9KbXIwZ0tJS0pxTmpWZ1I3QlZCc0xzMVBuUFJzRVFITHFGRmUzYVYyZjJxZzhOdXFSZkMtWFdBMGNGcjlhXzJ6TjYxeExGQk1XMEVRaWF0TXJpM2ZGNUdjRVFmLUI3LWFEWG1lU01xUnpjQW1WUVhn",
+   "source": "i24NEWS",
+   "published_at": "2026-10-21T06:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "i24NEWS",
+     "published_at": "2026-10-21T06:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYVZMLWVTWHRZNzhsUVZmNHJoUEhpdW5QZE1oREpzb1RCbmNkYnYxU3lWQzYwdy1OdDgteFV4NWxGNkl1dVJrV2lOMktiZWFCS1l2RllkUHlLUnA4OHdpWEZtdWJuNm9KbXIwZ0tJS0pxTmpWZ1I3QlZCc0xzMVBuUFJzRVFITHFGRmUzYVYyZjJxZzhOdXFSZkMtWFdBMGNGcjlhXzJ6TjYxeExGQk1XMEVRaWF0TXJpM2ZGNUdjRVFmLUI3LWFEWG1lU01xUnpjQW1WUVhn"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
+   "id": "d03d98413f92",
+   "title": "马斯克造出腾空能飞的特斯拉：凭什么要按着中国车企头去集体反思呢 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TR0RHSHNpRGVURkJfdkl6RU40NkZBZm9EX2RYVmxSbmhFRkc0dk1tdVBHLWpPdzNZTU5GTC01Z2FHZFdmRUxXMjM5NW1jaEJRZkxBT0djU3o",
+   "source": "驱动之家",
+   "published_at": "2026-10-21T05:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-21T05:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TR0RHSHNpRGVURkJfdkl6RU40NkZBZm9EX2RYVmxSbmhFRkc0dk1tdVBHLWpPdzNZTU5GTC01Z2FHZFdmRUxXMjM5NW1jaEJRZkxBT0djU3o"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
   {
    "id": "07e52a7ad1a6",
    "title": "【视频】特斯拉“飞车”：一场炫技背后的产业裂痕与资本清醒 - 汽车之家",
@@ -86,6 +120,23 @@
    "zh_summary": "特斯拉\"飞车\"炫技引产业争议",
    "title_zh": "【视频】特斯拉\"飞车\"：一场炫技背后的产业裂痕与资本清醒",
    "sentiment": 0
+  },
+  {
+   "id": "4176525f6cae",
+   "title": "Elon Musk says talks ongoing to merge Tesla and SpaceX - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEFpVkNZTTN0blNBMHNMQWg0TEgzd1VZT05mYTQtMGNVQTlteE1uZm9fcFB0aTBOOHAyb2xmX2o1MjVGN09MVFU5QlN6eXdka0RPTGdCRGdzN0pnWmxfa0cwYXhNTk1qV1RaRVRmaTBINFFkdzRsZGNveXlWWWNDYXV3dw",
+   "source": "Yahoo Finance UK",
+   "published_at": "2026-10-21T05:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance UK",
+     "published_at": "2026-10-21T05:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEFpVkNZTTN0blNBMHNMQWg0TEgzd1VZT05mYTQtMGNVQTlteE1uZm9fcFB0aTBOOHAyb2xmX2o1MjVGN09MVFU5QlN6eXdka0RPTGdCRGdzN0pnWmxfa0cwYXhNTk1qV1RaRVRmaTBINFFkdzRsZGNveXlWWWNDYXV3dw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "14c763e13d0a",
@@ -1883,10 +1934,15 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fY0NsSDVyUlNlYXRpdnJpcjF2eHdYQ2xPYUxDNzRtdmhMdDdpaVBGT1NGeklOUUFvN2RId1VZSGJqdDk2ZzQxQ0REdmY",
    "source": "凤凰网",
    "published_at": "2026-10-20T23:54:51+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网",
+     "published_at": "2026-10-20T23:54:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fY0NsSDVyUlNlYXRpdnJpcjF2eHdYQ2xPYUxDNzRtdmhMdDdpaVBGT1NGeklOUUFvN2RId1VZSGJqdDk2ZzQxQ0REdmY"
+    },
+    {
+     "name": "凤凰网汽车",
      "published_at": "2026-10-20T23:54:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fY0NsSDVyUlNlYXRpdnJpcjF2eHdYQ2xPYUxDNzRtdmhMdDdpaVBGT1NGeklOUUFvN2RId1VZSGJqdDk2ZzQxQ0REdmY"
     }
@@ -6505,115 +6561,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉与支付宝合作开发车载助手",
    "title_zh": "特斯拉与支付宝合作开展车载助手项目",
-   "sentiment": 1
-  },
-  {
-   "id": "cfa2e0eab218",
-   "title": "Netflix, SpaceX, Meta, and Tesla Q3 earnings: What investors need to see from Big Tech this week - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMktPUmZrNmgyUDhFbTJGVUxVWmRHd0dIenBPV2o1Z3pzWkNuNlFsZWZuSXBBWGMtRXd0U1RoTlZRbUtJTG11bVhiUzNSeGFOT0U1TUt6OE5NclFZNnM5cFZLNnNhZU5qRkhXeTZjQUFCWGpSSUcxZUNUWjMwZU9aRW1BRlpucXZDQ09MWnBVSGJOQ1lCWV9DckUxTzZEMGl6SnR0NU1zZ0VnUQ",
-   "source": "Business Insider",
-   "published_at": "2026-10-20T09:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-20T09:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMktPUmZrNmgyUDhFbTJGVUxVWmRHd0dIenBPV2o1Z3pzWkNuNlFsZWZuSXBBWGMtRXd0U1RoTlZRbUtJTG11bVhiUzNSeGFOT0U1TUt6OE5NclFZNnM5cFZLNnNhZU5qRkhXeTZjQUFCWGpSSUcxZUNUWjMwZU9aRW1BRlpucXZDQ09MWnBVSGJOQ1lCWV9DckUxTzZEMGl6SnR0NU1zZ0VnUQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "本周Big Tech财报周：特斯拉等Q3看点",
-   "title_zh": "本周特斯拉等Big Tech三季报看点：投资者关注要点",
-   "sentiment": 0
-  },
-  {
-   "id": "70b14d04f864",
-   "title": "特斯拉与支付宝达成车载助手项目合作 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBycndjUmJHaTZMaGw1Ynk5VFVNVzdRTkJZQkRUVU1nenRQLUhtTURpdy1yb1I2aWwyaC1EUTFpV01vQ3M1SHQxa0hZbw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-20T09:49:48+00:00",
-   "outlets_count": 9,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-20T09:49:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBycndjUmJHaTZMaGw1Ynk5VFVNVzdRTkJZQkRUVU1nenRQLUhtTURpdy1yb1I2aWwyaC1EUTFpV01vQ3M1SHQxa0hZbw"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-20T10:04:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rZTgwa0VvVXVPS2VXTFB1M3A1LTlsbDdkNDZkb0J6Q0h5OW9Pb0Jsek5ZbHJIdDhiWld2SG1yeWlsbTI1bDh4VV9ROU4"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-20T10:04:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ueUtvNHpPaHNlY2EyWUx3VUc3SXFGdUNOdnNJM1d4TnpjanM2cVFKenJ2Ui13eC1RQmlpNXJ1NHo0UDZQc1I5LQ"
-    },
-    {
-     "name": "大河财立方",
-     "published_at": "2026-10-20T10:06:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yZGRIWFdDWkNuS0JJZ2plNXV3U3VQY0tWMWw0Rm92ZkZON1pnR3pHZkpOV1JObEFJYm4zOEtNNjBCUHFscExsNzNpbmd4dTVEWFlGUHZwWWI5NDNTbUthUUZ3NlZaTmtZbVE"
-    },
-    {
-     "name": "上观新闻",
-     "published_at": "2026-10-20T10:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NU1duS1lldlJYaTdaWndabGZwZDNVRmlnQ0dWXzF5REV5RlhTYUpRcjNRZUlnZVdGdXE1QWpzYnBvX2dNSVNMVkRoRlRzeFNINWk4T29xbXRBZw"
-    },
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-20T10:52:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNSUtJMzkwRGowUHpaX0NleUZSbnJFbmFnY2x4SEItbkRWTmxrMHdaNTlnMjNSUTZ3enVVZE1VYm5jd3Q4VlBQNmNtTGNETTVma1dNZzVBenhzeU05UHc"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T11:33:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2ZPT2FCMmRjSVd4YzM1RmVtSUhiZVNaTTdZampmcTlVR2x1dE9xOXJlVmgta0wtOGZQcmJtZGNmREhkMF9tNW52ckZvNWlieWxCejZac2p5blBNa0dzQTdjaUNnZWZVcUdmZElWMmE5NXZXV3R5Y2tvMFA3Nlo4N2hR"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T13:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnQ1VUpKczZpdGJxN2ZnQjVaZUR5YkxjQkowVEVZVGpZc2wwbkZ4blR5XzZEYjZ0Y19Sb3VkeXFkRWlxeVBQUmdGY0xUcV93R1BhaU5ycjJlbjVkeFJBSml2Ul9OSlhwa0ktZGdoSG93MURuSW15TmpWLWs4bWZTVTZtSDFvelJY"
-    },
-    {
-     "name": "21财经",
-     "published_at": "2026-10-20T11:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONDlIbDFGS0pEV001M2FUWm8zelJsZ2NFeHVUZ2gzb24tQkRWM2NjWm01WmlnTm9zNlRqM1NGdVY3a3pGV2VONlY4VC00NFNMdmhBeERBRHpibXlUaHpCQnlrUmlGeWhuZDNUMzJVNU4yZUI3Rnp3WW9EQWFLVjBEUWhHZDBkckdVZGo3RGoydw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉与支付宝合作车载助手",
-   "title_zh": "告别手机停车缴费？特斯拉与支付宝达成车载助手项目合作 - 凤凰网科技",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.07,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "c99d34cc5eaf",
-   "title": "How High Can Tesla Stock Go Ahead of Q3 Earnings? TSLA Gains 3.8% to $368 - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeWN3S2xuMmJZWVNJY1FTaTllUW13Y3NqN28zYmVqdFk1enlMTVpkTTN5RWhPd3VNdm1HekNGNFo0aWtHZVN0TGVBYTlqZ2JwTnVfR2g4ZU42alNXaDEySGE4NWczeFVXX0Y4S25GaU9ROUM5V1dnSkhYNERuY0hOcWRFLVpGeFh6aUNQWUxYN01BMDZFQ0MzNlRCRWZUVklqeXNjZXJoNFBGTzF1MGZ6T19KemZFYlZYZklRWmhLYXl0dkZOWEJsdE96WkF1aU5vX1E",
-   "source": "TradingView",
-   "published_at": "2026-10-20T09:49:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-20T09:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeWN3S2xuMmJZWVNJY1FTaTllUW13Y3NqN28zYmVqdFk1enlMTVpkTTN5RWhPd3VNdm1HekNGNFo0aWtHZVN0TGVBYTlqZ2JwTnVfR2g4ZU42alNXaDEySGE4NWczeFVXX0Y4S25GaU9ROUM5V1dnSkhYNERuY0hOcWRFLVpGeFh6aUNQWUxYN01BMDZFQ0MzNlRCRWZUVklqeXNjZXJoNFBGTzF1MGZ6T19KemZFYlZYZklRWmhLYXl0dkZOWEJsdE96WkF1aU5vX1E"
-    },
-    {
-     "name": "Finance Magnates",
-     "published_at": "2026-10-20T09:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXk1QWxidWNaS2J4aW9PUmc2SmdPdlpBbEZxRlRWNWlJQWQtMVZFRDd3TFdya3VpV0NsS1AwLUZYMkVVMzlCWVpvdEJzdkRqNkpMX3lsSUNkWEpZS1BWcWNxbkwzMEZKeGRMQllBdXgzOHE0ZGZwU044cWVWcFhDTGFDOXpKci16cDdaUXhoOEMyc250UTJneWoxTWVfUWlHWW4yclliWmpPUFFEUzJhTQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价涨3.8%至368美元",
-   "title_zh": "特斯拉财报前能涨多高？TSLA涨3.8%至$368",
    "sentiment": 1
   }
  ]
