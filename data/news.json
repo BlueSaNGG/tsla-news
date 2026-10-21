@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T19:52:33.632794+00:00",
+ "updated_at": "2026-10-21T20:07:31.945025+00:00",
  "market": {
-  "price": 385.95,
-  "change_pct": 3.28,
+  "price": 386.47,
+  "change_pct": 3.41,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.6%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（246条已评分）"
+     "note": "今日新闻情绪 +0.36（245条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $385.95 vs 20日均线 $370.00"
+     "note": "现价 $386.47 vs 20日均线 $370.03"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 46,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.6,
-   "ma20": 370.0,
-   "as_of": "2026-10-21T19:52:33.622069+00:00"
+   "implied_upside_pct": 3.5,
+   "ma20": 370.03,
+   "as_of": "2026-10-21T20:07:31.931381+00:00"
   },
-  "pe_ttm": 106.7,
+  "pe_ttm": 106.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.36,
-   "count": 246
+   "count": 245
   }
  },
  "meta": {
@@ -67,6 +67,26 @@
   }
  },
  "stories": [
+  {
+   "id": "c8c1a6f3c73a",
+   "title": "A SpaceX-Tesla megamerger could benefit both companies and Elon Musk’s personal fortune - WTOP News",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQzRNNHByYVE4OENSUmhEYjJLX25aSFpUd0VpMThGMGRMS19tUVNmbVBHNmNPMFhzRF85c2phbnNPMTd0eFNBMERtbjRldUlBM2Y5NzN0bUZMYzdVa2JzZGtZakYyNlNFMjl0a3lWVTRMT3BDS2h5d0tMakMwMmxEMHN0Y0xSNXc2LVE1eTRLd2VQZnpBV1RYc29JNmppdXpmVFZMbDVtODVhOWUyQ3RuamhTTmtXTTVGNUVyaGJn",
+   "source": "WTOP News",
+   "published_at": "2026-10-21T20:00:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WTOP News",
+     "published_at": "2026-10-21T20:00:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQzRNNHByYVE4OENSUmhEYjJLX25aSFpUd0VpMThGMGRMS19tUVNmbVBHNmNPMFhzRF85c2phbnNPMTd0eFNBMERtbjRldUlBM2Y5NzN0bUZMYzdVa2JzZGtZakYyNlNFMjl0a3lWVTRMT3BDS2h5d0tMakMwMmxEMHN0Y0xSNXc2LVE1eTRLd2VQZnpBV1RYc29JNmppdXpmVFZMbDVtODVhOWUyQ3RuamhTTmtXTTVGNUVyaGJn"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中",
+   "zh_summary": "特斯拉SpaceX合并传闻利好双方",
+   "title_zh": "特斯拉与SpaceX合并或利好双方及马斯克财富",
+   "sentiment": 1
+  },
   {
    "id": "a9d4278a0af0",
    "title": "Tesla to report earnings after Elon Musk floats SpaceX merger plan - The Guardian",
@@ -83,9 +103,29 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "zh_summary": "财报在即，马斯克抛出SpaceX合并计划",
-   "title_zh": "马斯克抛出SpaceX合并计划，特斯拉财报在即",
-   "sentiment": 1
+   "zh_summary": "特斯拉盘后发财报兼谈SpaceX合并",
+   "title_zh": "马斯克提出SpaceX合并计划后特斯拉将发布财报",
+   "sentiment": 0
+  },
+  {
+   "id": "24c25d57617b",
+   "title": "停车缴费告别扫码 特斯拉牵手支付宝解锁车内新技能 - 太平洋汽车",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSWwyby1Cb3o5Wm03OFVXMWQ0UkRVYmtZblBPdXNVbkxaLUJ1MzBjSjRUMGtYTzFvc3BBdFR6WnNzaDBIdXdkX3VrWGppNzN3ODBqUmtLYXIxXzg4cUE",
+   "source": "太平洋汽车",
+   "published_at": "2026-10-21T19:39:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "太平洋汽车",
+     "published_at": "2026-10-21T19:39:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSWwyby1Cb3o5Wm03OFVXMWQ0UkRVYmtZblBPdXNVbkxaLUJ1MzBjSjRUMGtYTzFvc3BBdFR6WnNzaDBIdXdkX3VrWGppNzN3ODBqUmtLYXIxXzg4cUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉牵手支付宝车内免扫码缴费",
+   "title_zh": "停车缴费告别扫码 特斯拉牵手支付宝解锁车内新技能",
+   "sentiment": 0
   },
   {
    "id": "38d04efe421a",
@@ -105,6 +145,26 @@
    "session": "盘中",
    "zh_summary": "财报前TSLA股价走高",
    "title_zh": "Q3财报前TSLA股价走高",
+   "sentiment": 1
+  },
+  {
+   "id": "d5165f168750",
+   "title": "A Tesla-SpaceX Merger May Boost Musk’s Fortune by $110 Billion - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3N5VmhSbU9hdFAyMmFQb29Scm52Um5rYWViVWNleExGZ251MktJUkR4ZzJhMFZSdkxWMnBxYzZlSEhzNDUxeGs1Z3M0eXFwR2Y2OC1OV2tJS0xVYzhJUkRsYWhOak9EbC0wY2k0SGdkbUJFaHZ0UzNfa1FHWEZaQ3RDd2FEc3JvRWJ1bkFRSlBHRDhzR0o3TWFZZ3dGTzdoV1l4TGZGYlVkR2p6QjFZeG1R",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-21T19:15:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-21T19:15:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3N5VmhSbU9hdFAyMmFQb29Scm52Um5rYWViVWNleExGZ251MktJUkR4ZzJhMFZSdkxWMnBxYzZlSEhzNDUxeGs1Z3M0eXFwR2Y2OC1OV2tJS0xVYzhJUkRsYWhOak9EbC0wY2k0SGdkbUJFaHZ0UzNfa1FHWEZaQ3RDd2FEc3JvRWJ1bkFRSlBHRDhzR0o3TWFZZ3dGTzdoV1l4TGZGYlVkR2p6QjFZeG1R"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中",
+   "zh_summary": "合并或让马斯克身家增1100亿美元",
+   "title_zh": "特斯拉SpaceX合并或使马斯克财富增1100亿美元",
    "sentiment": 1
   },
   {
@@ -253,6 +313,26 @@
    "sentiment": 0
   },
   {
+   "id": "aff8f4f83457",
+   "title": "Tesla’s New Robotaxi Website Shows 70% of Driverless Miles Came Since August - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE93am5ucTZXeENQN2U1LXVQN1F0X0lOeDRXTjN6MTNyMUViSFIyVTZvWDM4NFhwdDlENXBGdmhSX01nWjRESW1vUlJJWGdxR0diZlBLZlhkU3BORGNteHZDdE5Wcm12bDdYTmxFQVFRWmtxT3IwUWRlM0p3V2I2bGFXWUl4Y2RSbWdfWjE3cTlzUk5iQ3QzZ2lfNGk3RDlDb3RNdVlWQWFsampuZnBF",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-21T18:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-21T18:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE93am5ucTZXeENQN2U1LXVQN1F0X0lOeDRXTjN6MTNyMUViSFIyVTZvWDM4NFhwdDlENXBGdmhSX01nWjRESW1vUlJJWGdxR0diZlBLZlhkU3BORGNteHZDdE5Wcm12bDdYTmxFQVFRWmtxT3IwUWRlM0p3V2I2bGFXWUl4Y2RSbWdfWjE3cTlzUk5iQ3QzZ2lfNGk3RDlDb3RNdVlWQWFsampuZnBF"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "8月以来占Robotaxi无人驾驶里程70%",
+   "title_zh": "特斯拉Robotaxi网站显示70%无人驾驶里程来自8月后",
+   "sentiment": 1
+  },
+  {
    "id": "3cdff673807b",
    "title": "Watch SpaceX has Blowout Quarter as Musk Floats Merger with Tesla - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSVp6anBvUUpYaGo4TWNKNW8zVEppd1hmRW9QUUJTbHF2RmE0bE1WQ3JDd3pSdTNuUV9UdjZUajN0WUFlRkNsRmpvVURhZTI0bEpEX0F5aGZTQmFqVlRKMkZMU21QRnlJOU9XbnljVEpNVGNxcklVRTg1aF9HdGNEdTlNRzljem8",
@@ -390,6 +470,26 @@
    "session": "盘中",
    "zh_summary": "特斯拉推出iPad与iPhone双端新应用",
    "title_zh": "特斯拉推出适配iPad与iPhone双端的新应用",
+   "sentiment": 1
+  },
+  {
+   "id": "df9ef745bb9c",
+   "title": "‘No Question Tesla’s Going to Merge With SpaceX’ — Kevin O’Leary Says If You Own Tesla Stock, You’ll Own the New Company After Flying Roadster Demo - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNaG1jc2tOSl9UTDFPbnJONi1QU1VoUWpGRUVtUk5HLUFzU3owVFhRdEJoRWlYN0dvaUlxRm1LUFhzNkRaOWdZVm5uaG5wTmwzZnhEM0lGckotd0lPRWgzRk9kQzRaekgwQ19JV05UVVNuRFVFSlpQUWI1TklRdlZHNFZzWlZ4MjVIZFJHU1MtVlhxOHlZT0hTbFc2elpKNzZaQ3dmR29rTWtYX1JkTml2aFc1U0tVallJNEprV0ZBQWlRRkFxaFplX1MycEdWbnVQa0NNSVJYWkFMbmY0azZ5eFVLZmdhY3U4NTZ2aElZUFE1dkVOWlE3OHBsVU1SQ1QyUXY0RVVxaXdLU2xIUF95cA",
+   "source": "Barchart.com",
+   "published_at": "2026-10-21T17:57:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-10-21T17:57:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNaG1jc2tOSl9UTDFPbnJONi1QU1VoUWpGRUVtUk5HLUFzU3owVFhRdEJoRWlYN0dvaUlxRm1LUFhzNkRaOWdZVm5uaG5wTmwzZnhEM0lGckotd0lPRWgzRk9kQzRaekgwQ19JV05UVVNuRFVFSlpQUWI1TklRdlZHNFZzWlZ4MjVIZFJHU1MtVlhxOHlZT0hTbFc2elpKNzZaQ3dmR29rTWtYX1JkTml2aFc1U0tVallJNEprV0ZBQWlRRkFxaFplX1MycEdWbnVQa0NNSVJYWkFMbmY0azZ5eFVLZmdhY3U4NTZ2aElZUFE1dkVOWlE3OHBsVU1SQ1QyUXY0RVVxaXdLU2xIUF95cA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "奥利里称特斯拉必与SpaceX合并",
+   "title_zh": "奥利里：特斯拉必将与SpaceX合并",
    "sentiment": 1
   },
   {
@@ -875,6 +975,26 @@
    "zh_summary": "华尔街认为特斯拉SpaceX合并不可避免",
    "title_zh": "华尔街认为特斯拉与SpaceX合并不可避免，但对价格分歧",
    "sentiment": 0
+  },
+  {
+   "id": "e518b981a0f7",
+   "title": "Tech Earnings Today: Tesla, Meta Shares Rise With Results Due After Close - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa250Ty04UDI3dl9nak9hWHRJVHlXWnRSNWpGNkh1THBSMWk2eDIxMnF2X1plUjhlbkMwOTFrN1M0c2VvLVd4Q3FjbFc5ZEFIM0gtR2xYQ3ctdnlUaE5Uby1qRk1aY0sxX0hJOE0wWUluVWtvcVFucDNkVzFGVEFzQlRjM2ZXZXBpT0dXM1ZET1BpVnhzWl9WTVN5bw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T16:14:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T16:14:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa250Ty04UDI3dl9nak9hWHRJVHlXWnRSNWpGNkh1THBSMWk2eDIxMnF2X1plUjhlbkMwOTFrN1M0c2VvLVd4Q3FjbFc5ZEFIM0gtR2xYQ3ctdnlUaE5Uby1qRk1aY0sxX0hJOE0wWUluVWtvcVFucDNkVzFGVEFzQlRjM2ZXZXBpT0dXM1ZET1BpVnhzWl9WTVN5bw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中",
+   "zh_summary": "特斯拉Meta财报前股价走高",
+   "title_zh": "特斯拉Meta财报盘后公布前股价走高",
+   "sentiment": 1
   },
   {
    "id": "9b1d24d02be0",
@@ -1772,12 +1892,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3bFdMWTRpWGl6WXluckpwWmFGcjBtOW56QkRVZkRLSkFCdWxnMHBLc2JnRUNyOGhjSGxXSDR3TzZJTDNKNHlFMkhlb3NqTkF4SHI0d0sxQThCdw",
    "source": "汽车之家",
    "published_at": "2026-10-21T13:50:25+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
      "published_at": "2026-10-21T13:50:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3bFdMWTRpWGl6WXluckpwWmFGcjBtOW56QkRVZkRLSkFCdWxnMHBLc2JnRUNyOGhjSGxXSDR3TzZJTDNKNHlFMkhlb3NqTkF4SHI0d0sxQThCdw"
+    },
+    {
+     "name": "车家号",
+     "published_at": "2026-10-21T13:50:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04WHhITDd1SHVPV3JjYTc4Q202Z2N3Rkh3eG9QY08xV1NnWVdxQzE1X2duN1cxYklBZVRlNVNzVFNRbTRyaVg2dFZQVXZSaS1naUJuY1pkeldRMEE"
     }
    ],
    "category": "其他",
@@ -3022,6 +3147,26 @@
    "sentiment": 1
   },
   {
+   "id": "038299787f2f",
+   "title": "理想高管评价特斯拉Roadster 2：面目全非还是统一风格？3个维度说清+FAQ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fM0l1VHhUaXNiRGc1Y19FNXo0QmFtMVdjZTlVV09BbnVOcGJCWXJaTTNrWDZFSFVaM2JoaS04SzZUNmtKSmdtU0poek5Hc21tRjhNZnpmTEtjZ3RqTWlCd2YxamMxOTFNWDdLa25yMlM3dw",
+   "source": "新浪网",
+   "published_at": "2026-10-21T10:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-21T10:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fM0l1VHhUaXNiRGc1Y19FNXo0QmFtMVdjZTlVV09BbnVOcGJCWXJaTTNrWDZFSFVaM2JoaS04SzZUNmtKSmdtU0poek5Hc21tRjhNZnpmTEtjZ3RqTWlCd2YxamMxOTFNWDdLa25yMlM3dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "理想高管三维度评价Roadster 2",
+   "title_zh": "理想高管评价特斯拉Roadster 2：面目全非还是统一风格？3个维度说清+FAQ",
+   "sentiment": 0
+  },
+  {
    "id": "d1bf1442fd1e",
    "title": "SpaceX, Tesla Study Potential $3.5 Trillion Combination - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUV4MW44VVNuRWh1dF84UXlZUVZ1RTBKVjVKMEVTZTgzeXMxU1l4c0xDM3dJekRFb292Qi1jdzdZUm5wbGhyZmw4U0FwYnY5UVVkbWtlb0VUYnFQN3hKOHdZZkEzN0s5dE80TXhNZHM5anpaTmh6TWZpajBfQU5CYTZyZ3l3LVUxZkpwWE9BdlFVWE5KLU1pbV80WEN3MmxVTDkzLVFCVzVQeUk",
@@ -3582,10 +3727,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qZ2pRMzBtSjg0R0V4bkVEZWoxd2dwbW85Z2hNMWRqa0U3Vm9hVGQway1hZEowdGVHSENHZUtvcGtWYm03QWd2d19EZ0NzOU5Da0JoQ05fTnpqZjA",
    "source": "汽车之家",
    "published_at": "2026-10-21T09:44:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-21T09:44:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qZ2pRMzBtSjg0R0V4bkVEZWoxd2dwbW85Z2hNMWRqa0U3Vm9hVGQway1hZEowdGVHSENHZUtvcGtWYm03QWd2d19EZ0NzOU5Da0JoQ05fTnpqZjA"
+    },
+    {
+     "name": "车家号",
      "published_at": "2026-10-21T09:44:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qZ2pRMzBtSjg0R0V4bkVEZWoxd2dwbW85Z2hNMWRqa0U3Vm9hVGQway1hZEowdGVHSENHZUtvcGtWYm03QWd2d19EZ0NzOU5Da0JoQ05fTnpqZjA"
     }
@@ -3942,10 +4092,15 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SR3pvSUwwS2lVa3FOdnRrdVdqQjFrNkFiMW1PY1FxUFF5YnBfU0lnNDhoUnlINHBESmVjV2l5bER5VGN2dHVCOW9yUWZnUUNBXzR6WUw5Tlk0bkk",
    "source": "汽车之家",
    "published_at": "2026-10-21T09:07:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-21T09:07:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SR3pvSUwwS2lVa3FOdnRrdVdqQjFrNkFiMW1PY1FxUFF5YnBfU0lnNDhoUnlINHBESmVjV2l5bER5VGN2dHVCOW9yUWZnUUNBXzR6WUw5Tlk0bkk"
+    },
+    {
+     "name": "车家号",
      "published_at": "2026-10-21T09:07:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SR3pvSUwwS2lVa3FOdnRrdVdqQjFrNkFiMW1PY1FxUFF5YnBfU0lnNDhoUnlINHBESmVjV2l5bER5VGN2dHVCOW9yUWZnUUNBXzR6WUw5Tlk0bkk"
     }
@@ -4094,26 +4249,6 @@
    "session": "盘前",
    "zh_summary": "马斯克考虑合并SpaceX特斯拉",
    "title_zh": "马斯克称考虑将SpaceX与特斯拉合并，SpaceX盘前大涨10.57% - 凤凰网",
-   "sentiment": 1
-  },
-  {
-   "id": "5bc69d5ae8a0",
-   "title": "Why Elon Musk Wants to Merge SpaceX and Tesla - Time Magazine",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEQ0bVNPeHFveEI5ekMwOS1DakZxNmxKWURjZFdXX1E5aHk3LTZUTTA3SU9hNHV0Qkw1eHJTSkRtbTk0cGVsYWNhc3ZfRXdLa1hjN2RKNGdjR0ZkMlpGZ01LblJMUnJjbDZPbWpuaUtFRURHWjlJdGJTVEZKczQ4WU1UYkIzRnc",
-   "source": "Time Magazine",
-   "published_at": "2026-10-21T08:45:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Time Magazine",
-     "published_at": "2026-10-21T08:45:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEQ0bVNPeHFveEI5ekMwOS1DakZxNmxKWURjZFdXX1E5aHk3LTZUTTA3SU9hNHV0Qkw1eHJTSkRtbTk0cGVsYWNhc3ZfRXdLa1hjN2RKNGdjR0ZkMlpGZ01LblJMUnJjbDZPbWpuaUtFRURHWjlJdGJTVEZKczQ4WU1UYkIzRnc"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克寻求SpaceX与特斯拉合并",
-   "title_zh": "马斯克为何想合并SpaceX与特斯拉",
    "sentiment": 1
   },
   {
@@ -6314,145 +6449,6 @@
    "zh_summary": "市场热议SpaceX与特斯拉合并可能性",
    "title_zh": "传SpaceX与特斯拉合并，各方怎么说",
    "sentiment": 0
-  },
-  {
-   "id": "477866e518ce",
-   "title": "特斯拉官方称没有“速成车”被车主挂旗反驳，这轮Model YL的“塌尾门”让人想起2014年的速腾断轴 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5veklPQTNVdzlWRm1vbUdVMTdqanJwelhRRnl6cjlLLU1ieDlpNUpQVXg0cUlHYzB2Y0puRS1VU0dpUGVFbjhzdjBXTlVCNFljdDFLbVRrUzk1bEE",
-   "source": "网通社",
-   "published_at": "2026-10-21T02:24:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-21T02:24:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5veklPQTNVdzlWRm1vbUdVMTdqanJwelhRRnl6cjlLLU1ieDlpNUpQVXg0cUlHYzB2Y0puRS1VU0dpUGVFbjhzdjBXTlVCNFljdDFLbVRrUzk1bEE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model YL被曝塌尾门引争议",
-   "title_zh": "特斯拉官方称没有\"速成车\"被车主挂旗反驳，这轮Model YL的\"塌尾门\"让人想起2014年的速腾断轴 - 网通社",
-   "sentiment": -1
-  },
-  {
-   "id": "d1e947009f5f",
-   "title": "Gene Munster Puts SpaceX-Tesla Merger Odds at 95%, but Says Elon Musk Is a ‘Conflicted’ Party: ‘He Can’t - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQVA2T3kxM2N3TTZMOGEycjlwbDVyM2REbDlBeUdwTDZROUZ2dnR5T3gtWFZfUXdHTEF4akltSVVzTHM0RERZc3NrbmRuM2R3WW9WcThVVmxnU0x2UWxwaGJBYlhIRlFJbFBKZEJxR3lxSm1Gck84bFVFX2EzVUpJS0xxVDQwWWRxZUE",
-   "source": "Benzinga",
-   "published_at": "2026-10-21T02:23:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-21T02:23:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQVA2T3kxM2N3TTZMOGEycjlwbDVyM2REbDlBeUdwTDZROUZ2dnR5T3gtWFZfUXdHTEF4akltSVVzTHM0RERZc3NrbmRuM2R3WW9WcThVVmxnU0x2UWxwaGJBYlhIRlFJbFBKZEJxR3lxSm1Gck84bFVFX2EzVUpJS0xxVDQwWWRxZUE"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "Munster称SpaceX并购特斯拉概率95%",
-   "title_zh": "Munster：SpaceX-特斯拉合并概率95%，马斯克有利益冲突",
-   "sentiment": 1
-  },
-  {
-   "id": "996aa2023a18",
-   "title": "特斯拉\"能飞\"我们就被甩开了 保持清醒定力 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWEpDRzFOUFZMRlNmeXRqT1M4dmlLZ2ptcnY1ck04RXlpZHBFYVEtcjFRQ1pPTlEtVVNyb0ZUQWhabmNfTEpFUDJXSWFZRlgyVWxXMXVQdE94LXRwQ2pYcTBGa2ptRlgzN0w2YVlmUTE",
-   "source": "中华网",
-   "published_at": "2026-10-21T02:17:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-21T02:17:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWEpDRzFOUFZMRlNmeXRqT1M4dmlLZ2ptcnY1ck04RXlpZHBFYVEtcjFRQ1pPTlEtVVNyb0ZUQWhabmNfTEpFUDJXSWFZRlgyVWxXMXVQdE94LXRwQ2pYcTBGa2ptRlgzN0w2YVlmUTE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "中华网评特斯拉保持清醒定力",
-   "title_zh": "特斯拉\"能飞\"我们就被甩开了 保持清醒定力",
-   "sentiment": 0
-  },
-  {
-   "id": "598f2de08852",
-   "title": "奇瑞要做全球摩托车界的特斯拉 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmlvQjMxMjIyUWtyVFA0VFVzSlRWbG1HNDhHTWR2UVRGQ3k4Y3RWNmNUY2NOekVod2JzUmhEcUYwaGZDMFFieTBTZS1OU3Q1WEJlRFB5VFJtWEFiZF92XzY4U3dIekE4RGlCOU5aSzQ4dVFKOGhtWTdhOVJaZFpLWHUwakFLb2lD",
-   "source": "搜狐",
-   "published_at": "2026-10-21T02:14:29+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T02:14:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmlvQjMxMjIyUWtyVFA0VFVzSlRWbG1HNDhHTWR2UVRGQ3k4Y3RWNmNUY2NOekVod2JzUmhEcUYwaGZDMFFieTBTZS1OU3Q1WEJlRFB5VFJtWEFiZF92XzY4U3dIekE4RGlCOU5aSzQ4dVFKOGhtWTdhOVJaZFpLWHUwakFLb2lD"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-21T02:14:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EXzk1YktSbXZBYUc3WlFJZWF0SjI0MGpwYW9tSnVhdnZEVEJQdFdERjF4UVJtQ201NFh0dkVDMFFKMFBzNWtMa2kyeTdHUWNpYmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "奇瑞要做全球摩托车界的特斯拉",
-   "title_zh": "奇瑞要做全球摩托车界的特斯拉 - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "216f962853be",
-   "title": "SpaceX, Tesla Terafab Chip Plant Targets Q3 2028 [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RLTk3Qm11ZkRIbE1CdURQbmlZb29CeWx0dDZNY2l2U3BoaER1cGNPaUVYV3VVTnVZM0t2U0R2c3UwaXVIVGVscTRKWE1KY0F2akI4dlBZVGFIdTdCUVFGclM0R3gzM2tpUktKOUdYYms4S0EyUXh2bEZB",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-21T02:11:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-21T02:11:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RLTk3Qm11ZkRIbE1CdURQbmlZb29CeWx0dDZNY2l2U3BoaER1cGNPaUVYV3VVTnVZM0t2U0R2c3UwaXVIVGVscTRKWE1KY0F2akI4dlBZVGFIdTdCUVFGclM0R3gzM2tpUktKOUdYYms4S0EyUXh2bEZB"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "SpaceX与特斯拉芯片厂目标2028年Q3",
-   "title_zh": "SpaceX与特斯拉Terafab芯片厂目标2028年Q3投产",
-   "sentiment": 0
-  },
-  {
-   "id": "079925574142",
-   "title": "博主狂夸特斯拉手机钥匙：开这么多年没失误过 真是断层第一 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rVEdQNjFELW5kVC1CNjRsRzlsMVdrVnJnam1pdy1SRVFfeGpoQ2lZc3RYUEkxM2k1WjhGXzRRcE9IYldOeE9GMEJLOXBfM0h3cXQxY3NRMk0",
-   "source": "驱动之家",
-   "published_at": "2026-10-21T02:10:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-21T02:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rVEdQNjFELW5kVC1CNjRsRzlsMVdrVnJnam1pdy1SRVFfeGpoQ2lZc3RYUEkxM2k1WjhGXzRRcE9IYldOeE9GMEJLOXBfM0h3cXQxY3NRMk0"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T02:10:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFd4QmRLX19mOXhwRGNScnhBZjR1RW5qVnpIZTEwZ090cUt2dWNGNVhqVDRweFdsZTNhUnR1eV9ITWc0cllmWGVvQXYzV0xtZU1wbUVQVGxSaHR5bEVDcEcwNC1SeEwySl9KZGkyRGVITGpRVkM0S21FUllwR0hwV2N2VzBBYjZN"
-    },
-    {
-     "name": "中华网",
-     "published_at": "2026-10-21T07:21:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JQUZ4azRIWFY5U3Q1cXA0YnBvS3NqMXNsT2VvR0xnT3h3b3VkQWNtYnRxdkJVeHhWSllYUlBnNmxIcUt3bTRiZTdoWl80UmRNSnpkZXVUQ2hfSFFUdFAxTFQ5TEhiSVF6el9CUDEwNU4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "博主狂夸特斯拉手机钥匙断层第一",
-   "title_zh": "博主狂夸特斯拉手机钥匙：开这么多年没失误过 真是断层第一 - 驱动之家",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.41,
-    "window_h": 0.1
-   }
   }
  ]
 }
