@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T19:25:21.107035+00:00",
+ "updated_at": "2026-10-21T19:37:32.848653+00:00",
  "market": {
-  "price": 386.7,
-  "change_pct": 3.48,
+  "price": 386.56,
+  "change_pct": 3.44,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.4%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（242条已评分）"
+     "note": "今日新闻情绪 +0.36（244条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $386.70 vs 20日均线 $370.04"
+     "note": "现价 $386.56 vs 20日均线 $370.03"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 46,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.4,
-   "ma20": 370.04,
-   "as_of": "2026-10-21T19:25:21.096031+00:00"
+   "implied_upside_pct": 3.5,
+   "ma20": 370.03,
+   "as_of": "2026-10-21T19:37:32.836115+00:00"
   },
   "pe_ttm": 106.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.36,
-   "count": 242
+   "count": 244
   }
  },
  "meta": {
@@ -188,17 +188,39 @@
    "sentiment": 1
   },
   {
+   "id": "0c376b0fbf1b",
+   "title": "Tesla Third-Quarter Earnings Live Analysis - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT05MVUxvZnNXbVZKVVVQdnR3MS1JbXJRa1pGMDBmbzI5T1BGNGxMSTh3VENBV2JITHZBOWoya3p3cnNsaHBtUEw4aEhZN0VsMDlSalRoVk9OYmlyNFRmMU5kWndJUHZiZUx2U0JFeUkycFdmRkwweXBtS0pZbEhLX1E4VEFJSE9yTFBaLUxYdzUzaEQwQmpUSw",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-21T19:02:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-21T19:02:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT05MVUxvZnNXbVZKVVVQdnR3MS1JbXJRa1pGMDBmbzI5T1BGNGxMSTh3VENBV2JITHZBOWoya3p3cnNsaHBtUEw4aEhZN0VsMDlSalRoVk9OYmlyNFRmMU5kWndJUHZiZUx2U0JFeUkycFdmRkwweXBtS0pZbEhLX1E4VEFJSE9yTFBaLUxYdzUzaEQwQmpUSw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "cc8d4ab5ce1c",
    "title": "GM Is Adding Its Own Version Of Tesla's Sentry Mode To Cars - InsideEVs",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rSHdOSG1Rem05OHVhYXBRRzRBeFZGVno2Y2VPMi1pQ0NsM21BUzdWM2I2a0NHTXlXeXlPWkpidXAwNENOQ1lGaGtPUE5xc20wRkVKd0E0bU00UVZTUWV2VUpuRXlrbm96SDAxQUdn",
    "source": "InsideEVs",
    "published_at": "2026-10-21T18:57:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "InsideEVs",
      "published_at": "2026-10-21T18:57:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rSHdOSG1Rem05OHVhYXBRRzRBeFZGVno2Y2VPMi1pQ0NsM21BUzdWM2I2a0NHTXlXeXlPWkpidXAwNENOQ1lGaGtPUE5xc20wRkVKd0E0bU00UVZTUWV2VUpuRXlrbm96SDAxQUdn"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-21T18:57:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjBMWVA1OU1GcUZfVjU2ZjZhQzZFMFdfUzNodGhWNnhHdkJlR1djc2VRdVJoa0RqNDZ6aEhPWXRXckYwbnhqVG1OcjRqZVRCUzlTdER2WGdRU0tUWnNsYnd2QmRxZDNaNFNLWG9fMVpFOU9ReHJjbHBpU2xBT0dhcU9zNlVSRl9ReG5sV0Vqamhuakx3MlBMeTQ4RQ"
     }
    ],
    "category": "其他",
@@ -306,6 +328,23 @@
    "zh_summary": "特斯拉冷气推进器或成汽车安全装置",
    "title_zh": "特斯拉冷气推进器会是下一个汽车安全装置吗？",
    "sentiment": 0
+  },
+  {
+   "id": "2976e49c6666",
+   "title": "Speculative SpaceX Price Target as Tesla Rumor Boosts Stock - TheStreet Pro",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEhvS3VpbmVUb2xkbExHV0NMbXZVTkhNbnBFN0J0RXVjY0xIdTl5MTRnTmtUVGpqVHk5d3ROMEQ4dnd6LVhFS1c4MmpzZENGRy10ZVpxT3Z0N0ZEZHpGdGFLWGNwbFFablVWMlQ2OXdtTk0wakRiTU13d3pGOUlLQ042SlBwV1ZnSW9wckQzYmRnNTRZWDNzelA4YnhCdw",
+   "source": "TheStreet Pro",
+   "published_at": "2026-10-21T18:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet Pro",
+     "published_at": "2026-10-21T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEhvS3VpbmVUb2xkbExHV0NMbXZVTkhNbnBFN0J0RXVjY0xIdTl5MTRnTmtUVGpqVHk5d3ROMEQ4dnd6LVhFS1c4MmpzZENGRy10ZVpxT3Z0N0ZEZHpGdGFLWGNwbFFablVWMlQ2OXdtTk0wakRiTU13d3pGOUlLQ042SlBwV1ZnSW9wckQzYmRnNTRZWDNzelA4YnhCdw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
   },
   {
    "id": "0ce2663f903d",
@@ -6412,46 +6451,6 @@
     "pct": -0.41,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "9f86582aba5c",
-   "title": "【视频】特斯拉Model 3车主：这车没竞品和对手20多万的价位，这车没缺点 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uWnNFSXItZnBxTlN6Q0k0VTlIYXJ6aUZ0Q216dVR1YXcwbWFXaTdxUlBleEZlaDF0WUd6SEFpelFpTWFmYk1mc3RUZ3pweFpqZ2x2VGYzSURmMjg",
-   "source": "汽车之家",
-   "published_at": "2026-10-21T02:04:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-21T02:04:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uWnNFSXItZnBxTlN6Q0k0VTlIYXJ6aUZ0Q216dVR1YXcwbWFXaTdxUlBleEZlaDF0WUd6SEFpelFpTWFmYk1mc3RUZ3pweFpqZ2x2VGYzSURmMjg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Model 3车主：20多万价位无竞品",
-   "title_zh": "特斯拉Model 3车主称：20多万的价位这车没缺点、没竞品",
-   "sentiment": 1
-  },
-  {
-   "id": "0c3443ce4e88",
-   "title": "Elon Musk Teases Tesla Merger and $1 Trillion Milestone for SpaceX - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdvcDJiV2FIaGhsRXdFNDcxUmNPcWhRamIteTlXUnhZRElIZVNKbFV4QW9laGlWenl6YzF0UnQ4VXAxYm1qQ0ZlRVBNSGxoSXRWdUNDT180QWh5RjFnMUFJY243bHdxSmg0ZkN4Y195SjN3WUVWWHU0ZTVaQms1YTRGS0p2ZTA0dGM4RXVJbi1vbzRNM3JjOXNn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T02:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T02:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdvcDJiV2FIaGhsRXdFNDcxUmNPcWhRamIteTlXUnhZRElIZVNKbFV4QW9laGlWenl6YzF0UnQ4VXAxYm1qQ0ZlRVBNSGxoSXRWdUNDT180QWh5RjFnMUFJY243bHdxSmg0ZkN4Y195SjN3WUVWWHU0ZTVaQms1YTRGS0p2ZTA0dGM4RXVJbi1vbzRNM3JjOXNn"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克暗示特斯拉合并与万亿里程碑",
-   "title_zh": "马斯克暗示特斯拉合并及SpaceX万亿美元里程碑",
-   "sentiment": 1
   }
  ]
 }
