@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T01:07:29.453006+00:00",
+ "updated_at": "2026-10-21T01:22:32.267750+00:00",
  "market": {
-  "price": 368.06,
-  "change_pct": 3.76,
+  "price": 373.71,
+  "change_pct": 1.54,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-10-21",
@@ -17,27 +17,27 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 36% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +8.7%"
+     "note": "目标价中位数 $400（15家），隐含空间 +7.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（274条已评分）"
+     "note": "今日新闻情绪 +0.30（280条已评分）"
     },
     {
      "key": "动量",
-     "score": -1,
-     "note": "现价 $368.06 vs 20日均线 $369.97"
+     "score": 1,
+     "note": "现价 $373.71 vs 20日均线 $369.71"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 36,
+   "price_52w_pct": 39,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 8.7,
-   "ma20": 369.97,
-   "as_of": "2026-10-21T01:07:29.435781+00:00"
+   "implied_upside_pct": 7.0,
+   "ma20": 369.71,
+   "as_of": "2026-10-21T01:22:32.256777+00:00"
   },
-  "pe_ttm": 101.8,
+  "pe_ttm": 103.4,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 274
+   "avg": 0.3,
+   "count": 280
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "650638da0ba5",
+   "title": "特斯拉“能飞” 我们就被甩开了？中国车企稳步前行 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1QXMyNThnTmdMWkwtLWx3QkYwcm9UVlh6T2ZVQjZ2ZzhPMEpabDlmTzRITHp4bG54enE2M3dzUVN4WERtN2hVSlhWLUNmWUdYaWdld0dRRmV5eUlFakZXeW1JcUY1U0U5MEFUbDEtMFo",
+   "source": "中华网",
+   "published_at": "2026-10-21T01:14:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-21T01:14:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1QXMyNThnTmdMWkwtLWx3QkYwcm9UVlh6T2ZVQjZ2ZzhPMEpabDlmTzRITHp4bG54enE2M3dzUVN4WERtN2hVSlhWLUNmWUdYaWdld0dRRmV5eUlFakZXeW1JcUY1U0U5MEFUbDEtMFo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "608f85caf474",
+   "title": "特斯拉能飞我们就被甩开了吗 人民日报：不必妄自菲薄！ - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NRG1BVmdHQWtqcGJVSGVZM1JteW5wTmVrUzVjbVJNa0NkZXJRa0hxWm1yRnIzb21YNjBLWFdUNGdnMVFiSVp0NF9Oc3RpY2dhUXdNMXRQSFU",
+   "source": "驱动之家",
+   "published_at": "2026-10-21T01:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-21T01:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NRG1BVmdHQWtqcGJVSGVZM1JteW5wTmVrUzVjbVJNa0NkZXJRa0hxWm1yRnIzb21YNjBLWFdUNGdnMVFiSVp0NF9Oc3RpY2dhUXdNMXRQSFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d477b06030dd",
    "title": "Tesla Cybertruck for Police Use: Hutto, Texas Asks the Hard Questions - BASENOR - Tesla Accessories",
@@ -86,6 +120,23 @@
    "zh_summary": "德州胡托市警局评估采用Cybertruck",
    "title_zh": "Cybertruck或成警车：德州胡托市发起讨论",
    "sentiment": 0
+  },
+  {
+   "id": "cb21755860f9",
+   "title": "特斯拉与SpaceX或合并 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IWFRpUVdYU3dzdGpsVS1NODltbTBWeU9sM3Nqd25OSGd4S3NtWXRwcU9aa3RKd3QzbGphbXFDeWhkMlN0UDNqYzBUVUl2VkkxRllj",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-21T00:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-21T00:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IWFRpUVdYU3dzdGpsVS1NODltbTBWeU9sM3Nqd25OSGd4S3NtWXRwcU9aa3RKd3QzbGphbXFDeWhkMlN0UDNqYzBUVUl2VkkxRllj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "f9eb08bce454",
@@ -231,6 +282,23 @@
    "zh_summary": "美股期货：AI股因SpaceX大涨",
    "title_zh": "道指期货：AI股因SpaceX、超微大涨；特斯拉、Meta待发 - IBD",
    "sentiment": 1
+  },
+  {
+   "id": "9d01a6877eb1",
+   "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并 - 爱范儿",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHLTladm16TEgwSHZUbU1xSDNnR3I1b0R0NEwyNWQzRFl1MFNrenZNU01YTGlHLXdib1hfS1lwcVVSMmM",
+   "source": "爱范儿",
+   "published_at": "2026-10-21T00:21:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "爱范儿",
+     "published_at": "2026-10-21T00:21:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHLTladm16TEgwSHZUbU1xSDNnR3I1b0R0NEwyNWQzRFl1MFNrenZNU01YTGlHLXdib1hfS1lwcVVSMmM"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "9dca395d472b",
@@ -849,6 +917,40 @@
    "sentiment": 1
   },
   {
+   "id": "818c791ee822",
+   "title": "Mate Rimac Thought About Using Tesla Roadster-Style Thrusters Way Back In 2019 - Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2RUNlBQOTI4R3dMamwwc2UtNXk0cmZJZ25ZZFE2dWhCZkRwVXdUQlZIZTFsalByUmc2SFhYZ2NQclFWbEZ1ekR5Wlpfd05WdHJmR1l1TkJmdk4tLUtZM0syQm03aTNYcUI2dmZlNUZ0M1VRbllxR3dxdFZObDRpODhqVmxWalRfWDVLeGlfLUVjLXdzUE9OeFp2amQ1Y3A5OWc",
+   "source": "Jalopnik",
+   "published_at": "2026-10-20T22:45:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jalopnik",
+     "published_at": "2026-10-20T22:45:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2RUNlBQOTI4R3dMamwwc2UtNXk0cmZJZ25ZZFE2dWhCZkRwVXdUQlZIZTFsalByUmc2SFhYZ2NQclFWbEZ1ekR5Wlpfd05WdHJmR1l1TkJmdk4tLUtZM0syQm03aTNYcUI2dmZlNUZ0M1VRbllxR3dxdFZObDRpODhqVmxWalRfWDVLeGlfLUVjLXdzUE9OeFp2amQ1Y3A5OWc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
+   "id": "ad8a2ac456d4",
+   "title": "SpaceX stock soars on blowout earnings that see revenue surge 161% — as Musk talks Tesla merger - New York Post",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVdIOFUwV1dxSDhGSzJ2RmhtRGVvU29XZjFsVUI0NV9jQS1odkxnT1pjNExtb2kyb0piN3U5eGFJbmFIRGJJRlptVzVLZWpZcUJPbVZuRHFIV2I4U0o3RG0zMTJUYWgySzBkbTZod0FTZzRvWE5iYm1NVlkzODcxZkt0UHVCVV9KamhwRVcyMmJueldwaU1hY2pQVVBVQXc1cjAzc1NqMFpzUGdlUXRDLUFrMTd5R3kxbWlOMjBEbXNWRlhEd1BPYXMxSnY",
+   "source": "New York Post",
+   "published_at": "2026-10-20T22:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "New York Post",
+     "published_at": "2026-10-20T22:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVdIOFUwV1dxSDhGSzJ2RmhtRGVvU29XZjFsVUI0NV9jQS1odkxnT1pjNExtb2kyb0piN3U5eGFJbmFIRGJJRlptVzVLZWpZcUJPbVZuRHFIV2I4U0o3RG0zMTJUYWgySzBkbTZod0FTZzRvWE5iYm1NVlkzODcxZkt0UHVCVV9KamhwRVcyMmJueldwaU1hY2pQVVBVQXc1cjAzc1NqMFpzUGdlUXRDLUFrMTd5R3kxbWlOMjBEbXNWRlhEd1BPYXMxSnY"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
    "id": "cde19c14f316",
    "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger - MarketWatch",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzE0ZjI5cEtLVVRxOXJoOENoTElaUmpzTjJpaFB1OXR5WUNKSmc1YWp5Z1Fjb01xMk5OcmFPcWNKWFZRc0stRnJyakEzRWVFOXdYNWNWRnh6eE5saGRQZU9obDM0OUc0b2FFYktnbjIzRTNEV3NlVXdGUjdlYVlSZ1Nmb3hhZGhjN1VIRWI3c1d0R084Q1paUnRvV3VkVURyeWFFNkdTVEoxeUxDTlJGdEVmUnEtd2RUXzhIdnpR",
@@ -954,7 +1056,7 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTJnSFFHZmFuam1aTW54dDZ1dl9OM2lMUkNjN3Q5OXRUT3ZZWjJSWmJuQlBxMHFGWk9MbHdHVjdXSGtZZ2hiLVUyNjg0ZW1VSkFVb0dJMDB0SEVWXzVBSlBHM3FoWUFlMmVQRU0wVGVmaUozQ0xsM282b1hWc1prdkEyYw",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-20T22:05:07+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
@@ -965,6 +1067,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-20T22:05:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalRNMUdjNEQwQ0lEUWZQTEdaUGVqSzFWWG1DMlFfY09sSEh6VHcwZDZNWmFLbXpkT09xb3NveUhYRU5TaGJVTE14WjNQZV8yNkhwSXZVTVdhTzh3ZE9ib2hNLUxLVzBoN2FXVmV0VzdnMGEwSW9MNno1Mm14MnY3TVdNaWxFcy1mR0pFSEhEb2tCWlFVcGhn"
+    },
+    {
+     "name": "Yahoo News Singapore",
+     "published_at": "2026-10-21T01:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhVkVWTVdEbUFVTlduc2ljZV9kQzU5WnJUa3JLQnBRYXk5eDVvcHBjU1AwaW1kYXl0R0FicHFlNkV5djdjLXh1STNUM3BJUGFzM2xnYUJaYWNPTkJtTDZsWnR4eXBnd3BCNlk3Q1JvbDgwTlhLejkzWVRlSQ"
     }
    ],
    "category": "马斯克",
@@ -1179,26 +1286,6 @@
    "sentiment": 2
   },
   {
-   "id": "14d846e8f284",
-   "title": "一财主播说| 特斯拉Roadster \"飞”了 中国官网开放预订 - 第一财经",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnBEdV9KWm93ZEtRbFU3V3VvbUstTFlyR2s5bmZGYWxTNk0yRE1PUTFOQWoyXzVpbFg4SVZvbHU3MVdPay03cDc3bkpFai1nVEN6VQ",
-   "source": "第一财经",
-   "published_at": "2026-10-20T21:52:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "第一财经",
-     "published_at": "2026-10-20T21:52:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnBEdV9KWm93ZEtRbFU3V3VvbUstTFlyR2s5bmZGYWxTNk0yRE1PUTFOQWoyXzVpbFg4SVZvbHU3MVdPay03cDc3bkpFai1nVEN6VQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster中国官网开放预订",
-   "title_zh": "一财主播说：特斯拉Roadster“飞”了，中国官网开放预订",
-   "sentiment": 1
-  },
-  {
    "id": "822ac20613ca",
    "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea' - BBC",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE",
@@ -1244,7 +1331,7 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObi0zdGlScnJGQ2NNai1qZ2RXZThKZ2lpX2wyUm5YWFlxN1pwRVhWVUVqZGlXR3lFdzVVWGR4RjRVT2xUdEkwYVVRcmQ0Nk9QMnJYc0lMdkRCWWo5VVFhQWp3MHdQVmRJdl9oVmxzalFqV2ZMaTd0eDZoZFFrRkZNbkxzUG5IcHdIc0NiVEZPX2pDYjItSkQtWDNBNElGVnd6cllSMmROeDF3WFp6",
    "source": "MarketScale",
    "published_at": "2026-10-20T21:45:36+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "MarketScale",
@@ -1255,6 +1342,11 @@
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-20T22:16:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTdCT2dWdTdDMWRVQUd5RVpfcHZDT3d4VDUtMUpCUjZuQ0NDVHVCb1pFcXdPM2pUM0dKQjZWMlNOT00weGJLWGdaSUg3by1ZOFFUaE5Ec2FsRVMwZV9adi1lekNmTTRGUlhqa0RGQ3hmalBQNXhkN3Njc1Q1bDZ2ZEJzY3Flb0xjcExFYQ"
+    },
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-20T22:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHVMM2wza09KenlHMFI0c1ZYeXpQdnl3d2hvRS1hcjE1VVFiVWI0MjZnWkdJdlVYWFRKYWF0ZDJsV0NZZ2szVnNOZFdGRnREMTIzYzVVeWdxdHJ1ZHNGOG9WZFZSZEg2X0Q0TGU1R21LNlZLbHJjMUFCc29QZFp0YjVIeGdZRmM2"
     }
    ],
    "category": "其他",
@@ -5204,6 +5296,23 @@
    "sentiment": 1
   },
   {
+   "id": "00ffa750867f",
+   "title": "Tesla (TSLA) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXJsR3cwSE5KdmM5TGs2Z25ENnk0U0JOZ3NYUGhadDEtYXFkRzlrT2ZqYW1oT2lIekNMYzR4bWFVZmZQVm5NX2hfQTBpdjE2T3RtdXdyWHVieVlRY3E0TDd0T0hpckNQZUtScWlWVHI4N0x6RVdEWG1rcmQ2Yk00dFFlLWhSTzRUYWtrQWZXdy1PQXluQ2hFSHJ1ekF2VWhnZGZr",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T07:49:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T07:49:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXJsR3cwSE5KdmM5TGs2Z25ENnk0U0JOZ3NYUGhadDEtYXFkRzlrT2ZqYW1oT2lIekNMYzR4bWFVZmZQVm5NX2hfQTBpdjE2T3RtdXdyWHVieVlRY3E0TDd0T0hpckNQZUtScWlWVHI4N0x6RVdEWG1rcmQ2Yk00dFFlLWhSTzRUYWtrQWZXdy1PQXluQ2hFSHJ1ekF2VWhnZGZr"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
    "id": "5f88f3ad8262",
    "title": "特斯拉跑车会“飞”？3只浙股被带飞，真相藏在深夜公告里 - 杭州网",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWpHYVFnODZqdVRPYTRheVd3bC1NZTI2UEJXT3BKckluSFVjcUlDX08zTzI0dXZ4MWJEOU1aVUJJdGRQaE1sZWJaVDZncnV1T3JwTjRjVHJfN2JiMEhWZTd0UGVucFk2NXJONGRqaDd3cWZOVlp6Z1VPRHdSTmRYcVZB",
@@ -5643,12 +5752,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQkQ4VDZ0ajFzNUhwTjdFTFFZUVJUbGVvUno2TGtVNjRHQ215VmJGSldBVUxFaXNfTVhibEozZzdDLTQ0ejlXTzlST251endqLXppMmVKZ2E3d0dsMlQ0dzFZTjdtOFRQaEdHVmxpeEI",
    "source": "中华网",
    "published_at": "2026-10-20T06:38:47+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "中华网",
      "published_at": "2026-10-20T06:38:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQkQ4VDZ0ajFzNUhwTjdFTFFZUVJUbGVvUno2TGtVNjRHQ215VmJGSldBVUxFaXNfTVhibEozZzdDLTQ0ejlXTzlST251endqLXppMmVKZ2E3d0dsMlQ0dzFZTjdtOFRQaEdHVmxpeEI"
+    },
+    {
+     "name": "中华军事",
+     "published_at": "2026-10-21T01:03:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xTklXbVM0YktHdDV0cG9sUDF1TGk1dnA4c2d2cmhsM3FIb19fUHNuTF82RjhsdGhXSWdkZTdKd09keFN1QkwzY3RIb3FGaUNHNDN6MVo1VUctSHkxWUc4TTJiS0RQMV9ESUtSSDRiaTM"
     }
    ],
    "category": "马斯克",
@@ -5995,6 +6109,23 @@
    "zh_summary": "特斯拉股价反弹终结五连跌",
    "title_zh": "特斯拉股价反弹终结五连跌，市场重新审视自动驾驶与机器人业务 - NAI500",
    "sentiment": 1
+  },
+  {
+   "id": "d758bda5a25e",
+   "title": "你不能只在特斯拉耍杂技的时候才拍手叫好 - 创业邦",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9relAwTTlPSFZFY0NIZUVCb19ua2hrNnZGTVZ3RW1zVkRvQzNjQ1dSOWtBTnlpSEY1M2puM2lXUnJCcTZDSjVWVG82Uy1lOEdQeWxz",
+   "source": "创业邦",
+   "published_at": "2026-10-20T05:34:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "创业邦",
+     "published_at": "2026-10-20T05:34:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9relAwTTlPSFZFY0NIZUVCb19ua2hrNnZGTVZ3RW1zVkRvQzNjQ1dSOWtBTnlpSEY1M2puM2lXUnJCcTZDSjVWVG82Uy1lOEdQeWxz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b298b7dcf377",
@@ -6384,146 +6515,6 @@
    "zh_summary": "特斯拉量产预期升温零部件订单好转",
    "title_zh": "特斯拉量产预期升温，零部件订单环比好转，关注人形机器人产业落地机会 - 搜狐",
    "sentiment": 1
-  },
-  {
-   "id": "b2439f4247f9",
-   "title": "特斯拉Roadster腾空翻滚180度四轮着地，FAA称不符合飞行器定义的性能解析 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vMVF6aTNIRDVEOERld0dBUHBDT2JqamVTTV9SbEFfNDYybFBKT3EzUUg2dlFnQmR3eldfUUIxY3dYRkhKUU1HZmNvM3gyaE5YcllyWW9ISmpuRDg",
-   "source": "网通社",
-   "published_at": "2026-10-20T04:05:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-20T04:05:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vMVF6aTNIRDVEOERld0dBUHBDT2JqamVTTV9SbEFfNDYybFBKT3EzUUg2dlFnQmR3eldfUUIxY3dYRkhKUU1HZmNvM3gyaE5YcllyWW9ISmpuRDg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Roadster腾空翻滚180度落地，FAA发声",
-   "title_zh": "特斯拉Roadster腾空翻滚180度四轮着地，FAA称不符合飞行器定义",
-   "sentiment": 0
-  },
-  {
-   "id": "c3efc12fe429",
-   "title": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln",
-   "source": "汽车之家",
-   "published_at": "2026-10-20T04:03:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-20T04:03:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉全新Roadster发布国内可订",
-   "title_zh": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "a47c6b40b00c",
-   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
-   "source": "InsideEVs",
-   "published_at": "2026-10-20T04:01:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-20T04:01:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉欧洲销量连跌13个月终结",
-   "title_zh": "特斯拉欧洲终结13个月销量连跌",
-   "sentiment": 1
-  },
-  {
-   "id": "fb1d8c7ea721",
-   "title": "Can Tesla (TSLA.US) shares hit $4,400? Cathie Wood’s ARK bets on Robotaxi and anticipates a merger with SpaceX within five years. - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTlNbERkeDZKOVR5LTFocU11cGhYa1p2azV2a3V5bDZCS2RNWlRtU3lVYWRqS3BFTXJtRnBLbE9FLXVnVUdIZzh5TV8yVS1jdFkwd05GdENwWHJvSGgzZFY0MVRuTTBXa2xBT1d2RXVHY0pIVWpIZDhfdWljdDFOaVJDQ2hEVUtxdTFONVdBbkpWcU9ZSHFrRWZR",
-   "source": "Moomoo",
-   "published_at": "2026-10-20T03:59:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-20T03:59:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTlNbERkeDZKOVR5LTFocU11cGhYa1p2azV2a3V5bDZCS2RNWlRtU3lVYWRqS3BFTXJtRnBLbE9FLXVnVUdIZzh5TV8yVS1jdFkwd05GdENwWHJvSGgzZFY0MVRuTTBXa2xBT1d2RXVHY0pIVWpIZDhfdWljdDFOaVJDQ2hEVUtxdTFONVdBbkpWcU9ZSHFrRWZR"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "ARK押注Robotaxi和SpaceX合并",
-   "title_zh": "ARK贝蒂：特斯拉股价能上$4,400吗？押注Robotaxi与SpaceX合并",
-   "sentiment": 1
-  },
-  {
-   "id": "49dc47eff2a1",
-   "title": "特斯拉飞行汽车被指华而不实，改变世界的创新总是毁誉参半？ - 财新",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVTdiUGdTbUpGSGdmLVpOVkVSa0lMYjZkVjA0SUFiRVM0WVIzVUVNSnN5QzdQYUxyUHJFM1RJT2c5ZGVBODBHUDBrWExVX2JwUWRVVzlFY1NDV3dKRDY2LXVB",
-   "source": "财新",
-   "published_at": "2026-10-20T03:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财新",
-     "published_at": "2026-10-20T03:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVTdiUGdTbUpGSGdmLVpOVkVSa0lMYjZkVjA0SUFiRVM0WVIzVUVNSnN5QzdQYUxyUHJFM1RJT2c5ZGVBODBHUDBrWExVX2JwUWRVVzlFY1NDV3dKRDY2LXVB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "财新称特斯拉飞行汽车华而不实",
-   "title_zh": "特斯拉飞行汽车被指华而不实，改变世界的创新总是毁誉参半？ - 财新",
-   "sentiment": -1
-  },
-  {
-   "id": "a2625372324b",
-   "title": "Top Investor Predicts SpaceX Will Buy Tesla At $420/Share In Coming Weeks - CleanTechnica",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeS1wMWtDZmZDdFNTNk1nUUtMUmNzZDVNRDZUY2c5Smw0MGhYLVIyS3JPSmVjS0lFalNsaTY2SF83YXFLVGNLeDFhUHhJRWVIbHVDWnpaWDFiNVgxTW5teTZkNjFtYUhtV2UwRkg5bGJpeVpqUFZZLXRYZTRwZk1yOTBHSXU0OGpueTJMQmZZanVDdlR1Z09mQmJnUUIzdGNTQUc1R01ITmVfVGZJWVhJ",
-   "source": "CleanTechnica",
-   "published_at": "2026-10-20T03:55:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CleanTechnica",
-     "published_at": "2026-10-20T03:55:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeS1wMWtDZmZDdFNTNk1nUUtMUmNzZDVNRDZUY2c5Smw0MGhYLVIyS3JPSmVjS0lFalNsaTY2SF83YXFLVGNLeDFhUHhJRWVIbHVDWnpaWDFiNVgxTW5teTZkNjFtYUhtV2UwRkg5bGJpeVpqUFZZLXRYZTRwZk1yOTBHSXU0OGpueTJMQmZZanVDdlR1Z09mQmJnUUIzdGNTQUc1R01ITmVfVGZJWVhJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "知名投资者预测SpaceX将以420美元收购特斯拉",
-   "title_zh": "顶级投资者预测SpaceX将在未来几周以420美元收购特斯拉",
-   "sentiment": 1
-  },
-  {
-   "id": "aaff84351d3a",
-   "title": "特斯拉同款技术爬墙车的工作原理，作者：做视频的洛唐 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOU52UTQ4WFFfbWxxZ05aTzVhV090azFkZEpPQ1M1N090cTIxc0IwWTBCR1pJeUlYS25IVWw5dTJya3YybnlZMmZaemgyZU95RzY5MGhuTzhBRDFhNE1MNnZJc1RVd2dNNXZuWnJBMFNEMmxOYmJYck9LMjFCR2ZKNg",
-   "source": "新浪网",
-   "published_at": "2026-10-20T03:55:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T03:55:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOU52UTQ4WFFfbWxxZ05aTzVhV090azFkZEpPQ1M1N090cTIxc0IwWTBCR1pJeUlYS25IVWw5dTJya3YybnlZMmZaemgyZU95RzY5MGhuTzhBRDFhNE1MNnZJc1RVd2dNNXZuWnJBMFNEMmxOYmJYck9LMjFCR2ZKNg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉同款技术爬墙车原理解析",
-   "title_zh": "特斯拉同款技术爬墙车的工作原理，作者：做视频的洛唐 - 新浪网",
-   "sentiment": 0
   }
  ]
 }
