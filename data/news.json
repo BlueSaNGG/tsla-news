@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T04:08:05.533335+00:00",
+ "updated_at": "2026-10-21T04:22:38.222444+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（295条已评分）"
+     "note": "今日新闻情绪 +0.34（298条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T04:08:05.514240+00:00"
+   "as_of": "2026-10-21T04:22:38.216362+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.34,
-   "count": 295
+   "count": 298
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "aa0cc554fafc",
+   "title": "Tesla and SpaceX: Why does Elon Musk want to merge the companies? - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16YkJNMmtrWGtwS1o3WVJYN2xHbDVZWXYzU0RrUk1mNV9BdTU3VTktal9xYjhHTW9qMXMtb3JhcG1wTmF1MElCUkFDM1lvM3BYRDgwVXA1MnlQUTA",
+   "source": "BBC",
+   "published_at": "2026-10-21T04:13:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BBC",
+     "published_at": "2026-10-21T04:13:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16YkJNMmtrWGtwS1o3WVJYN2xHbDVZWXYzU0RrUk1mNV9BdTU3VTktal9xYjhHTW9qMXMtb3JhcG1wTmF1MElCUkFDM1lvM3BYRDgwVXA1MnlQUTA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
   {
    "id": "149ad1757f06",
    "title": "Tesla Mad Max Mode Hits Australia: 4 Details That Matter - BASENOR",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉Mad Max模式登陆澳洲",
    "title_zh": "特斯拉Mad Max模式登陆澳洲：4个关键细节",
    "sentiment": 1
+  },
+  {
+   "id": "2e85280c02b3",
+   "title": "特斯拉Roadster出圈：法拉利CEO直言这波给到夯！ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ1hhejZfUklKQVZKS25BQWpiMlZScEpUVFF3SENXVzQ3cm9kc0N2bnp0eTliU2dMQWE4ZHZEQ19uTTk5YXNfcHZXU1l3NUpsQ1QybmtkWlVPenJkMGpCMmVwM3NhaEJWMnZHakRzTnV4eS15UFpoLTROalR4dkVxU25KOFB0dEJWQVVwcnptZVAwMDU3SEJoSXNzOEdKeEtodU1NVGtJSklwYnl0WU1PRDVoaHZSaEp1VGROUEl6bTRjNEsxVzkyNGdhbjdudGVNZG9MTnpzVWFoQnc",
+   "source": "新浪网",
+   "published_at": "2026-10-21T04:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-21T04:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ1hhejZfUklKQVZKS25BQWpiMlZScEpUVFF3SENXVzQ3cm9kc0N2bnp0eTliU2dMQWE4ZHZEQ19uTTk5YXNfcHZXU1l3NUpsQ1QybmtkWlVPenJkMGpCMmVwM3NhaEJWMnZHakRzTnV4eS15UFpoLTROalR4dkVxU25KOFB0dEJWQVVwcnptZVAwMDU3SEJoSXNzOEdKeEtodU1NVGtJSklwYnl0WU1PRDVoaHZSaEp1VGROUEl6bTRjNEsxVzkyNGdhbjdudGVNZG9MTnpzVWFoQnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4dfe0b5a10af",
@@ -4607,26 +4641,6 @@
    "sentiment": 1
   },
   {
-   "id": "4956ff1ce61d",
-   "title": "特斯拉新款Roadster跑车亮相 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGdXUFN1X0Y2cGF3REVCRmE1RjBla3FNb1hERHRtOWtUUHVqZFB6RU1WVGNIVWUzb2RMSXMwM2hHTFZfX1hYWlBBeDhGUi1GLWhHWVhBRWkwWXdKeF80RWtZSktaejh5MXd2cVlPMlBwRzVJRzVCR241MWg5aWl2Nw",
-   "source": "新浪网",
-   "published_at": "2026-10-20T13:10:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T13:10:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUGdXUFN1X0Y2cGF3REVCRmE1RjBla3FNb1hERHRtOWtUUHVqZFB6RU1WVGNIVWUzb2RMSXMwM2hHTFZfX1hYWlBBeDhGUi1GLWhHWVhBRWkwWXdKeF80RWtZSktaejh5MXd2cVlPMlBwRzVJRzVCR241MWg5aWl2Nw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉新款Roadster跑车亮相",
-   "title_zh": "特斯拉新款Roadster跑车亮相",
-   "sentiment": 1
-  },
-  {
    "id": "04f9a1a292bd",
    "title": "What could a Tesla-SpaceX merger earn? Cathie Wood's Ark Invest has a $2.7 trillion answer. - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHg4SGtQOXhLUUhTSDJTcE4wUlRCV1lLdy1ETlNObUU0bDJreDZoZHozQzBsRjM3aE5WOUR4dnZsZE81YTdjZ0VSbXVZR003REhydzZxelZxcWZORHBNSHpZc0IybTdtLUJWelhjbndsQ2I4T0Y5MU5FS0dUd01TeU8xczQ5QmhCWWNkN1ZQU0MwcERFcDl3a2xDemZSWWg4WWp5VGtwa0I3SlBFQUtsSnJOWlVzM3JNWTNFeDQ2d0F5akpockpHZlkzdWNya25oQTN2elc0LUlfSXM",
@@ -6520,31 +6534,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉飞行汽车传闻引关注",
    "title_zh": "特斯拉“起飞”：飞行汽车来了？ | OFweek维科号精选文章 - 维科号",
-   "sentiment": 0
-  },
-  {
-   "id": "44b5494cf843",
-   "title": "SpaceX上市后第二份财报将至，特斯拉紧随其后！市场盯上AI开支与现金流 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucDR1TjFrQWZlY3gwWURvdUhvTFBub3hhWlpXc3RaOTdzTGdfeGNISXUxOVVwMm4yd0ZpM0hydkpoUHE1dk80OUxDYWszMmZBV0VKamtNZ2d3R1Bm",
-   "source": "Moomoo",
-   "published_at": "2026-10-20T07:35:19+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-20T07:35:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ucDR1TjFrQWZlY3gwWURvdUhvTFBub3hhWlpXc3RaOTdzTGdfeGNISXUxOVVwMm4yd0ZpM0hydkpoUHE1dk80OUxDYWszMmZBV0VKamtNZ2d3R1Bm"
-    },
-    {
-     "name": "金十数据",
-     "published_at": "2026-10-20T13:17:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Mc3JFTGtEM3JScXJLVnh1NXpSVDU5ZFFGd2pvZzJyUWF4alpESDFTT0RkTDVGTnplTHEtcHItZVI2aHpURHVWTjlMYURDOFU"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "SpaceX第二份财报将至市场盯AI开支",
-   "title_zh": "SpaceX上市后第二份财报将至，特斯拉紧随其后！市场盯上AI开支与现金流",
    "sentiment": 0
   }
  ]
