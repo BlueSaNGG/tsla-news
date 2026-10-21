@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T03:07:33.885376+00:00",
+ "updated_at": "2026-10-21T03:22:40.193321+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（289条已评分）"
+     "note": "今日新闻情绪 +0.33（295条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T03:07:33.877445+00:00"
+   "as_of": "2026-10-21T03:22:40.180982+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 289
+   "avg": 0.33,
+   "count": 295
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "769d43d338ad",
+   "title": "特斯拉能飞！特斯拉发布第二代Roadster：搭载推进器，1秒破百 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5a0ozZzNTRUJVOXptSGdoeTNzZnA4YUxfODFWSlU4WU1TcnRlTnV5X09JNTJIYUduSGF5akR0bUUtZEN6bGdrZ3FKRnhOUjhHSEM0WnExQmkyZEU",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T03:07:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T03:07:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5a0ozZzNTRUJVOXptSGdoeTNzZnA4YUxfODFWSlU4WU1TcnRlTnV5X09JNTJIYUduSGF5akR0bUUtZEN6bGdrZ3FKRnhOUjhHSEM0WnExQmkyZEU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "b91a5b703282",
+   "title": "SpaceX冷气推进器引发技术质疑，马斯克回应杨立昆对特斯拉Roadster供应链的拷问 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHY1FUbnoyamRONnFjTEYxaWI1VWZwZjZNZ1dfVEJXd0xxVG40WWoyS1hkY0lmWmpHWkZQMG5sLTBLYk5pUDVjWjVXdXV0MVU4bmIyVDZLZkNKNlE",
+   "source": "网通社",
+   "published_at": "2026-10-21T03:05:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-21T03:05:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHY1FUbnoyamRONnFjTEYxaWI1VWZwZjZNZ1dfVEJXd0xxVG40WWoyS1hkY0lmWmpHWkZQMG5sLTBLYk5pUDVjWjVXdXV0MVU4bmIyVDZLZkNKNlE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
   {
    "id": "de3b4128353d",
    "title": "SpaceX Plans $35-40B Q4 Capex — Matches Tesla's Last 4 Years Combined - BASENOR - Tesla Accessories",
@@ -83,8 +117,8 @@
    ],
    "category": "财报",
    "session": "盘后",
-   "title_zh": "SpaceX计划Q4投入$35-40B资本开支，与特斯拉过去四年总和相当",
    "zh_summary": "SpaceX Q4资本开支计划$35-40B",
+   "title_zh": "SpaceX计划Q4投入$35-40B资本开支，与特斯拉过去四年总和相当",
    "sentiment": 0
   },
   {
@@ -103,8 +137,8 @@
    ],
    "category": "财报",
    "session": "盘后",
-   "title_zh": "特斯拉Q3财报前瞻：三个值得关注的看点",
    "zh_summary": "特斯拉Q3财报前瞻：三个关注点",
+   "title_zh": "特斯拉Q3财报前瞻：三个值得关注的看点",
    "sentiment": 0
   },
   {
@@ -123,8 +157,8 @@
    ],
    "category": "能源",
    "session": "盘后",
-   "title_zh": "2.3GWh！特斯拉又签储能订单，这一市场升温",
    "zh_summary": "特斯拉签下2.3GWh储能订单",
+   "title_zh": "2.3GWh！特斯拉又签储能订单，这一市场升温",
    "sentiment": 1
   },
   {
@@ -143,8 +177,8 @@
    ],
    "category": "马斯克",
    "session": "盘后",
-   "title_zh": "预测市场押注SpaceX与特斯拉合并日期，传马斯克将通话",
    "zh_summary": "预测市场押注SpaceX与特斯拉合并时点",
+   "title_zh": "预测市场押注SpaceX与特斯拉合并日期，传马斯克将通话",
    "sentiment": 0
   },
   {
@@ -163,8 +197,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "特斯拉与支付宝达成车载助手项目合作",
    "zh_summary": "特斯拉与支付宝达成车载助手合作",
+   "title_zh": "特斯拉与支付宝达成车载助手项目合作",
    "sentiment": 1
   },
   {
@@ -183,8 +217,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "特斯拉手机钥匙被赞断层第一，博主称一次没失误过",
    "zh_summary": "特斯拉手机钥匙被博主称赞断层第一",
+   "title_zh": "特斯拉手机钥匙被赞断层第一，博主称一次没失误过",
    "sentiment": 1
   },
   {
@@ -288,8 +322,8 @@
    ],
    "category": "财报",
    "session": "盘后",
-   "title_zh": "SpaceX与特斯拉Terafab芯片厂目标2028年Q3投产",
    "zh_summary": "SpaceX与特斯拉芯片厂目标2028年Q3",
+   "title_zh": "SpaceX与特斯拉Terafab芯片厂目标2028年Q3投产",
    "sentiment": 0
   },
   {
@@ -483,6 +517,23 @@
    "sentiment": 1
   },
   {
+   "id": "f31aa4c3410d",
+   "title": "特斯拉回应马斯克2025年薪酬 未达标收入为零 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBId2NIUU1mbE05bTRGS0gxQ09JeU5kbXEzWk40eGFaZ0dxNFJlaWZIa04wM0swT3hMWlg3aHExYlZCU0pLU3F6YlNqbU5rdTNQQ3FYd3d6N3BBY1JjRUJTNmczSTVUeDNyWHMxTE1JS3g",
+   "source": "中华网",
+   "published_at": "2026-10-21T01:28:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-21T01:28:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBId2NIUU1mbE05bTRGS0gxQ09JeU5kbXEzWk40eGFaZ0dxNFJlaWZIa04wM0swT3hMWlg3aHExYlZCU0pLU3F6YlNqbU5rdTNQQ3FYd3d6N3BBY1JjRUJTNmczSTVUeDNyWHMxTE1JS3g"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
    "id": "8f55386f3f8c",
    "title": "SpaceX, Netflix, Super Micro Computer, Tesla and Meta: Why These 5 Stocks Are on Investors' Radars Today - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3NqYlJieDVUMVBzaDBITVNZUWxOSWtCQ0dVMmFIN0p5am5XQTM2VzZwWHlLYW40OUg5RXhqU282d01hbElZay1lcXFUeFJUalZCSnFHWjhpRWRWaUNuQTU3LWJLcDVfQlZGNy1BeHg5QkREZXZpTmx0cVd3S2NwZXA2R0pVaFhKRHlUVGsxeEF2c3gwZUwwb3Y1aHpVOWxVWEtzRFV5Q1JSSDVfbWdhc2RfVDdjQXFialRRR2cyalMxMldiS3hCVXFRcVBHaFY3Zm9IbkVWc3hUejJ3MnVrWC1YcjZqcUVjS3VESw",
@@ -658,7 +709,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qTXdMdWdNcEVZd1pKdjdzd0RvcFVwR0JYeThndlRvOFdIQll5dlNjSzI0dGtYLUdVVnpqQVVhd3BvcS1saVQzSWhtbWdSMHZQcG12M182RnoyOUtDVFMwWQ",
    "source": "ThePaper.cn",
    "published_at": "2026-10-21T00:38:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "ThePaper.cn",
@@ -669,6 +720,16 @@
      "name": "电子工程专辑",
      "published_at": "2026-10-21T02:48:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbVA5WUJwODlXeXVGQ0JvWnlGYlBEMjhlSHlUYTFzdXJnekY5NzVwaTNOUFlSOFBTS25YcGhWVFdjRmtLcU91WXIxb3JJZHBkcTZN"
+    },
+    {
+     "name": "21财经",
+     "published_at": "2026-10-21T03:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2ZJdldET1BCZ1NNLTVlSHZKV05pRXdtWUFZSnc5djRUNllWY2lKSmp3SUR5SFpTancyeUI3MmxpWFRUVEUtY1NmNS1MbTlrb0FpX1RHS1JUUGFSRXF0OXlrZVgwdng2dDBCd0tPMm5aUElLS0ZXblYzOXJqazI2V2ZXZlhiN3lPc2pGUUJEcw"
+    },
+    {
+     "name": "中华网",
+     "published_at": "2026-10-21T03:17:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYkVjdkozUC1PUXVZR3RXWUNnaTJDcHVGYkRFdy16YmY3RkFubTUzQm1QYXNwaktaWGFPUFBvbHc4blpUUXJKWUxwMzE3M28xYjBrS0JrVmVjVE1KNEgwdy1GTktNSHp4Vllqc19LdEE"
     }
    ],
    "category": "其他",
@@ -818,8 +879,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "TSLA本周将涨，Ives看涨30%+、瑞银称战术性有利",
    "zh_summary": "分析师看涨TSLA超30%，瑞银称配置时机有利",
+   "title_zh": "TSLA本周将涨，Ives看涨30%+、瑞银称战术性有利",
    "sentiment": 1
   },
   {
@@ -1008,10 +1069,15 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UMW96c3RDOVZlRHJGY1pHdUxPLXB0MFRSNlNvUzgwc2MtQWpkN2hqN3BuaWNKQloyVk9VQkhDRDAzV3ZrSWNTN1dpVGp0eXhGeFp1ek5CNWRpUEc1bHIxLUx3eTFWdFJKb0ZheEVTaWIxOWc",
    "source": "App Economy Insights",
    "published_at": "2026-10-20T23:49:37+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "App Economy Insights",
+     "published_at": "2026-10-20T23:49:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UMW96c3RDOVZlRHJGY1pHdUxPLXB0MFRSNlNvUzgwc2MtQWpkN2hqN3BuaWNKQloyVk9VQkhDRDAzV3ZrSWNTN1dpVGp0eXhGeFp1ek5CNWRpUEc1bHIxLUx3eTFWdFJKb0ZheEVTaWIxOWc"
+    },
+    {
+     "name": "How They Make Money | App Economy Insights",
      "published_at": "2026-10-20T23:49:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UMW96c3RDOVZlRHJGY1pHdUxPLXB0MFRSNlNvUzgwc2MtQWpkN2hqN3BuaWNKQloyVk9VQkhDRDAzV3ZrSWNTN1dpVGp0eXhGeFp1ek5CNWRpUEc1bHIxLUx3eTFWdFJKb0ZheEVTaWIxOWc"
     }
@@ -1126,6 +1192,23 @@
    "zh_summary": "SpaceX与特斯拉探讨合并需股东批准",
    "title_zh": "SpaceX利润飙升后称与特斯拉合并是好主意",
    "sentiment": 0
+  },
+  {
+   "id": "7f47b0826148",
+   "title": "Musk seizes on SpaceX momentum with push toward Tesla merger - The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZzZkNnJTRmIwb2EyaTg4UmZzOGZQQ0FzRUtlNndENG5qWElEZHZ4RWJLWmpaTjVKU0RyT2V5dUYyUFBuLW1sQmt1Ul9IaEsySl91UWJGYUowQzU2OGJDdnhsOWJRMHFxbGtCYWdZYUJyRFFleDd5Z1ZDSDJhVzA",
+   "source": "The Japan Times",
+   "published_at": "2026-10-20T23:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Japan Times",
+     "published_at": "2026-10-20T23:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZzZkNnJTRmIwb2EyaTg4UmZzOGZQQ0FzRUtlNndENG5qWElEZHZ4RWJLWmpaTjVKU0RyT2V5dUYyUFBuLW1sQmt1Ul9IaEsySl91UWJGYUowQzU2OGJDdnhsOWJRMHFxbGtCYWdZYUJyRFFleDd5Z1ZDSDJhVzA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "6a3d7697ec10",
@@ -1614,8 +1697,8 @@
    ],
    "category": "市场宏观",
    "session": "盘后",
-   "title_zh": "特斯拉'飞车'能否上市？还是纸上谈兵？",
    "zh_summary": "外媒质疑特斯拉'飞车'能否上市",
+   "title_zh": "特斯拉'飞车'能否上市？还是纸上谈兵？",
    "sentiment": -1
   },
   {
@@ -1969,8 +2052,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "特斯拉Roadster中国官网开放预订",
    "zh_summary": "特斯拉Roadster中国官网开放预订",
+   "title_zh": "特斯拉Roadster中国官网开放预订",
    "sentiment": 1
   },
   {
@@ -2352,6 +2435,23 @@
    "zh_summary": "特斯拉即将公布财报，期货上涨",
    "title_zh": "股指期货上涨，特斯拉和Meta将公布财报",
    "sentiment": 0
+  },
+  {
+   "id": "6e2158be6e3e",
+   "title": "Tesla and SpaceX explore merger as Elon Musk gives backing - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXFpeVdBNnBWUjJtTm1qb3RmbEIxb21oaGZTdzJkNUNGQUF4SmNnUExQNjZzRDZncDktTE9IclJDXzhoSThBYUJxdzlFTHI3Nzl1emZLU0hYbEhEVGFjRlhsUDVjRnpwaGl0RHlWaUJ6WHV6ckRFeGtHWDNqeW91VHdldTE",
+   "source": "The Guardian",
+   "published_at": "2026-10-20T20:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "published_at": "2026-10-20T20:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXFpeVdBNnBWUjJtTm1qb3RmbEIxb21oaGZTdzJkNUNGQUF4SmNnUExQNjZzRDZncDktTE9IclJDXzhoSThBYUJxdzlFTHI3Nzl1emZLU0hYbEhEVGFjRlhsUDVjRnpwaGl0RHlWaUJ6WHV6ckRFeGtHWDNqeW91VHdldTE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "b13a98d04511",
@@ -3381,26 +3481,6 @@
    "zh_summary": "Rimac称多年前曾考虑特斯拉式冷气推进器",
    "title_zh": "Mate Rimac称多年前曾考虑特斯拉Roadster式冷气体推进器",
    "sentiment": 0
-  },
-  {
-   "id": "579ec5bb0f47",
-   "title": "马斯克考核未达标！特斯拉：其去年薪酬超1万亿元，实际到手为0 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ScXJuam81eUNxekF3dkxEakYzc2doQk9zQnk5S2M0eV8tTFFIS2ZLWWhqSVFhcDgyOWUtOXpRbzZYdm9lQXo0VU8yVWlnWWRZWUtoOWN3S0p2RzdOUml2cWdZcEd4TlAwc0NsMEE5MjFCdU9JRHc",
-   "source": "新浪财经",
-   "published_at": "2026-10-20T15:24:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-20T15:24:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ScXJuam81eUNxekF3dkxEakYzc2doQk9zQnk5S2M0eV8tTFFIS2ZLWWhqSVFhcDgyOWUtOXpRbzZYdm9lQXo0VU8yVWlnWWRZWUtoOWN3S0p2RzdOUml2cWdZcEd4TlAwc0NsMEE5MjFCdU9JRHc"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "title_zh": "马斯克考核未达标，去年薪酬超1万亿元实际到手为0",
-   "zh_summary": "马斯克去年薪酬超1万亿元实际到手为0",
-   "sentiment": -1
   },
   {
    "id": "5a762853b50d",
@@ -5390,7 +5470,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pdERwbTRUajRiVXJINTVLbHVBVWVSaFVvVkVuRzdJcFAyQmpSelFQMHFWNWh2YTFDa21JOGF1SmFUZWJXWDFlSmdJNG0",
    "source": "凤凰网科技",
    "published_at": "2026-10-20T10:02:01+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网科技",
@@ -5401,13 +5481,22 @@
      "name": "中金在线",
      "published_at": "2026-10-20T10:41:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wZkZUTDlsak4xWmdOYUo1WC1ibXpWSnA3aDRsSE5zeXJJbXpETlpSV2ZKaVk4enQyM1g4X3JVQWRnUGZVcHdXVDFZUVJ1WFBMaXBNMTdrazZNYkd2MUZ1TTRpaVo1cl9iWG1B"
+    },
+    {
+     "name": "新浪新闻_手机新浪网",
+     "published_at": "2026-10-21T03:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91T2prM3hsQnpCaGRhd2wwMHREaVdndmxCbjFGOWRkQWQ1ME5ZM0IxUEhKM0Zsa3JiWmZRZ1QtNXp6UndGQlFpRUE2dW02MkpjLTNKVXZicmI5NGk3MmFpbUliTWh3ZFdsSXR5RjA4VTlYdi1ONnc"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "从特斯拉概念车看国内商业航天技术积累",
    "title_zh": "从特斯拉概念车冷气推进，看国内商业航天姿轨控技术积累_车市动态 - 中金在线",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 1.67,
+    "window_h": 2.0
+   }
   },
   {
    "id": "e13137f0fe0a",
@@ -6465,91 +6554,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉强调安全与直营模式",
    "title_zh": "特斯拉：品牌不存在速成车 强调安全与直营模式 - 中华网",
-   "sentiment": 0
-  },
-  {
-   "id": "003cdefc0b8c",
-   "title": "“AI教父”杨立昆质疑特斯拉飞行汽车不实用，马斯克“没绷住” - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHhkWXE3bV85MS1KSDMyaU9UTGhSN0ViUFZmSVdsLXdoRUU3ZEJ6cGswWWIzSmRDMEw2WUxncGlXcmRrX3JzNGdva04wZ0otT0ZFUWZwQWI3bWZCNkw3SWxCVVZ6VWRaOHZQS1c1QTMwdnozN0ZORkhYTm9scWhWVUhLOEpZcW9wOGpPdw",
-   "source": "搜狐",
-   "published_at": "2026-10-20T06:49:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T06:49:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHhkWXE3bV85MS1KSDMyaU9UTGhSN0ViUFZmSVdsLXdoRUU3ZEJ6cGswWWIzSmRDMEw2WUxncGlXcmRrX3JzNGdva04wZ0otT0ZFUWZwQWI3bWZCNkw3SWxCVVZ6VWRaOHZQS1c1QTMwdnozN0ZORkhYTm9scWhWVUhLOEpZcW9wOGpPdw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "杨立昆质疑飞行汽车实用性，马斯克激烈回应",
-   "title_zh": "“AI教父”杨立昆质疑特斯拉飞行汽车不实用，马斯克“没绷住” - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "8191eaa3c599",
-   "title": "特斯拉Roadster飞行细节披露，加注需两到六小时仅五秒推进 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaldmYUd0YnFNRHJudmdsSEpJam5xWVlIOFdtMWNQLUpzbWlRc01VWHFkSXVyRXMwV0d1RzNVV1pzbFU3d0dPd1RfU212a0pfS1QtX3JiQ0hCQmhiNklzaXdoVkRRLXlNRHRBbjhoUGd3eHVTbXJrUnFsRjdsMXplVQ",
-   "source": "新浪网",
-   "published_at": "2026-10-20T06:43:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T06:43:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaldmYUd0YnFNRHJudmdsSEpJam5xWVlIOFdtMWNQLUpzbWlRc01VWHFkSXVyRXMwV0d1RzNVV1pzbFU3d0dPd1RfU212a0pfS1QtX3JiQ0hCQmhiNklzaXdoVkRRLXlNRHRBbjhoUGd3eHVTbXJrUnFsRjdsMXplVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster飞行细节披露，加注两到六小时",
-   "title_zh": "特斯拉Roadster飞行细节披露，加注需两到六小时仅五秒推进 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "fcc5234ab379",
-   "title": "Tesla Model 3 Hints at Roadster Look, 16-In Screen [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cW5sUDNPWVYzQnVPQ0d4SnRBdUR4SW82V2k4Yl8tVGZrMW81SWRIbmpCNWdZMHRQVDZpQ3JQMnNwTU1FaS1qSUVvclNoc2ZKc0NLMThIYjkyRFdmQjI0TTJoR1ZqREk5WHhNMDFPWHo0RHF2RE96WWdR",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-20T06:43:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-20T06:43:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cW5sUDNPWVYzQnVPQ0d4SnRBdUR4SW82V2k4Yl8tVGZrMW81SWRIbmpCNWdZMHRQVDZpQ3JQMnNwTU1FaS1qSUVvclNoc2ZKc0NLMThIYjkyRFdmQjI0TTJoR1ZqREk5WHhNMDFPWHo0RHF2RE96WWdR"
-    },
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-20T06:43:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93cW5sUDNPWVYzQnVPQ0d4SnRBdUR4SW82V2k4Yl8tVGZrMW81SWRIbmpCNWdZMHRQVDZpQ3JQMnNwTU1FaS1qSUVvclNoc2ZKc0NLMThIYjkyRFdmQjI0TTJoR1ZqREk5WHhNMDFPWHo0RHF2RE96WWdR"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Model 3改款借鉴Roadster设计配16英寸屏",
-   "title_zh": "特斯拉Model 3改款或借鉴Roadster设计，配备16英寸屏幕",
-   "sentiment": 0
-  },
-  {
-   "id": "5e1085c048a7",
-   "title": "特斯拉飞行 Roadster：是未来出行，还是一场封闭场地的技术秀？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwbkZ3SDJ2X2RTQXRiX2VsR012UzBpZzV5YjlweEJ6OGw4NXFEQkg2ZC04Y1NYeUktSGc4UjgzS1hwN25TMEg3b3dEalhfR3BzWDR3bmJ3V2VaRms",
-   "source": "汽车之家",
-   "published_at": "2026-10-20T06:41:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-20T06:41:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwbkZ3SDJ2X2RTQXRiX2VsR012UzBpZzV5YjlweEJ6OGw4NXFEQkg2ZC04Y1NYeUktSGc4UjgzS1hwN25TMEg3b3dEalhfR3BzWDR3bmJ3V2VaRms"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉展示飞行Roadster技术",
-   "title_zh": "特斯拉飞行 Roadster：是未来出行，还是一场封闭场地的技术秀？",
    "sentiment": 0
   }
  ]
