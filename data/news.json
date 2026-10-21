@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T09:52:26.753124+00:00",
+ "updated_at": "2026-10-21T10:07:25.181141+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（59条已评分）"
+     "note": "今日新闻情绪 +0.32（62条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T09:52:26.740376+00:00"
+   "as_of": "2026-10-21T10:07:25.167340+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 59
+   "avg": 0.32,
+   "count": 62
   }
  },
  "meta": {
@@ -253,6 +253,23 @@
    "sentiment": 0
   },
   {
+   "id": "96e81f50080f",
+   "title": "特斯拉2026年第三季度美国电动汽车销量达14.4万辆，超越其他品牌总和 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHRqcDVoRkdkeGFiVGY5UUxfekZIZVRzM3Rldk1xRXJCcEhuVGhwR1RoTDY3WEQ5RjlCTlUxSzQxbm94VlQ2eVBPMFJlMGNOcHZyc1cwUWUzc3BTb0VFU2h4eHY0NTVBMEp5dGtCM2pTaHJpRVdnT0EyMW9janNaTWd0RFRjbTl2",
+   "source": "搜狐",
+   "published_at": "2026-10-21T09:11:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T09:11:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHRqcDVoRkdkeGFiVGY5UUxfekZIZVRzM3Rldk1xRXJCcEhuVGhwR1RoTDY3WEQ5RjlCTlUxSzQxbm94VlQ2eVBPMFJlMGNOcHZyc1cwUWUzc3BTb0VFU2h4eHY0NTVBMEp5dGtCM2pTaHJpRVdnT0EyMW9janNaTWd0RFRjbTl2"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
+  },
+  {
    "id": "1411cb893f59",
    "title": "SpaceX与特斯拉合并，马斯克在下一盘多大的棋？ - 华尔街见闻",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HczBwdXg2dTR4MndQbGtiWm9GdnFwM2dtOC1SXzdOYnZzQjhXcDBqOVNad3FPU1l3ZzRUZFFUc2NUVmNjSkhXYUF0ZEp2SmxCblZr",
@@ -411,6 +428,23 @@
    "zh_summary": "特斯拉发布飞天超跑，2028交付存疑",
    "title_zh": "特斯拉飞天超跑发布：中国车企集体沉默，2028交付或难实现_车市动态 - 中金在线",
    "sentiment": -1
+  },
+  {
+   "id": "c77bdcc0e68c",
+   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE",
+   "source": "BBC",
+   "published_at": "2026-10-21T08:42:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BBC",
+     "published_at": "2026-10-21T08:42:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "727d9abb118a",
@@ -988,12 +1022,17 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTENtNDBucmctQmVtM1ZBX2k1YUE2eDAwS2phTnZpR3l6Z0t1VGNCWHFRd1RVbTB4cVIxMHJmNXQ1WnB3aEZpanh1ckFxSTVQMlMtYk9UazQ0MmhXUUcwSVRyYjMwMFdoYUI4bFdGemE3NWdscFAwVGxad3hSMzVmYlpXbG1SbzlLcXdyS0kwbVVldVNXcFU2ZldnUWpPUQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-21T06:31:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-21T06:31:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTENtNDBucmctQmVtM1ZBX2k1YUE2eDAwS2phTnZpR3l6Z0t1VGNCWHFRd1RVbTB4cVIxMHJmNXQ1WnB3aEZpanh1ckFxSTVQMlMtYk9UazQ0MmhXUUcwSVRyYjMwMFdoYUI4bFdGemE3NWdscFAwVGxad3hSMzVmYlpXbG1SbzlLcXdyS0kwbVVldVNXcFU2ZldnUWpPUQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T06:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3RZa01fSWtxaEpETkVVYWhRYU5PS1lhQjJJRkVnOThWRktvU1hDaW9jZzdhcUJEaFdFS3F6bmsxVXczRW80WjJCUzZ0eVpxUXZSRVo4MW9hLTNWTmthYjBtWnpqZm5JY3FvTTVyWUVIMnV1ZGp5ckpFSlVMTHMtYnNDTHEzT1F2NFJ5OVAteHJNNmIzRlljdlR1M21pUQ"
     }
    ],
    "category": "车型产品",
@@ -1874,6 +1913,28 @@
    "sentiment": 0
   },
   {
+   "id": "32f4482e99c4",
+   "title": "人民锐评：特斯拉“能飞”，我们就被甩开了？ 创新与质量并重 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYkVjdkozUC1PUXVZR3RXWUNnaTJDcHVGYkRFdy16YmY3RkFubTUzQm1QYXNwaktaWGFPUFBvbHc4blpUUXJKWUxwMzE3M28xYjBrS0JrVmVjVE1KNEgwdy1GTktNSHp4Vllqc19LdEE",
+   "source": "中华网",
+   "published_at": "2026-10-21T03:17:48+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-21T03:17:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IYkVjdkozUC1PUXVZR3RXWUNnaTJDcHVGYkRFdy16YmY3RkFubTUzQm1QYXNwaktaWGFPUFBvbHc4blpUUXJKWUxwMzE3M28xYjBrS0JrVmVjVE1KNEgwdy1GTktNSHp4Vllqc19LdEE"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-21T05:26:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBURnluQmhuYXR2WEpRY19SaFlNRVJyZE9uV1JVOEYxNThTQkQxOFJDZnBaaWdfV2pwU21Ud2ZVOHk1N3ZKcDFjeFQ0dW42dDhJX1h1cTQ0U1ItT0taSENhbjlmQURvc25PMzM5VzFpTnJoYWdaNVZYbDVkRHBqUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "8778f7c582d4",
    "title": "从特斯拉概念车冷气推进，看国内商业航天姿轨控技术积累 - 新浪新闻_手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91T2prM3hsQnpCaGRhd2wwMHREaVdndmxCbjFGOWRkQWQ1ME5ZM0IxUEhKM0Zsa3JiWmZRZ1QtNXp6UndGQlFpRUE2dW02MkpjLTNKVXZicmI5NGk3MmFpbUliTWh3ZFdsSXR5RjA4VTlYdi1ONnc",
@@ -2639,12 +2700,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1QXMyNThnTmdMWkwtLWx3QkYwcm9UVlh6T2ZVQjZ2ZzhPMEpabDlmTzRITHp4bG54enE2M3dzUVN4WERtN2hVSlhWLUNmWUdYaWdld0dRRmV5eUlFakZXeW1JcUY1U0U5MEFUbDEtMFo",
    "source": "中华网",
    "published_at": "2026-10-21T01:14:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "中华网",
      "published_at": "2026-10-21T01:14:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1QXMyNThnTmdMWkwtLWx3QkYwcm9UVlh6T2ZVQjZ2ZzhPMEpabDlmTzRITHp4bG54enE2M3dzUVN4WERtN2hVSlhWLUNmWUdYaWdld0dRRmV5eUlFakZXeW1JcUY1U0U5MEFUbDEtMFo"
+    },
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-21T02:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbVA5WUJwODlXeXVGQ0JvWnlGYlBEMjhlSHlUYTFzdXJnekY5NzVwaTNOUFlSOFBTS25YcGhWVFdjRmtLcU91WXIxb3JJZHBkcTZN"
     }
    ],
    "category": "其他",
@@ -4210,7 +4276,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE",
    "source": "BBC",
    "published_at": "2026-10-20T21:50:41+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "BBC",
@@ -4221,6 +4287,11 @@
      "name": "The Korea Herald",
      "published_at": "2026-10-21T04:51:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XTWNFMzhoSzh5Y2l3ZzZTdHRvQlJ4eHMxd29ibDdVdU5WTzJPd1FFUGtEVXQzS25WMm5sNkdDRDZrUjNzenYyNmF3SGVhdHVVMHNjWmp3SQ"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-21T09:40:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQ19ZUjNlbjlZUmVoazduRGVLWkY2cno1YkZMM1lzUFU1SUFIR2xDZGlnVm12VEJ6RVVqMXpEMU9XZFhKbE1yZkU0bm5lSGtzOGN0QXphc3ZoY0piWXdfV1BWcTFQUG8"
     }
    ],
    "category": "马斯克",
@@ -6544,66 +6615,6 @@
    "session": "盘前",
    "zh_summary": "奥特曼曾想退订Roadster，马斯克称他改变主意",
    "title_zh": "奥特曼曾想退掉5万美元Roadster订金，马斯克称他改变了主意",
-   "sentiment": 0
-  },
-  {
-   "id": "b54672ab6c43",
-   "title": "Tesla Signs Alipay In-Car Assistant Deal to Bring Parking Payments in China - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjFhOVB0VjJwdG1OVjhNWjg2UnUydkZVRldtRkJhSWM5cGhoWkU1V1RrNUNFLVk0Q21jU3VYa3lUbF9kUy1xbk9jV0poeWJuM3B1TGlOaUVKa1E0OUlPV0JLaXdncWZ0Wm00OC0tQWIybzRROVk5cDJwSkJNa3Yxc3VmTXF5R2QwWDF1b19pWHptcXFmdENiTm54NEQzUlRuVGF6bmh4NUI0ejZiX0ZQYg",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-20T13:23:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-20T13:23:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjFhOVB0VjJwdG1OVjhNWjg2UnUydkZVRldtRkJhSWM5cGhoWkU1V1RrNUNFLVk0Q21jU3VYa3lUbF9kUy1xbk9jV0poeWJuM3B1TGlOaUVKa1E0OUlPV0JLaXdncWZ0Wm00OC0tQWIybzRROVk5cDJwSkJNa3Yxc3VmTXF5R2QwWDF1b19pWHptcXFmdENiTm54NEQzUlRuVGF6bmh4NUI0ejZiX0ZQYg"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "特斯拉签约支付宝车载停车支付",
-   "title_zh": "特斯拉签约支付宝车载助手，在中国推出停车支付",
-   "sentiment": 1
-  },
-  {
-   "id": "5305ebca3c44",
-   "title": "Tesla Model S With 470,000 Miles Gets a Massive Battery Upgrade, But Software Nearly Derails the Project - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWI1czFIRFdZRzdMV0VvWHBVWWJKbHNobW1rT0xlNEpVakw3X1dfWE5xNHJTU0ZlOFBEQXotaTZTdEFfaEdjNXNQc3ZKRDNna1NvYVk4Q2o5ckNoUDdqUGtValNyc0FsUVNIMUhBbW9KV2xTRUhFcVM3cUJVTGFqeUVUWDhnY1U1ZFVNS3JxWnBWMXBFREtJ",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-20T13:18:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-20T13:18:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWI1czFIRFdZRzdMV0VvWHBVWWJKbHNobW1rT0xlNEpVakw3X1dfWE5xNHJTU0ZlOFBEQXotaTZTdEFfaEdjNXNQc3ZKRDNna1NvYVk4Q2o5ckNoUDdqUGtValNyc0FsUVNIMUhBbW9KV2xTRUhFcVM3cUJVTGFqeUVUWDhnY1U1ZFVNS3JxWnBWMXBFREtJ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "47万英里Model S换电池遭软件阻挠",
-   "title_zh": "行驶47万英里的Model S换装大容量电池，软件问题险些让项目流产",
-   "sentiment": 0
-  },
-  {
-   "id": "891a1cc543de",
-   "title": "Tesla Stock Price Forecast: Can TSLA Stock Break $400 as Q3 Earnings Approach? - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPODM2SWdUVGVLTmpReHlHdGc4Y1pZdVdKQWkyU0JucXZXbDBTZ21SVlNyTEE0S0dMOXpqdHlMdjlTWGtOa3Znb09UbEVVQXAwUG56UGdXa2JtVEJUWTdPVmR5R2NwQWcwNFZZTFV0T0d2cEdUUnFtTlRlOWlVRENOV280VVl6SllObUx4bVNDLUhJbWVtV0RIQURLc1Y5dlFzODhoclJqdHR6UXpfb0JiWjBSNTB5Zw",
-   "source": "TradingKey",
-   "published_at": "2026-10-20T13:14:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-20T13:14:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPODM2SWdUVGVLTmpReHlHdGc4Y1pZdVdKQWkyU0JucXZXbDBTZ21SVlNyTEE0S0dMOXpqdHlMdjlTWGtOa3Znb09UbEVVQXAwUG56UGdXa2JtVEJUWTdPVmR5R2NwQWcwNFZZTFV0T0d2cEdUUnFtTlRlOWlVRENOV280VVl6SllObUx4bVNDLUhJbWVtV0RIQURLc1Y5dlFzODhoclJqdHR6UXpfb0JiWjBSNTB5Zw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "TSLA三季度财报前夕能否突破$400",
-   "title_zh": "TSLA股价预测：财报前夕能否突破400美元？",
    "sentiment": 0
   }
  ]
