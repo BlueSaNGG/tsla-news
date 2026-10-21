@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T06:22:30.517337+00:00",
+ "updated_at": "2026-10-21T06:37:26.641798+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.57（7条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.30（10条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T06:22:30.506897+00:00"
+   "as_of": "2026-10-21T06:37:26.633751+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.57,
-   "count": 7
+   "avg": 0.3,
+   "count": 10
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "aead0e6492fd",
+   "title": "Will Tesla’s New Flying Roadster Send the Stock Flying? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTENtNDBucmctQmVtM1ZBX2k1YUE2eDAwS2phTnZpR3l6Z0t1VGNCWHFRd1RVbTB4cVIxMHJmNXQ1WnB3aEZpanh1ckFxSTVQMlMtYk9UazQ0MmhXUUcwSVRyYjMwMFdoYUI4bFdGemE3NWdscFAwVGxad3hSMzVmYlpXbG1SbzlLcXdyS0kwbVVldVNXcFU2ZldnUWpPUQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-21T06:31:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-21T06:31:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTENtNDBucmctQmVtM1ZBX2k1YUE2eDAwS2phTnZpR3l6Z0t1VGNCWHFRd1RVbTB4cVIxMHJmNXQ1WnB3aEZpanh1ckFxSTVQMlMtYk9UazQ0MmhXUUcwSVRyYjMwMFdoYUI4bFdGemE3NWdscFAwVGxad3hSMzVmYlpXbG1SbzlLcXdyS0kwbVVldVNXcFU2ZldnUWpPUQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "db10fdb5b65a",
+   "title": "一财主播说｜SpaceX、特斯拉酝酿合并：马斯克的版图野心，股东的账本考卷 - 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZRElzYXYtZ0xMX2M4ZXhnRExYQzliZllhakFYeE9FbzkwdHVPNW5pcjFxZlVlTWttODFyYVk2T3BHOXA0OTVGcFV4RHduLU9aaEE",
+   "source": "第一财经",
+   "published_at": "2026-10-21T06:21:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-21T06:21:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZRElzYXYtZ0xMX2M4ZXhnRExYQzliZllhakFYeE9FbzkwdHVPNW5pcjFxZlVlTWttODFyYVk2T3BHOXA0OTVGcFV4RHduLU9aaEE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
   {
    "id": "b2a5a0809f7d",
    "title": "特斯拉周三美股盘后公布财报，市场聚焦Robotaxi进展、利润率与资本开支 - 富途牛牛",
@@ -648,7 +682,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tM0ZHUnBTb01mOWxxSVNaNFRfWTVaWG9CVGltUEZ5akhCVFZDbk1SVmZUN21aN29qUDAyeXpmd2JXemV5a240ZDBjeG1FZDRhQ1ZtWVNwN0c",
    "source": "驱动之家",
    "published_at": "2026-10-21T04:01:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -664,10 +698,16 @@
      "name": "新浪财经",
      "published_at": "2026-10-21T04:02:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81V1UwWW5tenZWcGlQUTBOYVN0NkhtcTA3TEFKRlRxS1AzSkNJb19EcjFLYWRHczE1eHdFM2VZWktKeENVYS14RFh5eVVqUmZteERGNzRkNFV2YzdPLW9IWUkxZGVTT0hVMWdsSlM3aWJzV2tSdGY1Mk53NXo"
+    },
+    {
+     "name": "第一电动网",
+     "published_at": "2026-10-21T04:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0WG9ZdVdhQWYzVVFvX2xLYzRIVWR5V2tXLXlhU01LbDRsX200R2tqTGdxTXRFb2RyeVpXM3ZOVDBxVlFCM20zZ3E3NUk0UQ"
     }
    ],
    "category": "其他",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "法拉利CEO称赞特斯拉Roadster",
    "title_zh": "特斯拉Roadster出圈：法拉利CEO直言这波给到夯！ - 新浪网",
    "sentiment": 1
@@ -796,6 +836,23 @@
    "zh_summary": "特斯拉Roadster与阳光新能源光伏进化",
    "title_zh": "特斯拉 Roadster 让汽车进化，阳光新能源让光伏组件进化 - 新浪新闻_手机新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "8778f7c582d4",
+   "title": "从特斯拉概念车冷气推进，看国内商业航天姿轨控技术积累 - 新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91T2prM3hsQnpCaGRhd2wwMHREaVdndmxCbjFGOWRkQWQ1ME5ZM0IxUEhKM0Zsa3JiWmZRZ1QtNXp6UndGQlFpRUE2dW02MkpjLTNKVXZicmI5NGk3MmFpbUliTWh3ZFdsSXR5RjA4VTlYdi1ONnc",
+   "source": "新浪新闻_手机新浪网",
+   "published_at": "2026-10-21T03:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪新闻_手机新浪网",
+     "published_at": "2026-10-21T03:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91T2prM3hsQnpCaGRhd2wwMHREaVdndmxCbjFGOWRkQWQ1ME5ZM0IxUEhKM0Zsa3JiWmZRZ1QtNXp6UndGQlFpRUE2dW02MkpjLTNKVXZicmI5NGk3MmFpbUliTWh3ZFdsSXR5RjA4VTlYdi1ONnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "2cb1a12b0822",
@@ -6501,71 +6558,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉支付宝合作车机付停车费",
    "title_zh": "特斯拉与支付宝合作，车主将能在车机上支付停车费",
-   "sentiment": 1
-  },
-  {
-   "id": "be17bbaf8900",
-   "title": "特斯拉，将上线支付宝车载助手 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NnJtSUJHYi1VN3pRSVNHZDBDbm9SMHRqR2VpS29RbHQzalBsc2t3Q2JJMGsyR3FVYi04b2NGaUJYTENPMVZJdkdpeG4wdnBqQWtxdmxLc2REWEV2MENlN1BKdGJaaGRnd2NjWjdOUEpoZExjTmlNMw",
-   "source": "新浪财经",
-   "published_at": "2026-10-20T10:05:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-20T10:05:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45NnJtSUJHYi1VN3pRSVNHZDBDbm9SMHRqR2VpS29RbHQzalBsc2t3Q2JJMGsyR3FVYi04b2NGaUJYTENPMVZJdkdpeG4wdnBqQWtxdmxLc2REWEV2MENlN1BKdGJaaGRnd2NjWjdOUEpoZExjTmlNMw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉将上线支付宝车载助手",
-   "title_zh": "特斯拉，将上线支付宝车载助手",
-   "sentiment": 1
-  },
-  {
-   "id": "04c80c9d7c89",
-   "title": "特斯拉中国车机将接入支付宝车载助手，车主可在车内完成停车费快捷支付 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rZTgwa0VvVXVPS2VXTFB1M3A1LTlsbDdkNDZkb0J6Q0h5OW9Pb0Jsek5ZbHJIdDhiWld2SG1yeWlsbTI1bDh4VV9ROU4",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-20T10:04:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-20T10:04:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rZTgwa0VvVXVPS2VXTFB1M3A1LTlsbDdkNDZkb0J6Q0h5OW9Pb0Jsek5ZbHJIdDhiWld2SG1yeWlsbTI1bDh4VV9ROU4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉中国车机接入支付宝支付",
-   "title_zh": "特斯拉中国车机将接入支付宝车载助手，车主可在车内完成停车费快捷支付",
-   "sentiment": 1
-  },
-  {
-   "id": "6cdcd5079e53",
-   "title": "特斯拉与支付宝签署合作协议，中国车机系统计划上线智慧停车服务 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WZWNtZVVybkFLOVB0NzFkQUZyamhkcTI1YmdjMUhTazlCakVSSVlqd0RkUnlwRVMwMGxrME9sZUNRTU9HVnpvOTRHZHFUa2RzdXVnLV9qTDNpZ0k",
-   "source": "网通社",
-   "published_at": "2026-10-20T10:03:10+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-20T10:03:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WZWNtZVVybkFLOVB0NzFkQUZyamhkcTI1YmdjMUhTazlCakVSSVlqd0RkUnlwRVMwMGxrME9sZUNRTU9HVnpvOTRHZHFUa2RzdXVnLV9qTDNpZ0k"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-10-20T10:13:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EM01yMTRrSmdRVnV0WmdRLVV5V3FFZF9ycU5PNU9MNms0M2dHMXRfZkhYVWtQbU5Bakl3MndTNnFpYm1nWE4tZ3dlY2ZVUFJaRVFvd09GNTJDc2RLRm9fTXBB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉车机将上线支付宝停车支付",
-   "title_zh": "特斯拉与支付宝签署合作协议 车机系统将上线智慧停车支付 - 观点网",
    "sentiment": 1
   }
  ]
