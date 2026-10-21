@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T17:37:48.117152+00:00",
+ "updated_at": "2026-10-21T17:52:39.056275+00:00",
  "market": {
-  "price": 386.85,
-  "change_pct": 3.52,
+  "price": 387.0,
+  "change_pct": 3.56,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（210条已评分）"
+     "note": "今日新闻情绪 +0.36（216条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $386.85 vs 20日均线 $370.05"
+     "note": "现价 $387.00 vs 20日均线 $370.06"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400,
    "target_count": 15,
    "implied_upside_pct": 3.4,
-   "ma20": 370.05,
-   "as_of": "2026-10-21T17:37:48.106952+00:00"
+   "ma20": 370.06,
+   "as_of": "2026-10-21T17:52:39.036186+00:00"
   },
   "pe_ttm": 107.0,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.36,
-   "count": 210
+   "count": 216
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "820b29014e23",
+   "title": "Breakingviews - COMMENTARY: SpaceX offer will be hard for Tesla to refuse - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkpFTzAxRkZQM1JHNUhZcnljc3Z2OUNQamZURVAydnNmUGJrQ2hiTU40c0xxMUxjM3V2TWVFUjRxV2VlVGlib2NIRlkxaDhsdnkyTTJfcjl2Q0FaN3I5N19BZElCVXhrSHhQbTlRN0syUG4wV1BiVkp1WURxRjRsdnloNTFBcHZPM2tENFJsUTJyZjRZMkJ6WkhmZWNkTXR5",
+   "source": "Reuters",
+   "published_at": "2026-10-21T17:45:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-21T17:45:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkpFTzAxRkZQM1JHNUhZcnljc3Z2OUNQamZURVAydnNmUGJrQ2hiTU40c0xxMUxjM3V2TWVFUjRxV2VlVGlib2NIRlkxaDhsdnkyTTJfcjl2Q0FaN3I5N19BZElCVXhrSHhQbTlRN0syUG4wV1BiVkp1WURxRjRsdnloNTFBcHZPM2tENFJsUTJyZjRZMkJ6WkhmZWNkTXR5"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "2766b9f9a0d8",
    "title": "Tesla stock jumps 4% as Musk backs potential Te... - Pluang",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉股价涨4%，马斯克支持潜在合并计划",
    "title_zh": "特斯拉股价涨4%，马斯克支持潜在合并计划",
    "sentiment": 1
+  },
+  {
+   "id": "ef6f78cf2524",
+   "title": "SpaceX revenue surges 161% as Elon Musk addresses potential Tesla merger - Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTHVrRmlRYUtLWG42aVJoOVdMVEdWOFhzREY0RlJ3SHdVblREQkdyeDFVM3BKSTNaRFVYMG1wdzh6SVNyQ2dQWHBfZmxNeVVQMUJDMnNSTFlRS0k",
+   "source": "Fox Business",
+   "published_at": "2026-10-21T17:21:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fox Business",
+     "published_at": "2026-10-21T17:21:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTHVrRmlRYUtLWG42aVJoOVdMVEdWOFhzREY0RlJ3SHdVblREQkdyeDFVM3BKSTNaRFVYMG1wdzh6SVNyQ2dQWHBfZmxNeVVQMUJDMnNSTFlRS0k"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "a15f58a6fd8b",
@@ -186,6 +220,23 @@
    "zh_summary": "马斯克称可考虑SpaceX与特斯拉合并",
    "title_zh": "SpaceX第三季度营收增长161%，马斯克：可以考虑跟特斯拉合并",
    "sentiment": 1
+  },
+  {
+   "id": "1ba3c147e6bc",
+   "title": "What to Know About the SpaceX-Tesla Merger Talks - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXFsVW11RFNRRmRqS2I3dHk1dUlLOXlzMDc1bFN1d21nanZrNTV0REFMR2hwVXBxTUxtZHlvS1pDR3YwR0ZJeUxWczBaTVJxOGMtVU1TT2xtLUZxQm5BTGRva1FlQkdMMEU5eUREWUJuOHhUd2xpU0tCdTM1X3o0N1luZ29PUQ",
+   "source": "WSJ",
+   "published_at": "2026-10-21T16:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-21T16:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXFsVW11RFNRRmRqS2I3dHk1dUlLOXlzMDc1bFN1d21nanZrNTV0REFMR2hwVXBxTUxtZHlvS1pDR3YwR0ZJeUxWczBaTVJxOGMtVU1TT2xtLUZxQm5BTGRva1FlQkdMMEU5eUREWUJuOHhUd2xpU0tCdTM1X3o0N1luZ29PUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c05dd9277cfe",
@@ -373,6 +424,23 @@
    "sentiment": 1
   },
   {
+   "id": "22fc2999d28c",
+   "title": "特斯拉Roadster真的会飞？发布会看完，发现“飞”和想的不太一样 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJS2k5ZEVKNVRGZ2l2TVZ6ZUhObE9nTzZtVmd4NDJkV0NUdTJGckcxSjRKYU5YeVM4UDRtZ0dJS1ZHMmFaaWxyVlJmT3NrWG9mTXB4TEludThBd3NsTFE",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T16:02:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T16:02:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJS2k5ZEVKNVRGZ2l2TVZ6ZUhObE9nTzZtVmd4NDJkV0NUdTJGckcxSjRKYU5YeVM4UDRtZ0dJS1ZHMmFaaWxyVlJmT3NrWG9mTXB4TEludThBd3NsTFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "182fac6503e2",
    "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea' - CNBC",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TdIBgAFBVV95cUxPdzZSSklMOG1fb1hCcUpGSmpyVDAxVlZuXzZ4ZDEwdkJhX2xoWXdVb1V5Vkp0b0tkekhaVHhoa2szSC0tejZ6aTYtb1JJUWo4aG90ZTN5UURiS19sMGhCUHFxZUdhdk9rd3JaN0xRVVk3OGZ0VkhZSjFDMU11dUJIVw",
@@ -411,26 +479,6 @@
    "zh_summary": "SpaceX与特斯拉探讨潜在合并",
    "title_zh": "午间头条：SpaceX与特斯拉探讨潜在合并；雅培将分拆营养业务为独立上市公司",
    "sentiment": 1
-  },
-  {
-   "id": "9a71c1f25a1a",
-   "title": "Here’s How Much Tesla Stock Is Expected to Move After Earnings - Investopedia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhhOWVLeWlmenVYanV6ZlZmaV8yNEthdHJHUFk2LVVTOXNUaHA2REpfdDd4Z3BTb1llYnljQjZ6T2FUeF9TZUI2WGRISXVwMTl4MVdqb05ZSGlDaWtZbjhJaW9MRFJNX09KNUR2Z0ZLVjZhb1I3T1E0XzVrRnlpcVg1dXJOcjZuM201U1Y0TnBueC0tSWRGTEpZWjYtanUzczBoN01NMW9qbndMbTJpM2R1cmZ6NnNmeldRWFpJZFQ",
-   "source": "Investopedia",
-   "published_at": "2026-10-21T15:46:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investopedia",
-     "published_at": "2026-10-21T15:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkhhOWVLeWlmenVYanV6ZlZmaV8yNEthdHJHUFk2LVVTOXNUaHA2REpfdDd4Z3BTb1llYnljQjZ6T2FUeF9TZUI2WGRISXVwMTl4MVdqb05ZSGlDaWtZbjhJaW9MRFJNX09KNUR2Z0ZLVjZhb1I3T1E0XzVrRnlpcVg1dXJOcjZuM201U1Y0TnBueC0tSWRGTEpZWjYtanUzczBoN01NMW9qbndMbTJpM2R1cmZ6NnNmeldRWFpJZFQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "分析财报后特斯拉股价预期波动",
-   "title_zh": "特斯拉财报后股价预期波动幅度分析",
-   "sentiment": 0
   },
   {
    "id": "c2e082d55287",
@@ -6396,66 +6444,6 @@
    "zh_summary": "分析师看涨TSLA超30%，瑞银称配置时机有利",
    "title_zh": "TSLA本周将涨，Ives看涨30%+、瑞银称战术性有利",
    "sentiment": 1
-  },
-  {
-   "id": "9d01a6877eb1",
-   "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并 - 爱范儿",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHLTladm16TEgwSHZUbU1xSDNnR3I1b0R0NEwyNWQzRFl1MFNrenZNU01YTGlHLXdib1hfS1lwcVVSMmM",
-   "source": "爱范儿",
-   "published_at": "2026-10-21T00:21:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "爱范儿",
-     "published_at": "2026-10-21T00:21:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBHLTladm16TEgwSHZUbU1xSDNnR3I1b0R0NEwyNWQzRFl1MFNrenZNU01YTGlHLXdib1hfS1lwcVVSMmM"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克回应SpaceX与特斯拉合并传闻",
-   "title_zh": "早报｜小天才回应封闭社交争议/马斯克回应SpaceX与特斯拉合并",
-   "sentiment": 1
-  },
-  {
-   "id": "9dca395d472b",
-   "title": "SpaceX美股夜盘涨近8%，特斯拉张近2%，马斯克宣布SpaceX与特斯拉成立特别委员会 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0tzeTFJSDhFWS1ib0ZsWVBZY0hKSmNXdHZiUlEyZS1CLWdmeGhyX1hBOWdrV1ZLcjA2Q0Y0aGtKOHBsZjJVZF9POGt6UkR3X1hueEtOWnQzbVQxWmplZG9TQmpXNnROZ01aQkp6QUQ4ZnJhelZ3bW1MWHFmRWp1ZzFhYXliUENWcktSWEQ1YXl4SUNsd1l2czN1QVk",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T00:16:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T00:16:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0tzeTFJSDhFWS1ib0ZsWVBZY0hKSmNXdHZiUlEyZS1CLWdmeGhyX1hBOWdrV1ZLcjA2Q0Y0aGtKOHBsZjJVZF9POGt6UkR3X1hueEtOWnQzbVQxWmplZG9TQmpXNnROZ01aQkp6QUQ4ZnJhelZ3bW1MWHFmRWp1ZzFhYXliUENWcktSWEQ1YXl4SUNsd1l2czN1QVk"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "SpaceX夜盘涨近8%，特斯拉涨近2%",
-   "title_zh": "SpaceX美股夜盘涨近8%，特斯拉张近2%，马斯克宣布SpaceX与特斯拉成立特别委员会 - 富途牛牛",
-   "sentiment": 2
-  },
-  {
-   "id": "f70736c305bc",
-   "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PaEtmQnlNdDk3OE9DQ053MnQzMzhqSFM1YWpPWURkcFRrUzItSWZEUHd2NW1JNGNsaVVLcDNoYi16TlZLWnpwN3JmVXlZR1dzNUhn",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-21T00:07:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-21T00:07:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PaEtmQnlNdDk3OE9DQ053MnQzMzhqSFM1YWpPWURkcFRrUzItSWZEUHd2NW1JNGNsaVVLcDNoYi16TlZLWnpwN3JmVXlZR1dzNUhn"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称已设委员会探索特斯拉SpaceX合并",
-   "title_zh": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
-   "sentiment": 0
   }
  ]
 }
