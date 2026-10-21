@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T18:37:30.100645+00:00",
+ "updated_at": "2026-10-21T18:52:29.501619+00:00",
  "market": {
-  "price": 387.29,
-  "change_pct": 3.63,
+  "price": 386.79,
+  "change_pct": 3.5,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +3.3%"
+     "note": "目标价中位数 $400（15家），隐含空间 +3.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（231条已评分）"
+     "note": "今日新闻情绪 +0.36（233条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $387.29 vs 20日均线 $370.07"
+     "note": "现价 $386.79 vs 20日均线 $370.05"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 46,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 3.3,
-   "ma20": 370.07,
-   "as_of": "2026-10-21T18:37:30.091238+00:00"
+   "implied_upside_pct": 3.4,
+   "ma20": 370.05,
+   "as_of": "2026-10-21T18:52:29.487430+00:00"
   },
-  "pe_ttm": 107.1,
+  "pe_ttm": 107.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.36,
-   "count": 231
+   "count": 233
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9f29b4d4df72",
+   "title": "Watch Musk Says SpaceX, Tesla Merger Makes Sense - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFRYTEJCemRselJjZy1jY1ZoMlZGMTh0RkhEcG1ZMDNsZUd5MmkxdjNNaDcwbktudkFuUFRpb0lndzY3a3libjlUR2F6T2hCZGg0djhpalp1eS1FeVZYWlROTm5jU2VsSW15Ym40VVhoV1k0ZW9wYUNSZHV2REI1aDNHcVBkdkppOUZCSF9BWndFbFR6OV9GRUpIWTE",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-21T18:18:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-21T18:18:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFRYTEJCemRselJjZy1jY1ZoMlZGMTh0RkhEcG1ZMDNsZUd5MmkxdjNNaDcwbktudkFuUFRpb0lndzY3a3libjlUR2F6T2hCZGg0djhpalp1eS1FeVZYWlROTm5jU2VsSW15Ym40VVhoV1k0ZW9wYUNSZHV2REI1aDNHcVBkdkppOUZCSF9BWndFbFR6OV9GRUpIWTE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "0cf852413556",
    "title": "Cold Water: Tesla and SpaceX Merger “Won’t Add Much Value” per Gary Black - Yahoo Finance",
@@ -173,7 +190,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZtcnA1YXFLS0ZERFE2dERIaEYxWlhjeFlJNkVuMk5vNjNjT09HRFJxNFpDaXhTVkFlMHJKeFlSM203Ri1DQ2hlcERWR21jTERMYkRLdV9qaldLQmlyZ184Z2N2cUNWOGlTY3ZSVUE5a1RlRk9EVEFHdkpLYTZGQ1k0cW1MNTY1cVBEUg",
    "source": "The Motley Fool",
    "published_at": "2026-10-21T17:49:38+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -184,13 +201,22 @@
      "name": "The Globe and Mail",
      "published_at": "2026-10-21T18:11:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNzAzVjd5TWpSTnc4d005cHZkZVlpVFdDSTM5akVtOVNwVmtjZnZEaWFtN3FkRnRxbkdLdWhqd2dhSGkzNVlNby16SkZOX0JnNk5UbUtIWm0xUWFKV0w1d29ZZVRHNlVKOG0xTkFTQkJFbmtsZFVMek1mbFJCZXJJbUNwRTFxaS1xQkJzR1h4MklMUE51VHQ0N2NvZ2taekd6MzEtcC02eFF2OEllZ2QxalhDSGlXNzBJc2MxYjZlNGhhVTlvTE8wWV9XRVA0R0Rsa3lkalZHMTBJOVJtWmlURzRvNEt6R01fRDdvSkVR"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T18:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGVBeXhGdlRNbi0wcnRIdy15eHdnZ1ZaWGxnQTMwem42RDZuR084SlVkSjJlMXhyRmRmNFhTcnVrY0RFeXJKaklOaHd2TGJJSnNRc3MwNDVGVHJJLWpyOEptR0duVEVOcVVaRkNlNWgxMi1aLTN0YUU3UEwyeVlsVWoyNlpaSXhfamdMRkpIblludHFjRFFIaA"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "投一万刀于SpaceX和特斯拉2030年值几何",
    "title_zh": "投资SpaceX和特斯拉1万美元到2030年值多少",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.07,
+    "window_h": 1.0
+   }
   },
   {
    "id": "820b29014e23",
@@ -2442,6 +2468,23 @@
    "zh_summary": "马斯克称考虑SpaceX与特斯拉合并",
    "title_zh": "马斯克称SpaceX与特斯拉考虑可能合并",
    "sentiment": 1
+  },
+  {
+   "id": "04e9ab2f2ebf",
+   "title": "Tesla drops out of top 10 ‘most innovative’ EV manufacturers; Mercedes gains ground - electrive.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDd6NUo4UmtCUHhaYy1XSGF3Qk1taS1kQ19BLUpMMDUtZW5LQjJvVE9DQThQd1M4WnM5d1ZqMjhIX0N4ZFBpOW8yZkUyRXFtTl9yNE5vcE1iaVFFWms5QmVfVUlkWW5EXzZTcDBsN3N1Wm9Udk96R2h6R1U5V0JyRWJHQ2hWMXNrb191ZXdIT2J5a3lfbjd1cHd3YWNTel9TZE9EQnZiQnNmMzNzeGIwRU9SVWtwaXNZbmc",
+   "source": "electrive.com",
+   "published_at": "2026-10-21T11:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "electrive.com",
+     "published_at": "2026-10-21T11:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDd6NUo4UmtCUHhaYy1XSGF3Qk1taS1kQ19BLUpMMDUtZW5LQjJvVE9DQThQd1M4WnM5d1ZqMjhIX0N4ZFBpOW8yZkUyRXFtTl9yNE5vcE1iaVFFWms5QmVfVUlkWW5EXzZTcDBsN3N1Wm9Udk96R2h6R1U5V0JyRWJHQ2hWMXNrb191ZXdIT2J5a3lfbjd1cHd3YWNTel9TZE9EQnZiQnNmMzNzeGIwRU9SVWtwaXNZbmc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "32c332d09aa8",
@@ -6393,51 +6436,6 @@
    "session": "盘后",
    "zh_summary": "今日投资者关注5只股票含特斯拉",
    "title_zh": "SpaceX、奈飞、超微、特斯拉、Meta：5只股票为何受关注",
-   "sentiment": 0
-  },
-  {
-   "id": "85ce5299c7d5",
-   "title": "马斯克与杨立昆隔空互怼，图灵奖得主测算特斯拉Roadster有效推力仅5秒 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82QTJOSzcyWmp4XzcwRXZ0Z0FOdGVaaHgyNzR4U2EwVGt6Tm5JNmpmSG5lamJTUnR1ZFdyamg1OEVzLU5ScTA0ZjkxY0hpbzZhVDB3Z21xb0Z5OG90",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-21T01:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-21T01:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82QTJOSzcyWmp4XzcwRXZ0Z0FOdGVaaHgyNzR4U2EwVGt6Tm5JNmpmSG5lamJTUnR1ZFdyamg1OEVzLU5ScTA0ZjkxY0hpbzZhVDB3Z21xb0Z5OG90"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "图灵奖得主称Roadster有效推力仅5秒",
-   "title_zh": "马斯克与杨立昆隔空互怼，图灵奖得主测算特斯拉Roadster有效推力仅5秒",
-   "sentiment": -1
-  },
-  {
-   "id": "650638da0ba5",
-   "title": "特斯拉“能飞” 我们就被甩开了？中国车企稳步前行 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1QXMyNThnTmdMWkwtLWx3QkYwcm9UVlh6T2ZVQjZ2ZzhPMEpabDlmTzRITHp4bG54enE2M3dzUVN4WERtN2hVSlhWLUNmWUdYaWdld0dRRmV5eUlFakZXeW1JcUY1U0U5MEFUbDEtMFo",
-   "source": "中华网",
-   "published_at": "2026-10-21T01:14:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-21T01:14:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1QXMyNThnTmdMWkwtLWx3QkYwcm9UVlh6T2ZVQjZ2ZzhPMEpabDlmTzRITHp4bG54enE2M3dzUVN4WERtN2hVSlhWLUNmWUdYaWdld0dRRmV5eUlFakZXeW1JcUY1U0U5MEFUbDEtMFo"
-    },
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-21T02:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbVA5WUJwODlXeXVGQ0JvWnlGYlBEMjhlSHlUYTFzdXJnekY5NzVwaTNOUFlSOFBTS25YcGhWVFdjRmtLcU91WXIxb3JJZHBkcTZN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "评特斯拉飞行Roadster及中国车企应对",
-   "title_zh": "特斯拉\"能飞\" 我们就被甩开了？中国车企稳步前行 - 中华网",
    "sentiment": 0
   }
  ]
