@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T15:37:29.273135+00:00",
+ "updated_at": "2026-10-21T15:52:28.504116+00:00",
  "market": {
-  "price": 386.43,
-  "change_pct": 3.4,
+  "price": 386.36,
+  "change_pct": 3.38,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（178条已评分）"
+     "note": "今日新闻情绪 +0.36（183条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $386.43 vs 20日均线 $370.03"
+     "note": "现价 $386.36 vs 20日均线 $370.02"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400,
    "target_count": 15,
    "implied_upside_pct": 3.5,
-   "ma20": 370.03,
-   "as_of": "2026-10-21T15:37:29.258838+00:00"
+   "ma20": 370.02,
+   "as_of": "2026-10-21T15:52:28.490720+00:00"
   },
   "pe_ttm": 106.9,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.36,
-   "count": 178
+   "count": 183
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "44336e4c765d",
+   "title": "SpaceX, Tesla merger is 'pretty inevitable,' says Oppenheimer's Horan - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHFuZkdLS1Y3MGVPeG83Y1R1RUQ1amRKcVpnal9sQ1JZRzctT1NNdVEta3hDbzFTUDdacnI0WlZ6Y2RBalZ0T0lDbWRVM3FTWExQLVB6aDlBUmR2NnFEWnBpa0w1cjFkdlloUDkybE9JNUpIWVhpLXRLeWhvTnB0ZTVlN1VBWkZSaXRjd25yV3ZPOEJoVTBjc1Z3SG8zUS10MWgtNDdzbU5xSEU",
+   "source": "CNBC",
+   "published_at": "2026-10-21T15:35:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-21T15:35:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHFuZkdLS1Y3MGVPeG83Y1R1RUQ1amRKcVpnal9sQ1JZRzctT1NNdVEta3hDbzFTUDdacnI0WlZ6Y2RBalZ0T0lDbWRVM3FTWExQLVB6aDlBUmR2NnFEWnBpa0w1cjFkdlloUDkybE9JNUpIWVhpLXRLeWhvTnB0ZTVlN1VBWkZSaXRjd25yV3ZPOEJoVTBjc1Z3SG8zUS10MWgtNDdzbU5xSEU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "1207f8151c0c",
    "title": "Ferrari CEO Gives Tesla Roadster Reveal a Perfect 10 Out of 10 - Autoblog",
@@ -86,6 +103,23 @@
    "zh_summary": "法拉利CEO给特斯拉Roadster揭晓打满分",
    "title_zh": "法拉利CEO给特斯拉Roadster揭晓打出10分满分",
    "sentiment": 1
+  },
+  {
+   "id": "b2286c96dce2",
+   "title": "Will SpaceX and Tesla Merge? Why Musk Thinks It’s a Good Idea - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW5JckxFZzZiQ3B5S1pVREQxQTRmN3hmZ1JGT3ppclMtaEhwUTlCNVBDdXVQajFxSWJnMWx6Z2xzMjNnMWtvb3IteGU1N1BBTE40Y2s3NXJ6a0RxamlPcFlQVFZLOGNIbHVCcUhQUlp3aXpTcThmRlUxaGJqWjFyYUE3WlQ0cFNkUUFPOUNKZ0x0Ry1EUzdtMTQ5UzN6MGx1NHNVdUN1VnF0TlZlQ1pZ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-21T15:28:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-21T15:28:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW5JckxFZzZiQ3B5S1pVREQxQTRmN3hmZ1JGT3ppclMtaEhwUTlCNVBDdXVQajFxSWJnMWx6Z2xzMjNnMWtvb3IteGU1N1BBTE40Y2s3NXJ6a0RxamlPcFlQVFZLOGNIbHVCcUhQUlp3aXpTcThmRlUxaGJqWjFyYUE3WlQ0cFNkUUFPOUNKZ0x0Ry1EUzdtMTQ5UzN6MGx1NHNVdUN1VnF0TlZlQ1pZ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "1335824c99a8",
@@ -126,6 +160,23 @@
    "zh_summary": "特斯拉摄像头帮警方锁定砸车窗男子",
    "title_zh": "特斯拉摄像头协助警方锁定用锤砸车窗的男子",
    "sentiment": 1
+  },
+  {
+   "id": "208f30c25a4e",
+   "title": "Brad Gerstner: Cheaper capital may be key to SpaceX-Tesla merger - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3NnR3c5YUxYS2dlY25PM0FtUldDMm5ZT3RtMno1MUNDMnhOQnVTN1U1bXJVeWxOQWQtd2FtNXAtanZUMnRCcmhMbmVCc09JSmtDRWtvRmQ3VWtUSnBBRXJ1U0sySVBKM256OFRsZ1JoNFR5Wl8xUDlYanZqSzJNeFdMNlZ5VTNJRXB5dV9KNDlyaEIxcUdjbW1lcU5oZ0ZEdU9uWDVzRUlEdw",
+   "source": "CNBC",
+   "published_at": "2026-10-21T15:11:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-21T15:11:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3NnR3c5YUxYS2dlY25PM0FtUldDMm5ZT3RtMno1MUNDMnhOQnVTN1U1bXJVeWxOQWQtd2FtNXAtanZUMnRCcmhMbmVCc09JSmtDRWtvRmQ3VWtUSnBBRXJ1U0sySVBKM256OFRsZ1JoNFR5Wl8xUDlYanZqSzJNeFdMNlZ5VTNJRXB5dV9KNDlyaEIxcUdjbW1lcU5oZ0ZEdU9uWDVzRUlEdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "6632a8f801e8",
@@ -186,6 +237,23 @@
    "zh_summary": "特斯拉Roadster会飞",
    "title_zh": "特斯拉会飞roadster游戏 - 新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "10928fe3030e",
+   "title": "SpaceX’s AI fuels Wall Street optimism; spending, Tesla merger raise concerns (SPCX:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3BRalNTd3lqREVUcFFWTUdVc2hzMkMtWmFxMFZrT2I1SXVkclJIS1ZGcTBWLWd2V3hWZElyS1V4YXc1M2RNWURrQ1Q0b1hCR2hib1d5dkRZbjNBaVlNZHNrVHVHWUphMjJ2Tm9VRmg3VnBQQ1pGV3Q2WWhQVnZNUUNaSTRzQ3RIeTA1OXk5bEFUeGo1UkFDNnM2T2FXSzkwTUp0Y2dQdWNwMnZ6OUp2cTF3",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-21T14:44:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-21T14:44:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3BRalNTd3lqREVUcFFWTUdVc2hzMkMtWmFxMFZrT2I1SXVkclJIS1ZGcTBWLWd2V3hWZElyS1V4YXc1M2RNWURrQ1Q0b1hCR2hib1d5dkRZbjNBaVlNZHNrVHVHWUphMjJ2Tm9VRmg3VnBQQ1pGV3Q2WWhQVnZNUUNaSTRzQ3RIeTA1OXk5bEFUeGo1UkFDNnM2T2FXSzkwTUp0Y2dQdWNwMnZ6OUp2cTF3"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "6b5726dc99dc",
@@ -631,6 +699,23 @@
    "zh_summary": "SpaceX营收增长161%，与特斯拉合并传闻再起",
    "title_zh": "SpaceX营收增长161%股价涨8%，市场热议与特斯拉合并",
    "sentiment": 1
+  },
+  {
+   "id": "91179573a8d8",
+   "title": "SpaceX stock jumps 9% after earnings beat and Musk confirms Tesla merger talks - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzR1UUlQWmI1aG1sVE5Vand1a3M1OHdva2gxWk9BTHAzaDI2NmhHaWFraXFzZ0U1ZmwydEtCNmlqYzlKeDRJcVZkdGpsdWZ0ck1kT1R1c1V2SF9MYkNZNER4N0V4ZVNjMmlpNHhmVjh6MzhTbHZMYXNHajhlXzVsVm1YdHhwRDFObmNjWE56QlJSS2F3QkE",
+   "source": "Business Insider",
+   "published_at": "2026-10-21T13:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-21T13:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzR1UUlQWmI1aG1sVE5Vand1a3M1OHdva2gxWk9BTHAzaDI2NmhHaWFraXFzZ0U1ZmwydEtCNmlqYzlKeDRJcVZkdGpsdWZ0ck1kT1R1c1V2SF9MYkNZNER4N0V4ZVNjMmlpNHhmVjh6MzhTbHZMYXNHajhlXzVsVm1YdHhwRDFObmNjWE56QlJSS2F3QkE"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "3cba50ab624b",
@@ -1720,26 +1805,6 @@
    "session": "盘前",
    "zh_summary": "合并传闻再起，特斯拉三季度财报临近",
    "title_zh": "SpaceX财报重启特斯拉与SpaceX合并传闻",
-   "sentiment": 1
-  },
-  {
-   "id": "feede913811b",
-   "title": "Space X and Tesla exploring merger, CEO Elon Musk says - Axios",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XaEZwTktvd3JhMjAta21YYk9RMW9oUkwzZFRJU0loWjZza3FDQkg3R0M4eS1pSkRXY0pjb2lOWThseTNncHVvU1dUdU5WRnM0V3M2Q1pnSGU4VVRFeVp4dGQxekdLZXNKT1E",
-   "source": "Axios",
-   "published_at": "2026-10-21T11:03:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Axios",
-     "published_at": "2026-10-21T11:03:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XaEZwTktvd3JhMjAta21YYk9RMW9oUkwzZFRJU0loWjZza3FDQkg3R0M4eS1pSkRXY0pjb2lOWThseTNncHVvU1dUdU5WRnM0V3M2Q1pnSGU4VVRFeVp4dGQxekdLZXNKT1E"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克称SpaceX与特斯拉商讨合并",
-   "title_zh": "马斯克称SpaceX和特斯拉正在商讨合并",
    "sentiment": 1
   },
   {
@@ -6447,91 +6512,6 @@
    "session": "盘后",
    "zh_summary": "SpaceX与特斯拉董事会组建委员会评估合并",
    "title_zh": "SpaceX和特斯拉董事会组建特别委员会审查合并",
-   "sentiment": 1
-  },
-  {
-   "id": "b47d5270b9c4",
-   "title": "SpaceX, Tesla Form Independent Committees To Explore Merger: Elon Musk Says Deal ‘Not A Certainty’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdE0wTllrSTdISVlyQlMyZjlqbTNEaDRib0NSTGV0NTVkaHhzZ0d0aTg5TjR2NkV6aVBVRzVLYXRuYlNfbTFXVWgtd1hMWl9DXzRiVEFwcGhOT2FURVVHWUU3ZnNaU2xRVFl3cW5CdnlROUo5eGxOdGxWN0tiM3Q3U0NfU0hRUzdyQXdaQ1NjWHVtYkw3SzN4UUV0VlEwMEJqdmpJcGxSejdCSEphcF8td1dZQjVJMEFTbXh2TEdmekZlODRYallja3dCRXlRTW9VN0kxelBvQlhSdU85UE5na3RKWUFPM1lVcWNDTmJfZkI",
-   "source": "Stocktwits",
-   "published_at": "2026-10-20T22:56:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-20T22:56:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdE0wTllrSTdISVlyQlMyZjlqbTNEaDRib0NSTGV0NTVkaHhzZ0d0aTg5TjR2NkV6aVBVRzVLYXRuYlNfbTFXVWgtd1hMWl9DXzRiVEFwcGhOT2FURVVHWUU3ZnNaU2xRVFl3cW5CdnlROUo5eGxOdGxWN0tiM3Q3U0NfU0hRUzdyQXdaQ1NjWHVtYkw3SzN4UUV0VlEwMEJqdmpJcGxSejdCSEphcF8td1dZQjVJMEFTbXh2TEdmekZlODRYallja3dCRXlRTW9VN0kxelBvQlhSdU85UE5na3RKWUFPM1lVcWNDTmJfZkI"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-20T22:56:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3pDbEhxTy1jNGUyVUFIclRGbjVvLVpyTUhCTDhMZWM3Z29PLTh3azJ4U3lrYkhLSHVDTHdHUWx3aGdaemw2Q0x5cW5VYWV1a3pLWUlLYi1ZemxIRTdhQWstSGJ2Rkdma2cwTVhFM0M3SVZFaGRrMkZJamozazZ0SWpsem8zWlhvXzFQNHI2Z29ETXdEaWpNeDZtOW1XSV9sbFVTdEVSbXM"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "两公司成立独立委员会探讨合并",
-   "title_zh": "SpaceX与特斯拉成立委员会探讨合并，马斯克称并非板上钉钉",
-   "sentiment": 0
-  },
-  {
-   "id": "7ca0a0a72bb1",
-   "title": "Elon Musk says Tesla and SpaceX are weighing a $3.5 trillion merger—without him in the room - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUThSVkMzVThmclNyYmRobWM3NURJYmt1THZJTHhab2Y1LUNJckxJb1hpOGI3eU1QZ3A3d0ZSVzFfamRRYm51UFg5dVV2V3lQRkxnUjRJOUllbXJFcHBkdi1nOEJ4bFduQzZLYkQzWHphUk91ZFV6MzRDcWtJU00",
-   "source": "Fortune",
-   "published_at": "2026-10-20T22:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fortune",
-     "published_at": "2026-10-20T22:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUThSVkMzVThmclNyYmRobWM3NURJYmt1THZJTHhab2Y1LUNJckxJb1hpOGI3eU1QZ3A3d0ZSVzFfamRRYm51UFg5dVV2V3lQRkxnUjRJOUllbXJFcHBkdi1nOEJ4bFduQzZLYkQzWHphUk91ZFV6MzRDcWtJU00"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "特斯拉与SpaceX考虑3.5万亿美元合并",
-   "title_zh": "马斯克称特斯拉与SpaceX正考虑3.5万亿美元合并—他不在场讨论",
-   "sentiment": 1
-  },
-  {
-   "id": "818c791ee822",
-   "title": "Mate Rimac Thought About Using Tesla Roadster-Style Thrusters Way Back In 2019 - Jalopnik",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2RUNlBQOTI4R3dMamwwc2UtNXk0cmZJZ25ZZFE2dWhCZkRwVXdUQlZIZTFsalByUmc2SFhYZ2NQclFWbEZ1ekR5Wlpfd05WdHJmR1l1TkJmdk4tLUtZM0syQm03aTNYcUI2dmZlNUZ0M1VRbllxR3dxdFZObDRpODhqVmxWalRfWDVLeGlfLUVjLXdzUE9OeFp2amQ1Y3A5OWc",
-   "source": "Jalopnik",
-   "published_at": "2026-10-20T22:45:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Jalopnik",
-     "published_at": "2026-10-20T22:45:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2RUNlBQOTI4R3dMamwwc2UtNXk0cmZJZ25ZZFE2dWhCZkRwVXdUQlZIZTFsalByUmc2SFhYZ2NQclFWbEZ1ekR5Wlpfd05WdHJmR1l1TkJmdk4tLUtZM0syQm03aTNYcUI2dmZlNUZ0M1VRbllxR3dxdFZObDRpODhqVmxWalRfWDVLeGlfLUVjLXdzUE9OeFp2amQ1Y3A5OWc"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "RimacCEO曾考虑Roadster式推进器",
-   "title_zh": "RimacCEO早在2019年就考虑过Roadster式推进器",
-   "sentiment": 0
-  },
-  {
-   "id": "ad8a2ac456d4",
-   "title": "SpaceX stock soars on blowout earnings that see revenue surge 161% — as Musk talks Tesla merger - New York Post",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVdIOFUwV1dxSDhGSzJ2RmhtRGVvU29XZjFsVUI0NV9jQS1odkxnT1pjNExtb2kyb0piN3U5eGFJbmFIRGJJRlptVzVLZWpZcUJPbVZuRHFIV2I4U0o3RG0zMTJUYWgySzBkbTZod0FTZzRvWE5iYm1NVlkzODcxZkt0UHVCVV9KamhwRVcyMmJueldwaU1hY2pQVVBVQXc1cjAzc1NqMFpzUGdlUXRDLUFrMTd5R3kxbWlOMjBEbXNWRlhEd1BPYXMxSnY",
-   "source": "New York Post",
-   "published_at": "2026-10-20T22:42:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "New York Post",
-     "published_at": "2026-10-20T22:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVdIOFUwV1dxSDhGSzJ2RmhtRGVvU29XZjFsVUI0NV9jQS1odkxnT1pjNExtb2kyb0piN3U5eGFJbmFIRGJJRlptVzVLZWpZcUJPbVZuRHFIV2I4U0o3RG0zMTJUYWgySzBkbTZod0FTZzRvWE5iYm1NVlkzODcxZkt0UHVCVV9KamhwRVcyMmJueldwaU1hY2pQVVBVQXc1cjAzc1NqMFpzUGdlUXRDLUFrMTd5R3kxbWlOMjBEbXNWRlhEd1BPYXMxSnY"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "SpaceX财报营收大增161%马斯克谈特斯拉合并",
-   "title_zh": "SpaceX财报营收暴增161%，马斯克谈特斯拉合并",
    "sentiment": 1
   }
  ]
