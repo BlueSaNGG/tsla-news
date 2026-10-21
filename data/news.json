@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T05:37:47.051638+00:00",
+ "updated_at": "2026-10-21T05:52:27.379473+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.35（294条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T05:37:47.038192+00:00"
+   "as_of": "2026-10-21T05:52:27.362543+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.35,
-   "count": 294
+   "avg": 1.0,
+   "count": 1
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "07e52a7ad1a6",
+   "title": "【视频】特斯拉“飞车”：一场炫技背后的产业裂痕与资本清醒 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQWhKZlJOeUpiNW90Z3loYTNfSjZRVEc2MHFfeUpKbFQ1TUtJN2RjUUpXMU1kY3BLQVhvY29qTmgyMDhaVWRwRTlCN1hsMC1xS2lpR3BZNDdrTWs",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T05:49:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T05:49:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQWhKZlJOeUpiNW90Z3loYTNfSjZRVEc2MHFfeUpKbFQ1TUtJN2RjUUpXMU1kY3BLQVhvY29qTmgyMDhaVWRwRTlCN1hsMC1xS2lpR3BZNDdrTWs"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "14c763e13d0a",
+   "title": "【视频】特斯拉Cybercab无人驾驶运营会是新的技术革命吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TS1xd3F2YWtTTzFWWFlITU1HU19TaVFiZDRkU2gweWxzcXFPUzg2VXJwcW8xWVVzaTBBVklycmxpS0lhZWNSY3NBQ1l2RThMQXRPeHdldTJfaEE",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T05:45:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T05:45:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TS1xd3F2YWtTTzFWWFlITU1HU19TaVFiZDRkU2gweWxzcXFPUzg2VXJwcW8xWVVzaTBBVklycmxpS0lhZWNSY3NBQ1l2RThMQXRPeHdldTJfaEE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
+   "id": "c32d739cb713",
+   "title": "Watch SpaceX 3Q Earnings Beat, SpaceX and Tesla Discuss Potential Merger - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVVyNUxTTnI1OF9SRnJJNGs5Q3ZQMk5xTUU3V2Nib1BKbGUycGV2OEFSb3cyUzluVW1kcEpHSjlZZlNTc1ZSYlJDNUV5aGZncTA3a0s3a2dLNjdxeWNwQk4tUDIxZ2ZyS1dzMTNfMmExbFVUMEUzWnJxWWFfc1F1NTdaY0R5RWM",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-21T05:29:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-21T05:29:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVVyNUxTTnI1OF9SRnJJNGs5Q3ZQMk5xTUU3V2Nib1BKbGUycGV2OEFSb3cyUzluVW1kcEpHSjlZZlNTc1ZSYlJDNUV5aGZncTA3a0s3a2dLNjdxeWNwQk4tUDIxZ2ZyS1dzMTNfMmExbFVUMEUzWnJxWWFfc1F1NTdaY0R5RWM"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "c8abf1634f7f",
    "title": "【视频】九月纯电销量榜出炉，特斯拉Y破五万夺冠，星愿冲到第二 - 汽车之家",
@@ -146,6 +197,23 @@
    "zh_summary": "Roadster搭载最强高压电池包",
    "title_zh": "特斯拉Roadster搭载迄今最强高压电池包",
    "sentiment": 1
+  },
+  {
+   "id": "0e73399f0e24",
+   "title": "【视频】特斯拉车主睡着撞警车？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MXlzYlpQZGlHWlIzYi1YWjh1ZFFLU3FaNDVTWVMzeWRNZFcyLXROcUV0SzFYZWlLM1ZTYWRET1dDVTE3cklaN2xhQnlTbWVJcHdrQXRpQVhub3M",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T04:48:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T04:48:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MXlzYlpQZGlHWlIzYi1YWjh1ZFFLU3FaNDVTWVMzeWRNZFcyLXROcUV0SzFYZWlLM1ZTYWRET1dDVTE3cklaN2xhQnlTbWVJcHdrQXRpQVhub3M"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "46725c363f1b",
@@ -671,6 +739,23 @@
    "zh_summary": "特斯拉与SpaceX合并或缔造3.5万亿巨头",
    "title_zh": "马斯克称特斯拉与SpaceX合并或缔造3.5万亿美元巨头，背后原因与风险并存",
    "sentiment": 0
+  },
+  {
+   "id": "a0cbebc6e8ba",
+   "title": "马斯克重磅表态！特斯拉 ×SpaceX 评估合并，一场横跨天地的科技联姻 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSmRyWE1KZWVuSlpHQVVOdlJaenQ4dzI0S0ZubFhBR1NzQTlmbHNoOEd5aGtEWVpJYWNSY1FDeGNRT20zOUtKcWx0dDRVeVJuZFJCZFNIZzFnb014YUJoODJURWZTb05HNjdwWkx2MlpzTC16NWFPczFMc0cyVEFsTWhhV1BydTZtNHNXTw",
+   "source": "搜狐",
+   "published_at": "2026-10-21T03:06:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T03:06:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSmRyWE1KZWVuSlpHQVVOdlJaenQ4dzI0S0ZubFhBR1NzQTlmbHNoOEd5aGtEWVpJYWNSY1FDeGNRT20zOUtKcWx0dDRVeVJuZFJCZFNIZzFnb014YUJoODJURWZTb05HNjdwWkx2MlpzTC16NWFPczFMc0cyVEFsTWhhV1BydTZtNHNXTw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "b91a5b703282",
@@ -1556,6 +1641,23 @@
    "zh_summary": "美股期货：AI股因SpaceX大涨",
    "title_zh": "道指期货：AI股因SpaceX、超微大涨；特斯拉、Meta待发 - IBD",
    "sentiment": 1
+  },
+  {
+   "id": "c3efc12fe429",
+   "title": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T00:23:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T00:23:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4241eeb4f803",
@@ -6495,131 +6597,6 @@
    "zh_summary": "特斯拉股价涨3.8%至368美元",
    "title_zh": "特斯拉财报前能涨多高？TSLA涨3.8%至$368",
    "sentiment": 1
-  },
-  {
-   "id": "f4386c6b511b",
-   "title": "特斯拉Roadster会飞就无敌了？所有人都盯着监管踢皮球，真正该担心的问题其实是这两个字——“量产” - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdEc4SXExRHVpTGUwV3VzOUhRZWszbHBMUmxfY0VrREplWG55c1hSN3BCOV9JaVZzSEhSd2NFQ2VaaGtlejNJeUhuTGdmSGZIME1HM3kzVFY5aWc",
-   "source": "网通社",
-   "published_at": "2026-10-20T09:42:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-20T09:42:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdEc4SXExRHVpTGUwV3VzOUhRZWszbHBMUmxfY0VrREplWG55c1hSN3BCOV9JaVZzSEhSd2NFQ2VaaGtlejNJeUhuTGdmSGZIME1HM3kzVFY5aWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster飞行版量产成疑引讨论",
-   "title_zh": "特斯拉Roadster会飞就无敌了？所有人都盯着监管踢皮球，真正该担心的问题其实是这两个字——“量产”",
-   "sentiment": 0
-  },
-  {
-   "id": "616da40badaa",
-   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
-   "source": "财联社",
-   "published_at": "2026-10-20T09:40:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-20T09:40:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "财报会：押注机器人、自动驾驶与储能",
-   "title_zh": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
-   "sentiment": 1
-  },
-  {
-   "id": "261b5b7966fc",
-   "title": "Tesla Model 3 Screen Resolution Jumps 60% [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZUG92d21sVnpDNkdVcHZaRUFpSURsUnNqUGtPUVJQNlZVb0FCcHhsMmxHM2hKalo5SENwRUl0ZkdZQkpFR0VJZy1lMHdkZjN5U3dWWE5zdExJaEpsRGhDUW1CWk5OVF9tZm05aVZSQjM4MXgySEE",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-20T09:24:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-20T09:24:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZUG92d21sVnpDNkdVcHZaRUFpSURsUnNqUGtPUVJQNlZVb0FCcHhsMmxHM2hKalo5SENwRUl0ZkdZQkpFR0VJZy1lMHdkZjN5U3dWWE5zdExJaEpsRGhDUW1CWk5OVF9tZm05aVZSQjM4MXgySEE"
-    },
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-20T09:24:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZUG92d21sVnpDNkdVcHZaRUFpSURsUnNqUGtPUVJQNlZVb0FCcHhsMmxHM2hKalo5SENwRUl0ZkdZQkpFR0VJZy1lMHdkZjN5U3dWWE5zdExJaEpsRGhDUW1CWk5OVF9tZm05aVZSQjM4MXgySEE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Model 3车机屏幕分辨率提升60%",
-   "title_zh": "特斯拉Model 3屏幕分辨率提升60%",
-   "sentiment": 1
-  },
-  {
-   "id": "8f97dd5c5a4b",
-   "title": "Marques Brownlee shares his honest reaction to the new Tesla Roadster after he canceled his $50K deposit due to 8-year wait - Supercar Blondie",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZC1pVXF0a0p1SDBUTzdtbV9DckNieTFwM2phWjRGUEFfM056Z3pLaFRqREgwWktFYkgzZHRabXF3V3ZOX2ZqVFNsY2FSdEpBZVVHS1NtR1p0bjFkelZVeGJLV0xiV1ZWMEhXM0Iwd0ttYVhYMHNxMVZiLUJwRjAtdjd3",
-   "source": "Supercar Blondie",
-   "published_at": "2026-10-20T09:21:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Supercar Blondie",
-     "published_at": "2026-10-20T09:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZC1pVXF0a0p1SDBUTzdtbV9DckNieTFwM2phWjRGUEFfM056Z3pLaFRqREgwWktFYkgzZHRabXF3V3ZOX2ZqVFNsY2FSdEpBZVVHS1NtR1p0bjFkelZVeGJLV0xiV1ZWMEhXM0Iwd0ttYVhYMHNxMVZiLUJwRjAtdjd3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Brownlee取消Roadster定金后分享体验",
-   "title_zh": "Brownlee取消Roadster定金后分享对新车型的真实看法",
-   "sentiment": -1
-  },
-  {
-   "id": "e61692148817",
-   "title": "ARK’s Expected Share Price For Tesla In 2031 - Ark Invest",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDlUSGZnZERMbEpsZl9LdzM4a04taHFWa1hFTjlOX0p4TzJ2TV9FRVhDazZIei1DUmUtMVBYajBhdmhPcU9TV0wwbDVKcWh0cnBfMkF5YnVLSk56OXlpaDRrcElIYkwwRGtpMkMzZmFLYjVkaGRLLVIycUtoMGhyamI1QllZbTdDTlBLQjlXVl9YQXo2dEtZag",
-   "source": "Ark Invest",
-   "published_at": "2026-10-20T09:12:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ark Invest",
-     "published_at": "2026-10-20T09:12:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDlUSGZnZERMbEpsZl9LdzM4a04taHFWa1hFTjlOX0p4TzJ2TV9FRVhDazZIei1DUmUtMVBYajBhdmhPcU9TV0wwbDVKcWh0cnBfMkF5YnVLSk56OXlpaDRrcElIYkwwRGtpMkMzZmFLYjVkaGRLLVIycUtoMGhyamI1QllZbTdDTlBLQjlXVl9YQXo2dEtZag"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "ARK展望特斯拉2031年股价",
-   "title_zh": "ARK对特斯拉2031年预期股价",
-   "sentiment": 0
-  },
-  {
-   "id": "6c4f57cb31a3",
-   "title": "【视频】特斯拉ModelY 2022款长续航全轮驱动版5万多公里 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX01CX3BodmxmaENZeDhXWXFPaks3WkJFZlRpNlFqRmhMQWJDTnh1bl9vUTFUcGlVdkQxVEJpaUZJaXY1Ml9kNXEzWFNvazdBYi1tbC1FSlpUZTg",
-   "source": "汽车之家",
-   "published_at": "2026-10-20T08:59:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-20T08:59:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VX01CX3BodmxmaENZeDhXWXFPaks3WkJFZlRpNlFqRmhMQWJDTnh1bl9vUTFUcGlVdkQxVEJpaUZJaXY1Ml9kNXEzWFNvazdBYi1tbC1FSlpUZTg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉ModelY长续航版5万公里",
-   "title_zh": "【视频】特斯拉ModelY 2022款长续航全轮驱动版5万多公里 - 汽车之家",
-   "sentiment": 0
   }
  ]
 }
