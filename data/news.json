@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T01:22:32.267750+00:00",
+ "updated_at": "2026-10-21T01:37:30.385819+00:00",
  "market": {
   "price": 373.71,
   "change_pct": 1.54,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（280条已评分）"
+     "note": "今日新闻情绪 +0.30（288条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 7.0,
    "ma20": 369.71,
-   "as_of": "2026-10-21T01:22:32.256777+00:00"
+   "as_of": "2026-10-21T01:37:30.373672+00:00"
   },
   "pe_ttm": 103.4,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.3,
-   "count": 280
+   "count": 288
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3be5ead9e12e",
+   "title": "特斯拉Roadster带10推进器飞行 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Halc3OUNrSFFKUllwZ1BDN3FOSllTSEpMaUZfSmgzRlprTHZPckVyeG13a19QSm93ZDdhNG5sWU04YnRyVVF6NjNqVGJNanU1NUc2QTFwTXJHbVU",
+   "source": "汽车之家",
+   "published_at": "2026-10-21T01:30:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-21T01:30:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Halc3OUNrSFFKUllwZ1BDN3FOSllTSEpMaUZfSmgzRlprTHZPckVyeG13a19QSm93ZDdhNG5sWU04YnRyVVF6NjNqVGJNanU1NUc2QTFwTXJHbVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "8f55386f3f8c",
+   "title": "SpaceX, Netflix, Super Micro Computer, Tesla and Meta: Why These 5 Stocks Are on Investors' Radars Today - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3NqYlJieDVUMVBzaDBITVNZUWxOSWtCQ0dVMmFIN0p5am5XQTM2VzZwWHlLYW40OUg5RXhqU282d01hbElZay1lcXFUeFJUalZCSnFHWjhpRWRWaUNuQTU3LWJLcDVfQlZGNy1BeHg5QkREZXZpTmx0cVd3S2NwZXA2R0pVaFhKRHlUVGsxeEF2c3gwZUwwb3Y1aHpVOWxVWEtzRFV5Q1JSSDVfbWdhc2RfVDdjQXFialRRR2cyalMxMldiS3hCVXFRcVBHaFY3Zm9IbkVWc3hUejJ3MnVrWC1YcjZqcUVjS3VESw",
+   "source": "Benzinga",
+   "published_at": "2026-10-21T01:21:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-21T01:21:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3NqYlJieDVUMVBzaDBITVNZUWxOSWtCQ0dVMmFIN0p5am5XQTM2VzZwWHlLYW40OUg5RXhqU282d01hbElZay1lcXFUeFJUalZCSnFHWjhpRWRWaUNuQTU3LWJLcDVfQlZGNy1BeHg5QkREZXZpTmx0cVd3S2NwZXA2R0pVaFhKRHlUVGsxeEF2c3gwZUwwb3Y1aHpVOWxVWEtzRFV5Q1JSSDVfbWdhc2RfVDdjQXFialRRR2cyalMxMldiS3hCVXFRcVBHaFY3Zm9IbkVWc3hUejJ3MnVrWC1YcjZqcUVjS3VESw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "650638da0ba5",
    "title": "特斯拉“能飞” 我们就被甩开了？中国车企稳步前行 - 中华网",
@@ -373,6 +407,23 @@
    "sentiment": 1
   },
   {
+   "id": "2306e2ced789",
+   "title": "Musk's Tesla and SpaceX explore merger as space firm's profit surges - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHFNUWlEb0hWcjNZN2xGQ0w2Zy0wN0xQcTBFTUFmUFNPT21MRFVSVWFEU1poVWoyUjQwaVJwR2h1eThMMkM0MXRPazFkT2NRLVdrblBiZzBFSFRNeGZsTHhtLS0yUk1CQ0FnSGwyQ2ZZSjBQQkRHaHdCb3lYNmo5eHlpR2xjdk43SEFqWTY1UEJfRUY0YThDbi1n",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T00:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T00:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHFNUWlEb0hWcjNZN2xGQ0w2Zy0wN0xQcTBFTUFmUFNPT21MRFVSVWFEU1poVWoyUjQwaVJwR2h1eThMMkM0MXRPazFkT2NRLVdrblBiZzBFSFRNeGZsTHhtLS0yUk1CQ0FnSGwyQ2ZZSjBQQkRHaHdCb3lYNmo5eHlpR2xjdk43SEFqWTY1UEJfRUY0YThDbi1n"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
    "id": "8fdf90e87c0e",
    "title": "Musk Backs Tesla-SpaceX Merger as SpaceX Nets $4.4B [2026] - https://tech-insider.org/",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wRHJJd1dSRWVZekZMTjNSNFVsTGVXY0poZDNSOGhrRkExVy1HRnFjM2g5Mko1OHZPQzg4Nk9zcXg0OUZScUQ2aF95dTBncTFCMVVJT1Q2TGJLYmFwblJTTDVrMm8wdUl0ekxDVWxuUHpTU3hvVC00VUxR",
@@ -513,24 +564,21 @@
    "sentiment": 1
   },
   {
-   "id": "47e18a5c58a9",
-   "title": "Musk says SpaceX and Tesla are exploring blockbuster merger deal - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1ljLWpCc2pVR0FvNUlOQzRwSEdYamItTGpPT3R6dkxlQ1phMGhlNHZya3BjUGd1U2xxWXZzYVFsRHYyeFVIWmtuajQycG9qZW9neG1lekpMbHY3YlRYRjBCaTZEZkVoS3BRSUlIODlmV3pmVkg3NmlSakJxc2VHdmtUb2RGbHoxeEJLVFJtcnVxd2dEMG9qdjFrNy1kZGNRNHczMC14UW56T2QwRXFLOXBGbW1oczhhZ2pjc2FXZ2tmZ1dGb3UwV285bksxQdIBzgFBVV95cUxPdWFCckU3ZWhfZXJwc04td3dHOVpxb1BtNmtIU0tBcVhsZkI5TVlFUUxxWmY0S2l1Z0txT2thU3FuMWlLa2RJaTNBX0FWd0JyeGZFN2ltZFNOazYyUUVQVWptelFLVG5lbzlGQlJLVklhVk43WF9RUVE3Vk9VNVIzdFozQ0VpLWFoMVNTRklqTDNSeVZDNjJ0S0RYa0c3SzdaQ3JvVDdVckFHUDdRbThPYjJ0NlpxcWRrWFdaTmhnOTluY1d4R2hua1R6aHN4QQ",
-   "source": "South China Morning Post",
-   "published_at": "2026-10-20T23:35:28+00:00",
+   "id": "6562f61f4f68",
+   "title": "特斯拉Roadster带10推进器，中国专利占全球35.6% - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CZmUyeENpWlZueFh1UmJheHJ4aEdhejBQNGI4ajdHVDk2VDlvQTFQSWhtM2NJVHFaam9NUXVYaFRBcWMyaWJnMkdhRVJ4dTR6N2VPbzljZXJ0dkE",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T23:35:10+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "South China Morning Post",
-     "published_at": "2026-10-20T23:35:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1ljLWpCc2pVR0FvNUlOQzRwSEdYamItTGpPT3R6dkxlQ1phMGhlNHZya3BjUGd1U2xxWXZzYVFsRHYyeFVIWmtuajQycG9qZW9neG1lekpMbHY3YlRYRjBCaTZEZkVoS3BRSUlIODlmV3pmVkg3NmlSakJxc2VHdmtUb2RGbHoxeEJLVFJtcnVxd2dEMG9qdjFrNy1kZGNRNHczMC14UW56T2QwRXFLOXBGbW1oczhhZ2pjc2FXZ2tmZ1dGb3UwV285bksxQdIBzgFBVV95cUxPdWFCckU3ZWhfZXJwc04td3dHOVpxb1BtNmtIU0tBcVhsZkI5TVlFUUxxWmY0S2l1Z0txT2thU3FuMWlLa2RJaTNBX0FWd0JyeGZFN2ltZFNOazYyUUVQVWptelFLVG5lbzlGQlJLVklhVk43WF9RUVE3Vk9VNVIzdFozQ0VpLWFoMVNTRklqTDNSeVZDNjJ0S0RYa0c3SzdaQ3JvVDdVckFHUDdRbThPYjJ0NlpxcWRrWFdaTmhnOTluY1d4R2hua1R6aHN4QQ"
+     "name": "汽车之家",
+     "published_at": "2026-10-20T23:35:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CZmUyeENpWlZueFh1UmJheHJ4aEdhejBQNGI4ajdHVDk2VDlvQTFQSWhtM2NJVHFaam9NUXVYaFRBcWMyaWJnMkdhRVJ4dTR6N2VPbzljZXJ0dkE"
     }
    ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称SpaceX与特斯拉探讨合并",
-   "title_zh": "马斯克称SpaceX与特斯拉正探讨重大合并交易",
-   "sentiment": 0
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "34ecf97af72f",
@@ -1224,6 +1272,23 @@
    "sentiment": 1
   },
   {
+   "id": "43896650b090",
+   "title": "Tesla, SpaceX set up committees for merger talks - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0ZXdTcxRkpIZWZpYlRJM2p2RHctX0VWaFprdWYyYmhpZFkxVk8xM1JkWHZGV0hwZ3pnRTN2OG0wTnRMRk01Y2ttejhDNnpYQ0lYS2lhTHhObDk4Um90U3Z0M3ctbGtBU3p2UDNnOFFDU1h4M3BWRXFFWDM3RnZqTzcwMmlQVUloWkZvRXM0UDk0T1MzdFBr",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-20T21:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-20T21:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0ZXdTcxRkpIZWZpYlRJM2p2RHctX0VWaFprdWYyYmhpZFkxVk8xM1JkWHZGV0hwZ3pnRTN2OG0wTnRMRk01Y2ttejhDNnpYQ0lYS2lhTHhObDk4Um90U3Z0M3ctbGtBU3p2UDNnOFFDU1h4M3BWRXFFWDM3RnZqTzcwMmlQVUloWkZvRXM0UDk0T1MzdFBr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "b9fc8f5e6346",
    "title": "SpaceX-Tesla merger? Musk speaks on 'tap-dancing through a minefield' - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWExibkNMSmFqS0hwakdGaUxzd3c0bUhJeExNVVVSaEpUQTVhSmI2ZDJENGZMeDBxUFRXM3RZUDl1cEhIYjc5SFpCbVZ2a1BfSy05anR5cXRCZm5JODlqcXRQN2dsdF9qVnVXc0duTTFpM195dVJWU3psT3BibVNMc0pEZFhkX2FVbE5XeFhiSWdadHRBRlJDTzYtbEVsOWVuZjFidUpkQ19VSVB3VFZ5X1Q4Zw",
@@ -1302,6 +1367,23 @@
    "zh_summary": "SpaceX与特斯拉成立特别委员会",
    "title_zh": "SpaceX与特斯拉成立特别委员会，探讨合并可能性 - 富途牛牛",
    "sentiment": 2
+  },
+  {
+   "id": "14d846e8f284",
+   "title": "一财主播说| 特斯拉Roadster \"飞”了 中国官网开放预订 - 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnBEdV9KWm93ZEtRbFU3V3VvbUstTFlyR2s5bmZGYWxTNk0yRE1PUTFOQWoyXzVpbFg4SVZvbHU3MVdPay03cDc3bkpFai1nVEN6VQ",
+   "source": "第一财经",
+   "published_at": "2026-10-20T21:52:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-20T21:52:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWnBEdV9KWm93ZEtRbFU3V3VvbUstTFlyR2s5bmZGYWxTNk0yRE1PUTFOQWoyXzVpbFg4SVZvbHU3MVdPay03cDc3bkpFai1nVEN6VQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "822ac20613ca",
@@ -1522,6 +1604,36 @@
    "zh_summary": "马斯克称特斯拉正讨论与SpaceX合并",
    "title_zh": "马斯克称特斯拉正与SpaceX讨论可能的合并",
    "sentiment": 1
+  },
+  {
+   "id": "6931c9a2e3f1",
+   "title": "Musk Says SpaceX and Tesla Have Begun Exploring a Merger - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNVazdNMUxLOVRTWXdZSW0xVjNCQUtRZHdMckNxbktTTFNIN3Q0Wlh4OU52ai1TUHBjdjJkWjFQRjhwNkFoQTVYVV9ZYVJzbHZOY3RyR3FvS3V1c1ZfNTJZQW1CelNVY1UycFRtX0tmRDlfNnFMZzZ5dFVMZzNscDdjRzlMYXdtRkhLM2JKWk1yRjhPZUVHaGpsejF3WlcyUFFfNXBuWlc0MTVmZnJRUjEzWUE",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-20T21:27:24+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-20T21:27:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNVazdNMUxLOVRTWXdZSW0xVjNCQUtRZHdMckNxbktTTFNIN3Q0Wlh4OU52ai1TUHBjdjJkWjFQRjhwNkFoQTVYVV9ZYVJzbHZOY3RyR3FvS3V1c1ZfNTJZQW1CelNVY1UycFRtX0tmRDlfNnFMZzZ5dFVMZzNscDdjRzlMYXdtRkhLM2JKWk1yRjhPZUVHaGpsejF3WlcyUFFfNXBuWlc0MTVmZnJRUjEzWUE"
+    },
+    {
+     "name": "South China Morning Post",
+     "published_at": "2026-10-20T23:35:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1ljLWpCc2pVR0FvNUlOQzRwSEdYamItTGpPT3R6dkxlQ1phMGhlNHZya3BjUGd1U2xxWXZzYVFsRHYyeFVIWmtuajQycG9qZW9neG1lekpMbHY3YlRYRjBCaTZEZkVoS3BRSUlIODlmV3pmVkg3NmlSakJxc2VHdmtUb2RGbHoxeEJLVFJtcnVxd2dEMG9qdjFrNy1kZGNRNHczMC14UW56T2QwRXFLOXBGbW1oczhhZ2pjc2FXZ2tmZ1dGb3UwV285bksxQdIBzgFBVV95cUxPdWFCckU3ZWhfZXJwc04td3dHOVpxb1BtNmtIU0tBcVhsZkI5TVlFUUxxWmY0S2l1Z0txT2thU3FuMWlLa2RJaTNBX0FWd0JyeGZFN2ltZFNOazYyUUVQVWptelFLVG5lbzlGQlJLVklhVk43WF9RUVE3Vk9VNVIzdFozQ0VpLWFoMVNTRklqTDNSeVZDNjJ0S0RYa0c3SzdaQ3JvVDdVckFHUDdRbThPYjJ0NlpxcWRrWFdaTmhnOTluY1d4R2hua1R6aHN4QQ"
+    },
+    {
+     "name": "Al Jazeera",
+     "published_at": "2026-10-21T01:20:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU243RkVBQWVFdGFFXzBXdG16SC1jZUt6Ukl6SE4yekNoMXBVSDFPLTNTbGd3Q2VMeThMeFA5a1ZLOHhSWFA0cmp1ZDU0RTUwa013b0dUTjlWVHZZN0s4ODVmZXFKeHBKNExrSGxYbC1OSE12cmRwX01zRFRfeHlKVElOYVJVLTE4SVN2QnJzYWdoR1hKZVhCeDBRenVfczg10gGmAUFVX3lxTE9mY2kzTDRBRDROV1BhOW1HMGVFRFRjZHMybnNlZFNWUVMzRVFiTGI5eHNGVnRKa3NTMDIwTTVSYk5qN3REVjc0b0FDWFNreEozbm5tdlZvdU8teFJvQy1UdHpaZlRNS3lIR0dZUHhoVVRucVMydkxpZmNtMmdQZEQxUXNGeUxYUVhuaS1Rb1NETDQ2V3ZiblA2UUM5UUxsU2MyVTFBWUE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后",
+   "zh_summary": "马斯克称SpaceX与特斯拉探讨合并",
+   "title_zh": "马斯克称SpaceX与特斯拉正探讨重大合并交易",
+   "sentiment": 0
   },
   {
    "id": "b28d50cb9de7",
@@ -2084,12 +2196,17 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbU1tM1V3NnBuZHZOOElscTJOQVlaX2JrVlpLdXRVT3gwcFp1SGpZaXg0cFdaMnZWd0ZCQVBaMGF0Y1hDeVVwaWRfNTVaYjh1bHIzQWRSUlp1cUsyeEQtOVdDTlRZMGxoXzVtUFZzOG5ZYXlZRnpZeE5NenY5UF9iaVRtcXhDVWY2QmpUZ294MHp5dDJLV0VvYlgzLVhwbktUVkE",
    "source": "Barchart.com",
    "published_at": "2026-10-20T18:28:47+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barchart.com",
      "published_at": "2026-10-20T18:28:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbU1tM1V3NnBuZHZOOElscTJOQVlaX2JrVlpLdXRVT3gwcFp1SGpZaXg0cFdaMnZWd0ZCQVBaMGF0Y1hDeVVwaWRfNTVaYjh1bHIzQWRSUlp1cUsyeEQtOVdDTlRZMGxoXzVtUFZzOG5ZYXlZRnpZeE5NenY5UF9iaVRtcXhDVWY2QmpUZ294MHp5dDJLV0VvYlgzLVhwbktUVkE"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T18:28:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObkVmcldyNW05cFdMbDFsNWlvbE1LSzk3NDhHb0xfRWlSN0NJdGs4QS1SX1h0UGNUaW13eHk4aXM0OEgtdWJZZU00WF9NYWhCejM0Z2NhV0xFUnZEVHd4akxIOUtzWGx6LWM5Z1BzbXhMZTV0X3kydmdaQ1FaS28zeDZ0WmVtcXVEYnJ1QnhMUVRTTC12NHc"
     }
    ],
    "category": "其他",
@@ -6409,136 +6526,6 @@
    "zh_summary": "Roadster零百0.59秒，股价跌2.13%",
    "title_zh": "特斯拉Roadster零百0.59秒，股价收跌2.13% - 汽车之家",
    "sentiment": -1
-  },
-  {
-   "id": "9c0ee0655c5e",
-   "title": "特斯拉飞行汽车发布会后AI场景涌现 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVFhVVhpSk9lTTFDbk5NN0VBMlRrMDlNUnhiT0hSX2ZwZkdaS295bTVQMjBHRThFOWNvaHE4YXFUNW93MVFtMWpmV1owTkx1UVNvMFhqbTBmLUh1M2RFSjhaSnFCQ1NJRlVKdHkzTVl6TllIUFVkQjBPVEMyUmE2Yw",
-   "source": "新浪网",
-   "published_at": "2026-10-20T04:19:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T04:19:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVFhVVhpSk9lTTFDbk5NN0VBMlRrMDlNUnhiT0hSX2ZwZkdaS295bTVQMjBHRThFOWNvaHE4YXFUNW93MVFtMWpmV1owTkx1UVNvMFhqbTBmLUh1M2RFSjhaSnFCQ1NJRlVKdHkzTVl6TllIUFVkQjBPVEMyUmE2Yw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉飞行汽车发布会后AI场景涌现",
-   "title_zh": "特斯拉飞行汽车发布会后AI场景涌现 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "683ecc610e09",
-   "title": "US homeowner wanted hurricane backup without Tesla's price tag, and EG4 kept coming up - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTDdxUkY3eUdHYnVKWFBoeTByZEJWUXNLSm9fUm1Kb3dvQUZDV1pUUGExYjFoTl91d3RQWGVZX24wQWpTaGZoT0FXdFF0RlBSLWNqb3diUEVXMzN6d0pNVG55NmtuWFctWEprRHp1RUJOakNpa1UzMldPV0ZIVE9BVUVLQWNmRmNwakttS29ZZWUzMXhaMF9GNXFXX2lucGRvdjNucjZ5cnZQWGRuVHNuQ1hLajVOdWc",
-   "source": "Yahoo",
-   "published_at": "2026-10-20T04:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-20T04:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTDdxUkY3eUdHYnVKWFBoeTByZEJWUXNLSm9fUm1Kb3dvQUZDV1pUUGExYjFoTl91d3RQWGVZX24wQWpTaGZoT0FXdFF0RlBSLWNqb3diUEVXMzN6d0pNVG55NmtuWFctWEprRHp1RUJOakNpa1UzMldPV0ZIVE9BVUVLQWNmRmNwakttS29ZZWUzMXhaMF9GNXFXX2lucGRvdjNucjZ5cnZQWGRuVHNuQ1hLajVOdWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "屋主选EG4飓风备用电源弃特斯拉",
-   "title_zh": "美国屋主为飓风备用电源放弃特斯拉选择EG4",
-   "sentiment": -1
-  },
-  {
-   "id": "b0ff1af17804",
-   "title": "【视频】特斯拉说没有速成车网友什么反馈？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pbTBTRjk5aUNYVVdTd0VXSjBHVTRaSmlSZ0dicXdoUHZNT2FrWTNnaWxhVlJVQjhNb1dZdU1kUFRscl9IeGwyMHFEUEVxNXJpdEx6UEgzMDV0Q2M",
-   "source": "汽车之家",
-   "published_at": "2026-10-20T04:15:01+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-20T04:15:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pbTBTRjk5aUNYVVdTd0VXSjBHVTRaSmlSZ0dicXdoUHZNT2FrWTNnaWxhVlJVQjhNb1dZdU1kUFRscl9IeGwyMHFEUEVxNXJpdEx6UEgzMDV0Q2M"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T04:25:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2JGOHozRG13SU9NR3N6eEFBVEZCX0VoeVBvTDU5OV9teEtxcDJUc0x0TjZSME8tMlZSUlJibVBTZmlzdUd5UENZYXBUaThia243VWZ4d2hiRUNpX3lHX3c3TG83eDhSOHF0dm9SdzJpZExQTUg2RXFQLXJWODZqaTNQRHRQVmR6"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉称没有速成车引网友讨论",
-   "title_zh": "特斯拉说没有速成车网友什么反馈？ - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "1d7287400b87",
-   "title": "特斯拉 Roadster纯电超跑 火箭推进器加持 还能垂直翻转！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZmZfbXNLWGRIdmRtV0lndW5xRTlCWlUxUWh3emctaWJncFpraXlUV1d2NVZaSzdHNUctN0VSTE5JMGlXcXo2dDBYaWpOaTVIajl0X19uVzA3RFU",
-   "source": "汽车之家",
-   "published_at": "2026-10-20T04:13:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-20T04:13:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQZmZfbXNLWGRIdmRtV0lndW5xRTlCWlUxUWh3emctaWJncFpraXlUV1d2NVZaSzdHNUctN0VSTE5JMGlXcXo2dDBYaWpOaTVIajl0X19uVzA3RFU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Roadster超跑配火箭推进器可垂直翻转",
-   "title_zh": "特斯拉 Roadster纯电超跑 火箭推进器加持 还能垂直翻转！ - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "200bfa57f8b7",
-   "title": "马斯克与特斯拉，为什么需要Roadster的精彩飞行？ - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0gtR2NQS1ZwV1FrczU4WDNFTk5sYVcwV2NwVGpRamE0Y21Hby1nc1A4LWN4VjM2aFNKN2Z0M012VjFiTnhoWmw0RUdHa1ZfN0loOXJRYm80ZGRtb256cjhEbnJmMWVPbzlZLUUtcUllajd4Qk84VUVXcVVaVmpLQ0gtd2ZUV3M5",
-   "source": "搜狐",
-   "published_at": "2026-10-20T04:11:30+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T04:11:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa0gtR2NQS1ZwV1FrczU4WDNFTk5sYVcwV2NwVGpRamE0Y21Hby1nc1A4LWN4VjM2aFNKN2Z0M012VjFiTnhoWmw0RUdHa1ZfN0loOXJRYm80ZGRtb256cjhEbnJmMWVPbzlZLUUtcUllajd4Qk84VUVXcVVaVmpLQ0gtd2ZUV3M5"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-20T04:19:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbExBLUh3TlhuWmEzTzlSZUtDQmtFM1BmSHRxaS00TjF1aFRIMG02MTRJVmRfOFRIcnNRQTk4RHJtbkNDVm5qTExmWVp6YlFPdmFhZXdPZ1FMblEzS1BBWQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "搜狐讨论特斯拉Roadster飞行意义",
-   "title_zh": "马斯克与特斯拉，为什么需要Roadster的精彩飞行？ - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "ea21f7bc70d9",
-   "title": "特斯拉量产预期升温，零部件订单环比好转，关注人形机器人产业落地机会 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUl0SEwzMm45bWxEbXdTRERpWi1CN0pSR0Z2ai1LS29DQnBqNzdkVkt5MXh1ZnBpaVZ6QVNtMmlHSDFPT1BES0dZXzdDdXJkWmU5a2QwbTNSS3phVnNJNXBSYzlsYy1obk8zdUFGdGZXVGZWTkRiNU5ZUVhiTE5YNHFzVGR5TU50eF9RVA",
-   "source": "搜狐",
-   "published_at": "2026-10-20T04:09:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T04:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUl0SEwzMm45bWxEbXdTRERpWi1CN0pSR0Z2ai1LS29DQnBqNzdkVkt5MXh1ZnBpaVZ6QVNtMmlHSDFPT1BES0dZXzdDdXJkWmU5a2QwbTNSS3phVnNJNXBSYzlsYy1obk8zdUFGdGZXVGZWTkRiNU5ZUVhiTE5YNHFzVGR5TU50eF9RVA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉量产预期升温零部件订单好转",
-   "title_zh": "特斯拉量产预期升温，零部件订单环比好转，关注人形机器人产业落地机会 - 搜狐",
-   "sentiment": 1
   }
  ]
 }
