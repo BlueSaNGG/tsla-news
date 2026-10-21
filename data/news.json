@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T15:07:32.218883+00:00",
+ "updated_at": "2026-10-21T15:22:26.525389+00:00",
  "market": {
-  "price": 385.68,
-  "change_pct": 3.2,
+  "price": 385.73,
+  "change_pct": 3.22,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（169条已评分）"
+     "note": "今日新闻情绪 +0.35（174条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $385.68 vs 20日均线 $369.99"
+     "note": "现价 $385.73 vs 20日均线 $369.99"
     },
     {
      "key": "分析师动向",
@@ -50,14 +50,14 @@
    "target_count": 15,
    "implied_upside_pct": 3.7,
    "ma20": 369.99,
-   "as_of": "2026-10-21T15:07:32.206199+00:00"
+   "as_of": "2026-10-21T15:22:26.518899+00:00"
   },
   "pe_ttm": 106.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.34,
-   "count": 169
+   "avg": 0.35,
+   "count": 174
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6632a8f801e8",
+   "title": "SpaceX jumps 10% and Tesla rises on stunning revenue surge, possible merger - New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzRSSmR0ZHpxNzNiMjZkTnllUlRUOWJlNG96TG5EWHdCN2xLYk1aX2FhNzNydENtV2NYNUIwcUUzMG9QbkJUZVRGczhEQ3NJR29hSVl0R1FkbmpqN1RYVGF6M1k4V3FvUlZLSE1KMUh0SnczLXpuWm5xSFgwOG9fbk8xRHAwQ0VQTGY3VEFuTW5uWDNKM2hFWi1vaDExeDlZRUlucnBDLW9EUWhXYzFTVXdZSQ",
+   "source": "New York Post",
+   "published_at": "2026-10-21T14:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "New York Post",
+     "published_at": "2026-10-21T14:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQzRSSmR0ZHpxNzNiMjZkTnllUlRUOWJlNG96TG5EWHdCN2xLYk1aX2FhNzNydENtV2NYNUIwcUUzMG9QbkJUZVRGczhEQ3NJR29hSVl0R1FkbmpqN1RYVGF6M1k4V3FvUlZLSE1KMUh0SnczLXpuWm5xSFgwOG9fbk8xRHAwQ0VQTGY3VEFuTW5uWDNKM2hFWi1vaDExeDlZRUlucnBDLW9EUWhXYzFTVXdZSQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "c141ca051b03",
+   "title": "Meta, Tesla On Deck Wednesday As AI Spending, Auto Demand Face Test - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWdyUGNWVlJ4UUlzU3hTSEhxMnI4QVdXQXFZaG0tV2w4V3JTYTU2OVMyTXFCdzdUQ0E3aXEtQmpEeFpkenRLbm5TVVhlQmdheG16Z2xmcmU5NG8wVVJVNGpsRnhSX3lUeGFjWjNxTmFmem04R3RVTHhwNEhRV3VTd01YWElyOENLX3NNRU9lbkd6RldGblJhWE1nWkUxNWw0cEFQZXJPSzVLdzVxRHZJ",
+   "source": "Benzinga",
+   "published_at": "2026-10-21T14:53:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-21T14:53:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWdyUGNWVlJ4UUlzU3hTSEhxMnI4QVdXQXFZaG0tV2w4V3JTYTU2OVMyTXFCdzdUQ0E3aXEtQmpEeFpkenRLbm5TVVhlQmdheG16Z2xmcmU5NG8wVVJVNGpsRnhSX3lUeGFjWjNxTmFmem04R3RVTHhwNEhRV3VTd01YWElyOENLX3NNRU9lbkd6RldGblJhWE1nWkUxNWw0cEFQZXJPSzVLdzVxRHZJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "d8daac5e6ea7",
    "title": "特斯拉会飞roadster游戏 - 新浪网",
@@ -251,6 +285,23 @@
    "zh_summary": "华尔街热议SpaceX财报与特斯拉合并前景",
    "title_zh": "远见还是鲁莽？华尔街谈SpaceX财报与特斯拉合并",
    "sentiment": 0
+  },
+  {
+   "id": "e048a4b88a21",
+   "title": "A SpaceX And Tesla Merger Would Consolidate 30,000 Bitcoin - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0xEb1dyb3NROWZmRVJYVHZ5aDFtUnE0dHNfSnVHLTlhM0o3SFd2T21QNjBIeWZGMGpscjNQMDdYcW4wSDhRNHg3MHlyOFpHa2xUVTJKOERFR2N5OUFHSXAyTDZCOVp4VUUxUDUwTHVWUndwc3ZXRWg0UUR5NkREQ01oVWJsWW1kUmdTRkZjaWlqM2lTbjBTMGJHWkNOcWNr",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T14:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T14:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0xEb1dyb3NROWZmRVJYVHZ5aDFtUnE0dHNfSnVHLTlhM0o3SFd2T21QNjBIeWZGMGpscjNQMDdYcW4wSDhRNHg3MHlyOFpHa2xUVTJKOERFR2N5OUFHSXAyTDZCOVp4VUUxUDUwTHVWUndwc3ZXRWg0UUR5NkREQ01oVWJsWW1kUmdTRkZjaWlqM2lTbjBTMGJHWkNOcWNr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "d2e648db50f9",
@@ -618,12 +669,17 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlM3TVgtSEVDTzE3alN1cG5xYjJzWWJJM0pyTy1fdTd1WWIwX1BPRUtJZ1Mzczg4Sy1YV1hmdXpTMmJ1U1ZhbmdGcmtOeW1HRzFmQmEyd3kzV1ZNczVfTkY4S3hkb0tHaUdzWGtLa2pNNndoX19iemtJWEpXc3UzblRHMU5LSnlyNG5LMnZ5ejFnZXdUcTVCMVFBZks1YkRiTl9VZS1ST3Z3ZnV1RUt6emVEV3MtZw",
    "source": "Bloomberg.com",
    "published_at": "2026-10-21T13:24:59+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Bloomberg.com",
      "published_at": "2026-10-21T13:24:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlM3TVgtSEVDTzE3alN1cG5xYjJzWWJJM0pyTy1fdTd1WWIwX1BPRUtJZ1Mzczg4Sy1YV1hmdXpTMmJ1U1ZhbmdGcmtOeW1HRzFmQmEyd3kzV1ZNczVfTkY4S3hkb0tHaUdzWGtLa2pNNndoX19iemtJWEpXc3UzblRHMU5LSnlyNG5LMnZ5ejFnZXdUcTVCMVFBZks1YkRiTl9VZS1ST3Z3ZnV1RUt6emVEV3MtZw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T13:24:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmt3MUJsU0NYM2h5QUt2QU9sbkpsUF9iWVpodnphYmdoVDRiRjBXbVBuRU00cWZkOUZ4eXFMaWItSWNIbXFncHh3S1FtRzJNaWExdzBYdS03dXR3RzEtLVlVSGFqdk9wQUhrbHVmM2FzdkxSSXZXTVA0cmg4aENhMzI0OWt4aGpyS1ZyS243OXdKWm1iWThrZF9R"
     }
    ],
    "category": "其他",
@@ -1431,6 +1487,23 @@
    "zh_summary": "盘前上涨等待特斯拉等财报",
    "title_zh": "盘前股指上涨，交易员等待Meta和特斯拉财报",
    "sentiment": 0
+  },
+  {
+   "id": "8a441e58d9e7",
+   "title": "Tesla and SpaceX form board committees to review a possible merger - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waTJMLURCb19UUlNVeE43WEtPWFZVMVpNdXZQbFFqZ1ZpZHJpMEh2ZzZkaUpSakpXZ0VVV0JZUDVkM1lFbmFSVUl0dGFjb1hqM25Dc0pQaHJTSWlrcVJKbm9qZzVhYS1xakQwNHpFT0dPcTFuTXc",
+   "source": "Quartz",
+   "published_at": "2026-10-21T11:12:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-21T11:12:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9waTJMLURCb19UUlNVeE43WEtPWFZVMVpNdXZQbFFqZ1ZpZHJpMEh2ZzZkaUpSakpXZ0VVV0JZUDVkM1lFbmFSVUl0dGFjb1hqM25Dc0pQaHJTSWlrcVJKbm9qZzVhYS1xakQwNHpFT0dPcTFuTXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "c8eb71aee429",
@@ -6438,115 +6511,6 @@
    "zh_summary": "司机用$70奔驰零件替代特斯拉$5000电机报价",
    "title_zh": "特斯拉报价$5000换电机，司机用$70奔驰零件修好",
    "sentiment": -1
-  },
-  {
-   "id": "1e3d51559bd3",
-   "title": "Man takes hammer to doctor's Tesla after surgery canceled over sip of water - WKRC",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDY4TklLeHR6V2Q3NG9seE40WFFIRW4zM21hWEN2dlNWTEVrSWhUd0tpcVlLZzBMbFRBQXctYWlCV3BNLUhlYWZsaF9SenZtYUVnRDUzNHE3b1FKaUdmV0ZtREhYTENNUVBVbE4ySzBJTVlzdERUNVVhdlBaRHpadUs0Z0txUTRnMGh6dEEydGxKTXlTUEo5WnJYeUY2dGtpLU44a1d6UjAyb2piWlM2ZE5BTks2RTI2TVRhd2ZGMWhUaGs",
-   "source": "WKRC",
-   "published_at": "2026-10-20T22:18:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WKRC",
-     "published_at": "2026-10-20T22:18:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDY4TklLeHR6V2Q3NG9seE40WFFIRW4zM21hWEN2dlNWTEVrSWhUd0tpcVlLZzBMbFRBQXctYWlCV3BNLUhlYWZsaF9SenZtYUVnRDUzNHE3b1FKaUdmV0ZtREhYTENNUVBVbE4ySzBJTVlzdERUNVVhdlBaRHpadUs0Z0txUTRnMGh6dEEydGxKTXlTUEo5WnJYeUY2dGtpLU44a1d6UjAyb2piWlM2ZE5BTks2RTI2TVRhd2ZGMWhUaGs"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "男子手术被取消后用锤子砸医生特斯拉",
-   "title_zh": "男子因手术取消用锤子砸医生的特斯拉",
-   "sentiment": 0
-  },
-  {
-   "id": "a150de0bff6f",
-   "title": "Musk says backs SpaceX-Tesla merger as rocket firm turns profit - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTJnSFFHZmFuam1aTW54dDZ1dl9OM2lMUkNjN3Q5OXRUT3ZZWjJSWmJuQlBxMHFGWk9MbHdHVjdXSGtZZ2hiLVUyNjg0ZW1VSkFVb0dJMDB0SEVWXzVBSlBHM3FoWUFlMmVQRU0wVGVmaUozQ0xsM282b1hWc1prdkEyYw",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-20T22:05:07+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-20T22:05:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTJnSFFHZmFuam1aTW54dDZ1dl9OM2lMUkNjN3Q5OXRUT3ZZWjJSWmJuQlBxMHFGWk9MbHdHVjdXSGtZZ2hiLVUyNjg0ZW1VSkFVb0dJMDB0SEVWXzVBSlBHM3FoWUFlMmVQRU0wVGVmaUozQ0xsM282b1hWc1prdkEyYw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-20T22:05:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalRNMUdjNEQwQ0lEUWZQTEdaUGVqSzFWWG1DMlFfY09sSEh6VHcwZDZNWmFLbXpkT09xb3NveUhYRU5TaGJVTE14WjNQZV8yNkhwSXZVTVdhTzh3ZE9ib2hNLUxLVzBoN2FXVmV0VzdnMGEwSW9MNno1Mm14MnY3TVdNaWxFcy1mR0pFSEhEb2tCWlFVcGhn"
-    },
-    {
-     "name": "Yahoo News Singapore",
-     "published_at": "2026-10-21T01:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhVkVWTVdEbUFVTlduc2ljZV9kQzU5WnJUa3JLQnBRYXk5eDVvcHBjU1AwaW1kYXl0R0FicHFlNkV5djdjLXh1STNUM3BJUGFzM2xnYUJaYWNPTkJtTDZsWnR4eXBnd3BCNlk3Q1JvbDgwTlhLejkzWVRlSQ"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-21T04:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG5mLTN5RWVXWko0LXNJdmRqNXNJS0lEU0ZhWndoVU14ZVBpMWZrS0h5WVNCVVVNa0REa19pV3FKYVZxVjJXOV8zRmNjLUdGN0JoOFV1ZTZhbkgxNGFBNTc1ZFVPN1dTSFpJX3AtaHBlOGdhUWVoSW9jaEJvMEx5b3N1bw"
-    },
-    {
-     "name": "Euronews.com",
-     "published_at": "2026-10-21T04:37:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWdUS2ZVTEJvd3lzeWdXcTBrcjhkNEJ3YXlGQ0h0VWZCamtJTm1YYm1mTTJTVjkzejVYQU5GNnpaX3pjN0otYmZ1VGd3R3VKdklZRnBJT0pZOTVYRWlOall2T0t5VWJlTDlfTElFSUxza3FvWGZDeUNZdkotRGI4VG5EcEN2NW1adnlUenhTS2g3c21LUlJJVUlmb24tRzNk"
-    },
-    {
-     "name": "Yahoo Finance Australia",
-     "published_at": "2026-10-21T04:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3JZMHZCVW03RmxHdUVUVGdQMkIwaEsyTk5kYXNSbUFDdG5BQWx5aC00Z3ByVnJ5a0o5ZW5yazFXYUoyZFNIN3RIbGltVUF2ZzRnVXZVakFjY25DdFNidW02TXdjRFUtdDhKU2M3M0Q2NFBHUjAtM2VtY2E4bEZSQTMxVQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克支持特斯拉与SpaceX合并",
-   "title_zh": "马斯克称支持SpaceX与特斯拉合并，火箭公司实现盈利",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.41,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "e2f7a3fbf30e",
-   "title": "Making SpaceX and Tesla a single company has \"a lot of merit,\" Musk says - Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhHZE9RU25KN0dhc1puXzJKUHVwUWFITjZYQmZkV2R6Wm94RGdUWWhBems3S1BBOFhwbUNybFU3a2pXaHJMMWFtY1dXRk5MZzd5TFdkQ1B0RTJWTHF0ZnkzMkpKUFlFaWZVcmo3cml3RE1hOTRwVWdPbjhhS1gtQWxqc1R5SkFFMGFFTGtZX24yMWZ5RFNCbzdlNjVkd2J4VkM3MzNKdFAxUQ",
-   "source": "Ars Technica",
-   "published_at": "2026-10-20T22:04:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ars Technica",
-     "published_at": "2026-10-20T22:04:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhHZE9RU25KN0dhc1puXzJKUHVwUWFITjZYQmZkV2R6Wm94RGdUWWhBems3S1BBOFhwbUNybFU3a2pXaHJMMWFtY1dXRk5MZzd5TFdkQ1B0RTJWTHF0ZnkzMkpKUFlFaWZVcmo3cml3RE1hOTRwVWdPbjhhS1gtQWxqc1R5SkFFMGFFTGtZX24yMWZ5RFNCbzdlNjVkd2J4VkM3MzNKdFAxUQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称两公司合并有诸多益处",
-   "title_zh": "马斯克称SpaceX与特斯拉合并为一家公司有诸多益处",
-   "sentiment": 1
-  },
-  {
-   "id": "dd849530b69f",
-   "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says - Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhHZE9RU25KN0dhc1puXzJKUHVwUWFITjZYQmZkV2R6Wm94RGdUWWhBems3S1BBOFhwbUNybFU3a2pXaHJMMWFtY1dXRk5MZzd5TFdkQ1B0RTJWTHF0ZnkzMkpKUFlFaWZVcmo3cml3RE1hOTRwVWdPbjhhS1gtQWxqc1R5SkFFMGFFTGtZX24yMWZ5RFNCbzdlNjVkd2J4VkM3MzNKdFAxUQ",
-   "source": "Ars Technica",
-   "published_at": "2026-10-20T22:04:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ars Technica",
-     "published_at": "2026-10-20T22:04:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhHZE9RU25KN0dhc1puXzJKUHVwUWFITjZYQmZkV2R6Wm94RGdUWWhBems3S1BBOFhwbUNybFU3a2pXaHJMMWFtY1dXRk5MZzd5TFdkQ1B0RTJWTHF0ZnkzMkpKUFlFaWZVcmo3cml3RE1hOTRwVWdPbjhhS1gtQWxqc1R5SkFFMGFFTGtZX24yMWZ5RFNCbzdlNjVkd2J4VkM3MzNKdFAxUQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称SpaceX特斯拉合并是好主意",
-   "title_zh": "马斯克称SpaceX与特斯拉合并会是好主意",
-   "sentiment": 1
   }
  ]
 }
