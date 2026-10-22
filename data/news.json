@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T18:09:03.107705+00:00",
+ "updated_at": "2026-10-22T18:23:28.211562+00:00",
  "market": {
-  "price": 377.86,
-  "change_pct": -2.23,
+  "price": 379.08,
+  "change_pct": -1.91,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.9%"
+     "note": "目标价中位数 $400（15家），隐含空间 +5.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（296条已评分）"
+     "note": "今日新闻情绪 -0.00（296条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.86 vs 20日均线 $370.03"
+     "note": "现价 $379.08 vs 20日均线 $370.09"
     },
     {
      "key": "分析师动向",
@@ -48,15 +48,15 @@
    "price_52w_pct": 42,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.9,
-   "ma20": 370.03,
-   "as_of": "2026-10-22T18:09:03.100886+00:00"
+   "implied_upside_pct": 5.5,
+   "ma20": 370.09,
+   "as_of": "2026-10-22T18:23:28.204125+00:00"
   },
-  "pe_ttm": 104.5,
+  "pe_ttm": 104.8,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+5.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
+   "avg": -0.0,
    "count": 296
   }
  },
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e72d2aa9400f",
+   "title": "目前见过最流畅的特斯拉Roadster视频 ​ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNvZzEzMTNGaUR5dHBLcHB0VEVnZnVTWndGQ05GcDZVRlJlbUFVQ0ZtTzhjbmQ2cHFLWW02bXVrYy1aSG9yUS11dnVyTVhCZ0pHN0piQVpvR2FnZHVfZjVmNEJKNlp1REJ5WGpheHllWjZCZEtLMkJpakJOclFiaA",
+   "source": "新浪网",
+   "published_at": "2026-10-22T18:10:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-22T18:10:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckNvZzEzMTNGaUR5dHBLcHB0VEVnZnVTWndGQ05GcDZVRlJlbUFVQ0ZtTzhjbmQ2cHFLWW02bXVrYy1aSG9yUS11dnVyTVhCZ0pHN0piQVpvR2FnZHVfZjVmNEJKNlp1REJ5WGpheHllWjZCZEtLMkJpakJOclFiaA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "1a0ebe952dab",
    "title": "特斯拉和SpaceX合并要迈过哪些障碍？ - 东方财富",
@@ -486,6 +503,23 @@
    "zh_summary": "特斯拉长期投资者三个关键要点",
    "title_zh": "特斯拉：长期投资者需关注的三个关键要点",
    "sentiment": 0
+  },
+  {
+   "id": "354ba2ed84c7",
+   "title": "Tesla held onto its bitcoin in Q3 as speculation of SpaceX merger grows - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55LWxqMGllZGtuTjM3a1padVV3V2Nob1BmRG1FbEt4NVdXVGRGd2tVSnQ1cDE1QzJaZEhGaWlTZmhITUJvZG5fQVBlZEt4YmYxYS1WNC1TSk1ZSXpKQ0JDVFM1anhfUThwT2xQSEg2ckFIcmJiRHlEM25SNDFxZw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T16:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T16:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55LWxqMGllZGtuTjM3a1padVV3V2Nob1BmRG1FbEt4NVdXVGRGd2tVSnQ1cDE1QzJaZEhGaWlTZmhITUJvZG5fQVBlZEt4YmYxYS1WNC1TSk1ZSXpKQ0JDVFM1anhfUThwT2xQSEg2ckFIcmJiRHlEM25SNDFxZw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "b73a4f20d713",
@@ -1461,6 +1495,23 @@
    "zh_summary": "特斯拉2030年产量将达500万辆",
    "title_zh": "特斯拉预计2030年电动车产量超500万辆",
    "sentiment": 1
+  },
+  {
+   "id": "da53ed9279c1",
+   "title": "Former Tesla board member on obstacles facing potential SpaceX merger - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcG5KM0h6WWU5UUdYN25XbV9XNFl4YjJrM1VDb3F1SE05LUdGTFgwVThORy1mSW5mQUp3Z1hYYWhEd0RpT005bTRrcElwN0hEUklVMEZDRXowcVdCMG9SQkwwOEdycElPNFJDdWNOcko0Vmd3OWNpLURxcmdHQTdWZ3FLT214ZWdWaUcxSXVmMklYYy04SlNTZGJGN0xkZU5fVTlQUmwySkVqNDhMT3YtSU5B",
+   "source": "CNBC",
+   "published_at": "2026-10-22T14:13:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-22T14:13:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcG5KM0h6WWU5UUdYN25XbV9XNFl4YjJrM1VDb3F1SE05LUdGTFgwVThORy1mSW5mQUp3Z1hYYWhEd0RpT005bTRrcElwN0hEUklVMEZDRXowcVdCMG9SQkwwOEdycElPNFJDdWNOcko0Vmd3OWNpLURxcmdHQTdWZ3FLT214ZWdWaUcxSXVmMklYYy04SlNTZGJGN0xkZU5fVTlQUmwySkVqNDhMT3YtSU5B"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "39b18c0c34c7",
@@ -4079,6 +4130,23 @@
    "sentiment": 1
   },
   {
+   "id": "e26bda2a92fa",
+   "title": "【视频】当末日开特斯拉Roadster 2... - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOS2t4SWNCd1FsSkxLVGR1VHAzUDFZTE5GV1FPZ0dHMmYyeHBCNmdPc3FwRnFsYUFrajR0bU5RTlVxTC1VdUZSRWpIUGVZcVREQUdyT0tOb3Mzams",
+   "source": "汽车之家",
+   "published_at": "2026-10-22T10:02:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-22T10:02:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOS2t4SWNCd1FsSkxLVGR1VHAzUDFZTE5GV1FPZ0dHMmYyeHBCNmdPc3FwRnFsYUFrajR0bU5RTlVxTC1VdUZSRWpIUGVZcVREQUdyT0tOb3Mzams"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "2d3855b571f9",
    "title": "特斯拉与支付宝签署车载助手协议，中国车机系统计划上线智慧停车服务 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUHJ2NmN1REJqdUlvWnJhMkpvSGQ0a2NPQ1ZMZ09BVFNQU09NMlQ4cnpyc2hLNm04cHpGSEQ2NzZOeTNBb2JBenN2LXI2WXBnTWlqTUJuTXpPM3c",
@@ -6182,96 +6250,6 @@
    "zh_summary": "三季度净利下滑43%",
    "title_zh": "特斯拉三季度净利下滑43%，马斯克：机器人已量产，合并是好主意",
    "sentiment": -1
-  },
-  {
-   "id": "dd76f91c135e",
-   "title": "特斯拉FSD，中国车主还要等多久？ - 盖世汽车社区",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SGJpQnJMeDJVMUhsRkNJRzE3ZlpGeEtZcUdQb2o3NDRxY3FCUXkyMF9oQUdLbTFGYnlBWmNXODUzVHlVUGREQ1N3R2owUzk3",
-   "source": "盖世汽车社区",
-   "published_at": "2026-10-22T06:25:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "盖世汽车社区",
-     "published_at": "2026-10-22T06:25:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SGJpQnJMeDJVMUhsRkNJRzE3ZlpGeEtZcUdQb2o3NDRxY3FCUXkyMF9oQUdLbTFGYnlBWmNXODUzVHlVUGREQ1N3R2owUzk3"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-22T07:21:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdEQyWkY5V3ZpYU5NcTdPbDcwR1RtVV9WME9qdnZzWndoOG0yN2syZW83QnBWNUx3V09FaW03UmRPTmR6aFJBSHN1RkpxRkdjQ3hFbjM5dWs1ZTROZ1ZnM29feC1WbkRnaXRF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "FSD中国车主还要等多久",
-   "title_zh": "特斯拉FSD，中国车主还要等多久？",
-   "sentiment": -1
-  },
-  {
-   "id": "71ecfe213fd7",
-   "title": "Analyst sees boost to SpaceX shares in long run if Tesla merger happens - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VWEpPaTVPY0M0ZHdOeVZqM21YUzRkVHdXYXpPSXh0VmtwVWlUTjV0YXpNc21XcDRMVHQzR3NDU2lCRV9uTU1saVZJTUtiQVhvX0x2Wmthc3l2ODlIY19UY2Y1VFY5alRfamJweXNiM0lmZWx1SjhvWFlvVQ",
-   "source": "CNBC",
-   "published_at": "2026-10-22T06:23:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-22T06:23:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VWEpPaTVPY0M0ZHdOeVZqM21YUzRkVHdXYXpPSXh0VmtwVWlUTjV0YXpNc21XcDRMVHQzR3NDU2lCRV9uTU1saVZJTUtiQVhvX0x2Wmthc3l2ODlIY19UY2Y1VFY5alRfamJweXNiM0lmZWx1SjhvWFlvVQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师称合并对SpaceX长期有利",
-   "title_zh": "分析师称合并将长期提振SpaceX股价",
-   "sentiment": 1
-  },
-  {
-   "id": "8938a0dba8fe",
-   "title": "人形机器人股持续走高 特斯拉Optimus量产准备推进 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NX09td0RvT3BZNDFFejZfODhsRlp1VTdxMU1wZ3lXZXdXNnV3bVpjS29Oc3JFMHdWcFZPZlo1T09icGtSRWRBM0ptWHZzbldMZ2FfX3JOU1AzQXFOR0w3bVdXRXdIVWtZVlF2XzlsdEQ",
-   "source": "中华网",
-   "published_at": "2026-10-22T06:22:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-22T06:22:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NX09td0RvT3BZNDFFejZfODhsRlp1VTdxMU1wZ3lXZXdXNnV3bVpjS29Oc3JFMHdWcFZPZlo1T09icGtSRWRBM0ptWHZzbldMZ2FfX3JOU1AzQXFOR0w3bVdXRXdIVWtZVlF2XzlsdEQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Optimus量产准备推进",
-   "title_zh": "人形机器人股走高，特斯拉Optimus量产推进",
-   "sentiment": 1
-  },
-  {
-   "id": "0095f0310692",
-   "title": "马斯克公开站台SpaceX(SPCX.US)与特斯拉(TSLA.US)合并内部人士担忧谈判生变_全球市场_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3RGZZOUlLYko4Wmh0Nk44NnllN1FmVkhWak5NcW1lQmowS0F4V0UxdXhoT0thaHFfcExXcEJ1SUtKQTR5SDZlWHR3Q1NrUERILU5ZR2NPdy1HSGstRkdTNA",
-   "source": "证券之星",
-   "published_at": "2026-10-22T06:19:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-22T06:19:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3RGZZOUlLYko4Wmh0Nk44NnllN1FmVkhWak5NcW1lQmowS0F4V0UxdXhoT0thaHFfcExXcEJ1SUtKQTR5SDZlWHR3Q1NrUERILU5ZR2NPdy1HSGstRkdTNA"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-22T07:22:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BU2xmTUdJMkN6d1R0UEZqWl9qS09vb0s1QzNjWmhmZmo0UzFaS0tGM3VZYXZTb2pWSUNWVXNfNmU1c1RnWmgxWkVXSURPcUtvYTRzcEtpT0VvSF9jeHdhWnNUZ09mTy0xNUc1Yw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克站台特斯拉与SpaceX合并",
-   "title_zh": "马斯克公开站台SpaceX与特斯拉合并内部人士担忧谈判生变",
-   "sentiment": 0
   }
  ]
 }
