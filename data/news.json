@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T18:52:59.039415+00:00",
+ "updated_at": "2026-10-22T19:07:52.949566+00:00",
  "market": {
-  "price": 376.07,
-  "change_pct": -2.69,
+  "price": 375.8,
+  "change_pct": -2.76,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,7 +22,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（299条已评分）"
+     "note": "今日新闻情绪 -0.00（296条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.07 vs 20日均线 $369.94"
+     "note": "现价 $375.80 vs 20日均线 $369.92"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 40,
    "target_median": 400,
    "target_count": 15,
    "implied_upside_pct": 6.4,
-   "ma20": 369.94,
-   "as_of": "2026-10-22T18:52:59.024011+00:00"
+   "ma20": 369.92,
+   "as_of": "2026-10-22T19:07:52.944216+00:00"
   },
-  "pe_ttm": 104.0,
+  "pe_ttm": 103.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 299
+   "avg": -0.0,
+   "count": 296
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "663b99cc9cc9",
+   "title": "Tesla in ‘self-driving’ mode kills pedestrian, 71, on California freeway - New York Post",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC",
+   "source": "New York Post",
+   "published_at": "2026-10-22T18:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "New York Post",
+     "published_at": "2026-10-22T18:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "0779ef926249",
    "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns - CNBC",
@@ -86,6 +103,40 @@
    "zh_summary": "马斯克砸3.66亿美元投入政治竞选",
    "title_zh": "马斯克向竞选投入3.66亿美元，SpaceX与特斯拉面临高政治风险",
    "sentiment": -1
+  },
+  {
+   "id": "d828bee59a60",
+   "title": "Man Destroys His Doctor’s Tesla With a Hammer Out of Revenge - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUxkZjgweWxxcDBsSDBIMENIRzc1N3ZSMHBoODU2Tjc2aDh2YW40T0Nobl9mMnZJaHN4RVljLWRiaGlZUWpEYUQzR1c2OEMxMHNNalZ1WU9LWUxQN2NfZ0Y3ZHNVQ1RyVURPM0stSVk1anZ2Q21DUlBhVlRQRkIwNW0yXzBsTEJ1RzV0SVdWNA",
+   "source": "Yahoo",
+   "published_at": "2026-10-22T18:19:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-22T18:19:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUxkZjgweWxxcDBsSDBIMENIRzc1N3ZSMHBoODU2Tjc2aDh2YW40T0Nobl9mMnZJaHN4RVljLWRiaGlZUWpEYUQzR1c2OEMxMHNNalZ1WU9LWUxQN2NfZ0Y3ZHNVQ1RyVURPM0stSVk1anZ2Q21DUlBhVlRQRkIwNW0yXzBsTEJ1RzV0SVdWNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "691f0963e2a2",
+   "title": "Tesla Earnings Test XLY After Sector-Leading 5-Day Run - ETF Database",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckdabTZOY0o2aEJnUnN6cFNJdVcwVVlKYnZ1eTNHcmVGcnVwZkRDZGhzaXp4SWFaU3o5WDBuWHltUmFVTlNSeVJ2WHBveUptdk9xbk5KUm9oekNQLXJrOE1DXzFvWWE0NlRiYVZSYWRBOWU0Q3EwNTNycmdEYlB3NEhlR25aX214WUpLOU1BdERXSWNGVEVNcjVCYW0wOFFvX1BtbQ",
+   "source": "ETF Database",
+   "published_at": "2026-10-22T18:11:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ETF Database",
+     "published_at": "2026-10-22T18:11:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckdabTZOY0o2aEJnUnN6cFNJdVcwVVlKYnZ1eTNHcmVGcnVwZkRDZGhzaXp4SWFaU3o5WDBuWHltUmFVTlNSeVJ2WHBveUptdk9xbk5KUm9oekNQLXJrOE1DXzFvWWE0NlRiYVZSYWRBOWU0Q3EwNTNycmdEYlB3NEhlR25aX214WUpLOU1BdERXSWNGVEVNcjVCYW0wOFFvX1BtbQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "e72d2aa9400f",
@@ -546,6 +597,23 @@
    "zh_summary": "特斯拉三季度净利润同比下降43%",
    "title_zh": "特斯拉Q3净利润同比降43%",
    "sentiment": -1
+  },
+  {
+   "id": "ba12d5f2eb96",
+   "title": "【视频】2026款特斯拉Roadster首发亮相抢先看 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc",
+   "source": "汽车之家",
+   "published_at": "2026-10-22T16:38:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-22T16:38:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "20e8f6213517",
@@ -3355,26 +3423,6 @@
    "session": "盘前",
    "zh_summary": "盘前特斯拉股价走低",
    "title_zh": "盘前异动：Tesla、IBM下跌，Meta财报未能提振情绪",
-   "sentiment": -1
-  },
-  {
-   "id": "001b2fc6ff1d",
-   "title": "Tesla’s Lowered Capex Target Fuels Doubt on AI, Robotics Goals - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFBvVE14dWlibVV3THM1MXM5M2ptaVRFMjE3cnZmWVJqd2NLMEVfMGtDaTNSU0tsclVjSHE5d0l4T3ljQXZXTFBJQVZyTXplVndSdDgzTXk0M1hoVjVyUlV5RExrS2lFSXU1Y2JvWlFDZnJaTXFUYXRQaUZFVE1hUjQ5QU5NUFd4NmRHS1lDVi1JUmtXOUN3TWt2dFRVd2tSTm5xV3ZxTzJJLUFh",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-22T11:22:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-22T11:22:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFBvVE14dWlibVV3THM1MXM5M2ptaVRFMjE3cnZmWVJqd2NLMEVfMGtDaTNSU0tsclVjSHE5d0l4T3ljQXZXTFBJQVZyTXplVndSdDgzTXk0M1hoVjVyUlV5RExrS2lFSXU1Y2JvWlFDZnJaTXFUYXRQaUZFVE1hUjQ5QU5NUFd4NmRHS1lDVi1JUmtXOUN3TWt2dFRVd2tSTm5xV3ZxTzJJLUFh"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉下调资本开支目标引质疑",
-   "title_zh": "特斯拉下调资本开支目标，AI与机器人目标遭质疑",
    "sentiment": -1
   },
   {
@@ -6211,66 +6259,6 @@
    "zh_summary": "特斯拉下调资本开支指引",
    "title_zh": "特斯拉下调资本开支指引，Meta上调AI支出",
    "sentiment": 0
-  },
-  {
-   "id": "713d42b078a1",
-   "title": "特斯拉：显现积极拐点 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZEFQX1Q4T3JKY2o4LUw1NDBJR2Mwdi0xVlpzZXZOaXRuWkE2WmszT0o0UFlOYXFGRjNpbU9hcUUzNklZTlF3anNtbTRiOE9RbEU3aUxna1lmLTFf",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T06:40:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T06:40:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VZEFQX1Q4T3JKY2o4LUw1NDBJR2Mwdi0xVlpzZXZOaXRuWkE2WmszT0o0UFlOYXFGRjNpbU9hcUUzNklZTlF3anNtbTRiOE9RbEU3aUxna1lmLTFf"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉显现积极拐点",
-   "title_zh": "特斯拉：显现积极拐点",
-   "sentiment": 1
-  },
-  {
-   "id": "ba9fd607bfdd",
-   "title": "财报营收超预期，股价却下跌？市场盯上了特斯拉“没花出去的钱”！ - 金融界",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5neXlMVno4YmMxaVR0VF93TEhUNUI3YmpXWks4NFczTnhHM09zcUMwOWVrdHh1dFc0bk5sLVl6OG5BTjQ0Y09aUkx5OEdPcGhqQUJKYTRYeWpyZmdrUXJGVEhES2o1a1JvVzBMci1lR1NkUQ",
-   "source": "金融界",
-   "published_at": "2026-10-22T06:34:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "金融界",
-     "published_at": "2026-10-22T06:34:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5neXlMVno4YmMxaVR0VF93TEhUNUI3YmpXWks4NFczTnhHM09zcUMwOWVrdHh1dFc0bk5sLVl6OG5BTjQ0Y09aUkx5OEdPcGhqQUJKYTRYeWpyZmdrUXJGVEhES2o1a1JvVzBMci1lR1NkUQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "财报营收超预期但股价下跌",
-   "title_zh": "财报营收超预期，股价却下跌？市场盯上了特斯拉“没花出去的钱”！",
-   "sentiment": -1
-  },
-  {
-   "id": "5fbc5fd7fafe",
-   "title": "【视频】利润暴跌56%，特斯拉Q3 营收停滞，马斯克喊出2030年年产500万辆 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CT1RFUm9MWElzTVlWZm5JTU9ERHVlaE1HRC1pZl80UmhLRGVzUmRWR1FUdkdCeTNmUzhZNXJnUEU2Q01RNnlRblhCcTVBT0VTQkVlVzNyZ1B4TDhPM3E1eW9SaE0yUThONWpj",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T06:34:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T06:34:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CT1RFUm9MWElzTVlWZm5JTU9ERHVlaE1HRC1pZl80UmhLRGVzUmRWR1FUdkdCeTNmUzhZNXJnUEU2Q01RNnlRblhCcTVBT0VTQkVlVzNyZ1B4TDhPM3E1eW9SaE0yUThONWpj"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉Q3利润暴跌56%",
-   "title_zh": "【视频】利润暴跌56%，特斯拉Q3营收停滞，马斯克喊2030年产500万辆",
-   "sentiment": -1
   }
  ]
 }
