@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T16:25:20.810250+00:00",
+ "updated_at": "2026-10-22T16:38:42.974978+00:00",
  "market": {
-  "price": 381.28,
-  "change_pct": -1.34,
+  "price": 380.62,
+  "change_pct": -1.51,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -26,18 +26,18 @@
     },
     {
      "key": "目标价空间",
-     "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.9%"
+     "score": 0,
+     "note": "目标价中位数 $400（15家），隐含空间 +5.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（287条已评分）"
+     "note": "今日新闻情绪 +0.01（297条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $381.28 vs 20日均线 $370.20"
+     "note": "现价 $380.62 vs 20日均线 $370.16"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.9,
-   "ma20": 370.2,
-   "as_of": "2026-10-22T16:25:20.800192+00:00"
+   "implied_upside_pct": 5.1,
+   "ma20": 370.16,
+   "as_of": "2026-10-22T16:38:42.966430+00:00"
   },
-  "pe_ttm": 105.5,
+  "pe_ttm": 105.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 287
+   "avg": 0.01,
+   "count": 297
   }
  },
  "meta": {
@@ -111,6 +111,23 @@
    "zh_summary": "Truist称AI投资致特斯拉利润率未达预期",
    "title_zh": "Truist称，特斯拉与人工智能相关的投资导致营业利润率未达预期 - 富途牛牛",
    "sentiment": -1
+  },
+  {
+   "id": "5a013e0a97f7",
+   "title": "Tesla solar owner says crew damaged roof and gutters, tried to charge a fee until they showed video proof - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekNHdjFQUGEyeFc0NzZYTklqc0YtZzJRUld6bm1QTUdieGtPazJha0tBX3FHS1ZtYngwTWFSbWhGbHRNMGU2Q25nS016VnNaeDdoeGJVYkIyVk5wYjdOX1FSeWZuc01DS3FxcVpsZkZoMHNiTEUxY0d2eVZNOTNSRWNzNTEtZ19E",
+   "source": "Yahoo",
+   "published_at": "2026-10-22T16:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-22T16:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekNHdjFQUGEyeFc0NzZYTklqc0YtZzJRUld6bm1QTUdieGtPazJha0tBX3FHS1ZtYngwTWFSbWhGbHRNMGU2Q25nS016VnNaeDdoeGJVYkIyVk5wYjdOX1FSeWZuc01DS3FxcVpsZkZoMHNiTEUxY0d2eVZNOTNSRWNzNTEtZ19E"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
   },
   {
    "id": "868f053500af",
@@ -848,6 +865,23 @@
    "sentiment": 0
   },
   {
+   "id": "51a29ab93e67",
+   "title": "Was Tesla’s Flying Roadster Reveal Just a Big SpaceX Marketing Stunt? - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblpVdWxOdzUtbTFkYUs2cUxrRGNkNGZfeXppQWxHMjN3SVVjYnNOTFc3a0QzMUdMMWdMOEs2azg4OGRxd3VpUXNacVpYVUVSZy03SVE5MnNOZGk2dDFOOGNpZFJPNThKcDRQdjZ4ejI4Tms2eFp1ZjlEb2tuQVdiaHpIeTNSV2VKaUJR",
+   "source": "Autoblog",
+   "published_at": "2026-10-22T14:25:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-22T14:25:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblpVdWxOdzUtbTFkYUs2cUxrRGNkNGZfeXppQWxHMjN3SVVjYnNOTFc3a0QzMUdMMWdMOEs2azg4OGRxd3VpUXNacVpYVUVSZy03SVE5MnNOZGk2dDFOOGNpZFJPNThKcDRQdjZ4ejI4Tms2eFp1ZjlEb2tuQVdiaHpIeTNSV2VKaUJR"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "09b0a7615a89",
    "title": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings - Forbes",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR",
@@ -886,6 +920,23 @@
    "zh_summary": "特斯拉2030年产量将达500万辆",
    "title_zh": "特斯拉预计2030年电动车产量超500万辆",
    "sentiment": 1
+  },
+  {
+   "id": "39b18c0c34c7",
+   "title": "每天车闻：特斯拉三季度营收，张俊任奥迪中国总裁 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01aGJMR2p6QVR4TVhDT0tVR0JYN1ZpaFI3UzJGaDg3NXRNZkZlWmF4OXptU3ZFNjZzQjFZU0FPd2JobHdnNXI3NzdRLW5ZNTZyZmtvb0dIUjN3X2lGUzZweUwteHd1aXFNQlM0Q08zanRrRGc5Q1o5YQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-22T14:13:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T14:13:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01aGJMR2p6QVR4TVhDT0tVR0JYN1ZpaFI3UzJGaDg3NXRNZkZlWmF4OXptU3ZFNjZzQjFZU0FPd2JobHdnNXI3NzdRLW5ZNTZyZmtvb0dIUjN3X2lGUzZweUwteHd1aXFNQlM0Q08zanRrRGc5Q1o5YQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "d9bdafec0537",
@@ -3279,12 +3330,17 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1b1FDamo3WTB5NWE1QWREVTlFaFdjY2RQcFFuOGtQRGMtQ1k5QkFLZkJwcE1hNzN0bkstbm0tcE9QMHJSRHF4azM0X1VVSlFsZHpKMThXcE1rVWM5NXpyZVJqZi1taHF4bWNjQzF4bnIxQQ",
    "source": "手机新浪网",
    "published_at": "2026-10-22T10:10:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-10-22T10:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1b1FDamo3WTB5NWE1QWREVTlFaFdjY2RQcFFuOGtQRGMtQ1k5QkFLZkJwcE1hNzN0bkstbm0tcE9QMHJSRHF4azM0X1VVSlFsZHpKMThXcE1rVWM5NXpyZVJqZi1taHF4bWNjQzF4bnIxQQ"
+    },
+    {
+     "name": "界面新闻",
+     "published_at": "2026-10-22T10:24:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wQ05KTkVFdkRqYzRPSTFJV1VWcndiVTNuNDRGSUYyNU4yZnphdll2Z01VZDFwQzg3Mlozcm8yYTRfRTFxUDJZVDZxc3NXVVRHQWN5ZzJlUWg"
     }
    ],
    "category": "其他",
@@ -5053,26 +5109,6 @@
    "sentiment": -1
   },
   {
-   "id": "9c55b565452d",
-   "title": "特斯拉第三季度净利润大跌43% 与SpaceX合并事宜受关注 - 财新",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWmZtbWl5TndIMmlBMFhHY2NOVEdxcDhLdXViWDlwNGMwOWV6SW1ocWN0VXBjQ2tFRG1rRjZoMDUwbmxEaHBuXzIxMENWc2JxTmU1OUV5OGZac0RSd3pBa3Z4amk",
-   "source": "财新",
-   "published_at": "2026-10-22T07:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财新",
-     "published_at": "2026-10-22T07:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWmZtbWl5TndIMmlBMFhHY2NOVEdxcDhLdXViWDlwNGMwOWV6SW1ocWN0VXBjQ2tFRG1rRjZoMDUwbmxEaHBuXzIxMENWc2JxTmU1OUV5OGZac0RSd3pBa3Z4amk"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度净利润大跌43%",
-   "title_zh": "特斯拉第三季度净利润大跌43%与SpaceX合并受关注",
-   "sentiment": -1
-  },
-  {
    "id": "b38320b29e2b",
    "title": "特斯拉三季度多国销量创新高2030年目标年产500万辆 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UGYtSUVvd1pCLWswS09nLVRjX3ljYVVyR0RKcHpMVmJXWEtvc05UeWpFQmFZdXVYc1dGTUE1R01ESlBuX2ozdVN3eDYzc24zOXg2RVNYcFJxcmc",
@@ -6284,46 +6320,6 @@
    "session": "盘前",
    "zh_summary": "股指期货下跌，投资者消化Meta和特斯拉财报",
    "title_zh": "投资者消化Meta和特斯拉财报，股指期货下跌",
-   "sentiment": 0
-  },
-  {
-   "id": "740f1be72e29",
-   "title": "Tesla Logs Surge in European Monthly Sales - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1ZWUzRWaGZaaWE3WEhkM3ZwSXpfWUQxZWFWVW9FOUhMR2RPejcxbUsxcmNUNC1pTlZuVDlYYVlJWVZnV1o3TEE5eE15VjJJQVd1RGYySWt3VkpCVnFsajVzcFp2MWh5Y3p2ZkV6RWRlWDFMclRIUWxqVm5jWVdJZkpTcW55c0EwMFFtWUsySQ",
-   "source": "WSJ",
-   "published_at": "2026-10-22T05:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-22T05:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1ZWUzRWaGZaaWE3WEhkM3ZwSXpfWUQxZWFWVW9FOUhMR2RPejcxbUsxcmNUNC1pTlZuVDlYYVlJWVZnV1o3TEE5eE15VjJJQVd1RGYySWt3VkpCVnFsajVzcFp2MWh5Y3p2ZkV6RWRlWDFMclRIUWxqVm5jWVdJZkpTcW55c0EwMFFtWUsySQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉欧洲月销量大涨",
-   "title_zh": "特斯拉欧洲月度销量大涨",
-   "sentiment": 1
-  },
-  {
-   "id": "65954ee6741f",
-   "title": "Tesla FSD Attachment Rates: 6 Details That Matter - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdU9rVGFBSjNoVzM4a0JYaUtYdjZWMjIxQ1pNYi1zTDB2dnE3UDZMbjJKdmN4eTEwOXJnVXVuOV93M05wVmFoenBnb2NLTnVsd0wydUwtZXVDMXZBbGRDa0FreWtmS0hETkhBc0kwZFlHWHhCS3ZHRS1jUUpBcGtXcHRBYVN5WFdvQ0Uw",
-   "source": "BASENOR",
-   "published_at": "2026-10-22T05:05:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-22T05:05:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdU9rVGFBSjNoVzM4a0JYaUtYdjZWMjIxQ1pNYi1zTDB2dnE3UDZMbjJKdmN4eTEwOXJnVXVuOV93M05wVmFoenBnb2NLTnVsd0wydUwtZXVDMXZBbGRDa0FreWtmS0hETkhBc0kwZFlHWHhCS3ZHRS1jUUpBcGtXcHRBYVN5WFdvQ0Uw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉FSD装机率六大要点解析",
-   "title_zh": "特斯拉FSD装机率：6个关键细节",
    "sentiment": 0
   }
  ]
