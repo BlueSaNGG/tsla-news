@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T19:22:59.327757+00:00",
+ "updated_at": "2026-10-22T19:38:07.732084+00:00",
  "market": {
-  "price": 377.41,
-  "change_pct": -2.34,
+  "price": 376.68,
+  "change_pct": -2.53,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +6.0%"
+     "note": "目标价中位数 $400（15家），隐含空间 +6.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.02（295条已评分）"
+     "note": "今日新闻情绪 -0.01（299条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $377.41 vs 20日均线 $370.00"
+     "note": "现价 $376.68 vs 20日均线 $369.98"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 41,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 6.0,
-   "ma20": 370.0,
-   "as_of": "2026-10-22T19:22:59.319785+00:00"
+   "implied_upside_pct": 6.2,
+   "ma20": 369.98,
+   "as_of": "2026-10-22T19:38:07.725816+00:00"
   },
-  "pe_ttm": 104.4,
+  "pe_ttm": 104.2,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.02,
-   "count": 295
+   "avg": -0.01,
+   "count": 299
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
-   "title_zh": "冷静的特斯拉多头仍期待Cybercab带来巨变",
    "zh_summary": "特斯拉多头看好Cybercab未来",
+   "title_zh": "冷静的特斯拉多头仍期待Cybercab带来巨变",
    "sentiment": 1
   },
   {
@@ -103,8 +103,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "特斯拉押注AI与自动驾驶提振电动车产量",
    "zh_summary": "特斯拉靠AI和自动驾驶提振产量",
+   "title_zh": "特斯拉押注AI与自动驾驶提振电动车产量",
    "sentiment": 1
   },
   {
@@ -123,8 +123,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "瑞银表示，特斯拉股价走势反映出市场对SpaceX潜在并购前景的看法正在演变",
    "zh_summary": "瑞银谈特斯拉股价与SpaceX并购预期",
+   "title_zh": "瑞银表示，特斯拉股价走势反映出市场对SpaceX潜在并购前景的看法正在演变",
    "sentiment": 0
   },
   {
@@ -133,12 +133,17 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC",
    "source": "New York Post",
    "published_at": "2026-10-22T18:33:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "New York Post",
      "published_at": "2026-10-22T18:33:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-22T18:33:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUZTbFNQRkxSaHRUeEhZV1hWQTFCbW9QVy1EWmNiWGNzUlJvQkxEb2tBYjVqbUV1ZGFRYWkwZTdrZFN5MUR4NWtSTm9qYm1uRmZZNTdTU2NfcDhzTVM1ZzBNQ09HdXh0XzNVMFNIQ1dsQ29DWE5sYzFTRW9RSmpOZmtVRU04bEZNWFhB"
     }
    ],
    "category": "其他",
@@ -1118,6 +1123,23 @@
    "sentiment": 0
   },
   {
+   "id": "2a08d94bd7e4",
+   "title": "特斯拉第三季度交付48.65万辆 未交付订单量创近四年新高 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0XzRZUXAwOUhvX1Yxekd5YTc5ODZSYzRsWS1oYjRkNlhTU19lUnU3SzRIeUpxVWQ1cjk5QUdGUFJaLUN3UTNldG1kdElIN3ZSc1dHTmdXdzQzWTFRaDlWYnR2bEswdw",
+   "source": "东方财富",
+   "published_at": "2026-10-22T15:40:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-22T15:40:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0XzRZUXAwOUhvX1Yxekd5YTc5ODZSYzRsWS1oYjRkNlhTU19lUnU3SzRIeUpxVWQ1cjk5QUdGUFJaLUN3UTNldG1kdElIN3ZSc1dHTmdXdzQzWTFRaDlWYnR2bEswdw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
    "id": "3784f0d22c14",
    "title": "$特斯拉 (TSLA.US)$ 昨天盘后394没走，今天 387 还是跑了 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTg3TEZjME9ZV3pPN2stM3IydHJ5SXBQZEtpUXFpTzdhUXItVFFrQm9raFNQUFhfdkFzNVFQMjd1bnJQdFpXWkxSaFMybl9CQUxTQ2pIYmNFQy1LZl9fWC11QWJJQzU0enBfdWxRYWJYdmV1YWVpRVBPY3J6VFhZaHdNMnhEVHpGZ3pKcngwbXlGYUg4dTJSSkx6ZWxWcEREdDZMWFQ0UmdNYV9UV29jeXFYdU0tUQ",
@@ -1443,8 +1465,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "医生登邮轮时被发现携带特斯拉标志药片",
    "zh_summary": "特斯拉标志药片与登船医生被查",
+   "title_zh": "医生登邮轮时被发现携带特斯拉标志药片",
    "sentiment": 0
   },
   {
@@ -4383,8 +4405,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "【视频】当末日开特斯拉Roadster 2...",
    "zh_summary": "视频：末日开特斯拉Roadster 2",
+   "title_zh": "【视频】当末日开特斯拉Roadster 2...",
    "sentiment": 0
   },
   {
@@ -6250,26 +6272,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉盘后冲高回落",
    "title_zh": "特斯拉盘后冲高回落",
-   "sentiment": 0
-  },
-  {
-   "id": "212da1f9a787",
-   "title": "Tesla App Gains iPad and iPhone Duo Support - MacRumors",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnpNN2NzQUpoSElvbHpLcFJtbUczQ3IzcHRuZkl6aS1IdDlhUkxmWVpJbml0cG1hd0J0alNzUDZRZWRxUnlGSnhiWG5PbHJNcFpVOGFsZjBrRGZTSWR4R3pLNm1ZZmtxZTVrZ01Gcm9VbTF1MzRWanJlVm5YZHM3TzdwQ3pYY3h5",
-   "source": "MacRumors",
-   "published_at": "2026-10-22T06:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MacRumors",
-     "published_at": "2026-10-22T06:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnpNN2NzQUpoSElvbHpLcFJtbUczQ3IzcHRuZkl6aS1IdDlhUkxmWVpJbml0cG1hd0J0alNzUDZRZWRxUnlGSnhiWG5PbHJNcFpVOGFsZjBrRGZTSWR4R3pLNm1ZZmtxZTVrZ01Gcm9VbTF1MzRWanJlVm5YZHM3TzdwQ3pYY3h5"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉App新增iPad及双机支持",
-   "title_zh": "特斯拉App新增iPad与iPhone Duo支持",
    "sentiment": 0
   }
  ]
