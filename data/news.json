@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T16:08:53.210900+00:00",
+ "updated_at": "2026-10-22T16:25:20.810250+00:00",
  "market": {
-  "price": 380.32,
-  "change_pct": -1.59,
+  "price": 381.28,
+  "change_pct": -1.34,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -26,18 +26,18 @@
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.2%"
+     "score": -1,
+     "note": "目标价中位数 $400（15家），隐含空间 +4.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（280条已评分）"
+     "note": "今日新闻情绪 +0.03（287条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $380.32 vs 20日均线 $370.15"
+     "note": "现价 $381.28 vs 20日均线 $370.20"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.2,
-   "ma20": 370.15,
-   "as_of": "2026-10-22T16:08:53.197799+00:00"
+   "implied_upside_pct": 4.9,
+   "ma20": 370.2,
+   "as_of": "2026-10-22T16:25:20.800192+00:00"
   },
-  "pe_ttm": 105.2,
+  "pe_ttm": 105.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 280
+   "avg": 0.03,
+   "count": 287
   }
  },
  "meta": {
@@ -67,6 +67,62 @@
   }
  },
  "stories": [
+  {
+   "id": "b73a4f20d713",
+   "title": "71-year-old pedestrian killed by self-driving Tesla crossing I-80 in Vallejo: CHP - ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXBDb1VReG1uZ0t3RTdBbHVMMy1GdHZJRlVkZzB2azgzaEcyaWEyb2tuNVpIQTRXNnBpZEJiQXRKWk0taWZWbGpZWGtpVzZfSGcxQ2xOX2RHV0Z2STlSRU9sVTFvdlF2OVg5blcyd2EwQjR3U3pLQTZleS1WRmdoTUlvOEZBX0VfYnlGLXdOdTNSeDBNMW85OF9mZ1NPYWFrWjZRMnh30gGrAUFVX3lxTE9haWFGcXpILUlfY09XVy0wZzVpRjNkSWwwcU0xaVNGUWNrbVJ0dDRUODQwajlzRFVTVDBLY0lDZXJ6V0RQSFAxMnM5LUtfWW1pZ0tDR3A3cGVnT3VUM3l0V0E1aC1ZV0F1czRnbVJFRS1ZeXRad1g0ZVpvMkpGVDBNZ1Y0OVM3cFBVcWlwR3lBdjFONl84eWpFM1BSNWtzWWVGN2YyT3VsRHVfMA",
+   "source": "ABC7 Bay Area",
+   "published_at": "2026-10-22T16:14:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ABC7 Bay Area",
+     "published_at": "2026-10-22T16:14:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLXBDb1VReG1uZ0t3RTdBbHVMMy1GdHZJRlVkZzB2azgzaEcyaWEyb2tuNVpIQTRXNnBpZEJiQXRKWk0taWZWbGpZWGtpVzZfSGcxQ2xOX2RHV0Z2STlSRU9sVTFvdlF2OVg5blcyd2EwQjR3U3pLQTZleS1WRmdoTUlvOEZBX0VfYnlGLXdOdTNSeDBNMW85OF9mZ1NPYWFrWjZRMnh30gGrAUFVX3lxTE9haWFGcXpILUlfY09XVy0wZzVpRjNkSWwwcU0xaVNGUWNrbVJ0dDRUODQwajlzRFVTVDBLY0lDZXJ6V0RQSFAxMnM5LUtfWW1pZ0tDR3A3cGVnT3VUM3l0V0E1aC1ZV0F1czRnbVJFRS1ZeXRad1g0ZVpvMkpGVDBNZ1Y0OVM3cFBVcWlwR3lBdjFONl84eWpFM1BSNWtzWWVGN2YyT3VsRHVfMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "90a71f8b87ea",
+   "title": "Truist称，特斯拉与人工智能相关的投资导致营业利润率未达预期 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUE5TDNQUV83dFJidVZubHFaM3VmV3c2dTZtekJkTFEzWFRRdXRVd1BoOFI2Rkg2Q1hxbklGMVlTYkFib0JRdHZsRzdtYllPUzc1OUhqZW1YOTlVLWY1ZmZyYVJpckNURG0yWmFJSUMxNjdsMUJGVGNCcHRBOEdNLUR4S0Y5QXNac29tMENvZ2tDaE5xZWppMVpQdFdObEc5S1ptVHh2NHU",
+   "source": "富途牛牛",
+   "published_at": "2026-10-22T16:14:11+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-22T16:14:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUE5TDNQUV83dFJidVZubHFaM3VmV3c2dTZtekJkTFEzWFRRdXRVd1BoOFI2Rkg2Q1hxbklGMVlTYkFib0JRdHZsRzdtYllPUzc1OUhqZW1YOTlVLWY1ZmZyYVJpckNURG0yWmFJSUMxNjdsMUJGVGNCcHRBOEdNLUR4S0Y5QXNac29tMENvZ2tDaE5xZWppMVpQdFdObEc5S1ptVHh2NHU"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-22T16:14:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbU1NRGt6U215cV9kTUFNVHhqVk1ZazczUkdmZG9FbDQyVk1VbGF0UncxZVFELUk4TktzekYtemRVUHdsVzdNcWZGTkFSUHd5X04zOVdTUW83Qk0xeXhnS01TazZ1czcxOEllTy1KWFZSVWx4SEZDY18weDlDY3J6OUNRNTRya28tbE5tMDhvTy1yLV9TLUFLZUQ4dzRWSjVncDBDUnZsRHlVV3Zzbk1wRS1nRkQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "868f053500af",
+   "title": "Why Tesla Stock Dropped After Earnings - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE1HYXdCRWFSX2ZJTVRaM1FjSTcwdG5JTWl4dmxLa3RhWmU0cDg5SlVEb0trejBhaUJlT09wU1dwUzd1YzFrVnJJeWtsZ2ZJNDIyNmZYOGY4RUsyWEE0azVuZl9oU1ZVRXpOWE5EOVJxRDUwNUJDeEVUQVdKWndyZ1FFS2tBbzVO",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-22T16:11:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-22T16:11:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOE1HYXdCRWFSX2ZJTVRaM1FjSTcwdG5JTWl4dmxLa3RhWmU0cDg5SlVEb0trejBhaUJlT09wU1dwUzd1YzFrVnJJeWtsZ2ZJNDIyNmZYOGY4RUsyWEE0azVuZl9oU1ZVRXpOWE5EOVJxRDUwNUJDeEVUQVdKWndyZ1FFS2tBbzVO"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "468d297843d4",
    "title": "特斯拉Roadster车底风扇4700公斤下压力可倒挂天花板飞驰 - 新浪网",
@@ -86,6 +142,23 @@
    "zh_summary": "Roadster下压力4700公斤可倒挂行驶",
    "title_zh": "特斯拉Roadster车底风扇4700公斤下压力可倒挂天花板飞驰",
    "sentiment": 1
+  },
+  {
+   "id": "d4c388c4647b",
+   "title": "午间头条：Meta信用风险指标因人工智能支出计划创历史新高；特斯拉第三季度营收不及市场共识 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX045bzZYWjVVMmFjUnl3V3hmS0prTktKYWxwclBpYzFUUy1LYUpvWElDLUd6TFpMVldua280Y0s0X0tMWThpeUdsbmFHRlhvV2tFU3JHVXcwNVRLMzBpWGlrRnBiMkZ6QU8zZTJQampsM1kzaVFuZjVLUTN4S0ZMa0p3Yzl1NTJ2OHhIM1EwR2lST1ZjWUVTNlhZa0xvUFFLY3ROT1hneDdFUVE",
+   "source": "Moomoo",
+   "published_at": "2026-10-22T15:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-22T15:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX045bzZYWjVVMmFjUnl3V3hmS0prTktKYWxwclBpYzFUUy1LYUpvWElDLUd6TFpMVldua280Y0s0X0tMWThpeUdsbmFHRlhvV2tFU3JHVXcwNVRLMzBpWGlrRnBiMkZ6QU8zZTJQampsM1kzaVFuZjVLUTN4S0ZMa0p3Yzl1NTJ2OHhIM1EwR2lST1ZjWUVTNlhZa0xvUFFLY3ROT1hneDdFUVE"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "5414c9666a81",
@@ -146,6 +219,23 @@
    "zh_summary": "评论称特斯拉只是一家车企",
    "title_zh": "特斯拉只是一家汽车公司",
    "sentiment": -1
+  },
+  {
+   "id": "0d300ad69ab6",
+   "title": "Watch Stocks Fall as Meta and Tesla Earnings Fail to Support AI Trade - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDV6YnM3YXRHRE5mWG9xaHcteHpyNzU3c3RONVJMOHpRWlM1TnVOVUxPR3VJTDRPeWJPQnV2LW9keXNFRXlCRE5TSmdSZDNUdjFUOGpqbUM0YzRCNjBsQXBYY2NvOEl5X2hrN1VxeEptWVpLbmNtZks1ZEJRS2VtZkpHMW5tbXdxVWpWUlpISDJqZw",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-22T15:50:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-22T15:50:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDV6YnM3YXRHRE5mWG9xaHcteHpyNzU3c3RONVJMOHpRWlM1TnVOVUxPR3VJTDRPeWJPQnV2LW9keXNFRXlCRE5TSmdSZDNUdjFUOGpqbUM0YzRCNjBsQXBYY2NvOEl5X2hrN1VxeEptWVpLbmNtZks1ZEJRS2VtZkpHMW5tbXdxVWpWUlpISDJqZw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "1f3140532bb2",
@@ -286,6 +376,40 @@
    "zh_summary": "特斯拉FSD模式下撞死行人",
    "title_zh": "旧金山特斯拉FSD模式撞死横穿行人",
    "sentiment": -2
+  },
+  {
+   "id": "e1f446d09801",
+   "title": "Tesla’s Q3 profit falls 43% as operating costs rise - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTlBTjhQS25qTWU4a3ZVa2pBVkhTTXppNzBmSlZwUU10d3hULW1tVTNIdFZCcHRGMmI3ZzhnS2VCakNKV3ZXc1dkVWFmWGhOUzdtLVFDck1oTXlFOGZXcHdrczVKTUZoU1VZQldvZVhPV2tZd0RKRzZLR0xMeURoNmhreENQdUR6WDYzczhUVWFEd28",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T15:16:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T15:16:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTlBTjhQS25qTWU4a3ZVa2pBVkhTTXppNzBmSlZwUU10d3hULW1tVTNIdFZCcHRGMmI3ZzhnS2VCakNKV3ZXc1dkVWFmWGhOUzdtLVFDck1oTXlFOGZXcHdrczVKTUZoU1VZQldvZVhPV2tZd0RKRzZLR0xMeURoNmhreENQdUR6WDYzczhUVWFEd28"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "06fdafb41f1e",
+   "title": "特朗普给特斯拉贴上警告标签 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1liX2tSbDNtNUs5UUtSeGdqSENja2s0WG9pdGdtQVNmR0xVX0ZfaDl3OEZRXzhvQTdESEhnREZlZ29YRnE1enkzbWlyV1R6TXQ3amZTdkQxTXgyRzBBQnJ6SWFLRlpRMHRzQWF0T3NFVDZyRWRWOFc3YXQyeHYxYkF1NFd5VFR4TDFpVEZlZHVFTjc0Z3lNOXRMUVhJUQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-22T15:16:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-22T15:16:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1liX2tSbDNtNUs5UUtSeGdqSENja2s0WG9pdGdtQVNmR0xVX0ZfaDl3OEZRXzhvQTdESEhnREZlZ29YRnE1enkzbWlyV1R6TXQ3amZTdkQxTXgyRzBBQnJ6SWFLRlpRMHRzQWF0T3NFVDZyRWRWOFc3YXQyeHYxYkF1NFd5VFR4TDFpVEZlZHVFTjc0Z3lNOXRMUVhJUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9f5bb26a09e1",
@@ -433,6 +557,40 @@
    "sentiment": -2
   },
   {
+   "id": "fd0927a5106d",
+   "title": "Tesla's $30,000 Cybercab Arrives, But Not for You - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWJDUWZ6eEthVnI5UTRKTTZDLWYyRlBfU3FwYm1Va1V4N1FjT0l6OTBJemxXXzJ6cUZaMndIdkZ3STM2MkZNUmZQbkI1NDV1NmJJeWlrSXZ2Q2tXTFVqNEI5Q3AzaEwxVXJTN3d0YnlxVjBreWJ6MFpSeXY5bzFpNGN1ejZvS0J3UjBQd2NiTTVZT3dJNDJVblNVbjhPUQ",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-22T14:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-22T14:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWJDUWZ6eEthVnI5UTRKTTZDLWYyRlBfU3FwYm1Va1V4N1FjT0l6OTBJemxXXzJ6cUZaMndIdkZ3STM2MkZNUmZQbkI1NDV1NmJJeWlrSXZ2Q2tXTFVqNEI5Q3AzaEwxVXJTN3d0YnlxVjBreWJ6MFpSeXY5bzFpNGN1ejZvS0J3UjBQd2NiTTVZT3dJNDJVblNVbjhPUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "d8161696f36f",
+   "title": "特斯拉、英伟达投资三星电机合计注资约3万亿韩元！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PSktWZWlZUFk3Sk90VGtxSXNiNnBkbUp1T3VpMkN2YTVGdS0yWXRuVS12ZGpUMzZBb09aUjg2ZGIyLUM0cVNZUElVU294c1lCT0RXRkcxTUxiWDA",
+   "source": "汽车之家",
+   "published_at": "2026-10-22T14:54:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-22T14:54:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PSktWZWlZUFk3Sk90VGtxSXNiNnBkbUp1T3VpMkN2YTVGdS0yWXRuVS12ZGpUMzZBb09aUjg2ZGIyLUM0cVNZUElVU294c1lCT0RXRkcxTUxiWDA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "92d7fa201b98",
    "title": "营收持平，净利润又跌43%，特斯拉的钱都去了Robotaxi和机器人？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IN3c4b0x4YlhndFB4Tzk3TVVjSXZzR1p3bnlXWkMwY0FMZlFuQ1BxNTFUZ2ozeUpVd3FzZ1VuQXVLT1BLMlpGNXhMRWtRX016bFB2UXc1VmtzYTJuZ2R6Zks2UzlIYmtBV2FJ",
@@ -538,12 +696,17 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmtIOGFlM0Z6YzE4Tms0ZUxEZVdHTUpUMjNLcmhCWHlleVBnZXNxZGpJdnJnYmpuNHNCMXRYV0N0Q25PSGE0RFhYVG1hcWdtdTVMZGN5bm0xVDBLbnBzMm5PZ093R1pISDUyWEdwNzdIcng1ekw2UzlZNUw4SXh6V202NXlSUEhTZzBtclZ2ZHlHVll3ZGhobDNyd2pCYWthcGdOZ1FB",
    "source": "富途牛牛",
    "published_at": "2026-10-22T14:35:23+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "富途牛牛",
      "published_at": "2026-10-22T14:35:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmtIOGFlM0Z6YzE4Tms0ZUxEZVdHTUpUMjNLcmhCWHlleVBnZXNxZGpJdnJnYmpuNHNCMXRYV0N0Q25PSGE0RFhYVG1hcWdtdTVMZGN5bm0xVDBLbnBzMm5PZ093R1pISDUyWEdwNzdIcng1ekw2UzlZNUw4SXh6V202NXlSUEhTZzBtclZ2ZHlHVll3ZGhobDNyd2pCYWthcGdOZ1FB"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-22T14:59:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEgzWkZjMExvMGtsRjRyeFdWVy0wUzdPSThCcWZfM2owUGlTWXJkYlI0QmFSZEpxaGR0bjlaQU56OWRCWi1ONXkwY2tlbmRMOEptTzR0YXZld2NIWHZZWXd4NklPdVNaU2ZpTEk3RGpxV0FuLUdrakRMRW1qTFJDaFNhTmNhQ0VIZW5TLXprR1F6bVFWZWsxaEdXMlIxYXhyRFdEYVJzUnB2N19QWklLSkxB"
     }
    ],
    "category": "分析师",
@@ -576,6 +739,23 @@
    "zh_summary": "马斯克称特斯拉将占多数客运里程",
    "title_zh": "马斯克：特斯拉将占据地球上\"大多数客运里程\"",
    "sentiment": 0
+  },
+  {
+   "id": "60d769ab27a2",
+   "title": "产业链搬进“四叶草”，特斯拉、罗克韦尔、利勃海尔扎堆进博会最大单一展厅 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tMU1VcU5ienBJUEVKMGxtZFJrTFJ1a0h0Z2FuZXI0cy1fbEh2Y3RJcWFodFZoZFFnQldWbW5KYlNKZV9uYlBsMV9HNTRoMUcyMFczNVRNRUotQnZmWVpWTjE5LWZoN1ZKYnZPeWItLURvVjV6TlhDLQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-22T14:28:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T14:28:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tMU1VcU5ienBJUEVKMGxtZFJrTFJ1a0h0Z2FuZXI0cy1fbEh2Y3RJcWFodFZoZFFnQldWbW5KYlNKZV9uYlBsMV9HNTRoMUcyMFczNVRNRUotQnZmWVpWTjE5LWZoN1ZKYnZPeWItLURvVjV6TlhDLQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "addf2eeacfb5",
@@ -886,6 +1066,23 @@
    "zh_summary": "SpaceX三季报超预期并购猜测升温",
    "title_zh": "SpaceX Q3超预期，但特斯拉合并前景成焦点",
    "sentiment": 1
+  },
+  {
+   "id": "8601a24b6d0f",
+   "title": "Tesla: Current and upcoming models, prices, specs, and more - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg",
+   "source": "Electrek",
+   "published_at": "2026-10-22T14:00:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-22T14:00:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f25b6bcf0a0b",
@@ -1228,6 +1425,23 @@
    "sentiment": -1
   },
   {
+   "id": "996eea2d4903",
+   "title": "Tesla’s Most Boring Business Upstages Entire Company - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ3dHdVJiU0NrX19GSFI4QUFsUi0wNDJhNW4yQnpZSVFxUC1ydklkU3NuRjEzN2hDSS1MTU5Xc3VpcmllaXN2eEVHRHNTdmtQcXpfdlRCUkZkVEk2MWtCSG5TSmhnWUk3R1BGSUdKdk44VGJUS1Y2VnBndC1HbzlQc0xVV2w4RDZiRml1c09SMWVNWmdXYzJWTHJZYnNLTDhMTFpPeTRYZXBTOFMtZE5OTmFjXzNBUHVHa09DNlI0MkJaZlFfWkhEM3l3",
+   "source": "Benzinga",
+   "published_at": "2026-10-22T13:31:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-22T13:31:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ3dHdVJiU0NrX19GSFI4QUFsUi0wNDJhNW4yQnpZSVFxUC1ydklkU3NuRjEzN2hDSS1MTU5Xc3VpcmllaXN2eEVHRHNTdmtQcXpfdlRCUkZkVEk2MWtCSG5TSmhnWUk3R1BGSUdKdk44VGJUS1Y2VnBndC1HbzlQc0xVV2w4RDZiRml1c09SMWVNWmdXYzJWTHJZYnNLTDhMTFpPeTRYZXBTOFMtZE5OTmFjXzNBUHVHa09DNlI0MkJaZlFfWkhEM3l3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "96e47bec9eeb",
    "title": "瑞银上调Meta、特斯拉目标价 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CX21DUFM2NDlsWFRJTzkxYjlZMG5IdHczMG1VTUtUN0lDMklnNzZvTWloUGFJVkk5RHA4aXlFYndVMEJfYksySGllRkdKcE1HMllmSWNhSDBQdFhHc3p3bG52cw",
@@ -1292,6 +1506,23 @@
    "zh_summary": "法国巴黎银行将特斯拉上调至中性",
    "title_zh": "法国巴黎银行将特斯拉评级从跑输大盘上调至中性",
    "sentiment": 1
+  },
+  {
+   "id": "393beaa9095c",
+   "title": "瑞银将特斯拉（Tesla Inc ）目标价从391美元上调至425美元。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdXhkOEEwMmgzc2tjS2E4dVNZdzFGVk5oMzJ3T2FWYXBGQkNiNFJkeUZzVHZZZGR5VENOX0lpaGhVZlFKanRKN0k4cw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-22T13:19:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-22T13:19:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdXhkOEEwMmgzc2tjS2E4dVNZdzFGVk5oMzJ3T2FWYXBGQkNiNFJkeUZzVHZZZGR5VENOX0lpaGhVZlFKanRKN0k4cw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "733e106c2f49",
@@ -3254,10 +3485,15 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuQ2JwUlQzNG94aXJIZ2o5LUhVSHFlY2NSQzBSOUR5UWM5ZVhDV3JwYmJicDVSTjZ5NThwM0RkQV80ckc4V2xQdzctNWg",
    "source": "凤凰网",
    "published_at": "2026-10-22T09:55:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网",
+     "published_at": "2026-10-22T09:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuQ2JwUlQzNG94aXJIZ2o5LUhVSHFlY2NSQzBSOUR5UWM5ZVhDV3JwYmJicDVSTjZ5NThwM0RkQV80ckc4V2xQdzctNWg"
+    },
+    {
+     "name": "凤凰网汽车",
      "published_at": "2026-10-22T09:55:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuQ2JwUlQzNG94aXJIZ2o5LUhVSHFlY2NSQzBSOUR5UWM5ZVhDV3JwYmJicDVSTjZ5NThwM0RkQV80ckc4V2xQdzctNWg"
     }
@@ -6050,271 +6286,6 @@
    "zh_summary": "特斯拉FSD装机率六大要点解析",
    "title_zh": "特斯拉FSD装机率：6个关键细节",
    "sentiment": 0
-  },
-  {
-   "id": "77ff099b4106",
-   "title": "特斯拉三季度利润腰斩，马斯克确认董事会评估与SpaceX合并 - 虎嗅",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IY2lKRVNKYkF5WEFQQzFyUE85TVhYQTJRMU5KREdISUJNZ3p3ZFZEN05iYzdjYlQzNkswSDBoZDkwMjV3dFhPV0VXVm9lQWVSV3F1Sw",
-   "source": "虎嗅",
-   "published_at": "2026-10-22T05:01:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "虎嗅",
-     "published_at": "2026-10-22T05:01:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IY2lKRVNKYkF5WEFQQzFyUE85TVhYQTJRMU5KREdISUJNZ3p3ZFZEN05iYzdjYlQzNkswSDBoZDkwMjV3dFhPV0VXVm9lQWVSV3F1Sw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "三季度利润腰斩评估合并",
-   "title_zh": "特斯拉三季度利润腰斩，马斯克确认董事会评估与SpaceX合并 - 虎嗅",
-   "sentiment": 0
-  },
-  {
-   "id": "ee06ca6068a9",
-   "title": "马斯克公开支持SpaceX与特斯拉合并，内部人士忧监管风险 提供者 Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KQjlURVNZU3dhUVJ0eVNPRFdLT21fb19zb29tU21wZjJ6WXpCU0dPRkRzR3B0dVlmMVN2aUpTY1FNd1pDSHhaY3VtZ3B2QWNOYVQxV1ZVcGRISmtKRW0zdjZseHU4UXZQbmVEdGhSUDY",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-22T04:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-22T04:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KQjlURVNZU3dhUVJ0eVNPRFdLT21fb19zb29tU21wZjJ6WXpCU0dPRkRzR3B0dVlmMVN2aUpTY1FNd1pDSHhaY3VtZ3B2QWNOYVQxV1ZVcGRISmtKRW0zdjZseHU4UXZQbmVEdGhSUDY"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克支持合并，内部忧监管风险",
-   "title_zh": "马斯克公开支持SpaceX与特斯拉合并，内部人士忧监管风险",
-   "sentiment": 0
-  },
-  {
-   "id": "7b259acdc44c",
-   "title": "Five things about the 2017 (used) Tesla Model X P100D - The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlZaMGVuTkZnRnQ2YWhuY1dhbDJUZWJ2eFVJYU9CSGlRYjBYaU5zaV82ZWhCV1ZsempXVmQ5OHlWTk9KQkgzQUg5dVZ0bFExUlFOQ2szZzFtblVXQ2gwZlBvSUUyZXNvQTVwV0tXeWVhdzM5MGpDSlUtdmJKRUhCV1duRmNoS2oxUVA5NU1qTlI0Vmx5ZzAzS2xDU0xwdExISFBWM19SUFVIYVAtM2hQUEhjbFBlR3M2aFdsM0hn",
-   "source": "The Detroit News",
-   "published_at": "2026-10-22T04:43:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Detroit News",
-     "published_at": "2026-10-22T04:43:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlZaMGVuTkZnRnQ2YWhuY1dhbDJUZWJ2eFVJYU9CSGlRYjBYaU5zaV82ZWhCV1ZsempXVmQ5OHlWTk9KQkgzQUg5dVZ0bFExUlFOQ2szZzFtblVXQ2gwZlBvSUUyZXNvQTVwV0tXeWVhdzM5MGpDSlUtdmJKRUhCV1duRmNoS2oxUVA5NU1qTlI0Vmx5ZzAzS2xDU0xwdExISFBWM19SUFVIYVAtM2hQUEhjbFBlR3M2aFdsM0hn"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "二手Model X P100D评测五件事",
-   "title_zh": "二手2017款特斯拉Model X P100D五件事",
-   "sentiment": 0
-  },
-  {
-   "id": "ef8d833d54c1",
-   "title": "马斯克谈SpaceX与特斯拉合并可能性 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmdVQmJKMmVoYU9qWTZGZzJBRFdVWGQ3NGN4ODljTWRRNk9YUUdLTHhHYXpGemxBSC13X3FaZ3R2aW9wRDNuSHJEbGRVZTk4WmZScm12aUpjVHJZWldXTjliZjBad2hMYUhIR1E2bjB3dS1VazNhWGNkV2lIdVhhVjFMaw",
-   "source": "新浪网",
-   "published_at": "2026-10-22T04:42:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T04:42:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSmdVQmJKMmVoYU9qWTZGZzJBRFdVWGQ3NGN4ODljTWRRNk9YUUdLTHhHYXpGemxBSC13X3FaZ3R2aW9wRDNuSHJEbGRVZTk4WmZScm12aUpjVHJZWldXTjliZjBad2hMYUhIR1E2bjB3dS1VazNhWGNkV2lIdVhhVjFMaw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克谈与SpaceX合并可能性",
-   "title_zh": "马斯克谈SpaceX与特斯拉合并可能性 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "caaccf170ae8",
-   "title": "我去，真能飞！ 特斯拉Roadster有点意思啊。 #特斯拉新车能飞# http://t.cn/AXlYhOAt ​ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZzdnY1ludGdFN3hQNDdXamh5aG80VE9PM2dSV19sbkMwSnM3NWZlSWQybjFtTkVfZFJpUHBlVUhQUHRJc1hVb3NHREJDTEpORGhMZjlVaXhiM1NMMk5reHg3SQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T04:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T04:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZzdnY1ludGdFN3hQNDdXamh5aG80VE9PM2dSV19sbkMwSnM3NWZlSWQybjFtTkVfZFJpUHBlVUhQUHRJc1hVb3NHREJDTEpORGhMZjlVaXhiM1NMMk5reHg3SQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster真能飞",
-   "title_zh": "特斯拉Roadster真能飞，有点意思",
-   "sentiment": 1
-  },
-  {
-   "id": "961afed85bac",
-   "title": "特斯拉三季度营收280.46亿美元 交付48.65万辆 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqSmdNVmpLZjV6bE51Nl9JWHB4SUxaM01pdnZmeG5jZHhVVUFHQ3JZQ1gzN2tLQTNZTVV3S2kwa2x5dnBVM0xQSHJwODVsd3E2eGEzcndYZ1BtMzNubUxGSkY1T2lZWHI1MVltUmZKMXo5WW11UE5MNlFfbzAwZw",
-   "source": "新浪网",
-   "published_at": "2026-10-22T04:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T04:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqSmdNVmpLZjV6bE51Nl9JWHB4SUxaM01pdnZmeG5jZHhVVUFHQ3JZQ1gzN2tLQTNZTVV3S2kwa2x5dnBVM0xQSHJwODVsd3E2eGEzcndYZ1BtMzNubUxGSkY1T2lZWHI1MVltUmZKMXo5WW11UE5MNlFfbzAwZw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "三季度营收280.46亿交付48.65万",
-   "title_zh": "特斯拉三季度营收280.46亿美元，交付48.65万辆",
-   "sentiment": 1
-  },
-  {
-   "id": "e87514beba87",
-   "title": "Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch - Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbC1fQUlpLTBJc1l6SXppY3ZZLXVpclhSMmpMTktnUjE2djA0UlVoRXlFT1ptMHhWQlFHSS13b3lzOWZmVThHbXhndmVzRGpyRWlob0lJRGpyOXFHOE5TeDF0d2VuOW5XcGNNeE43SDVaWlNXV1pMRlNEdVl3VzVpMTBCb0FadkdieGJsaFRJSGNxdUN3dDBLUHpSQkg5NXh6MVVyU1pxTXloM1VVZ2x5RGM2Yk1DRmZpN3lJQ19VYXdXZ9IBxwFBVV95cUxQcmtObEV1cWVsclhVNzItRW5WQmtrai1uXzRBTTJ1U2pPdmFmYVYxTHdwY0JuSTZVM2xOcG55RFU1RHN6eDBQckhneldEREtWemJqYTFOWW53OWpLNXFOd1IzWjhxSklTaGFCNHVRUkxHXzU0TXV0QkpTMkxQYUFtWTNieGR4emd6LTFQS3RaT3pCb2pFc1ZycVFHMFNLZW5Vd2xTSjR0WHdGakFRSGQwMDdwYVhtUi1MSjQ2WHZtTzJyckdjX2VZ",
-   "source": "Fox Business",
-   "published_at": "2026-10-22T04:38:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fox Business",
-     "published_at": "2026-10-22T04:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbC1fQUlpLTBJc1l6SXppY3ZZLXVpclhSMmpMTktnUjE2djA0UlVoRXlFT1ptMHhWQlFHSS13b3lzOWZmVThHbXhndmVzRGpyRWlob0lJRGpyOXFHOE5TeDF0d2VuOW5XcGNNeE43SDVaWlNXV1pMRlNEdVl3VzVpMTBCb0FadkdieGJsaFRJSGNxdUN3dDBLUHpSQkg5NXh6MVVyU1pxTXloM1VVZ2x5RGM2Yk1DRmZpN3lJQ19VYXdXZ9IBxwFBVV95cUxQcmtObEV1cWVsclhVNzItRW5WQmtrai1uXzRBTTJ1U2pPdmFmYVYxTHdwY0JuSTZVM2xOcG55RFU1RHN6eDBQckhneldEREtWemJqYTFOWW53OWpLNXFOd1IzWjhxSklTaGFCNHVRUkxHXzU0TXV0QkpTMkxQYUFtWTNieGR4emd6LTFQS3RaT3pCb2pFc1ZycVFHMFNLZW5Vd2xTSjR0WHdGakFRSGQwMDdwYVhtUi1MSjQ2WHZtTzJyckdjX2VZ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "需求超过产能",
-   "title_zh": "马斯克称特斯拉车辆需求超过产能",
-   "sentiment": 1
-  },
-  {
-   "id": "9e838e391aec",
-   "title": "54%份额！特斯拉三季度美国电动车卖出14.4万辆，超其他品牌总和 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05eERiTjVnUTY2b3FCLWpfbURKeTNhV1Q0RzJCYW1qWTNhS09CSFlQU1kzTzZMMGxhZ19DM0FUSE9NSlJwYVZqMW9rcDlyMVREeFlBRmxKTlZUTnM",
-   "source": "网通社",
-   "published_at": "2026-10-22T04:36:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-22T04:36:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05eERiTjVnUTY2b3FCLWpfbURKeTNhV1Q0RzJCYW1qWTNhS09CSFlQU1kzTzZMMGxhZ19DM0FUSE9NSlJwYVZqMW9rcDlyMVREeFlBRmxKTlZUTnM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉三季度美国电车份额54%",
-   "title_zh": "54%份额！特斯拉三季度美国电动车卖出14.4万辆，超其他品牌总和",
-   "sentiment": 1
-  },
-  {
-   "id": "e337660099f3",
-   "title": "$特斯拉 (TSLA.US)$ 今天试试《空》你了 [偷笑] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFpDRnpCTjZjYUktWTJMQVFmZU4zN0JfOFVhVVZmeVEyYzFfVHdrVjBsejlSZ0RNcFlFYkVrZmxnNF9mWVB1Q2hQX3pXR2NLS0tQdDFhUUVuNVh6dGE1T3pBU2Vic0sxS3o4ZkphZ1JJMW1VRWJINEl0OGQ0VXl3MHZIUmlBMDZuWUMtOVBWWS0tMURSSmFOVWg2dXUwWmc",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T04:35:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T04:35:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFpDRnpCTjZjYUktWTJMQVFmZU4zN0JfOFVhVVZmeVEyYzFfVHdrVjBsejlSZ0RNcFlFYkVrZmxnNF9mWVB1Q2hQX3pXR2NLS0tQdDFhUUVuNVh6dGE1T3pBU2Vic0sxS3o4ZkphZ1JJMW1VRWJINEl0OGQ0VXl3MHZIUmlBMDZuWUMtOVBWWS0tMURSSmFOVWg2dXUwWmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "某散户发文调侃做空特斯拉",
-   "title_zh": "$特斯拉 (TSLA.US)$ 今天试试《空》你了 [偷笑]",
-   "sentiment": 0
-  },
-  {
-   "id": "270f709498f0",
-   "title": "Here’s why Musk would merge Tesla and SpaceX - Morning Brew",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0NPU2hzc3piMzdjN1k2Z001OElMSmVqS2Z6LXJYTE5aRzRTSndUeF9Wc0ZkazZPeEs4UFYzTVdwUzFRVVJScmJiRVZzSE83Y3JiYXczRmZxRU1YR2p0NjNyNi1EUXFnYnMtRWZCU3VrVnd2T0c3WndhX19SczFEMDVQam9EZw",
-   "source": "Morning Brew",
-   "published_at": "2026-10-22T04:33:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Morning Brew",
-     "published_at": "2026-10-22T04:33:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0NPU2hzc3piMzdjN1k2Z001OElMSmVqS2Z6LXJYTE5aRzRTSndUeF9Wc0ZkazZPeEs4UFYzTVdwUzFRVVJScmJiRVZzSE83Y3JiYXczRmZxRU1YR2p0NjNyNi1EUXFnYnMtRWZCU3VrVnd2T0c3WndhX19SczFEMDVQam9EZw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克为何要合并两家公司",
-   "title_zh": "马斯克为何合并特斯拉与SpaceX",
-   "sentiment": 1
-  },
-  {
-   "id": "0bca0cabb082",
-   "title": "Payne: Back to the future in the 2017 Tesla Model X P100D - The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXdrUU9ZNl9Nem1KWFRlNTdNQUxvZWhDTndIYW0zdy1DN0FPazNJTmNUR1Y3S0E2elQ0OWh4RU43elZPTjZ0LWVDaEpCMEJJU3NNYmRVVk1zMC12YnF4QUdRWWxKakJ4UVNhSk9YUmxVeUhWR3VicEtmQUJINXFIaFBzUzVTZHRXbXVMdHdkc0tSMDNTalktazktSG50WENodmZVdTZUZmVPUTNMMzQ4ZHB4TnBfeU54bW9oTjV1ZlJKS2xqR09zRHRfdFJmUVBh",
-   "source": "The Detroit News",
-   "published_at": "2026-10-22T04:33:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Detroit News",
-     "published_at": "2026-10-22T04:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXdrUU9ZNl9Nem1KWFRlNTdNQUxvZWhDTndIYW0zdy1DN0FPazNJTmNUR1Y3S0E2elQ0OWh4RU43elZPTjZ0LWVDaEpCMEJJU3NNYmRVVk1zMC12YnF4QUdRWWxKakJ4UVNhSk9YUmxVeUhWR3VicEtmQUJINXFIaFBzUzVTZHRXbXVMdHdkc0tSMDNTalktazktSG50WENodmZVdTZUZmVPUTNMMzQ4ZHB4TnBfeU54bW9oTjV1ZlJKS2xqR09zRHRfdFJmUVBh"
-    },
-    {
-     "name": "Belleville News-Democrat",
-     "published_at": "2026-10-22T04:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1VjB3T2dPcGNkNVl3NjQtYTc0TGkzdldHekZqeU1Gbl9DcVhGTFdoMkV1aVBTZGJ0dWtzZ0d3UkhZVkJyWUdDVXVobVc0STZra0lBVVpkWjJSTWxYRW41MVl1dXpaQXBnak9jUkpnV0ZWUFI4YVVz"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "底特律新闻回顾2017款Model X",
-   "title_zh": "佩恩评测：重温2017款特斯拉Model X P100D",
-   "sentiment": 0
-  },
-  {
-   "id": "5693517057cf",
-   "title": "叫台特斯拉无人出租车，为啥只有两个座位？ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXViTTg4dEtIZFNHSUgtOEgxRFhoc3FvZnJZeUIxT1Jha3pKUk0zenR5aklFZE53dzAwdlN6LVkyaldaNmpHWHdqa0xJRFljMndseFpyaVptOEp1ZnZTU3I0S3FPVmk0aWxXZ0dNbHdhV1llWVpvR3VWWEZFenhqWA",
-   "source": "新浪网",
-   "published_at": "2026-10-22T04:31:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T04:31:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXViTTg4dEtIZFNHSUgtOEgxRFhoc3FvZnJZeUIxT1Jha3pKUk0zenR5aklFZE53dzAwdlN6LVkyaldaNmpHWHdqa0xJRFljMndseFpyaVptOEp1ZnZTU3I0S3FPVmk0aWxXZ0dNbHdhV1llWVpvR3VWWEZFenhqWA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "无人出租车为何只有两座",
-   "title_zh": "叫台特斯拉无人出租车，为啥只有两个座位？ - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "11e6cfc29794",
-   "title": "派杰投资将特斯拉目标价从450美元上调至475美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RaVVmSjJ5TWRZWU5XVDhyMmdwbk1tLTVfTXJLTDh0cmFIbk5vcVNqTFdEY1JWaG1HWEdqMkNSVnFsZ0lpdmIyaGpweGs3ejJoME1JbEV6cGw4bmdEX0lORERLUUVBUQ",
-   "source": "东方财富",
-   "published_at": "2026-10-22T04:31:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T04:31:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RaVVmSjJ5TWRZWU5XVDhyMmdwbk1tLTVfTXJLTDh0cmFIbk5vcVNqTFdEY1JWaG1HWEdqMkNSVnFsZ0lpdmIyaGpweGs3ejJoME1JbEV6cGw4bmdEX0lORERLUUVBUQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘后",
-   "zh_summary": "派杰上调特斯拉目标价至475美元",
-   "title_zh": "派杰投资将特斯拉目标价从450美元上调至475美元 - 东方财富",
-   "sentiment": 1
   }
  ]
 }
