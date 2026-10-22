@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T19:38:07.732084+00:00",
+ "updated_at": "2026-10-22T19:52:31.227805+00:00",
  "market": {
-  "price": 376.68,
-  "change_pct": -2.53,
+  "price": 379.91,
+  "change_pct": -1.7,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 41% 分位"
+     "note": "现价处于52周区间 43% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +6.2%"
+     "note": "目标价中位数 $400（15家），隐含空间 +5.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（299条已评分）"
+     "note": "今日新闻情绪 -0.01（297条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $376.68 vs 20日均线 $369.98"
+     "note": "现价 $379.91 vs 20日均线 $370.13"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 41,
+   "price_52w_pct": 43,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 6.2,
-   "ma20": 369.98,
-   "as_of": "2026-10-22T19:38:07.725816+00:00"
+   "implied_upside_pct": 5.3,
+   "ma20": 370.13,
+   "as_of": "2026-10-22T19:52:31.217397+00:00"
   },
-  "pe_ttm": 104.2,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.2%空间：估值适中，预期中性",
+  "pe_ttm": 105.1,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.01,
-   "count": 299
+   "count": 297
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ccab823f5c1b",
+   "title": "Tesla Driver Claims FSD Was Active in Fatal I-80 Pedestrian Strike - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEJ5T3VFUUNkdnF0ZWN4RFdzaTdycFhQYWVrRTh3SGVSNjZORGJ5d2VNamxIUlNVYlBfT3RIRWZTbFZzQjladDhDNk01eFBqVEg4NUlHQjhETTRaQ1NwamtVOWVnN0RNSmlBN3RfemFvZ1V1U203dWhXYUxybmlRTXZTSS1aM2NQVkYzaA",
+   "source": "Yahoo",
+   "published_at": "2026-10-22T19:34:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-22T19:34:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEJ5T3VFUUNkdnF0ZWN4RFdzaTdycFhQYWVrRTh3SGVSNjZORGJ5d2VNamxIUlNVYlBfT3RIRWZTbFZzQjladDhDNk01eFBqVEg4NUlHQjhETTRaQ1NwamtVOWVnN0RNSmlBN3RfemFvZ1V1U203dWhXYUxybmlRTXZTSS1aM2NQVkYzaA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "d82ba87641e7",
+   "title": "问界回应神木碰撞起火、特斯拉三季度财报出炉，你想知道的都在这里（Q&A） - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxWmNScmdJSDVqVWFWOF9CUXYzZUYtaVE4RzRCM0NiNlNXajBxME9xenkyS3hVeS1XaUFhRXgyZlhPWXdGRkRNdFlHRDNPV0NTVkpfa0dtYXc3V0E",
+   "source": "网通社",
+   "published_at": "2026-10-22T19:33:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-22T19:33:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxWmNScmdJSDVqVWFWOF9CUXYzZUYtaVE4RzRCM0NiNlNXajBxME9xenkyS3hVeS1XaUFhRXgyZlhPWXdGRkRNdFlHRDNPV0NTVkpfa0dtYXc3V0E"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "1271a5725d35",
    "title": "This level-headed Tesla bull still expects something huge from the Cybercab - Yahoo Finance",
@@ -371,6 +405,23 @@
    "zh_summary": "自动驾驶特斯拉加州撞死71岁行人",
    "title_zh": "自动驾驶特斯拉加州撞死71岁行人",
    "sentiment": -2
+  },
+  {
+   "id": "bce4493c6e35",
+   "title": "Elderly Man Killed By Tesla In Self-Driving Mode on I-80 In Vallejo - SFist",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjdRWV9JLWFNakI0M0NCdHRRVC1mOUJ1MXBiY0NfaEE0N0piU2hWSXpRYWJfTHBSZkpmNFRhVlc5SWtTdzUtbFo0bjRkNkl2eGJsY1k4dC1pY0JyOS1RX2ptQ05DOHNBc2ttN0s1ZzZWLVM1cmxldzZ3UXVwYjhLWnVndzhPRndjU1VuWEt4REZfNHl1bXRTUlhsaUM1UQ",
+   "source": "SFist",
+   "published_at": "2026-10-22T17:32:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SFist",
+     "published_at": "2026-10-22T17:32:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjdRWV9JLWFNakI0M0NCdHRRVC1mOUJ1MXBiY0NfaEE0N0piU2hWSXpRYWJfTHBSZkpmNFRhVlc5SWtTdzUtbFo0bjRkNkl2eGJsY1k4dC1pY0JyOS1RX2ptQ05DOHNBc2ttN0s1ZzZWLVM1cmxldzZ3UXVwYjhLWnVndzhPRndjU1VuWEt4REZfNHl1bXRTUlhsaUM1UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8752fc6a2848",
@@ -6216,66 +6267,6 @@
    "zh_summary": "FSD全球付费破174万",
    "title_zh": "特斯拉FSD全球付费破174万，中国车主无时间表",
    "sentiment": 1
-  },
-  {
-   "id": "76f4a39ace07",
-   "title": "特斯拉Q3净利润下滑43% 但北美FSD开通率一个季度从 55%涨到75% - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41bUwxS29Pb1QtcmV0dzZwcFFLOXY5SjhsS05ISGZpZmJJZEJ4eks0VjFwcUxrb0RjbzZZVmZQcUF2NXdrdUo1UTBJeDZrVEtBWHpaRGVtY0duOU0",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T06:51:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T06:51:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41bUwxS29Pb1QtcmV0dzZwcFFLOXY5SjhsS05ISGZpZmJJZEJ4eks0VjFwcUxrb0RjbzZZVmZQcUF2NXdrdUo1UTBJeDZrVEtBWHpaRGVtY0duOU0"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "Q3净利下滑43%北美FSD开通率75%",
-   "title_zh": "特斯拉Q3净利下滑43%，北美FSD开通率涨至75%",
-   "sentiment": 1
-  },
-  {
-   "id": "f8a2af52ca10",
-   "title": "特斯拉3Q26汽车毛利率超预期，FSD与Robotaxi进展加速，资本支出延迟利弊参半，目标价上调至430美元 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5N2RuNDgtLVFCcHJBWjVYTGJkUEV6TnpVUmozTXc2LUgwYVR0Z0N1YTlNWndxTTBrVHYtc2hWNU9aT0Z2RXpqZXN2eTA0VzVoS2t0VURaZURHU2hf",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T06:50:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T06:50:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5N2RuNDgtLVFCcHJBWjVYTGJkUEV6TnpVUmozTXc2LUgwYVR0Z0N1YTlNWndxTTBrVHYtc2hWNU9aT0Z2RXpqZXN2eTA0VzVoS2t0VURaZURHU2hf"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "特斯拉Q3汽车毛利率超预期",
-   "title_zh": "特斯拉Q3汽车毛利率超预期，目标价上调至430美元",
-   "sentiment": 2
-  },
-  {
-   "id": "9dd553979884",
-   "title": "模拟交易赛打卡 Day 3/15｜特斯拉盘后冲高回落，仓位该怎么算？ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUE9Sc3RUcWJDaHhyTFB6RVRKV1BVWkFnam1XeTZINWpGUm8tNWM5RTVrN2kyV1o1QjdzRUItdkRyUFRyMDVOOXFnWTlTZ3UyLW9UVnZvanVQMzVSLTdRd1VWTTJZTkRVY2t1aF92bnplTHN3SXdsTmMySHhxMnJyX096OExhc3lXVTV2ZG1oQjVnSTR0SDEzdDBQd0VXekxsSS0wNHRJRlNDT2JU",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T06:49:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T06:49:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUE9Sc3RUcWJDaHhyTFB6RVRKV1BVWkFnam1XeTZINWpGUm8tNWM5RTVrN2kyV1o1QjdzRUItdkRyUFRyMDVOOXFnWTlTZ3UyLW9UVnZvanVQMzVSLTdRd1VWTTJZTkRVY2t1aF92bnplTHN3SXdsTmMySHhxMnJyX096OExhc3lXVTV2ZG1oQjVnSTR0SDEzdDBQd0VXekxsSS0wNHRJRlNDT2JU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉盘后冲高回落",
-   "title_zh": "特斯拉盘后冲高回落",
-   "sentiment": 0
   }
  ]
 }
