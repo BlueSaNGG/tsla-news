@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T19:52:31.227805+00:00",
+ "updated_at": "2026-10-22T20:07:32.112611+00:00",
  "market": {
-  "price": 379.91,
-  "change_pct": -1.7,
+  "price": 374.58,
+  "change_pct": -3.08,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 43% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（15家），隐含空间 +5.3%"
+     "note": "目标价中位数 $400（15家），隐含空间 +6.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（297条已评分）"
+     "note": "今日新闻情绪 -0.03（295条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $379.91 vs 20日均线 $370.13"
+     "note": "现价 $374.58 vs 20日均线 $369.86"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 43,
+   "price_52w_pct": 40,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 5.3,
-   "ma20": 370.13,
-   "as_of": "2026-10-22T19:52:31.217397+00:00"
+   "implied_upside_pct": 6.8,
+   "ma20": 369.86,
+   "as_of": "2026-10-22T20:07:32.100877+00:00"
   },
-  "pe_ttm": 105.1,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+5.3%空间：估值适中，预期中性",
+  "pe_ttm": 103.6,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 297
+   "avg": -0.03,
+   "count": 295
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "aafc9ddbb5af",
+   "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares - The Verge",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGxjTkQwNXJxcWhrWHpzWXAxZm92WkVNVklIMG5DZlZLc1NETy1tdE1sb3pBMnZ4RWJEM0tsR2xJXy1lRm93MVdjODBnOTRhSC1MdHVSQkwwOUpQSklPdVpsRGFMZjAtQnJxcDlRbXNtUmhMaFkwZEJpVktYdFZVX2ZUN3RxREUyNHd0M2RkaE5jQQ",
+   "source": "The Verge",
+   "published_at": "2026-10-22T19:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Verge",
+     "published_at": "2026-10-22T19:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGxjTkQwNXJxcWhrWHpzWXAxZm92WkVNVklIMG5DZlZLc1NETy1tdE1sb3pBMnZ4RWJEM0tsR2xJXy1lRm93MVdjODBnOTRhSC1MdHVSQkwwOUpQSklPdVpsRGFMZjAtQnJxcDlRbXNtUmhMaFkwZEJpVktYdFZVX2ZUN3RxREUyNHd0M2RkaE5jQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "bbc5e2e35355",
+   "title": "2026年Q3美国电动车销量榜：特斯拉14.4万辆夺冠，份额超其他品牌总和 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LNEp6a3pWTTF2dTV6S1lZMUl0ekdud25Ya0h3U1BlTTdPdmZEQ1JSVm43cDVWbjFia2lYaVdjWVlUbjZUd1VxTWFSX0JfVjVlbjZUbzJGUE16cTQ",
+   "source": "网通社",
+   "published_at": "2026-10-22T19:44:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-22T19:44:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LNEp6a3pWTTF2dTV6S1lZMUl0ekdud25Ya0h3U1BlTTdPdmZEQ1JSVm43cDVWbjFia2lYaVdjWVlUbjZUd1VxTWFSX0JfVjVlbjZUbzJGUE16cTQ"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
   {
    "id": "ccab823f5c1b",
    "title": "Tesla Driver Claims FSD Was Active in Fatal I-80 Pedestrian Strike - Yahoo",
@@ -126,6 +160,23 @@
    "zh_summary": "特斯拉多头看好Cybercab未来",
    "title_zh": "冷静的特斯拉多头仍期待Cybercab带来巨变",
    "sentiment": 1
+  },
+  {
+   "id": "e884bd54d40c",
+   "title": "For Musk, A SpaceX And Tesla Merger Is Likely About Power Not Personal Profits - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONW9YOU5UNk5QakhyS1F3Ym5WdUZqSVdQa1A1MEJ4MkhadFFDNk9NYktRSzh0bTE2NEdobnVMMjIybkJLZXlQRTFKd2VEVmp3NUpidGl6b1FKRWZwZlpPT0pGeEpRQ2RFQjE4di1IOUYyNk1tUVJrZ1RiZEwxY05pYUQ4SG4xWHVZcXY0Q2FsOHU5R1dyaW5ESkZoQkRRaW9oQmhFdEkwMmE2bUpyVG00Nm1YbWdoYXY5LTZISVBiRXlBTDVKclU0",
+   "source": "Forbes",
+   "published_at": "2026-10-22T19:11:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-22T19:11:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONW9YOU5UNk5QakhyS1F3Ym5WdUZqSVdQa1A1MEJ4MkhadFFDNk9NYktRSzh0bTE2NEdobnVMMjIybkJLZXlQRTFKd2VEVmp3NUpidGl6b1FKRWZwZlpPT0pGeEpRQ2RFQjE4di1IOUYyNk1tUVJrZ1RiZEwxY05pYUQ4SG4xWHVZcXY0Q2FsOHU5R1dyaW5ESkZoQkRRaW9oQmhFdEkwMmE2bUpyVG00Nm1YbWdoYXY5LTZISVBiRXlBTDVKclU0"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "f540b8ed593e",
@@ -273,6 +324,23 @@
    "sentiment": 0
   },
   {
+   "id": "db5b997b6b6e",
+   "title": "Tesla: ARK's $4,400 Price Target, Let's Examine (NASDAQ:TSLA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzNFUjJfZjFtWkJreE5Cd0hrMkljZ2lTaEFqM1hkZHdIV1M5SVZwZS10aFAzWUt1RWdDV1FBLWRTMXBuUkZ6TnBOclEtOFRpVWlkRnRiNURNNTdmTjJ3bWxNeG1fZ25wWVF0SjM4cHZOSkRYbTJqY053LTl2eEdrVk9GUGN1dWt6",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-22T18:10:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-22T18:10:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzNFUjJfZjFtWkJreE5Cd0hrMkljZ2lTaEFqM1hkZHdIV1M5SVZwZS10aFAzWUt1RWdDV1FBLWRTMXBuUkZ6TnBOclEtOFRpVWlkRnRiNURNNTdmTjJ3bWxNeG1fZ25wWVF0SjM4cHZOSkRYbTJqY053LTl2eEdrVk9GUGN1dWt6"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
    "id": "98bf97953164",
    "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80 - The Verge",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkpMMVEzYmpXbnI0RXZKeG5rWW04dzNLbVp4S1ZGV0hJUmdfS24xZ0R1dTdsUHYwdk5DVHF5RzhaVV9QaW9oNW9zckJOLUFVaGFMMHlEV2VXYUlZMkRlRjV2QmRiUHlvZXN1LVVkX1VSTlU2ZHF5X2ZlOUdNQ2NucFlNdWxNRC1WMF9QSlhMWkVvZkd2TlNDOFVR",
@@ -391,6 +459,23 @@
    "zh_summary": "特斯拉股东或要求SpaceX合并溢价",
    "title_zh": "特斯拉股东或将要求SpaceX合并支付溢价",
    "sentiment": 0
+  },
+  {
+   "id": "1d42fc013551",
+   "title": "Tesla Q3: Being No. 2 In Musk Inc. Comes With Perks (NASDAQ:TSLA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpubllDR0Q5NlpDOW5raVdyUEh1eEs0TExma016OHJnVVp0bm1MRjNQV0NEMS0tNnZCcGJLNS1Ebl9Jak51ZHRxRF9QNzZiWXIyQ0RBb1dOOTNzSVQ0bzRhSmsybTVZRld1dzU1SU92QkpQeWk5NUg3WUdVNHowOGNJQXJRS0NpZGJfMllhdkIzQ1k",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-22T17:37:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-22T17:37:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVpubllDR0Q5NlpDOW5raVdyUEh1eEs0TExma016OHJnVVp0bm1MRjNQV0NEMS0tNnZCcGJLNS1Ebl9Jak51ZHRxRF9QNzZiWXIyQ0RBb1dOOTNzSVQ0bzRhSmsybTVZRld1dzU1SU92QkpQeWk5NUg3WUdVNHowOGNJQXJRS0NpZGJfMllhdkIzQ1k"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "4ab186b80b26",
@@ -2038,26 +2123,6 @@
    "sentiment": 0
   },
   {
-   "id": "057b6e2b0a99",
-   "title": "特斯拉三季度营收280.46亿美元，FSD入华仍在推进 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeGw4MG52c0p0d3NBaDJaTklhUnUzYWZMaEZKNzY0d19lY3NZY0YtZ2JONmp2YTJQQl9LaEZzZzZQbjN4ZUN4TlpRUWJ1R0kwR2Y4Rkt4OTlpdDg",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T14:01:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T14:01:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeGw4MG52c0p0d3NBaDJaTklhUnUzYWZMaEZKNzY0d19lY3NZY0YtZ2JONmp2YTJQQl9LaEZzZzZQbjN4ZUN4TlpRUWJ1R0kwR2Y4Rkt4OTlpdDg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉三季度营收280.46亿美元",
-   "title_zh": "特斯拉三季度营收280.46亿美元，FSD入华仍在推进",
-   "sentiment": 0
-  },
-  {
    "id": "b5982009c085",
    "title": "SpaceX Just Crushed Wall Street's Q3 Targets -- but a Potential Tesla Merger Is Even Bigger News - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDJwbTI3T28tQ2xPeFppU2R4MlBVN2x1U2t1RlNCTm5HcURKSXFLN1VNMzNBUEpfTTlPZHdQLVIwc1d4YjhVS2xtYmtlVm1YNlRQdmtXNHpob2NoSkhnQjdaZ2I1czcxaGowcmtHOFY1Z1JRdnFiZlE4NUdodzN4Zkd1TE5ockhWTG5EMjlrOHUwcjNy",
@@ -2156,6 +2221,26 @@
    "zh_summary": "特斯拉下调2026年资本支出指引",
    "title_zh": "特斯拉悄然将2026年资本支出指引下调至200亿美元",
    "sentiment": -1
+  },
+  {
+   "id": "057b6e2b0a99",
+   "title": "特斯拉三季度营收280.46亿美元，FSD入华仍在推进 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeGw4MG52c0p0d3NBaDJaTklhUnUzYWZMaEZKNzY0d19lY3NZY0YtZ2JONmp2YTJQQl9LaEZzZzZQbjN4ZUN4TlpRUWJ1R0kwR2Y4Rkt4OTlpdDg",
+   "source": "汽车之家",
+   "published_at": "2026-10-22T13:59:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-22T13:59:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeGw4MG52c0p0d3NBaDJaTklhUnUzYWZMaEZKNzY0d19lY3NZY0YtZ2JONmp2YTJQQl9LaEZzZzZQbjN4ZUN4TlpRUWJ1R0kwR2Y4Rkt4OTlpdDg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中",
+   "zh_summary": "特斯拉三季度营收280.46亿美元",
+   "title_zh": "特斯拉三季度营收280.46亿美元，FSD入华仍在推进",
+   "sentiment": 0
   },
   {
    "id": "6e8587d846b2",
@@ -4453,26 +4538,6 @@
    "sentiment": 1
   },
   {
-   "id": "e26bda2a92fa",
-   "title": "【视频】当末日开特斯拉Roadster 2... - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOS2t4SWNCd1FsSkxLVGR1VHAzUDFZTE5GV1FPZ0dHMmYyeHBCNmdPc3FwRnFsYUFrajR0bU5RTlVxTC1VdUZSRWpIUGVZcVREQUdyT0tOb3Mzams",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T10:02:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T10:02:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOS2t4SWNCd1FsSkxLVGR1VHAzUDFZTE5GV1FPZ0dHMmYyeHBCNmdPc3FwRnFsYUFrajR0bU5RTlVxTC1VdUZSRWpIUGVZcVREQUdyT0tOb3Mzams"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "视频：末日开特斯拉Roadster 2",
-   "title_zh": "【视频】当末日开特斯拉Roadster 2...",
-   "sentiment": 0
-  },
-  {
    "id": "2d3855b571f9",
    "title": "特斯拉与支付宝签署车载助手协议，中国车机系统计划上线智慧停车服务 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUHJ2NmN1REJqdUlvWnJhMkpvSGQ0a2NPQ1ZMZ09BVFNQU09NMlQ4cnpyc2hLNm04cHpGSEQ2NzZOeTNBb2JBenN2LXI2WXBnTWlqTUJuTXpPM3c",
@@ -6186,96 +6251,6 @@
    "zh_summary": "特斯拉Q3利润跌43%，FSD推迟至2027",
    "title_zh": "特斯拉2026年三季度利润下降43%，FSD推迟至2027年",
    "sentiment": -1
-  },
-  {
-   "id": "e3c8ec0380ea",
-   "title": "深读｜刷屏的特斯拉“飞行汽车”为何让世界目瞪口呆 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnROTzllNVptaFJJcXlvUUpmRFdTLWpUTmRzV0RXY01VV1g1dlFwSm4tQk9TSjZ4RDhrZ3hENzFYZDJncGZnNk9rNmxZZGUwSEg4dWxfNkM3aWU0T3pScFNYQk5hamNGamF2NGt6NTd2YjQxV29JcU54Rk1ES2xhdHVCcE1Gcmw1",
-   "source": "搜狐",
-   "published_at": "2026-10-22T07:11:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T07:11:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnROTzllNVptaFJJcXlvUUpmRFdTLWpUTmRzV0RXY01VV1g1dlFwSm4tQk9TSjZ4RDhrZ3hENzFYZDJncGZnNk9rNmxZZGUwSEg4dWxfNkM3aWU0T3pScFNYQk5hamNGamF2NGt6NTd2YjQxV29JcU54Rk1ES2xhdHVCcE1Gcmw1"
-    },
-    {
-     "name": "新华网",
-     "published_at": "2026-10-22T08:17:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5femJGRWVhRnpLUGVSVjB1M3BDZE1KWTJXck5lMFRjSmlmQXFNVzdsSmg0NFVKWGJpNURGZlNOb2JROUpNZlFIY2o1LUhGQzZtTE9XUVZHSTBmVmVLMG1zbjZaVHFUYjQzVTA3cnhZTmJOV3R3VTM2dWNZcWthR0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "飞行汽车为何刷屏",
-   "title_zh": "深读：特斯拉“飞行汽车”为何让世界目瞪口呆",
-   "sentiment": 1
-  },
-  {
-   "id": "d2035310fc74",
-   "title": "利润降43%，特斯拉的新故事如何兑现？ - 汽车商业评论",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96TjNhOEZIVjZLbTlSVW54VG1HOTVaNzJqQ0pXSTZLRktLeTYtaWRtRjRXY2ZWTVQzX0FxcmxXTHY2QQ",
-   "source": "汽车商业评论",
-   "published_at": "2026-10-22T07:11:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车商业评论",
-     "published_at": "2026-10-22T07:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96TjNhOEZIVjZLbTlSVW54VG1HOTVaNzJqQ0pXSTZLRktLeTYtaWRtRjRXY2ZWTVQzX0FxcmxXTHY2QQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-22T07:17:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZTE2TXlTclllQ0FNMWZMSERrSy1YTlNqZHhKc3JTbGxoWEMwRlotZWNiMEpXREtUOGpvS1NCdm1HZFpoQTU0UHd0aUt1OHJBQ1E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "利润降43%新故事如何兑现",
-   "title_zh": "利润降43%，特斯拉的新故事如何兑现？",
-   "sentiment": -1
-  },
-  {
-   "id": "420ddf242ed3",
-   "title": "特斯拉与SpaceX合并谈判引发韩国投资者税务担忧 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEhJMVNXYkhHNVkwY0E0RF9jVXdudDVyRkdtdHNsU05vVldwQjNSVTNUZ2MxYzV2SFRXZ05LRTQ2bDM5RFZRN1lTUWcwWjlBMUlMLW9FNE0yVWc2TTdSbEllRXlTVV9vc3ItWjFjcl9lRHpmZUVTOVJFTEc2N3kzZUV6ZlNJZEdwWFhFcQ",
-   "source": "搜狐",
-   "published_at": "2026-10-22T07:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T07:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEhJMVNXYkhHNVkwY0E0RF9jVXdudDVyRkdtdHNsU05vVldwQjNSVTNUZ2MxYzV2SFRXZ05LRTQ2bDM5RFZRN1lTUWcwWjlBMUlMLW9FNE0yVWc2TTdSbEllRXlTVV9vc3ItWjFjcl9lRHpmZUVTOVJFTEc2N3kzZUV6ZlNJZEdwWFhFcQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉SpaceX合并引韩投资者税务担忧",
-   "title_zh": "特斯拉与SpaceX合并谈判引韩国投资者税务担忧",
-   "sentiment": 0
-  },
-  {
-   "id": "1124722efc6a",
-   "title": "特斯拉FSD全球付费破174万，中国车主仍无时间表 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QSGVxZVJ3eGtlZ0NfOEUyelEwdFEtbnN4ZlJrQzR6bUF5R1BKd3l0c2x6UkJOWXJpRlFEMWxJYnVQUDZxODY5cEJ0c0owU3phRHlWM2hhQko1Y00",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T07:08:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T07:08:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QSGVxZVJ3eGtlZ0NfOEUyelEwdFEtbnN4ZlJrQzR6bUF5R1BKd3l0c2x6UkJOWXJpRlFEMWxJYnVQUDZxODY5cEJ0c0owU3phRHlWM2hhQko1Y00"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "FSD全球付费破174万",
-   "title_zh": "特斯拉FSD全球付费破174万，中国车主无时间表",
-   "sentiment": 1
   }
  ]
 }
