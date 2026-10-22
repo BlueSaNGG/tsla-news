@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T15:23:10.315094+00:00",
+ "updated_at": "2026-10-22T15:38:46.156933+00:00",
  "market": {
-  "price": 384.29,
-  "change_pct": -0.57,
+  "price": 383.08,
+  "change_pct": -0.88,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 45% 分位"
+     "note": "现价处于52周区间 44% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（15家），隐含空间 +4.1%"
+     "note": "目标价中位数 $400（15家），隐含空间 +4.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（260条已评分）"
+     "note": "今日新闻情绪 +0.03（271条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $384.29 vs 20日均线 $370.35"
+     "note": "现价 $383.08 vs 20日均线 $370.28"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 45,
+   "price_52w_pct": 44,
    "target_median": 400,
    "target_count": 15,
-   "implied_upside_pct": 4.1,
-   "ma20": 370.35,
-   "as_of": "2026-10-22T15:23:10.301698+00:00"
+   "implied_upside_pct": 4.4,
+   "ma20": 370.28,
+   "as_of": "2026-10-22T15:38:46.148657+00:00"
   },
-  "pe_ttm": 106.3,
+  "pe_ttm": 105.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.03,
-   "count": 260
+   "count": 271
   }
  },
  "meta": {
@@ -106,6 +106,23 @@
    "zh_summary": "特斯拉FSD模式下撞死行人",
    "title_zh": "旧金山特斯拉FSD模式撞死横穿行人",
    "sentiment": -2
+  },
+  {
+   "id": "9f5bb26a09e1",
+   "title": "Tesla Will Make Millions of Optimus Robots. Texas Instruments Can Get Paid on Every One - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUVmV21WdzYwYXdLeEx3d0hhUFdaeHlQbWNiVXpsRGRhTEsxWEZteFpVOGtJZGJKeGNhUHpYam5UYWQ0Sm1rQ2hJYVoycU84a1hxZ2g4N3pkMDZBSUlzTjN2QkpTM2RWQmV3VG5yUC1DUE9oWlBxX25aNDh3RDNfTFV1Q2tHdHdENEcxZDVLekF4Y2FINVFRSmxnXzl5alFRcGpBSXQtd0d3SzZMbTJzQk9tNUtPeDV3MHJqTFJVMWFtRjZYU19HcVZR",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-22T15:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-22T15:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUVmV21WdzYwYXdLeEx3d0hhUFdaeHlQbWNiVXpsRGRhTEsxWEZteFpVOGtJZGJKeGNhUHpYam5UYWQ0Sm1rQ2hJYVoycU84a1hxZ2g4N3pkMDZBSUlzTjN2QkpTM2RWQmV3VG5yUC1DUE9oWlBxX25aNDh3RDNfTFV1Q2tHdHdENEcxZDVLekF4Y2FINVFRSmxnXzl5alFRcGpBSXQtd0d3SzZMbTJzQk9tNUtPeDV3MHJqTFJVMWFtRjZYU19HcVZR"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "e9c0a4ac4846",
@@ -371,6 +388,23 @@
    "zh_summary": "特斯拉称北美75%新车主订阅FSD",
    "title_zh": "特斯拉：上季度北美75%的新车买家订阅了FSD",
    "sentiment": 1
+  },
+  {
+   "id": "5ee5533916e7",
+   "title": "马斯克推动SpaceX与特斯拉合并，市值约3.7万亿美元 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SjI1M3EwMzJoNklsT1pPN0hwY1ZJMHBJT3FWZnR3VktxSmpoRDBnN2J2S19PY3gyc1JWTEpNMlNvSGtJdTJ2N1h5Z0tDQkEwTUQ0LWJ6NkotOGE5Z0NkaDhqZ2pZcTZRZ3pMWlJn",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-22T14:26:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-22T14:26:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SjI1M3EwMzJoNklsT1pPN0hwY1ZJMHBJT3FWZnR3VktxSmpoRDBnN2J2S19PY3gyc1JWTEpNMlNvSGtJdTJ2N1h5Z0tDQkEwTUQ0LWJ6NkotOGE5Z0NkaDhqZ2pZcTZRZ3pMWlJn"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "09b0a7615a89",
@@ -2784,26 +2818,6 @@
    "sentiment": 1
   },
   {
-   "id": "e26bda2a92fa",
-   "title": "【视频】当末日开特斯拉Roadster 2... - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOS2t4SWNCd1FsSkxLVGR1VHAzUDFZTE5GV1FPZ0dHMmYyeHBCNmdPc3FwRnFsYUFrajR0bU5RTlVxTC1VdUZSRWpIUGVZcVREQUdyT0tOb3Mzams",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T10:02:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T10:02:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOS2t4SWNCd1FsSkxLVGR1VHAzUDFZTE5GV1FPZ0dHMmYyeHBCNmdPc3FwRnFsYUFrajR0bU5RTlVxTC1VdUZSRWpIUGVZcVREQUdyT0tOb3Mzams"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "视频：末日开特斯拉Roadster 2",
-   "title_zh": "【视频】当末日开特斯拉Roadster 2...",
-   "sentiment": 0
-  },
-  {
    "id": "2d3855b571f9",
    "title": "特斯拉与支付宝签署车载助手协议，中国车机系统计划上线智慧停车服务 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUHJ2NmN1REJqdUlvWnJhMkpvSGQ0a2NPQ1ZMZ09BVFNQU09NMlQ4cnpyc2hLNm04cHpGSEQ2NzZOeTNBb2JBenN2LXI2WXBnTWlqTUJuTXpPM3c",
@@ -3209,26 +3223,6 @@
    "sentiment": -1
   },
   {
-   "id": "dac97a8fbb2b",
-   "title": "特斯拉明年Q2开放FSDV15 车主可靠Model Y自己赚钱 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV29zdjdiZXRTMWt4QjJRYm93YzBBbHdmQnVIbVEwX0pweklNb3phSFItM1dMRENsTkpDQjNlM1lrZnN4SzlLSS0wOXBFdHJvM253NUoybjJieEZzclNyWlZOdGY2UUdTd0JZ",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T09:34:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T09:34:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV29zdjdiZXRTMWt4QjJRYm93YzBBbHdmQnVIbVEwX0pweklNb3phSFItM1dMRENsTkpDQjNlM1lrZnN4SzlLSS0wOXBFdHJvM253NUoybjJieEZzclNyWlZOdGY2UUdTd0JZ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉明年Q2开放FSD V15",
-   "title_zh": "特斯拉明年Q2开放FSDV15 车主可靠Model Y自己赚钱",
-   "sentiment": 2
-  },
-  {
    "id": "56dced665391",
    "title": "【视频】特斯拉飞行汽车彻底揭穿全网骗局 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rZmZZRnZCcUU2OGNTYmNnZ0ZNTVdKaHlfNWFpbktYc2pDSDdOYTFlUnVoQVhWY3NiRW1TanVGMlpCU2FJLVRHUmVrQ0V3dWNIcWk2Z0xzTTh2dVk",
@@ -3267,6 +3261,26 @@
    "zh_summary": "中东局势紧张拖累股市，特斯拉财报",
    "title_zh": "股市今日：中东局势紧张叠加特斯拉财报，股市重挫",
    "sentiment": 0
+  },
+  {
+   "id": "dac97a8fbb2b",
+   "title": "特斯拉明年Q2开放FSDV15 车主可靠Model Y自己赚钱 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tckwtbHVPempPZEF3c0dBbzllZll4ODRINmh6X2lBX1BwVTNLeXBnVVduVXcwdFgzUWw3OUFSV24tMVNxNmNhMENlRXg2Qi1ubVN4UnFNMXlVNm8",
+   "source": "汽车之家",
+   "published_at": "2026-10-22T09:32:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-22T09:32:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tckwtbHVPempPZEF3c0dBbzllZll4ODRINmh6X2lBX1BwVTNLeXBnVVduVXcwdFgzUWw3OUFSV24tMVNxNmNhMENlRXg2Qi1ubVN4UnFNMXlVNm8"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前",
+   "zh_summary": "特斯拉明年Q2开放FSD V15",
+   "title_zh": "特斯拉明年Q2开放FSDV15 车主可靠Model Y自己赚钱",
+   "sentiment": 2
   },
   {
    "id": "0cd3af087bc5",
@@ -4471,6 +4485,23 @@
    "zh_summary": "利润降43%新故事如何兑现",
    "title_zh": "利润降43%，特斯拉的新故事如何兑现？",
    "sentiment": -1
+  },
+  {
+   "id": "9c55b565452d",
+   "title": "特斯拉第三季度净利润大跌43% 与SpaceX合并事宜受关注 - 财新",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWmZtbWl5TndIMmlBMFhHY2NOVEdxcDhLdXViWDlwNGMwOWV6SW1ocWN0VXBjQ2tFRG1rRjZoMDUwbmxEaHBuXzIxMENWc2JxTmU1OUV5OGZac0RSd3pBa3Z4amk",
+   "source": "财新",
+   "published_at": "2026-10-22T07:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财新",
+     "published_at": "2026-10-22T07:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWmZtbWl5TndIMmlBMFhHY2NOVEdxcDhLdXViWDlwNGMwOWV6SW1ocWN0VXBjQ2tFRG1rRjZoMDUwbmxEaHBuXzIxMENWc2JxTmU1OUV5OGZac0RSd3pBa3Z4amk"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "b38320b29e2b",
@@ -6300,66 +6331,6 @@
    "zh_summary": "亚洲供应商股价下跌",
    "title_zh": "特斯拉财报喜忧参半，亚洲供应商股价下跌",
    "sentiment": -1
-  },
-  {
-   "id": "bf53faed1141",
-   "title": "Tesla Doesn’t Sell a Single Bitcoin in Q3 as Crypto Stash Jumps 42% to $962 Million - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0RIOV9acmRpbHF4Mnl5TTJFZEZCVVlQQkViR0xUd3R0emxyUWVrajR0djFPd0tGRFltSlJqTHZuVmRRbXBvbkwyZXhLanFoMXhYRFZTWHhzVDZoZTJqa2xoYjNYMWY2U2dmbllMcnVBaERHRjZPTVk4MWVZWlRvYTZVVkVMUTB0dlpsaExYNDg4VmtkZEFOQnFna3pOMTY0MEE",
-   "source": "Benzinga",
-   "published_at": "2026-10-22T04:04:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-22T04:04:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0RIOV9acmRpbHF4Mnl5TTJFZEZCVVlQQkViR0xUd3R0emxyUWVrajR0djFPd0tGRFltSlJqTHZuVmRRbXBvbkwyZXhLanFoMXhYRFZTWHhzVDZoZTJqa2xoYjNYMWY2U2dmbllMcnVBaERHRjZPTVk4MWVZWlRvYTZVVkVMUTB0dlpsaExYNDg4VmtkZEFOQnFna3pOMTY0MEE"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "Q3比特币持仓增42%至9.62亿",
-   "title_zh": "特斯拉Q3未出售比特币，加密持仓增42%至$962M",
-   "sentiment": 0
-  },
-  {
-   "id": "c78a6b178bae",
-   "title": "马斯克：特斯拉正显著扩产，FSD是拉动汽车需求的最大驱动力 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGxUWHhSTU1BbzNXSkhabFJKUWZMNzdIam0zbnU1ZUNGVGR1VnVyZi1Dd1pPQjRPV2tDVXZZQWRBWl9tNElveDRwX1I5T3dGbENOS1MtUmpqRlMzbXpCbWxpTWRpOHBlVmtoV2k3N0RReW5FUzZFZG4wQURJbUM4R013NUpyS3Ey",
-   "source": "搜狐",
-   "published_at": "2026-10-22T04:02:11+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T04:02:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGxUWHhSTU1BbzNXSkhabFJKUWZMNzdIam0zbnU1ZUNGVGR1VnVyZi1Dd1pPQjRPV2tDVXZZQWRBWl9tNElveDRwX1I5T3dGbENOS1MtUmpqRlMzbXpCbWxpTWRpOHBlVmtoV2k3N0RReW5FUzZFZG4wQURJbUM4R013NUpyS3Ey"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T04:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uVXlFS3BxQ2FNVTFQLU5fbDc3Uy1iNFJ6eUN6Ylg4RFhFRlhpcUN4SzltLW1TMjlmbDVDZEFPSW11N3ROc3BWaF9zcDZEb0NIbm9QSERWV2VQamFfOXc2QWFSOEdtb1JnTDMtM2lkcmQ1MlJjWnREa3hsZ0wxUQ"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T04:05:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QOWdwM192a01sYTg1Y2hHei1JRURoMXdUS2JDRHlZXzlNdk9aYmYxVllJUUltQUpCUmhWbzdKbTdZZWktbkhDZHMzZnZYZXdJRDhudmtKNzBTTUxNdVI3MnJWTmlGenl4TVpEelcxN1I"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T04:10:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xcFFKS3RjQ3ktbGQ0TFJvTy1MRVNfNWZPdTFsemFnT25wZEJLdHc0MGVnSjU2TXl5WHlQczVlZkFJazZ5MDY3QzR0Y1R3RllsWWlsN2FNa1JqYnhkVlhfQTE2ampaSlVtMzA4bHAwVWxLalVYNk9pV1RrczQ"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "breaking": true,
-   "zh_summary": "马斯克：FSD是最大需求驱动力",
-   "title_zh": "马斯克：特斯拉正显著扩产，FSD是拉动汽车需求的最大驱动力 - 搜狐",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.52,
-    "window_h": 0.1
-   }
   }
  ]
 }
