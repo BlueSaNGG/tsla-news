@@ -1,116 +1,124 @@
 {
-  "_meta": {
-    "reviewed": "2026-10-03",
-    "source": "Tesla quarterly shareholder decks (Q3'25, Q4'25, Q4'24) + Q2'26 10-Q; 状态为 2026-10-03 时点"
+ "_meta": {
+  "reviewed": "2026-10-22",
+  "source": "Tesla quarterly shareholder decks + Q3'26 财报电话会（2026-10-21）"
+ },
+ "milestones": [
+  {
+   "date": "2025-06",
+   "date_label": "2025年6月",
+   "detail": "奥斯汀启动试点，配安全员；是特斯拉从卖车向出行服务转型的第一步。",
+   "id": "rt-austin-pilot",
+   "status": "done",
+   "title": "Robotaxi 奥斯汀试点上线"
   },
-  "milestones": [
-    {
-      "date": "2025-06",
-      "date_label": "2025年6月",
-      "detail": "奥斯汀启动试点，配安全员；是特斯拉从卖车向出行服务转型的第一步。",
-      "id": "rt-austin-pilot",
-      "status": "done",
-      "title": "Robotaxi 奥斯汀试点上线"
-    },
-    {
-      "date": "2025-09",
-      "date_label": "2025年9月",
-      "detail": "用 Robotaxi 技术在湾区做网约车，已覆盖圣何塞机场，计划扩至更多机场（待许可）。",
-      "id": "rt-bayarea",
-      "status": "done",
-      "title": "湾区 ride-hailing 上线"
-    },
-    {
-      "date": "2025-10",
-      "date_label": "2025年10月",
-      "detail": "把 Robotaxi 版 FSD 模型的大部分能力下放给消费者，复杂场景处理提升。",
-      "id": "fsd-v14",
-      "status": "done",
-      "title": "FSD v14 推送"
-    },
-    {
-      "date": "2025-10",
-      "date_label": "2025年10月",
-      "detail": "新一代工商业储能产品：4 台 Megapack 3 预集成，中压直连，部署更快。",
-      "id": "megapack3-unveil",
-      "status": "done",
-      "title": "Megapack 3 / Megablock 发布"
-    },
-    {
-      "date": "2025-10",
-      "date_label": "2025年10月",
-      "detail": "Model 3/Y Standard 起售 $36,990 / $39,990，续航 300+ 英里，是税收抵免到期后的低价 答案。",
-      "id": "model3y-standard",
-      "status": "done",
-      "title": "Model 3/Y Standard 上市"
-    },
-    {
-      "date": "2026-01",
-      "date_label": "2026年1月",
-      "detail": "Q4'25 财报确认：1 月起在奥斯汀有限度去掉安全员，这是无人驾驶商业化的关键门槛。",
-      "id": "rt-driverless",
-      "status": "in_progress",
-      "title": "奥斯汀去掉安全员（有限试点）"
-    },
-    {
-      "date": "2026-01",
-      "date_label": "2026年",
-      "detail": "德州工厂产线准备中，官方口径 2026 年量产；与 Semi 共用产能爬坡叙事。",
-      "id": "cybercab-ramp",
-      "status": "in_progress",
-      "title": "Cybercab 量产爬坡"
-    },
-    {
-      "date": "2026-01",
-      "date_label": "2026年",
-      "detail": "官方口径 2026 年量产；首批车 2025 年底下线，2026 年初爬坡。",
-      "id": "semi-ramp",
-      "status": "in_progress",
-      "title": "Tesla Semi 量产"
-    },
-    {
-      "date": "2026-01",
-      "date_label": "2026年",
-      "detail": "第一代量产线正在安装；人形机器人是 Musk 口中\"未来最大价值\"的业务，尚无收入。",
-      "id": "optimus-line",
-      "status": "in_progress",
-      "title": "Optimus 量产线安装"
-    },
-    {
-      "date": "2026-01",
-      "date_label": "2026年",
-      "detail": "休斯敦 Megafactory 2026 年投产 Megapack 3，年产能最高 50 GWh；上海 Megafactory 已放量。",
-      "id": "megafactory-houston",
-      "status": "in_progress",
-      "title": "Megapack 3 休斯敦量产"
-    },
-    {
-      "date": "2026-01",
-      "date_label": "待定",
-      "detail": "欧洲统一审批生变：原定 10/6 的欧盟 TCMV 投票已从议程移除（路透 9/25），德国交通部确认改至 12 月（最早）；多国已先行通过本国审批，意/德/法消费者体验活动进行中。中国同样在等监管批准，拿下审批仍是 FSD 订阅增长的关键。",
-      "id": "fsd-eu-cn",
-      "status": "in_progress",
-      "title": "FSD 欧洲/中国获批"
-    },
-    {
-      "date": "2026-07",
-      "date_label": "2026年7月",
-      "detail": "Q2'26 以 $1.95B 股票对价收购一家 AI 硬件公司，自研 AI 芯片垂直整合提速（对标 AI5）。",
-      "id": "ai-hw-acq",
-      "status": "done",
-      "title": "收购 AI 硬件公司"
-    },
-    {
-      "date": "2027-01",
-      "date_label": "2027年",
-      "detail": "官方长期目标：FSD 安全性超越人类后，向车主开放无监督选项；这是 robotaxi 估值的终局假设。",
-      "id": "unsupervised-fsd",
-      "status": "planned",
-      "title": "无监督 FSD（终局目标）"
-    }
-  ],
-  "next": {
-    "expected": "2026-10-21",
-    "title": "Q3 2026 财报电话会：robotaxi 扩张节奏、Cybercab/Semi 量产进展、2027 年指引"
+  {
+   "date": "2025-09",
+   "date_label": "2025年9月",
+   "detail": "用 Robotaxi 技术在湾区做网约车，已覆盖圣何塞机场，计划扩至更多机场（待许可）。",
+   "id": "rt-bayarea",
+   "status": "done",
+   "title": "湾区 ride-hailing 上线"
+  },
+  {
+   "date": "2025-10",
+   "date_label": "2025年10月",
+   "detail": "把 Robotaxi 版 FSD 模型的大部分能力下放给消费者，复杂场景处理提升。",
+   "id": "fsd-v14",
+   "status": "done",
+   "title": "FSD v14 推送"
+  },
+  {
+   "date": "2025-10",
+   "date_label": "2025年10月",
+   "detail": "新一代工商业储能产品：4 台 Megapack 3 预集成，中压直连，部署更快。",
+   "id": "megapack3-unveil",
+   "status": "done",
+   "title": "Megapack 3 / Megablock 发布"
+  },
+  {
+   "date": "2025-10",
+   "date_label": "2025年10月",
+   "detail": "Model 3/Y Standard 起售 $36,990 / $39,990，续航 300+ 英里，是税收抵免到期后的低价 答案。",
+   "id": "model3y-standard",
+   "status": "done",
+   "title": "Model 3/Y Standard 上市"
+  },
+  {
+   "date": "2026-01",
+   "date_label": "2026年1月",
+   "detail": "2026 年 1 月起奥斯汀有限度去掉安全员；截至 10/18 达拉斯已累计 60.8 万英里无安全员行驶（Model Y），奥斯汀车队每周双位数增长。",
+   "id": "rt-driverless",
+   "status": "done",
+   "title": "奥斯汀去掉安全员（有限试点）"
+  },
+  {
+   "date": "2026-01",
+   "date_label": "2026年",
+   "detail": "2026 年 9 月 3 日在奥斯汀正式运营，是特斯拉主力的 robotaxi 产品（CFO 口径）；发布约一个月车队规模翻 10 倍，德州工厂同步量产爬坡。",
+   "id": "cybercab-ramp",
+   "status": "in_progress",
+   "title": "Cybercab 量产爬坡"
+  },
+  {
+   "date": "2026-01",
+   "date_label": "2026年",
+   "detail": "官方口径 2026 年量产；首批车 2025 年底下线，2026 年初爬坡。",
+   "id": "semi-ramp",
+   "status": "in_progress",
+   "title": "Tesla Semi 量产"
+  },
+  {
+   "date": "2026-01",
+   "date_label": "2026年",
+   "detail": "Q3'26 电话会：百万产能产线的大部分已运抵 Fremont，目标约 1 年内达到周产 20,000 台；首批已交付工业客户，开放场景实用性仍是关键挑战。",
+   "id": "optimus-line",
+   "status": "in_progress",
+   "title": "Optimus 投产爬坡"
+  },
+  {
+   "date": "2026-01",
+   "date_label": "2026年",
+   "detail": "休斯敦 Megafactory 2026 年投产 Megapack 3，年产能最高 50 GWh；上海 Megafactory 已放量。",
+   "id": "megafactory-houston",
+   "status": "in_progress",
+   "title": "Megapack 3 休斯敦量产"
+  },
+  {
+   "date": "2026-01",
+   "date_label": "待定",
+   "detail": "欧洲统一审批生变：原定 10/6 的欧盟 TCMV 投票已从议程移除（路透 9/25），德国交通部确认改至 12 月（最早）；多国已先行通过本国审批，意/德/法消费者体验活动进行中。中国同样在等监管批准，拿下审批仍是 FSD 订阅增长的关键。",
+   "id": "fsd-eu-cn",
+   "status": "in_progress",
+   "title": "FSD 欧洲/中国获批"
+  },
+  {
+   "date": "2026-07",
+   "date_label": "2026年7月",
+   "detail": "Q2'26 以 $1.95B 股票对价收购一家 AI 硬件公司，自研 AI 芯片垂直整合提速（对标 AI5）。",
+   "id": "ai-hw-acq",
+   "status": "done",
+   "title": "收购 AI 硬件公司"
+  },
+  {
+   "date": "2027-04",
+   "date_label": "2027年Q2",
+   "detail": "Ashok（Q3'26 电话会）：客户车无监督 FSD 预计 2027 年 Q2 随 V15 推送，车主车辆加入特斯拉 Robotaxi 网络；明确表述为「加入出行网络」，不是完全自动驾驶终局。",
+   "id": "unsupervised-fsd",
+   "status": "planned",
+   "title": "无监督 FSD（终局目标）"
+  },
+  {
+   "id": "rt-dallas-cybercab",
+   "date": "2026-11",
+   "date_label": "2026年11月",
+   "title": "Cybercab 达拉斯上线",
+   "status": "planned",
+   "detail": "财报电话会确认：下个月在达拉斯上线，是奥斯汀之外第一个城市；Cybercab 与 Model Y 跑同一套软件，年内还会扩展到更多城市。"
   }
+ ],
+ "next": {
+  "title": "Cybercab 达拉斯上线（2026年11月）；Q4 交付报告（2027年1月初）",
+  "expected": "2026-11"
+ }
 }
