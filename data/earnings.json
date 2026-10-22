@@ -1,8 +1,13 @@
 {
  "_meta": {
-  "reviewed": "2026-10-21",
+  "reviewed": "2026-10-22",
   "source": "Tesla quarterly shareholder decks (8-K Exhibit 99.1) via manuals.plus / electrek / elonx.cz; Q1'26 & Q2'26 10-Q via SEC EDGAR; Q1'26 & Q2'26 & Q3'26 P&D via Tesla IR press releases. auto_gm_ex_credits_pct computed per Tesla methodology: (auto revenue - auto cost of revenue - regulatory credits) / auto revenue.",
-  "units": "revenue/net income in USD billions; deliveries/production in vehicles; energy_gwh in GWh"
+  "units": "revenue/net income in USD billions; deliveries/production in vehicles; energy_gwh in GWh",
+  "_sources": [
+   "https://ir.tesla.com/press-release/tesla-releases-third-quarter-2026-financial-results",
+   "https://www.zacks.com/stock/news/3012258/tesla-tsla-reports-q3-earnings-what-key-metrics-have-to-say",
+   "https://teslanorth.com/2026/10/21/tesla-q3-2026-earnings/"
+  ]
  },
  "quarters": [
   {
@@ -240,26 +245,26 @@
    "gross_profit_b": 4.751
   },
   {
-   "auto_cost_b": null,
-   "auto_credits_b": null,
-   "auto_gm_ex_credits_pct": null,
-   "auto_leasing_b": null,
-   "auto_sales_b": null,
+   "auto_cost_b": 16.754,
+   "auto_credits_b": 0.113,
+   "auto_gm_ex_credits_pct": 18.1,
+   "auto_leasing_b": 0.353,
+   "auto_sales_b": 20.094,
    "date": "2026-10-21",
    "deliveries": 486532,
-   "diluted_shares_b": null,
-   "energy_b": null,
+   "diluted_shares_b": 3.541,
+   "energy_b": 2.881,
    "energy_gwh": 13.7,
-   "eps_gaap": null,
-   "net_income_b": null,
-   "note": "财报未出（10/21 盘后）；交付超预期（486,532 vs 预期 461,974）",
-   "op_income_b": null,
-   "opex_b": null,
+   "eps_gaap": 0.22,
+   "net_income_b": 0.787,
+   "note": "营收$280.5亿持平；扣积分汽车毛利率18.1%回升；GAAP EPS $0.22；FCF转正$15.3亿；积分收入仅$1.13亿",
+   "op_income_b": 0.718,
+   "opex_b": 4.776,
    "production": 464391,
    "q": "Q3 2026",
-   "revenue_b": null,
-   "services_b": null,
-   "gross_profit_b": null
+   "revenue_b": 28.046,
+   "services_b": 4.605,
+   "gross_profit_b": 5.494
   }
  ]
 }
