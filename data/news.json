@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T16:37:35.131702+00:00",
+ "updated_at": "2026-10-23T16:52:37.276516+00:00",
  "market": {
-  "price": 371.67,
-  "change_pct": -0.78,
+  "price": 372.55,
+  "change_pct": -0.54,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 38% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（17家），隐含空间 +7.6%"
+     "note": "目标价中位数 $400（17家），隐含空间 +7.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.12（92条已评分）"
+     "note": "今日新闻情绪 -0.14（94条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $371.67 vs 20日均线 $369.84"
+     "note": "现价 $372.55 vs 20日均线 $369.88"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 38,
+   "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 17,
-   "implied_upside_pct": 7.6,
-   "ma20": 369.84,
-   "as_of": "2026-10-23T16:37:35.116727+00:00"
+   "implied_upside_pct": 7.4,
+   "ma20": 369.88,
+   "as_of": "2026-10-23T16:52:37.265267+00:00"
   },
-  "pe_ttm": 102.8,
+  "pe_ttm": 103.0,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.12,
-   "count": 92
+   "avg": -0.14,
+   "count": 94
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "afdd4c45862a",
+   "title": "Tesla Continues to Falter and Lose Value: This Renowned Analyst Predicts 60% Returns Soon - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblY2MzZBM0RES19HWGFoS081d3JVQmRFMnRTSHZhNGkxTF9RUkl6MWFob3BTakVTX1ZodlBSakFOdWJpbnE0VWQwVTRkdElOM3FCMVhscVhlcll0TlhPQmpUQ2N2QkRkVmtPS0Z3OVdCYXZEUDhKQmRfeTQ0S3JtLTEyajRpR2g0NGwwdjJkSzZDbnJvdERSM0Z3QVBYTDlBaHpGb1E4aGRPTUFmXzFHUENqYVFYdDA1ZXJTREJnNHJqTWxOQkJUZ1RtWQ",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-23T16:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-23T16:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblY2MzZBM0RES19HWGFoS081d3JVQmRFMnRTSHZhNGkxTF9RUkl6MWFob3BTakVTX1ZodlBSakFOdWJpbnE0VWQwVTRkdElOM3FCMVhscVhlcll0TlhPQmpUQ2N2QkRkVmtPS0Z3OVdCYXZEUDhKQmRfeTQ0S3JtLTEyajRpR2g0NGwwdjJkSzZDbnJvdERSM0Z3QVBYTDlBaHpGb1E4aGRPTUFmXzFHUENqYVFYdDA1ZXJTREJnNHJqTWxOQkJUZ1RtWQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
   {
    "id": "5b80d2dd0a3a",
    "title": "NHTSA Proposes New Rules to Clear Path for Tesla Cybercab - BASENOR",
@@ -126,6 +143,23 @@
    "zh_summary": "特斯拉三季度营收280.5亿美元",
    "title_zh": "特斯拉第三季度营收280.5亿美元",
    "sentiment": 0
+  },
+  {
+   "id": "d2027a21161c",
+   "title": "71-year-old man killed as Tesla in full self-driving mode hits him on California freeway - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEMzbWpMczE5QldaZHllUnRtdWlqOHhOMVNsUTB4NE9nemdUTjJqRjVvUFVLYnV1Ti1OQkEybG5kTjhJN0l4N3hFUE1tSHV5cWJIUnJTZVNDM093NmJMeXlfNno2ZlNpbXZKbHF4TTVESTRnMTB2OC1ZRHdUODliV0FjMkNOSWJ2WXY5ZUFfeDc1VWdzWWFGOXk5blNubzN3WXpNUTFEN2tnaVYxT2R3cDRzdlkwdWpmTDBrV001dm9yNVR5dnZ6SEZ4ZDF4ak9UOUZwdGFWVGZna1BqT0x4dERlUUVfVUJ0Z0ZjRmtob03SAfYBQVVfeXFMTjUyREZpNGxMNm1UTmJKUU9PUjJxRHZmT1dSVjlaajZwb0Nza2RnWmxYdVo2QXMweTdDMVlOeFVFbjB5V3hfazNiYUZReGhuLS1mVng3Qm1pSVZMd3NkNl9jUVJ1dWNEV1Rmc1FQZWhoRUphVS1IZ1R0emFObC1abFJIclVZRUNNMWdTUURfQmFpc3hLVElVb082OWJSc2xhZnBsWFNOdEFMOW52cHZ5YjhKeVp0WXR1YzdpQlVwME9Kb2V3MkQ4R0RMdDA0dERxRjF1V0ZRMXU3dkxjUVpfMm5wRnUzbnJOU0tFN090RUk5M1hIN2xB",
+   "source": "The Times of India",
+   "published_at": "2026-10-23T15:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-23T15:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEMzbWpMczE5QldaZHllUnRtdWlqOHhOMVNsUTB4NE9nemdUTjJqRjVvUFVLYnV1Ti1OQkEybG5kTjhJN0l4N3hFUE1tSHV5cWJIUnJTZVNDM093NmJMeXlfNno2ZlNpbXZKbHF4TTVESTRnMTB2OC1ZRHdUODliV0FjMkNOSWJ2WXY5ZUFfeDc1VWdzWWFGOXk5blNubzN3WXpNUTFEN2tnaVYxT2R3cDRzdlkwdWpmTDBrV001dm9yNVR5dnZ6SEZ4ZDF4ak9UOUZwdGFWVGZna1BqT0x4dERlUUVfVUJ0Z0ZjRmtob03SAfYBQVVfeXFMTjUyREZpNGxMNm1UTmJKUU9PUjJxRHZmT1dSVjlaajZwb0Nza2RnWmxYdVo2QXMweTdDMVlOeFVFbjB5V3hfazNiYUZReGhuLS1mVng3Qm1pSVZMd3NkNl9jUVJ1dWNEV1Rmc1FQZWhoRUphVS1IZ1R0emFObC1abFJIclVZRUNNMWdTUURfQmFpc3hLVElVb082OWJSc2xhZnBsWFNOdEFMOW52cHZ5YjhKeVp0WXR1YzdpQlVwME9Kb2V3MkQ4R0RMdDA0dERxRjF1V0ZRMXU3dkxjUVpfMm5wRnUzbnJOU0tFN090RUk5M1hIN2xB"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "2ee5e0a24ae0",
@@ -658,6 +692,23 @@
    "sentiment": 0
   },
   {
+   "id": "7641e4aed2d3",
+   "title": "The Best Trillion-Dollar Stock To Sell Puts On Isn’t Tesla Or Broadcom - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXdhb3I3TU9TcXZoVXBkQUFiMXNYMU5uS05IUGYyVVdmTnpwb3JkYnZVUUNsLXRtTnZIeGJTZW9pYkx5WGJZRnpJTE9aWmVlN2pTR2VjSHo1cGFEdHhRRXFZdmJEZFhyNlJnN0ZkblJlZzZUUGlvS1pfblhiT0MzemVqZExrMHc1azk0Uy1EVGxYZFItaTBDMkpGSTZUSk9INlQ5LWZvV1JicmFPVWIwU0Z4Yw",
+   "source": "Barchart.com",
+   "published_at": "2026-10-23T12:00:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-10-23T12:00:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXdhb3I3TU9TcXZoVXBkQUFiMXNYMU5uS05IUGYyVVdmTnpwb3JkYnZVUUNsLXRtTnZIeGJTZW9pYkx5WGJZRnpJTE9aWmVlN2pTR2VjSHo1cGFEdHhRRXFZdmJEZFhyNlJnN0ZkblJlZzZUUGlvS1pfblhiT0MzemVqZExrMHc1azk0Uy1EVGxYZFItaTBDMkpGSTZUSk9INlQ5LWZvV1JicmFPVWIwU0Z4Yw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "ecd0838524d9",
    "title": "Energea Expands U.S. Portfolio with $20 Million Commitment for Tesla Superchargers - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZkNlUmxQY3ZTa3dYZFJMYUl0X211ZzNUSDhPaUJaSWZvTmk4NjhRNE5RaFQxdmp5Z1NsSFVkcV82d2VmZGg3Z2swd2F4cmo5dzc1aGlYVWFzTXFuSUNiTVF2akZtY1VLbkZNRnJzQkVUQ19YN2VHWTh5ODNDLVlJQVlFVUhOX3pOV1RfRGo3bXI",
@@ -873,12 +924,17 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm96T3UwTUpPb0Q5ZG9ORUVlMm93cFZCbGJvS3lLaTdSY2NLdklLX0wteFBpSFE3OEpWeHVqVG95OGdwaVM3MU5USU9hblNHclZvZGlieTBGNWMxejVTckZKWGVDSmNZRmYtQ3F4c0FTd2FMZ2FaRE5jR25fTDk0UHVYUQ",
    "source": "新浪财经",
    "published_at": "2026-10-23T10:38:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-23T10:38:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm96T3UwTUpPb0Q5ZG9ORUVlMm93cFZCbGJvS3lLaTdSY2NLdklLX0wteFBpSFE3OEpWeHVqVG95OGdwaVM3MU5USU9hblNHclZvZGlieTBGNWMxejVTckZKWGVDSmNZRmYtQ3F4c0FTd2FMZ2FaRE5jR25fTDk0UHVYUQ"
+    },
+    {
+     "name": "华盛通",
+     "published_at": "2026-10-23T10:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSkxBTEJZYldNZ1YzQ29TcGFCSjdEX3R3SUZTSHFpUzdYQ2dqNzFSWUZIU2tSZ2xQbGNIYUJDTzVlbzdQZG5YMl9ZZmFCVE9FVkFObGNHcmVYTHpVeEcwTXZn"
     }
    ],
    "category": "其他",
@@ -6311,66 +6367,6 @@
    "zh_summary": "分析师称市场再一次看错特斯拉",
    "title_zh": "特斯拉：市场又错了",
    "sentiment": 1
-  },
-  {
-   "id": "09b0a7615a89",
-   "title": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR",
-   "source": "Forbes",
-   "published_at": "2026-10-22T14:15:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Forbes",
-     "published_at": "2026-10-22T14:15:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉财报后AI股下跌",
-   "title_zh": "特斯拉Meta财报后AI股因支出担忧下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "ba634c84f9df",
-   "title": "Tesla sees EV output more than doubling to 5 million by 2030 behind self-driving demand - Automotive News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3RZR2JrMFlDbDRKTG1HQUQ4WThTQXlVWGVhQzJCWEdtc2tLbmlMQW4yTnhPTnFxOU1uWE1OR2gyck5nZjdvdXN2bDJvRFFtYWNVa2dRWnNkanFZZFQyX09IYXNrMFdYVlBFZ1Vnc0FDb2JsSVk0REhVNldGVlBJaGtob1ZkbURjajRNMV9LZExUSDRwa0E",
-   "source": "Automotive News",
-   "published_at": "2026-10-22T14:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Automotive News",
-     "published_at": "2026-10-22T14:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3RZR2JrMFlDbDRKTG1HQUQ4WThTQXlVWGVhQzJCWEdtc2tLbmlMQW4yTnhPTnFxOU1uWE1OR2gyck5nZjdvdXN2bDJvRFFtYWNVa2dRWnNkanFZZFQyX09IYXNrMFdYVlBFZ1Vnc0FDb2JsSVk0REhVNldGVlBJaGtob1ZkbURjajRNMV9LZExUSDRwa0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉2030年产量将达500万辆",
-   "title_zh": "特斯拉预计2030年电动车产量超500万辆",
-   "sentiment": 1
-  },
-  {
-   "id": "da53ed9279c1",
-   "title": "Former Tesla board member on obstacles facing potential SpaceX merger - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcG5KM0h6WWU5UUdYN25XbV9XNFl4YjJrM1VDb3F1SE05LUdGTFgwVThORy1mSW5mQUp3Z1hYYWhEd0RpT005bTRrcElwN0hEUklVMEZDRXowcVdCMG9SQkwwOEdycElPNFJDdWNOcko0Vmd3OWNpLURxcmdHQTdWZ3FLT214ZWdWaUcxSXVmMklYYy04SlNTZGJGN0xkZU5fVTlQUmwySkVqNDhMT3YtSU5B",
-   "source": "CNBC",
-   "published_at": "2026-10-22T14:13:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-22T14:13:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcG5KM0h6WWU5UUdYN25XbV9XNFl4YjJrM1VDb3F1SE05LUdGTFgwVThORy1mSW5mQUp3Z1hYYWhEd0RpT005bTRrcElwN0hEUklVMEZDRXowcVdCMG9SQkwwOEdycElPNFJDdWNOcko0Vmd3OWNpLURxcmdHQTdWZ3FLT214ZWdWaUcxSXVmMklYYy04SlNTZGJGN0xkZU5fVTlQUmwySkVqNDhMT3YtSU5B"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "前特斯拉董事谈SpaceX合并障碍",
-   "title_zh": "前特斯拉董事谈SpaceX合并面临的障碍",
-   "sentiment": -1
   }
  ]
 }
