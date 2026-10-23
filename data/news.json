@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T10:37:28.034480+00:00",
+ "updated_at": "2026-10-23T10:52:28.777149+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.24（41条已评分）"
+     "note": "今日新闻情绪 -0.28（43条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T10:37:28.028806+00:00"
+   "as_of": "2026-10-23T10:52:28.766431+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.24,
-   "count": 41
+   "avg": -0.28,
+   "count": 43
   }
  },
  "meta": {
@@ -1346,6 +1346,23 @@
    "zh_summary": "台湾省女司机踩断特斯拉加速踏板",
    "title_zh": "台湾省女司机踩断特斯拉加速踏板",
    "sentiment": -1
+  },
+  {
+   "id": "0e4d6a984931",
+   "title": "能源内参｜特斯拉第三季度净利润大跌43% 与SpaceX合并事宜受关注；今年前9个月全社会用电量增3.9% - 财新",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53czdvWXA1QW5aQWFueGNtZ2RhU1ZHTTgyLTR2LUloR1BQM3p2WjFBdFZZY0ZUUjROWGxMZV9PNFprbVpSbjBIRXFieFVrZ0FFNXVZQUpyckhYeENHamN6eVdFY3U",
+   "source": "财新",
+   "published_at": "2026-10-23T02:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财新",
+     "published_at": "2026-10-23T02:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53czdvWXA1QW5aQWFueGNtZ2RhU1ZHTTgyLTR2LUloR1BQM3p2WjFBdFZZY0ZUUjROWGxMZV9PNFprbVpSbjBIRXFieFVrZ0FFNXVZQUpyckhYeENHamN6eVdFY3U"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "e579b5379629",
@@ -2758,7 +2775,7 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlJVbkpMdVBJcVpOQVNDcWU2QS0tWm1TS0NpcGY3aEhzTXBQNW83aVVMYUtuRzltT2N0RDNyNmE3dGhZb01nZU5jQ09ic3VMQk9Qa0M0WnFka0pzQWhrZ0tCS1lnT3k0LUQ4eHBtY19UTHhPaG1mWEZfZ1JRN3o5SWJ6S2gyc0ctN3ExaXdFY1Y",
    "source": "KSBW",
    "published_at": "2026-10-22T20:52:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "KSBW",
@@ -2774,6 +2791,11 @@
      "name": "KOAT",
      "published_at": "2026-10-23T10:19:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGpnYmJGbldGY3g2dlpSLVB5UVFreVFGZk9FbWJ5TDNKeE5PWVluOWFBX3ZhRFVqV1BJNXBZNDVZT2huX0M0Z21ESEY1QzI3R0tOZlEzNXo3WjlKbzJ6N2RjN2tBMUtKQ2VTc3k5NlRNeThrR0FoMFItUXAyMDVOQlhYZnNmaXZwV2JscGh3"
+    },
+    {
+     "name": "Gulf Coast News and Weather",
+     "published_at": "2026-10-23T10:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFRTQU5FdHhnMm9KYUs1T0xjZWg2NXktMG1CVEFJWjRFSUVQNUM4TWluUzZqYUN6ZkV3SWpfTEJWUFRzbGRrWEgwU3dJdzkzd21wMUhNeUh5ZjFPQjVtN2NyVGt1RGF0b250S3dqTUdoc2ZXZFMtVHh4TGZ6SU43V28yOVpzMEt0RFZWWFV3"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6259,26 +6281,6 @@
    "zh_summary": "特斯拉Q3双超预期股价仍跌",
    "title_zh": "特斯拉Q3营收利润双超预期，股价仍下滑",
    "sentiment": -1
-  },
-  {
-   "id": "113f4801911d",
-   "title": "Tesla hit a monthly sales record in Europe as Chinese rivals gained ground - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SkdLUFQ0aEd2LWRRQWJCR1liMEppQk5PWV83UnlCcFNjR2s0ZEtrVk42T3ktbVBsNzYxLTZ3cG9QUWhLbzY2NnI5OElma0F4cHlHUmpUc1JaN1hxUm5MZG9DNFpTUENBcGRKQUZmUmF1dXhKSjVpclVn",
-   "source": "Quartz",
-   "published_at": "2026-10-22T12:45:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-22T12:45:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SkdLUFQ0aEd2LWRRQWJCR1liMEppQk5PWV83UnlCcFNjR2s0ZEtrVk42T3ktbVBsNzYxLTZ3cG9QUWhLbzY2NnI5OElma0F4cHlHUmpUc1JaN1hxUm5MZG9DNFpTUENBcGRKQUZmUmF1dXhKSjVpclVn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉欧洲月销创新高但中国对手紧逼",
-   "title_zh": "特斯拉欧洲销量创月度纪录，中国竞争对手紧追",
-   "sentiment": 1
   }
  ]
 }
