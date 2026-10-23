@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T01:37:28.092112+00:00",
+ "updated_at": "2026-10-23T01:52:32.382003+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -27,12 +27,12 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
+     "note": "目标价中位数 $400（17家），隐含空间 +6.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.07（296条已评分）"
+     "note": "今日新闻情绪 -0.07（298条已评分）"
     },
     {
      "key": "动量",
@@ -41,23 +41,23 @@
     },
     {
      "key": "分析师动向",
-     "score": 1,
-     "note": "近14天 1 家上调 / 0 家下调"
+     "score": 0,
+     "note": "近14天无分析师动作"
     }
    ],
    "price_52w_pct": 40,
    "target_median": 400.0,
-   "target_count": 16,
+   "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T01:37:28.078983+00:00"
+   "as_of": "2026-10-23T01:52:32.375007+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.07,
-   "count": 296
+   "count": 298
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2a6030233dac",
+   "title": "特斯拉开始在弗里蒙特工厂生产Optimus人形机器人，马斯克称达周产2万台仍需约一年甚至更久 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QeTU3OXp1Q0V3Y2VJSTFLUnhFOWtOM2VMcUZOa2VZV3M1Nlh0NDM0VU9ScFpSWEVOQTkwdm9fLWFOTlEzSzN1dE81enl2NmVRN3gyeDNhajdMWEppZkNNcC1MWmg4bTAweXc2eEtzRjVzZw",
+   "source": "新浪网",
+   "published_at": "2026-10-23T01:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T01:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QeTU3OXp1Q0V3Y2VJSTFLUnhFOWtOM2VMcUZOa2VZV3M1Nlh0NDM0VU9ScFpSWEVOQTkwdm9fLWFOTlEzSzN1dE81enl2NmVRN3gyeDNhajdMWEppZkNNcC1MWmg4bTAweXc2eEtzRjVzZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "6bc714d7d963",
    "title": "特斯拉飞车Roadster你快看看吧 - 新浪网",
@@ -2807,32 +2824,6 @@
    "sentiment": 1
   },
   {
-   "id": "7a4b0fbb2abb",
-   "title": "Stifel Maintains Tesla(TSLA.US) With Buy Rating, Maintains Target Price $491 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHFRZmQxUUczcUY4RDh2T0U5cG1Bb3NWbE12ek5La0dGbDVXVmNoRUV1cnZOTm1EQzZaaUt6TnV0QlBQMmF6MzFwWWIxWVdPNUV1eHBnVDkxSzZIRUt0QnZLTzBrdnN3SEdyekRJYkYyTU5ZUXBuQnllTTlNcFBLNTIxSGVBN2pvYU5ZVzhrYXljRXBsYlRpYTl2V29PcnVIdHY2T3pRZlZYM2swYUVMc01R",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T15:01:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T15:01:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHFRZmQxUUczcUY4RDh2T0U5cG1Bb3NWbE12ek5La0dGbDVXVmNoRUV1cnZOTm1EQzZaaUt6TnV0QlBQMmF6MzFwWWIxWVdPNUV1eHBnVDkxSzZIRUt0QnZLTzBrdnN3SEdyekRJYkYyTU5ZUXBuQnllTTlNcFBLNTIxSGVBN2pvYU5ZVzhrYXljRXBsYlRpYTl2V29PcnVIdHY2T3pRZlZYM2swYUVMc01R"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Stifel",
-    "action": "维持",
-    "target": "$491",
-    "rating": "Buy"
-   },
-   "zh_summary": "Stifel维持特斯拉买入评级，目标价$491",
-   "title_zh": "Stifel维持特斯拉(TSLA)买入评级，目标价$491",
-   "sentiment": 1
-  },
-  {
    "id": "4dfa4d5eea75",
    "title": "Did Wall Street forget about Tesla's Cybercab? - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnozbHRlSDlpeGJnc2VKYUJYSFhkQUpPQk1pZi1oeGotNktzRzBXY1FCVEVZWXU5YTItVnREXy1janMwN1NMbDlzR3lpVU1OQ0xSbzZScUI4ZE4tbFExNlh4bFM0di1RaU1kLTFNdGR2Y3I3UzdrSTA3d1E0NkZmcXpn",
@@ -3923,6 +3914,32 @@
    "sentiment": -1
   },
   {
+   "id": "8d042acd8ef6",
+   "title": "UBS Maintains Tesla(TSLA.US) With Hold Rating, Raises Target Price to $425 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWFWZzFjcnp5YXR5bGFFaGVDMjd1X2prUXBXU001VkhtVVJDQUhVT3VlVGJ4UFl4ZzlvMVlhRl90UGczQVZEcXpRMHZaQjNoVFR3LVppdF8zNFpzME1fRE85SlVLbHN6aXhZc0Z6azQ3a1NDNzVGaFdZZFBrbWNrYm5YeVN5OVduZEp0dHJHdXV4NG9oRE9qVTJkcVpkMFNXdkJRaThXbjF4NGc",
+   "source": "Moomoo",
+   "published_at": "2026-10-22T13:35:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-22T13:35:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWFWZzFjcnp5YXR5bGFFaGVDMjd1X2prUXBXU001VkhtVVJDQUhVT3VlVGJ4UFl4ZzlvMVlhRl90UGczQVZEcXpRMHZaQjNoVFR3LVppdF8zNFpzME1fRE85SlVLbHN6aXhZc0Z6azQ3a1NDNzVGaFdZZFBrbWNrYm5YeVN5OVduZEp0dHJHdXV4NG9oRE9qVTJkcVpkMFNXdkJRaThXbjF4NGc"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中",
+   "analyst": {
+    "firm": "UBS",
+    "action": "维持",
+    "target": "$425",
+    "rating": "Hold"
+   },
+   "zh_summary": "Stifel维持特斯拉买入评级，目标价$491",
+   "title_zh": "Stifel维持特斯拉(TSLA)买入评级，目标价$491",
+   "sentiment": 1
+  },
+  {
    "id": "23410178a21e",
    "title": "开盘：纳指跌1.5% AI担忧升温 特斯拉、Meta等拖累指数 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbU9aQXFGOHpRbFZLRXJjMnFKb3JKYV9ZX3VkWTV2MllDcmtOWXZyRHJtMUZZVnZqWXlPWUV6VGdZOXBtVy01bFo1Y1FKMTkxUk01cEFXOHR0UG5Td0ZuNU5wN3pmYU9jSzg2b0xmR1ZRYjNpU2p2YlVsTzdra0VQZXFKdHM0MFE",
@@ -4714,26 +4731,6 @@
    "sentiment": 0
   },
   {
-   "id": "42a8c838349f",
-   "title": "TSLA 261026 370.00P (TSLA261026P370000) Stock Options Chain | Quotes & News - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZzRrZEV5NDhuZlZjcmlnM1NfdkRRRl9xT1hTclJRX2pucUtaOTNvQUwxUDV5c05ib0t2Um5jUFJ5WE5Gb01Ha2t0N01fQThneGJRWUpYSGEyRjJxTnc",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T12:11:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T12:11:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZzRrZEV5NDhuZlZjcmlnM1NfdkRRRl9xT1hTclJRX2pucUtaOTNvQUwxUDV5c05ib0t2Um5jUFJ5WE5Gb01Ha2t0N01fQThneGJRWUpYSGEyRjJxTnc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA行权价370美元看跌期权报价",
-   "title_zh": "TSLA 261026 370.00P期权链报价",
-   "sentiment": 0
-  },
-  {
    "id": "b7ea91242089",
    "title": "Tesla Stock (TSLA) Forecast: Analysts Remain Divided Even After Q3 Earnings Beat - TipRanks",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckRIV3BvNlUwM1NJWHA2U1pKWnI2N0o2MzdhMnQzd0hyTlVkckZkR1lYUDVfTE0tYnRQQzdqY0J6elg3bzNSM2xrZFFCczNWcWdpa1Z6V0R5Zzkta3QxNUZ1Qk1KY19DS1ZlbE5KZnpWSjVtaWNuTDlCWnRxdVBEWDd1V01ZQjVVbVlabDRaYkdCN2hnNDdUU1JjMENVMHZ4VGlYX0hQVVhITWs",
@@ -4946,6 +4943,23 @@
    "zh_summary": "盘前下跌，消化Meta与特斯拉财报",
    "title_zh": "交易员消化Meta与特斯拉财报，股指盘前下跌",
    "sentiment": -1
+  },
+  {
+   "id": "9be744c4d559",
+   "title": "特斯拉三季度卖了48.6万辆车，辅助驾驶全球付费用户增至174万 - 华龙网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b3V3dzJBLURTc2xuWlpoWUxlazRMWHYwcTkwOHJXWWRnYm5lRmcySkcxWEtlSkhrU1QyajVIVzFSRWtuV1FQbmxkblFxaTNBSmp4a0NtS0JmendQc2w4WHpRQkVuV3VRMUc0",
+   "source": "华龙网",
+   "published_at": "2026-10-22T11:40:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华龙网",
+     "published_at": "2026-10-22T11:40:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b3V3dzJBLURTc2xuWlpoWUxlazRMWHYwcTkwOHJXWWRnYm5lRmcySkcxWEtlSkhrU1QyajVIVzFSRWtuV1FQbmxkblFxaTNBSmp4a0NtS0JmendQc2w4WHpRQkVuV3VRMUc0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e67bd77ff1d2",
@@ -6255,26 +6269,6 @@
    "zh_summary": "特斯拉Q3财报 FSD入华审批未落地",
    "title_zh": "特斯拉三季度财报：FSD入华审批未落地",
    "sentiment": -1
-  },
-  {
-   "id": "fd7f582ae62b",
-   "title": "人形机器人涨停潮！特斯拉人形机器人有望明年对外交付，未来将搭载AI 5芯片 - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUk9YUF8yN2xQUnhiRUNqdnkxemh4QVllZjVYYl9mMHVIUEs2aWNVaXdTeDAxUU1WSEZXS2dQMlYwY1AyUERWY2V1bkF0VnkzQ28xVkJMSWpKc0hSUW1yMHBJNGlRNHNnYlkyRjFxYlluRG9rUEhxOHAtY0JZdnFVcHRyRngyYURESlFoaXltWQ",
-   "source": "21财经",
-   "published_at": "2026-10-22T09:53:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-22T09:53:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUk9YUF8yN2xQUnhiRUNqdnkxemh4QVllZjVYYl9mMHVIUEs2aWNVaXdTeDAxUU1WSEZXS2dQMlYwY1AyUERWY2V1bkF0VnkzQ28xVkJMSWpKc0hSUW1yMHBJNGlRNHNnYlkyRjFxYlluRG9rUEhxOHAtY0JZdnFVcHRyRngyYURESlFoaXltWQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉人形机器人明年或对外交付",
-   "title_zh": "特斯拉人形机器人有望明年对外交付，搭载AI 5芯片",
-   "sentiment": 1
   }
  ]
 }
