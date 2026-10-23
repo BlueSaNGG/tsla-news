@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T23:52:33.322872+00:00",
+ "updated_at": "2026-10-23T00:07:28.107774+00:00",
  "market": {
-  "price": 374.58,
-  "change_pct": -3.08,
+  "price": 386.47,
+  "change_pct": 3.41,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,28 +16,28 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 40% 分位"
+     "note": "现价处于52周区间 46% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
+     "score": -1,
+     "note": "目标价中位数 $400（16家），隐含空间 +3.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.03（297条已评分）"
+     "note": "今日新闻情绪 -0.04（298条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $374.58 vs 20日均线 $369.86"
+     "note": "现价 $386.47 vs 20日均线 $370.03"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 40,
+   "price_52w_pct": 46,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 6.8,
-   "ma20": 369.86,
-   "as_of": "2026-10-22T23:52:33.313345+00:00"
+   "implied_upside_pct": 3.5,
+   "ma20": 370.03,
+   "as_of": "2026-10-23T00:07:28.097283+00:00"
   },
-  "pe_ttm": 103.6,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
+  "pe_ttm": 106.9,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.03,
-   "count": 297
+   "avg": -0.04,
+   "count": 298
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7a285393485d",
+   "title": "特斯拉还要熬多久 利润下滑考验未来投资 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLTV2QkNmMThMVUtMUzdMZ0pkWEY0SFgyTUFUMXpfdlBic1gxS1hDbnVpVnhZd2phcFF2eV9pTGRrN0FaOWdUeTFNOWR0OFh1MmpJV1h4NlNKVkMxUENaOGs1ZnMtN1NuZzUzN1BqLWE",
+   "source": "中华网",
+   "published_at": "2026-10-22T23:52:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-22T23:52:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLTV2QkNmMThMVUtMUzdMZ0pkWEY0SFgyTUFUMXpfdlBic1gxS1hDbnVpVnhZd2phcFF2eV9pTGRrN0FaOWdUeTFNOWR0OFh1MmpJV1h4NlNKVkMxUENaOGs1ZnMtN1NuZzUzN1BqLWE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "729eb240927a",
    "title": "特斯拉净利大降43%，股价结束三连涨 - 新浪财经",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉净利大降43%结束三连涨",
    "title_zh": "特斯拉净利大降43%，股价结束三连涨",
    "sentiment": -2
+  },
+  {
+   "id": "ff400910783c",
+   "title": "特斯拉要为Optimus建“学校”，马斯克称训练机器人就像育儿 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXRUQ3M2MjVrZmpSTmtub1RzUnliVHNpZlE5Y1pXV0FKUEh2RjIyaTh6UGw2R0wtZ1o3OW55UldOYlJFeThoeVdPRk4ycXhhTDZ5aFE4b0I2Qzg2dFR1WGlKSVJYd2RJOXljREtTemNoWVVGSUFMTzUxWEx5MHF2TkJueFhMb2JM",
+   "source": "搜狐",
+   "published_at": "2026-10-22T23:38:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T23:38:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXRUQ3M2MjVrZmpSTmtub1RzUnliVHNpZlE5Y1pXV0FKUEh2RjIyaTh6UGw2R0wtZ1o3OW55UldOYlJFeThoeVdPRk4ycXhhTDZ5aFE4b0I2Qzg2dFR1WGlKSVJYd2RJOXljREtTemNoWVVGSUFMTzUxWEx5MHF2TkJueFhMb2JM"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "1cdc6ab7bf0a",
@@ -6062,26 +6096,6 @@
    "sentiment": 0
   },
   {
-   "id": "766d68a21c3e",
-   "title": "马斯克：特斯拉2030年目标年产500万辆 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Skhra0otdlNIVXdTRW1iYzk5YW1mcW9CVUZSYmhUNDN5ODRTOTktVjBhWU9sSmszaU55NVZWdUR3ZmRUSnhqUWxlLTQ0Y0xvWjlTTjdwLURPWWs",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T09:17:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T09:17:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Skhra0otdlNIVXdTRW1iYzk5YW1mcW9CVUZSYmhUNDN5ODRTOTktVjBhWU9sSmszaU55NVZWdUR3ZmRUSnhqUWxlLTQ0Y0xvWjlTTjdwLURPWWs"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克：特斯拉2030年目标年产500万辆",
-   "title_zh": "马斯克：特斯拉2030年目标年产500万辆 - 汽车之家",
-   "sentiment": 1
-  },
-  {
    "id": "f5f5b3bf608b",
    "title": "特斯拉发布无人驾驶网约车首份安全报告 - DoNews",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwejNTSkZhb0p2ZUlBY2llRC1ELWtkQzV1WHNWMFJYOFA5N21wWVFXb2hYSENSRDZjaWtla0w2eXNvMXBuLVRmVy1lTzFEQ05IaHVRa3RjQmd4azhIZlE",
@@ -6240,51 +6254,6 @@
    "zh_summary": "特斯拉高管争取FSD入华监管批准",
    "title_zh": "特斯拉高管谈FSD入华 积极争取监管批准 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "66fd3d7f295b",
-   "title": "特斯拉发布无人驾驶网约车首份安全报告：Robotaxi车队累计行驶499万公里 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKdXZuQllZcTFhZUhCdEJiV1VVLTBrYVdqd0E4dlJQTEVqWGZtaVhPQ1BkWjFHb3BhdjNXalNONDJyMXFpNjFLUTRTLW5ybTRWdllyb1g1OFdTTWs",
-   "source": "网通社",
-   "published_at": "2026-10-22T08:47:00+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-22T08:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKdXZuQllZcTFhZUhCdEJiV1VVLTBrYVdqd0E4dlJQTEVqWGZtaVhPQ1BkWjFHb3BhdjNXalNONDJyMXFpNjFLUTRTLW5ybTRWdllyb1g1OFdTTWs"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T09:06:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0teGhUOVIwZkx5U1hXTHROYmRfcDA3RURta1poRU5MeEJTZ3ZjcjVKT3dvQlpoMF9UX2tYTzVabHZaYUUxcmhBTS1YamI1VHBQREpsY0F6RklucDR2dnNidnpmT1R2MnYtTXJZcHdmTDg"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T09:15:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ia1BWanp5LVlQZ19JUGI2aEd1c0NYMVBYXzk4SWgxRmZoSDBtOG4yME1JaUhEbHAxOWZhbEtlZjMyeHJDWUpVNExIcGdaQWVLZm8tY2JZZUJPbHVnVDQtcnhBbWo1T1BEUzRuMG1GdlpiZHNsR1hnd3dGcEY4UQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T09:14:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5INFNSRnR4c3FQLXVkY2JENFZwcnYzR1VJRUhTMER5ZGZEQ1Q3M0g0Tk04TG9YLU1uMVVQcF9uWFdWaGxBN1RlcksyNzJyRDQtYlRDOTl3U2JvLVZYaGhIbEcxUjgxZDdsY1VPZUJyR3l0NjNDZ2JKemQ5bkw"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T09:06:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHlOcGR6QW44RDdTbWV0d1dNMzFoblhpRUs4bDdOWjNCc29xN3dFX3RZODJ3NGZCdnFCSkNSMTc0QnhuQlY1M1otRzBRMmFiVWkxcGlhVmpYTW5WR29XeDdMSGV3TENod2pXV2VtVjBQM3RjeERLNlNBbWt2aG1nVVRfeC1UZFRi"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "Robotaxi首份安全报告行驶499万公里",
-   "title_zh": "特斯拉发布无人驾驶网约车首份安全报告：Robotaxi行驶499万公里",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.52,
-    "window_h": 0.1
-   }
   }
  ]
 }
