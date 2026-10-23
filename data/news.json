@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T19:52:29.897160+00:00",
+ "updated_at": "2026-10-23T20:07:33.446774+00:00",
  "market": {
-  "price": 372.4,
-  "change_pct": -0.58,
+  "price": 372.22,
+  "change_pct": -0.63,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（17家），隐含空间 +7.4%"
+     "note": "目标价中位数 $400（17家），隐含空间 +7.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.15（123条已评分）"
+     "note": "今日新闻情绪 -0.14（124条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.40 vs 20日均线 $369.88"
+     "note": "现价 $372.22 vs 20日均线 $369.87"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 17,
-   "implied_upside_pct": 7.4,
-   "ma20": 369.88,
-   "as_of": "2026-10-23T19:52:29.884890+00:00"
+   "implied_upside_pct": 7.5,
+   "ma20": 369.87,
+   "as_of": "2026-10-23T20:07:33.433935+00:00"
   },
-  "pe_ttm": 103.0,
+  "pe_ttm": 102.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.15,
-   "count": 123
+   "avg": -0.14,
+   "count": 124
   }
  },
  "meta": {
@@ -848,12 +848,17 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTW96SjNhQlJCZ1ZMd2x1a3Y0LUJJZlBUZFdmUklERllHUWVfZ1puOTc0Ykg4TnZMNGNpWVc1M0RQdnZSY0FEZTJZX2NEd2o0VHNWQnFaNnVzeVduX05DR0lURi00X1NSZ0ZndTRSb1M3MTRDUTlUZ0F6MkRBZ2pGVFhXZ3VjNXRUYWE4STVWSVdvT3VCdk9lY1BuQW9vZEU",
    "source": "Yahoo Autos",
    "published_at": "2026-10-23T14:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Autos",
      "published_at": "2026-10-23T14:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTW96SjNhQlJCZ1ZMd2x1a3Y0LUJJZlBUZFdmUklERllHUWVfZ1puOTc0Ykg4TnZMNGNpWVc1M0RQdnZSY0FEZTJZX2NEd2o0VHNWQnFaNnVzeVduX05DR0lURi00X1NSZ0ZndTRSb1M3MTRDUTlUZ0F6MkRBZ2pGVFhXZ3VjNXRUYWE4STVWSVdvT3VCdk9lY1BuQW9vZEU"
+    },
+    {
+     "name": "MotorTrend",
+     "published_at": "2026-10-23T14:11:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlItZS1YNjQ1MGpFYVE4dndpM2pRWTMydHZJUGw1MDdnY1FfNFg3cWIxNUJxeXZ0SWVOakpmUVpzY29JWnpleWpWbE9ETHBwMVZQVHVFM1g2Y1lWZ29zMlU0OXBhcDJmTXczUk9UOW5FTWFBcG5SOXRjSGxDRzJQQTZHbXdPYzNubHBCMFBPQ2ctZ1NXV0hrRQ"
     }
    ],
    "category": "车型产品",
