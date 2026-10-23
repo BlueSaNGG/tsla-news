@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T09:37:27.182849+00:00",
+ "updated_at": "2026-10-23T09:52:29.411664+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.38（32条已评分）"
+     "note": "今日新闻情绪 -0.35（34条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T09:37:27.167476+00:00"
+   "as_of": "2026-10-23T09:52:29.402834+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.38,
-   "count": 32
+   "avg": -0.35,
+   "count": 34
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "e47e64ba59fe",
+   "title": "辉立证券将特斯拉的目标价从$220调整至$230 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUhIZjZ1VVYwTXduRmxBYmMwMVVPM3UwWXNHc3h1MTJoeTFBOUVtQjdZMkxHcEQzRmkyUkN4OUx6R3JUQzMzWE92SGtKeFplR08xbjlPdFp6NWZKYkNuN25scFU1QXVDN0UwU2ZZWU5xN1p0WkFhbjJUSjlOVUFvUGFkb2ptT0dNTHlXTEw1ZVQzalZ2c09jSnFxWEx2RW1HdGc",
+   "source": "富途牛牛",
+   "published_at": "2026-10-23T09:45:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-23T09:45:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUhIZjZ1VVYwTXduRmxBYmMwMVVPM3UwWXNHc3h1MTJoeTFBOUVtQjdZMkxHcEQzRmkyUkN4OUx6R3JUQzMzWE92SGtKeFplR08xbjlPdFp6NWZKYkNuN25scFU1QXVDN0UwU2ZZWU5xN1p0WkFhbjJUSjlOVUFvUGFkb2ptT0dNTHlXTEw1ZVQzalZ2c09jSnFxWEx2RW1HdGc"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "bbea5702f9f8",
+   "title": "Tesla, Inc. $TSLA Stock: SBI Securities Co. Ltd. Increases Holdings - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFU0LUpIWmx4LWxHN2RYUjRPajZNX29YdjhvbzRTaWtzQ0xYU2RLU1RMOUZLUmZKUlF3Q1lLVjVKaW4tbGlua0QxWm00LWdKekhvZkNZRGxmdjRGSG1FWkp1Q3ItT2JNM0hIdWJLdk5hSzMtVzVJQ2kxSkU5Y2tVVlluTzlVTzM1Z0M2NDJhb2lCT1p3Z0YxanY4U0JCei1TWUJiTXozdXc0a2Rnek1HQkozZFN4anVTRXdwVnJ0QQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-23T09:37:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-23T09:37:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFU0LUpIWmx4LWxHN2RYUjRPajZNX29YdjhvbzRTaWtzQ0xYU2RLU1RMOUZLUmZKUlF3Q1lLVjVKaW4tbGlua0QxWm00LWdKekhvZkNZRGxmdjRGSG1FWkp1Q3ItT2JNM0hIdWJLdk5hSzMtVzVJQ2kxSkU5Y2tVVlluTzlVTzM1Z0M2NDJhb2lCT1p3Z0YxanY4U0JCei1TWUJiTXozdXc0a2Rnek1HQkozZFN4anVTRXdwVnJ0QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "10dbf3938d34",
    "title": "特斯拉油门踩断是安全设计尊界S800刹车断裂更危险 - 汽车之家",
@@ -6223,46 +6257,6 @@
    "session": "盘前",
    "zh_summary": "彭博称SpaceX与特斯拉合并或势在必行",
    "title_zh": "彭博：SpaceX与特斯拉联姻奇怪却注定",
-   "sentiment": 1
-  },
-  {
-   "id": "61e8af22bc1f",
-   "title": "特斯拉第三季度净利润下降 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01UjhzbmhGYkp0bTV0LUhRbmViUnpIOGtXRS14bTBnU25VY0ZRMkNmX2lpTzZIR0c4cmdfbzhiSnRTZlNCbW8ya29PNnQ3X3VHN2E4LXNERjFRSFZSdHF3blBtQWZ1ZVNjRTJnU2lB",
-   "source": "新浪财经",
-   "published_at": "2026-10-22T12:31:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T12:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01UjhzbmhGYkp0bTV0LUhRbmViUnpIOGtXRS14bTBnU25VY0ZRMkNmX2lpTzZIR0c4cmdfbzhiSnRTZlNCbW8ya29PNnQ3X3VHN2E4LXNERjFRSFZSdHF3blBtQWZ1ZVNjRTJnU2lB"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉第三季度净利润下降",
-   "title_zh": "特斯拉第三季度净利润下降",
-   "sentiment": -1
-  },
-  {
-   "id": "bc79884cc561",
-   "title": "特斯拉首次披露FSD家底：北美75%新车开通、总用户174万！ - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kaVlhMExYdVhPVE1fTlNPMTIxRmtmemtmajR4NWZQdHJBVDU1ZmN6NW9nNjAwc3dvNktrTkdXek9CelJUYmw3dmhHU0ktR0JfenNN",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-22T12:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-22T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kaVlhMExYdVhPVE1fTlNPMTIxRmtmemtmajR4NWZQdHJBVDU1ZmN6NW9nNjAwc3dvNktrTkdXek9CelJUYmw3dmhHU0ktR0JfenNN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉首次披露FSD用户174万",
-   "title_zh": "特斯拉首次披露FSD家底：北美75%新车开通、用户174万",
    "sentiment": 1
   }
  ]
