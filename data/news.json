@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T04:22:28.909835+00:00",
+ "updated_at": "2026-10-23T04:37:26.446854+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.08（292条已评分）"
+     "note": "今日新闻情绪 -0.06（298条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T04:22:28.896829+00:00"
+   "as_of": "2026-10-23T04:37:26.434030+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.08,
-   "count": 292
+   "avg": -0.06,
+   "count": 298
   }
  },
  "meta": {
@@ -1811,6 +1811,23 @@
    "zh_summary": "媒体发问特斯拉还要熬多久",
    "title_zh": "特斯拉还要熬多久？ - 东方财富",
    "sentiment": 0
+  },
+  {
+   "id": "f95dfc17c902",
+   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15 - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGg0bTV0YzMzRmJJZXh6bGdfcUFreEg2THBKbWlMb20xUS1Cam5mOVBMZXVTX3R4di1maXpMRXl6UVRoX1RaU2p2eUJXYTRkaWVnSTNvRGhQSU90ODFGLUxiekY5dzR1cFdndjl0elEtb2FfRVY3bVZpSjJ2VHBOaWx4MTJMVUNJQmlGX0NwQTdpTEZMYks4WjN3",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-22T19:54:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-22T19:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGg0bTV0YzMzRmJJZXh6bGdfcUFreEg2THBKbWlMb20xUS1Cam5mOVBMZXVTX3R4di1maXpMRXl6UVRoX1RaU2p2eUJXYTRkaWVnSTNvRGhQSU90ODFGLUxiekY5dzR1cFdndjl0elEtb2FfRVY3bVZpSjJ2VHBOaWx4MTJMVUNJQmlGX0NwQTdpTEZMYks4WjN3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "aafc9ddbb5af",
@@ -4967,6 +4984,23 @@
    "sentiment": -1
   },
   {
+   "id": "14e1316438e8",
+   "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean. - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzUyNDRqaUN5bzNjOUtHdmk2VHZFTHpPbjRSR0VOM3JnM1BRZjFDZ1dfVWZYd1NkZnpEMUF0WVRGRndJQnEzU0hyMUNES1F4YVc1Q3hGNkpyQnQ2ZTZ4Y09EcUU1V2l1bFV3VHo3RG5wbk9VUjB5dTRmMGUxcXBsTXZxVlk4Snh0RXRKTWNKMkpxQzFiZ2FRaGlzNWUwMkZtbVM2Rg",
+   "source": "WSJ",
+   "published_at": "2026-10-22T12:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-22T12:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzUyNDRqaUN5bzNjOUtHdmk2VHZFTHpPbjRSR0VOM3JnM1BRZjFDZ1dfVWZYd1NkZnpEMUF0WVRGRndJQnEzU0hyMUNES1F4YVc1Q3hGNkpyQnQ2ZTZ4Y09EcUU1V2l1bFV3VHo3RG5wbk9VUjB5dTRmMGUxcXBsTXZxVlk4Snh0RXRKTWNKMkpxQzFiZ2FRaGlzNWUwMkZtbVM2Rg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "d8b89d01097f",
    "title": "特斯拉Q3净利跌43%：毛利率涨了，钱挪去哪儿了？ - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85ck1hTlEzY3pSdWw1UHJKUFJkOGI1T09aZzBFa1ZmREJBY2w4Ni1QcEE5TUJHY2VMSW40M3lNdGdNbzRBOUJ2Mi1SVHNuTkRUYkNpcVlLSmxMOU9HdFlvdnNoclR3YjlySUM0SUxsMUhZLWxZYTlWd0tIOG5FZw",
@@ -6233,51 +6267,6 @@
    "zh_summary": "股指期货下跌，Meta与特斯拉领跌AI股",
    "title_zh": "股指期货走低，Meta与特斯拉领跌AI板块",
    "sentiment": -1
-  },
-  {
-   "id": "4ce5eab95890",
-   "title": "马斯克承认特斯拉FSD在华无领先优势 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByb3A2STdQbWhUZlE1MFVMSGNPX2xPdFZMU3EzNmZPalkyejNWVGo0cExZQlRBVGxKV3RZeDRnb0FaQkVpS3JVTm42S1R2U2FjWUVrY2RweEgtd0E",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T10:42:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T10:42:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByb3A2STdQbWhUZlE1MFVMSGNPX2xPdFZMU3EzNmZPalkyejNWVGo0cExZQlRBVGxKV3RZeDRnb0FaQkVpS3JVTm42S1R2U2FjWUVrY2RweEgtd0E"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-23T02:31:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlVGWkdEQ25Pak5CejVYeDBscXgwVzJpa1d2dGVyYjhfMUhwVkxJVVZvb1BEbWpWcnJOV0E5MGQtcFNPMWxqcGh4eVVObEVQT3VBbVpyUDJqTk93V20wcU1ya2l0MWZrZEJGSmUzMW5RMGdLNzZ5NlFPZ1JaZUpNWg"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克承认特斯拉FSD在华无领先优势",
-   "title_zh": "马斯克承认特斯拉FSD在华无领先优势 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "e6f3331ffcea",
-   "title": "【视频】特斯拉Roadster Event这速度上坡为何不掉下？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEZU5zUW9EOHBrQXNBdEV1amNfSUwzdF9PWFpBeFA5MWN1MVZ1bzh6dG42OGN0cjg0d01HVnJJdFJxQkVaUmU2RlFRcmJFTGFZb0FWWEpRTTFYZUU",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T10:41:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T10:41:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEZU5zUW9EOHBrQXNBdEV1amNfSUwzdF9PWFpBeFA5MWN1MVZ1bzh6dG42OGN0cjg0d01HVnJJdFJxQkVaUmU2RlFRcmJFTGFZb0FWWEpRTTFYZUU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "视频解析Roadster上坡不掉落原理",
-   "title_zh": "【视频】特斯拉Roadster Event这速度上坡为何不掉下？",
-   "sentiment": 0
   }
  ]
 }
