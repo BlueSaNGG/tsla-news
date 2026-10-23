@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T17:07:31.573051+00:00",
+ "updated_at": "2026-10-23T17:22:29.736416+00:00",
  "market": {
-  "price": 371.76,
-  "change_pct": -0.75,
+  "price": 371.87,
+  "change_pct": -0.72,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.15（97条已评分）"
+     "note": "今日新闻情绪 -0.18（100条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $371.76 vs 20日均线 $369.84"
+     "note": "现价 $371.87 vs 20日均线 $369.85"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 17,
    "implied_upside_pct": 7.6,
-   "ma20": 369.84,
-   "as_of": "2026-10-23T17:07:31.560076+00:00"
+   "ma20": 369.85,
+   "as_of": "2026-10-23T17:22:29.723192+00:00"
   },
   "pe_ttm": 102.8,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.15,
-   "count": 97
+   "avg": -0.18,
+   "count": 100
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "554045e4cb08",
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMGpPckN5WFB2VWNWZy1rWGU3cWZ1SWVIQ1BfTWRmNTVHTmhZaS1rWXlfakF3RC0wSnFHN0xRUDgxOVF2Ulo3MVIxemMxY1ZjQWtmRExWNmdTbU1nbE04cmxUckxpTGgtWk9rMTBDd0NadUhwN3kwcWNn",
+   "source": "InsideEVs",
+   "published_at": "2026-10-23T17:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-23T17:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMGpPckN5WFB2VWNWZy1rWGU3cWZ1SWVIQ1BfTWRmNTVHTmhZaS1rWXlfakF3RC0wSnFHN0xRUDgxOVF2Ulo3MVIxemMxY1ZjQWtmRExWNmdTbU1nbE04cmxUckxpTGgtWk9rMTBDd0NadUhwN3kwcWNn"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "27722ec63f9b",
+   "title": "Tesla reveals Optimus Academy, where robots teach themselves - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXJEMEJSd2p3N1JRSTVheUxzaTZEZG8wYTU4SkdMRWl1QXlMRTZQN2c2X05jRHFFN1FsaFJMb3hWRmJxVFZzbXJLNTY3ZGhvZEt3bFljaE41ZzdrU3NTV0gxNnVfREhGYi1rT2tTb0pybFg2YTlVV21YblliQnA2RzVEbXFiNWdQdXk5NE11bw",
+   "source": "Teslarati",
+   "published_at": "2026-10-23T17:12:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-23T17:12:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXJEMEJSd2p3N1JRSTVheUxzaTZEZG8wYTU4SkdMRWl1QXlMRTZQN2c2X05jRHFFN1FsaFJMb3hWRmJxVFZzbXJLNTY3ZGhvZEt3bFljaE41ZzdrU3NTV0gxNnVfREhGYi1rT2tTb0pybFg2YTlVV21YblliQnA2RzVEbXFiNWdQdXk5NE11bw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "88a767fa04fc",
    "title": "男子控诉特斯拉刹车失灵，父亲驾车撞墙制动 - 新浪网",
@@ -86,6 +120,23 @@
    "zh_summary": "男子称父亲驾特斯拉撞墙疑刹车失灵",
    "title_zh": "男子控诉特斯拉刹车失灵，父亲驾车撞墙制动 - 新浪网",
    "sentiment": -1
+  },
+  {
+   "id": "448eb9bd2135",
+   "title": "Rivian Takes A Page Out Of Tesla's Playbook And Turns Owners Into Beta Testers - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1kwOVExaGVEV0k2WjJ4d0ZXVjJqY1lFdGFaUXZTbEF5VUF5LTdiZFRxYW14eV9uLU4xZGlFR01iTjFWcDlCWVR2ZTBHeUNBSWFjZ0psUWY5a0FMbDdjbkdTZkRwTlVhUGhsWjJiOXMtc2J1eUlBS3YtQlhGTTY3UndZMXRmeF9MQ3ViVXR6dXdpem1JWmZVQUNRaXgySDk2dHc",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-23T17:00:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-23T17:00:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1kwOVExaGVEV0k2WjJ4d0ZXVjJqY1lFdGFaUXZTbEF5VUF5LTdiZFRxYW14eV9uLU4xZGlFR01iTjFWcDlCWVR2ZTBHeUNBSWFjZ0psUWY5a0FMbDdjbkdTZkRwTlVhUGhsWjJiOXMtc2J1eUlBS3YtQlhGTTY3UndZMXRmeF9MQ3ViVXR6dXdpem1JWmZVQUNRaXgySDk2dHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "e18fda482d73",
@@ -113,12 +164,17 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblY2MzZBM0RES19HWGFoS081d3JVQmRFMnRTSHZhNGkxTF9RUkl6MWFob3BTakVTX1ZodlBSakFOdWJpbnE0VWQwVTRkdElOM3FCMVhscVhlcll0TlhPQmpUQ2N2QkRkVmtPS0Z3OVdCYXZEUDhKQmRfeTQ0S3JtLTEyajRpR2g0NGwwdjJkSzZDbnJvdERSM0Z3QVBYTDlBaHpGb1E4aGRPTUFmXzFHUENqYVFYdDA1ZXJTREJnNHJqTWxOQkJUZ1RtWQ",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-23T16:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-23T16:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQblY2MzZBM0RES19HWGFoS081d3JVQmRFMnRTSHZhNGkxTF9RUkl6MWFob3BTakVTX1ZodlBSakFOdWJpbnE0VWQwVTRkdElOM3FCMVhscVhlcll0TlhPQmpUQ2N2QkRkVmtPS0Z3OVdCYXZEUDhKQmRfeTQ0S3JtLTEyajRpR2g0NGwwdjJkSzZDbnJvdERSM0Z3QVBYTDlBaHpGb1E4aGRPTUFmXzFHUENqYVFYdDA1ZXJTREJnNHJqTWxOQkJUZ1RtWQ"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-23T16:45:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdDFqRXBBSnZBUDljdllVd0ppLWlIVDhWMWhWY3Y5ZzY5TDZjdktuUXJLMXhKNDJmd1MtZHdEZlF0ZlpzMHhMMlhNd3BGNXB2U3BlUGJRejBCSTQwaTlZWjRIUDRXYy1CeHJJWk83TjJxUGdNcU5xakpHZXFoWldaRU5Daw"
     }
    ],
    "category": "分析师",
@@ -4875,6 +4931,23 @@
    "sentiment": -1
   },
   {
+   "id": "f731796fbfff",
+   "title": "U.S. Earnings Season Heats Up as MEXC TSLA Stock Futures Weekly Volume Jumps 101% - Yellow.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHR6THBQc2wyeDY3WU5SeHpMa0pxeE5ROXBpRmpKWmItT2pscHJVUm1Ha05TVmJBRkpYWDVqUmZpMGNsZlB1X0pYQXBwdWdXOWNNd3JiX1ppblFGbGEtTzE2NVB4Qlpud3dPRWlRSUowejRLd3V3MktfcDlGcHgzbElpa2JyUV94bDg5d0k4aGxjMlFZeWZJc1BvZnJFWmU2Wk1pcUN3ZTEtM2JVWjdHOU53",
+   "source": "Yellow.com",
+   "published_at": "2026-10-22T17:29:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yellow.com",
+     "published_at": "2026-10-22T17:29:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHR6THBQc2wyeDY3WU5SeHpMa0pxeE5ROXBpRmpKWmItT2pscHJVUm1Ha05TVmJBRkpYWDVqUmZpMGNsZlB1X0pYQXBwdWdXOWNNd3JiX1ppblFGbGEtTzE2NVB4Qlpud3dPRWlRSUowejRLd3V3MktfcDlGcHgzbElpa2JyUV94bDg5d0k4aGxjMlFZeWZJc1BvZnJFWmU2Wk1pcUN3ZTEtM2JVWjdHOU53"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "848d4b39b9bf",
    "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI",
@@ -6282,86 +6355,6 @@
    "zh_summary": "特斯拉股价成热点，动因何在",
    "title_zh": "特斯拉股票成热点：发生了什么？",
    "sentiment": 0
-  },
-  {
-   "id": "addf2eeacfb5",
-   "title": "特斯拉：上季度北美75%的新车买家订阅了FSD - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbi1nLURoXzN0elFSZHh4Ny1kQlNFd2h0Z3p4RzJKd2VpeHZDbkRkRUNwVmtKenF4RVowOUdIOTVkaHFZQWdqaThnSXFma3FTQ2NfYTZsMEhMOGQ4VUxXQ2huY0U2R2ZyQWtZZ1RVYzFuYk1ROWhlVnBFZnVnUQ",
-   "source": "新浪网",
-   "published_at": "2026-10-22T14:28:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T14:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbi1nLURoXzN0elFSZHh4Ny1kQlNFd2h0Z3p4RzJKd2VpeHZDbkRkRUNwVmtKenF4RVowOUdIOTVkaHFZQWdqaThnSXFma3FTQ2NfYTZsMEhMOGQ4VUxXQ2huY0U2R2ZyQWtZZ1RVYzFuYk1ROWhlVnBFZnVnUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉称北美75%新车主订阅FSD",
-   "title_zh": "特斯拉：上季度北美75%的新车买家订阅了FSD",
-   "sentiment": 1
-  },
-  {
-   "id": "5ee5533916e7",
-   "title": "马斯克推动SpaceX与特斯拉合并，市值约3.7万亿美元 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SjI1M3EwMzJoNklsT1pPN0hwY1ZJMHBJT3FWZnR3VktxSmpoRDBnN2J2S19PY3gyc1JWTEpNMlNvSGtJdTJ2N1h5Z0tDQkEwTUQ0LWJ6NkotOGE5Z0NkaDhqZ2pZcTZRZ3pMWlJn",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-22T14:26:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-22T14:26:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SjI1M3EwMzJoNklsT1pPN0hwY1ZJMHBJT3FWZnR3VktxSmpoRDBnN2J2S19PY3gyc1JWTEpNMlNvSGtJdTJ2N1h5Z0tDQkEwTUQ0LWJ6NkotOGE5Z0NkaDhqZ2pZcTZRZ3pMWlJn"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克推动SpaceX与特斯拉合并",
-   "title_zh": "马斯克推动SpaceX与特斯拉合并，市值约3.7万亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "e5cac63007d5",
-   "title": "Porsche launched a car on flying Tesla day and the memes are incredible - Mashable",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWTBHUXRqVmtKWHFwMnRfOEFJVUxFWVMxMFNJV095ZF9ETUpGVmdHWTZnMWZ4NU9MZkVvZ0NNZUxocjdfWlFJVlpJN2prWjA2bWo2Zk5NOW9oVnFjNVdJeFd4cDFDNVVFblBaOS1QdzdPSmVOM0E",
-   "source": "Mashable",
-   "published_at": "2026-10-22T14:26:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Mashable",
-     "published_at": "2026-10-22T14:26:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWTBHUXRqVmtKWHFwMnRfOEFJVUxFWVMxMFNJV095ZF9ETUpGVmdHWTZnMWZ4NU9MZkVvZ0NNZUxocjdfWlFJVlpJN2prWjA2bWo2Zk5NOW9oVnFjNVdJeFd4cDFDNVVFblBaOS1QdzdPSmVOM0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "保时捷同日发新车遭网友调侃",
-   "title_zh": "保时捷选在特斯拉飞行日发布新车引网友调侃",
-   "sentiment": 0
-  },
-  {
-   "id": "51a29ab93e67",
-   "title": "Was Tesla’s Flying Roadster Reveal Just a Big SpaceX Marketing Stunt? - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblpVdWxOdzUtbTFkYUs2cUxrRGNkNGZfeXppQWxHMjN3SVVjYnNOTFc3a0QzMUdMMWdMOEs2azg4OGRxd3VpUXNacVpYVUVSZy03SVE5MnNOZGk2dDFOOGNpZFJPNThKcDRQdjZ4ejI4Tms2eFp1ZjlEb2tuQVdiaHpIeTNSV2VKaUJR",
-   "source": "Autoblog",
-   "published_at": "2026-10-22T14:25:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-22T14:25:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblpVdWxOdzUtbTFkYUs2cUxrRGNkNGZfeXppQWxHMjN3SVVjYnNOTFc3a0QzMUdMMWdMOEs2azg4OGRxd3VpUXNacVpYVUVSZy03SVE5MnNOZGk2dDFOOGNpZFJPNThKcDRQdjZ4ejI4Tms2eFp1ZjlEb2tuQVdiaHpIeTNSV2VKaUJR"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "Roadster发布被指SpaceX营销噱头",
-   "title_zh": "特斯拉'飞天'Roadster发布只是一场SpaceX营销秀？",
-   "sentiment": -1
   }
  ]
 }
