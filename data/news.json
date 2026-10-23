@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T01:07:37.713260+00:00",
+ "updated_at": "2026-10-23T01:22:30.544992+00:00",
  "market": {
-  "price": 386.47,
-  "change_pct": 3.41,
+  "price": 374.58,
+  "change_pct": -3.08,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,28 +16,28 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 46% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
-     "score": -1,
-     "note": "目标价中位数 $400（16家），隐含空间 +3.5%"
+     "score": 0,
+     "note": "目标价中位数 $400（16家），隐含空间 +6.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.07（294条已评分）"
+     "note": "今日新闻情绪 -0.07（292条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $386.47 vs 20日均线 $370.03"
+     "note": "现价 $374.58 vs 20日均线 $369.86"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 46,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 16,
-   "implied_upside_pct": 3.5,
-   "ma20": 370.03,
-   "as_of": "2026-10-23T01:07:37.705693+00:00"
+   "implied_upside_pct": 6.8,
+   "ma20": 369.86,
+   "as_of": "2026-10-23T01:22:30.532482+00:00"
   },
-  "pe_ttm": 106.9,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
+  "pe_ttm": 103.6,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.07,
-   "count": 294
+   "count": 292
   }
  },
  "meta": {
@@ -67,6 +67,108 @@
   }
  },
  "stories": [
+  {
+   "id": "add4cbfded77",
+   "title": "【视频】2030年产量破500万特斯拉能完成吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoQU1MN0tYQ2Z0bzZQRGp6WVhabXBKQndObWFHbWtZX3BRZDk3U0RKSldFR0VyeE8yTWdaQ2tueGMtZHM5anNRNVlLMUdvbUkwQWsyQ2ZlX1FYSzg",
+   "source": "汽车之家",
+   "published_at": "2026-10-23T01:20:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-23T01:20:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoQU1MN0tYQ2Z0bzZQRGp6WVhabXBKQndObWFHbWtZX3BRZDk3U0RKSldFR0VyeE8yTWdaQ2tueGMtZHM5anNRNVlLMUdvbUkwQWsyQ2ZlX1FYSzg"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
+  {
+   "id": "489d64781636",
+   "title": "特斯拉，最新业绩公布 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0VGc3cW1vYjUwZEtLUUp1NDc0ajEwT2g2eUQxcGktUHFNOUpvOEVHZERrVnpJMWJwc3pFN2REMlk2dGVEVERPV0s2MDNZSWF5Q3FjMURmNHR3TTlpdlJaenpkX3lSSjlwV0RoaHI4WVQ4UQ",
+   "source": "新浪网",
+   "published_at": "2026-10-23T01:15:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T01:15:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0VGc3cW1vYjUwZEtLUUp1NDc0ajEwT2g2eUQxcGktUHFNOUpvOEVHZERrVnpJMWJwc3pFN2REMlk2dGVEVERPV0s2MDNZSWF5Q3FjMURmNHR3TTlpdlJaenpkX3lSSjlwV0RoaHI4WVQ4UQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
+   "id": "e1596698ffe0",
+   "title": "特斯拉称电池供应有限拖累生产 产能扩张遇瓶颈 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXTllWVm1taDVQQk5BSU9WcW1CQWU5Z1drQW15U1BxdjIyUEllV1JMVkpEYWNOQWJGRU1yblRuajhHVk1NUzVmb0oxcW8zZHBtcndoZklkQWJmT3pJWTdCbWZqbXROSE8yVmJQQVZjOTY",
+   "source": "中华网",
+   "published_at": "2026-10-23T01:13:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-23T01:13:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXTllWVm1taDVQQk5BSU9WcW1CQWU5Z1drQW15U1BxdjIyUEllV1JMVkpEYWNOQWJGRU1yblRuajhHVk1NUzVmb0oxcW8zZHBtcndoZklkQWJmT3pJWTdCbWZqbXROSE8yVmJQQVZjOTY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "5f0ca6415970",
+   "title": "Tesla Cybercab Dallas Launch Estimated for November 15 - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ",
+   "source": "BASENOR",
+   "published_at": "2026-10-23T01:08:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-23T01:08:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "b76030102bd9",
+   "title": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1hMTFBWSzdoU1JId0FVWS1iUnk5N25UajVNRk9QWWpCWFUxVTdPVVB4Q1REUlBNamp4YnhBYUtGMzdUbzhQYlhnTjl4ZjMyUWRBeVZkRjZMcmNXV2JWVEpETmtLR2t1ZmFGekRIVzA0Z2g4Q0h5OFczVHNVTnRoS3lvLXFJYW9aa3BaZGZWZjFHbXdvYlVhMG91SHlKUQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T01:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T01:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1hMTFBWSzdoU1JId0FVWS1iUnk5N25UajVNRk9QWWpCWFUxVTdPVVB4Q1REUlBNamp4YnhBYUtGMzdUbzhQYlhnTjl4ZjMyUWRBeVZkRjZMcmNXV2JWVEpETmtLR2t1ZmFGekRIVzA0Z2g4Q0h5OFczVHNVTnRoS3lvLXFJYW9aa3BaZGZWZjFHbXdvYlVhMG91SHlKUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "43a32f9a1ac1",
+   "title": "Why a Merger With Tesla Could Be a Disaster for SpaceX - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVZIY0N0R1dKZ3RpT2VkY0E1NjduSlBWNGZQZnhIMDBSUHhIUWFVY0UyMkhuMlgtd1VPTm43TEQ4SUlGYlhYN3BhT21iMDZCanJmWDduamppVFM5NXZ6dDFjOFdQalpGa0E1UjlPMnQxMEY0TXJKQ090SERlYlo4REhjNnJmOHEyWkxPRi1pQzlmT3lSSFU0dl84cXlzdw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-23T01:02:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-23T01:02:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVZIY0N0R1dKZ3RpT2VkY0E1NjduSlBWNGZQZnhIMDBSUHhIUWFVY0UyMkhuMlgtd1VPTm43TEQ4SUlGYlhYN3BhT21iMDZCanJmWDduamppVFM5NXZ6dDFjOFdQalpGa0E1UjlPMnQxMEY0TXJKQ090SERlYlo4REhjNnJmOHEyWkxPRi1pQzlmT3lSSFU0dl84cXlzdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "3e620d3db42e",
    "title": "特斯拉2027年Megapack产能订单接近售罄 马斯克称将提高产量 - 观点网",
@@ -83,8 +185,8 @@
    ],
    "category": "交付量",
    "session": "盘后",
-   "title_zh": "特斯拉2027年Megapack订单接近售罄将扩产",
    "zh_summary": "特斯拉2027年Megapack产能订单接近售罄",
+   "title_zh": "特斯拉2027年Megapack订单接近售罄将扩产",
    "sentiment": 1
   },
   {
@@ -103,8 +205,8 @@
    ],
    "category": "能源",
    "session": "盘后",
-   "title_zh": "特斯拉门店外新能源车起火引燃特斯拉",
    "zh_summary": "特斯拉门店外新能源车起火引燃特斯拉",
+   "title_zh": "特斯拉门店外新能源车起火引燃特斯拉",
    "sentiment": -1
   },
   {
@@ -123,8 +225,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "特斯拉FSD和华为ADS谁更强？听听陈震怎么说？ - 汽车之家",
    "zh_summary": "对比特斯拉FSD与华为ADS智驾谁更强",
+   "title_zh": "特斯拉FSD和华为ADS谁更强？听听陈震怎么说？ - 汽车之家",
    "sentiment": 0
   },
   {
@@ -143,8 +245,8 @@
    ],
    "category": "能源",
    "session": "盘后",
-   "title_zh": "特斯拉Q3利润腰斩背后：一边烧钱搞AI，一边储能毛利飙升 - 富途牛牛",
    "zh_summary": "特斯拉Q3利润腰斩，储能毛利飙升",
+   "title_zh": "特斯拉Q3利润腰斩背后：一边烧钱搞AI，一边储能毛利飙升 - 富途牛牛",
    "sentiment": -1
   },
   {
@@ -223,8 +325,8 @@
    ],
    "category": "能源",
    "session": "盘后",
-   "title_zh": "SpaceX九个月从特斯拉采购4.8亿美元Megapack储能产品 - 观点网",
    "zh_summary": "SpaceX九个月采购4.8亿美元特斯拉储能",
+   "title_zh": "SpaceX九个月从特斯拉采购4.8亿美元Megapack储能产品 - 观点网",
    "sentiment": 1
   },
   {
@@ -243,9 +345,26 @@
    ],
    "category": "车型产品",
    "session": "盘后",
-   "title_zh": "特斯拉决定不在澳洲和新西兰生产Cybertruck",
    "zh_summary": "特斯拉不在澳洲和新西兰生产Cybertruck",
+   "title_zh": "特斯拉决定不在澳洲和新西兰生产Cybertruck",
    "sentiment": -1
+  },
+  {
+   "id": "11e2676796e2",
+   "title": "Tesla Ramping Megapack Production ‘As Much As Possible’ After 2027 Capacity Nearly Sold Out Amid Data Center Demand - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU255TE8wZ1NQOWRPcEFBMmlqYnA4VVRDWFBQRjgtNDFIczNRYU5vTWRNS01Ta0pTaW16Skd2Nmd2UXhQZmRzNWlLb3NBbjlBYTZySXBTQWgtYUk5aThzeDRjM3h5UUZDdUNMV1RKdF9lMUJpaDNhcW10VjVEUUVSd3JKSS1HdFZkX19ndjU0b0E4SkhVV09wRWtIbw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T00:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T00:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU255TE8wZ1NQOWRPcEFBMmlqYnA4VVRDWFBQRjgtNDFIczNRYU5vTWRNS01Ta0pTaW16Skd2Nmd2UXhQZmRzNWlLb3NBbjlBYTZySXBTQWgtYUk5aThzeDRjM3h5UUZDdUNMV1RKdF9lMUJpaDNhcW10VjVEUUVSd3JKSS1HdFZkX19ndjU0b0E4SkhVV09wRWtIbw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
   },
   {
    "id": "7a285393485d",
@@ -496,6 +615,23 @@
    "zh_summary": "马斯克向特斯拉投资者发出备忘录",
    "title_zh": "马斯克向SpaceX和特斯拉投资者发出强硬备忘录",
    "sentiment": 0
+  },
+  {
+   "id": "1ea6efa2e7a6",
+   "title": "Fort Bend County approves economic incentives for proposed Tesla facility - Community Impact Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmd4ZnRDOGVMZm5WNWdnNS12aDBHcWJUcVdtSkVESnVNZFQ0THNmLTNGdnZlN3VPTVRobWx6ckVJQlU0S0tqYlc5Ny1Gc3NZWkpxUElFMEwydzJqNUZPOTEwUnVqeTMtVU54b2t3UXViT2hENVZBczRqTm00ejZ4dGxXZHFmNnp0d0tqSmtJeXFVTXNIbmFYSVlqMXJBcWd2d1NTcTlCQ2NjNWlUSzBDQlljSmRrX0tVMzlzc0dzTHBOQlBFZ1U2OTNDQWF6enBwcXdaQg",
+   "source": "Community Impact Newspaper",
+   "published_at": "2026-10-22T21:55:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Community Impact Newspaper",
+     "published_at": "2026-10-22T21:55:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmd4ZnRDOGVMZm5WNWdnNS12aDBHcWJUcVdtSkVESnVNZFQ0THNmLTNGdnZlN3VPTVRobWx6ckVJQlU0S0tqYlc5Ny1Gc3NZWkpxUElFMEwydzJqNUZPOTEwUnVqeTMtVU54b2t3UXViT2hENVZBczRqTm00ejZ4dGxXZHFmNnp0d0tqSmtJeXFVTXNIbmFYSVlqMXJBcWd2d1NTcTlCQ2NjNWlUSzBDQlljSmRrX0tVMzlzc0dzTHBOQlBFZ1U2OTNDQWF6enBwcXdaQg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "cc789eb1bb40",
@@ -6110,166 +6246,6 @@
    "zh_summary": "特斯拉斯特兰蒂斯欧洲9月销量上升",
    "title_zh": "特斯拉、斯特兰蒂斯：欧洲9月新车注册量上升，ACEA数据显示",
    "sentiment": 1
-  },
-  {
-   "id": "51089406b1cb",
-   "title": "韩媒：特斯拉拟投资1.1万亿韩元以确保三星电机的基板产能 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcUY5V040VVNhUXduTWg2eF9BTWFoZFk2NzF4YWdKMWdNZ08wZW5SbGJqS24wS3JIVEphYXdlSTVBSU1JelJLVnpLa0FpYWF1X18zZGxUSFRpQ3FuQjFvZEV2MA",
-   "source": "东方财富",
-   "published_at": "2026-10-22T09:45:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T09:45:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcUY5V040VVNhUXduTWg2eF9BTWFoZFk2NzF4YWdKMWdNZ08wZW5SbGJqS24wS3JIVEphYXdlSTVBSU1JelJLVnpLa0FpYWF1X18zZGxUSFRpQ3FuQjFvZEV2MA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉拟投资1.1万亿韩元保三星电机产能",
-   "title_zh": "韩媒：特斯拉拟投资1.1万亿韩元以确保三星电机的基板产能",
-   "sentiment": 1
-  },
-  {
-   "id": "40fc66de5ab6",
-   "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHkzVk1fTzlucTV0WFN6LVc0aHNGMmxBZ2VkTldvNjc3VmM2NTBXYXh1YmdVZ0QyQTVQSVV0bFNiZ2xvUVF6OWNxS3EyRFpJM01lZXN4RGhjaExidEVWZGNZdTFjV0NMVE90OUJ6UFJHbkg2UTA0cDF3UmhYd1RSUExHNUVILTVrQ0cxU01SUEYwVk1uaWRoZnYzSHVnMmtzM2xxYm90cFhaRDM4Y0g5bENfTG0wcWNWVXFydktR",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T09:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T09:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHkzVk1fTzlucTV0WFN6LVc0aHNGMmxBZ2VkTldvNjc3VmM2NTBXYXh1YmdVZ0QyQTVQSVV0bFNiZ2xvUVF6OWNxS3EyRFpJM01lZXN4RGhjaExidEVWZGNZdTFjV0NMVE90OUJ6UFJHbkg2UTA0cDF3UmhYd1RSUExHNUVILTVrQ0cxU01SUEYwVk1uaWRoZnYzSHVnMmtzM2xxYm90cFhaRDM4Y0g5bENfTG0wcWNWVXFydktR"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "股指期货下跌市场消化财报",
-   "title_zh": "股指期货下跌，市场评估特斯拉Meta财报",
-   "sentiment": -1
-  },
-  {
-   "id": "db0f1dcbdce7",
-   "title": "Why Is Tesla Stock (TSLA) Falling Over 5% Despite Strong Q3 Earnings? - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEhrMDUzVGJnR1pvaVBubzV0NU1wOGxIVnIyZDZPTk5Jd1dKUi1rWFBfNkk3bWVfeElMWVR3MWI5X0I1SWkwVkZRSVJBeUlJSHlScm10Nm9KYVV4RXFfQThpWDNyVlFOMG14eVUyTGtENWtISEVteFhMcVQtU2ctUlh5Q2l3ek00VTdUSTI1V1RtUmRHTUxTMFlFOA",
-   "source": "TipRanks",
-   "published_at": "2026-10-22T09:38:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-22T09:38:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEhrMDUzVGJnR1pvaVBubzV0NU1wOGxIVnIyZDZPTk5Jd1dKUi1rWFBfNkk3bWVfeElMWVR3MWI5X0I1SWkwVkZRSVJBeUlJSHlScm10Nm9KYVV4RXFfQThpWDNyVlFOMG14eVUyTGtENWtISEVteFhMcVQtU2ctUlh5Q2l3ek00VTdUSTI1V1RtUmRHTUxTMFlFOA"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "财报强劲但特斯拉股价跌超5%",
-   "title_zh": "特斯拉Q3财报强劲，股价为何仍跌超5%？",
-   "sentiment": -1
-  },
-  {
-   "id": "2e6ee1902fe4",
-   "title": "A SpaceX-Tesla merger: The ins, outs, and what-have-yous - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlla1BGY21yQ05sWGV5aUZ4cldPU1V5eVVTd0tjSmdIUS1CLS1aMUgzOHV0aFNCeHNoaENnRFhJTFEwVEx5QWx6NEp4bkxwLTBmRXBYUzdFYThkV3NkU3Z0dUxTZkdHOGI4cnJENDRsNWFTSGM4VUdleDRnWThPUQ",
-   "source": "Fortune",
-   "published_at": "2026-10-22T09:38:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fortune",
-     "published_at": "2026-10-22T09:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlla1BGY21yQ05sWGV5aUZ4cldPU1V5eVVTd0tjSmdIUS1CLS1aMUgzOHV0aFNCeHNoaENnRFhJTFEwVEx5QWx6NEp4bkxwLTBmRXBYUzdFYThkV3NkU3Z0dUxTZkdHOGI4cnJENDRsNWFTSGM4VUdleDRnWThPUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "SpaceX与特斯拉合并事项解析",
-   "title_zh": "SpaceX与特斯拉合并的来龙去脉解析",
-   "sentiment": 0
-  },
-  {
-   "id": "244c776e4c59",
-   "title": "特斯拉全新Roadster于10月中旬发布，现场演示0-60英里/小时加速小于1秒，追求极致体验的你会喜欢吗？ - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QTJBY0ZXRGFFUUN0bmd0NDNCWG5aYlNuellJQVIwbmxoX1ZWRlFtWmxGSUVOZVZiTDExbHgxR0dBZmctMFVMblpMT3BLOW9CaERjdGtWMW5oNXM",
-   "source": "网通社",
-   "published_at": "2026-10-22T09:37:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-22T09:37:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0QTJBY0ZXRGFFUUN0bmd0NDNCWG5aYlNuellJQVIwbmxoX1ZWRlFtWmxGSUVOZVZiTDExbHgxR0dBZmctMFVMblpMT3BLOW9CaERjdGtWMW5oNXM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉新Roadster发布，加速不到1秒",
-   "title_zh": "特斯拉全新Roadster发布，0-60加速小于1秒",
-   "sentiment": 1
-  },
-  {
-   "id": "2eb1029ced7c",
-   "title": "Meta Platforms和特斯拉季度业绩令投资者失望，原油价格跳涨，美股指数期货盘前下挫 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXdoZk5CRV9ObjktSE9CMGpBU1ZwaHk0SF9fZWRnZVB6UTYzXzNfellfQVlfUHh2Y19oM2hsaDVfUm1fMTk1Y1lpQ19vZ29WWm92aTZtaWJQaGVxQzNXYjlmd2hId3BYc250cFdrNng1N1MtSllJTVI1STRtTFlTdU9jZVJQLW9RZUpYNGI1WmRtRHVLbzc3NjNib1ZMSFNPbmVtd0NMM20wNUpiclFCdw",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T09:36:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T09:36:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXdoZk5CRV9ObjktSE9CMGpBU1ZwaHk0SF9fZWRnZVB6UTYzXzNfellfQVlfUHh2Y19oM2hsaDVfUm1fMTk1Y1lpQ19vZ29WWm92aTZtaWJQaGVxQzNXYjlmd2hId3BYc250cFdrNng1N1MtSllJTVI1STRtTFlTdU9jZVJQLW9RZUpYNGI1WmRtRHVLbzc3NjNib1ZMSFNPbmVtd0NMM20wNUpiclFCdw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉季度业绩令投资者失望",
-   "title_zh": "Meta和特斯拉业绩令投资者失望，美股期货下挫",
-   "sentiment": -1
-  },
-  {
-   "id": "b472eb9f1dc7",
-   "title": "特斯拉门店引后知后觉，电池问题成焦点 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmNkTktid2c1Z2IzQVU3Nkhaamh5Mmc3dUlHc1dHT05JM0w0dGpsOWIyczlJQWZxTFo2Y3JCcXp4ZllmOTBkVGQwME8wc1ZKWHRtSTZ5OU9HVmdlbFdRMTB2cFJPN1dMLXhFMFBNdW1ELWxzWXZlVTF3SXpMY0tEaQ",
-   "source": "新浪网",
-   "published_at": "2026-10-22T09:34:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T09:34:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmNkTktid2c1Z2IzQVU3Nkhaamh5Mmc3dUlHc1dHT05JM0w0dGpsOWIyczlJQWZxTFo2Y3JCcXp4ZllmOTBkVGQwME8wc1ZKWHRtSTZ5OU9HVmdlbFdRMTB2cFJPN1dMLXhFMFBNdW1ELWxzWXZlVTF3SXpMY0tEaQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉门店受关注，电池问题成焦点",
-   "title_zh": "特斯拉门店引后知后觉，电池问题成焦点",
-   "sentiment": -1
-  },
-  {
-   "id": "56dced665391",
-   "title": "【视频】特斯拉飞行汽车彻底揭穿全网骗局 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rZmZZRnZCcUU2OGNTYmNnZ0ZNTVdKaHlfNWFpbktYc2pDSDdOYTFlUnVoQVhWY3NiRW1TanVGMlpCU2FJLVRHUmVrQ0V3dWNIcWk2Z0xzTTh2dVk",
-   "source": "汽车之家",
-   "published_at": "2026-10-22T09:33:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T09:33:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rZmZZRnZCcUU2OGNTYmNnZ0ZNTVdKaHlfNWFpbktYc2pDSDdOYTFlUnVoQVhWY3NiRW1TanVGMlpCU2FJLVRHUmVrQ0V3dWNIcWk2Z0xzTTh2dVk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉飞行汽车骗局被揭穿",
-   "title_zh": "【视频】特斯拉飞行汽车彻底揭穿全网骗局",
-   "sentiment": 0
   }
  ]
 }
