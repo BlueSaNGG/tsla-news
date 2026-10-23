@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T06:22:27.155341+00:00",
+ "updated_at": "2026-10-23T06:37:28.360545+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.25（4条已评分）"
+     "note": "今日新闻情绪 -0.14（7条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T06:22:27.144388+00:00"
+   "as_of": "2026-10-23T06:37:28.350988+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.25,
-   "count": 4
+   "avg": -0.14,
+   "count": 7
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "73271dc3db61",
+   "title": "【视频】特斯拉第二代Roadster发布，倒挂跑车能上路吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SYzlyQ2FkcUEzVjc1OXQtQkhkQ3I5azduNUFyM1JXVmlqVzNoRkVfbFdweFhPMG5fY3FHRXp0eDd4MUFJYVl1bllTcHdfRG9oSVpqS2tuM242cFE",
+   "source": "汽车之家",
+   "published_at": "2026-10-23T06:34:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-23T06:34:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SYzlyQ2FkcUEzVjc1OXQtQkhkQ3I5azduNUFyM1JXVmlqVzNoRkVfbFdweFhPMG5fY3FHRXp0eDd4MUFJYVl1bllTcHdfRG9oSVpqS2tuM242cFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "78df41c08ee9",
+   "title": "TSLA Eyes Best Week In 2 Months — Analyst Sees Physical Tech’s ‘Berkshire,’ But Bear Credits Court Ruling For Q3 Beat - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEdOajlzc1JPZjlHbjZsNEo1dFp0VDZhSmgxaWlSQVN4R0JwSl8zaFhYZG9uLUdQdkE1TzNxeEdVQzFMRndYVlhFek0yMzhMRWJidTREN0FyZGhkZ1lWSkFHZGxNZmx3Tzc0NkdtcGZVbXc3Yi1Pb05oc2FkY3ZWWE10WTZGaDJyQTRXSEstREFySmptYzRfdmtHYXlzVEI5eWwzUDhfSmpveHJKNC10N0RHMHlFdjhJTVFLcFJxSU1sNXRU",
+   "source": "Stocktwits",
+   "published_at": "2026-10-23T06:20:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-23T06:20:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEdOajlzc1JPZjlHbjZsNEo1dFp0VDZhSmgxaWlSQVN4R0JwSl8zaFhYZG9uLUdQdkE1TzNxeEdVQzFMRndYVlhFek0yMzhMRWJidTREN0FyZGhkZ1lWSkFHZGxNZmx3Tzc0NkdtcGZVbXc3Yi1Pb05oc2FkY3ZWWE10WTZGaDJyQTRXSEstREFySmptYzRfdmtHYXlzVEI5eWwzUDhfSmpveHJKNC10N0RHMHlFdjhJTVFLcFJxSU1sNXRU"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
   {
    "id": "3579763ff248",
    "title": "特斯拉Roadster从金门大桥坠落67米后飞回桥面 - 新浪网",
@@ -1311,6 +1345,23 @@
    "zh_summary": "特斯拉为Optimus建训练学校",
    "title_zh": "特斯拉要为Optimus建“学校”，马斯克称训练机器人就像育儿",
    "sentiment": 1
+  },
+  {
+   "id": "71cd4ec00d69",
+   "title": "Tesla (NASDAQ:TSLA) Stock Price Down 3.1% - Should You Sell? - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjdsRFNKeF93SHhvQlMtRGRCZ0IyNjJ2X3lxdXBpRF9QWFVqb2YyQzdPbmhQV0tYVFFmcnVDWHc5cGhUUWduZnNQZ3VkTFQyZTdpX2JhRjVmdzNhT2RNVkRrQ3BORVNvc1JQYTZaYzNlWGc5cWFtUzRjOVNhWGpuSklkWHhpTExMQUNzMVBud3pOdmhjRUlkdTJWOTV6Y1hsR0tqUnJwMkpfcGtnM2l3TXhiUQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-22T23:25:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-22T23:25:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjdsRFNKeF93SHhvQlMtRGRCZ0IyNjJ2X3lxdXBpRF9QWFVqb2YyQzdPbmhQV0tYVFFmcnVDWHc5cGhUUWduZnNQZ3VkTFQyZTdpX2JhRjVmdzNhT2RNVkRrQ3BORVNvc1JQYTZaYzNlWGc5cWFtUzRjOVNhWGpuSklkWHhpTExMQUNzMVBud3pOdmhjRUlkdTJWOTV6Y1hsR0tqUnJwMkpfcGtnM2l3TXhiUQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
   },
   {
    "id": "7a6343d50d8c",
@@ -6218,71 +6269,6 @@
    "zh_summary": "特斯拉新飞行技术引发关注",
    "title_zh": "特斯拉已经逆天飞行到这程度了吗？",
    "sentiment": 1
-  },
-  {
-   "id": "5dba5c77ac21",
-   "title": "特斯拉拟1万亿韩元投资三星电机 以保未来五年高端基板供应 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CaUY1U0VSZDUzQjFrUnBxSnlVUHhoQ1VEMEtzTDFHUUJNTjU0RWxlSktrWGVDSlViZTZXWVRkVW5XOG5sNGo3ag",
-   "source": "财联社",
-   "published_at": "2026-10-22T11:30:01+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-22T11:30:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CaUY1U0VSZDUzQjFrUnBxSnlVUHhoQ1VEMEtzTDFHUUJNTjU0RWxlSktrWGVDSlViZTZXWVRkVW5XOG5sNGo3ag"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T11:47:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uTG5qTWpPMWFmS2N4RWlvWU02TzVNVk9rX3lZc2U0bGRLVmJ5a2ZjQkh6VHNtX2lkQ3JsZnk1UndxZmtMenN2REh3T3J6V1dSRDZ3MTRnOFdhdEtVZ21OMTdaWC1kZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉拟投三星电机1万亿韩元保基板供应",
-   "title_zh": "特斯拉拟1万亿韩元投资三星电机 以保未来五年高端基板供应 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "ac49e8b23087",
-   "title": "Tesla Q3 2026 earnings beat estimates as SpaceX merger is studied - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zM1VvX0p0NlJTNVhEc3FuYm4tZGZSbkg2UHJLT3p0V002RGRFTHk3S1A1ZTQtSC1abW9UNkFmX2VVVHVjbEI1NnI0LWozQXdaZ1hGVXhzd1l3QzFxcXVJQmM3NkR6S3RrLXNWN0VvckZYMXhna1VMNFJn",
-   "source": "Quartz",
-   "published_at": "2026-10-22T11:27:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-22T11:27:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zM1VvX0p0NlJTNVhEc3FuYm4tZGZSbkg2UHJLT3p0V002RGRFTHk3S1A1ZTQtSC1abW9UNkFmX2VVVHVjbEI1NnI0LWozQXdaZ1hGVXhzd1l3QzFxcXVJQmM3NkR6S3RrLXNWN0VvckZYMXhna1VMNFJn"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "Q3财报超预期引市场关注",
-   "title_zh": "Tesla Q3财报超预期，正在研究与SpaceX合并 - Quartz",
-   "sentiment": 1
-  },
-  {
-   "id": "881f085bd76f",
-   "title": "SpaceX-Tesla Merger? How Musk Could Navigate the China Challenge - Modern Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHVITTl5WDBJUXdMRDVubFI0cU1WNEwxd1psWEcxcVU4MU9FQ0Y5eXhqNWdOMU1PMFpCS3FDTko2UEtVclZoWGdxVWtyN1ZFWi0zeFBiejlnTktFWm9hRy1UbWg3cmpBQzh0MjI5Mjh3T0RDUHBGdEVNRzVoV3EyNENKQmx1RUljLWp3bDl1cWhZS2ItMzJzZU9rRVNPVXViTVRZTw",
-   "source": "Modern Diplomacy",
-   "published_at": "2026-10-22T11:25:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Modern Diplomacy",
-     "published_at": "2026-10-22T11:25:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHVITTl5WDBJUXdMRDVubFI0cU1WNEwxd1psWEcxcVU4MU9FQ0Y5eXhqNWdOMU1PMFpCS3FDTko2UEtVclZoWGdxVWtyN1ZFWi0zeFBiejlnTktFWm9hRy1UbWg3cmpBQzh0MjI5Mjh3T0RDUHBGdEVNRzVoV3EyNENKQmx1RUljLWp3bDl1cWhZS2ItMzJzZU9rRVNPVXViTVRZTw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "SpaceX与特斯拉合并面临中国监管挑战",
-   "title_zh": "SpaceX与特斯拉合并？马斯克如何应对中国挑战",
-   "sentiment": -1
   }
  ]
 }
