@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T16:07:32.221144+00:00",
+ "updated_at": "2026-10-23T16:22:30.403533+00:00",
  "market": {
-  "price": 372.79,
-  "change_pct": -0.48,
+  "price": 371.38,
+  "change_pct": -0.85,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 38% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（17家），隐含空间 +7.3%"
+     "note": "目标价中位数 $400（17家），隐含空间 +7.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.15（88条已评分）"
+     "note": "今日新闻情绪 -0.13（91条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.79 vs 20日均线 $369.89"
+     "note": "现价 $371.38 vs 20日均线 $369.82"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 38,
    "target_median": 400.0,
    "target_count": 17,
-   "implied_upside_pct": 7.3,
-   "ma20": 369.89,
-   "as_of": "2026-10-23T16:07:32.211282+00:00"
+   "implied_upside_pct": 7.7,
+   "ma20": 369.82,
+   "as_of": "2026-10-23T16:22:30.391301+00:00"
   },
-  "pe_ttm": 103.1,
+  "pe_ttm": 102.7,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.15,
-   "count": 88
+   "avg": -0.13,
+   "count": 91
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5b80d2dd0a3a",
+   "title": "NHTSA Proposes New Rules to Clear Path for Tesla Cybercab - BASENOR",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVFaRS1BODUtcGF1dnA1R180ajJCa2I1dVFoRjVKNVZvUmRMY0RVRU9sSlFFQ1U0Y0hSbVBpQS0zYXpGc3d1S0lfRGNWV3dmUTYzS2tjX2pKeWs2aUNqV0kxdy1YckdxUWF6RHFNczV1elBUUXVSVWhtR3o0T09Gci1ZZlNOd2RtVXhlRDFSOUlsc2JXV2VF",
+   "source": "BASENOR",
+   "published_at": "2026-10-23T16:05:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR",
+     "published_at": "2026-10-23T16:05:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVFaRS1BODUtcGF1dnA1R180ajJCa2I1dVFoRjVKNVZvUmRMY0RVRU9sSlFFQ1U0Y0hSbVBpQS0zYXpGc3d1S0lfRGNWV3dmUTYzS2tjX2pKeWs2aUNqV0kxdy1YckdxUWF6RHFNczV1elBUUXVSVWhtR3o0T09Gci1ZZlNOd2RtVXhlRDFSOUlsc2JXV2VF"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "12dbc160f170",
    "title": "特斯拉Rocket版拆副驾装气瓶，10喷嘴助车悬停翻身 - 新浪网",
@@ -514,12 +531,17 @@
   },
   {
    "id": "de61b164d3be",
-   "title": "利润暴跌56％，国内接连降价，特斯拉的中国智驾何时兑现？ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXJEeWNtN3hyQml2VXFtR3JCUGpqMlRMeUNSMGFtbXZiWHBzbDNaRFZYaE5ia1RwbUdzQmdVZ3BHcWJ3aGJQODQ5MDRsa0JDMDdkVXY3YlFyVkdLWExTOUdaaU5aU0RaS20yYm44RnRId0hma0lEd0EyeGd1bENxWndB",
-   "source": "新浪网",
-   "published_at": "2026-10-23T12:36:53+00:00",
-   "outlets_count": 1,
+   "title": "利润暴跌56％，国内接连降价，特斯拉的中国智驾何时兑现？ - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWmRZd2lCbmtvaVVEd2ZMcUhvb0Voel9GYUx6d2xEamF5cmdtWTdzNzlqS29XY0dfdG1SMGNNc3ZIRVN3NjRIakxvRXVKOHZWVDgzRUhCVmRxWTU0dUJsekNkN3NueXlfY2dhTTBn",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-23T12:29:47+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-23T12:29:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QWmRZd2lCbmtvaVVEd2ZMcUhvb0Voel9GYUx6d2xEamF5cmdtWTdzNzlqS29XY0dfdG1SMGNNc3ZIRVN3NjRIakxvRXVKOHZWVDgzRUhCVmRxWTU0dUJsekNkN3NueXlfY2dhTTBn"
+    },
     {
      "name": "新浪网",
      "published_at": "2026-10-23T12:36:53+00:00",
@@ -6355,26 +6377,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Optimus量产在即",
    "title_zh": "Optimus量产在即！特斯拉又要封神了？ - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "610af9164b26",
-   "title": "特斯拉转涨 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkxEYzJtWUZQNEVPYXV1Z3A4ZElPVDZxbnlmb2RKU1RNV2RpdXJSS3VmeWFIeVNwbnFiclc5WVBvRzZRVHVleXRJdjNoa3hpcmExLXZmZ3RDXy00aW9jMmhUSmhueV80dXRTSUVGZnk4VlBWZENZZ1pjNGxweWxUUkR6eTNqdnJE",
-   "source": "搜狐",
-   "published_at": "2026-10-22T14:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T14:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkxEYzJtWUZQNEVPYXV1Z3A4ZElPVDZxbnlmb2RKU1RNV2RpdXJSS3VmeWFIeVNwbnFiclc5WVBvRzZRVHVleXRJdjNoa3hpcmExLXZmZ3RDXy00aW9jMmhUSmhueV80dXRTSUVGZnk4VlBWZENZZ1pjNGxweWxUUkR6eTNqdnJE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉盘中转涨",
-   "title_zh": "特斯拉转涨",
    "sentiment": 1
   }
  ]
