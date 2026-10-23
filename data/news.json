@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T12:22:30.574149+00:00",
+ "updated_at": "2026-10-23T13:07:40.234663+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.30（53条已评分）"
+     "note": "今日新闻情绪 -0.27（55条已评分）"
     },
     {
      "key": "动量",
@@ -41,8 +41,8 @@
     },
     {
      "key": "分析师动向",
-     "score": 1,
-     "note": "近14天 1 家上调 / 0 家下调"
+     "score": 0,
+     "note": "近14天无分析师动作"
     }
    ],
    "price_52w_pct": 40,
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T12:22:30.555743+00:00"
+   "as_of": "2026-10-23T13:07:40.208567+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.3,
-   "count": 53
+   "avg": -0.27,
+   "count": 55
   }
  },
  "meta": {
@@ -67,6 +67,125 @@
   }
  },
  "stories": [
+  {
+   "id": "370696aa195d",
+   "title": "Tesla Model Y Years to Avoid—One Year Drew 1,186 Complaints and a Steering Recall - MotorBiscuit",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNTVPcDV6SlFzbWlzTTJLTmVWMXNobEUySW9sU2M2TllvaEZTcG04YnFjM1haMkVLbkRmOHJiZVRlV25YcnNnU2xObHV2WWlubVNGa2p2cmxzRldfYVVLdGlXT2g4ejVYa1E",
+   "source": "MotorBiscuit",
+   "published_at": "2026-10-23T12:58:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MotorBiscuit",
+     "published_at": "2026-10-23T12:58:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNTVPcDV6SlFzbWlzTTJLTmVWMXNobEUySW9sU2M2TllvaEZTcG04YnFjM1haMkVLbkRmOHJiZVRlV25YcnNnU2xObHV2WWlubVNGa2p2cmxzRldfYVVLdGlXT2g4ejVYa1E"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "03e112dd92c5",
+   "title": "How Accounting Helped Tesla Beat Gross Profit Numbers - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWhsX2lURkUxVjB6VDRnbkhGSG9PVGUxbDkwZHhrZVljS1U3Um9SWDV3T0VIbUxRbXpudzFNRzBwSi1tNXQ1TEx1czFaTEVPS0IyTk9WdGliaHFWNVR6UkNTNmVHWWozWTBFVDZSQ2RCc2JaanBhVTk5aUgtNWc4UDRZUEJyd3k3QmZTSlFNb0NXUQ",
+   "source": "Barron's",
+   "published_at": "2026-10-23T12:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-23T12:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWhsX2lURkUxVjB6VDRnbkhGSG9PVGUxbDkwZHhrZVljS1U3Um9SWDV3T0VIbUxRbXpudzFNRzBwSi1tNXQ1TEx1czFaTEVPS0IyTk9WdGliaHFWNVR6UkNTNmVHWWozWTBFVDZSQ2RCc2JaanBhVTk5aUgtNWc4UDRZUEJyd3k3QmZTSlFNb0NXUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "76db60c9c61d",
+   "title": "Man hit, killed on I-80; Driver reports Tesla was in self-driving mode - The Mercury News",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Mc0k5cHdtNnNXM1VrNTE1ZVhmOTVlaU9kQ29tLTM1NzU3UHhaQm84TE9DOGhEQWN4VFVUWUxYUEx4OGRCU1dGRTdKNnhKSm1BWjFzLUt2X3h3cUdFTTl1VGFVWVhZQnlUZll3dkd5RFNZQVEzNEdwOC13RGo",
+   "source": "The Mercury News",
+   "published_at": "2026-10-23T12:47:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Mercury News",
+     "published_at": "2026-10-23T12:47:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Mc0k5cHdtNnNXM1VrNTE1ZVhmOTVlaU9kQ29tLTM1NzU3UHhaQm84TE9DOGhEQWN4VFVUWUxYUEx4OGRCU1dGRTdKNnhKSm1BWjFzLUt2X3h3cUdFTTl1VGFVWVhZQnlUZll3dkd5RFNZQVEzNEdwOC13RGo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "d61507b0d556",
+   "title": "Why Tesla's $5 billion capex cut isn't the warning sign AI stock bears think it is - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjl0cjNyQ3dEYTljZXliX0I1WXk5RjhsdjFZUlhiZW5zZlZCOW1uUFV5d0FBN3E1QWFuTUNJVzFyZEg5MEFyOVJrTENfTmhKZUNQUUR2S3NpNEVDX2UybjBxU2JMNEJZd0kzTDlaR2FVYUFqelQ4TzV4dGNvZDVkczBGdGFvbUp4QjBYWnRZZGgta0EyYmRKWXhRZVdmRHREOS1RS21YNUZZN1RzZ1UtTlVaQUdjUUdaU2ZOZHhRc3l2c3VxUVp1Zlp2QlNnYW80all6NWNOakt0Zw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T12:40:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T12:40:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONjl0cjNyQ3dEYTljZXliX0I1WXk5RjhsdjFZUlhiZW5zZlZCOW1uUFV5d0FBN3E1QWFuTUNJVzFyZEg5MEFyOVJrTENfTmhKZUNQUUR2S3NpNEVDX2UybjBxU2JMNEJZd0kzTDlaR2FVYUFqelQ4TzV4dGNvZDVkczBGdGFvbUp4QjBYWnRZZGgta0EyYmRKWXhRZVdmRHREOS1RS21YNUZZN1RzZ1UtTlVaQUdjUUdaU2ZOZHhRc3l2c3VxUVp1Zlp2QlNnYW80all6NWNOakt0Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "de61b164d3be",
+   "title": "利润暴跌56％，国内接连降价，特斯拉的中国智驾何时兑现？ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXJEeWNtN3hyQml2VXFtR3JCUGpqMlRMeUNSMGFtbXZiWHBzbDNaRFZYaE5ia1RwbUdzQmdVZ3BHcWJ3aGJQODQ5MDRsa0JDMDdkVXY3YlFyVkdLWExTOUdaaU5aU0RaS20yYm44RnRId0hma0lEd0EyeGd1bENxWndB",
+   "source": "新浪网",
+   "published_at": "2026-10-23T12:36:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T12:36:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXJEeWNtN3hyQml2VXFtR3JCUGpqMlRMeUNSMGFtbXZiWHBzbDNaRFZYaE5ia1RwbUdzQmdVZ3BHcWJ3aGJQODQ5MDRsa0JDMDdkVXY3YlFyVkdLWExTOUdaaU5aU0RaS20yYm44RnRId0hma0lEd0EyeGd1bENxWndB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "80b3508cff92",
+   "title": "Tesla And 2 Other Top Founder Led Stocks - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmJrN1RBZGdOWkdmQ2NHc0YxR1lnQ2x0YTFEQ09VakZnT0ZseGk4VFhHWlMwd28zSmtfVVJ2RmFuTEhWTExBNHl1eUJFRlliS0xWclVSQkhlRGJzNlB0MnlqVGVjN0lCSEdsNVRvRHIwNE9CLWVhazNJeXJUSTE2SVNubW5TdEZKNjRKRkdSRXh5Ulho",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T12:09:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T12:09:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmJrN1RBZGdOWkdmQ2NHc0YxR1lnQ2x0YTFEQ09VakZnT0ZseGk4VFhHWlMwd28zSmtfVVJ2RmFuTEhWTExBNHl1eUJFRlliS0xWclVSQkhlRGJzNlB0MnlqVGVjN0lCSEdsNVRvRHIwNE9CLWVhazNJeXJUSTE2SVNubW5TdEZKNjRKRkdSRXh5Ulho"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "b56e021a33d8",
+   "title": "After Nearly 7 Years, Tesla Confirms the Cybertruck Isn't Coming to Australia - autoevolution",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3FMajNZaVFMcUdtaWJtckJPck5YNzlrSkNEcUJvVk1ReEhIOHBpdU1UUE85dU9seXJuUTlWWUF6VnlRNkY4Z0lFZlVlSWFjbVBrcWNLT2lwQzFNcmo3YVJfeEFpa2lsTGI5V2xwYkJZQktLZVJ0T0pQT3otTXZSVWpjbU81dVJEdnhNSm9tbVdyVHk1aFFNakNubFBMVjN6alpjNFNyQTlLRk9BVUJuaEFpSjdiWmRVNzZYNE4zUXQ",
+   "source": "autoevolution",
+   "published_at": "2026-10-23T12:03:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "autoevolution",
+     "published_at": "2026-10-23T12:03:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3FMajNZaVFMcUdtaWJtckJPck5YNzlrSkNEcUJvVk1ReEhIOHBpdU1UUE85dU9seXJuUTlWWUF6VnlRNkY4Z0lFZlVlSWFjbVBrcWNLT2lwQzFNcmo3YVJfeEFpa2lsTGI5V2xwYkJZQktLZVJ0T0pQT3otTXZSVWpjbU81dVJEdnhNSm9tbVdyVHk1aFFNakNubFBMVjN6alpjNFNyQTlLRk9BVUJuaEFpSjdiWmRVNzZYNE4zUXQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "beb2f0edaa60",
    "title": "Tesla May Need 20,000 Optimus Robots to Train AI - Tesla (NASDAQ:TSLA) - Benzinga",
@@ -186,6 +305,23 @@
    "zh_summary": "深度拆解苹果Meta特斯拉英伟达招式",
    "title_zh": "【视频】中美新拐点！苹果 Meta特斯拉英伟达，深度拆解各家招式 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "a4266f1f17f5",
+   "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWRONnpzT0JDVFFLNlFWaFVDLTlPMnh4NmFRWFE2YlZvdnBfejNiV2VLb1pydGFKQmlEQXZmc1RBOUxQSmd6TVBzelVNSDVUSjJFbzBybGJCeWdHbWUzQTdGRE1pbXp5WWt5ajNJV05Hc3BTWkNrQTVmWDlCN25BSktNd1JyQkVFVXZRcnVodXZ2RDVEcXByeVRpcXJJWUHSAaQBQVVfeXFMUENuYW1fbEVrWVpoaHRiS1U1alpRSzM4cUp1M0M1cm5GS1ZjdGxEMkV0V0FTSlpvWVBHQ05mdENrSG5hTHBua2lFR2NwcmNRV0QzWnFINW0zaF9rcDIySWJ6QjBFbUdIVlhDazZZTEtCLXE2dVFpOXVCTWQ2MWdPaGVRRzhTVk1GNmRjTHp6czlRQ0F4bjFvaWZmU245ZGFhZHBkUk0",
+   "source": "CNBC",
+   "published_at": "2026-10-23T11:00:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-23T11:00:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWRONnpzT0JDVFFLNlFWaFVDLTlPMnh4NmFRWFE2YlZvdnBfejNiV2VLb1pydGFKQmlEQXZmc1RBOUxQSmd6TVBzelVNSDVUSjJFbzBybGJCeWdHbWUzQTdGRE1pbXp5WWt5ajNJV05Hc3BTWkNrQTVmWDlCN25BSktNd1JyQkVFVXZRcnVodXZ2RDVEcXByeVRpcXJJWUHSAaQBQVVfeXFMUENuYW1fbEVrWVpoaHRiS1U1alpRSzM4cUp1M0M1cm5GS1ZjdGxEMkV0V0FTSlpvWVBHQ05mdENrSG5hTHBua2lFR2NwcmNRV0QzWnFINW0zaF9rcDIySWJ6QjBFbUdIVlhDazZZTEtCLXE2dVFpOXVCTWQ2MWdPaGVRRzhTVk1GNmRjTHp6czlRQ0F4bjFvaWZmU245ZGFhZHBkUk0"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "2eddf7a77283",
@@ -373,6 +509,23 @@
    "sentiment": 0
   },
   {
+   "id": "3fd8eb8a7493",
+   "title": "特斯拉腾空，概念股起飞 - 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JR2Uzd3MzMmNvS2cwVUlVeWtTcUZtNGw2d2g5ZWNUNG5WdGNOTXpCNTFWV3UzRHlWRjBMLW1SWFJpblpaWk9oRkN2Y285c1Z4VGpF",
+   "source": "第一财经",
+   "published_at": "2026-10-23T09:52:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-23T09:52:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JR2Uzd3MzMmNvS2cwVUlVeWtTcUZtNGw2d2g5ZWNUNG5WdGNOTXpCNTFWV3UzRHlWRjBMLW1SWFJpblpaWk9oRkN2Y285c1Z4VGpF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "5792c0d9b020",
    "title": "AI stock bears probably just missed this point on Tesla in their run for the exits - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlVXRF95OWVGam8wd3pJdFJkYW1JZllIMllxZnZ3b1UwWi0xVGEyT2plaDN1Y1JHeEtsYUFGcFlFRnBVcHViSmtPZkxLbmxGZERHQ3k2ZkV0MEQ2YUhxc3NsbEx2LVVxd21yd1dnMFR6Y2R2b2hmUzR3SXZfSFlFbXVGOGw1TUxpTmY1Um5xbEtUSFJCWnF2VUxvX3dZXzZEMUNlMHJab3JocGhZNXVaQnVId3BPdUlsRXk3UEZPaGdZYU96SUVzYktxS2RxcjBvajVwZnp0c1Z0QmJxZ3c",
@@ -473,6 +626,23 @@
    "sentiment": -1
   },
   {
+   "id": "6b619248262a",
+   "title": "【视频】零距离体验特斯拉无人驾驶出租车Cybercab - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zTUtUSzZKQmw3M2h5WC0tUHFOZjdmakV1V3lubktkQ05xU0EzeGw1UUJBVjRVb2xMRnJrZTFWM0FQT2diQ2dmTU5uUFc0MnJvWVRyLXVDcElMSWs",
+   "source": "汽车之家",
+   "published_at": "2026-10-23T09:10:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-23T09:10:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zTUtUSzZKQmw3M2h5WC0tUHFOZjdmakV1V3lubktkQ05xU0EzeGw1UUJBVjRVb2xMRnJrZTFWM0FQT2diQ2dmTU5uUFc0MnJvWVRyLXVDcElMSWs"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "1851a194ee77",
    "title": "Musk and Tesla Target a Big 2030 Milestone - IndustryWeek",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmZXTXdqbVBDWnJrVUlWa2MyYW05c2tkYzVJOUYyTnk4YTdxNDFLMXVpNGZEV0NFQWdzdUtOdDE1S25kVWNLSVJvYWF2Qzl5V2tKUW4xZ2JYOHhqWlNaZktJTmlHeG8xZDY2bXllOGdGTjEwTFU2eGplbmlsVEw1WmRtU3FxUEtfdEJNRzJTaS1qZ2U0al9rUjlnRGUxVVFIS19NZzRGQTRwZUNwWkNES3NmX0hsbmRuSDgwbQ",
@@ -551,6 +721,23 @@
    "zh_summary": "特斯拉称Cybertruck不会引入澳洲",
    "title_zh": "特斯拉确认Cybertruck不会在澳大利亚推出",
    "sentiment": 0
+  },
+  {
+   "id": "8ae3fa17c50b",
+   "title": "Tesla Officially Cancels Australian Cybertruck - Newser",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1lCUXJOb1RtcV9Pb2NycHM5b0NSUmkzVFZLYmRXMTlSeUxkdkhSZWdjVEhsQ1lWeWR1a2ZuM1l5LWp6QlAwOFBNUHM5dDd3ekRwWXVaajQ4eHJfZENydDd2aWRmS3dEMVVHVWJkUmxKWmhibk94cG1TU291WmowRFZBS2txc3pGQ0E",
+   "source": "Newser",
+   "published_at": "2026-10-23T08:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Newser",
+     "published_at": "2026-10-23T08:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1lCUXJOb1RtcV9Pb2NycHM5b0NSUmkzVFZLYmRXMTlSeUxkdkhSZWdjVEhsQ1lWeWR1a2ZuM1l5LWp6QlAwOFBNUHM5dDd3ekRwWXVaajQ4eHJfZENydDd2aWRmS3dEMVVHVWJkUmxKWmhibk94cG1TU291WmowRFZBS2txc3pGQ0E"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "60d68e4c123d",
@@ -6088,232 +6275,6 @@
    "zh_summary": "纳指低开1.48%，特斯拉跌超3%",
    "title_zh": "纳指低开1.48%，Meta跌超5%，特斯拉跌超3%",
    "sentiment": -1
-  },
-  {
-   "id": "bef15971018d",
-   "title": "特斯拉股价在公布季度业绩后下跌2.9%；该公司下调了年度资本支出预期。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jRV9KemlvLUR6VnR4VUUwTDhTNjhCWFFQdnlnUF83RFdFNlVpb0wtRGsydG1sYUd0LUlaMS1lS1U0T1I2d0p1d3daQQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T13:31:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T13:31:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jRV9KemlvLUR6VnR4VUUwTDhTNjhCWFFQdnlnUF83RFdFNlVpb0wtRGsydG1sYUd0LUlaMS1lS1U0T1I2d0p1d3daQQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价下跌2.9%并下调资本支出预期",
-   "title_zh": "特斯拉股价在公布季度业绩后下跌2.9%；该公司下调了年度资本支出预期。",
-   "sentiment": -1
-  },
-  {
-   "id": "996eea2d4903",
-   "title": "Tesla’s Most Boring Business Upstages Entire Company - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ3dHdVJiU0NrX19GSFI4QUFsUi0wNDJhNW4yQnpZSVFxUC1ydklkU3NuRjEzN2hDSS1MTU5Xc3VpcmllaXN2eEVHRHNTdmtQcXpfdlRCUkZkVEk2MWtCSG5TSmhnWUk3R1BGSUdKdk44VGJUS1Y2VnBndC1HbzlQc0xVV2w4RDZiRml1c09SMWVNWmdXYzJWTHJZYnNLTDhMTFpPeTRYZXBTOFMtZE5OTmFjXzNBUHVHa09DNlI0MkJaZlFfWkhEM3l3",
-   "source": "Benzinga",
-   "published_at": "2026-10-22T13:31:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-22T13:31:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ3dHdVJiU0NrX19GSFI4QUFsUi0wNDJhNW4yQnpZSVFxUC1ydklkU3NuRjEzN2hDSS1MTU5Xc3VpcmllaXN2eEVHRHNTdmtQcXpfdlRCUkZkVEk2MWtCSG5TSmhnWUk3R1BGSUdKdk44VGJUS1Y2VnBndC1HbzlQc0xVV2w4RDZiRml1c09SMWVNWmdXYzJWTHJZYnNLTDhMTFpPeTRYZXBTOFMtZE5OTmFjXzNBUHVHa09DNlI0MkJaZlFfWkhEM3l3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉最乏味业务抢了公司风头",
-   "title_zh": "特斯拉最'乏味'业务抢尽公司风头",
-   "sentiment": 1
-  },
-  {
-   "id": "96e47bec9eeb",
-   "title": "瑞银上调Meta、特斯拉目标价 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CX21DUFM2NDlsWFRJTzkxYjlZMG5IdHczMG1VTUtUN0lDMklnNzZvTWloUGFJVkk5RHA4aXlFYndVMEJfYksySGllRkdKcE1HMllmSWNhSDBQdFhHc3p3bG52cw",
-   "source": "东方财富",
-   "published_at": "2026-10-22T13:30:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T13:30:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CX21DUFM2NDlsWFRJTzkxYjlZMG5IdHczMG1VTUtUN0lDMklnNzZvTWloUGFJVkk5RHA4aXlFYndVMEJfYksySGllRkdKcE1HMllmSWNhSDBQdFhHc3p3bG52cw"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "UBS",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "瑞银上调Meta、特斯拉目标价",
-   "title_zh": "瑞银上调Meta、特斯拉目标价",
-   "sentiment": 1
-  },
-  {
-   "id": "7a77a85f9993",
-   "title": "Tesla and SpaceX Held On to All 30,221 Bitcoin in Q3. Is Elon Musk Still Bullish on BTC? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHN0aEZkaDRoMFd5bUNxMVN1N3NDS0xtRzFQYzNyb2tQVzJxVy15dFM1MnVKcjNZaU4yWDJrelE0SGtrck5rWmQwYzRsQnplU3RsZE9mcVpKQWNxQjF3Y0dxQkMtMHA3RXFrSVlpY3p2VE1kSE9FYmhaM0ZjUjZYVFhFb0N0Z0FDMkRTVlBQZDBmVlk",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T13:30:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T13:30:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHN0aEZkaDRoMFd5bUNxMVN1N3NDS0xtRzFQYzNyb2tQVzJxVy15dFM1MnVKcjNZaU4yWDJrelE0SGtrck5rWmQwYzRsQnplU3RsZE9mcVpKQWNxQjF3Y0dxQkMtMHA3RXFrSVlpY3p2VE1kSE9FYmhaM0ZjUjZYVFhFb0N0Z0FDMkRTVlBQZDBmVlk"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉三季度未出售比特币",
-   "title_zh": "特斯拉和SpaceX三季度持有全部30221枚比特币",
-   "sentiment": 0
-  },
-  {
-   "id": "60592aa3577c",
-   "title": "法国巴黎银行将特斯拉评级从跑输大盘上调至中性 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGRqVEQ0el90cTA0YV80eV9aaTN6dXpKSmppX3BpZ3d1aFliS3JaMXhIM3FrMkd5RzN5dGNiZWpBVF84bDFxRTk5Z29pU1kweTVudURGSEVYaVdNRnpMOGZvU0VERmNQZllPd1dXUmhkSDliZ294RXF0UExfUHgzV0FFQ1NOZmtlT0pwVnZIM0xzRVZfa0NYVWVOSTRfb2QxdkphRjV0aw",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T13:20:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T13:20:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGRqVEQ0el90cTA0YV80eV9aaTN6dXpKSmppX3BpZ3d1aFliS3JaMXhIM3FrMkd5RzN5dGNiZWpBVF84bDFxRTk5Z29pU1kweTVudURGSEVYaVdNRnpMOGZvU0VERmNQZllPd1dXUmhkSDliZ294RXF0UExfUHgzV0FFQ1NOZmtlT0pwVnZIM0xzRVZfa0NYVWVOSTRfb2QxdkphRjV0aw"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "法国巴黎银行将特斯拉上调至中性",
-   "title_zh": "法国巴黎银行将特斯拉评级从跑输大盘上调至中性",
-   "sentiment": 1
-  },
-  {
-   "id": "393beaa9095c",
-   "title": "瑞银将特斯拉（Tesla Inc ）目标价从391美元上调至425美元。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdXhkOEEwMmgzc2tjS2E4dVNZdzFGVk5oMzJ3T2FWYXBGQkNiNFJkeUZzVHZZZGR5VENOX0lpaGhVZlFKanRKN0k4cw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T13:19:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T13:19:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdXhkOEEwMmgzc2tjS2E4dVNZdzFGVk5oMzJ3T2FWYXBGQkNiNFJkeUZzVHZZZGR5VENOX0lpaGhVZlFKanRKN0k4cw"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "瑞银上调特斯拉目标价至425美元",
-   "title_zh": "瑞银将特斯拉目标价从391美元上调至425美元",
-   "sentiment": 1
-  },
-  {
-   "id": "733e106c2f49",
-   "title": "TSLA Stock Slides As Earnings Loom Amid Safety Scrutiny - StocksToTrade",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11a0Ixa2luXzV0cEpxbm9nLVFadllNWWNfOVEtMkZzM2psUDVfRTlKd1NTMThvVzVRV1FrbWdGTW5DQjhBZm5IQnRhNzlXaDVaeTJFUkQweV9RWlViTkJWcUNHWFo1dkpSVm5XaE85bw",
-   "source": "StocksToTrade",
-   "published_at": "2026-10-22T13:18:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "StocksToTrade",
-     "published_at": "2026-10-22T13:18:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11a0Ixa2luXzV0cEpxbm9nLVFadllNWWNfOVEtMkZzM2psUDVfRTlKd1NTMThvVzVRV1FrbWdGTW5DQjhBZm5IQnRhNzlXaDVaeTJFUkQweV9RWlViTkJWcUNHWFo1dkpSVm5XaE85bw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "TSLA财报前受安全审查影响下滑",
-   "title_zh": "财报临近叠加安全审查，TSLA股价下滑",
-   "sentiment": -1
-  },
-  {
-   "id": "98acfbf88edb",
-   "title": "能源巨头再度冲击新高 Meta、特斯拉绩后走弱 | 今夜看点 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkZllaN2ZVbHM5c0JCZUVkMkt0ZS10enA0WDM2REUzaDlxLUFtYWk3bXVsbWNja20xNzRoMldIbXdvenBOOURhbA",
-   "source": "财联社",
-   "published_at": "2026-10-22T13:15:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-22T13:15:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkZllaN2ZVbHM5c0JCZUVkMkt0ZS10enA0WDM2REUzaDlxLUFtYWk3bXVsbWNja20xNzRoMldIbXdvenBOOURhbA"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "特斯拉绩后走弱，能源巨头创新高",
-   "title_zh": "能源巨头再度冲击新高 Meta、特斯拉绩后走弱 | 今夜看点 - 财联社",
-   "sentiment": -1
-  },
-  {
-   "id": "013dfc35e66b",
-   "title": "2026年特斯拉三季度财报电话会议完整文字和双语字幕视频 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vNXk3RkJ4WlZObVpzZFl3VkhhN2czd2w2djhCVkYtRjFJT3lwN29yQWJsR1lJaG9VRFNFR25FMXdkSm5RampWTW1hOWFLMUs5UW1JbGVtQUtWT192T3BGdEtyMjE2UmtVR0l5UGFOV2FSVm0yVXc",
-   "source": "新浪财经",
-   "published_at": "2026-10-22T13:13:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T13:13:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vNXk3RkJ4WlZObVpzZFl3VkhhN2czd2w2djhCVkYtRjFJT3lwN29yQWJsR1lJaG9VRFNFR25FMXdkSm5RampWTW1hOWFLMUs5UW1JbGVtQUtWT192T3BGdEtyMjE2UmtVR0l5UGFOV2FSVm0yVXc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度财报电话会议文字实录",
-   "title_zh": "2026年特斯拉三季度财报电话会议完整文字和双语字幕视频",
-   "sentiment": 0
-  },
-  {
-   "id": "e5078b3ec9a0",
-   "title": "马斯克：特斯拉最快于2027年下半年开始全面生产Optimus机械人 - www.caiwennews.com",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqTUp6WkF3Yjh2ckJXaHFtMlVha0NYVWRyeWFVLUc0cFZJUmNuTlFtWGI1WjV4OWw4X3lwdHloUlpMM3NwZ1h0YnFNWGw3R00yQnRHNWlJZGdadm9t",
-   "source": "www.caiwennews.com",
-   "published_at": "2026-10-22T13:12:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.caiwennews.com",
-     "published_at": "2026-10-22T13:12:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqTUp6WkF3Yjh2ckJXaHFtMlVha0NYVWRyeWFVLUc0cFZJUmNuTlFtWGI1WjV4OWw4X3lwdHloUlpMM3NwZ1h0YnFNWGw3R00yQnRHNWlJZGdadm9t"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "特斯拉2027年下半年全面生产Optimus",
-   "title_zh": "马斯克：特斯拉最快于2027年下半年开始全面生产Optimus机械人",
-   "sentiment": 1
-  },
-  {
-   "id": "68d97aa4b958",
-   "title": "Tesla Roadster heads to the Petersen Museum... but not for long - RACER - Racing News",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01YmdpSTAzdTBVY0F5eURtT2lybDZPMWdNNmlEVV9zQ2ZHdmRaNFNkeHdtbzNGUXZ5VnB2cDlXeFF3ckRxeVJHdlFtVzY4X1pVeGYtMHhtOXdTTzNYQndYNFhsYkxraFdzSFJJZ3d4Rm1UT21GeU1vQ0ZsY2k",
-   "source": "RACER - Racing News",
-   "published_at": "2026-10-22T13:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "RACER - Racing News",
-     "published_at": "2026-10-22T13:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01YmdpSTAzdTBVY0F5eURtT2lybDZPMWdNNmlEVV9zQ2ZHdmRaNFNkeHdtbzNGUXZ5VnB2cDlXeFF3ckRxeVJHdlFtVzY4X1pVeGYtMHhtOXdTTzNYQndYNFhsYkxraFdzSFJJZ3d4Rm1UT21GeU1vQ0ZsY2k"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Roadster将展出于彼得森博物馆",
-   "title_zh": "特斯拉Roadster进驻彼得森博物馆但不会长久",
-   "sentiment": 0
   }
  ]
 }
