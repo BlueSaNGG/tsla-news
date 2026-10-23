@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T07:07:30.345739+00:00",
+ "updated_at": "2026-10-23T07:22:29.207254+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.08（12条已评分）"
+     "note": "今日新闻情绪 -0.27（15条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T07:07:30.338209+00:00"
+   "as_of": "2026-10-23T07:22:29.190567+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.08,
-   "count": 12
+   "avg": -0.27,
+   "count": 15
   }
  },
  "meta": {
@@ -73,12 +73,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGtOM3lrZWJPazFtV2VWVTJ6MU9xcGpvSG10M0RyaGlSNl8yMUpUcFdQN2kwNE5USWowRHBPVWpnVjJFVklpUTZDdW55cjhuRzI3R1R3dGVXbVpCLWJfdGxESWpRV1NqeXZNZlhfUTZnUVZCTUVmbXVGWktTdHpjb1hTcXhXNm94RTk5UVdWYkJGZ3JKWjJfcg",
    "source": "The Motley Fool",
    "published_at": "2026-10-23T06:56:22+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-23T06:56:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGtOM3lrZWJPazFtV2VWVTJ6MU9xcGpvSG10M0RyaGlSNl8yMUpUcFdQN2kwNE5USWowRHBPVWpnVjJFVklpUTZDdW55cjhuRzI3R1R3dGVXbVpCLWJfdGxESWpRV1NqeXZNZlhfUTZnUVZCTUVmbXVGWktTdHpjb1hTcXhXNm94RTk5UVdWYkJGZ3JKWjJfcg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T07:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWJVN1QzbWR3NE8yYUNYRFUzU19QeGlkcGRIUThnemQzYThnZ0FaQTlYa3JKc1E0eFNNRzlsTzhPcjNRTWRhakxWQ2xzUE5XM2s0V0tmY05lY2t6SUliUkpibFh1UG5EYlRIODhaa2Q2Z2FORWNuQzdBUkd3cWhvN0luRVM5ZUxaWE9ENy1KV1Nhb1B0T2w4SVlOQ3BNdw"
     }
    ],
    "category": "财报",
@@ -106,6 +111,23 @@
    "zh_summary": "特斯拉自动驾驶车辆卷入事故",
    "title_zh": "特斯拉自动驾驶车辆卷入事故",
    "sentiment": -2
+  },
+  {
+   "id": "dce3afeaf880",
+   "title": "净利大跌43%，特斯拉的钱押在了哪里 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnRQY01jVVJ5VGVoUmpidXhfU0JHVUt3SzlhR2NNXzhHSGVkQkQ2TF9zd3U0aERsRW5NZzJ1RS12X0trRW5wNGh4akhxbnluc01nMXlZX3pWTlI4bTFYWVpHUk5sb1VodUZlQ29tMGxPT3UxTGxoWTFzcUh4dUdzT3FxTkpYTGZzQnNXZg",
+   "source": "搜狐",
+   "published_at": "2026-10-23T06:48:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T06:48:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnRQY01jVVJ5VGVoUmpidXhfU0JHVUt3SzlhR2NNXzhHSGVkQkQ2TF9zd3U0aERsRW5NZzJ1RS12X0trRW5wNGh4akhxbnluc01nMXlZX3pWTlI4bTFYWVpHUk5sb1VodUZlQ29tMGxPT3UxTGxoWTFzcUh4dUdzT3FxTkpYTGZzQnNXZg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "5dc79bbfcc6c",
@@ -6273,26 +6295,6 @@
    "zh_summary": "盘前下跌，消化Meta与特斯拉财报",
    "title_zh": "交易员消化Meta与特斯拉财报，股指盘前下跌",
    "sentiment": -1
-  },
-  {
-   "id": "9be744c4d559",
-   "title": "特斯拉三季度卖了48.6万辆车，辅助驾驶全球付费用户增至174万 - 华龙网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b3V3dzJBLURTc2xuWlpoWUxlazRMWHYwcTkwOHJXWWRnYm5lRmcySkcxWEtlSkhrU1QyajVIVzFSRWtuV1FQbmxkblFxaTNBSmp4a0NtS0JmendQc2w4WHpRQkVuV3VRMUc0",
-   "source": "华龙网",
-   "published_at": "2026-10-22T11:40:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华龙网",
-     "published_at": "2026-10-22T11:40:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b3V3dzJBLURTc2xuWlpoWUxlazRMWHYwcTkwOHJXWWRnYm5lRmcySkcxWEtlSkhrU1QyajVIVzFSRWtuV1FQbmxkblFxaTNBSmp4a0NtS0JmendQc2w4WHpRQkVuV3VRMUc0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度卖了48.6万辆车",
-   "title_zh": "特斯拉三季度卖了48.6万辆车，辅助驾驶全球付费用户增至174万",
-   "sentiment": 1
   }
  ]
 }
