@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T17:22:29.736416+00:00",
+ "updated_at": "2026-10-23T17:37:43.925299+00:00",
  "market": {
-  "price": 371.87,
-  "change_pct": -0.72,
+  "price": 371.07,
+  "change_pct": -0.94,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（17家），隐含空间 +7.6%"
+     "note": "目标价中位数 $400（17家），隐含空间 +7.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.18（100条已评分）"
+     "note": "今日新闻情绪 -0.17（103条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $371.87 vs 20日均线 $369.85"
+     "note": "现价 $371.07 vs 20日均线 $369.81"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 38,
    "target_median": 400.0,
    "target_count": 17,
-   "implied_upside_pct": 7.6,
-   "ma20": 369.85,
-   "as_of": "2026-10-23T17:22:29.723192+00:00"
+   "implied_upside_pct": 7.8,
+   "ma20": 369.81,
+   "as_of": "2026-10-23T17:37:43.903544+00:00"
   },
-  "pe_ttm": 102.8,
+  "pe_ttm": 102.6,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.18,
-   "count": 100
+   "avg": -0.17,
+   "count": 103
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d954963cd0b1",
+   "title": "Tesla’s First Cybercab Crash Lands Inside an Active NHTSA Audit - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakotcnJVSHhsYzRzVnN2czZlTmZneGdxZ09iWFhVMHZzeWRudElYQnR2ckdua21GbnoxQ1FsaERZODV3RGdrZDhpWEJqUzdtUGFjbXgxQ2NTc19yVnFyVkp3c3pLUFVJVE40Y2RVX0FKbnJjTUJPR0JMLUdOQUh6SF9ycVRGa1g2cTZsMlRxdw",
+   "source": "Yahoo",
+   "published_at": "2026-10-23T17:18:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-23T17:18:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakotcnJVSHhsYzRzVnN2czZlTmZneGdxZ09iWFhVMHZzeWRudElYQnR2ckdua21GbnoxQ1FsaERZODV3RGdrZDhpWEJqUzdtUGFjbXgxQ2NTc19yVnFyVkp3c3pLUFVJVE40Y2RVX0FKbnJjTUJPR0JMLUdOQUh6SF9ycVRGa1g2cTZsMlRxdw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "554045e4cb08",
    "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming - InsideEVs",
@@ -333,6 +350,23 @@
    "sentiment": 1
   },
   {
+   "id": "53f9f0445bba",
+   "title": "Alef vs Tesla Roadster: 11-Year Lead Wins [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGhxT2RnOGlZeE9lM0xvT0VpdmEwSnA2V2ZDbFFZazNUZm8teU9fekpvRW9qM2otM0tEQ3kwZGg5SlZ2SHREZUZIWGFpNTVuNUszQTA2TC1HTHBDMHQ5WXpfQzgtNFFHRlJUVi1HeDJXRUdwRTJsV1czYlpIQUZXc3h0Zkxvckk",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-23T14:58:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-23T14:58:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdGhxT2RnOGlZeE9lM0xvT0VpdmEwSnA2V2ZDbFFZazNUZm8teU9fekpvRW9qM2otM0tEQ3kwZGg5SlZ2SHREZUZIWGFpNTVuNUszQTA2TC1HTHBDMHQ5WXpfQzgtNFFHRlJUVi1HeDJXRUdwRTJsV1czYlpIQUZXc3h0Zkxvckk"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "f62554e690ed",
    "title": "Those Mysterious Plastic Pieces on a Tesla Battery - EVWORLD.COM",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBOTHpvbHhuY0J5YjM1SFdUdzRJT2RNSmhqNU5WN05SaG0wdEJNcVVFRl84SVloSXFWYS16dHhMNWpwREZhZVpuRHFtc1ZyX1lkY2FqbnVER0VDaW1yM3BpVHprR3pMS29weVFDMWVJeThrb1JrZ0J5RTQ2cUJWcGtLYmF2ZllidjNQWEJnZHBKcjhlcmkzbmwxUEI0RHM",
@@ -376,6 +410,23 @@
    "zh_summary": "特斯拉欧洲销量激增",
    "title_zh": "特斯拉欧洲销量激增",
    "sentiment": 1
+  },
+  {
+   "id": "27be73ff6b56",
+   "title": "Could Elon Musk merge Tesla and SpaceX? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRm1JVVhsZHFOT29fd2xzWmsyTDdoSFdxUjRQN2lkRGE2YnItQXdBT29QdU9maVR3X2JyWms5STh5eVZGWVZuRWlTbjdQMUV2NmlqcjBlNnN6SHZoZFc2UDExaE1CZ3pQMEFyM0lBaGNmQ1k1dTFMLU9iRnd4S1JiZ3lTSjJtVkNaa3cyQWpB",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T14:35:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T14:35:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRm1JVVhsZHFOT29fd2xzWmsyTDdoSFdxUjRQN2lkRGE2YnItQXdBT29QdU9maVR3X2JyWms5STh5eVZGWVZuRWlTbjdQMUV2NmlqcjBlNnN6SHZoZFc2UDExaE1CZ3pQMEFyM0lBaGNmQ1k1dTFMLU9iRnd4S1JiZ3lTSjJtVkNaa3cyQWpB"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "d1f4b4bf1a75",
@@ -3637,12 +3688,12 @@
    "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NMERrYlJBaUt1OUk2Ym9QYmltUXpBNkdmQ1ZsQW5mN0lxZkxvSC1xc1BvWUw0emEzNVpUcVNpODJBQnhkTnlaSmk2dU5Qa1JuY0FaRTNFU0s0LU03TXdkT2RXWGNCWnh0am56cnN0VTFkWUtWc2c",
    "source": "Teslarati",
-   "published_at": "2026-10-22T22:26:37+00:00",
+   "published_at": "2026-10-22T22:22:53+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Teslarati",
-     "published_at": "2026-10-22T22:26:37+00:00",
+     "published_at": "2026-10-22T22:22:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NMERrYlJBaUt1OUk2Ym9QYmltUXpBNkdmQ1ZsQW5mN0lxZkxvSC1xc1BvWUw0emEzNVpUcVNpODJBQnhkTnlaSmk2dU5Qa1JuY0FaRTNFU0s0LU03TXdkT2RXWGNCWnh0am56cnN0VTFkWUtWc2c"
     }
    ],
@@ -4289,6 +4340,23 @@
    "zh_summary": "佛州男子用锤子砸医生特斯拉",
    "title_zh": "佛州男子手术被取消，持锤砸医生特斯拉",
    "sentiment": 0
+  },
+  {
+   "id": "c70008affdc7",
+   "title": "马斯克：特斯拉计划于明年5月或6月生产首款测试芯片 - 东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cb0hHUHZiN0pueWlVVXZYRTljNjlkaElWU2hBRjFiVS11aUptZ3ozTW5tTExyMlRvNm9nd2hiSzhQVW9wV0Rsb3VsM0J4OEFMeENmMGYtN1BmMUNaN0otdw",
+   "source": "东方财富网",
+   "published_at": "2026-10-22T20:04:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富网",
+     "published_at": "2026-10-22T20:04:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cb0hHUHZiN0pueWlVVXZYRTljNjlkaElWU2hBRjFiVS11aUptZ3ozTW5tTExyMlRvNm9nd2hiSzhQVW9wV0Rsb3VsM0J4OEFMeENmMGYtN1BmMUNaN0otdw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "d0697031460c",
@@ -4938,26 +5006,6 @@
    "zh_summary": "特斯拉财报后科技股领跌，标普500下行",
    "title_zh": "标普500展望：Meta、特斯拉财报后科技股领跌",
    "sentiment": -1
-  },
-  {
-   "id": "f731796fbfff",
-   "title": "U.S. Earnings Season Heats Up as MEXC TSLA Stock Futures Weekly Volume Jumps 101% - Yellow.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHR6THBQc2wyeDY3WU5SeHpMa0pxeE5ROXBpRmpKWmItT2pscHJVUm1Ha05TVmJBRkpYWDVqUmZpMGNsZlB1X0pYQXBwdWdXOWNNd3JiX1ppblFGbGEtTzE2NVB4Qlpud3dPRWlRSUowejRLd3V3MktfcDlGcHgzbElpa2JyUV94bDg5d0k4aGxjMlFZeWZJc1BvZnJFWmU2Wk1pcUN3ZTEtM2JVWjdHOU53",
-   "source": "Yellow.com",
-   "published_at": "2026-10-22T17:29:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yellow.com",
-     "published_at": "2026-10-22T17:29:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHR6THBQc2wyeDY3WU5SeHpMa0pxeE5ROXBpRmpKWmItT2pscHJVUm1Ha05TVmJBRkpYWDVqUmZpMGNsZlB1X0pYQXBwdWdXOWNNd3JiX1ppblFGbGEtTzE2NVB4Qlpud3dPRWlRSUowejRLd3V3MktfcDlGcHgzbElpa2JyUV94bDg5d0k4aGxjMlFZeWZJc1BvZnJFWmU2Wk1pcUN3ZTEtM2JVWjdHOU53"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "MEXC平台TSLA股票期货周成交量增101%",
-   "title_zh": "美股财报季升温，MEXC的TSLA股票期货周交易量跃升101%",
-   "sentiment": 0
   },
   {
    "id": "848d4b39b9bf",
@@ -6297,76 +6345,6 @@
    "zh_summary": "特斯拉正式开始生产Optimus机器人",
    "title_zh": "特斯拉正式启动Optimus机器人生产，即将演示",
    "sentiment": 2
-  },
-  {
-   "id": "cc3742246747",
-   "title": "大摩看好特斯拉(TSLA.US)自动驾驶业务加速扩张 上调目标价至410美元 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmtIOGFlM0Z6YzE4Tms0ZUxEZVdHTUpUMjNLcmhCWHlleVBnZXNxZGpJdnJnYmpuNHNCMXRYV0N0Q25PSGE0RFhYVG1hcWdtdTVMZGN5bm0xVDBLbnBzMm5PZ093R1pISDUyWEdwNzdIcng1ekw2UzlZNUw4SXh6V202NXlSUEhTZzBtclZ2ZHlHVll3ZGhobDNyd2pCYWthcGdOZ1FB",
-   "source": "富途牛牛",
-   "published_at": "2026-10-22T14:35:23+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-22T14:35:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmtIOGFlM0Z6YzE4Tms0ZUxEZVdHTUpUMjNLcmhCWHlleVBnZXNxZGpJdnJnYmpuNHNCMXRYV0N0Q25PSGE0RFhYVG1hcWdtdTVMZGN5bm0xVDBLbnBzMm5PZ093R1pISDUyWEdwNzdIcng1ekw2UzlZNUw4SXh6V202NXlSUEhTZzBtclZ2ZHlHVll3ZGhobDNyd2pCYWthcGdOZ1FB"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T14:59:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEgzWkZjMExvMGtsRjRyeFdWVy0wUzdPSThCcWZfM2owUGlTWXJkYlI0QmFSZEpxaGR0bjlaQU56OWRCWi1ONXkwY2tlbmRMOEptTzR0YXZld2NIWHZZWXd4NklPdVNaU2ZpTEk3RGpxV0FuLUdrakRMRW1qTFJDaFNhTmNhQ0VIZW5TLXprR1F6bVFWZWsxaEdXMlIxYXhyRFdEYVJzUnB2N19QWklLSkxB"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "大摩上调特斯拉目标价至410美元",
-   "title_zh": "大摩看好特斯拉(TSLA.US)自动驾驶业务加速扩张 上调目标价至410美元",
-   "sentiment": 1
-  },
-  {
-   "id": "1ddb382f2a84",
-   "title": "Elon Musk: Tesla Will End Up With \"a Majority of All Passenger Miles on Earth\" - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2hxVlJ2VWhxei1uMlVvZklTWVZycVdvLUpLdDNjTmd3cGtxWG5JYUhzWnI4QXk0V2FrWk1DYmM1ZVFwcGJBYlVka1FMbFN1dVNQYUg3bW9vaGd1emlQV2pTWHZiQVREemptQ1hkQ2RjOHMyRTJoenNVdDJ2c1BrZW95Y0QzdDNhTllnbTJidlJ2MHFfc1JjZkpCWkttZ2JiUWZuQ2pialBJRWFsa3RUYjNzWUZvdlFuQXpj",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-22T14:33:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-22T14:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2hxVlJ2VWhxei1uMlVvZklTWVZycVdvLUpLdDNjTmd3cGtxWG5JYUhzWnI4QXk0V2FrWk1DYmM1ZVFwcGJBYlVka1FMbFN1dVNQYUg3bW9vaGd1emlQV2pTWHZiQVREemptQ1hkQ2RjOHMyRTJoenNVdDJ2c1BrZW95Y0QzdDNhTllnbTJidlJ2MHFfc1JjZkpCWkttZ2JiUWZuQ2pialBJRWFsa3RUYjNzWUZvdlFuQXpj"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T14:33:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGZQYTFCWjBpSHAzaEY5X2hjUHZ5WDRjRHJlamZVWmU5Nm9DeHk3akRNTGdqWEtJbjhieDNBMUk0eEtDX0VNZHNuVDV2M3hhQXpZVDdla09wSTdPeThlbGc4dTJlVWQxYjdjc3FSbnhzQ3FlN1pJMXJvdXZ6aHNCeXlUdURXOGVGODhfZXVzS3dUOVByS3VmNA"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克称特斯拉将占多数客运里程",
-   "title_zh": "马斯克：特斯拉将占据地球上\"大多数客运里程\"",
-   "sentiment": 0
-  },
-  {
-   "id": "c731854e63ce",
-   "title": "Tesla Stock Is Trending: What's Going On? - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHdfUXFEMGxHTUJYRXpXRVFkbVQ1NS1TUHhQOVdVQkxYdlR3RDVfOW5uTlRSN1MxclhZaVhrZXd2VmswNHJYcG5uRUdGR0YwZ0Q0X01QWW0zbXV2X1JJYWw1X2xPdy1ZYkVyVkJqVklRZXZzckRwcVRGa3JMTHpCSTZpaHpUVlMzNjVxSnc3d1c4OVRKd04tNEdxOFZHM0xp",
-   "source": "Benzinga",
-   "published_at": "2026-10-22T14:30:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-22T14:30:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHdfUXFEMGxHTUJYRXpXRVFkbVQ1NS1TUHhQOVdVQkxYdlR3RDVfOW5uTlRSN1MxclhZaVhrZXd2VmswNHJYcG5uRUdGR0YwZ0Q0X01QWW0zbXV2X1JJYWw1X2xPdy1ZYkVyVkJqVklRZXZzckRwcVRGa3JMTHpCSTZpaHpUVlMzNjVxSnc3d1c4OVRKd04tNEdxOFZHM0xp"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价成热点，动因何在",
-   "title_zh": "特斯拉股票成热点：发生了什么？",
-   "sentiment": 0
   }
  ]
 }
