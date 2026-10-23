@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T15:52:41.285160+00:00",
+ "updated_at": "2026-10-23T16:07:32.221144+00:00",
  "market": {
-  "price": 373.45,
-  "change_pct": -0.3,
+  "price": 372.79,
+  "change_pct": -0.48,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（17家），隐含空间 +7.1%"
+     "note": "目标价中位数 $400（17家），隐含空间 +7.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.16（85条已评分）"
+     "note": "今日新闻情绪 -0.15（88条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $373.45 vs 20日均线 $369.92"
+     "note": "现价 $372.79 vs 20日均线 $369.89"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 39,
    "target_median": 400.0,
    "target_count": 17,
-   "implied_upside_pct": 7.1,
-   "ma20": 369.92,
-   "as_of": "2026-10-23T15:52:41.266864+00:00"
+   "implied_upside_pct": 7.3,
+   "ma20": 369.89,
+   "as_of": "2026-10-23T16:07:32.211282+00:00"
   },
-  "pe_ttm": 103.3,
+  "pe_ttm": 103.1,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.16,
-   "count": 85
+   "avg": -0.15,
+   "count": 88
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "12dbc160f170",
+   "title": "特斯拉Rocket版拆副驾装气瓶，10喷嘴助车悬停翻身 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVk9oYnZaWURVay0zZmRmZDZPaU5FcTlvc2Y1ZGwyY1BpWmRYZlBaRHlBX0U0RTdyMnFSY1YtODlxSVZ4aWI3bTFlMnRjNDFSNkt5UHExNmotU2JneEdnMTlVdTJ6UnlKS1VmTXZtaDBlcktEQ0taMjNVbE5xWFNWNQ",
+   "source": "新浪网",
+   "published_at": "2026-10-23T16:04:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T16:04:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVk9oYnZaWURVay0zZmRmZDZPaU5FcTlvc2Y1ZGwyY1BpWmRYZlBaRHlBX0U0RTdyMnFSY1YtODlxSVZ4aWI3bTFlMnRjNDFSNkt5UHExNmotU2JneEdnMTlVdTJ6UnlKS1VmTXZtaDBlcktEQ0taMjNVbE5xWFNWNQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "46c4c55668c6",
+   "title": "今日新闻丨捷达M6、家越07上市！新款极狐阿尔法S5开启预售！firefly萤火虫推出60kWh电池版本！特斯拉第三季度营收280.5亿美元！ - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85T1FVWGxBR3pFTFFZWlhZdW9ieFk5WlFZZzBLNzZiRUk3N0ZySzg0cnRaQVZSeTN2UFppaERUbTkwS3Qza25yTmNPQl9QMnNfY3Iw",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-23T15:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-23T15:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85T1FVWGxBR3pFTFFZWlhZdW9ieFk5WlFZZzBLNzZiRUk3N0ZySzg0cnRaQVZSeTN2UFppaERUbTkwS3Qza25yTmNPQl9QMnNfY3Iw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "2ee5e0a24ae0",
    "title": "Tesla: More Than 75% of New North American Deliveries Now Include FSD - Gadget Review",
@@ -1086,6 +1120,23 @@
    "zh_summary": "特斯拉人形机器人将开始学习训练",
    "title_zh": "特斯拉人形机器人也要上学了",
    "sentiment": 1
+  },
+  {
+   "id": "e8b066f16d16",
+   "title": "特斯拉接连接入微信、豆包与支付宝，马斯克加速补齐中国本地化服务 - 虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nR29vU0tOdlFKNW5xZjBKUHM3ZFlfWTRLYTVfaUdhb3h6Tk5LQUx5bkFJYmt0akdTQkFoaXU4UV84ZHE1aXl1Qm5wQk5BMk1UUzloWA",
+   "source": "虎嗅",
+   "published_at": "2026-10-23T09:24:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅",
+     "published_at": "2026-10-23T09:24:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nR29vU0tOdlFKNW5xZjBKUHM3ZFlfWTRLYTVfaUdhb3h6Tk5LQUx5bkFJYmt0akdTQkFoaXU4UV84ZHE1aXl1Qm5wQk5BMk1UUzloWA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "bd6128492584",
@@ -4605,26 +4656,6 @@
    "sentiment": -1
   },
   {
-   "id": "f731796fbfff",
-   "title": "U.S. Earnings Season Heats Up as MEXC TSLA Stock Futures Weekly Volume Jumps 101% - Yellow.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHR6THBQc2wyeDY3WU5SeHpMa0pxeE5ROXBpRmpKWmItT2pscHJVUm1Ha05TVmJBRkpYWDVqUmZpMGNsZlB1X0pYQXBwdWdXOWNNd3JiX1ppblFGbGEtTzE2NVB4Qlpud3dPRWlRSUowejRLd3V3MktfcDlGcHgzbElpa2JyUV94bDg5d0k4aGxjMlFZeWZJc1BvZnJFWmU2Wk1pcUN3ZTEtM2JVWjdHOU53",
-   "source": "Yellow.com",
-   "published_at": "2026-10-22T17:29:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yellow.com",
-     "published_at": "2026-10-22T17:29:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHR6THBQc2wyeDY3WU5SeHpMa0pxeE5ROXBpRmpKWmItT2pscHJVUm1Ha05TVmJBRkpYWDVqUmZpMGNsZlB1X0pYQXBwdWdXOWNNd3JiX1ppblFGbGEtTzE2NVB4Qlpud3dPRWlRSUowejRLd3V3MktfcDlGcHgzbElpa2JyUV94bDg5d0k4aGxjMlFZeWZJc1BvZnJFWmU2Wk1pcUN3ZTEtM2JVWjdHOU53"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "MEXC的TSLA期货周交易量涨101%",
-   "title_zh": "美股财报季升温，MEXC的TSLA股票期货周交易量涨101%",
-   "sentiment": 0
-  },
-  {
    "id": "848d4b39b9bf",
    "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI",
@@ -6336,46 +6367,6 @@
    "zh_summary": "特斯拉盘中转涨",
    "title_zh": "特斯拉转涨",
    "sentiment": 1
-  },
-  {
-   "id": "2cf276f04e96",
-   "title": "Meta is leading the way for hyperscalers, and don't sleep on the Tesla Cybercab - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkpZU3ZsS0c0bHBnamRVSUw0emNlNVBiZm8zajNNTnFndEFnWTVqN19ncUVPNkk0dTFHVy1Uc3NPVWlualBWRnd4MFBlakl1Xy01Wjd3TnNJZHI3emZKRGxJSUlFZm9abWpSX25KV080Q2JHNGY5WHpPYTc2aUkyeFVleVBnZi11ZVYtZnFUWDVadUR5M2c1YnBnZG1iZEItLXNnek1XeFpzdF9fQUZNWE5pSkJiMXVRd1ZvVUlkM1lEZw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T14:05:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T14:05:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkpZU3ZsS0c0bHBnamRVSUw0emNlNVBiZm8zajNNTnFndEFnWTVqN19ncUVPNkk0dTFHVy1Uc3NPVWlualBWRnd4MFBlakl1Xy01Wjd3TnNJZHI3emZKRGxJSUlFZm9abWpSX25KV080Q2JHNGY5WHpPYTc2aUkyeFVleVBnZi11ZVYtZnFUWDVadUR5M2c1YnBnZG1iZEItLXNnek1XeFpzdF9fQUZNWE5pSkJiMXVRd1ZvVUlkM1lEZw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉Cybercab被看好",
-   "title_zh": "Meta领跑超大规模云商，别忽视特斯拉Cybercab",
-   "sentiment": 1
-  },
-  {
-   "id": "90331404c7ae",
-   "title": "Biggest stock movers Thursday: TSLA, BABA, TTMI, PG, and more - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzlOMHV0RjV1S2loMWZFX3pTX0wxd3Z2MU5ldGNocjZIc1U0SURkNkpzalptQ25fVHpoUFhnRF9IS1htS1RsX0JEVm9rVkFwaVVuTUt5UWFvM2JZNDdzSXNPQ21lWjJsenZ4Z0lJTC1Ud2Z5elBEUUg0NjJJWnBCYzRCaXJ5V1Zka0hDcG0zSQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-22T14:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-22T14:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzlOMHV0RjV1S2loMWZFX3pTX0wxd3Z2MU5ldGNocjZIc1U0SURkNkpzalptQ25fVHpoUFhnRF9IS1htS1RsX0JEVm9rVkFwaVVuTUt5UWFvM2JZNDdzSXNPQ21lWjJsenZ4Z0lJTC1Ud2Z5elBEUUg0NjJJWnBCYzRCaXJ5V1Zka0hDcG0zSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "TSLA等个股成为周四涨跌幅最大股票",
-   "title_zh": "周四涨跌幅最大股票：TSLA、BABA、TTMI、PG等",
-   "sentiment": 0
   }
  ]
 }
