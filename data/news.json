@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T10:07:30.450618+00:00",
+ "updated_at": "2026-10-23T10:22:26.990156+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.28（36条已评分）"
+     "note": "今日新闻情绪 -0.26（38条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-23T10:07:30.436156+00:00"
+   "as_of": "2026-10-23T10:22:26.981935+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.28,
-   "count": 36
+   "avg": -0.26,
+   "count": 38
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "44b87de53ad4",
+   "title": "特斯拉自动驾驶无需人摸方向盘，老司机试乘感叹比自开安心 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEZfT2xRRjdvN29rSmliTURkMXFLbGtUN2xRV1E3TEhaLTlpUVc3T1dnOUJ0aXIxNnhWWWYwVWRsYk9mM3h2WXB6Q1dTa2pReEIyRXY4dmtnYkpjcFE2Z2xkM2FheGNWaExmeFo1VjV2SGJsOF92ZjI0c2h2SHkybw",
+   "source": "新浪网",
+   "published_at": "2026-10-23T10:01:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T10:01:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEZfT2xRRjdvN29rSmliTURkMXFLbGtUN2xRV1E3TEhaLTlpUVc3T1dnOUJ0aXIxNnhWWWYwVWRsYk9mM3h2WXB6Q1dTa2pReEIyRXY4dmtnYkpjcFE2Z2xkM2FheGNWaExmeFo1VjV2SGJsOF92ZjI0c2h2SHkybw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "42237e622018",
    "title": "He Had the Know-How to Fix His Tesla. But Telsa Told Him He Couldn’t. - The New Republic",
@@ -86,6 +103,23 @@
    "zh_summary": "懂修车的车主被特斯拉拒绝维修",
    "title_zh": "他懂怎么修自己的特斯拉，但特斯拉不让他修",
    "sentiment": -1
+  },
+  {
+   "id": "eead8419ee5e",
+   "title": "Big Tech's capex spending looks different this year as Meta and Tesla save for later - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkQ3QWdSdWNMNVJwT0NSaEk0NzRYWUo2N1o0U0U3Ukx4QUVFMnhfMnotMG9tYTlQQU9odDRYUm5DbllZMU9oSjRXeTRUbm9zMGtUTTI5blJ1M0VlMVh5RUZSeXBERlpWdnVPYzFYZzBralhoX0k4UjJ4OC1nZXpoUEpnemVXUjROVk1nQ2tNNENRczg3Tm1DNVNFNk5QR3dyM1NWSXRoeURZblp1SWl3MDFYeGJxR2hWQmU2TE0wcW1UNXBNQnVkajhaU3hzQkF5bnNsWUlRTmFSaUU",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T10:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T10:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkQ3QWdSdWNMNVJwT0NSaEk0NzRYWUo2N1o0U0U3Ukx4QUVFMnhfMnotMG9tYTlQQU9odDRYUm5DbllZMU9oSjRXeTRUbm9zMGtUTTI5blJ1M0VlMVh5RUZSeXBERlpWdnVPYzFYZzBralhoX0k4UjJ4OC1nZXpoUEpnemVXUjROVk1nQ2tNNENRczg3Tm1DNVNFNk5QR3dyM1NWSXRoeURZblp1SWl3MDFYeGJxR2hWQmU2TE0wcW1UNXBNQnVkajhaU3hzQkF5bnNsWUlRTmFSaUU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "5792c0d9b020",
@@ -451,6 +485,23 @@
    "zh_summary": "特斯拉汽车收入降3%储能降16%",
    "title_zh": "特斯拉汽车营收降3%，储能发电业务降16%",
    "sentiment": -1
+  },
+  {
+   "id": "04f65062a582",
+   "title": "马斯克“大嘴”惹麻烦？公开支持SpaceX特斯拉合并 或令交易延期数周 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZNHhkUGRfSmVoajZIMXNXaExXY2xjbkthc2NQVXk4R0ZkWVdwekFpUlZ6SngwWVItbUhEZjBvWm9WZkphcTNRUw",
+   "source": "财联社",
+   "published_at": "2026-10-23T06:54:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-23T06:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZNHhkUGRfSmVoajZIMXNXaExXY2xjbkthc2NQVXk4R0ZkWVdwekFpUlZ6SngwWVItbUhEZjBvWm9WZkphcTNRUw"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "632f8f6baa31",
@@ -6208,66 +6259,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉计划2026年底前交付Cybercab",
    "title_zh": "特斯拉希望2026年底前将Cybercab交到客户手中",
-   "sentiment": 1
-  },
-  {
-   "id": "2d42cf6fb9a6",
-   "title": "Alef Hits Back At Tesla's 'Flying Car' With Video Of Its Car Soaring Over A Roadster - SlashGear",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWJXSzZhdEpyb3llQ2xVX2U2d0tiMTVYb0liaXp2TW1aOVYtSGJkb25fSmhQWFA4RTlhMVFHUWJranphbXp6ZHZVdm9DQ2dkWFNFejQ2c0NMd0hOX19ReFkwUFkyaERtUGtQanYxTXNwU3FLTkVNYWFwV3haRmxLaWNaa25qUVE",
-   "source": "SlashGear",
-   "published_at": "2026-10-22T12:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SlashGear",
-     "published_at": "2026-10-22T12:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWJXSzZhdEpyb3llQ2xVX2U2d0tiMTVYb0liaXp2TW1aOVYtSGJkb25fSmhQWFA4RTlhMVFHUWJranphbXp6ZHZVdm9DQ2dkWFNFejQ2c0NMd0hOX19ReFkwUFkyaERtUGtQanYxTXNwU3FLTkVNYWFwV3haRmxLaWNaa25qUVE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Alef发布飞行汽车视频回击特斯拉",
-   "title_zh": "Alef发布汽车飞跃Roadster的视频，回击特斯拉'飞行汽车'",
-   "sentiment": 0
-  },
-  {
-   "id": "3f16ec1cbff8",
-   "title": "TSLA Q3 Earnings Beat on Auto Margin Gains, '26 Capex View Cut - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWs2RDZwdFZlQlFUNlBTVUhPRVpVMk51Z0dTRy03THBPNDRQZ2VUd192ZkNxWFkzcGFDLW5BMTlpY0hIMkdRYUhGU0diMFlyc09lWWh2c2hIVDNTRFpEU3pqLWI5QmdoSFFoUDA4MGNLX2wzTzhER0F6dmwyNVhxWWxGRmE3b09SczFoY3FtM3ZyM3Fid3c",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T12:42:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T12:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWs2RDZwdFZlQlFUNlBTVUhPRVpVMk51Z0dTRy03THBPNDRQZ2VUd192ZkNxWFkzcGFDLW5BMTlpY0hIMkdRYUhGU0diMFlyc09lWWh2c2hIVDNTRFpEU3pqLWI5QmdoSFFoUDA4MGNLX2wzTzhER0F6dmwyNVhxWWxGRmE3b09SczFoY3FtM3ZyM3Fid3c"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度超预期但资本开支下调",
-   "title_zh": "TSLA三季度盈利超预期，26年资本开支预期下调",
-   "sentiment": 1
-  },
-  {
-   "id": "6dc10dc92623",
-   "title": "Tesla Says Robotaxi Will Lift Results Starting in 2027 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjJNcFF6bGU2TUdoZmZnQkZWVlZoZ1VvYVdzLW1kdFBoeFdfRmVDWFl5elVPSXB2dEVmUlFwUjNyUXhZeE9BQ1BuSndHS21ZemJxRnY0aHEtbXZLYzVwLTlzSXB1c2p1NHNlV0xWd2k1ZUg5Zy14MDR2V1NkTUhPQWhsRHdvREEzYk9nbjV6T3h5LXdXNmM4Q1NyU19sZw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T12:37:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T12:37:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjJNcFF6bGU2TUdoZmZnQkZWVlZoZ1VvYVdzLW1kdFBoeFdfRmVDWFl5elVPSXB2dEVmUlFwUjNyUXhZeE9BQ1BuSndHS21ZemJxRnY0aHEtbXZLYzVwLTlzSXB1c2p1NHNlV0xWd2k1ZUg5Zy14MDR2V1NkTUhPQWhsRHdvREEzYk9nbjV6T3h5LXdXNmM4Q1NyU19sZw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉称Robotaxi将于2027年提振业绩",
-   "title_zh": "特斯拉称Robotaxi将从2027年起提振业绩",
    "sentiment": 1
   }
  ]
