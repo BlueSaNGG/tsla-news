@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T14:37:25.420705+00:00",
+ "updated_at": "2026-10-23T15:07:35.330835+00:00",
  "market": {
-  "price": 370.13,
-  "change_pct": -1.19,
+  "price": 375.56,
+  "change_pct": 0.26,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 37% 分位"
+     "note": "现价处于52周区间 40% 分位"
     },
     {
      "key": "目标价空间",
      "score": 0,
-     "note": "目标价中位数 $400（17家），隐含空间 +8.1%"
+     "note": "目标价中位数 $400（17家），隐含空间 +6.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.29（66条已评分）"
+     "note": "今日新闻情绪 -0.28（69条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $370.13 vs 20日均线 $369.76"
+     "note": "现价 $375.56 vs 20日均线 $370.03"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 37,
+   "price_52w_pct": 40,
    "target_median": 400.0,
    "target_count": 17,
-   "implied_upside_pct": 8.1,
-   "ma20": 369.76,
-   "as_of": "2026-10-23T14:37:25.403820+00:00"
+   "implied_upside_pct": 6.5,
+   "ma20": 370.03,
+   "as_of": "2026-10-23T15:07:35.320362+00:00"
   },
-  "pe_ttm": 102.4,
+  "pe_ttm": 103.9,
   "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+8.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.29,
-   "count": 66
+   "avg": -0.28,
+   "count": 69
   }
  },
  "meta": {
@@ -67,6 +67,62 @@
   }
  },
  "stories": [
+  {
+   "id": "f62554e690ed",
+   "title": "Those Mysterious Plastic Pieces on a Tesla Battery - EVWORLD.COM",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBOTHpvbHhuY0J5YjM1SFdUdzRJT2RNSmhqNU5WN05SaG0wdEJNcVVFRl84SVloSXFWYS16dHhMNWpwREZhZVpuRHFtc1ZyX1lkY2FqbnVER0VDaW1yM3BpVHprR3pMS29weVFDMWVJeThrb1JrZ0J5RTQ2cUJWcGtLYmF2ZllidjNQWEJnZHBKcjhlcmkzbmwxUEI0RHM",
+   "source": "EVWORLD.COM",
+   "published_at": "2026-10-23T14:51:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "EVWORLD.COM",
+     "published_at": "2026-10-23T14:51:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBOTHpvbHhuY0J5YjM1SFdUdzRJT2RNSmhqNU5WN05SaG0wdEJNcVVFRl84SVloSXFWYS16dHhMNWpwREZhZVpuRHFtc1ZyX1lkY2FqbnVER0VDaW1yM3BpVHprR3pMS29weVFDMWVJeThrb1JrZ0J5RTQ2cUJWcGtLYmF2ZllidjNQWEJnZHBKcjhlcmkzbmwxUEI0RHM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "7d77b431de69",
+   "title": "Tesla Europe Sales Surge - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fOEc4U0hMR0EzdGxTYXdQU0hXbTRkbm9vTklDQ2RZSkVKYWpaM3UxTlV6Q1daRTVkMkdHbUl2Z19lc1pGUldBbmF1NGlrd1lXMlNyZTV3YTk2ODlEUTJ1LTdFYUYxQ2l5SmlpUFVIZklKTHB6dVZR",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-23T14:39:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-23T14:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fOEc4U0hMR0EzdGxTYXdQU0hXbTRkbm9vTklDQ2RZSkVKYWpaM3UxTlV6Q1daRTVkMkdHbUl2Z19lc1pGUldBbmF1NGlrd1lXMlNyZTV3YTk2ODlEUTJ1LTdFYUYxQ2l5SmlpUFVIZklKTHB6dVZR"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T14:39:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLThHMGhmVzBlZTNtdUc2RHdMdm0yZ2lBZEoyb05peW9aa2FhRHBoM21USkd5d3VINlFldjBBWmtwZWs3Q01pV1N4VWdhaVRQM2hFYm9BNU5GTnk5QVBoWW10NU9nWC1nbk9nNE9aQkoycl9wd1JLNVgxckN1bzFrNmt4NkhCS0Z3dlg3aDZZMDdIT00"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d1f4b4bf1a75",
+   "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUlidGxrYzdWQ2V2azd3Z2VXanlrblUzQU05cUZ1LThYMzZ4QTZ5SzBtbWg2LTFzOF81TUQtOThXMk5ndDFZTF9yR2pwTFFQN2ZMazUySWt4ZE1xcjZzNEZmTmYxQ3hVdk1qRzBuczNqMnktckoxdWlYc0Z2M2FHNXBYRWo1MXJJcmJWeDU5Qno",
+   "source": "Electrek",
+   "published_at": "2026-10-23T14:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-23T14:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUlidGxrYzdWQ2V2azd3Z2VXanlrblUzQU05cUZ1LThYMzZ4QTZ5SzBtbWg2LTFzOF81TUQtOThXMk5ndDFZTF9yR2pwTFFQN2ZMazUySWt4ZE1xcjZzNEZmTmYxQ3hVdk1qRzBuczNqMnktckoxdWlYc0Z2M2FHNXBYRWo1MXJJcmJWeDU5Qno"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "fbc07506c2f5",
    "title": "特斯拉预计明年第二季度让车主车辆接入自动驾驶出租车车队？一文看懂私家车变网约车的6个关键问题 - 网通社",
@@ -83,9 +139,179 @@
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
-   "title_zh": "特斯拉预计明年Q2让车主车辆接入自动驾驶车队",
    "zh_summary": "特斯拉或于明年Q2让私家车接入自动驾驶车队",
+   "title_zh": "特斯拉预计明年Q2让车主车辆接入自动驾驶车队",
    "sentiment": 1
+  },
+  {
+   "id": "554600b69cf9",
+   "title": "Tesla Gross Profit Beat: $1.2B Tariff Refund [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkVydU96QlRra3g2dzZaLVNGclg2d3c1ckNVcUswSmFVUXNXTlNxRGVucWstQjVHOG5HM1ZRZzdyZlJQWFZWLTZELW04WjVyY1ZoMGJHMGhlQ19jTGhGQ3BJV091NXVGY3h6LTFCMDFIUlB1MENCS3BqZGhkNEhqdlM1SUw",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-23T14:21:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-23T14:21:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkVydU96QlRra3g2dzZaLVNGclg2d3c1ckNVcUswSmFVUXNXTlNxRGVucWstQjVHOG5HM1ZRZzdyZlJQWFZWLTZELW04WjVyY1ZoMGJHMGhlQ19jTGhGQ3BJV091NXVGY3h6LTFCMDFIUlB1MENCS3BqZGhkNEhqdlM1SUw"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "ca5f0fd61788",
+   "title": "Tesla Says It's Weeks Away From Selling Steering Wheel, Pedal-Free Cybercabs to Private Buyers: TDS - The Drive",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2RPNVNMdEd2SmN5RVEzN2stVFdrQUF5MW12aFdMYTdWcGl5LXV4WVNlU0h0d2hGSmxwcVFrcXd1SGRFTmtFUlVWTXZOcTFIOVMxYTM4cXI4MUFNanFWeGVYeGoyNGFnWm9TRndnRVpyamFLS0hfdU9yN2hRN0lJNDF1UlBHRElhVDQ2VE0tcnNHbmhxdFRJVHpNY3o2VDRLUHRmN2JlZUFDTWxqSWFQUmwwMmt6TVRqQWtzN29SN1BVcFNH",
+   "source": "The Drive",
+   "published_at": "2026-10-23T14:12:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Drive",
+     "published_at": "2026-10-23T14:12:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2RPNVNMdEd2SmN5RVEzN2stVFdrQUF5MW12aFdMYTdWcGl5LXV4WVNlU0h0d2hGSmxwcVFrcXd1SGRFTmtFUlVWTXZOcTFIOVMxYTM4cXI4MUFNanFWeGVYeGoyNGFnWm9TRndnRVpyamFLS0hfdU9yN2hRN0lJNDF1UlBHRElhVDQ2VE0tcnNHbmhxdFRJVHpNY3o2VDRLUHRmN2JlZUFDTWxqSWFQUmwwMmt6TVRqQWtzN29SN1BVcFNH"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "3f6de038be8a",
+   "title": "Tesla Missed Profit Targets In Q3, But A SpaceX Merger Will Surely Help That - Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsRWpTZklsNFluMjFPU21JTDItaHl6N0lBT3JfaVczWmVKUm14WnhKNDZaaHQyTGZBX0ktOFdRZmI3cmhxaVpNbjJXV1VsdVczSUlMUDJpbElydmpQVzZyNTFxb2E4VVhKd0VMTmlydUE5QVJjd0JnTWhFMA",
+   "source": "Jalopnik",
+   "published_at": "2026-10-23T14:01:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jalopnik",
+     "published_at": "2026-10-23T14:01:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsRWpTZklsNFluMjFPU21JTDItaHl6N0lBT3JfaVczWmVKUm14WnhKNDZaaHQyTGZBX0ktOFdRZmI3cmhxaVpNbjJXV1VsdVczSUlMUDJpbElydmpQVzZyNTFxb2E4VVhKd0VMTmlydUE5QVJjd0JnTWhFMA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "ec89125a3648",
+   "title": "Tesla Is Building AI-Powered Maps for Self-Driving - Tesla (NASDAQ:TSLA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHRxLTh2TnA1b2ltd2c5cTVZOG5oWVljNU1rVHhzMmZ6Ml95WXhLZmZyY1JXRFNBclNkMDk1RjI0MW9RbU5fbjdHd2Vtdjd5TWU3dktmcnNBM0V3Q2t3SFAyN3FfV3NlS2hlNHhSajZzZzhXM0FmczhYaWVNMEdQREJpY2VWeDRMYXB3WmpyTF8tcHE5X29r",
+   "source": "Benzinga",
+   "published_at": "2026-10-23T14:00:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-23T14:00:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHRxLTh2TnA1b2ltd2c5cTVZOG5oWVljNU1rVHhzMmZ6Ml95WXhLZmZyY1JXRFNBclNkMDk1RjI0MW9RbU5fbjdHd2Vtdjd5TWU3dktmcnNBM0V3Q2t3SFAyN3FfV3NlS2hlNHhSajZzZzhXM0FmczhYaWVNMEdQREJpY2VWeDRMYXB3WmpyTF8tcHE5X29r"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "426d96cd18f9",
+   "title": "Is Tesla’s Flying Roadster One Giant Leap for Cars or Just One Giant Publicity Stunt? We Do the Math - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTW96SjNhQlJCZ1ZMd2x1a3Y0LUJJZlBUZFdmUklERllHUWVfZ1puOTc0Ykg4TnZMNGNpWVc1M0RQdnZSY0FEZTJZX2NEd2o0VHNWQnFaNnVzeVduX05DR0lURi00X1NSZ0ZndTRSb1M3MTRDUTlUZ0F6MkRBZ2pGVFhXZ3VjNXRUYWE4STVWSVdvT3VCdk9lY1BuQW9vZEU",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-23T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-23T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTW96SjNhQlJCZ1ZMd2x1a3Y0LUJJZlBUZFdmUklERllHUWVfZ1puOTc0Ykg4TnZMNGNpWVc1M0RQdnZSY0FEZTJZX2NEd2o0VHNWQnFaNnVzeVduX05DR0lURi00X1NSZ0ZndTRSb1M3MTRDUTlUZ0F6MkRBZ2pGVFhXZ3VjNXRUYWE4STVWSVdvT3VCdk9lY1BuQW9vZEU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "a29f60fe71c5",
+   "title": "Tesla Aims for 5 Million Cars a Year Despite a 43% Profit Drop - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMEdmZ0dCVnJjNFp1RmgybDZIZUJ3alN6VkhScWdDUklETTZoVlF5eTFRTG44bU1mcGJBVEZmWlNzT1VrQkxPWm9XYjhTV1ZNV21OOU9VbmwxRnliYlkzbEcwTWVMLU1fUy1GdjRpQlBfMFBYRWN2VDJxdGxnZnQyVnFjZTQtcDJJMERVeHRIYUdIb2kxdmc",
+   "source": "Autoblog",
+   "published_at": "2026-10-23T13:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-23T13:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMEdmZ0dCVnJjNFp1RmgybDZIZUJ3alN6VkhScWdDUklETTZoVlF5eTFRTG44bU1mcGJBVEZmWlNzT1VrQkxPWm9XYjhTV1ZNV21OOU9VbmwxRnliYlkzbEcwTWVMLU1fUy1GdjRpQlBfMFBYRWN2VDJxdGxnZnQyVnFjZTQtcDJJMERVeHRIYUdIb2kxdmc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "eebf54d0cf28",
+   "title": "Enter Elon: Tesla robotaxis ‘coming soon’ to Jacksonville — but will they reach St. Johns? - St. Johns Citizen",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRvQ0w4MzdOS2lnam1TaE53b1Y3QkdNTTc5RzFqR25RQ2FlRE9SbGdSOTBsVVNyc0lMeVRDMmI2TlJmM2VrQU5LZVRvN3plUHl4amc4dXUyWmVBSzllMWdoUm5aN1E4MFk1M3VJQ1RUTGlwcjhxWTN5NUx0dHZyU1QwcnM3SHQ2NjFWZ2o1cGw2ZkFCcHRxSlhRTzhBZk8wQ05wZnVwZF9Sdw",
+   "source": "St. Johns Citizen",
+   "published_at": "2026-10-23T13:42:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "St. Johns Citizen",
+     "published_at": "2026-10-23T13:42:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRvQ0w4MzdOS2lnam1TaE53b1Y3QkdNTTc5RzFqR25RQ2FlRE9SbGdSOTBsVVNyc0lMeVRDMmI2TlJmM2VrQU5LZVRvN3plUHl4amc4dXUyWmVBSzllMWdoUm5aN1E4MFk1M3VJQ1RUTGlwcjhxWTN5NUx0dHZyU1QwcnM3SHQ2NjFWZ2o1cGw2ZkFCcHRxSlhRTzhBZk8wQ05wZnVwZF9Sdw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "cf76a1873157",
+   "title": "SpaceX Tesla Merger Math: 161% Growth vs 3% Dip [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaEtUd2FfRXdJOWVrYlVFOXprV0U5UTEybFpfQ1IzRW5QZUE1VHg5VWtBaUtueEhpZTUtZUhXdnROVlAzTUZJZGttMXc0VUp3d2h5cUxNTUNYZ2ZJbGJ3bzJ6b2w0VFVWVW9hZWF1UnFncm1ldVUwU1VPMWZTdG80M2pvZw",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-23T13:30:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-23T13:30:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaEtUd2FfRXdJOWVrYlVFOXprV0U5UTEybFpfQ1IzRW5QZUE1VHg5VWtBaUtueEhpZTUtZUhXdnROVlAzTUZJZGttMXc0VUp3d2h5cUxNTUNYZ2ZJbGJ3bzJ6b2w0VFVWVW9hZWF1UnFncm1ldVUwU1VPMWZTdG80M2pvZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "603c6af1df44",
+   "title": "Tesla’s Mysterious Profit Beat Is Solved. A Tariff Refund Boosted Margins. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWhsX2lURkUxVjB6VDRnbkhGSG9PVGUxbDkwZHhrZVljS1U3Um9SWDV3T0VIbUxRbXpudzFNRzBwSi1tNXQ1TEx1czFaTEVPS0IyTk9WdGliaHFWNVR6UkNTNmVHWWozWTBFVDZSQ2RCc2JaanBhVTk5aUgtNWc4UDRZUEJyd3k3QmZTSlFNb0NXUQ",
+   "source": "Barron's",
+   "published_at": "2026-10-23T13:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-23T13:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWhsX2lURkUxVjB6VDRnbkhGSG9PVGUxbDkwZHhrZVljS1U3Um9SWDV3T0VIbUxRbXpudzFNRzBwSi1tNXQ1TEx1czFaTEVPS0IyTk9WdGliaHFWNVR6UkNTNmVHWWozWTBFVDZSQ2RCc2JaanBhVTk5aUgtNWc4UDRZUEJyd3k3QmZTSlFNb0NXUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "17d3e2b9b49a",
+   "title": "A Startup Spent 11 Years Building Flying Cars. Now Tesla Is Paying Attention - Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFFLSTdnbmw4Q2U0WUhpaTNmclctTjdVb1pKV2xnTk1rRFJLZGJWVHp6Xzc1LTVrdTJWcl90MngtekFxZEI1eTVhNmlYQkVRNEVhSTI0d2hnWERJcV95OVdfc2gxdFlNQ1pMWl9uenlianFpdWhYaTFqZWpWN2dhUm1jVFdlMlBnRmc5SXhRbF9rMWl5UGctZmtzM3lGZk9jN1A3SjZPV1AyVDVxRS1GeWc5S2FFdUZkMU01UHF3",
+   "source": "Inc.com",
+   "published_at": "2026-10-23T13:14:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Inc.com",
+     "published_at": "2026-10-23T13:14:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFFLSTdnbmw4Q2U0WUhpaTNmclctTjdVb1pKV2xnTk1rRFJLZGJWVHp6Xzc1LTVrdTJWcl90MngtekFxZEI1eTVhNmlYQkVRNEVhSTI0d2hnWERJcV95OVdfc2gxdFlNQ1pMWl9uenlianFpdWhYaTFqZWpWN2dhUm1jVFdlMlBnRmc5SXhRbF9rMWl5UGctZmtzM3lGZk9jN1A3SjZPV1AyVDVxRS1GeWc5S2FFdUZkMU01UHF3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "370696aa195d",
@@ -223,8 +449,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "吉利获评CAM全球纯电技术创新榜第一",
    "zh_summary": "吉利超特斯拉获评全球纯电技术创新榜首",
+   "title_zh": "吉利获评CAM全球纯电技术创新榜第一",
    "sentiment": -1
   },
   {
@@ -286,6 +512,23 @@
    "zh_summary": "Energea承诺2000万美元建特斯拉超充",
    "title_zh": "Energea承诺$2000万投资特斯拉超充网络",
    "sentiment": 1
+  },
+  {
+   "id": "5ea2cbc866bf",
+   "title": "Tesla: Record Auto Backlog Tells The Whole Story - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGxjdWMwWTlMczBfdUh0UWZrRXB2WDFqOGxoSGZIeVJWNUdqUVd0VWppWXVsV0ZHX1hYcUdTR1UwUzg2Qzc4Zjd5al9ESEtxQ3VmYlVHS1NLSEpIX3ZycHcyS2JFVWswYzhVWGNKb0piNlBVR0ZTYzlYSWV2QllOUENlWEVTWFhvMnh0bnRtdFdBZw",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-23T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-23T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVGxjdWMwWTlMczBfdUh0UWZrRXB2WDFqOGxoSGZIeVJWNUdqUVd0VWppWXVsV0ZHX1hYcUdTR1UwUzg2Qzc4Zjd5al9ESEtxQ3VmYlVHS1NLSEpIX3ZycHcyS2JFVWswYzhVWGNKb0piNlBVR0ZTYzlYSWV2QllOUENlWEVTWFhvMnh0bnRtdFdBZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e10b4fc31870",
@@ -418,10 +661,15 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUtFZjIzWDZYeURtekJuS1ZpWTBMY0ZmRUd3a3ROMFJQVHN1MkZUMmxCc0E3R0VISTR5bS1BZDFJbUdiMkRhbWlHcjY0X1otSms2bW5OOXozUFl1Zl9qVzczY0ZqWVFoZjJCQnkyZ1BURkJmUi1SR19lVDNKQkVWQmNGVQ",
    "source": "tech-insider.org",
    "published_at": "2026-10-23T10:52:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-23T10:52:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUtFZjIzWDZYeURtekJuS1ZpWTBMY0ZmRUd3a3ROMFJQVHN1MkZUMmxCc0E3R0VISTR5bS1BZDFJbUdiMkRhbWlHcjY0X1otSms2bW5OOXozUFl1Zl9qVzczY0ZqWVFoZjJCQnkyZ1BURkJmUi1SR19lVDNKQkVWQmNGVQ"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-23T10:52:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUtFZjIzWDZYeURtekJuS1ZpWTBMY0ZmRUd3a3ROMFJQVHN1MkZUMmxCc0E3R0VISTR5bS1BZDFJbUdiMkRhbWlHcjY0X1otSms2bW5OOXozUFl1Zl9qVzczY0ZqWVFoZjJCQnkyZ1BURkJmUi1SR19lVDNKQkVWQmNGVQ"
     }
@@ -538,12 +786,17 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXloa29zdWZxWVNTdmZRekhmQnJyb2RjUVUwOFFLbEJtaHNKR0VBYm9KZ0FnVUx4VDlVZDZxTUg0YlFMY000aU9nWmNYOGlPZVRNSTBITVBfM1ViS1VJU2FKZ0c3N05XVkpIWW9oN0lZd1AyVTZBekZEQmpfNlRjWjY5RWt2V3NnRU96Vkw0eUItc19UUzNOLWVsUQ",
    "source": "Yahoo Autos",
    "published_at": "2026-10-23T10:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Autos",
      "published_at": "2026-10-23T10:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXloa29zdWZxWVNTdmZRekhmQnJyb2RjUVUwOFFLbEJtaHNKR0VBYm9KZ0FnVUx4VDlVZDZxTUg0YlFMY000aU9nWmNYOGlPZVRNSTBITVBfM1ViS1VJU2FKZ0c3N05XVkpIWW9oN0lZd1AyVTZBekZEQmpfNlRjWjY5RWt2V3NnRU96Vkw0eUItc19UUzNOLWVsUQ"
+    },
+    {
+     "name": "MotorTrend",
+     "published_at": "2026-10-23T10:06:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBab2FYdXRsdVIwcFBnMFYtR1V0RlVmY1lmVDFKaWVwci1kbk5wLUxZZzdwVGpRSGpvRTU3SzBTNGlIOTk5M1pXaUI4b2M2OUdrRlZkVjZLbVZVQnZJU0h2eVFFM2dLVXZ3alkxSl9EajNhdE5IUmUwZ1VKLVM"
     }
    ],
    "category": "政策监管",
@@ -628,8 +881,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "特斯拉让汽车飞上天，但生意还得落地",
    "zh_summary": "特斯拉概念飞天但生意还需落地",
+   "title_zh": "特斯拉让汽车飞上天，但生意还得落地",
    "sentiment": 0
   },
   {
@@ -918,19 +1171,33 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR05ta2Z2cTYwZ283RmFVNWJZVGVnaWl4eTdQSUJpTENpaVdTZjdPaFF5elc1bW8tdkp3QmduZFVoSGNicU56d1NMa01sTFhSWFZXRjBTUmlxVlF3WEpiUnh2RjR2VDdVdFYyMVNWck4xTVNJSW5MZ3JuYnhXdXZpUm8yM2NCeDZr",
    "source": "Mashable",
    "published_at": "2026-10-23T08:41:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Mashable",
      "published_at": "2026-10-23T08:41:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR05ta2Z2cTYwZ283RmFVNWJZVGVnaWl4eTdQSUJpTENpaVdTZjdPaFF5elc1bW8tdkp3QmduZFVoSGNicU56d1NMa01sTFhSWFZXRjBTUmlxVlF3WEpiUnh2RjR2VDdVdFYyMVNWck4xTVNJSW5MZ3JuYnhXdXZpUm8yM2NCeDZr"
+    },
+    {
+     "name": "Engadget",
+     "published_at": "2026-10-23T11:26:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR21GdUNJTWxBNDRiTFhHSTlmT2ZHZU5sdkZFVXI0M2xDZFI4bFIxREh2VmRicWVqTjdnaDl5SGlZbHlYNWpGeXdqb0VrM1lvY0g0a2ozWFRkc3E2TTFtWkdyZ1R5UjJOcGhPNFcxODF0eDFFSHRoT2tydk5YNEF2SnIyRmNCU05lc0tqcDd1Q0NFYzI4REJ3cjd0dnk"
+    },
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-23T14:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNpV19yeHVrOXJDMWJXMkUxRUhvYThrVENmM0ZVMWJHWTZEZ2Z5MUZUUm5SVm1oTHh1SzhSS2tlUXhtMUlxZ3NubG5lM0g0T1NWZkcwdWg2ZmkwYTJVUm5CX0toMmRNNTYwU2RtOWtmN0t0RXZ1RjZkMm4yWkRhQk9McWo"
     }
    ],
    "category": "车型产品",
    "session": "盘前",
    "zh_summary": "特斯拉取消澳新Cybertruck上市",
    "title_zh": "特斯拉取消澳新市场Cybertruck上市",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 1.31,
+    "window_h": 1.6
+   }
   },
   {
    "id": "5347cc17f5ed",
@@ -1562,12 +1829,17 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW9TMDZnOXA1SDU4MWxocjVwQ0FVNThUVFlDOFpoeXBmZW83SUtpOGlIekNHbjU2Vy02SWwtaTYzbnFkdFhIa0NfejBhYWpBaEZ5MTg4TjFFb3ZWOUFNM0RYTXZoNFlaaXRfeHZfUnV5dnVOanhYQTRpUmxCaV9nSlNsdzLSAYoBQVVfeXFMTnJPNThFeU0wc2lQcDVpV0V1TXhCcDNsSE9UTmJndWVVYXdOS2R0YnFTZUpkeElSaFNMb29Mck9RYmc2MTF3UlhNSVZuY2ZpOGNmVzdMZWw1WVFSMWdLenRRTGpZVEdZS0t0Ni1NekM0RzVIZlF2aUhBVlRRYUVTaURuNnhsVHBGdzFn",
    "source": "ABC7 Los Angeles",
    "published_at": "2026-10-23T04:38:19+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "ABC7 Los Angeles",
      "published_at": "2026-10-23T04:38:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLW9TMDZnOXA1SDU4MWxocjVwQ0FVNThUVFlDOFpoeXBmZW83SUtpOGlIekNHbjU2Vy02SWwtaTYzbnFkdFhIa0NfejBhYWpBaEZ5MTg4TjFFb3ZWOUFNM0RYTXZoNFlaaXRfeHZfUnV5dnVOanhYQTRpUmxCaV9nSlNsdzLSAYoBQVVfeXFMTnJPNThFeU0wc2lQcDVpV0V1TXhCcDNsSE9UTmJndWVVYXdOS2R0YnFTZUpkeElSaFNMb29Mck9RYmc2MTF3UlhNSVZuY2ZpOGNmVzdMZWw1WVFSMWdLenRRTGpZVEdZS0t0Ni1NekM0RzVIZlF2aUhBVlRRYUVTaURuNnhsVHBGdzFn"
+    },
+    {
+     "name": "ABC7 Chicago",
+     "published_at": "2026-10-23T13:37:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlQ4elcwa3VoRWZYRXNwT1ZQSlBIU3ZvTF9DSEtzTHpjYmpEZml0d0ZrUzA3VklFeDVUdnY3WDhBcktDQy1Gdm0wU3ZlZW15UVFwSlppampYVVpEMU5wZGZ4M2s1NXNvd1NsaldqSHI1ZlJIVk5ocHJMSjd4cEM3V3h6Vmh2MHBESmJQSXRB0gGTAUFVX3lxTE1DcGw2ZTVlbU5KSUlNeXZBMjZhbUFncUpFZFVjdEtCaVItcHRQMXlRejliQWNxaVBpNTJGRDNwM2Z0bm1XS0dOTVp1VldiTVAzdHhpM19BakhvZEktei1POVR6QU1tbWFjWnpoTG1tUTJmWGhROTRHTjFRbU10RWFfYTFfZ2IwcjhCSlB4dW5LU3NGQQ"
     }
    ],
    "category": "交付量",
@@ -3334,7 +3606,7 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlJVbkpMdVBJcVpOQVNDcWU2QS0tWm1TS0NpcGY3aEhzTXBQNW83aVVMYUtuRzltT2N0RDNyNmE3dGhZb01nZU5jQ09ic3VMQk9Qa0M0WnFka0pzQWhrZ0tCS1lnT3k0LUQ4eHBtY19UTHhPaG1mWEZfZ1JRN3o5SWJ6S2gyc0ctN3ExaXdFY1Y",
    "source": "KSBW",
    "published_at": "2026-10-22T20:52:00+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "KSBW",
@@ -3370,6 +3642,11 @@
      "name": "WGAL",
      "published_at": "2026-10-23T10:22:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEg1MjMtamNhZkxJV1FxanNfcFhNdnNscDdpUzZJSVFtamlUMVFMd0VVTk1ZQVk0aTJEd0MxdGx4dWZPWE5TZ05yNDhockx2TTNublltcHVzSk13azNCdzJiTm5lNGF5MmhSZjZ5VUtLNXpVeTF0aUJDZEZDa2Zzcy1ZREswV2o5aEJQNll3"
+    },
+    {
+     "name": "WLKY",
+     "published_at": "2026-10-23T10:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVV2eFF0dXR0XzVoaHhHdUVTb3p5Q1FMOHZvRnpLMGwxM2xYUUVwb2k2cDN1Z3A4b3lzdlRYZUJSZnBsbGFYZmZYX09kRmwwVXZNMnlKZk1OM0s4c3ZZUmFVM0UxMlNabmgzQTZ3OHBib0ZscWh3aFZUQkU4YW5POTAtY3FqMkxld2U5YjB3"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -3435,6 +3712,23 @@
    "zh_summary": "特斯拉发布2026.38.3.2版本更新说明",
    "title_zh": "2026.38.3.2官方特斯拉更新说明",
    "sentiment": 0
+  },
+  {
+   "id": "2f6ce38eadaf",
+   "title": "Opinion: Elon Musk enters his era amid the Tesla renaissance - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckdpQmZvSHF1d2xIcDA0a0dET1VfQ3JJOVB1eUFHU2EwS1VoeHNrakwzMVdhNkJEb0JYVDFXeHVfTnFaa3BLX1JOOUZ5R0tSSEVMMjJkM1FqSmdjMDB3TE1ybUxHYnNOdnE1Z3dybnlPc05ZQS1TX0xwWEVXaHAwZzhCMmlickpmb0pONGdWdV9BTjBxaDUyVk1ONmJSOTMzdXZnV1FoREhrQWtpM1dqM2xB",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-22T20:37:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-22T20:37:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckdpQmZvSHF1d2xIcDA0a0dET1VfQ3JJOVB1eUFHU2EwS1VoeHNrakwzMVdhNkJEb0JYVDFXeHVfTnFaa3BLX1JOOUZ5R0tSSEVMMjJkM1FqSmdjMDB3TE1ybUxHYnNOdnE1Z3dybnlPc05ZQS1TX0xwWEVXaHAwZzhCMmlickpmb0pONGdWdV9BTjBxaDUyVk1ONmJSOTMzdXZnV1FoREhrQWtpM1dqM2xB"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "523c40eeca7f",
@@ -5555,6 +5849,23 @@
    "sentiment": 0
   },
   {
+   "id": "c731854e63ce",
+   "title": "Tesla Stock Is Trending: What's Going On? - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHdfUXFEMGxHTUJYRXpXRVFkbVQ1NS1TUHhQOVdVQkxYdlR3RDVfOW5uTlRSN1MxclhZaVhrZXd2VmswNHJYcG5uRUdGR0YwZ0Q0X01QWW0zbXV2X1JJYWw1X2xPdy1ZYkVyVkJqVklRZXZzckRwcVRGa3JMTHpCSTZpaHpUVlMzNjVxSnc3d1c4OVRKd04tNEdxOFZHM0xp",
+   "source": "Benzinga",
+   "published_at": "2026-10-22T14:30:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-22T14:30:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHdfUXFEMGxHTUJYRXpXRVFkbVQ1NS1TUHhQOVdVQkxYdlR3RDVfOW5uTlRSN1MxclhZaVhrZXd2VmswNHJYcG5uRUdGR0YwZ0Q0X01QWW0zbXV2X1JJYWw1X2xPdy1ZYkVyVkJqVklRZXZzckRwcVRGa3JMTHpCSTZpaHpUVlMzNjVxSnc3d1c4OVRKd04tNEdxOFZHM0xp"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "addf2eeacfb5",
    "title": "特斯拉：上季度北美75%的新车买家订阅了FSD - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbi1nLURoXzN0elFSZHh4Ny1kQlNFd2h0Z3p4RzJKd2VpeHZDbkRkRUNwVmtKenF4RVowOUdIOTVkaHFZQWdqaThnSXFma3FTQ2NfYTZsMEhMOGQ4VUxXQ2huY0U2R2ZyQWtZZ1RVYzFuYk1ROWhlVnBFZnVnUQ",
@@ -5687,6 +5998,23 @@
    "zh_summary": "Moomoo社区帖称特斯拉股价上涨",
    "title_zh": "$特斯拉 (TSLA.US)$ 绿了绿了， 冲啊 - Moomoo",
    "sentiment": 0
+  },
+  {
+   "id": "258022c0b337",
+   "title": "Tesla: The Market Is Wrong, Again (NASDAQ:TSLA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NEdTUGE4YXlxM0RZMHo5N1hIOXJRZUhfZWFVUUhBMFhoYXRjXzQ4U3FXRExnX3B2amQ2b1pJMEJBM1pnYVZuNVQxUFNVa3BmOU8yZFE4X3YwTjBjVU5rT0UyOXdhc1U3Z3lZakh1QVBsbmg1bXZlc2MtVUQ",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-22T14:15:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-22T14:15:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NEdTUGE4YXlxM0RZMHo5N1hIOXJRZUhfZWFVUUhBMFhoYXRjXzQ4U3FXRExnX3B2amQ2b1pJMEJBM1pnYVZuNVQxUFNVa3BmOU8yZFE4X3YwTjBjVU5rT0UyOXdhc1U3Z3lZakh1QVBsbmg1bXZlc2MtVUQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "09b0a7615a89",
@@ -5997,346 +6325,6 @@
    "zh_summary": "SpaceX三季报超预期并购猜测升温",
    "title_zh": "SpaceX Q3超预期，但特斯拉合并前景成焦点",
    "sentiment": 1
-  },
-  {
-   "id": "56fbe87b40b1",
-   "title": "Tesla Targets Cybercab Customers by Year-End, Says Most Stay Tesla-Owned - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2hPTlp1WF9IbHlhV3hBTkxBMjFCS1dOTG5yS09WQ3pEMHF0S3pEb29WanVPUGtidWtLWTV5MFZSQjl5MWx2cEUzYm4yQW4zeGZ5TDlnNkJhV2xaeHVOUWFSNnV0MS1pWHVZSGVEU2gyOUlVaEJGT0tNVnEzUzJDbHFCWDJZajVvYU1CLWRkWmgycVF2MmU0RXNtRS1uak4yYVJ6U1N3T2kwZzg",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-22T14:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-22T14:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2hPTlp1WF9IbHlhV3hBTkxBMjFCS1dOTG5yS09WQ3pEMHF0S3pEb29WanVPUGtidWtLWTV5MFZSQjl5MWx2cEUzYm4yQW4zeGZ5TDlnNkJhV2xaeHVOUWFSNnV0MS1pWHVZSGVEU2gyOUlVaEJGT0tNVnEzUzJDbHFCWDJZajVvYU1CLWRkWmgycVF2MmU0RXNtRS1uak4yYVJ6U1N3T2kwZzg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉计划年底前拓展Cybercab客户",
-   "title_zh": "特斯拉瞄准年底前拓展Cybercab客户，称多数车队自有",
-   "sentiment": 1
-  },
-  {
-   "id": "8601a24b6d0f",
-   "title": "Tesla: Current and upcoming models, prices, specs, and more - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg",
-   "source": "Electrek",
-   "published_at": "2026-10-22T14:00:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-22T14:00:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉现款及新车型价格配置汇总",
-   "title_zh": "特斯拉现款及新车型、价格、配置一览",
-   "sentiment": 0
-  },
-  {
-   "id": "f25b6bcf0a0b",
-   "title": "Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcUplNGowWlU4Q2pvMFhMUENRdVktWWR2RTYxQ3h1Z2RNa1ZHcGNIMXBPUnFabjFCSzZNNFRIbDVkRGxkbHVjbHJaV0RzenRrYXQwaEo2dFpDTkdKb0VDYUhKbGhLV3VhVDhxQWVQSWJBVzRLRzBJQTY5TE8ybUs3TGFHU1FuZE0xSWo3YW9zWk1VUHFEZGlLRDIyQzFqaFl1RjJNY0dMZWZ1dE11ZnBqRUxxQUNBc1RnMk4xRkRBbFJkaFRCT1NpOXphOVlJNG1aaTBjVHh3",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T14:00:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T14:00:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcUplNGowWlU4Q2pvMFhMUENRdVktWWR2RTYxQ3h1Z2RNa1ZHcGNIMXBPUnFabjFCSzZNNFRIbDVkRGxkbHVjbHJaV0RzenRrYXQwaEo2dFpDTkdKb0VDYUhKbGhLV3VhVDhxQWVQSWJBVzRLRzBJQTY5TE8ybUs3TGFHU1FuZE0xSWo3YW9zWk1VUHFEZGlLRDIyQzFqaFl1RjJNY0dMZWZ1dE11ZnBqRUxxQUNBc1RnMk4xRkRBbFJkaFRCT1NpOXphOVlJNG1aaTBjVHh3"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉超预期但股价下跌",
-   "title_zh": "特斯拉Q3业绩超预期、资本开支好于预期，股价仍下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "94ad40a9a16e",
-   "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWtxQ0ZEbGhwc3dTR082ZzhSQ1ZzMFJwYTl2enlKcE8xLTQyMzFBd2lfbmt3Rmhhak1HaHlHWUFfbDZ6b09QZVVaSXhtV2tZYmpPMG1CdmkxWDhjN3VuUWpGTGJLZmxOa2N2TTJ5UXBWcUdYUFlPejdFTzJ0WEdycQ",
-   "source": "Electrek",
-   "published_at": "2026-10-22T14:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-22T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWtxQ0ZEbGhwc3dTR082ZzhSQ1ZzMFJwYTl2enlKcE8xLTQyMzFBd2lfbmt3Rmhhak1HaHlHWUFfbDZ6b09QZVVaSXhtV2tZYmpPMG1CdmkxWDhjN3VuUWpGTGJLZmxOa2N2TTJ5UXBWcUdYUFlPejdFTzJ0WEdycQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉下调2026年资本支出指引",
-   "title_zh": "特斯拉悄然将2026年资本支出指引下调至200亿美元",
-   "sentiment": -1
-  },
-  {
-   "id": "9ffacc87b0dd",
-   "title": "Elon Musk says Tesla's Optimus robot needs to learn like a toddler - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWI1MDhEbHpzblJ3emdvaVVFblU2eDByNENBcmVlWC00ZzZLQXdqZVRweEpIR1NLcnN2MHMxV1NzU0p4NmFCME1ja1A3Nmt5eWQtUVhxRjczd3ktQUllN1lWMUVBeVRnSDFiUHVuamVzbGFfQ0NHSXZhbnAxel9KLThsS2hORVo5dXo4SS1UbC1idFdCR1RzMDJaaHlfYkdadFFOOUZBS2J3NXFPS3kzUzBtX05nOWhCUUpuWGZ4WHpWODg",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T13:58:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T13:58:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWI1MDhEbHpzblJ3emdvaVVFblU2eDByNENBcmVlWC00ZzZLQXdqZVRweEpIR1NLcnN2MHMxV1NzU0p4NmFCME1ja1A3Nmt5eWQtUVhxRjczd3ktQUllN1lWMUVBeVRnSDFiUHVuamVzbGFfQ0NHSXZhbnAxel9KLThsS2hORVo5dXo4SS1UbC1idFdCR1RzMDJaaHlfYkdadFFOOUZBS2J3NXFPS3kzUzBtX05nOWhCUUpuWGZ4WHpWODg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "马斯克称Optimus需像幼儿般学习",
-   "title_zh": "马斯克称Optimus机器人需像幼儿般学习",
-   "sentiment": 0
-  },
-  {
-   "id": "6e8587d846b2",
-   "title": "特斯拉Q3财报电话会：努力争取FSD在华获批，不再评论与SpaceX合并 - 集微网",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1VNVVabjJRd3cyaEVGcE90cXB5Q2p3dXZZaXlLc0tDRl8tRDI1elVrdjBGNUluSlI4Y3Nmc08wZ3N4NzQ",
-   "source": "集微网",
-   "published_at": "2026-10-22T13:57:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "集微网",
-     "published_at": "2026-10-22T13:57:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1VNVVabjJRd3cyaEVGcE90cXB5Q2p3dXZZaXlLc0tDRl8tRDI1elVrdjBGNUluSlI4Y3Nmc08wZ3N4NzQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉Q3电话会争取FSD在华获批",
-   "title_zh": "特斯拉Q3财报电话会：努力争取FSD在华获批，不再评论与SpaceX合并",
-   "sentiment": 0
-  },
-  {
-   "id": "9945d51af3ae",
-   "title": "$特斯拉 (TSLA.US)$ 看来我还是没长记性……又没滚起雪球，以18k 的亏损收盘 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2diWVVBODJOSnc0R0hDSllfZ05sT01Ea1E3N3MzYW1UMXROYUdBN3JvWHY2dGRIVHdXY1B4RzJpbjdldzZiUVBxQXJBTEllVjc1NWJuWVc2LXV5XzdLQW9TY0MtWUUtS2ZtR192MERKMldhb3g2bTEzemVyblgzX2QwSUh0czBZX0ZqRUFNaFE0UmhGaXF4ZFkxbkx3dkpnTENWd3hHMVZRcjBaQkE",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T13:56:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T13:56:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2diWVVBODJOSnc0R0hDSllfZ05sT01Ea1E3N3MzYW1UMXROYUdBN3JvWHY2dGRIVHdXY1B4RzJpbjdldzZiUVBxQXJBTEllVjc1NWJuWVc2LXV5XzdLQW9TY0MtWUUtS2ZtR192MERKMldhb3g2bTEzemVyblgzX2QwSUh0czBZX0ZqRUFNaFE0UmhGaXF4ZFkxbkx3dkpnTENWd3hHMVZRcjBaQkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉散户以1.8万美元亏损收盘",
-   "title_zh": "特斯拉(TSLA.US)散户以1.8万美元亏损收盘",
-   "sentiment": 0
-  },
-  {
-   "id": "a8fe2275f566",
-   "title": "What were the big surprises when Tesla reported third quarter results? - The Detroit News",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmoxbUhUdzVRZ2UtSzEzX0NSRWF2eG9HUkJVNE52Z3lXNnhGWXA0VnlmVThoSzlnLWVUTEQxZkFzUVRPWFpmNDVSeW5tdjBYTVNEakdjT0pzaE9MeWRhY1ctTDdSa3VPMEZyY3VnSFpzMmQzN05nVU1zdGhrMUI2UnVjQVlqU0ZjLVFKQmg2b0NhOEt5aVBZZXlLWEd6bDV2WDlGZ29TRjB4ejUyaWNwTGhMeU5vUWxwZXFlbXJzcXRzaU1ENm5CUThpQ1E",
-   "source": "The Detroit News",
-   "published_at": "2026-10-22T13:55:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Detroit News",
-     "published_at": "2026-10-22T13:55:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmoxbUhUdzVRZ2UtSzEzX0NSRWF2eG9HUkJVNE52Z3lXNnhGWXA0VnlmVThoSzlnLWVUTEQxZkFzUVRPWFpmNDVSeW5tdjBYTVNEakdjT0pzaE9MeWRhY1ctTDdSa3VPMEZyY3VnSFpzMmQzN05nVU1zdGhrMUI2UnVjQVlqU0ZjLVFKQmg2b0NhOEt5aVBZZXlLWEd6bDV2WDlGZ29TRjB4ejUyaWNwTGhMeU5vUWxwZXFlbXJzcXRzaU1ENm5CUThpQ1E"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉三季度财报有哪些意外惊喜？",
-   "title_zh": "特斯拉三季度财报有哪些意外惊喜？",
-   "sentiment": 0
-  },
-  {
-   "id": "caea29a3e042",
-   "title": "TSLA Stock Falls 3.6%: The FSD Number Tesla Won’t Define - FinanceFeeds",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZkVHR0RCa0ttbXNXQWZORld2RXNvRl9ocElOM0dPdERjOGZrM0F1TVFFZVR4VGZqTGpma0I1NHp5U0xJLUdXdnloREI1WlFuNEZHTmNteXRNRFFXUHZ1NmY0RGlsckdHdXhPaWR4aDhaN3FHRVE",
-   "source": "FinanceFeeds",
-   "published_at": "2026-10-22T13:54:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FinanceFeeds",
-     "published_at": "2026-10-22T13:54:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DZkVHR0RCa0ttbXNXQWZORld2RXNvRl9ocElOM0dPdERjOGZrM0F1TVFFZVR4VGZqTGpma0I1NHp5U0xJLUdXdnloREI1WlFuNEZHTmNteXRNRFFXUHZ1NmY0RGlsckdHdXhPaWR4aDhaN3FHRVE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "TSLA跌3.6%，FSD数据不明",
-   "title_zh": "TSLA跌3.6%：特斯拉未明确的FSD数据",
-   "sentiment": -1
-  },
-  {
-   "id": "734e7595cfb5",
-   "title": "Tesla: Profits No Longer Matter (NASDAQ:TSLA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYS0lzVVMtTHFtaDI4WkRmY1V6SkVnaXpPU2ZCWlZRS2JXWGo3c0g4bGtQVEZKUENkY1ZuRXVYLW4tT2J0U0RfM3E5dXZZbUpwNzZEU2s2dU1YNHBqU0xreWJtalZBM3JGYnIteDJ3RGxIRjlteWs5NjF1TQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-22T13:50:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-22T13:50:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYS0lzVVMtTHFtaDI4WkRmY1V6SkVnaXpPU2ZCWlZRS2JXWGo3c0g4bGtQVEZKUENkY1ZuRXVYLW4tT2J0U0RfM3E5dXZZbUpwNzZEU2s2dU1YNHBqU0xreWJtalZBM3JGYnIteDJ3RGxIRjlteWs5NjF1TQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "特斯拉利润不再重要",
-   "title_zh": "特斯拉：利润不再重要",
-   "sentiment": 0
-  },
-  {
-   "id": "60198c9ce379",
-   "title": "Meta, Tesla, and chip stocks decline as AI trade comes under pressure: AlphaCheck - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcm5oS0RtNGtkamJ4djcwMEYwbEctTEFyWnc2eDQ5ZURja0lyWDQ2RTliajd3STBpVG95TDNGUG5qcUFIYjZEcFZtQzhZV0dId1ZlWUlmQXJ1aGxST2NWZGFQbDFNQURPRW9XRnEzWWVYS2Y2NDM2MnpaOC1Zdk8yajhwdDBSLW9nMzdwd3hrY2RLQ2tZbDBmaG5RMGJ1X25KVkE2TFJnS2tOZHVnbEZIbTUxaVFLRTFlYjdZNDEzR1NUZzZsbGd5NXhfSUVLdlg0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T13:47:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T13:47:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcm5oS0RtNGtkamJ4djcwMEYwbEctTEFyWnc2eDQ5ZURja0lyWDQ2RTliajd3STBpVG95TDNGUG5qcUFIYjZEcFZtQzhZV0dId1ZlWUlmQXJ1aGxST2NWZGFQbDFNQURPRW9XRnEzWWVYS2Y2NDM2MnpaOC1Zdk8yajhwdDBSLW9nMzdwd3hrY2RLQ2tZbDBmaG5RMGJ1X25KVkE2TFJnS2tOZHVnbEZIbTUxaVFLRTFlYjdZNDEzR1NUZzZsbGd5NXhfSUVLdlg0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Meta、特斯拉及芯片股下跌",
-   "title_zh": "AI交易承压，Meta、特斯拉及芯片股下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "0f93d7b4ed79",
-   "title": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw",
-   "source": "Reuters",
-   "published_at": "2026-10-22T13:47:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-22T13:47:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2hUYVoxVEgxUmdpSW1qZ0ZlcTJnRUJPLVhjUS12cExoTDBZbFlfNHVmejZoVFhBZ3VxNTc1NThRVkZnVTNvVUJXYThLcTduSjlGVkVlX0xiTDhNSkNjN09lblZJeVZEWW9BZXRqS05PY2tBRUxzU3NaSFlxdDY2V1JGMHBpbFdzRlIwTlRXQ2twVHN5MEhIQjVIMXJQVzlzWHo5aFo2alM4X1hjSlBEcGVlZ0V3WHhrN2cybWxKTU5Edw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "特斯拉削减开支引质疑股价跌",
-   "title_zh": "特斯拉削减资本开支引发对其AI和机器人战略的质疑",
-   "sentiment": -1
-  },
-  {
-   "id": "916721a98fbf",
-   "title": "Tesla iPad app finally gets a layout built for big screens - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmozYUFUaEdTWDlpMmpTLXFBRWpoREYtTnY5bDg5bUt5ZHdkX1VhYVNMWURpT3FsOTZhQVE2RTZoU1RjQVhJRUVXOWJITjZENUNWRlE4SFNaNlVFcVhVRGhJTGRqOW1oWmpGVnZ4M0FaSndsbVJyY1M1MlNMUHRlSW9jQTBiTG1aaHdQWWFzeV9Db20yQ185R1ln",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-22T13:45:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-22T13:45:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmozYUFUaEdTWDlpMmpTLXFBRWpoREYtTnY5bDg5bUt5ZHdkX1VhYVNMWURpT3FsOTZhQVE2RTZoU1RjQVhJRUVXOWJITjZENUNWRlE4SFNaNlVFcVhVRGhJTGRqOW1oWmpGVnZ4M0FaSndsbVJyY1M1MlNMUHRlSW9jQTBiTG1aaHdQWWFzeV9Db20yQ185R1ln"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉iPad应用适配大屏",
-   "title_zh": "特斯拉iPad应用推出大屏适配布局",
-   "sentiment": 0
-  },
-  {
-   "id": "ef3fce7a080e",
-   "title": "Analysts Hike Tesla Price Targets; SpaceX Merger, AI 'In Full Control' - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2dUeU9DWnlUN1VlYVFYRDhrUkpIQWpwN0NFWmlzRExSc3haTHdkZkFyZHhyN2NBOWVBdGw4OV9VQkE0OER4Q2VaeWIxakN6M1dHSU9STGoyd01EZUJ4MDhpNnJKZFhGbDhwV2k1cFpjLThrVk8zbmpReEI3SnJ0NmQwY1VaaEt2ZVFPWUVoTHA",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-22T13:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-22T13:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2dUeU9DWnlUN1VlYVFYRDhrUkpIQWpwN0NFWmlzRExSc3haTHdkZkFyZHhyN2NBOWVBdGw4OV9VQkE0OER4Q2VaeWIxakN6M1dHSU9STGoyd01EZUJ4MDhpNnJKZFhGbDhwV2k1cFpjLThrVk8zbmpReEI3SnJ0NmQwY1VaaEt2ZVFPWUVoTHA"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "分析师上调特斯拉目标价",
-   "title_zh": "分析师上调特斯拉目标价；SpaceX合并预期，AI全面掌控",
-   "sentiment": 1
-  },
-  {
-   "id": "2bde14196bf3",
-   "title": "特斯拉私家车接入Robotaxi车队定档2027年Q2，无监督FSD落地再延期 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81QzNtR0szSkZNc1U0a2lEbS1pWGg3SjM2WGVWMENRSzhZVEJUSWRfZ3I2UVcxdlY1UlZyMEVkb3MxWjRvT1NRMmZmNGRpTEluRy10YUNfM1gxTWc",
-   "source": "网通社",
-   "published_at": "2026-10-22T13:44:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-22T13:44:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81QzNtR0szSkZNc1U0a2lEbS1pWGg3SjM2WGVWMENRSzhZVEJUSWRfZ3I2UVcxdlY1UlZyMEVkb3MxWjRvT1NRMmZmNGRpTEluRy10YUNfM1gxTWc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "私家车接入Robotaxi车队定档2027年Q2",
-   "title_zh": "特斯拉私家车接入Robotaxi车队定档2027年Q2，无监督FSD再延期",
-   "sentiment": 0
-  },
-  {
-   "id": "dd1ef98e9210",
-   "title": "Tesla Q3 2026: Positive Cash, Negative Sales Trends, Crisis Indicated (NASDAQ:TSLA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFpOVjVNUzZZZEtCb2tzUjI5QWhVa0w0dklpUjE5NkFvQzk5alBBVFJGYk5oS3Z1WXFpNzQwRDRta1hzYU1CcjVaOUhTS2x1UTFDdGhlZGZQOE95MXduVl9mcTVFNUI1YXQzcFpoMm5pVVgwS0pvdjcwSGwzNVF0LTRMOElTQjBnblgweHdhd1g5NElOaEh4NUgwV1BlQ2pIdVRVdDZtV3JFNmM",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-22T13:40:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-22T13:40:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFpOVjVNUzZZZEtCb2tzUjI5QWhVa0w0dklpUjE5NkFvQzk5alBBVFJGYk5oS3Z1WXFpNzQwRDRta1hzYU1CcjVaOUhTS2x1UTFDdGhlZGZQOE95MXduVl9mcTVFNUI1YXQzcFpoMm5pVVgwS0pvdjcwSGwzNVF0LTRMOElTQjBnblgweHdhd1g5NElOaEh4NUgwV1BlQ2pIdVRVdDZtV3JFNmM"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉Q3现金流为正销售趋势转负",
-   "title_zh": "特斯拉Q3：现金流为正但销售趋势转负，危机浮现",
-   "sentiment": -1
-  },
-  {
-   "id": "b420151fac8c",
-   "title": "What Is the Biggest Obstacle to a SpaceX-Tesla Merger? JPMorgan Points to China - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVpSNTVLQkJZS3dTZGowYy1scnVVNVdSLUNrWDJMYTFmalJGS21falQ5Y0xRa2lnWXNFYnpmcUZUM001eURDSUF4em5FMzZYNkltQTBwSXdfdG84Rkt4RVZvdlBSXy1RWnkxbTlIcEFhajJsdS1OZ3RqNFkzOE1sdE5GMGNzYW92bFUtLXV0aXlrWUhXOGt2NDhadk5GdFBJZE53",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T13:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T13:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVpSNTVLQkJZS3dTZGowYy1scnVVNVdSLUNrWDJMYTFmalJGS21falQ5Y0xRa2lnWXNFYnpmcUZUM001eURDSUF4em5FMzZYNkltQTBwSXdfdG84Rkt4RVZvdlBSXy1RWnkxbTlIcEFhajJsdS1OZ3RqNFkzOE1sdE5GMGNzYW92bFUtLXV0aXlrWUhXOGt2NDhadk5GdFBJZE53"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "摩根大通称中国是合并最大障碍",
-   "title_zh": "SpaceX与特斯拉合并的最大障碍是什么？摩根大通指向中国",
-   "sentiment": -1
   }
  ]
 }
