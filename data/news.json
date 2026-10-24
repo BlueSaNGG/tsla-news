@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:22:32.011878+00:00",
+ "updated_at": "2026-10-24T15:37:29.727974+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（48条已评分）"
+     "note": "今日新闻情绪 +0.12（50条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T15:22:32.000088+00:00"
+   "as_of": "2026-10-24T15:37:29.715351+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 48
+   "avg": 0.12,
+   "count": 50
   }
  },
  "meta": {
@@ -758,6 +758,23 @@
    "sentiment": 0
   },
   {
+   "id": "e524f662e8f7",
+   "title": "【视频】特斯拉造了一台会飞的车 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVkc2VW5fVlA5UjMwbzRMOUVMNFBhMXhra1JvUFVVSXFhRGNzSXNEenpTSlhINU9iN2MzQ2J6NjF4TFlRYWxiWDJGS1lUWkZBd3JZWTRVWFRaRVk",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T08:52:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T08:52:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVkc2VW5fVlA5UjMwbzRMOUVMNFBhMXhra1JvUFVVSXFhRGNzSXNEenpTSlhINU9iN2MzQ2J6NjF4TFlRYWxiWDJGS1lUWkZBd3JZWTRVWFRaRVk"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "cb4c21486da2",
    "title": "【视频】特斯拉轮胎怎么选？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CQndRRXNtR3Jta3U3ME1iSnB4b0p5SlNFSjlhd3QzSDFPd0lsMTVfWnJpcWRtWl9Ia3RGSGJxb2hQbHQ0NjBsZjFPZ2dSM25SVVBTZjZ4MWxWRzA",
@@ -856,6 +873,23 @@
    "zh_summary": "特斯拉手套箱双挂钩视频介绍",
    "title_zh": "【视频】特斯拉手套箱双挂钩 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "3e0db2512b00",
+   "title": "【视频】特斯拉ModelY座椅下实用储物盒 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1YnJ2eWdrNGc0TnlFZTQ4akNyaHFCUkpJZmVkc1ZFS1NveWF0MDJfY0RLd0tjQ1BTWlNjVWNSTXFTejlZajZ0aVREamZ0TU92OVdoam1hbG9CeGc",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T08:01:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T08:01:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1YnJ2eWdrNGc0TnlFZTQ4akNyaHFCUkpJZmVkc1ZFS1NveWF0MDJfY0RLd0tjQ1BTWlNjVWNSTXFTejlZajZ0aVREamZ0TU92OVdoam1hbG9CeGc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "610643cbe5cf",
@@ -6290,46 +6324,6 @@
    "session": "盘后",
    "zh_summary": "Fort Bend县批准特斯拉35年税收减免",
    "title_zh": "Fort Bend县批准特斯拉35年税收优惠协议",
-   "sentiment": 1
-  },
-  {
-   "id": "4b34c723f411",
-   "title": "A Tesla-SpaceX Merger Doesn’t Add Up - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzAzVFZMdDg5LThSaUNMQjV5RWtMX2NZRk43QnE3bjViakozWmdKWEFwZzk2RUlwZHpTNjRTVk5XYzg0c1JTNUFmZVdTNGpRWkk3cV8xanRaOTlxSEpSWEM4QWdBNWQ2Z2FiSW1jNlZUdWpVYmtvRzBmWEJPSTVTMU1DbkNueXNGZDJvcWtvNzRQSmM1SWN6VlBQZHVEWEdFWk92cnA3VEpoSHNLM3NEUTNyc25ac25ZN3FpZEttOA",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-22T21:32:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-22T21:32:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzAzVFZMdDg5LThSaUNMQjV5RWtMX2NZRk43QnE3bjViakozWmdKWEFwZzk2RUlwZHpTNjRTVk5XYzg0c1JTNUFmZVdTNGpRWkk3cV8xanRaOTlxSEpSWEM4QWdBNWQ2Z2FiSW1jNlZUdWpVYmtvRzBmWEJPSTVTMU1DbkNueXNGZDJvcWtvNzRQSmM1SWN6VlBQZHVEWEdFWk92cnA3VEpoSHNLM3NEUTNyc25ac25ZN3FpZEttOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "彭博质疑特斯拉与SpaceX合并价值",
-   "title_zh": "彭博：特斯拉与SpaceX合并不划算",
-   "sentiment": -1
-  },
-  {
-   "id": "cb415d13d153",
-   "title": "特斯拉新一代Roadster展示飞行能力，空中完成Kickflip尖翻动作 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnRVAtcjB2dlVYWUJxSmxOenExMS03NENwU2hTY0ZsUWZQWU13MjhCRnh2RXVvQXlVTl8yaThZQ0c3eFAzUHhjVmVoSS1CeWFqZmRxSUdMVjMyNWI4MW9rS0JlSWw0cWtHVkFhM09Va0plX1BDdFlIY3JYQkNFYk0",
-   "source": "新浪网",
-   "published_at": "2026-10-22T21:31:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T21:31:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnRVAtcjB2dlVYWUJxSmxOenExMS03NENwU2hTY0ZsUWZQWU13MjhCRnh2RXVvQXlVTl8yaThZQ0c3eFAzUHhjVmVoSS1CeWFqZmRxSUdMVjMyNWI4MW9rS0JlSWw0cWtHVkFhM09Va0plX1BDdFlIY3JYQkNFYk0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "新Roadster空中完成Kickflip尖翻",
-   "title_zh": "特斯拉新一代Roadster展示飞行能力，空中完成Kickflip尖翻动作",
    "sentiment": 1
   }
  ]
