@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T08:37:28.326066+00:00",
+ "updated_at": "2026-10-24T08:52:29.849140+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（9条已评分）"
+     "note": "今日新闻情绪 +0.33（9条已评分）"
     },
     {
      "key": "动量",
@@ -50,13 +50,13 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T08:37:28.315057+00:00"
+   "as_of": "2026-10-24T08:52:29.835146+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.22,
+   "avg": 0.33,
    "count": 9
   }
  },
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "51291f8d71d7",
+   "title": "特斯拉坠桥视频是AI 财经博主调侃难崩 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVpBbXp0Nm9VZC1fVExxdTJpS3BLZXJqTm1IT2FONkxadUVKQ0Z1OFB1V0xQa0RzTzJvcGIzdDZjeFFXOVJQU3ZpX211ZjdfdHhxQzNvcjlEOC1pXzVFd3d4Q2R6a3J4bGJtbklEMVZlcHA3cTMtZDBkYmNCTVBmOGhEZTFfMmZx",
+   "source": "新浪财经",
+   "published_at": "2026-10-24T08:38:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-24T08:38:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVpBbXp0Nm9VZC1fVExxdTJpS3BLZXJqTm1IT2FONkxadUVKQ0Z1OFB1V0xQa0RzTzJvcGIzdDZjeFFXOVJQU3ZpX211ZjdfdHhxQzNvcjlEOC1pXzVFd3d4Q2R6a3J4bGJtbklEMVZlcHA3cTMtZDBkYmNCTVBmOGhEZTFfMmZx"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "b883746240ff",
    "title": "【视频】特斯拉新车挑战物理极限这技术离我们多远 - 汽车之家",
@@ -106,26 +123,6 @@
    "zh_summary": "特斯拉SpaceX合并需50%投票",
    "title_zh": "特斯拉-SpaceX合并：50%投票，Terafab芯片",
    "sentiment": 0
-  },
-  {
-   "id": "d00bdce8ff7b",
-   "title": "Tesla, Inc. $TSLA Stock: Howland Capital Management LLC Cuts Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tmSzdrdkdJUHE5aFlhYjUzeFhPamlqeUFQUjUtalBkZGkzYTROUUNsUndSQU9PZGFOWVMxOTdDMTA5YmJFZWI4aU8xS3dUQldyWWJaWEFaZkozUlBnMTBGcnZaUklWSDZ2VUxSR0tFbFNUQUJsMkFKaDJWQnpVY2Z1TjFJYnByVy1tazdYNm5aZDEwd29tNVU0NWIyV1I2UnpNR04yX1haZDF3dVhiTC1MOXFLMTdoMEZONXZYVTQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-24T07:33:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-24T07:33:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tmSzdrdkdJUHE5aFlhYjUzeFhPamlqeUFQUjUtalBkZGkzYTROUUNsUndSQU9PZGFOWVMxOTdDMTA5YmJFZWI4aU8xS3dUQldyWWJaWEFaZkozUlBnMTBGcnZaUklWSDZ2VUxSR0tFbFNUQUJsMkFKaDJWQnpVY2Z1TjFJYnByVy1tazdYNm5aZDEwd29tNVU0NWIyV1I2UnpNR04yX1haZDF3dVhiTC1MOXFLMTdoMEZONXZYVTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Howland Capital减持特斯拉股份",
-   "title_zh": "霍兰资本管理公司减持特斯拉股份",
-   "sentiment": -1
   },
   {
    "id": "e78ef127c650",
@@ -4675,26 +4672,6 @@
    "sentiment": -1
   },
   {
-   "id": "3e620d3db42e",
-   "title": "特斯拉2027年Megapack产能订单接近售罄 马斯克称将提高产量 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hSnBSVEdoSXktbS1xNno3ODFEYlpnZkVRTTJOQUQ5Q3FDaWZUa1owYW1vVDlBdzg3Z2hyTDZkVXBRMG9QdWNQeTJmT2gzRWpsVndoWmZldzBFV0syT2Y0MnFB",
-   "source": "观点网",
-   "published_at": "2026-10-23T00:56:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-23T00:56:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hSnBSVEdoSXktbS1xNno3ODFEYlpnZkVRTTJOQUQ5Q3FDaWZUa1owYW1vVDlBdzg3Z2hyTDZkVXBRMG9QdWNQeTJmT2gzRWpsVndoWmZldzBFV0syT2Y0MnFB"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉2027年Megapack产能订单接近售罄",
-   "title_zh": "特斯拉2027年Megapack订单接近售罄将扩产",
-   "sentiment": 1
-  },
-  {
    "id": "7cf205b25b09",
    "title": "California reporter's Tesla robotaxi got stuck in 'fart mode,' and no one could shut it off - Yahoo Autos",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNV9oRHExUmhkVmZwY3JRRThtM0NDNnpmbTBqck5qcUVIVVlEV3NfelF0VG83SHpQWjVienJtUHdjOVB3bjkwVVl1Y1MtYUpoUkJFWTVkWUYtYTZSNkFfU3lnU0NvR1hpYmNiRURzUlNiclFjVFZpaGtEV01CNWNlVTJxcXNkajY0bXdWYy1Yd0RvN096ZE5uSFlnTmFuVDBxUkZuaVdEVHF0Zw",
@@ -6388,6 +6365,23 @@
    "zh_summary": "男子持锤砸毁医生特斯拉报复",
    "title_zh": "男子为报复持锤砸毁医生的特斯拉",
    "sentiment": 0
+  },
+  {
+   "id": "db5b997b6b6e",
+   "title": "Tesla: ARK's $4,400 Price Target, Let's Examine (NASDAQ:TSLA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzNFUjJfZjFtWkJreE5Cd0hrMkljZ2lTaEFqM1hkZHdIV1M5SVZwZS10aFAzWUt1RWdDV1FBLWRTMXBuUkZ6TnBOclEtOFRpVWlkRnRiNURNNTdmTjJ3bWxNeG1fZ25wWVF0SjM4cHZOSkRYbTJqY053LTl2eEdrVk9GUGN1dWt6",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-22T18:10:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-22T18:10:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzNFUjJfZjFtWkJreE5Cd0hrMkljZ2lTaEFqM1hkZHdIV1M5SVZwZS10aFAzWUt1RWdDV1FBLWRTMXBuUkZ6TnBOclEtOFRpVWlkRnRiNURNNTdmTjJ3bWxNeG1fZ25wWVF0SjM4cHZOSkRYbTJqY053LTl2eEdrVk9GUGN1dWt6"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
   }
  ]
 }
