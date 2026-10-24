@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T09:07:27.737400+00:00",
+ "updated_at": "2026-10-24T09:22:29.536894+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（9条已评分）"
+     "note": "今日新闻情绪 +0.25（12条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T09:07:27.729366+00:00"
+   "as_of": "2026-10-24T09:22:29.528844+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 9
+   "avg": 0.25,
+   "count": 12
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "2ded97cf49bf",
+   "title": "【视频】特斯拉主动空气动力 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNDZRQ1R1VnpidmZ3UHc5MmJWOTRCbExleXNjNGNWX3E4VEV0bmJHSlBhS1dEc0tOcjktSTBXTE1WOThRbEpTdVpIMlVYWExBcm9aRW9qZzRmTFBMT1dkYkZCMXMyOFBnSmhZ",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T09:17:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T09:17:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNDZRQ1R1VnpidmZ3UHc5MmJWOTRCbExleXNjNGNWX3E4VEV0bmJHSlBhS1dEc0tOcjktSTBXTE1WOThRbEpTdVpIMlVYWExBcm9aRW9qZzRmTFBMT1dkYkZCMXMyOFBnSmhZ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "e064314a55a1",
+   "title": "【视频】特斯拉电动蠕行极限在0.001km/h - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sZmVCQlN3WmowbjBvQlVBNmwwVEZoUVdyUDFOQ0YtSC1sZEFVblNvRkJUZlFzWVlqSmx6eVAtSmRpQ1ZPQUhTQ05WTXdjN05xRzRsY3RKUElyM1lxZmtjZzFCNlItd1BnS2FB",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T09:07:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T09:07:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sZmVCQlN3WmowbjBvQlVBNmwwVEZoUVdyUDFOQ0YtSC1sZEFVblNvRkJUZlFzWVlqSmx6eVAtSmRpQ1ZPQUhTQ05WTXdjN05xRzRsY3RKUElyM1lxZmtjZzFCNlItd1BnS2FB"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "12f2d67ecb33",
+   "title": "【视频】再选一次，还会不会买特斯拉？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QnlMWGZDNGo3NGs3TldFU3JvQ3dWUjVYSkJoLXE5dHYtUExuRWk0R0d6Q2RNTEFJZWpDM3gwalh1V2JVeTd5YnlGcF9LMkcxZXRNWUYwSk1wYU0",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T09:07:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T09:07:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QnlMWGZDNGo3NGs3TldFU3JvQ3dWUjVYSkJoLXE5dHYtUExuRWk0R0d6Q2RNTEFJZWpDM3gwalh1V2JVeTd5YnlGcF9LMkcxZXRNWUYwSk1wYU0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "f871af31bb3e",
    "title": "拉斯海玛酋长问我对特斯拉飞行汽车的看法 - 新浪网",
@@ -186,26 +237,6 @@
    "zh_summary": "特斯拉SpaceX合并需50%投票",
    "title_zh": "特斯拉-SpaceX合并：50%投票，Terafab芯片",
    "sentiment": 0
-  },
-  {
-   "id": "d00bdce8ff7b",
-   "title": "Tesla, Inc. $TSLA Stock: Howland Capital Management LLC Cuts Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tmSzdrdkdJUHE5aFlhYjUzeFhPamlqeUFQUjUtalBkZGkzYTROUUNsUndSQU9PZGFOWVMxOTdDMTA5YmJFZWI4aU8xS3dUQldyWWJaWEFaZkozUlBnMTBGcnZaUklWSDZ2VUxSR0tFbFNUQUJsMkFKaDJWQnpVY2Z1TjFJYnByVy1tazdYNm5aZDEwd29tNVU0NWIyV1I2UnpNR04yX1haZDF3dVhiTC1MOXFLMTdoMEZONXZYVTQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-24T07:33:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-24T07:33:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tmSzdrdkdJUHE5aFlhYjUzeFhPamlqeUFQUjUtalBkZGkzYTROUUNsUndSQU9PZGFOWVMxOTdDMTA5YmJFZWI4aU8xS3dUQldyWWJaWEFaZkozUlBnMTBGcnZaUklWSDZ2VUxSR0tFbFNUQUJsMkFKaDJWQnpVY2Z1TjFJYnByVy1tazdYNm5aZDEwd29tNVU0NWIyV1I2UnpNR04yX1haZDF3dVhiTC1MOXFLMTdoMEZONXZYVTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Howland Capital减持特斯拉股份",
-   "title_zh": "Howland Capital减持$TSLA股份",
-   "sentiment": -1
   },
   {
    "id": "e78ef127c650",
@@ -6334,60 +6365,6 @@
    "zh_summary": "瑞银谈特斯拉股价与SpaceX并购预期",
    "title_zh": "瑞银表示，特斯拉股价走势反映出市场对SpaceX潜在并购前景的看法正在演变",
    "sentiment": 0
-  },
-  {
-   "id": "51089406b1cb",
-   "title": "韩媒：特斯拉拟投资1.1万亿韩元以确保三星电机的基板产能 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcUY5V040VVNhUXduTWg2eF9BTWFoZFk2NzF4YWdKMWdNZ08wZW5SbGJqS24wS3JIVEphYXdlSTVBSU1JelJLVnpLa0FpYWF1X18zZGxUSFRpQ3FuQjFvZEV2MA",
-   "source": "东方财富",
-   "published_at": "2026-10-22T18:45:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T18:45:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcUY5V040VVNhUXduTWg2eF9BTWFoZFk2NzF4YWdKMWdNZ08wZW5SbGJqS24wS3JIVEphYXdlSTVBSU1JelJLVnpLa0FpYWF1X18zZGxUSFRpQ3FuQjFvZEV2MA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉拟投1.1万亿韩元保三星基板产能",
-   "title_zh": "韩媒：特斯拉拟投资1.1万亿韩元以确保三星电机的基板产能 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "663b99cc9cc9",
-   "title": "Tesla in ‘self-driving’ mode kills pedestrian, 71, on California freeway - New York Post",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC",
-   "source": "New York Post",
-   "published_at": "2026-10-22T18:33:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "New York Post",
-     "published_at": "2026-10-22T18:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXI4aWZfSjhFQlZfemJmRlhocFg1SWx5ejhwQkVaTTN0cHBFRjRZMFctOFNlUHRwMU8wVG1wYXYzV0s1eElTMmNicTZ5aW1JbnpnNGQ3czlObk43ME1ZRlE1TVZDSE5wT25qY1RNWjBSbFV3aGJOd3pTU1lnazRoQjctaTE4enNCNVVuMy1FR0M2SVZC"
-    },
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-22T18:33:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUZTbFNQRkxSaHRUeEhZV1hWQTFCbW9QVy1EWmNiWGNzUlJvQkxEb2tBYjVqbUV1ZGFRYWkwZTdrZFN5MUR4NWtSTm9qYm1uRmZZNTdTU2NfcDhzTVM1ZzBNQ09HdXh0XzNVMFNIQ1dsQ29DWE5sYzFTRW9RSmpOZmtVRU04bEZNWFhB"
-    },
-    {
-     "name": "NDTV",
-     "published_at": "2026-10-23T13:35:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORW1OOGotczNDcmdjcjEwVnYzQTBVZzY5eEtJckg4LVdNR3lxbzY5TEJmMTJrOXREMWNOMkhvb2tWNzE4ejVtZXRiVFhKcmxwbDZjQkh2R0FsRFNpWTd0dlRnSTE2THBnMV9XTm5mcS1ja3RCRVR0VFYtVVhXSlNyaEhrWGNXRjNMV2xxcHQxSDRpRy1IY2VDZzNuZ0VDdmZlRkU2cGs0YndHVjNwRmNZMG81NmdiUE1mY0R1ZTZ30gHGAUFVX3lxTE9NMUJma3JjMk5vaXdwMWFKUUlTVjd1N3ZweGU0aUVyRHRwdGxxdDVBZDkwblpWREtfTDhPbm0yS1gxUDR2WTVTQlBSQlpFZXRIeVhDdWhJUV85R0pYLTdFRWdiQXFMTHlmSzgyQzd5VkY1MV9nbzRpZHdhUmttWFdudURXZzNaQ1hpQTVxMGY3NFBfVVprcmgwY0dLMkhJcW10a3poUElJbWd5VW1vUWJYUE5laVpocHZLWWx3RXBhSEJ3Y0l5QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉自动驾驶模式加州撞死行人",
-   "title_zh": "特斯拉“自驾”模式在加州高速撞死71岁行人",
-   "sentiment": -2,
-   "price_reaction": {
-    "pct": -0.37,
-    "window_h": 1.3
-   }
   }
  ]
 }
