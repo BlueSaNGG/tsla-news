@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T06:07:30.310223+00:00",
+ "updated_at": "2026-10-24T06:22:29.282966+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T06:07:30.300028+00:00"
+   "as_of": "2026-10-24T06:22:29.275196+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "0f96fad8c82a",
+   "title": "【视频】能“飞”的Roadster是特斯拉的工程革命还是马斯克的营销特技？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSlkzQ3lWXzJEUVJBc0dyNE04X2JzN182OHdfeVVPc2RFNk52c2k4Qm9wQzVKUGlVamZud2FHMW1WLVlUTW1SS0NCNnB6QmdHeDBRR0hfdnFfMTg",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T06:14:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T06:14:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSlkzQ3lWXzJEUVJBc0dyNE04X2JzN182OHdfeVVPc2RFNk52c2k4Qm9wQzVKUGlVamZud2FHMW1WLVlUTW1SS0NCNnB6QmdHeDBRR0hfdnFfMTg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
+  },
+  {
+   "id": "35e01882524a",
+   "title": "【视频】23年特斯拉毛豆Y - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aXzlkZUMxTVVzNWlyOEQtX1lBYU5mMEpfR3VBdU0taVhiUUVYdEZWaEhiZEF4c2c2TFM4MkgwSTBUUHVxMmNBdUlSRVRwUWNzZVpER1FuUzhybnc",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T06:07:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T06:07:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aXzlkZUMxTVVzNWlyOEQtX1lBYU5mMEpfR3VBdU0taVhiUUVYdEZWaEhiZEF4c2c2TFM4MkgwSTBUUHVxMmNBdUlSRVRwUWNzZVpER1FuUzhybnc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "0d7db82be373",
    "title": "Tesla shows what Roadster drivers will see on screen before thruster activation - Teslarati",
@@ -6362,46 +6396,6 @@
    "zh_summary": "马斯克称特斯拉2030年前产能翻倍",
    "title_zh": "马斯克希望特斯拉2030年前产能翻倍，这靠谱吗？",
    "sentiment": 0
-  },
-  {
-   "id": "08f7d59b586a",
-   "title": "摩根大通：与特斯拉合并或将成为SpaceX跻身标普500指数的入场券 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TUUxOc2RMdEVaU2ZjbFRTdm1weEZ2aVRORnphQnFQUGFMRHdTWjAydHltUlRfbzZGUmdZam1SbTlOajZxZ2dnTmJKWQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T17:50:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T17:50:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TUUxOc2RMdEVaU2ZjbFRTdm1weEZ2aVRORnphQnFQUGFMRHdTWjAydHltUlRfbzZGUmdZam1SbTlOajZxZ2dnTmJKWQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "摩根大通称与特斯拉合并助SpaceX进标普500",
-   "title_zh": "摩根大通：特斯拉合并或助SpaceX跻身标普500指数",
-   "sentiment": 1
-  },
-  {
-   "id": "56afbd52f929",
-   "title": "Tesla Q3 Results Overshadowed by SpaceX Merger Talk: Analysts Struggle to See ‘Meaningful Upside’ From Deal - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSjFkdXZFcjd1TG5VamVfM0JlR29PNWVOZElGR3VjTl9pNlFFY3dJZ0pYR0p1eVNieW5RTG5HNmlVQUpweXdPWF9qcWp4YmxZWkVvSWVZZEZCNVBjV1dtR3dpTHlPX1lmRjA2b0dERjgxSEpjYk5YUHFxVFVSSVFDTzN1Mmp3R2UtN29leHFIa3JmOHpGYXBVTjBtRXFYZ1ladlB2S093U2ZyZk9zR0dGaTVscU9UdU5IWm9BMWRrSUF6NWhsaUt5MDliajdIS2NKWnVJMHlYTnlrTkhDR1pzTjlKbV84czF5RnZ1ZzBxZGNkLVBlTU1jTWxLVUFUOUpFZU5ndjJlcDZ5RWY4",
-   "source": "Benzinga",
-   "published_at": "2026-10-22T17:49:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-22T17:49:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSjFkdXZFcjd1TG5VamVfM0JlR29PNWVOZElGR3VjTl9pNlFFY3dJZ0pYR0p1eVNieW5RTG5HNmlVQUpweXdPWF9qcWp4YmxZWkVvSWVZZEZCNVBjV1dtR3dpTHlPX1lmRjA2b0dERjgxSEpjYk5YUHFxVFVSSVFDTzN1Mmp3R2UtN29leHFIa3JmOHpGYXBVTjBtRXFYZ1ladlB2S093U2ZyZk9zR0dGaTVscU9UdU5IWm9BMWRrSUF6NWhsaUt5MDliajdIS2NKWnVJMHlYTnlrTkhDR1pzTjlKbV84czF5RnZ1ZzBxZGNkLVBlTU1jTWxLVUFUOUpFZU5ndjJlcDZ5RWY4"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "分析师称SpaceX合并难带来明显上行空间",
-   "title_zh": "特斯拉Q3财报被SpaceX合并传闻掩盖，分析师看不到明显上行空间",
-   "sentiment": -1
   }
  ]
 }
