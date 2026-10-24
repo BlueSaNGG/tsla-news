@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T06:22:29.282966+00:00",
+ "updated_at": "2026-10-24T06:37:29.483017+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.25（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T06:22:29.275196+00:00"
+   "as_of": "2026-10-24T06:37:29.471602+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.25,
+   "count": 4
   }
  },
  "meta": {
@@ -83,8 +83,8 @@
    ],
    "category": "马斯克",
    "session": "周末",
-   "title_zh": "【视频】能\"飞\"的Roadster是特斯拉的工程革命还是马斯克的营销特技？",
    "zh_summary": "能飞的Roadster是工程革命还是营销特技",
+   "title_zh": "【视频】能\"飞\"的Roadster是特斯拉的工程革命还是马斯克的营销特技？",
    "sentiment": 0
   },
   {
@@ -103,9 +103,26 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "【视频】23年特斯拉毛豆Y",
    "zh_summary": "2023年款特斯拉毛豆Y介绍",
+   "title_zh": "【视频】23年特斯拉毛豆Y",
    "sentiment": 0
+  },
+  {
+   "id": "e71a964ced37",
+   "title": "Tesla FSD Hits 1.74M Subs as Buyers Demand It [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW1mRTNxLXBoQkt3UnpuM05sbGliQnJ0cnZpN3lsdlJBWS03UWtTaXBvTHhTdWEyNjE3bDlwS3BLaHJhSlhPTjFzMHc4XzkycnhXZ2s2RWJzUWVqM2poWG52OTBaS2t5VVVvU2RnWnNWTGtnLVJiaWlLeHpONzNTaGlva2o",
+   "source": "shattered.io",
+   "published_at": "2026-10-24T05:50:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-24T05:50:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW1mRTNxLXBoQkt3UnpuM05sbGliQnJ0cnZpN3lsdlJBWS03UWtTaXBvTHhTdWEyNjE3bDlwS3BLaHJhSlhPTjFzMHc4XzkycnhXZ2s2RWJzUWVqM2poWG52OTBaS2t5VVVvU2RnWnNWTGtnLVJiaWlLeHpONzNTaGlva2o"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
   },
   {
    "id": "0d7db82be373",
@@ -6382,26 +6399,6 @@
     "pct": -0.89,
     "window_h": 1.9
    }
-  },
-  {
-   "id": "f29b61b3f7eb",
-   "title": "Elon Musk Wants Tesla To Double Its Production Capacity by 2030, Does This Even Make Sense? - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVZxYVNGSlRxX3daaEpKYVpfRnkwSFViYm5aYXVtc1EtNjIySjJ0dWFMazd0bmVWUHZVMFh4dzJnazlTUVJOVk02ZFlDUHRqQnlFcHE4UUdndkgxNWMyRWg2N3ZKQk8xSW9ralVEdm1lOE9CbFFGamxjZWpyVF9ZWWFUT3FveENCSUZTUHA2RXRieVRYZTRKNUFQZFRQYkNaRGdNUWNYS1pmaklseV9td3FqSzI1by1JNEdTWDZzZ2NzcWJYODVMcTFENFlhUGFFSlE",
-   "source": "autoevolution",
-   "published_at": "2026-10-22T18:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-22T18:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVZxYVNGSlRxX3daaEpKYVpfRnkwSFViYm5aYXVtc1EtNjIySjJ0dWFMazd0bmVWUHZVMFh4dzJnazlTUVJOVk02ZFlDUHRqQnlFcHE4UUdndkgxNWMyRWg2N3ZKQk8xSW9ralVEdm1lOE9CbFFGamxjZWpyVF9ZWWFUT3FveENCSUZTUHA2RXRieVRYZTRKNUFQZFRQYkNaRGdNUWNYS1pmaklseV9td3FqSzI1by1JNEdTWDZzZ2NzcWJYODVMcTFENFlhUGFFSlE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "马斯克称特斯拉2030年前产能翻倍",
-   "title_zh": "马斯克希望特斯拉2030年前产能翻倍，这靠谱吗？",
-   "sentiment": 0
   }
  ]
 }
