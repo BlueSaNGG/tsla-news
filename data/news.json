@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:37:29.727974+00:00",
+ "updated_at": "2026-10-24T15:52:29.697673+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（50条已评分）"
+     "note": "今日新闻情绪 +0.12（52条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T15:37:29.715351+00:00"
+   "as_of": "2026-10-24T15:52:29.683483+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.12,
-   "count": 50
+   "count": 52
   }
  },
  "meta": {
@@ -333,12 +333,17 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEQyeFhxQ1RSVXhCVUI1a25pT1ZLUjRDa1NOX0RfQ3MxVEczMVdPMTZvc196a1NCYWxRY2d4ZElrOWpBTG16YW14T0VnLWVUV1RkYVdPQzRDWENFdnZ2UDRsQkh3U19tbTdKOWNsSzVjOVF1VWo2alV3M19PQ1RSa1ZpZnJ5cDU1bzZjTjNIdk1UMjZObTFkR3ZPUS01dVduQi1mUzZYbGhYRkFXTTRjMnVBLW1EVmlncmZyRDJDeWh3Q3RkWlRNZ0J2aw",
    "source": "Autoguide.com",
    "published_at": "2026-10-24T12:26:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Autoguide.com",
      "published_at": "2026-10-24T12:26:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEQyeFhxQ1RSVXhCVUI1a25pT1ZLUjRDa1NOX0RfQ3MxVEczMVdPMTZvc196a1NCYWxRY2d4ZElrOWpBTG16YW14T0VnLWVUV1RkYVdPQzRDWENFdnZ2UDRsQkh3U19tbTdKOWNsSzVjOVF1VWo2alV3M19PQ1RSa1ZpZnJ5cDU1bzZjTjNIdk1UMjZObTFkR3ZPUS01dVduQi1mUzZYbGhYRkFXTTRjMnVBLW1EVmlncmZyRDJDeWh3Q3RkWlRNZ0J2aw"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-24T15:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNF95UFRSV2p1WmNoeHdSMnJpa1A5T3I2MnlEc05xZ1pZeFNVNEdLTDFUQjRxdXFQX2JGaDJaQk9yTW9WMjR1VkZ1NmllanlIMzd1RmRkRkdNR3FyMUJURHJ3b3hiNHo2b3VRUWFmWnIxVzY5T290amFPb2F4NnBIVzVydDhqQlBZVlA2bkRpM280N1V2dlJzdGVfYjZpWDJkMjZRVmxqR2JiQQ"
     }
    ],
    "category": "车型产品",
@@ -996,6 +1001,23 @@
    "zh_summary": "特斯拉或与SpaceX联合25亿美元比特币",
    "title_zh": "特斯拉和SpaceX或联合持有25亿美元比特币",
    "sentiment": 1
+  },
+  {
+   "id": "5c10a4df061b",
+   "title": "全新特斯拉Roadster亮相 具备“飞行”属性 多项核心性能仍待验证 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWk5ZTE5ZG1UUU5CVUZDY1FmdUl4cl9HejNneGVuLXN1V0xkTkl0YXdGRXNnTEE3dHNRdENBclVBYXdVQU5EZHhCU19Ka1BrTmtaQWZMZXV6M1A4Tnc",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T06:33:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T06:33:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GbWk5ZTE5ZG1UUU5CVUZDY1FmdUl4cl9HejNneGVuLXN1V0xkTkl0YXdGRXNnTEE3dHNRdENBclVBYXdVQU5EZHhCU19Ka1BrTmtaQWZMZXV6M1A4Tnc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "6309183222fe",
@@ -2886,6 +2908,23 @@
    "zh_summary": "数周后无方向盘Cybercab将对私人销售",
    "title_zh": "数周后私人可购无方向盘踏板Cybercab",
    "sentiment": 1
+  },
+  {
+   "id": "9529da2e5366",
+   "title": "带偏L4无人驾驶后，特斯拉飞车，又要让搞飞行汽车的破防？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tNVBLOUU1ODh4T3lQMGtKenZzNkVONnpjbWpjdjBVaTBaWS1GdUVLVjkzazV1RThIVkxURUdQcjA1eVUzbnNqcVJDYk1JVmw4UkVRRkZDRGpzMTA",
+   "source": "汽车之家",
+   "published_at": "2026-10-23T14:05:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-23T14:05:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tNVBLOUU1ODh4T3lQMGtKenZzNkVONnpjbWpjdjBVaTBaWS1GdUVLVjkzazV1RThIVkxURUdQcjA1eVUzbnNqcVJDYk1JVmw4UkVRRkZDRGpzMTA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "3f6de038be8a",
@@ -6291,46 +6330,6 @@
    "zh_summary": "马斯克向特斯拉投资者发出备忘录",
    "title_zh": "马斯克向SpaceX和特斯拉投资者发出强硬备忘录",
    "sentiment": 0
-  },
-  {
-   "id": "1ea6efa2e7a6",
-   "title": "Fort Bend County approves economic incentives for proposed Tesla facility - Community Impact Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmd4ZnRDOGVMZm5WNWdnNS12aDBHcWJUcVdtSkVESnVNZFQ0THNmLTNGdnZlN3VPTVRobWx6ckVJQlU0S0tqYlc5Ny1Gc3NZWkpxUElFMEwydzJqNUZPOTEwUnVqeTMtVU54b2t3UXViT2hENVZBczRqTm00ejZ4dGxXZHFmNnp0d0tqSmtJeXFVTXNIbmFYSVlqMXJBcWd2d1NTcTlCQ2NjNWlUSzBDQlljSmRrX0tVMzlzc0dzTHBOQlBFZ1U2OTNDQWF6enBwcXdaQg",
-   "source": "Community Impact Newspaper",
-   "published_at": "2026-10-22T21:55:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Community Impact Newspaper",
-     "published_at": "2026-10-22T21:55:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmd4ZnRDOGVMZm5WNWdnNS12aDBHcWJUcVdtSkVESnVNZFQ0THNmLTNGdnZlN3VPTVRobWx6ckVJQlU0S0tqYlc5Ny1Gc3NZWkpxUElFMEwydzJqNUZPOTEwUnVqeTMtVU54b2t3UXViT2hENVZBczRqTm00ejZ4dGxXZHFmNnp0d0tqSmtJeXFVTXNIbmFYSVlqMXJBcWd2d1NTcTlCQ2NjNWlUSzBDQlljSmRrX0tVMzlzc0dzTHBOQlBFZ1U2OTNDQWF6enBwcXdaQg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "德州Fort Bend县批准特斯拉工厂激励",
-   "title_zh": "Fort Bend县批准拟建特斯拉工厂的激励政策",
-   "sentiment": 1
-  },
-  {
-   "id": "cc789eb1bb40",
-   "title": "Fort Bend County approves Tesla deal that could give the company 35 years of tax breaks - ABC13 Houston",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTR4dXFidmRMbFF3OXlnVVJiSExYX2pJLWVIUEExSDdYZ0xtdmFWRHRJMXVuSzM1VkFlWi1lTFlVTTNBSElKejJWUXJWNWUwR3F2ZllOVC1rUlVjSVpZWUQ5aEJoNFN4dVdPWWhjek9vUUZ5Nk4tS09hOHdPYWx5aVhMSXdrbG1wdGdYVTducU1qQVctM3RvOS1BeUxoNHRVNkNXX1RDRGFqLVZO",
-   "source": "ABC13 Houston",
-   "published_at": "2026-10-22T21:40:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ABC13 Houston",
-     "published_at": "2026-10-22T21:40:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTR4dXFidmRMbFF3OXlnVVJiSExYX2pJLWVIUEExSDdYZ0xtdmFWRHRJMXVuSzM1VkFlWi1lTFlVTTNBSElKejJWUXJWNWUwR3F2ZllOVC1rUlVjSVpZWUQ5aEJoNFN4dVdPWWhjek9vUUZ5Nk4tS09hOHdPYWx5aVhMSXdrbG1wdGdYVTducU1qQVctM3RvOS1BeUxoNHRVNkNXX1RDRGFqLVZO"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Fort Bend县批准特斯拉35年税收减免",
-   "title_zh": "Fort Bend县批准特斯拉35年税收优惠协议",
-   "sentiment": 1
   }
  ]
 }
