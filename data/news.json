@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T11:07:43.150606+00:00",
+ "updated_at": "2026-10-24T11:22:29.692190+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（22条已评分）"
+     "note": "今日新闻情绪 +0.13（23条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T11:07:43.139785+00:00"
+   "as_of": "2026-10-24T11:22:29.679664+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 22
+   "avg": 0.13,
+   "count": 23
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "42ba2ff83b3a",
+   "title": "被动安全设计？特斯拉女车主一脚踩断油门踏板！ - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1dzMjNFR19Bd3ZzSFRvZXJiOUdCc18ydGdYcVZTYVJKMnBmRExTOWQyNDlWY3VGSjFRVXhtc1RSUEdvdV80TjNFd2lYWXMzV2hxZy1kUWcwQTRIMl9VOEEtX2YwZXVwZkpwMWppcGdLTWxTWXVTU1dlZ0RRd2h1Ng",
+   "source": "手机新浪网",
+   "published_at": "2026-10-24T11:16:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-24T11:16:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1dzMjNFR19Bd3ZzSFRvZXJiOUdCc18ydGdYcVZTYVJKMnBmRExTOWQyNDlWY3VGSjFRVXhtc1RSUEdvdV80TjNFd2lYWXMzV2hxZy1kUWcwQTRIMl9VOEEtX2YwZXVwZkpwMWppcGdLTWxTWXVTU1dlZ0RRd2h1Ng"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "2104f7db70b8",
    "title": "Tesla and Nvidia just found another AI bottleneck - TheStreet",
@@ -6359,26 +6376,6 @@
    "zh_summary": "媒体发问特斯拉还要熬多久",
    "title_zh": "特斯拉还要熬多久？ - 东方财富",
    "sentiment": 0
-  },
-  {
-   "id": "f95dfc17c902",
-   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15 - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGg0bTV0YzMzRmJJZXh6bGdfcUFreEg2THBKbWlMb20xUS1Cam5mOVBMZXVTX3R4di1maXpMRXl6UVRoX1RaU2p2eUJXYTRkaWVnSTNvRGhQSU90ODFGLUxiekY5dzR1cFdndjl0elEtb2FfRVY3bVZpSjJ2VHBOaWx4MTJMVUNJQmlGX0NwQTdpTEZMYks4WjN3",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-22T19:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-22T19:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGg0bTV0YzMzRmJJZXh6bGdfcUFreEg2THBKbWlMb20xUS1Cam5mOVBMZXVTX3R4di1maXpMRXl6UVRoX1RaU2p2eUJXYTRkaWVnSTNvRGhQSU90ODFGLUxiekY5dzR1cFdndjl0elEtb2FfRVY3bVZpSjJ2VHBOaWx4MTJMVUNJQmlGX0NwQTdpTEZMYks4WjN3"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉自研AI地图随FSD v15推出",
-   "title_zh": "特斯拉自研AI地图，将随FSD v15在数月内推出",
-   "sentiment": 1
   }
  ]
 }
