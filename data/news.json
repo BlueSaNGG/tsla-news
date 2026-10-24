@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T18:22:29.699111+00:00",
+ "updated_at": "2026-10-24T18:37:29.943402+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（64条已评分）"
+     "note": "今日新闻情绪 +0.18（68条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T18:22:29.691764+00:00"
+   "as_of": "2026-10-24T18:37:29.920551+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 64
+   "avg": 0.18,
+   "count": 68
   }
  },
  "meta": {
@@ -233,12 +233,17 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2UyV1NDd29SLXVzbFdFdE5RNHNMNWQ5YTdPejFybzNqNXlNbEZsQVk3dlBtV3gtX2tla05Hck0tYkV4Wno3Z2U5SXd0a21OMmY2QS1lM2lnb0NVTXZXUmN4SmRnSjZldUdKazRzVDRPNU43NFNPbDRENzRBRjBMX1I3Zw",
    "source": "The Cool Down",
    "published_at": "2026-10-24T16:35:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Cool Down",
      "published_at": "2026-10-24T16:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2UyV1NDd29SLXVzbFdFdE5RNHNMNWQ5YTdPejFybzNqNXlNbEZsQVk3dlBtV3gtX2tla05Hck0tYkV4Wno3Z2U5SXd0a21OMmY2QS1lM2lnb0NVTXZXUmN4SmRnSjZldUdKazRzVDRPNU43NFNPbDRENzRBRjBMX1I3Zw"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-24T16:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc21lMTNvdC1tNVlDZ1hFUDNDb1l5WjNFbGtJYXB0Q2EwZHBuUzhxMnA4ZVBxQUpCNF9KLVdpcjNHZVBNLVRNMXFJSmREMV9nLW1EMVQzM1BYSnIxYjVMMmZOVG1WLWZsYjQ2NVlSZlZBeFdySm5LYzlaTGF3cm9tOWRHN0tpZVhHMjRFSVF6b3BBSXNIZDQwOXk4cEx0d1M1Ykd6akE1cw"
     }
    ],
    "category": "车型产品",
@@ -636,6 +641,23 @@
    "zh_summary": "网传Roadster飞桥视频被证实为AI生成",
    "title_zh": "社交平台流传的特斯拉Roadster飞越城市大桥视频经检测为AI生成 - 网通社",
    "sentiment": 0
+  },
+  {
+   "id": "62c304a22046",
+   "title": "【视频】特斯拉Model Y最快提升舒适性的办法，靠四个轮胎就搞定？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93M1pUeVc5Z2hzc2k4bGlDU09hNTNXM093ZlFLUmp4dFpRSVN6aXlmQVFocXpSSHNoUWNwZWlyc1Ficy1odU5ha1VNbFQzMXlpRUE4R1ZfR3ZFOFk",
+   "source": "汽车之家",
+   "published_at": "2026-10-24T12:23:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-24T12:23:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93M1pUeVc5Z2hzc2k4bGlDU09hNTNXM093ZlFLUmp4dFpRSVN6aXlmQVFocXpSSHNoUWNwZWlyc1Ficy1odU5ha1VNbFQzMXlpRUE4R1ZfR3ZFOFk"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "08000e4dfbb6",
@@ -1271,6 +1293,23 @@
    "zh_summary": "汽车之家发布特斯拉洗车工视频",
    "title_zh": "【视频】特斯拉洗车工 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "d00bdce8ff7b",
+   "title": "Tesla, Inc. $TSLA Stock: Howland Capital Management LLC Cuts Stake - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tmSzdrdkdJUHE5aFlhYjUzeFhPamlqeUFQUjUtalBkZGkzYTROUUNsUndSQU9PZGFOWVMxOTdDMTA5YmJFZWI4aU8xS3dUQldyWWJaWEFaZkozUlBnMTBGcnZaUklWSDZ2VUxSR0tFbFNUQUJsMkFKaDJWQnpVY2Z1TjFJYnByVy1tazdYNm5aZDEwd29tNVU0NWIyV1I2UnpNR04yX1haZDF3dVhiTC1MOXFLMTdoMEZONXZYVTQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-24T07:33:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-24T07:33:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tmSzdrdkdJUHE5aFlhYjUzeFhPamlqeUFQUjUtalBkZGkzYTROUUNsUndSQU9PZGFOWVMxOTdDMTA5YmJFZWI4aU8xS3dUQldyWWJaWEFaZkozUlBnMTBGcnZaUklWSDZ2VUxSR0tFbFNUQUJsMkFKaDJWQnpVY2Z1TjFJYnByVy1tazdYNm5aZDEwd29tNVU0NWIyV1I2UnpNR04yX1haZDF3dVhiTC1MOXFLMTdoMEZONXZYVTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "e78ef127c650",
@@ -6267,46 +6306,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉不在澳洲和新西兰生产Cybertruck",
    "title_zh": "特斯拉决定不在澳洲和新西兰生产Cybertruck",
-   "sentiment": -1
-  },
-  {
-   "id": "11e2676796e2",
-   "title": "Tesla Ramping Megapack Production ‘As Much As Possible’ After 2027 Capacity Nearly Sold Out Amid Data Center Demand - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU255TE8wZ1NQOWRPcEFBMmlqYnA4VVRDWFBQRjgtNDFIczNRYU5vTWRNS01Ta0pTaW16Skd2Nmd2UXhQZmRzNWlLb3NBbjlBYTZySXBTQWgtYUk5aThzeDRjM3h5UUZDdUNMV1RKdF9lMUJpaDNhcW10VjVEUUVSd3JKSS1HdFZkX19ndjU0b0E4SkhVV09wRWtIbw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T00:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T00:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU255TE8wZ1NQOWRPcEFBMmlqYnA4VVRDWFBQRjgtNDFIczNRYU5vTWRNS01Ta0pTaW16Skd2Nmd2UXhQZmRzNWlLb3NBbjlBYTZySXBTQWgtYUk5aThzeDRjM3h5UUZDdUNMV1RKdF9lMUJpaDNhcW10VjVEUUVSd3JKSS1HdFZkX19ndjU0b0E4SkhVV09wRWtIbw"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "数据中心需求旺，Megapack全力增产",
-   "title_zh": "2027产能接近售罄，特斯拉全力增产Megapack",
-   "sentiment": 1
-  },
-  {
-   "id": "7a285393485d",
-   "title": "特斯拉还要熬多久 利润下滑考验未来投资 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLTV2QkNmMThMVUtMUzdMZ0pkWEY0SFgyTUFUMXpfdlBic1gxS1hDbnVpVnhZd2phcFF2eV9pTGRrN0FaOWdUeTFNOWR0OFh1MmpJV1h4NlNKVkMxUENaOGs1ZnMtN1NuZzUzN1BqLWE",
-   "source": "中华网",
-   "published_at": "2026-10-22T23:52:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-22T23:52:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLTV2QkNmMThMVUtMUzdMZ0pkWEY0SFgyTUFUMXpfdlBic1gxS1hDbnVpVnhZd2phcFF2eV9pTGRrN0FaOWdUeTFNOWR0OFh1MmpJV1h4NlNKVkMxUENaOGs1ZnMtN1NuZzUzN1BqLWE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉利润下滑，未来投资受考验",
-   "title_zh": "特斯拉还要熬多久 利润下滑考验未来投资",
    "sentiment": -1
   }
  ]
