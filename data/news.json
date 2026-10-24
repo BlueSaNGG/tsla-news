@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T19:07:31.364761+00:00",
+ "updated_at": "2026-10-24T19:22:30.461627+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（70条已评分）"
+     "note": "今日新闻情绪 +0.12（72条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T19:07:31.343675+00:00"
+   "as_of": "2026-10-24T19:22:30.448686+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 70
+   "avg": 0.12,
+   "count": 72
   }
  },
  "meta": {
@@ -1763,10 +1763,15 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14SGtrUjlSNGU4UlYweS1IWkN0VVFxcHdvUm5MVk51Q0tzVjRFNWlidjhnMDkzb1Y3ell0MXFLSHpHMGdrWFZmU3RXdzZpWEtkbFpaVnBlVWpZTWs4RlE",
    "source": "汽车之家",
    "published_at": "2026-10-24T01:54:57+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
+     "published_at": "2026-10-24T01:54:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14SGtrUjlSNGU4UlYweS1IWkN0VVFxcHdvUm5MVk51Q0tzVjRFNWlidjhnMDkzb1Y3ell0MXFLSHpHMGdrWFZmU3RXdzZpWEtkbFpaVnBlVWpZTWs4RlE"
+    },
+    {
+     "name": "车家号",
      "published_at": "2026-10-24T01:54:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14SGtrUjlSNGU4UlYweS1IWkN0VVFxcHdvUm5MVk51Q0tzVjRFNWlidjhnMDkzb1Y3ell0MXFLSHpHMGdrWFZmU3RXdzZpWEtkbFpaVnBlVWpZTWs4RlE"
     }
@@ -4108,10 +4113,15 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dUg1Z0tYcndGbk0yMDVzZXJ1V0p5Z1I2VFprN2E3WlVVWHotd3J4cmpCcGxJRS1oWEhVVlluV2JXcWFMZDlpbGlKbmRIZVdzWTR3RQ",
    "source": "虎嗅",
    "published_at": "2026-10-23T10:21:06+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "虎嗅",
+     "published_at": "2026-10-23T10:21:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dUg1Z0tYcndGbk0yMDVzZXJ1V0p5Z1I2VFprN2E3WlVVWHotd3J4cmpCcGxJRS1oWEhVVlluV2JXcWFMZDlpbGlKbmRIZVdzWTR3RQ"
+    },
+    {
+     "name": "虎嗅网",
      "published_at": "2026-10-23T10:21:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dUg1Z0tYcndGbk0yMDVzZXJ1V0p5Z1I2VFprN2E3WlVVWHotd3J4cmpCcGxJRS1oWEhVVlluV2JXcWFMZDlpbGlKbmRIZVdzWTR3RQ"
     }
