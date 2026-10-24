@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T04:37:33.590842+00:00",
+ "updated_at": "2026-10-24T04:52:29.062119+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.07（164条已评分）"
+     "note": "今日新闻情绪 -0.07（165条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T04:37:33.577410+00:00"
+   "as_of": "2026-10-24T04:52:29.049382+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.07,
-   "count": 164
+   "count": 165
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c2daa25e7b0f",
+   "title": "Vallejo: Man Killed By Tesla In 'Full Self-Driving' Mode Is Identified - SFGATE",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tuY0tIUVJYMW9pTldxa05sYS1ic09zTlZ1NXl4bVpPUTZXeDJHYzdFaDl0RVI5cEhSQkR6TWVYZl9pUWRQSzU3VUJWd0VEN0FTaHFFcWMzUkw3UURSaDFDSEZFbWRiQ2VOblZ1UVBmS1ZxUTg0UlpzTUpEdnlkWkR0Xy1NRmRIOFMwLUZDLWFMMzl1RHp3",
+   "source": "SFGATE",
+   "published_at": "2026-10-24T04:36:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SFGATE",
+     "published_at": "2026-10-24T04:36:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tuY0tIUVJYMW9pTldxa05sYS1ic09zTlZ1NXl4bVpPUTZXeDJHYzdFaDl0RVI5cEhSQkR6TWVYZl9pUWRQSzU3VUJWd0VEN0FTaHFFcWMzUkw3UURSaDFDSEZFbWRiQ2VOblZ1UVBmS1ZxUTg0UlpzTUpEdnlkWkR0Xy1NRmRIOFMwLUZDLWFMMzl1RHp3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "6c804923a5db",
    "title": "Fact Check: FAKE Video of Tesla Roadster Jumping Off Golden Gate Bridge Is AI-Generated -- Digital Aerobatics - Yahoo",
@@ -331,6 +348,23 @@
    "zh_summary": "特斯拉称Roadster预订不保证交付",
    "title_zh": "特斯拉「无法保证」客户预订Roadster就代表一定拿得到车",
    "sentiment": 0
+  },
+  {
+   "id": "0d8489706c52",
+   "title": "Arizona surgeon busted boarding Miami cruise ship with luggage full of 'Tesla' ecstasy, shrooms: Border Patrol - FOX 10 Phoenix",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFFBLWVNNXAtZE8yM0NPZFRiMlV4WUpkVUV0eHl3X0t5RVVDbXctOUlQNVhQSWpJYURTeFh5bXUxa2ZOS3JWODZPanVwMklCd3FZX2NfOWlsT3lnWjdXRzc3a3dYSF9mYTVJb2U1WVpEczVwQ3RmRlFDSW9VaWM4bjladkpJM0EwYzdZQzRrSmw2dm5sQTZpcjdmdlNubmd3MUNYZU5YaFVkUktyR1BrRmpjX3VMRzZyYVdCY1dDOUZhTjJpMDYyNmNmbGg",
+   "source": "FOX 10 Phoenix",
+   "published_at": "2026-10-24T00:31:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FOX 10 Phoenix",
+     "published_at": "2026-10-24T00:31:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFFBLWVNNXAtZE8yM0NPZFRiMlV4WUpkVUV0eHl3X0t5RVVDbXctOUlQNVhQSWpJYURTeFh5bXUxa2ZOS3JWODZPanVwMklCd3FZX2NfOWlsT3lnWjdXRzc3a3dYSF9mYTVJb2U1WVpEczVwQ3RmRlFDSW9VaWM4bjladkpJM0EwYzdZQzRrSmw2dm5sQTZpcjdmdlNubmd3MUNYZU5YaFVkUktyR1BrRmpjX3VMRzZyYVdCY1dDOUZhTjJpMDYyNmNmbGg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "56cf28b1e287",
@@ -6357,46 +6391,6 @@
    "session": "盘中",
    "zh_summary": "一台特斯拉高速撞杆引关注",
    "title_zh": "一台特斯拉以高速撞杆",
-   "sentiment": 0
-  },
-  {
-   "id": "5e2394da13fa",
-   "title": "Tesla just laid out its transportation mission: World domination - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUJscnFPNU5JZW1IeUhQU2gwNW9tQlB2TzBSU0JldDBsdGtVa1ozUTZFQ21BcTFjNmJaWTZxaXVvaEZGWTJERzBLMDV6Z1pWU01Sb1RVM2h4WTdvbXlUQmtHVFcwc1JDM3JnMTgtY0drbXpnN052VjU0ZV9BeWdtV2pVNjJBbkIteGJaVXNnMA",
-   "source": "Business Insider",
-   "published_at": "2026-10-22T17:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-22T17:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUJscnFPNU5JZW1IeUhQU2gwNW9tQlB2TzBSU0JldDBsdGtVa1ozUTZFQ21BcTFjNmJaWTZxaXVvaEZGWTJERzBLMDV6Z1pWU01Sb1RVM2h4WTdvbXlUQmtHVFcwc1JDM3JnMTgtY0drbXpnN052VjU0ZV9BeWdtV2pVNjJBbkIteGJaVXNnMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉称交通使命是称霸全球",
-   "title_zh": "特斯拉称交通使命是称霸世界",
-   "sentiment": 1
-  },
-  {
-   "id": "f984537c2661",
-   "title": "Naresh Bhatt trial focuses on saw evidence and Tesla data Wednesday | FOX 5 AT 6AM - FOX 5 DC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nTEFtNUZ5bTdpV2FoZzlzaVhsc3ZCbkFlQjRvSmtZS1ZNNTUzaEY5ejlSSVEwakhCYVl1TGNBQ1BkR1B4TFg1TmdlZDctMDRBcjBqSndjYlZHOHlDZlHSAWNBVV95cUxNT2p6VWE0SVJQZVpzRzRjTjhsLXMwVnFwM3ZIbVJSOWFHS21ZQU1MRzhjZi00S3ZVaE94NGRBNUEteHlfVlkwd0FJLVE4dmF2T1hQQ1hxR0tvVG9sWUZlQ2RZR28",
-   "source": "FOX 5 DC",
-   "published_at": "2026-10-22T17:13:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FOX 5 DC",
-     "published_at": "2026-10-22T17:13:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nTEFtNUZ5bTdpV2FoZzlzaVhsc3ZCbkFlQjRvSmtZS1ZNNTUzaEY5ejlSSVEwakhCYVl1TGNBQ1BkR1B4TFg1TmdlZDctMDRBcjBqSndjYlZHOHlDZlHSAWNBVV95cUxNT2p6VWE0SVJQZVpzRzRjTjhsLXMwVnFwM3ZIbVJSOWFHS21ZQU1MRzhjZi00S3ZVaE94NGRBNUEteHlfVlkwd0FJLVE4dmF2T1hQQ1hxR0tvVG9sWUZlQ2RZR28"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉车载数据成谋杀案庭审证据",
-   "title_zh": "纳里斯·巴特谋杀案庭审：特斯拉车载数据成证据",
    "sentiment": 0
   }
  ]
