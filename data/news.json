@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T02:22:29.241048+00:00",
+ "updated_at": "2026-10-24T02:37:39.319459+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.09（159条已评分）"
+     "note": "今日新闻情绪 -0.08（160条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T02:22:29.234196+00:00"
+   "as_of": "2026-10-24T02:37:39.308403+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.09,
-   "count": 159
+   "avg": -0.08,
+   "count": 160
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "70d761c5be10",
+   "title": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTlzLTFTSGNFNXBQMlhvU1E2MnhnX0s4T1RQYkZfVWdlZHZfN3B0RmVmaEtfNXQzcDVUb0Z5X3hYMWtjRXBnZEYwMzRkbGxCYzR4bzY0NjJaN0pFbVh6aEp4MXp1TU54RWhKemJjRnZ4S3BnYVhpV2hiM0RiU21TZy1zSVpyZUpUaEJrSVJwa2xST3ZQdV9uNA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-24T02:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-24T02:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTlzLTFTSGNFNXBQMlhvU1E2MnhnX0s4T1RQYkZfVWdlZHZfN3B0RmVmaEtfNXQzcDVUb0Z5X3hYMWtjRXBnZEYwMzRkbGxCYzR4bzY0NjJaN0pFbVh6aEp4MXp1TU54RWhKemJjRnZ4S3BnYVhpV2hiM0RiU21TZy1zSVpyZUpUaEJrSVJwa2xST3ZQdV9uNA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
   {
    "id": "740f1be72e29",
    "title": "Tesla Logs Surge in European Monthly Sales - WSJ",
@@ -6358,26 +6375,6 @@
    "zh_summary": "特斯拉英伟达锁定产能三星电机扩产",
    "title_zh": "特斯拉、英伟达联手锁定产能，三星电机扩产高端封装基板 - 华尔街见闻",
    "sentiment": 1
-  },
-  {
-   "id": "d0618d9fe69a",
-   "title": "Tesla Stock (NASDAQ:TSLA) Slides Despite Losing Unsold EV Glut - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDNFTTRWVTN6Z0FCZC1lMW42RFBOdnVDUk9lcFBPYnN5THhhMEFGdjRQeklwQ1o1UHlVRWxhRG5XMUpwb1l4SW9qRVR1M3hSekZqNHExNkZCZ05Tc0FDR251eEVkRDJvaEtHcnMwVVB0SlFSSUwxdE1OeWVVeXF4SHlQY1lsMGxLLUpZLVlMRC1lX3M",
-   "source": "TipRanks",
-   "published_at": "2026-10-22T17:00:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-22T17:00:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDNFTTRWVTN6Z0FCZC1lMW42RFBOdnVDUk9lcFBPYnN5THhhMEFGdjRQeklwQ1o1UHlVRWxhRG5XMUpwb1l4SW9qRVR1M3hSekZqNHExNkZCZ05Tc0FDR251eEVkRDJvaEtHcnMwVVB0SlFSSUwxdE1OeWVVeXF4SHlQY1lsMGxLLUpZLVlMRC1lX3M"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价下跌，库存积压缓解",
-   "title_zh": "特斯拉股价下滑，尽管积压电动车库存已消化",
-   "sentiment": -1
   }
  ]
 }
