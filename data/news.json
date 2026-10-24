@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T10:37:29.399724+00:00",
+ "updated_at": "2026-10-24T10:52:30.878742+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（21条已评分）"
+     "note": "今日新闻情绪 +0.09（22条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T10:37:29.392470+00:00"
+   "as_of": "2026-10-24T10:52:30.863510+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 21
+   "avg": 0.09,
+   "count": 22
   }
  },
  "meta": {
@@ -2776,6 +2776,23 @@
    "zh_summary": "汽车订单积压创纪录",
    "title_zh": "特斯拉汽车积压订单创纪录",
    "sentiment": 1
+  },
+  {
+   "id": "46306452cff8",
+   "title": "Forbes Daily: Elon Musk’s Payday From A SpaceX And Tesla Merger - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1pRaGdxanFKX01YWi16RTNSeU55cDE5UC1FWC05N0c1dHJ6Um9qSlpuVDVVNlFOVnJsQnI3U1poS1laNnhxM3JEa21NWEEyY3QtY3M2WnBOVGRzVDhTbjZIYUhIWE1GM1pFN0hWMHV3ZURrV19uRGV5T0M1ZlJpSFg1SkNMY2J3dGowTzZVQkszdEU3TlYtMElkSllpa283VzltRUxkdU90NUR3N1ZDWmQtcENXQXkzd1E",
+   "source": "Forbes",
+   "published_at": "2026-10-23T11:47:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-23T11:47:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1pRaGdxanFKX01YWi16RTNSeU55cDE5UC1FWC05N0c1dHJ6Um9qSlpuVDVVNlFOVnJsQnI3U1poS1laNnhxM3JEa21NWEEyY3QtY3M2WnBOVGRzVDhTbjZIYUhIWE1GM1pFN0hWMHV3ZURrV19uRGV5T0M1ZlJpSFg1SkNMY2J3dGowTzZVQkszdEU3TlYtMElkSllpa283VzltRUxkdU90NUR3N1ZDWmQtcENXQXkzd1E"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "e10b4fc31870",
@@ -6359,26 +6376,6 @@
    "zh_summary": "媒体评论SpaceX与特斯拉合并传闻",
    "title_zh": "谁在乎,就把SpaceX和特斯拉合并算了",
    "sentiment": 0
-  },
-  {
-   "id": "bbc5e2e35355",
-   "title": "2026年Q3美国电动车销量榜：特斯拉14.4万辆夺冠，份额超其他品牌总和 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LNEp6a3pWTTF2dTV6S1lZMUl0ekdud25Ya0h3U1BlTTdPdmZEQ1JSVm43cDVWbjFia2lYaVdjWVlUbjZUd1VxTWFSX0JfVjVlbjZUbzJGUE16cTQ",
-   "source": "网通社",
-   "published_at": "2026-10-22T19:44:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-22T19:44:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LNEp6a3pWTTF2dTV6S1lZMUl0ekdud25Ya0h3U1BlTTdPdmZEQ1JSVm43cDVWbjFia2lYaVdjWVlUbjZUd1VxTWFSX0JfVjVlbjZUbzJGUE16cTQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉Q3美国销量14.4万辆夺冠",
-   "title_zh": "2026年Q3美国电动车销量榜:特斯拉14.4万辆夺冠",
-   "sentiment": 1
   }
  ]
 }
