@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T00:52:33.714489+00:00",
+ "updated_at": "2026-10-24T01:08:00.327610+00:00",
  "market": {
   "price": 374.58,
   "change_pct": -3.08,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.09（151条已评分）"
+     "note": "今日新闻情绪 -0.09（150条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 6.8,
    "ma20": 369.86,
-   "as_of": "2026-10-24T00:52:33.698944+00:00"
+   "as_of": "2026-10-24T01:08:00.317368+00:00"
   },
   "pe_ttm": 103.6,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+6.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.09,
-   "count": 151
+   "count": 150
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e6787ba412f1",
+   "title": "Tesla's Robotaxi: The Math Behind a 2027 Profitability Bet - Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc",
+   "source": "Gasgoo",
+   "published_at": "2026-10-24T00:48:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gasgoo",
+     "published_at": "2026-10-24T00:48:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "42c7306fad2d",
    "title": "特斯拉 「无法保证」客户预订Roadster就代表一定拿得到车 - 汽车之家",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉称Roadster预订不保证交付",
    "title_zh": "特斯拉「无法保证」客户预订Roadster就代表一定拿得到车",
    "sentiment": 0
+  },
+  {
+   "id": "8575c6388cc3",
+   "title": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VDdWg4MGh5aFZpelltVXdJdUtXZ0xXZi1mN2xqa2VQNUN1T2VFQ3J5bWxTWVd2V2hHWVFoVFkwTkJnSzMyTWQ0UFNOY1dicFlqSW85R29XOXkwSzlOVVE0M2tRVWJ3WXJqMlUtdG9KemE3NkhPR1NKUnVuaDAzSG1GOFRoakZpRWxWbFdFNFhFSmZYTFE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-24T00:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-24T00:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VDdWg4MGh5aFZpelltVXdJdUtXZ0xXZi1mN2xqa2VQNUN1T2VFQ3J5bWxTWVd2V2hHWVFoVFkwTkJnSzMyTWQ0UFNOY1dicFlqSW85R29XOXkwSzlOVVE0M2tRVWJ3WXJqMlUtdG9KemE3NkhPR1NKUnVuaDAzSG1GOFRoakZpRWxWbFdFNFhFSmZYTFE"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "391e1aedfb0d",
@@ -3086,26 +3120,6 @@
    "sentiment": 0
   },
   {
-   "id": "90b0530e6ab9",
-   "title": "中国监管或成最大障碍 特斯拉与SpaceX合并如何出招 - DW.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNC1wbU5ob3FxTlJadGlUZlRzU1g0ckhJYThqZGtxdnV0QThVdVdqT04temZIeUlzQ21sNUFEaVdjcUZyTWVKMmVmc0Jfa1o4MS1DS3g2Qm55YXNpNzcteTVIcERDUlB1RDl3T0tCTnJDMFU2eFJwei1Ld1h1bkVNWFBWQXdSNnVFVjI4Sk91UUlEZ0FaQjZpcnRkYnp3WE1RV1N3UGZwM3ZNU2NnY3RTQWw3cTBfRkI2TjN6NFhmWHpzX1J6N0VnaDd3dnFwNjhpVGttVmR5TlJZeE5IU1pXeExrUFRkTENOX183QlJsa0E2T29wd3ZLZmdNNVlHREtnQmUyTUZ4SkhyMmthXzIzREFIaVdCeThDOVYtT2REWFdJUU56d3I1SkRyb1JOaWp2eE85Unl5OFdlZ0U0RUpmMW5R0gHCAkFVX3lxTE1pRHBsdkl1LW5hVzhBSlU1c3laZzFBWTkzQjBKUWJiRmZSX3d3alZQd0tqZ0VsVGpGMnVmUjlOcThLNVZwX3MtUW4xN2NULWk0VTc5MEg5cGJtRGFEUENqXzV6QTNINXR3RmlKTHZXNTFESDhWYW1ITWVZazE1cW92ZW9BZTQ1ejJOUlZzR3FkTkhjeHJ1azVOaWR1MXpxbUw2TnhsRjNYYVU2anRlR2JENUxUd3QtaW5helJhX2NjY0hKMm1ZX2tPNnV6bEk4TzVWWWZMZE9idWduTm0tbUxJd2hzdmNjTVFUdzZ3ZWRXSHVxZ293elRMUG9RQmlwTGIta2p2NnlDQUo4eG0yd1JVRVEzTWRDaFppaWc2NEk3NjJOQnhlSThZb05XYW5XS01ucW1HSnFlck11cnZlRjRpUWc",
-   "source": "DW.com",
-   "published_at": "2026-10-23T05:56:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DW.com",
-     "published_at": "2026-10-23T05:56:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNC1wbU5ob3FxTlJadGlUZlRzU1g0ckhJYThqZGtxdnV0QThVdVdqT04temZIeUlzQ21sNUFEaVdjcUZyTWVKMmVmc0Jfa1o4MS1DS3g2Qm55YXNpNzcteTVIcERDUlB1RDl3T0tCTnJDMFU2eFJwei1Ld1h1bkVNWFBWQXdSNnVFVjI4Sk91UUlEZ0FaQjZpcnRkYnp3WE1RV1N3UGZwM3ZNU2NnY3RTQWw3cTBfRkI2TjN6NFhmWHpzX1J6N0VnaDd3dnFwNjhpVGttVmR5TlJZeE5IU1pXeExrUFRkTENOX183QlJsa0E2T29wd3ZLZmdNNVlHREtnQmUyTUZ4SkhyMmthXzIzREFIaVdCeThDOVYtT2REWFdJUU56d3I1SkRyb1JOaWp2eE85Unl5OFdlZ0U0RUpmMW5R0gHCAkFVX3lxTE1pRHBsdkl1LW5hVzhBSlU1c3laZzFBWTkzQjBKUWJiRmZSX3d3alZQd0tqZ0VsVGpGMnVmUjlOcThLNVZwX3MtUW4xN2NULWk0VTc5MEg5cGJtRGFEUENqXzV6QTNINXR3RmlKTHZXNTFESDhWYW1ITWVZazE1cW92ZW9BZTQ1ejJOUlZzR3FkTkhjeHJ1azVOaWR1MXpxbUw2TnhsRjNYYVU2anRlR2JENUxUd3QtaW5helJhX2NjY0hKMm1ZX2tPNnV6bEk4TzVWWWZMZE9idWduTm0tbUxJd2hzdmNjTVFUdzZ3ZWRXSHVxZ293elRMUG9RQmlwTGIta2p2NnlDQUo4eG0yd1JVRVEzTWRDaFppaWc2NEk3NjJOQnhlSThZb05XYW5XS01ucW1HSnFlck11cnZlRjRpUWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉与SpaceX合并面临中国监管障碍",
-   "title_zh": "中国监管或成最大障碍 特斯拉与SpaceX合并如何出招",
-   "sentiment": 0
-  },
-  {
    "id": "45b9acc417c6",
    "title": "特斯拉自研AI地图，供应商懵了！即将FSD V15上线 - 电子工程专辑",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByLVNqY1dHVUQxMEhnUDJndVhRNDJEb2hOX1JjcEVfOXFCVWI1VDloVEN5MThhd2R0WGNrRGtXUG82TkdBU2JDNzZRYy11WTQ0OUd3",
@@ -5539,26 +5553,6 @@
    "zh_summary": "特斯拉靠AI和自动驾驶提振产量",
    "title_zh": "特斯拉押注AI与自动驾驶提振电动车产量",
    "sentiment": 1
-  },
-  {
-   "id": "9ffacc87b0dd",
-   "title": "Elon Musk says Tesla's Optimus robot needs to learn like a toddler - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWI1MDhEbHpzblJ3emdvaVVFblU2eDByNENBcmVlWC00ZzZLQXdqZVRweEpIR1NLcnN2MHMxV1NzU0p4NmFCME1ja1A3Nmt5eWQtUVhxRjczd3ktQUllN1lWMUVBeVRnSDFiUHVuamVzbGFfQ0NHSXZhbnAxel9KLThsS2hORVo5dXo4SS1UbC1idFdCR1RzMDJaaHlfYkdadFFOOUZBS2J3NXFPS3kzUzBtX05nOWhCUUpuWGZ4WHpWODg",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T18:58:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T18:58:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWI1MDhEbHpzblJ3emdvaVVFblU2eDByNENBcmVlWC00ZzZLQXdqZVRweEpIR1NLcnN2MHMxV1NzU0p4NmFCME1ja1A3Nmt5eWQtUVhxRjczd3ktQUllN1lWMUVBeVRnSDFiUHVuamVzbGFfQ0NHSXZhbnAxel9KLThsS2hORVo5dXo4SS1UbC1idFdCR1RzMDJaaHlfYkdadFFOOUZBS2J3NXFPS3kzUzBtX05nOWhCUUpuWGZ4WHpWODg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "马斯克称Optimus需像幼儿般学习",
-   "title_zh": "马斯克：Optimus机器人要像幼儿一样学习",
-   "sentiment": 0
   },
   {
    "id": "f5a54f3233cf",
