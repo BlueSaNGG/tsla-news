@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:37:33.241647+00:00",
+ "updated_at": "2026-10-24T21:52:32.335080+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（84条已评分）"
+     "note": "今日新闻情绪 +0.10（86条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T21:37:33.231395+00:00"
+   "as_of": "2026-10-24T21:52:32.321424+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.1,
-   "count": 84
+   "count": 86
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6effa4e27a35",
+   "title": "Tesla’s New Halloween Mode Turns Pedestrians Into Skeletons on the Screen - MotorBiscuit",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTZaZlliQ212T0FmNm4yMmhtMGw4X2lxcGFNcTlhTEl1RnpkMTRPeVhyZDZiSEZXODBya3pQSjQ0UTFMdkNTVzVjTG52TklLa3ZwMllqTlkxa0FxeUVUel9qUktPOWFwUG8tdlhYeG1EZ1M0Vkd2Z19xdlRSamlLWUVsRVhpVmdaY2ZRSnJqUzAwQV9CWlM2T0xWZFpDYkE4akdYdw",
+   "source": "MotorBiscuit",
+   "published_at": "2026-10-24T21:48:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MotorBiscuit",
+     "published_at": "2026-10-24T21:48:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTZaZlliQ212T0FmNm4yMmhtMGw4X2lxcGFNcTlhTEl1RnpkMTRPeVhyZDZiSEZXODBya3pQSjQ0UTFMdkNTVzVjTG52TklLa3ZwMllqTlkxa0FxeUVUel9qUktPOWFwUG8tdlhYeG1EZ1M0Vkd2Z19xdlRSamlLWUVsRVhpVmdaY2ZRSnJqUzAwQV9CWlM2T0xWZFpDYkE4akdYdw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "3a230e4f6c80",
    "title": "Intel to Make Mystery Chip for Tesla: AI6 or Something New? - Not a Tesla App",
@@ -2341,6 +2358,23 @@
    "zh_summary": "马斯克考虑SpaceX与特斯拉合并",
    "title_zh": "马斯克考虑合并SpaceX与特斯拉：Mag 7本周声音",
    "sentiment": 0
+  },
+  {
+   "id": "2d8aac03d378",
+   "title": "Tesla (TSLA) Analyst Ratings, Stock Forecast and Price Target - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nY2t0WDE1QUVFdkhKbUdwamdha082ZndkSjd4aDZHSzlITmVlaDc2QS1nVVJpX0tCdVF2T0pfd3M3WVBZbWc0MUUtWmp0dXN1N2l5LWVNMEhKWV9jU0E2NVpYTFc2aFJITUFnSG83WllyMG9PQ3psR1hmdw",
+   "source": "Moomoo",
+   "published_at": "2026-10-24T00:01:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-24T00:01:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nY2t0WDE1QUVFdkhKbUdwamdha082ZndkSjd4aDZHSzlITmVlaDc2QS1nVVJpX0tCdVF2T0pfd3M3WVBZbWc0MUUtWmp0dXN1N2l5LWVNMEhKWV9jU0E2NVpYTFc2aFJITUFnSG83WllyMG9PQ3psR1hmdw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后"
   },
   {
    "id": "05ca10b39688",
@@ -6277,51 +6311,6 @@
    "session": "盘后",
    "zh_summary": "电池供应有限拖累生产，产能遇瓶颈",
    "title_zh": "特斯拉称电池供应有限拖累生产 产能扩张遇瓶颈 - 中华网",
-   "sentiment": -1
-  },
-  {
-   "id": "5f0ca6415970",
-   "title": "Tesla Cybercab Dallas Launch Estimated for November 15 - BASENOR",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ",
-   "source": "BASENOR",
-   "published_at": "2026-10-23T01:08:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR",
-     "published_at": "2026-10-23T01:08:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tGVTJlRkpHSHQyZlA2TUE0ZUhlMXJFdk55YllUblNZa3k4UXJDT0RhTldmYlhLRWNydUZ6Q3RLclZka3FGU1BkNmhza0xrVjJCS2J3Uy1FZWRaRWUxWkk5Wk5oWHF0X091R2ZPTmF1QmJwQlRQekdQZDZDRG5fOG9mQ2R0TWtNYjRlREJmczI5bTQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Cybercab达拉斯预计11月15日投放",
-   "title_zh": "Tesla Cybercab达拉斯预计11月15日推出",
-   "sentiment": 1
-  },
-  {
-   "id": "b76030102bd9",
-   "title": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1hMTFBWSzdoU1JId0FVWS1iUnk5N25UajVNRk9QWWpCWFUxVTdPVVB4Q1REUlBNamp4YnhBYUtGMzdUbzhQYlhnTjl4ZjMyUWRBeVZkRjZMcmNXV2JWVEpETmtLR2t1ZmFGekRIVzA0Z2g4Q0h5OFczVHNVTnRoS3lvLXFJYW9aa3BaZGZWZjFHbXdvYlVhMG91SHlKUQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T01:05:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T01:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1hMTFBWSzdoU1JId0FVWS1iUnk5N25UajVNRk9QWWpCWFUxVTdPVVB4Q1REUlBNamp4YnhBYUtGMzdUbzhQYlhnTjl4ZjMyUWRBeVZkRjZMcmNXV2JWVEpETmtLR2t1ZmFGekRIVzA0Z2g4Q0h5OFczVHNVTnRoS3lvLXFJYW9aa3BaZGZWZjFHbXdvYlVhMG91SHlKUQ"
-    },
-    {
-     "name": "BeInCrypto",
-     "published_at": "2026-10-23T01:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qY0s1R3pwcGIyMkdsMnZQcmZjZnp2N29lYnUtQmttRzdvVjktLU9JZ21JXzVXT19ZNUdKMktlZXVxTGxwQWtFZXJaekFiTzhKVU1TQXRTQjJ1bjM4UlJFVDBBbm9Tay1NSE1LYzBxUnNsUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "前董事称三障碍或拖累特斯拉与SpaceX合并",
-   "title_zh": "前特斯拉董事：三障碍或拖累特斯拉与SpaceX合并",
    "sentiment": -1
   }
  ]
