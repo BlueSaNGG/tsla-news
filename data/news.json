@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T12:37:36.558644+00:00",
+ "updated_at": "2026-10-24T12:52:28.322996+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（26条已评分）"
+     "note": "今日新闻情绪 +0.07（29条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-24T12:37:36.544164+00:00"
+   "as_of": "2026-10-24T12:52:28.311195+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 26
+   "avg": 0.07,
+   "count": 29
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "39d2948a60ea",
+   "title": "Tesla Tariff Refunds Lift Energy Margin to 33.1% [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFjZm9ONUdYZ0dWN2lxLW5JeHh4dGxUUkl4SWZCM1RHMXBNR1Q5UV9ZTDJWVjV3U2I2X3luRFlxeFhBcW9DMG5yU0VhQXdQOHo1VG9Vc2ZxN0twb2RITlBIdHRUN2RPT3FVSkk2SGJ6OHR2M0V5a2Nqa3BFRzRBMHdDSG15UQ",
+   "source": "tech-insider.org",
+   "published_at": "2026-10-24T12:38:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "tech-insider.org",
+     "published_at": "2026-10-24T12:38:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFjZm9ONUdYZ0dWN2lxLW5JeHh4dGxUUkl4SWZCM1RHMXBNR1Q5UV9ZTDJWVjV3U2I2X3luRFlxeFhBcW9DMG5yU0VhQXdQOHo1VG9Vc2ZxN0twb2RITlBIdHRUN2RPT3FVSkk2SGJ6OHR2M0V5a2Nqa3BFRzRBMHdDSG15UQ"
+    }
+   ],
+   "category": "能源",
+   "session": "周末"
+  },
+  {
+   "id": "dd480fb281b9",
+   "title": "Tesla, SpaceX, Micron and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk1iRXZPVXpYV21JZS1UOWVUYmIwVGhQNE5lTVYxODlUd2dLaVNFTnFja2NxUGNmZnpzeHlMMUpYdDJKX3VXR0E4QUduSTlvdnBWdU5ja294Q3NoOHBibEtWbW8yRkpUU1RiQVJwLUVIQ292UmRySmtNLXJoX3g4dmVxSk50ZWhEV0RTZ1Z0SXZ3YnJKNkdGQWt0eWxOcENRMjBzUTJqaWQ5NnlITXZYMjRkdHRhRXVkZWROcVhoWmxJdEdjSHh0UWN5SUR1ZTFxU2liWXExY3k",
+   "source": "Benzinga",
+   "published_at": "2026-10-24T12:30:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-24T12:30:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk1iRXZPVXpYV21JZS1UOWVUYmIwVGhQNE5lTVYxODlUd2dLaVNFTnFja2NxUGNmZnpzeHlMMUpYdDJKX3VXR0E4QUduSTlvdnBWdU5ja294Q3NoOHBibEtWbW8yRkpUU1RiQVJwLUVIQ292UmRySmtNLXJoX3g4dmVxSk50ZWhEV0RTZ1Z0SXZ3YnJKNkdGQWt0eWxOcENRMjBzUTJqaWQ5NnlITXZYMjRkdHRhRXVkZWROcVhoWmxJdEdjSHh0UWN5SUR1ZTFxU2liWXExY3k"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "1c773f4c1383",
    "title": "特斯拉Roadster大桥坠落视频系AI生成 - 汽车之家",
@@ -6333,46 +6367,6 @@
    "session": "盘后",
    "zh_summary": "观点：马斯克迎来特斯拉复兴时代",
    "title_zh": "观点：特斯拉复兴之际马斯克迎来新时代",
-   "sentiment": 1
-  },
-  {
-   "id": "523c40eeca7f",
-   "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDl2Q0RkTHczUGJrSXVCdlRVcUNqWlBhT1p2bDltekpreHFnd0IzX1R1X25oMVV6Y1hPR1FVRF9JZFQ4THhjQUM3emkwNUJnWlNDNjBFTTZnZ1NmeXZaTGVqWms4SFFzMXRYY3V5NEZrTDZhWEszVjFzLVJyTGJTSmwxYk81dw",
-   "source": "InsideEVs",
-   "published_at": "2026-10-22T20:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-22T20:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDl2Q0RkTHczUGJrSXVCdlRVcUNqWlBhT1p2bDltekpreHFnd0IzX1R1X25oMVV6Y1hPR1FVRF9JZFQ4THhjQUM3emkwNUJnWlNDNjBFTTZnZ1NmeXZaTGVqWms4SFFzMXRYY3V5NEZrTDZhWEszVjFzLVJyTGJTSmwxYk81dw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "通用拟给燃油SUV加特斯拉式软件",
-   "title_zh": "通用想把特斯拉式软件装进燃油SUV",
-   "sentiment": 0
-  },
-  {
-   "id": "b91ea3ccbc75",
-   "title": "特斯拉Roadster发布会获法拉利CEO打10分满分，追求极致体验的你会喜欢吗？ - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jck5pd0h4Ukx4YzAydWJDZVVERjRjd28zNHNIWTgzYjdRb2htQzloWFp5c0tya2ZOM0ROSnFZakNydUJQenRtb2xfTWptMVU0XzU5OU1tT1hseVE",
-   "source": "网通社",
-   "published_at": "2026-10-22T20:28:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-22T20:28:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jck5pd0h4Ukx4YzAydWJDZVVERjRjd28zNHNIWTgzYjdRb2htQzloWFp5c0tya2ZOM0ROSnFZakNydUJQenRtb2xfTWptMVU0XzU5OU1tT1hseVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "法拉利CEO给特斯拉Roadster打满分",
-   "title_zh": "法拉利CEO给特斯拉Roadster发布会打10分满分",
    "sentiment": 1
   }
  ]
