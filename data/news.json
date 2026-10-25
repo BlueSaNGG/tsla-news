@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T09:52:32.124402+00:00",
+ "updated_at": "2026-10-25T10:07:32.555027+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（14条已评分）"
+     "note": "今日新闻情绪 +0.31（16条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-25T09:52:32.117939+00:00"
+   "as_of": "2026-10-25T10:07:32.542195+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 14
+   "avg": 0.31,
+   "count": 16
   }
  },
  "meta": {
@@ -271,6 +271,23 @@
    "zh_summary": "特斯拉自研AI地图将随FSD v15上线",
    "title_zh": "特斯拉宣布自研AI地图导航系统 将随FSD v15上线 - 网通社",
    "sentiment": 1
+  },
+  {
+   "id": "b982ad57682d",
+   "title": "Tesla is building Megapacks as fast as humanly possible. That's exactly what the AI boom needs. Demand is through the roof, with almost all of 2027's production already sold out. The reason? AI data centres are hungry for electricity, and these giant batteries - X",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CSFlkZWROaGpDLVdLUDlwcFNwLVVmcjlZdlN6NEJSd3NDM3JGMnRZbkVVblExRE51SGxlam92U0tvdlZ2X0tnTkoySnV3a1lZVlFGWGR2SWVPd2o4NlpJZzU2ZDJJNGplMmZGag",
+   "source": "X",
+   "published_at": "2026-10-25T06:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "X",
+     "published_at": "2026-10-25T06:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CSFlkZWROaGpDLVdLUDlwcFNwLVVmcjlZdlN6NEJSd3NDM3JGMnRZbkVVblExRE51SGxlam92U0tvdlZ2X0tnTkoySnV3a1lZVlFGWGR2SWVPd2o4NlpJZzU2ZDJJNGplMmZGag"
+    }
+   ],
+   "category": "交付量",
+   "session": "周末"
   },
   {
    "id": "7215b98c24cd",
@@ -6306,26 +6323,6 @@
     "pct": 1.31,
     "window_h": 1.6
    }
-  },
-  {
-   "id": "5347cc17f5ed",
-   "title": "Tesla Auto Revenue Falls 3%, Energy Down 16% [Q3 2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTBudGlwak5OTVVNLXBQMU5UN1lKWXBZN3hTSFNsZWNvZWRla1pmWjBJZlVqNWhmLUVEZG1ySzNNVXlpVWp1R3NGc2hjQTk5U0RGZGFaU3JqWV94c1MyWTRfYlBtYWgxclY5MnE0VkNzZjFXWGF1QnVneFdUQTI4TTAyZVNyT3M",
-   "source": "shattered.io",
-   "published_at": "2026-10-23T08:32:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-23T08:32:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTBudGlwak5OTVVNLXBQMU5UN1lKWXBZN3hTSFNsZWNvZWRla1pmWjBJZlVqNWhmLUVEZG1ySzNNVXlpVWp1R3NGc2hjQTk5U0RGZGFaU3JqWV94c1MyWTRfYlBtYWgxclY5MnE0VkNzZjFXWGF1QnVneFdUQTI4TTAyZVNyT3M"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉三季度汽车营收降3%储能降16%",
-   "title_zh": "特斯拉2026年三季度汽车营收降3%、能源降16%",
-   "sentiment": -1
   }
  ]
 }
