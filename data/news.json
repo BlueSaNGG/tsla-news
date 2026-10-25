@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T14:07:38.108918+00:00",
+ "updated_at": "2026-10-25T14:22:36.794474+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（29条已评分）"
+     "note": "今日新闻情绪 +0.32（31条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-25T14:07:38.095313+00:00"
+   "as_of": "2026-10-25T14:22:36.777172+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.34,
-   "count": 29
+   "avg": 0.32,
+   "count": 31
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e96781717736",
+   "title": "Woman Buys Brand-New Tesla, Notices A Crack In The Windshield. Then She Tries To Get Tesla To Fix It - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nZEp4WW50b3Y5ZFNuQlFlOWRGeUdiOVBfUnlxQ0JGVl8xX2plVFBVeXRBY0JPcVg4c2RJNFN2WnBoUXEwc2NvNTV5dWdFTVJERUJDU2FoWjdGLU43ZTVvME14NTl0MEUyQks5bmFiZ29ZUQ",
+   "source": "Motor1.com",
+   "published_at": "2026-10-25T14:09:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-25T14:09:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nZEp4WW50b3Y5ZFNuQlFlOWRGeUdiOVBfUnlxQ0JGVl8xX2plVFBVeXRBY0JPcVg4c2RJNFN2WnBoUXEwc2NvNTV5dWdFTVJERUJDU2FoWjdGLU43ZTVvME14NTl0MEUyQks5bmFiZ29ZUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "15cb38c4a351",
    "title": "Tesla’s Big Quarter, GM's Buyback Fight, Elon Musk’s Autonomous Driving Push and More: This Week in Mobil - Benzinga",
@@ -6291,26 +6308,6 @@
    "session": "盘前",
    "zh_summary": "看空者可能误判了特斯拉的AI价值",
    "title_zh": "AI股看空者或许错过了特斯拉的关键一点",
-   "sentiment": 1
-  },
-  {
-   "id": "848d4b39b9bf",
-   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI",
-   "source": "Teslarati",
-   "published_at": "2026-10-23T09:47:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-23T09:47:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉买家为FSD购车 数据显示",
-   "title_zh": "特斯拉买家为完全自动驾驶而非车辆本身购车",
    "sentiment": 1
   }
  ]
