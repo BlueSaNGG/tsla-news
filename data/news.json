@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T15:37:34.949743+00:00",
+ "updated_at": "2026-10-25T15:52:34.126517+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（34条已评分）"
+     "note": "今日新闻情绪 +0.26（38条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-25T15:37:34.938085+00:00"
+   "as_of": "2026-10-25T15:52:34.112192+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 34
+   "avg": 0.26,
+   "count": 38
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d28f81493acc",
+   "title": "特斯拉「飞天跑车」真的能上路？Roadster火箭推进技术曝光 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QSU51Z19iVnFFVGE0b3lBZ1ZLVjVLZDgxYUQwNWpJM0RKcFFrTVB4MW1XMllHY2R6ejJmdk5QWE1vdVlDLVNqVUJLSzhUWk5vcHFzMEpaYjV3NE0",
+   "source": "汽车之家",
+   "published_at": "2026-10-25T15:39:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-25T15:39:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QSU51Z19iVnFFVGE0b3lBZ1ZLVjVLZDgxYUQwNWpJM0RKcFFrTVB4MW1XMllHY2R6ejJmdk5QWE1vdVlDLVNqVUJLSzhUWk5vcHFzMEpaYjV3NE0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "ea63b52f722c",
    "title": "Tesla’s First Car Is Nearly 20 Years Old, and Some Sell for Over $180,000 - Autoblog",
@@ -6277,31 +6294,6 @@
    "zh_summary": "SpaceX与特斯拉合并传闻影响投资者股票",
    "title_zh": "3.5万亿美元世纪合体？SpaceX或吞并特斯拉影响持股",
    "sentiment": 0
-  },
-  {
-   "id": "f77b85dc90c1",
-   "title": "特斯拉三季度净利润同比下降43%，马斯克确认特斯拉与SpaceX研究合并 - 虎嗅",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dUg1Z0tYcndGbk0yMDVzZXJ1V0p5Z1I2VFprN2E3WlVVWHotd3J4cmpCcGxJRS1oWEhVVlluV2JXcWFMZDlpbGlKbmRIZVdzWTR3RQ",
-   "source": "虎嗅",
-   "published_at": "2026-10-23T10:21:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "虎嗅",
-     "published_at": "2026-10-23T10:21:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dUg1Z0tYcndGbk0yMDVzZXJ1V0p5Z1I2VFprN2E3WlVVWHotd3J4cmpCcGxJRS1oWEhVVlluV2JXcWFMZDlpbGlKbmRIZVdzWTR3RQ"
-    },
-    {
-     "name": "虎嗅网",
-     "published_at": "2026-10-23T10:21:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55dUg1Z0tYcndGbk0yMDVzZXJ1V0p5Z1I2VFprN2E3WlVVWHotd3J4cmpCcGxJRS1oWEhVVlluV2JXcWFMZDlpbGlKbmRIZVdzWTR3RQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉Q3净利降43%，研究与SpaceX合并",
-   "title_zh": "特斯拉Q3净利降43%，与SpaceX研究合并",
-   "sentiment": -1
   }
  ]
 }
