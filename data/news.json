@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:07:35.130966+00:00",
+ "updated_at": "2026-10-26T06:22:37.806454+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（4条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.40（5条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T06:07:35.116734+00:00"
+   "as_of": "2026-10-26T06:22:37.796626+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 4
+   "avg": 0.4,
+   "count": 5
   }
  },
  "meta": {
@@ -68,13 +68,35 @@
  },
  "stories": [
   {
-   "id": "6a708256fe9b",
-   "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG5kVXdaLXlFNGl6dk5zTHhsZ1NXalBfZDJ2OGJlRUtHUk9QalJMckFyaUVSaGU0Rkh2ZDhDeENNU3k1eTNQcy16T2NSYUZiY1ZsR1p2dzRhVnZ3T0U0eEVTUEZCY29JQUlsVnNsa0w2ZFo0SzliZUtFbWw4dGd5ZnZXcU5sRGRjUjNvNkdDeUVWYWVFTHpnamJ2S0wzWnVONVQzTFREcS1TUWM2T2FneGtTNXV4cHZEM3BEYko4bi1ObWxjX3VB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-26T06:05:37+00:00",
+   "id": "613e67964cc9",
+   "title": "Remittix Hits $33M Presale: Tesla-SpaceX Merger Buzz [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWo0WHdlNjFNdjFYSzAyUHpDcnVLeGlTSHdNbHppLTFxaURyUTNoa2l4OGVQN0tla21CUm9RaDk1TVZMUlM5Z1djblVVZVdDVDFFcWp2UHZRWkVaOXlzVjE0cm5aNEVSYk1UUk9uLWNIb3RPcDJrZnN4Vk1HckVtbDJ0Yw",
+   "source": "tech-insider.org",
+   "published_at": "2026-10-26T06:05:28+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "tech-insider.org",
+     "published_at": "2026-10-26T06:05:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWo0WHdlNjFNdjFYSzAyUHpDcnVLeGlTSHdNbHppLTFxaURyUTNoa2l4OGVQN0tla21CUm9RaDk1TVZMUlM5Z1djblVVZVdDVDFFcWp2UHZRWkVaOXlzVjE0cm5aNEVSYk1UUk9uLWNIb3RPcDJrZnN4Vk1HckVtbDJ0Yw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "6a708256fe9b",
+   "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzN4RWFEOTQxRGFLWllwZHFsanVpQzJmRXNNM3dKbG5rU1FQa283SFZvdWJNQUJkbTVDOWZpOWZlQ2hkSEp4di1kMmh0U2JUU2t0cE5jVnVCRnNmZjktLU1IWEZQeFNUUjV2T29PTzVMTkRHUDl3U2xaWGo4ZF9oNVU4ZnZIRVo3dk9lelVOdUZMX2FhdDdUZC1aQXZvMzhlQ1Yw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T06:00:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T06:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzN4RWFEOTQxRGFLWllwZHFsanVpQzJmRXNNM3dKbG5rU1FQa283SFZvdWJNQUJkbTVDOWZpOWZlQ2hkSEp4di1kMmh0U2JUU2t0cE5jVnVCRnNmZjktLU1IWEZQeFNUUjV2T29PTzVMTkRHUDl3U2xaWGo4ZF9oNVU4ZnZIRVo3dk9lelVOdUZMX2FhdDdUZC1aQXZvMzhlQ1Yw"
+    },
     {
      "name": "Stocktwits",
      "published_at": "2026-10-26T06:05:37+00:00",
@@ -86,6 +108,23 @@
    "zh_summary": "TSLA隔夜上涨，分析师看空38%",
    "title_zh": "TSLA隔夜上涨：Cybercab现身奥斯汀F1，分析师看空38%",
    "sentiment": 0
+  },
+  {
+   "id": "fe1ece495b2a",
+   "title": "Tesla and Nvidia to Invest KRW3.7 Trillion in Samsung Electro-Mechanics Chip Substrate Facilities - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeG5kUUVCdjJILUstSHU1SklYclFWbnN3ZEduU3NKZm51dER0aTRUbWp6T0hydVQ3VVZKMFNEcHB2aFhpQ1ZNOFZXSF9uc3I1NzdyQVdoODJuRzZ6blNscTkwVERGVGltaldZdWE4UHpjZXk0ajhfMFdrRGxFdWdTY182Y04tNWo3UHFsZ29MY0x2N0ZSdTdQYVl2R1Z2NkluTEFCdHZZb1RaZEJVN3dIUGNZZllSbTFNRDhQZDZpc3JmaDYteHRWMDA3OWlraTVDWmNvTVk1MzFFMTB6eXRmOVJVNXg",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-26T05:50:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-26T05:50:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeG5kUUVCdjJILUstSHU1SklYclFWbnN3ZEduU3NKZm51dER0aTRUbWp6T0hydVQ3VVZKMFNEcHB2aFhpQ1ZNOFZXSF9uc3I1NzdyQVdoODJuRzZ6blNscTkwVERGVGltaldZdWE4UHpjZXk0ajhfMFdrRGxFdWdTY182Y04tNWo3UHFsZ29MY0x2N0ZSdTdQYVl2R1Z2NkluTEFCdHZZb1RaZEJVN3dIUGNZZllSbTFNRDhQZDZpc3JmaDYteHRWMDA3OWlraTVDWmNvTVk1MzFFMTB6eXRmOVJVNXg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "7a989fe35507",
@@ -166,6 +205,23 @@
    "zh_summary": "特斯拉AI雄心受关注，对手奋起直追",
    "title_zh": "特斯拉AI雄心起飞，对手奋起直追",
    "sentiment": 0
+  },
+  {
+   "id": "110bcaf891d1",
+   "title": "Tesla And Nvidia Are Reportedly Funding Samsung’s AI Chip Substrate Push - Finimize",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0VnUEVyTlZGeGlIQ01xNGVKdGhLV1FTcWhlZjlWTndXcWdaeWtaLVoxZFdvTDdpdVlFT2hqd1dYRkVhQlZqNWdYQUEzOWYzT05VZDlqWXB5bjFRZU9YTHRiT1FGZHUtbTNNbTM4eEN4ZlVzUGdoRnlpZEJxOHJadzNUbWVBUEMybGt1dDk2cjRPaDFmM1JIN0RENXNVeEczZXc",
+   "source": "Finimize",
+   "published_at": "2026-10-26T04:58:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finimize",
+     "published_at": "2026-10-26T04:58:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0VnUEVyTlZGeGlIQ01xNGVKdGhLV1FTcWhlZjlWTndXcWdaeWtaLVoxZFdvTDdpdVlFT2hqd1dYRkVhQlZqNWdYQUEzOWYzT05VZDlqWXB5bjFRZU9YTHRiT1FGZHUtbTNNbTM4eEN4ZlVzUGdoRnlpZEJxOHJadzNUbWVBUEMybGt1dDk2cjRPaDFmM1JIN0RENXNVeEczZXc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "069feb763a59",
@@ -576,6 +632,23 @@
    "zh_summary": "散户上周密切关注特斯拉等股票",
    "title_zh": "散户上周为何紧盯TSLA等股票",
    "sentiment": 0
+  },
+  {
+   "id": "22f3877ad06e",
+   "title": "机械行业周报：特斯拉启动Optimus生产，我国工业机器人、机床产量保持快速增长_行业研究_研报 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVFBiZmoxMjlzMHphRURaV0VWQXNzNi1taVpaQ1EzN1p5ODZaTFNwOFVKaDRFZ0Y3WDZFSnl3VlFuLUNtYTFGM3EyRUlyc2lEdU0zZ2w5SVVMY2hzSVpxMlFn",
+   "source": "证券之星",
+   "published_at": "2026-10-26T02:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-26T02:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVFBiZmoxMjlzMHphRURaV0VWQXNzNi1taVpaQ1EzN1p5ODZaTFNwOFVKaDRFZ0Y3WDZFSnl3VlFuLUNtYTFGM3EyRUlyc2lEdU0zZ2w5SVVMY2hzSVpxMlFn"
+    }
+   ],
+   "category": "交付量",
+   "session": "周末"
   },
   {
    "id": "313dc264abef",
@@ -1906,6 +1979,23 @@
    "zh_summary": "基础版Roadster无蝴蝶门",
    "title_zh": "特斯拉称基础版Roadster不主打蝴蝶门",
    "sentiment": 0
+  },
+  {
+   "id": "483efa58b8d5",
+   "title": "Why would Musk merge SpaceX and Tesla? - WBKB11.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblgwRUIxckhBSDI2WUs4UzlBbmtnZnZTdWw0NVF6RXBBLVVUa0tINE1CYk1lUmk1ZmIyU2hPaWJDcmdOTHgwX05IbkI0VmplSk9RVUxVQkVfeGpva3ZZckpiNU9GbzlBU0hxTXdUckxHMzVtYWJveFFtcnNOaDItWjZNeWRYamEwTFhXU29tNmFaTkFPemZCd295NEs2WWYyWHN4UmpTbHdUSGVQMzdybU0zaHExVUh4VGh6X0VR",
+   "source": "WBKB11.com",
+   "published_at": "2026-10-25T12:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WBKB11.com",
+     "published_at": "2026-10-25T12:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblgwRUIxckhBSDI2WUs4UzlBbmtnZnZTdWw0NVF6RXBBLVVUa0tINE1CYk1lUmk1ZmIyU2hPaWJDcmdOTHgwX05IbkI0VmplSk9RVUxVQkVfeGpva3ZZckpiNU9GbzlBU0hxTXdUckxHMzVtYWJveFFtcnNOaDItWjZNeWRYamEwTFhXU29tNmFaTkFPemZCd295NEs2WWYyWHN4UmpTbHdUSGVQMzdybU0zaHExVUh4VGh6X0VR"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
   },
   {
    "id": "14ecfbbc96a0",
@@ -5005,6 +5095,23 @@
    "sentiment": 0
   },
   {
+   "id": "d1692fa818cf",
+   "title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXVHOUp2dWRFZmdBZi1CZlZUaFltNXZxWjYxUGtnc05qTmhXNkNJcGhEUkVCaGgzaU5nV185TDhTUHRGN0V0cmZkUEdEVkhKVVZzenRycFBUUXVTeF9CbG1uc05BZGI5bkNNdG5lUlBUSUJoRXpES0pub1A2S2lwMnJkSzdWTHk1MG5UQTg5Wk8ycGZCZkhaZXUzblo5SUJBamtMWXBGVW42bWV0R2VzM3pWZmM3OFdaQ3hkMUowc0cwSFJJcWl4QUlzUzkwTkRVdmxiclNGU3NwR1dWVHc",
+   "source": "Stocktwits",
+   "published_at": "2026-10-24T08:53:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-24T08:53:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXVHOUp2dWRFZmdBZi1CZlZUaFltNXZxWjYxUGtnc05qTmhXNkNJcGhEUkVCaGgzaU5nV185TDhTUHRGN0V0cmZkUEdEVkhKVVZzenRycFBUUXVTeF9CbG1uc05BZGI5bkNNdG5lUlBUSUJoRXpES0pub1A2S2lwMnJkSzdWTHk1MG5UQTg5Wk8ycGZCZkhaZXUzblo5SUJBamtMWXBGVW42bWV0R2VzM3pWZmM3OFdaQ3hkMUowc0cwSFJJcWl4QUlzUzkwTkRVdmxiclNGU3NwR1dWVHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "e524f662e8f7",
    "title": "【视频】特斯拉造了一台会飞的车 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVkc2VW5fVlA5UjMwbzRMOUVMNFBhMXhra1JvUFVVSXFhRGNzSXNEenpTSlhINU9iN2MzQ2J6NjF4TFlRYWxiWDJGS1lUWkZBd3JZWTRVWFRaRVk",
@@ -6198,136 +6305,6 @@
    "zh_summary": "富本德县批准特斯拉100亿美元协议创造8700岗位",
    "title_zh": "富本德县批准特斯拉$10B协议，10年税收减免换8700岗位",
    "sentiment": 1
-  },
-  {
-   "id": "6a422589e9fb",
-   "title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGk3RmZfZGtNcGZlRmM5VXljeVZXTnlraHBkdlJGVG15Rzdlbk9lYm9obEJIY0RySXRDRTU4U0FuZkxYaVUweW1VRU1SS2M5aUVydFR5Ykd0aTdndmVPWHNIb3dTb19VeVVnekRLQjhtU2dORHhzcGtQV1N2U1dERE9TeF9Oa1lCenJjMGJ2YnhqQjBvMVlRVWtEY01ndXZaeVptRXdEaTFhS0l1YUZKd3R0VjNoWXFGZUo5SkZaVzkwZw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-23T21:39:57+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-23T21:39:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGk3RmZfZGtNcGZlRmM5VXljeVZXTnlraHBkdlJGVG15Rzdlbk9lYm9obEJIY0RySXRDRTU4U0FuZkxYaVUweW1VRU1SS2M5aUVydFR5Ykd0aTdndmVPWHNIb3dTb19VeVVnekRLQjhtU2dORHhzcGtQV1N2U1dERE9TeF9Oa1lCenJjMGJ2YnhqQjBvMVlRVWtEY01ndXZaeVptRXdEaTFhS0l1YUZKd3R0VjNoWXFGZUo5SkZaVzkwZw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T21:54:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NhOGpPUDdnR1M3Q3BIeTYzUTd4Q2txX0dobDEwQlN6enVEMVVGVVo0OThUXzdYRmlPWXNCTTFyNHhjR19zdWRJUmt2YlBfZEhpSm1UMENaUS1abS1jVVFtZlF5YURaeWlPalNMUXo5d0lTR1JNcDJHYW10c29JZWlZdUZ3UlZDWFBVSWRjXzNrU3FaWWsw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称SpaceX与特斯拉合并是好主意",
-   "title_zh": "马斯克称SpaceX与特斯拉合并是“好主意”，但仍面临阻碍",
-   "sentiment": 1
-  },
-  {
-   "id": "e5a083f5ab96",
-   "title": "BMW iX5 First Drive, GM's Big Tech Plans, And Tesla Cybercab Deliveries Are Coming Soon - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3RkRKTzR6WmFCRUtQcUZGY1hkNWs5cVgyTm5Xcmplc2lLa1lXalJDUTlRYlpPaG9pT3RRdDB6bjJ0ZnZyc2ZYN0ZRZ3dTQko1SFI3SjkxYnlXS1RmM1JTOGU4Sng5WmMzWDJ5S1lyRTg5b1FJUzBHem1ZZUZPZw",
-   "source": "InsideEVs",
-   "published_at": "2026-10-23T21:39:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-23T21:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3RkRKTzR6WmFCRUtQcUZGY1hkNWs5cVgyTm5Xcmplc2lLa1lXalJDUTlRYlpPaG9pT3RRdDB6bjJ0ZnZyc2ZYN0ZRZ3dTQko1SFI3SjkxYnlXS1RmM1JTOGU4Sng5WmMzWDJ5S1lyRTg5b1FJUzBHem1ZZUZPZw"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-23T21:39:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGtmU0tDR1lJY1IwelM2enZUcERaN2dZVXd1Zk8tbVY4dEI4aW5mVmxGLUt6R1c3WVJCNjUzSUVJMjA1eTdrZlRQUkhNR2x2NENyMWRFR3hSczE4WHdMUnBoNk1nVlloWG1FZWJXWVRpU2FSRlJWMnRtYWd4X1d6bzcwaWtMV1NEbnRZa0tQOWp5YzNo"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "特斯拉Cybercab交付即将到来",
-   "title_zh": "宝马iX5首评、通用科技计划，特斯拉Cybercab交付即将到来",
-   "sentiment": 1
-  },
-  {
-   "id": "a63b014fb505",
-   "title": "Tesla Roadster's New User Interface Screen Brings Fighter Jet Layout to a Production Sports Car - TechEBlog -",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbllpbGhWSDVnLUhoak1KQUhmbDVVWEdaVmtGUGJlUm9sX3E0ZkpoZ1dhOWk1ZTc5Tml5NFF0MS1GbVUyOXJRWnpwZEY3TTllYWpCV0c0ckVvQ2Z5Wll1LVNUWmVtWWRMRk9wSVB3aXhGQ1dKeVhZNDJLQUJsS3BjMVptZw",
-   "source": "TechEBlog -",
-   "published_at": "2026-10-23T21:23:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechEBlog -",
-     "published_at": "2026-10-23T21:23:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbllpbGhWSDVnLUhoak1KQUhmbDVVWEdaVmtGUGJlUm9sX3E0ZkpoZ1dhOWk1ZTc5Tml5NFF0MS1GbVUyOXJRWnpwZEY3TTllYWpCV0c0ckVvQ2Z5Wll1LVNUWmVtWWRMRk9wSVB3aXhGQ1dKeVhZNDJLQUJsS3BjMVptZw"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "新Roadster座舱界面战机风格亮相",
-   "title_zh": "特斯拉Roadster新界面带来战斗机式布局",
-   "sentiment": 1
-  },
-  {
-   "id": "6b89fad8278e",
-   "title": "Want to See the Tesla Roadster in Person? Here's Your Chance - Autoguide.com",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVV4R09KUlMyTjNIZEhVa3FXZG4wTlota2tZODctWm5mSnVBMDJkNlNLVlB1Q0pWYVo3aVJFV2t6VE8yOEo2b0MwUXAwOUY1aHNXNkVVZW5Kd1RZdmlZVzUwWmhRci1aZHUxeTViRzFlalBydjIyM080UHRWdmpuRGxhUENlX1hwZE85UnMwdDBOYkpuMG54SWd4YTM1MnFVbU8xelZ0QnM1YmJyZjRRdVBYOHZRWDlhWDJ0T3FFNm9OelFTRi00MmF5bzN2Zw",
-   "source": "Autoguide.com",
-   "published_at": "2026-10-23T21:23:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Autoguide.com",
-     "published_at": "2026-10-23T21:23:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVV4R09KUlMyTjNIZEhVa3FXZG4wTlota2tZODctWm5mSnVBMDJkNlNLVlB1Q0pWYVo3aVJFV2t6VE8yOEo2b0MwUXAwOUY1aHNXNkVVZW5Kd1RZdmlZVzUwWmhRci1aZHUxeTViRzFlalBydjIyM080UHRWdmpuRGxhUENlX1hwZE85UnMwdDBOYkpuMG54SWd4YTM1MnFVbU8xelZ0QnM1YmJyZjRRdVBYOHZRWDlhWDJ0T3FFNm9OelFTRi00MmF5bzN2Zw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster亮相活动提供近距离体验",
-   "title_zh": "想亲眼看特斯拉Roadster？这里有机会",
-   "sentiment": 0
-  },
-  {
-   "id": "a2cc43c95f2b",
-   "title": "Fort Bend wants Tesla's $10B solar plant. Here are the tax breaks it's offering. - Houston Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczc0YkcycXVHNk5HcmQySWgwUXdBQ2FkalRFVkliYU9PYWtjQ1E3cDJ5eUJKZ19RaVV3TEJFZG5Fd0xqNkswVjJRdnhkZUxLNjRzRzl6V0R0b3ItYm5zLThQVGhhU3ZWSEFuVkRXMWk1NGttWnMxRUM5ZE9UX01IalQzcXFsVkJJMTFSMHJiWUN5MENCTjY4VUxoLUg",
-   "source": "Houston Chronicle",
-   "published_at": "2026-10-23T21:23:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Houston Chronicle",
-     "published_at": "2026-10-23T21:23:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczc0YkcycXVHNk5HcmQySWgwUXdBQ2FkalRFVkliYU9PYWtjQ1E3cDJ5eUJKZ19RaVV3TEJFZG5Fd0xqNkswVjJRdnhkZUxLNjRzRzl6V0R0b3ItYm5zLThQVGhhU3ZWSEFuVkRXMWk1NGttWnMxRUM5ZE9UX01IalQzcXFsVkJJMTFSMHJiWUN5MENCTjY4VUxoLUg"
-    }
-   ],
-   "category": "能源",
-   "session": "盘后",
-   "zh_summary": "Fort Bend县欲引进特斯拉百亿太阳能厂",
-   "title_zh": "Fort Bend县欲以税收优惠引进特斯拉100亿美元太阳能工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "391e1aedfb0d",
-   "title": "Tesla plows into Troy home, alleged drunk driver narrowly misses couple - WXYZ 7 News Detroit",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU9kZ01VUEdtZ0ktcU5MVlJGQ0swWUp6eUU0LUFxczVvSGh3VGZETDVoRVRLWExKVTl5dDR0eGxjVWNzeFREZW5fRGE0MTFjMVhfUDRhaXhnSFN1a2JGdldraGMtQjNaai05UE02aTNQcEhxcUxjemY2ZUd4U055SXVTR2EtajZLNDYwTS05VEtROFV1U1g4OXVQUFk",
-   "source": "WXYZ 7 News Detroit",
-   "published_at": "2026-10-23T21:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WXYZ 7 News Detroit",
-     "published_at": "2026-10-23T21:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdU9kZ01VUEdtZ0ktcU5MVlJGQ0swWUp6eUU0LUFxczVvSGh3VGZETDVoRVRLWExKVTl5dDR0eGxjVWNzeFREZW5fRGE0MTFjMVhfUDRhaXhnSFN1a2JGdldraGMtQjNaai05UE02aTNQcEhxcUxjemY2ZUd4U055SXVTR2EtajZLNDYwTS05VEtROFV1U1g4OXVQUFk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉撞入民宅，疑似司机酒驾",
-   "title_zh": "特斯拉失控撞入特洛伊民宅，疑酒驾",
-   "sentiment": -1
   }
  ]
 }
