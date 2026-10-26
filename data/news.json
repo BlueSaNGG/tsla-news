@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T19:22:34.389669+00:00",
+ "updated_at": "2026-10-26T19:37:38.175743+00:00",
  "market": {
-  "price": 394.68,
-  "change_pct": 6.03,
+  "price": 393.59,
+  "change_pct": 5.74,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +3.2%"
+     "note": "目标价中位数 $408（18家），隐含空间 +3.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（225条已评分）"
+     "note": "今日新闻情绪 +0.45（228条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $394.68 vs 20日均线 $371.73"
+     "note": "现价 $393.59 vs 20日均线 $371.68"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 50,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 3.2,
-   "ma20": 371.73,
-   "as_of": "2026-10-26T19:22:34.382646+00:00"
+   "implied_upside_pct": 3.5,
+   "ma20": 371.68,
+   "as_of": "2026-10-26T19:37:38.164793+00:00"
   },
-  "pe_ttm": 109.2,
+  "pe_ttm": 108.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.45,
-   "count": 225
+   "count": 228
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "05ce143985a4",
+   "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RnhvZGJhN3ZTX0FaNktHU3YzaHlCOGNRQWJkaEptTUZNVGR1bzVubHAtN1BCNGtWU3Raa0k2Zk8teW1EVWhrZ0N0NmF3aGFadFBROXZWU0tzc2tDZm1zSVVDZElhbVU",
+   "source": "InsideEVs",
+   "published_at": "2026-10-26T19:27:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-26T19:27:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RnhvZGJhN3ZTX0FaNktHU3YzaHlCOGNRQWJkaEptTUZNVGR1bzVubHAtN1BCNGtWU3Raa0k2Zk8teW1EVWhrZ0N0NmF3aGFadFBROXZWU0tzc2tDZm1zSVVDZElhbVU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "127ec7205504",
+   "title": "Viral Austin video captures Waymo, Zoox and Tesla robotaxis in traffic - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEhuR3paTTh0OG5xczVnRXFZcjZmUFY0ckpUQV94cWg2aU11ZGlsUkFrVmlFM0FrcHBjOVJ2YVJ6NE9kUmNRS05qNWpLcFJBV1lXZXpnWmJKQUFObkJHNjh0RmVQbzA1SFFzQkd6Vmp0ejFwWkc3RnZDam9WdzdkY2VweTItZUdNRVB3NzlGRnM",
+   "source": "Yahoo",
+   "published_at": "2026-10-26T19:08:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-26T19:08:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEhuR3paTTh0OG5xczVnRXFZcjZmUFY0ckpUQV94cWg2aU11ZGlsUkFrVmlFM0FrcHBjOVJ2YVJ6NE9kUmNRS05qNWpLcFJBV1lXZXpnWmJKQUFObkJHNjh0RmVQbzA1SFFzQkd6Vmp0ejFwWkc3RnZDam9WdzdkY2VweTItZUdNRVB3NzlGRnM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "8b8de6268bba",
    "title": "TSLA Breaks Above Resistance as Barclays Upgrades Tesla Stock Citing Potential SpaceX Merger and Delivery Growth Supports Bullish Outlook - FXLeaders",
@@ -119,12 +153,17 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVg5NHNRS2t0RTJySmVOd2VfUkVGX1M0T1Q2d085VXZ6aFlldFdVc1ZBeVJHS00xaldFZGZ3WWRSVTllRko1Q2lhQUZNRGlkTlNOWm9Qb2dRcnMyWENFRUVQMTlvUzNqWUpaRzRwWmdBeDZYLUdrMGZnc3dOX01ZV3hOcmpTQjJwX05IWmU5bEVRdw",
    "source": "Yahoo",
    "published_at": "2026-10-26T18:56:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo",
      "published_at": "2026-10-26T18:56:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVg5NHNRS2t0RTJySmVOd2VfUkVGX1M0T1Q2d085VXZ6aFlldFdVc1ZBeVJHS00xaldFZGZ3WWRSVTllRko1Q2lhQUZNRGlkTlNOWm9Qb2dRcnMyWENFRUVQMTlvUzNqWUpaRzRwWmdBeDZYLUdrMGZnc3dOX01ZV3hOcmpTQjJwX05IWmU5bEVRdw"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-26T19:25:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MVzNiSzZEU002XzJjSVZmX0k5RU1ZQVFOX2FPMFFtSGRsSExMNWhUemVTUi1Cck9OeVhUVGdkVG82SGV2ck1SMG5RZmFoNUZWZXJPbi1EVE1ja2o0c2Jodmk4akpzQnM"
     }
    ],
    "category": "其他",
@@ -204,7 +243,7 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkhPTWFpQmdQdkZnMzRyZ3hXdDNUUGMzalJLbE9Sb1V3RkFoUkFadWNISlpVM21qOHRmTTZ3bFdJbm5OV0F2alNhZHBXU2dYc3RCUFhVdWRIemMxdkYwTlQ4dEhHaGdpNFBsN2xkV3FoX1dWMkFIUktORGRQV0xOalNWd09kdw",
    "source": "Yahoo! Finance Canada",
    "published_at": "2026-10-26T18:28:54+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo! Finance Canada",
@@ -215,13 +254,22 @@
      "name": "TradingView",
      "published_at": "2026-10-26T18:28:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXhSOW1jZ1BkSkp4clNmZnZVQ0NJUmZ1Ymp3eHRfTU0yOXpKUlYxakxvZXVEakV4UFV0eDJSWTk4WmViSF9ReTNwQ0o5eUZOYkk1OWJOcHpIY0xXX2wzVHA5bHB0YnRHQjVUOEZNak9KZGNLMGJwTDJzcms1T0ZSUzIzVy1SWWRWRGpEN25IX25rTGJfLXl6QWJqWDZpS196UVVoWVFZdkM"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T18:28:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnlGTUkyUVdxRklFcDJnS0s3UEEwYnJGVmxMYUFwemRfRGM4ZUNUUTEwOVJNcENhR1RNa1MzbDB4MjBJUnlyb25XVTVycVhZOG03VjAxQjZ5VVh4X0JBTkdaY2xwMjdQdFRTMkQyTENaRndwZDZ2a2xROHktZFl5TEtINGdkMUF4aWtOMkkwWlNIeGxmQnVZODJsRQ"
     }
    ],
    "category": "分析师",
    "session": "盘中",
    "zh_summary": "特斯拉股价因分析师接连上调而上涨",
    "title_zh": "特斯拉股价因分析师接连上调而走高",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.11,
+    "window_h": 1.1
+   }
   },
   {
    "id": "e4a522f031b1",
@@ -6615,46 +6663,6 @@
    "session": "周末",
    "zh_summary": "加拿大Drive Tesla一周要闻汇总",
    "title_zh": "Drive Tesla加拿大10月19日至25日要闻",
-   "sentiment": 0
-  },
-  {
-   "id": "ebe6b01a44ac",
-   "title": "Tesla (TSLA) Stock Gets Fair Value Bump As Analysts Split On AI And SpaceX - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVdoNUZtT0EwZl9WNXZhcmE1U09aYjV1RXAzaUpnMUFBMXdsaEhfRkx4V21TbUI5dXp0Vlk2VC1IUU5CUjI2Uk5XeWFlT09kV053UnUyQnh6VHdTaTh5cFNZZmNxUmFIWVN0S2J4aEJ2YnJvU0VNaEl6T1UtM05HY1VUeHNWNnk3aDhma1VXdmdnNDB6eHc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-25T18:09:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-25T18:09:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVdoNUZtT0EwZl9WNXZhcmE1U09aYjV1RXAzaUpnMUFBMXdsaEhfRkx4V21TbUI5dXp0Vlk2VC1IUU5CUjI2Uk5XeWFlT09kV053UnUyQnh6VHdTaTh5cFNZZmNxUmFIWVN0S2J4aEJ2YnJvU0VNaEl6T1UtM05HY1VUeHNWNnk3aDhma1VXdmdnNDB6eHc"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "特斯拉公允价值上调但分析师看法分歧",
-   "title_zh": "特斯拉(TSLA)获公允价值上调，分析师对AI与SpaceX看法分歧",
-   "sentiment": 0
-  },
-  {
-   "id": "6fe9c1f4ccaf",
-   "title": "Tesla-SpaceX Merger Would Put $2.5B Bitcoin Hoard Under One Roof, With No New Buying - finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04eEh2dlI1TFItR196czBnY2dObGd0Z0dIWFMzWWhHRF9GaWNieS1aZjY0OXNNVC1tb203RWpmTG4xMUp5d3dMNnFBZkFMMU0wOVNLSHYxd1hmdXpVR3A0N2JReUFkV20wVWJyWndTeW81SlFsMEE",
-   "source": "finance.biggo.com",
-   "published_at": "2026-10-25T18:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.biggo.com",
-     "published_at": "2026-10-25T18:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04eEh2dlI1TFItR196czBnY2dObGd0Z0dIWFMzWWhHRF9GaWNieS1aZjY0OXNNVC1tb203RWpmTG4xMUp5d3dMNnFBZkFMMU0wOVNLSHYxd1hmdXpVR3A0N2JReUFkV20wVWJyWndTeW81SlFsMEE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉与SpaceX合并将整合25亿美元比特币",
-   "title_zh": "特斯拉与SpaceX合并将把25亿美元比特币纳入同一屋檐",
    "sentiment": 0
   }
  ]
