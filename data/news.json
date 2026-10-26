@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T11:07:36.634968+00:00",
+ "updated_at": "2026-10-26T11:22:46.533351+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（55条已评分）"
+     "note": "今日新闻情绪 +0.32（62条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 9.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T11:07:36.622024+00:00"
+   "as_of": "2026-10-26T11:22:46.522583+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 55
+   "avg": 0.32,
+   "count": 62
   }
  },
  "meta": {
@@ -68,16 +68,33 @@
  },
  "stories": [
   {
+   "id": "d15967fd5a10",
+   "title": "Tesla FSD Approved in Latvia, the 10th EU Country to Back Dutch Ruling - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUp3enR5NVNKbktkX0hLQWVybWhLcE5PUHM1d2tTR0ZfQ2V1VUxlR00yNElsWUowTEMtNDNjMkVCa1dDU1pQekdCSDVxYmNlcFZCb05wd3pVR0p3VVExYkpJWW9CRE5FYURaZ2VKOEtFV1V3YThNVUxXX0dNY19XOXFUcy1qem53dDBsYUtGLXBxWXNUcUhKS3dBTGdVWDdLQ29SRzdYODU",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-26T11:12:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-26T11:12:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUp3enR5NVNKbktkX0hLQWVybWhLcE5PUHM1d2tTR0ZfQ2V1VUxlR00yNElsWUowTEMtNDNjMkVCa1dDU1pQekdCSDVxYmNlcFZCb05wd3pVR0p3VVExYkpJWW9CRE5FYURaZ2VKOEtFV1V3YThNVUxXX0dNY19XOXFUcy1qem53dDBsYUtGLXBxWXNUcUhKS3dBTGdVWDdLQ29SRzdYODU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "7f68dc31673b",
    "title": "Why is Tesla stock climbing today? - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXhmVkx1eUg2d210SHJwVV82SW13QmdleUlJMTRNZnBRUVFhNTVhdVRMTVkyZXBuVTlPZElGcmNuYlltd1FLRHZ4cVBPNFl6cTNUdUFMbmpTTDdwc0NBX2RzMkM0Z0NCdUEzQ0Z6ZEdvRDlOQ2w3ckJ4OWdyNkVGMzhZbEVFdUptWERrTEloNjV0X29jMHlNR1VMcw",
    "source": "Investing.com",
-   "published_at": "2026-10-26T11:04:02+00:00",
+   "published_at": "2026-10-26T11:03:41+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Investing.com",
-     "published_at": "2026-10-26T11:04:02+00:00",
+     "published_at": "2026-10-26T11:03:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXhmVkx1eUg2d210SHJwVV82SW13QmdleUlJMTRNZnBRUVFhNTVhdVRMTVkyZXBuVTlPZElGcmNuYlltd1FLRHZ4cVBPNFl6cTNUdUFMbmpTTDdwc0NBX2RzMkM0Z0NCdUEzQ0Z6ZEdvRDlOQ2w3ckJ4OWdyNkVGMzhZbEVFdUptWERrTEloNjV0X29jMHlNR1VMcw"
     }
    ],
@@ -106,6 +123,23 @@
    "zh_summary": "马斯克SpaceX与特斯拉合并梦想待股东决定",
    "title_zh": "马斯克的SpaceX与特斯拉合并梦想取决于特斯拉股东",
    "sentiment": 0
+  },
+  {
+   "id": "e3b0f4e7101c",
+   "title": "Turo and Tesla Debut Industry-First Self-Driving Rental Experience - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlkyY0ljQzNMRHZmbmRYSlJpdDZsS2VCVWYwU1hBcEcxVUNXWE9DVHQwTUFNdEhPdVMtUXVsWl94SXBKTTIyblBybFdnYUhGdDdCaXplNzZ4ei13SHBDQ29Qajg2N29HWjhGQUVVeENWNzNTSEZ2VFJybWd0am12QmdlYWJkVWpIVjRmNDBIWS1WNk5rRUVZ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlkyY0ljQzNMRHZmbmRYSlJpdDZsS2VCVWYwU1hBcEcxVUNXWE9DVHQwTUFNdEhPdVMtUXVsWl94SXBKTTIyblBybFdnYUhGdDdCaXplNzZ4ei13SHBDQ29Qajg2N29HWjhGQUVVeENWNzNTSEZ2VFJybWd0am12QmdlYWJkVWpIVjRmNDBIWS1WNk5rRUVZ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f3d52fd2a7c5",
@@ -862,6 +896,23 @@
    "sentiment": -1
   },
   {
+   "id": "0f27a5dd2d85",
+   "title": "SpaceX提交监管文件称与特斯拉合并需控股股东马斯克批准 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RQktJQW9teVViUElMODgtSkVaM3RnSnZvejBTZEo2SHMweWZ0NXk0Ui1IenB6TVdkUkp5Zk1SUDFWUHEwcV9MUGRLUDRXeTZ5R3AwX3VqSE1yQjg",
+   "source": "网通社",
+   "published_at": "2026-10-26T07:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-26T07:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RQktJQW9teVViUElMODgtSkVaM3RnSnZvejBTZEo2SHMweWZ0NXk0Ui1IenB6TVdkUkp5Zk1SUDFWUHEwcV9MUGRLUDRXeTZ5R3AwX3VqSE1yQjg"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "4dba8b906b50",
    "title": "Tesla Wants to Earn More From AI Than From Cars - Mezha",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHFSc2tmQkhWSEhsZFFkenBUakJKVFIzRTdtSFl5S21QaUxoeXk2OS1yeE1lbGhKZXdBaTJRdDBJUmtRckl5UXQteHBCQmdoYmNsd0xzUXFKYWxCdXlMdWc3eGdCRXJVR2l3NzhHNzBaZFVPMU5EYzV4dE1LM1BJZGZST0V5LUcwOFk5YWh3TlNoWWRQNzZfb0t5b0tQQjI3NmcyblpnT3NoSGlZMGJR",
@@ -1328,26 +1379,6 @@
    "sentiment": -2
   },
   {
-   "id": "7a989fe35507",
-   "title": "【视频】23年6.4万公里特斯拉ModelY - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QUpxa2dCbTNyQl85RWpRY2EtYTFYNmFUUEdqQmwxcWQ3dzBmSHh3R1ZReXFjUG9WMjBzcjFLcTV5blRXUVdzTl9VTDZ4RnA0c1dvME00RlZVRVZGN28zR0lRY1hFeVJNcXB3",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T05:11:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T05:11:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QUpxa2dCbTNyQl85RWpRY2EtYTFYNmFUUEdqQmwxcWQ3dzBmSHh3R1ZReXFjUG9WMjBzcjFLcTV5blRXUVdzTl9VTDZ4RnA0c1dvME00RlZVRVZGN28zR0lRY1hFeVJNcXB3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "23年Model Y行驶6.4万公里",
-   "title_zh": "【视频】23年6.4万公里特斯拉ModelY - 汽车之家",
-   "sentiment": 0
-  },
-  {
    "id": "910f0c2a2cf4",
    "title": "巴克莱银行将特斯拉评级上调至“增持”，目标价450美元。 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01MWZLSncwSVUzM2x6TEZUbm9YakE3NWV3YTNkbGZhRjFzTEtfMmphNWhhQnlwUDQyNk1vaVFja3hjYWRWRzJ3d3dXcw",
@@ -1384,15 +1415,40 @@
    "sentiment": 1
   },
   {
+   "id": "7a989fe35507",
+   "title": "【视频】23年6.4万公里特斯拉ModelY - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82VUJOWWIwR0dLeVpLaWY5bXpCYWFJRUl2RUtHVnRqYnJSTjdyWFhRRzY3MmRRV0tIaW9tX3lWUWxTTXROVENPTkV3QlItcG9ybGJQdU9tbW1sSFE",
+   "source": "汽车之家",
+   "published_at": "2026-10-26T05:11:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-26T05:11:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82VUJOWWIwR0dLeVpLaWY5bXpCYWFJRUl2RUtHVnRqYnJSTjdyWFhRRzY3MmRRV0tIaW9tX3lWUWxTTXROVENPTkV3QlItcG9ybGJQdU9tbW1sSFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "23年Model Y行驶6.4万公里",
+   "title_zh": "【视频】23年6.4万公里特斯拉ModelY - 汽车之家",
+   "sentiment": 0
+  },
+  {
    "id": "86a90c5c605a",
    "title": "Tesla to Build 20,000-Robot AI Training Cluster with Total Investment of Around 14 Billion Yuan - 36Kr",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bFRPVTE0UzFqWkpOVTVvY0gxZ1NpeDZQSWVrdjJzRUgxcXpvUUQ0M0ZrSFFZZkRNa3E4dUQ3UHltTzgtWEw5MTg1SUxoUW82aDZz",
    "source": "36Kr",
    "published_at": "2026-10-26T05:10:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "36Kr",
+     "published_at": "2026-10-26T05:10:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bFRPVTE0UzFqWkpOVTVvY0gxZ1NpeDZQSWVrdjJzRUgxcXpvUUQ0M0ZrSFFZZkRNa3E4dUQ3UHltTzgtWEw5MTg1SUxoUW82aDZz"
+    },
+    {
+     "name": "eu.36kr.com",
      "published_at": "2026-10-26T05:10:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43bFRPVTE0UzFqWkpOVTVvY0gxZ1NpeDZQSWVrdjJzRUgxcXpvUUQ0M0ZrSFFZZkRNa3E4dUQ3UHltTzgtWEw5MTg1SUxoUW82aDZz"
     }
@@ -6379,66 +6435,6 @@
    "zh_summary": "特斯拉电动蠕行极限0.001km/h",
    "title_zh": "【视频】特斯拉电动蠕行极限在0.001km/h - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "12f2d67ecb33",
-   "title": "【视频】再选一次，还会不会买特斯拉？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QnlMWGZDNGo3NGs3TldFU3JvQ3dWUjVYSkJoLXE5dHYtUExuRWk0R0d6Q2RNTEFJZWpDM3gwalh1V2JVeTd5YnlGcF9LMkcxZXRNWUYwSk1wYU0",
-   "source": "汽车之家",
-   "published_at": "2026-10-24T09:07:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-24T09:07:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94QnlMWGZDNGo3NGs3TldFU3JvQ3dWUjVYSkJoLXE5dHYtUExuRWk0R0d6Q2RNTEFJZWpDM3gwalh1V2JVeTd5YnlGcF9LMkcxZXRNWUYwSk1wYU0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "再选一次还会不会买特斯拉",
-   "title_zh": "【视频】再选一次，还会不会买特斯拉？ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "f871af31bb3e",
-   "title": "拉斯海玛酋长问我对特斯拉飞行汽车的看法 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVdNV0I5MmR1bVk0SVp0R1B1SEU1M2pxZXViaHlNTmppZXNHa2ZnYnFjM1VNc0xuNTVoR0NJR0pTZDl3SjNGVTU1OW5OVzVoQkMwbDRnX05HZnpCWUxodk5rZnM2NUtKc1BWd0x1T0pURkd4MGZYQkZUMmFXd2dhMg",
-   "source": "新浪网",
-   "published_at": "2026-10-24T09:03:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-24T09:03:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVdNV0I5MmR1bVk0SVp0R1B1SEU1M2pxZXViaHlNTmppZXNHa2ZnYnFjM1VNc0xuNTVoR0NJR0pTZDl3SjNGVTU1OW5OVzVoQkMwbDRnX05HZnpCWUxodk5rZnM2NUtKc1BWd0x1T0pURkd4MGZYQkZUMmFXd2dhMg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "酋长询问对特斯拉飞行汽车看法",
-   "title_zh": "拉斯海玛酋长问我对特斯拉飞行汽车的看法",
-   "sentiment": 0
-  },
-  {
-   "id": "8599d84fb179",
-   "title": "Tesla Cybertruck Owner Coal-Rolled, Mocked for Driving With Plastic Wrap Window. He Adds, “The Window Stopped Working & Tesla Service Can’t Get Replacement Parts For 3 Weeks” - Torque News",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGF3TDJwVWYyN3A4cEtTT0pOYXBpSVFTVjItZk95M3RTalJDRkYwTGpybWhOLTgyekItcDl3X0w2RmRoRTFyWmFuQ2JJOV9kbEMyRXoyb3AwbVB3TExqQTVEaTdubFdjSkRFblF5dXdSUEktcTQyQW44Tk9WdVJJQ1pwY2lCWjlET1JqN0ZnTklxMmFsVTRRNjE1X3ZtMk5kdWhkbHNQNXVoMFRqa08xcTFPYm5Rdy1lSHMtclktcFBXYWc",
-   "source": "Torque News",
-   "published_at": "2026-10-24T09:03:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Torque News",
-     "published_at": "2026-10-24T09:03:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGF3TDJwVWYyN3A4cEtTT0pOYXBpSVFTVjItZk95M3RTalJDRkYwTGpybWhOLTgyekItcDl3X0w2RmRoRTFyWmFuQ2JJOV9kbEMyRXoyb3AwbVB3TExqQTVEaTdubFdjSkRFblF5dXdSUEktcTQyQW44Tk9WdVJJQ1pwY2lCWjlET1JqN0ZnTklxMmFsVTRRNjE1X3ZtMk5kdWhkbHNQNXVoMFRqa08xcTFPYm5Rdy1lSHMtclktcFBXYWc"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Cybertruck车窗故障，三周等不到配件",
-   "title_zh": "Cybertruck车主被嘲，车窗故障三周无配件",
-   "sentiment": -1
   }
  ]
 }
