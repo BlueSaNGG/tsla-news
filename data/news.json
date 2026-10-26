@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T19:37:38.175743+00:00",
+ "updated_at": "2026-10-26T19:52:41.086025+00:00",
  "market": {
-  "price": 393.59,
-  "change_pct": 5.74,
+  "price": 391.77,
+  "change_pct": 5.25,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 50% 分位"
+     "note": "现价处于52周区间 49% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +3.5%"
+     "note": "目标价中位数 $408（18家），隐含空间 +4.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（228条已评分）"
+     "note": "今日新闻情绪 +0.45（230条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $393.59 vs 20日均线 $371.68"
+     "note": "现价 $391.77 vs 20日均线 $371.58"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 50,
+   "price_52w_pct": 49,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 3.5,
-   "ma20": 371.68,
-   "as_of": "2026-10-26T19:37:38.164793+00:00"
+   "implied_upside_pct": 4.0,
+   "ma20": 371.58,
+   "as_of": "2026-10-26T19:52:41.071663+00:00"
   },
-  "pe_ttm": 108.9,
+  "pe_ttm": 108.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.45,
-   "count": 228
+   "count": 230
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "81d0dafeb74b",
+   "title": "Tesla's Full Self-Driving Business Is Growing Fast. But There's a Catch for Investors - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3c5QXFmV2ZjQzZrcGxJS0FaVm1WZ21QdE5zdVFKeTd2NVJmMTN6WTdBd3JSTXAzb0hxSGw5NEIxQnhCU0pQN3Q1UjRXaDZxZ252V2ZDUng4ZFdoa0YwZ2NMVU1nVGdRczNmLXZUOW15ZFFLYS1wYzVWVGEtc1B6NUtUQjRoTFNoblp0aElkS1VBRC1ockFrSU85YWhBQ2Z6bi03WjdINDJHTmtvN0trSlZNdlpXN25IUGRhR0E0ZVVwVmI0bWc",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-26T19:45:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-26T19:45:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3c5QXFmV2ZjQzZrcGxJS0FaVm1WZ21QdE5zdVFKeTd2NVJmMTN6WTdBd3JSTXAzb0hxSGw5NEIxQnhCU0pQN3Q1UjRXaDZxZ252V2ZDUng4ZFdoa0YwZ2NMVU1nVGdRczNmLXZUOW15ZFFLYS1wYzVWVGEtc1B6NUtUQjRoTFNoblp0aElkS1VBRC1ockFrSU85YWhBQ2Z6bi03WjdINDJHTmtvN0trSlZNdlpXN25IUGRhR0E0ZVVwVmI0bWc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "05ce143985a4",
    "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD - InsideEVs",
@@ -86,6 +103,23 @@
    "zh_summary": "特斯拉与Turo合作推广FSD体验",
    "title_zh": "特斯拉与Turo推出让用户体验FSD的新方式",
    "sentiment": 1
+  },
+  {
+   "id": "968595ac6748",
+   "title": "Tesla’s implied price without the SpaceX deal: roughly $355–$372 - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUstSFRCYktlMlhySk83M284N3c3SGxvUXZOTkV1UXB6OUJYNW5QNnBCUWdrcUNXNUlzSWRrRTVYR1RwVHNMR1BOYWd1amlpTWt4WlZCdFZoWlVmWVJFM2s2OU5xbVMxbEVaa3AtTURJcUlYenZMSFMtdHRUcUE1VWplb1ZwNHF5a3cxQUZpN1hSTFdBQllRVTJLVjREMnEtVURJSkJDUXY0NVo4V0hWQzY1UXYtOW1WbU5YbEVn",
+   "source": "Investing.com",
+   "published_at": "2026-10-26T19:23:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-26T19:23:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUstSFRCYktlMlhySk83M284N3c3SGxvUXZOTkV1UXB6OUJYNW5QNnBCUWdrcUNXNUlzSWRrRTVYR1RwVHNMR1BOYWd1amlpTWt4WlZCdFZoWlVmWVJFM2s2OU5xbVMxbEVaa3AtTURJcUlYenZMSFMtdHRUcUE1VWplb1ZwNHF5a3cxQUZpN1hSTFdBQllRVTJLVjREMnEtVURJSkJDUXY0NVo4V0hWQzY1UXYtOW1WbU5YbEVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "127ec7205504",
@@ -6630,46 +6664,6 @@
    "zh_summary": "三只AI基建股受益特斯拉算力扩张",
    "title_zh": "三只AI基建股搭乘特斯拉与SpaceX算力扩张",
    "sentiment": 1
-  },
-  {
-   "id": "1cf85e77dc6b",
-   "title": "Based on Tesla's Latest Decision, the Cybertruck Is on Its Way Out; Will There Be a Replacement? - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORE9ELTRVbHlEbWRydWlRaUVGUUR3X25LckJVY1IzYVU4cjdQMGFWemdEVDhMeHYwVmlVTDVIOC1uTU5wMlM0M1lhVVNYZDRwSU5jU0ZWWDhMZklzeWNiSXEyc0JaelNpSWRWd2c2UVJ5bnRfdnJieFZnby1NUzE2d3djSzU2M1hHQ1dPb2thQjNfb0U0anRIU25EUzgwanFlLXpLZlYyVFVIZm1DX29JaWFNNzl1MXlleG9VemxtNFJZclFING1wRFpfOEo4RTh6Q0h6ZVFmWQ",
-   "source": "autoevolution",
-   "published_at": "2026-10-25T18:59:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-25T18:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORE9ELTRVbHlEbWRydWlRaUVGUUR3X25LckJVY1IzYVU4cjdQMGFWemdEVDhMeHYwVmlVTDVIOC1uTU5wMlM0M1lhVVNYZDRwSU5jU0ZWWDhMZklzeWNiSXEyc0JaelNpSWRWd2c2UVJ5bnRfdnJieFZnby1NUzE2d3djSzU2M1hHQ1dPb2thQjNfb0U0anRIU25EUzgwanFlLXpLZlYyVFVIZm1DX29JaWFNNzl1MXlleG9VemxtNFJZclFING1wRFpfOEo4RTh6Q0h6ZVFmWQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Cybertruck或将停产引接替猜测",
-   "title_zh": "基于特斯拉最新决定，Cybertruck或将停产，会有替代车型吗？",
-   "sentiment": -1
-  },
-  {
-   "id": "aa006f01d8ac",
-   "title": "Top Stories for October 19-25 - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXI0Wll1cF9hcGwyVWdhM1Ayd2JlLXAzV2lpOHR2WHl1cGJBazNSbDdrdi1WM0wzeG5xdjVlVFV3Q1dZaFE3ZGd4bnBCcTFNb29wMEd5ZnM0dGNGNWtMaGJkWXdweXZDNWo3dXlxYjdJQ3ozZnlVaVo1bnRWTFFodllRZ3dNV1g5WDV4Zg",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-25T18:20:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-25T18:20:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXI0Wll1cF9hcGwyVWdhM1Ayd2JlLXAzV2lpOHR2WHl1cGJBazNSbDdrdi1WM0wzeG5xdjVlVFV3Q1dZaFE3ZGd4bnBCcTFNb29wMEd5ZnM0dGNGNWtMaGJkWXdweXZDNWo3dXlxYjdJQ3ozZnlVaVo1bnRWTFFodllRZ3dNV1g5WDV4Zg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "加拿大Drive Tesla一周要闻汇总",
-   "title_zh": "Drive Tesla加拿大10月19日至25日要闻",
-   "sentiment": 0
   }
  ]
 }
