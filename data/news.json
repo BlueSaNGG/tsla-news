@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T17:37:46.902074+00:00",
+ "updated_at": "2026-10-26T17:52:34.425585+00:00",
  "market": {
-  "price": 395.0,
-  "change_pct": 6.12,
+  "price": 395.76,
+  "change_pct": 6.32,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 50% 分位"
+     "note": "现价处于52周区间 51% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +3.2%"
+     "note": "目标价中位数 $408（18家），隐含空间 +3.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（197条已评分）"
+     "note": "今日新闻情绪 +0.46（205条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $395.00 vs 20日均线 $371.74"
+     "note": "现价 $395.76 vs 20日均线 $371.78"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 50,
+   "price_52w_pct": 51,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 3.2,
-   "ma20": 371.74,
-   "as_of": "2026-10-26T17:37:46.883660+00:00"
+   "implied_upside_pct": 3.0,
+   "ma20": 371.78,
+   "as_of": "2026-10-26T17:52:34.401986+00:00"
   },
-  "pe_ttm": 109.2,
+  "pe_ttm": 109.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 197
+   "avg": 0.46,
+   "count": 205
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a2b83f2a1c01",
+   "title": "Tesla Houston Robotaxi Expansion: 225,964 Miles [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZ4WUJPd3hwMnBlVUloRVhkR3BGZGtGVHBUcmdCSmRlSHhiWEdrMXA0NnVmaUVTRFZrV1J4NS1yTmk3RmZuLS13ZWFkc2E4OGd4UjdHNzBNS3hhdC1QMktldlBJbUh3N1pQN29YcGRDS0p0V0I0SkZHZjl5X3MtcW9B",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-26T17:38:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-26T17:38:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTZ4WUJPd3hwMnBlVUloRVhkR3BGZGtGVHBUcmdCSmRlSHhiWEdrMXA0NnVmaUVTRFZrV1J4NS1yTmk3RmZuLS13ZWFkc2E4OGd4UjdHNzBNS3hhdC1QMktldlBJbUh3N1pQN29YcGRDS0p0V0I0SkZHZjl5X3MtcW9B"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "82be9ce98662",
+   "title": "Barclays Makes Bold Tesla Stock Call After SpaceX Twist - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHczcllKU3RYd3UzR3ljSkQ3T2NLbUNKS2dVdzJQdHZBRmV3UnBlT19XdGs2MnBqdklZUy1JVkZ6YjJnOUVFWlhjY2Q1SGdaQUlkWFJQM09zRHFkSnppOUVBdWV3ZjNIQ2ZCQ1FjM2p0M1lxS3RMOXk3R1lWcUQtR0FkMnVTem5GWk03WmxXS0pSQW1TUmVhS2tIWXBWQzRRQ1AycndhNGg2TEhnVzNtSmx1dEtXUQ",
+   "source": "TradingView",
+   "published_at": "2026-10-26T17:27:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-26T17:27:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOHczcllKU3RYd3UzR3ljSkQ3T2NLbUNKS2dVdzJQdHZBRmV3UnBlT19XdGs2MnBqdklZUy1JVkZ6YjJnOUVFWlhjY2Q1SGdaQUlkWFJQM09zRHFkSnppOUVBdWV3ZjNIQ2ZCQ1FjM2p0M1lxS3RMOXk3R1lWcUQtR0FkMnVTem5GWk03WmxXS0pSQW1TUmVhS2tIWXBWQzRRQ1AycndhNGg2TEhnVzNtSmx1dEtXUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5a8998ef03a6",
    "title": "Tesla makes another joke of its Robotaxi geofence expansion - Electrek",
@@ -135,12 +169,17 @@
   },
   {
    "id": "8d7a81efcebe",
-   "title": "Why Tesla (TSLA) stock is trading up today - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeU9FX1F0aFljZTRTclc4clhfVVVPTGRDdF9ScE9VcGNqSjEwa1dkUzQwNGRlV2psaWE5bTQ4UUU0RnZzUG1ZT3lsUWwxQmRDSy1HYTZnaVVwRkttTzlkTjZza2ZZY2ZxRnNrYjdwVUlxX3BSTGQ3UU9EcEwycnZUVkIzZVBLWWt4U0pqRGVSdTAyemJfVlc5QUpWaHlBU0IxcGpSSjJVSXVSb2VQN3Vmam1tR2VHa1N5cHpjQ1JLYUNVNE0",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-26T17:11:34+00:00",
-   "outlets_count": 1,
+   "title": "Why Tesla (TSLA) stock is trading up today - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUi1CRElUM2hwZjlmQkp2QzcxV1gyZE9EMFgzWEQ4R2lCY3JwMWFXR0FZYlRtMU4wSHUyZlhIeEpwWE01el9XOE5WbU10S1FsWmpUSmxRYjVZTTRNc1lya1hIaXFFeFBMeWhSX2JuNU1RQW1LNk8zSlVwSUk2ZkFFVm1XWU9VNHhpcWpwVTkzN2RVRktydmJ6dG1SNFVadms0eEY4",
+   "source": "TradingView",
+   "published_at": "2026-10-26T17:10:37+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-26T17:10:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUi1CRElUM2hwZjlmQkp2QzcxV1gyZE9EMFgzWEQ4R2lCY3JwMWFXR0FZYlRtMU4wSHUyZlhIeEpwWE01el9XOE5WbU10S1FsWmpUSmxRYjVZTTRNc1lya1hIaXFFeFBMeWhSX2JuNU1RQW1LNk8zSlVwSUk2ZkFFVm1XWU9VNHhpcWpwVTkzN2RVRktydmJ6dG1SNFVadms0eEY4"
+    },
     {
      "name": "The Globe and Mail",
      "published_at": "2026-10-26T17:11:34+00:00",
@@ -2369,7 +2408,7 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEF2MHAyVDNhLVJzQWdTM3NyWEt5WW9HbzRQTUVVRjFVazhnT2c0UGgydXdnckFVbXJxQ2NZeF9wemFDOG1xeFVobWtURnpEWkJTTGRQWkZZcUtfUnpzWUMtTzBMbmFuN3RuTVZPdW1SUE9VbUpfbUFBdmg0ZHo4WFZmZ2NpSzc0a0pzUndzMWNOTjVjaXJnSDFsX0JKSXJEVVpNTENKRzlIQl9yaVZMTFRILTBwSzJhSFAzaFVpdS1vREhQSWdac0Vn",
    "source": "Tampa Bay 28",
    "published_at": "2026-10-26T12:25:21+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Tampa Bay 28",
@@ -2380,13 +2419,22 @@
      "name": "Sarasota Herald-Tribune",
      "published_at": "2026-10-26T17:28:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2N4bFpkMHZqdy0wSWc0VUd2eWhXRHZWVzFxVFdUN3pUU0I0aDFYOHZZdVpOSl9oMFlBYzUxS0d6Zmx2WjQ3dWhRZmVIazVpNnA3aW82Z3pJX2RkZC00ck80MThRWUFOUmZibEg5bHB4SDJzV2tkak1MTWZaNUR1T3F5ZG51a213aFJVdTNvcGR1WE9Hdm9KMWtmeFNvODY3TFFocU91dWdHN3BPMDZFWFNFX0c1T2hONExoN3lHeWx0a1lRV3NpbjJuaTJORjhQUF9qcVhn"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-26T17:25:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HakF5UWZuR1hOLUhubFU1TV8tWjc0RGRLUG9OMFVDLW5TU3RMVV9xVVk0bnVXNkxjMG5fV2hyRjMtd0c2UTFzTjFVcGM5NGp0OHlzWksxTGtmMUROblpLanAtU19FZGUzdEQwb3FjdXhheXpWdWF6TG5JLTlZZkk"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "特斯拉在I-75翻车致一人死亡",
    "title_zh": "特斯拉在萨拉索塔县I-75翻车，一男子死亡",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 1.5,
+    "window_h": 2.0
+   }
   },
   {
    "id": "ab75d3cc6ea9",
@@ -2840,12 +2888,17 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFpQVHZhWjI4STZ5bVY4dnhtQ0JPLTFjcXVZQ1VlbWpEV2dGbVVfS2JLcVo5aE10X09hSTktWmhVR1ZJWEljTUZMQ3NuU3hjdFd6VXJwc3FVLWN6Z3VsTDNkNTF2d3BtSUd0UWdWa2JseGUwR3Z0dkhSbEdDNnlpNGU4cFF2ZVowQVJoQnlOYVZuYnROamx3R0N0LWFVY3FBeERwZjd5WTlaUzk5N3lxOFg5WnFheGM",
    "source": "Moomoo",
    "published_at": "2026-10-26T11:38:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Moomoo",
      "published_at": "2026-10-26T11:38:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFpQVHZhWjI4STZ5bVY4dnhtQ0JPLTFjcXVZQ1VlbWpEV2dGbVVfS2JLcVo5aE10X09hSTktWmhVR1ZJWEljTUZMQ3NuU3hjdFd6VXJwc3FVLWN6Z3VsTDNkNTF2d3BtSUd0UWdWa2JseGUwR3Z0dkhSbEdDNnlpNGU4cFF2ZVowQVJoQnlOYVZuYnROamx3R0N0LWFVY3FBeERwZjd5WTlaUzk5N3lxOFg5WnFheGM"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-26T17:37:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb19CbFNMTVVRSUJqYUpkZjd0YjQ3RWxxWkUzalo2ci1mOExuc1Z5YjBzQVpzSGRXNENub0FQQXBvRmJUa21ieHBZbmt1UHBmM2dYMnJPUmtxWkxSTmdXcUUybGlMNkhROElZU2tOa1RQVFBMbnhWd0ZibFU1VXlzQjRENkFlY19IcUUyX01BZ0JpTVB4TkpDU29TWDVhWDEtOXZDXzRtSUlKY28"
     }
    ],
    "category": "分析师",
@@ -3460,6 +3513,23 @@
    "zh_summary": "9月Model Y销量50359台",
    "title_zh": "9月销量50359台，为何都选Model Y？",
    "sentiment": 1
+  },
+  {
+   "id": "4c7958a9dfb5",
+   "title": "特斯拉Roadster在洛杉矶彼得森汽车博物馆展出 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mVUpzZUY4bWdvU0lmOFMyeUVyVTVZcmcteFphaDY1czN1ekt0VnFKN2dNREt0eFRVYnc4Wk1jTzJjeWZpUGdSaEZfRTJPdXhteDRjTkpUWFh1ekU",
+   "source": "汽车之家",
+   "published_at": "2026-10-26T10:08:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-26T10:08:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mVUpzZUY4bWdvU0lmOFMyeUVyVTVZcmcteFphaDY1czN1ekt0VnFKN2dNREt0eFRVYnc4Wk1jTzJjeWZpUGdSaEZfRTJPdXhteDRjTkpUWFh1ekU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ec153367f902",
@@ -6536,85 +6606,6 @@
    "zh_summary": "电车选特斯拉手机选苹果",
    "title_zh": "电车就选特斯拉，手机就选苹果 - 手机新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "4206db4fe375",
-   "title": "Tesla Delivers Strong Free Cash Flow, Surprising Analysts - Is TSLA Undervalued? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa19OYUhRNW5TOHU4cGx2WmVDckNKcnFxOVhQVGhXVWdSZ3ctZ2xPV3ZRSHVDWHNwNjIyaUhKZUhDbi1uYUxuY18xRWstMlh1LUNWOFBmbHdXWVdWSnNhdUxMeWFfeWJfTTJFVElxMDRfTHh0NktIY0h5djNXYkR6R3VadUpUdUxWNS1yMGtVWXI3a1NYcklrMTd5Nnk",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-25T13:30:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-25T13:30:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa19OYUhRNW5TOHU4cGx2WmVDckNKcnFxOVhQVGhXVWdSZ3ctZ2xPV3ZRSHVDWHNwNjIyaUhKZUhDbi1uYUxuY18xRWstMlh1LUNWOFBmbHdXWVdWSnNhdUxMeWFfeWJfTTJFVElxMDRfTHh0NktIY0h5djNXYkR6R3VadUpUdUxWNS1yMGtVWXI3a1NYcklrMTd5Nnk"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "特斯拉强劲自由现金流令分析师意外",
-   "title_zh": "特斯拉强劲自由现金流令分析师意外，TSLA是否被低估？",
-   "sentiment": 1
-  },
-  {
-   "id": "cc6ab4f6787b",
-   "title": "腾空翻转的特斯拉，只是一场流量秀？ - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWHJoTmRRZ2YwSFdldFduaVo5M0U4dTIwbUxadVlRS19IanpGNjB6TWt2UmFMZElKRTI4RnZKRGFla3J0azczSEFyeXA",
-   "source": "凤凰网",
-   "published_at": "2026-10-25T12:45:51+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-25T12:45:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWHJoTmRRZ2YwSFdldFduaVo5M0U4dTIwbUxadVlRS19IanpGNjB6TWt2UmFMZElKRTI4RnZKRGFla3J0azczSEFyeXA"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-25T12:45:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWHJoTmRRZ2YwSFdldFduaVo5M0U4dTIwbUxadVlRS19IanpGNjB6TWt2UmFMZElKRTI4RnZKRGFla3J0azczSEFyeXA"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T04:43:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qQWtmTkJGN250ZjlCOFU5RE93ajI4MmdWa2t0RzNVOU1Vb1pfMlp3cFVPVkxzU2JsN0V3ejAzNzJzSF9QOTU2RGhoVnRtSFJEckVjbzNndkhkMGM"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-26T06:55:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXpFR3ZqbGt1RWtUWXZ3NlFQS2xVeUtaaHRNbm9sanFBT2VMS1V2Y0VIT215LWpNTUdNX2FLRDZsQndfS2I3MXRGeERQLVpFZG5GWExLeVpXNVZfbjBsZzRNMWRnYlh3NUc5XzU3bnJGMUhQS3BPUlZaazI4ZTBuMGZn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉腾空翻转引争议被质疑流量秀",
-   "title_zh": "腾空翻转的特斯拉，只是一场流量秀？ - 凤凰网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.01,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "06ed1b95a08a",
-   "title": "Tesla Model Y Is Most Recalled EV - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmd6UGNnZFdZVWxsTnFLTmtKZHV1NlRXUDh3cmRFRzBGWlh0V0p0RmYyZEtRMm5iY1g0cldpcUlqM2VLNDJYSDhFdWRpNU9FSEFiWXhKWmlLRmJRN3JCaDNURm1jb3JHYklWZ0tkYVBnRGVycnJQT2VzRGVFaV9pem53",
-   "source": "Yahoo",
-   "published_at": "2026-10-25T12:37:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-25T12:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmd6UGNnZFdZVWxsTnFLTmtKZHV1NlRXUDh3cmRFRzBGWlh0V0p0RmYyZEtRMm5iY1g0cldpcUlqM2VLNDJYSDhFdWRpNU9FSEFiWXhKWmlLRmJRN3JCaDNURm1jb3JHYklWZ0tkYVBnRGVycnJQT2VzRGVFaV9pem53"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Model Y为召回最多电动车",
-   "title_zh": "特斯拉Model Y成召回最多的电动车",
-   "sentiment": -1
   }
  ]
 }
