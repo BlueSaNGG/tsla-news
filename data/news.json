@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T12:52:34.969434+00:00",
+ "updated_at": "2026-10-26T13:07:31.227854+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（83条已评分）"
+     "note": "今日新闻情绪 +0.37（89条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 9.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T12:52:34.951294+00:00"
+   "as_of": "2026-10-26T13:07:31.216531+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.35,
-   "count": 83
+   "avg": 0.37,
+   "count": 89
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "7120b433e052",
+   "title": "SpaceX's debt deal for GPUs suggests Tesla deal is 'logical next step,' Yorkville Ives says (SPCX:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWQxUkdtcHZkTFoxTnlGMUdmaVFOZmpWWjh2SHMzd2RaRmRYNEFNQllkcEo2SExLU2xHRnNnNEdmRFJjNWRaZ3ZENTZZenZmems5OXZGTkllamJGcVV4OWNaa19vRnhGaTBoX3M3LUowb3hWQVhlZ05abXAySTVicF80M0NSSjlKdnZ3blRBdVRYcXNoUUJKZmREUlVQcjEzamlNRm9qX09sZmtnY2ZrS1l1Ny1zcXM0bl84dFREZXhRbXM",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-26T13:01:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-26T13:01:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWQxUkdtcHZkTFoxTnlGMUdmaVFOZmpWWjh2SHMzd2RaRmRYNEFNQllkcEo2SExLU2xHRnNnNEdmRFJjNWRaZ3ZENTZZenZmems5OXZGTkllamJGcVV4OWNaa19vRnhGaTBoX3M3LUowb3hWQVhlZ05abXAySTVicF80M0NSSjlKdnZ3blRBdVRYcXNoUUJKZmREUlVQcjEzamlNRm9qX09sZmtnY2ZrS1l1Ny1zcXM0bl84dFREZXhRbXM"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "872bdb66f47c",
+   "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised) - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeElPVkNER05wRW5DQWNtdWtLSnFYNmF2TDN5NzNnanZwaGtMbWZCcWt3dG40S0hheHo3emo1aWpIM192TUxINWlRZlRmcWZ1WmJhc2JDU3pXdFVRWGhBblNMUTh1NUIxRmRKMjJqSFFFcFpaZzRnemljWFpEdTN0eDA0WjdqY1lmZFRCOFozbHBGRHJMOURmMC1hQ3dQV3FOTmlodFJjRQ",
+   "source": "TechCrunch",
+   "published_at": "2026-10-26T12:58:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-26T12:58:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeElPVkNER05wRW5DQWNtdWtLSnFYNmF2TDN5NzNnanZwaGtMbWZCcWt3dG40S0hheHo3emo1aWpIM192TUxINWlRZlRmcWZ1WmJhc2JDU3pXdFVRWGhBblNMUTh1NUIxRmRKMjJqSFFFcFpaZzRnemljWFpEdTN0eDA0WjdqY1lmZFRCOFozbHBGRHJMOURmMC1hQ3dQV3FOTmlodFJjRQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
+   "id": "7f5e78f4e866",
+   "title": "特斯拉(TSLA.US) vs SpaceX(SPCX.US)：马斯克合并棋局背后，一场现金流与AI算力的较量 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWp1R2VFOER1N3pQMFp5ZmZTa19WNkozM2RERjkxMjJpeHVnRGQ2YWxpYXJRSFVCczZFRnd2NWU1WXgyeDc2c19NaUM2YWcwSnl0SzRCdjVDOE5VMGN3RkZPY2d4VVotVzRMZlUzcFd4NS1EeHpGeXFMVGpVVmtZQS1QaE5wOFptZ0dkNXlZM0NkN0MxdUFOZm5TbTg0dUtx",
+   "source": "富途牛牛",
+   "published_at": "2026-10-26T12:58:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-26T12:58:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWp1R2VFOER1N3pQMFp5ZmZTa19WNkozM2RERjkxMjJpeHVnRGQ2YWxpYXJRSFVCczZFRnd2NWU1WXgyeDc2c19NaUM2YWcwSnl0SzRCdjVDOE5VMGN3RkZPY2d4VVotVzRMZlUzcFd4NS1EeHpGeXFMVGpVVmtZQS1QaE5wOFptZ0dkNXlZM0NkN0MxdUFOZm5TbTg0dUtx"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
   {
    "id": "5d9279b8eacf",
    "title": "Forget the Short-Term Noise: Where Could Tesla Be in 2030? - 24/7 Wall St.",
@@ -108,6 +159,45 @@
    "sentiment": 0
   },
   {
+   "id": "6cc3ca344c55",
+   "title": "Tesla's Cash Windfall Has a Catch: $1.9 Billion in Unpaid Bills - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGEwMlppZ1RXaG5NSUNJMXNmLWloZFViUE85aW9FOEw4eVc3UTZfS1NfZldOZV93SHdMbmRnZ3FUYllHYkh6emdsRVVYTExPWWxwd3pfcXNSbVFDVGNJWl9UY3VXeHlKbXZQQmVmeDl4bE1oNm9uQmVpd3JoMzB3VkJiLXlHQW1EZWhVQmR4dF9meHhp",
+   "source": "Benzinga",
+   "published_at": "2026-10-26T12:47:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-26T12:47:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGEwMlppZ1RXaG5NSUNJMXNmLWloZFViUE85aW9FOEw4eVc3UTZfS1NfZldOZV93SHdMbmRnZ3FUYllHYkh6emdsRVVYTExPWWxwd3pfcXNSbVFDVGNJWl9UY3VXeHlKbXZQQmVmeDl4bE1oNm9uQmVpd3JoMzB3VkJiLXlHQW1EZWhVQmR4dF9meHhp"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "2b7d8641e968",
+   "title": "TSLA Is The Worst-Performing Mag 7 Stock This Year But Leads The Pack In October – Barclays Sees 19% Upside Potential - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFN5ZDBmYkhfQXRJUmpmZ1JsSW5Lc180U3A0amVWdE1lQnN4OTdfVVN4b1pua05MWDhxa09OUTQzNVZPMC1CcHZNME5zS0ZQaC1WTGFnaVJMTHdIX3ExRVRaMFJUUjJwMGtfenA1RExIX2lmUTE4dlhLQXZhWFBWb0RzM09IUGVzODhSbTRaNGVlTXRmU1NxcHo1UGNJb3BnTm1rcDhLVmdyTlRFeDA0RzlUVlBCamxyMVMybG83ZENDNjVhMHdRNWE1UHpaNzlBc1JpUko1S2gzUDVGakx1eG1wQXVJa2tUMTBfcjVOalB5Rm5jbUlsOG5DVTFveHFMZ2RmOUFn",
+   "source": "TradingView",
+   "published_at": "2026-10-26T12:45:22+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-26T12:45:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFN5ZDBmYkhfQXRJUmpmZ1JsSW5Lc180U3A0amVWdE1lQnN4OTdfVVN4b1pua05MWDhxa09OUTQzNVZPMC1CcHZNME5zS0ZQaC1WTGFnaVJMTHdIX3ExRVRaMFJUUjJwMGtfenA1RExIX2lmUTE4dlhLQXZhWFBWb0RzM09IUGVzODhSbTRaNGVlTXRmU1NxcHo1UGNJb3BnTm1rcDhLVmdyTlRFeDA0RzlUVlBCamxyMVMybG83ZENDNjVhMHdRNWE1UHpaNzlBc1JpUko1S2gzUDVGakx1eG1wQXVJa2tUMTBfcjVOalB5Rm5jbUlsOG5DVTFveHFMZ2RmOUFn"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-26T12:47:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWF6bFdDMDVOdXFhejBObmVWT25vS0VYdWtseHlHaEhFZ2RFbzVPTy1LUlBfU0xHbmo4TlVxX1hjY1hvc0lXRi02eWMtVURzb3ViLVdIWkZ0c3dhT2YySElTT3dneU44LXlySEh4VXhWblRlV0prVW9BNEV0WFNNYWdiX0ZfRGczZ3kyT2M5LUNhQnh4cmw2NEI4ZGFOTjlsdXRURE5udnpjdEp4QmFDMGU2M2plT2xRa1VrbDlMTVBUVjJUNXRFb3RDZHoyOTNmSlNVZWdJcjBxb3M"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "d2edd5f1cdd0",
    "title": "Tesla Stock, Upgraded On SpaceX Prospects, Takes A Run At Resistance - Investor's Business Daily",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS09TYTRJaTJCUzM5QTYxZTN1SVpCNzdiQ1d1c0J2VnY4NG9fY3B5LUpibWxOaExMX1ptMU5XTjVoalhKeXl1aU9PdF9MWWoyXzJjak9aWV9FMWRfb1NNWkxYbWJURDF3MnZMNXpQa05LbkdtMFZ2NjZIVXVuOGRVNUJGb1pUTGFFNU5vbUc0SHNjSlk",
@@ -146,6 +236,23 @@
    "zh_summary": "Turo上线美国首个特斯拉FSD租车",
    "title_zh": "租车还送AI司机！租车平台Turo上线美国首个特斯拉FSD租车：免费用1个月",
    "sentiment": 1
+  },
+  {
+   "id": "a1a1b4d460d3",
+   "title": "租赁平台Turo：将在美国市场允许顾客租借带有FSD监督版的特斯拉汽车 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qQVVPVTBhRDJ5RTNUNzBIcXlCcWlLU1pOYmVXREZOZmVieDBFT1lLX3VacGFMVXh2Vkd2SEZyLXM4NTFtMjJlZ09IdGk",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-26T12:40:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-26T12:40:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qQVVPVTBhRDJ5RTNUNzBIcXlCcWlLU1pOYmVXREZOZmVieDBFT1lLX3VacGFMVXh2Vkd2SEZyLXM4NTFtMjJlZ09IdGk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f0179e2bdfd5",
@@ -266,6 +373,23 @@
    "zh_summary": "券商上调评级特斯拉股价上涨",
    "title_zh": "券商上调评级推动特斯拉股价上涨",
    "sentiment": 1
+  },
+  {
+   "id": "86c68179113e",
+   "title": "大和：特斯拉第三季每股盈利0.48美元超预期 维持中性评级 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BZUZ6M3YtU0ZaVEtyaHdWeWJ2M0Y2MVpzVU13VTlsZVNYaFZwZnlsNXhzdVNNb29XMllidE9YcFBsV0xIUEVvVFRqdjlTQzZZbVlISzBrdUtCTFNkNEIwak9n",
+   "source": "观点网",
+   "published_at": "2026-10-26T12:18:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-26T12:18:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BZUZ6M3YtU0ZaVEtyaHdWeWJ2M0Y2MVpzVU13VTlsZVNYaFZwZnlsNXhzdVNNb29XMllidE9YcFBsV0xIUEVvVFRqdjlTQzZZbVlISzBrdUtCTFNkNEIwak9n"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "3aaf56c273a5",
@@ -389,12 +513,17 @@
   },
   {
    "id": "9e58bb66cc6e",
-   "title": "Turo将推出美国首个经验证的特斯拉FSD监督版租车服务 - www.caiwennews.com",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lTTZCTGxkLVFQRk5DSVVwY2h2SWFiNnRHTEZlWjJfVnRaYWdOdVJ3RUsyd2k2bC01dGNkZ3ZWbURQUDhyS0ptNWdqTFJxOThnd2QyR2k2ejlCTkM1",
-   "source": "www.caiwennews.com",
-   "published_at": "2026-10-26T11:51:04+00:00",
-   "outlets_count": 3,
+   "title": "Turo将推出美国首个经验证的特斯拉FSD监督版租车服务 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFQalJZaUlDN1BBTDdndjB5TmVwU1RVb0lkUkgySWE4WmFGbGV5c1RDT1IzSGZmV2RYYUZzNlI3VmFDdkdkQ3EtT185d3BOT3p4dWxqN0U0Wm5pTGRuR2RjbUpPbjFNZi13RElYNHdTZTgwSnRRUGFTUkRCVHFZWWFKSEVNQ21iNThZeGdnclFtbk9jZ2RIRHhrOVJfZ3N4",
+   "source": "富途牛牛",
+   "published_at": "2026-10-26T11:50:27+00:00",
+   "outlets_count": 4,
    "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-26T11:50:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTFQalJZaUlDN1BBTDdndjB5TmVwU1RVb0lkUkgySWE4WmFGbGV5c1RDT1IzSGZmV2RYYUZzNlI3VmFDdkdkQ3EtT185d3BOT3p4dWxqN0U0Wm5pTGRuR2RjbUpPbjFNZi13RElYNHdTZTgwSnRRUGFTUkRCVHFZWWFKSEVNQ21iNThZeGdnclFtbk9jZ2RIRHhrOVJfZ3N4"
+    },
     {
      "name": "www.caiwennews.com",
      "published_at": "2026-10-26T11:51:04+00:00",
@@ -413,9 +542,27 @@
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "Turo将推美国首个特斯拉FSD租车服务",
    "title_zh": "Turo将推出美国首个经验证的特斯拉FSD监督版租车服务 - Moomoo",
    "sentiment": 1
+  },
+  {
+   "id": "5ff4e88d2538",
+   "title": "Stocks making the biggest moves premarket: Verizon, Tesla, Moderna & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3lGeFcxYW9rYTFjaUtmYkdUOGRaWnNUbFNsMDZlYnZma3RMYy1CRURKbmRzdVhkbHI2dUIwd3BqeWFKYnA2TmxOZXJ6NUtEV2V2d0R3WGRTMVRGZGdiSm8xVkFPUkdub3BEMjIxb0xUTW1Tb3gzUWNBalphd3B2RDdfemRkZDBPUG5tcFlIMDJTSVpXV1dpVkoya0U",
+   "source": "CNBC",
+   "published_at": "2026-10-26T11:48:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-26T11:48:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3lGeFcxYW9rYTFjaUtmYkdUOGRaWnNUbFNsMDZlYnZma3RMYy1CRURKbmRzdVhkbHI2dUIwd3BqeWFKYnA2TmxOZXJ6NUtEV2V2d0R3WGRTMVRGZGdiSm8xVkFPUkdub3BEMjIxb0xUTW1Tb3gzUWNBalphd3B2RDdfemRkZDBPUG5tcFlIMDJTSVpXV1dpVkoya0U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "1d2e77f6590f",
@@ -5159,26 +5306,6 @@
    "sentiment": 0
   },
   {
-   "id": "9fe1a293b5c4",
-   "title": "TSLA, SPCX Slide Premarket: Musk’s Merger Talk Reportedly Creates ‘Mess’ — Rivian Exec Urges Tesla To ‘Stop Doing These Calls’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMC0tenhkSzRDcklQNzg1M0Nsd0tYcERtVTRFNGJtS291by1EVXgwTWZqcmVxa21pZkRFa3pFUFA3RmJNaXBfaWxxQ3ktU0pBTkR3UjV5VHMyQWlQWTFoWnBDSkdscjBFbzRveWx6RXNwR1VwOXR0ZFBvODFreU8zZFZ6eS0tcW5zM044Tm1CMHhWT3JpbTBfS2E5X0NYTWZ3N3dCeHpyRzBOSTY1aTRoRHFLYUV5bXl1eUdoVzZzUFh5dw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-24T23:52:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-24T23:52:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMC0tenhkSzRDcklQNzg1M0Nsd0tYcERtVTRFNGJtS291by1EVXgwTWZqcmVxa21pZkRFa3pFUFA3RmJNaXBfaWxxQ3ktU0pBTkR3UjV5VHMyQWlQWTFoWnBDSkdscjBFbzRveWx6RXNwR1VwOXR0ZFBvODFreU8zZFZ6eS0tcW5zM044Tm1CMHhWT3JpbTBfS2E5X0NYTWZ3N3dCeHpyRzBOSTY1aTRoRHFLYUV5bXl1eUdoVzZzUFh5dw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "TSLA与SPCX盘前下跌，马斯克合并言论引争议",
-   "title_zh": "TSLA与SPCX盘前下跌：马斯克合并言论被指混乱",
-   "sentiment": -1
-  },
-  {
    "id": "50d7ed9c4b9d",
    "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMEtzN3ZoQXgzdzN5ZVdqSjFLQ0JMQ1lWZ1ZHQi04cFVReFVLU09yMm5DQWtIUENmY3NERVZ4YzJaNFpfVkVBOUcwcW9zajBRR1hyaTFUcjRUVkFwTTVzcVAyM1c2V1AyczR5TmlKYnFYVjhNTnhNQ0dFbEI3cDQ",
@@ -6302,171 +6429,6 @@
    "zh_summary": "特斯拉自建地图助力全自动驾驶",
    "title_zh": "特斯拉转向自建地图：为全自动驾驶解决限速、停车等关键难题 - 搜狐网",
    "sentiment": 1
-  },
-  {
-   "id": "4d96d6c67d4e",
-   "title": "特斯拉Roadster完成火箭推进短时飞行演示，国产eVTOL走适航量产商业化路线 - 虎嗅网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fWGU2SFZrZWtOUzN1QWR4RlA0Vk9WRjExa2tVV3ZnMFJZeVh1YjlVWW1vb0pnWXU4RmJCcjFKNmZRa25RTmZqRFFLaXVMWnQzb0tKbA",
-   "source": "虎嗅网",
-   "published_at": "2026-10-24T13:30:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "虎嗅网",
-     "published_at": "2026-10-24T13:30:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fWGU2SFZrZWtOUzN1QWR4RlA0Vk9WRjExa2tVV3ZnMFJZeVh1YjlVWW1vb0pnWXU4RmJCcjFKNmZRa25RTmZqRFFLaXVMWnQzb0tKbA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster完成火箭推进飞行演示",
-   "title_zh": "特斯拉Roadster完成火箭推进短时飞行演示",
-   "sentiment": 1
-  },
-  {
-   "id": "cea86fc0ce70",
-   "title": "Tesla: 2027 Could Be A Massive Growth Inflection Point (Rating Upgrade) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEVwN1AzZFhBMTdrbjdNSFdyZmFZeExFa2dQeFl6cU1OZ0FHNEc1azVueVZjUE9aamdZaWxPTl9mMThVc0tuTWNpemxTU1hONTRIRE9GbVJlZHpkS2w3VnpRRFNLS0h3eFZMYjV0Y3RUYWVlOEczbndGQ1hhRmhXYWlCbjhYZDU4S2hPZXNpR1pOMVRaNW1RYUJNTHZCaVVVbEE",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-24T13:22:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-24T13:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEVwN1AzZFhBMTdrbjdNSFdyZmFZeExFa2dQeFl6cU1OZ0FHNEc1azVueVZjUE9aamdZaWxPTl9mMThVc0tuTWNpemxTU1hONTRIRE9GbVJlZHpkS2w3VnpRRFNLS0h3eFZMYjV0Y3RUYWVlOEczbndGQ1hhRmhXYWlCbjhYZDU4S2hPZXNpR1pOMVRaNW1RYUJNTHZCaVVVbEE"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "特斯拉获评级上调，2027年或迎增长拐点",
-   "title_zh": "特斯拉：2027年或成增长拐点（评级上调）",
-   "sentiment": 1
-  },
-  {
-   "id": "1ba3d31cbe02",
-   "title": "特斯拉在建2万台机器人实训集群，投入约140亿！ - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RNVJ3cUsycmV6RUNranhCSkptaUFPb3VQRFZQd0oxN2c4d0ozOXVpTXhmc2haN2pCeVBmZG5iN0ZhYXo1MngxQ2xnVDAxTTVLSGVr",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-24T13:09:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-24T13:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RNVJ3cUsycmV6RUNranhCSkptaUFPb3VQRFZQd0oxN2c4d0ozOXVpTXhmc2haN2pCeVBmZG5iN0ZhYXo1MngxQ2xnVDAxTTVLSGVr"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-25T13:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uRVVUaWhBVlNtalRkWFlPZ011NkVTVDU5WTB6clVHY2cwZmI1RVN2YkZBbGVxM2g3WF9MOERxLWN3Y1VVNlhtS3RLWEZzOXdE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉投140亿建2万台机器人集群",
-   "title_zh": "特斯拉在建2万台机器人实训集群，投入约140亿！ - 电子工程专辑",
-   "sentiment": 1
-  },
-  {
-   "id": "39d2948a60ea",
-   "title": "Tesla Tariff Refunds Lift Energy Margin to 33.1% [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFjZm9ONUdYZ0dWN2lxLW5JeHh4dGxUUkl4SWZCM1RHMXBNR1Q5UV9ZTDJWVjV3U2I2X3luRFlxeFhBcW9DMG5yU0VhQXdQOHo1VG9Vc2ZxN0twb2RITlBIdHRUN2RPT3FVSkk2SGJ6OHR2M0V5a2Nqa3BFRzRBMHdDSG15UQ",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-24T12:38:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-24T12:38:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmFjZm9ONUdYZ0dWN2lxLW5JeHh4dGxUUkl4SWZCM1RHMXBNR1Q5UV9ZTDJWVjV3U2I2X3luRFlxeFhBcW9DMG5yU0VhQXdQOHo1VG9Vc2ZxN0twb2RITlBIdHRUN2RPT3FVSkk2SGJ6OHR2M0V5a2Nqa3BFRzRBMHdDSG15UQ"
-    }
-   ],
-   "category": "能源",
-   "session": "周末",
-   "zh_summary": "特斯拉关税退款推高能源毛利率至33.1%",
-   "title_zh": "特斯拉关税退款将能源毛利率推高至33.1%",
-   "sentiment": 1
-  },
-  {
-   "id": "dd480fb281b9",
-   "title": "Tesla, SpaceX, Micron and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk1iRXZPVXpYV21JZS1UOWVUYmIwVGhQNE5lTVYxODlUd2dLaVNFTnFja2NxUGNmZnpzeHlMMUpYdDJKX3VXR0E4QUduSTlvdnBWdU5ja294Q3NoOHBibEtWbW8yRkpUU1RiQVJwLUVIQ292UmRySmtNLXJoX3g4dmVxSk50ZWhEV0RTZ1Z0SXZ3YnJKNkdGQWt0eWxOcENRMjBzUTJqaWQ5NnlITXZYMjRkdHRhRXVkZWROcVhoWmxJdEdjSHh0UWN5SUR1ZTFxU2liWXExY3k",
-   "source": "Benzinga",
-   "published_at": "2026-10-24T12:30:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-24T12:30:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk1iRXZPVXpYV21JZS1UOWVUYmIwVGhQNE5lTVYxODlUd2dLaVNFTnFja2NxUGNmZnpzeHlMMUpYdDJKX3VXR0E4QUduSTlvdnBWdU5ja294Q3NoOHBibEtWbW8yRkpUU1RiQVJwLUVIQ292UmRySmtNLXJoX3g4dmVxSk50ZWhEV0RTZ1Z0SXZ3YnJKNkdGQWt0eWxOcENRMjBzUTJqaWQ5NnlITXZYMjRkdHRhRXVkZWROcVhoWmxJdEdjSHh0UWN5SUR1ZTFxU2liWXExY3k"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉等5只股票本周备受投资者关注",
-   "title_zh": "特斯拉、SpaceX、美光等5只股票本周最受投资者关注",
-   "sentiment": 0
-  },
-  {
-   "id": "1c773f4c1383",
-   "title": "特斯拉Roadster大桥坠落视频系AI生成 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03WGl3ZmwxSFFvOG9IaExDUXFLZndEcXFOYkd0eExfaXphUzU3ZUFfTzEwcHZhbjZSb2dxSFc5dTVpMWxXYjVBS1cwT1lSbm9kRTUzelZudFBFNGc",
-   "source": "汽车之家",
-   "published_at": "2026-10-24T12:27:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-24T12:27:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03WGl3ZmwxSFFvOG9IaExDUXFLZndEcXFOYkd0eExfaXphUzU3ZUFfTzEwcHZhbjZSb2dxSFc5dTVpMWxXYjVBS1cwT1lSbm9kRTUzelZudFBFNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Roadster坠桥视频系AI生成",
-   "title_zh": "特斯拉Roadster大桥坠落视频系AI生成 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "74741893f5d3",
-   "title": "Tesla Just Cancelled the Cybertruck For These Two Countries - Autoguide.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEQyeFhxQ1RSVXhCVUI1a25pT1ZLUjRDa1NOX0RfQ3MxVEczMVdPMTZvc196a1NCYWxRY2d4ZElrOWpBTG16YW14T0VnLWVUV1RkYVdPQzRDWENFdnZ2UDRsQkh3U19tbTdKOWNsSzVjOVF1VWo2alV3M19PQ1RSa1ZpZnJ5cDU1bzZjTjNIdk1UMjZObTFkR3ZPUS01dVduQi1mUzZYbGhYRkFXTTRjMnVBLW1EVmlncmZyRDJDeWh3Q3RkWlRNZ0J2aw",
-   "source": "Autoguide.com",
-   "published_at": "2026-10-24T12:26:11+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "Autoguide.com",
-     "published_at": "2026-10-24T12:26:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSEQyeFhxQ1RSVXhCVUI1a25pT1ZLUjRDa1NOX0RfQ3MxVEczMVdPMTZvc196a1NCYWxRY2d4ZElrOWpBTG16YW14T0VnLWVUV1RkYVdPQzRDWENFdnZ2UDRsQkh3U19tbTdKOWNsSzVjOVF1VWo2alV3M19PQ1RSa1ZpZnJ5cDU1bzZjTjNIdk1UMjZObTFkR3ZPUS01dVduQi1mUzZYbGhYRkFXTTRjMnVBLW1EVmlncmZyRDJDeWh3Q3RkWlRNZ0J2aw"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-24T15:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNF95UFRSV2p1WmNoeHdSMnJpa1A5T3I2MnlEc05xZ1pZeFNVNEdLTDFUQjRxdXFQX2JGaDJaQk9yTW9WMjR1VkZ1NmllanlIMzd1RmRkRkdNR3FyMUJURHJ3b3hiNHo2b3VRUWFmWnIxVzY5T290amFPb2F4NnBIVzVydDhqQlBZVlA2bkRpM280N1V2dlJzdGVfYjZpWDJkMjZRVmxqR2JiQQ"
-    },
-    {
-     "name": "PCMag",
-     "published_at": "2026-10-25T12:49:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemVQYk1sbzNtU3FGM2l6N0k4VHR1WlpMQ2NlOXZ6SWl4NGRUMThhbXdKUGNqYlplYWhHaURKRU1Ka1hta0tqSTVGYVJlNXV5UDl5QWMzMXBDeDJWbDVYNHFMRzJUYzJIeU5qUUcyR1dLdU5ueEZ6ZDVZdTlrRW9IaTZVeWZSUWg4djdhOWRrVFlDUFZJTWEw"
-    },
-    {
-     "name": "PCMag Australia",
-     "published_at": "2026-10-25T12:48:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjBaQlBPaEt1Y3lHNVlIbWptM1hFLVJUYUpSd1RkdmVaX2FLQ3dBMWVZNnBXSzlaWlM0bUJ0c0lEcnlEVU1ETTJ6NklqWTNxYVNCZ1VyLXY5eEZjaFo2elp6MzBodWlablZ5VENrSVF6OVROREl4eF9wa0tDemdKb3dxMzlUVUNJMWl4NFZpVjdBZlh2X2EtSkRpWmJMRFlTUm9XdVhR"
-    },
-    {
-     "name": "PCMag Middle East",
-     "published_at": "2026-10-26T04:02:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWJiWndaNjVNeVcwRVp0YlEzQU9NSXhBaWMtb0YzTUtXeTNmNC1FSGJsT1lBUzRwU3VhSUJsMmNKSFhDdWZOY25yb2U4dmV3S3pfM0d3MUV5dWJMNnN4QXlWLVRNZ2tHck9YRC1fTjRCa2trYzNiM1pURXQ2aktEMHY5QVFBX0R4S255dEVFcS04XzRsQ0NiZmkzREZ6eXNLTzUwSVJMZ2I"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉取消两国Cybertruck销售",
-   "title_zh": "特斯拉取消两国Cybertruck销售",
-   "sentiment": -1
   }
  ]
 }
