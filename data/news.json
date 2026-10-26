@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:07:38.388211+00:00",
+ "updated_at": "2026-10-26T05:22:37.054140+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.09（111条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T05:07:38.378985+00:00"
+   "as_of": "2026-10-26T05:22:37.042371+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 111
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7a989fe35507",
+   "title": "【视频】23年6.4万公里特斯拉ModelY - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QUpxa2dCbTNyQl85RWpRY2EtYTFYNmFUUEdqQmwxcWQ3dzBmSHh3R1ZReXFjUG9WMjBzcjFLcTV5blRXUVdzTl9VTDZ4RnA0c1dvME00RlZVRVZGN28zR0lRY1hFeVJNcXB3",
+   "source": "汽车之家",
+   "published_at": "2026-10-26T05:11:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-26T05:11:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96QUpxa2dCbTNyQl85RWpRY2EtYTFYNmFUUEdqQmwxcWQ3dzBmSHh3R1ZReXFjUG9WMjBzcjFLcTV5blRXUVdzTl9VTDZ4RnA0c1dvME00RlZVRVZGN28zR0lRY1hFeVJNcXB3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "dd2da64bdb13",
    "title": "Tesla Cybercabs take over Austin’s F1 weekend - Teslarati",
@@ -383,12 +400,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFaG9pSHRmVzJkWHNTTGthT05QelI4U25lZVFSX0ItQ2g4TFFiNThsQ0FYZWRRLUhXSE1pdGJIaTFUTktHS29mRFpEcFBJWC1SSmhCakRjcHlJR2M",
    "source": "网通社",
    "published_at": "2026-10-26T02:21:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "网通社",
      "published_at": "2026-10-26T02:21:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFaG9pSHRmVzJkWHNTTGthT05QelI4U25lZVFSX0ItQ2g4TFFiNThsQ0FYZWRRLUhXSE1pdGJIaTFUTktHS29mRFpEcFBJWC1SSmhCakRjcHlJR2M"
+    },
+    {
+     "name": "观点网",
+     "published_at": "2026-10-26T05:06:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93ek84RnlDdXd4cWdvWEY5OEtxX3djNHJZM3E5VlZmZ0o5emNseWN5MXdySHVsVTVMcEh6Zk8yUV9lQTBrSVpSX2ItOVFwUmdtSDh4dmRkVFBONjgxeWVVVnpR"
     }
    ],
    "category": "其他",
@@ -6297,31 +6319,6 @@
    "session": "盘后",
    "zh_summary": "Optimus和Cybercab将成特斯拉主要价值",
    "title_zh": "马斯克称Optimus和Cybercab将占特斯拉绝大部分价值",
-   "sentiment": 0
-  },
-  {
-   "id": "1bb542c92992",
-   "title": "SpaceX-Tesla Merger? | Zuckerberg's Deal | The Rundown - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamw5NTBiZ2Z0NXhaRTVRYUp5Z0pjR1JVVGxEVl8zdkJ0SnVtOElHbVBqclBLbTlaY1ozdVNpVVNZNlE2NUw0Umg3b2RXd2ZyUmoyT1g1OGZ3UXBXekxwNWhPY3hvQnhtT3BuVXZ5Vjk1ZWJEbE5xU2lEdFJ3RDBRaGVOWlE3YTRMbDMzODE3b1VBOFhMemZZMkhqdjNSTmtNenl5RU1ueDN6SnlWdW5NbE01dTZrZU9OcTNsY0ZBMGpYNm8",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-23T19:57:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-23T19:57:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamw5NTBiZ2Z0NXhaRTVRYUp5Z0pjR1JVVGxEVl8zdkJ0SnVtOElHbVBqclBLbTlaY1ozdVNpVVNZNlE2NUw0Umg3b2RXd2ZyUmoyT1g1OGZ3UXBXekxwNWhPY3hvQnhtT3BuVXZ5Vjk1ZWJEbE5xU2lEdFJ3RDBRaGVOWlE3YTRMbDMzODE3b1VBOFhMemZZMkhqdjNSTmtNenl5RU1ueDN6SnlWdW5NbE01dTZrZU9OcTNsY0ZBMGpYNm8"
-    },
-    {
-     "name": "Bloomberg",
-     "published_at": "2026-10-23T19:57:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamw5NTBiZ2Z0NXhaRTVRYUp5Z0pjR1JVVGxEVl8zdkJ0SnVtOElHbVBqclBLbTlaY1ozdVNpVVNZNlE2NUw0Umg3b2RXd2ZyUmoyT1g1OGZ3UXBXekxwNWhPY3hvQnhtT3BuVXZ5Vjk1ZWJEbE5xU2lEdFJ3RDBRaGVOWlE3YTRMbDMzODE3b1VBOFhMemZZMkhqdjNSTmtNenl5RU1ueDN6SnlWdW5NbE01dTZrZU9OcTNsY0ZBMGpYNm8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "彭博讨论SpaceX与特斯拉合并传闻",
-   "title_zh": "SpaceX-特斯拉合并？扎克伯格的交易|彭博市场综述",
    "sentiment": 0
   }
  ]
