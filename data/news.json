@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T15:37:30.287255+00:00",
+ "updated_at": "2026-10-26T15:52:31.998869+00:00",
  "market": {
-  "price": 395.42,
-  "change_pct": 6.23,
+  "price": 393.89,
+  "change_pct": 5.82,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 51% 分位"
+     "note": "现价处于52周区间 50% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +3.1%"
+     "note": "目标价中位数 $408（18家），隐含空间 +3.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（161条已评分）"
+     "note": "今日新闻情绪 +0.43（174条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $395.42 vs 20日均线 $371.76"
+     "note": "现价 $393.89 vs 20日均线 $371.69"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 51,
+   "price_52w_pct": 50,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 3.1,
-   "ma20": 371.76,
-   "as_of": "2026-10-26T15:37:30.278243+00:00"
+   "implied_upside_pct": 3.5,
+   "ma20": 371.69,
+   "as_of": "2026-10-26T15:52:31.984190+00:00"
   },
-  "pe_ttm": 109.4,
+  "pe_ttm": 108.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 161
+   "avg": 0.43,
+   "count": 174
   }
  },
  "meta": {
@@ -67,6 +67,108 @@
   }
  },
  "stories": [
+  {
+   "id": "ca2e519c7e47",
+   "title": "Tesla Turo FSD Rentals Launch Oct. 28 [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cDBOREtiU0xud1hBNVFJVEdybHlMdTZuZHJMMnQzR2tLeF9xTVFDUExWU0IzdlBxQ3dNY1MzamczcjRuOW9iN1l0aW1EMDB4dEJzOE1NMlp3NUlZTXhVSkpfN2ktcGZBTHJjUEZhVlBDVDJKa0U2VDhzQQ",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-26T15:43:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-26T15:43:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cDBOREtiU0xud1hBNVFJVEdybHlMdTZuZHJMMnQzR2tLeF9xTVFDUExWU0IzdlBxQ3dNY1MzamczcjRuOW9iN1l0aW1EMDB4dEJzOE1NMlp3NUlZTXhVSkpfN2ktcGZBTHJjUEZhVlBDVDJKa0U2VDhzQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "e84d8d92feb0",
+   "title": "Tesla Is Building Maps for FSD After Years of Dismissal - Gadget Review",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjBYOWs0WUx6THRqY0pDNnE2cW81cGJ2b2lwcGI1ZEFPS3pVd2x2dHUzQVpTYzAxVDE3SGdndFZNdzJiMmpadmlXY0dsS205Mmg1OVpmLUtIdnlSekR1bVo0VXhNQWpIamdxSG9XZTAwaUN4ZkgyN1N1N3BDZXppd1VlcHBDcWpVNWx3Uw",
+   "source": "Gadget Review",
+   "published_at": "2026-10-26T15:42:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gadget Review",
+     "published_at": "2026-10-26T15:42:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjBYOWs0WUx6THRqY0pDNnE2cW81cGJ2b2lwcGI1ZEFPS3pVd2x2dHUzQVpTYzAxVDE3SGdndFZNdzJiMmpadmlXY0dsS205Mmg1OVpmLUtIdnlSekR1bVo0VXhNQWpIamdxSG9XZTAwaUN4ZkgyN1N1N3BDZXppd1VlcHBDcWpVNWx3Uw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "3a205e23b756",
+   "title": "特斯拉 Cybercab 启动小规模部署，NHTSA 监管压力未阻交付 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTeXJyZ1owOUR0bGxxVmFqOXNRaFRmSjN0YWlJWEJBWnBGeEtUeUJrb216TVVWZ21YZHFKeDRsLTlVcU9BRFAzX0ZDU1ZzRkVuYVNYUHBIRHdEUWJpYlBfUmYxMXdiQ21HRlVV",
+   "source": "汽车之家",
+   "published_at": "2026-10-26T15:41:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-26T15:41:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTeXJyZ1owOUR0bGxxVmFqOXNRaFRmSjN0YWlJWEJBWnBGeEtUeUJrb216TVVWZ21YZHFKeDRsLTlVcU9BRFAzX0ZDU1ZzRkVuYVNYUHBIRHdEUWJpYlBfUmYxMXdiQ21HRlVV"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "a7a938bbcd9a",
+   "title": "特斯拉Cybercab启动部署，无方向盘交付存疑 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83YjNSa3lCUWJDd2hVQkEtemxwS1hoMnU5RmROWDJCZHJrX19HX1ppdDR1STVXNERrWjNZN3ZDMlkxcS1meWVUNW9oVHdHcmY4NzdzVWJ6LXJsSzVxTFgzYm9DbkVocWN3N0dJ",
+   "source": "汽车之家",
+   "published_at": "2026-10-26T15:40:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-26T15:40:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83YjNSa3lCUWJDd2hVQkEtemxwS1hoMnU5RmROWDJCZHJrX19HX1ppdDR1STVXNERrWjNZN3ZDMlkxcS1meWVUNW9oVHdHcmY4NzdzVWJ6LXJsSzVxTFgzYm9DbkVocWN3N0dJ"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "4c1cdb69053d",
+   "title": "特斯拉Cybercab年底交付，无方向盘智驾遭NHTSA审查 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lTk9Mb2xzOURYVXdFZWd3VDdXUjEybjVSOU5MMnFuOERvNWlITEZIb2NhcGludjVma2VaUWh3YmRTSV80QnZ5bWxTVjhNLXZ0V1lWQzF2cGE1Mmc",
+   "source": "汽车之家",
+   "published_at": "2026-10-26T15:40:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-26T15:40:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lTk9Mb2xzOURYVXdFZWd3VDdXUjEybjVSOU5MMnFuOERvNWlITEZIb2NhcGludjVma2VaUWh3YmRTSV80QnZ5bWxTVjhNLXZ0V1lWQzF2cGE1Mmc"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "49d1b02e2a10",
+   "title": "Tesla, SpaceX, and a $100 Billion Chip Bet: Elon Musk Is Playing a Different Game - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2FZT3QzODBQMFJGeWRIQWpHOGQ0d3k4TklnMGVyZ0RQalp3RE5fdU5VdnJDRTBTM2piWG9Qam85NkpQSHc0aVBleldjNWFPNDBkQXdZQWFrdnJkZW5TMXNEaEdsMFdBaURkSTQ1Q3dBamJndFZQWTN3alp2aEVIQjFvc2pXM3plRlpvVU4wOGZvX3JpazZ6a0tzMjVnMFJ5b09heWRMR1g1eVhsaGdRSWVDT0U1WTdYcmpIZUpn",
+   "source": "Barchart.com",
+   "published_at": "2026-10-26T15:39:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-10-26T15:39:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2FZT3QzODBQMFJGeWRIQWpHOGQ0d3k4TklnMGVyZ0RQalp3RE5fdU5VdnJDRTBTM2piWG9Qam85NkpQSHc0aVBleldjNWFPNDBkQXdZQWFrdnJkZW5TMXNEaEdsMFdBaURkSTQ1Q3dBamJndFZQWTN3alp2aEVIQjFvc2pXM3plRlpvVU4wOGZvX3JpazZ6a0tzMjVnMFJ5b09heWRMR1g1eVhsaGdRSWVDT0U1WTdYcmpIZUpn"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "64380ab7e988",
    "title": "I Wouldn't Buy Tesla Stock Betting on a SpaceX Deal. Here's Why. - The Motley Fool",
@@ -106,6 +208,40 @@
    "zh_summary": "特斯拉Robotaxi即将在杰克逊维尔上线",
    "title_zh": "特斯拉Robotaxi在杰克逊维尔显示即将推出",
    "sentiment": 1
+  },
+  {
+   "id": "df75e6dc3a3d",
+   "title": "美股芯片股深夜全线上涨，ARM涨超5%，特斯拉涨超6%，XP暴跌50% - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qeUUzUXFkNklhblJQVFd1OXFobkEzTmV3MFhzSzZfR2g0Y1VvSF9rYnhpRU9tMU1NaWRWUlU5b0dVRDE4TlhXalh1X2NPWHY4NDJmal9CTUpRcFhfNER3aHlFSDkycmlDTnBWX3cxWTVDNDZVNlE",
+   "source": "新浪财经",
+   "published_at": "2026-10-26T15:24:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T15:24:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qeUUzUXFkNklhblJQVFd1OXFobkEzTmV3MFhzSzZfR2g0Y1VvSF9rYnhpRU9tMU1NaWRWUlU5b0dVRDE4TlhXalh1X2NPWHY4NDJmal9CTUpRcFhfNER3aHlFSDkycmlDTnBWX3cxWTVDNDZVNlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "83c53d2dc0ce",
+   "title": "特斯拉在得州奥斯汀启动Cybercab小规模部署，计划2026年年底前交付客户 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRWpTM2l1N1hkOHJmLWdJcm9aTjR6RzIydVpmQWJqRnR6ZzhiWkExa2U5dnk2dU04SlQzWFdVQ1N0bFdDQlRXNkdoTHJoNHpXNF9BZjd3aGpndUU",
+   "source": "网通社",
+   "published_at": "2026-10-26T15:24:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-26T15:24:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRWpTM2l1N1hkOHJmLWdJcm9aTjR6RzIydVpmQWJqRnR6ZzhiWkExa2U5dnk2dU04SlQzWFdVQ1N0bFdDQlRXNkdoTHJoNHpXNF9BZjd3aGpndUU"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
   },
   {
    "id": "2d680a40adaa",
@@ -231,6 +367,23 @@
    "zh_summary": "NHTSA监管下特斯拉仍推进Cybercab交付",
    "title_zh": "NHTSA监管压力下特斯拉推进Cybercab交付",
    "sentiment": 0
+  },
+  {
+   "id": "0be16ae0d188",
+   "title": "Turo Launches Verified Tesla FSD Rental Experience in the US - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVc4M3QyN0RZcnM4MzFZN19JaUZBVmtqVmRSSW95emFfdjIyNzRrWEQxWExSMFFLN3hyWVZZYXZfdnVRd3R5UU1LNjdwNk95djRvRnlKR1QzaHppUGl4eUFDOTZpMjZMUnVOLUJLU1l4a255QUpvbjlsS2xyUHBWUHpuMA",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-26T15:12:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-26T15:12:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVc4M3QyN0RZcnM4MzFZN19JaUZBVmtqVmRSSW95emFfdjIyNzRrWEQxWExSMFFLN3hyWVZZYXZfdnVRd3R5UU1LNjdwNk95djRvRnlKR1QzaHppUGl4eUFDOTZpMjZMUnVOLUJLU1l4a255QUpvbjlsS2xyUHBWUHpuMA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "b2f11d552c08",
@@ -528,12 +681,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LTVR6Q1ZHb0RFQUUteGRHUmtLbW5SdWZkWFV5eEc0SE5VdXpWR0IxWmV5VEFKVmpxbDEzbzhzRVk0MUVSX3hXZWRfR0FqYXR0eUJ0X2JXR1hldjZub0xXVk13",
    "source": "同花顺财经",
    "published_at": "2026-10-26T14:37:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "同花顺财经",
      "published_at": "2026-10-26T14:37:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LTVR6Q1ZHb0RFQUUteGRHUmtLbW5SdWZkWFV5eEc0SE5VdXpWR0IxWmV5VEFKVmpxbDEzbzhzRVk0MUVSX3hXZWRfR0FqYXR0eUJ0X2JXR1hldjZub0xXVk13"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T15:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnRzk4VVg0eGZNZVNNaHZVckFsRzcwZFAtLXJ1aVNhOXpTcmhyRW9ZV0x4ZjZkOEplN2tZX0lPNzViTHRnY21QeklSQWRKWF96VzJIRWwzUThURXVJejBYWTAyZUZlWUNEQjlNMGt3"
     }
    ],
    "category": "其他",
@@ -1566,12 +1724,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWHJjT25LRWtCcExOQUNCZHVuVGpjQUpWZUhEaUViUFJPYzcwMUctZS1MT3docmdhRDBpay1TTUItN1hkRWZBMDhTek1TVlIwV1BXZUFtYUs",
    "source": "驱动之家",
    "published_at": "2026-10-26T12:41:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-26T12:41:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWHJjT25LRWtCcExOQUNCZHVuVGpjQUpWZUhEaUViUFJPYzcwMUctZS1MT3docmdhRDBpay1TTUItN1hkRWZBMDhTek1TVlIwV1BXZUFtYUs"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-26T12:41:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LUmQ4blhaWnQtVER1MURybG9kSVNhOU5JX0J3b254NTFtQ2F6N1U3azdBTDE2a3ZiVGpJdkVqbVhZRTlaeXV0d21XOHI2ck5xa0F3MTYteTF4SnExN3ZteQ"
     }
    ],
    "category": "其他",
@@ -6393,196 +6556,6 @@
    "session": "周末",
    "zh_summary": "Megapack需求旺盛2027年产能已近售罄",
    "title_zh": "特斯拉正全速生产Megapack，2027年产能几近售罄",
-   "sentiment": 1
-  },
-  {
-   "id": "7215b98c24cd",
-   "title": "GM Just Announced a $20 Billion Buyback. Tesla Trades at 350 Times Earnings. Here's Which Auto Stock I'd Buy Today. - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkh5emU4R2VsQ181blJsNGdkZlBuampZVm8yR2FiZ21OSWllUjFHd0R4SzhxQkN5NkxIUHZscGktM1l0RVBVSHNkMTB2bFV1UnVFSlZIaURBbjdZMnZ4bmFNckxJSjZRaXRnZGRvYWZLMzEtcUlSMGVqRHNENXlGZE9HZWdiSDJhSXBwX1pwNEZqWjg4OG93bA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-25T06:25:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-25T06:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkh5emU4R2VsQ181blJsNGdkZlBuampZVm8yR2FiZ21OSWllUjFHd0R4SzhxQkN5NkxIUHZscGktM1l0RVBVSHNkMTB2bFV1UnVFSlZIaURBbjdZMnZ4bmFNckxJSjZRaXRnZGRvYWZLMzEtcUlSMGVqRHNENXlGZE9HZWdiSDJhSXBwX1pwNEZqWjg4OG93bA"
-    },
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-25T06:26:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkdvNzZ0Zk5na3UtLUIxOUdpaHZTUU1PTjlDTzFsQWx5d01ITnBsU3NUb1U5c09mUE1MRkxFcGZJcEtBZlViY0JNTWl6UGZYS0xwVlNFbjRtQmk0WDhRTDBlRXlrdmluUjJRUVhCQVlvcnA1SmNuQkJhQkpXTi1IeEFtVzNUTXFYUXJOOWZIbFA0bVV2VXQtQQ"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "通用宣布200亿美元回购，特斯拉市盈率350倍",
-   "title_zh": "通用宣布200亿美元回购，特斯拉市盈率达350倍",
-   "sentiment": 0
-  },
-  {
-   "id": "ba12d5f2eb96",
-   "title": "【视频】2026款特斯拉Roadster首发亮相抢先看 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T06:23:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T06:23:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "2026款特斯拉Roadster首发亮相",
-   "title_zh": "【视频】2026款特斯拉Roadster首发亮相抢先看 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "919a0cc1d381",
-   "title": "Tesla Website 2026: Robotaxi, Semi & Roadster Specs - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTM3Uzh4LWJHam1rS0pKMTJJY1RKZDQtX2R3TFp1b2hndTNEN1V5d1NuS21mb2dPaTV2bHNXVjlZV2YzMFRGX0NsSFJkQUlRS3FXS0lWb3RqMVduVWVQaXV5RXhWRkNLUDBwTVRtQjV6Z1RkeFZRbnZ2WXVKcUhadE9paDRxdUIwZ0tONkRNYm8",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-25T06:20:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-25T06:20:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUTM3Uzh4LWJHam1rS0pKMTJJY1RKZDQtX2R3TFp1b2hndTNEN1V5d1NuS21mb2dPaTV2bHNXVjlZV2YzMFRGX0NsSFJkQUlRS3FXS0lWb3RqMVduVWVQaXV5RXhWRkNLUDBwTVRtQjV6Z1RkeFZRbnZ2WXVKcUhadE9paDRxdUIwZ0tONkRNYm8"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉官网聚焦Robotaxi等车型参数",
-   "title_zh": "特斯拉2026官网：Robotaxi、Semi与Roadster参数",
-   "sentiment": 0
-  },
-  {
-   "id": "c0624f8c64b1",
-   "title": "订单近4年新高，利润却腰斩？特斯拉发布Q3财报 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYmNEcnlXdDR6OWl1ZDZadjJ4b3BoTkNxTzRHQ2psUmJ6SUdNUEhNSHZLS0RCVi1fT3dOQXlRbzZPTjFXS2tmUjR0Q3Nnbl9nWnhaRW02VlRQMnc",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T06:13:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T06:13:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYmNEcnlXdDR6OWl1ZDZadjJ4b3BoTkNxTzRHQ2psUmJ6SUdNUEhNSHZLS0RCVi1fT3dOQXlRbzZPTjFXS2tmUjR0Q3Nnbl9nWnhaRW02VlRQMnc"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "特斯拉Q3订单近4年新高但利润腰斩",
-   "title_zh": "订单近4年新高，利润却腰斩？特斯拉发布Q3财报 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "43246fc4eb72",
-   "title": "Tesla slashes Model 3 & Model Y prices after Cybertruck cancellation - The Supercar Blog",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2xjeDVlNEJXc2NkdXpEVzVMY3A0RVZxTzlaYllDaXNMVmxwb0pSSlpkNmZheW5DZThJSVZINllGdkxKX3dKWi1yaUhwX1hRcDJrTUo4X2NMMTFnZzRubVZjS21KS2ZlX2pMQjJHclFfMEdVeU05S1JqT09BTm5EalFweWVqV3RqNjNWaHN4VzVGdjVJU1JkZjBydURfbFFp",
-   "source": "The Supercar Blog",
-   "published_at": "2026-10-25T06:12:35+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Supercar Blog",
-     "published_at": "2026-10-25T06:12:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2xjeDVlNEJXc2NkdXpEVzVMY3A0RVZxTzlaYllDaXNMVmxwb0pSSlpkNmZheW5DZThJSVZINllGdkxKX3dKWi1yaUhwX1hRcDJrTUo4X2NMMTFnZzRubVZjS21KS2ZlX2pMQjJHclFfMEdVeU05S1JqT09BTm5EalFweWVqV3RqNjNWaHN4VzVGdjVJU1JkZjBydURfbFFp"
-    },
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-25T16:15:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUG5ERG9Kem5nOGt0algxS3JYaUZ4QTRUa2huWFlWRmRCY3VFeXJsTXZzYXlPX0FkS2d4eXJTOGVqcURUSFI5aHRNVjJXZExxYXNrSmU0SWVYZUlWakRyQWh4T3ZfVXJIckJjWFZ5UEFQeEZ1ZGpuRDFnakVobU40V1c3QndaUDZIdGhPTkRuNDktbDJzSS1aVE9nRmIxQWxt"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Cybertruck停产后特斯拉降价3/Y",
-   "title_zh": "特斯拉取消Cybertruck后下调Model 3/Y售价",
-   "sentiment": -1
-  },
-  {
-   "id": "069d748f2000",
-   "title": "Tesla Roadster Performance Trim: Every New Detail Confirmed - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2s3SFprTGQtUEpQVm43UW1aLTNkM0RrYmQ0NHFTbVByemJjTE9vclAxaE53N3lEZ28zWXhXMl80d2p4Qk9kN0liNUFUUWk2d3lRZXFKb3NubzNrbzkzWTdVdUxnYmY1UWFyYWJRT0IzYlhWdUFJU29UQUJRS0hVamh6eDdSeXVvNjZCNGUza2kwZi1BNWQ3Mw",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-25T06:06:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-25T06:06:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2s3SFprTGQtUEpQVm43UW1aLTNkM0RrYmQ0NHFTbVByemJjTE9vclAxaE53N3lEZ28zWXhXMl80d2p4Qk9kN0liNUFUUWk2d3lRZXFKb3NubzNrbzkzWTdVdUxnYmY1UWFyYWJRT0IzYlhWdUFJU29UQUJRS0hVamh6eDdSeXVvNjZCNGUza2kwZi1BNWQ3Mw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster性能版细节全部确认",
-   "title_zh": "特斯拉Roadster性能版：全部新细节确认",
-   "sentiment": 0
-  },
-  {
-   "id": "ba9e26659c54",
-   "title": "Tesla Reshapes Its Website Around Robotaxi, Semi, and Roadster - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmdEN0RDNTdqOC1pNUp6UkZuNnZGMjNvQVBhb2w4RVU0QnljQWZWbGV1OGFQejVKYUR3cm8zRElTcFh4RVg0bjVPMzlCaUdfTW5SXzcyWDY3X1Z4a1dqQjdlcGVncHVuU2hsN1NaaVdYRXV4ek91aFo3bjJCazhzVXlzdDlmYVYtYVc4R3lZamFsOTFoWWJUdVV0WQ",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-25T06:04:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-25T06:04:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmdEN0RDNTdqOC1pNUp6UkZuNnZGMjNvQVBhb2w4RVU0QnljQWZWbGV1OGFQejVKYUR3cm8zRElTcFh4RVg0bjVPMzlCaUdfTW5SXzcyWDY3X1Z4a1dqQjdlcGVncHVuU2hsN1NaaVdYRXV4ek91aFo3bjJCazhzVXlzdDlmYVYtYVc4R3lZamFsOTFoWWJUdVV0WQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉官网改版聚焦Robotaxi等产品",
-   "title_zh": "特斯拉官网改版聚焦Robotaxi、Semi和Roadster",
-   "sentiment": 0
-  },
-  {
-   "id": "bc15fe88a2e9",
-   "title": "汽车及汽车零部件行业周报：特斯拉发布三季报，FSD商业化进程加速_行业研究_研报 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lRmZhREFtLUlOaEdwSEpDNllXbGR5QjdJcVNrV3dwX0pVOThOZzk3cGZrRmVJZl93YVlQQ1NqYjlDY0JWU0k0dzNqd1NZYWhqWUZOMmJIb09WZ0pvV0NQS1JB",
-   "source": "证券之星",
-   "published_at": "2026-10-25T06:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-25T06:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lRmZhREFtLUlOaEdwSEpDNllXbGR5QjdJcVNrV3dwX0pVOThOZzk3cGZrRmVJZl93YVlQQ1NqYjlDY0JWU0k0dzNqd1NZYWhqWUZOMmJIb09WZ0pvV0NQS1JB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉三季报出炉，FSD商业化加速",
-   "title_zh": "特斯拉三季报发布，FSD商业化进程加速",
-   "sentiment": 1
-  },
-  {
-   "id": "f2fce64cb454",
-   "title": "【视频】特斯拉展示Roadster2跑车！零百加速0.81秒！还能悬停倒着飞！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FR3Z5bFJLTUNoa3JNZXdlUml1a2lEd205LVhuSjdqVkJvUVVQaXZaMkduUnZNRjdYQzFyXzZvcl85bS1PZlNrMnQ3N3MwT1o3ZzNhcjdUcU1BSE0",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T05:39:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T05:39:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FR3Z5bFJLTUNoa3JNZXdlUml1a2lEd205LVhuSjdqVkJvUVVQaXZaMkduUnZNRjdYQzFyXzZvcl85bS1PZlNrMnQ3N3MwT1o3ZzNhcjdUcU1BSE0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉展示Roadster2零百加速0.81秒",
-   "title_zh": "特斯拉展示Roadster2零百加速0.81秒可悬停",
    "sentiment": 1
   }
  ]
