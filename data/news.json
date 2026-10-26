@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:22:37.054140+00:00",
+ "updated_at": "2026-10-26T05:37:39.454256+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.33（3条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T05:22:37.042371+00:00"
+   "as_of": "2026-10-26T05:37:39.448294+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.33,
+   "count": 3
   }
  },
  "meta": {
@@ -153,12 +153,17 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50ZXROc0dQb3BIMy05RHRNNi04NXdxeVVvRGt5Y21jV244TWhKSGNiS1luc3Vqd1NCSTJYNzNTTTh2eUxld1NvM1dBV2tHelVzY1dYbWNOMkxQMDNM",
    "source": "Moomoo",
    "published_at": "2026-10-26T04:19:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Moomoo",
      "published_at": "2026-10-26T04:19:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50ZXROc0dQb3BIMy05RHRNNi04NXdxeVVvRGt5Y21jV244TWhKSGNiS1luc3Vqd1NCSTJYNzNTTTh2eUxld1NvM1dBV2tHelVzY1dYbWNOMkxQMDNM"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-26T04:25:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXZVWlhJenEtTF9UZHpJWk90NjdTY0tBSm5lZ3czaG5vTHM5VW9Nb19obHFVbC01UzZ0bTByeVlmN0pMOVhPVktnSGtDVGRnMGplQk5rM1RmTy05TER6UnJodU9FaWl4M1lnU2UxRE9XVVJqWC12YVpURG1jVDZhUGdGOWVnREc4QWFXUlhOS2Y2dVNMWnplVkVzYzhEMVpzeHF1VDE1MHFTLW03R1llRUtxX3doWGFH"
     }
    ],
    "category": "分析师",
@@ -421,6 +426,23 @@
    "zh_summary": "特斯拉全系现款车型标配被动安全系统",
    "title_zh": "特斯拉发布事故视频并宣布全系现款车型标配被动安全系统",
    "sentiment": 0
+  },
+  {
+   "id": "8307fbdff1fe",
+   "title": "等红灯被追尾，特斯拉称车身结构护住了车主安全|特斯拉|迈克尔|被动安全系统|直营体系_新浪新闻 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lR25zaUs0XzQ1anhYS21YRGliTWRkNW1QcTdVblhZT0dUM0dXai01dUp2azB3XzU2R3d6djlQTl9lcEFtbHVacC1KZWE0UkRveDlrR2ExMHhsd0hYRDNVNkNfVQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-26T02:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-26T02:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lR25zaUs0XzQ1anhYS21YRGliTWRkNW1QcTdVblhZT0dUM0dXai01dUp2azB3XzU2R3d6djlQTl9lcEFtbHVacC1KZWE0UkRveDlrR2ExMHhsd0hYRDNVNkNfVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "334a63fea4f6",
@@ -6302,26 +6324,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉Roadster或将合法上路",
    "title_zh": "德桑蒂斯推特斯拉Roadster合法上路，达菲称先保安全",
-   "sentiment": 0
-  },
-  {
-   "id": "6ec29a2f8284",
-   "title": "Musk: Optimus and Cybercab “Will Be the Vast Majority of Tesla’s Value” as Earnings Loom - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3oyOS1qSTVGQU9LUHBOald6RTVjYXJUR29UTlRQNThEQ1p1Uzk3YW5OZS1nQndtMWRUYXhaU2xQNXMxc201bS1kbXdzOV8tT2ZCQWhDelh2ZXRHMnE0MzhGaEJDZk5ZS0VGZktmRVVUR09HZThob2pva3daX3BRdExPM29SNnoyczNENEcwZ1FRZzY1SXZNdjJDOFJYSmp2RkE",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T20:05:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T20:05:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3oyOS1qSTVGQU9LUHBOald6RTVjYXJUR29UTlRQNThEQ1p1Uzk3YW5OZS1nQndtMWRUYXhaU2xQNXMxc201bS1kbXdzOV8tT2ZCQWhDelh2ZXRHMnE0MzhGaEJDZk5ZS0VGZktmRVVUR09HZThob2pva3daX3BRdExPM29SNnoyczNENEcwZ1FRZzY1SXZNdjJDOFJYSmp2RkE"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "Optimus和Cybercab将成特斯拉主要价值",
-   "title_zh": "马斯克称Optimus和Cybercab将占特斯拉绝大部分价值",
    "sentiment": 0
   }
  ]
