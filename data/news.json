@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T08:52:29.463803+00:00",
+ "updated_at": "2026-10-26T09:07:32.231639+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（24条已评分）"
+     "note": "今日新闻情绪 +0.16（25条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T08:52:29.448053+00:00"
+   "as_of": "2026-10-26T09:07:32.221305+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 24
+   "avg": 0.16,
+   "count": 25
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a8e9505997dc",
+   "title": "美股异动丨特斯拉盘前涨近2%，巴克莱上调评级至“增持”，SpaceX合并预期发酵 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVNnNGtrclZfQWJja3B1TEp5VFJ4QXNMaVRkUkMtY21DYTZjM0ZsQUlWbkRsYWJkek5qVUd1SFhQM2VrUnBlMzN3ODZmTnE3Mng3SVNqbnd3OVZsRV9EcUYyVjk4WkUxd29KdnU3NTdZNC03Y1IxVFlITUtFdjdsQw",
+   "source": "新浪财经",
+   "published_at": "2026-10-26T08:45:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T08:45:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVNnNGtrclZfQWJja3B1TEp5VFJ4QXNMaVRkUkMtY21DYTZjM0ZsQUlWbkRsYWJkek5qVUd1SFhQM2VrUnBlMzN3ODZmTnE3Mng3SVNqbnd3OVZsRV9EcUYyVjk4WkUxd29KdnU3NTdZNC03Y1IxVFlITUtFdjdsQw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
   {
    "id": "0b8b9e71158d",
    "title": "特斯拉押注“飞行版”Roadster提振股价：年内跌17%，华尔街认为短期盈利贡献有限 - 新浪财经",
@@ -6364,26 +6381,6 @@
    "zh_summary": "特斯拉FSD在中国市场面临时间压力",
    "title_zh": "未建立领先优势，也入不了华，中国市场留给特斯拉FSD的时间不多了？",
    "sentiment": -1
-  },
-  {
-   "id": "e6787ba412f1",
-   "title": "Tesla's Robotaxi: The Math Behind a 2027 Profitability Bet - Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc",
-   "source": "Gasgoo",
-   "published_at": "2026-10-24T00:48:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gasgoo",
-     "published_at": "2026-10-24T00:48:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEhwMnpILXIyRTJHOW5qZXhYT3RIU1NVdUZ0YzEwaVJWMEFmdGpXVVpsdUY4UEVSUHl1TUhMaUdIVWJrVTFFMy04ODRUUzR0b1dFZFhXdWxVdWhXam85NlY5X1VkblVCNXJILWJ6MC1xQ09Ld29aTVhueXZLNFdHZ1FKMFBiX0RUR2tCUDgzelhYemFwYzBuQnZVdTJsUnQ2WXZTSTRDWEpPbjN3QVZzMTZpZi1uVUdGMHc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉Robotaxi 2027盈利测算",
-   "title_zh": "特斯拉Robotaxi：2027盈利押注背后的数学",
-   "sentiment": 1
   }
  ]
 }
