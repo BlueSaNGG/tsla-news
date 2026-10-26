@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T16:22:36.727354+00:00",
+ "updated_at": "2026-10-26T16:37:28.009238+00:00",
  "market": {
-  "price": 394.48,
-  "change_pct": 5.98,
+  "price": 394.74,
+  "change_pct": 6.05,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +3.3%"
+     "note": "目标价中位数 $408（18家），隐含空间 +3.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（188条已评分）"
+     "note": "今日新闻情绪 +0.45（190条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $394.48 vs 20日均线 $371.72"
+     "note": "现价 $394.74 vs 20日均线 $371.73"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 50,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 3.3,
-   "ma20": 371.72,
-   "as_of": "2026-10-26T16:22:36.714506+00:00"
+   "implied_upside_pct": 3.2,
+   "ma20": 371.73,
+   "as_of": "2026-10-26T16:37:28.001436+00:00"
   },
-  "pe_ttm": 109.1,
+  "pe_ttm": 109.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.2%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.45,
-   "count": 188
+   "count": 190
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9962619a1e1c",
+   "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTT0tHZ0EyX0pTVTgyTGUyZG81US1PeWw0Q1dmTmwySWo2cG1UZjJnRXBUeXhaMl91Szl1OFpPaDBOMGtpQ1B1RzFQVS1IcUg4YjFVV3o1R2x1eWxiN0ZxRTZ0emZuLXg4VktxWllfZkYwT3Utb211ZXpFRkE",
+   "source": "Electrek",
+   "published_at": "2026-10-26T16:27:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-26T16:27:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTT0tHZ0EyX0pTVTgyTGUyZG81US1PeWw0Q1dmTmwySWo2cG1UZjJnRXBUeXhaMl91Szl1OFpPaDBOMGtpQ1B1RzFQVS1IcUg4YjFVV3o1R2x1eWxiN0ZxRTZ0emZuLXg4VktxWllfZkYwT3Utb211ZXpFRkE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "b3c668823426",
    "title": "QQQ is up 1.1% today, on TSLA stock price movement - Quiver Quantitative",
@@ -86,6 +103,23 @@
    "zh_summary": "QQQ今日上涨1.1%涉特斯拉股价",
    "title_zh": "QQQ今日上涨1.1%，涉特斯拉股价走势",
    "sentiment": 0
+  },
+  {
+   "id": "5c8fcbcf5a11",
+   "title": "Dan Ives Sees Tesla-SpaceX Merger at $500 a Share - Tesla (NASDAQ:TSLA), SpaceX (NASDAQ:SPCX) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQVE4cjRyV0FXWEIyZ0tKYndsekN5QXotM3BNYmVsV2V2eVI0QTRtaWF6aGtJZE1tOUQ4WEpfRXhrSWpFODdDUlpRZUJSNFBLZGM1VU9yWnQ4eHJ1Z3lSdmdpTkd3NWVIRk1CUVZVYWZFUGM5X1E",
+   "source": "Benzinga",
+   "published_at": "2026-10-26T16:15:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-26T16:15:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQVE4cjRyV0FXWEIyZ0tKYndsekN5QXotM3BNYmVsV2V2eVI0QTRtaWF6aGtJZE1tOUQ4WEpfRXhrSWpFODdDUlpRZUJSNFBLZGM1VU9yWnQ4eHJ1Z3lSdmdpTkd3NWVIRk1CUVZVYWZFUGM5X1E"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "55b9d1977bd1",
@@ -4520,6 +4554,23 @@
    "sentiment": 0
   },
   {
+   "id": "a4b92452202e",
+   "title": "特斯拉确认正自研AI地图，将随FSD v15逐步推送 - 泰伯网",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMbEVtc1NOTWlNaVBRYk1EY2xTdzJVek45WW44ZnFwX29idzBFVnUydVk2X0xfemFnVTMtVzd2czNwdw",
+   "source": "泰伯网",
+   "published_at": "2026-10-26T03:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "泰伯网",
+     "published_at": "2026-10-26T03:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMbEVtc1NOTWlNaVBRYk1EY2xTdzJVek45WW44ZnFwX29idzBFVnUydVk2X0xfemFnVTMtVzd2czNwdw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "b5015794c19f",
    "title": "TSLA.O - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVlA5X1VtZkpsMHdqSUN2bm1IWm1lcmFLVjZqaWFMOEd1X2FpRVoxQ05WOUc2VWV0QVZONE5aazJuLWZSTHNNcHlDSHJKcnhtS3dmaUZhU2tGY29JNWc",
@@ -6506,66 +6557,6 @@
    "session": "周末",
    "zh_summary": "交付超预期去库存，特斯拉汽车毛利回升",
    "title_zh": "交付超预期、连续两个季度去库存，特斯拉汽车业务毛利回升能延续吗？",
-   "sentiment": 1
-  },
-  {
-   "id": "85e825d064ce",
-   "title": "Tesla, Inc. $TSLA Stock Acquired by Gibbs Wealth Management - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkpFQkJWRU5nU1hSRUotZlI1a1h6YTdQNF9WNnhWUkRwVDlMVTRtSmNlRzRzeWk3dHpPQzhCQ19odzNXbXlMTDY2dzVOOHJaSUlOQ1draW5CWEJEUVJTN0Zna0xOOGdTTWJSR094NEp3MnRTcUMwWXB4bHNYNXhsT3c4U1dybGlYRXBTaEQwSXk0UFRtcFc2MEpzVHJFVVJncmg3YTBkMnV4TWRxM290OVRTclJZdVhJ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-25T08:07:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-25T08:07:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkpFQkJWRU5nU1hSRUotZlI1a1h6YTdQNF9WNnhWUkRwVDlMVTRtSmNlRzRzeWk3dHpPQzhCQ19odzNXbXlMTDY2dzVOOHJaSUlOQ1draW5CWEJEUVJTN0Zna0xOOGdTTWJSR094NEp3MnRTcUMwWXB4bHNYNXhsT3c4U1dybGlYRXBTaEQwSXk0UFRtcFc2MEpzVHJFVVJncmg3YTBkMnV4TWRxM290OVRTclJZdVhJ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Gibbs财富管理增持特斯拉股票",
-   "title_zh": "Gibbs财富管理买入特斯拉股票",
-   "sentiment": 1
-  },
-  {
-   "id": "53a14ae0292c",
-   "title": "【视频】原漆带车衣私家特斯拉Model Y长续航四驱 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83ZXhRbTdPdGdrN1ZYX2NwRlJuSi1QR01kSlRKT3FrZEpNaDVCRHlibHo4NWcxMkJ0Q2NTalc1MnF3VzRGWUpqZTVZbXRxMHY5NDA0MWZQTGZPOWNIekQ3cTRWSHVhM2g0dTN3",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T07:49:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T07:49:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83ZXhRbTdPdGdrN1ZYX2NwRlJuSi1QR01kSlRKT3FrZEpNaDVCRHlibHo4NWcxMkJ0Q2NTalc1MnF3VzRGWUpqZTVZbXRxMHY5NDA0MWZQTGZPOWNIekQ3cTRWSHVhM2g0dTN3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Model Y长续航四驱原漆带车衣",
-   "title_zh": "【视频】原漆带车衣私家特斯拉Model Y长续航四驱 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "df61db9c7725",
-   "title": "新增AI地图/语音控车 特斯拉FSD v15将推送 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15OHVwSFVYZXlKVlBUUkVoQnZpNkZxTlZ4S3Q5aTFDSkZLSTJISm5xUGE0cmxLY1lSVjhMd1Ntbk1tT0lmWjVDUm5lUGlGcVl3d29mcDhwTWttczFrNDhXdlljbWs5bXF0THpv",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T07:43:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T07:43:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15OHVwSFVYZXlKVlBUUkVoQnZpNkZxTlZ4S3Q5aTFDSkZLSTJISm5xUGE0cmxLY1lSVjhMd1Ntbk1tT0lmWjVDUm5lUGlGcVl3d29mcDhwTWttczFrNDhXdlljbWs5bXF0THpv"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉FSDv15将推送新增AI地图语音控车",
-   "title_zh": "新增AI地图/语音控车 特斯拉FSD v15将推送 - 汽车之家",
    "sentiment": 1
   }
  ]
