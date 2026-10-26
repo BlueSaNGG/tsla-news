@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T18:07:31.211044+00:00",
+ "updated_at": "2026-10-26T18:22:34.069098+00:00",
  "market": {
-  "price": 395.39,
-  "change_pct": 6.23,
+  "price": 394.15,
+  "change_pct": 5.89,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 51% 分位"
+     "note": "现价处于52周区间 50% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +3.1%"
+     "note": "目标价中位数 $408（18家），隐含空间 +3.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（208条已评分）"
+     "note": "今日新闻情绪 +0.46（211条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $395.39 vs 20日均线 $371.76"
+     "note": "现价 $394.15 vs 20日均线 $371.70"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 51,
+   "price_52w_pct": 50,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 3.1,
-   "ma20": 371.76,
-   "as_of": "2026-10-26T18:07:31.201985+00:00"
+   "implied_upside_pct": 3.4,
+   "ma20": 371.7,
+   "as_of": "2026-10-26T18:22:34.051217+00:00"
   },
-  "pe_ttm": 109.4,
+  "pe_ttm": 109.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.46,
-   "count": 208
+   "count": 211
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "477f3b13cdfa",
+   "title": "Tesla Stock: This Bearish Spread Will Pay Off If The EV Maker Trends Lower - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTGpZc1RHV2Fjcjd4TlJQT0NlVUNKRHVDVHNzejYzUE1rU0FPY3pTTG9HMnYzTl9JSXgySEVZS243ZzdQcnAwa05oNG0xSUhxRHlWcXYtLVBPOF9FajdTWlRtSFAwMEZ2Ym5Rclg5YkJPX1U",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-26T18:20:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-26T18:20:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTGpZc1RHV2Fjcjd4TlJQT0NlVUNKRHVDVHNzejYzUE1rU0FPY3pTTG9HMnYzTl9JSXgySEVZS243ZzdQcnAwa05oNG0xSUhxRHlWcXYtLVBPOF9FajdTWlRtSFAwMEZ2Ym5Rclg5YkJPX1U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "90e0cf20cd1f",
+   "title": "A $13,000 Tesla Model S with 140,000 miles still delivered 221 miles of range - The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YTDBNM0JJUFJUSWlncGRSMXM2akJVaWdoeXptMXBDTHJiai1CejRDMVV5SkJSU0Y5c1drSkJ2Rk9PY1ZRMXNocVFSakwzdllaZGNuUGRqN2hhWFE2bnJObnRndWgxRXRwUldhZS11UWd6aV9GRFNqNA",
+   "source": "The Cool Down",
+   "published_at": "2026-10-26T18:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-10-26T18:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YTDBNM0JJUFJUSWlncGRSMXM2akJVaWdoeXptMXBDTHJiai1CejRDMVV5SkJSU0Y5c1drSkJ2Rk9PY1ZRMXNocVFSakwzdllaZGNuUGRqN2hhWFE2bnJObnRndWgxRXRwUldhZS11UWd6aV9GRFNqNA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "3845999b27a1",
    "title": "Tesla surges to its highest level in more than three months - Seeking Alpha",
@@ -6579,46 +6613,6 @@
    "session": "周末",
    "zh_summary": "特斯拉两周内兑现Cybercab承诺",
    "title_zh": "特斯拉两周内兑现Cybercab承诺",
-   "sentiment": 1
-  },
-  {
-   "id": "e96781717736",
-   "title": "Woman Buys Brand-New Tesla, Notices A Crack In The Windshield. Then She Tries To Get Tesla To Fix It - Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nZEp4WW50b3Y5ZFNuQlFlOWRGeUdiOVBfUnlxQ0JGVl8xX2plVFBVeXRBY0JPcVg4c2RJNFN2WnBoUXEwc2NvNTV5dWdFTVJERUJDU2FoWjdGLU43ZTVvME14NTl0MEUyQks5bmFiZ29ZUQ",
-   "source": "Motor1.com",
-   "published_at": "2026-10-25T14:09:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Motor1.com",
-     "published_at": "2026-10-25T14:09:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nZEp4WW50b3Y5ZFNuQlFlOWRGeUdiOVBfUnlxQ0JGVl8xX2plVFBVeXRBY0JPcVg4c2RJNFN2WnBoUXEwc2NvNTV5dWdFTVJERUJDU2FoWjdGLU43ZTVvME14NTl0MEUyQks5bmFiZ29ZUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "新车主发现挡风玻璃裂纹维权",
-   "title_zh": "女子新购特斯拉发现挡风玻璃裂纹，寻求售后维修",
-   "sentiment": -1
-  },
-  {
-   "id": "656981576721",
-   "title": "定金33万元！特斯拉Roadster开启预定，不满意可以退全款！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FVFMySWc2blE4VFNrT05LTnZDS05xT0hoV1R4blJUOVVWYzdBa3FsR2QxZV9SWm4yTlpFN3Fmdmd0RUY5a05WODUza1pzZTBBT0dCOGs3anpoSGM",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T14:02:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T14:02:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FVFMySWc2blE4VFNrT05LTnZDS05xT0hoV1R4blJUOVVWYzdBa3FsR2QxZV9SWm4yTlpFN3Fmdmd0RUY5a05WODUza1pzZTBBT0dCOGs3anpoSGM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster开启预定可退全款",
-   "title_zh": "定金33万元！特斯拉Roadster开启预定，不满意可以退全款！",
    "sentiment": 1
   }
  ]
