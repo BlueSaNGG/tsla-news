@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T18:22:34.069098+00:00",
+ "updated_at": "2026-10-26T18:37:31.325752+00:00",
  "market": {
-  "price": 394.15,
-  "change_pct": 5.89,
+  "price": 393.93,
+  "change_pct": 5.83,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（211条已评分）"
+     "note": "今日新闻情绪 +0.46（213条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $394.15 vs 20日均线 $371.70"
+     "note": "现价 $393.93 vs 20日均线 $371.69"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 407.5,
    "target_count": 18,
    "implied_upside_pct": 3.4,
-   "ma20": 371.7,
-   "as_of": "2026-10-26T18:22:34.051217+00:00"
+   "ma20": 371.69,
+   "as_of": "2026-10-26T18:37:31.318238+00:00"
   },
-  "pe_ttm": 109.0,
+  "pe_ttm": 108.9,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+3.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.46,
-   "count": 211
+   "count": 213
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "233b5c5884be",
+   "title": "Tesla expands robotaxi in Houston. See the new rocket-shaped map. - Houston Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXFsYnBjRFJWSGdGQ29naFlDanJmNHlXSmJOTlYtbjhmb2dSX3kwT3o3d1NaYklPc2J1SzVUbHg4T3Q4SkowaDA2c0s0QUFJM0N5OG1kSVN3RzY5LXBoQVYyd1N3T0d3ejVvVmcwVlhTc3llYWo5TjlPWTZUVkFIWXRwUFNLNkFUazdZZ29OUTRvUXFaOTJSY0RJZ1RXVlh3LW5zdWNRQnNHdFNRODN6LXBUanN0QklLanhXRQ",
+   "source": "Houston Chronicle",
+   "published_at": "2026-10-26T18:32:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Houston Chronicle",
+     "published_at": "2026-10-26T18:32:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXFsYnBjRFJWSGdGQ29naFlDanJmNHlXSmJOTlYtbjhmb2dSX3kwT3o3d1NaYklPc2J1SzVUbHg4T3Q4SkowaDA2c0s0QUFJM0N5OG1kSVN3RzY5LXBoQVYyd1N3T0d3ejVvVmcwVlhTc3llYWo5TjlPWTZUVkFIWXRwUFNLNkFUazdZZ29OUTRvUXFaOTJSY0RJZ1RXVlh3LW5zdWNRQnNHdFNRODN6LXBUanN0QklLanhXRQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "299c28b1fe45",
+   "title": "Tesla Stock Soars on Wave of Analyst Upgrades - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkhPTWFpQmdQdkZnMzRyZ3hXdDNUUGMzalJLbE9Sb1V3RkFoUkFadWNISlpVM21qOHRmTTZ3bFdJbm5OV0F2alNhZHBXU2dYc3RCUFhVdWRIemMxdkYwTlQ4dEhHaGdpNFBsN2xkV3FoX1dWMkFIUktORGRQV0xOalNWd09kdw",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-26T18:28:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-26T18:28:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkhPTWFpQmdQdkZnMzRyZ3hXdDNUUGMzalJLbE9Sb1V3RkFoUkFadWNISlpVM21qOHRmTTZ3bFdJbm5OV0F2alNhZHBXU2dYc3RCUFhVdWRIemMxdkYwTlQ4dEhHaGdpNFBsN2xkV3FoX1dWMkFIUktORGRQV0xOalNWd09kdw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "e4a522f031b1",
+   "title": "Tesla Roadster at Petersen Museum: 4 Days on Display [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORW1XbHJLR00yWll3QVY0aG5CakZORkZvQnFjZlB1MGN2V1N6eEhqNGdCZVUtQ001T0VwQW55cEVWZS1zeE9pamtDcU13bllSYUZvcjd4NXJHYk9Kb0c2cl9LRndPMVZNZ1NPSFp4SjhOd2FsS2VuODY2U2FINGVkVEZYLVJNa0dobThz",
+   "source": "tech-insider.org",
+   "published_at": "2026-10-26T18:28:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "tech-insider.org",
+     "published_at": "2026-10-26T18:28:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORW1XbHJLR00yWll3QVY0aG5CakZORkZvQnFjZlB1MGN2V1N6eEhqNGdCZVUtQ001T0VwQW55cEVWZS1zeE9pamtDcU13bllSYUZvcjd4NXJHYk9Kb0c2cl9LRndPMVZNZ1NPSFp4SjhOd2FsS2VuODY2U2FINGVkVEZYLVJNa0dobThz"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "477f3b13cdfa",
    "title": "Tesla Stock: This Bearish Spread Will Pay Off If The EV Maker Trends Lower - Investor's Business Daily",
@@ -86,6 +137,23 @@
    "zh_summary": "看跌期权策略押注特斯拉走低",
    "title_zh": "特斯拉看跌价差策略：若股价走低将获利",
    "sentiment": -1
+  },
+  {
+   "id": "9b26973dcba1",
+   "title": "Tesla Stock (TSLA) Hits Three-Month High on Hopes for SpaceX Takeover - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHlpM0FrQ1JaQ045LVBjUWlMNG5rU2dQejh6MXJWZVdxNjIxX1doUjVPdWVGUWpRYVZ6bWpYUUdhMm9BdE1Tck5vLXdwa0FyZVhUVW9RM29LY3lYUlluLXI3Y3lMNE5kNy1OTjRPNXVDUTM1MnBpRF9raW9MTnBqdXUzMGhEZGFZUUtxTlFoYjF1Tzdub1Z2clA1dTgzZw",
+   "source": "TipRanks",
+   "published_at": "2026-10-26T18:19:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-26T18:19:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHlpM0FrQ1JaQ045LVBjUWlMNG5rU2dQejh6MXJWZVdxNjIxX1doUjVPdWVGUWpRYVZ6bWpYUUdhMm9BdE1Tck5vLXdwa0FyZVhUVW9RM29LY3lYUlluLXI3Y3lMNE5kNy1OTjRPNXVDUTM1MnBpRF9raW9MTnBqdXUzMGhEZGFZUUtxTlFoYjF1Tzdub1Z2clA1dTgzZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "90e0cf20cd1f",
@@ -2589,12 +2657,17 @@
   },
   {
    "id": "86c68179113e",
-   "title": "大和：特斯拉第三季每股盈利0.48美元超预期 维持中性评级 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BZUZ6M3YtU0ZaVEtyaHdWeWJ2M0Y2MVpzVU13VTlsZVNYaFZwZnlsNXhzdVNNb29XMllidE9YcFBsV0xIUEVvVFRqdjlTQzZZbVlISzBrdUtCTFNkNEIwak9n",
-   "source": "观点网",
-   "published_at": "2026-10-26T12:18:15+00:00",
-   "outlets_count": 1,
+   "title": "大和：特斯拉第三季每股盈利0.48美元超预期 维持中性评级 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnFJcTczLXNRSklUY085aFctRFM5Ukg4YU9JRHlseWZwOUIyckJMNnhwTjNqVGw2SzQzZEJCZGU2dW1NVVAwVkdhUVp5bVY2dWx0SU80bU9rVldtdldoclQ0MkY0OGxNbUFCVE1YeVJ3dVZOby1seF9aVlBNLUljdjRPZG5sbFVaY2xlV3F3RElnZG8",
+   "source": "新浪财经",
+   "published_at": "2026-10-26T12:18:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T12:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnFJcTczLXNRSklUY085aFctRFM5Ukg4YU9JRHlseWZwOUIyckJMNnhwTjNqVGw2SzQzZEJCZGU2dW1NVVAwVkdhUVp5bVY2dWx0SU80bU9rVldtdldoclQ0MkY0OGxNbUFCVE1YeVJ3dVZOby1seF9aVlBNLUljdjRPZG5sbFVaY2xlV3F3RElnZG8"
+    },
     {
      "name": "观点网",
      "published_at": "2026-10-26T12:18:15+00:00",
@@ -6540,86 +6613,6 @@
    "zh_summary": "女子因挡风玻璃屡修不好弃用特斯拉",
    "title_zh": "受够这辆丑车：女子因挡风玻璃屡修不好弃用特斯拉",
    "sentiment": -1
-  },
-  {
-   "id": "1c1685ac0f5c",
-   "title": "(TSLA) Trading Signals (TSLA:CA) - Stock Traders Daily",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWFzSlk3UXROWEE5cFo3WXJkcy1vSzNzQ0hYN1B6TVJhRTd5OWRkSWFIX3Y2QUFmZ2lzdWhaR3NUNjVWWFd1ZmRWRmIzcWMySzlBNW1SMVU5Rzhvakluam8xenpkbkM2WmxCcW1CcUFQT1ppWXBSWGZpbkNvODRKLU8yNDI",
-   "source": "Stock Traders Daily",
-   "published_at": "2026-10-25T15:14:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Traders Daily",
-     "published_at": "2026-10-25T15:14:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWFzSlk3UXROWEE5cFo3WXJkcy1vSzNzQ0hYN1B6TVJhRTd5OWRkSWFIX3Y2QUFmZ2lzdWhaR3NUNjVWWFd1ZmRWRmIzcWMySzlBNW1SMVU5Rzhvakluam8xenpkbkM2WmxCcW1CcUFQT1ppWXBSWGZpbkNvODRKLU8yNDI"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "TSLA交易信号更新",
-   "title_zh": "TSLA交易信号（TSLA:CA）",
-   "sentiment": 0
-  },
-  {
-   "id": "bb7c4b0fcde1",
-   "title": "Tesla Press Kit Shows Roadster Performance Trim Tops Out at 210 mph - TeslaNorth.com",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzaVZfZjd1cnNuc1JEbVVKQU9KWlh6RmRic3NScWVaMzZQa1BzQ2hITWtiVjBoZllYSnVwemgwYk14RkZEWERwZnNpcDhtakhxRTNMWTFlZllRZzNZX0FCM3VrY0s5bU4zZ0I3RWNKSjRtZkU",
-   "source": "TeslaNorth.com",
-   "published_at": "2026-10-25T14:49:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TeslaNorth.com",
-     "published_at": "2026-10-25T14:49:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzaVZfZjd1cnNuc1JEbVVKQU9KWlh6RmRic3NScWVaMzZQa1BzQ2hITWtiVjBoZllYSnVwemgwYk14RkZEWERwZnNpcDhtakhxRTNMWTFlZllRZzNZX0FCM3VrY0s5bU4zZ0I3RWNKSjRtZkU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster性能版极速达210英里",
-   "title_zh": "特斯拉资料显示Roadster性能版极速达210英里每小时",
-   "sentiment": 1
-  },
-  {
-   "id": "c18c549dc3c0",
-   "title": "【视频】特斯拉三季度财报出炉，营收280.5亿美元，同比基本零增长 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Wk0yT3d1SDFKOFNuVlBkd20tQjY4X0VuSmtYVFEtVWY0aDFFNm13QW5HaDlGNkNPckhEeFhQYVRzODhjcnJTUW1DTE1wMGZpenRRanJfd01icGM",
-   "source": "汽车之家",
-   "published_at": "2026-10-25T14:43:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-25T14:43:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Wk0yT3d1SDFKOFNuVlBkd20tQjY4X0VuSmtYVFEtVWY0aDFFNm13QW5HaDlGNkNPckhEeFhQYVRzODhjcnJTUW1DTE1wMGZpenRRanJfd01icGM"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度营收280.5亿美元基本持平",
-   "title_zh": "特斯拉三季度财报：营收280.5亿美元，同比零增长",
-   "sentiment": 0
-  },
-  {
-   "id": "e5fb705b7bee",
-   "title": "Tesla makes good on its Cybercab promise in just two weeks - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pb3V1OUROYk53OE4tTk8yaFp3SDExNEYwZXhuaDNRcUI5dWhLRktlQmNnRVBHVm9fdmUyU1pkd1NZQk9qMlJnWG5QOTRycmwzOGdZWlVGM3NJejBDelFxXzkwLTNhcEpaRmc",
-   "source": "Teslarati",
-   "published_at": "2026-10-25T14:40:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-25T14:40:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pb3V1OUROYk53OE4tTk8yaFp3SDExNEYwZXhuaDNRcUI5dWhLRktlQmNnRVBHVm9fdmUyU1pkd1NZQk9qMlJnWG5QOTRycmwzOGdZWlVGM3NJejBDelFxXzkwLTNhcEpaRmc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉两周内兑现Cybercab承诺",
-   "title_zh": "特斯拉两周内兑现Cybercab承诺",
-   "sentiment": 1
   }
  ]
 }
