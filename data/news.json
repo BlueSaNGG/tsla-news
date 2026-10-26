@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:52:34.662266+00:00",
+ "updated_at": "2026-10-26T06:07:35.130966+00:00",
  "market": {
   "price": 372.22,
   "change_pct": -0.63,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.33（3条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 17,
    "implied_upside_pct": 7.5,
    "ma20": 369.87,
-   "as_of": "2026-10-26T05:52:34.656530+00:00"
+   "as_of": "2026-10-26T06:07:35.116734+00:00"
   },
   "pe_ttm": 102.9,
   "pe_pct_5y": 50,
   "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+7.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 3
+   "avg": 0.5,
+   "count": 4
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6a708256fe9b",
+   "title": "TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface — But Analyst Sees 38% Downside - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG5kVXdaLXlFNGl6dk5zTHhsZ1NXalBfZDJ2OGJlRUtHUk9QalJMckFyaUVSaGU0Rkh2ZDhDeENNU3k1eTNQcy16T2NSYUZiY1ZsR1p2dzRhVnZ3T0U0eEVTUEZCY29JQUlsVnNsa0w2ZFo0SzliZUtFbWw4dGd5ZnZXcU5sRGRjUjNvNkdDeUVWYWVFTHpnamJ2S0wzWnVONVQzTFREcS1TUWM2T2FneGtTNXV4cHZEM3BEYko4bi1ObWxjX3VB",
+   "source": "Stocktwits",
+   "published_at": "2026-10-26T06:05:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-26T06:05:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNG5kVXdaLXlFNGl6dk5zTHhsZ1NXalBfZDJ2OGJlRUtHUk9QalJMckFyaUVSaGU0Rkh2ZDhDeENNU3k1eTNQcy16T2NSYUZiY1ZsR1p2dzRhVnZ3T0U0eEVTUEZCY29JQUlsVnNsa0w2ZFo0SzliZUtFbWw4dGd5ZnZXcU5sRGRjUjNvNkdDeUVWYWVFTHpnamJ2S0wzWnVONVQzTFREcS1TUWM2T2FneGtTNXV4cHZEM3BEYko4bi1ObWxjX3VB"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
   {
    "id": "7a989fe35507",
    "title": "【视频】23年6.4万公里特斯拉ModelY - 汽车之家",
@@ -488,6 +505,23 @@
    "sentiment": 1
   },
   {
+   "id": "8a20ff909845",
+   "title": "Tesla Cybercab Adds 2 Rider Features in Austin [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRhNFNIZzdjYWFPSGhZTDlMVDlLRVVJeTlWUkRuemE2TURZN3JWcnM0UFFZc3ZrM2YzMXAyYmdiOFlfME1oeENZMEpuS2tEVW43RzRZbS16RHFXeXVpcXo3OUQwMkRSVkpVdWtPazV3UnFjV3Z6LWN5MUNkOWNOdw",
+   "source": "shattered.io",
+   "published_at": "2026-10-26T02:10:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-26T02:10:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHRhNFNIZzdjYWFPSGhZTDlMVDlLRVVJeTlWUkRuemE2TURZN3JWcnM0UFFZc3ZrM2YzMXAyYmdiOFlfME1oeENZMEpuS2tEVW43RzRZbS16RHFXeXVpcXo3OUQwMkRSVkpVdWtPazV3UnFjV3Z6LWN5MUNkOWNOdw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
+  {
    "id": "30b18fa9aa89",
    "title": "Tesla Roadster Flying Stunts: 0-60 in 1.9s Reality [2026] - https://tech-insider.org/",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUThVcUpvU2t1dTZBQzMxcVkzQUgybVdSQ1drZGJTNWZmemptR25haUk4d2hKQWpUUzhVNUVBcGkxcG5mcGNaOFVNeTNudHNuSVUyZUhkMElnM0wtSGlra1FfZjh2UzNQOHd4b01IX1lrUm95MlIyT3Z3YmdzSHZsTzk0S2pvbVhkU3c",
@@ -513,7 +547,7 @@
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWS1JcTNRa0dRLXRid3NhWGVKMnJpSjcweDBRQ1JvbTkxV0E3RFNLcS1wUUZDMDFkeUZ2aEdfY3dRLXYzMUV6MkY5SFR6cklMLXNpR0ozS1NZYmktU0p0d05RMlUzUVFNcUk2VmVIRXVnNjFZeDNrWWg2ZVlqMWN6RWMtS2ZoangtVDRtNW0zZE9NTXZESW1mMUxpR3FKR0gzRE1EdW1ZazF6SmVRbFQ1dE5oNzVxS3VnY084YjRIUXZrR1pCemhLMEJ3aFVDcnBodVhTdmJLQ215RzQwMmxhSXctSlo0V00tREhV",
    "source": "TradingView",
    "published_at": "2026-10-26T02:02:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "TradingView",
@@ -524,6 +558,11 @@
      "name": "Stocktwits",
      "published_at": "2026-10-26T02:04:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFJMSFFPU1phMXJfV2Z0MXo5TWpYTjhTVFRVMmN1Nks0Q0l6cUk5NFQydW5Ya0E4QXNSNUhUQl9teDkxakxqNy01WkNFc0VWbllIQjJ2YTN5YUMzNmk1bjNMX3JnS3JLZHp2Z09LNG9GUDNRdDE3WnAwcG5xbFV2dEhxWDFlRnZRYy0yVEl0WDJ1UXUzNksyM0d4blozNVdMWUg1WGk0VUFrRXByVmpqQUhkS044d1RrMUxoRG9ZUnlQQ0JpOWpaVld1R042MXBfYjVyTVVXa0NPUDZYTkt0YlJmUzVmVVVZY1N6YXNXMA"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T02:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2MwYTVleFZJRHljd2RtR2NWQ2dzMkdteFBTZDNwQlRzeXpuNDNCT28xQmp2VEdDWWoySXhuX3NCM19yM1dmZnJQMHJ2VkFzV2lPcWdocDFCUy1tOVQyOUxVczV5b25vSU13c1VZZ2tjZ3JSWGNXWmRUZ1F5cGRkTzNxaUktRTBtUG9HRzdQSnlmUQ"
     }
    ],
    "category": "其他",
@@ -891,6 +930,23 @@
    "zh_summary": "特斯拉财报电话会谈FSD与Robotaxi",
    "title_zh": "特斯拉财报电话会：FSD、Robotaxi与资本激增",
    "sentiment": 0
+  },
+  {
+   "id": "cee4832ab8b9",
+   "title": "特斯拉在加州启动Optimus机器人生产，同期利润下滑43%-AI应用 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQXdIbTg5cmhuTVlPd3hlaV9EWXZ6QzdaTkFkMi1sOGNmQ1AtUUtUeWJjd3BEYXM1VDZEVUkySGhpUkVaZzR6NXluc3dNNkZodlcyQzNXcW9YMXZ4bGNQYXdCb2trZGxxQTlQVVdGVQ",
+   "source": "至顶网",
+   "published_at": "2026-10-26T00:04:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-26T00:04:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQXdIbTg5cmhuTVlPd3hlaV9EWXZ6QzdaTkFkMi1sOGNmQ1AtUUtUeWJjd3BEYXM1VDZEVUkySGhpUkVaZzR6NXluc3dNNkZodlcyQzNXcW9YMXZ4bGNQYXdCb2trZGxxQTlQVVdGVQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "9151bfc305a7",
@@ -1840,26 +1896,6 @@
    "session": "周末",
    "zh_summary": "基础版Roadster无蝴蝶门",
    "title_zh": "特斯拉称基础版Roadster不主打蝴蝶门",
-   "sentiment": 0
-  },
-  {
-   "id": "483efa58b8d5",
-   "title": "Why would Musk merge SpaceX and Tesla? - WBKB11.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblgwRUIxckhBSDI2WUs4UzlBbmtnZnZTdWw0NVF6RXBBLVVUa0tINE1CYk1lUmk1ZmIyU2hPaWJDcmdOTHgwX05IbkI0VmplSk9RVUxVQkVfeGpva3ZZckpiNU9GbzlBU0hxTXdUckxHMzVtYWJveFFtcnNOaDItWjZNeWRYamEwTFhXU29tNmFaTkFPemZCd295NEs2WWYyWHN4UmpTbHdUSGVQMzdybU0zaHExVUh4VGh6X0VR",
-   "source": "WBKB11.com",
-   "published_at": "2026-10-25T12:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WBKB11.com",
-     "published_at": "2026-10-25T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblgwRUIxckhBSDI2WUs4UzlBbmtnZnZTdWw0NVF6RXBBLVVUa0tINE1CYk1lUmk1ZmIyU2hPaWJDcmdOTHgwX05IbkI0VmplSk9RVUxVQkVfeGpva3ZZckpiNU9GbzlBU0hxTXdUckxHMzVtYWJveFFtcnNOaDItWjZNeWRYamEwTFhXU29tNmFaTkFPemZCd295NEs2WWYyWHN4UmpTbHdUSGVQMzdybU0zaHExVUh4VGh6X0VR"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "为何马斯克要合并SpaceX与特斯拉",
-   "title_zh": "马斯克为何要合并SpaceX与特斯拉？",
    "sentiment": 0
   },
   {
@@ -6283,51 +6319,6 @@
    "zh_summary": "特斯拉撞入民宅，疑似司机酒驾",
    "title_zh": "特斯拉失控撞入特洛伊民宅，疑酒驾",
    "sentiment": -1
-  },
-  {
-   "id": "d1692fa818cf",
-   "title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUN1VkpydjZiekdSLV9jT1ZHTUtGRzdDbUxlQXZiNEUyNjlmSXEtc042YTl4VGFYSDFWU0xaR1VCUXRtbmRIamFSbWNZSGJNMnRhQnRsdnNldWFmcndjUy1iYzBFZy1UY2dOWEtyMEdZUWZBSTRzLVBEa1c4bzByOGY4dGpTenhHUDJHOVowbTBfemg2RDdjZzBBZw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T21:11:56+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T21:11:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUN1VkpydjZiekdSLV9jT1ZHTUtGRzdDbUxlQXZiNEUyNjlmSXEtc042YTl4VGFYSDFWU0xaR1VCUXRtbmRIamFSbWNZSGJNMnRhQnRsdnNldWFmcndjUy1iYzBFZy1UY2dOWEtyMEdZUWZBSTRzLVBEa1c4bzByOGY4dGpTenhHUDJHOVowbTBfemg2RDdjZzBBZw"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-24T01:15:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXVHOUp2dWRFZmdBZi1CZlZUaFltNXZxWjYxUGtnc05qTmhXNkNJcGhEUkVCaGgzaU5nV185TDhTUHRGN0V0cmZkUEdEVkhKVVZzenRycFBUUXVTeF9CbG1uc05BZGI5bkNNdG5lUlBUSUJoRXpES0pub1A2S2lwMnJkSzdWTHk1MG5UQTg5Wk8ycGZCZkhaZXUzblo5SUJBamtMWXBGVW42bWV0R2VzM3pWZmM3OFdaQ3hkMUowc0cwSFJJcWl4QUlzUzkwTkRVdmxiclNGU3NwR1dWVHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "投资者称特斯拉因沟通问题落后苹果",
-   "title_zh": "投资者：特斯拉因沟通问题跑输苹果",
-   "sentiment": -1
-  },
-  {
-   "id": "22387e5c4aed",
-   "title": "Tesla and SpaceX Could Merge. But Here’s the Bigger Opportunity… - InvestorPlace",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTBJaFFYZzNMVlh0QlhPOGVZVzVMOXk0Ukc2LVBRcEQ3ZnBTLXBRMGhaVGtCRzJkZER6NmJYTVdQWlNYdlh1cmpJM2pwSHdpT1p2LWZ5cTlldVg5X2VVc1d1LThXNWstOUZ4M3pCOEUtVHpLLVlIb19jQVA5S0hmRXVFcmFtRkZjMmJwTXZ2MEdEMGpWTDdWMWRGLU5YT0NqU2ltT2hDZ2N2QQ",
-   "source": "InvestorPlace",
-   "published_at": "2026-10-23T20:40:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InvestorPlace",
-     "published_at": "2026-10-23T20:40:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTBJaFFYZzNMVlh0QlhPOGVZVzVMOXk0Ukc2LVBRcEQ3ZnBTLXBRMGhaVGtCRzJkZER6NmJYTVdQWlNYdlh1cmpJM2pwSHdpT1p2LWZ5cTlldVg5X2VVc1d1LThXNWstOUZ4M3pCOEUtVHpLLVlIb19jQVA5S0hmRXVFcmFtRkZjMmJwTXZ2MEdEMGpWTDdWMWRGLU5YT0NqU2ltT2hDZ2N2QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "传特斯拉与SpaceX或合并",
-   "title_zh": "特斯拉与SpaceX或将合并，背后还有更大机会",
-   "sentiment": 1
   }
  ]
 }
