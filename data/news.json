@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T17:07:32.982039+00:00",
+ "updated_at": "2026-10-27T17:22:30.213092+00:00",
  "market": {
-  "price": 406.91,
-  "change_pct": 3.9,
+  "price": 406.0,
+  "change_pct": 3.67,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.7%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（125条已评分）"
+     "note": "今日新闻情绪 +0.32（128条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.91 vs 20日均线 $374.28"
+     "note": "现价 $406.00 vs 20日均线 $374.23"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.7,
-   "ma20": 374.28,
-   "as_of": "2026-10-27T17:07:32.976123+00:00"
+   "implied_upside_pct": -1.5,
+   "ma20": 374.23,
+   "as_of": "2026-10-27T17:22:30.201013+00:00"
   },
-  "pe_ttm": 112.5,
+  "pe_ttm": 112.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 125
+   "avg": 0.32,
+   "count": 128
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "902587dd5840",
+   "title": "Tesla stock jumps 4% as ARK Invest reaffirms $4... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0dIMlAwd2hQSnRlUDF1bWR0UFNucDJkclFRZGZfRjFwZ20tMFJsdzJENkl6TW9TdmJYMjJrb2Uwdkp2bXNKNXlGa09mUjBCU21OUVg3U1ZKam9OZUVVdmZwNE5md3JrcWNVNG9OMVkyblM5emxHaUFFbV9ZQ1c1Vk4xODZNZ1pVTzBSeS1sTU1zVUxGSlJkUUdSNFY",
+   "source": "Pluang",
+   "published_at": "2026-10-27T17:16:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-27T17:16:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0dIMlAwd2hQSnRlUDF1bWR0UFNucDJkclFRZGZfRjFwZ20tMFJsdzJENkl6TW9TdmJYMjJrb2Uwdkp2bXNKNXlGa09mUjBCU21OUVg3U1ZKam9OZUVVdmZwNE5md3JrcWNVNG9OMVkyblM5emxHaUFFbV9ZQ1c1Vk4xODZNZ1pVTzBSeS1sTU1zVUxGSlJkUUdSNFY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2f0bd8642dd1",
+   "title": "SpaceX and Tesla Turn to Boards Cozy With Musk to Mull a Merger - Bloomberg Law News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTJ1R29Ib1h2NDFza0lfdkEydnkySWtzMktsaks3WHlzNVJ5UEtyeVBYSDgxY2ZINWRKbGQ3YmM0MER4MGNmQzduYzFYd1JBc3pFTmlweFhjRTlsTjA2TkI5VERfak9qampmTzRIdXZ0LTNpcDFpcGZYdnkzZFdQNXRPREdGSmFjcFk3UjFyLUdqSHFPOEhCM1NkWGczY0Y4VUFLREdGTGhxZUdrMlAyWC00eGphZ2Vqdmc",
+   "source": "Bloomberg Law News",
+   "published_at": "2026-10-27T17:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg Law News",
+     "published_at": "2026-10-27T17:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTJ1R29Ib1h2NDFza0lfdkEydnkySWtzMktsaks3WHlzNVJ5UEtyeVBYSDgxY2ZINWRKbGQ3YmM0MER4MGNmQzduYzFYd1JBc3pFTmlweFhjRTlsTjA2TkI5VERfak9qampmTzRIdXZ0LTNpcDFpcGZYdnkzZFdQNXRPREdGSmFjcFk3UjFyLUdqSHFPOEhCM1NkWGczY0Y4VUFLREdGTGhxZUdrMlAyWC00eGphZ2Vqdmc"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "8cc09b31753d",
    "title": "Tesla Rises 4% as ARK Reiterates $4,400 Long-Term Price Target on Robotaxi Thesis; Rivian Gains 3%, Lucid Holds Steady - 24/7 Wall St.",
@@ -615,6 +649,23 @@
    "zh_summary": "特斯拉三季度营收280亿美元但毛利率走弱",
    "title_zh": "特斯拉三季度营收$28B，FSD用户1.74M但毛利率走弱",
    "sentiment": 0
+  },
+  {
+   "id": "96b10a5afc1b",
+   "title": "This Cheap Tesla Model S With 135,000 Miles Has A Surprising Amount Of Range Left - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMWFnQUpJaFlWZF84QTFXM1dhWTlQcEd5bmVBYWY0bGpqU0E2d2pycVAtSGRhb3RrU08zTWV2bU5qbVppdGJIeHFoYzRLaXBDU0wwS0R5NDVIeWJLczNTcHdIdmUwR1I3VkNFczlDNUE",
+   "source": "InsideEVs",
+   "published_at": "2026-10-27T14:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-27T14:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMWFnQUpJaFlWZF84QTFXM1dhWTlQcEd5bmVBYWY0bGpqU0E2d2pycVAtSGRhb3RrU08zTWV2bU5qbVppdGJIeHFoYzRLaXBDU0wwS0R5NDVIeWJLczNTcHdIdmUwR1I3VkNFczlDNUE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "7892e648bac3",
@@ -6526,71 +6577,6 @@
    "zh_summary": "SpaceX特斯拉合并或危及XOVR持仓",
    "title_zh": "独家：SpaceX与特斯拉合并或危及XOVR ETF押注",
    "sentiment": -1
-  },
-  {
-   "id": "279647ad2b5b",
-   "title": "Tesla's AI Momentum Gives Hikaru Nakamura's Portfolio a Lift - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2pPSERhQ2tBdjZqOWdGamxIYTVBa2FxWHpQR21iUmRrSDlQMmVvTkF4bEh3Qi1vUGVCVzNEcGFTSlNsaWVobjFLYU81Yi13ZDNJdkxSaEtLN1dfQnpTWEZkeUx6TF85cVFpbjBBek5JV2FPXzVDd2pGSEtma01QOWxmZC1UdVZmUnRpOVV0N2ZvMWx3MHI4bVREUllfc0hPc0RMRlRjSTNFdEljODNEQlpXRkNNY3lRUHFEdw",
-   "source": "TradingView",
-   "published_at": "2026-10-26T15:45:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T15:45:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2pPSERhQ2tBdjZqOWdGamxIYTVBa2FxWHpQR21iUmRrSDlQMmVvTkF4bEh3Qi1vUGVCVzNEcGFTSlNsaWVobjFLYU81Yi13ZDNJdkxSaEtLN1dfQnpTWEZkeUx6TF85cVFpbjBBek5JV2FPXzVDd2pGSEtma01QOWxmZC1UdVZmUnRpOVV0N2ZvMWx3MHI4bVREUllfc0hPc0RMRlRjSTNFdEljODNEQlpXRkNNY3lRUHFEdw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T15:45:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWNpWmJ6dGFZcEtxeWNqTUxhdWFteTV2ZEZYT055TVgyOUhmdXUzcHFnTlF3cndqR2lFNHkwclVUWjZ6dUVVcERqbHIyT2pzZGZrVkJaMjBFNkNUYWZSSUpIR2lTVUxxYWw5Njd6WkMyVkxZMFkzcmVDMVd4VHdDNXRYY2htTXgwNkgtVWxkY2FFMmNzTnBxeFowTWg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉AI势头带动投资组合上涨",
-   "title_zh": "特斯拉AI势头提振Hikaru Nakamura的投资组合",
-   "sentiment": 1
-  },
-  {
-   "id": "30f18f433ad1",
-   "title": "Tesla expands Robotaxi geofence in Houston with an ode to SpaceX merger - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMUI3Tl9mbkJUUVlOVmNoR2dVRUpQOGh0V1hHZkxHbmcwdlZhN1ktT1k4WEVLN2FSWUQ1RGo3UURFN2txQ0laYkZWS0RrTkJNc3pvbHotLWZnd3AwWlBySWM0WUtQRF9DcHlTQ1B2TGs4SkNLYU1sa240cXF2UQ",
-   "source": "Teslarati",
-   "published_at": "2026-10-26T15:43:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-26T15:43:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMUI3Tl9mbkJUUVlOVmNoR2dVRUpQOGh0V1hHZkxHbmcwdlZhN1ktT1k4WEVLN2FSWUQ1RGo3UURFN2txQ0laYkZWS0RrTkJNc3pvbHotLWZnd3AwWlBySWM0WUtQRF9DcHlTQ1B2TGs4SkNLYU1sa240cXF2UQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉扩大休斯顿Robotaxi运营范围",
-   "title_zh": "特斯拉扩大休斯顿Robotaxi地理围栏",
-   "sentiment": 1
-  },
-  {
-   "id": "ca2e519c7e47",
-   "title": "Tesla Turo FSD Rentals Launch Oct. 28 [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cDBOREtiU0xud1hBNVFJVEdybHlMdTZuZHJMMnQzR2tLeF9xTVFDUExWU0IzdlBxQ3dNY1MzamczcjRuOW9iN1l0aW1EMDB4dEJzOE1NMlp3NUlZTXhVSkpfN2ktcGZBTHJjUEZhVlBDVDJKa0U2VDhzQQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-26T15:43:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-26T15:43:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cDBOREtiU0xud1hBNVFJVEdybHlMdTZuZHJMMnQzR2tLeF9xTVFDUExWU0IzdlBxQ3dNY1MzamczcjRuOW9iN1l0aW1EMDB4dEJzOE1NMlp3NUlZTXhVSkpfN2ktcGZBTHJjUEZhVlBDVDJKa0U2VDhzQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Turo将于10月28日推出特斯拉FSD租赁",
-   "title_zh": "Turo将于10月28日推出特斯拉FSD租赁服务",
-   "sentiment": 1
   }
  ]
 }
