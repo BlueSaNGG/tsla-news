@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T01:22:40.601801+00:00",
+ "updated_at": "2026-10-27T01:37:34.065995+00:00",
  "market": {
-  "price": 372.22,
-  "change_pct": -0.63,
+  "price": 391.62,
+  "change_pct": 5.21,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,28 +16,28 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 39% 分位"
+     "note": "现价处于52周区间 49% 分位"
     },
     {
      "key": "目标价空间",
-     "score": 0,
-     "note": "目标价中位数 $408（18家），隐含空间 +9.5%"
+     "score": -1,
+     "note": "目标价中位数 $408（18家），隐含空间 +4.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（284条已评分）"
+     "note": "今日新闻情绪 +0.45（290条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $372.22 vs 20日均线 $369.87"
+     "note": "现价 $391.62 vs 20日均线 $371.58"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 39,
+   "price_52w_pct": 49,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 9.5,
-   "ma20": 369.87,
-   "as_of": "2026-10-27T01:22:40.593390+00:00"
+   "implied_upside_pct": 4.1,
+   "ma20": 371.58,
+   "as_of": "2026-10-27T01:37:34.051056+00:00"
   },
-  "pe_ttm": 102.9,
-  "pe_pct_5y": 50,
-  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.5%空间：估值适中，预期中性",
+  "pe_ttm": 108.3,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 284
+   "avg": 0.45,
+   "count": 290
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "4e2fb6f184f7",
+   "title": "造型像火箭！特斯拉休斯顿Robotaxi服务范围扩至10倍，面积是Waymo的5倍 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmliSlhIVEwtRlVmREtrQm8zcVJNNXBlUm8wSXE5SG80RGZGLWNnZzJoTktKVGZ0OVpTWldWNDVfamcwYldzZEFScmxCRHZET0c1TlUybHEzbXlyVnltYU5sejZQV1UyMDEzRG5NQ0l6dXI4S1JER2N2NmM3WVk0SlB1X0FkaFBLbWViOA",
+   "source": "搜狐网",
+   "published_at": "2026-10-27T01:20:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T01:20:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmliSlhIVEwtRlVmREtrQm8zcVJNNXBlUm8wSXE5SG80RGZGLWNnZzJoTktKVGZ0OVpTWldWNDVfamcwYldzZEFScmxCRHZET0c1TlUybHEzbXlyVnltYU5sejZQV1UyMDEzRG5NQ0l6dXI4S1JER2N2NmM3WVk0SlB1X0FkaFBLbWViOA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "0fdbaf6e2244",
    "title": "SpaceX以2200万美元押注特斯拉并购概率上升 | 期权收益日报 - Moomoo",
@@ -128,6 +145,40 @@
    "sentiment": 1
   },
   {
+   "id": "732cf58aa971",
+   "title": "一辆特斯拉Cybertruck在德国上路被拦 警方直接扣留 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVld094ZGhJc01oel9Rc2hTSjF2cFYtR1RXem5VLWlPUExmVWJvODlnMW9ROXJ6REctOWt0c1Y3RUl3X1h5MWRhOWh2Wk5FQ3VYbVlEY3JDV3ZfNzM0SV9BUk0wZ2NrTTJfaFZ0aVVnSnlYMW9HNll1a25Wa3Q2aGRReWlfZmVM",
+   "source": "搜狐网",
+   "published_at": "2026-10-27T00:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T00:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVld094ZGhJc01oel9Rc2hTSjF2cFYtR1RXem5VLWlPUExmVWJvODlnMW9ROXJ6REctOWt0c1Y3RUl3X1h5MWRhOWh2Wk5FQ3VYbVlEY3JDV3ZfNzM0SV9BUk0wZ2NrTTJfaFZ0aVVnSnlYMW9HNll1a25Wa3Q2aGRReWlfZmVM"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
+   "id": "1a98040b0c01",
+   "title": "10月26日美股成交额前20：特斯拉以208.61亿美元居首，美光科技公司、Meta Platforms, Inc.、英伟达公司紧随其后 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWF3bXN6Zi1hOGJtMkZzNzJiTTVGdnVkclBRNXA1NGJCREQxSktwYjZJaW5kSmJseGV4eUZJaVdRWWxXX2tfYnBVblJaT2MwOUYyUm5sQkt6bkE1WW5UQnJtb25CWXEyZkdtY3dwcXV3alNhT0JWYnJ1YTVKQmNVMzJNTUp3WXda",
+   "source": "搜狐网",
+   "published_at": "2026-10-27T00:46:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T00:46:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWF3bXN6Zi1hOGJtMkZzNzJiTTVGdnVkclBRNXA1NGJCREQxSktwYjZJaW5kSmJseGV4eUZJaVdRWWxXX2tfYnBVblJaT2MwOUYyUm5sQkt6bkE1WW5UQnJtb25CWXEyZkdtY3dwcXV3alNhT0JWYnJ1YTVKQmNVMzJNTUp3WXda"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "72291cdf8abd",
    "title": "Tesla Is Investing Aggressively in its Next Generation Technology - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHBXQ0pUb0ZTWXBhcWJKSGhoU2M5eXM2VTdmaXV1TnhweHhTOUtlSmFQX3ZCSG9UczZ5ajB2VjNCZnphMmhsTWhscldTNFE1VWR4eWdLeVJiVzFFNVJVdmpIUWFycFphUmNNelp2WFFieG9NcS1SZ0FsU25UQmc0YzN2b25uVWNSbE9zX1ZnSXdDc1pDRko4ejloamt1MWRDSU5hVDROR0JEVExs",
@@ -182,6 +233,23 @@
    "zh_summary": "拉脱维亚批准特斯拉FSD上路",
    "title_zh": "拉脱维亚批准特斯拉FSD上路，成为第十个欧盟批准国",
    "sentiment": 1
+  },
+  {
+   "id": "cbddbe8a71c0",
+   "title": "评级上调至超配：合并 SpaceX(SPCX.US) 或重塑特斯拉(TSLA.US) AI 版图 提供者 智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oQkhaZ2lIQWpfT250Qld4Nk9qaXJxNUNzZlNxSDY1bWxPVHdmQ3VjYmtEXzBOOG1sRUpJeEhZb3cyWmtReGlTS2hlbW5seC1nLWdGZWZYa2xfVjgyTUluMjZUZnFxaHI2VU4ya1N4WEc",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-27T00:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-27T00:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oQkhaZ2lIQWpfT250Qld4Nk9qaXJxNUNzZlNxSDY1bWxPVHdmQ3VjYmtEXzBOOG1sRUpJeEhZb3cyWmtReGlTS2hlbW5seC1nLWdGZWZYa2xfVjgyTUluMjZUZnFxaHI2VU4ya1N4WEc"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后"
   },
   {
    "id": "9ea1fc896235",
@@ -6686,86 +6754,6 @@
    "session": "周末",
    "zh_summary": "25万预算纯电SUV选Model Y",
    "title_zh": "【视频】25万预算买纯电SUV，奥迪E7X、特斯拉Model Y怎么选？",
-   "sentiment": 0
-  },
-  {
-   "id": "a24772637534",
-   "title": "【视频】它比我先一步飞到未来#特斯拉#Roadster - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41SHhzOUFuaXJKYy11SmswNWlPSkZBVzVVNmFza3RadkFET1I5UW5YcHpNZG1NS2xSd1RsdlhyODlySFVyYXV6RWdCa2JEM094N09UYU9rZGlRaFk",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T03:56:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T03:56:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41SHhzOUFuaXJKYy11SmswNWlPSkZBVzVVNmFza3RadkFET1I5UW5YcHpNZG1NS2xSd1RsdlhyODlySFVyYXV6RWdCa2JEM094N09UYU9rZGlRaFk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "视频称特斯拉Roadster率先飞向未来",
-   "title_zh": "视频：它比我先一步飞到未来，特斯拉Roadster",
-   "sentiment": 0
-  },
-  {
-   "id": "317f2b3e92ed",
-   "title": "吉利209分登顶CAM纯电创新榜，超越特斯拉比亚迪 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UlE4Y1lVMkZiZEdPZkVVbG5rTXlNem9VaThOdGNsRTdoeWJtQnFVTkZva0Q1RlY2U185elYtUUdXdUx3OFd3VE5rTkV4SzJMZjFQM3FvSkprN1k",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T03:37:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T03:37:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UlE4Y1lVMkZiZEdPZkVVbG5rTXlNem9VaThOdGNsRTdoeWJtQnFVTkZva0Q1RlY2U185elYtUUdXdUx3OFd3VE5rTkV4SzJMZjFQM3FvSkprN1k"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "吉利209分登顶纯电创新榜超特斯拉",
-   "title_zh": "吉利209分登顶CAM纯电创新榜，超越特斯拉比亚迪",
-   "sentiment": 0
-  },
-  {
-   "id": "e4f6c625722f",
-   "title": "吉利登顶全球纯电创新榜首，209分超越特斯拉 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eUp0ckxlR3A4dHMtYVdncFdKbVUxU1Y1M2RXUU9GSXZkRnZTdEd5TU12djZ3S2hMY3BFZGhlQWhLbWFWUWVBUXQtNzdOdGpKVXRtR3QxanJQb0E",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T03:37:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T03:37:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2eUp0ckxlR3A4dHMtYVdncFdKbVUxU1Y1M2RXUU9GSXZkRnZTdEd5TU12djZ3S2hMY3BFZGhlQWhLbWFWUWVBUXQtNzdOdGpKVXRtR3QxanJQb0E"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "吉利登顶全球纯电创新榜超特斯拉",
-   "title_zh": "吉利登顶全球纯电创新榜首，209分超越特斯拉",
-   "sentiment": 0
-  },
-  {
-   "id": "af066f755870",
-   "title": "Tesla China FSD: $8,900 (RMB 64,000), Worth It? [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemNyVTRCVV9LN1hjTFFfajlUelZfYzVlVGRhSFZnVWdzN0VvQWRadUlYaGE5d2pHeEhWdG5wQWtvMjhudkxUanRLY3pXNEM0Z2daWkpOQlhabGV6OVRWV05fZnpqYzVhU3BIUDdYSm9LYUpwNmN0ZVN0cGpjbmtxR3hJbUFUVXRmZmtOX0gzelBqeDQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-26T03:36:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-26T03:36:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemNyVTRCVV9LN1hjTFFfajlUelZfYzVlVGRhSFZnVWdzN0VvQWRadUlYaGE5d2pHeEhWdG5wQWtvMjhudkxUanRLY3pXNEM0Z2daWkpOQlhabGV6OVRWV05fZnpqYzVhU3BIUDdYSm9LYUpwNmN0ZVN0cGpjbmtxR3hJbUFUVXRmZmtOX0gzelBqeDQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉中国FSD售价8900美元引讨论",
-   "title_zh": "特斯拉中国FSD售价8900美元，值得买吗？",
    "sentiment": 0
   }
  ]
