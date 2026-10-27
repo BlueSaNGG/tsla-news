@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T21:22:33.640693+00:00",
+ "updated_at": "2026-10-27T21:37:45.650313+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（156条已评分）"
+     "note": "今日新闻情绪 +0.30（160条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-27T21:22:33.632430+00:00"
+   "as_of": "2026-10-27T21:37:45.639741+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.3,
-   "count": 156
+   "count": 160
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6f7784fca6a5",
+   "title": "Tesla Stock Rises In A Buy Range; Musk Touts Cybercab Fleet Expansion - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95RWx3Nmh3YUxaRTJoZW9Kd2RrRV9PV2ZOcDRXTjl4U0ZIdXg3VmtWemNhVTlTQ2dwM3dkSVhvWUdZenB1Zy1wcWQ1bURObFNUWDZkVk5iM1RlaThYbFlaZFZ0MDZSTDY0U3g2Vmc2VUF4cnM",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-27T21:16:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-27T21:16:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95RWx3Nmh3YUxaRTJoZW9Kd2RrRV9PV2ZOcDRXTjl4U0ZIdXg3VmtWemNhVTlTQ2dwM3dkSVhvWUdZenB1Zy1wcWQ1bURObFNUWDZkVk5iM1RlaThYbFlaZFZ0MDZSTDY0U3g2Vmc2VUF4cnM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "8a67a8749b8c",
    "title": "Futures: Growth Runs, Tesla In Buy Zone; Fed, Google, Microsoft Due - Investor's Business Daily",
@@ -283,12 +300,17 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0",
    "source": "InsideEVs",
    "published_at": "2026-10-27T19:34:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "InsideEVs",
      "published_at": "2026-10-27T19:34:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-27T20:30:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmlpS01maUxFTGJmQ2UtaHV2c1dpdnF3aDJ0VkhPMkFxV0E1THMxeVFwU0JSSVgzNDFfZjJlNERYOWxLaWduMHNBSVIwZGpWRG5yaV9pTFRjV21PMEtVTUhJVFJPNmpGYVQ2ZTBpZ0lNdHBRVXNFWDY0Rnk1Z1R1LVNpNkRjRW9jZWxaSGFpaGJyM1F2blpKSV81dXRNb2Y3NlhxYXBSTjlHdw"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6557,26 +6579,6 @@
    "zh_summary": "看跌期权策略押注特斯拉走低",
    "title_zh": "特斯拉看跌价差策略：若股价走低将获利",
    "sentiment": -1
-  },
-  {
-   "id": "9b26973dcba1",
-   "title": "Tesla Stock (TSLA) Hits Three-Month High on Hopes for SpaceX Takeover - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHlpM0FrQ1JaQ045LVBjUWlMNG5rU2dQejh6MXJWZVdxNjIxX1doUjVPdWVGUWpRYVZ6bWpYUUdhMm9BdE1Tck5vLXdwa0FyZVhUVW9RM29LY3lYUlluLXI3Y3lMNE5kNy1OTjRPNXVDUTM1MnBpRF9raW9MTnBqdXUzMGhEZGFZUUtxTlFoYjF1Tzdub1Z2clA1dTgzZw",
-   "source": "TipRanks",
-   "published_at": "2026-10-26T18:19:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-26T18:19:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHlpM0FrQ1JaQ045LVBjUWlMNG5rU2dQejh6MXJWZVdxNjIxX1doUjVPdWVGUWpRYVZ6bWpYUUdhMm9BdE1Tck5vLXdwa0FyZVhUVW9RM29LY3lYUlluLXI3Y3lMNE5kNy1OTjRPNXVDUTM1MnBpRF9raW9MTnBqdXUzMGhEZGFZUUtxTlFoYjF1Tzdub1Z2clA1dTgzZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "TSLA因SpaceX收购预期创三个月新高",
-   "title_zh": "TSLA因SpaceX收购预期创三个月新高",
-   "sentiment": 1
   }
  ]
 }
