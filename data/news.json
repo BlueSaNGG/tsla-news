@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T08:37:27.495158+00:00",
+ "updated_at": "2026-10-27T08:52:32.870463+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（25条已评分）"
+     "note": "今日新闻情绪 +0.11（27条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T08:37:27.484522+00:00"
+   "as_of": "2026-10-27T08:52:32.863037+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 25
+   "avg": 0.11,
+   "count": 27
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a282b0348051",
+   "title": "特斯拉人形机器人找到新工作 为特斯拉CyberCab无人车充电 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRXpjUmhMYVlXWlY2WFlWQmlpczB4UV9VNWE2QVRUenlSSjh0MzEyd0dPbkxXcDlzbWo0UXJidWZKdlduYVJPN2xwSENvRF9EVUNiMTVsUkg",
+   "source": "驱动之家",
+   "published_at": "2026-10-27T08:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-27T08:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRXpjUmhMYVlXWlY2WFlWQmlpczB4UV9VNWE2QVRUenlSSjh0MzEyd0dPbkxXcDlzbWo0UXJidWZKdlduYVJPN2xwSENvRF9EVUNiMTVsUkg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "87727b7d8041",
    "title": "Tesla And 2 Other Top Of Class Founder Run Stocks - Simply Wall Street",
@@ -1308,6 +1325,23 @@
    "sentiment": 1
   },
   {
+   "id": "4302be12b8db",
+   "title": "特斯拉与 SpaceX 合并，埃隆・马斯克瞄准的目标是什么？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eFF4XzVQcnNnQVZwQ1ZKT1VMQUlDRmhISk9Qd2d0MWp3RXp0c3hpU0hLNHh1UDZnTjR5VV9GcG9QNVNUWnRsMlh3UEIxM1MxZDlQRmZ6eWtlR1k",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T02:39:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T02:39:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eFF4XzVQcnNnQVZwQ1ZKT1VMQUlDRmhISk9Qd2d0MWp3RXp0c3hpU0hLNHh1UDZnTjR5VV9GcG9QNVNUWnRsMlh3UEIxM1MxZDlQRmZ6eWtlR1k"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
    "id": "0b7810742d43",
    "title": "Elon Musk Ally Jason Calacanis Is More Bullish On Uber Than Tesla - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFVyWFlsV3cxbk9SMkN0U0NjcFdER3JabjR4NGhkdW9tYmVvNzVxOGFmT2xqM1NvUWF3NzZITG5BWFVsS1lkbFZRSV9VLWVDWjJhYUVyaHREMFJCS3MxV1g2bzlDUEZLQk9jbEhyamxMMVNveTBKcGF3cTU1MnpMOTNaanhOLXUzeHFLS21kbXk4VDFrMzE5NE5MRmxVNmtRMnBWOGdRSnhtSVMyaGFFdDJTSy1VTXM1NXhyQWFKSHJVRUpsYTV5d0pB",
@@ -1791,26 +1825,6 @@
    "zh_summary": "特斯拉辅助驾驶获两国批准但存安全短板",
    "title_zh": "特斯拉辅助驾驶获拉脱维亚和斯洛伐克批准，但路透社试乘暴露安全短板 - 凤凰网",
    "sentiment": 0
-  },
-  {
-   "id": "8d7a81efcebe",
-   "title": "Why Tesla (TSLA) stock is trading up today - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T01:34:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T01:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉股价今日上涨原因解析",
-   "title_zh": "特斯拉(TSLA)股价今日为何上涨",
-   "sentiment": 1
   },
   {
    "id": "4e2fb6f184f7",
@@ -3726,7 +3740,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FTUpLdHJEc0N3T19FSlUweXN3ejVKSVpPY1BHa1BzRXRIQkhxeVo1dWlmUnpSMGdQbllhWThtazkwZHRBR3J6eWJyb3hyaW40SlFPeDdJSQ",
    "source": "环球网",
    "published_at": "2026-10-26T16:49:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "环球网",
@@ -3737,13 +3751,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-27T08:00:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBOTJFX0g1VVZkbmZKV181UHNkVXhMY0U3bEYyYUFnSm9sMnF0OTN0aEJFNUI5LVRSOVhJa1doVEdBMV91TTUtam5oMml6Um1mSU9hNTBRSzVESE44UG5INnRJR2V3anZhNE9RUVB1VHlBbFdyaW41NVZNSi0"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T07:46:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xcnhuVHRIYkpuMTNCSE9zYlM1aWUzUk93ZngtR0ItWmR2eTdQd0tNeU5NVTlOMFd5MTFyNTRRd1piMldlc3ItbnVCWUplSDNITE12Mg"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
    "zh_summary": "Cybercab将兼容磷酸铁锂电池降成本",
    "title_zh": "特斯拉Cybercab未来将兼容磷酸铁锂电池，以降低自动驾驶出租车成本",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.17,
+    "window_h": 2.0
+   }
   },
   {
    "id": "41d8d54723a0",
@@ -6616,31 +6639,6 @@
    "zh_summary": "美市盘前持平聚焦特斯拉资本投资",
    "title_zh": "周一美市盘前几乎持平 聚焦特斯拉资本投资 - 联合早报",
    "sentiment": 0
-  },
-  {
-   "id": "af818468ede0",
-   "title": "Tesla owners in Slovakia welcome assisted-drive tech as EU weighs rollout across bloc - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ",
-   "source": "Reuters",
-   "published_at": "2026-10-26T11:43:43+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-26T11:43:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T12:39:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcEpuamdTLWo2T2hOcTd5Y3BKbHc4TUFaLUNXSWRpd2EtVUd4UVlJS2NDeGY4ZHRNbEhwOFNJUG1haVlJMWFwYTBIN2V4bjJQVnZtWVlXdTVCdGRZTE03THR4MU9zZXlReVNEN29ic1NIMk9oajR4djhNRmFSZEpfMmpsX0RGSGZiQnNNOWhiY25fS0JqUS00WUd5elA5NWswb0hGdU10M3FaX1IyWktSNkNkanhBWEhtR2NralJXVnRZZ0RyQzh0ZFN6bndxd2dQOHpEMy1EeFVGUVF6V2szWXpHWm1QOE5xenYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "斯洛伐克车主欢迎特斯拉辅助驾驶",
-   "title_zh": "斯洛伐克特斯拉车主欢迎辅助驾驶，欧盟考虑全欧推广",
-   "sentiment": 1
   }
  ]
 }
