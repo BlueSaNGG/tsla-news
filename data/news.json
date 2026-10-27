@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T15:37:29.825752+00:00",
+ "updated_at": "2026-10-27T15:52:27.834010+00:00",
  "market": {
-  "price": 405.43,
-  "change_pct": 3.53,
+  "price": 406.63,
+  "change_pct": 3.83,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 56% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（103条已评分）"
+     "note": "今日新闻情绪 +0.30（110条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.43 vs 20日均线 $374.21"
+     "note": "现价 $406.63 vs 20日均线 $374.27"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 56,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.3,
-   "ma20": 374.21,
-   "as_of": "2026-10-27T15:37:29.816194+00:00"
+   "implied_upside_pct": -1.6,
+   "ma20": 374.27,
+   "as_of": "2026-10-27T15:52:27.827162+00:00"
   },
-  "pe_ttm": 112.1,
+  "pe_ttm": 112.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 103
+   "avg": 0.3,
+   "count": 110
   }
  },
  "meta": {
@@ -68,24 +68,72 @@
  },
  "stories": [
   {
+   "id": "5eba727e9a92",
+   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEt6dXNXT3VJX3czcEhkdlFEM2FhcGJmeHc5aG84OWs4NGswNVhFVkRrcDFFSFhuLWM0VERhU1AyYlJBbHlqUWdVSEczbVl4dVgzOFdmLURBN2E3VURtSng5RkthTXRZWVp4MTJiS0xXSlRtUG9TdmU3MlBkdjFtV1hNbkoxb1lzRjZCeGNVcw",
+   "source": "Electrek",
+   "published_at": "2026-10-27T15:47:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-27T15:47:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEt6dXNXT3VJX3czcEhkdlFEM2FhcGJmeHc5aG84OWs4NGswNVhFVkRrcDFFSFhuLWM0VERhU1AyYlJBbHlqUWdVSEczbVl4dVgzOFdmLURBN2E3VURtSng5RkthTXRZWVp4MTJiS0xXSlRtUG9TdmU3MlBkdjFtV1hNbkoxb1lzRjZCeGNVcw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "069e3859fe41",
+   "title": "Tesla built the Cybercab’s battery pack with room for cheaper LFP cells - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCT0tNcTlQUWdTekFvaW9oUE42RmNESFQ1NU1JM2xoZ2ZiU1prdXoxXzhGTUprQ2UtR1pzcGRGNS1YVkI2dXJoN3lxN0czMExPQ05jQjBDZmpUVWxpVGgwamFxaElWNnhiRzhr",
+   "source": "The Next Web",
+   "published_at": "2026-10-27T15:35:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-27T15:35:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCT0tNcTlQUWdTekFvaW9oUE42RmNESFQ1NU1JM2xoZ2ZiU1prdXoxXzhGTUprQ2UtR1pzcGRGNS1YVkI2dXJoN3lxN0czMExPQ05jQjBDZmpUVWxpVGgwamFxaElWNnhiRzhr"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "1006a9c1baca",
    "title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDJrMDF6SGdVc3NNVTJicklteDMwNDRkU1BuY0FoMXIwVXBMTm1mMndEUHM0RUtMNndWdkNVdnNXa2hWX0IzLWtCTU8zU1otQnE0dEw2aGw4VEkxXzhNQnhnYlBFNWZnMGNGdXB3TjJzTjRyZk5XcTc2TVFwVG5IVXR5RV9SYmpTSUxNUExmZS1nMlBKRWRWMQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-27T15:25:28+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-27T15:25:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDJrMDF6SGdVc3NNVTJicklteDMwNDRkU1BuY0FoMXIwVXBMTm1mMndEUHM0RUtMNndWdkNVdnNXa2hWX0IzLWtCTU8zU1otQnE0dEw2aGw4VEkxXzhNQnhnYlBFNWZnMGNGdXB3TjJzTjRyZk5XcTc2TVFwVG5IVXR5RV9SYmpTSUxNUExmZS1nMlBKRWRWMQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T15:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHpxcXF6WEs5NHMtQnBEVDlpczRVVUxrMDhQVHJMQ1AwNkNYXzdmbVl6QlJWajEycVhsSHdKZS11ZU9TXy1XQkE4WmZ2eEE1RlVEdkpSOWpXSnRSbWRoUGYyMVo2Q1dzVVgtQ2E2LXI2ZEZCTDA5OENEMy1vX1d2dzdJQUpsWFdWSnI3Tzh2U2VIaVk"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-27T15:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtTTJQMy1iVHlmZjEtcDhrSjVIZ1hkZWdQNHB3aWlwajJWRTZ4clhwWW1MTHNEVXF3RlRsVllIQ2hJN2Z5anRwRjhQUTdjTHlxNDFxRHpOMmYwTGhDbWVscmdZZjQxbnRKek9DNU1VY2pmdVZ2ems4"
     }
    ],
    "category": "财报",
    "session": "盘中",
    "zh_summary": "特斯拉三季度单车财务指标小幅改善",
    "title_zh": "特斯拉三季度单车财务指标小幅但重要改善",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.44,
+    "window_h": 0.4
+   }
   },
   {
    "id": "0cfa41c5bb3d",
@@ -822,12 +870,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw",
    "source": "Yahoo Finance",
    "published_at": "2026-10-27T12:49:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-27T12:49:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-27T14:56:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmc5UDJveFhnSU5XSW1jdHVTVlhNd25qZ1hhaE5OTnhYc2FDYUdfVHJuTHlzLW1OLU9FZTFUeU1FMlJPdTN0ODZGaE50ZXRSWFRiUEFKQWZ6QVU2NlhKdzZXcmEwZVFwM3VfQ3REWHNrajdfT3RmS1pIa1pkSVFuZ2pkb1dwaVhJRzBLN1ZOeXBIVkJKX05KWGJrNV9GOWVTSlhvdDFKZ1hLSzYzUjJ3bW9xRk5SbVc1b2hUU090djcxVXJTbFkwaUpZYTBDdjhXSi1NcWVFZXpYUUU"
     }
    ],
    "category": "其他",
@@ -1352,6 +1405,23 @@
    "sentiment": 1
   },
   {
+   "id": "cd7d18db5537",
+   "title": "特斯拉Cybercab电池包预留空间兼容磷酸铁锂电池，新能源Robotaxi太卷了！ - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV3pBSjhlVFRMUGxXLXc0Y0hTMmFjRXJjUlpveW1TQzlyVXU5MHhJb1lnWXpiVDc3T0xQZEYySkNJSjQtVGtTTS1aV0ROZ0I3MmJhWXB2Ym9BM28",
+   "source": "网通社",
+   "published_at": "2026-10-27T09:39:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-27T09:39:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV3pBSjhlVFRMUGxXLXc0Y0hTMmFjRXJjUlpveW1TQzlyVXU5MHhJb1lnWXpiVDc3T0xQZEYySkNJSjQtVGtTTS1aV0ROZ0I3MmJhWXB2Ym9BM28"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "dc369ffaff30",
    "title": "亚马逊Zoox、Waymo与特斯拉CyberCab三辆无人出租车在奥斯汀窄路相遇陷入死锁 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZURsSmttTThsSEF5X0sxNUdFcmh3dFkydXlrU2N5N0xQTG0yZFYwYjhyTDRUTFQxcWtNNU9WaFl2OTEyOUJmWWVnVjM2TXc0NlFKSWZaMUFLeGs",
@@ -1640,6 +1710,23 @@
    "zh_summary": "特斯拉Optimus学习为无人出租车充电",
    "title_zh": "特斯拉Optimus人形机器人正在学习为无人出租车插枪充电 - 网通社",
    "sentiment": 1
+  },
+  {
+   "id": "f9b8bb1512c5",
+   "title": "特斯拉Optimus上岗，为CyberCab无人车充电 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-27T08:40:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-27T08:40:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "a282b0348051",
@@ -6478,105 +6565,6 @@
    "zh_summary": "特斯拉取消Cybertruck计划，买家等近七年",
    "title_zh": "特斯拉取消Cybertruck计划，买家等待近七年",
    "sentiment": -1
-  },
-  {
-   "id": "b41d5d6023e2",
-   "title": "美国NHTSA监管压力下，特斯拉仍推进Cybercab无人驾驶出租车交付 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZElqTk01R0dSSUJ2VTFCcGxFZXV5SjJzMG1xYXhJSllIdklQMmthamRjcFRiNHBTcEFQNzZyclR6aFdaLTZueWtZMFlsamdfbVNod3NZenNaTXVJSUpJaldtbG1LTERXV01WelFpQWNSWmlMTEZnVjZoTGNrWkI1X0FHUlBqZmtG",
-   "source": "Sohu",
-   "published_at": "2026-10-26T15:13:46+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T15:13:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZElqTk01R0dSSUJ2VTFCcGxFZXV5SjJzMG1xYXhJSllIdklQMmthamRjcFRiNHBTcEFQNzZyclR6aFdaLTZueWtZMFlsamdfbVNod3NZenNaTXVJSUpJaldtbG1LTERXV01WelFpQWNSWmlMTEZnVjZoTGNrWkI1X0FHUlBqZmtG"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T15:17:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Pa3d4bVo5ZXU4WGZFTERVRE5HdTdCNzAxbnR0em5LU251a2owUF9GdjU2cFFXcUdTZzcxOFdTTTg4NklPang0ZWFpZzh3aFFDNmlmeWROREtCTTBLeUR3YVAzdTFQR0l3QWRQZEs4RkJ3VmJqYWhIZHRXZEY"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T15:20:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTW5xQUI0SThXWWlTV1lsbHZ4R0xPZWN5ai1QaHBPaWdQV1hDRkd1MWdNMmRBNmZfaWJkeTFUeTc4Z0x1US0yTlFKMmR6T1VDVFJSTll1STZWVm8xUEE4TTlfN2NNMmpNYndDQk5NSFYzTENEXzM5OU5rZnAyQWpCRHlmLXQ1dGMzcmtfag"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-27T07:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMlR4TFRWUlFQdTlYQzRTUDZKUm52VTVlZDlQaUMxQ25lLTVzdkZCMTdlSjlRT25laU9oaDZ6R3FyLU9oT1g2eFlSN00yb0JoQXFiWVRSbEdrcGFmREIyUmptYUdDaUl1cFRCVkxWaTJ1WUY1OTVuMDNXdlFBUQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "NHTSA监管下特斯拉仍推进Cybercab交付",
-   "title_zh": "NHTSA监管压力下特斯拉推进Cybercab交付",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.07,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "0be16ae0d188",
-   "title": "Turo Launches Verified Tesla FSD Rental Experience in the US - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVc4M3QyN0RZcnM4MzFZN19JaUZBVmtqVmRSSW95emFfdjIyNzRrWEQxWExSMFFLN3hyWVZZYXZfdnVRd3R5UU1LNjdwNk95djRvRnlKR1QzaHppUGl4eUFDOTZpMjZMUnVOLUJLU1l4a255QUpvbjlsS2xyUHBWUHpuMA",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-26T15:12:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-26T15:12:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVc4M3QyN0RZcnM4MzFZN19JaUZBVmtqVmRSSW95emFfdjIyNzRrWEQxWExSMFFLN3hyWVZZYXZfdnVRd3R5UU1LNjdwNk95djRvRnlKR1QzaHppUGl4eUFDOTZpMjZMUnVOLUJLU1l4a255QUpvbjlsS2xyUHBWUHpuMA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Turo在美国推出特斯拉FSD租赁",
-   "title_zh": "Turo在美国推出经认证的特斯拉FSD租赁体验",
-   "sentiment": 1
-  },
-  {
-   "id": "8965d682155f",
-   "title": "【视频】整条街都灯火通明，只有特斯拉到点下班 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUSGZQSnVXd3lmZzlfdVZzckJhSjZ3V0Q2OHNaQlpYYkZiSzdORHphODFnNGlXYVV1ZG02cjUxUlNlcXM0X01CR2wwajNRNlBZUkhKd0xRTFR3MkE",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T15:11:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T15:11:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUSGZQSnVXd3lmZzlfdVZzckJhSjZ3V0Q2OHNaQlpYYkZiSzdORHphODFnNGlXYVV1ZG02cjUxUlNlcXM0X01CR2wwajNRNlBZUkhKd0xRTFR3MkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉到点熄灯引围观",
-   "title_zh": "【视频】整条街都灯火通明，只有特斯拉到点下班 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "b2f11d552c08",
-   "title": "特斯拉Roadster在Petersen博物馆开展，飞行组件亮相 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWFLdnRESGs0WmRvcVBXUWpwWnA1YmdnaTNaTGZuMVB1UFRkb1d1a1JqQUNBV21XTHpGdU5zbFRJazk1LXlHbFNaam5Od25Rb1podHBwekUzOWw0bm0xM1ZpRVFpNmV3SkJMeS10YlAtSzNld0JXNmw2V3dSZmVuWg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-26T15:10:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-26T15:10:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWFLdnRESGs0WmRvcVBXUWpwWnA1YmdnaTNaTGZuMVB1UFRkb1d1a1JqQUNBV21XTHpGdU5zbFRJazk1LXlHbFNaam5Od25Rb1podHBwekUzOWw0bm0xM1ZpRVFpNmV3SkJMeS10YlAtSzNld0JXNmw2V3dSZmVuWg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉Roadster亮相博物馆展飞行组件",
-   "title_zh": "特斯拉Roadster在Petersen博物馆开展，飞行组件亮相 - 手机新浪网",
-   "sentiment": 0
   }
  ]
 }
