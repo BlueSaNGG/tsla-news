@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T17:22:30.213092+00:00",
+ "updated_at": "2026-10-27T17:37:28.316270+00:00",
  "market": {
-  "price": 406.0,
-  "change_pct": 3.67,
+  "price": 406.57,
+  "change_pct": 3.82,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 56% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（128条已评分）"
+     "note": "今日新闻情绪 +0.32（131条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.00 vs 20日均线 $374.23"
+     "note": "现价 $406.57 vs 20日均线 $374.26"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 56,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.5,
-   "ma20": 374.23,
-   "as_of": "2026-10-27T17:22:30.201013+00:00"
+   "implied_upside_pct": -1.6,
+   "ma20": 374.26,
+   "as_of": "2026-10-27T17:37:28.313223+00:00"
   },
-  "pe_ttm": 112.3,
+  "pe_ttm": 112.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.6%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.32,
-   "count": 128
+   "count": 131
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "2652cb4c0a38",
+   "title": "Tesla Shares Hit Three-Month High as Texas Robotaxi Fleet Passes 1,000 Vehicles - eletric-vehicles.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemc4Y3Y5S3Y1QW82djN1MkhMN19fQW1YNTFIbTFMMjFZa3pDTHUzQUx5QUtHTTVSNUtkUGU0UklIUHV1WFlhM1R3Y2VhYTRYWE96VG1TSjFXRzNNVGRaUFkxaFNnN0x4Wjd2OUZOdll3cVRVRVk3Y2dTOTNBajcyWmx4LUtxLVowUE52N1VkdGZoTzV2WERqTkduX0VGRzJ2YmUwb0J2ak9EOHBYSVVFU3BmZ2I",
+   "source": "eletric-vehicles.com",
+   "published_at": "2026-10-27T17:34:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eletric-vehicles.com",
+     "published_at": "2026-10-27T17:34:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemc4Y3Y5S3Y1QW82djN1MkhMN19fQW1YNTFIbTFMMjFZa3pDTHUzQUx5QUtHTTVSNUtkUGU0UklIUHV1WFlhM1R3Y2VhYTRYWE96VG1TSjFXRzNNVGRaUFkxaFNnN0x4Wjd2OUZOdll3cVRVRVk3Y2dTOTNBajcyWmx4LUtxLVowUE52N1VkdGZoTzV2WERqTkduX0VGRzJ2YmUwb0J2ak9EOHBYSVVFU3BmZ2I"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "e23aa0f287e0",
+   "title": "Homeowner wants Tesla Powerwalls in the garage, then learns fire code may decide for them - The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlExVHY5Zklyb2dtb2RDdG1tUXpablMwakc1LUpXdVlKMlhqUldZZDJYeW9EZF9hX1M0NHQwSGVQVzlMVlJKeDhOY2laMklUVXA5b0xuZHZSTFVHSjRQWjNueWVaZUYwREdmQ0ZEYkVpR01MZTNIVzEwTnJLVTNfNGkycEJQbmZMdmc",
+   "source": "The Cool Down",
+   "published_at": "2026-10-27T17:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-10-27T17:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlExVHY5Zklyb2dtb2RDdG1tUXpablMwakc1LUpXdVlKMlhqUldZZDJYeW9EZF9hX1M0NHQwSGVQVzlMVlJKeDhOY2laMklUVXA5b0xuZHZSTFVHSjRQWjNueWVaZUYwREdmQ0ZEYkVpR01MZTNIVzEwTnJLVTNfNGkycEJQbmZMdmc"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
   {
    "id": "902587dd5840",
    "title": "Tesla stock jumps 4% as ARK Invest reaffirms $4... - Pluang",
@@ -3926,7 +3960,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUF9ZVkIwSkdURkVKVVRWc3NOQ05GUl9tQkQtM2FMeU4xQTJERDJRQUlQWElpRE8wUTdiN0lHRFd2dzRIYXFqNWQ2RWwwc2lNc2U2ZHRBbVo2NmFKS2dEWF93b0ZhT2JFdW9vVDh1UEZiaWxhc3Fza2RfbEx6dWJIWFNCQ0NWZEFC",
    "source": "搜狐网",
    "published_at": "2026-10-27T02:04:22+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -3942,10 +3976,16 @@
      "name": "新浪财经",
      "published_at": "2026-10-27T02:11:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HWnF6SFU4YkJTVUs2Vy13SXNCbklzZXpBZWdOVE9oTkd2MHcwUmNpZ0dQVnRQb0dLb0UxR0Q4UEZwZk9OSHJaVjBrQmxkbVdGUkdLY0VuVmpJN2ptZUhKVGN1MjMxLVhsWE1heFBaM3QwVzRhdC15cGtsLWE"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-27T02:10:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IblFJSXBvNm1PTjRRaExFWGZOdlVnUXJFRmdSYWl2am4zb0RoT0t3OTlTX1JuU1d5N0VzRVA4ZzF2NUQtU1h6dHA4NVA"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "Cybercab电池包兼容磷酸铁锂电池",
    "title_zh": "特斯拉Cybercab电池包预留空间以兼容磷酸铁锂电池",
    "sentiment": 1,
@@ -6540,52 +6580,6 @@
    "zh_summary": "巴克莱上调特斯拉评级，股价上涨",
    "title_zh": "特斯拉股价在巴克莱上调评级及Robotaxi推动下上涨",
    "sentiment": 1
-  },
-  {
-   "id": "0c2d557f9c1f",
-   "title": "Tesla Jumps 6.1% After Barclays Upgrades to Overweight - AlphaStreet",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0x0TmphUXpMY2dta0k5VkxINUFkVGMyWEF5WjNKVUR3OFA4UmVFLTF1UnJtWWN2RnJpaWdXVEdYU3N0MXp2V2hSd1Y1T1I3YmxqcHY4ekFDYnJVZmlkV2p6bFdBSlUyaV92MG1BNmpJZXZVU0hoOVZPLTFMYjE4bktCdWo3eVVZUXJWLTh1WlPSAZABQVVfeXFMUF9MdE5qYVF6TGNnbWtJOVZMSDVBZFRjMlhBeVozSlVEdzhQOFJlRS0xdVJybVljdkZyaWlnV1RHWFNzdDF6dldoUndWNU9SN2JsanB2OHpBQ2JyVWZpZFdqemxXQUpVMmlfdjBtQTZqSWV2VVNIaDlWTy0xTGIxOG5LQnVqN3lVWVFyVi04dVpT",
-   "source": "AlphaStreet",
-   "published_at": "2026-10-26T15:46:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AlphaStreet",
-     "published_at": "2026-10-26T15:46:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0x0TmphUXpMY2dta0k5VkxINUFkVGMyWEF5WjNKVUR3OFA4UmVFLTF1UnJtWWN2RnJpaWdXVEdYU3N0MXp2V2hSd1Y1T1I3YmxqcHY4ekFDYnJVZmlkV2p6bFdBSlUyaV92MG1BNmpJZXZVU0hoOVZPLTFMYjE4bktCdWo3eVVZUXJWLTh1WlPSAZABQVVfeXFMUF9MdE5qYVF6TGNnbWtJOVZMSDVBZFRjMlhBeVozSlVEdzhQOFJlRS0xdVJybVljdkZyaWlnV1RHWFNzdDF6dldoUndWNU9SN2JsanB2OHpBQ2JyVWZpZFdqemxXQUpVMmlfdjBtQTZqSWV2VVNIaDlWTy0xTGIxOG5LQnVqN3lVWVFyVi04dVpT"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": "Overweight"
-   },
-   "zh_summary": "巴克莱上调至增持，特斯拉涨6.1%",
-   "title_zh": "特斯拉在巴克莱上调至增持后上涨6.1%",
-   "sentiment": 1
-  },
-  {
-   "id": "a35ad1304116",
-   "title": "EXCLUSIVE: SpaceX–Tesla Merger Can Put XOVR ETF’s 20% SPCX Bet at Risk, 'Could Sacrifice Long-Term Value' Says CIO - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVC1SVE9YZzZqNEdwSzhBeHFHSXBrNXRYNEItMk5uV0FXTGk2WTJRZVltN21JeVdGb0JpUTVYUUp3RE9yYTUwUG45NnB6OGpVNHBiMFJDaDBJalY1NGgxcGYyUkFnRFBac0ItaGNiSFlaOGtZdnc1b2NEWkVOcW9KeTQyakRyRnlZMU5tZUw0TEFmc0d4aUNZS0hOcDlDT3V2UUZyaW5lZmZ6VmJuUUFkZi1ic0xieDlOM0k1NktKeUJvUS1TWXo0NVVnWHNtcGZaVnVkQVI4M3k4N1R3RWhHWEZpTjBIdEVXOVZ3MGxMRURyYlZZX3hoUFB1UkI",
-   "source": "TradingView",
-   "published_at": "2026-10-26T15:45:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T15:45:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVC1SVE9YZzZqNEdwSzhBeHFHSXBrNXRYNEItMk5uV0FXTGk2WTJRZVltN21JeVdGb0JpUTVYUUp3RE9yYTUwUG45NnB6OGpVNHBiMFJDaDBJalY1NGgxcGYyUkFnRFBac0ItaGNiSFlaOGtZdnc1b2NEWkVOcW9KeTQyakRyRnlZMU5tZUw0TEFmc0d4aUNZS0hOcDlDT3V2UUZyaW5lZmZ6VmJuUUFkZi1ic0xieDlOM0k1NktKeUJvUS1TWXo0NVVnWHNtcGZaVnVkQVI4M3k4N1R3RWhHWEZpTjBIdEVXOVZ3MGxMRURyYlZZX3hoUFB1UkI"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "SpaceX特斯拉合并或危及XOVR持仓",
-   "title_zh": "独家：SpaceX与特斯拉合并或危及XOVR ETF押注",
-   "sentiment": -1
   }
  ]
 }
