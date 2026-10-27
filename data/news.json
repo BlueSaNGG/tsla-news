@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T23:08:06.475129+00:00",
+ "updated_at": "2026-10-27T23:22:37.296763+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（171条已评分）"
+     "note": "今日新闻情绪 +0.31（172条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-27T23:08:06.465088+00:00"
+   "as_of": "2026-10-27T23:22:37.288811+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.31,
-   "count": 171
+   "count": 172
   }
  },
  "meta": {
@@ -68,12 +68,46 @@
  },
  "stories": [
   {
+   "id": "60d7194700fd",
+   "title": "Training Center of Central Texas to unveil energy training facility during Tesla Tech Day - The Killeen Daily Herald",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORktJLW0zRUJUTUVZZnNCc0NURDF6VkFuN25SQ1gySzZHSjRxZXNlTzJMOGYxX2VITFRiNjBWSjVqZzNEVHFOcjZFanA4QXN4WmlMeDZ3TFBfQjh0VnItTzhKZ3FBYXVyaGpoRFFiZHRudUhrUjBQZVQzVENTeW5OWEZBajlXWkZmeDlyV0NsWm5RQWtUYUVaQWdjajdxODFrSG5IVEpORmd5ejF4djM4eWNSSUpqODlBRWRUcHpFcUYxY25kXzVUVjB0dzVzQWNfZFpwNGdyMzVLOGtUbnVQV1Q3b1hVMmtmSjQ4d0lDT1ZrVkF4XzJHUVVobmU",
+   "source": "The Killeen Daily Herald",
+   "published_at": "2026-10-27T23:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Killeen Daily Herald",
+     "published_at": "2026-10-27T23:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORktJLW0zRUJUTUVZZnNCc0NURDF6VkFuN25SQ1gySzZHSjRxZXNlTzJMOGYxX2VITFRiNjBWSjVqZzNEVHFOcjZFanA4QXN4WmlMeDZ3TFBfQjh0VnItTzhKZ3FBYXVyaGpoRFFiZHRudUhrUjBQZVQzVENTeW5OWEZBajlXWkZmeDlyV0NsWm5RQWtUYUVaQWdjajdxODFrSG5IVEpORmd5ejF4djM4eWNSSUpqODlBRWRUcHpFcUYxY25kXzVUVjB0dzVzQWNfZFpwNGdyMzVLOGtUbnVQV1Q3b1hVMmtmSjQ4d0lDT1ZrVkF4XzJHUVVobmU"
+    }
+   ],
+   "category": "能源",
+   "session": "盘后"
+  },
+  {
+   "id": "248c907d07b0",
+   "title": "Overnight US Stocks | Market Awaits Fed Interest Rate Decision; Major Indices Rise as Tesla (TSLA.US) Shares Reclaim $400 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGZ4ek5CSHBqWm14eUx2NFFsaC1fVWhnTXpEMlV3VUVoYVRVSTVPZUZEeWxNalprcmRNSHdPRXpaWTg0eElNUGdHWnZhVEFDSXNLbmNBRU9NeDE2ai15S0drZ2IxOXR1azVhdGtYU0NyUjFXdFoxSFB3RGVwbThHaW9YV3U4dVg5QTBtYUVxXzZzbG9kMXltMmUyb3k3QVFUdURXbXBTdWM5dERTVEE",
+   "source": "富途牛牛",
+   "published_at": "2026-10-27T22:41:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-27T22:41:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGZ4ek5CSHBqWm14eUx2NFFsaC1fVWhnTXpEMlV3VUVoYVRVSTVPZUZEeWxNalprcmRNSHdPRXpaWTg0eElNUGdHWnZhVEFDSXNLbmNBRU9NeDE2ai15S0drZ2IxOXR1azVhdGtYU0NyUjFXdFoxSFB3RGVwbThHaW9YV3U4dVg5QTBtYUVxXzZzbG9kMXltMmUyb3k3QVFUdURXbXBTdWM5dERTVEE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
+  {
    "id": "f6e3e80bd226",
    "title": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet - TradingView",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTWZobVUxSjQwQjNMU1VMem1lLTRFcGVPbnczQVJFQ0NWSm9ZSmFIeWxCU3B2WGVEMGJ2UEg0Z0drMTFOV05Yc2thWGZrQS02cWlCMGxycVNBRnFaVG9aN2JDUW1BVDM4TXc3NW5NM1JocUxNMTJCWVN4bTdpc1F5a2psbkhnNy1KRDNDV3N6ZWVQbnNJX2djQ1FlSDlacy0tU2NLVFZ3cWEtNl9WSkZaQ0tFZjFtX0VCSUY2RVhkYVQtc2diV1Raa3REVTdIMEkwYzY4T1VqRWZuREk",
    "source": "TradingView",
    "published_at": "2026-10-27T22:39:57+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "TradingView",
@@ -84,6 +118,11 @@
      "name": "Stocktwits",
      "published_at": "2026-10-27T22:42:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSzZmdHRnUUlEVFhadVNwUWltVjJzdDdhUS01dUdLZjJ2dmREajJwQ05HeWFjbjVsNDl3TFJFV2lYRm5LU0lXZHVuVHZaOUp4c3RZa3k0eEtkbHYxU2doWFc3Q0kzRkQzMTlhUnZRcVhkRDlSSmpHVVllU3RvMjItRnROTHJPVTA3cHFFV2Zwc29MUmlDWGRCMF9wMjVCUE1NVUJQZ1FncmxHcU0xenhiTDFqRlcycldUb3BiSHJub0N5UzE2N3dadlhCSi1VS1dQRF9uWWdIWVFjb3ctRF9N"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T22:39:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0RoSHNwWDRJSU9kWVFwODA0QTRVc3l3UUR3OWNRcUUtYkMwclozdDlQQVo2bWJCRDEyUTZSOVd4N1F3UktieDU0cVNPbUpkWkQ3dEstR2pGWXZYUlBBa3RCU2RuTDVjY2k3TnE2SGVYT2hqWEF5TTJWMS0zdVluaGRiN1NFdE9rdkdLNnhIWmtBcmhGOWNlNFlyaEw0OXZESnc"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6547,52 +6586,6 @@
    "zh_summary": "看跌价差押注特斯拉走低",
    "title_zh": "看跌价差若特斯拉走低将获利",
    "sentiment": 0
-  },
-  {
-   "id": "127ec7205504",
-   "title": "Viral Austin video captures Waymo, Zoox and Tesla robotaxis in traffic - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEhuR3paTTh0OG5xczVnRXFZcjZmUFY0ckpUQV94cWg2aU11ZGlsUkFrVmlFM0FrcHBjOVJ2YVJ6NE9kUmNRS05qNWpLcFJBV1lXZXpnWmJKQUFObkJHNjh0RmVQbzA1SFFzQkd6Vmp0ejFwWkc3RnZDam9WdzdkY2VweTItZUdNRVB3NzlGRnM",
-   "source": "Yahoo",
-   "published_at": "2026-10-26T19:08:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-26T19:08:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaEhuR3paTTh0OG5xczVnRXFZcjZmUFY0ckpUQV94cWg2aU11ZGlsUkFrVmlFM0FrcHBjOVJ2YVJ6NE9kUmNRS05qNWpLcFJBV1lXZXpnWmJKQUFObkJHNjh0RmVQbzA1SFFzQkd6Vmp0ejFwWkc3RnZDam9WdzdkY2VweTItZUdNRVB3NzlGRnM"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "奥斯汀视频拍到Waymo等三家无人车同框",
-   "title_zh": "奥斯汀疯传视频拍到Waymo、Zoox与特斯拉无人车同行",
-   "sentiment": 0
-  },
-  {
-   "id": "8b8de6268bba",
-   "title": "TSLA Breaks Above Resistance as Barclays Upgrades Tesla Stock Citing Potential SpaceX Merger and Delivery Growth Supports Bullish Outlook - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWVlPaHQ5ME5ybXFZU3VjdTA2SFJMd29pRGNCTnYtZXZhajdNeGltaEptS1dycWJlUG5oVWhRWjRqRDd3a0VoNGVqRVN1aUVVLTdXZEI3M3ZBZVE3TGx6em40Qmp6eUQyS25STUJkS2FqY3pXNXJIT2NXaS0zM2l0WmdTMl9sN1lieDJWWkxWYmxHUVpPblEyV25senZTZ2p0cWV6b0Zsdy1LU2J3ZG1sMTV6Ym10eXBzY1F4aDFuY2FGVkVWOXgtakVIcmR5UlotdkxiQU4wSXdpVWhNclRFckRrSzlXcUlEbkFscExaYktyeTVLdWJnQ1BUT3BqQUc4YTB3RlNvRks3UXRD",
-   "source": "FXLeaders",
-   "published_at": "2026-10-26T19:04:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-26T19:04:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWVlPaHQ5ME5ybXFZU3VjdTA2SFJMd29pRGNCTnYtZXZhajdNeGltaEptS1dycWJlUG5oVWhRWjRqRDd3a0VoNGVqRVN1aUVVLTdXZEI3M3ZBZVE3TGx6em40Qmp6eUQyS25STUJkS2FqY3pXNXJIT2NXaS0zM2l0WmdTMl9sN1lieDJWWkxWYmxHUVpPblEyV25senZTZ2p0cWV6b0Zsdy1LU2J3ZG1sMTV6Ym10eXBzY1F4aDFuY2FGVkVWOXgtakVIcmR5UlotdkxiQU4wSXdpVWhNclRFckRrSzlXcUlEbkFscExaYktyeTVLdWJnQ1BUT3BqQUc4YTB3RlNvRks3UXRD"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调特斯拉评级股价突破阻力",
-   "title_zh": "巴克莱上调特斯拉评级，SpaceX合并与交付增长支撑股价突破",
-   "sentiment": 1
   }
  ]
 }
