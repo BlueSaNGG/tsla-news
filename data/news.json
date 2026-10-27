@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T05:52:27.489383+00:00",
+ "updated_at": "2026-10-27T06:07:32.377240+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（1条已评分）"
+     "note": "今日新闻情绪 +0.67（3条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T05:52:27.478080+00:00"
+   "as_of": "2026-10-27T06:07:32.366383+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 1
+   "avg": 0.67,
+   "count": 3
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5de72e72283e",
+   "title": "Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-27T05:51:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-27T05:51:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmg5VUZsOG95RTBEbmFIam1OeldQTXVoUWJUWi05VFhwZzF1RU9yTE5uQllHRDBPS0FEMjVmSzluOHNyQW92YTNEdkZ5LVpnWXpDQTExQXd4eUM2MVVfVVllTDQtZ0dOZlNUOVgzQlIyMkRXaWo5dlYzOTNxUW9LVmdkckRONXA5bUR0SlBWZkxDS1k"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
+   "id": "27298e1122ef",
+   "title": "【视频】都说特斯拉是新能源保值率的佼佼者真的吗?! - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sbTk2RENfdU9jNUhicDhOZWtBWHU0dkFKUFdmME43YUVBb0VsUkh4NjFWZXoxNjMzWGJMbHFwdkRjcC0yWTFJd1RVcHRNQmJ2UHktSVhWVENrOVU",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T05:49:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T05:49:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sbTk2RENfdU9jNUhicDhOZWtBWHU0dkFKUFdmME43YUVBb0VsUkh4NjFWZXoxNjMzWGJMbHFwdkRjcC0yWTFJd1RVcHRNQmJ2UHktSVhWVENrOVU"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
+  },
   {
    "id": "4fc43db9d4c0",
    "title": "留着空间等磷酸铁锂，特斯拉工程师爆料Cybercab电池包没装满 - 热点科技",
@@ -6592,51 +6626,6 @@
    "zh_summary": "吉利登顶德国创新榜特斯拉列第六",
    "title_zh": "研发仅比亚迪1/3，却把特斯拉按在第6：吉利登顶德国创新技术榜 - 汽车之家",
    "sentiment": 0
-  },
-  {
-   "id": "f9fe3f5592e1",
-   "title": "Tesla Model Y L ownership report: Pros, cons & first impressions - Team-BHP",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTFRQzlud3VZM1A0NWFsNm1rdXRBSHBDc2VPRGstOTVacV9WYVgwNm9FYW5IUmFsa3RJS2dHa3YzTGJTNWNOTmF2blFQU2hfLWRydDRVcXlqaUxwdWRqelhZX0FpOXM2WlQ4TXJ4YnFoUV94Z0dQZ2hseURzRF9xeHU2ZkxpRGlLQXI2QzNYby1DVGto0gGaAUFVX3lxTE9WdUJaS09PaHNVRlJ3bW1nUll0U3JmU3FvYUJnOGNyckdDOUM3SmxUUnBQSWwtUzE2ZzNGeW43RzU3Q2JGSjU3dWFRQ0VNb2tNVFVHUmI3R05qekdZM3RQNjlvczJyWEtpaU43WEx3WkpCaVRGTUpUaUM1QU0ybTBnblZ2ZW1vLWZRTUpGbnYxTzEzVUtvb3c1MFE",
-   "source": "Team-BHP",
-   "published_at": "2026-10-26T10:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Team-BHP",
-     "published_at": "2026-10-26T10:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTFRQzlud3VZM1A0NWFsNm1rdXRBSHBDc2VPRGstOTVacV9WYVgwNm9FYW5IUmFsa3RJS2dHa3YzTGJTNWNOTmF2blFQU2hfLWRydDRVcXlqaUxwdWRqelhZX0FpOXM2WlQ4TXJ4YnFoUV94Z0dQZ2hseURzRF9xeHU2ZkxpRGlLQXI2QzNYby1DVGto0gGaAUFVX3lxTE9WdUJaS09PaHNVRlJ3bW1nUll0U3JmU3FvYUJnOGNyckdDOUM3SmxUUnBQSWwtUzE2ZzNGeW43RzU3Q2JGSjU3dWFRQ0VNb2tNVFVHUmI3R05qekdZM3RQNjlvczJyWEtpaU43WEx3WkpCaVRGTUpUaUM1QU0ybTBnblZ2ZW1vLWZRTUpGbnYxTzEzVUtvb3c1MFE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Model Y L车主首印象优缺点",
-   "title_zh": "特斯拉Model Y L车主报告：优缺点与首印象",
-   "sentiment": 0
-  },
-  {
-   "id": "0af1200ce016",
-   "title": "美股盘前科技与芯片股上涨，特斯拉、SK海力士涨超2% - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk9MS1lWTWlPVzI1bkRNSGpUME9qUmR1T1hfNlQzdlVmcUZacnNLSjdPZWtMdHc1OVVQREZGdktnX2FFUXE3Y21Uai1yMnR0T3BsdHRQUTNCVzlpUU9lQ0lEU3ZwTjQwd0VnOVo5UlVZQlpfUW5Jb243S0FudlhoTkFfd25LaVJXSnAydElQRQ",
-   "source": "21财经",
-   "published_at": "2026-10-26T10:23:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-26T10:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbk9MS1lWTWlPVzI1bkRNSGpUME9qUmR1T1hfNlQzdlVmcUZacnNLSjdPZWtMdHc1OVVQREZGdktnX2FFUXE3Y21Uai1yMnR0T3BsdHRQUTNCVzlpUU9lQ0lEU3ZwTjQwd0VnOVo5UlVZQlpfUW5Jb243S0FudlhoTkFfd25LaVJXSnAydElQRQ"
-    },
-    {
-     "name": "网易新闻客户端",
-     "published_at": "2026-10-26T10:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLcDNGaWFPNld1QTFkVHRSZXFFbGMxYXdja3hWU2IwTTBwbmhDX0E5MWdIUGNzRktXZnI2SDNyNFhlMy0tbWJKd1hlSGphZk44a1duall2NHdPT2Zp"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美股盘前特斯拉涨超2%",
-   "title_zh": "美股盘前科技与芯片股上涨，特斯拉、SK海力士涨超2% - 21财经",
-   "sentiment": 1
   }
  ]
 }
