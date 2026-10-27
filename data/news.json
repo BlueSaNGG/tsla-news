@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T19:37:31.732170+00:00",
+ "updated_at": "2026-10-27T19:52:30.306273+00:00",
  "market": {
-  "price": 407.75,
-  "change_pct": 4.12,
+  "price": 407.61,
+  "change_pct": 4.08,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $407.75 vs 20日均线 $374.32"
+     "note": "现价 $407.61 vs 20日均线 $374.31"
     },
     {
      "key": "分析师动向",
@@ -49,10 +49,10 @@
    "target_median": 400.0,
    "target_count": 19,
    "implied_upside_pct": -1.9,
-   "ma20": 374.32,
-   "as_of": "2026-10-27T19:37:31.723733+00:00"
+   "ma20": 374.31,
+   "as_of": "2026-10-27T19:52:30.287309+00:00"
   },
-  "pe_ttm": 112.8,
+  "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.9%空间：估值适中，预期中性",
   "day_sentiment": {
@@ -68,17 +68,39 @@
  },
  "stories": [
   {
+   "id": "756750cec835",
+   "title": "Tesla’s AI to SI rebrand now extends to vehicle computers - driveteslacanada.ca",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVhwcUx0dnNxZE5aM2VDREstVk1TcGctYXVaZTRMOTBDbFBQZm9JcWxXZHo4TlphelNLMGlkQTFUWjRfY1k5WTF1UjhSVmh3T2NVVHpNWDV5UWR0Q21XeGswN1pCdTQwOW5PZTJrb0p4MGg0TFFGOXBONTBoMnJQYVQ2TTQ1U0JhamxpMWJn",
+   "source": "driveteslacanada.ca",
+   "published_at": "2026-10-27T19:44:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "driveteslacanada.ca",
+     "published_at": "2026-10-27T19:44:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVhwcUx0dnNxZE5aM2VDREstVk1TcGctYXVaZTRMOTBDbFBQZm9JcWxXZHo4TlphelNLMGlkQTFUWjRfY1k5WTF1UjhSVmh3T2NVVHpNWDV5UWR0Q21XeGswN1pCdTQwOW5PZTJrb0p4MGg0TFFGOXBONTBoMnJQYVQ2TTQ1U0JhamxpMWJn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "d4d58e0c6c9d",
    "title": "Tesla could make Texas site selection for $10B, 9,700-job solar plant in days - Austin American-Statesman",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWhpTVdjYWR4VkpDNXBBNlNDQUZqRWJTRnVoRDQtM2FKX2lUUVY1THBWT1FJeVpXS0JjV0l0c29iaXdsR1A2SW42c0ozM1dwT1RaLU5tb0JwY25BclpwZzU2Uklpbml1ZnItVEVaSURBb0ZnTVVjYVNfOFpKMy1lUmJWbXF0aWQ0",
    "source": "Austin American-Statesman",
    "published_at": "2026-10-27T18:51:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Austin American-Statesman",
      "published_at": "2026-10-27T18:51:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWhpTVdjYWR4VkpDNXBBNlNDQUZqRWJTRnVoRDQtM2FKX2lUUVY1THBWT1FJeVpXS0JjV0l0c29iaXdsR1A2SW42c0ozM1dwT1RaLU5tb0JwY25BclpwZzU2Uklpbml1ZnItVEVaSURBb0ZnTVVjYVNfOFpKMy1lUmJWbXF0aWQ0"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-27T19:44:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWNJek1sbTdYYnNyWktiUmkydHFBc0ZwQkRxZ0Z2YWRwUzdCT1djRFdMaUZFUlNuOWpsOHRmcGxNZUJkcGV6YjlpZThfZjBPV0ZYdXhoOUVvWEp3U09WZXdIa09nX2V3U21kcDZ1VmlHSzNGMm1xaEJ1YW9LRFpmWGtYNkVmLWsxUDJvY01B"
     }
    ],
    "category": "能源",
@@ -6574,32 +6596,6 @@
    "zh_summary": "特斯拉借Bloom Energy收益转好",
    "title_zh": "特斯拉终于靠Bloom Energy让收益好看了",
    "sentiment": 0
-  },
-  {
-   "id": "2f39bdebd48c",
-   "title": "Tesla Barclays Upgrade: $450 Target, Energy, Deal [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDZCSWNuUzVJT0dIbkZnSjZtOTdIakxUUkNZdGtFdWRMWDhqX1VIblgzeW9zN29CalN4YWZzMU1ldlVGNXRYZW9fZFZsTS1BWjhzQlJYWEZLLXZMbHVERXNGNFNNdm5JZDh3TVcxUzlkOHNfc2hFSlBoTERQaUxuM0ZTWVpLTlJRNEYxOC1JSWFZZjhXNGc",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-26T16:36:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-26T16:36:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDZCSWNuUzVJT0dIbkZnSjZtOTdIakxUUkNZdGtFdWRMWDhqX1VIblgzeW9zN29CalN4YWZzMU1ldlVGNXRYZW9fZFZsTS1BWjhzQlJYWEZLLXZMbHVERXNGNFNNdm5JZDh3TVcxUzlkOHNfc2hFSlBoTERQaUxuM0ZTWVpLTlJRNEYxOC1JSWFZZjhXNGc"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": "$450",
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调特斯拉目标价至450美元",
-   "title_zh": "巴克莱上调特斯拉目标价至450美元",
-   "sentiment": 1
   }
  ]
 }
