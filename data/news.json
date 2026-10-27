@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T06:07:32.377240+00:00",
+ "updated_at": "2026-10-27T06:22:27.432083+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.67（3条已评分）"
+     "note": "今日新闻情绪 +0.60（5条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T06:07:32.366383+00:00"
+   "as_of": "2026-10-27T06:22:27.419310+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 3
+   "avg": 0.6,
+   "count": 5
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2418d1b0dff7",
+   "title": "特斯拉再次拿其Robotaxi地理围栏扩展开涮 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE1lczd5dkxVUlRlVE05NmhMdXNPd3YwR0R6dXZ2RGJ3WTdNRTQwVHlGYW5ZQjdPcU1BTjNoWVAteW5aOF9qdGM3LVdmQmNycXpDU3hXeWN4WEVmNVVJSTI1eW5mbGZmVmVnMjlWbC1OeGZhWk1DenVkSG1Nejg0bXh5enZicDR2Y1lVZl9PVlBINlZWbEhtWXhrSExoNUgxSzloeWdJNlFocmRidjhJY3dhbkVsOU9Nd3c",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T06:05:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T06:05:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVE1lczd5dkxVUlRlVE05NmhMdXNPd3YwR0R6dXZ2RGJ3WTdNRTQwVHlGYW5ZQjdPcU1BTjNoWVAteW5aOF9qdGM3LVdmQmNycXpDU3hXeWN4WEVmNVVJSTI1eW5mbGZmVmVnMjlWbC1OeGZhWk1DenVkSG1Nejg0bXh5enZicDR2Y1lVZl9PVlBINlZWbEhtWXhrSExoNUgxSzloeWdJNlFocmRidjhJY3dhbkVsOU9Nd3c"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "5de72e72283e",
    "title": "Tesla FSD Subscriptions: 1.74M vs $1B Run Rate [2026] - https://tech-insider.org/",
@@ -1316,6 +1333,23 @@
    "zh_summary": "特斯拉辅助驾驶获两国批准但存安全短板",
    "title_zh": "特斯拉辅助驾驶获拉脱维亚和斯洛伐克批准，但路透社试乘暴露安全短板 - 凤凰网",
    "sentiment": 0
+  },
+  {
+   "id": "8d7a81efcebe",
+   "title": "Why Tesla (TSLA) stock is trading up today - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T01:34:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T01:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4e2fb6f184f7",
@@ -6591,46 +6625,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉任命能源项目新负责人",
    "title_zh": "特斯拉任命能源项目新负责人",
-   "sentiment": 0
-  },
-  {
-   "id": "0085a512fdd3",
-   "title": "Analyst recommendations: Block, Fair Isaac, Ross Stores, Spotify, Tesla… - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTNVN18xOHpVR2U5MjctdlkyTWJnZ1dCS2JhODBqUklST2FGckJ0TU03ZWJ4ajFEV3R6emVLaDFadGhfRjB1QUN6emphN2ZIV2VvREFxMFItcW8xOGp3MXJkS1lpMkp1YWNtai02SVJDb3V3SW84akdZS1pBdTF4N3lYbDFJTEt1Q0xxZ2lTT2NzN3JpMTFVME5nUVB2Qm5WTDk5bFZuWk9CY1c2dnUyNjJrQVlDbnVKV3ZVYWdB",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-26T10:37:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-26T10:37:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTNVN18xOHpVR2U5MjctdlkyTWJnZ1dCS2JhODBqUklST2FGckJ0TU03ZWJ4ajFEV3R6emVLaDFadGhfRjB1QUN6emphN2ZIV2VvREFxMFItcW8xOGp3MXJkS1lpMkp1YWNtai02SVJDb3V3SW84akdZS1pBdTF4N3lYbDFJTEt1Q0xxZ2lTT2NzN3JpMTFVME5nUVB2Qm5WTDk5bFZuWk9CY1c2dnUyNjJrQVlDbnVKV3ZVYWdB"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "分析师建议名单含特斯拉等公司",
-   "title_zh": "分析师建议：Block、特斯拉等多家公司",
-   "sentiment": 0
-  },
-  {
-   "id": "389776345875",
-   "title": "研发仅比亚迪1/3，却把特斯拉按在第6：吉利登顶德国创新技术榜 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWHljQTVXUnJqZzh4U19EVHFIc3lmM05JYVVWZkNsNldpTmM1dFB4bE03am1nSmdXbVplWE13ZUJvRkl5aUxOMUlxZ0p1b2t4SnppTk5wd0EydmkwYkFQS2hhX0o4dGNqWlNN",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T10:36:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T10:36:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWHljQTVXUnJqZzh4U19EVHFIc3lmM05JYVVWZkNsNldpTmM1dFB4bE03am1nSmdXbVplWE13ZUJvRkl5aUxOMUlxZ0p1b2t4SnppTk5wd0EydmkwYkFQS2hhX0o4dGNqWlNN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "吉利登顶德国创新榜特斯拉列第六",
-   "title_zh": "研发仅比亚迪1/3，却把特斯拉按在第6：吉利登顶德国创新技术榜 - 汽车之家",
    "sentiment": 0
   }
  ]
