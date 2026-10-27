@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T06:37:32.399439+00:00",
+ "updated_at": "2026-10-27T06:52:31.960156+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.67（6条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.33（9条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T06:37:32.392198+00:00"
+   "as_of": "2026-10-27T06:52:31.945044+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 6
+   "avg": 0.33,
+   "count": 9
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "85fd4ab4f8e9",
+   "title": "Tesla (NASDAQ:TSLA) Share Price Crosses Above 200-Day Moving Average - Here's Why - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVkzM0J0VTJSVVpaRXZBTmdKem15bDY2WEEyNUdNX08za2VtbDlPRjFrTm5uNS1BZXByUnhTQ3FKSVZWaUl2U01CdUJKdEhyQkN4UVp3ZWZxQ1RYWHpjTjVYa3dfYm1fTG9xelRjRk04akJjZFROVkFlSTU5REN3MDhtV1JXOXhEcVJBS1hIcUx3Qk5jRHRwSmtKUjBMM0dLcUxWdm1BQVRXNjI1Vk5jcUhjY2JkZlBxUGxpZWRUV0lfMWoza2pxdWNnaWdfVkFPaUE",
+   "source": "MarketBeat",
+   "published_at": "2026-10-27T06:46:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-27T06:46:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVkzM0J0VTJSVVpaRXZBTmdKem15bDY2WEEyNUdNX08za2VtbDlPRjFrTm5uNS1BZXByUnhTQ3FKSVZWaUl2U01CdUJKdEhyQkN4UVp3ZWZxQ1RYWHpjTjVYa3dfYm1fTG9xelRjRk04akJjZFROVkFlSTU5REN3MDhtV1JXOXhEcVJBS1hIcUx3Qk5jRHRwSmtKUjBMM0dLcUxWdm1BQVRXNjI1Vk5jcUhjY2JkZlBxUGxpZWRUV0lfMWoza2pxdWNnaWdfVkFPaUE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "83e70c2fa9ed",
+   "title": "Elon built the most ridiculous Tesla yet - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0xQbVdtZUgyUWVFa2ZxM2EtTF9HSzEzRXdrT1o4bVcwVUdBd0dRY21JRGtHTUJhYkJybS1GRGJ5S0wxVk43Tk5xbDlIN3BKd045Y0ItQWZPRmRFc0QyUVJwV1pHVzBvY0pSbjNwNDFabW9xTjU0UG9iaVdteUZrSVhBS3lWclAxaHc",
+   "source": "Yahoo Finance Singapore",
+   "published_at": "2026-10-27T06:33:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-27T06:33:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0xQbVdtZUgyUWVFa2ZxM2EtTF9HSzEzRXdrT1o4bVcwVUdBd0dRY21JRGtHTUJhYkJybS1GRGJ5S0wxVk43Tk5xbDlIN3BKd045Y0ItQWZPRmRFc0QyUVJwV1pHVzBvY0pSbjNwNDFabW9xTjU0UG9iaVdteUZrSVhBS3lWclAxaHc"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
   {
    "id": "81fb4794d7cb",
    "title": "【视频】利润腰斩56%、研发暴涨69%！特斯拉一边省钱一边豪赌？ - 汽车之家",
@@ -6575,57 +6609,6 @@
    "session": "盘前",
    "zh_summary": "巴克莱将特斯拉目标价上调至450美元",
    "title_zh": "巴克莱将特斯拉目标价从370美元上调至450美元。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "126b385ab49e",
-   "title": "Barclays upgrades Tesla, says SpaceX merger “now a key part of bull case” - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVFQbDFDaDVyeHhVNXNEY3V5YXEwV1d0bWkzOC1NMFhnRi1mYmctdW1tblc2ZzNRSHRUb20teUVyRy1ZazdEN1hSNUNCdkZoX0Ewb2tndWl2RDdXeG5LOTNMaGhid05GSHN2MUNuN0hpcXVqMF9VRGl4OHlEX0dxWHl3QUpoZ2RkREw4cXdEdE9qV0JubG9GTUtBblNiZlB4Zl9ZOXczajM5NjhTOXFFZzQtR0w4WEtYcVVuVWgwOEw5VFBkVVE",
-   "source": "Investing.com",
-   "published_at": "2026-10-26T10:45:03+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-26T10:45:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVFQbDFDaDVyeHhVNXNEY3V5YXEwV1d0bWkzOC1NMFhnRi1mYmctdW1tblc2ZzNRSHRUb20teUVyRy1ZazdEN1hSNUNCdkZoX0Ewb2tndWl2RDdXeG5LOTNMaGhid05GSHN2MUNuN0hpcXVqMF9VRGl4OHlEX0dxWHl3QUpoZ2RkREw4cXdEdE9qV0JubG9GTUtBblNiZlB4Zl9ZOXczajM5NjhTOXFFZzQtR0w4WEtYcVVuVWgwOEw5VFBkVVE"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T11:08:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVVXSmFqTTVUam0zVTlzdENacW56ZlJVQjFzNVUyd2Q5dlZBRVhnOHNnSFpCaERBNzFiWFBUN2RmUV9WOUZEaHEwSE9uQVgxVkM0dXBrUXJvTXc5MUxaOHkwVUQ2YkthRkRCcXlFb1RUSlZfbmx0c1dLb0pjRG9ESC1Hb0ZMV2QyZUdNWUR4U2VQdlNhT0ctWHVCdGxYUUtGM2c"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调特斯拉评级称合并成牛市关键",
-   "title_zh": "巴克莱上调特斯拉评级：SpaceX合并成牛市关键",
-   "sentiment": 1
-  },
-  {
-   "id": "d1a98f9ad020",
-   "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Tesla to Advance, Nu Holdings to Decline - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOVZnWDBjZlZKWXUyamJEUVUxUHFVVHRzX2wya0hFOEltTjRmZFVWYWlrUkVreG9OckFCbFlDU0FTeEljdHRpb1M4Q1NQVVpaRlpjUDZWQmNDUWxhWXVvaFRhTkZWc3kyWG9Za25aaTBvREJ4aUlVZHhkY2lJWUJmVWRqcjZKMnhxUW94WG5rQk15NnFqWW8yVEM3TE1ZVlQzUFZWb01YOFpDSzdpYjB3QVlDU3pXbkVWT2lROVlEZG9QUGstbE00YU1uYnhJUUFaVHJwU2hvQl9xQVRzbVNwSEp3",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-26T10:44:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-26T10:44:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOVZnWDBjZlZKWXUyamJEUVUxUHFVVHRzX2wya0hFOEltTjRmZFVWYWlrUkVreG9OckFCbFlDU0FTeEljdHRpb1M4Q1NQVVpaRlpjUDZWQmNDUWxhWXVvaFRhTkZWc3kyWG9Za25aaTBvREJ4aUlVZHhkY2lJWUJmVWRqcjZKMnhxUW94WG5rQk15NnFqWW8yVEM3TE1ZVlQzUFZWb01YOFpDSzdpYjB3QVlDU3pXbkVWT2lROVlEZG9QUGstbE00YU1uYnhJUUFaVHJwU2hvQl9xQVRzbVNwSEp3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "盘前社媒热议股涨跌互现，特斯拉有望上涨",
-   "title_zh": "盘前社媒热股涨跌互现，特斯拉上涨Nu下跌",
    "sentiment": 1
   }
  ]
