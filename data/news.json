@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T17:37:28.316270+00:00",
+ "updated_at": "2026-10-27T17:52:29.301647+00:00",
  "market": {
-  "price": 406.57,
-  "change_pct": 3.82,
+  "price": 405.67,
+  "change_pct": 3.59,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.6%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（131条已评分）"
+     "note": "今日新闻情绪 +0.32（133条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.57 vs 20日均线 $374.26"
+     "note": "现价 $405.67 vs 20日均线 $374.22"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.6,
-   "ma20": 374.26,
-   "as_of": "2026-10-27T17:37:28.313223+00:00"
+   "implied_upside_pct": -1.4,
+   "ma20": 374.22,
+   "as_of": "2026-10-27T17:52:29.296592+00:00"
   },
-  "pe_ttm": 112.4,
+  "pe_ttm": 112.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.4%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.32,
-   "count": 131
+   "count": 133
   }
  },
  "meta": {
@@ -1485,6 +1485,23 @@
    "zh_summary": "SpaceX与特斯拉或重塑标普500但非短期",
    "title_zh": "SpaceX、特斯拉和Anthropic或重塑标普500，但非一蹴而就",
    "sentiment": 0
+  },
+  {
+   "id": "d8cfd665f4cf",
+   "title": "【视频】研发仅比亚迪1/3，却把特斯拉按在第6：吉利登顶德国创新技术榜 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kdmFvZ291d3hIenY1QjhGdkRnQmxmamdxWHdJb1JuYjQ1cHZkeXRiX0F3TmEwM3l6RlZRZ0NXV1Q3cTUtX09PRW1YeXhXbjIyOUJuZ0NkSmFsNlU",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T11:50:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T11:50:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kdmFvZ291d3hIenY1QjhGdkRnQmxmamdxWHdJb1JuYjQ1cHZkeXRiX0F3TmEwM3l6RlZRZ0NXV1Q3cTUtX09PRW1YeXhXbjIyOUJuZ0NkSmFsNlU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9ff288241897",
@@ -4285,12 +4302,17 @@
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUURHTXRPVGdZREFQUllVOVN2ZUdwdGJlVkJTLUM2eGdsOWdpSzZYaVh1TDl6b2ZQa0k2VUdIWl9CZ056dEFpNm1yd0hrcmltUENRb3hhY0VfUFVaNzhrOG9DbEo4QnBoWTlyTHpid242ZXFmOElldk9waGpWbHRTSlpEaXowN2NJRW02V0RIeXFMZlRwYzB6NFNKV20wWmVyYjVYeklldWRrUldxQVZQNG1FdDRFVnIyc1FrT0Ztdnllc2RrOVladkVid2QtS3AtQlB4Wlhta3hNbHkwYnktS1dTSlVkVWN1WHNLRQ",
    "source": "TradingView",
    "published_at": "2026-10-27T01:09:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-27T01:09:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUURHTXRPVGdZREFQUllVOVN2ZUdwdGJlVkJTLUM2eGdsOWdpSzZYaVh1TDl6b2ZQa0k2VUdIWl9CZ056dEFpNm1yd0hrcmltUENRb3hhY0VfUFVaNzhrOG9DbEo4QnBoWTlyTHpid242ZXFmOElldk9waGpWbHRTSlpEaXowN2NJRW02V0RIeXFMZlRwYzB6NFNKV20wWmVyYjVYeklldWRrUldxQVZQNG1FdDRFVnIyc1FrT0Ztdnllc2RrOVladkVid2QtS3AtQlB4Wlhta3hNbHkwYnktS1dTSlVkVWN1WHNLRQ"
+    },
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-27T01:09:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc"
     }
    ],
    "category": "其他",
@@ -6559,32 +6581,6 @@
    "session": "盘中",
    "zh_summary": "艾夫斯称特斯拉与SpaceX合并概率八九成",
    "title_zh": "艾夫斯：特斯拉与SpaceX合并概率达80%-90%，$500目标价解析",
-   "sentiment": 1
-  },
-  {
-   "id": "55b9d1977bd1",
-   "title": "Tesla Stock Rises After Barclays Upgrade and Robotaxi Push - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUThIbXNMQmxkZFJUbjVzbE9qOU1DUU1HVGs0X0hzU2FQekNpNEZheTM1Z1Uxa3B5R1N2dUgyREpHT1EzdElTRE4wVVZxY3ZKeHhWME9YTDlSS3NrYzNvYTZMNWZIWWZ2d2FWOVd0N3lMSEJIc0IzWE40eW12c1VyanI5bkRNZVRCWGdQVmNISm94dUZ3SGJfZV9R",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-26T16:04:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-26T16:04:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUThIbXNMQmxkZFJUbjVzbE9qOU1DUU1HVGs0X0hzU2FQekNpNEZheTM1Z1Uxa3B5R1N2dUgyREpHT1EzdElTRE4wVVZxY3ZKeHhWME9YTDlSS3NrYzNvYTZMNWZIWWZ2d2FWOVd0N3lMSEJIc0IzWE40eW12c1VyanI5bkRNZVRCWGdQVmNISm94dUZ3SGJfZV9R"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调特斯拉评级，股价上涨",
-   "title_zh": "特斯拉股价在巴克莱上调评级及Robotaxi推动下上涨",
    "sentiment": 1
   }
  ]
