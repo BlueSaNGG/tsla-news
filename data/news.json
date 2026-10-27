@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T16:52:30.900755+00:00",
+ "updated_at": "2026-10-27T17:07:32.982039+00:00",
  "market": {
-  "price": 405.91,
-  "change_pct": 3.65,
+  "price": 406.91,
+  "change_pct": 3.9,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 56% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（123条已评分）"
+     "note": "今日新闻情绪 +0.31（125条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.91 vs 20日均线 $374.23"
+     "note": "现价 $406.91 vs 20日均线 $374.28"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 56,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.5,
-   "ma20": 374.23,
-   "as_of": "2026-10-27T16:52:30.889778+00:00"
+   "implied_upside_pct": -1.7,
+   "ma20": 374.28,
+   "as_of": "2026-10-27T17:07:32.976123+00:00"
   },
-  "pe_ttm": 112.3,
+  "pe_ttm": 112.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 123
+   "avg": 0.31,
+   "count": 125
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8cc09b31753d",
+   "title": "Tesla Rises 4% as ARK Reiterates $4,400 Long-Term Price Target on Robotaxi Thesis; Rivian Gains 3%, Lucid Holds Steady - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVVpLNXhJSmVaNUhFdXZHUm9qQ0ZLRUUwWkVNbEdtTVNiczBlZmt1MVd4eWNmNlh6YzBDZ1FHajVOV3R3cXZGZVdPc1NreDZOVDRJNlh5RnhLWlphMDFqTkh6blZ6WkF0UV9NU2ExdDlZMU4zbk40SVlZQi1YN0ZTZ2JtN2swRkpFSkthTE5rZEZWSDZyU2JMZHMwcEVjOXhuOUZiV3p5NmZYcXJPWWZTWjZZeDBhUUhkNXl2ZDlHUTlGN19uN1hESkpHM3I4eU9oSkgxLUVkb3pubjFqM1pOQW4xQWtOdWxHSFpSVg",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-27T16:58:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-27T16:58:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVVpLNXhJSmVaNUhFdXZHUm9qQ0ZLRUUwWkVNbEdtTVNiczBlZmt1MVd4eWNmNlh6YzBDZ1FHajVOV3R3cXZGZVdPc1NreDZOVDRJNlh5RnhLWlphMDFqTkh6blZ6WkF0UV9NU2ExdDlZMU4zbk40SVlZQi1YN0ZTZ2JtN2swRkpFSkthTE5rZEZWSDZyU2JMZHMwcEVjOXhuOUZiV3p5NmZYcXJPWWZTWjZZeDBhUUhkNXl2ZDlHUTlGN19uN1hESkpHM3I4eU9oSkgxLUVkb3pubjFqM1pOQW4xQWtOdWxHSFpSVg"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "8fdfb4bc4b99",
+   "title": "If You Invested $1,000 in Tesla Stock When Elon Musk Acquired Twitter, Here’s How Much You’d Have Today - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcDJhaFc0Z2kxU2RpUTVmby16RDYzeW40Wjd5ME1odDN0c2YzcHVoOWxTXzRRZmtaeWlMcmZTU0YwZWZZeV9TcjlMSmhRLWZ6dXlYRDRmYWN6Y00wOW1ZcXY2TUxHSGVCT3ZpZ2dTaU1BWnNpN185UElSZHhaaFNaSGVKUjBuS0NXMDh4YVJTN0tkeTB0LXk0S2I0c1ZEMVRoZU5Db2ZlTnNKTlk3VVNWTGdqQVRjRDRHdTg5TS1uUGw1Q2tnWWRNRWZuOGxiTTNnTXdHMTRDcTAwd1JvWG1rTFRPUldleUtUYWpOVA",
+   "source": "Benzinga",
+   "published_at": "2026-10-27T16:47:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-27T16:47:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcDJhaFc0Z2kxU2RpUTVmby16RDYzeW40Wjd5ME1odDN0c2YzcHVoOWxTXzRRZmtaeWlMcmZTU0YwZWZZeV9TcjlMSmhRLWZ6dXlYRDRmYWN6Y00wOW1ZcXY2TUxHSGVCT3ZpZ2dTaU1BWnNpN185UElSZHhaaFNaSGVKUjBuS0NXMDh4YVJTN0tkeTB0LXk0S2I0c1ZEMVRoZU5Db2ZlTnNKTlk3VVNWTGdqQVRjRDRHdTg5TS1uUGw1Q2tnWWRNRWZuOGxiTTNnTXdHMTRDcTAwd1JvWG1rTFRPUldleUtUYWpOVA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
   {
    "id": "283f474871ca",
    "title": "Tesla Robotaxi service ‘coming soon’ to San Antonio, other cities - San Antonio Express-News",
@@ -106,6 +140,23 @@
    "zh_summary": "小鹏客户满意度连续两年超越特斯拉",
    "title_zh": "小鹏连续第二年客户满意度第一，超越特斯拉",
    "sentiment": -1
+  },
+  {
+   "id": "2c7a567e73c7",
+   "title": "Tesla Moves to Future-Proof Cybercabs with LFP Battery Technology; Tesla Stock (NASDAQ:TSLA) Surges - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXRodTFUQ1VuQkItZWp6ZkJ4SlVjQkx3S2JlbVktS0lWV251RlhiZUZid0RsSkxVeEZXbzdpTzUtS1VXdWlyeWJfcGRRcU5LT0twczRoUFhVek5raGY1MTZaNmRGRWhtR2d5a3RzVC1NbVN2NG9zR3VtMkdiWnozVEY0dnpnaWZCc2Jaejk4Rmc5NnpxR3NNRWRxcGFhbzR5djEtS2xTWnh3REFzQlVSZEV6N1dlYXI0NUQ3c2JDNEZ2UUU",
+   "source": "TipRanks",
+   "published_at": "2026-10-27T16:37:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-27T16:37:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXRodTFUQ1VuQkItZWp6ZkJ4SlVjQkx3S2JlbVktS0lWV251RlhiZUZid0RsSkxVeEZXbzdpTzUtS1VXdWlyeWJfcGRRcU5LT0twczRoUFhVek5raGY1MTZaNmRGRWhtR2d5a3RzVC1NbVN2NG9zR3VtMkdiWnozVEY0dnpnaWZCc2Jaejk4Rmc5NnpxR3NNRWRxcGFhbzR5djEtS2xTWnh3REFzQlVSZEV6N1dlYXI0NUQ3c2JDNEZ2UUU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "d31ba3218119",
@@ -6531,66 +6582,6 @@
    "zh_summary": "Turo将于10月28日推出特斯拉FSD租赁",
    "title_zh": "Turo将于10月28日推出特斯拉FSD租赁服务",
    "sentiment": 1
-  },
-  {
-   "id": "e84d8d92feb0",
-   "title": "Tesla Is Building Maps for FSD After Years of Dismissal - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1V0N0JrZXhVLTVSbjRIUldzLXZqc2Y1UlNyNFZPc2lfYWtmZHFUcDdRUDR1YUhkVlVlTnpOcUdPTWtpWmxULUw0RlUyMkl2TWxldkwtOURMWl94TEdhbGl3R3lNbHgwbFlEVFVHdElOOWJzZDYyTkFaSlVOaEF4V1Q2UlJZS3ZwQkdPZ0hkclFjM19fVFhXZ0pRSm4",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-26T15:42:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-26T15:42:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1V0N0JrZXhVLTVSbjRIUldzLXZqc2Y1UlNyNFZPc2lfYWtmZHFUcDdRUDR1YUhkVlVlTnpOcUdPTWtpWmxULUw0RlUyMkl2TWxldkwtOURMWl94TEdhbGl3R3lNbHgwbFlEVFVHdElOOWJzZDYyTkFaSlVOaEF4V1Q2UlJZS3ZwQkdPZ0hkclFjM19fVFhXZ0pRSm4"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉为FSD研发地图系统",
-   "title_zh": "多年否定后，特斯拉开始为FSD绘制地图",
-   "sentiment": 1
-  },
-  {
-   "id": "3a205e23b756",
-   "title": "特斯拉 Cybercab 启动小规模部署，NHTSA 监管压力未阻交付 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fMG41QzZxRklnY281MTU1TUt3ZFpzclMzQUFjbVNMdWRRQXBSLVhPUXVMZHd2TmpoQTZTbTZpcU5uTnBtdVJraFBqdWVsdGJFUkxHYk5YZm5pdEE",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T15:41:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T15:41:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fMG41QzZxRklnY281MTU1TUt3ZFpzclMzQUFjbVNMdWRRQXBSLVhPUXVMZHd2TmpoQTZTbTZpcU5uTnBtdVJraFBqdWVsdGJFUkxHYk5YZm5pdEE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉Cybercab启动小规模部署",
-   "title_zh": "特斯拉Cybercab启动小规模部署",
-   "sentiment": 1
-  },
-  {
-   "id": "4c1cdb69053d",
-   "title": "特斯拉Cybercab年底交付，无方向盘智驾遭NHTSA审查 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lTk9Mb2xzOURYVXdFZWd3VDdXUjEybjVSOU5MMnFuOERvNWlITEZIb2NhcGludjVma2VaUWh3YmRTSV80QnZ5bWxTVjhNLXZ0V1lWQzF2cGE1Mmc",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T15:40:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T15:40:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lTk9Mb2xzOURYVXdFZWd3VDdXUjEybjVSOU5MMnFuOERvNWlITEZIb2NhcGludjVma2VaUWh3YmRTSV80QnZ5bWxTVjhNLXZ0V1lWQzF2cGE1Mmc"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉Cybercab年底交付遭审查",
-   "title_zh": "特斯拉Cybercab年底交付，无方向盘智驾遭NHTSA审查",
-   "sentiment": 0
   }
  ]
 }
