@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T14:52:32.254407+00:00",
+ "updated_at": "2026-10-27T15:07:32.748694+00:00",
  "market": {
-  "price": 402.45,
-  "change_pct": 2.76,
+  "price": 402.67,
+  "change_pct": 2.82,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.6%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（88条已评分）"
+     "note": "今日新闻情绪 +0.26（95条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.45 vs 20日均线 $374.06"
+     "note": "现价 $402.67 vs 20日均线 $374.07"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.6,
-   "ma20": 374.06,
-   "as_of": "2026-10-27T14:52:32.247180+00:00"
+   "implied_upside_pct": -0.7,
+   "ma20": 374.07,
+   "as_of": "2026-10-27T15:07:32.732434+00:00"
   },
-  "pe_ttm": 111.3,
+  "pe_ttm": 111.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 88
+   "avg": 0.26,
+   "count": 95
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "340e838be061",
+   "title": "Turo Now Lets You Rent A Tesla With Full Self-Driving - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdFU4TERHeWU5TU8yRG1naVFxQVBQRll3aEs1Vi1iY3VYNGZkN29PTVJsRjlfSS1ZanZQVXBsTUxJT3kwRXJqTHRjUWdKOTZrRHNxSXQxQVlDWU1pUVplYTV5MnlQVjAxcjRqRFd0Z2Z3b2c2",
+   "source": "Motor1.com",
+   "published_at": "2026-10-27T15:01:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-27T15:01:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdFU4TERHeWU5TU8yRG1naVFxQVBQRll3aEs1Vi1iY3VYNGZkN29PTVJsRjlfSS1ZanZQVXBsTUxJT3kwRXJqTHRjUWdKOTZrRHNxSXQxQVlDWU1pUVplYTV5MnlQVjAxcjRqRFd0Z2Z3b2c2"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "bc635aeb0561",
+   "title": "General Motors Rises 5% on Nasdaq Listing Move and Index Eligibility; Tesla Gains 3%, Ford Edges Higher - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWZIYktkbFdyMzJTOURnb1JuMVY3bGhiSTl4UXk0UjMzb1BkM25MSjI5b21aaVdmTGFZYmlZVGhzVmI0b3NsaW1ITlpxeU90SFYyb3hPaWhEenJFN3FJdVRfckJFS2ZpQ1pPSF9OM0g5MjM4UzVBU2FTZmFia0dXaFViTEJRbW1BdnRoNHJtaExNTFczdE9jdEpBWVJ5N2tMRlcyZm8xT3RqdWZvZllrWllpMzlQRkVocFNIeDBvUllXTUFXSEVxVUEzeHVKc0JRX01fVEdqdzVyQjA",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-27T14:58:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-27T14:58:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMWZIYktkbFdyMzJTOURnb1JuMVY3bGhiSTl4UXk0UjMzb1BkM25MSjI5b21aaVdmTGFZYmlZVGhzVmI0b3NsaW1ITlpxeU90SFYyb3hPaWhEenJFN3FJdVRfckJFS2ZpQ1pPSF9OM0g5MjM4UzVBU2FTZmFia0dXaFViTEJRbW1BdnRoNHJtaExNTFczdE9jdEpBWVJ5N2tMRlcyZm8xT3RqdWZvZllrWllpMzlQRkVocFNIeDBvUllXTUFXSEVxVUEzeHVKc0JRX01fVEdqdzVyQjA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "7892e648bac3",
    "title": "特斯拉市值一夜飙升5700亿元 - 手机新浪网",
@@ -106,26 +140,6 @@
    "zh_summary": "特斯拉车辆出现掉胎情况",
    "title_zh": "第一次见，特斯拉也掉胎了 - 手机新浪网",
    "sentiment": -1
-  },
-  {
-   "id": "cb97c04738f2",
-   "title": "Tesla Roadster Finally Hits the Road in Public. Its Destination? A Museum - MotorBiscuit",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEIyTXE2LWtKdTN5S2RUamlQcHp2VGpVVVhHVjNXYXY1bEFSa2dhSC1takRpbl93RmRwQTNTYnM1dHdqMU16WExKSzF5N1NDWmRjX1FleG1ERzctTmlLTWJSRlVFei00UzRqbzM5S2plVXRpN0lXaXhOZ1p3OW5vSWdwOGF6SFhJZlNwb2g2Q0NvRnR1UUtabmRvd1V4dWdMRk5z",
-   "source": "MotorBiscuit",
-   "published_at": "2026-10-27T14:46:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MotorBiscuit",
-     "published_at": "2026-10-27T14:46:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEIyTXE2LWtKdTN5S2RUamlQcHp2VGpVVVhHVjNXYXY1bEFSa2dhSC1takRpbl93RmRwQTNTYnM1dHdqMU16WExKSzF5N1NDWmRjX1FleG1ERzctTmlLTWJSRlVFei00UzRqbzM5S2plVXRpN0lXaXhOZ1p3OW5vSWdwOGF6SFhJZlNwb2g2Q0NvRnR1UUtabmRvd1V4dWdMRk5z"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Roadster公开上路，目的地是博物馆",
-   "title_zh": "特斯拉Roadster终于公开上路，目的地却是博物馆",
-   "sentiment": 0
   },
   {
    "id": "ecaf3e4fa282",
@@ -168,6 +182,31 @@
    "sentiment": 1
   },
   {
+   "id": "cb97c04738f2",
+   "title": "Tesla Roadster Finally Hits the Road in Public. Its Destination? A Museum - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUsydF85bXNBYTM0QlFWR2hmVWZzYmtUMUpKMEFTNWJkdG5aUW1MdjBfd3hrVW9WSkxzVFhZTHRaWk1jQzQ5T1ZmS1BiZnZpQnhHRnNWUkZiVzlyT2RrSFVib1ZWOF9uSjRZNGhITU1VMFB3YTFSeUhiZjBlSFIxRXo1VDB6c3RzbXZ6a3I0Nm5nTnBMOGpab2FXXzdzUmRW",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-27T14:42:39+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-27T14:42:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUsydF85bXNBYTM0QlFWR2hmVWZzYmtUMUpKMEFTNWJkdG5aUW1MdjBfd3hrVW9WSkxzVFhZTHRaWk1jQzQ5T1ZmS1BiZnZpQnhHRnNWUkZiVzlyT2RrSFVib1ZWOF9uSjRZNGhITU1VMFB3YTFSeUhiZjBlSFIxRXo1VDB6c3RzbXZ6a3I0Nm5nTnBMOGpab2FXXzdzUmRW"
+    },
+    {
+     "name": "MotorBiscuit",
+     "published_at": "2026-10-27T14:46:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEIyTXE2LWtKdTN5S2RUamlQcHp2VGpVVVhHVjNXYXY1bEFSa2dhSC1takRpbl93RmRwQTNTYnM1dHdqMU16WExKSzF5N1NDWmRjX1FleG1ERzctTmlLTWJSRlVFei00UzRqbzM5S2plVXRpN0lXaXhOZ1p3OW5vSWdwOGF6SFhJZlNwb2g2Q0NvRnR1UUtabmRvd1V4dWdMRk5z"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "特斯拉Roadster公开上路，目的地是博物馆",
+   "title_zh": "特斯拉Roadster终于公开上路，目的地却是博物馆",
+   "sentiment": 0
+  },
+  {
    "id": "06a88f4c5a03",
    "title": "$SpaceX (SPCX.US)$$英伟达 (NVDA.US)$$特斯拉 (TSLA.US)$ 继续杀看跌期权[不行] - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1F2cmdGbG1uUmRvUWNkUEVGM3FsMGsyRmVwT0VFM2Jpd1hYbHcySlFlSEt3MWZOTExubjQ3Q3JFZkFuSHdXY3V1UVZxeS1aZEZJOHVzN2pUQTY0b1pkSWJOUVQ5TGh3czVWN3hnRGRaQ1p5V1lPeGNGMWh0bnlsWGhCUW5URlhlam96Qks4NHRGTVUzdGU4RXpwUXVIdGdlZUE2TGZ1SHBIQ1hYZGpvcg",
@@ -188,6 +227,23 @@
    "sentiment": 1
   },
   {
+   "id": "8e5786fc4dfa",
+   "title": "美股存储股深夜大涨，特斯拉市值大增2700亿元，热门中概股集体下挫 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19Pb2xBZjFtdkhDMXJ1LUJILUhYbWdCdjJRalRLX1VvWC15d3RhNlN2dlJrNTVwWmcyQ2FJc01mTkZMUzlEQ0pJTU9GN2lMRUVMb0duSS1mS19xbVdxZGVjeDNnOUN1VF9NQzE2ajQ5dksxOE00SU5ObHFxeEc0b0N5czZwSE1uYW9iM292RQ",
+   "source": "21财经",
+   "published_at": "2026-10-27T14:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-27T14:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19Pb2xBZjFtdkhDMXJ1LUJILUhYbWdCdjJRalRLX1VvWC15d3RhNlN2dlJrNTVwWmcyQ2FJc01mTkZMUzlEQ0pJTU9GN2lMRUVMb0duSS1mS19xbVdxZGVjeDNnOUN1VF9NQzE2ajQ5dksxOE00SU5ObHFxeEc0b0N5czZwSE1uYW9iM292RQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "3a3b2c76cb6f",
    "title": "Tesla’s Strong Quarter Has A Catch (NASDAQ:TSLA) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DNU56R25qWENZc0xtbnBUUzkwcW5yeER4dXRaZWpIYmdDWGl5Y1NYSHpRU19BUWFYUUk3bmRTenN6SGtvX0VnYk45NFpjOTdGTFI4ekhvMmdJTU16RTNGY18zWWtpYXRNZ0lpYkZsSm5HcUlKRXM1aWJhOVhzQQ",
@@ -206,6 +262,23 @@
    "zh_summary": "特斯拉强劲季度业绩暗藏隐忧",
    "title_zh": "特斯拉强劲季度业绩暗藏隐忧",
    "sentiment": 0
+  },
+  {
+   "id": "46e0c0205e7a",
+   "title": "美股讯号 | 特斯拉与SpaceX合并猜测升温，股价重返400美元 ｜#美股资讯# #特斯拉# #并购消息# - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhma3oxcTc1TV81Z3NHaXNFdllQN2tMNDRRdmdzTktHTzZsNkZSSXVUSG1sNFRQT2hSMF8yVFVWeWExNlJuZ1k1ak1tbXlWRllfUmE1VW51UHBuYk0yUjAweHhaWkRBT2hzUGFNbFNiNkcxc2RwSWgxLUZYbFotRkduS25ZT2V0Q21GRQ",
+   "source": "搜狐网",
+   "published_at": "2026-10-27T14:33:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T14:33:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhma3oxcTc1TV81Z3NHaXNFdllQN2tMNDRRdmdzTktHTzZsNkZSSXVUSG1sNFRQT2hSMF8yVFVWeWExNlJuZ1k1ak1tbXlWRllfUmE1VW51UHBuYk0yUjAweHhaWkRBT2hzUGFNbFNiNkcxc2RwSWgxLUZYbFotRkduS25ZT2V0Q21GRQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "04dce297ca18",
@@ -253,7 +326,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtUDI3MnJuUGJPRjd1S2RmMkJjUjJSbUFZV3ZrLUNVMXQya2JNMjNVUWMzaU83RHh1UW1nNjE0dEhmYzNJR0lBVi03dUh6akdEVXR4YlFlVEtQYTZWLThWYzVaTktUb3BxWmt2NVlHZzI",
    "source": "英为财情 Investing.com",
    "published_at": "2026-10-27T14:22:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "英为财情 Investing.com",
@@ -264,13 +337,22 @@
      "name": "Moomoo",
      "published_at": "2026-10-27T14:27:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc180V0VvOFBxdS03NnZUVXhRUFFfWU41T1JNVXRKTXhYSmVVLWVtRWc3Z1hrYkJRQ1lWSnIwbnRWejRkVDNmZTREZ1BVV2FJVHNDNlBIWnZadlZsYUtTQXY2UV9OWENLM0NaTXJTWDRtMjFfSDhKX3I2V2RoNzZIUkFkMXE5TkI4RDdfX1g3TlpNNExyTjVtRFJqd3lJdWhRZWVMWHkyMDFCME40"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-27T14:22:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45U2ZuZnpWT2xvR1lrdW9zRGU5LUJfWXRzeGdPZ3pCaS13NlRMdDFzQi1Ra0s4VldvNzJDcW9JUVltYzByNEVaU3FMZno0bF9Ua3pWaE5HeV9wczhjTnU0WA"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉涨超2.6%市值逼近1.6万亿美元",
    "title_zh": "特斯拉高开高走涨超2.6%，市值逼近1.6万亿美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.08,
+    "window_h": 0.7
+   }
   },
   {
    "id": "d8469d1649e0",
@@ -330,26 +412,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉空头涨势中退场亏损",
    "title_zh": "特斯拉空头在涨势中退场，买家推动股价逼近阻力位",
-   "sentiment": 1
-  },
-  {
-   "id": "1f1edba4daf9",
-   "title": "$特斯拉 (TSLA.US)$ 神已觉醒[抓狂] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHBjZ0EyNzFiSHEtWllyWnZ6bVJ3V2VqbHBLOUhYQUNMYjFnWi10dWg0bm1VbDNpVVdTczExdURVejZNalZKRkE4cjFiUFNDRndSdHlXcFhwaDRZUnpmTWZXVGpUbmdva053UFphaTBwbnZlYXZFOTJXSkZleHFOS1BuSWlMUDhJcktiT0hQdUFXd185",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T13:48:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T13:48:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHBjZ0EyNzFiSHEtWllyWnZ6bVJ3V2VqbHBLOUhYQUNMYjFnWi10dWg0bm1VbDNpVVdTczExdURVejZNalZKRkE4cjFiUFNDRndSdHlXcFhwaDRZUnpmTWZXVGpUbmdva053UFphaTBwbnZlYXZFOTJXSkZleHFOS1BuSWlMUDhJcktiT0hQdUFXd185"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉股价觉醒走强",
-   "title_zh": "$特斯拉(TSLA.US)$神已觉醒",
    "sentiment": 1
   },
   {
@@ -3437,26 +3499,6 @@
    "sentiment": 0
   },
   {
-   "id": "7418ce825622",
-   "title": "马斯克疯狂“整活”，特斯拉全面“跳票”-36氪 - 36kr",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yZmthRk9FaVR6UUVZVHVsX2NsM2d2ekNoSHpLOXN3cU9USk1GZ1kwWlE2YlNGNUgxWnkzbElZVDZRaWRhTkVfWGl2eVkzNTA",
-   "source": "36kr",
-   "published_at": "2026-10-27T01:14:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36kr",
-     "published_at": "2026-10-27T01:14:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yZmthRk9FaVR6UUVZVHVsX2NsM2d2ekNoSHpLOXN3cU9USk1GZ1kwWlE2YlNGNUgxWnkzbElZVDZRaWRhTkVfWGl2eVkzNTA"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克整活特斯拉全面跳票",
-   "title_zh": "马斯克疯狂“整活”，特斯拉全面“跳票”-36氪 - 36kr",
-   "sentiment": -1
-  },
-  {
    "id": "5a063307fb56",
    "title": "TSLA, CLS, NU, XP, MSFT: 5 Trending Stocks Today - Celestica (NYSE:CLS) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc",
@@ -3495,6 +3537,26 @@
    "zh_summary": "特斯拉等五股今日受投资者关注",
    "title_zh": "特斯拉等五只股票今日受投资者关注",
    "sentiment": 0
+  },
+  {
+   "id": "b18332d7f59b",
+   "title": "$特斯拉 (TSLA.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4VGFjMjlkVHZlYlhPWHRvZFF0SFZ5MXNlNlFiVzl5cXF3c3Rrc1lTNkI2RXhYRkpuVDJqTUl0YW1YZ3ZSZkhGMGkwcWFfNXJ5NU9pUzdpVXVmWXQxN0pqd0kwUEVtdkpvZ3JBUUloSmc5c1hVQXh0b2hjVnE",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T00:58:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T00:58:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4VGFjMjlkVHZlYlhPWHRvZFF0SFZ5MXNlNlFiVzl5cXF3c3Rrc1lTNkI2RXhYRkpuVDJqTUl0YW1YZ3ZSZkhGMGkwcWFfNXJ5NU9pUzdpVXVmWXQxN0pqd0kwUEVtdkpvZ3JBUUloSmc5c1hVQXh0b2hjVnE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉股价觉醒走强",
+   "title_zh": "$特斯拉(TSLA.US)$神已觉醒",
+   "sentiment": 1
   },
   {
    "id": "cf02ce4a726a",
@@ -4597,31 +4659,6 @@
    "sentiment": 1
   },
   {
-   "id": "2b137a481c1a",
-   "title": "Tesla (NASDAQ:TSLA) Stock Surges 6% as Barclays Raises Target to US$450 on SpaceX Merger Hopes - Stocks Down Under",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0xyakhOM3hUbThEcldBT3U5T2hPdWg0TFFzWDdKcGZyQ0hDX2lsT29JT0QyMndYbVMtanhEeTBJcjVfR2lPeGs3UjBvOHQtS2xiOXdGUGFxQlBibnR4SUhZRWpUMnBtU3Q0Yks1S2NWclJCZ2MzSVRDcW40ZGVKaw",
-   "source": "Stocks Down Under",
-   "published_at": "2026-10-26T20:25:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocks Down Under",
-     "published_at": "2026-10-26T20:25:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0xyakhOM3hUbThEcldBT3U5T2hPdWg0TFFzWDdKcGZyQ0hDX2lsT29JT0QyMndYbVMtanhEeTBJcjVfR2lPeGs3UjBvOHQtS2xiOXdGUGFxQlBibnR4SUhZRWpUMnBtU3Q0Yks1S2NWclJCZ2MzSVRDcW40ZGVKaw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T05:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlJTdXFLbDdVUHhZczBfcDFqaVUxS0J6b2V6anlBbG9TX3FtRVl0dUJFb25rVFZNSEdWeVV3UHZMUnVXLW54S25LeFhFeG01WFZYMkk3RURheDQ4dy1zX29xY2E5VzZWV0pkdVdQMndyM284N214MnkyT2dSOTJMMVctbERzRV9ybzNMQ2Nad3YwUlg5Q3luaUtn"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "巴克莱上调特斯拉目标价至450美元",
-   "title_zh": "特斯拉股价涨6%，巴克莱因SpaceX合并预期上调目标价至450美元",
-   "sentiment": 1
-  },
-  {
    "id": "17d3e2b9b49a",
    "title": "A Startup Spent 11 Years Building Flying Cars. Now Tesla Is Paying Attention - 1 Smart Business Story",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2xKZy1ha25yeS1ZUmQ0aWw4REFPTE5ndjNRbGZsSVpZZjllTHVBTFdXWlI4aUNxbE10eUpHOWRmVTZZVTZWTjFQdG1iMHhpRHJER08zellJbWIzV0c0NlNkNjBRRm1BRFQxZDBGODNwcGctYkFXb3BobGVqZ2Zsdkc2U0FfSGNlekRhOEFJdmxhSlNSUWZyT29PQS0zMVNhLU05NGZkWlNYMFI4T0w1VUVyZUhlU251YlJMbWVUVGpRdw",
@@ -4679,6 +4716,31 @@
    "session": "盘后",
    "zh_summary": "Munro解析Cybercab线控制动与热泵",
    "title_zh": "Munro揭秘Cybercab无箱式制造、线控制动与第三代热泵",
+   "sentiment": 1
+  },
+  {
+   "id": "2b137a481c1a",
+   "title": "Tesla (NASDAQ:TSLA) Stock Surges 6% as Barclays Raises Target to US$450 on SpaceX Merger Hopes - Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0xyakhOM3hUbThEcldBT3U5T2hPdWg0TFFzWDdKcGZyQ0hDX2lsT29JT0QyMndYbVMtanhEeTBJcjVfR2lPeGs3UjBvOHQtS2xiOXdGUGFxQlBibnR4SUhZRWpUMnBtU3Q0Yks1S2NWclJCZ2MzSVRDcW40ZGVKaw",
+   "source": "Stocks Down Under",
+   "published_at": "2026-10-26T19:56:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Stocks Down Under",
+     "published_at": "2026-10-26T19:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0xyakhOM3hUbThEcldBT3U5T2hPdWg0TFFzWDdKcGZyQ0hDX2lsT29JT0QyMndYbVMtanhEeTBJcjVfR2lPeGs3UjBvOHQtS2xiOXdGUGFxQlBibnR4SUhZRWpUMnBtU3Q0Yks1S2NWclJCZ2MzSVRDcW40ZGVKaw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T05:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlJTdXFLbDdVUHhZczBfcDFqaVUxS0J6b2V6anlBbG9TX3FtRVl0dUJFb25rVFZNSEdWeVV3UHZMUnVXLW54S25LeFhFeG01WFZYMkk3RURheDQ4dy1zX29xY2E5VzZWV0pkdVdQMndyM284N214MnkyT2dSOTJMMVctbERzRV9ybzNMQ2Nad3YwUlg5Q3luaUtn"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中",
+   "zh_summary": "巴克莱上调特斯拉目标价至450美元",
+   "title_zh": "特斯拉股价涨6%，巴克莱因SpaceX合并预期上调目标价至450美元",
    "sentiment": 1
   },
   {
@@ -6503,71 +6565,6 @@
    "zh_summary": "特斯拉股价上涨5.8%市值增超850亿美元",
    "title_zh": "特斯拉股价上涨5.8%，市值增加超850亿美元",
    "sentiment": 1
-  },
-  {
-   "id": "cfcf2db18647",
-   "title": "Musk wants a Tesla and SpaceX merger, here’s what the numbers say - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGgzekc0WDR0ck9wTmNMZVhZMnpCblcwOE5ieTU2WUhDOHdCRFpXdWl3ZkNPWnhSc0tlREtRekVlNzU3M2VnQlZJRVBMYlFmYW5rMUZoc051bVliZGpRN2Z4WjdBMlQ3SmU1UnV3WDJzb3BLV0M2Qm9iT1EyMnFVQkVET1ZBaklEX0ZtNng0ejBtbk02NDNCdEdmV2k4ZFY5NUNOblc3R1FMYTlCNkgzRWROMG5qemVPUVJDaw",
-   "source": "Investing.com",
-   "published_at": "2026-10-26T14:39:49+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-26T14:39:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGgzekc0WDR0ck9wTmNMZVhZMnpCblcwOE5ieTU2WUhDOHdCRFpXdWl3ZkNPWnhSc0tlREtRekVlNzU3M2VnQlZJRVBMYlFmYW5rMUZoc051bVliZGpRN2Z4WjdBMlQ3SmU1UnV3WDJzb3BLV0M2Qm9iT1EyMnFVQkVET1ZBaklEX0ZtNng0ejBtbk02NDNCdEdmV2k4ZFY5NUNOblc3R1FMYTlCNkgzRWROMG5qemVPUVJDaw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T15:06:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSUFiamhPSEZIbWN3aF8zcUlMejFqbV9nUV93bkR3VkZyWEgtclhYMWNHWldSdjlrX2JvMWtLOUZ2MGN6MjlyT1hla1ZvUFBMVEwxaFpSQVJZTGVleEZ4Nk96YWVMTFJ6c3dlQjFyOXU4aW5YejBndVNHbDBBN2M1TG5YWlFMNEhmSjlRXy1RcDRTYjRNNW5DN3V3Yw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克推动特斯拉与SpaceX合并",
-   "title_zh": "马斯克推动特斯拉与SpaceX合并，数据怎么说",
-   "sentiment": 0
-  },
-  {
-   "id": "f7df4eff35c0",
-   "title": "FSD软件红利，托不住特斯拉三季度利润 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JXRUVNbkhCdmYzMllORVJnaE9UakVuT2YtS2tya0RhQW5rME15OEkwams0RXlPVjVNMGFXWXB6Wk5MMUpkSEpiZVBvSjNUeDVkS21QcmJsZnNTNDdLRkpJV2tyN2ktQ205UDNtbF9abXBFQzhFTE1DdkF5dWFZWDFKN3RjdHNP",
-   "source": "搜狐网",
-   "published_at": "2026-10-26T14:39:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T14:39:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3JXRUVNbkhCdmYzMllORVJnaE9UakVuT2YtS2tya0RhQW5rME15OEkwams0RXlPVjVNMGFXWXB6Wk5MMUpkSEpiZVBvSjNUeDVkS21QcmJsZnNTNDdLRkpJV2tyN2ktQ205UDNtbF9abXBFQzhFTE1DdkF5dWFZWDFKN3RjdHNP"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "FSD软件红利难撑特斯拉三季度利润",
-   "title_zh": "FSD软件红利托不住特斯拉三季度利润",
-   "sentiment": -1
-  },
-  {
-   "id": "5a6826431156",
-   "title": "Tesla and Range Resources among market cap stock movers on Monday - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnRXYzlpV291LV9uUFlhR1JvYTQ1cVBaRGp5VlFlTXExb3VXdXNFNUU1TFlvbDhoejBCdXQ4UW5pOTBiWDJsRmxwS2JRTTBwTEQyOEVWZ1k2MHdNc283OTVkSFEzTWJoVlN0ckVJOENwNkpsSVMtY2tNZU4zR1BJYjN0SE4yNWtNdEZqZUE0UnpPZ3RENVhjMXBia0RwbzBaZFdZYlJMd0JHb0ZUZTRNdjRSQXhZUUhWdl9BekRfNUF0RExfR3c",
-   "source": "Investing.com",
-   "published_at": "2026-10-26T14:38:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-26T14:38:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnRXYzlpV291LV9uUFlhR1JvYTQ1cVBaRGp5VlFlTXExb3VXdXNFNUU1TFlvbDhoejBCdXQ4UW5pOTBiWDJsRmxwS2JRTTBwTEQyOEVWZ1k2MHdNc283OTVkSFEzTWJoVlN0ckVJOENwNkpsSVMtY2tNZU4zR1BJYjN0SE4yNWtNdEZqZUE0UnpPZ3RENVhjMXBia0RwbzBaZFdZYlJMd0JHb0ZUZTRNdjRSQXhZUUhWdl9BekRfNUF0RExfR3c"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "特斯拉成周一市值异动股",
-   "title_zh": "特斯拉与Range Resources成周一市值异动股",
-   "sentiment": 0
   }
  ]
 }
