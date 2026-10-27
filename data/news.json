@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T11:07:42.735569+00:00",
+ "updated_at": "2026-10-27T11:22:29.208459+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（51条已评分）"
+     "note": "今日新闻情绪 +0.19（52条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T11:07:42.721464+00:00"
+   "as_of": "2026-10-27T11:22:29.195763+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 51
+   "avg": 0.19,
+   "count": 52
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a640a1006d3b",
+   "title": "$特斯拉 (TSLA.US)$ 我上周在Orlando 见到啦 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWZNb1A3WDc5TUhDdHVkVDBsVElIcUU4WmlONzdvaFBJTVRtZTdBd2VPOG9PSnNyeGtUSVk4TFBYcUtiQ1hTNFpHZ09jTDhPQ21KZm1RNlA2Ykgxc0FjcGJERzdaZm1mdXBTSnE4QXkxSE5vaHdKSEl6RV96RGlpRU5xc0IyX1NUYlpOcGRpNHdLemJIMUpYeV9GQ0ZfZF9rbkNMalh3",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T11:11:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T11:11:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWZNb1A3WDc5TUhDdHVkVDBsVElIcUU4WmlONzdvaFBJTVRtZTdBd2VPOG9PSnNyeGtUSVk4TFBYcUtiQ1hTNFpHZ09jTDhPQ21KZm1RNlA2Ykgxc0FjcGJERzdaZm1mdXBTSnE4QXkxSE5vaHdKSEl6RV96RGlpRU5xc0IyX1NUYlpOcGRpNHdLemJIMUpYeV9GQ0ZfZF9rbkNMalh3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "f4c84aa0e2a3",
+   "title": "也算是好起来了 $英伟达 (NVDA.US)$ $特斯拉 (TSLA.US)$ $美国超微公司 (AMD.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVFJSkZKT0RLNl9zMU1rR1NaXy1OTEd0V2xLdm9vYmJNVnlaYThLeXZBWlc4QXRXcmxiYWl6OVluLVktUGp1N2VKSjRQNHc3XzZsSUJtNlA0SGdLOEdJTV9sTElNb1lTXzZmMGhQMHFDbEhrREE1eUtPVzVyR0FyeU1tQkdjczBYbnBHVTE5SVgyYXItM25uLWh6UWZRSEtMUzBtdURVSk0wdms",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T11:09:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T11:09:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVFJSkZKT0RLNl9zMU1rR1NaXy1OTEd0V2xLdm9vYmJNVnlaYThLeXZBWlc4QXRXcmxiYWl6OVluLVktUGp1N2VKSjRQNHc3XzZsSUJtNlA0SGdLOEdJTV9sTElNb1lTXzZmMGhQMHFDbEhrREE1eUtPVzVyR0FyeU1tQkdjczBYbnBHVTE5SVgyYXItM25uLWh6UWZRSEtMUzBtdURVSk0wdms"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "0264a1d43d2f",
    "title": "Want to Test Tesla’s Full Self-Driving? You Can Now Rent It on Turo. - Barron's",
@@ -113,7 +147,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWxkeHJXRE1nbHdQTTZXRGQxbFlXYU9XbU1VZGYtd0w4RWQwUjVwR2l2VGdhaG1HUDA3NjloMFJodUFLTzh6NFUxMXUxMFRPMDlnSG8xamN3TGRkYWJHS3I5VjR6TG1TYjJQWEFUR3pCM1BIWGhteVpLa2VXUVBPRDZwalZPUnNxdlVKTGRFRVNldlRINGc",
    "source": "The Motley Fool",
    "published_at": "2026-10-27T10:32:09+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -124,6 +158,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-27T10:50:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalZpc2l1X0cxaUZWeXRNYXVaRU5nX0VvYVZldXMtSHkxR1JWZWQyaTBwbl9MTlAzRkNaTGh2c3pjclNnMjdfZFpSandnOFhWRE50ZUJDa2N5cFk3ZjRDZFoxY3RYUmNKTnlSM3Qwc0UxQllMSGhPdU1CQmJDbGxGajV0TlZhY09mSEw2ekJWNUNFbWNIRFlvT3dqeG54M0pRS0xYWjJR"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-27T10:50:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQT3JPUjlGU1ZwMUgtU18zYUZHV2hZenJMQmxKSEZKNi1pcmVxVjVyUXE1TXJXVFZnS01MRk1aeWVLeVU4MUlYMlhPbW9VYjBxY3lzaHpyWVlIS3BBODBLWjV0TEVKYTRIaU1hVnRpalVvTHF2NndsRC1JTlhYVmZmaUZ4QnFJdW82aFFKWllxMzZhTXE2eUNDSldmUDFPWS16TWVPbnAzTkF1MmwxUGFEZHlIYldVZWhXUS14NTdLYk5hZlpmMWRqaXZ1QzBjRWR2TzdwSy16cHVOazdZS2JqTmk1YS1ncEFFckVkUHhoUQ"
     }
    ],
    "category": "其他",
@@ -1421,6 +1460,23 @@
    "zh_summary": "特斯拉FSD累计行驶167亿英里",
    "title_zh": "特斯拉FSD累计行驶167亿英里，每日新增5000万英里",
    "sentiment": 1
+  },
+  {
+   "id": "92dac8ab8505",
+   "title": "马斯克支持特斯拉与SpaceX合并，双方成立特别委员会评估潜在交易 - 虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnMlJCZ0t2ZE1yQVhFeTIzSGpQSGIxNGJVQVJvMVk0dzlUa3ljbW5tbTBZUk80ckZTUUlkQ2xiMFA2LUtYSjQtR3VTcHZBV2o0bWFzTA",
+   "source": "虎嗅",
+   "published_at": "2026-10-27T04:05:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅",
+     "published_at": "2026-10-27T04:05:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnMlJCZ0t2ZE1yQVhFeTIzSGpQSGIxNGJVQVJvMVk0dzlUa3ljbW5tbTBZUk80ckZTUUlkQ2xiMFA2LUtYSjQtR3VTcHZBV2o0bWFzTA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "cc81d213e5a7",
@@ -6488,85 +6544,6 @@
    "zh_summary": "特斯拉市值全球第一",
    "title_zh": "特斯拉市值全球第一，资本运作与宣传包装成核心竞争力",
    "sentiment": 0
-  },
-  {
-   "id": "6cc3ca344c55",
-   "title": "Tesla's Cash Windfall Has a Catch: $1.9 Billion in Unpaid Bills - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGEwMlppZ1RXaG5NSUNJMXNmLWloZFViUE85aW9FOEw4eVc3UTZfS1NfZldOZV93SHdMbmRnZ3FUYllHYkh6emdsRVVYTExPWWxwd3pfcXNSbVFDVGNJWl9UY3VXeHlKbXZQQmVmeDl4bE1oNm9uQmVpd3JoMzB3VkJiLXlHQW1EZWhVQmR4dF9meHhp",
-   "source": "Benzinga",
-   "published_at": "2026-10-26T12:47:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-26T12:47:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGEwMlppZ1RXaG5NSUNJMXNmLWloZFViUE85aW9FOEw4eVc3UTZfS1NfZldOZV93SHdMbmRnZ3FUYllHYkh6emdsRVVYTExPWWxwd3pfcXNSbVFDVGNJWl9UY3VXeHlKbXZQQmVmeDl4bE1oNm9uQmVpd3JoMzB3VkJiLXlHQW1EZWhVQmR4dF9meHhp"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉现金背后有19亿美元未付账单",
-   "title_zh": "特斯拉现金意外之财有代价：19亿美元未付账单",
-   "sentiment": -1
-  },
-  {
-   "id": "be3b2734a370",
-   "title": "特斯拉(TSLA.US) vs SpaceX(SPCX.US)：马斯克合并棋局背后，一场现金流与AI算力的较量提供者智通财经 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EcEpjRkhUWnR0bDdNcGdZQjdOSk1tenhQLV9zSTlOWGlSUlRGQUxZUUpyUkV0SE9XRTg1cmtRS09ZeW9FZkFfNkJ6TngyUXRUSVF1YzN5TlBMcnZqRk5nN1lPSTIxcHpxLWNsZW4xTEM",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-26T12:46:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-26T12:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EcEpjRkhUWnR0bDdNcGdZQjdOSk1tenhQLV9zSTlOWGlSUlRGQUxZUUpyUkV0SE9XRTg1cmtRS09ZeW9FZkFfNkJ6TngyUXRUSVF1YzN5TlBMcnZqRk5nN1lPSTIxcHpxLWNsZW4xTEM"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-26T12:58:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWp1R2VFOER1N3pQMFp5ZmZTa19WNkozM2RERjkxMjJpeHVnRGQ2YWxpYXJRSFVCczZFRnd2NWU1WXgyeDc2c19NaUM2YWcwSnl0SzRCdjVDOE5VMGN3RkZPY2d4VVotVzRMZlUzcFd4NS1EeHpGeXFMVGpVVmtZQS1QaE5wOFptZ0dkNXlZM0NkN0MxdUFOZm5TbTg0dUtx"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "特斯拉与SpaceX合并棋局引较量",
-   "title_zh": "特斯拉与SpaceX合并棋局：现金流与AI算力较量",
-   "sentiment": 0
-  },
-  {
-   "id": "2b7d8641e968",
-   "title": "TSLA Is The Worst-Performing Mag 7 Stock This Year But Leads The Pack In October – Barclays Sees 19% Upside Potential - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFN5ZDBmYkhfQXRJUmpmZ1JsSW5Lc180U3A0amVWdE1lQnN4OTdfVVN4b1pua05MWDhxa09OUTQzNVZPMC1CcHZNME5zS0ZQaC1WTGFnaVJMTHdIX3ExRVRaMFJUUjJwMGtfenA1RExIX2lmUTE4dlhLQXZhWFBWb0RzM09IUGVzODhSbTRaNGVlTXRmU1NxcHo1UGNJb3BnTm1rcDhLVmdyTlRFeDA0RzlUVlBCamxyMVMybG83ZENDNjVhMHdRNWE1UHpaNzlBc1JpUko1S2gzUDVGakx1eG1wQXVJa2tUMTBfcjVOalB5Rm5jbUlsOG5DVTFveHFMZ2RmOUFn",
-   "source": "TradingView",
-   "published_at": "2026-10-26T12:45:22+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T12:45:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFN5ZDBmYkhfQXRJUmpmZ1JsSW5Lc180U3A0amVWdE1lQnN4OTdfVVN4b1pua05MWDhxa09OUTQzNVZPMC1CcHZNME5zS0ZQaC1WTGFnaVJMTHdIX3ExRVRaMFJUUjJwMGtfenA1RExIX2lmUTE4dlhLQXZhWFBWb0RzM09IUGVzODhSbTRaNGVlTXRmU1NxcHo1UGNJb3BnTm1rcDhLVmdyTlRFeDA0RzlUVlBCamxyMVMybG83ZENDNjVhMHdRNWE1UHpaNzlBc1JpUko1S2gzUDVGakx1eG1wQXVJa2tUMTBfcjVOalB5Rm5jbUlsOG5DVTFveHFMZ2RmOUFn"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-26T12:47:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWF6bFdDMDVOdXFhejBObmVWT25vS0VYdWtseHlHaEhFZ2RFbzVPTy1LUlBfU0xHbmo4TlVxX1hjY1hvc0lXRi02eWMtVURzb3ViLVdIWkZ0c3dhT2YySElTT3dneU44LXlySEh4VXhWblRlV0prVW9BNEV0WFNNYWdiX0ZfRGczZ3kyT2M5LUNhQnh4cmw2NEI4ZGFOTjlsdXRURE5udnpjdEp4QmFDMGU2M2plT2xRa1VrbDlMTVBUVjJUNXRFb3RDZHoyOTNmSlNVZWdJcjBxb3M"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T12:45:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGxsWFBvV1cyOGFuZGd3TjY2Y29yb1B6bDgwS1ppX3BJXzFERWRLX240TVU1UVlvNkdRZlIwbzN1X1gzQWdtOWhyaFhEWkRtaWNHakgwTDhvV1pwN0RwT2ozM2ZYcFZJZnlVLTYyTHFtSlBjdzZjNDBfWEJRNEZlS0N5cktQdW5QTENsT29SOEY2NThNZkk4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "巴克莱看特斯拉有19%上涨空间",
-   "title_zh": "特斯拉年内表现最差但10月领跑，巴克莱看涨19%",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 1.57,
-    "window_h": 1.4
-   }
   }
  ]
 }
