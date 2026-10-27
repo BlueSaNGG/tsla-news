@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T13:37:29.136797+00:00",
+ "updated_at": "2026-10-27T13:52:32.155250+00:00",
  "market": {
-  "price": 400.91,
-  "change_pct": 2.37,
+  "price": 402.88,
+  "change_pct": 2.88,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（71条已评分）"
+     "note": "今日新闻情绪 +0.24（72条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $400.91 vs 20日均线 $373.97"
+     "note": "现价 $402.88 vs 20日均线 $374.08"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.2,
-   "ma20": 373.97,
-   "as_of": "2026-10-27T13:37:29.123750+00:00"
+   "implied_upside_pct": -0.7,
+   "ma20": 374.08,
+   "as_of": "2026-10-27T13:52:32.147958+00:00"
   },
-  "pe_ttm": 110.9,
+  "pe_ttm": 111.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.24,
-   "count": 71
+   "count": 72
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8c0c73e78e1f",
+   "title": "Tesla FSD Illegally Unlocked by 80 Drivers in South Korea, Police Say - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTdZc1NQTlVidGFKbWYtSkRNZHY3UzFlMDh5NVpHNFg0NDZOUDhEYWp3MlV4ZVRZRnFuWndfUjc1aEM4YkJPU2dEOTgxMEFRZndzU1JqY0JGdzZhWHg5X04zMFFSekhmLU8zUGlzbjlhRHlER1U2bXc3ZGtKcnE1QW9wRkNNRkhFam1NdDh5c3pYVURyeVl5Zy1OVXVtVHZHVXhqWWowQQ",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-27T13:44:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-27T13:44:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTdZc1NQTlVidGFKbWYtSkRNZHY3UzFlMDh5NVpHNFg0NDZOUDhEYWp3MlV4ZVRZRnFuWndfUjc1aEM4YkJPU2dEOTgxMEFRZndzU1JqY0JGdzZhWHg5X04zMFFSekhmLU8zUGlzbjlhRHlER1U2bXc3ZGtKcnE1QW9wRkNNRkhFam1NdDh5c3pYVURyeVl5Zy1OVXVtVHZHVXhqWWowQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "da52bfff60a9",
+   "title": "150元就破解了国内6.4万元的FSD：韩国80名特斯拉车主被一锅端 移送检方 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SXR0V1RwYS1ObURORGd0b096X3lVczd0TU5DMWdhNWUyQ1pQOFVoZUtHMG5rVFJIYlJfYkFMQktMSG5lMk94Xzk2aG85OVA1MVZ1NjlUR2c",
+   "source": "驱动之家",
+   "published_at": "2026-10-27T13:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-27T13:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SXR0V1RwYS1ObURORGd0b096X3lVczd0TU5DMWdhNWUyQ1pQOFVoZUtHMG5rVFJIYlJfYkFMQktMSG5lMk94Xzk2aG85OVA1MVZ1NjlUR2c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "170b2cc849b8",
    "title": "American billionaire Elon Musk's Tesla sell ratings hit 11-year low on merger hopes - Billionaires.Africa",
@@ -1148,6 +1182,23 @@
    "sentiment": 0
   },
   {
+   "id": "5416469d1412",
+   "title": "TSLA Stock Analysis: Gains 5.21%, Testing Key Resistance - JournalArta",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBMX0lPVzZqbmktcWtzSVRkSEtEejljMUNpTlA3MzNTUnF2b3ppcXFrQnFfZXl2RVc2LUJGUFVYbVBjQ2M1RTI0Z3N6MUw4bmU4bDRSOWpLU2xwWTVGd0w3aUtLQVk5dU53MnBVNldGZWZQMDU4RjVFZnZOQy1jdGZ3NnF0VndmT2I0MGlHNU5oTlRBMTVR",
+   "source": "JournalArta",
+   "published_at": "2026-10-27T07:42:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "JournalArta",
+     "published_at": "2026-10-27T07:42:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBMX0lPVzZqbmktcWtzSVRkSEtEejljMUNpTlA3MzNTUnF2b3ppcXFrQnFfZXl2RVc2LUJGUFVYbVBjQ2M1RTI0Z3N6MUw4bmU4bDRSOWpLU2xwWTVGd0w3aUtLQVk5dU53MnBVNldGZWZQMDU4RjVFZnZOQy1jdGZ3NnF0VndmT2I0MGlHNU5oTlRBMTVR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "f35d7120ac6d",
    "title": "新能源市场太卷了！特斯拉中国推出家充桩延保服务限时优惠，最低199元延长2年保障 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SaEM2T0NEd1dOR05lbWo1Sy1La2FoVkJJV3V1LTBfRWdpUTVDY1V5bmN6dDlFX2V6Nk1sY1gzYmttdVBDcDNxczNfd1RrRHRiZjltM2IxRG1TUkk",
@@ -1165,26 +1216,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉中国推家充桩延保优惠",
    "title_zh": "特斯拉中国推家充桩延保限时优惠",
-   "sentiment": 0
-  },
-  {
-   "id": "43cfc6e61063",
-   "title": "Florida Woman Leaves Chipotle, Sees Tesla Being Towed. The Company Charges $185 To Get It Back—After They ‘Completely Ruined’ It - Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwakhiNVVUWTBzTXZUQ01RcnNadXNHLURDZ0ttNlR4TGlyMkQyckluUm9hTkJtT1Jqa3V4V1Q3OXN5bzVFTzN3UENvR3c4UlNVN2g0N0dTYjJGZGdDUjBmdkRkZVVOVXM",
-   "source": "Motor1.com",
-   "published_at": "2026-10-27T07:37:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Motor1.com",
-     "published_at": "2026-10-27T07:37:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwakhiNVVUWTBzTXZUQ01RcnNadXNHLURDZ0ttNlR4TGlyMkQyckluUm9hTkJtT1Jqa3V4V1Q3OXN5bzVFTzN3UENvR3c4UlNVN2g0N0dTYjJGZGdDUjBmdkRkZVVOVXM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "佛州女子特斯拉被拖走，取回需付$185",
-   "title_zh": "佛州女子离开Chipotle后见特斯拉被拖走取车收费$185",
    "sentiment": 0
   },
   {
@@ -1387,12 +1418,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhb1JrQUxsTDFfVkl1dVZmQjN5VVJBVmdmUTlmanN5elhKcHRRUWNWWlJkZ0ZrRU9MSzZjaFh5cWNhb0FlU2xtX09rMWNRajk0MnFJY1ZOWXpqSzg",
    "source": "汽车之家",
    "published_at": "2026-10-27T06:29:05+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "汽车之家",
      "published_at": "2026-10-27T06:29:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhb1JrQUxsTDFfVkl1dVZmQjN5VVJBVmdmUTlmanN5elhKcHRRUWNWWlJkZ0ZrRU9MSzZjaFh5cWNhb0FlU2xtX09rMWNRajk0MnFJY1ZOWXpqSzg"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T06:30:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkNQVGlNTVFTNEdpSzR1cWdNdHY1dHZoSXYzbW5RcHJoOVphdHNtM2dvYnlPb0lEdFNqaGRTRFg3QkltekxCeUNwNU5mOTJSUjEyQjh5NzF1UlpOR3JKMUNDRUd4VVhvWllRWW9uc19wWmVCYWdjLTJaMm1CSzR5NFhDVzVtOFJxZWlpcQ"
     }
    ],
    "category": "其他",
@@ -1529,6 +1565,26 @@
    "session": "盘前",
    "zh_summary": "Cybercab电池包未装满留空间等磷酸铁锂",
    "title_zh": "留着空间等磷酸铁锂，特斯拉工程师爆料Cybercab电池包没装满 - 热点科技",
+   "sentiment": 0
+  },
+  {
+   "id": "43cfc6e61063",
+   "title": "Florida Woman Leaves Chipotle, Sees Tesla Being Towed. The Company Charges $185 To Get It Back—After They ‘Completely Ruined’ It - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwakhiNVVUWTBzTXZUQ01RcnNadXNHLURDZ0ttNlR4TGlyMkQyckluUm9hTkJtT1Jqa3V4V1Q3OXN5bzVFTzN3UENvR3c4UlNVN2g0N0dTYjJGZGdDUjBmdkRkZVVOVXM",
+   "source": "Motor1.com",
+   "published_at": "2026-10-27T05:37:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-27T05:37:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwakhiNVVUWTBzTXZUQ01RcnNadXNHLURDZ0ttNlR4TGlyMkQyckluUm9hTkJtT1Jqa3V4V1Q3OXN5bzVFTzN3UENvR3c4UlNVN2g0N0dTYjJGZGdDUjBmdkRkZVVOVXM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "佛州女子特斯拉被拖走，取回需付$185",
+   "title_zh": "佛州女子离开Chipotle后见特斯拉被拖走取车收费$185",
    "sentiment": 0
   },
   {
@@ -6536,66 +6592,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉推进无人驾驶Cybercab交付",
    "title_zh": "特斯拉推进无人驾驶Cybercab交付，不论联邦是否批准",
-   "sentiment": 1
-  },
-  {
-   "id": "7e3daed0e4fb",
-   "title": "$特斯拉 (TSLA.US)$ 我先跑了 兄弟们 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMExnMy1kYUs3blZSS2QzeVFLX2JXRUVOdDlHWnRSQWVzMExWVnJFc3V6NFh1Y190eWpPV2Nqd1dUWV9BSEdkX3hBS2k4X2xWNHRMTDQxallkRTNtQmxwU3lJYXZZZzBTazFBYWZjM3QwYUNEMXByaG9Md2N5Y1dHWDRCdlQ2TUJjMERCN3BPWGNsN1JBbEEw",
-   "source": "Moomoo",
-   "published_at": "2026-10-26T13:50:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-26T13:50:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMExnMy1kYUs3blZSS2QzeVFLX2JXRUVOdDlHWnRSQWVzMExWVnJFc3V6NFh1Y190eWpPV2Nqd1dUWV9BSEdkX3hBS2k4X2xWNHRMTDQxallkRTNtQmxwU3lJYXZZZzBTazFBYWZjM3QwYUNEMXByaG9Md2N5Y1dHWDRCdlQ2TUJjMERCN3BPWGNsN1JBbEEw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "投资者称先卖出特斯拉股票",
-   "title_zh": "$特斯拉 (TSLA.US)$ 我先跑了 兄弟们 - Moomoo",
-   "sentiment": -1
-  },
-  {
-   "id": "51d6a7e685f3",
-   "title": "特斯拉(TSLA)股票10月26日开盘上涨5.13%：背后推手曝光 - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajA1VWJZSHd0dWtuX2VyQm1LN1hHMjN6RzI5dEJfa1RqUGo3RlpReUM1ajFySVlBM19JaFcyWUV6U1FobXU0OENOVU9XdzVMemtQTURSV1pNVUlzOUF4di1yeHBXUzZPNmhjVkgzSWpBTVdVTTNCTjFiN2tDMHoyenlNTWxHdExwNGZjNWFKX2kzS1JQWEE",
-   "source": "TradingKey",
-   "published_at": "2026-10-26T13:47:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-26T13:47:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajA1VWJZSHd0dWtuX2VyQm1LN1hHMjN6RzI5dEJfa1RqUGo3RlpReUM1ajFySVlBM19JaFcyWUV6U1FobXU0OENOVU9XdzVMemtQTURSV1pNVUlzOUF4di1yeHBXUzZPNmhjVkgzSWpBTVdVTTNCTjFiN2tDMHoyenlNTWxHdExwNGZjNWFKX2kzS1JQWEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉10月26日开盘上涨5.13%",
-   "title_zh": "特斯拉股票10月26日开盘上涨5.13%",
-   "sentiment": 1
-  },
-  {
-   "id": "a06017b60779",
-   "title": "Tesla Inc Stock (TSLA) Opened Up by 5.13% on Oct 26: Facts Behind the Movement - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWpEc1VJYVQ2RGptVzdVYy1tRmdHNW1sWHotc2ZabW1kUnJkdXJyWmlkNTEtT0tSbGh6R1FlRmdLaG50eWV4Qld3Z0V6eW9ObmdDeWtRMjNIejVaSHRjekRaZGV2NlM3cnpBLU12bHdWc0x3aEQtZG9XNi05N0F0ZTBpb2dMSTB6TGlZ",
-   "source": "TradingKey",
-   "published_at": "2026-10-26T13:47:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-26T13:47:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWpEc1VJYVQ2RGptVzdVYy1tRmdHNW1sWHotc2ZabW1kUnJkdXJyWmlkNTEtT0tSbGh6R1FlRmdLaG50eWV4Qld3Z0V6eW9ObmdDeWtRMjNIejVaSHRjekRaZGV2NlM3cnpBLU12bHdWc0x3aEQtZG9XNi05N0F0ZTBpb2dMSTB6TGlZ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉10月26日开盘上涨5.13%",
-   "title_zh": "特斯拉股票10月26日开盘上涨5.13%",
    "sentiment": 1
   }
  ]
