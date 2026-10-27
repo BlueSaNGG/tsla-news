@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T16:37:32.456276+00:00",
+ "updated_at": "2026-10-27T16:52:30.900755+00:00",
  "market": {
-  "price": 405.42,
-  "change_pct": 3.52,
+  "price": 405.91,
+  "change_pct": 3.65,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（121条已评分）"
+     "note": "今日新闻情绪 +0.32（123条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.42 vs 20日均线 $374.20"
+     "note": "现价 $405.91 vs 20日均线 $374.23"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.3,
-   "ma20": 374.2,
-   "as_of": "2026-10-27T16:37:32.446846+00:00"
+   "implied_upside_pct": -1.5,
+   "ma20": 374.23,
+   "as_of": "2026-10-27T16:52:30.889778+00:00"
   },
-  "pe_ttm": 112.1,
+  "pe_ttm": 112.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 121
+   "avg": 0.32,
+   "count": 123
   }
  },
  "meta": {
@@ -68,13 +68,52 @@
  },
  "stories": [
   {
-   "id": "d31ba3218119",
-   "title": "Tesla’s Profit Fell 43% and the Stock Held Up. Here’s Why - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGsySmdNS3ltb2JSd2FheTJTNXpRWnQxcnlldk1UaW41aTFYZjM5RFB2Sm9iOU4yM3l3anJlM1NMVG1BbmRTbWlwQnJ0MUE1eXdJQWhzcVc3SXNXVlEwb01xZm5rQ0ZlVDhqVkFEalRZdE01aF9GMjBwYVkzN1NOR1pBX1daQkd6N0RCSFRoQ21BZEpLQUtqNVREWndDZ1VnakgxeFlETFhlLXZkMlVVbEVhNy10TzVWNEE3ejRxMWt6LXdQbTdHMmdKWUQ",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-27T16:35:30+00:00",
+   "id": "283f474871ca",
+   "title": "Tesla Robotaxi service ‘coming soon’ to San Antonio, other cities - San Antonio Express-News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNllacWV3R1lEbG96dU04cjlDQ1BqZWJYY0dMSUtfVkxIX0JkSmJhSU1oQWFCdzh2UlFDLXhTMnp2Z0Z2cXVvdGdTNVFTb1B4TC1YY3RMc2ZhY19Gdi00bGw3ZkhubUdFUVMyN3FJY0VFRTRvekZNVmpYMUtmOTZWdklRVkZsVlFrUm1PYk1RS1R4NUhzcXlj",
+   "source": "San Antonio Express-News",
+   "published_at": "2026-10-27T16:46:21+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "San Antonio Express-News",
+     "published_at": "2026-10-27T16:46:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNllacWV3R1lEbG96dU04cjlDQ1BqZWJYY0dMSUtfVkxIX0JkSmJhSU1oQWFCdzh2UlFDLXhTMnp2Z0Z2cXVvdGdTNVFTb1B4TC1YY3RMc2ZhY19Gdi00bGw3ZkhubUdFUVMyN3FJY0VFRTRvekZNVmpYMUtmOTZWdklRVkZsVlFrUm1PYk1RS1R4NUhzcXlj"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "a5396d5dec91",
+   "title": "XPENG Tops Customer Satisfaction Ranking For Second Year, Beating Tesla - CleanTechnica",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemFVa2s3WlNJWFFxMFhJWFN5T1lGMG5QMGsyOGlJRmd6dHh5M2tXUDlOR1g2X090dDhRdWVwbjh0aVRGZkVMd0s1cGloVlc3MnJBaV96VlhDamRTRDFpX0FDZ2xNdm81eXpQX01rYWxFal9MT3BVTGZQaFQzR3kwbGNmdFJkS3J3eG40RVV2aUp5a0dXOUU4Q2tITFJlbkp4WTBHbl9DLXpwWHZI",
+   "source": "CleanTechnica",
+   "published_at": "2026-10-27T16:38:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CleanTechnica",
+     "published_at": "2026-10-27T16:38:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemFVa2s3WlNJWFFxMFhJWFN5T1lGMG5QMGsyOGlJRmd6dHh5M2tXUDlOR1g2X090dDhRdWVwbjh0aVRGZkVMd0s1cGloVlc3MnJBaV96VlhDamRTRDFpX0FDZ2xNdm81eXpQX01rYWxFal9MT3BVTGZQaFQzR3kwbGNmdFJkS3J3eG40RVV2aUp5a0dXOUU4Q2tITFJlbkp4WTBHbl9DLXpwWHZI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d31ba3218119",
+   "title": "Tesla’s Profit Fell 43% and the Stock Held Up. Here’s Why - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkJKNnE5N2lRdk5uVkVxdTVLVWxCTGgwbWZMWjJTR21yeXFjRTA0X0hrWWhQc3JfRS1WRUpSZjdtRXB5UEc3aXhmdW5VekRlZXRPUHdkVFFwSEg5VDVZLVZKTlV1UEItak1yS0Z6SkdhaUZzUG12LUd5UzFLODNOdW5tc2FZOVl3NXc0TlliWE5XeENwR1E",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T16:33:08+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T16:33:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkJKNnE5N2lRdk5uVkVxdTVLVWxCTGgwbWZMWjJTR21yeXFjRTA0X0hrWWhQc3JfRS1WRUpSZjdtRXB5UEc3aXhmdW5VekRlZXRPUHdkVFFwSEg5VDVZLVZKTlV1UEItak1yS0Z6SkdhaUZzUG12LUd5UzFLODNOdW5tc2FZOVl3NXc0TlliWE5XeENwR1E"
+    },
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-27T16:35:30+00:00",
@@ -168,26 +207,6 @@
    "sentiment": -1
   },
   {
-   "id": "cc2f76cc742b",
-   "title": "Tesla begins humanoid production in California - Manufacturing Dive",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUYzdUd4NjhxbURmUUZxcE5JR3UzWDdQOGxvVFNXTUdrbXd2ZmZIYUtpQS1Mb09OaGJXdlFYZHU5aDJjNjZSUHI1cjFPSWphbEwyQW1tbTJ6SURNOE1sTV9OaTlISFVhYk9EZ05qU24wMHkzWnBza0VpN0NjWGNoMHcta2ZtWGpnSTZRbnBqTU9QX3l3dmxpeTFMRzB4X2dYSTJmZG5Ba3FidWt5eFM4dVNCbw",
-   "source": "Manufacturing Dive",
-   "published_at": "2026-10-27T15:56:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Manufacturing Dive",
-     "published_at": "2026-10-27T15:56:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUYzdUd4NjhxbURmUUZxcE5JR3UzWDdQOGxvVFNXTUdrbXd2ZmZIYUtpQS1Mb09OaGJXdlFYZHU5aDJjNjZSUHI1cjFPSWphbEwyQW1tbTJ6SURNOE1sTV9OaTlISFVhYk9EZ05qU24wMHkzWnBza0VpN0NjWGNoMHcta2ZtWGpnSTZRbnBqTU9QX3l3dmxpeTFMRzB4X2dYSTJmZG5Ba3FidWt5eFM4dVNCbw"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉在加州开始生产人形机器人",
-   "title_zh": "特斯拉在加州开始生产人形机器人",
-   "sentiment": 1
-  },
-  {
    "id": "00ebf77629ed",
    "title": "Tesla’s Latest FSD Safety Numbers Show Another Big Improvement - Drive Tesla Canada",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTVDODF4MkloYUtDNEZDTEFxMGNlVkJkN1VfQnZzM3RRYklUNjZFMUVWclRlRmZVNGM4MC12RXVRQ1Rhd2p3RnU2ckN1U3QxUWczRG1HUTV4Y19EZlZFY1BsTkduLVl6YnVSWXRhVnNvV1pqVDhKWTM0RUpyMzFIRHJhVmtFTWFmOGhSQldMSXI3bW9F",
@@ -226,6 +245,31 @@
    "zh_summary": "韩国警方查处80名非法解锁FSD车主",
    "title_zh": "韩国警方立案80名使用非法FSD解锁装置的特斯拉车主",
    "sentiment": -1
+  },
+  {
+   "id": "cc2f76cc742b",
+   "title": "Tesla begins humanoid production in California - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalJBZUZjLVJSZkhzU3JRWDVWODh5VmR1bWFib1RjbFN0WUFjQWZPeE9tVUJPNXdUVDdQLVVUNzFrQk1fOG9sLXFNUkRIUFE2ek04UlVGR0NMUndQZTZQM2JfUUFGcXJxX1BKaXBGdkx3dzZPa0I0aHR4c1BrU0RETnluSm9uY2s1aEtHRXBxZFotVkdjS1k0cUx2dHRDY0p2d0k0Q3FWOEVtb3c",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T15:47:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T15:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalJBZUZjLVJSZkhzU3JRWDVWODh5VmR1bWFib1RjbFN0WUFjQWZPeE9tVUJPNXdUVDdQLVVUNzFrQk1fOG9sLXFNUkRIUFE2ek04UlVGR0NMUndQZTZQM2JfUUFGcXJxX1BKaXBGdkx3dzZPa0I0aHR4c1BrU0RETnluSm9uY2s1aEtHRXBxZFotVkdjS1k0cUx2dHRDY0p2d0k0Q3FWOEVtb3c"
+    },
+    {
+     "name": "Manufacturing Dive",
+     "published_at": "2026-10-27T15:56:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUYzdUd4NjhxbURmUUZxcE5JR3UzWDdQOGxvVFNXTUdrbXd2ZmZIYUtpQS1Mb09OaGJXdlFYZHU5aDJjNjZSUHI1cjFPSWphbEwyQW1tbTJ6SURNOE1sTV9OaTlISFVhYk9EZ05qU24wMHkzWnBza0VpN0NjWGNoMHcta2ZtWGpnSTZRbnBqTU9QX3l3dmxpeTFMRzB4X2dYSTJmZG5Ba3FidWt5eFM4dVNCbw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中",
+   "zh_summary": "特斯拉在加州开始生产人形机器人",
+   "title_zh": "特斯拉在加州开始生产人形机器人",
+   "sentiment": 1
   },
   {
    "id": "069e3859fe41",
@@ -1936,12 +1980,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRXpjUmhMYVlXWlY2WFlWQmlpczB4UV9VNWE2QVRUenlSSjh0MzEyd0dPbkxXcDlzbWo0UXJidWZKdlduYVJPN2xwSENvRF9EVUNiMTVsUkg",
    "source": "驱动之家",
    "published_at": "2026-10-27T08:40:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-27T08:40:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRXpjUmhMYVlXWlY2WFlWQmlpczB4UV9VNWE2QVRUenlSSjh0MzEyd0dPbkxXcDlzbWo0UXJidWZKdlduYVJPN2xwSENvRF9EVUNiMTVsUkg"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T08:40:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXg2Rk16SkpfTTg3WVgyYk1SS2J6MHhHNmVBOWxEQ0xwR2RXZnI0Nldua2JpVG9nR1dFLXFSTjRjOWtCenQwejNNU1FRR3FWcVZ0c0NmMmJRbEEyenNYUzVDUmM4aVBHY2psNG1TR3lhc3BMWTNiS1FnZGRBWE9UT3lueTUzNllZ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -4592,7 +4641,7 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pSm5xUUZQQXp1V05PWXc0Um1xOEJIWTJHcWEwSlJPck9yZjJyWXphRG9DZ3RFNi1fZThsdUl3djRXTTIwZjNmZWE1OGNtazhELUVMVDdvWHVuRXBlczFYOVBHM1hscFN5TnhMN1ZB",
    "source": "新浪财经",
    "published_at": "2026-10-26T22:50:32+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "新浪财经",
@@ -4608,6 +4657,11 @@
      "name": "21财经",
      "published_at": "2026-10-26T23:23:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0Q3bUowVFlHS3Z4eUJoQ21mSFRuRllVSGNwcWtWMzVKcEtYQVYzTGZqdEJzVFBLZmZydlZfNlkteFE5WUg0RnRha2pkLU9CSy1Hci1PNDQzVDNwdFVfbi0tajlFUXVid0JmdFM4bGtrREUtZ2Y1dWpLU0lac3AxSmJ5SEwyb09xWmc4NEo5Zw"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-27T16:08:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15UzREY3VoZG00OUtFU3IzNWh4anVzUE9heFlPMW9nMjlIOTZyaDBUVzdwbExvejJjR0Z6ejFIdjFGVGZKZVBiVEtPWTdWNHBQbnhuaWxGNjl2TE9wT1loOWpIZmNTZw"
     }
    ],
    "category": "其他",
@@ -6236,6 +6290,23 @@
    "sentiment": 1
   },
   {
+   "id": "64380ab7e988",
+   "title": "I Wouldn't Buy Tesla Stock Betting on a SpaceX Deal. Here's Why. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWM3UHlBMnROa2gzRVAybTV0ZDFCWjlUaTFZV2YyeFROVUZvbEsxU0wxcTZpY3YwN0tQM2NYZm5HTTJsNDNhN3NTS1FUVWNrU0RTMVhLRkRweV90TGdjUnM0MEkydGVLX0k1YVBja0JfX2ZBeEpMaExvMmhQMzF5Mlc2S3c2emFDUjFJb3VQSGtjc2NwZ2FSX0FNa1lsYXlobTJaSmlLLXo",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-26T16:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-26T16:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWM3UHlBMnROa2gzRVAybTV0ZDFCWjlUaTFZV2YyeFROVUZvbEsxU0wxcTZpY3YwN0tQM2NYZm5HTTJsNDNhN3NTS1FUVWNrU0RTMVhLRkRweV90TGdjUnM0MEkydGVLX0k1YVBja0JfX2ZBeEpMaExvMmhQMzF5Mlc2S3c2emFDUjFJb3VQSGtjc2NwZ2FSX0FNa1lsYXlobTJaSmlLLXo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "d469432fd3fe",
    "title": "深夜，特斯拉大涨 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlVUSERrMzhaVG5GT3o1eFVXNGVIUXJDOHJXYXBPWjVRWlBLNzJFTUttVDMwbGxMTUZNSXY2T2UybFJlSWdHejR4NWNjSHB1bGs0NWFXcXJRUklwTVNyWV84MnR2QmNCS01pQWlodnJoQkw4QWZRaEMtd0hZTnp0eW1CdkJJQzRhWm1zcTNFcw",
@@ -6510,66 +6581,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Cybercab年底交付遭审查",
    "title_zh": "特斯拉Cybercab年底交付，无方向盘智驾遭NHTSA审查",
-   "sentiment": 0
-  },
-  {
-   "id": "724ea99fabeb",
-   "title": "交付超预期、连续两个季度去库存，特斯拉汽车业务毛利回升能延续吗？ 港美股资讯 - 华盛通",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IQW9fVzEySmZESmFvZWlmMHFnb2h6cG5yLVRQSzcwWXpqUUFfemJjU1ZzWlZOYVRtbHdwS21lZXBSYTFtanFxZ0lSR1hhSGVKRXk5b3NjZ2tPY0lHZDEycVF3",
-   "source": "华盛通",
-   "published_at": "2026-10-26T15:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华盛通",
-     "published_at": "2026-10-26T15:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IQW9fVzEySmZESmFvZWlmMHFnb2h6cG5yLVRQSzcwWXpqUUFfemJjU1ZzWlZOYVRtbHdwS21lZXBSYTFtanFxZ0lSR1hhSGVKRXk5b3NjZ2tPY0lHZDEycVF3"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉交付超预期毛利回升",
-   "title_zh": "交付超预期、连续两季度去库存，特斯拉毛利回升能延续吗",
-   "sentiment": 1
-  },
-  {
-   "id": "914526591c3c",
-   "title": "Tesla Assisted Driving expands to tenth EU country - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhTXN3bE5jVlNhZTQ1bkFUSUZhY2RHbkNmV1dHbXJVb3R6OC02R2kxaEJ3all2ZTRnR0JlVWFVSDJxanFaYlF3OXA5ZXZKWk1IMVhmdWtHZU9tVzBBT0RMaXB0YjhOekFtMjFxTFdXTWJDQ1E",
-   "source": "Teslarati",
-   "published_at": "2026-10-26T15:39:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-26T15:39:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhTXN3bE5jVlNhZTQ1bkFUSUZhY2RHbkNmV1dHbXJVb3R6OC02R2kxaEJ3all2ZTRnR0JlVWFVSDJxanFaYlF3OXA5ZXZKWk1IMVhmdWtHZU9tVzBBT0RMaXB0YjhOekFtMjFxTFdXTWJDQ1E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉辅助驾驶扩展至第十个欧盟国家",
-   "title_zh": "特斯拉辅助驾驶扩展至第十个欧盟国家",
-   "sentiment": 1
-  },
-  {
-   "id": "49d1b02e2a10",
-   "title": "Tesla, SpaceX, and a $100 Billion Chip Bet: Elon Musk Is Playing a Different Game - Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2FZT3QzODBQMFJGeWRIQWpHOGQ0d3k4TklnMGVyZ0RQalp3RE5fdU5VdnJDRTBTM2piWG9Qam85NkpQSHc0aVBleldjNWFPNDBkQXdZQWFrdnJkZW5TMXNEaEdsMFdBaURkSTQ1Q3dBamJndFZQWTN3alp2aEVIQjFvc2pXM3plRlpvVU4wOGZvX3JpazZ6a0tzMjVnMFJ5b09heWRMR1g1eVhsaGdRSWVDT0U1WTdYcmpIZUpn",
-   "source": "Barchart.com",
-   "published_at": "2026-10-26T15:39:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-26T15:39:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2FZT3QzODBQMFJGeWRIQWpHOGQ0d3k4TklnMGVyZ0RQalp3RE5fdU5VdnJDRTBTM2piWG9Qam85NkpQSHc0aVBleldjNWFPNDBkQXdZQWFrdnJkZW5TMXNEaEdsMFdBaURkSTQ1Q3dBamJndFZQWTN3alp2aEVIQjFvc2pXM3plRlpvVU4wOGZvX3JpazZ6a0tzMjVnMFJ5b09heWRMR1g1eVhsaGdRSWVDT0U1WTdYcmpIZUpn"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘中",
-   "zh_summary": "马斯克押注千亿美元芯片布局",
-   "title_zh": "特斯拉、SpaceX与千亿美元芯片押注",
    "sentiment": 0
   }
  ]
