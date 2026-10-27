@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:07:33.267375+00:00",
+ "updated_at": "2026-10-27T07:22:37.948990+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（11条已评分）"
+     "note": "今日新闻情绪 +0.33（12条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T07:07:33.256222+00:00"
+   "as_of": "2026-10-27T07:22:37.936690+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 11
+   "avg": 0.33,
+   "count": 12
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d17de1847c7c",
+   "title": "Police book 80 people for illegally activating Tesla’s Full Self-Driving mode - Korea JoongAng Daily",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWpfUUdWa1FST0hscmkyS250Znc0N3pTNnBrRTA5WG03V3VtMU9KS0tGVjFQcnFKWmxmTWkxeERRaU0waHRKNVBVZjVnbXFKSFNOaGdiX3RWZGkwZTlBaHpmTG9LVjlZMmtWVTNHdzZEaHVabHYwUXk5eTlvRmgtSU9EX00zczZVMjBGX2Y5UXNCV1kxY2ZtUUFjRDhVSXRZUTZxQmVqcGtzRW5EQmRueGZfWHlFWUdUSnlnVEd0cWRwUVk",
+   "source": "Korea JoongAng Daily",
+   "published_at": "2026-10-27T07:12:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Korea JoongAng Daily",
+     "published_at": "2026-10-27T07:12:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWpfUUdWa1FST0hscmkyS250Znc0N3pTNnBrRTA5WG03V3VtMU9KS0tGVjFQcnFKWmxmTWkxeERRaU0waHRKNVBVZjVnbXFKSFNOaGdiX3RWZGkwZTlBaHpmTG9LVjlZMmtWVTNHdzZEaHVabHYwUXk5eTlvRmgtSU9EX00zczZVMjBGX2Y5UXNCV1kxY2ZtUUFjRDhVSXRZUTZxQmVqcGtzRW5EQmRueGZfWHlFWUdUSnlnVEd0cWRwUVk"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
+   "id": "f34d780fd131",
+   "title": "Tesla Roadster: $50,000 Deposit, 2028 Build [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHFWWEstSHJid0ViQ2VpNFMwcG1aWXFZc1dHQnBBVFNPZ2Z6cjVTOVVPeGZ2WVFMX00wX1E3THgzRXZ5cW9NRHZDMzRBendNdnJGM0l2c1V5a00zZk1VZl8zMGE4VTIyRVRFekprR2xUWHFzaFlMRG1BR29ndi1IR0x2cnZEZUI0enNLUGhVYUZLUQ",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-27T07:06:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-27T07:06:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHFWWEstSHJid0ViQ2VpNFMwcG1aWXFZc1dHQnBBVFNPZ2Z6cjVTOVVPeGZ2WVFMX00wX1E3THgzRXZ5cW9NRHZDMzRBendNdnJGM0l2c1V5a00zZk1VZl8zMGE4VTIyRVRFekprR2xUWHFzaFlMRG1BR29ndi1IR0x2cnZEZUI0enNLUGhVYUZLUQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "859a0d60fbf7",
    "title": "【视频】24年特斯拉Model y实拍视频 - 汽车之家",
@@ -326,6 +360,23 @@
    "zh_summary": "9月Model Y登顶热销SUV榜首",
    "title_zh": "9月热销SUV盘点：特斯拉Model Y强势登顶",
    "sentiment": 1
+  },
+  {
+   "id": "b578d71f342f",
+   "title": "Tesla expands the rollout of 2026.38.5.11 update: FSD v14.3.13 (HW4) and FSD v14.3 Lite (HW3) - Tesla Oracle",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVZsclVKMXUwR2VXaDZVVXhCTVV1d1E1OVFvcmhhQVRRTV96Z1dQX0pVRThadk96ZjZDWkNCc0VpZGduVXBHVUFldHg3U2pwQlROTmg3NHJJT1dwYzhiSksxS3A4cjl5Ulc5NUZpc2NZQjNIVmc4MXg2ZXpBcXNtNjdIUVdxS0FWTHpQN0VuSmdxYk9RYXNxLXYwVGV4MVdGWkxxMVp2b3ZGWDEyZnV1NVZYQ19KaS0zNmN5NUxYNlZvc1hNVFJF",
+   "source": "Tesla Oracle",
+   "published_at": "2026-10-27T04:52:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tesla Oracle",
+     "published_at": "2026-10-27T04:52:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVZsclVKMXUwR2VXaDZVVXhCTVV1d1E1OVFvcmhhQVRRTV96Z1dQX0pVRThadk96ZjZDWkNCc0VpZGduVXBHVUFldHg3U2pwQlROTmg3NHJJT1dwYzhiSksxS3A4cjl5Ulc5NUZpc2NZQjNIVmc4MXg2ZXpBcXNtNjdIUVdxS0FWTHpQN0VuSmdxYk9RYXNxLXYwVGV4MVdGWkxxMVp2b3ZGWDEyZnV1NVZYQ19KaS0zNmN5NUxYNlZvc1hNVFJF"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "1e9a86772c50",
@@ -1463,26 +1514,6 @@
    "sentiment": 0
   },
   {
-   "id": "8d7a81efcebe",
-   "title": "Why Tesla (TSLA) stock is trading up today - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T01:34:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T01:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉股价今日上涨原因解析",
-   "title_zh": "特斯拉股价今日上涨的原因",
-   "sentiment": 1
-  },
-  {
    "id": "4e2fb6f184f7",
    "title": "造型像火箭！特斯拉休斯顿Robotaxi服务范围扩至10倍，面积是Waymo的5倍 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmliSlhIVEwtRlVmREtrQm8zcVJNNXBlUm8wSXE5SG80RGZGLWNnZzJoTktKVGZ0OVpTWldWNDVfamcwYldzZEFScmxCRHZET0c1TlUybHEzbXlyVnltYU5sejZQV1UyMDEzRG5NQ0l6dXI4S1JER2N2NmM3WVk0SlB1X0FkaFBLbWViOA",
@@ -1546,6 +1577,23 @@
    "zh_summary": "$22M期权押注特斯拉合并概率上升",
    "title_zh": "$22M SpaceX卖出看跌期权押注特斯拉合并几率上升",
    "sentiment": 0
+  },
+  {
+   "id": "5a063307fb56",
+   "title": "TSLA, CLS, NU, XP, MSFT: 5 Trending Stocks Today - Celestica (NYSE:CLS) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc",
+   "source": "Benzinga",
+   "published_at": "2026-10-27T01:09:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-27T01:09:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "9e648c8093b7",
@@ -1854,7 +1902,7 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFhGVXN2UmFXNWVUVHJWQ29iN2UzRTF2endxTE1wSTROYUoxdmpoOTYyNGxkbWdVUUdOQ0VyVThRTTFmUEN5S2tsTmEwUkhHQ2dDM0toM0l4MzZwYU9NRDByQU1iVDYxMDhIbEtSZ2NCSlljVWtodEdVdjI3NnJqbmJUN0tXT3VEaEE4aFRMTExYbGh5U0pMT2JQYUZaZw",
    "source": "Yahoo Finance",
    "published_at": "2026-10-26T23:35:04+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -1865,6 +1913,11 @@
      "name": "Stocktwits",
      "published_at": "2026-10-26T23:38:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYlZKWkZ0SFR3WXJQbW1veU1yR1Rna2lOT1htSlpDalotbHQ5LXhOeHNQZ3U5UWFZOVFHaTc0OVRGeUVGaHFCUWRJZW9TcHdCb0hEbFJmTVNBT01ianhSUnVJZWh2eW45ajJEdTEtYmxpUWlabENUeWlYVGpvWEExV0xxakJiWWU3RmJ1NUtQdWR5a2std0lzUEhYVGVhQUNaQWRwU3Z0bndPX1JOTHo2SVBCbVdMQXFVUW45ZmNLTlA1Sm8wUjlUR2lCMDNqQTFNRS10dlNCWjhJYnBLaVBmdVpiSlNkTTluSjlINDBNSXZudE9XN0lKZ3ExdHFpQQ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-26T23:35:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQR2NxMTkwVTVUSGNrQXBveEY2RGsyUE5WVkNEbUJVUlRTbHZ4NkJvamg4Q3hHR3BNZk16OWc0aHM5UzdvWTV0N2ticWltdXNGX0VwVkQxa1FPMVFUU2E3LW5CanhVYW9ncTNMM2VTYnQ1a0xRX3Vjc1BKcUlIS1pDN1JOYzhpcHBWWjkwZWZETHBqaGRKLVBMQkZpc0owaFd3Vm5EdlpiUnlvTG93QmxUMnNPWkFKMlRKQllZSWpmeGo3d0FNOGRiNkkzc0xNaGRHaExoNGxtRU1KeVZ0dFNFRGpZVnBsTVBTeTNkWFBNZnVXM3ktX1dGTHZURENHQ00"
     }
    ],
    "category": "分析师",
@@ -6565,66 +6618,6 @@
    "session": "盘前",
    "zh_summary": "巴克莱上调特斯拉评级至增持",
    "title_zh": "特斯拉股价盘前上涨1.9%，此前巴克莱将其评级从“中性”上调至“增持”。",
-   "sentiment": 1
-  },
-  {
-   "id": "415ba950243a",
-   "title": "特斯拉全自动驾驶系统获拉脱维亚批准 提供者 Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RUDJROEM5THNNT0NjWWV1YUlaQ19VSmRLbzFvQk5JQzA2WVVVWFhtVXktbDdiR2lpVUEtY3l5ZGNIYmd2amtvNE1OUUxEeHBZX09ZYjJZVjA1bTM0M1MzWnNYTHowbU9QQzNwbHF4MVQ0RjdVVUY4",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-26T10:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-26T10:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RUDJROEM5THNNT0NjWWV1YUlaQ19VSmRLbzFvQk5JQzA2WVVVWFhtVXktbDdiR2lpVUEtY3l5ZGNIYmd2amtvNE1OUUxEeHBZX09ZYjJZVjA1bTM0M1MzWnNYTHowbU9QQzNwbHF4MVQ0RjdVVUY4"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉全自动驾驶获拉脱维亚批准",
-   "title_zh": "特斯拉全自动驾驶系统获拉脱维亚批准",
-   "sentiment": 1
-  },
-  {
-   "id": "538eb2e52d30",
-   "title": "Buy Tesla ahead of potential SpaceX merger, says Barclays - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84RWIxU2dTNVlEVmZORVpmNUxtcWtJOGFwSUFNZjNSRHdIbGk3VkN2YklyN2dtSWFrQkl2YXpKSm5rcFdXNGdxVy1DcDRick5PempXQ1VwcjVFN3JPWG9hdDRMdkxXVEwzUGh0MVdYdWwySmc",
-   "source": "CNBC",
-   "published_at": "2026-10-26T10:49:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-26T10:49:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84RWIxU2dTNVlEVmZORVpmNUxtcWtJOGFwSUFNZjNSRHdIbGk3VkN2YklyN2dtSWFrQkl2YXpKSm5rcFdXNGdxVy1DcDRick5PempXQ1VwcjVFN3JPWG9hdDRMdkxXVEwzUGh0MVdYdWwySmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "巴克莱建议在SpaceX合并前买入特斯拉",
-   "title_zh": "巴克莱：SpaceX合并前买入特斯拉",
-   "sentiment": 1
-  },
-  {
-   "id": "e577f8165134",
-   "title": "巴克莱将特斯拉评级从“中性”上调至“增持”。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VWtZelFueGh4SC1MMkhQSVNPY0k0OUJQVXVhTFpaZ25NWnJtVGd0Z0Zrbm8wTFhTX1JGVnZVd1NKZTlMemtYSEtqSQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-26T10:48:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-26T10:48:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55VWtZelFueGh4SC1MMkhQSVNPY0k0OUJQVXVhTFpaZ25NWnJtVGd0Z0Zrbm8wTFhTX1JGVnZVd1NKZTlMemtYSEtqSQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "巴克莱将特斯拉评级上调至增持",
-   "title_zh": "巴克莱将特斯拉评级从中性上调至增持",
    "sentiment": 1
   }
  ]
