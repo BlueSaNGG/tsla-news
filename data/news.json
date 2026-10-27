@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T23:52:25.665122+00:00",
+ "updated_at": "2026-10-27T00:07:30.281676+00:00",
  "market": {
-  "price": 391.62,
-  "change_pct": 5.21,
+  "price": 372.22,
+  "change_pct": -0.63,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-10-21",
@@ -16,28 +16,28 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 49% 分位"
+     "note": "现价处于52周区间 39% 分位"
     },
     {
      "key": "目标价空间",
-     "score": -1,
-     "note": "目标价中位数 $408（18家），隐含空间 +4.1%"
+     "score": 0,
+     "note": "目标价中位数 $408（18家），隐含空间 +9.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（271条已评分）"
+     "note": "今日新闻情绪 +0.44（272条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $391.62 vs 20日均线 $371.58"
+     "note": "现价 $372.22 vs 20日均线 $369.87"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 49,
+   "price_52w_pct": 39,
    "target_median": 407.5,
    "target_count": 18,
-   "implied_upside_pct": 4.1,
-   "ma20": 371.58,
-   "as_of": "2026-10-26T23:52:25.654898+00:00"
+   "implied_upside_pct": 9.5,
+   "ma20": 369.87,
+   "as_of": "2026-10-27T00:07:30.267312+00:00"
   },
-  "pe_ttm": 108.3,
-  "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
+  "pe_ttm": 102.9,
+  "pe_pct_5y": 50,
+  "valuation_sentence": "现价处5年P/E 50%分位，目标价隐含+9.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.44,
-   "count": 271
+   "count": 272
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a44808317405",
+   "title": "美科技股大涨，特斯拉涨超5%；上海到2030年在轨卫星总数超3000颗，推动低轨、中轨星座加速部署，核心产业规模突破800亿元；北京人形RoboMIND下载量突破5000万次——《投资早参》 - https://www.mrjjxw.com/",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZQ2d0Q204cXNhQTJIb0tfOVlLQlh5V1ZOU1pMbXA5TXpfb0ZRU1VaZjlpZkRnaGd2ZVEzREhQWWVzZ3ByY2psUjJyUjBzdjZzY1pfb01hbm1tMDA1Z3k5dVFSNWxOZw",
+   "source": "https://www.mrjjxw.com/",
+   "published_at": "2026-10-26T23:48:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://www.mrjjxw.com/",
+     "published_at": "2026-10-26T23:48:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZQ2d0Q204cXNhQTJIb0tfOVlLQlh5V1ZOU1pMbXA5TXpfb0ZRU1VaZjlpZkRnaGd2ZVEzREhQWWVzZ3ByY2psUjJyUjBzdjZzY1pfb01hbm1tMDA1Z3k5dVFSNWxOZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "e1f57c1fa495",
    "title": "TSLA Analyst Ratings Hit Highest Since 2023; ARK Reiterates $4,400 Long-Term Price Target And 80% Robotaxi Thesis - Stocktwits",
@@ -86,6 +103,23 @@
    "zh_summary": "TSLA分析师评级创2023年来最高",
    "title_zh": "TSLA分析师评级创2023年来最高，ARK重申4400美元目标",
    "sentiment": 1
+  },
+  {
+   "id": "dda8520279ff",
+   "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFFEWHYtU0JwODVGZGw5MS1qN3F0Q0VZM3BsR053TGRpSWJOVm1qU3VoMUdBSFphV1ZabW9ra01SVUNyMFlTR29VbGFmNnBNZ2dEdjhqQk16b283eGk1cFVZRDIwM2FCcW5tMF9fa0NMMmdkTElsd2lqUktIMFB4N2tqd0RtZ2RjQ1REd3NhQjlGeDVhRGc0a1pJaw",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-26T23:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-26T23:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFFEWHYtU0JwODVGZGw5MS1qN3F0Q0VZM3BsR053TGRpSWJOVm1qU3VoMUdBSFphV1ZabW9ra01SVUNyMFlTR29VbGFmNnBNZ2dEdjhqQk16b283eGk1cFVZRDIwM2FCcW5tMF9fa0NMMmdkTElsd2lqUktIMFB4N2tqd0RtZ2RjQ1REd3NhQjlGeDVhRGc0a1pJaw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "c464fcca48eb",
@@ -108,13 +142,18 @@
    "sentiment": -1
   },
   {
-   "id": "6b348ea650f7",
-   "title": "Anthropic IPO成强心剂，芯片股光通信爆发，特斯拉创三个月新高，黄金激战4000美元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmxaTE9RSTA1Yk9TaVN5bVkwVmZ2TkctOHhZVS1GUGhlMEN1WDdtMHdWMTJUbFFTRzI2ZXJrNUdjYXhWRV81XzY3Sm9MQnNXQ3pxOUhpVnJLSzFkNzlFeVVBTzJYc0JQcm95d25BQkFrb0dSaTA2LWhDdkdia1l4U3A3NDA3Q2luZ1JCU1prLUJzbHlzZkUwRmpXMDNzTXZEemVHUm1Xb1daRVlyRFhkNUg3MTRMLV9BYTViUzBFOWIzQXJQV0hTWlB6UEhiZw",
-   "source": "新浪财经",
-   "published_at": "2026-10-26T23:13:52+00:00",
-   "outlets_count": 1,
+   "id": "4017e4f16faf",
+   "title": "Anthropic IPO成强心剂！芯片股光通信爆发，特斯拉创三个月新高，黄金激战4000美元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOU1SSXJtVVFBRVNwN0ZxdXF2blBjV1ItN0MwZUNTTzc5UU9YOElBdTVtb2p2QjJMaFBIWEM3TDg4S0pXUndxWjI1dklTNjJrWWRqSFhRaGNzRDdqd0wwMTYzemNFS3VuaUtZeDB0V3BjaVV5dC1FWk1TNWh1c0J5VkdYakRUR1dJSERN",
+   "source": "搜狐网",
+   "published_at": "2026-10-26T23:04:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T23:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOU1SSXJtVVFBRVNwN0ZxdXF2blBjV1ItN0MwZUNTTzc5UU9YOElBdTVtb2p2QjJMaFBIWEM3TDg4S0pXUndxWjI1dklTNjJrWWRqSFhRaGNzRDdqd0wwMTYzemNFS3VuaUtZeDB0V3BjaVV5dC1FWk1TNWh1c0J5VkdYakRUR1dJSERN"
+    },
     {
      "name": "新浪财经",
      "published_at": "2026-10-26T23:13:52+00:00",
@@ -6701,60 +6740,6 @@
    "zh_summary": "特斯拉Roadster百公里加速1.9秒",
    "title_zh": "特斯拉Roadster飞行特技：0-60加速1.9秒",
    "sentiment": 0
-  },
-  {
-   "id": "079a07b4c500",
-   "title": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWS1JcTNRa0dRLXRid3NhWGVKMnJpSjcweDBRQ1JvbTkxV0E3RFNLcS1wUUZDMDFkeUZ2aEdfY3dRLXYzMUV6MkY5SFR6cklMLXNpR0ozS1NZYmktU0p0d05RMlUzUVFNcUk2VmVIRXVnNjFZeDNrWWg2ZVlqMWN6RWMtS2ZoangtVDRtNW0zZE9NTXZESW1mMUxpR3FKR0gzRE1EdW1ZazF6SmVRbFQ1dE5oNzVxS3VnY084YjRIUXZrR1pCemhLMEJ3aFVDcnBodVhTdmJLQ215RzQwMmxhSXctSlo0V00tREhV",
-   "source": "TradingView",
-   "published_at": "2026-10-26T02:02:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T02:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWS1JcTNRa0dRLXRid3NhWGVKMnJpSjcweDBRQ1JvbTkxV0E3RFNLcS1wUUZDMDFkeUZ2aEdfY3dRLXYzMUV6MkY5SFR6cklMLXNpR0ozS1NZYmktU0p0d05RMlUzUVFNcUk2VmVIRXVnNjFZeDNrWWg2ZVlqMWN6RWMtS2ZoangtVDRtNW0zZE9NTXZESW1mMUxpR3FKR0gzRE1EdW1ZazF6SmVRbFQ1dE5oNzVxS3VnY084YjRIUXZrR1pCemhLMEJ3aFVDcnBodVhTdmJLQ215RzQwMmxhSXctSlo0V00tREhV"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-26T02:04:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFJMSFFPU1phMXJfV2Z0MXo5TWpYTjhTVFRVMmN1Nks0Q0l6cUk5NFQydW5Ya0E4QXNSNUhUQl9teDkxakxqNy01WkNFc0VWbllIQjJ2YTN5YUMzNmk1bjNMX3JnS3JLZHp2Z09LNG9GUDNRdDE3WnAwcG5xbFV2dEhxWDFlRnZRYy0yVEl0WDJ1UXUzNksyM0d4blozNVdMWUg1WGk0VUFrRXByVmpqQUhkS044d1RrMUxoRG9ZUnlQQ0JpOWpaVld1R042MXBfYjVyTVVXa0NPUDZYTkt0YlJmUzVmVVVZY1N6YXNXMA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T02:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2MwYTVleFZJRHljd2RtR2NWQ2dzMkdteFBTZDNwQlRzeXpuNDNCT28xQmp2VEdDWWoySXhuX3NCM19yM1dmZnJQMHJ2VkFzV2lPcWdocDFCUy1tOVQyOUxVczV5b25vSU13c1VZZ2tjZ3JSWGNXWmRUZ1F5cGRkTzNxaUktRTBtUG9HRzdQSnlmUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "散户上周密切关注特斯拉等股票",
-   "title_zh": "散户上周为何紧盯TSLA等股票",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.01,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "22f3877ad06e",
-   "title": "机械行业周报：特斯拉启动Optimus生产，我国工业机器人、机床产量保持快速增长_行业研究_研报 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVFBiZmoxMjlzMHphRURaV0VWQXNzNi1taVpaQ1EzN1p5ODZaTFNwOFVKaDRFZ0Y3WDZFSnl3VlFuLUNtYTFGM3EyRUlyc2lEdU0zZ2w5SVVMY2hzSVpxMlFn",
-   "source": "证券之星",
-   "published_at": "2026-10-26T02:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-26T02:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVFBiZmoxMjlzMHphRURaV0VWQXNzNi1taVpaQ1EzN1p5ODZaTFNwOFVKaDRFZ0Y3WDZFSnl3VlFuLUNtYTFGM3EyRUlyc2lEdU0zZ2w5SVVMY2hzSVpxMlFn"
-    }
-   ],
-   "category": "交付量",
-   "session": "周末",
-   "zh_summary": "特斯拉启动Optimus生产，机器人产量增长",
-   "title_zh": "特斯拉启动Optimus生产，工业机器人产量快速增长",
-   "sentiment": 1
   }
  ]
 }
