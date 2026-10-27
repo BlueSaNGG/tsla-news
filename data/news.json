@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T15:22:28.834665+00:00",
+ "updated_at": "2026-10-27T15:37:29.825752+00:00",
  "market": {
-  "price": 405.77,
-  "change_pct": 3.61,
+  "price": 405.43,
+  "change_pct": 3.53,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（99条已评分）"
+     "note": "今日新闻情绪 +0.28（103条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.77 vs 20日均线 $374.22"
+     "note": "现价 $405.43 vs 20日均线 $374.21"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.4,
-   "ma20": 374.22,
-   "as_of": "2026-10-27T15:22:28.822761+00:00"
+   "implied_upside_pct": -1.3,
+   "ma20": 374.21,
+   "as_of": "2026-10-27T15:37:29.816194+00:00"
   },
-  "pe_ttm": 112.2,
+  "pe_ttm": 112.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 99
+   "avg": 0.28,
+   "count": 103
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "1006a9c1baca",
+   "title": "Tesla's Q3 Per-Car Fiscal Metrics Show Minor but Important Progress - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDJrMDF6SGdVc3NNVTJicklteDMwNDRkU1BuY0FoMXIwVXBMTm1mMndEUHM0RUtMNndWdkNVdnNXa2hWX0IzLWtCTU8zU1otQnE0dEw2aGw4VEkxXzhNQnhnYlBFNWZnMGNGdXB3TjJzTjRyZk5XcTc2TVFwVG5IVXR5RV9SYmpTSUxNUExmZS1nMlBKRWRWMQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-27T15:25:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-27T15:25:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDJrMDF6SGdVc3NNVTJicklteDMwNDRkU1BuY0FoMXIwVXBMTm1mMndEUHM0RUtMNndWdkNVdnNXa2hWX0IzLWtCTU8zU1otQnE0dEw2aGw4VEkxXzhNQnhnYlBFNWZnMGNGdXB3TjJzTjRyZk5XcTc2TVFwVG5IVXR5RV9SYmpTSUxNUExmZS1nMlBKRWRWMQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "0cfa41c5bb3d",
+   "title": "Tesla’s Optimus Robot Will Soon Plug In Robotaxis to Charge - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanlTS2ZfUHdkWURLWk1pTmY0ZVhsckFXV1RoclQxbk8yUlFydmltWXQzUTJrVEVqZU1rbWZQR2lPNy1jYzRUWTI3ODMtN2FDRmU0RHNYYjhZOW9yVGNTRHZDdktHZnJDTk1mRDFWaWFMRDViaTBlc3dxa0lfQ090OWpiRVk4ajd2X0l0Tk9maHM3XzE1dm1yUkZ6ekc1Zw",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-27T15:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-27T15:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanlTS2ZfUHdkWURLWk1pTmY0ZVhsckFXV1RoclQxbk8yUlFydmltWXQzUTJrVEVqZU1rbWZQR2lPNy1jYzRUWTI3ODMtN2FDRmU0RHNYYjhZOW9yVGNTRHZDdktHZnJDTk1mRDFWaWFMRDViaTBlc3dxa0lfQ090OWpiRVk4ajd2X0l0Tk9maHM3XzE1dm1yUkZ6ekc1Zw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "b42104de9d47",
+   "title": "特斯拉Model 3家用安全空间够吗？新手练车3个维度说清+FAQ - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93T1ZYY2RxYldQMVZBNDVVSVRwNHhWMDBZT3RQRURxR19oUXdmSGl3SEwxUlFONjhGZEhkelNwcU9FVTY4cjNTRy1EX1FpZUJQSlRvSk10Z0M5X2VCelVPRHFMN0lyMGhlelV1V05yTnZDZlcyNVFpTnhVXzk1R1E",
+   "source": "手机新浪网",
+   "published_at": "2026-10-27T15:19:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-27T15:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93T1ZYY2RxYldQMVZBNDVVSVRwNHhWMDBZT3RQRURxR19oUXdmSGl3SEwxUlFONjhGZEhkelNwcU9FVTY4cjNTRy1EX1FpZUJQSlRvSk10Z0M5X2VCelVPRHFMN0lyMGhlelV1V05yTnZDZlcyNVFpTnhVXzk1R1E"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "8a0a0d46d909",
+   "title": "Tesla expands robotaxi service across Houston as autonomous competition intensifies - The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2pJNU9kbFlWWm5GTlJhSjhGUDV2Y1FIMl9tdlJzdXJmTHVVRzh1czdRTkY0NThaVExDWV8zUm9aeEdCV1JiVkJSbXdLbkxvWmE2a1pXSS0wUmlSNEhDSkpZVXlfNFUtd3BOcTBYbl9SRnZxQUxfZi1Bd3NTTzhNTFI1TkxHRUowemRYOGllcVpNcE5ZWmp2V3hVNA",
+   "source": "The Business Journals",
+   "published_at": "2026-10-27T15:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Business Journals",
+     "published_at": "2026-10-27T15:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2pJNU9kbFlWWm5GTlJhSjhGUDV2Y1FIMl9tdlJzdXJmTHVVRzh1czdRTkY0NThaVExDWV8zUm9aeEdCV1JiVkJSbXdLbkxvWmE2a1pXSS0wUmlSNEhDSkpZVXlfNFUtd3BOcTBYbl9SRnZxQUxfZi1Bd3NTTzhNTFI1TkxHRUowemRYOGllcVpNcE5ZWmp2V3hVNA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "642a0a09c883",
    "title": "Tesla camera helps police nab alleged drunken driver after hit-and-run in Seabrook, New Hampshire, police say - WCVB",
@@ -186,6 +254,23 @@
    "zh_summary": "通用涨5%，特斯拉涨3%，福特微涨",
    "title_zh": "通用汽车涨5%，特斯拉涨3%，福特小幅上涨",
    "sentiment": 1
+  },
+  {
+   "id": "6ff9bba7990a",
+   "title": "Tesla posts $28B Q3 revenue with 1.74M FSD users but margins weaken after tariff refunds. - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGVkSzFrWVBxT1liLV8tY1NWeEpkTTBsVEFRcUxFS3Q4am1lNG5ab0dMUTF4c0ZNZVVjaVlMQzRZdC1wNGRUTV9oV3ZTRTZwVXR0R1NkaEcxWUZPa3BlMndLS1F0R3VMNzd1RWJoYzNYNHB6c2NOQWdVX3pPZm1vb2Fn",
+   "source": "Pluang",
+   "published_at": "2026-10-27T14:56:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-27T14:56:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGVkSzFrWVBxT1liLV8tY1NWeEpkTTBsVEFRcUxFS3Q4am1lNG5ab0dMUTF4c0ZNZVVjaVlMQzRZdC1wNGRUTV9oV3ZTRTZwVXR0R1NkaEcxWUZPa3BlMndLS1F0R3VMNzd1RWJoYzNYNHB6c2NOQWdVX3pPZm1vb2Fn"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "7892e648bac3",
@@ -717,6 +802,23 @@
    "sentiment": 1
   },
   {
+   "id": "6af1e9cafe13",
+   "title": "Zacks Investment Ideas feature highlights: SpaceX and Tesla - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T12:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T12:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "7b996e2983f6",
    "title": "特斯拉三季度利润下滑43% ，FSD附带率超75%_手机新浪网 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdVdxQ3R4Vm9qSGZVLWx6OU1mU2dhLVFvNHhrNUhoaGJiQkp1TXN2eS1UcktRMGlBU0tQSVc2UW00V2NxV2hPQ3p5OGcwaWdweXVKYlV6ZnN3R20tNE8zLWZDdG1GV05YWXB3OWprVEJqZnNQcVRwZG5mSldJTjAxUnNSUWhoQ1VDWFo4T0tYOVBYdUVJdHNKcGYzWHBJLXlOc00tbzFDNllpSlJWSjFzaWR5WTI0THZLZkR6Rzloc1UzMzZ3c3puYmFKbkFIR1h4VGxGQkhJRzFPTlpWYkl6UEpqUDRpdFU",
@@ -762,12 +864,17 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTBfRHJMWFJVVDY1THVPUTk1R3NIc0JPdlFRdUx4NW4wZ1JVNVhwcnM3dlB4emV2cnRJM2pVS1VvZjdYajd3bFhjZG1rSk9ZWFJrUEpvSjM3bjVwM3VFRVhxWUtxU2ZiNDFrc1RaQVBRRHBKY2dhZzRoeEtqUVEyZU90TDVpVWtvSGd3Y1NONHJwNWFGMFdMbGw5aDFfblNZU2k3S094TDhMcHFzY2ZidmNFZXo3OVJyVGs3UDg3UDQwcUxqLWVOLXcwLVNTdw",
    "source": "Autoguide.com",
    "published_at": "2026-10-27T12:22:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Autoguide.com",
      "published_at": "2026-10-27T12:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTBfRHJMWFJVVDY1THVPUTk1R3NIc0JPdlFRdUx4NW4wZ1JVNVhwcnM3dlB4emV2cnRJM2pVS1VvZjdYajd3bFhjZG1rSk9ZWFJrUEpvSjM3bjVwM3VFRVhxWUtxU2ZiNDFrc1RaQVBRRHBKY2dhZzRoeEtqUVEyZU90TDVpVWtvSGd3Y1NONHJwNWFGMFdMbGw5aDFfblNZU2k3S094TDhMcHFzY2ZidmNFZXo3OVJyVGs3UDg3UDQwcUxqLWVOLXcwLVNTdw"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-27T15:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFhOZ2x5bkRoblNycFY1cE12RXp0YkhTT2dBVEoySUc5d3VNa0c0VmZYel9fZUFVMXZoZVNQZ0NkYzJ0NmU1ZHlTQWZmZWxMVXhfZGxkcjdjSGRMU2kwYkFPLWVaSG1TQVFXdWhjSkNnVkVNVDZFS2hRczJ5bWlwNkFwNGpZQTVqNmkwbjF2Q250S25vSkpYcU9hY0k3aTFH"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1640,6 +1747,23 @@
    "zh_summary": "特斯拉Model 3加拿大售价翻倍续航584公里",
    "title_zh": "特斯拉Model 3加拿大售价翻倍，续航升至584公里",
    "sentiment": 0
+  },
+  {
+   "id": "472fc70aea73",
+   "title": "马斯克酝酿史上最大合并！特斯拉、SpaceX强势反攻的背后，华尔街看到了什么？ - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUJkYS0zcy1MUUxrQWJCMm5EOC1qczlUN0RkUEQ3UVpEMTRKN2ExZWlxc3dZUVgxSUdKaDNrcGdJV0xVZXlIN2VrYkRKSGRFRFAwUmR5eFFhM0g1MC03b0IydElsalNQaGV2cXJnTHlOeG1WUF9pR2x6cWdoLS1vdEtJTDJiSU1qUVV5UzRWaUZkSW42LXdYUjAtTldrXzNQdWpJU2dJUWo",
+   "source": "富途牛牛",
+   "published_at": "2026-10-27T08:16:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-27T08:16:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUJkYS0zcy1MUUxrQWJCMm5EOC1qczlUN0RkUEQ3UVpEMTRKN2ExZWlxc3dZUVgxSUdKaDNrcGdJV0xVZXlIN2VrYkRKSGRFRFAwUmR5eFFhM0g1MC03b0IydElsalNQaGV2cXJnTHlOeG1WUF9pR2x6cWdoLS1vdEtJTDJiSU1qUVV5UzRWaUZkSW42LXdYUjAtTldrXzNQdWpJU2dJUWo"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "2b28cb06cdb1",
@@ -6431,165 +6555,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Roadster亮相博物馆展飞行组件",
    "title_zh": "特斯拉Roadster在Petersen博物馆开展，飞行组件亮相 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "72289f2db34c",
-   "title": "Tesla Driver Asks Wants Air For Severely Destroyed Tires. Shop Says They Didn't Even Belong On An EV To Begin With - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEp5QU1uV3ZIT0tJUTFXQzdaTzJCX3l3S2hNVUI1ekNMYVNfazM1bjlyb3VLMjB6d3VRcDJFdTVGQkpwN2Y2WXRXMm5UTzJJVmRfRjZkLUdqRm5KTHR1NWRjUXlwazRwMmJEb1JxZ01JbHZvWU43R1c0dERhVnNjWTVCTlpOQlgyc1VmYnFid3B2RTFxTi1MSXdB",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-26T15:01:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-26T15:01:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEp5QU1uV3ZIT0tJUTFXQzdaTzJCX3l3S2hNVUI1ekNMYVNfazM1bjlyb3VLMjB6d3VRcDJFdTVGQkpwN2Y2WXRXMm5UTzJJVmRfRjZkLUdqRm5KTHR1NWRjUXlwazRwMmJEb1JxZ01JbHZvWU43R1c0dERhVnNjWTVCTlpOQlgyc1VmYnFid3B2RTFxTi1MSXdB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉车主轮胎严重损坏，店家称不适配电车",
-   "title_zh": "特斯拉车主轮胎严重损坏，店家称本不适配电车",
-   "sentiment": 0
-  },
-  {
-   "id": "ab8fe482300b",
-   "title": "Tesla Owner Discovers an Unexpected Way to Make a Parked Car Dance to Music - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWZaSjdqbFZZZW1qRk5IU2VqNXB3NkhmTGJRbk5VTzdjUjFWN1dZM2QxNHJxNzl0Q2RvZFp0c2ZVaERuMEJZQlExaFNjWXE0QUkxZFNwSnlfcFRrWjBrSUdtWU8xVXZybGU5ZUJHMW4zUTN2X0NUS0tGakQ1Qy16S0IzTnhScC12NEdwVkU2ZjQxU2JS",
-   "source": "Yahoo",
-   "published_at": "2026-10-26T15:01:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-26T15:01:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWZaSjdqbFZZZW1qRk5IU2VqNXB3NkhmTGJRbk5VTzdjUjFWN1dZM2QxNHJxNzl0Q2RvZFp0c2ZVaERuMEJZQlExaFNjWXE0QUkxZFNwSnlfcFRrWjBrSUdtWU8xVXZybGU5ZUJHMW4zUTN2X0NUS0tGakQ1Qy16S0IzTnhScC12NEdwVkU2ZjQxU2JS"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "车主发现让停放车辆随音乐起舞的方法",
-   "title_zh": "特斯拉车主发现让停放车辆随音乐起舞的意外方法",
-   "sentiment": 0
-  },
-  {
-   "id": "3d20dc56df9a",
-   "title": "英伟达、微软、亚马逊、台积电、Meta、特斯拉、SK海力士、美光科技，集体上涨 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51M0t2YzE3Q3JfWWxVRDhCNkZxQ3RYZUFlY1FQckRIU3d5RWdfUGRPR2Vzc1lkY1BKVndlQjUzcmJOaENJb18xcFlVdXJCNTRfSE5YNWprYTVhY3NPRTJUZmFCYlV2SmFWaklscXJCdU1CX201YXc",
-   "source": "新浪财经",
-   "published_at": "2026-10-26T14:58:30+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T14:58:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51M0t2YzE3Q3JfWWxVRDhCNkZxQ3RYZUFlY1FQckRIU3d5RWdfUGRPR2Vzc1lkY1BKVndlQjUzcmJOaENJb18xcFlVdXJCNTRfSE5YNWprYTVhY3NPRTJUZmFCYlV2SmFWaklscXJCdU1CX201YXc"
-    },
-    {
-     "name": "21财经",
-     "published_at": "2026-10-26T15:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVoVlRrbDFReURRbTJoRjZ4X2NsczlaN2IzZDBmX200ZWZ3ckdxekhTb2xaRGUyQWpDM3hVNHVmU1ZlTlNCblVnVmVSU1NidzlsbjR2UHBhZjFBeldWR3JhdnhaWDFhbXJQNnBGRmw0Zld1ZFZoTHhhaFZqbFRqQ3JJdnVwVUNBRWxqV0xGUQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T15:14:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0JlS0N0SHRncHVUcm5EYUhkVlBLejQ4S1NiWDFWc3FHMFF3MjM5OVhoc25ma2pQT0ZUSWJMQjhRUnY0cExrRGNFRnlhdUVnS19mYS1nN196alkxRXl0SUhjLVVOXzVwdExuOGVsRHMyZmZOekFBd0J4SU80MmlmUVpobHpqZGlpRjJvVg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达等科技股集体上涨含特斯拉",
-   "title_zh": "英伟达、微软、亚马逊、台积电、Meta、特斯拉、SK海力士、美光科技，集体上涨",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.4,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "6565a91a845d",
-   "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdklBWGY0R24yd3loVUNKamRGYVkzdTR1V0lyY09rTEJuSGp1S2l2WFNfNGZwYldRVWRtVkhmVEZib2JxcXJ4T0I3aENiQUNPS0dkZElqRWtoNWYyTF82MDZORjNyX3JGZlBLNTI0RnhQTlRsNnBKT2l0ajZUVlFtV3FfdHRUcWVmVHdLQzh6dFhjQ1U",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-26T14:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-26T14:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdklBWGY0R24yd3loVUNKamRGYVkzdTR1V0lyY09rTEJuSGp1S2l2WFNfNGZwYldRVWRtVkhmVEZib2JxcXJ4T0I3aENiQUNPS0dkZElqRWtoNWYyTF82MDZORjNyX3JGZlBLNTI0RnhQTlRsNnBKT2l0ajZUVlFtV3FfdHRUcWVmVHdLQzh6dFhjQ1U"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Robotaxi应用新增支持iPad",
-   "title_zh": "特斯拉Robotaxi应用现支持iPad、iPhone双机及改进实时活动",
-   "sentiment": 1
-  },
-  {
-   "id": "ba0b9420374f",
-   "title": "Tesla's upside goes beyond SpaceX merger -- Barclays (TSLA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjVIMUhUcGlXMmkxQWRwUEVuTHI1WS1DQzRIUHUwUWIyYm92bmZQM0VPakxNSWhvTnEwUU1zSlFaemxuZDVjcUdsY2JSOS1fTDhVR1B4ZlBBLUpSQUZRRnRNMTFGdUVuXzNOMkx6UVhhdmJVV3liZGV0TkhncUM5SzMtRUpuRWYxeFFNeVRvVS1QUQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-26T14:50:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-26T14:50:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjVIMUhUcGlXMmkxQWRwUEVuTHI1WS1DQzRIUHUwUWIyYm92bmZQM0VPakxNSWhvTnEwUU1zSlFaemxuZDVjcUdsY2JSOS1fTDhVR1B4ZlBBLUpSQUZRRnRNMTFGdUVuXzNOMkx6UVhhdmJVV3liZGV0TkhncUM5SzMtRUpuRWYxeFFNeVRvVS1QUQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "巴克莱称特斯拉上涨空间不止并购",
-   "title_zh": "巴克莱：特斯拉上涨空间超越SpaceX合并",
-   "sentiment": 1
-  },
-  {
-   "id": "3cab7b236e16",
-   "title": "Why SpaceX Will Have to pay a Premium for Tesla - Zacks Investment Research",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnNVUXVqdlFJTml5aWZTbmV0Y0R1dTRDdl81NUJ2bENma2hzbUNxdmJiZVNfVTBqa3ZsdEQ4bW1lYW9EcTNiQ04zOGVBbGtOS2ZCeHB1bEY3YXpGLTFqVVhsUjBsUDFLWnFncDJVR2N6MVFENXBwRUxaMFNFeEFkSDFoT0VQUVlsX2l2NFhvMnhJUQ",
-   "source": "Zacks Investment Research",
-   "published_at": "2026-10-26T14:49:47+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-26T14:49:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnNVUXVqdlFJTml5aWZTbmV0Y0R1dTRDdl81NUJ2bENma2hzbUNxdmJiZVNfVTBqa3ZsdEQ4bW1lYW9EcTNiQ04zOGVBbGtOS2ZCeHB1bEY3YXpGLTFqVVhsUjBsUDFLWnFncDJVR2N6MVFENXBwRUxaMFNFeEFkSDFoT0VQUVlsX2l2NFhvMnhJUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T14:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1RPV3N1ZVJDMWQzeWRhWTFJRlBEUGZ1dDhOeTJ0R1dQOUNIaVNwbjdndGhwNmZuOUJ6TDUtTkxXa2c0cW1weWZRWnJ2Y21na2wxNnA0M1lma056RkFtR3U1TndvaDRKckNYZkE1YXZxMWExRkVYclRCd1BEUWJSdmxSR3B6LVVUb0VGTmUwcVJHOERhZVJINw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "SpaceX收购特斯拉须付溢价",
-   "title_zh": "SpaceX收购特斯拉须支付溢价",
-   "sentiment": 1
-  },
-  {
-   "id": "ff3c35e6a362",
-   "title": "Woman Claims Tow Company Damaged Her Tesla by Dragging It, Then Charged Her $185 to Get It Back - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXY3M3hPb3I5U3BuS2tRQTkwUUQ0LWYxYkdndEZObm9MSGdyYUlwLU1pVVc4bnZzQ0ZQb2UxbnlFOHJ2UlVaekg1SWN6YUZheDJHTExKbl9UeUtjVUtlQUdGa2VqT3JNWlZla3RrNGVpejJBcXhUVnlhSUhoRVF0M1JaREVIVVRDdGpZQmFaRkloSjF6QzJKVUFDWGZUZURv",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-26T14:46:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-26T14:46:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXY3M3hPb3I5U3BuS2tRQTkwUUQ0LWYxYkdndEZObm9MSGdyYUlwLU1pVVc4bnZzQ0ZQb2UxbnlFOHJ2UlVaekg1SWN6YUZheDJHTExKbl9UeUtjVUtlQUdGa2VqT3JNWlZla3RrNGVpejJBcXhUVnlhSUhoRVF0M1JaREVIVVRDdGpZQmFaRkloSjF6QzJKVUFDWGZUZURv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "女子称拖车公司拖坏特斯拉并收费185美元",
-   "title_zh": "女子称拖车公司拖坏其特斯拉并索要185美元",
    "sentiment": 0
   }
  ]
