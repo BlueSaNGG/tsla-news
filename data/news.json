@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T16:07:29.693446+00:00",
+ "updated_at": "2026-10-27T16:22:32.696084+00:00",
  "market": {
-  "price": 406.03,
-  "change_pct": 3.68,
+  "price": 405.82,
+  "change_pct": 3.63,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（114条已评分）"
+     "note": "今日新闻情绪 +0.30（117条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.03 vs 20日均线 $374.22"
+     "note": "现价 $405.82 vs 20日均线 $374.23"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.5,
-   "ma20": 374.22,
-   "as_of": "2026-10-27T16:07:29.685931+00:00"
+   "implied_upside_pct": -1.4,
+   "ma20": 374.23,
+   "as_of": "2026-10-27T16:22:32.683981+00:00"
   },
-  "pe_ttm": 112.3,
+  "pe_ttm": 112.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 114
+   "avg": 0.3,
+   "count": 117
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "8c2e2a817aef",
+   "title": "Tesla Reverts Canadian Model 3 Spec Change That Hinted at US-Built Return - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1NWU2taZWh5T3pxbHNXc0NJX3Z0aWIyb0ZyRndlTFFEbkhnNW1yY0Y0bi13YVUyQ3dmVkQ5bndhdlRycFdVS2ozZktSV3lGSnNBUURmTDJ5N0RrX2ZfSE9DWG4zbFJpeDRyczVHcC1jRE5tVms1UlZzNHg2VzRRTHNlT2ZHZkhvSkxXcGZYa2NNMllvV0VYQW4tXzVvTmwyMXpGVmowanlHbThjRHc",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-27T16:09:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-27T16:09:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1NWU2taZWh5T3pxbHNXc0NJX3Z0aWIyb0ZyRndlTFFEbkhnNW1yY0Y0bi13YVUyQ3dmVkQ5bndhdlRycFdVS2ozZktSV3lGSnNBUURmTDJ5N0RrX2ZfSE9DWG4zbFJpeDRyczVHcC1jRE5tVms1UlZzNHg2VzRRTHNlT2ZHZkhvSkxXcGZYa2NNMllvV0VYQW4tXzVvTmwyMXpGVmowanlHbThjRHc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "9bae4179ed2e",
+   "title": "Analysts Are Bullish on These Consumer Cyclical Stocks: Tesla (TSLA), Marriott International (MAR) - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSTNNXzBuQkpPZ1BITk1IVzB6Q0dsSEJjSG83V0ptU0IxR01NUDFqV1FRLUNWRW1sR0NYaUNnNnNnel9lN2tIQV9qQVB0QllDUzlaMFcwZDBWTXZob3k2S0kyN1VDaGp4OHlhT1VqTXRucXZ3WEpYdEFORUg1dEZnWUhzdjgxZXhUeVZsazlPeG5EQ2g3dko4amVqeW1BbE9BN2ROc3lBc25mLV9XLTNPTGtGUng0bVpBbXozMlBWd0RZa1Rxdm1RdmMwWnFLbWFONldDaWhwVmM2eGNEdE5DWHZmVjlvdF9uRHYzblZJTXhnQ1F4dU8wbW15YllsZmFRTW9EQkhCVUc0ZnM",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-27T16:06:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-27T16:06:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSTNNXzBuQkpPZ1BITk1IVzB6Q0dsSEJjSG83V0ptU0IxR01NUDFqV1FRLUNWRW1sR0NYaUNnNnNnel9lN2tIQV9qQVB0QllDUzlaMFcwZDBWTXZob3k2S0kyN1VDaGp4OHlhT1VqTXRucXZ3WEpYdEFORUg1dEZnWUhzdjgxZXhUeVZsazlPeG5EQ2g3dko4amVqeW1BbE9BN2ROc3lBc25mLV9XLTNPTGtGUng0bVpBbXozMlBWd0RZa1Rxdm1RdmMwWnFLbWFONldDaWhwVmM2eGNEdE5DWHZmVjlvdF9uRHYzblZJTXhnQ1F4dU8wbW15YllsZmFRTW9EQkhCVUc0ZnM"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "cb75c5f37355",
+   "title": "Tesla Robotaxi Beach Expansion: Miami & Tampa Questions Answered - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekZDRnp1SUhSVDFWNFRaaEJ1ejRvLVZEd3NlYXpfc1BSMjd5NjF5aUg5TzhJTWJZbHFRS05kalpqdjBnQ3JpSV8wRDBiR1FMb25KbkhTRE1JZU1PM3dEU2otUDBhRXZhaHpVVk1qOXZEQWd5YUZVb2gtT0tXN2k0WlhlUzBLcEczSm9wc1FVc190Uy1rOUpVS09pTEU",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-27T16:04:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-27T16:04:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekZDRnp1SUhSVDFWNFRaaEJ1ejRvLVZEd3NlYXpfc1BSMjd5NjF5aUg5TzhJTWJZbHFRS05kalpqdjBnQ3JpSV8wRDBiR1FMb25KbkhTRE1JZU1PM3dEU2otUDBhRXZhaHpVVk1qOXZEQWd5YUZVb2gtT0tXN2k0WlhlUzBLcEczSm9wc1FVc190Uy1rOUpVS09pTEU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "8af455d20a32",
    "title": "Tesla ‘Full Self-Driving’ crashes pile up in California - Land Line Media",
@@ -86,6 +137,23 @@
    "zh_summary": "特斯拉加州FSD事故频发引关注",
    "title_zh": "特斯拉全自动驾驶在加州事故频发",
    "sentiment": -1
+  },
+  {
+   "id": "cc2f76cc742b",
+   "title": "Tesla begins humanoid production in California - Manufacturing Dive",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUYzdUd4NjhxbURmUUZxcE5JR3UzWDdQOGxvVFNXTUdrbXd2ZmZIYUtpQS1Mb09OaGJXdlFYZHU5aDJjNjZSUHI1cjFPSWphbEwyQW1tbTJ6SURNOE1sTV9OaTlISFVhYk9EZ05qU24wMHkzWnBza0VpN0NjWGNoMHcta2ZtWGpnSTZRbnBqTU9QX3l3dmxpeTFMRzB4X2dYSTJmZG5Ba3FidWt5eFM4dVNCbw",
+   "source": "Manufacturing Dive",
+   "published_at": "2026-10-27T15:56:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Manufacturing Dive",
+     "published_at": "2026-10-27T15:56:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUYzdUd4NjhxbURmUUZxcE5JR3UzWDdQOGxvVFNXTUdrbXd2ZmZIYUtpQS1Mb09OaGJXdlFYZHU5aDJjNjZSUHI1cjFPSWphbEwyQW1tbTJ6SURNOE1sTV9OaTlISFVhYk9EZ05qU24wMHkzWnBza0VpN0NjWGNoMHcta2ZtWGpnSTZRbnBqTU9QX3l3dmxpeTFMRzB4X2dYSTJmZG5Ba3FidWt5eFM4dVNCbw"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
   },
   {
    "id": "00ebf77629ed",
@@ -227,12 +295,17 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93T1ZYY2RxYldQMVZBNDVVSVRwNHhWMDBZT3RQRURxR19oUXdmSGl3SEwxUlFONjhGZEhkelNwcU9FVTY4cjNTRy1EX1FpZUJQSlRvSk10Z0M5X2VCelVPRHFMN0lyMGhlelV1V05yTnZDZlcyNVFpTnhVXzk1R1E",
    "source": "手机新浪网",
    "published_at": "2026-10-27T15:19:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-10-27T15:19:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93T1ZYY2RxYldQMVZBNDVVSVRwNHhWMDBZT3RQRURxR19oUXdmSGl3SEwxUlFONjhGZEhkelNwcU9FVTY4cjNTRy1EX1FpZUJQSlRvSk10Z0M5X2VCelVPRHFMN0lyMGhlelV1V05yTnZDZlcyNVFpTnhVXzk1R1E"
+    },
+    {
+     "name": "新浪汽车",
+     "published_at": "2026-10-27T15:39:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pVmphcDRqb3U5ejVONFhXN0hkZTh0Vl8wdkNtZ0RDX0R1aEMyWm1vcGU4M1BPMl8tVThEdUpMZ09LR0w5MEZRMGJjaGMzV2t4N21ScWg4TW9aUjlsRC1NcHQzN0IxdWR2QXgyNG5CZUpRNnZo"
     }
    ],
    "category": "车型产品",
@@ -6491,97 +6564,6 @@
    "zh_summary": "不建议因SpaceX交易买入特斯拉",
    "title_zh": "不建议押注SpaceX交易买入特斯拉股票",
    "sentiment": -1
-  },
-  {
-   "id": "6c5267a71a72",
-   "title": "Tesla Soars 6% on Barclays Upgrade Calling SpaceX Merger “Key Part of the Tesla Bull Case” - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMERqWGR4VHBYdEw2bS01cndSbURjU0VteEk4ZG9BMU9zVm5vSVJ2cjZLN2NJUkZpZEdabGw2ekx6S1BoLW9wVzg2OENmcGpfSmZCcEc0bng5bG1UNGYtRWNLNzQ3dGlBR3U2R0wzcTVxWUNpVVZ4NTlvczBqVmx2NEliakJWYnpBVkFpWmJnSE5QdHZqZkxjTDdhOA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T15:29:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T15:29:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMERqWGR4VHBYdEw2bS01cndSbURjU0VteEk4ZG9BMU9zVm5vSVJ2cjZLN2NJUkZpZEdabGw2ekx6S1BoLW9wVzg2OENmcGpfSmZCcEc0bng5bG1UNGYtRWNLNzQ3dGlBR3U2R0wzcTVxWUNpVVZ4NTlvczBqVmx2NEliakJWYnpBVkFpWmJnSE5QdHZqZkxjTDdhOA"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调评级，特斯拉涨6%",
-   "title_zh": "巴克莱上调评级，特斯拉涨6%，称SpaceX合并是看涨关键",
-   "sentiment": 1
-  },
-  {
-   "id": "48ff1f5d25a6",
-   "title": "Tesla Robotaxis are listed as ‘coming soon’ to Jacksonville. When could rides start? - News4JAX",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEVrVWR4dGV4TF9WMUI2Y2dhLW82SFdBbWo0Xy1YQ1lTVmlzUUJHYlZCQjZxaGxXaUQ5aHNFbWdseTVhSC1KdnNzZzdoaWI0UGFTdmY4cmF0LVdSaW1PU1VrYTdmVWo5UkhILWxFdVMzWXA3S3dYSU1DNGJUckFWOWNOOVhqRFhLdXp4NVRFOV9MVUFDQlVXLTczbGlHRldmZ1dtSFRzdHRaamdHOHFSb2tSX0VpOHZQZmQwSndIN3QxOUIxNlk4",
-   "source": "News4JAX",
-   "published_at": "2026-10-26T15:28:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "News4JAX",
-     "published_at": "2026-10-26T15:28:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEVrVWR4dGV4TF9WMUI2Y2dhLW82SFdBbWo0Xy1YQ1lTVmlzUUJHYlZCQjZxaGxXaUQ5aHNFbWdseTVhSC1KdnNzZzdoaWI0UGFTdmY4cmF0LVdSaW1PU1VrYTdmVWo5UkhILWxFdVMzWXA3S3dYSU1DNGJUckFWOWNOOVhqRFhLdXp4NVRFOV9MVUFDQlVXLTczbGlHRldmZ1dtSFRzdHRaamdHOHFSb2tSX0VpOHZQZmQwSndIN3QxOUIxNlk4"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉Robotaxi即将在杰克逊维尔上线",
-   "title_zh": "特斯拉Robotaxi在杰克逊维尔显示即将推出",
-   "sentiment": 1
-  },
-  {
-   "id": "df75e6dc3a3d",
-   "title": "美股芯片股深夜全线上涨，ARM涨超5%，特斯拉涨超6%，XP暴跌50% - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qeUUzUXFkNklhblJQVFd1OXFobkEzTmV3MFhzSzZfR2g0Y1VvSF9rYnhpRU9tMU1NaWRWUlU5b0dVRDE4TlhXalh1X2NPWHY4NDJmal9CTUpRcFhfNER3aHlFSDkycmlDTnBWX3cxWTVDNDZVNlE",
-   "source": "新浪财经",
-   "published_at": "2026-10-26T15:24:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T15:24:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qeUUzUXFkNklhblJQVFd1OXFobkEzTmV3MFhzSzZfR2g0Y1VvSF9rYnhpRU9tMU1NaWRWUlU5b0dVRDE4TlhXalh1X2NPWHY4NDJmal9CTUpRcFhfNER3aHlFSDkycmlDTnBWX3cxWTVDNDZVNlE"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-26T15:24:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wOGpGd2J3cThIeERyTjAxNGFkU1QwWGJqV0pmSVppaWVJekVlR19wMGZ0bEFXV0Vxcjg4TmlPbGVmWGpET214T21VXzJPUDIzQU1COWZzNzZ6OU40T2d0aThTU3FnVXNvUU1RZFZ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉涨超6%，芯片股上涨",
-   "title_zh": "美股芯片股上涨，特斯拉涨超6%",
-   "sentiment": 1
-  },
-  {
-   "id": "83c53d2dc0ce",
-   "title": "特斯拉在得州奥斯汀启动Cybercab小规模部署，计划2026年年底前交付客户 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRWpTM2l1N1hkOHJmLWdJcm9aTjR6RzIydVpmQWJqRnR6ZzhiWkExa2U5dnk2dU04SlQzWFdVQ1N0bFdDQlRXNkdoTHJoNHpXNF9BZjd3aGpndUU",
-   "source": "网通社",
-   "published_at": "2026-10-26T15:24:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-26T15:24:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRWpTM2l1N1hkOHJmLWdJcm9aTjR6RzIydVpmQWJqRnR6ZzhiWkExa2U5dnk2dU04SlQzWFdVQ1N0bFdDQlRXNkdoTHJoNHpXNF9BZjd3aGpndUU"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘中",
-   "zh_summary": "特斯拉奥斯汀启动Cybercab部署",
-   "title_zh": "特斯拉在奥斯汀启动Cybercab小规模部署",
-   "sentiment": 1
   }
  ]
 }
