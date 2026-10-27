@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T05:22:31.105196+00:00",
+ "updated_at": "2026-10-27T05:37:36.099541+00:00",
  "market": {
   "price": 391.62,
   "change_pct": 5.21,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.45（294条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 18,
    "implied_upside_pct": 4.1,
    "ma20": 371.58,
-   "as_of": "2026-10-27T05:22:31.098419+00:00"
+   "as_of": "2026-10-27T05:37:36.087254+00:00"
   },
   "pe_ttm": 108.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+4.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 294
+   "avg": 1.0,
+   "count": 1
   }
  },
  "meta": {
@@ -186,6 +186,23 @@
    "zh_summary": "美国州长要求特斯拉扩大Robotaxi服务",
    "title_zh": "美国州长喊话特斯拉！要求扩大Robotaxi服务范围",
    "sentiment": 1
+  },
+  {
+   "id": "b0603f12ed59",
+   "title": "Tesla Could Go Beyond Robotaxis Into Underground Travel And Electric Aviation — TSLA Could ‘Own’ Transpor - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOd1N0Q1hCRmZJVWhPMjZtVmVYb2RObmE4LVAyc1JacjZUazRMbzRfbFFHdVA2Zmp3cXJhSW1aejl5Tk1rXzdoeUZQa0F4QVFHQWVWdTNTTHY0S1l6d2huNXRXT2RqRkhWbnRoNFNUcnZaNDVvS0hSVndRa2g3SGJvd2pyQVVaY0x4dDAtdkE0WlZlOVJ6V1JZX0txNHdERGpKYTR0WkkwR0FMM1RUQmR0UnFkM0VoWHBtX3lDRmVKeFlrRVh5WTAwSURzNHNnQWxRZ2x3U2UtMTh1VkJMZ1RHVDlrSG81a3lMVkFjUlF3Uk5MOTlvSjc5RnNaNHJLQQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-27T04:32:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-27T04:32:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOd1N0Q1hCRmZJVWhPMjZtVmVYb2RObmE4LVAyc1JacjZUazRMbzRfbFFHdVA2Zmp3cXJhSW1aejl5Tk1rXzdoeUZQa0F4QVFHQWVWdTNTTHY0S1l6d2huNXRXT2RqRkhWbnRoNFNUcnZaNDVvS0hSVndRa2g3SGJvd2pyQVVaY0x4dDAtdkE0WlZlOVJ6V1JZX0txNHdERGpKYTR0WkkwR0FMM1RUQmR0UnFkM0VoWHBtX3lDRmVKeFlrRVh5WTAwSURzNHNnQWxRZ2x3U2UtMTh1VkJMZ1RHVDlrSG81a3lMVkFjUlF3Uk5MOTlvSjc5RnNaNHJLQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "a3b4bdabc86c",
@@ -1211,6 +1228,23 @@
    "zh_summary": "特斯拉辅助驾驶获两国批准但存安全短板",
    "title_zh": "特斯拉辅助驾驶获拉脱维亚和斯洛伐克批准，但路透社试乘暴露安全短板 - 凤凰网",
    "sentiment": 0
+  },
+  {
+   "id": "8d7a81efcebe",
+   "title": "Why Tesla (TSLA) stock is trading up today - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T01:34:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T01:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzZ6RWRKYWpmb2FpdnJRSkpkZ2hPaDBpUFFxWGFtMHpEZHhSWHZZR2NoMTNHMjZRVXdfTmFBLWFzZ1lqVmdaeURnbVpLd0NEMVJCa2xGa2ZWWUhQRllJLVBzN1lmcGlWSVNOd3Y3NDB4bjZ0dXgxX0I3aDNqSEdYRy1Bdk5hOHNvVkc3VmY2cUw5d1lPUFhKcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4e2fb6f184f7",
@@ -6587,46 +6621,6 @@
    "zh_summary": "特斯拉全系标配被动安全系统",
    "title_zh": "特斯拉发布事故视频又搞事情了！全系标配被动安全系统背后的门道 - 网通社",
    "sentiment": 0
-  },
-  {
-   "id": "cc9948abc459",
-   "title": "Automotive company responds to Tesla Roadster stunt by sharing video of its own flying car soaring over multiple Teslas - Supercar Blondie",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXVNVnRfNkwxWjhwRXItSmdBNGg2T1dmbzhPVmVJY204MUxkOUFyQWt2aEdHbTYtY0NPOTlOYktISnVjejZ4bDkwd3dhbTRzTzhsbnFhRHp1QzM2cnhzYnVwSEp5M2Vtc0kyM1p5Umllak1QTmt1d2lqVENJckx4dFNiZ3diU2s",
-   "source": "Supercar Blondie",
-   "published_at": "2026-10-26T10:22:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Supercar Blondie",
-     "published_at": "2026-10-26T10:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXVNVnRfNkwxWjhwRXItSmdBNGg2T1dmbzhPVmVJY204MUxkOUFyQWt2aEdHbTYtY0NPOTlOYktISnVjejZ4bDkwd3dhbTRzTzhsbnFhRHp1QzM2cnhzYnVwSEp5M2Vtc0kyM1p5Umllak1QTmt1d2lqVENJckx4dFNiZ3diU2s"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "车企以飞行汽车回应Roadster特技",
-   "title_zh": "车企发布飞行汽车视频回应特斯拉Roadster特技",
-   "sentiment": 0
-  },
-  {
-   "id": "9e80e6a65002",
-   "title": "产业观察｜马斯克公开支持SpaceX与特斯拉合并：3.5万亿美元超级协同背后的战略逻辑 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNkY3T2laT0dlR3lZTUY4bmpwY002Vjg5eDVZSnpVSy1MRHVkeU81RnVIWl9fdVk5c3Z2QmNDYVdDbHZ3UFZKNXZUaHM3UXZoMkczUXoxeXlJM1U",
-   "source": "网通社",
-   "published_at": "2026-10-26T10:13:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-26T10:13:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNkY3T2laT0dlR3lZTUY4bmpwY002Vjg5eDVZSnpVSy1MRHVkeU81RnVIWl9fdVk5c3Z2QmNDYVdDbHZ3UFZKNXZUaHM3UXZoMkczUXoxeXlJM1U"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克支持SpaceX与特斯拉合并",
-   "title_zh": "马斯克支持SpaceX与特斯拉合并",
-   "sentiment": 1
   }
  ]
 }
