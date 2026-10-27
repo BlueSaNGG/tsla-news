@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T23:37:47.159226+00:00",
+ "updated_at": "2026-10-27T23:52:31.381756+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（173条已评分）"
+     "note": "今日新闻情绪 +0.32（174条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-27T23:37:47.145425+00:00"
+   "as_of": "2026-10-27T23:52:31.371868+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 173
+   "avg": 0.32,
+   "count": 174
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d3fccc5c6a01",
+   "title": "Judge recuses from Tesla lawsuit, new judge named - The Arkansas Democrat-Gazette",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0VzZ2NuQ3JUWEE3dlZ1cVNZS05LajNIblJCdU94VUxESENsRTM5OVpmN0tDLVo1cndONzExQXlFNmNFNUdJSlpzdlk3VmhDVHdaZDlHOFV5MjRkMVNfOUJUdG1IMkp5aHNOcktETGExLUJma1R3YUdsdm5XX3cyRkxZaVc4a3dEeEJpSGJtS2M2XzdFRHhzeTQ2RExidw",
+   "source": "The Arkansas Democrat-Gazette",
+   "published_at": "2026-10-27T23:35:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Arkansas Democrat-Gazette",
+     "published_at": "2026-10-27T23:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0VzZ2NuQ3JUWEE3dlZ1cVNZS05LajNIblJCdU94VUxESENsRTM5OVpmN0tDLVo1cndONzExQXlFNmNFNUdJSlpzdlk3VmhDVHdaZDlHOFV5MjRkMVNfOUJUdG1IMkp5aHNOcktETGExLUJma1R3YUdsdm5XX3cyRkxZaVc4a3dEeEJpSGJtS2M2XzdFRHhzeTQ2RExidw"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
   {
    "id": "bd9afa9f716d",
    "title": "美股半导体、存储芯片大涨，费城半导体指数涨近400点，西部数据涨近7%，AMD涨超5%，特斯拉市值一夜涨超4600亿元 - 同花顺财经",
@@ -176,6 +193,23 @@
    "zh_summary": "特斯拉股价重返400美元上方",
    "title_zh": "特斯拉股价重返400美元上方，市场反应积极",
    "sentiment": 1
+  },
+  {
+   "id": "a542edc46768",
+   "title": "Tesla Cybercabs now outnumber Model Ys in Texas Robotaxi fleet - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVhfQWI4QV9JTFNjblNRNUxqVndMQWFSOE9IMWh1d2liLUQ5bVF6dVIzdUlJQ0NURDlqaTRMTkhSNWNwc3VaX0tYN29saGlZLUlhQWJ4TnhLeVFsZlF0SUhGUm13eDFXSEJqZHhMdXIza3lXa2JUN0Fualoxc2NKZk9acWVQSTVtQmlQRkxSdWJOQQ",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-27T22:04:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-27T22:04:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVhfQWI4QV9JTFNjblNRNUxqVndMQWFSOE9IMWh1d2liLUQ5bVF6dVIzdUlJQ0NURDlqaTRMTkhSNWNwc3VaX0tYN29saGlZLUlhQWJ4TnhLeVFsZlF0SUhGUm13eDFXSEJqZHhMdXIza3lXa2JUN0Fualoxc2NKZk9acWVQSTVtQmlQRkxSdWJOQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "0a09faaae87a",
@@ -638,6 +672,40 @@
    "sentiment": 0
   },
   {
+   "id": "0f6c7b9cc096",
+   "title": "Cybercab Surpasses Model Y as Tesla’s Texas Robotaxi Fleet Hits 1,051 - TeslaNorth.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xb3ZyMTRjbVl3Q1RGbU53WlpnZlFoVjN1MjZ5Ml93b3FqT3hYZTlYbkRWR2JPLWg4U25rLTA5WC02TDExdV84Mm5feEVnWEYwWkhoNlhlcTQzMUFwQzZHdEtPUkxWLUxLSS1lN181YzNJLTRBX1NwSUpYTDUtdUU",
+   "source": "TeslaNorth.com",
+   "published_at": "2026-10-27T19:10:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TeslaNorth.com",
+     "published_at": "2026-10-27T19:10:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xb3ZyMTRjbVl3Q1RGbU53WlpnZlFoVjN1MjZ5Ml93b3FqT3hYZTlYbkRWR2JPLWg4U25rLTA5WC02TDExdV84Mm5feEVnWEYwWkhoNlhlcTQzMUFwQzZHdEtPUkxWLUxLSS1lN181YzNJLTRBX1NwSUpYTDUtdUU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "f625a0a03799",
+   "title": "2028 Tesla Roadster Concept Ditches Rocket Thrusters For Mustang V8s - HotCars",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LSGk3X2xRalpfMHc2elZrWEFZOWE1cDRNeXpSQjlIaTVFemhLTXQyT25BdkkxYXFkRTFxemJxczBSUDVUWldyYWI2Z1RBTmhSbncwWFNjd29STVhmTnVJ",
+   "source": "HotCars",
+   "published_at": "2026-10-27T19:00:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotCars",
+     "published_at": "2026-10-27T19:00:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LSGk3X2xRalpfMHc2elZrWEFZOWE1cDRNeXpSQjlIaTVFemhLTXQyT25BdkkxYXFkRTFxemJxczBSUDVUWldyYWI2Z1RBTmhSbncwWFNjd29STVhmTnVJ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
    "id": "d4d58e0c6c9d",
    "title": "Tesla could make Texas site selection for $10B, 9,700-job solar plant in days - Austin American-Statesman",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWhpTVdjYWR4VkpDNXBBNlNDQUZqRWJTRnVoRDQtM2FKX2lUUVY1THBWT1FJeVpXS0JjV0l0c29iaXdsR1A2SW42c0ozM1dwT1RaLU5tb0JwY25BclpwZzU2Uklpbml1ZnItVEVaSURBb0ZnTVVjYVNfOFpKMy1lUmJWbXF0aWQ0",
@@ -828,6 +896,23 @@
    "sentiment": 1
   },
   {
+   "id": "e5c11d94ba7b",
+   "title": "RBC Capital Remains a Buy on Tesla (TSLA) - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDd2U1Q3TUVZSFEtc0pwVEVXa1Q5S1c0aWRMX0JNbDRjUkJjXzNoVkdXQ0h2Y0tJdzZmb0h6bjZNbzRjb0NWWWhKLTROUW85YXh4WjNpdXNiT3BmRjREMTF3U0ZrcWpOVGpWOVYtRlY0Mlg1T0pXdXRkRzBTbUJhREdjbFNMQVQyQzFORzVSMEUyVml2Zy12a3k0d3JmejhEXzJXWks2ZDM3SkdsZ1ZxelZZUVVJR0FMT2k5UC03NnRmQQ",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-27T17:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-27T17:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDd2U1Q3TUVZSFEtc0pwVEVXa1Q5S1c0aWRMX0JNbDRjUkJjXzNoVkdXQ0h2Y0tJdzZmb0h6bjZNbzRjb0NWWWhKLTROUW85YXh4WjNpdXNiT3BmRjREMTF3U0ZrcWpOVGpWOVYtRlY0Mlg1T0pXdXRkRzBTbUJhREdjbFNMQVQyQzFORzVSMEUyVml2Zy12a3k0d3JmejhEXzJXWks2ZDM3SkdsZ1ZxelZZUVVJR0FMT2k5UC03NnRmQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "e23aa0f287e0",
    "title": "Homeowner wants Tesla Powerwalls in the garage, then learns fire code may decide for them - The Cool Down",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlExVHY5Zklyb2dtb2RDdG1tUXpablMwakc1LUpXdVlKMlhqUldZZDJYeW9EZF9hX1M0NHQwSGVQVzlMVlJKeDhOY2laMklUVXA5b0xuZHZSTFVHSjRQWjNueWVaZUYwREdmQ0ZEYkVpR01MZTNIVzEwTnJLVTNfNGkycEJQbmZMdmc",
@@ -911,6 +996,23 @@
    "zh_summary": "醉酒司机驾驶特斯拉撞人遭起诉",
    "title_zh": "醉酒兄弟会成员驾特斯拉撞伤女生联谊会成员，遭起诉",
    "sentiment": -1
+  },
+  {
+   "id": "c0574fcbf867",
+   "title": "Tesla Roadster Fan Creates a Free Ramp Jump and Flip Browser Game - TeslaNorth.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HMjNsUF80Y3lpeXpfQlZMWjd3d19XeGRjY2tJaHBZWUhBZk9SaU9PeXNjanRIbjBGVHg2Uk5QaWs0enUwYVRyeE5jWGtKLWZ4YlVPMlJNbFhWbWZTcUdZdlB5VF9YOGt4eDdrbnZQT0djdlphd1E",
+   "source": "TeslaNorth.com",
+   "published_at": "2026-10-27T16:58:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TeslaNorth.com",
+     "published_at": "2026-10-27T16:58:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HMjNsUF80Y3lpeXpfQlZMWjd3d19XeGRjY2tJaHBZWUhBZk9SaU9PeXNjanRIbjBGVHg2Uk5QaWs0enUwYVRyeE5jWGtKLWZ4YlVPMlJNbFhWbWZTcUdZdlB5VF9YOGt4eDdrbnZQT0djdlphd1E"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "8cc09b31753d",
@@ -1206,6 +1308,23 @@
    "zh_summary": "特斯拉在加州开始生产人形机器人",
    "title_zh": "特斯拉在加州开始生产人形机器人",
    "sentiment": 1
+  },
+  {
+   "id": "075d3a19c901",
+   "title": "Tesla FSD Hits 6 Million Miles Per Crash, Leaving US Drivers Behind - TeslaNorth.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkRuZXFnYzFyb09DUVV5b1dXN2FHb2M3YVB1Mm0xejFnUm9QdVpjdktCYkxsZktFTU4tYXNUY3E4THhfNU5jZnVsTFk2VDZmajlTRGVrNmZqWlpSTldCbTV4c2lSTlZVM3NPcmxfTFR2OVBJVFpETjc0THZSaDlWRA",
+   "source": "TeslaNorth.com",
+   "published_at": "2026-10-27T15:44:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TeslaNorth.com",
+     "published_at": "2026-10-27T15:44:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkRuZXFnYzFyb09DUVV5b1dXN2FHb2M3YVB1Mm0xejFnUm9QdVpjdktCYkxsZktFTU4tYXNUY3E4THhfNU5jZnVsTFk2VDZmajlTRGVrNmZqWlpSTldCbTV4c2lSTlZVM3NPcmxfTFR2OVBJVFpETjc0THZSaDlWRA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "069e3859fe41",
@@ -5920,6 +6039,29 @@
    "sentiment": 1
   },
   {
+   "id": "4b3abe686309",
+   "title": "TSLA Breaks Above Resistance as Barclays Upgrades Tesla Stock and Delivery Growth Supports Bullish Outlook - FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTURhejhIQ2VKME5qbWNmTUJzWlhMSnpUVWNRdWlHOFlxeGZmQk5LMXRZSk40eE1ZLWIteExPR1RLQUxCaC02Ymx5X1llWlJQbFFaVWE2NU85NksydHRvMXlWSndhWXBXb3p0TnJFdUEzZkdBVl9tWXppbnQzTFdrYmxEWk1Ka2lpRXgySXdiY2hDbEFwX0Z5ZUQxcmMxYVg1TWxmeGx6WDVYenJSMU5TTXluZkpDaHdVSDJ0Zmh6WFRxdjVGN3lsUkxGYllrRFltMkU1Tzk1NW96LTVmWW8xWHlNTQ",
+   "source": "FXLeaders",
+   "published_at": "2026-10-26T21:34:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FXLeaders",
+     "published_at": "2026-10-26T21:34:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTURhejhIQ2VKME5qbWNmTUJzWlhMSnpUVWNRdWlHOFlxeGZmQk5LMXRZSk40eE1ZLWIteExPR1RLQUxCaC02Ymx5X1llWlJQbFFaVWE2NU85NksydHRvMXlWSndhWXBXb3p0TnJFdUEzZkdBVl9tWXppbnQzTFdrYmxEWk1Ka2lpRXgySXdiY2hDbEFwX0Z5ZUQxcmMxYVg1TWxmeGx6WDVYenJSMU5TTXluZkpDaHdVSDJ0Zmh6WFRxdjVGN3lsUkxGYllrRFltMkU1Tzk1NW96LTVmWW8xWHlNTQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后",
+   "analyst": {
+    "firm": "Barclays",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
+  },
+  {
    "id": "b7358066cfa1",
    "title": "Call of the Day: Barclay's upgrades Tesla - CNBC",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWS1rY1VCd1RvRzM5YjByMlhFbHpnb1FpM2xTUktrSzZOS3dUbEd0UXhoN1ltNk5sME85Q0VrRUhraVFLbXVKUlFBcGJKcDZab1FWNzlOQ0VzcjB2TFJ5alcxTjVEQWhCYnM3QTFzSnl1bWFlb1RjeEZBZkg3M3JSYjFhaEJFVm5uUnc",
@@ -6408,190 +6550,6 @@
    "zh_summary": "Munro解析Cybercab线控制动与热泵",
    "title_zh": "Munro揭秘Cybercab无箱式制造、线控制动与第三代热泵",
    "sentiment": 1
-  },
-  {
-   "id": "2b137a481c1a",
-   "title": "Tesla (NASDAQ:TSLA) Stock Surges 6% as Barclays Raises Target to US$450 on SpaceX Merger Hopes - Stocks Down Under",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0xyakhOM3hUbThEcldBT3U5T2hPdWg0TFFzWDdKcGZyQ0hDX2lsT29JT0QyMndYbVMtanhEeTBJcjVfR2lPeGs3UjBvOHQtS2xiOXdGUGFxQlBibnR4SUhZRWpUMnBtU3Q0Yks1S2NWclJCZ2MzSVRDcW40ZGVKaw",
-   "source": "Stocks Down Under",
-   "published_at": "2026-10-26T19:56:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Stocks Down Under",
-     "published_at": "2026-10-26T19:56:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0xyakhOM3hUbThEcldBT3U5T2hPdWg0TFFzWDdKcGZyQ0hDX2lsT29JT0QyMndYbVMtanhEeTBJcjVfR2lPeGs3UjBvOHQtS2xiOXdGUGFxQlBibnR4SUhZRWpUMnBtU3Q0Yks1S2NWclJCZ2MzSVRDcW40ZGVKaw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T05:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlJTdXFLbDdVUHhZczBfcDFqaVUxS0J6b2V6anlBbG9TX3FtRVl0dUJFb25rVFZNSEdWeVV3UHZMUnVXLW54S25LeFhFeG01WFZYMkk3RURheDQ4dy1zX29xY2E5VzZWV0pkdVdQMndyM284N214MnkyT2dSOTJMMVctbERzRV9ybzNMQ2Nad3YwUlg5Q3luaUtn"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-27T07:26:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTUyTnNkT1VFUFFTc1FCYzh2U0d4b0h6ejZleXBCcWQ0a0F4V0ZqYmdiQjRJQlFyUjZMamFYTExtd2dZSHpyTmtOOU9BYXZDZ1oyaW8zSGx4eENhRk1DZVN6WXRXaFpIT0pVU3h5eHRtS3U4M0tLSGxYa0VBRG42YmUzc183ZUVnT1BGY0hIRGxYUW1FUEJUenZ3NFdnM2hfaDFsbFRn"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "巴克莱上调特斯拉目标价至450美元",
-   "title_zh": "特斯拉股价涨6%，巴克莱因SpaceX合并预期上调目标价至450美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 1.36,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "81d0dafeb74b",
-   "title": "Tesla's Full Self-Driving Business Is Growing Fast. But There's a Catch for Investors - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3c5QXFmV2ZjQzZrcGxJS0FaVm1WZ21QdE5zdVFKeTd2NVJmMTN6WTdBd3JSTXAzb0hxSGw5NEIxQnhCU0pQN3Q1UjRXaDZxZ252V2ZDUng4ZFdoa0YwZ2NMVU1nVGdRczNmLXZUOW15ZFFLYS1wYzVWVGEtc1B6NUtUQjRoTFNoblp0aElkS1VBRC1ockFrSU85YWhBQ2Z6bi03WjdINDJHTmtvN0trSlZNdlpXN25IUGRhR0E0ZVVwVmI0bWc",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-26T19:45:57+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-26T19:45:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3c5QXFmV2ZjQzZrcGxJS0FaVm1WZ21QdE5zdVFKeTd2NVJmMTN6WTdBd3JSTXAzb0hxSGw5NEIxQnhCU0pQN3Q1UjRXaDZxZ252V2ZDUng4ZFdoa0YwZ2NMVU1nVGdRczNmLXZUOW15ZFFLYS1wYzVWVGEtc1B6NUtUQjRoTFNoblp0aElkS1VBRC1ockFrSU85YWhBQ2Z6bi03WjdINDJHTmtvN0trSlZNdlpXN25IUGRhR0E0ZVVwVmI0bWc"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-26T19:59:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWkxwQzBaUjFEbS0wUWdzUUg1a0hCV09rVFJzV1RRV003TFQ2b0VsZEVuSG1KMncwclN4RnNKQnRhSDRSZWJ0Y2tCMml3ajBHMjZGX0ZjcGYwYnlGOWhsY3E2Q2cxdzQ5Z3lsU1ZYbC1tbDZBTjlselBLRTVtYm9OWFF4NA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉FSD业务快速增长但有隐忧",
-   "title_zh": "特斯拉全自动驾驶业务增长迅速，但投资者需注意一点",
-   "sentiment": 0
-  },
-  {
-   "id": "3fb010fd116c",
-   "title": "Tesla’s sell ratings hit an 11-year low as SpaceX merger hopes grow - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13OWFRcWR3dXQ5QUpETWlGWGVWTnIzS3ZTOUZQVnJjMzhCRlV4RFY2TEdmQXBWemRNZFItdi1tbGpfWXNoclVueURTVUg3SmJRNjZvRTdNMkJaYlNEV3ZBejBwVk5zQTNRUkl0ZmZzazZ5dl9fTEZraXVmcFA",
-   "source": "The Next Web",
-   "published_at": "2026-10-26T19:42:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-26T19:42:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13OWFRcWR3dXQ5QUpETWlGWGVWTnIzS3ZTOUZQVnJjMzhCRlV4RFY2TEdmQXBWemRNZFItdi1tbGpfWXNoclVueURTVUg3SmJRNjZvRTdNMkJaYlNEV3ZBejBwVk5zQTNRUkl0ZmZzazZ5dl9fTEZraXVmcFA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "SpaceX合并预期升温，特斯拉卖出评级11年新低",
-   "title_zh": "SpaceX合并预期升温，特斯拉卖出评级创11年新低",
-   "sentiment": 1
-  },
-  {
-   "id": "af818468ede0",
-   "title": "Tesla owners in Slovakia welcome assisted-drive tech as EU weighs rollout across bloc - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ",
-   "source": "Reuters",
-   "published_at": "2026-10-26T19:40:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-26T19:40:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "斯洛伐克车主欢迎特斯拉辅助驾驶技术",
-   "title_zh": "斯洛伐克特斯拉车主欢迎辅助驾驶技术，欧盟考虑全欧推广",
-   "sentiment": 1
-  },
-  {
-   "id": "05ce143985a4",
-   "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy14VmdHaWVFd2h2WXplVkdEclpldGdOelFkLVNCcjFOUVhxcE9NS0pjMXpQN2x4UVd2dkkxTnp5VFhUeTlLQUhlR2c5MV9qRW9fZ1JGOUlIekJTd1hNQUlZYkRzTlBlcFd4MGs5MDcwZVRMTFV0bThITUZzaTNiSVpOS2o3dGQ2bmotLXhaNFJ4U0VtdFFPYTFiWQ",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-26T19:24:29+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-26T19:24:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNy14VmdHaWVFd2h2WXplVkdEclpldGdOelFkLVNCcjFOUVhxcE9NS0pjMXpQN2x4UVd2dkkxTnp5VFhUeTlLQUhlR2c5MV9qRW9fZ1JGOUlIekJTd1hNQUlZYkRzTlBlcFd4MGs5MDcwZVRMTFV0bThITUZzaTNiSVpOS2o3dGQ2bmotLXhaNFJ4U0VtdFFPYTFiWQ"
-    },
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-26T19:27:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RnhvZGJhN3ZTX0FaNktHU3YzaHlCOGNRQWJkaEptTUZNVGR1bzVubHAtN1BCNGtWU3Raa0k2Zk8teW1EVWhrZ0N0NmF3aGFadFBROXZWU0tzc2tDZm1zSVVDZElhbVU"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉与Turo合作推广FSD体验",
-   "title_zh": "特斯拉与Turo推出让用户体验FSD的新方式",
-   "sentiment": 1
-  },
-  {
-   "id": "968595ac6748",
-   "title": "Tesla’s implied price without the SpaceX deal: roughly $355–$372 - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUstSFRCYktlMlhySk83M284N3c3SGxvUXZOTkV1UXB6OUJYNW5QNnBCUWdrcUNXNUlzSWRrRTVYR1RwVHNMR1BOYWd1amlpTWt4WlZCdFZoWlVmWVJFM2s2OU5xbVMxbEVaa3AtTURJcUlYenZMSFMtdHRUcUE1VWplb1ZwNHF5a3cxQUZpN1hSTFdBQllRVTJLVjREMnEtVURJSkJDUXY0NVo4V0hWQzY1UXYtOW1WbU5YbEVn",
-   "source": "Investing.com",
-   "published_at": "2026-10-26T19:23:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-26T19:23:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUstSFRCYktlMlhySk83M284N3c3SGxvUXZOTkV1UXB6OUJYNW5QNnBCUWdrcUNXNUlzSWRrRTVYR1RwVHNMR1BOYWd1amlpTWt4WlZCdFZoWlVmWVJFM2s2OU5xbVMxbEVaa3AtTURJcUlYenZMSFMtdHRUcUE1VWplb1ZwNHF5a3cxQUZpN1hSTFdBQllRVTJLVjREMnEtVURJSkJDUXY0NVo4V0hWQzY1UXYtOW1WbU5YbEVn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "剔除SpaceX交易特斯拉隐含价$355-$372",
-   "title_zh": "若无SpaceX交易，特斯拉隐含股价约$355-$372",
-   "sentiment": 0
-  },
-  {
-   "id": "807be64643a3",
-   "title": "Tesla Confirms New Cybercab Inverter Technology is Coming to Model 3 - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjVRQm9fZ2hhWUJoYUZmbVBoUkhYSWlzYVVCMmliaXJobnBvR0lqVU1GRUVhOWlnU0V4b01QWVBFdE9acWhneENQcU1SbzBndEdNdVk0ZlY3b2RnNEdlYVdWaldQVEZkU3Zxd3hjM0h0SnV2bGFaaTRtVFJzWFBGcVZaaVFCcjByY293aw",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-26T19:12:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-26T19:12:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjVRQm9fZ2hhWUJoYUZmbVBoUkhYSWlzYVVCMmliaXJobnBvR0lqVU1GRUVhOWlnU0V4b01QWVBFdE9acWhneENQcU1SbzBndEdNdVk0ZlY3b2RnNEdlYVdWaldQVEZkU3Zxd3hjM0h0SnV2bGFaaTRtVFJzWFBGcVZaaVFCcjByY293aw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Cybercab逆变器技术将用于Model 3",
-   "title_zh": "特斯拉确认Cybercab新型逆变器技术将应用于Model 3",
-   "sentiment": 1
-  },
-  {
-   "id": "60cd2ef8cfb5",
-   "title": "This Bearish Spread Will Pay Off If Tesla Stock Trends Lower - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTGpZc1RHV2Fjcjd4TlJQT0NlVUNKRHVDVHNzejYzUE1rU0FPY3pTTG9HMnYzTl9JSXgySEVZS243ZzdQcnAwa05oNG0xSUhxRHlWcXYtLVBPOF9FajdTWlRtSFAwMEZ2Ym5Rclg5YkJPX1U",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-26T19:12:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-26T19:12:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTGpZc1RHV2Fjcjd4TlJQT0NlVUNKRHVDVHNzejYzUE1rU0FPY3pTTG9HMnYzTl9JSXgySEVZS243ZzdQcnAwa05oNG0xSUhxRHlWcXYtLVBPOF9FajdTWlRtSFAwMEZ2Ym5Rclg5YkJPX1U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "看跌价差押注特斯拉走低",
-   "title_zh": "看跌价差若特斯拉走低将获利",
-   "sentiment": 0
   }
  ]
 }
