@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T15:52:27.834010+00:00",
+ "updated_at": "2026-10-27T16:07:29.693446+00:00",
  "market": {
-  "price": 406.63,
-  "change_pct": 3.83,
+  "price": 406.03,
+  "change_pct": 3.68,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.6%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（110条已评分）"
+     "note": "今日新闻情绪 +0.31（114条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.63 vs 20日均线 $374.27"
+     "note": "现价 $406.03 vs 20日均线 $374.22"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.6,
-   "ma20": 374.27,
-   "as_of": "2026-10-27T15:52:27.827162+00:00"
+   "implied_upside_pct": -1.5,
+   "ma20": 374.22,
+   "as_of": "2026-10-27T16:07:29.685931+00:00"
   },
-  "pe_ttm": 112.5,
+  "pe_ttm": 112.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 110
+   "avg": 0.31,
+   "count": 114
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8af455d20a32",
+   "title": "Tesla ‘Full Self-Driving’ crashes pile up in California - Land Line Media",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHp1MFpYdExWTFFEVi02VHhubmlYSk53UFczZmtLMHpzNjRkbUJpYkoyQ2tIbWVISEx0a2g2ZkY4VzB4V05LQ3E1bkRobGhNSWRlVkxySXRxMnROckJwcEJxd0pkQ2F5c1hrdHdXS2Fqa3QteER6OHRIY2RUUEx2NGpkYw",
+   "source": "Land Line Media",
+   "published_at": "2026-10-27T16:01:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Land Line Media",
+     "published_at": "2026-10-27T16:01:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHp1MFpYdExWTFFEVi02VHhubmlYSk53UFczZmtLMHpzNjRkbUJpYkoyQ2tIbWVISEx0a2g2ZkY4VzB4V05LQ3E1bkRobGhNSWRlVkxySXRxMnROckJwcEJxd0pkQ2F5c1hrdHdXS2Fqa3QteER6OHRIY2RUUEx2NGpkYw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "00ebf77629ed",
+   "title": "Tesla’s Latest FSD Safety Numbers Show Another Big Improvement - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTVDODF4MkloYUtDNEZDTEFxMGNlVkJkN1VfQnZzM3RRYklUNjZFMUVWclRlRmZVNGM4MC12RXVRQ1Rhd2p3RnU2ckN1U3QxUWczRG1HUTV4Y19EZlZFY1BsTkduLVl6YnVSWXRhVnNvV1pqVDhKWTM0RUpyMzFIRHJhVmtFTWFmOGhSQldMSXI3bW9F",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-27T15:49:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-27T15:49:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTVDODF4MkloYUtDNEZDTEFxMGNlVkJkN1VfQnZzM3RRYklUNjZFMUVWclRlRmZVNGM4MC12RXVRQ1Rhd2p3RnU2ckN1U3QxUWczRG1HUTV4Y19EZlZFY1BsTkduLVl6YnVSWXRhVnNvV1pqVDhKWTM0RUpyMzFIRHJhVmtFTWFmOGhSQldMSXI3bW9F"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "5eba727e9a92",
    "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices - Electrek",
@@ -160,6 +194,23 @@
    "zh_summary": "特斯拉Optimus将为Robotaxi充电",
    "title_zh": "特斯拉Optimus机器人将很快为Robotaxi充电",
    "sentiment": 1
+  },
+  {
+   "id": "e9f0a225619c",
+   "title": "Can Tesla’s Optimus Handle Last-Mile Delivery? The Hardware Reality Behind the Pitch - Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVYMGJ1bVI3WVQ0MGZoNkllc3MxdjBGYkM2Qlhyb29oaVc4MFhmSEl5SER3b3p0ZTdWUzZ0Z1gwSWthSGM3NEZfdDVITVgzZHRkTDM1TGtoZVpIVW5zcUZTOHFoUTE5c3NTU0tkUzZaVERWbnBEcGVxMm5qdS0wM3AyV19yU3pMTHFnLWllVnBRbmxPVjdr",
+   "source": "Yahoo Tech",
+   "published_at": "2026-10-27T15:22:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Tech",
+     "published_at": "2026-10-27T15:22:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOFVYMGJ1bVI3WVQ0MGZoNkllc3MxdjBGYkM2Qlhyb29oaVc4MFhmSEl5SER3b3p0ZTdWUzZ0Z1gwSWthSGM3NEZfdDVITVgzZHRkTDM1TGtoZVpIVW5zcUZTOHFoUTE5c3NTU0tkUzZaVERWbnBEcGVxMm5qdS0wM3AyV19yU3pMTHFnLWllVnBRbmxPVjdr"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "b42104de9d47",
@@ -711,12 +762,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SXR0V1RwYS1ObURORGd0b096X3lVczd0TU5DMWdhNWUyQ1pQOFVoZUtHMG5rVFJIYlJfYkFMQktMSG5lMk94Xzk2aG85OVA1MVZ1NjlUR2c",
    "source": "驱动之家",
    "published_at": "2026-10-27T13:41:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-27T13:41:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SXR0V1RwYS1ObURORGd0b096X3lVczd0TU5DMWdhNWUyQ1pQOFVoZUtHMG5rVFJIYlJfYkFMQktMSG5lMk94Xzk2aG85OVA1MVZ1NjlUR2c"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-27T15:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IX1NpRFlRTWhhbmlUdmtjUTZYVFJOVXRUcnlVczhUekVDUHdwTllJSUFKS3l3V3JwVGs2NFhjV1NyMEtJN05MMXNSVlpUbGJNWDlCNGdvdWNxeEFCWUctdXY3cw"
     }
    ],
    "category": "其他",
@@ -6223,6 +6279,23 @@
    "sentiment": 1
   },
   {
+   "id": "30f18f433ad1",
+   "title": "Tesla expands Robotaxi geofence in Houston with an ode to SpaceX merger - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMUI3Tl9mbkJUUVlOVmNoR2dVRUpQOGh0V1hHZkxHbmcwdlZhN1ktT1k4WEVLN2FSWUQ1RGo3UURFN2txQ0laYkZWS0RrTkJNc3pvbHotLWZnd3AwWlBySWM0WUtQRF9DcHlTQ1B2TGs4SkNLYU1sa240cXF2UQ",
+   "source": "Teslarati",
+   "published_at": "2026-10-26T15:43:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-26T15:43:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMUI3Tl9mbkJUUVlOVmNoR2dVRUpQOGh0V1hHZkxHbmcwdlZhN1ktT1k4WEVLN2FSWUQ1RGo3UURFN2txQ0laYkZWS0RrTkJNc3pvbHotLWZnd3AwWlBySWM0WUtQRF9DcHlTQ1B2TGs4SkNLYU1sa240cXF2UQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "ca2e519c7e47",
    "title": "Tesla Turo FSD Rentals Launch Oct. 28 [2026] - https://tech-insider.org/",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84cDBOREtiU0xud1hBNVFJVEdybHlMdTZuZHJMMnQzR2tLeF9xTVFDUExWU0IzdlBxQ3dNY1MzamczcjRuOW9iN1l0aW1EMDB4dEJzOE1NMlp3NUlZTXhVSkpfN2ktcGZBTHJjUEZhVlBDVDJKa0U2VDhzQQ",
@@ -6497,86 +6570,6 @@
    "zh_summary": "特斯拉奥斯汀启动Cybercab部署",
    "title_zh": "特斯拉在奥斯汀启动Cybercab小规模部署",
    "sentiment": 1
-  },
-  {
-   "id": "2d680a40adaa",
-   "title": "Tesla stock jumps as Barclays bets a SpaceX takeout bump is coming - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEpBd09PLWJZTDAtQUNhVWpsSDA1MFl1ZzAxbkNPQ2RnOGxzMnlVV3RONDFqMTRhUkJsakI4WmdwOUVWVG92TkZPeGZYdm9pMFpwX3VCd2JCWk5fV0ZHY1RVSGo4SkNEb2RDdGNEOHZrT3RKMEExNlRQSTh4czRQUmxsQ0RzQUM3REZkM0JMNU93ajFXeks2X0x6MFFTaUpyZkJ2MmJ4OXJrRXRnR19GRXp4ZUhiV0gzSHZCSVphaFpuQVJHTi1BLXR3",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T15:21:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T15:21:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaEpBd09PLWJZTDAtQUNhVWpsSDA1MFl1ZzAxbkNPQ2RnOGxzMnlVV3RONDFqMTRhUkJsakI4WmdwOUVWVG92TkZPeGZYdm9pMFpwX3VCd2JCWk5fV0ZHY1RVSGo4SkNEb2RDdGNEOHZrT3RKMEExNlRQSTh4czRQUmxsQ0RzQUM3REZkM0JMNU93ajFXeks2X0x6MFFTaUpyZkJ2MmJ4OXJrRXRnR19GRXp4ZUhiV0gzSHZCSVphaFpuQVJHTi1BLXR3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "巴克莱押注SpaceX交易推高特斯拉股价",
-   "title_zh": "巴克莱押注SpaceX收购提振，特斯拉股价上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "b9d2d2dc8aa0",
-   "title": "Tesla Stock (TSLA) Motors as Americans Queue Up to Rent Full Self Driving Cars - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWhwR3VJSVhRaWJmNmh4ZUFLZllURWpubFNiM3lOS3hELWRkb3prZzJnR1hOYkppWUlRUjdNeEprS3R2a2xKSkNOdkNOSFVhQUFpV1Z6V0tLd1pEazF1MGVTRHByQ09xZC1uUUQzQk1ROWpoZHhjeEUyMUhRdk5PM2xnUUp0R3Ezb2UzLWR0bk1fNkw1M0puZ3lBcTNaWlVtNmVrdy04dkFMdw",
-   "source": "TipRanks",
-   "published_at": "2026-10-26T15:18:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-26T15:18:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWhwR3VJSVhRaWJmNmh4ZUFLZllURWpubFNiM3lOS3hELWRkb3prZzJnR1hOYkppWUlRUjdNeEprS3R2a2xKSkNOdkNOSFVhQUFpV1Z6V0tLd1pEazF1MGVTRHByQ09xZC1uUUQzQk1ROWpoZHhjeEUyMUhRdk5PM2xnUUp0R3Ezb2UzLWR0bk1fNkw1M0puZ3lBcTNaWlVtNmVrdy04dkFMdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "美国人排队租用特斯拉全自动驾驶汽车",
-   "title_zh": "美国人排队租用FSD汽车，特斯拉股价走强",
-   "sentiment": 1
-  },
-  {
-   "id": "b48321b40e72",
-   "title": "【视频】派对惊现枪击事件，关键时刻特斯拉Cybertruck挺身而出 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jT1pTLTAyVTFKNWpuaXlkcndENkFzZWhFN1h4ZU1Ra3VvZE5WNWhibU9XaHY4ZVRhT24yTzFPUk40Vnl6Q2VVSGZUUnNpQklWZExzTzdVaW5tWmczUlY3SkYxb0Rpb2ZyOGdj",
-   "source": "汽车之家",
-   "published_at": "2026-10-26T15:16:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-26T15:16:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jT1pTLTAyVTFKNWpuaXlkcndENkFzZWhFN1h4ZU1Ra3VvZE5WNWhibU9XaHY4ZVRhT24yTzFPUk40Vnl6Q2VVSGZUUnNpQklWZExzTzdVaW5tWmczUlY3SkYxb0Rpb2ZyOGdj"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "派对枪击事件中Cybertruck挺身而出",
-   "title_zh": "派对惊现枪击事件，关键时刻特斯拉Cybertruck挺身而出",
-   "sentiment": 0
-  },
-  {
-   "id": "6761ed209e23",
-   "title": "Tesla Cancels Cybertruck Plans After Buyers Waited Nearly 7 Years - Autoblog",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDNQMHBuM21oMlA1NG55bGFxV3hZeHpyTEplbXNZN3hNdHctcWJwcjBqOWFPZXh1V0EzX2tnbWlSN21heFZNaE10aVRLc0tPbDNFWldodmFybm9UZmZUV2trYWVGMjJMSFEta05EWktDejlWQXQyQ0p2UWpQd25nR2NjQzlHM3k5eklTYnV0QVlLMjVHSDFTNks5UQ",
-   "source": "Autoblog",
-   "published_at": "2026-10-26T15:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Autoblog",
-     "published_at": "2026-10-26T15:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDNQMHBuM21oMlA1NG55bGFxV3hZeHpyTEplbXNZN3hNdHctcWJwcjBqOWFPZXh1V0EzX2tnbWlSN21heFZNaE10aVRLc0tPbDNFWldodmFybm9UZmZUV2trYWVGMjJMSFEta05EWktDejlWQXQyQ0p2UWpQd25nR2NjQzlHM3k5eklTYnV0QVlLMjVHSDFTNks5UQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉取消Cybertruck计划，买家等近七年",
-   "title_zh": "特斯拉取消Cybertruck计划，买家等待近七年",
-   "sentiment": -1
   }
  ]
 }
