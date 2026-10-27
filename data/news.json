@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T14:07:29.236527+00:00",
+ "updated_at": "2026-10-27T14:22:33.883345+00:00",
  "market": {
-  "price": 401.47,
-  "change_pct": 2.52,
+  "price": 401.58,
+  "change_pct": 2.54,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（75条已评分）"
+     "note": "今日新闻情绪 +0.26（80条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.47 vs 20日均线 $374.00"
+     "note": "现价 $401.58 vs 20日均线 $374.01"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 19,
    "implied_upside_pct": -0.4,
-   "ma20": 374.0,
-   "as_of": "2026-10-27T14:07:29.230564+00:00"
+   "ma20": 374.01,
+   "as_of": "2026-10-27T14:22:33.876131+00:00"
   },
-  "pe_ttm": 111.0,
+  "pe_ttm": 111.1,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 75
+   "avg": 0.26,
+   "count": 80
   }
  },
  "meta": {
@@ -186,6 +186,23 @@
    "zh_summary": "韩国80名车主破解FSD被移送检方",
    "title_zh": "韩国80名车主低价破解FSD被移送检方",
    "sentiment": -1
+  },
+  {
+   "id": "2a9f07ebc40f",
+   "title": "韩国首尔警察厅将80名涉嫌非法激活特斯拉FSD的车主移送检方 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LZll2WUk4eG85WHp4SnR5WmhXcC1zVUhfbnpYLU1NRnBiYzhlMHUxLWFUNzN1R3lZbUJYenN2b21QYkJPa05Bc040SUMyV2JTd3h4ZEZZYUVmdw",
+   "source": "网通社",
+   "published_at": "2026-10-27T13:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-27T13:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LZll2WUk4eG85WHp4SnR5WmhXcC1zVUhfbnpYLU1NRnBiYzhlMHUxLWFUNzN1R3lZbUJYenN2b21QYkJPa05Bc040SUMyV2JTd3h4ZEZZYUVmdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "170b2cc849b8",
@@ -861,6 +878,23 @@
    "zh_summary": "Cybercab产线仅25工位，机器人充电省钱",
    "title_zh": "特斯拉Cybercab产线仅25工位，机器人充电省几亿",
    "sentiment": 1
+  },
+  {
+   "id": "532db09d97f4",
+   "title": "特斯拉三季度业绩会提出Optimus对外交付预期在2027年底前后，弗里蒙特进入早期生产爬坡 - 虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZjUwU1RqenV6VkNSOG9uZUdFUmIzYXpnd1NVMEVtYmFCREl6LVJOdzBLcFh0ZTVnUVNqVG1NdE1rVDU4czZTMU5RdnRRb2x0N0U4Sg",
+   "source": "虎嗅",
+   "published_at": "2026-10-27T09:33:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅",
+     "published_at": "2026-10-27T09:33:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZjUwU1RqenV6VkNSOG9uZUdFUmIzYXpnd1NVMEVtYmFCREl6LVJOdzBLcFh0ZTVnUVNqVG1NdE1rVDU4czZTMU5RdnRRb2x0N0U4Sg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "a7f8318675be",
@@ -1917,7 +1951,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55Q1hscmtDRnVQN2FzU0dDRjRlODAtcUhfbTgzOXozLWlsekN6S2xZcHl2S0NKYWZoU1BZLWp2STNyTV9FV1JyblVPdmJNX01iME9XMFA3RlQ",
    "source": "驱动之家",
    "published_at": "2026-10-27T04:29:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -1933,10 +1967,16 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-27T04:29:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CMk1NMVdSUXRpN1RybXlwT2d4NzZXMlM5V0tQcVFfcnpBaXp5UnhpTVBHNkZMNGlvUGM2ZXF1aXhkSFNEd19lcGxoMHM"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-27T04:29:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4T1dmd1BRdlppcVh3VUVDbnJtZWJ3MGR5NFdKLVlXQXZDWkZBLUZwVFhaTlNEV013ZWFsa3NJZkxRaG8yMUdkYg"
     }
    ],
    "category": "其他",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "80岁老人FSD辅助驾驶5000公里",
    "title_zh": "80岁老人开特斯拉5000公里，4500公里靠FSD辅助驾驶",
    "sentiment": 1,
@@ -6555,57 +6595,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉FSD登陆Turo租车平台",
    "title_zh": "特斯拉FSD登陆Turo租车，车主获免费月试用",
-   "sentiment": 1
-  },
-  {
-   "id": "9282af1bff3f",
-   "title": "The Fake Tesla Roadster and Elon Musk's Web of Lies - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEhXaFkxM2N3Mmp0Rl9XcmUxRl9jWUxGN0RIMU9RSkMtVU5KT2FaRGNNQ2VqVmEzdGlfb2xldWRNX0UwOXJFUnc4RWpTSmNLUmFQNlRRN0lNcEx5R1VqNEtwV1NWb2lOWGtYaXRyMTJna3lPNEVYTC11NmFlTWdpNklfVXV6bUJVTndDMmNFVjFoLVJvMDNmQmJnc21DWHM",
-   "source": "autoevolution",
-   "published_at": "2026-10-26T13:59:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-26T13:59:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEhXaFkxM2N3Mmp0Rl9XcmUxRl9jWUxGN0RIMU9RSkMtVU5KT2FaRGNNQ2VqVmEzdGlfb2xldWRNX0UwOXJFUnc4RWpTSmNLUmFQNlRRN0lNcEx5R1VqNEtwV1NWb2lOWGtYaXRyMTJna3lPNEVYTC11NmFlTWdpNklfVXV6bUJVTndDMmNFVjFoLVJvMDNmQmJnc21DWHM"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "曝特斯拉Roadster造假与马斯克谎言",
-   "title_zh": "假特斯拉Roadster与马斯克的谎言网",
-   "sentiment": -1
-  },
-  {
-   "id": "db54e2dd48f8",
-   "title": "Tesla Rises 6% as Barclays Upgrade Cites SpaceX Merger Potential; Lucid Drops 4%, Rivian Slips - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEhVSHJmamJuRnlQN1Y4S19kcmU3M3lXTkhmRnpOWkMxNEFlSHZMU2VlYUdBU25EdzhWN3JqQmMxUHRoTDNSV3huaVYzenJDTkdFVGpHRThpY1lmeXZKYWFZYWNZVkZKTFpZVzNpRTdRanhNVlg3Mm5GRks1b1F4ejhJZVBvdDJ0eUJuM2xxRHRGVXdKblNaSTBkbw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T13:58:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T13:58:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEhVSHJmamJuRnlQN1Y4S19kcmU3M3lXTkhmRnpOWkMxNEFlSHZMU2VlYUdBU25EdzhWN3JqQmMxUHRoTDNSV3huaVYzenJDTkdFVGpHRThpY1lmeXZKYWFZYWNZVkZKTFpZVzNpRTdRanhNVlg3Mm5GRks1b1F4ejhJZVBvdDJ0eUJuM2xxRHRGVXdKblNaSTBkbw"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-26T14:02:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEpYWnJMM3kyenA2UjR0di1taHFzOWFocjZjVlRKdnFEOFllYXJIYmJFbzVaZHpZREFwQ0xhcjJFV0FvQy1kS2ZTM3VQM0JLVXVqc0dHbm94Tm5kWEpEMDEzYWhjTENGT2IyWGVDbWhFYy0zdmdnczVDSlU4dHZ4Z0xJb1ZTMjZBT1p4Ym9Vd3FDZ2EzaFZqNkxCVUp2bXAwMjRtRlRFUmdGS3Y4S2x2enFvVzNSbW5wLW1XVTF5MTF0TUNpREZOZW1NNkpyX2M"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调特斯拉，股价涨6%",
-   "title_zh": "巴克莱上调特斯拉，股价涨6%，因SpaceX合并预期",
    "sentiment": 1
   }
  ]
