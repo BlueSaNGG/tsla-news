@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T14:37:26.985425+00:00",
+ "updated_at": "2026-10-28T14:52:33.546708+00:00",
  "market": {
-  "price": 399.24,
-  "change_pct": -2.02,
+  "price": 400.58,
+  "change_pct": -1.69,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.02（98条已评分）"
+     "note": "今日新闻情绪 +0.04（102条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $399.24 vs 20日均线 $376.53"
+     "note": "现价 $400.58 vs 20日均线 $376.60"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.2,
-   "ma20": 376.53,
-   "as_of": "2026-10-28T14:37:26.980264+00:00"
+   "implied_upside_pct": -0.1,
+   "ma20": 376.6,
+   "as_of": "2026-10-28T14:52:33.539501+00:00"
   },
-  "pe_ttm": 110.4,
+  "pe_ttm": 110.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.02,
-   "count": 98
+   "avg": 0.04,
+   "count": 102
   }
  },
  "meta": {
@@ -68,16 +68,33 @@
  },
  "stories": [
   {
+   "id": "5f0556a9c945",
+   "title": "16-year-old dies after electric scooter struck by Tesla in Bridgewater - Central New Jersey News",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWM0aGUyTGdEcXpDRTlDelBLLTNfSnVhb2xYYzNVRVczTzZwam43dERGYWxROUhBUk5SRlZfVlFaeDBtc2t4Q09HZ1h5ekhwWUVZMnJIMGFGSnE2QlVhRHdYdDFMS0VOdVNMdm1GOGtZdFRSRHpmdm1vczFRekZYNWRPZHd1RDlXNDEzaUFUa0JicU5EX0ltT21vSWQ5UlBlN2JMbnNJX0V6eDZrWlFTTGYwSVR6UFpnWmNUbUhoRzJKbUFSaTRwdk9Xam8tenBxREpj",
+   "source": "Central New Jersey News",
+   "published_at": "2026-10-28T14:47:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Central New Jersey News",
+     "published_at": "2026-10-28T14:47:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWM0aGUyTGdEcXpDRTlDelBLLTNfSnVhb2xYYzNVRVczTzZwam43dERGYWxROUhBUk5SRlZfVlFaeDBtc2t4Q09HZ1h5ekhwWUVZMnJIMGFGSnE2QlVhRHdYdDFMS0VOdVNMdm1GOGtZdFRSRHpmdm1vczFRekZYNWRPZHd1RDlXNDEzaUFUa0JicU5EX0ltT21vSWQ5UlBlN2JMbnNJX0V6eDZrWlFTTGYwSVR6UFpnWmNUbUhoRzJKbUFSaTRwdk9Xam8tenBxREpj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "55ea12b56680",
    "title": "Is Tesla's Narrative Shifting? Why the Stock Deserves a Second Look - Zacks Investment Research",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazJRR25PR2F6OE1TZlBVMVBDTmFvSVBqbzNFcFljUmgyb1Jmaml0MWIycXpxZlBKQTZicjdMNTdTZzMxdW5TNkwxTlNLYlNyUnpzaTR3WFNKeUhDSFltUW5sdVNCLVhnUHp2eGNncVlWZ3VVeWlrblJZYS1GUEU4ekpCM0hySENQTGw3c2xSWVpFb19zX3RweDgtSEEtZ21Cdkp1bW83d1ppUQ",
    "source": "Zacks Investment Research",
-   "published_at": "2026-10-28T14:31:27+00:00",
+   "published_at": "2026-10-28T14:31:25+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Zacks Investment Research",
-     "published_at": "2026-10-28T14:31:27+00:00",
+     "published_at": "2026-10-28T14:31:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazJRR25PR2F6OE1TZlBVMVBDTmFvSVBqbzNFcFljUmgyb1Jmaml0MWIycXpxZlBKQTZicjdMNTdTZzMxdW5TNkwxTlNLYlNyUnpzaTR3WFNKeUhDSFltUW5sdVNCLVhnUHp2eGNncVlWZ3VVeWlrblJZYS1GUEU4ekpCM0hySENQTGw3c2xSWVpFb19zX3RweDgtSEEtZ21Cdkp1bW83d1ppUQ"
     }
    ],
@@ -251,6 +268,23 @@
    "zh_summary": "2027款Model Y L舒适性佳但家用不足",
    "title_zh": "实测2027款Model Y L：舒适性出色但不够家用",
    "sentiment": 0
+  },
+  {
+   "id": "3ba2e7eda7ba",
+   "title": "Tesla Model Y L: Owner shares quick observations and impressions - Team-BHP",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ",
+   "source": "Team-BHP",
+   "published_at": "2026-10-28T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Team-BHP",
+     "published_at": "2026-10-28T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "906e46bcfca0",
@@ -2345,12 +2379,17 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUlFBQUw3RDVzY2NJUFRmZDhzQUdLMGU1Y3NUZEl6eUFZb1B2eHhjZnBJWm84SmJ1SlZUMFRlYlJZWW5PMUJaamhhM0JPci1XU1FsSGhfc2s0LVBWWkVBSllQT3BuTm9KVk1IS1VpdGRKMkk",
    "source": "文学城",
    "published_at": "2026-10-28T03:53:12+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "文学城",
      "published_at": "2026-10-28T03:53:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUlFBQUw3RDVzY2NJUFRmZDhzQUdLMGU1Y3NUZEl6eUFZb1B2eHhjZnBJWm84SmJ1SlZUMFRlYlJZWW5PMUJaamhhM0JPci1XU1FsSGhfc2s0LVBWWkVBSllQT3BuTm9KVk1IS1VpdGRKMkk"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-28T14:45:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMi1TT0NtYnlTTGNhMDFhY3hQc3FfencwOWtBNHlpSkNfN09mcU9hNkhEdG9jOGhzTnZDR1hBLWtTYUVTLVJwdkhBZTZ6V3RBd0VYc3NzZ1I4ekJmZ2xVRnVYdVA2Nlh3U1NkVi1jc0xnUXpTNTZpYVBNQUZXQ3ktRU5n"
     }
    ],
    "category": "其他",
@@ -2559,26 +2598,6 @@
    "sentiment": -1
   },
   {
-   "id": "062f1e3e8be4",
-   "title": "特斯拉市值涨770亿，理小蔚毛利率跌至9.4% - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45WjVWRmtGTzhxUmdQR3RXdmZuWVAxakhRVU5iVV9kNnNmWkZNQXdodG9tVTZxZ05aZlVnN3lUU2RaSVpUc3hmcV9nV1UwMVJEWndrbDFMWXRPZEFOTWRWOENWMzV5TVNESjhF",
-   "source": "汽车之家",
-   "published_at": "2026-10-28T02:50:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T02:50:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45WjVWRmtGTzhxUmdQR3RXdmZuWVAxakhRVU5iVV9kNnNmWkZNQXdodG9tVTZxZ05aZlVnN3lUU2RaSVpUc3hmcV9nV1UwMVJEWndrbDFMWXRPZEFOTWRWOENWMzV5TVNESjhF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉市值涨770亿，理小蔚毛利率跌至9.4%",
-   "title_zh": "特斯拉市值涨770亿，理小蔚毛利率跌至9.4% - 汽车之家",
-   "sentiment": 1
-  },
-  {
    "id": "f05227e12f0c",
    "title": "特斯拉市值涨770亿理小蔚合计不足300亿 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oaXhHZG45S2xXTzltSUtPeF9MN1Q5VWJiYnlnRTFGWWhOd1czM2VVLU9INkwzdE5iQTd4S0pzYjBsMnFyaHE0d25CUjg5YWYyUkhOZVNzV0dmSGFOc0JnOW9XcU5xQkQ0XzhJ",
@@ -2596,6 +2615,26 @@
    "session": "盘后",
    "zh_summary": "特斯拉市值涨770亿，理小蔚合计不足300亿",
    "title_zh": "特斯拉市值涨770亿理小蔚合计不足300亿 - 汽车之家",
+   "sentiment": 1
+  },
+  {
+   "id": "062f1e3e8be4",
+   "title": "特斯拉市值涨770亿，理小蔚毛利率跌至9.4% - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb21GZjRwLU9MSDRpdS14QWlaQm4zQ0IzT3F2bVM2M3dRQTN4RHlpVGNicTA0R2tnR1J4a21IRkp1ZEVtWHh4VUJmMzl2ZGQ2OTQtejh3QzdXNDg",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T02:49:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T02:49:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qb21GZjRwLU9MSDRpdS14QWlaQm4zQ0IzT3F2bVM2M3dRQTN4RHlpVGNicTA0R2tnR1J4a21IRkp1ZEVtWHh4VUJmMzl2ZGQ2OTQtejh3QzdXNDg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉市值涨770亿，理小蔚毛利率跌至9.4%",
+   "title_zh": "特斯拉市值涨770亿，理小蔚毛利率跌至9.4% - 汽车之家",
    "sentiment": 1
   },
   {
@@ -6471,46 +6510,6 @@
    "session": "盘前",
    "zh_summary": "波士顿动力与特斯拉中国竞逐人形机器人",
    "title_zh": "波士顿动力能否跟上特斯拉与中国的人形机器人竞赛",
-   "sentiment": 0
-  },
-  {
-   "id": "9d3e235503ec",
-   "title": "特斯拉Cybercab产线曝光 25工位自动化近80% - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dm9LZkVLVmZwM2VtMGZ0VTVOLXotUkVLT1hsVWhyc2FOQjE4elJLbzUtTHhpRzJBUEhENlVMNUQtR08wOVZBbl96VTZBdktzbWFEYmhEQkNkbGs",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T09:30:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T09:30:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dm9LZkVLVmZwM2VtMGZ0VTVOLXotUkVLT1hsVWhyc2FOQjE4elJLbzUtTHhpRzJBUEhENlVMNUQtR08wOVZBbl96VTZBdktzbWFEYmhEQkNkbGs"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab产线曝光，25工位自动化近八成",
-   "title_zh": "特斯拉Cybercab产线曝光25工位自动化近80%",
-   "sentiment": 1
-  },
-  {
-   "id": "391f69df183a",
-   "title": "特斯拉CyberCab9月4日上市与Waymo无人车奥斯汀死锁 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IRGlEQ0o4OElKV2FsV3AzdUtoMXFTZ0tyRnBPc1VlRERsQ2dzSkVVYm55eTllbkV1MFU3d0pEUTk4MlU0SnprM3FlVVdiWndsTUtfRVlLXzhJeU0",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T09:29:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T09:29:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IRGlEQ0o4OElKV2FsV3AzdUtoMXFTZ0tyRnBPc1VlRERsQ2dzSkVVYm55eTllbkV1MFU3d0pEUTk4MlU0SnprM3FlVVdiWndsTUtfRVlLXzhJeU0"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "CyberCab9月4日上市与Waymo奥斯汀僵持",
-   "title_zh": "特斯拉CyberCab9月4日上市与Waymo无人车奥斯汀死锁",
    "sentiment": 0
   }
  ]
