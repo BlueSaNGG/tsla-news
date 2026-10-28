@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T06:37:30.721190+00:00",
+ "updated_at": "2026-10-28T06:52:40.479378+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.20（10条已评分）"
+     "note": "今日新闻情绪 -0.07（14条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T06:37:30.715305+00:00"
+   "as_of": "2026-10-28T06:52:40.468791+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.2,
-   "count": 10
+   "avg": -0.07,
+   "count": 14
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "de97469c0080",
+   "title": "特斯拉车主手册更新FSD计算机名称 命名规则调整暗示未来方向 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nX2xxRXo2eTRZUUYyNndUU0d1LTZ0U2lDRmIxSUNOYURQczVtUlFVZjdMcHBaMU1pM01KSm91Qkc5U1pkeHdCcHRUb0pocDRRTmZnS2lQTm5ZMkhUczJVZ0paSlc4LVlRMW9hQTVn",
+   "source": "中华网",
+   "published_at": "2026-10-28T06:42:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T06:42:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nX2xxRXo2eTRZUUYyNndUU0d1LTZ0U2lDRmIxSUNOYURQczVtUlFVZjdMcHBaMU1pM01KSm91Qkc5U1pkeHdCcHRUb0pocDRRTmZnS2lQTm5ZMkhUczJVZ0paSlc4LVlRMW9hQTVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "e5237637f64b",
    "title": "Tesla-SpaceX Merger: Investor Floats $500 Sweetener [2026] - shattered.io",
@@ -106,6 +123,23 @@
    "zh_summary": "新Roadster配备5500PSI推力表",
    "title_zh": "新款特斯拉Roadster将配备5500PSI推力表",
    "sentiment": 0
+  },
+  {
+   "id": "79f18cea90c9",
+   "title": "专家：SpaceX收购特斯拉是一次“扶贫” - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblJSNXY2Wllrb0lCb1lGek96QVNjR2daWUZNWEpMY2dsVVh0ckZLTG5mb05kYjloWm5UQ0Y2QVp4dXZWeExhR3lQbHliZVh4aGs4Z3hHSy1LcGUyNnBXZU9oTkJOdEZwQi04VW9ySGhnSThIWXF1enhza0dQaUdvcHdGOGVaQ0pKaG9EZQ",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T06:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T06:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblJSNXY2Wllrb0lCb1lGek96QVNjR2daWUZNWEpMY2dsVVh0ckZLTG5mb05kYjloWm5UQ0Y2QVp4dXZWeExhR3lQbHliZVh4aGs4Z3hHSy1LcGUyNnBXZU9oTkJOdEZwQi04VW9ySGhnSThIWXF1enhza0dQaUdvcHdGOGVaQ0pKaG9EZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "860e2a8bf0be",
@@ -381,6 +415,23 @@
    "zh_summary": "特斯拉半挂卡车起火致高速封闭",
    "title_zh": "特斯拉半挂卡车在海沃德I-880起火致全线封闭",
    "sentiment": -1
+  },
+  {
+   "id": "1e06c589d1dd",
+   "title": "Tesla semi fire shuts down Southbound I-880 in Hayward, causing major delays - NBC Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHdIZVNyekljbXZiLTd4ZVFFSDZmcy1nMTlGLUhwN05mdi1KYTd1RDlyYkR5NmRpVzNEOF9vNzNKSFBiYjQ2dGN6Y256SC1EQkV5ckM1dEx0VnpaRmp2Qmdhek1yVVVUQUQyenJGbXVqMzNPY2FFWFRtLTVYR1FNdml5ak5DN0tFVG1j0gGTAUFVX3lxTE5qVnNhU0syTW9FOEZVVW1VRWg1MkppcHB2QWhxbkstcV9vZ01qeUVTd0RkVFoyalV4dnZhSW85YTkzdHBISnVWOV94ZVRuRjczZjNhMjFQU1FBQ0JkX1pwb1RNdlpJaUM2STlFSS1TeFpzRWI1dURSbktCU0hmX2EtaWhTSU51b19wNTdOTFdINVJRMA",
+   "source": "NBC Bay Area",
+   "published_at": "2026-10-28T04:36:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NBC Bay Area",
+     "published_at": "2026-10-28T04:36:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHdIZVNyekljbXZiLTd4ZVFFSDZmcy1nMTlGLUhwN05mdi1KYTd1RDlyYkR5NmRpVzNEOF9vNzNKSFBiYjQ2dGN6Y256SC1EQkV5ckM1dEx0VnpaRmp2Qmdhek1yVVVUQUQyenJGbXVqMzNPY2FFWFRtLTVYR1FNdml5ak5DN0tFVG1j0gGTAUFVX3lxTE5qVnNhU0syTW9FOEZVVW1VRWg1MkppcHB2QWhxbkstcV9vZ01qeUVTd0RkVFoyalV4dnZhSW85YTkzdHBISnVWOV94ZVRuRjczZjNhMjFQU1FBQ0JkX1pwb1RNdlpJaUM2STlFSS1TeFpzRWI1dURSbktCU0hmX2EtaWhTSU51b19wNTdOTFdINVJRMA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
   },
   {
    "id": "99f53d35889c",
@@ -6445,66 +6496,6 @@
    "session": "盘后",
    "zh_summary": "FSD商业化加速与Robotaxi试乘",
    "title_zh": "特斯拉FSD商业化加速与Robotaxi试乘提振汽车零部件",
-   "sentiment": 1
-  },
-  {
-   "id": "8528960b3ad8",
-   "title": "美联储10月加息概率仅10.5%，特斯拉大涨与半导体齐升 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHp0cWxxaHVLMGR4eXQyNmM2S25GdnJiOFVMbG9ReERaRE9LR1gxUFFWb1VhaTdJT294cllkbWE3c2Y0U3duSHd3Q0hmenB1RkFDMlhVdTZhYzJMNzBaMmRYYzV3dHE0a1dNZV9tTjUxNzFweEFLVXVrbTE1QnJTMjNvakVCRVB6NHlZeQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-27T02:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T02:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHp0cWxxaHVLMGR4eXQyNmM2S25GdnJiOFVMbG9ReERaRE9LR1gxUFFWb1VhaTdJT294cllkbWE3c2Y0U3duSHd3Q0hmenB1RkFDMlhVdTZhYzJMNzBaMmRYYzV3dHE0a1dNZV9tTjUxNzFweEFLVXVrbTE1QnJTMjNvakVCRVB6NHlZeQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "加息概率低，特斯拉与半导体齐升",
-   "title_zh": "美联储10月加息概率仅10.5%，特斯拉大涨与半导体齐升",
-   "sentiment": 1
-  },
-  {
-   "id": "c5a8fcda1d24",
-   "title": "美国产特斯拉Model 3长续航或重返加拿大 售价可能上涨 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXdPNF95NDlUMTl4ZzlabzVEdHB3NzdEczYxem1MMllIMkNSRVZ6YVM2RVhzbHpkRmU3MTh5UHY4V3ZEQkt6UU05Vm5xb3pNTDJhNlFyMTI5YWFORVZQSkZCV1RGZzFGX1dOWmI2aU42Q0VjaG16Z2ZqV2F6QUQ5N1d0clh6U3Zk",
-   "source": "搜狐网",
-   "published_at": "2026-10-27T02:08:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T02:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXdPNF95NDlUMTl4ZzlabzVEdHB3NzdEczYxem1MMllIMkNSRVZ6YVM2RVhzbHpkRmU3MTh5UHY4V3ZEQkt6UU05Vm5xb3pNTDJhNlFyMTI5YWFORVZQSkZCV1RGZzFGX1dOWmI2aU42Q0VjaG16Z2ZqV2F6QUQ5N1d0clh6U3Zk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "美国产Model 3长续航或重返加拿大",
-   "title_zh": "美国产特斯拉Model 3长续航或重返加拿大 售价可能上涨",
-   "sentiment": 0
-  },
-  {
-   "id": "0054c586fd44",
-   "title": "特斯拉FSD欧洲又下一城 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95bXVScHBvZXUtYmdvMzg0MFVXX1htbmJZTWVQQmFaMXQxMmxibDc0ZnNTUWhZM28tX01Od0czVVBXMTUteTJvMk8yMnZHQWItMU1RcHR4RUx6OW8",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T02:04:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T02:04:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95bXVScHBvZXUtYmdvMzg0MFVXX1htbmJZTWVQQmFaMXQxMmxibDc0ZnNTUWhZM28tX01Od0czVVBXMTUteTJvMk8yMnZHQWItMU1RcHR4RUx6OW8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉FSD在欧洲再获进展",
-   "title_zh": "特斯拉FSD欧洲又下一城 - 汽车之家",
    "sentiment": 1
   }
  ]
