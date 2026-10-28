@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-28T13:22:31.382499+00:00",
+ "updated_at": "2026-10-28T13:37:32.588668+00:00",
  "market": {
-  "price": 407.46,
-  "change_pct": 4.04,
-  "as_of": "2026-10-27",
+  "price": 406.16,
+  "change_pct": -0.32,
+  "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（89条已评分）"
+     "note": "今日新闻情绪 +0.04（91条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $407.46 vs 20日均线 $374.31"
+     "note": "现价 $406.16 vs 20日均线 $376.87"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.8,
-   "ma20": 374.31,
-   "as_of": "2026-10-28T13:22:31.364128+00:00"
+   "implied_upside_pct": -1.5,
+   "ma20": 376.87,
+   "as_of": "2026-10-28T13:37:32.580395+00:00"
   },
-  "pe_ttm": 112.7,
+  "pe_ttm": 112.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 89
+   "avg": 0.04,
+   "count": 91
   }
  },
  "meta": {
@@ -68,24 +68,21 @@
  },
  "stories": [
   {
-   "id": "1929dbaf4b66",
-   "title": "Tesla Just Reclaimed $400 as SpaceX Merger Hopes Build - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSlRvamNnQmlqUDZlLWZ1dWg4Y0JlOU4xTTFGekhYeW55UVBoTTVSQ3RoU0lxTDNQdDE5OW9UeDUySFJZa2s4NERWZTg5ZDFlMkdoV3o1X0RWNjVEU1JYYWpBYUdDX1BSY3VIc1ZGLWxUcTAwc2xKc2szSjJsYzYtOVNBNzVZVWh5WUtKaVNfSVR2bmF2UHFJU2lRQWZzZw",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-28T12:51:35+00:00",
+   "id": "906e46bcfca0",
+   "title": "Cat rescued from Tesla in Lewisville after family heard meowing beneath vehicle - WFAA",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0RmMzAzMTdjZXhLUXBwYy1RQzNUSk5qUExUcWNoczZRelJHUEc4YkV2T0pTRDEyUEdKSnpTS09jLUZLM0dJbGE1YkVwaExsQnFhaWg1U0FaR1hxRl9QOUx3LThSdV9BUFBqUUZoUm1naEdhSlJ2SmY0NEoxazNHVVJZTk5oODcxdUZSTGdLSkRTdlJkZzNHTTRlaVlUNjdHR1BpbWZFMVJndWU2RmlxRlJVMVBHd2pxU24tWmJFZmRES21pTFE",
+   "source": "WFAA",
+   "published_at": "2026-10-28T13:22:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-28T12:51:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSlRvamNnQmlqUDZlLWZ1dWg4Y0JlOU4xTTFGekhYeW55UVBoTTVSQ3RoU0lxTDNQdDE5OW9UeDUySFJZa2s4NERWZTg5ZDFlMkdoV3o1X0RWNjVEU1JYYWpBYUdDX1BSY3VIc1ZGLWxUcTAwc2xKc2szSjJsYzYtOVNBNzVZVWh5WUtKaVNfSVR2bmF2UHFJU2lRQWZzZw"
+     "name": "WFAA",
+     "published_at": "2026-10-28T13:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0RmMzAzMTdjZXhLUXBwYy1RQzNUSk5qUExUcWNoczZRelJHUEc4YkV2T0pTRDEyUEdKSnpTS09jLUZLM0dJbGE1YkVwaExsQnFhaWg1U0FaR1hxRl9QOUx3LThSdV9BUFBqUUZoUm1naEdhSlJ2SmY0NEoxazNHVVJZTk5oODcxdUZSTGdLSkRTdlJkZzNHTTRlaVlUNjdHR1BpbWZFMVJndWU2RmlxRlJVMVBHd2pxU24tWmJFZmRES21pTFE"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价重返400美元",
-   "title_zh": "特斯拉重返400美元，SpaceX合并预期升温",
-   "sentiment": 1
+   "session": "盘前"
   },
   {
    "id": "49fd66167dc6",
@@ -106,6 +103,31 @@
    "zh_summary": "特斯拉半挂卡车在湾区高速起火",
    "title_zh": "特斯拉半挂卡车在湾区I-880高速起火",
    "sentiment": -1
+  },
+  {
+   "id": "1929dbaf4b66",
+   "title": "Tesla Just Reclaimed $400 as SpaceX Merger Hopes Build - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenBsR3M3R1FPQ3hucGhUdUZpTFRzdHpuODJQOV9mN1BRZEg3bFpvTzNDdWFINEdpTTd1QUVXLUhjVUs4dE9LbEFFNFBXN3BmWjNBMDR4c3M2NDB6aWsxQVZnUF9BN185M0pzMHB0dVJiaWFKbnQtc1ExTFlCbmswZUdiQlMxTU55QkwzTEZjWEhhc0Y5RzZNZjJVS0M",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T12:48:32+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T12:48:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenBsR3M3R1FPQ3hucGhUdUZpTFRzdHpuODJQOV9mN1BRZEg3bFpvTzNDdWFINEdpTTd1QUVXLUhjVUs4dE9LbEFFNFBXN3BmWjNBMDR4c3M2NDB6aWsxQVZnUF9BN185M0pzMHB0dVJiaWFKbnQtc1ExTFlCbmswZUdiQlMxTU55QkwzTEZjWEhhc0Y5RzZNZjJVS0M"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-28T12:51:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSlRvamNnQmlqUDZlLWZ1dWg4Y0JlOU4xTTFGekhYeW55UVBoTTVSQ3RoU0lxTDNQdDE5OW9UeDUySFJZa2s4NERWZTg5ZDFlMkdoV3o1X0RWNjVEU1JYYWpBYUdDX1BSY3VIc1ZGLWxUcTAwc2xKc2szSjJsYzYtOVNBNzVZVWh5WUtKaVNfSVR2bmF2UHFJU2lRQWZzZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "特斯拉股价重返400美元",
+   "title_zh": "特斯拉重返400美元，SpaceX合并预期升温",
+   "sentiment": 1
   },
   {
    "id": "1f907db78e56",
@@ -771,6 +793,23 @@
    "zh_summary": "Turo通过API验证特斯拉FSD租赁",
    "title_zh": "Turo通过API验证特斯拉FSD租赁车辆",
    "sentiment": 1
+  },
+  {
+   "id": "2cfa51832234",
+   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
+   "source": "中华网",
+   "published_at": "2026-10-28T10:30:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T10:30:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "f157202f7b60",
@@ -1775,7 +1814,11 @@
    "session": "盘前",
    "zh_summary": "投资者称特斯拉SpaceX合并无需溢价",
    "title_zh": "投资者称特斯拉SpaceX合并无需溢价，$500或安抚股东",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cd92cbf2162e",
@@ -1995,7 +2038,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉半挂卡车起火致高速封闭",
    "title_zh": "特斯拉半挂卡车在海沃德I-880起火致全线封闭",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "1e06c589d1dd",
@@ -2235,7 +2282,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉10月领跑美股七巨头",
    "title_zh": "TSLA 10月领跑七巨头，但两只摩托股跑赢特斯拉",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "75f9ace55f5e",
@@ -2345,7 +2396,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉物理AI三件套分工：车、机器人、货车",
    "title_zh": "特斯拉“物理AI三件套”：Cybercab开车、Optimus干活",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "3dae4973e0a4",
@@ -2495,7 +2550,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉股价大涨，理小蔚表现受关注",
    "title_zh": "特斯拉股价大涨，“理小蔚”呢？",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b7e8c7328c0d",
@@ -2545,7 +2604,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉车主手册更新FSD计算机改称SI",
    "title_zh": "特斯拉车主手册更新 FSD计算机改称SI Computer - 汽车之家",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "a3a912676aa7",
@@ -2800,7 +2863,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉弃用AI改称SI，更新FSD计算机名称",
    "title_zh": "弃用AI改称SI：特斯拉车主手册更新FSD计算机名称 - 手机新浪网",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "b305814d35cf",
@@ -3190,7 +3257,11 @@
    "session": "盘后",
    "zh_summary": "Cybercab在德州授权车队超Model Y",
    "title_zh": "TSLA上涨：Cybercab在德州授权车队中超过Model Y",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "83c6b9633a88",
@@ -6421,60 +6492,6 @@
    "zh_summary": "特斯拉Optimus为Cybercab无人车充电",
    "title_zh": "特斯拉Optimus上岗，为CyberCab无人车充电",
    "sentiment": 1
-  },
-  {
-   "id": "a282b0348051",
-   "title": "特斯拉人形机器人找到新工作 为特斯拉CyberCab无人车充电 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRXpjUmhMYVlXWlY2WFlWQmlpczB4UV9VNWE2QVRUenlSSjh0MzEyd0dPbkxXcDlzbWo0UXJidWZKdlduYVJPN2xwSENvRF9EVUNiMTVsUkg",
-   "source": "驱动之家",
-   "published_at": "2026-10-27T08:40:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-27T08:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRXpjUmhMYVlXWlY2WFlWQmlpczB4UV9VNWE2QVRUenlSSjh0MzEyd0dPbkxXcDlzbWo0UXJidWZKdlduYVJPN2xwSENvRF9EVUNiMTVsUkg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T08:40:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXg2Rk16SkpfTTg3WVgyYk1SS2J6MHhHNmVBOWxEQ0xwR2RXZnI0Nldua2JpVG9nR1dFLXFSTjRjOWtCenQwejNNU1FRR3FWcVZ0c0NmMmJRbEEyenNYUzVDUmM4aVBHY2psNG1TR3lhc3BMWTNiS1FnZGRBWE9UT3lueTUzNllZ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-27T08:40:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2pxWS1YYzI3VUdsOXR2TGpINzhkYnJLVmk3RkRfbWNjdkFpNDdLLVFEdmhIbkpwRjU1dEhncmo4dmFVUFlVZTdHNGJydDc2a3lrT0lPQVd0dlJXWkxoRnJlWHZlSXlLYWRrMW8tLVBuT3RoNHlUYUJRVDFoY3h4aE1uZjViQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉人形机器人为CyberCab充电",
-   "title_zh": "特斯拉人形机器人找到新工作 为特斯拉CyberCab无人车充电 - 驱动之家",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 1.36,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "19ed03ee7096",
-   "title": "【视频】5.6万公里特斯拉Model Y 2024款后轮驱动版 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01UDNfenVMMFNfbmtOTEZjb0FWMXYzN18zYnE0blhVNUlwX3BKRm8yWnd6SlY5dWs1UmRZd2s3clplUjBVVEJ2WEF2cUx2QWxkcFQwSll2enluMTg",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T08:38:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T08:38:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01UDNfenVMMFNfbmtOTEZjb0FWMXYzN18zYnE0blhVNUlwX3BKRm8yWnd6SlY5dWs1UmRZd2s3clplUjBVVEJ2WEF2cUx2QWxkcFQwSll2enluMTg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "5.6万公里特斯拉Model Y视频评测",
-   "title_zh": "【视频】5.6万公里特斯拉Model Y 2024款后轮驱动版 - 汽车之家",
-   "sentiment": 0
   }
  ]
 }
