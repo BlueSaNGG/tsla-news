@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T16:22:34.549805+00:00",
+ "updated_at": "2026-10-28T16:37:32.807500+00:00",
  "market": {
-  "price": 400.77,
-  "change_pct": -1.64,
+  "price": 400.9,
+  "change_pct": -1.61,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,7 +22,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（129条已评分）"
+     "note": "今日新闻情绪 +0.02（130条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $400.77 vs 20日均线 $376.60"
+     "note": "现价 $400.90 vs 20日均线 $376.61"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
    "implied_upside_pct": -0.2,
-   "ma20": 376.6,
-   "as_of": "2026-10-28T16:22:34.541929+00:00"
+   "ma20": 376.61,
+   "as_of": "2026-10-28T16:37:32.798941+00:00"
   },
-  "pe_ttm": 110.8,
+  "pe_ttm": 110.9,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 129
+   "avg": 0.02,
+   "count": 130
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a841534f1aaa",
+   "title": "Tesla Semi Fire Shuts I-880 in Hayward for 10 Hours [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlZFRklscFI2dFlPN2N1RExweUpxdjJpLXNwOUxmSWN0Y2dsOUNpaHZKeGxOVkl4Q3Nad05hTkt1WHVXM2hWLVFkOFFxa0FwNUNUQnotaDNTZFp5aUNfdVRPYVBBRjRlSUFWNTlqWmJtQUlvR0lzSUt2QTNtSC1TMXFn",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-28T16:24:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-28T16:24:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlZFRklscFI2dFlPN2N1RExweUpxdjJpLXNwOUxmSWN0Y2dsOUNpaHZKeGxOVkl4Q3Nad05hTkt1WHVXM2hWLVFkOFFxa0FwNUNUQnotaDNTZFp5aUNfdVRPYVBBRjRlSUFWNTlqWmJtQUlvR0lzSUt2QTNtSC1TMXFn"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "6472a8e5c994",
    "title": "Bridgewater Teen On Electric Scooter Killed In Crash With Tesla - News12 | New Jersey",
@@ -203,12 +220,17 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTktldjRac2xrMTlnQUVlblY4VHZGcURFUUIxVW8wWmU1ajJnY3pnQ2FIRDFYWXNIM0RTWWdGZ1g2WTFkVE52bFhScldoUzZmWFkxbzlHanh3MWFkcVhEel82emJUN1FJQjlBc1JRSmVWdGpaT3E3X0NXdEtISlhuWEVfSXVlNENBVnJLWHd0bWNBM2hCX3ZMd0V5MERTMXRFWUhKdkNPS3cwT0VfR3A3LVl6YjhFQQ",
    "source": "CultureMap San Antonio",
    "published_at": "2026-10-28T15:17:46+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CultureMap San Antonio",
      "published_at": "2026-10-28T15:17:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTktldjRac2xrMTlnQUVlblY4VHZGcURFUUIxVW8wWmU1ajJnY3pnQ2FIRDFYWXNIM0RTWWdGZ1g2WTFkVE52bFhScldoUzZmWFkxbzlHanh3MWFkcVhEel82emJUN1FJQjlBc1JRSmVWdGpaT3E3X0NXdEtISlhuWEVfSXVlNENBVnJLWHd0bWNBM2hCX3ZMd0V5MERTMXRFWUhKdkNPS3cwT0VfR3A3LVl6YjhFQQ"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-28T16:15:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3pqeTF2VFZyVFVyWHJUbzY2NktOSFFYSm5NWF85aC1ua1ZfaTBmalBTUExYeTFPMmVuV0tNSmU4Rzc5alI2dTFBdGI5MVh0am1rU2N3SlB5OUhLd19PNFlBRUJ0dDNrb29Od3h4Nnl4OWNzZENRTGxUaVFBTlN4aA"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1536,26 +1558,6 @@
    "zh_summary": "Turo通过API验证特斯拉FSD租赁",
    "title_zh": "Turo通过API验证特斯拉FSD租赁车辆",
    "sentiment": 1
-  },
-  {
-   "id": "2cfa51832234",
-   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
-   "source": "中华网",
-   "published_at": "2026-10-28T10:30:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-28T10:30:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "19万Model 3买不到，美版返销加拿大价翻倍",
-   "title_zh": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍",
-   "sentiment": -1
   },
   {
    "id": "f157202f7b60",
@@ -5442,7 +5444,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalJBZUZjLVJSZkhzU3JRWDVWODh5VmR1bWFib1RjbFN0WUFjQWZPeE9tVUJPNXdUVDdQLVVUNzFrQk1fOG9sLXFNUkRIUFE2ek04UlVGR0NMUndQZTZQM2JfUUFGcXJxX1BKaXBGdkx3dzZPa0I0aHR4c1BrU0RETnluSm9uY2s1aEtHRXBxZFotVkdjS1k0cUx2dHRDY0p2d0k0Q3FWOEVtb3c",
    "source": "Yahoo Finance",
    "published_at": "2026-10-27T15:47:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -5453,13 +5455,22 @@
      "name": "Manufacturing Dive",
      "published_at": "2026-10-27T15:56:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONUYzdUd4NjhxbURmUUZxcE5JR3UzWDdQOGxvVFNXTUdrbXd2ZmZIYUtpQS1Mb09OaGJXdlFYZHU5aDJjNjZSUHI1cjFPSWphbEwyQW1tbTJ6SURNOE1sTV9OaTlISFVhYk9EZ05qU24wMHkzWnBza0VpN0NjWGNoMHcta2ZtWGpnSTZRbnBqTU9QX3l3dmxpeTFMRzB4X2dYSTJmZG5Ba3FidWt5eFM4dVNCbw"
+    },
+    {
+     "name": "WardsAuto",
+     "published_at": "2026-10-27T22:31:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXNBaWtrWGE4ZnZUSS1PZlhGT2RGdWRyVWNyNi1LSnhKSUhLQlhGTTNncGhPUHkwZ3UzbWNwZW5UU3VqX3lFdHFJWldHTXQ0WTBVTTNMZkVIcHRubl8tcU5BNUVwM0NVZXN4eUxqV2wtTE5LUU5JdEM0eU9QejhyQ0JLajJJbTk5ZXpGeklqU1JDMU1xMVA2bjB5NEVIb1JOT0FwdUdFT0U"
     }
    ],
    "category": "交付量",
    "session": "盘中",
    "zh_summary": "特斯拉在加州开始生产人形机器人",
    "title_zh": "特斯拉在加州开始生产人形机器人",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.25,
+    "window_h": 2.0
+   }
   },
   {
    "id": "075d3a19c901",
@@ -6304,6 +6315,23 @@
    "sentiment": 1
   },
   {
+   "id": "790532dbfd37",
+   "title": "Only 5 of 60 Analysts Still Say Sell Tesla, the Fewest in 11 Years - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTndYTy0tT2s5RDFFVFp5RTFPa0hZYW9taDdSTlQwZ0F4WFBOdUlqUXp1b3dFRFRza0tkbXJGdXJPdHlIem1SeHd1OEtlZG9PTTlpNVBfRm0yb0RjX3NsMFdFQmFMRnhkRm1YczdMM0ZMaUcydS1ZQWcwcl9JejdjTFEtRzNrY01WU1FaNk10TEFma0g1SHl5djBSejI5a1BuVThsNWtNUi1wZUNzTEE",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-27T13:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-27T13:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTndYTy0tT2s5RDFFVFp5RTFPa0hZYW9taDdSTlQwZ0F4WFBOdUlqUXp1b3dFRFRza0tkbXJGdXJPdHlIem1SeHd1OEtlZG9PTTlpNVBfRm0yb0RjX3NsMFdFQmFMRnhkRm1YczdMM0ZMaUcydS1ZQWcwcl9JejdjTFEtRzNrY01WU1FaNk10TEFma0g1SHl5djBSejI5a1BuVThsNWtNUi1wZUNzTEE"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
    "id": "170b2cc849b8",
    "title": "American billionaire Elon Musk's Tesla sell ratings hit 11-year low on merger hopes - Billionaires.Africa",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGFUdm1WVHNUMFA4VTVPUnZ3NkVWWWtZejE1dFRBUUxEUnRmMmVKQzZLRlBjdDJ1NThyd2t6cFFPMXhYRGk0aXNxZTB5S21od3FIejFIUXBVX21nOE0yUnhPSHBzSC1EWWkwYTZXUkJ6cDdpZEJ4UDN0Y2ZlcklEYmxnMndTVkFZLXA5a1NUTnhLbFd1RUVMVGI3cVRabEhEQklyRlZLWHhseTdiUEFhQ29DSkp5bFBwRHE5QXVzeVktTnVX",
@@ -6477,31 +6505,6 @@
    "session": "盘前",
    "zh_summary": "拖车公司拖拽特斯拉致安全系统受损",
    "title_zh": "女子称拖车公司拖拽特斯拉损坏安全系统并收费$185",
-   "sentiment": 0
-  },
-  {
-   "id": "80ddbbe722bf",
-   "title": "Tesla Wants to Sell People Cybercab Fleets, But Who Really Benefits? - Autoguide.com",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTBfRHJMWFJVVDY1THVPUTk1R3NIc0JPdlFRdUx4NW4wZ1JVNVhwcnM3dlB4emV2cnRJM2pVS1VvZjdYajd3bFhjZG1rSk9ZWFJrUEpvSjM3bjVwM3VFRVhxWUtxU2ZiNDFrc1RaQVBRRHBKY2dhZzRoeEtqUVEyZU90TDVpVWtvSGd3Y1NONHJwNWFGMFdMbGw5aDFfblNZU2k3S094TDhMcHFzY2ZidmNFZXo3OVJyVGs3UDg3UDQwcUxqLWVOLXcwLVNTdw",
-   "source": "Autoguide.com",
-   "published_at": "2026-10-27T12:22:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Autoguide.com",
-     "published_at": "2026-10-27T12:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTBfRHJMWFJVVDY1THVPUTk1R3NIc0JPdlFRdUx4NW4wZ1JVNVhwcnM3dlB4emV2cnRJM2pVS1VvZjdYajd3bFhjZG1rSk9ZWFJrUEpvSjM3bjVwM3VFRVhxWUtxU2ZiNDFrc1RaQVBRRHBKY2dhZzRoeEtqUVEyZU90TDVpVWtvSGd3Y1NONHJwNWFGMFdMbGw5aDFfblNZU2k3S094TDhMcHFzY2ZidmNFZXo3OVJyVGs3UDg3UDQwcUxqLWVOLXcwLVNTdw"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-27T15:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFhOZ2x5bkRoblNycFY1cE12RXp0YkhTT2dBVEoySUc5d3VNa0c0VmZYel9fZUFVMXZoZVNQZ0NkYzJ0NmU1ZHlTQWZmZWxMVXhfZGxkcjdjSGRMU2kwYkFPLWVaSG1TQVFXdWhjSkNnVkVNVDZFS2hRczJ5bWlwNkFwNGpZQTVqNmkwbjF2Q250S25vSkpYcU9hY0k3aTFH"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉拟向个人出售Cybercab车队",
-   "title_zh": "特斯拉拟向个人出售Cybercab车队，谁真正受益？",
    "sentiment": 0
   }
  ]
