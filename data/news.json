@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T13:52:43.560882+00:00",
+ "updated_at": "2026-10-28T14:07:33.234311+00:00",
  "market": {
-  "price": 402.0,
-  "change_pct": -1.34,
+  "price": 399.59,
+  "change_pct": -1.93,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,12 +22,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.1%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.00 vs 20日均线 $376.66"
+     "note": "现价 $399.59 vs 20日均线 $376.55"
     },
     {
      "key": "分析师动向",
@@ -45,16 +45,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.5,
-   "ma20": 376.66,
-   "as_of": "2026-10-28T13:52:43.552311+00:00"
+   "implied_upside_pct": 0.1,
+   "ma20": 376.55,
+   "as_of": "2026-10-28T14:07:33.225533+00:00"
   },
-  "pe_ttm": 111.2,
+  "pe_ttm": 110.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.1%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.04,
    "count": 92
@@ -68,17 +68,39 @@
  },
  "stories": [
   {
+   "id": "5044a7b6582d",
+   "title": "Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUm5pNGJING0weVRiYkRJZjNuN0Jfb1VoTnFTZTY0bko1U2VRTmRSNnZ3SDZTVk1MbkJEdWRSeHA3QTRJYnB5VW5jVGJHR1c0dHozZUhybHdKUTFBNWppUTZLVXVtY2RvZlhZYTA2ZnBLTmhiZ1lfQmNWU0I2djgweDNyOA",
+   "source": "Electrek",
+   "published_at": "2026-10-28T14:00:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-28T14:00:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUm5pNGJING0weVRiYkRJZjNuN0Jfb1VoTnFTZTY0bko1U2VRTmRSNnZ3SDZTVk1MbkJEdWRSeHA3QTRJYnB5VW5jVGJHR1c0dHozZUhybHdKUTFBNWppUTZLVXVtY2RvZlhZYTA2ZnBLTmhiZ1lfQmNWU0I2djgweDNyOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "906e46bcfca0",
    "title": "Cat rescued from Tesla in Lewisville after family heard meowing beneath vehicle - WFAA",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0RmMzAzMTdjZXhLUXBwYy1RQzNUSk5qUExUcWNoczZRelJHUEc4YkV2T0pTRDEyUEdKSnpTS09jLUZLM0dJbGE1YkVwaExsQnFhaWg1U0FaR1hxRl9QOUx3LThSdV9BUFBqUUZoUm1naEdhSlJ2SmY0NEoxazNHVVJZTk5oODcxdUZSTGdLSkRTdlJkZzNHTTRlaVlUNjdHR1BpbWZFMVJndWU2RmlxRlJVMVBHd2pxU24tWmJFZmRES21pTFE",
    "source": "WFAA",
    "published_at": "2026-10-28T13:22:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "WFAA",
      "published_at": "2026-10-28T13:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0RmMzAzMTdjZXhLUXBwYy1RQzNUSk5qUExUcWNoczZRelJHUEc4YkV2T0pTRDEyUEdKSnpTS09jLUZLM0dJbGE1YkVwaExsQnFhaWg1U0FaR1hxRl9QOUx3LThSdV9BUFBqUUZoUm1naEdhSlJ2SmY0NEoxazNHVVJZTk5oODcxdUZSTGdLSkRTdlJkZzNHTTRlaVlUNjdHR1BpbWZFMVJndWU2RmlxRlJVMVBHd2pxU24tWmJFZmRES21pTFE"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-28T13:22:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOW5zeDgzank0Q3cwS3A5WmJSMnNiaDE0amlnWmpHd3lQS1ZxNFNCZEVyZTc2enF4Y3ROeGhUbUxrOExueHlDeXJqc2RDdlh6TjFwelMtN2lIRzdzcWZzdlo1anNva1NaTEsza0JQNkFzQWFndkVMYmJsRzNtMkJ1R0JZV0RSbXJIM2dEZFZFMA"
     }
    ],
    "category": "其他",
@@ -798,6 +820,23 @@
    "sentiment": 1
   },
   {
+   "id": "2cfa51832234",
+   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
+   "source": "中华网",
+   "published_at": "2026-10-28T10:30:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T10:30:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN3ZOcW5DcXBoOFVCUm1RMzY3UDc2OGNOcnFwLTczalhISmNnbVF6SnItZlpUODFPbGRDcDZJLWNEOURLZEVERVFqZ1IwNUR6ZzkxTXZXVlZ3RDQtSGFHQ1R3",
@@ -873,7 +912,7 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBySC1JazVuMGZXelVFUUxXd1ozeUp5YkR4YTd4YXoxVy1qUkpyb3dxZWtsMUthQlVHaU9yOWQ3czZhSl9MbGlKNUlCRmw0WGc",
    "source": "热点科技",
    "published_at": "2026-10-28T09:58:35+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "热点科技",
@@ -884,13 +923,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-28T11:43:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50RUtlZDFkU0w1OWlZYzl3N1VQbTFJQkp5SXVUaHNnNlpIVE5tcVkyVXhmdF9INnRQUy1sRnV0LWhwTkdxdmNQX19ZaHRFTmdzcE14cVNGMF9ickE"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-28T11:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53X3Flck9HdkRpMFE4QUZEbV9Ub3ppaE1GSXRoUHhReDQ0WUxnNS1sTk90Y0VCQWRVdk1scVZ5STZ2ZHFnLXdtUlhVVDVfdWNxVEtqRjRKU1FZZDUwN2xOTlRoNGhxZXFzc194cENHcU45QXNpT0puaDRvVVNOT1U"
     }
    ],
    "category": "能源",
    "session": "盘前",
    "zh_summary": "特斯拉Semi重卡起火车头烧毁",
    "title_zh": "又有新能源车起火了！这回是特斯拉Semi重卡，车头完全烧毁 - 热点科技",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -1.83,
+    "window_h": 0.6
+   }
   },
   {
    "id": "7c162c40ac2b",
@@ -1688,26 +1736,6 @@
    "sentiment": 0
   },
   {
-   "id": "79f18cea90c9",
-   "title": "专家：SpaceX收购特斯拉是一次“扶贫” - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblJSNXY2Wllrb0lCb1lGek96QVNjR2daWUZNWEpMY2dsVVh0ckZLTG5mb05kYjloWm5UQ0Y2QVp4dXZWeExhR3lQbHliZVh4aGs4Z3hHSy1LcGUyNnBXZU9oTkJOdEZwQi04VW9ySGhnSThIWXF1enhza0dQaUdvcHdGOGVaQ0pKaG9EZQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-28T06:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-28T06:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblJSNXY2Wllrb0lCb1lGek96QVNjR2daWUZNWEpMY2dsVVh0ckZLTG5mb05kYjloWm5UQ0Y2QVp4dXZWeExhR3lQbHliZVh4aGs4Z3hHSy1LcGUyNnBXZU9oTkJOdEZwQi04VW9ySGhnSThIWXF1enhza0dQaUdvcHdGOGVaQ0pKaG9EZQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "专家称SpaceX收购特斯拉是扶贫",
-   "title_zh": "专家：SpaceX收购特斯拉是一次“扶贫” - 搜狐网",
-   "sentiment": 0
-  },
-  {
    "id": "860e2a8bf0be",
    "title": "产业观察｜SpaceX提交监管文件称与特斯拉合并需马斯克批准：3.5万亿美元超级实体的战略逻辑 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RT05KejlmVjFCTHNZQWFDTDc3cG5SUmhCWWhQZEJCUGM1QWhtY1pINURNQ29Ea09wYmQtRUt2QUJtTEZ5aVkzQmVvaXUtUlJOZWxRdU1YSUYwd28",
@@ -1725,6 +1753,31 @@
    "session": "盘前",
    "zh_summary": "SpaceX合并特斯拉需马斯克批准",
    "title_zh": "SpaceX文件称与特斯拉合并需马斯克批准",
+   "sentiment": 0
+  },
+  {
+   "id": "ac18a262ad26",
+   "title": "学者：SpaceX收购特斯拉是一次“扶贫” - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWWxrWmY0MUQ1b1g3dzBlY2daTXdySXN4U01UNUVQSnlBWUx6QlhGc0pVZXc3RkpPdksxcFA2cUFmUmkxUzFzRmpjLTROSDdvUTZTa1FmM0t4aDFmcVVBZ2lJNzBPd3gzTzZfQThsZEd6YkJzalljNQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-28T06:20:29+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-28T06:20:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWWxrWmY0MUQ1b1g3dzBlY2daTXdySXN4U01UNUVQSnlBWUx6QlhGc0pVZXc3RkpPdksxcFA2cUFmUmkxUzFzRmpjLTROSDdvUTZTa1FmM0t4aDFmcVVBZ2lJNzBPd3gzTzZfQThsZEd6YkJzalljNQ"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T06:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblJSNXY2Wllrb0lCb1lGek96QVNjR2daWUZNWEpMY2dsVVh0ckZLTG5mb05kYjloWm5UQ0Y2QVp4dXZWeExhR3lQbHliZVh4aGs4Z3hHSy1LcGUyNnBXZU9oTkJOdEZwQi04VW9ySGhnSThIWXF1enhza0dQaUdvcHdGOGVaQ0pKaG9EZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "专家称SpaceX收购特斯拉是扶贫",
+   "title_zh": "专家：SpaceX收购特斯拉是一次“扶贫” - 搜狐网",
    "sentiment": 0
   },
   {
@@ -6452,51 +6505,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉Optimus学习为无人出租车充电",
    "title_zh": "特斯拉Optimus人形机器人正在学习为无人出租车插枪充电 - 网通社",
-   "sentiment": 1
-  },
-  {
-   "id": "8d3043a15d91",
-   "title": "Tesla has a Cybercab problem nobody saw coming - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw",
-   "source": "Teslarati",
-   "published_at": "2026-10-27T08:46:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-10-27T08:46:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab面临意料之外的问题",
-   "title_zh": "特斯拉Cybercab出现无人预料的问题",
-   "sentiment": -1
-  },
-  {
-   "id": "f9b8bb1512c5",
-   "title": "特斯拉Optimus上岗，为CyberCab无人车充电 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-27T08:40:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-27T08:40:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-27T08:40:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPLUZ6QTliMFVWdElTdjBTVG95M3ZHWnF2OFBBbEZBYlNhNE51UFZrT2l4YlEwWUI0VWJ1bXpocEFUUWY2TEhVWQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Optimus为Cybercab无人车充电",
-   "title_zh": "特斯拉Optimus上岗，为CyberCab无人车充电",
    "sentiment": 1
   }
  ]
