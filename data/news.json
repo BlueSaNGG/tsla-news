@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T19:37:46.280424+00:00",
+ "updated_at": "2026-10-28T19:52:43.870533+00:00",
  "market": {
-  "price": 402.63,
-  "change_pct": -1.19,
+  "price": 403.67,
+  "change_pct": -0.93,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.7%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（154条已评分）"
+     "note": "今日新闻情绪 -0.02（155条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.63 vs 20日均线 $376.70"
+     "note": "现价 $403.67 vs 20日均线 $376.75"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.7,
-   "ma20": 376.7,
-   "as_of": "2026-10-28T19:37:46.274119+00:00"
+   "implied_upside_pct": -0.9,
+   "ma20": 376.75,
+   "as_of": "2026-10-28T19:52:43.858748+00:00"
   },
-  "pe_ttm": 111.4,
+  "pe_ttm": 111.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 154
+   "avg": -0.02,
+   "count": 155
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9b6e6b92a5b1",
+   "title": "Ninth Circuit vacates class certification in Tesla “Full Self-Driving” case - JD Supra",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHMmw0ejBVaWdaNTVHZnZIQ242dWtqNFBjZHd5Mkl1TGxBTzZjUC1qV1UzcE5UZm5FZnVtVWVhZk4wWVZvZDlaY3RjdGxZakQwbWx5VU5JYUpfYmRDVFpfbHVUYkd2LXhZYVRndTMwdGx1RXBrRThsSzRR",
+   "source": "JD Supra",
+   "published_at": "2026-10-28T19:43:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "JD Supra",
+     "published_at": "2026-10-28T19:43:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHMmw0ejBVaWdaNTVHZnZIQ242dWtqNFBjZHd5Mkl1TGxBTzZjUC1qV1UzcE5UZm5FZnVtVWVhZk4wWVZvZDlaY3RjdGxZakQwbWx5VU5JYUpfYmRDVFpfbHVUYkd2LXhZYVRndTMwdGx1RXBrRThsSzRR"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "c84aed32798c",
+   "title": "WSJ hires O’Kane to cover Tesla - Talking Biz News",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xT1VnVnQ3cUF2UkoyMGR1RklBQ3Y1SzZTT0JLTy1zZGZHQlZFSmk3TFVfWUtJeFAzYjJzb0JRbW1KY2tvR2g5eHJsSDhlMXRMYThTRFdEMDI5N1MxZlJIb185YnRlVWpfTElBcGtPN1JCSWRfTTFHLQ",
+   "source": "Talking Biz News",
+   "published_at": "2026-10-28T19:35:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Talking Biz News",
+     "published_at": "2026-10-28T19:35:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xT1VnVnQ3cUF2UkoyMGR1RklBQ3Y1SzZTT0JLTy1zZGZHQlZFSmk3TFVfWUtJeFAzYjJzb0JRbW1KY2tvR2g5eHJsSDhlMXRMYThTRFdEMDI5N1MxZlJIb185YnRlVWpfTElBcGtPN1JCSWRfTTFHLQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "1eedd6589f08",
    "title": "The New Tesla Roadster Has A Slick Retro-Futuristic User Interface - Motor1.com",
@@ -4230,40 +4264,6 @@
    "sentiment": 0
   },
   {
-   "id": "9bbbe334408e",
-   "title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2h5cGVOYmZUaGJkSHMxVGVPWmM2RGsxUlduSW9tWWF6bDg1VHprc3AtOFk1amRlN3RZTThpbGh2TEFDSmd3QlR6bFY4UGJ3bXJpOWptOW52d1ZTZkxMYzcyR080QlVUejgza2xwSUlIc25IekhldVhGdHoyUWdKaWlaaEJ1Q2ljaGtZNEV3UmE3T1pIcFhVTUZyc2hQOHFPbHp1MFpaYTh2RWdTdml1TWowTTZoQV9MbU9aRmpkeFZGWnBjdFNkRWo1TXNhc0g2cHdtOU1pYy13Ni01SGk2MXAzNlFTUQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-28T01:12:18+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-28T01:12:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2h5cGVOYmZUaGJkSHMxVGVPWmM2RGsxUlduSW9tWWF6bDg1VHprc3AtOFk1amRlN3RZTThpbGh2TEFDSmd3QlR6bFY4UGJ3bXJpOWptOW52d1ZTZkxMYzcyR080QlVUejgza2xwSUlIc25IekhldVhGdHoyUWdKaWlaaEJ1Q2ljaGtZNEV3UmE3T1pIcFhVTUZyc2hQOHFPbHp1MFpaYTh2RWdTdml1TWowTTZoQV9MbU9aRmpkeFZGWnBjdFNkRWo1TXNhc0g2cHdtOU1pYy13Ni01SGk2MXAzNlFTUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T03:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOURYQ3NmTEp2ZzFRUW1kcC1lMTFUY2lfTVltbHZWeTYyWmhONndlbHFOWFlEcEx6aVQ4NG4zSTk1anB3M3lINl93cWw2Q2ktdEE1WGZXRzB0a3RpNU5xY3NFLVlhaGF2a0RXMW9rY19mellIdjJqM3M1a3hpUGVieVVuVDludDlVN1ZMTGJGZVZ6TTA"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-28T03:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVzR4VmNzNUdQRjFVMVA2X3piOFA5YXpHdzBJdXpOX3FQcHpQU3RDdm5KS0xVaUctNG9ZNUN0VW02NmhqbTFvZ2xTdDNZQXlqMnRTazVPXy14RzJTaUltMGNKQjdrb2FLM2FXdTJHTGNOMy1NY3E3cEV1UllhU1hzeHBPNnRuLWNQUlR2ZFRqeXhaTGZyRWJrR3JoZEIxZWY3LS10WnlsX0JEaWN1OGJ4djJIaUl3MzVLQnBZd2IzV2VGUm1tb19BdlBZM1F1cmo1Qk93cWtqaDN1ZUExRW11LVI3V0l3ZkNHX3V6dWtkSUx2NEQ5djdxdUxRSno"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉10月领跑美股七巨头",
-   "title_zh": "TSLA 10月领跑七巨头，但两只摩托股跑赢特斯拉",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.21,
-    "window_h": 0.1
-   }
-  },
-  {
    "id": "f5e4863b89f3",
    "title": "弃用AI改称SI：特斯拉车主手册更新FSD计算机名称 - 凤凰网科技",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SSEg5MFo5bzEzQ3MyNnB3c3huSjJFM1RqYXU4U0V2NlpIM1puamo2MHN6b0FEbEhqMEZUdVF4UzFOVXpqU3FvbDFiT3k",
@@ -5075,6 +5075,40 @@
    "zh_summary": "特斯拉将FSD电脑由AI4更名为SI4",
    "title_zh": "告别AI4，迎来SI4：特斯拉重命名FSD电脑",
    "sentiment": 0
+  },
+  {
+   "id": "9bbbe334408e",
+   "title": "TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaXZvRDVyZVRmTnVWVGtQeDh5WlN1WFRjZXdMWEx1Vkl0ek5pMHZsbmNRVEtGdVl1QlF2d2tsaGk0WG5fWEtqOVQ3QUR0QzZwODd1bmE0UUd5a2JTaXUxN0J6Ul9MTkJuV3QyNy1KYUgwRktlUnlGWWNiY2RHZUtBTlF1R3dzSEJnTFZieHpaUU9jVU1UZGI4V0JjaVJraHpYQVVqMm9IaFA0NFFhVUotRDlCbEQ3dUQ2cE5fU05aVVF3TW5URnNwNWgxb0RZcmRzZkNJYXpaT1JHTFI0ZjlhbDFsWU1JYnZuMmMtLUJJeWpFNkRyS1BORTZ5UDI",
+   "source": "TradingView",
+   "published_at": "2026-10-27T20:08:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-27T20:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaXZvRDVyZVRmTnVWVGtQeDh5WlN1WFRjZXdMWEx1Vkl0ek5pMHZsbmNRVEtGdVl1QlF2d2tsaGk0WG5fWEtqOVQ3QUR0QzZwODd1bmE0UUd5a2JTaXUxN0J6Ul9MTkJuV3QyNy1KYUgwRktlUnlGWWNiY2RHZUtBTlF1R3dzSEJnTFZieHpaUU9jVU1UZGI4V0JjaVJraHpYQVVqMm9IaFA0NFFhVUotRDlCbEQ3dUQ2cE5fU05aVVF3TW5URnNwNWgxb0RZcmRzZkNJYXpaT1JHTFI0ZjlhbDFsWU1JYnZuMmMtLUJJeWpFNkRyS1BORTZ5UDI"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-28T01:12:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2h5cGVOYmZUaGJkSHMxVGVPWmM2RGsxUlduSW9tWWF6bDg1VHprc3AtOFk1amRlN3RZTThpbGh2TEFDSmd3QlR6bFY4UGJ3bXJpOWptOW52d1ZTZkxMYzcyR080QlVUejgza2xwSUlIc25IekhldVhGdHoyUWdKaWlaaEJ1Q2ljaGtZNEV3UmE3T1pIcFhVTUZyc2hQOHFPbHp1MFpaYTh2RWdTdml1TWowTTZoQV9MbU9aRmpkeFZGWnBjdFNkRWo1TXNhc0g2cHdtOU1pYy13Ni01SGk2MXAzNlFTUQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T03:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOURYQ3NmTEp2ZzFRUW1kcC1lMTFUY2lfTVltbHZWeTYyWmhONndlbHFOWFlEcEx6aVQ4NG4zSTk1anB3M3lINl93cWw2Q2ktdEE1WGZXRzB0a3RpNU5xY3NFLVlhaGF2a0RXMW9rY19mellIdjJqM3M1a3hpUGVieVVuVDludDlVN1ZMTGJGZVZ6TTA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉10月领跑美股七巨头",
+   "title_zh": "TSLA 10月领跑七巨头，但两只摩托股跑赢特斯拉",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "f67d76ee8c47",
@@ -6451,51 +6485,6 @@
    "zh_summary": "特斯拉等股票继续杀看跌期权",
    "title_zh": "特斯拉继续杀看跌期权",
    "sentiment": 1
-  },
-  {
-   "id": "8e5786fc4dfa",
-   "title": "美股存储股深夜大涨，特斯拉市值大增2700亿元，热门中概股集体下挫 - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19Pb2xBZjFtdkhDMXJ1LUJILUhYbWdCdjJRalRLX1VvWC15d3RhNlN2dlJrNTVwWmcyQ2FJc01mTkZMUzlEQ0pJTU9GN2lMRUVMb0duSS1mS19xbVdxZGVjeDNnOUN1VF9NQzE2ajQ5dksxOE00SU5ObHFxeEc0b0N5czZwSE1uYW9iM292RQ",
-   "source": "21财经",
-   "published_at": "2026-10-27T14:36:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-27T14:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19Pb2xBZjFtdkhDMXJ1LUJILUhYbWdCdjJRalRLX1VvWC15d3RhNlN2dlJrNTVwWmcyQ2FJc01mTkZMUzlEQ0pJTU9GN2lMRUVMb0duSS1mS19xbVdxZGVjeDNnOUN1VF9NQzE2ajQ5dksxOE00SU5ObHFxeEc0b0N5czZwSE1uYW9iM292RQ"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-27T14:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CSGQ4d0NqRW1zbWRWNjdMa1hZRmpGSGZDRjhKUS14V0ZWWE9US2lzWk1aSk15MTlnSmFSbXhiRTU3TWhwdnBldEdxNUZ1M3RFSndPeDljOEtXVzZ0U0gtdy1hcjlfSFVkR1RJeVhn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉市值大增2700亿元",
-   "title_zh": "美股存储股深夜大涨，特斯拉市值大增2700亿元，热门中概股集体下挫 - 21财经",
-   "sentiment": 1
-  },
-  {
-   "id": "3a3b2c76cb6f",
-   "title": "Tesla’s Strong Quarter Has A Catch (NASDAQ:TSLA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DNU56R25qWENZc0xtbnBUUzkwcW5yeER4dXRaZWpIYmdDWGl5Y1NYSHpRU19BUWFYUUk3bmRTenN6SGtvX0VnYk45NFpjOTdGTFI4ekhvMmdJTU16RTNGY18zWWtpYXRNZ0lpYkZsSm5HcUlKRXM1aWJhOVhzQQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-27T14:34:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-27T14:34:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DNU56R25qWENZc0xtbnBUUzkwcW5yeER4dXRaZWpIYmdDWGl5Y1NYSHpRU19BUWFYUUk3bmRTenN6SGtvX0VnYk45NFpjOTdGTFI4ekhvMmdJTU16RTNGY18zWWtpYXRNZ0lpYkZsSm5HcUlKRXM1aWJhOVhzQQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "特斯拉强劲季度业绩暗藏隐忧",
-   "title_zh": "特斯拉强劲季度业绩暗藏隐忧",
-   "sentiment": 0
   }
  ]
 }
