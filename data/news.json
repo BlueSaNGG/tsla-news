@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T01:22:32.257842+00:00",
+ "updated_at": "2026-10-28T01:37:30.283276+00:00",
  "market": {
-  "price": 391.62,
-  "change_pct": 5.21,
+  "price": 407.46,
+  "change_pct": 4.04,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 49% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +2.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（189条已评分）"
+     "note": "今日新闻情绪 +0.30（192条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $391.62 vs 20日均线 $371.58"
+     "note": "现价 $407.46 vs 20日均线 $374.31"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 49,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 2.1,
-   "ma20": 371.58,
-   "as_of": "2026-10-28T01:22:32.243113+00:00"
+   "implied_upside_pct": -1.8,
+   "ma20": 374.31,
+   "as_of": "2026-10-28T01:37:30.272733+00:00"
   },
-  "pe_ttm": 108.3,
+  "pe_ttm": 112.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+2.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 189
+   "avg": 0.3,
+   "count": 192
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "639604d8db6f",
+   "title": "单缸柴油机特斯拉 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1JYaEtaejJueVF1VWdDaWwyZTJBcmNtd3A0MUJPSGNBYXUyUk9mOXNDcjU0RzlZaGdNbFF3QlJPaE1qdy1oVzF2cU94NzlEZmJkNVlhT3lEY0FhZWUwNUU3WkhTSjd5WHdzajR2WjZTeU1XczVReEpnYmY5OFExYQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-28T01:28:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-28T01:28:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1JYaEtaejJueVF1VWdDaWwyZTJBcmNtd3A0MUJPSGNBYXUyUk9mOXNDcjU0RzlZaGdNbFF3QlJPaE1qdy1oVzF2cU94NzlEZmJkNVlhT3lEY0FhZWUwNUU3WkhTSjd5WHdzajR2WjZTeU1XczVReEpnYmY5OFExYQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "d7f6a8eac290",
+   "title": "比利时9月：特斯拉涨129%冲上第三，比亚迪涨114%，纯电份额50.9%历史首度过半 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWdpaXQ5eVZWakhJVk5BMUc4ZlVUVGMtNlBsc092bmtxWHNvM3RuZ2dJM2V5b2s4bGJrQk9naG1lOU1tZHllX2s2akIySXNMQVhyMC15UGZuRnJzQU5pbGYtQWdBRWNPMm9RSmFKNWhrSjhyaVVMdUlEdlZIZXBqRi11cWdiMkZQ",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T01:26:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T01:26:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWdpaXQ5eVZWakhJVk5BMUc4ZlVUVGMtNlBsc092bmtxWHNvM3RuZ2dJM2V5b2s4bGJrQk9naG1lOU1tZHllX2s2akIySXNMQVhyMC15UGZuRnJzQU5pbGYtQWdBRWNPMm9RSmFKNWhrSjhyaVVMdUlEdlZIZXBqRi11cWdiMkZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "4860514a0586",
+   "title": "Whale Opens $11 Million Tesla Long call as Shares Breaks 210MA | Options Income Daily - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU53aW5zRno1Umg1eUFobnV1enNRNjhiWnRhUmZKVkUxd2RjcU5JdktDVGx4cmFBb1NETElFSFlpOUxlZVBmNXFFZWxGSEJSMkU4bkVoSWF4Q3VBUnFNVXcxVnNVang2VjJKX19oM040MVFnYUtpX3B2N2tMcmVlc0VuMmxSbkV2Vy1zUHJWRE1obFJqWDRHdmRGc0JRbklXbWgxVG9yM2tUSzV1M3c",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T01:22:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T01:22:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU53aW5zRno1Umg1eUFobnV1enNRNjhiWnRhUmZKVkUxd2RjcU5JdktDVGx4cmFBb1NETElFSFlpOUxlZVBmNXFFZWxGSEJSMkU4bkVoSWF4Q3VBUnFNVXcxVnNVang2VjJKX19oM040MVFnYUtpX3B2N2tMcmVlc0VuMmxSbkV2Vy1zUHJWRE1obFJqWDRHdmRGc0JRbklXbWgxVG9yM2tUSzV1M3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "3f1a6e37f3ff",
+   "title": "鲸鱼在特斯拉股价突破210日均线之际，建仓1,100万美元的看涨期权 | 期权收益日报 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNwZDMwVVkyY20tYXBYVGRkQnMzWWZrOXNPanV2S2x5TXhyUm9GYnZtZkEtX1NtZVRXWWxVMGdZd0pFTFF0Q1MwYTFnRGE2R2lSaU94YmlRSGpQc2Y4QkxpdnFkeVBTeEZndkR2NEpKeURHeEowY3dFcW1EbThURjJsbFJwMVZFUzFlWlV6cmJya0F6NXljNWR5RXFxOXp0VWE4M3JMN3A0SE95V0hHN0hCV1Q",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T01:22:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T01:22:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNwZDMwVVkyY20tYXBYVGRkQnMzWWZrOXNPanV2S2x5TXhyUm9GYnZtZkEtX1NtZVRXWWxVMGdZd0pFTFF0Q1MwYTFnRGE2R2lSaU94YmlRSGpQc2Y4QkxpdnFkeVBTeEZndkR2NEpKeURHeEowY3dFcW1EbThURjJsbFJwMVZFUzFlWlV6cmJya0F6NXljNWR5RXFxOXp0VWE4M3JMN3A0SE95V0hHN0hCV1Q"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "95ccc2dcc19a",
    "title": "特斯拉身上一个雷达都没有，它怎么知道前面这个人离它多远？ ··· - 手机新浪网",
@@ -3050,12 +3118,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZURsSmttTThsSEF5X0sxNUdFcmh3dFkydXlrU2N5N0xQTG0yZFYwYjhyTDRUTFQxcWtNNU9WaFl2OTEyOUJmWWVnVjM2TXc0NlFKSWZaMUFLeGs",
    "source": "网通社",
    "published_at": "2026-10-27T09:37:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "网通社",
      "published_at": "2026-10-27T09:37:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZURsSmttTThsSEF5X0sxNUdFcmh3dFkydXlrU2N5N0xQTG0yZFYwYjhyTDRUTFQxcWtNNU9WaFl2OTEyOUJmWWVnVjM2TXc0NlFKSWZaMUFLeGs"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T01:19:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdDF0WVk4dXBmcTJsOFJHdFIzeDhhTnF4LXIwUF9VUzlOR0M3OFNfSFNlYm8zYW9qRjYtRlJwZzRnZmZDYWtMbkNpXzRVUVdsYlgzdmI3MktjeDA"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -3380,12 +3453,17 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ",
    "source": "凤凰网科技",
    "published_at": "2026-10-27T08:40:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网科技",
      "published_at": "2026-10-27T08:40:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-27T08:40:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPLUZ6QTliMFVWdElTdjBTVG95M3ZHWnF2OFBBbEZBYlNhNE51UFZrT2l4YlEwWUI0VWJ1bXpocEFUUWY2TEhVWQ"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -3967,6 +4045,23 @@
    "zh_summary": "特斯拉言必称苹果令人烧心",
    "title_zh": "言必称苹果，烧心特斯拉 - 温州新闻",
    "sentiment": 0
+  },
+  {
+   "id": "c3efc12fe429",
+   "title": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T06:25:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T06:25:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "bb8ec290c190",
@@ -6448,120 +6543,6 @@
    "zh_summary": "特斯拉领涨市场，财报季将至",
    "title_zh": "马斯克领衔特斯拉领涨市场，亚马逊等财报将至",
    "sentiment": 1
-  },
-  {
-   "id": "6510096d063a",
-   "title": "Trussville man’s blood alcohol twice legal limit in Mountain Brook Tesla crash that killed 2, prosecutors say - AL.com",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemxrMExGR2RFWHlyX1RzemZ6a2JBM3B3aFhjODBreVVNVkw2RUlNTjVrc0stMWtRdWdjdGdmdVRHbm5CamhsUWhxNzZ0c2hBbjZEbFNYZ25xd1R4d2NYeE1DbjJNd1ZvZW1sR05uUkVIMnNIQnVWa1JncGtQSUFyQWdNdk0wdXlYTHY5Vm1scnFhZUtnanZiTHRjVG02V284ODcwYWRrVldTazB3bm9DQUNmNE9KbjhIVklBaGRZWG9NRnlRd0JXcy1hNWExbFh3OEtaNzJLUzIyN0tKSnc",
-   "source": "AL.com",
-   "published_at": "2026-10-26T21:04:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AL.com",
-     "published_at": "2026-10-26T21:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemxrMExGR2RFWHlyX1RzemZ6a2JBM3B3aFhjODBreVVNVkw2RUlNTjVrc0stMWtRdWdjdGdmdVRHbm5CamhsUWhxNzZ0c2hBbjZEbFNYZ25xd1R4d2NYeE1DbjJNd1ZvZW1sR05uUkVIMnNIQnVWa1JncGtQSUFyQWdNdk0wdXlYTHY5Vm1scnFhZUtnanZiTHRjVG02V284ODcwYWRrVldTazB3bm9DQUNmNE9KbjhIVklBaGRZWG9NRnlRd0JXcy1hNWExbFh3OEtaNzJLUzIyN0tKSnc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "酒驾司机驾驶特斯拉撞车致2人死亡",
-   "title_zh": "酒驾司机驾驶特斯拉撞车致2死，酒精超标两倍",
-   "sentiment": 0
-  },
-  {
-   "id": "1d08568bfa13",
-   "title": "Tesla's Fuel Cost Edge, Explained in 5 Points - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG90SEVLN3I5amUtV3Vrc3R1c3hXSU9kSTJCcmx1WDBYTVNXRmRLVFYwSjVBTTJqUTNSNEpCZVNrWmVSb3lIMDBQVjhHcjVpdEFzdllndzdzZnFGdEdXbXk3RUg4QlNpWDJKVTJlN0hQRUFKdnhQSWtfSzhsbkZBOXpxWjM",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-26T21:03:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-26T21:03:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG90SEVLN3I5amUtV3Vrc3R1c3hXSU9kSTJCcmx1WDBYTVNXRmRLVFYwSjVBTTJqUTNSNEpCZVNrWmVSb3lIMDBQVjhHcjVpdEFzdllndzdzZnFGdEdXbXk3RUg4QlNpWDJKVTJlN0hQRUFKdnhQSWtfSzhsbkZBOXpxWjM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉用车成本优势解析",
-   "title_zh": "特斯拉燃油成本优势解析，五点说明",
-   "sentiment": 0
-  },
-  {
-   "id": "036d1e01ce02",
-   "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRfMmVucXFSYXJ4bS1FazRfZUVHR2JzWV9ndjc1b0phV0p4ZFB3eklsZHJWdC1DeXNyRjhjRzl5eGgydUhlOTJyLS1vSEdkYUc3aWUwQ29RMmtyUlFRYS1paUFMUW1jeWxZTVRhck82WnBJQ1o3RTBKTlVyd254bkw2d0p5S0pzQzFUcXY1SUE5MTFMNGEwZ0kxUGlBV2JsY2lSOFFWZ0Myck1hODFlRWEyQjRNSGdiWDloTWs0QUs",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-26T20:50:12+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-26T20:50:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRfMmVucXFSYXJ4bS1FazRfZUVHR2JzWV9ndjc1b0phV0p4ZFB3eklsZHJWdC1DeXNyRjhjRzl5eGgydUhlOTJyLS1vSEdkYUc3aWUwQ29RMmtyUlFRYS1paUFMUW1jeWxZTVRhck82WnBJQ1o3RTBKTlVyd254bkw2d0p5S0pzQzFUcXY1SUE5MTFMNGEwZ0kxUGlBV2JsY2lSOFFWZ0Myck1hODFlRWEyQjRNSGdiWDloTWs0QUs"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T20:53:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVBoVmJrSlBXdldNU3FuZkcxN19pd21MRFlhcHNvSGFtWnlGd0hKREVQcXBmN0QtTUpoSmxEZzFZWUtSVTJ4eHhuZjNzQWxKSXhhU2c4a0Z6azFCWHQ4UFBiREVyR1FBNWQxSmhPRVR0ekJ0QW83RTZFVi03aUtJeVFWNDd1SjMxdEE4UjNvYWs0blFZZlE"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-26T20:53:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DNHlDVE44d3JDazJVczRhSEhjZ2FJbnVEcHpQVDRuUFpCOURQSkY2bVVuVkl0RU5WNWl0dEM2SG12Si03WHExelVUeklSblNycUtuNzNmbnJxWjBva3I4OWRTZ1NKR09LUEl0Rk1aX1k5ckJhOEZ2cS1kcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉削减50亿美元资本开支引争议",
-   "title_zh": "特斯拉非超大规模企业，AI空头误读50亿美元资本开支削减",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.37,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "5ecc4f42aa02",
-   "title": "Tesla Cybertruck Gone in 2 Countries: Omen for Vehicle's Future? - Tesla (NASDAQ:TSLA) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVRwNXhndDJoQzdZNWhUYVl6d1Zzc2dBX3M4N1poSnNqejl0aHV1bWxiZFJCR0g1VHV5WWJIT2hmcEFkZ0pHZklpczRoZXQ4TmVLU2pzV2dQbUpNYzdWSnN3TWNnaTRpRUNDU2FSeWRrMFhMVU1FR1FZTWVydXpXeGdZb2tFRWRlSWR3ZUhPbV9VVVdRZVBYSG91WGhNNWdNV0E5dUVzSWZuWEYtSVM4YTFlb3lBZ0wtSUNEOGJKUTdhRC1IdkY5T0VyVVY1WFRm",
-   "source": "Benzinga",
-   "published_at": "2026-10-26T20:48:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-26T20:48:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVRwNXhndDJoQzdZNWhUYVl6d1Zzc2dBX3M4N1poSnNqejl0aHV1bWxiZFJCR0g1VHV5WWJIT2hmcEFkZ0pHZklpczRoZXQ4TmVLU2pzV2dQbUpNYzdWSnN3TWNnaTRpRUNDU2FSeWRrMFhMVU1FR1FZTWVydXpXeGdZb2tFRWRlSWR3ZUhPbV9VVVdRZVBYSG91WGhNNWdNV0E5dUVzSWZuWEYtSVM4YTFlb3lBZ0wtSUNEOGJKUTdhRC1IdkY5T0VyVVY1WFRm"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "Cybertruck退出两国市场引担忧",
-   "title_zh": "Cybertruck退出两国市场，前景引担忧",
-   "sentiment": -1
-  },
-  {
-   "id": "7fb3a30776e2",
-   "title": "Tesla Cancels Cybertruck in Two Countries: An Omen for the Vehicle's Future? - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVRwNXhndDJoQzdZNWhUYVl6d1Zzc2dBX3M4N1poSnNqejl0aHV1bWxiZFJCR0g1VHV5WWJIT2hmcEFkZ0pHZklpczRoZXQ4TmVLU2pzV2dQbUpNYzdWSnN3TWNnaTRpRUNDU2FSeWRrMFhMVU1FR1FZTWVydXpXeGdZb2tFRWRlSWR3ZUhPbV9VVVdRZVBYSG91WGhNNWdNV0E5dUVzSWZuWEYtSVM4YTFlb3lBZ0wtSUNEOGJKUTdhRC1IdkY5T0VyVVY1WFRm",
-   "source": "Benzinga",
-   "published_at": "2026-10-26T20:48:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-26T20:48:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVRwNXhndDJoQzdZNWhUYVl6d1Zzc2dBX3M4N1poSnNqejl0aHV1bWxiZFJCR0g1VHV5WWJIT2hmcEFkZ0pHZklpczRoZXQ4TmVLU2pzV2dQbUpNYzdWSnN3TWNnaTRpRUNDU2FSeWRrMFhMVU1FR1FZTWVydXpXeGdZb2tFRWRlSWR3ZUhPbV9VVVdRZVBYSG91WGhNNWdNV0E5dUVzSWZuWEYtSVM4YTFlb3lBZ0wtSUNEOGJKUTdhRC1IdkY5T0VyVVY1WFRm"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉在两国停售Cybertruck",
-   "title_zh": "特斯拉在两国停售Cybertruck",
-   "sentiment": -1
   }
  ]
 }
