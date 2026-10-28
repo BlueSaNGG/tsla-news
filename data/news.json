@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T10:22:29.934337+00:00",
+ "updated_at": "2026-10-28T10:37:29.126491+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（52条已评分）"
+     "note": "今日新闻情绪 +0.07（56条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T10:22:29.919645+00:00"
+   "as_of": "2026-10-28T10:37:29.116958+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 52
+   "avg": 0.07,
+   "count": 56
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a044848d333a",
+   "title": "Turo Verifies Tesla FSD Rentals via API, Oct. 28 [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWJjVXpqTmVrNUpEUzhnR0VyMmYwVWwwUWtDNll6ZENiRnNCRVVmWkpXTXczQXRuMVZtS25ZZ0lwelBWUUlyaGp6T1l4aUl1Nl9yYU52Uzl6RUtnd0tUMDNlRWphWVNIdVpvYWR3V1dkaGFVTEs1cGFYT0NueTBQZU55Z2dsMWRvNURR",
+   "source": "shattered.io",
+   "published_at": "2026-10-28T10:34:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-28T10:34:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWJjVXpqTmVrNUpEUzhnR0VyMmYwVWwwUWtDNll6ZENiRnNCRVVmWkpXTXczQXRuMVZtS25ZZ0lwelBWUUlyaGp6T1l4aUl1Nl9yYU52Uzl6RUtnd0tUMDNlRWphWVNIdVpvYWR3V1dkaGFVTEs1cGFYT0NueTBQZU55Z2dsMWRvNURR"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
@@ -5608,6 +5625,23 @@
    "sentiment": 1
   },
   {
+   "id": "8d3043a15d91",
+   "title": "Tesla has a Cybercab problem nobody saw coming - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw",
+   "source": "Teslarati",
+   "published_at": "2026-10-27T08:46:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-27T08:46:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "f9b8bb1512c5",
    "title": "特斯拉Optimus上岗，为CyberCab无人车充电 - 凤凰网科技",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SSm5pLXdYdGtFQXUwdUJ6N1N2Z19nNEtzVDJzUUZZamlVMVZDRjhkbnZGZGU4OExic1IyUE5NSG9HSV9IWGVGUkZWZlQ",
@@ -6442,51 +6476,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉车门安全功能避免开门事故",
    "title_zh": "特斯拉车门安全功能避免了一起开门事故",
-   "sentiment": 1
-  },
-  {
-   "id": "3a6908002acc",
-   "title": "10月27日早间 Anthropic申请IPO 特斯拉市值飙升5700亿 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWEcxbGVZeXlVNW43YUhJNlNmdHhWNURJeVBwZmtXaTlwTFliVnBKU1lPMXl3bC1leVlGN3UwZkVFTldXTnNSdkV6MlpXLWlFd21MYk5KX0w0V3ZJUjdnR3pmbXVtd2J4X3pQRUxn",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-27T05:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-27T05:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWEcxbGVZeXlVNW43YUhJNlNmdHhWNURJeVBwZmtXaTlwTFliVnBKU1lPMXl3bC1leVlGN3UwZkVFTldXTnNSdkV6MlpXLWlFd21MYk5KX0w0V3ZJUjdnR3pmbXVtd2J4X3pQRUxn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉市值增加5700亿",
-   "title_zh": "10月27日早间：Anthropic申请IPO，特斯拉市值增5700亿",
-   "sentiment": 1
-  },
-  {
-   "id": "583b36b0279b",
-   "title": "9月热销SUV盘点：特斯拉Model Y强势登顶国产新能源全面领跑_新车上市 - 中金在线",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxVlJfRTFkSndXTWMzd2NSaVEyWTVZNXYtbGItNGtmc0gtbFhEcUxHVUNFZzJrUEh1ckxQSG5LVDlEaGNsNzRodmpsY25WbW1BVXBEc25zTnJxZU1TVEJKYlhkaVhDN000MUxOeA",
-   "source": "中金在线",
-   "published_at": "2026-10-27T04:59:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-27T04:59:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxVlJfRTFkSndXTWMzd2NSaVEyWTVZNXYtbGItNGtmc0gtbFhEcUxHVUNFZzJrUEh1ckxQSG5LVDlEaGNsNzRodmpsY25WbW1BVXBEc25zTnJxZU1TVEJKYlhkaVhDN000MUxOeA"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T03:02:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83VGJhS19ZTzZiYUd3TlRSMmVLZXNCQU1RbUpLMi1xZjF0elZpZGVhU0pKVy1tTkVDakp0dFE4cG15TTI4SnhLc1dyeUtfaXE1c0lIMGY1VV9JMTdRN29B"
-    }
-   ],
-   "category": "能源",
-   "session": "盘后",
-   "zh_summary": "9月Model Y登顶热销SUV榜首",
-   "title_zh": "9月热销SUV盘点：特斯拉Model Y强势登顶",
    "sentiment": 1
   }
  ]
