@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T19:22:38.508666+00:00",
+ "updated_at": "2026-10-28T19:37:46.280424+00:00",
  "market": {
-  "price": 402.87,
-  "change_pct": -1.13,
+  "price": 402.63,
+  "change_pct": -1.19,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,7 +22,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（153条已评分）"
+     "note": "今日新闻情绪 -0.01（154条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.87 vs 20日均线 $376.71"
+     "note": "现价 $402.63 vs 20日均线 $376.70"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
    "implied_upside_pct": -0.7,
-   "ma20": 376.71,
-   "as_of": "2026-10-28T19:22:38.500420+00:00"
+   "ma20": 376.7,
+   "as_of": "2026-10-28T19:37:46.274119+00:00"
   },
   "pe_ttm": 111.4,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.01,
-   "count": 153
+   "count": 154
   }
  },
  "meta": {
@@ -451,6 +451,23 @@
    "zh_summary": "特斯拉Optimus学习为无人出租车充电",
    "title_zh": "特斯拉Optimus学习为无人出租车充电",
    "sentiment": 1
+  },
+  {
+   "id": "4c70d4020b45",
+   "title": "Tesla Drops 25 Places as Brand Value Falls 38% in 2026 - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanpxM0FVMklFVEQwZUpfTk9CNklvSjBlTXNrTjJEclZUQXNmRlpEMmk5OHA3RDlEb0NRTmhSU05odVBKUE13LUp4djV4dGlXV3ZpZnRFcU5Qa0VsSmd6MlQ3RDFkRmp5NU9GanZkUkFCOGRjeVBNNlZTb3ZVcnp2LWF6dThLd3NZNmxPSw",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-28T15:35:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-28T15:35:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNanpxM0FVMklFVEQwZUpfTk9CNklvSjBlTXNrTjJEclZUQXNmRlpEMmk5OHA3RDlEb0NRTmhSU05odVBKUE13LUp4djV4dGlXV3ZpZnRFcU5Qa0VsSmd6MlQ3RDFkRmp5NU9GanZkUkFCOGRjeVBNNlZTb3ZVcnp2LWF6dThLd3NZNmxPSw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4059134dfff7",
@@ -6123,6 +6140,23 @@
    "sentiment": 0
   },
   {
+   "id": "09c166abf125",
+   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONFpuZ1RKX1dlamdJczRXYVZzd0VmMTkwV210RDdvdExlUzBrLVN6eTJGdGxmUzNacnNvRm5FcDNCeF9BRV9QRGtiaWNESlF1TFVwOFREVm80d3BGdFRTNmY4UXNkSFMzUTdvTWJQckhELWNjRXlNakdmUXA",
+   "source": "Electrek",
+   "published_at": "2026-10-27T15:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-27T15:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONFpuZ1RKX1dlamdJczRXYVZzd0VmMTkwV210RDdvdExlUzBrLVN6eTJGdGxmUzNacnNvRm5FcDNCeF9BRV9QRGtiaWNESlF1TFVwOFREVm80d3BGdFRTNmY4UXNkSFMzUTdvTWJQckhELWNjRXlNakdmUXA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "b42104de9d47",
    "title": "特斯拉Model 3家用安全空间够吗？新手练车3个维度说清+FAQ - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93T1ZYY2RxYldQMVZBNDVVSVRwNHhWMDBZT3RQRURxR19oUXdmSGl3SEwxUlFONjhGZEhkelNwcU9FVTY4cjNTRy1EX1FpZUJQSlRvSk10Z0M5X2VCelVPRHFMN0lyMGhlelV1V05yTnZDZlcyNVFpTnhVXzk1R1E",
@@ -6455,46 +6489,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉强劲季度业绩暗藏隐忧",
    "title_zh": "特斯拉强劲季度业绩暗藏隐忧",
-   "sentiment": 0
-  },
-  {
-   "id": "46e0c0205e7a",
-   "title": "美股讯号 | 特斯拉与SpaceX合并猜测升温，股价重返400美元 ｜#美股资讯# #特斯拉# #并购消息# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhma3oxcTc1TV81Z3NHaXNFdllQN2tMNDRRdmdzTktHTzZsNkZSSXVUSG1sNFRQT2hSMF8yVFVWeWExNlJuZ1k1ak1tbXlWRllfUmE1VW51UHBuYk0yUjAweHhaWkRBT2hzUGFNbFNiNkcxc2RwSWgxLUZYbFotRkduS25ZT2V0Q21GRQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-27T14:33:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T14:33:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhma3oxcTc1TV81Z3NHaXNFdllQN2tMNDRRdmdzTktHTzZsNkZSSXVUSG1sNFRQT2hSMF8yVFVWeWExNlJuZ1k1ak1tbXlWRllfUmE1VW51UHBuYk0yUjAweHhaWkRBT2hzUGFNbFNiNkcxc2RwSWgxLUZYbFotRkduS25ZT2V0Q21GRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉与SpaceX合并猜测升温",
-   "title_zh": "特斯拉与SpaceX合并猜测升温，股价重返400美元",
-   "sentiment": 1
-  },
-  {
-   "id": "04dce297ca18",
-   "title": "特斯拉Roadster火箭推进器宣称0.81秒破百 量产定于2028年 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbHhoazl5SW1qNGdhdzNvUlRXdE54YVRsMTE0MDVMN3ByVGVvVDBjak81Vk5OTzdlOHM3X0hiMkJ6ZVl4cHN1ZFgyU3RnZW8tazl5ZXZxXzBQdEM5Uk9NWS1jSjBCVTl1LW5tdHVkY2xCbWoxaEwxUXE4eWtVYzdkUw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-27T14:33:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-27T14:33:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbHhoazl5SW1qNGdhdzNvUlRXdE54YVRsMTE0MDVMN3ByVGVvVDBjak81Vk5OTzdlOHM3X0hiMkJ6ZVl4cHN1ZFgyU3RnZW8tazl5ZXZxXzBQdEM5Uk9NWS1jSjBCVTl1LW5tdHVkY2xCbWoxaEwxUXE4eWtVYzdkUw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉Roadster宣称0.81秒破百",
-   "title_zh": "特斯拉Roadster火箭推进器宣称0.81秒破百，量产定于2028年",
    "sentiment": 0
   }
  ]
