@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T18:52:32.610781+00:00",
+ "updated_at": "2026-10-28T19:07:42.523692+00:00",
  "market": {
-  "price": 403.45,
-  "change_pct": -0.99,
+  "price": 402.78,
+  "change_pct": -1.15,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（150条已评分）"
+     "note": "今日新闻情绪 -0.02（152条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.45 vs 20日均线 $376.74"
+     "note": "现价 $402.78 vs 20日均线 $376.70"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.9,
-   "ma20": 376.74,
-   "as_of": "2026-10-28T18:52:32.599095+00:00"
+   "implied_upside_pct": -0.7,
+   "ma20": 376.7,
+   "as_of": "2026-10-28T19:07:42.517115+00:00"
   },
-  "pe_ttm": 111.6,
+  "pe_ttm": 111.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 150
+   "avg": -0.02,
+   "count": 152
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1eedd6589f08",
+   "title": "The New Tesla Roadster Has A Slick Retro-Futuristic User Interface - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kOFZCbmVJcXZGNDJTVV9TX1g5SVJONkZOY0dNNW0xUkp3NlE1c2dBbUJBeDl0VDYwVjBQUnNnckMwUUR4WUdyclBDUnJYamZoMjRncVlYQUkxQUpOOThodFo3b05qdFItNHNvWWtjQlFUYWN1eGxGMElR",
+   "source": "Motor1.com",
+   "published_at": "2026-10-28T19:02:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-28T19:02:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kOFZCbmVJcXZGNDJTVV9TX1g5SVJONkZOY0dNNW0xUkp3NlE1c2dBbUJBeDl0VDYwVjBQUnNnckMwUUR4WUdyclBDUnJYamZoMjRncVlYQUkxQUpOOThodFo3b05qdFItNHNvWWtjQlFUYWN1eGxGMElR"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "4539baa8bb29",
    "title": "Tesla Model Y Vs. Hyundai Ioniq 5 Vs. Toyota bZ Sales: One EV Is Up 103% - Autoblog",
@@ -2116,19 +2133,33 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUNDMkZsZzZFUnU1NG9uNl9XTHVIZld2OGkxWXZjdDdlbDRvZ1hPYUZoRU9OTzdhWXJNNDVPVWFlLWxyWGtRNTREcVFaTnBKUnZ0VEJvWkpQbmcxTm5tc0tVcW9NQXBTbGhhZWJhcHp5aWZ6N2FqQ2x0cUIxZnl4YlVmSVRoUHY2",
    "source": "WIRED",
    "published_at": "2026-10-28T09:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "WIRED",
      "published_at": "2026-10-28T09:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUNDMkZsZzZFUnU1NG9uNl9XTHVIZld2OGkxWXZjdDdlbDRvZ1hPYUZoRU9OTzdhWXJNNDVPVWFlLWxyWGtRNTREcVFaTnBKUnZ0VEJvWkpQbmcxTm5tc0tVcW9NQXBTbGhhZWJhcHp5aWZ6N2FqQ2x0cUIxZnl4YlVmSVRoUHY2"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T18:44:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0FJQjdTUHFFNEpTQmVfY0RTeE90LVEyNno2NEZUVWtsZDA0czJRZEJ4LWZTUFhtWW44cUpaVG5GMVlFSmY5NkJfM2dlVnpKTmZlZDZ1dHFWcjZMTnlGaGhHc0lQWDdoanZvTlZrd0RBOGs1NjUtUUcxdk5GX0RNN1dUbV9SQmZ3bVhjckh5aUo"
+    },
+    {
+     "name": "Gadget Review",
+     "published_at": "2026-10-28T18:44:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSElFZjNlam1uTmMybWdpTHVhc1RKWndQZDV4b0JLY3VSVDhILXdsNzlrbzM3bTNKRHU3NkxOOGpvSlByamlRSmhvVkV5eXBUSkVFTF94bUg0b0s5UU9pY1Z2SEZkNDJySnIyUmJWaGEyMld1RjdWc1JDQ1o0Z2ttc2MzOWFLTGd4Z29Md3EyOS1pd2JfbHVRSW5LRDdnVklTSXdz"
     }
    ],
    "category": "车型产品",
    "session": "盘前",
    "zh_summary": "有人花5万美元只为预订特斯拉跑车",
    "title_zh": "有人花$50,000只为预订一辆特斯拉Roadster",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -1.22,
+    "window_h": 2.0
+   }
   },
   {
    "id": "2ff0c97c569c",
@@ -6462,40 +6493,6 @@
    "zh_summary": "马斯克称Robotaxi胜Waymo但载客量低7倍",
    "title_zh": "马斯克宣称特斯拉Robotaxi胜过Waymo，但Waymo载客量仍高7倍",
    "sentiment": 0
-  },
-  {
-   "id": "564b367b90b4",
-   "title": "美股异动 | 特斯拉(TSLA.US)高开高走涨超2.6% 市值逼近1.6万亿美元 提供者 智通财经 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtUDI3MnJuUGJPRjd1S2RmMkJjUjJSbUFZV3ZrLUNVMXQya2JNMjNVUWMzaU83RHh1UW1nNjE0dEhmYzNJR0lBVi03dUh6akdEVXR4YlFlVEtQYTZWLThWYzVaTktUb3BxWmt2NVlHZzI",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-27T14:22:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-27T14:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtUDI3MnJuUGJPRjd1S2RmMkJjUjJSbUFZV3ZrLUNVMXQya2JNMjNVUWMzaU83RHh1UW1nNjE0dEhmYzNJR0lBVi03dUh6akdEVXR4YlFlVEtQYTZWLThWYzVaTktUb3BxWmt2NVlHZzI"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T14:27:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc180V0VvOFBxdS03NnZUVXhRUFFfWU41T1JNVXRKTXhYSmVVLWVtRWc3Z1hrYkJRQ1lWSnIwbnRWejRkVDNmZTREZ1BVV2FJVHNDNlBIWnZadlZsYUtTQXY2UV9OWENLM0NaTXJTWDRtMjFfSDhKX3I2V2RoNzZIUkFkMXE5TkI4RDdfX1g3TlpNNExyTjVtRFJqd3lJdWhRZWVMWHkyMDFCME40"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-27T14:22:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45U2ZuZnpWT2xvR1lrdW9zRGU5LUJfWXRzeGdPZ3pCaS13NlRMdDFzQi1Ra0s4VldvNzJDcW9JUVltYzByNEVaU3FMZno0bF9Ua3pWaE5HeV9wczhjTnU0WA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉涨超2.6%市值逼近1.6万亿美元",
-   "title_zh": "特斯拉高开高走涨超2.6%，市值逼近1.6万亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.08,
-    "window_h": 0.7
-   }
   }
  ]
 }
