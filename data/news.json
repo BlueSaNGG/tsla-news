@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T07:52:33.121776+00:00",
+ "updated_at": "2026-10-28T08:07:33.184017+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（20条已评分）"
+     "note": "今日新闻情绪 +0.05（22条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T07:52:33.114059+00:00"
+   "as_of": "2026-10-28T08:07:33.175852+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 20
+   "avg": 0.05,
+   "count": 22
   }
  },
  "meta": {
@@ -166,6 +166,23 @@
    "zh_summary": "FSD 14.3.13第六波推送，HW3获精简版",
    "title_zh": "FSD 14.3.13第六波开始推送，HW3获得精简版",
    "sentiment": 1
+  },
+  {
+   "id": "900534626c79",
+   "title": "Key facts: Tesla (TSLA) Robotaxi 2M Miles; SpaceX Merger; Q3 486K - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSy1fSzhBUV9LZk9pTGhnaDkwb20wSnMwRUs2QzhGSzhHOEtISUR3d3ptakozRGZmN2lFd3ZSNURKbGlBR3lTWGIyRmZvdGtUYUJJNDFscGtSdm53dE9meUJrVmF5U2djNTdQR0UwSWJEVDBuM0xOeEhZWmUycWdILWNCeXRnYnZyZ25hTnZuSkp3QXZCbUZ0TEd4QVZWbzZTQmFUU2E1LVVCVXFfTGRJUFIzQnN4U3R1bFRHdlJ4OA",
+   "source": "TradingView",
+   "published_at": "2026-10-28T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-28T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSy1fSzhBUV9LZk9pTGhnaDkwb20wSnMwRUs2QzhGSzhHOEtISUR3d3ptakozRGZmN2lFd3ZSNURKbGlBR3lTWGIyRmZvdGtUYUJJNDFscGtSdm53dE9meUJrVmF5U2djNTdQR0UwSWJEVDBuM0xOeEhZWmUycWdILWNCeXRnYnZyZ25hTnZuSkp3QXZCbUZ0TEd4QVZWbzZTQmFUU2E1LVVCVXFfTGRJUFIzQnN4U3R1bFRHdlJ4OA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "de97469c0080",
@@ -616,6 +633,23 @@
    "zh_summary": "特斯拉Cybercab西南首秀落地成都",
    "title_zh": "特斯拉Cybercab西南首秀落地成都，无方向盘踏板",
    "sentiment": 1
+  },
+  {
+   "id": "574c751f57f5",
+   "title": "特斯拉FSD获准进入拉脱维亚，媒体试乘发现安全问题 - 文学城",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUlFBQUw3RDVzY2NJUFRmZDhzQUdLMGU1Y3NUZEl6eUFZb1B2eHhjZnBJWm84SmJ1SlZUMFRlYlJZWW5PMUJaamhhM0JPci1XU1FsSGhfc2s0LVBWWkVBSllQT3BuTm9KVk1IS1VpdGRKMkk",
+   "source": "文学城",
+   "published_at": "2026-10-28T03:53:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "文学城",
+     "published_at": "2026-10-28T03:53:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUlFBQUw3RDVzY2NJUFRmZDhzQUdLMGU1Y3NUZEl6eUFZb1B2eHhjZnBJWm84SmJ1SlZUMFRlYlJZWW5PMUJaamhhM0JPci1XU1FsSGhfc2s0LVBWWkVBSllQT3BuTm9KVk1IS1VpdGRKMkk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "b71b5cee4032",
@@ -6481,60 +6515,6 @@
    "zh_summary": "马斯克盟友更看好Uber而非特斯拉",
    "title_zh": "马斯克盟友卡拉卡尼斯更看好Uber而非特斯拉",
    "sentiment": -1
-  },
-  {
-   "id": "4d695b3f646e",
-   "title": "Elon Musk Says Merging SpaceX and Tesla Would Be a Good Idea. Here's What Investors Should Know. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk5sdlNBU2E1VzM1SWJiR25qTUpRT3FFNkNUbUlTanNnR01MaS1ZRHI5ZlhRN2lWMm0ycEItckFMc3lsbW1vUDBxUUd5VTIybVZ1QWlmU0VaSzBidUN5UnVGa0dHZDB4T1loS09XNldhc1NPOThzTmZKNGxtZmdiTEJTMzlLTE9sdGsyb2ozNE5CUko2d2E2Zg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-27T02:32:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-27T02:32:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWk5sdlNBU2E1VzM1SWJiR25qTUpRT3FFNkNUbUlTanNnR01MaS1ZRHI5ZlhRN2lWMm0ycEItckFMc3lsbW1vUDBxUUd5VTIybVZ1QWlmU0VaSzBidUN5UnVGa0dHZDB4T1loS09XNldhc1NPOThzTmZKNGxtZmdiTEJTMzlLTE9sdGsyb2ozNE5CUko2d2E2Zg"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克称SpaceX与特斯拉合并是好主意",
-   "title_zh": "马斯克称SpaceX与特斯拉合并是个好主意",
-   "sentiment": 0
-  },
-  {
-   "id": "7ac857575678",
-   "title": "暴涨134%！两家中国车企杀进欧洲销量前十：把福特、特斯拉全甩在身后 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoUGJrQUEzZklNTE1HclBTajhKTzhFRXhEYmJFWm1rUkV3QWtqbW5JRllXNXllS2dEUUdQUzFDRzd5ZDEtV1NQZC1Ca0ZjVmtLME5GRHViLXc",
-   "source": "驱动之家",
-   "published_at": "2026-10-27T02:30:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-27T02:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoUGJrQUEzZklNTE1HclBTajhKTzhFRXhEYmJFWm1rUkV3QWtqbW5JRllXNXllS2dEUUdQUzFDRzd5ZDEtV1NQZC1Ca0ZjVmtLME5GRHViLXc"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-27T02:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzgxcXQ5d19IUk9nQ0lZYVRoYUk5NEVOZTU3T0E3NXRxSTdjZFdQRHlSdEw4aUNFREtxSERuTlNoc1ZqR01WVFJKZG05NVQzbXdodWRGWVJyd281V2VIS1BXc1h6MG8wN0xtVzVnWFdCak4zWnZ5NE1oak5FS3p1UG5Sd3lLNHB6WTNwRFBKQmthcTFCM2UwTTRQVWo5cVNlbXhpUEhaMWpSUTFKc2JGZWxfa2ZhOXJLT0JDdVF3aS12M1BuM0VxRGZYY21kMTJxSzFVaTlfWDlOVGpf"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-27T04:05:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTluV0VXQkhKbkcxVmJEOFJSeGlxYkMwMm1YVHlVRDBrQTlTb2VsVXMzTC1RZFlkdUtLQi1TZUpaeE54RGRFbFlmbXZXTjQzWkZ3WG1RNFhjZTBBazFIaDJ3NG9Sc3BxSkFMc29LckJCR1lBSXpaRGY0TE5KUHB0QUQzZUNyTEt0VHB2S1hUMUlPcEJwSWNtSDNOdU1Yakc2U0NVUl9Faw"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘后",
-   "zh_summary": "两家中国车企进入欧洲销量前十",
-   "title_zh": "暴涨134%！两家中国车企杀进欧洲销量前十：把福特、特斯拉全甩在身后",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.37,
-    "window_h": 0.1
-   }
   }
  ]
 }
