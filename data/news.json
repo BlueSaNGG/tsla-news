@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T07:22:32.958347+00:00",
+ "updated_at": "2026-10-28T07:37:36.339227+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（17条已评分）"
+     "note": "今日新闻情绪 +0.11（19条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T07:22:32.951887+00:00"
+   "as_of": "2026-10-28T07:37:36.328877+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 17
+   "avg": 0.11,
+   "count": 19
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "104c1e2b0f37",
+   "title": "【视频】2026年9月SUV口碑指数排行：特斯拉多车上榜 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92eG8xc2NYcXVUaFJySzVVbG1VemdLWVN4dXNFTi1CS0dMV09nYTAyMUlWZVZZOTJ3YVlMQTRQRC1neWRfZG1uNEpiQWlmaDREbHZ2TGFNNFpfRjVOY3I2QlJHLV9wT3g1Ny04",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T07:29:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T07:29:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92eG8xc2NYcXVUaFJySzVVbG1VemdLWVN4dXNFTi1CS0dMV09nYTAyMUlWZVZZOTJ3YVlMQTRQRC1neWRfZG1uNEpiQWlmaDREbHZ2TGFNNFpfRjVOY3I2QlJHLV9wT3g1Ny04"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "e35b8dacb70b",
    "title": "纳指领涨三大股指！光通信双雄狂飙超10%；存储板块继续走强，西部数据涨近7%；特斯拉涨超4%领涨七巨头 - 东方财富",
@@ -253,12 +270,17 @@
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR2F5UXVNemZkNE5ZekxNWkczbWZwb251N283LTRBcWJrc2pqUnF2UFQ5S0FzeXZTcFFycHhSM2ZyOFpLdmZadFZ6OEdkbEVCTU5wcXlZd2tUdjVsNmkyUlR5S210ZnpUYlJVOW9CdC1DUFNaS1dyV210eURJZ25BYUFZZkRYODA1UG5weVpqVERaU1RTNXFOU1lTcHJjNjgzc3ByQVc5czFHOEJqekVKM1ZPRk5KQnRWOWFmbm5JczRxZ2R2b0liSWpLT2hpRzNSVEdFV050bVRHVVpQM29iQjB4dVVfNkN1NEVwaS1rN2ZnbWpQNlkyd0FWV1kzZ2c",
    "source": "TradingView",
    "published_at": "2026-10-28T06:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-28T06:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR2F5UXVNemZkNE5ZekxNWkczbWZwb251N283LTRBcWJrc2pqUnF2UFQ5S0FzeXZTcFFycHhSM2ZyOFpLdmZadFZ6OEdkbEVCTU5wcXlZd2tUdjVsNmkyUlR5S210ZnpUYlJVOW9CdC1DUFNaS1dyV210eURJZ25BYUFZZkRYODA1UG5weVpqVERaU1RTNXFOU1lTcHJjNjgzc3ByQVc5czFHOEJqekVKM1ZPRk5KQnRWOWFmbm5JczRxZ2R2b0liSWpLT2hpRzNSVEdFV050bVRHVVpQM29iQjB4dVVfNkN1NEVwaS1rN2ZnbWpQNlkyd0FWV1kzZ2c"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T06:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGFMZF8tSVJpV0pfa0RYeVREeWRvSVVQWnp0QmNSdmttMkotclpuOGVJRDBsR3Y0YThQXy00ZmxRWktPTGk4bkRkUjQ1SU9ZaDJkcGlYYzQ3NUhyWGpEemdDOWFlNl9OZVVOM1U4OUZqcUF2amFpaUtmY2JELVRMLW1IaDVCamtTdHhMcGlGclpQb3hGRDVFSg"
     }
    ],
    "category": "其他",
@@ -6501,26 +6523,6 @@
    "zh_summary": "特斯拉FSD进入拉脱维亚试乘发现安全问题",
    "title_zh": "特斯拉FSD获准进入拉脱维亚，媒体试乘发现安全问题",
    "sentiment": 0
-  },
-  {
-   "id": "95f07d104deb",
-   "title": "特斯拉自研AI地图导航：摆脱图商依赖，FSD迈向“真无人”的关键 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KTHdpek40NTMwS0ROeHpVVkJraDBuQzZGRVZ0YTgtcUNkUVhwRS1QVE5BNGJNaEVzVUVuMkdCemlhSC16VlkyVlVKYUVRQ2IybmJOeWZwcDgyTC16OEt2WDdCeEd0UWhFTHJR",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T02:19:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T02:19:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KTHdpek40NTMwS0ROeHpVVkJraDBuQzZGRVZ0YTgtcUNkUVhwRS1QVE5BNGJNaEVzVUVuMkdCemlhSC16VlkyVlVKYUVRQ2IybmJOeWZwcDgyTC16OEt2WDdCeEd0UWhFTHJR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉自研AI地图导航助FSD迈向真无人",
-   "title_zh": "特斯拉自研AI地图导航，FSD迈向真无人关键",
-   "sentiment": 1
   }
  ]
 }
