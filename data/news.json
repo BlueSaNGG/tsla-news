@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T14:52:33.546708+00:00",
+ "updated_at": "2026-10-28T15:07:35.819117+00:00",
  "market": {
-  "price": 400.58,
-  "change_pct": -1.69,
+  "price": 401.04,
+  "change_pct": -1.58,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（102条已评分）"
+     "note": "今日新闻情绪 +0.03（104条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $400.58 vs 20日均线 $376.60"
+     "note": "现价 $401.04 vs 20日均线 $376.62"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.1,
-   "ma20": 376.6,
-   "as_of": "2026-10-28T14:52:33.539501+00:00"
+   "implied_upside_pct": -0.3,
+   "ma20": 376.62,
+   "as_of": "2026-10-28T15:07:35.807813+00:00"
   },
-  "pe_ttm": 110.8,
+  "pe_ttm": 110.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 102
+   "avg": 0.03,
+   "count": 104
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ea98991075ad",
+   "title": "$Meta Platforms (META.US)$$特斯拉(TSLA.US)$在其他一切都在上涨的时候，唯有这两只股... - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1ZPQWx3MUsyN251Qi1QY0hrUFVDR250VWJ4ZFh5UE1oZnF0QlpiZGlxR1QtckwzR1lPeGQ2UmVlc1FnVFJGVGFzYXpHbWFRMm9uN09YS3h6eWRjSndzRVc2WXhQUkVueF9hVWRTVC1MMktiYklBRUJrR21tMUMzNUlldFQ1WDVETkdEcFoyb09FTWlSMWF4a2JkNk96dGpTbjhDQXJvRU9ObUQ1NEUyWXpzZWNSTFpV",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T14:58:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T14:58:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1ZPQWx3MUsyN251Qi1QY0hrUFVDR250VWJ4ZFh5UE1oZnF0QlpiZGlxR1QtckwzR1lPeGQ2UmVlc1FnVFJGVGFzYXpHbWFRMm9uN09YS3h6eWRjSndzRVc2WXhQUkVueF9hVWRTVC1MMktiYklBRUJrR21tMUMzNUlldFQ1WDVETkdEcFoyb09FTWlSMWF4a2JkNk96dGpTbjhDQXJvRU9ObUQ1NEUyWXpzZWNSTFpV"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5f0556a9c945",
    "title": "16-year-old dies after electric scooter struck by Tesla in Bridgewater - Central New Jersey News",
@@ -126,6 +143,23 @@
    "zh_summary": "特斯拉确认进军越南挑战VinFast",
    "title_zh": "特斯拉确认进军越南，挑战市占率36%的VinFast",
    "sentiment": 1
+  },
+  {
+   "id": "b0da29a9b031",
+   "title": "Tesla shares pull back as rally pauses - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTkyX1R6aUlhbHVCV2lpU0t3WG5Cc08zX215VzZoOUJCRVJSdms1NjgxUGkxcXFyTVFEZVhNN05kOVNFZEV2RDR4VHZiNUM0YnRBOEpCaTFqT3pSNUh3cms3OEpDSnVOVlNGUlZxcWdyMkwxN0dUS0ZITEJFY3ptSXkxaEVTLVhoT0lDN3FBMDBrZVc1VG1B",
+   "source": "StreetInsider",
+   "published_at": "2026-10-28T14:24:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "StreetInsider",
+     "published_at": "2026-10-28T14:24:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTkyX1R6aUlhbHVCV2lpU0t3WG5Cc08zX215VzZoOUJCRVJSdms1NjgxUGkxcXFyTVFEZVhNN05kOVNFZEV2RDR4VHZiNUM0YnRBOEpCaTFqT3pSNUh3cms3OEpDSnVOVlNGUlZxcWdyMkwxN0dUS0ZITEJFY3ptSXkxaEVTLVhoT0lDN3FBMDBrZVc1VG1B"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "665d523c3703",
@@ -273,6 +307,23 @@
    "sentiment": 0
   },
   {
+   "id": "30339edcdcc2",
+   "title": "TSLA Stock Price Prediction 2026-2027 | Tesla Forecast - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHRBbk5aOXUxN2dWSnhfRGJTSUtSU1VzV1JVblFNMDBRZXhWSW92WHMtY1o4VDFDbU9GdldZczFLa0NMa2REdDAxSXZtOUF1eDFoTlN5VXlnZUNpUHUta0lpdTRpT0FUbWVSSTJxVW1tUFhWZFBhSnZTcW1RTk5SWElYdHVtem9Sb3NnSXhlUXNPQTg",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-28T13:38:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-28T13:38:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHRBbk5aOXUxN2dWSnhfRGJTSUtSU1VzV1JVblFNMDBRZXhWSW92WHMtY1o4VDFDbU9GdldZczFLa0NMa2REdDAxSXZtOUF1eDFoTlN5VXlnZUNpUHUta0lpdTRpT0FUbWVSSTJxVW1tUFhWZFBhSnZTcW1RTk5SWElYdHVtem9Sb3NnSXhlUXNPQTg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "3ba2e7eda7ba",
    "title": "Tesla Model Y L: Owner shares quick observations and impressions - Team-BHP",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ",
@@ -336,6 +387,23 @@
    "zh_summary": "特斯拉半挂车在I-880自燃致封路",
    "title_zh": "特斯拉Semi在I-880行驶中自燃致全线封闭",
    "sentiment": -1
+  },
+  {
+   "id": "340e838be061",
+   "title": "Turo Now Lets You Rent A Tesla With Full Self-Driving - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdFU4TERHeWU5TU8yRG1naVFxQVBQRll3aEs1Vi1iY3VYNGZkN29PTVJsRjlfSS1ZanZQVXBsTUxJT3kwRXJqTHRjUWdKOTZrRHNxSXQxQVlDWU1pUVplYTV5MnlQVjAxcjRqRFd0Z2Z3b2c2",
+   "source": "Motor1.com",
+   "published_at": "2026-10-28T13:00:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-10-28T13:00:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdFU4TERHeWU5TU8yRG1naVFxQVBQRll3aEs1Vi1iY3VYNGZkN29PTVJsRjlfSS1ZanZQVXBsTUxJT3kwRXJqTHRjUWdKOTZrRHNxSXQxQVlDWU1pUVplYTV5MnlQVjAxcjRqRFd0Z2Z3b2c2"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "49fd66167dc6",
@@ -1048,6 +1116,23 @@
    "sentiment": 1
   },
   {
+   "id": "2cfa51832234",
+   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
+   "source": "中华网",
+   "published_at": "2026-10-28T10:30:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T10:30:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN3ZOcW5DcXBoOFVCUm1RMzY3UDc2OGNOcnFwLTczalhISmNnbVF6SnItZlpUODFPbGRDcDZJLWNEOURLZEVERVFqZ1IwNUR6ZzkxTXZXVlZ3RDQtSGFHQ1R3",
@@ -1482,6 +1567,23 @@
    "sentiment": 1
   },
   {
+   "id": "ac6cf75ef1c2",
+   "title": "【视频】大湾区首次展览！来凑个热闹看看特斯拉Cybercab - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qRWhOaks0TUIwTU91VFR5M0FLeGZuNm9uOHpsVnlHOV9DYnJSVmVzMnBrUXRDaVdhdXVJYWxId19PNzJQQWhHRzZpRXdvS0Fobk9TTlpMWGR5VFU",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T08:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T08:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qRWhOaks0TUIwTU91VFR5M0FLeGZuNm9uOHpsVnlHOV9DYnJSVmVzMnBrUXRDaVdhdXVJYWxId19PNzJQQWhHRzZpRXdvS0Fobk9TTlpMWGR5VFU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "ac2a728e1dd5",
    "title": "特斯拉(TSLA.US)与SpaceX(SPCX.US)合并如何定价？500美元是说服股东的关键价？ 提供者智通财经 - 英为财情 Investing.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZEZvR2xUeFNhVlk2am1UR2I5Qm0xLXVqcFdiMzVnX2JsbG5QeE02T0lEYU5rU2FNV29XQ2ZGOWZ2YnB5ZDhUMWZ5TENkUEhfa3o2MkVwZTlDZHFXd0VmaTlsSGgtNzJtcUZ4OGs1ZUE",
@@ -1560,6 +1662,23 @@
    "zh_summary": "美国一特斯拉Semi重卡起火司机逃生",
    "title_zh": "美国一特斯拉Semi电动重卡起火，司机成功逃生",
    "sentiment": -1
+  },
+  {
+   "id": "a58817355cc6",
+   "title": "Electrek： 特斯拉开始在越南招聘员工 - UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjI2b0UtdEYtVmpRUEhJaFFzVkNxMzNBeEppQk9UNkZEYTgzcDdkeGxESWtCanBqaWtrLXJsWTVLNnRtWDRGZHpraGo2TllrLWlNS2ZlTEdMSUIyY2g1R1lNNGFkRzc2Tm9FSHoxX19WMnk3UHJ3R2dYWXJkNjRYV3BRbWtNd2ZpaEE",
+   "source": "UA.NEWS",
+   "published_at": "2026-10-28T08:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "UA.NEWS",
+     "published_at": "2026-10-28T08:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjI2b0UtdEYtVmpRUEhJaFFzVkNxMzNBeEppQk9UNkZEYTgzcDdkeGxESWtCanBqaWtrLXJsWTVLNnRtWDRGZHpraGo2TllrLWlNS2ZlTEdMSUIyY2g1R1lNNGFkRzc2Tm9FSHoxX19WMnk3UHJ3R2dYWXJkNjRYV3BRbWtNd2ZpaEE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "42dec8ca0080",
@@ -3682,6 +3801,23 @@
    "zh_summary": "特斯拉Robotaxi在休斯敦扩大覆盖",
    "title_zh": "特斯拉Robotaxi在休斯敦扩大覆盖范围",
    "sentiment": 1
+  },
+  {
+   "id": "9d3e235503ec",
+   "title": "特斯拉Cybercab产线曝光 25工位自动化近80% - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dm9LZkVLVmZwM2VtMGZ0VTVOLXotUkVLT1hsVWhyc2FOQjE4elJLbzUtTHhpRzJBUEhENlVMNUQtR08wOVZBbl96VTZBdktzbWFEYmhEQkNkbGs",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T21:30:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T21:30:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dm9LZkVLVmZwM2VtMGZ0VTVOLXotUkVLT1hsVWhyc2FOQjE4elJLbzUtTHhpRzJBUEhENlVMNUQtR08wOVZBbl96VTZBdktzbWFEYmhEQkNkbGs"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
   },
   {
    "id": "65ac87c88f9c",
@@ -6346,176 +6482,6 @@
    "session": "盘前",
    "zh_summary": "评论：马斯克SpaceX与特斯拉合并谁受益",
    "title_zh": "评论：马斯克的SpaceX与特斯拉合并谁受益",
-   "sentiment": 0
-  },
-  {
-   "id": "a6842801ec17",
-   "title": "从NCM到LFP：特斯拉Cybercab电池包预留空间兼容磷酸铁锂电池三电方案解读 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfV2Y5N3E3SGhBQmhEV1dQbnpnRjJ5dl9zalpidWYxNXlRNm53dVpVYktpUk9ScnM4bU5UTjFzMG9zUjN4YXB6eDAzV1NZUkxNNnVxT1lPU2lORVE",
-   "source": "网通社",
-   "published_at": "2026-10-27T09:45:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-27T09:45:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfV2Y5N3E3SGhBQmhEV1dQbnpnRjJ5dl9zalpidWYxNXlRNm53dVpVYktpUk9ScnM4bU5UTjFzMG9zUjN4YXB6eDAzV1NZUkxNNnVxT1lPU2lORVE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab电池包兼容磷酸铁锂方案",
-   "title_zh": "从NCM到LFP：特斯拉Cybercab电池包兼容磷酸铁锂",
-   "sentiment": 0
-  },
-  {
-   "id": "105318e895df",
-   "title": "大和证券将特斯拉的目标价从$345调整至$390 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkZDZmpxUnZYVFNMcTZFMkEwMmhFcDFPSjYxbm5FaloyR2FLYThuNTV5TU12M0dkUWxUTE9hZUV6UXlEQVhXekhkbTBUWHQzS2sxdF9hOWw2cVJqUUNXbHh4NW5TTkxzSXFtd2c4OGcwSzBQR2xmYVExWnVuNkh0RG05RTYyc2xvcmxkOGhjc2dQbERaR2JfSEVnSV9OMHd6S1V1d0VSaUh0Wkk",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T09:40:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T09:40:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkZDZmpxUnZYVFNMcTZFMkEwMmhFcDFPSjYxbm5FaloyR2FLYThuNTV5TU12M0dkUWxUTE9hZUV6UXlEQVhXekhkbTBUWHQzS2sxdF9hOWw2cVJqUUNXbHh4NW5TTkxzSXFtd2c4OGcwSzBQR2xmYVExWnVuNkh0RG05RTYyc2xvcmxkOGhjc2dQbERaR2JfSEVnSV9OMHd6S1V1d0VSaUh0Wkk"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "大和证券上调特斯拉目标价至$390",
-   "title_zh": "大和证券将特斯拉的目标价从$345调整至$390 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "cd7d18db5537",
-   "title": "特斯拉Cybercab电池包预留空间兼容磷酸铁锂电池，新能源Robotaxi太卷了！ - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV3pBSjhlVFRMUGxXLXc0Y0hTMmFjRXJjUlpveW1TQzlyVXU5MHhJb1lnWXpiVDc3T0xQZEYySkNJSjQtVGtTTS1aV0ROZ0I3MmJhWXB2Ym9BM28",
-   "source": "网通社",
-   "published_at": "2026-10-27T09:39:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-27T09:39:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV3pBSjhlVFRMUGxXLXc0Y0hTMmFjRXJjUlpveW1TQzlyVXU5MHhJb1lnWXpiVDc3T0xQZEYySkNJSjQtVGtTTS1aV0ROZ0I3MmJhWXB2Ym9BM28"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab电池包兼容磷酸铁锂电池",
-   "title_zh": "特斯拉Cybercab电池包预留空间兼容磷酸铁锂电池",
-   "sentiment": 1
-  },
-  {
-   "id": "dc369ffaff30",
-   "title": "亚马逊Zoox、Waymo与特斯拉CyberCab三辆无人出租车在奥斯汀窄路相遇陷入死锁 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZURsSmttTThsSEF5X0sxNUdFcmh3dFkydXlrU2N5N0xQTG0yZFYwYjhyTDRUTFQxcWtNNU9WaFl2OTEyOUJmWWVnVjM2TXc0NlFKSWZaMUFLeGs",
-   "source": "网通社",
-   "published_at": "2026-10-27T09:37:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-27T09:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IZURsSmttTThsSEF5X0sxNUdFcmh3dFkydXlrU2N5N0xQTG0yZFYwYjhyTDRUTFQxcWtNNU9WaFl2OTEyOUJmWWVnVjM2TXc0NlFKSWZaMUFLeGs"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T01:19:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdDF0WVk4dXBmcTJsOFJHdFIzeDhhTnF4LXIwUF9VUzlOR0M3OFNfSFNlYm8zYW9qRjYtRlJwZzRnZmZDYWtMbkNpXzRVUVdsYlgzdmI3MktjeDA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉CyberCab奥斯汀窄路与对手死锁",
-   "title_zh": "亚马逊Zoox、Waymo与特斯拉CyberCab奥斯汀窄路相遇死锁",
-   "sentiment": -1
-  },
-  {
-   "id": "b6d0ea4ba750",
-   "title": "第二代特斯拉Roadster跑车抵达彼得森汽车博物馆首次公开亮相 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy1NSm5OTHgyVUZ1anZ5bXdieUNqVXVoRzltaFVjdF9COTRqV1FkNVNJbkU0TkhNb3FabWlPNGltNEY4cndEZTR5ZUswX29NUDlaTWFuTHc2ek5NTXFwY2VrZ1l5MGkyaURTY1VXNGY2UUdXbGdKVjRWUTFzZ2Z2NU1hMU9adEtIMDM3TGZfbw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-27T09:34:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-27T09:34:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTy1NSm5OTHgyVUZ1anZ5bXdieUNqVXVoRzltaFVjdF9COTRqV1FkNVNJbkU0TkhNb3FabWlPNGltNEY4cndEZTR5ZUswX29NUDlaTWFuTHc2ek5NTXFwY2VrZ1l5MGkyaURTY1VXNGY2UUdXbGdKVjRWUTFzZ2Z2NU1hMU9adEtIMDM3TGZfbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "第二代Roadster跑车在汽车博物馆亮相",
-   "title_zh": "第二代特斯拉Roadster跑车抵达彼得森汽车博物馆亮相",
-   "sentiment": 0
-  },
-  {
-   "id": "3fbdf0cff5f5",
-   "title": "特斯拉Cybercab产线仅25工位，机器人充电省几亿 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yTGhXaDIyMTFwR0xFY0JBdTFGb0V3U19feVRxZ0E2MlpSSXFTVXVNN1FoN25INUVYeVdtbWk4WFF1aTRGS3h4RXh0cU1wZmF5N3J6RWdYaHBDdnc",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T09:33:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T09:33:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yTGhXaDIyMTFwR0xFY0JBdTFGb0V3U19feVRxZ0E2MlpSSXFTVXVNN1FoN25INUVYeVdtbWk4WFF1aTRGS3h4RXh0cU1wZmF5N3J6RWdYaHBDdnc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab产线仅25工位，机器人充电省钱",
-   "title_zh": "特斯拉Cybercab产线仅25工位，机器人充电省几亿",
-   "sentiment": 1
-  },
-  {
-   "id": "532db09d97f4",
-   "title": "特斯拉三季度业绩会提出Optimus对外交付预期在2027年底前后，弗里蒙特进入早期生产爬坡 - 虎嗅",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZjUwU1RqenV6VkNSOG9uZUdFUmIzYXpnd1NVMEVtYmFCREl6LVJOdzBLcFh0ZTVnUVNqVG1NdE1rVDU4czZTMU5RdnRRb2x0N0U4Sg",
-   "source": "虎嗅",
-   "published_at": "2026-10-27T09:33:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "虎嗅",
-     "published_at": "2026-10-27T09:33:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPZjUwU1RqenV6VkNSOG9uZUdFUmIzYXpnd1NVMEVtYmFCREl6LVJOdzBLcFh0ZTVnUVNqVG1NdE1rVDU4czZTMU5RdnRRb2x0N0U4Sg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉Optimus预计2027年底前后对外交付",
-   "title_zh": "特斯拉Optimus预计2027年底前后对外交付，弗里蒙特爬坡",
-   "sentiment": 1
-  },
-  {
-   "id": "a7f8318675be",
-   "title": "Can Boston Dynamics keep up with Tesla and China in the humanoid robot race? - MassLive.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVBHNEVBR05VR1NCSExqMWJ5cjJxUUlqRGtKOExZczNKN3plMFFQaS1ZYUktNGlpUWlGcUVYV21vR1l6X25tMGNuaWhCeFZPdkl6bUxZUUtTRkpqeGlpR0RPYl9wdDZWOVJWTGJoRFJyelJZNWJkNUk0TTRHcG1HakRCZHZPRVZzODhZSTFCNTdfNWRyTmRiTDhXbTRoamItWkdGcW12cGtUZlNQSjRnNHNVWVJzMmJydlE",
-   "source": "MassLive.com",
-   "published_at": "2026-10-27T09:33:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MassLive.com",
-     "published_at": "2026-10-27T09:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVBHNEVBR05VR1NCSExqMWJ5cjJxUUlqRGtKOExZczNKN3plMFFQaS1ZYUktNGlpUWlGcUVYV21vR1l6X25tMGNuaWhCeFZPdkl6bUxZUUtTRkpqeGlpR0RPYl9wdDZWOVJWTGJoRFJyelJZNWJkNUk0TTRHcG1HakRCZHZPRVZzODhZSTFCNTdfNWRyTmRiTDhXbTRoamItWkdGcW12cGtUZlNQSjRnNHNVWVJzMmJydlE"
-    },
-    {
-     "name": "MassLive",
-     "published_at": "2026-10-27T09:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVBHNEVBR05VR1NCSExqMWJ5cjJxUUlqRGtKOExZczNKN3plMFFQaS1ZYUktNGlpUWlGcUVYV21vR1l6X25tMGNuaWhCeFZPdkl6bUxZUUtTRkpqeGlpR0RPYl9wdDZWOVJWTGJoRFJyelJZNWJkNUk0TTRHcG1HakRCZHZPRVZzODhZSTFCNTdfNWRyTmRiTDhXbTRoamItWkdGcW12cGtUZlNQSjRnNHNVWVJzMmJydlE"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "波士顿动力与特斯拉中国竞逐人形机器人",
-   "title_zh": "波士顿动力能否跟上特斯拉与中国的人形机器人竞赛",
    "sentiment": 0
   }
  ]
