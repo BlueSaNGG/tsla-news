@@ -1684,7 +1684,11 @@
    "session": "盘中",
    "zh_summary": "SpaceX与特斯拉考虑合并",
    "title_zh": "SpaceX与特斯拉董事会考虑合并",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.2,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a7e0627214fc",
@@ -1865,6 +1869,26 @@
    "zh_summary": "特斯拉利润下滑43%股价仍坚挺",
    "title_zh": "特斯拉利润下滑43%但股价坚挺，原因解析",
    "sentiment": 0
+  },
+  {
+   "id": "6953f18848ef",
+   "title": "174万人为特斯拉FSD买单！中国市场智驾付费还有多远？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWlM4ZUpUU1dXVXJCOEl5UXR6WmxVenRHOUFlaG5PVktSbmZRSVVvdkhzQ280SkYwLVc5RGc0MktkN2FNei1ubjJDT1pOMGhDYjQ1OHhPM2FWOFU",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T16:15:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T16:15:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWlM4ZUpUU1dXVXJCOEl5UXR6WmxVenRHOUFlaG5PVktSbmZRSVVvdkhzQ280SkYwLVc5RGc0MktkN2FNei1ubjJDT1pOMGhDYjQ1OHhPM2FWOFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "174万人为特斯拉FSD买单",
+   "title_zh": "174万人为特斯拉FSD买单！中国市场智驾付费还有多远？ - 汽车之家",
+   "sentiment": 1
   },
   {
    "id": "8c2e2a817aef",
@@ -5924,6 +5948,26 @@
    "zh_summary": "马斯克整活致特斯拉全面跳票",
    "title_zh": "马斯克整活，特斯拉全面跳票",
    "sentiment": -1
+  },
+  {
+   "id": "037ad02fc782",
+   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw",
+   "source": "InsideEVs",
+   "published_at": "2026-10-27T01:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-27T01:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后",
+   "zh_summary": "特斯拉Cybercab未来将用磷酸铁锂电池",
+   "title_zh": "特斯拉为Cybercab未来设计磷酸铁锂电池方案",
+   "sentiment": 0
   },
   {
    "id": "5a063307fb56",
@@ -139518,5 +139562,5 @@
    "sentiment": -1
   }
  ],
- "count": 6761
+ "count": 6763
 }
