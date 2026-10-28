@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T19:07:42.523692+00:00",
+ "updated_at": "2026-10-28T19:22:38.508666+00:00",
  "market": {
-  "price": 402.78,
-  "change_pct": -1.15,
+  "price": 402.87,
+  "change_pct": -1.13,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.02（152条已评分）"
+     "note": "今日新闻情绪 -0.01（153条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.78 vs 20日均线 $376.70"
+     "note": "现价 $402.87 vs 20日均线 $376.71"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 19,
    "implied_upside_pct": -0.7,
-   "ma20": 376.7,
-   "as_of": "2026-10-28T19:07:42.517115+00:00"
+   "ma20": 376.71,
+   "as_of": "2026-10-28T19:22:38.500420+00:00"
   },
   "pe_ttm": 111.4,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.02,
-   "count": 152
+   "avg": -0.01,
+   "count": 153
   }
  },
  "meta": {
@@ -2408,6 +2408,23 @@
    "zh_summary": "布莱克警告押注无人驾驶主导的投资者",
    "title_zh": "加里·布莱克警告押注Robotaxi主导地位的多头",
    "sentiment": -1
+  },
+  {
+   "id": "d33e0b8ec69c",
+   "title": "$特斯拉(TSLA.US)$$美光科技(MU.US)$ 是时候关单换另一个策略了^^学好期权及投资逻辑很重... - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDh0aFpOUnAxUHRwOUMtQ2Naa3dQVnlUQ2N6VTFsUUE0WC1ySE02X2VrSnJhRXh1MkdtVXBKamJoY0ZmZERvakFHWmZnYTYyLV81MW94VllTTi05RXNsRTVGNlh6dFE1TmpNUmF3QjI5RENJdjM3aTk3c2VySktQU1E3bjdCT3dSYkVNTDFkV3ZrVExNOUpTaDNWNDlMX081WU0wdEk2TnE3Zw",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T08:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T08:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDh0aFpOUnAxUHRwOUMtQ2Naa3dQVnlUQ2N6VTFsUUE0WC1ySE02X2VrSnJhRXh1MkdtVXBKamJoY0ZmZERvakFHWmZnYTYyLV81MW94VllTTi05RXNsRTVGNlh6dFE1TmpNUmF3QjI5RENJdjM3aTk3c2VySktQU1E3bjdCT3dSYkVNTDFkV3ZrVExNOUpTaDNWNDlMX081WU0wdEk2TnE3Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f3a9c1a5135d",
@@ -6475,26 +6492,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Roadster宣称0.81秒破百",
    "title_zh": "特斯拉Roadster火箭推进器宣称0.81秒破百，量产定于2028年",
-   "sentiment": 0
-  },
-  {
-   "id": "09c166abf125",
-   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONFpuZ1RKX1dlamdJczRXYVZzd0VmMTkwV210RDdvdExlUzBrLVN6eTJGdGxmUzNacnNvRm5FcDNCeF9BRV9QRGtiaWNESlF1TFVwOFREVm80d3BGdFRTNmY4UXNkSFMzUTdvTWJQckhELWNjRXlNakdmUXA",
-   "source": "Electrek",
-   "published_at": "2026-10-27T14:27:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-27T14:27:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBONFpuZ1RKX1dlamdJczRXYVZzd0VmMTkwV210RDdvdExlUzBrLVN6eTJGdGxmUzNacnNvRm5FcDNCeF9BRV9QRGtiaWNESlF1TFVwOFREVm80d3BGdFRTNmY4UXNkSFMzUTdvTWJQckhELWNjRXlNakdmUXA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "马斯克称Robotaxi胜Waymo但载客量低7倍",
-   "title_zh": "马斯克宣称特斯拉Robotaxi胜过Waymo，但Waymo载客量仍高7倍",
    "sentiment": 0
   }
  ]
