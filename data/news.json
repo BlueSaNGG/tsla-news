@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T21:52:39.962676+00:00",
+ "updated_at": "2026-10-28T22:07:33.538569+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（175条已评分）"
+     "note": "今日新闻情绪 -0.02（178条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-28T21:52:39.953622+00:00"
+   "as_of": "2026-10-28T22:07:33.532269+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 175
+   "avg": -0.02,
+   "count": 178
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ce28dcd874d3",
+   "title": "Tesla Korea seeks exemption to unlock FSD for China-made cars - Korea JoongAng Daily",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTBXY1Uta1Vfempjd1FUV2lNWG50dzFDTUNZOHNHWnNsOUxQNGtVRW1VVXhHc3hpOGVGN3VINEEySFFqTVRKM1BhSWE3al9GSllPSlQ5ZWRtSm0wSjFkX0FreTVEaU9VOGtzcm9MXzNERjNjaldqRmRKQ3dLNF93b0N5ZHpjY3JJb1l2LWNldHp1YmxiX0pOZVhmTW9SUUNxc2wzOGVFdUVkM2NQOTc1QXl0RQ",
+   "source": "Korea JoongAng Daily",
+   "published_at": "2026-10-28T22:00:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Korea JoongAng Daily",
+     "published_at": "2026-10-28T22:00:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTBXY1Uta1Vfempjd1FUV2lNWG50dzFDTUNZOHNHWnNsOUxQNGtVRW1VVXhHc3hpOGVGN3VINEEySFFqTVRKM1BhSWE3al9GSllPSlQ5ZWRtSm0wSjFkX0FreTVEaU9VOGtzcm9MXzNERjNjaldqRmRKQ3dLNF93b0N5ZHpjY3JJb1l2LWNldHp1YmxiX0pOZVhmTW9SUUNxc2wzOGVFdUVkM2NQOTc1QXl0RQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "0684a2f6dfa4",
    "title": "‘Unburdensome’: The Slate Truck Is Easier Than A Tesla To Live With, James May Says - InsideEVs",
@@ -428,26 +445,6 @@
    "sentiment": 0
   },
   {
-   "id": "e5eb7e5eab74",
-   "title": "A Tesla Semi Truck Burst Into A Blaze So Flamin’ Hot It Shut Down A Highway For 10 Hours As It Reduced Itself To Ash - The Autopian",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmpmTm9FNWg1dENkbDhLTDh3R050MDctblpzZDhQdmpHVWpXQkd4VXhGclROeUxPdWFheDZnMUVXOXloczRqcmZKc2VrZVh5QWhETmhBOU5pN1FNUzdUbXhfNi1zY3BDNUV3ZEk3NnhUamtWWkQweXh1LUlEV3hUSzFLb1JaZ3kzZ1BDUWJxOGM2MG1BcHFjOU9RQVlqRUxDVUFlX3FNYWpNcWZxUU5QQU43R21EejJaY19pRTNZdjQ4bXNmTkkxaHdUekZEMVhaeEJxRVctbW1wbDNK",
-   "source": "The Autopian",
-   "published_at": "2026-10-28T18:33:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Autopian",
-     "published_at": "2026-10-28T18:33:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmpmTm9FNWg1dENkbDhLTDh3R050MDctblpzZDhQdmpHVWpXQkd4VXhGclROeUxPdWFheDZnMUVXOXloczRqcmZKc2VrZVh5QWhETmhBOU5pN1FNUzdUbXhfNi1zY3BDNUV3ZEk3NnhUamtWWkQweXh1LUlEV3hUSzFLb1JaZ3kzZ1BDUWJxOGM2MG1BcHFjOU9RQVlqRUxDVUFlX3FNYWpNcWZxUU5QQU43R21EejJaY19pRTNZdjQ4bXNmTkkxaHdUekZEMVhaeEJxRVctbW1wbDNK"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Semi卡车起火封路10小时",
-   "title_zh": "特斯拉Semi卡车起火猛烈，高速封路10小时化为灰烬",
-   "sentiment": -1
-  },
-  {
    "id": "a84e936353ab",
    "title": "Tesla Semi gets a new factory and a record order — now the electric truck must beat diesel on cost - Automotive News",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiYU1CMmRpZ0RLaXBndWdHUzBrUkdpQkdDaTdGQWdxdDRQWW91MWE5MnpKaGNwR2xGbmdYOG9zSFZmMXVaRTlrOW56MUZRa0ZvYVNrTm1wTHVUcVNCM2xOQ0EwSHJDQ2JIRXpJZXBHSEhrT1djblpTeG9QSEcwdw",
@@ -626,6 +623,23 @@
    "zh_summary": "特斯拉司机误触紧急驶离功能",
    "title_zh": "视频显示特斯拉司机在超充站误触紧急驶离",
    "sentiment": -1
+  },
+  {
+   "id": "088768f0779b",
+   "title": "Tesla Crashes Through House And Plummets Off Terrace in Wild Video - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQk1idGFtYU1FSU1WdFFiT0VEczAtclZoX1BLUmNKalNUVkNfbEozNHVDeWQ1UERnLV9kcktxdWFUWVpGV0w1b0RXV2Q0ektWTEtFbG5tNlA2eG9YYWdMWmZjU2VQckVhcFUxa0ZLX3puTFRUQVRCa0haOGcxVzZ0UHlmU3hMQjhMZnZ2a25md3JmSXM",
+   "source": "Yahoo",
+   "published_at": "2026-10-28T16:46:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-28T16:46:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQk1idGFtYU1FSU1WdFFiT0VEczAtclZoX1BLUmNKalNUVkNfbEozNHVDeWQ1UERnLV9kcktxdWFUWVpGV0w1b0RXV2Q0ektWTEtFbG5tNlA2eG9YYWdMWmZjU2VQckVhcFUxa0ZLX3puTFRUQVRCa0haOGcxVzZ0UHlmU3hMQjhMZnZ2a25md3JmSXM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "89c52d971da5",
@@ -1397,6 +1411,26 @@
    "sentiment": 0
   },
   {
+   "id": "e5eb7e5eab74",
+   "title": "A Tesla Semi Truck Burst Into A Blaze So Flamin’ Hot It Shut Down A Highway For 10 Hours As It Reduced Itself To Ash - The Autopian",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmpmTm9FNWg1dENkbDhLTDh3R050MDctblpzZDhQdmpHVWpXQkd4VXhGclROeUxPdWFheDZnMUVXOXloczRqcmZKc2VrZVh5QWhETmhBOU5pN1FNUzdUbXhfNi1zY3BDNUV3ZEk3NnhUamtWWkQweXh1LUlEV3hUSzFLb1JaZ3kzZ1BDUWJxOGM2MG1BcHFjOU9RQVlqRUxDVUFlX3FNYWpNcWZxUU5QQU43R21EejJaY19pRTNZdjQ4bXNmTkkxaHdUekZEMVhaeEJxRVctbW1wbDNK",
+   "source": "The Autopian",
+   "published_at": "2026-10-28T14:11:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Autopian",
+     "published_at": "2026-10-28T14:11:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUmpmTm9FNWg1dENkbDhLTDh3R050MDctblpzZDhQdmpHVWpXQkd4VXhGclROeUxPdWFheDZnMUVXOXloczRqcmZKc2VrZVh5QWhETmhBOU5pN1FNUzdUbXhfNi1zY3BDNUV3ZEk3NnhUamtWWkQweXh1LUlEV3hUSzFLb1JaZ3kzZ1BDUWJxOGM2MG1BcHFjOU9RQVlqRUxDVUFlX3FNYWpNcWZxUU5QQU43R21EejJaY19pRTNZdjQ4bXNmTkkxaHdUekZEMVhaeEJxRVctbW1wbDNK"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "特斯拉Semi卡车起火封路10小时",
+   "title_zh": "特斯拉Semi卡车起火猛烈，高速封路10小时化为灰烬",
+   "sentiment": -1
+  },
+  {
    "id": "32d573357a57",
    "title": "Musk Likes a Tesla-SpaceX Merger. Then He Admitted It Needs a Majority of ALL Tesla Shares, Not Just Votes Cast - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGMyQnlBbU5OMjBjSEVmSHRfT3JqNzN1Qjk3XzdqRzUxZXoySlVuNWZqeW9hYnhLOUx4bllLVjM5dFdtcG1hOXpkdDZOME16eXJ3SzNpLVYtYlowSjJTQmgxSC1KVUZjSHJwM0lXckV1ekQyWE9FVjFIbzY4c20tbFBiN0JwaU5qVkc1ckZUMldlQ0hsN3M0bUJXQQ",
@@ -1520,6 +1554,23 @@
    "zh_summary": "机构预测特斯拉2026至2027年股价",
    "title_zh": "特斯拉2026至2027年股价预测",
    "sentiment": 0
+  },
+  {
+   "id": "3ba2e7eda7ba",
+   "title": "Tesla Model Y L: Owner shares quick observations and impressions - Team-BHP",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ",
+   "source": "Team-BHP",
+   "published_at": "2026-10-28T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Team-BHP",
+     "published_at": "2026-10-28T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "906e46bcfca0",
@@ -6191,6 +6242,23 @@
    "sentiment": 1
   },
   {
+   "id": "5eba727e9a92",
+   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEt6dXNXT3VJX3czcEhkdlFEM2FhcGJmeHc5aG84OWs4NGswNVhFVkRrcDFFSFhuLWM0VERhU1AyYlJBbHlqUWdVSEczbVl4dVgzOFdmLURBN2E3VURtSng5RkthTXRZWVp4MTJiS0xXSlRtUG9TdmU3MlBkdjFtV1hNbkoxb1lzRjZCeGNVcw",
+   "source": "Electrek",
+   "published_at": "2026-10-27T16:43:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-27T16:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEt6dXNXT3VJX3czcEhkdlFEM2FhcGJmeHc5aG84OWs4NGswNVhFVkRrcDFFSFhuLWM0VERhU1AyYlJBbHlqUWdVSEczbVl4dVgzOFdmLURBN2E3VURtSng5RkthTXRZWVp4MTJiS0xXSlRtUG9TdmU3MlBkdjFtV1hNbkoxb1lzRjZCeGNVcw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
    "id": "a5396d5dec91",
    "title": "XPENG Tops Customer Satisfaction Ranking For Second Year, Beating Tesla - CleanTechnica",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemFVa2s3WlNJWFFxMFhJWFN5T1lGMG5QMGsyOGlJRmd6dHh5M2tXUDlOR1g2X090dDhRdWVwbjh0aVRGZkVMd0s1cGloVlc3MnJBaV96VlhDamRTRDFpX0FDZ2xNdm81eXpQX01rYWxFal9MT3BVTGZQaFQzR3kwbGNmdFJkS3J3eG40RVV2aUp5a0dXOUU4Q2tITFJlbkp4WTBHbl9DLXpwWHZI",
@@ -6372,86 +6440,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉Robotaxi迈阿密坦帕扩张答疑",
    "title_zh": "特斯拉Robotaxi海滩扩张：迈阿密与坦帕问题解答",
-   "sentiment": 1
-  },
-  {
-   "id": "8af455d20a32",
-   "title": "Tesla ‘Full Self-Driving’ crashes pile up in California - Land Line Media",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHp1MFpYdExWTFFEVi02VHhubmlYSk53UFczZmtLMHpzNjRkbUJpYkoyQ2tIbWVISEx0a2g2ZkY4VzB4V05LQ3E1bkRobGhNSWRlVkxySXRxMnROckJwcEJxd0pkQ2F5c1hrdHdXS2Fqa3QteER6OHRIY2RUUEx2NGpkYw",
-   "source": "Land Line Media",
-   "published_at": "2026-10-27T16:01:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Land Line Media",
-     "published_at": "2026-10-27T16:01:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHp1MFpYdExWTFFEVi02VHhubmlYSk53UFczZmtLMHpzNjRkbUJpYkoyQ2tIbWVISEx0a2g2ZkY4VzB4V05LQ3E1bkRobGhNSWRlVkxySXRxMnROckJwcEJxd0pkQ2F5c1hrdHdXS2Fqa3QteER6OHRIY2RUUEx2NGpkYw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉加州FSD事故频发引关注",
-   "title_zh": "特斯拉全自动驾驶在加州事故频发",
-   "sentiment": -1
-  },
-  {
-   "id": "340e838be061",
-   "title": "Turo Now Lets You Rent A Tesla With Full Self-Driving - Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdFU4TERHeWU5TU8yRG1naVFxQVBQRll3aEs1Vi1iY3VYNGZkN29PTVJsRjlfSS1ZanZQVXBsTUxJT3kwRXJqTHRjUWdKOTZrRHNxSXQxQVlDWU1pUVplYTV5MnlQVjAxcjRqRFd0Z2Z3b2c2",
-   "source": "Motor1.com",
-   "published_at": "2026-10-27T16:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Motor1.com",
-     "published_at": "2026-10-27T16:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdFU4TERHeWU5TU8yRG1naVFxQVBQRll3aEs1Vi1iY3VYNGZkN29PTVJsRjlfSS1ZanZQVXBsTUxJT3kwRXJqTHRjUWdKOTZrRHNxSXQxQVlDWU1pUVplYTV5MnlQVjAxcjRqRFd0Z2Z3b2c2"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Turo上线可租用带全自动驾驶的特斯拉",
-   "title_zh": "Turo可租用配备全自动驾驶的特斯拉",
-   "sentiment": 1
-  },
-  {
-   "id": "9bae4179ed2e",
-   "title": "Analysts Are Bullish on These Consumer Cyclical Stocks: Tesla (TSLA), Marriott International (MAR) - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOemJ4ejNZY3FKVHZmYWlBeDV4dEcwVW45VndtckpEX19Zbjg3NDdNQUFySEY3OHVSOXFEYUhZOWUxZTZYV2gtTkFNRXlVdVc5T3BudjZPakhtYVl5NzBKU2FZLWpZcmtYOE42LUR5aDJOQmFSTzE4QWwzbzg3Zm0zMXUxS25JU3d6b080T0cyRzBBcV9kWTN2STJHYk5WRUJIQ2lEZFlkYi1PamkwcXFqNjZlMVlCMU5kYkh4U0tmZlI5Tm1pNF9UR0tDb3hmdkZ2NnhSY1R4R0lLSTExbjF4R2Iwbmp5Q24zMzJjS0dCaktGb3NrR1hIczFsSExLU0g5TWZ3dEEzLUQ",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-27T15:56:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-27T15:56:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOemJ4ejNZY3FKVHZmYWlBeDV4dEcwVW45VndtckpEX19Zbjg3NDdNQUFySEY3OHVSOXFEYUhZOWUxZTZYV2gtTkFNRXlVdVc5T3BudjZPakhtYVl5NzBKU2FZLWpZcmtYOE42LUR5aDJOQmFSTzE4QWwzbzg3Zm0zMXUxS25JU3d6b080T0cyRzBBcV9kWTN2STJHYk5WRUJIQ2lEZFlkYi1PamkwcXFqNjZlMVlCMU5kYkh4U0tmZlI5Tm1pNF9UR0tDb3hmdkZ2NnhSY1R4R0lLSTExbjF4R2Iwbmp5Q24zMzJjS0dCaktGb3NrR1hIczFsSExLU0g5TWZ3dEEzLUQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "分析师看好特斯拉等消费周期股",
-   "title_zh": "分析师看好特斯拉、万豪等消费周期股",
-   "sentiment": 1
-  },
-  {
-   "id": "00ebf77629ed",
-   "title": "Tesla’s Latest FSD Safety Numbers Show Another Big Improvement - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTVDODF4MkloYUtDNEZDTEFxMGNlVkJkN1VfQnZzM3RRYklUNjZFMUVWclRlRmZVNGM4MC12RXVRQ1Rhd2p3RnU2ckN1U3QxUWczRG1HUTV4Y19EZlZFY1BsTkduLVl6YnVSWXRhVnNvV1pqVDhKWTM0RUpyMzFIRHJhVmtFTWFmOGhSQldMSXI3bW9F",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-27T15:49:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-27T15:49:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYTVDODF4MkloYUtDNEZDTEFxMGNlVkJkN1VfQnZzM3RRYklUNjZFMUVWclRlRmZVNGM4MC12RXVRQ1Rhd2p3RnU2ckN1U3QxUWczRG1HUTV4Y19EZlZFY1BsTkduLVl6YnVSWXRhVnNvV1pqVDhKWTM0RUpyMzFIRHJhVmtFTWFmOGhSQldMSXI3bW9F"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉最新FSD安全数据再改善",
-   "title_zh": "特斯拉最新FSD安全数据再度大幅改善",
    "sentiment": 1
   }
  ]
