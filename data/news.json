@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:07:35.085800+00:00",
+ "updated_at": "2026-10-28T12:22:29.636356+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（75条已评分）"
+     "note": "今日新闻情绪 +0.09（78条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T12:07:35.074394+00:00"
+   "as_of": "2026-10-28T12:22:29.626078+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 75
+   "avg": 0.09,
+   "count": 78
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "302fff42a048",
+   "title": "Tesla Roadster $50,000 Reservation: Thrust at $250K [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uMVQ0d2EybFVXZXIzN3pDeWhxR0dYak1uYk9GaFNmcTV6ZGZYREp0ZkhGWXY1eXh3dWpEcC1Kb0ZaNkNveFJsSGs5TjFkUTRjbHM0THZDS0UyQlZqMzU2NGduWVE2SGIwak5EbDZMSlNjT0tXRGg5MTdNTVRhZw",
+   "source": "shattered.io",
+   "published_at": "2026-10-28T12:13:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-28T12:13:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uMVQ0d2EybFVXZXIzN3pDeWhxR0dYak1uYk9GaFNmcTV6ZGZYREp0ZkhGWXY1eXh3dWpEcC1Kb0ZaNkNveFJsSGs5TjFkUTRjbHM0THZDS0UyQlZqMzU2NGduWVE2SGIwak5EbDZMSlNjT0tXRGg5MTdNTVRhZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "f6cec1e77aa9",
    "title": "Turo and Tesla Take the Next Step Toward Autonomous Car Rentals - Auto Rental News",
@@ -86,6 +103,23 @@
    "zh_summary": "Turo与特斯拉推进自动驾驶租车",
    "title_zh": "Turo与特斯拉向自动驾驶租车迈出下一步",
    "sentiment": 1
+  },
+  {
+   "id": "417ed5e68c74",
+   "title": "Tesla’s Cybercab Robotaxi Is Probably Not “Unsupervised.” Here’s Why - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1djenZoVlpxM01NRjJSOW5qcUJwZnlHdTVCaTkwdXo1bjNyUXY1MVhUd2hVUGY3UVpUVU1MWGpEMW11b0dZYk9TeXVtUl9UZlNsTUhmNzN2RUlpUzF1aUUzTDBsRE85X1NKbEV1ZXhKbVh2UWVyWGNVd09qLVhwUG44UzVzbmVfQ2VrTUtHazgwNGF1Q0dVWlM5bWlwYnpPVk1aYV83X3R4UEttTWNiNk5jQmRfekwxMnc",
+   "source": "Forbes",
+   "published_at": "2026-10-28T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-28T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1djenZoVlpxM01NRjJSOW5qcUJwZnlHdTVCaTkwdXo1bjNyUXY1MVhUd2hVUGY3UVpUVU1MWGpEMW11b0dZYk9TeXVtUl9UZlNsTUhmNzN2RUlpUzF1aUUzTDBsRE85X1NKbEV1ZXhKbVh2UWVyWGNVd09qLVhwUG44UzVzbmVfQ2VrTUtHazgwNGF1Q0dVWlM5bWlwYnpPVk1aYV83X3R4UEttTWNiNk5jQmRfekwxMnc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "ce5e09d48af3",
@@ -428,6 +462,23 @@
    "sentiment": 0
   },
   {
+   "id": "ce9d4e86f2be",
+   "title": "特朗普推SI更名 特斯拉手册改AI为超级智能 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lTmtZTDRaVHRXS1VWOGdRcXdzTzJxbzh5YmlJQVVBcFdoaXY0THFGRXFldnRGbkF6aGtsektQX3UwTU55b1dZZ2xud1YwRzA5LXBMS0lCZWM1SEpiZERIaWthdWNtWDYxeWI0aHRTV2w0anNuN0RDVUdjeml1QQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-28T10:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-28T10:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lTmtZTDRaVHRXS1VWOGdRcXdzTzJxbzh5YmlJQVVBcFdoaXY0THFGRXFldnRGbkF6aGtsektQX3UwTU55b1dZZ2xud1YwRzA5LXBMS0lCZWM1SEpiZERIaWthdWNtWDYxeWI0aHRTV2w0anNuN0RDVUdjeml1QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "244c540a65e7",
    "title": "【视频】特斯拉净利润跌43%别急着唱衰，FSD才是真考题！ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSUN1LWw2NF9uclNMV0ZseWlwQ0gxZkNUM0VJRVUzNGVEYTBHYl83ZV9oWHZvWEZPYTNHLTFNZEJMNVAtbGNsaFNRSkpGTFBIakJoeDVzcERvMFdlb3VRNXhtY2hnOF9LR2pv",
@@ -531,6 +582,23 @@
    "zh_summary": "Turo通过API验证特斯拉FSD租赁",
    "title_zh": "Turo通过API验证特斯拉FSD租赁车辆",
    "sentiment": 1
+  },
+  {
+   "id": "2cfa51832234",
+   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
+   "source": "中华网",
+   "published_at": "2026-10-28T10:30:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T10:30:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "f157202f7b60",
@@ -1926,6 +1994,23 @@
    "zh_summary": "美光盘后股价上涨1.37%",
    "title_zh": "美光盘后股价上涨1.37%",
    "sentiment": 0
+  },
+  {
+   "id": "6d974b005186",
+   "title": "【视频】超越福特、特斯拉，吉利和比亚迪进入欧洲销量前十 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRFVERlFYS3pJQksxaVZjWDNQTnQ0VDRUXzBjSHIzdk8xcHk3LXFvbUtlOTdHZ1ZUNTBwT0lXTFNDbHRldWRGb3dCRkpJWXZ2aV9IRENsYnhvYzg",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T03:10:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T03:10:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRFVERlFYS3pJQksxaVZjWDNQTnQ0VDRUXzBjSHIzdk8xcHk3LXFvbUtlOTdHZ1ZUNTBwT0lXTFNDbHRldWRGb3dCRkpJWXZ2aV9IRENsYnhvYzg"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
   },
   {
    "id": "9bbbe334408e",
@@ -6389,106 +6474,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉与SpaceX合并能否创造价值存疑",
    "title_zh": "特斯拉与SpaceX的组合能否创造价值，还是只会带来更多复杂性？",
-   "sentiment": 0
-  },
-  {
-   "id": "561cda91b528",
-   "title": "特斯拉加拿大官网更新Model 3 Premium后驱版参数，上海产车型因配额耗尽暂停订购 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zN1JXaHlTTmJqT0FndENXRW80by1MNktwdDItYXdNVm5kOS1yLXY4Y3ZQRW1uQ1c3VzE2X1FScnZWSjVaamJMSWplWmJLUEVxMTJkWl94Nl9nc3c",
-   "source": "网通社",
-   "published_at": "2026-10-27T07:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-27T07:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zN1JXaHlTTmJqT0FndENXRW80by1MNktwdDItYXdNVm5kOS1yLXY4Y3ZQRW1uQ1c3VzE2X1FScnZWSjVaamJMSWplWmJLUEVxMTJkWl94Nl9nc3c"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉加拿大暂停订购上海产车型",
-   "title_zh": "特斯拉加拿大更新Model 3参数，上海产暂停订购",
-   "sentiment": -1
-  },
-  {
-   "id": "a47d2e9b6589",
-   "title": "Tesla Megapack Sold Out 2027? Revenue Down 16% [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjgxUk1Lb0JidWROQS1mTWplS3JkakdoZkl3UFo3TkVTZ2doOUlUbDhTOUN0bHIwb2xBZVd3VWt2Y0xyWU9GWElTMkM1RThmYkJhRkNlaVFXVVVTdGlhM09OLWR3X1B3TkNpZjRuaFJWcGRoWjR1dnNiWjJoS1RNQmNjNllxbWNVR2I4QlNidVhNXzJBWkFtck9n",
-   "source": "shattered.io",
-   "published_at": "2026-10-27T07:45:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-27T07:45:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjgxUk1Lb0JidWROQS1mTWplS3JkakdoZkl3UFo3TkVTZ2doOUlUbDhTOUN0bHIwb2xBZVd3VWt2Y0xyWU9GWElTMkM1RThmYkJhRkNlaVFXVVVTdGlhM09OLWR3X1B3TkNpZjRuaFJWcGRoWjR1dnNiWjJoS1RNQmNjNllxbWNVR2I4QlNidVhNXzJBWkFtck9n"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉Megapack售罄，收入下滑16%",
-   "title_zh": "特斯拉Megapack售罄至2027年？收入下滑16%",
-   "sentiment": 0
-  },
-  {
-   "id": "902a3520efba",
-   "title": "TSLA Stock Analysis: Full Details - JournalArta",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBMX0lPVzZqbmktcWtzSVRkSEtEejljMUNpTlA3MzNTUnF2b3ppcXFrQnFfZXl2RVc2LUJGUFVYbVBjQ2M1RTI0Z3N6MUw4bmU4bDRSOWpLU2xwWTVGd0w3aUtLQVk5dU53MnBVNldGZWZQMDU4RjVFZnZOQy1jdGZ3NnF0VndmT2I0MGlHNU5oTlRBMTVR",
-   "source": "JournalArta",
-   "published_at": "2026-10-27T07:42:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "JournalArta",
-     "published_at": "2026-10-27T07:42:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBMX0lPVzZqbmktcWtzSVRkSEtEejljMUNpTlA3MzNTUnF2b3ppcXFrQnFfZXl2RVc2LUJGUFVYbVBjQ2M1RTI0Z3N6MUw4bmU4bDRSOWpLU2xwWTVGd0w3aUtLQVk5dU53MnBVNldGZWZQMDU4RjVFZnZOQy1jdGZ3NnF0VndmT2I0MGlHNU5oTlRBMTVR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA股票分析详情",
-   "title_zh": "TSLA股票分析：完整详情",
-   "sentiment": 0
-  },
-  {
-   "id": "5416469d1412",
-   "title": "TSLA Stock Analysis: Gains 5.21%, Testing Key Resistance - JournalArta",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBMX0lPVzZqbmktcWtzSVRkSEtEejljMUNpTlA3MzNTUnF2b3ppcXFrQnFfZXl2RVc2LUJGUFVYbVBjQ2M1RTI0Z3N6MUw4bmU4bDRSOWpLU2xwWTVGd0w3aUtLQVk5dU53MnBVNldGZWZQMDU4RjVFZnZOQy1jdGZ3NnF0VndmT2I0MGlHNU5oTlRBMTVR",
-   "source": "JournalArta",
-   "published_at": "2026-10-27T07:42:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "JournalArta",
-     "published_at": "2026-10-27T07:42:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFBMX0lPVzZqbmktcWtzSVRkSEtEejljMUNpTlA3MzNTUnF2b3ppcXFrQnFfZXl2RVc2LUJGUFVYbVBjQ2M1RTI0Z3N6MUw4bmU4bDRSOWpLU2xwWTVGd0w3aUtLQVk5dU53MnBVNldGZWZQMDU4RjVFZnZOQy1jdGZ3NnF0VndmT2I0MGlHNU5oTlRBMTVR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA股价涨5.21%测试关键阻力位",
-   "title_zh": "TSLA股价涨5.21%测试关键阻力位",
-   "sentiment": 1
-  },
-  {
-   "id": "f35d7120ac6d",
-   "title": "新能源市场太卷了！特斯拉中国推出家充桩延保服务限时优惠，最低199元延长2年保障 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SaEM2T0NEd1dOR05lbWo1Sy1La2FoVkJJV3V1LTBfRWdpUTVDY1V5bmN6dDlFX2V6Nk1sY1gzYmttdVBDcDNxczNfd1RrRHRiZjltM2IxRG1TUkk",
-   "source": "网通社",
-   "published_at": "2026-10-27T07:40:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-27T07:40:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SaEM2T0NEd1dOR05lbWo1Sy1La2FoVkJJV3V1LTBfRWdpUTVDY1V5bmN6dDlFX2V6Nk1sY1gzYmttdVBDcDNxczNfd1RrRHRiZjltM2IxRG1TUkk"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "特斯拉中国推家充桩延保优惠",
-   "title_zh": "特斯拉中国推家充桩延保限时优惠",
    "sentiment": 0
   }
  ]
