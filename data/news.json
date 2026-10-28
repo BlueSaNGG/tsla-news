@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T17:37:31.819014+00:00",
+ "updated_at": "2026-10-28T17:52:37.349799+00:00",
  "market": {
-  "price": 401.72,
-  "change_pct": -1.41,
+  "price": 402.64,
+  "change_pct": -1.18,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（144条已评分）"
+     "note": "今日新闻情绪 -0.01（145条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.72 vs 20日均线 $376.65"
+     "note": "现价 $402.64 vs 20日均线 $376.70"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.4,
-   "ma20": 376.65,
-   "as_of": "2026-10-28T17:37:31.806598+00:00"
+   "implied_upside_pct": -0.7,
+   "ma20": 376.7,
+   "as_of": "2026-10-28T17:52:37.334811+00:00"
   },
-  "pe_ttm": 111.1,
+  "pe_ttm": 111.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.7%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.01,
-   "count": 144
+   "count": 145
   }
  },
  "meta": {
@@ -1350,6 +1350,23 @@
    "zh_summary": "特斯拉股价再涨，SpaceX推动上涨",
    "title_zh": "特斯拉股价再度上涨，SpaceX等为推手",
    "sentiment": 1
+  },
+  {
+   "id": "7db5a4f06863",
+   "title": "期权扫描| 特斯拉股价重返400美元！多张Call单飙涨近400%；SoFi期权成交爆量94万张港美股资讯 - 华盛通",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWXI0aWNDWUJoaExmcUlIcTNhU0FGa0lyZmRGazUxbFFHbXdROHFfNUF4c2NNOEQwaDd5NEVNdXVuTWNDaE55LXBKRDdUWlpOZkZCX0h6Um9GSUNjVVIxT1NR",
+   "source": "华盛通",
+   "published_at": "2026-10-28T11:34:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华盛通",
+     "published_at": "2026-10-28T11:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWXI0aWNDWUJoaExmcUlIcTNhU0FGa0lyZmRGazUxbFFHbXdROHFfNUF4c2NNOEQwaDd5NEVNdXVuTWNDaE55LXBKRDdUWlpOZkZCX0h6Um9GSUNjVVIxT1NR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "daca0eacbf0d",
@@ -6471,26 +6488,6 @@
    "zh_summary": "特斯拉10月27日开盘上涨3.03%",
    "title_zh": "特斯拉(TSLA)股票10月27日开盘上涨3.03%：投资者必看的核心信息",
    "sentiment": 1
-  },
-  {
-   "id": "8c0c73e78e1f",
-   "title": "Tesla FSD Illegally Unlocked by 80 Drivers in South Korea, Police Say - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTdZc1NQTlVidGFKbWYtSkRNZHY3UzFlMDh5NVpHNFg0NDZOUDhEYWp3MlV4ZVRZRnFuWndfUjc1aEM4YkJPU2dEOTgxMEFRZndzU1JqY0JGdzZhWHg5X04zMFFSekhmLU8zUGlzbjlhRHlER1U2bXc3ZGtKcnE1QW9wRkNNRkhFam1NdDh5c3pYVURyeVl5Zy1OVXVtVHZHVXhqWWowQQ",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-27T13:44:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-27T13:44:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTdZc1NQTlVidGFKbWYtSkRNZHY3UzFlMDh5NVpHNFg0NDZOUDhEYWp3MlV4ZVRZRnFuWndfUjc1aEM4YkJPU2dEOTgxMEFRZndzU1JqY0JGdzZhWHg5X04zMFFSekhmLU8zUGlzbjlhRHlER1U2bXc3ZGtKcnE1QW9wRkNNRkhFam1NdDh5c3pYVURyeVl5Zy1OVXVtVHZHVXhqWWowQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "韩国80名车主非法解锁FSD被查",
-   "title_zh": "韩国警方称80名司机非法解锁特斯拉FSD",
-   "sentiment": -1
   }
  ]
 }
