@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T16:52:32.093827+00:00",
+ "updated_at": "2026-10-28T17:07:37.691987+00:00",
  "market": {
-  "price": 401.41,
-  "change_pct": -1.48,
+  "price": 401.52,
+  "change_pct": -1.46,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -37,12 +37,12 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.41 vs 20日均线 $376.64"
+     "note": "现价 $401.52 vs 20日均线 $376.64"
     },
     {
      "key": "分析师动向",
-     "score": 1,
-     "note": "近14天 1 家上调 / 0 家下调"
+     "score": 0,
+     "note": "近14天无分析师动作"
     }
    ],
    "price_52w_pct": 54,
@@ -50,7 +50,7 @@
    "target_count": 19,
    "implied_upside_pct": -0.4,
    "ma20": 376.64,
-   "as_of": "2026-10-28T16:52:32.087854+00:00"
+   "as_of": "2026-10-28T17:07:37.681687+00:00"
   },
   "pe_ttm": 111.0,
   "pe_pct_5y": 52,
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "89c52d971da5",
+   "title": "Final Trades: RTX, Tesla and Nutrien - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWklBaDIwR284UkxFbDZ0Z2UxRTlPTUVxbHRhRUNmR2Z5dC1pM0xEODNTdW50ZU1DdGF6MzF5cnhQSVc0dVcxVVc0U2JoVmt5R3ZhZEhzVlpZYVhpYkJKZFpUWUk1NGJ1UHRDMG51N1Ayellwc09vbUdIUExvNF9NbFM5UQ",
+   "source": "CNBC",
+   "published_at": "2026-10-28T17:01:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-28T17:01:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWklBaDIwR284UkxFbDZ0Z2UxRTlPTUVxbHRhRUNmR2Z5dC1pM0xEODNTdW50ZU1DdGF6MzF5cnhQSVc0dVcxVVc0U2JoVmt5R3ZhZEhzVlpZYVhpYkJKZFpUWUk1NGJ1UHRDMG51N1Ayellwc09vbUdIUExvNF9NbFM5UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "c70321e4ce0a",
+   "title": "Five Seconds of Burn, Six Hours of Recharge; Tesla Stock (NASDAQ:TSLA) Slips on Thruster Stats - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVJBeWVTOUhQSDlVUVlyejFReTFFVVZ1RG9KNXJPRzFFV3dmR0dHTjhUNmxrWFZrSWliUW1RdEZwSGJwNFk2NmlkdlF4UmxWZ2hKWGx3NHpRbEgzMU1mdHVDX0lQTUVPN1Y0MG5YSzJoZFNVVW8xSlhOemYxRUgwMkhIem5wdEpqYTh4LTdIWlFVUzl3VTdNRnMtYWt2Tk1PanUtaVBKR0pqUC1FOTJMWXlUSUNYYV9zQVVv",
+   "source": "TipRanks",
+   "published_at": "2026-10-28T16:38:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-28T16:38:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVJBeWVTOUhQSDlVUVlyejFReTFFVVZ1RG9KNXJPRzFFV3dmR0dHTjhUNmxrWFZrSWliUW1RdEZwSGJwNFk2NmlkdlF4UmxWZ2hKWGx3NHpRbEgzMU1mdHVDX0lQTUVPN1Y0MG5YSzJoZFNVVW8xSlhOemYxRUgwMkhIem5wdEpqYTh4LTdIWlFVUzl3VTdNRnMtYWt2Tk1PanUtaVBKR0pqUC1FOTJMWXlUSUNYYV9zQVVv"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "fca019a688f9",
+   "title": "Tesla Gains Another 4% as ARK Restates $4,400 Robotaxi Target and Musk Teases “A Storm of Cybercabs” - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ09wSWFqc1VocDEySWt3ZmM5Z3d0Q0lUN3NoX0VYV0NlbnZvclFCZmcxR0pRWGtDYmVweE8wUFVRZVZwc1BnRkVtLV9kQWd3ZzIxUGFPY1B4OEthTi1kbmhGX2kzUV9DVl9JWFp6eG5FSlhYbURaT2VkZDdHckxtbHpYX1Y3ZnhTMXllRU56dU81QjZB",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T16:33:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T16:33:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ09wSWFqc1VocDEySWt3ZmM5Z3d0Q0lUN3NoX0VYV0NlbnZvclFCZmcxR0pRWGtDYmVweE8wUFVRZVZwc1BnRkVtLV9kQWd3ZzIxUGFPY1B4OEthTi1kbmhGX2kzUV9DVl9JWFp6eG5FSlhYbURaT2VkZDdHckxtbHpYX1Y3ZnhTMXllRU56dU81QjZB"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "a841534f1aaa",
    "title": "Tesla Semi Fire Shuts I-880 in Hayward for 10 Hours [2026] - https://tech-insider.org/",
@@ -92,12 +143,12 @@
    "title": "Bridgewater Teen On Electric Scooter Killed In Crash With Tesla - News12 | New Jersey",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnNDWnJBZklneGtuVU5qWmhJbm5ESHAwQXVmUHJ5a25wNXJwZDdvazd1ZXpHYjhQLVJiRWk3aTRJZEszbnA3amhMMTRMR1Nrd0hyUVFYeDBaRXVKSjM5WFF4OGZKRGxpcUZocWY0TzVuWEtTUlFCUlFpTWZmbjFFLVhXeER6ZTRzQVI3SDdYV0dBbnlpZjR3",
    "source": "News12 | New Jersey",
-   "published_at": "2026-10-28T15:58:20+00:00",
+   "published_at": "2026-10-28T15:56:30+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "News12 | New Jersey",
-     "published_at": "2026-10-28T15:58:20+00:00",
+     "published_at": "2026-10-28T15:56:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnNDWnJBZklneGtuVU5qWmhJbm5ESHAwQXVmUHJ5a25wNXJwZDdvazd1ZXpHYjhQLVJiRWk3aTRJZEszbnA3amhMMTRMR1Nrd0hyUVFYeDBaRXVKSjM5WFF4OGZKRGxpcUZocWY0TzVuWEtTUlFCUlFpTWZmbjFFLVhXeER6ZTRzQVI3SDdYV0dBbnlpZjR3"
     }
    ],
@@ -128,6 +179,23 @@
    "sentiment": 1
   },
   {
+   "id": "4059134dfff7",
+   "title": "Insane Crash Involving Tesla Caught on Video - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGZSTVhaSGYzVlcwenNPQmV3R3Z0ZzJLNngyRXZCT2ZuQnhBTzJUbVVnU0QyMmdtbERWQ2dRR3Mwb0xYcXV4SkFuY2pLeWN1RHhGSlg3cHptbkRnWEh0OEhvRi1lVkFTVVVUc0dHN0R1ZjdkQTA0bDltUzdNblVDejNxZG9yckl0cVNQOHF5X1R6cGRfSDJNLQ",
+   "source": "Yahoo",
+   "published_at": "2026-10-28T15:30:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-28T15:30:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGZSTVhaSGYzVlcwenNPQmV3R3Z0ZzJLNngyRXZCT2ZuQnhBTzJUbVVnU0QyMmdtbERWQ2dRR3Mwb0xYcXV4SkFuY2pLeWN1RHhGSlg3cHptbkRnWEh0OEhvRi1lVkFTVVVUc0dHN0R1ZjdkQTA0bDltUzdNblVDejNxZG9yckl0cVNQOHF5X1R6cGRfSDJNLQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "afb447db2621",
    "title": "Do Those Funky Tesla Wheel Covers Actually Boost Range? - Yahoo Autos",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2N0dVNjUk01V3d2M01IdGQxVG1ucUpCVFhjZW5yM3NRbktEenFlaEVYeFNuUTh6SGZ4QnpQTU1NblZRU1pEMzJHX3Y1Z2QxcHpsUW9yODd5eThaTVhlV2piZGRrSFhMNTF6dEFfMnU4aENwT29vM1BKM2xrbTZwbjczYTJKZ2ZnRzg5cjdCSHEzbmdqYWd2V3BqN21kQQ",
@@ -151,6 +219,23 @@
    "zh_summary": "特斯拉轮毂盖能否提升续航",
    "title_zh": "特斯拉奇特轮毂盖真能提升续航吗",
    "sentiment": 0
+  },
+  {
+   "id": "40c99dd21df1",
+   "title": "特斯拉与SpaceX合并如何定价？500美元是说服股东的关键价？ - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0E1eERCWGNoUE1BUHNlOVJKdG9fdklmOEwzaHcwbGFDYnpZeWE5aXFjX1pmSHR4MG90RGFWTFVyREIyN2lydmg3b1lhOFUxTTlNZkFJSG9aSGlBWDNqSldBSWZGSDI4Zl9PQ1lxRHFTa1k2a18tLUJOX3dWNWFlamFYM1ppU052RlEzUVJ4OEZYa0dpUnpZNDRR",
+   "source": "富途牛牛",
+   "published_at": "2026-10-28T15:25:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-28T15:25:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0E1eERCWGNoUE1BUHNlOVJKdG9fdklmOEwzaHcwbGFDYnpZeWE5aXFjX1pmSHR4MG90RGFWTFVyREIyN2lydmg3b1lhOFUxTTlNZkFJSG9aSGlBWDNqSldBSWZGSDI4Zl9PQ1lxRHFTa1k2a18tLUJOX3dWNWFlamFYM1ppU052RlEzUVJ4OEZYa0dpUnpZNDRR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0ca92c356d1f",
@@ -518,6 +603,23 @@
    "sentiment": -1
   },
   {
+   "id": "8320bcedcfe9",
+   "title": "美股异动｜潜在合并交易本质是“扶贫”？SpaceX跌超3%，特斯拉跌超2% - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTERjY25nbWJoMGN1MUxYUWswNTRLVlpSMmF3UXpkZ1hqVmZyTnhKUGI2UEdDLWNOeFo5cktHeC1Eb2tzSHhGbjFQMHBpM1pfSUFCS2lRWGNWZ1o3ZmpxNjJhX19kbTBVYVlMWXQxcV80QktGZE85QTNVN1RyQW8zWkpHdUl5Sy00ZTlVRkVJcm9Nd2RoMXlKclIyZjY",
+   "source": "富途牛牛",
+   "published_at": "2026-10-28T14:21:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-28T14:21:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTERjY25nbWJoMGN1MUxYUWswNTRLVlpSMmF3UXpkZ1hqVmZyTnhKUGI2UEdDLWNOeFo5cktHeC1Eb2tzSHhGbjFQMHBpM1pfSUFCS2lRWGNWZ1o3ZmpxNjJhX19kbTBVYVlMWXQxcV80QktGZE85QTNVN1RyQW8zWkpHdUl5Sy00ZTlVRkVJcm9Nd2RoMXlKclIyZjY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "665d523c3703",
    "title": "$特斯拉 (TSLA.US)$ 需要这样？ - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHQxWnM4Q2NUVGR3YVVTRVdDSjNlVG8tTXN6UGE4X2dsQkFJcG9qVWYxeXpuWHZmbmNMWUI1ODNCcHRGbUctNXhZalJuY1QzYlpsa0NHOWdOaG5ZdVdEX2NKc3JYclNrUlhsTXRORGtNQjRxSkFfR3NyTy1sanV0Y25JdXdYX2NXbUhQYjVaNTFWVUNqdmJ6RUV5UDFkZw",
@@ -543,7 +645,7 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2txZGJSLXFHYXJ6Uk9sZ214YkM3WFktdjVvVzZxZmlPbmFSWGQwRzZnX3JIeGdIdHc2ZU9nMFV4aF8wQUtnYVluZi1idV8waHRLNnRCSjRCZDdiR0dxVGJ1UFhlLXhFaV9MeFNiWHBfcFlVZmlLMGJ1T184S1VZMHlEZ3A5Sy1NUXp5emZIOGduWWNMSnVoS1V4MUpZZVM2dVE",
    "source": "Yahoo Finance",
    "published_at": "2026-10-28T14:18:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -554,13 +656,22 @@
      "name": "Zacks Investment Research",
      "published_at": "2026-10-28T14:31:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazJRR25PR2F6OE1TZlBVMVBDTmFvSVBqbzNFcFljUmgyb1Jmaml0MWIycXpxZlBKQTZicjdMNTdTZzMxdW5TNkwxTlNLYlNyUnpzaTR3WFNKeUhDSFltUW5sdVNCLVhnUHp2eGNncVlWZ3VVeWlrblJZYS1GUEU4ekpCM0hySENQTGw3c2xSWVpFb19zX3RweDgtSEEtZ21Cdkp1bW83d1ppUQ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-28T14:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclhTLU5XbWlvMVFJcnpuSDFodVBiUHk0bExXcTFSLVVzVnR5UmpiVnBJbGtnY1dLYjVUUHEzc2lWUmtJZHlueHJIZ1ljaW0xRjJMYTlZZ3VnbkE1UE1lYzVEbDdzWFlFTUpXbTI5M2RmM1JVWS03UmdFMW9GanZjS0Rld0RyeDBvOVl3a2VEUWg0VDhFVnQ2b1hYY2hOa3JkQzlOT1lQdzFRNTctZ3owRFdISmIzb29NZDdOSGJMUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉叙事转变值得重新审视",
    "title_zh": "特斯拉叙事是否正在转变？为何值得重新审视",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.52,
+    "window_h": 2.0
+   }
   },
   {
    "id": "ae446fd519b8",
@@ -706,6 +817,23 @@
    "zh_summary": "机构预测特斯拉2026至2027年股价",
    "title_zh": "特斯拉2026至2027年股价预测",
    "sentiment": 0
+  },
+  {
+   "id": "3ba2e7eda7ba",
+   "title": "Tesla Model Y L: Owner shares quick observations and impressions - Team-BHP",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ",
+   "source": "Team-BHP",
+   "published_at": "2026-10-28T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Team-BHP",
+     "published_at": "2026-10-28T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "906e46bcfca0",
@@ -1548,26 +1676,6 @@
    "sentiment": 1
   },
   {
-   "id": "2cfa51832234",
-   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
-   "source": "中华网",
-   "published_at": "2026-10-28T10:30:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-28T10:30:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉或返销美版Model 3到加拿大",
-   "title_zh": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍",
-   "sentiment": -1
-  },
-  {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN3ZOcW5DcXBoOFVCUm1RMzY3UDc2OGNOcnFwLTczalhISmNnbVF6SnItZlpUODFPbGRDcDZJLWNEOURLZEVERVFqZ1IwNUR6ZzkxTXZXVlZ3RDQtSGFHQ1R3",
@@ -2205,6 +2313,23 @@
    "zh_summary": "特斯拉Semi起火封路18小时",
    "title_zh": "特斯拉Semi起火车头烧毁，822kWh电池致封路18小时",
    "sentiment": -1
+  },
+  {
+   "id": "5886d0ba1a42",
+   "title": "人形机器人商业化走到哪一步 特斯拉千台级订单落地 - 机器人大讲堂",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWTVoODVVTVlNLTF6QTBqaTB6blVyTHhYSWlyU0hGZFJJcU9Da2ZfWnZPQ1FjLWRaaUlZcl9LZi15VnZTRGdHdTdXTEpRQQ",
+   "source": "机器人大讲堂",
+   "published_at": "2026-10-28T08:26:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "机器人大讲堂",
+     "published_at": "2026-10-28T08:26:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWTVoODVVTVlNLTF6QTBqaTB6blVyTHhYSWlyU0hGZFJJcU9Da2ZfWnZPQ1FjLWRaaUlZcl9LZi15VnZTRGdHdTdXTEpRQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "98a93fda8d6f",
@@ -3868,6 +3993,23 @@
    "zh_summary": "特斯拉Model Y的三只时钟",
    "title_zh": "七点半之前 特斯拉Model Y的三只时钟",
    "sentiment": 0
+  },
+  {
+   "id": "a063834420fa",
+   "title": "马斯克疯狂“整活”，特斯拉全面“跳票” - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR",
+   "source": "新浪财经",
+   "published_at": "2026-10-28T00:36:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-28T00:36:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "bf65bd5f8332",
@@ -6341,182 +6483,6 @@
    "zh_summary": "仅5位分析师仍看空特斯拉创11年最少",
    "title_zh": "仅5/60位分析师仍看空特斯拉，为11年来最少",
    "sentiment": 1
-  },
-  {
-   "id": "170b2cc849b8",
-   "title": "American billionaire Elon Musk's Tesla sell ratings hit 11-year low on merger hopes - Billionaires.Africa",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGFUdm1WVHNUMFA4VTVPUnZ3NkVWWWtZejE1dFRBUUxEUnRmMmVKQzZLRlBjdDJ1NThyd2t6cFFPMXhYRGk0aXNxZTB5S21od3FIejFIUXBVX21nOE0yUnhPSHBzSC1EWWkwYTZXUkJ6cDdpZEJ4UDN0Y2ZlcklEYmxnMndTVkFZLXA5a1NUTnhLbFd1RUVMVGI3cVRabEhEQklyRlZLWHhseTdiUEFhQ29DSkp5bFBwRHE5QXVzeVktTnVX",
-   "source": "Billionaires.Africa",
-   "published_at": "2026-10-27T13:03:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Billionaires.Africa",
-     "published_at": "2026-10-27T13:03:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGFUdm1WVHNUMFA4VTVPUnZ3NkVWWWtZejE1dFRBUUxEUnRmMmVKQzZLRlBjdDJ1NThyd2t6cFFPMXhYRGk0aXNxZTB5S21od3FIejFIUXBVX21nOE0yUnhPSHBzSC1EWWkwYTZXUkJ6cDdpZEJ4UDN0Y2ZlcklEYmxnMndTVkFZLXA5a1NUTnhLbFd1RUVMVGI3cVRabEhEQklyRlZLWHhseTdiUEFhQ29DSkp5bFBwRHE5QXVzeVktTnVX"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "特斯拉卖出评级降至11年新低",
-   "title_zh": "马斯克的特斯拉卖出评级降至11年低点",
-   "sentiment": 1
-  },
-  {
-   "id": "956e06da5a15",
-   "title": "Tesla Roadster requires up to 6 hours to refill its nitrogen tank for just one five-second launch and this is how much that costs - Supercar Blondie",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2RYcEhqdjZiQXVHVVZ0dEl5anpCU0NwRW5ialViT1BELURFbVBSV0JRQ21EdGRnaGl3QldTakNaMzJKM2l0UXpQM1ZKSk5Bb0Qzd2QzRDJkdUpXY3h6dzk4ekoxbzNpZTNLNkpPTzBDMTQ0U3JGanpFcW94cGpMMTEyM1V2M1ZPbThTZEF2WFBwZw",
-   "source": "Supercar Blondie",
-   "published_at": "2026-10-27T13:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Supercar Blondie",
-     "published_at": "2026-10-27T13:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2RYcEhqdjZiQXVHVVZ0dEl5anpCU0NwRW5ialViT1BELURFbVBSV0JRQ21EdGRnaGl3QldTakNaMzJKM2l0UXpQM1ZKSk5Bb0Qzd2QzRDJkdUpXY3h6dzk4ekoxbzNpZTNLNkpPTzBDMTQ0U3JGanpFcW94cGpMMTEyM1V2M1ZPbThTZEF2WFBwZw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Roadster氮气加注需6小时仅支持5秒加速",
-   "title_zh": "特斯拉Roadster氮气罐加注需6小时，仅供一次5秒加速",
-   "sentiment": 0
-  },
-  {
-   "id": "b5adf6721a3d",
-   "title": "Tesla Semi rival cuts diesel use by 36.5% and lowers charging costs - Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGdUWml3NTRtZk5QS2lGQWgyS3ByeE00Q0hweG9FenBmOU9uVkxydXBKQmRPRGJJYWY5SnAwNGZxcHpydkVfaFBSaDFtbW01VE80RnNGMnVmaENWNWs4cTJlOXJCXzRNYkxPdHZxcmhCWkJTejg1eDdGbVFPVmFhSEtiV3dDY3FFVWVxYWdiMzN3dw",
-   "source": "Interesting Engineering",
-   "published_at": "2026-10-27T12:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Interesting Engineering",
-     "published_at": "2026-10-27T12:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGdUWml3NTRtZk5QS2lGQWgyS3ByeE00Q0hweG9FenBmOU9uVkxydXBKQmRPRGJJYWY5SnAwNGZxcHpydkVfaFBSaDFtbW01VE80RnNGMnVmaENWNWs4cTJlOXJCXzRNYkxPdHZxcmhCWkJTejg1eDdGbVFPVmFhSEtiV3dDY3FFVWVxYWdiMzN3dw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Semi竞品柴油用量降36.5%",
-   "title_zh": "特斯拉Semi竞品柴油用量减少36.5%并降低充电成本",
-   "sentiment": 0
-  },
-  {
-   "id": "521623ddc163",
-   "title": "Is Tesla Stock Safer Or Riskier Than A Year Ago? - Trefis",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXlLS2ZlZHNlWG4tT0ZxQjJXeGxNdS04Mlc3MVk0Y1hPcTFXRlJPYXpJeTdXQm5JcERJb2lLeHZyUDRITFN2WEd5OE4xTkV0dXBKcm4xUnZKWmRwUER0S3BvaWw1LUgySEpaaVhWc05SUG1CSUpLcFNrcGFXdmVkU3VHemFIZlhZR2VORVZNMFc0d0xtckpSMkpYN2MzT2pLdzdsYnMyTkdQekxl",
-   "source": "Trefis",
-   "published_at": "2026-10-27T12:53:54+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Trefis",
-     "published_at": "2026-10-27T12:53:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXlLS2ZlZHNlWG4tT0ZxQjJXeGxNdS04Mlc3MVk0Y1hPcTFXRlJPYXpJeTdXQm5JcERJb2lLeHZyUDRITFN2WEd5OE4xTkV0dXBKcm4xUnZKWmRwUER0S3BvaWw1LUgySEpaaVhWc05SUG1CSUpLcFNrcGFXdmVkU3VHemFIZlhZR2VORVZNMFc0d0xtckpSMkpYN2MzT2pLdzdsYnMyTkdQekxl"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T12:54:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlFQelAwWFBZLVlmcVRTN3luc1dSSWI2Tmg3Uk0td2FaSllrNjItUDdvclhsZkZuX0EzcEJCTmRPaV9EdFZXbE9KNkJmdHNncXlxNlp5RjVvR2dWWDN5MFFaNVdpVjNWbGdBU1BvRktZZ2M5ZWlKTUJGa3lwcmxMNUJKTnY3Tk96bzN2N3E2aU9IVXcyRVpKcERn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "文章探讨特斯拉股票较一年前风险变化",
-   "title_zh": "特斯拉股票比一年前更安全还是风险更高？",
-   "sentiment": 0
-  },
-  {
-   "id": "9d566cf5c555",
-   "title": "This Old Tesla Cost Under $13,000. It Still Went 221 Miles On A Charge - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMWFnQUpJaFlWZF84QTFXM1dhWTlQcEd5bmVBYWY0bGpqU0E2d2pycVAtSGRhb3RrU08zTWV2bU5qbVppdGJIeHFoYzRLaXBDU0wwS0R5NDVIeWJLczNTcHdIdmUwR1I3VkNFczlDNUE",
-   "source": "InsideEVs",
-   "published_at": "2026-10-27T12:52:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-27T12:52:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMWFnQUpJaFlWZF84QTFXM1dhWTlQcEd5bmVBYWY0bGpqU0E2d2pycVAtSGRhb3RrU08zTWV2bU5qbVppdGJIeHFoYzRLaXBDU0wwS0R5NDVIeWJLczNTcHdIdmUwR1I3VkNFczlDNUE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "旧特斯拉不到1.3万美元续航221英里",
-   "title_zh": "一辆不到1.3万美元的旧特斯拉一次充电仍跑221英里",
-   "sentiment": 1
-  },
-  {
-   "id": "e1fa72084787",
-   "title": "Barclays Upgrades Tesla Stock Citing SpaceX Merger Potential And Robotaxi Growth - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHdDWnliNDNmbnlPU0xGTG5GcjNTQlZoUlhFZEZhR2ZkaDNudFZ1QU44UUpfZEdlZ2g3eWpRY1MwbEtXd2pZZk5OTTRRM2U4b2JFeUk1SU1PYkp5bjdGd1F0cVhhc2ZOSnM3dVpUc1o5OGtqak5fMi1UWnRJcmY5eGJFcm1lNmM3LXQtZFk3aUtNMEVrNVFzZVB1T1g",
-   "source": "TIKR.com",
-   "published_at": "2026-10-27T12:49:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-27T12:49:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHdDWnliNDNmbnlPU0xGTG5GcjNTQlZoUlhFZEZhR2ZkaDNudFZ1QU44UUpfZEdlZ2g3eWpRY1MwbEtXd2pZZk5OTTRRM2U4b2JFeUk1SU1PYkp5bjdGd1F0cVhhc2ZOSnM3dVpUc1o5OGtqak5fMi1UWnRJcmY5eGJFcm1lNmM3LXQtZFk3aUtNMEVrNVFzZVB1T1g"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "analyst": {
-    "firm": "Barclays",
-    "action": "上调",
-    "target": null,
-    "rating": null
-   },
-   "zh_summary": "巴克莱上调特斯拉评级看好合并与Robotaxi",
-   "title_zh": "巴克莱上调特斯拉评级，称SpaceX合并潜力与Robotaxi增长",
-   "sentiment": 1
-  },
-  {
-   "id": "6af1e9cafe13",
-   "title": "Zacks Investment Ideas feature highlights: SpaceX and Tesla - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T12:49:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T12:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpicjRnRVIxMXlTeVgxTG5SSEtCbmZSS2dFR3RjaEtVUGZzNE9TcmhGTklOeDI5QmlEV0liTXBVV01OTk9iN2VTTTkyVy1iUWtnNDluTGFCMDVqckpjR3ZwR1M5MHlZcVM1WkR4MU1HdVZIN01TZTFvNFhkYVZ3bGs0ZTB4N1RmaDNSeF9uUGV0ZTRtbjhXZWRjVV8teF92bjY4RXZlVll1Zw"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-27T14:56:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmc5UDJveFhnSU5XSW1jdHVTVlhNd25qZ1hhaE5OTnhYc2FDYUdfVHJuTHlzLW1OLU9FZTFUeU1FMlJPdTN0ODZGaE50ZXRSWFRiUEFKQWZ6QVU2NlhKdzZXcmEwZVFwM3VfQ3REWHNrajdfT3RmS1pIa1pkSVFuZ2pkb1dwaVhJRzBLN1ZOeXBIVkJKX05KWGJrNV9GOWVTSlhvdDFKZ1hLSzYzUjJ3bW9xRk5SbVc1b2hUU090djcxVXJTbFkwaUpZYTBDdjhXSi1NcWVFZXpYUUU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Zacks精选聚焦SpaceX与特斯拉",
-   "title_zh": "Zacks投资观点精选：SpaceX与特斯拉",
-   "sentiment": 0
-  },
-  {
-   "id": "86d77b81d5d4",
-   "title": "Florida Woman Says Tow Company Dragged Her Tesla, Damaged Its Safety Systems, Then Charged Her $185 - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaW10QURHM2RuRjZ0X21PQ0JsSnoyUFdCbGN1RnpfM01WX0xfekltcXdhaTBXX2xrRTFUaU1VX1I3MG5EWWE0b19BNDBLTkJLTHlCOU44d05ZTWtMR1ZGQkszaUQzaGMtNW4xVnJSMXZvV1RxdnJlR19NZm9TN1JoSGVRWTREMHJMWEJZSg",
-   "source": "Yahoo",
-   "published_at": "2026-10-27T12:38:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-27T12:38:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaW10QURHM2RuRjZ0X21PQ0JsSnoyUFdCbGN1RnpfM01WX0xfekltcXdhaTBXX2xrRTFUaU1VX1I3MG5EWWE0b19BNDBLTkJLTHlCOU44d05ZTWtMR1ZGQkszaUQzaGMtNW4xVnJSMXZvV1RxdnJlR19NZm9TN1JoSGVRWTREMHJMWEJZSg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "拖车公司拖拽特斯拉致安全系统受损",
-   "title_zh": "女子称拖车公司拖拽特斯拉损坏安全系统并收费$185",
-   "sentiment": 0
   }
  ]
 }
