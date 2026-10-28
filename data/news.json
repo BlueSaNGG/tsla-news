@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T04:07:30.048808+00:00",
+ "updated_at": "2026-10-28T04:22:28.177976+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（224条已评分）"
+     "note": "今日新闻情绪 +0.32（226条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T04:07:30.039011+00:00"
+   "as_of": "2026-10-28T04:22:28.171023+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.32,
-   "count": 224
+   "count": 226
   }
  },
  "meta": {
@@ -1823,7 +1823,7 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTJ1R29Ib1h2NDFza0lfdkEydnkySWtzMktsaks3WHlzNVJ5UEtyeVBYSDgxY2ZINWRKbGQ3YmM0MER4MGNmQzduYzFYd1JBc3pFTmlweFhjRTlsTjA2TkI5VERfak9qampmTzRIdXZ0LTNpcDFpcGZYdnkzZFdQNXRPREdGSmFjcFk3UjFyLUdqSHFPOEhCM1NkWGczY0Y4VUFLREdGTGhxZUdrMlAyWC00eGphZ2Vqdmc",
    "source": "Bloomberg Law News",
    "published_at": "2026-10-27T17:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Bloomberg Law News",
@@ -1834,13 +1834,22 @@
      "name": "Bloomberg.com",
      "published_at": "2026-10-27T17:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1iUlRUTTBzSmd0ak9XVkJyeHI0bjYwLU5IQkRadEJ2cjV6VTVneWNxUTk3dEpnQ01FOGJhbjZOeGd4bHpTUmZpd2ZtU2lRVlN5WDZnalk5NFEzQnQ1aXJBVUFFMHgxUTFuSGNlenU5Y1Z6UVJxUU1nZy03U0ZyTVMwdmhsV25XRXEzSDU0MS1ubGl5WnlxVFp5MHhoU081ekJZdE1Bd2dMZmc3dHMwZm1LM0Y"
+    },
+    {
+     "name": "Bloomberg",
+     "published_at": "2026-10-27T17:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1iUlRUTTBzSmd0ak9XVkJyeHI0bjYwLU5IQkRadEJ2cjV6VTVneWNxUTk3dEpnQ01FOGJhbjZOeGd4bHpTUmZpd2ZtU2lRVlN5WDZnalk5NFEzQnQ1aXJBVUFFMHgxUTFuSGNlenU5Y1Z6UVJxUU1nZy03U0ZyTVMwdmhsV25XRXEzSDU0MS1ubGl5WnlxVFp5MHhoU081ekJZdE1Bd2dMZmc3dHMwZm1LM0Y"
     }
    ],
    "category": "马斯克",
    "session": "盘中",
    "zh_summary": "SpaceX与特斯拉考虑合并",
    "title_zh": "SpaceX与特斯拉董事会考虑合并",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.2,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a7e0627214fc",
@@ -2031,6 +2040,23 @@
    "zh_summary": "特斯拉利润下滑43%股价仍坚挺",
    "title_zh": "特斯拉利润下滑43%但股价坚挺，原因解析",
    "sentiment": 0
+  },
+  {
+   "id": "6953f18848ef",
+   "title": "174万人为特斯拉FSD买单！中国市场智驾付费还有多远？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWlM4ZUpUU1dXVXJCOEl5UXR6WmxVenRHOUFlaG5PVktSbmZRSVVvdkhzQ280SkYwLVc5RGc0MktkN2FNei1ubjJDT1pOMGhDYjQ1OHhPM2FWOFU",
+   "source": "汽车之家",
+   "published_at": "2026-10-27T16:15:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-27T16:15:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWlM4ZUpUU1dXVXJCOEl5UXR6WmxVenRHOUFlaG5PVktSbmZRSVVvdkhzQ280SkYwLVc5RGc0MktkN2FNei1ubjJDT1pOMGhDYjQ1OHhPM2FWOFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8c2e2a817aef",
@@ -6268,6 +6294,23 @@
    "sentiment": 0
   },
   {
+   "id": "037ad02fc782",
+   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw",
+   "source": "InsideEVs",
+   "published_at": "2026-10-27T01:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-27T01:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
    "id": "5a063307fb56",
    "title": "TSLA, CLS, NU, XP, MSFT: 5 Trending Stocks Today - Celestica (NYSE:CLS) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc",
@@ -6461,66 +6504,6 @@
    "zh_summary": "特斯拉大举投资下一代技术",
    "title_zh": "特斯拉大举投资下一代技术",
    "sentiment": 1
-  },
-  {
-   "id": "287b89f07f84",
-   "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MEFYbkpTLWNQV2dlSXBlMEpncjhTV3pSMjdSbE1BeGxzNFdwTTBad2pfNVpkdmo3eV9ZakpoX3lXdGIyNXByUEVxSkRfa0xzSHJpSGxjNVZWRFRjUTRXaVBXTi1DV1dYR1RLU0djdlpaV3kwWWgyQ3puNjAxSFE",
-   "source": "新浪财经",
-   "published_at": "2026-10-27T00:40:06+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-27T00:40:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MEFYbkpTLWNQV2dlSXBlMEpncjhTV3pSMjdSbE1BeGxzNFdwTTBad2pfNVpkdmo3eV9ZakpoX3lXdGIyNXByUEVxSkRfa0xzSHJpSGxjNVZWRFRjUTRXaVBXTi1DV1dYR1RLU0djdlpaV3kwWWgyQ3puNjAxSFE"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T00:40:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzVmQmJBWjhhdWtpR3ZKWVduektMSTNmYUxlRmc3Y0Vnbk1LVGZvVFFGV3pua2p2Ukx1Qm5HNGVqd0o2c200X2g4b3pLcXdoaW1INWpsd1p3ejVPdTU5and0MU9VLUlRNWNiY2JhVzNtNU0xSkVabzM3dEZUWDNtV19UdUdKTHhp"
-    },
-    {
-     "name": "网通社",
-     "published_at": "2026-10-27T00:45:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRXN0VVFUUU5pYjJWbkszZjZQcjRzME5JT1V2UGxQMDBoMnF0Q21EU211OHZIRXh2MjBIVUswUURUWG9veG9ZNWFVX2RLbEY1MUEyLUZKbXg5LTA"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-27T01:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rZXBCcUpjaWhna0VfOG1EUmo0ZEM4VnhVRDA4MjdIQTdYUGFjWm5sa2Qtcm1yUnM2UjJJOEJWcEdkbjFYbVpLWE81YXNIMFVCLUotSkVqMjcyTTUyeHY3R3RUNHFVWDFDQ1JBVUlkTkh4QnMxaTQ4eTRxa0F0dw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "breaking": true,
-   "zh_summary": "拉脱维亚批准特斯拉FSD上路",
-   "title_zh": "拉脱维亚批准特斯拉FSD上路，成为第十个欧盟批准国",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.37,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "1d720b4a6cef",
-   "title": "特斯拉vs SpaceX：马斯克合并棋局背后，一场现金流与AI算力的较量 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3VCbGVMVjBCeHdHRHhQelVsVDZoYUhkOVpYUW82WlJFdUkzUFVYdTAydWRjNC00MmRaR00xVDdHNWs1OWdDVDJFaVVqU29tdy1QQVVYZkNTMXNwTVJxY0p1WHcyemJJOVhxcVZ2cUdxRURyMUlhRy1tTXBJWkY5QW9KanBwMmVtdVZrekx6MGUyMF9RdG9Z",
-   "source": "富途牛牛",
-   "published_at": "2026-10-27T00:20:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-27T00:20:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3VCbGVMVjBCeHdHRHhQelVsVDZoYUhkOVpYUW82WlJFdUkzUFVYdTAydWRjNC00MmRaR00xVDdHNWs1OWdDVDJFaVVqU29tdy1QQVVYZkNTMXNwTVJxY0p1WHcyemJJOVhxcVZ2cUdxRURyMUlhRy1tTXBJWkY5QW9KanBwMmVtdVZrekx6MGUyMF9RdG9Z"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "特斯拉与SpaceX合并棋局现金流较量",
-   "title_zh": "特斯拉vs SpaceX：马斯克合并棋局背后，一场现金流与AI算力的较量",
-   "sentiment": 0
   }
  ]
 }
