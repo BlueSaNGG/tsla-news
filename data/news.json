@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T05:22:26.418494+00:00",
+ "updated_at": "2026-10-28T05:37:28.002553+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.33（230条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T05:22:26.407518+00:00"
+   "as_of": "2026-10-28T05:37:27.996303+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 230
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5d288f0cff18",
+   "title": "Tesla ends a nearly 7-year Cybertruck wait with refunds and a pitch to buy a different car - The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG1TNHQxQmNCbDFBQ2dsYjRaN05mTzdNaEM0V1BKM0h4VDdTTldYWG9velFTaFBkRjJ5a1JXVWh6RndFYXhDZHp3X0tlcDQ5M0lpZU9kV0hCOTFsNWw4RXBOdmRkWnBxREEya0tCSHZQcmpZOFNRMlpWWXA5VmpYMVZHMUxKcFl4anRWV1F5dWFLYi1fYVE",
+   "source": "The Cool Down",
+   "published_at": "2026-10-28T05:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-10-28T05:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSG1TNHQxQmNCbDFBQ2dsYjRaN05mTzdNaEM0V1BKM0h4VDdTTldYWG9velFTaFBkRjJ5a1JXVWh6RndFYXhDZHp3X0tlcDQ5M0lpZU9kV0hCOTFsNWw4RXBOdmRkWnBxREEya0tCSHZQcmpZOFNRMlpWWXA5VmpYMVZHMUxKcFl4anRWV1F5dWFLYi1fYVE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "0e7d32209187",
    "title": "直行道摩托等红灯 特斯拉右拐按喇叭逼让路 - 手机新浪网",
@@ -92,12 +109,12 @@
    "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sSDRQbGVZOGNsME9IN1JzaWFoOVZINzM0SFJYcjZhWnJQdXYySTZqNkVQQjhzY2JlcjJuSVJaNG5jUHJvQkd4ZGZ3ZDk5b2EyTEh2bHAwa3d2SzFYdnVIcnVteEZYRHFUSHFBLXQ2VE41bUtLNUVRMEE4RQ",
    "source": "Teslarati",
-   "published_at": "2026-10-28T05:19:22+00:00",
+   "published_at": "2026-10-28T05:18:48+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Teslarati",
-     "published_at": "2026-10-28T05:19:22+00:00",
+     "published_at": "2026-10-28T05:18:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sSDRQbGVZOGNsME9IN1JzaWFoOVZINzM0SFJYcjZhWnJQdXYySTZqNkVQQjhzY2JlcjJuSVJaNG5jUHJvQkd4ZGZ3ZDk5b2EyTEh2bHAwa3d2SzFYdnVIcnVteEZYRHFUSHFBLXQ2VE41bUtLNUVRMEE4RQ"
     }
    ],
@@ -156,6 +173,23 @@
    "zh_summary": "特斯拉Cybercab西南首秀落地成都",
    "title_zh": "特斯拉Cybercab西南首秀落地成都，无方向盘踏板",
    "sentiment": 1
+  },
+  {
+   "id": "b18332d7f59b",
+   "title": "$特斯拉 (TSLA.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BUzZCck9rQUZEbGJNMl91SU9qenBvNkFQNzFnMnduSVdLMC05d1NOblZkd0MwamE3dHFlSFNTVjFsUExUNmdGWjdaWmNUZjlibkxhT0o2YWdSenNPWXJxNk02eFptc3pkZWtMekdyNEMxeHcwLTZRX04yNkQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T03:56:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T03:56:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BUzZCck9rQUZEbGJNMl91SU9qenBvNkFQNzFnMnduSVdLMC05d1NOblZkd0MwamE3dHFlSFNTVjFsUExUNmdGWjdaWmNUZjlibkxhT0o2YWdSenNPWXJxNk02eFptc3pkZWtMekdyNEMxeHcwLTZRX04yNkQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "b71b5cee4032",
@@ -6479,46 +6513,6 @@
    "session": "盘后",
    "zh_summary": "$22M期权押注特斯拉合并概率上升",
    "title_zh": "$22M SpaceX卖出看跌期权押注特斯拉合并几率上升",
-   "sentiment": 0
-  },
-  {
-   "id": "037ad02fc782",
-   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw",
-   "source": "InsideEVs",
-   "published_at": "2026-10-27T01:13:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-27T01:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KNU9nQjZJakgwRkpIR3pkUm1mYklmcFhpUmdGQ1M3VXJxYmxQaDZNZnNtR280TDRlYjVnT1FyZE52QkkxS2NFc3ByTTI2WGZjaUtQOVFtTUpzeGdudFJnT29MbTFkSmRGS1NlTWgxUjV4LWtBWnNxQnRCcw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉Cybercab未来将用磷酸铁锂电池",
-   "title_zh": "特斯拉为Cybercab未来设计磷酸铁锂电池方案",
-   "sentiment": 0
-  },
-  {
-   "id": "5a063307fb56",
-   "title": "TSLA, CLS, NU, XP, MSFT: 5 Trending Stocks Today - Celestica (NYSE:CLS) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc",
-   "source": "Benzinga",
-   "published_at": "2026-10-27T01:09:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-27T01:09:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNajRHbWthYm9ZZElHeHhkdFpQbDJ3aGRqUHBaa0dqaTZHSlN6WGdmNGt5bE9vRHF1bXZZUktLVXFKZXJkNkMxTFFNbW9ING5Ybzl0NE5sSW1qTmJJZzZPNkIxanYzMjJOejdiRVRCUlgyR0JHcnJmZ1VMQzV2TnNKUy1iRVl1VGUxODZJcC0xb1ROS2RxLWpuRmczZnpwSlN6STJQa0VMUGtfNmhFRXNzQzNNOTZ3NGpHeXhNdFBiY2N0VWgzOGwxWkxLc2xRbEZ6YVR2OW1rVHZ0aFplOUcwOGxMZUxxUDlqYXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉等5只股票今日受关注",
-   "title_zh": "TSLA等5只股票今日热门",
    "sentiment": 0
   }
  ]
