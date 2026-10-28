@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T22:22:55.140945+00:00",
+ "updated_at": "2026-10-28T22:37:37.568648+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.02（181条已评分）"
+     "note": "今日新闻情绪 -0.02（183条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-28T22:22:55.132553+00:00"
+   "as_of": "2026-10-28T22:37:37.555969+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.02,
-   "count": 181
+   "count": 183
   }
  },
  "meta": {
@@ -2520,6 +2520,23 @@
    "zh_summary": "Turo通过API验证特斯拉FSD租赁",
    "title_zh": "Turo通过API验证特斯拉FSD租赁车辆",
    "sentiment": 1
+  },
+  {
+   "id": "2cfa51832234",
+   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
+   "source": "中华网",
+   "published_at": "2026-10-28T10:30:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T10:30:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "f157202f7b60",
@@ -6433,26 +6450,6 @@
     "pct": 0.08,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "8c2e2a817aef",
-   "title": "Tesla Reverts Canadian Model 3 Spec Change That Hinted at US-Built Return - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1NWU2taZWh5T3pxbHNXc0NJX3Z0aWIyb0ZyRndlTFFEbkhnNW1yY0Y0bi13YVUyQ3dmVkQ5bndhdlRycFdVS2ozZktSV3lGSnNBUURmTDJ5N0RrX2ZfSE9DWG4zbFJpeDRyczVHcC1jRE5tVms1UlZzNHg2VzRRTHNlT2ZHZkhvSkxXcGZYa2NNMllvV0VYQW4tXzVvTmwyMXpGVmowanlHbThjRHc",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-27T16:09:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-27T16:09:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1NWU2taZWh5T3pxbHNXc0NJX3Z0aWIyb0ZyRndlTFFEbkhnNW1yY0Y0bi13YVUyQ3dmVkQ5bndhdlRycFdVS2ozZktSV3lGSnNBUURmTDJ5N0RrX2ZfSE9DWG4zbFJpeDRyczVHcC1jRE5tVms1UlZzNHg2VzRRTHNlT2ZHZkhvSkxXcGZYa2NNMllvV0VYQW4tXzVvTmwyMXpGVmowanlHbThjRHc"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉撤销加拿大Model 3规格变更",
-   "title_zh": "特斯拉撤销加拿大Model 3规格变更，暗示美产回归",
-   "sentiment": 0
   }
  ]
 }
