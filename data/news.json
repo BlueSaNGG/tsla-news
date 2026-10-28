@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T05:52:31.463386+00:00",
+ "updated_at": "2026-10-28T06:07:29.581004+00:00",
  "market": {
   "price": 407.46,
   "change_pct": 4.04,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（3条已评分）"
+     "note": "今日新闻情绪 -0.25（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.8,
    "ma20": 374.31,
-   "as_of": "2026-10-28T05:52:31.456631+00:00"
+   "as_of": "2026-10-28T06:07:29.574314+00:00"
   },
   "pe_ttm": 112.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 3
+   "avg": -0.25,
+   "count": 4
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "179bc3990766",
+   "title": "特斯拉，早已不只是造电车 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZ2tLdTdTNDlaWG94RkVOMmg2QjRONUZSdDlMenVfXy03RFdrZEl4UDhmM0ZlQVkwRWFvSmRXbEtEeTQ2Nm9BUHJUeXBwTWlXampPb3ZZUU9XNHJaR2tNUXN3Z1BBZHEyZnhj",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T05:52:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T05:52:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZ2tLdTdTNDlaWG94RkVOMmg2QjRONUZSdDlMenVfXy03RFdrZEl4UDhmM0ZlQVkwRWFvSmRXbEtEeTQ2Nm9BUHJUeXBwTWlXampPb3ZZUU9XNHJaR2tNUXN3Z1BBZHEyZnhj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "1a61db08de2a",
+   "title": "$特斯拉 (TSLA.US)$ 没想到这次拉升拿么勇猛啊 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2lza20tQy1Zcmh4NmhGaU4zYVFzczlUZkJUVmFBalRRVERscEFGWDZUVzkzMFRnVWxpWnhja1JLeHc4US1malB0cjd2c1k0eWFpUjBIdXhsUW1NejFyYXNBa2gxSmlTZWZ3aGlfcWpXUkt0eWx1eTVZVjB6WTJaanZHYS1zSUdJYm5RNXc3N0lqNXVRc2VzM2RTZW5RZmdsZmdudQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T05:50:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T05:50:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX2lza20tQy1Zcmh4NmhGaU4zYVFzczlUZkJUVmFBalRRVERscEFGWDZUVzkzMFRnVWxpWnhja1JLeHc4US1malB0cjd2c1k0eWFpUjBIdXhsUW1NejFyYXNBa2gxSmlTZWZ3aGlfcWpXUkt0eWx1eTVZVjB6WTJaanZHYS1zSUdJYm5RNXc3N0lqNXVRc2VzM2RTZW5RZmdsZmdudQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "9d1a04a85e70",
    "title": "Tesla Semi battery fire shuts down major Bay Area freeway for hours - San Francisco Chronicle",
@@ -153,7 +187,7 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUxYUElkdGx0dTlPTGlDU2ZJWmhFcWlLVlZyY1FnLXlpamFiMk5LekZ5TG03TVlsVXZDTVQxTHNtQmJ2MnZjd2tvbDRKZGdId19EdzM2dDUyeWJxME5zdUVNOWNzbXRhVHA4bTVWalNPRlItMkluN3Q1SDEzdy14UWQySlFHNEU4am95eTl4QnR0R0ZQcTBBZGdaZTRITVdNU1o0c3otcXhDVUJ3aEdqbks0ZFM",
    "source": "The Mercury News",
    "published_at": "2026-10-28T04:56:19+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Mercury News",
@@ -164,6 +198,11 @@
      "name": "East Bay Times",
      "published_at": "2026-10-28T04:56:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTJjcllDTVBRYUE5RjBwRlJlUHFSb1U5QTRrVm5XeHRObTBtYWpnUVRvX1BDRDZqQ0RYbkd3aXNuODJzVWlqWnRfd3FEeElLWndXckVJUE9ubzJRc1kxRFh0QlFRVVE1NktCMExUdEY2NVhYLVZNQ3lvZVh3LVliR0RxOHU0VHRoeFQ3Z1BrOVVrc1pWS2E1WGtLSXFjOFFqd1RRSHIwU1cxX3pvMmlmQnJKenA2Zw"
+    },
+    {
+     "name": "ABC7 Bay Area",
+     "published_at": "2026-10-28T05:52:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmdHTnVBTGVqY1RtQlZ0bzZocmYzMEQtRU0td2hQWjYzOWt6MFRoeHdrc3NqejRFSUxEcV9GRkVRUEtoNzB4cDRsWWdmRENVZkFIUmpsTEhHcEQ1N1BWSUo4bmotMThGZ1dBRDYtRHFmNXhKRjU4N2dScm5OaDlNbUpKLXk4VHNwUHRoR2RKZjVmY2M"
     }
    ],
    "category": "车型产品",
@@ -408,7 +447,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKTWo5SFJueEJsVmx3eGJRS3dHbnVEd0J5MWJMdnNFNTBiVk9aZFdCODJFUXpjVUFkel92S1ZIT0c4dmRyZFViejY3LU5LajJiX1E",
    "source": "华尔街见闻",
    "published_at": "2026-10-28T02:43:15+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "华尔街见闻",
@@ -419,6 +458,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-28T02:58:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjBmSXc5SVpmc2hNVmxnZXN3Y05TY3g0WFBKeTVmRXMyaWR0Z1ctSUtObFp4OUZibEtEcnZvYXRKUlhMbzZiZ0JxbURoSGZTRTB1QUVJNE9hTDV4djlnTWZfN0tnR1RJV0RTcFItZjVVVDhzVjl1MFdyMUM4TFdLQTFvN19jdHphSHN3"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-28T02:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDNra09KcXhUX1lNTTgxZUJQaExGWWhDMEdFUEJLMGpXd01rWkViYWU1ak51cndqdi0zWHFRbjh5Z2U0aEZwWTZPcDlXQ1VWc1J5M0dPY25KX0Rqb0RYVjFvZk1CTlJpM0JxVjVhYm1DUzZ0U0l5M3dvZjQ5b0FDRXFNOXh5aXFRbTNYY2hDSWZaYzZKbGFfWlVOaHBQczhrX1E"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -6480,51 +6524,6 @@
    "zh_summary": "特斯拉股价今日上涨",
    "title_zh": "特斯拉(TSLA)股价今日上涨原因",
    "sentiment": 1
-  },
-  {
-   "id": "4e2fb6f184f7",
-   "title": "造型像火箭！特斯拉休斯顿Robotaxi服务范围扩至10倍，面积是Waymo的5倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmliSlhIVEwtRlVmREtrQm8zcVJNNXBlUm8wSXE5SG80RGZGLWNnZzJoTktKVGZ0OVpTWldWNDVfamcwYldzZEFScmxCRHZET0c1TlUybHEzbXlyVnltYU5sejZQV1UyMDEzRG5NQ0l6dXI4S1JER2N2NmM3WVk0SlB1X0FkaFBLbWViOA",
-   "source": "搜狐网",
-   "published_at": "2026-10-27T01:20:39+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T01:20:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmliSlhIVEwtRlVmREtrQm8zcVJNNXBlUm8wSXE5SG80RGZGLWNnZzJoTktKVGZ0OVpTWldWNDVfamcwYldzZEFScmxCRHZET0c1TlUybHEzbXlyVnltYU5sejZQV1UyMDEzRG5NQ0l6dXI4S1JER2N2NmM3WVk0SlB1X0FkaFBLbWViOA"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-27T02:10:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10ZWVqT2ZrcnhEZjd6RlRxNnRucDhMbXBfbU9FZ2Y1N0xDTHdaSVZoTXdSdVBqM1ZZdTVZaG8takxWcVAyVlFBQ29VaC0"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉休斯顿Robotaxi范围扩至10倍",
-   "title_zh": "特斯拉休斯顿Robotaxi扩至10倍，面积为Waymo5倍",
-   "sentiment": 1
-  },
-  {
-   "id": "0fdbaf6e2244",
-   "title": "SpaceX以2200万美元押注特斯拉并购概率上升 | 期权收益日报 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDd0MVA5aEdnU2U3MERVMC12WUl3dmxRWGlJX3MwLTR5U0FnRGktY1hEQmZzeVhrVndIRTFsX0d4VDZFZDJPTmhZUTc4Nm85bVU0NGJhbTgzTWlEQUM0YzZtUThXTzh0S3JLcktxWm1HSG04bDYtYlBOSThlZ0hfeFE0Tks5NkVtNWlBRjBCNW9TN0pidllMR3l6VEpOUDM1dTJUNlp3Q2w4cDRvX3lEaw",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T01:17:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T01:17:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDd0MVA5aEdnU2U3MERVMC12WUl3dmxRWGlJX3MwLTR5U0FnRGktY1hEQmZzeVhrVndIRTFsX0d4VDZFZDJPTmhZUTc4Nm85bVU0NGJhbTgzTWlEQUM0YzZtUThXTzh0S3JLcktxWm1HSG04bDYtYlBOSThlZ0hfeFE0Tks5NkVtNWlBRjBCNW9TN0pidllMR3l6VEpOUDM1dTJUNlp3Q2w4cDRvX3lEaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "SpaceX押注特斯拉并购概率上升",
-   "title_zh": "SpaceX以2200万美元押注特斯拉并购概率上升",
-   "sentiment": 0
   }
  ]
 }
