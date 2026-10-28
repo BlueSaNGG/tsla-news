@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T23:52:31.381756+00:00",
+ "updated_at": "2026-10-28T00:07:46.163771+00:00",
  "market": {
-  "price": 407.46,
-  "change_pct": 4.04,
+  "price": 391.62,
+  "change_pct": 5.21,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 49% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 +2.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（174条已评分）"
+     "note": "今日新闻情绪 +0.33（181条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $407.46 vs 20日均线 $374.31"
+     "note": "现价 $391.62 vs 20日均线 $371.58"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 49,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.8,
-   "ma20": 374.31,
-   "as_of": "2026-10-27T23:52:31.371868+00:00"
+   "implied_upside_pct": 2.1,
+   "ma20": 371.58,
+   "as_of": "2026-10-28T00:07:46.152655+00:00"
   },
-  "pe_ttm": 112.7,
+  "pe_ttm": 108.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+2.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 174
+   "avg": 0.33,
+   "count": 181
   }
  },
  "meta": {
@@ -6385,6 +6385,23 @@
    "sentiment": 1
   },
   {
+   "id": "81d0dafeb74b",
+   "title": "Tesla's Full Self-Driving Business Is Growing Fast. But There's a Catch for Investors - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3c5QXFmV2ZjQzZrcGxJS0FaVm1WZ21QdE5zdVFKeTd2NVJmMTN6WTdBd3JSTXAzb0hxSGw5NEIxQnhCU0pQN3Q1UjRXaDZxZ252V2ZDUng4ZFdoa0YwZ2NMVU1nVGdRczNmLXZUOW15ZFFLYS1wYzVWVGEtc1B6NUtUQjRoTFNoblp0aElkS1VBRC1ockFrSU85YWhBQ2Z6bi03WjdINDJHTmtvN0trSlZNdlpXN25IUGRhR0E0ZVVwVmI0bWc",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-26T20:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-26T20:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3c5QXFmV2ZjQzZrcGxJS0FaVm1WZ21QdE5zdVFKeTd2NVJmMTN6WTdBd3JSTXAzb0hxSGw5NEIxQnhCU0pQN3Q1UjRXaDZxZ252V2ZDUng4ZFdoa0YwZ2NMVU1nVGdRczNmLXZUOW15ZFFLYS1wYzVWVGEtc1B6NUtUQjRoTFNoblp0aElkS1VBRC1ockFrSU85YWhBQ2Z6bi03WjdINDJHTmtvN0trSlZNdlpXN25IUGRhR0E0ZVVwVmI0bWc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
    "id": "4e15d7b8f60b",
    "title": "SpaceX Merger Could Accelerate Tesla's Push Into AI and Autonomous Driving: Barclays - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3NkcDhIa3R6WU1iSENHQjFESGFkdk9lbk1xRHJLekw1X2NzeGc2Y290R09zUUFyeU03U3c2Vlc0LTdvckdQaTVzamdDX3pVeHZ0MXQwLWJNcDNWdDI0TmszM0Ezc1VMWG10ZG55ejZUSHZSOERwNlNBM0ROVnVkMFlvRHl3LVVaZklGbzJ0ZTlqSDc4RVpSQy1WZkdzcVdaZXJr",
@@ -6554,26 +6571,6 @@
    "zh_summary": "特斯拉走势看涨，但五只AI股领涨标普500",
    "title_zh": "特斯拉走势看涨，但五只AI股领涨标普500",
    "sentiment": 0
-  },
-  {
-   "id": "012ed5ada0bf",
-   "title": "Inside Cybercab: Munro Reveals Tesla's Unboxed Build, Brake-by-Wire, and Heat Pump V3 - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMV8xOW5ZUTRRTzRWcmNxZUJCSFphNExmb3VmTmFkbmVFODdndDRGVG1mZlBtQm9LRVQ0SEc4Q0tqaFIzdkJmTUhsbFVWeTlnQVhLTXY4Z1NOM1FsdjRBYlJXU3hWLXkzSXctWDZxeG5fX19OTjBiOERGVFItZ21FZFR5TDlGYkRnaFFIWkRjV3B0aHNXS2JxZmhHRF8yaTNYcjRPVDlST0EyRFI5QjlSWVlqa3BOZW8",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-26T20:07:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-26T20:07:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMV8xOW5ZUTRRTzRWcmNxZUJCSFphNExmb3VmTmFkbmVFODdndDRGVG1mZlBtQm9LRVQ0SEc4Q0tqaFIzdkJmTUhsbFVWeTlnQVhLTXY4Z1NOM1FsdjRBYlJXU3hWLXkzSXctWDZxeG5fX19OTjBiOERGVFItZ21FZFR5TDlGYkRnaFFIWkRjV3B0aHNXS2JxZmhHRF8yaTNYcjRPVDlST0EyRFI5QjlSWVlqa3BOZW8"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "Munro解析Cybercab线控制动与热泵",
-   "title_zh": "Munro揭秘Cybercab无箱式制造、线控制动与第三代热泵",
-   "sentiment": 1
   }
  ]
 }
