@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T19:37:39.727239+00:00",
+ "updated_at": "2026-10-29T19:52:34.360615+00:00",
  "market": {
-  "price": 403.73,
-  "change_pct": -0.12,
+  "price": 404.08,
+  "change_pct": -0.03,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（132条已评分）"
+     "note": "今日新闻情绪 +0.13（135条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.73 vs 20日均线 $379.26"
+     "note": "现价 $404.08 vs 20日均线 $379.28"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.9,
-   "ma20": 379.26,
-   "as_of": "2026-10-29T19:37:39.718584+00:00"
+   "implied_upside_pct": -1.0,
+   "ma20": 379.28,
+   "as_of": "2026-10-29T19:52:34.351128+00:00"
   },
-  "pe_ttm": 111.7,
+  "pe_ttm": 111.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 132
+   "avg": 0.13,
+   "count": 135
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7613fc4d006f",
+   "title": "【视频】21年特斯拉model-3 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GTDM2Zzk2Wkg3WS1KWTk5TFZzWVJGYlh6TEhfLUxyZDYtSVhxOHVfWlo5LWhBWUZINDZDdWFEQjZ2b3Bqa3BKbXZzektKcFNNNHgta2pNLXBFWEE",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T19:41:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T19:41:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GTDM2Zzk2Wkg3WS1KWTk5TFZzWVJGYlh6TEhfLUxyZDYtSVhxOHVfWlo5LWhBWUZINDZDdWFEQjZ2b3Bqa3BKbXZzektKcFNNNHgta2pNLXBFWEE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6904d841ce03",
    "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award - Not a Tesla App",
@@ -6446,26 +6463,6 @@
    "zh_summary": "韩国80名车主非法激活FSD被移送",
    "title_zh": "150元破解FSD！韩国80名特斯拉车主因非法激活智驾功能被移送检方",
    "sentiment": -1
-  },
-  {
-   "id": "66efc9af6aaa",
-   "title": "Tesla Hires in Vietnam: 5 Roles, $3M Unit [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlN6NldwQUI3MzZ0cEl0V3l2VEVWdjhZVUV3RTVHTGUzNFo4RFRDbDYwb0pMTDJoS0ZVYXI0NUdkUVBqbFRsVDhINFpxM25YeEx3YXNXZGI4WWFqSVdWRm1VMjAtQzNreFJQWkp3SWhHNGpsV2RzcUFqWm80RUU2eEFYTm5NUQ",
-   "source": "shattered.io",
-   "published_at": "2026-10-28T10:45:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-28T10:45:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlN6NldwQUI3MzZ0cEl0V3l2VEVWdjhZVUV3RTVHTGUzNFo4RFRDbDYwb0pMTDJoS0ZVYXI0NUdkUVBqbFRsVDhINFpxM25YeEx3YXNXZGI4WWFqSVdWRm1VMjAtQzNreFJQWkp3SWhHNGpsV2RzcUFqWm80RUU2eEFYTm5NUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉越南招聘5个岗位",
-   "title_zh": "特斯拉在越南招聘5个岗位",
-   "sentiment": 0
   }
  ]
 }
