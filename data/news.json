@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T04:37:27.474000+00:00",
+ "updated_at": "2026-10-29T04:52:30.875292+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.02（224条已评分）"
+     "note": "今日新闻情绪 +0.03（228条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-29T04:37:27.465048+00:00"
+   "as_of": "2026-10-29T04:52:30.869201+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.02,
-   "count": 224
+   "avg": 0.03,
+   "count": 228
   }
  },
  "meta": {
@@ -4185,6 +4185,23 @@
    "sentiment": 0
   },
   {
+   "id": "c0045a885f6a",
+   "title": "特斯拉计划用Optimus为Robotaxi充电 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wV1JPUmFPdDdzT3VSS0lBclpkcFd5Ukh2VkhWMGlTN2lwTEY5bV8yT2hsXzhvLUNvU2ptUEkwN2FLN2E2a3hGOUNOdTVLYllXb2owX3VHaGY0OHM",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T08:18:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T08:18:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wV1JPUmFPdDdzT3VSS0lBclpkcFd5Ukh2VkhWMGlTN2lwTEY5bV8yT2hsXzhvLUNvU2ptUEkwN2FLN2E2a3hGOUNOdTVLYllXb2owX3VHaGY0OHM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "ff63ebfdf85d",
    "title": "Tesla buyer says her new car's windshield is still cracked 2 months after Tesla promised a fix - The Cool Down",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRm85R0h0RUUwUER2RnItT2lkdFczOUNWaE84d240NV9oMHFLZFQ2SmctUUtnelE3Y25uazhtN203aHRreGs0MTk4eWJvNFFjYXVpTjJFQlBLWG80NW52MjJId3VnU0JvY0duOGoyV3VMQkVIcl9pNHhlbmJTcVVMSzg0bkdtOENRU090M0dR",
@@ -5754,31 +5771,6 @@
    "sentiment": 1
   },
   {
-   "id": "86387f1d7a1c",
-   "title": "特斯拉拟用Optimus为Robotaxi充电，终极目标无线充电 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRy1hbUJBbzFvUnB5amFKX0FOUm9oTkw5a2NQNjRmdVI3cFp5TWNieVg2YlhSM0R0WDlrNE9qWmZyVFBGekFLd2E0dG0",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-28T01:21:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-28T01:21:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRy1hbUJBbzFvUnB5amFKX0FOUm9oTkw5a2NQNjRmdVI3cFp5TWNieVg2YlhSM0R0WDlrNE9qWmZyVFBGekFLd2E0dG0"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T01:45:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4OXh5TjZ1azNWZThOU1pRbm1OVjlUMlJ6cnUzNzJjMXFiRS1qWV9Wd3NmOXRDcWVKQ3hybDY2cFdQMmRqd3FYVkt4bHNKTklvZmZIcDJYS3RLejA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉计划用Optimus为Robotaxi充电",
-   "title_zh": "特斯拉计划用Optimus为Robotaxi充电",
-   "sentiment": 1
-  },
-  {
    "id": "4749f840bbdf",
    "title": "Zoox、Waymo与特斯拉三辆无人出租车在奥斯汀窄路相遇陷入死锁 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdDF0WVk4dXBmcTJsOFJHdFIzeDhhTnF4LXIwUF9VUzlOR0M3OFNfSFNlYm8zYW9qRjYtRlJwZzRnZmZDYWtMbkNpXzRVUVdsYlgzdmI3MktjeDA",
@@ -5951,6 +5943,23 @@
    "zh_summary": "特斯拉Model Y的三只时钟",
    "title_zh": "七点半之前 特斯拉Model Y的三只时钟",
    "sentiment": 0
+  },
+  {
+   "id": "a063834420fa",
+   "title": "马斯克疯狂“整活”，特斯拉全面“跳票” - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR",
+   "source": "新浪财经",
+   "published_at": "2026-10-28T00:36:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-28T00:36:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
   },
   {
    "id": "bf65bd5f8332",
@@ -6390,26 +6399,6 @@
    "zh_summary": "加洛韦质疑马斯克特斯拉与SpaceX合并",
    "title_zh": "加洛韦称特斯拉为病人SpaceX为器官捐献者",
    "sentiment": -1
-  },
-  {
-   "id": "65ac87c88f9c",
-   "title": "BlackRock reports 196 million Tesla (TSLA) shares in an amended passive ownership disclosure. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdllCOF8tQkRjYnJfZDhzY251UmhBQ2s4QXl4YnNjMGYyUTEyMk1pSm5EcFlzRi1HVUk5TDZ5ZXpVQUhSckNwN29lSEp2WUpMRVg3MzJXeXpEcUoxUGhHMDMtX0lGUWhpNW1uUm9vWjZhVWJCdEhZSGNhVERzYkdQSmJGQ2I1Nk02VTVtWDdnaXpPeVc0TzVTRGtQZ2gxMzN4OUNMUEE4bmdWSWFMN2E3Yk42dXd0NWNGU1NhZlJHeEZyZw",
-   "source": "Stock Titan",
-   "published_at": "2026-10-27T21:29:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-27T21:29:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdllCOF8tQkRjYnJfZDhzY251UmhBQ2s4QXl4YnNjMGYyUTEyMk1pSm5EcFlzRi1HVUk5TDZ5ZXpVQUhSckNwN29lSEp2WUpMRVg3MzJXeXpEcUoxUGhHMDMtX0lGUWhpNW1uUm9vWjZhVWJCdEhZSGNhVERzYkdQSmJGQ2I1Nk02VTVtWDdnaXpPeVc0TzVTRGtQZ2gxMzN4OUNMUEE4bmdWSWFMN2E3Yk42dXd0NWNGU1NhZlJHeEZyZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "贝莱德披露持有1.96亿股特斯拉股票",
-   "title_zh": "贝莱德在修订后的被动持股披露中报告持有1.96亿股特斯拉股票",
-   "sentiment": 0
   }
  ]
 }
