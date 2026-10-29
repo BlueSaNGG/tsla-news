@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T15:22:29.934673+00:00",
+ "updated_at": "2026-10-29T15:37:30.327146+00:00",
  "market": {
-  "price": 406.16,
-  "change_pct": 0.48,
+  "price": 406.53,
+  "change_pct": 0.57,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（101条已评分）"
+     "note": "今日新闻情绪 +0.13（105条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.16 vs 20日均线 $379.38"
+     "note": "现价 $406.53 vs 20日均线 $379.40"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.5,
-   "ma20": 379.38,
-   "as_of": "2026-10-29T15:22:29.923841+00:00"
+   "implied_upside_pct": -1.6,
+   "ma20": 379.4,
+   "as_of": "2026-10-29T15:37:30.313773+00:00"
   },
-  "pe_ttm": 112.3,
+  "pe_ttm": 112.4,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 101
+   "avg": 0.13,
+   "count": 105
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b40fecff2dae",
+   "title": "NLRB tosses case against Tesla over workplace IT policies - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGxFZzA1UzhnNXJPT3EteHd1X2RBX3BlZEt4MUhDcnhWdE5oczVTa0UtV1ZOU1JFWFhtaGo5Mnp1RFkxbzZTVTFkTWMtTHZ5bVhQT2RwRE04ZEZPbGktOHpBaGs0ampMWk5xNmY3ZEltRjZvbVczZU1KeDZFQW5SWVBzc1VFQ21tRmw2X0NpV0tNbWdPX1Q3YVQyT2Faby1sQlhkeXV3MVFHSzN2V1FZ",
+   "source": "Reuters",
+   "published_at": "2026-10-29T15:26:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-29T15:26:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGxFZzA1UzhnNXJPT3EteHd1X2RBX3BlZEt4MUhDcnhWdE5oczVTa0UtV1ZOU1JFWFhtaGo5Mnp1RFkxbzZTVTFkTWMtTHZ5bVhQT2RwRE04ZEZPbGktOHpBaGs0ampMWk5xNmY3ZEltRjZvbVczZU1KeDZFQW5SWVBzc1VFQ21tRmw2X0NpV0tNbWdPX1Q3YVQyT2Faby1sQlhkeXV3MVFHSzN2V1FZ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "805b102ce367",
    "title": "特斯拉进军越南启动采购招聘，供应链本土化对Tier1供应商意味着什么？ - 网通社",
@@ -973,26 +990,6 @@
    "sentiment": 0
   },
   {
-   "id": "1a4730789b41",
-   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0",
-   "source": "InsideEVs",
-   "published_at": "2026-10-29T11:28:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-29T11:28:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab改进难修的结构电池",
-   "title_zh": "Model Y结构电池难维修，Cybercab改进此问题",
-   "sentiment": 1
-  },
-  {
    "id": "c9e1edb3b846",
    "title": "The Zacks Analyst Blog Highlights Tesla and SpaceX - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0hGNnRJLXFCa1lOR0YzdEJBcTJCRmJPOTVGX19KNjR5UnRiYWxXZmpGMk9MVFFXRHV4YlFWQkRvS0RUWkRKdHdoU1NyV2xrM0VrYXM3WDVrZXZKVjNkQ0tmYlE0d0xhb25kVGw2M0I1ZHl6Qk95Zk44c3FkZnlrSVhWbU5VOW1pMWc2djY3c25GZVRURFd4cUFMcVFSTk1feWc",
@@ -1196,6 +1193,23 @@
    "zh_summary": "马斯克称Robotaxi胜Waymo但里程落后",
    "title_zh": "Musk宣称特斯拉Robotaxi胜过Waymo，但Waymo里程仍是其7倍",
    "sentiment": 0
+  },
+  {
+   "id": "ec88e22185c2",
+   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtOThWVDJCd2lYTUtrWFpra0pHaENpTlQxY2pBdmFaZHJSc3JmbHVxbXpPbm9aRTFvNjZBMmVyN3hGMWZWX2lNbG1EM3VJSUVQWHh3Y3FqUnZmQ3Y2cUpmemtrYWdaZ29tLTc0djFNX2R1WW1GZmwxdA",
+   "source": "InsideEVs",
+   "published_at": "2026-10-29T10:31:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-29T10:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtOThWVDJCd2lYTUtrWFpra0pHaENpTlQxY2pBdmFaZHJSc3JmbHVxbXpPbm9aRTFvNjZBMmVyN3hGMWZWX2lNbG1EM3VJSUVQWHh3Y3FqUnZmQ3Y2cUpmemtrYWdaZ29tLTc0djFNX2R1WW1GZmwxdA"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "c6e2b098477e",
@@ -6464,26 +6478,6 @@
    "session": "盘前",
    "zh_summary": "韩国80名车主因破解FSD被查",
    "title_zh": "特斯拉也能“越狱”？韩国80名车主因破解FSD被查 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "ca40cce6e305",
-   "title": "美国一特斯拉Semi电动重卡起火，司机成功逃生 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWNzd091bHNnTGZfNGd6d19XLVdYZXZpLU83VTFfVUZjb1AtR3puSzU5U1hGVlA2MzF4ZnFoaFJ1NW94VGdQTjNsVWdtZlZrR2YyMzJ2cnBYSWdYWndDWl9ILUM4Y3JHNnkwRUttWVc2S0swSmI3Vk9uLTlpNDFqYVRCLUtHNE1H",
-   "source": "搜狐网",
-   "published_at": "2026-10-28T08:41:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-28T08:41:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWNzd091bHNnTGZfNGd6d19XLVdYZXZpLU83VTFfVUZjb1AtR3puSzU5U1hGVlA2MzF4ZnFoaFJ1NW94VGdQTjNsVWdtZlZrR2YyMzJ2cnBYSWdYWndDWl9ILUM4Y3JHNnkwRUttWVc2S0swSmI3Vk9uLTlpNDFqYVRCLUtHNE1H"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美国一特斯拉Semi重卡起火司机逃生",
-   "title_zh": "美国一特斯拉Semi电动重卡起火，司机成功逃生",
    "sentiment": -1
   }
  ]
