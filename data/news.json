@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T05:22:33.483503+00:00",
+ "updated_at": "2026-10-29T05:37:29.145227+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.03（228条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-29T05:22:33.471782+00:00"
+   "as_of": "2026-10-29T05:37:29.129449+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 228
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -308,31 +308,6 @@
    "sentiment": 0
   },
   {
-   "id": "f1c806dc4cfe",
-   "title": "South Korean court rejects Tesla owners' lawsuit seeking 'Full Self-Driving' refunds - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaGlBR2daSlBwMGJ0V1FwWjZ1OTMwSndpVHA3dUdid0g2cHI5dVJQS180YkdVZ1N0N0hQdnl6d3hIQnVtMXliUnA2NGwtdDc5RzU5ZWNtOVJKdER6bVRjSWlSejcwR3dSazFGc2c5azl0NTd4Z05pa0Z1QjFjdWZzNEg1YXdULWlhdy1JYVVyRTlSRU9FT2VhM2ZYbHYwSWxrcHd2NkdpY2EyTnZEZ0YxRVJWY2doUW5iTnRpTTFrNktBQllRSHVEOFNmZzhJMC1tdUxZZGI3VmVoOUFrYkl2dnRzdk1DQQ",
-   "source": "TradingView",
-   "published_at": "2026-10-29T03:02:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-29T03:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaGlBR2daSlBwMGJ0V1FwWjZ1OTMwSndpVHA3dUdid0g2cHI5dVJQS180YkdVZ1N0N0hQdnl6d3hIQnVtMXliUnA2NGwtdDc5RzU5ZWNtOVJKdER6bVRjSWlSejcwR3dSazFGc2c5azl0NTd4Z05pa0Z1QjFjdWZzNEg1YXdULWlhdy1JYVVyRTlSRU9FT2VhM2ZYbHYwSWxrcHd2NkdpY2EyTnZEZ0YxRVJWY2doUW5iTnRpTTFrNktBQllRSHVEOFNmZzhJMC1tdUxZZGI3VmVoOUFrYkl2dnRzdk1DQQ"
-    },
-    {
-     "name": "Central Oregon Daily",
-     "published_at": "2026-10-29T03:07:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY2dwSFRabjZWdWhMb0FyYVhqOTRQVDZBNmtSNnJnNElFLWV2QktLdTg3ekdxUEFTVGZKTUVxRmQzcTFOVHpJTWxwVEFiQThuSlM1aEFjYV9VWnd6UU9nMXR2Um9kM3p3MzJpY2hPeWdub3pMdGJjbXJNNlNKTkl5YmNtWjM5Mk1wbmR0NWZkMFltU056WE1faWxzNFRYNTFMUjJYdm5NM0dwdkJpdWx2aG9rSUROMVhhRjVocnFtYm1MVm9BV2ZKcWZvdE9PbGVfbEozSVRQZmN4LUJPMERoNkViaXJWaVNWd0kwZGpIODVJbUJ4VmtXdk0xdHIyZUp3ZXZ6amwyTlNpbGR5"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "韩法院驳回车主FSD退款诉讼",
-   "title_zh": "韩国法院驳回车主FSD退款诉讼",
-   "sentiment": 1
-  },
-  {
    "id": "ea071d7c81da",
    "title": "Korea Books 80 Tesla Owners Over FSD Unlocks [2026] - https://tech-insider.org/",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGE1SXp4OE9GSWhoUFZtZV9YRzMteFFuREotcVZpT1RvaU5pNGI3M3RIQ3BqMUdDTDVxZDVaMXFfNUNrTlhoS2tDa0xvaEM2UGxVS3lkd1pDandYQWlCVGItQmlzMzZzdnAxQUcydXZiUlkyS1BjZ3JrSlNrbDhQeG1xc01iTDlUM2p2OA",
@@ -471,6 +446,36 @@
    "zh_summary": "特斯拉视频谈买车最重要因素",
    "title_zh": "【视频】买车什么最重要？特斯拉告诉你答案 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "f1c806dc4cfe",
+   "title": "South Korean court rejects Tesla owners' lawsuit seeking 'Full Self-Driving' refunds - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjh3SVB5QkI5b2FUQ0ptMFpDNWRsTU9yVVd3Q0kxZnJUWG1wUDZnYXVzeEt5T1ZLVHJQcHBTV3V0SkRFNGc2NnkyQ0haTGhVcU9HWkJqRTFzY1MzWFNCMTF4Tjl5S09BeG5CN3dDTzhJY1RGRHlSaTBOb3FtdDNTRWRUYThoYXJXRVlud050R29xTVVMSUhMTHFWWm16T3l6RF9hcWhyMTBLeHk4cWxkRWp0dlp1N1c3RXN3eWFfemljc01ZTnBseW5aU3VDUlZleDlhSDAtUVBJUWFXaEE",
+   "source": "Reuters",
+   "published_at": "2026-10-29T02:00:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-29T02:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjh3SVB5QkI5b2FUQ0ptMFpDNWRsTU9yVVd3Q0kxZnJUWG1wUDZnYXVzeEt5T1ZLVHJQcHBTV3V0SkRFNGc2NnkyQ0haTGhVcU9HWkJqRTFzY1MzWFNCMTF4Tjl5S09BeG5CN3dDTzhJY1RGRHlSaTBOb3FtdDNTRWRUYThoYXJXRVlud050R29xTVVMSUhMTHFWWm16T3l6RF9hcWhyMTBLeHk4cWxkRWp0dlp1N1c3RXN3eWFfemljc01ZTnBseW5aU3VDUlZleDlhSDAtUVBJUWFXaEE"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-29T03:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaGlBR2daSlBwMGJ0V1FwWjZ1OTMwSndpVHA3dUdid0g2cHI5dVJQS180YkdVZ1N0N0hQdnl6d3hIQnVtMXliUnA2NGwtdDc5RzU5ZWNtOVJKdER6bVRjSWlSejcwR3dSazFGc2c5azl0NTd4Z05pa0Z1QjFjdWZzNEg1YXdULWlhdy1JYVVyRTlSRU9FT2VhM2ZYbHYwSWxrcHd2NkdpY2EyTnZEZ0YxRVJWY2doUW5iTnRpTTFrNktBQllRSHVEOFNmZzhJMC1tdUxZZGI3VmVoOUFrYkl2dnRzdk1DQQ"
+    },
+    {
+     "name": "Central Oregon Daily",
+     "published_at": "2026-10-29T03:07:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY2dwSFRabjZWdWhMb0FyYVhqOTRQVDZBNmtSNnJnNElFLWV2QktLdTg3ekdxUEFTVGZKTUVxRmQzcTFOVHpJTWxwVEFiQThuSlM1aEFjYV9VWnd6UU9nMXR2Um9kM3p3MzJpY2hPeWdub3pMdGJjbXJNNlNKTkl5YmNtWjM5Mk1wbmR0NWZkMFltU056WE1faWxzNFRYNTFMUjJYdm5NM0dwdkJpdWx2aG9rSUROMVhhRjVocnFtYm1MVm9BV2ZKcWZvdE9PbGVfbEozSVRQZmN4LUJPMERoNkViaXJWaVNWd0kwZGpIODVJbUJ4VmtXdk0xdHIyZUp3ZXZ6amwyTlNpbGR5"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后",
+   "zh_summary": "韩法院驳回车主FSD退款诉讼",
+   "title_zh": "韩国法院驳回车主FSD退款诉讼",
+   "sentiment": 1
   },
   {
    "id": "d41f43c8c9c1",
