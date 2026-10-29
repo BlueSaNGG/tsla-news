@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T14:07:30.155196+00:00",
+ "updated_at": "2026-10-29T14:22:28.967495+00:00",
  "market": {
-  "price": 403.11,
-  "change_pct": -0.28,
+  "price": 404.89,
+  "change_pct": 0.17,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（87条已评分）"
+     "note": "今日新闻情绪 +0.16（88条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.11 vs 20日均线 $379.23"
+     "note": "现价 $404.89 vs 20日均线 $379.32"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.8,
-   "ma20": 379.23,
-   "as_of": "2026-10-29T14:07:30.145977+00:00"
+   "implied_upside_pct": -1.2,
+   "ma20": 379.32,
+   "as_of": "2026-10-29T14:22:28.957841+00:00"
   },
-  "pe_ttm": 111.5,
+  "pe_ttm": 112.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.2%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.16,
-   "count": 87
+   "count": 88
   }
  },
  "meta": {
@@ -67,6 +67,45 @@
   }
  },
  "stories": [
+  {
+   "id": "4979bf2861b8",
+   "title": "Starman, Tesla grabbed our attention with a SpaceX launch. Track them now - Tallahassee Democrat",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEx3NVBOVl9haFlPMDExcjdERmhLOXVRX2o4bHQwVDJXU2FQYnQ4OEVXSTltbEZEQkVlaXdaVnNzeVpuQnU1anlfdWVlY0kyLXFvdEVPMUpWR3V3eGVBbmJHaTgzRlZ5dzBSR1BFS2k0TFM0M1hxOWdQcGF2V21LSm4tN0NlWFRCeGdZZ3dKWEJwMklmNzdkMDRsTWFsWkdHU3c5MmJUM3FVNU5rV1A2alpVcUh1QnJMaDI5WkhVaFRHVS1XNVFOZG1VdkZPUXlVR1NqckpqUVBadw",
+   "source": "Tallahassee Democrat",
+   "published_at": "2026-10-29T14:16:41+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Tallahassee Democrat",
+     "published_at": "2026-10-29T14:16:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEx3NVBOVl9haFlPMDExcjdERmhLOXVRX2o4bHQwVDJXU2FQYnQ4OEVXSTltbEZEQkVlaXdaVnNzeVpuQnU1anlfdWVlY0kyLXFvdEVPMUpWR3V3eGVBbmJHaTgzRlZ5dzBSR1BFS2k0TFM0M1hxOWdQcGF2V21LSm4tN0NlWFRCeGdZZ3dKWEJwMklmNzdkMDRsTWFsWkdHU3c5MmJUM3FVNU5rV1A2alpVcUh1QnJMaDI5WkhVaFRHVS1XNVFOZG1VdkZPUXlVR1NqckpqUVBadw"
+    },
+    {
+     "name": "Lakeland Ledger",
+     "published_at": "2026-10-29T14:21:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYU9ndVBwc3dEOUp6cUZwUVFWMjE1YUt3Z0EwWkoyZU9nSk43NEgxNS1rTEtaU1VhNDgxSUlraUZ6VzN1SktNNkV4LVozem14a3BVRTY1a0RXZ1pBbm1xQS1ITXlNdG5nX0EtUXQ0c1pOYjAtTWR1M3Z3dWFyV1BSMkpaeW4wVlBSakNzVExNYjBmRnNxYnNfZ19jeng0WE1uRDVGem02RVQydzJteE4zOVd4UElsZ2ZxRUN2N2lJNWJzS0tHWXpfaGtMaHFiUWlVN0VfbXZ6cw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d619bfce9a96",
+   "title": "Tesla Model Y RWD Sets Green NCAP Record With 95 g CO₂-eq/km - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1JPTDhFa1pYUWZ5bmdjVTE3WjVCSmNsNmp2VENYaU02QUNHZjlRZERiNnJiX1RXbTJJaXhFWnRmR3ZvZjdGT3hqVHhmNG95WVdETy1WVmVheU9ZaURxRVp0cUlDS1l2MkhNdHJueTJIcmJpVWk4Mlp4UUd0X0kxY2c4Xzlhbmk0R1NvUVZTbmlCSk5hakJTdHl3",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-29T14:04:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-29T14:04:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1JPTDhFa1pYUWZ5bmdjVTE3WjVCSmNsNmp2VENYaU02QUNHZjlRZERiNnJiX1RXbTJJaXhFWnRmR3ZvZjdGT3hqVHhmNG95WVdETy1WVmVheU9ZaURxRVp0cUlDS1l2MkhNdHJueTJIcmJpVWk4Mlp4UUd0X0kxY2c4Xzlhbmk0R1NvUVZTbmlCSk5hakJTdHl3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "323ff0bd2277",
    "title": "Elon Musk says the flying Tesla Roadster could refill its thrusters without special propellant, but the trillionaire failed to mention that it stores nitrogen at 10,000 psi, nearly double the pressure inside the helium tanks of SpaceX’s Falcon 9 rocket, and refilling can - Luxurylaunches",
@@ -86,6 +125,40 @@
    "zh_summary": "马斯克称飞行Roadster无需特殊推进剂",
    "title_zh": "马斯克称飞行Roadster推进器无需特殊推进剂",
    "sentiment": 0
+  },
+  {
+   "id": "1f342852d1d9",
+   "title": "特斯拉休斯顿“火箭形”Robotaxi地图被曝部分区域为“假”服务区 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlpRMUFKZHEzdGlja3lZaE5KRmhPTUpnYlJ6dzNhVnhhVUltWkVISjh6SkxVTDFVOHc3c2lIVUNsUGIzeFhpVzUwZ0FkT1FRRkVlSGU5WEc0ZTRhX3FNWGY0R0pfcXFJZ3NDb0R3LThWalpnaGJYVlVQdG0zb3ZtS1JONjFvYmI1",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T13:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T13:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlpRMUFKZHEzdGlja3lZaE5KRmhPTUpnYlJ6dzNhVnhhVUltWkVISjh6SkxVTDFVOHc3c2lIVUNsUGIzeFhpVzUwZ0FkT1FRRkVlSGU5WEc0ZTRhX3FNWGY0R0pfcXFJZ3NDb0R3LThWalpnaGJYVlVQdG0zb3ZtS1JONjFvYmI1"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "cb6b1d1218ce",
+   "title": "特斯拉无人驾驶网约车Cybercab西南首秀-中新网视频 - 中国新闻网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ZDlGNWo4ZU9fZDFxQmtudEFHWDBFMzNIMzVXNXRGSHcwejdpYy1KaURSQlBDd3d0bXh0aWtYUGV1WUNpeFJtUG5PWktCN0h4SGtxZ0dCMHNGOUR0WFE0ZmhaVVcxZ1BYRmlPT0FFelphb3RZLWZ5MHlpSTB6UQ",
+   "source": "中国新闻网",
+   "published_at": "2026-10-29T13:35:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中国新闻网",
+     "published_at": "2026-10-29T13:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ZDlGNWo4ZU9fZDFxQmtudEFHWDBFMzNIMzVXNXRGSHcwejdpYy1KaURSQlBDd3d0bXh0aWtYUGV1WUNpeFJtUG5PWktCN0h4SGtxZ0dCMHNGOUR0WFE0ZmhaVVcxZ1BYRmlPT0FFelphb3RZLWZ5MHlpSTB6UQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "3786829440fa",
@@ -3145,6 +3218,23 @@
    "sentiment": 0
   },
   {
+   "id": "ab3deb20b2eb",
+   "title": "Tesla Semi truck fire shuts down major Bay Area freeway for hours - San Francisco Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXg1ekpsZEVUVmIzWmI2ZjU0OVNUNG80NTdTc2NPZHA4aFZ1ZnFmVGNIWGdGZWcwZEVCZDZRWVNTSFJicWVpaTRqTEFTdkxXQVYxc0RjR0VsTTRhb3c4dS1oVThXSTlObC14bVpPdXYxVnFuSGpsWm52Yk9oSTNrVkVPZ1h1LVk",
+   "source": "San Francisco Chronicle",
+   "published_at": "2026-10-28T21:02:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "San Francisco Chronicle",
+     "published_at": "2026-10-28T21:02:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXg1ekpsZEVUVmIzWmI2ZjU0OVNUNG80NTdTc2NPZHA4aFZ1ZnFmVGNIWGdGZWcwZEVCZDZRWVNTSFJicWVpaTRqTEFTdkxXQVYxc0RjR0VsTTRhb3c4dS1oVThXSTlObC14bVpPdXYxVnFuSGpsWm52Yk9oSTNrVkVPZ1h1LVk"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
    "id": "74d62707391d",
    "title": "Waymo is growing as Tesla and other rivals ramp up - MarketWatch",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNM0owS0R5VHB4eXJ5VlZsZGlRUlhWVmJCVmZIdHpMUmg2NG5CQkZjcXlxb0puU2F5TFpoWWZJUGRDWml6Y0QwN3ZrVEszV0Y2Y0pqVEFJR0VhckdpZFNSOUVVVEVjSnBwLVVEcGRWRTZNM28yVGRHSFl4NTl1dUxJX0lyZktvYmtBV1JqcXVtSTJoS295UWVaTXZLOHplV1c0NGtpcHZ3UENTTnhyN01KNHFUZFByVU43MzlsY2RzZDJCZGhNeDZvYU1LaFdobm92ZEhqRWJfN1ZTMGtUR2ZrWkJFTDZpeEt6STdWdlhBUXJ1MVRyR2tLdDg2SURlOC16cG5BM29n",
@@ -5504,6 +5594,23 @@
    "sentiment": 0
   },
   {
+   "id": "6f7fd862c8f1",
+   "title": "特斯拉Roadster是怎么飞起来的？它的工作原理你看懂了吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bkEtMlVCM29xcmFKbGRIbWhSQjlteldzVGxXckRQZjg5QmhKMmowS0tKNWxaWER3aVFNSXZ2WGNPS2dPaEJEaS1CSk0wVjlUdWsxakhQc2xnODU1WXc",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T10:29:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T10:29:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bkEtMlVCM29xcmFKbGRIbWhSQjlteldzVGxXckRQZjg5QmhKMmowS0tKNWxaWER3aVFNSXZ2WGNPS2dPaEJEaS1CSk0wVjlUdWsxakhQc2xnODU1WXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN3ZOcW5DcXBoOFVCUm1RMzY3UDc2OGNOcnFwLTczalhISmNnbVF6SnItZlpUODFPbGRDcDZJLWNEOURLZEVERVFqZ1IwNUR6ZzkxTXZXVlZ3RDQtSGFHQ1R3",
@@ -6345,126 +6452,6 @@
    "zh_summary": "特斯拉Cybercab在奥斯汀上路",
    "title_zh": "特斯拉Cybercab在奥斯汀上路，专为无人驾驶打造",
    "sentiment": 2
-  },
-  {
-   "id": "3669011e8920",
-   "title": "特斯拉再次突破400美元大关，后续哪些重要价位值得关注？ - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTdMU3VmRTJvVkx6cFRKODJxekdOdjh5M3pGM3pyRnB2ZEV5LW5xTDZoakU1S05TZ056aVZVclJLNmZ3OGdVUjhhTkEzOS1HTUhKdHZ1WjZ3VUYyblhTWlBQanhSbGZGSXZ5T015UDlfdWx2dC1kamtDNm0waU5KQjNVei1DeldHM1JoWENVMVBUMWlfdl90Yw",
-   "source": "富途牛牛",
-   "published_at": "2026-10-28T08:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-28T08:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTdMU3VmRTJvVkx6cFRKODJxekdOdjh5M3pGM3pyRnB2ZEV5LW5xTDZoakU1S05TZ056aVZVclJLNmZ3OGdVUjhhTkEzOS1HTUhKdHZ1WjZ3VUYyblhTWlBQanhSbGZGSXZ5T015UDlfdWx2dC1kamtDNm0waU5KQjNVei1DeldHM1JoWENVMVBUMWlfdl90Yw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价再次突破400美元大关",
-   "title_zh": "特斯拉再次突破400美元大关，后续哪些重要价位值得关注？ - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "1da22254969a",
-   "title": "Tesla Semi Fire Shuts California’s I-880, CHP Says It May Burn for 15-18 Hours - Electric Vehicles",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWVNjVGFqT2JUTXF3RFZDRDVSZGI2aVVqb085eDlyUVFWby1Xcm82aGxQWV94dGxkOUh1UW1INVFCczVwZy12OUJuaGNsc2dHaVR5dFVsSlBZdE9nVTRJV01yc0JOeHZ0a252WnBCYnRCVFl4bW45bXdtdEtnXzhyRzdSV05NTFl3aWdJelJLb1FMcWUxaGdzR1ZONFhKTVVjWnVac1VCMVg",
-   "source": "Electric Vehicles",
-   "published_at": "2026-10-28T07:50:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-28T07:50:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWVNjVGFqT2JUTXF3RFZDRDVSZGI2aVVqb085eDlyUVFWby1Xcm82aGxQWV94dGxkOUh1UW1INVFCczVwZy12OUJuaGNsc2dHaVR5dFVsSlBZdE9nVTRJV01yc0JOeHZ0a252WnBCYnRCVFl4bW45bXdtdEtnXzhyRzdSV05NTFl3aWdJelJLb1FMcWUxaGdzR1ZONFhKTVVjWnVac1VCMVg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉Semi起火致加州高速关闭",
-   "title_zh": "特斯拉Semi起火致加州I-880高速关闭，或燃烧15-18小时",
-   "sentiment": -1
-  },
-  {
-   "id": "5989498bca29",
-   "title": "10月27日美国加州一辆特斯拉Semi电动重卡高速起火 南向车道最长封闭18小时 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlQVlPTEhVSG9MeEJLVTdMdmU5Z3RrQjJhOHpWZURSWWh5aFdrTkR1NzNFSGE3LXRidGk1cW9sT1hKdGtmQ2xtYmJoajhlVDg3RWszTzNweW9jVkE",
-   "source": "网通社",
-   "published_at": "2026-10-28T07:47:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-28T07:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlQVlPTEhVSG9MeEJLVTdMdmU5Z3RrQjJhOHpWZURSWWh5aFdrTkR1NzNFSGE3LXRidGk1cW9sT1hKdGtmQ2xtYmJoajhlVDg3RWszTzNweW9jVkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "加州特斯拉Semi起火封路18小时",
-   "title_zh": "10月27日美国加州一辆特斯拉Semi电动重卡高速起火 南向车道最长封闭18小时",
-   "sentiment": -1
-  },
-  {
-   "id": "57d19504c665",
-   "title": "Zacks Investment Ideas feature highlights: Meta, Tesla, Microsoft and Alphabet - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVg1QXR4MDN2WTZWaHh4VldhdTg0cjI4ZmRoSTJDMTk1ZXljb3E3VVhhUDdfSFhPeE9EYU9xRks2ZDZLdDVtd1NYM1AtOERVY2k1V2g2R3hmZjFpbGhzelkwVDd2bVNkU2VlM1BnNm8zZnhWTWxNaktsQ1BTWl9BRllzaTA1dmw5a01vaF9nY0xxZk1Del93aG05ZVFHa1p4X1NyeEFWY1JEUQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-28T07:46:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T07:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVg1QXR4MDN2WTZWaHh4VldhdTg0cjI4ZmRoSTJDMTk1ZXljb3E3VVhhUDdfSFhPeE9EYU9xRks2ZDZLdDVtd1NYM1AtOERVY2k1V2g2R3hmZjFpbGhzelkwVDd2bVNkU2VlM1BnNm8zZnhWTWxNaktsQ1BTWl9BRllzaTA1dmw5a01vaF9nY0xxZk1Del93aG05ZVFHa1p4X1NyeEFWY1JEUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Zacks精选Meta特斯拉微软等股",
-   "title_zh": "Zacks投资精选：Meta、特斯拉、微软与Alphabet",
-   "sentiment": 0
-  },
-  {
-   "id": "bc9efff78dc5",
-   "title": "Tesla Big Rig Goes Up in Flames, Forcing Closure of Interstate - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVjBaVE0tRVZyX2tmb09XTU1odjVVV0FVZzJYSnVNa29fMTdUSllVYTZJSkY4MnJVdlpaNHpNbWk0QTM0NFhsVU1fQVNyWmFCYWJhcExqakd6cFUwLUNJN19sTzlzdUxzdVdEeEhidHZlMWNSRlRCc05GOG0yWjA",
-   "source": "Yahoo",
-   "published_at": "2026-10-28T07:38:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-28T07:38:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVjBaVE0tRVZyX2tmb09XTU1odjVVV0FVZzJYSnVNa29fMTdUSllVYTZJSkY4MnJVdlpaNHpNbWk0QTM0NFhsVU1fQVNyWmFCYWJhcExqakd6cFUwLUNJN19sTzlzdUxzdVdEeEhidHZlMWNSRlRCc05GOG0yWjA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉重卡起火致公路封闭",
-   "title_zh": "特斯拉重卡起火致州际公路封闭",
-   "sentiment": -1
-  },
-  {
-   "id": "69c0459f56ac",
-   "title": "原因未明！美国一辆特斯拉Semi电动重卡起火：车头完全烧毁 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ec0J3aXpnTHRkbTc0dkdqWi1EYXlaVGVYaGZUd2JoTXRWWmtlM0dXbEVlUUphN05Db01PNkJBZUpTc21OWUh5Y2czR3RUOW5NVlNNbjJ5Qlg",
-   "source": "驱动之家",
-   "published_at": "2026-10-28T07:31:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-28T07:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ec0J3aXpnTHRkbTc0dkdqWi1EYXlaVGVYaGZUd2JoTXRWWmtlM0dXbEVlUUphN05Db01PNkJBZUpTc21OWUh5Y2czR3RUOW5NVlNNbjJ5Qlg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Semi重卡起火车头烧毁",
-   "title_zh": "原因未明！美国一辆特斯拉Semi电动重卡起火：车头完全烧毁",
-   "sentiment": -1
   }
  ]
 }
