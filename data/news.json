@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T23:52:50.678724+00:00",
+ "updated_at": "2026-10-29T00:09:33.728396+00:00",
  "market": {
-  "price": 404.22,
-  "change_pct": -0.8,
+  "price": 407.46,
+  "change_pct": 4.04,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.0%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（183条已评分）"
+     "note": "今日新闻情绪 -0.01（184条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.22 vs 20日均线 $376.78"
+     "note": "现价 $407.46 vs 20日均线 $374.31"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.0,
-   "ma20": 376.78,
-   "as_of": "2026-10-28T23:52:50.668370+00:00"
+   "implied_upside_pct": -1.8,
+   "ma20": 374.31,
+   "as_of": "2026-10-29T00:09:33.715912+00:00"
   },
-  "pe_ttm": 111.8,
+  "pe_ttm": 112.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": -0.01,
-   "count": 183
+   "count": 184
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9f9a2476c9f3",
+   "title": "Tesla FSD Interventions: 4 Causes & Fixes [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjM3WllDdzRKU2RjWlFjSjYtNnA4OFJ4bUQwVGVnLW1MWjRwZXBrSDJEdVNrQWJycFFOVzRFWF9Iamw5b0ZPLVNIM0xvYVpEa29QdDlMekxKWFA5MmttbUtJb3l0RWJ2X3A5VS1faEtVWDIwRTZ6cXpHbjFaU3ozalFpSk9YVXEtS1JRUEtzejQ",
+   "source": "shattered.io",
+   "published_at": "2026-10-29T00:00:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-29T00:00:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjM3WllDdzRKU2RjWlFjSjYtNnA4OFJ4bUQwVGVnLW1MWjRwZXBrSDJEdVNrQWJycFFOVzRFWF9Iamw5b0ZPLVNIM0xvYVpEa29QdDlMekxKWFA5MmttbUtJb3l0RWJ2X3A5VS1faEtVWDIwRTZ6cXpHbjFaU3ozalFpSk9YVXEtS1JRUEtzejQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "2da22dd2d9d5",
+   "title": "Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain - CleanTechnica",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakNSTEdRNEU5bmdqWHRpaE5VVmJZSW9xeEdJQ0k2aTVUUEhCTUM5VkZaUzBBWU8tVDBKNFBRNk9acUp1blBlSzZiWUlvM2otTk9Qa1Z5RVZMZ2ZPZkczaFNLVndvelFwWkJuYUpXeVJKN2IyUjgwcG9sY1NqVzY5azdIdWZjcXl0YW1yYnhTSlJ2TmVySUhkNmczVDRXYmFDTmYxV2d5c09Qck9FUjA4ZnVCU0VMMjE0OVBHWTNyc0JHM2VhbEJvMUV5M0JlQllGNDhucA",
+   "source": "CleanTechnica",
+   "published_at": "2026-10-28T23:48:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CleanTechnica",
+     "published_at": "2026-10-28T23:48:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakNSTEdRNEU5bmdqWHRpaE5VVmJZSW9xeEdJQ0k2aTVUUEhCTUM5VkZaUzBBWU8tVDBKNFBRNk9acUp1blBlSzZiWUlvM2otTk9Qa1Z5RVZMZ2ZPZkczaFNLVndvelFwWkJuYUpXeVJKN2IyUjgwcG9sY1NqVzY5azdIdWZjcXl0YW1yYnhTSlJ2TmVySUhkNmczVDRXYmFDTmYxV2d5c09Qck9FUjA4ZnVCU0VMMjE0OVBHWTNyc0JHM2VhbEJvMUV5M0JlQllGNDhucA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "fc275507ca0f",
    "title": "Leverage Shares 2X Long TSLA Daily ETF (TSLG) Stock Price | Live Quotes & Charts | NASDAQ - www.timothysykes.com",
@@ -6421,51 +6455,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉为Cybercab采用磷酸铁锂电池技术",
    "title_zh": "特斯拉用LFP电池为Cybercab保驾护航，股价上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "d31ba3218119",
-   "title": "Tesla’s Profit Fell 43% and the Stock Held Up. Here’s Why - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkJKNnE5N2lRdk5uVkVxdTVLVWxCTGgwbWZMWjJTR21yeXFjRTA0X0hrWWhQc3JfRS1WRUpSZjdtRXB5UEc3aXhmdW5VekRlZXRPUHdkVFFwSEg5VDVZLVZKTlV1UEItak1yS0Z6SkdhaUZzUG12LUd5UzFLODNOdW5tc2FZOVl3NXc0TlliWE5XeENwR1E",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T16:33:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T16:33:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkJKNnE5N2lRdk5uVkVxdTVLVWxCTGgwbWZMWjJTR21yeXFjRTA0X0hrWWhQc3JfRS1WRUpSZjdtRXB5UEc3aXhmdW5VekRlZXRPUHdkVFFwSEg5VDVZLVZKTlV1UEItak1yS0Z6SkdhaUZzUG12LUd5UzFLODNOdW5tc2FZOVl3NXc0TlliWE5XeENwR1E"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-27T16:35:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGsySmdNS3ltb2JSd2FheTJTNXpRWnQxcnlldk1UaW41aTFYZjM5RFB2Sm9iOU4yM3l3anJlM1NMVG1BbmRTbWlwQnJ0MUE1eXdJQWhzcVc3SXNXVlEwb01xZm5rQ0ZlVDhqVkFEalRZdE01aF9GMjBwYVkzN1NOR1pBX1daQkd6N0RCSFRoQ21BZEpLQUtqNVREWndDZ1VnakgxeFlETFhlLXZkMlVVbEVhNy10TzVWNEE3ejRxMWt6LXdQbTdHMmdKWUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉利润下滑43%股价仍坚挺",
-   "title_zh": "特斯拉利润下滑43%但股价坚挺，原因解析",
-   "sentiment": 0
-  },
-  {
-   "id": "6953f18848ef",
-   "title": "174万人为特斯拉FSD买单！中国市场智驾付费还有多远？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWlM4ZUpUU1dXVXJCOEl5UXR6WmxVenRHOUFlaG5PVktSbmZRSVVvdkhzQ280SkYwLVc5RGc0MktkN2FNei1ubjJDT1pOMGhDYjQ1OHhPM2FWOFU",
-   "source": "汽车之家",
-   "published_at": "2026-10-27T16:15:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-27T16:15:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWlM4ZUpUU1dXVXJCOEl5UXR6WmxVenRHOUFlaG5PVktSbmZRSVVvdkhzQ280SkYwLVc5RGc0MktkN2FNei1ubjJDT1pOMGhDYjQ1OHhPM2FWOFU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "174万人为特斯拉FSD买单",
-   "title_zh": "174万人为特斯拉FSD买单！中国市场智驾付费还有多远？ - 汽车之家",
    "sentiment": 1
   }
  ]
