@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T17:52:35.113542+00:00",
+ "updated_at": "2026-10-29T18:07:34.446409+00:00",
  "market": {
-  "price": 404.26,
-  "change_pct": 0.01,
+  "price": 404.92,
+  "change_pct": 0.17,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（123条已评分）"
+     "note": "今日新闻情绪 +0.15（124条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.26 vs 20日均线 $379.28"
+     "note": "现价 $404.92 vs 20日均线 $379.32"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.1,
-   "ma20": 379.28,
-   "as_of": "2026-10-29T17:52:35.102728+00:00"
+   "implied_upside_pct": -1.2,
+   "ma20": 379.32,
+   "as_of": "2026-10-29T18:07:34.435853+00:00"
   },
-  "pe_ttm": 111.8,
+  "pe_ttm": 112.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.2%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.15,
-   "count": 123
+   "count": 124
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "bf1c3e45d65d",
+   "title": "Tesla Offers Free Robotaxi Rides for First-Time Riders - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVA4OHY2Mm52Z3h6UkdWaHZIazZjSGstV3Z6cm9mbnNyVFNsRDk2QThqcU1qUXBOUTdWbVVUSGQwZlo4WVBIWVdGSkZWMHFlY3pBQUh5VVdwWEozd1F3dWRGM3Bfbm42TXMzeG9qNVNEeXNtWW84UExrUnM3dTNUYXBfS0Eta3pnXzV0LUVoTDhqWDY3V1JzRQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-29T17:54:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-29T17:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWVA4OHY2Mm52Z3h6UkdWaHZIazZjSGstV3Z6cm9mbnNyVFNsRDk2QThqcU1qUXBOUTdWbVVUSGQwZlo4WVBIWVdGSkZWMHFlY3pBQUh5VVdwWEozd1F3dWRGM3Bfbm42TXMzeG9qNVNEeXNtWW84UExrUnM3dTNUYXBfS0Eta3pnXzV0LUVoTDhqWDY3V1JzRQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "5dfd2d6a2e6b",
    "title": "Tesla Wins Italy’s Backing for EU FSD Approval After Musk-Salvini Call - Electric Vehicles",
@@ -111,6 +128,23 @@
    "zh_summary": "特斯拉Semi充电站落地卡车停靠站",
    "title_zh": "特斯拉Semi超级充电站落地Pilot和Flying J卡车站",
    "sentiment": 1
+  },
+  {
+   "id": "520b0f058953",
+   "title": "特斯拉第二代Roadster腾空演示引热议——炫技之后，飞行汽车距离落地还有多远|今日视点 - 中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRi1rRF9zRTA4SklfOTRsT3NqVV9mQ0Zhb09vOExyT2dYb0NaYXl2NUYySVBQQ1E2QUlqT0ZmYkhGa3FEcnRaZXk2ellaNW9CaG4zQTQzblhmQjZsdGlnTHM5MDNDUXh2d2RSajZ2WFc",
+   "source": "中国科技网",
+   "published_at": "2026-10-29T17:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中国科技网",
+     "published_at": "2026-10-29T17:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRi1rRF9zRTA4SklfOTRsT3NqVV9mQ0Zhb09vOExyT2dYb0NaYXl2NUYySVBQQ1E2QUlqT0ZmYkhGa3FEcnRaZXk2ellaNW9CaG4zQTQzblhmQjZsdGlnTHM5MDNDUXh2d2RSajZ2WFc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c74c29a522f4",
@@ -1180,6 +1214,23 @@
    "zh_summary": "特斯拉留在沃勒县，厂房易主后继续运营",
    "title_zh": "厂房出售给新业主后，特斯拉仍留在沃勒县",
    "sentiment": 0
+  },
+  {
+   "id": "680377918f42",
+   "title": "【视频】特斯拉在韩国遭遇集体诉讼？车主买到一个半成品FSD? - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLW9Kemt3Z1lZMFNfbm9KNWpScWZRZ3ZGTnBKRkh4Wk9DNmZka3VHOWFmTjBsLVVXQzh1dEd5ZkNHbXJLRnhjTGVDVmM0Y2xHcnBtbHNyelNtZTA",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T11:53:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T11:53:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLW9Kemt3Z1lZMFNfbm9KNWpScWZRZ3ZGTnBKRkh4Wk9DNmZka3VHOWFmTjBsLVVXQzh1dEd5ZkNHbXJLRnhjTGVDVmM0Y2xHcnBtbHNyelNtZTA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f85369d52443",
@@ -6419,85 +6470,6 @@
    "price_reaction": {
     "pct": -1.83,
     "window_h": 0.6
-   }
-  },
-  {
-   "id": "7c162c40ac2b",
-   "title": "Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXZLZzUwSW4wbGdXUDJrdExEaVEzU2Y0a09nbFBCTk93N2hfdU1sZXV0VEY3Y24zdWFBYlBuX1h1dzRjOG9WaC1HbDgwUVVtU3kyQlJHNnozYXZLVlFSb1B1cFRzcmNCVnZ2c1lqbFlrbk5TbUsyc0hRZ1dGSlpDdUxKeDNfcmJBTkVQS0V6WlRxZGYweFo0",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-28T09:49:51+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-28T09:49:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXZLZzUwSW4wbGdXUDJrdExEaVEzU2Y0a09nbFBCTk93N2hfdU1sZXV0VEY3Y24zdWFBYlBuX1h1dzRjOG9WaC1HbDgwUVVtU3kyQlJHNnozYXZLVlFSb1B1cFRzcmNCVnZ2c1lqbFlrbk5TbUsyc0hRZ1dGSlpDdUxKeDNfcmJBTkVQS0V6WlRxZGYweFo0"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-28T10:07:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSVh5RXVHdGlKYjRCVzA3UmVISE45YXp6VXhScVo0QnFWYVk5YzZ5WGxjNlNpQjVQTURpME5LNWU1WWpEQmg2YUFGUUhnY1I5WGNKSTlHOHNlTUdJR0k1c1BIVVpRUk5NTFJpc1NKV1ZqSUxHR2pvWElkdWl0dG1UeVNzQVB3cFVSREpwUXJuRG5tMGpsck5XLU1yNG5EeUdPbklDY1AtSTZaS0ZDd2JfWllHOGFlQmQyYWFHLVZUVjlqTlZ3MkdmMnNON0hORk1zNGFac19VMjdTRXpRYmxOZEs1VENidjJrYVhVWA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉47.3亿美元资本开支去向披露",
-   "title_zh": "特斯拉刚花$4.73 Billion资本开支，去向全解析",
-   "sentiment": 0
-  },
-  {
-   "id": "662e44a80441",
-   "title": "Tesla hiring for 5 Vietnam roles after registering $3M subsidiary - TNGlobal",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXpUOEhCdVFOM3k1MjJjdmVYVE9GWTh5VlIydHVaUVozYmJSS2ZYczVUN1AyX1BtS1E3M3pUNjRYWjZ5RU9WdnNRX2NNdDVnaFpFNWtWMDFzbUZQandrX3dDR0hvOXFBdlA1d012T2JLQVJzal80ekxFMTM5UXZPVUVQbjYyeTdzWTdEMm5HaFpTZXE1VDBKWktOVW13Y01tT1E",
-   "source": "TNGlobal",
-   "published_at": "2026-10-28T09:46:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TNGlobal",
-     "published_at": "2026-10-28T09:46:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXpUOEhCdVFOM3k1MjJjdmVYVE9GWTh5VlIydHVaUVozYmJSS2ZYczVUN1AyX1BtS1E3M3pUNjRYWjZ5RU9WdnNRX2NNdDVnaFpFNWtWMDFzbUZQandrX3dDR0hvOXFBdlA1d012T2JLQVJzal80ekxFMTM5UXZPVUVQbjYyeTdzWTdEMm5HaFpTZXE1VDBKWktOVW13Y01tT1E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉越南注册子公司并招聘5岗",
-   "title_zh": "特斯拉越南注册$3M子公司并招聘5个岗位",
-   "sentiment": 0
-  },
-  {
-   "id": "0f1b2ca646aa",
-   "title": "The Men Spending $50,000 Just to Reserve a Tesla Roadster - WIRED",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUNDMkZsZzZFUnU1NG9uNl9XTHVIZld2OGkxWXZjdDdlbDRvZ1hPYUZoRU9OTzdhWXJNNDVPVWFlLWxyWGtRNTREcVFaTnBKUnZ0VEJvWkpQbmcxTm5tc0tVcW9NQXBTbGhhZWJhcHp5aWZ6N2FqQ2x0cUIxZnl4YlVmSVRoUHY2",
-   "source": "WIRED",
-   "published_at": "2026-10-28T09:45:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "WIRED",
-     "published_at": "2026-10-28T09:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUNDMkZsZzZFUnU1NG9uNl9XTHVIZld2OGkxWXZjdDdlbDRvZ1hPYUZoRU9OTzdhWXJNNDVPVWFlLWxyWGtRNTREcVFaTnBKUnZ0VEJvWkpQbmcxTm5tc0tVcW9NQXBTbGhhZWJhcHp5aWZ6N2FqQ2x0cUIxZnl4YlVmSVRoUHY2"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T18:44:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0FJQjdTUHFFNEpTQmVfY0RTeE90LVEyNno2NEZUVWtsZDA0czJRZEJ4LWZTUFhtWW44cUpaVG5GMVlFSmY5NkJfM2dlVnpKTmZlZDZ1dHFWcjZMTnlGaGhHc0lQWDdoanZvTlZrd0RBOGs1NjUtUUcxdk5GX0RNN1dUbV9SQmZ3bVhjckh5aUo"
-    },
-    {
-     "name": "Gadget Review",
-     "published_at": "2026-10-28T18:44:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSElFZjNlam1uTmMybWdpTHVhc1RKWndQZDV4b0JLY3VSVDhILXdsNzlrbzM3bTNKRHU3NkxOOGpvSlByamlRSmhvVkV5eXBUSkVFTF94bUg0b0s5UU9pY1Z2SEZkNDJySnIyUmJWaGEyMld1RjdWc1JDQ1o0Z2ttc2MzOWFLTGd4Z29Md3EyOS1pd2JfbHVRSW5LRDdnVklTSXdz"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "有人花5万美元只为预订特斯拉跑车",
-   "title_zh": "有人花$50,000只为预订一辆特斯拉Roadster",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -1.22,
-    "window_h": 2.0
    }
   }
  ]
