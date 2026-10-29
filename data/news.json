@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T18:52:32.960188+00:00",
+ "updated_at": "2026-10-29T19:07:37.635871+00:00",
  "market": {
-  "price": 405.49,
-  "change_pct": 0.32,
+  "price": 405.35,
+  "change_pct": 0.28,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（126条已评分）"
+     "note": "今日新闻情绪 +0.14（127条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.49 vs 20日均线 $379.35"
+     "note": "现价 $405.35 vs 20日均线 $379.34"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.4,
-   "ma20": 379.35,
-   "as_of": "2026-10-29T18:52:32.949758+00:00"
+   "implied_upside_pct": -1.3,
+   "ma20": 379.34,
+   "as_of": "2026-10-29T19:07:37.614870+00:00"
   },
   "pe_ttm": 112.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.3%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.14,
-   "count": 126
+   "count": 127
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a97e96401a47",
+   "title": "New Jersey Bill Could Bar Tesla’s Camera-Only Robotaxis From State Pilot - Gadget Review",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTJKTVJjczE4bTZSdVZTdEQyb1VxR3Fsc2I0YTBwNmRIYzNVQm4yX3pOZXUxZDZHa01RUzEyWFNLcnVySUEzUFlmZGlydlF2X2tvcGV0RTJOZ05SZ1hOdV90enMzYW5EZTNFeEhjTFZaQk5KNk5pRVBwcG1TZEFrbzhOSmVEc1VTZW5QOVkycW01dUdGS1JWcU8ycFU0SEVqOEE",
+   "source": "Gadget Review",
+   "published_at": "2026-10-29T18:56:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gadget Review",
+     "published_at": "2026-10-29T18:56:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTJKTVJjczE4bTZSdVZTdEQyb1VxR3Fsc2I0YTBwNmRIYzNVQm4yX3pOZXUxZDZHa01RUzEyWFNLcnVySUEzUFlmZGlydlF2X2tvcGV0RTJOZ05SZ1hOdV90enMzYW5EZTNFeEhjTFZaQk5KNk5pRVBwcG1TZEFrbzhOSmVEc1VTZW5QOVkycW01dUdGS1JWcU8ycFU0SEVqOEE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "15a4be766b0b",
    "title": "Driver arrested after backing into, pinning repo man with Tesla in Arlington - KING5.com",
@@ -6451,26 +6468,6 @@
    "zh_summary": "租车公司押注特斯拉自动驾驶更安全",
    "title_zh": "租车公司押注特斯拉自动驾驶软件提升安全",
    "sentiment": 1
-  },
-  {
-   "id": "ebea39e59986",
-   "title": "GM is pitching itself more as a tech company like Tesla - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmNWRmhEY1NjNlZBczd2V1hfNzNUUnNDdEtJNWF2TU0zUHdLanhzdm1KOUpHNndoaUFRRlZsZDFWb1VZeHIxQVo4bmZwMGhFTGx2Q0ZDd21faGVoZEVWTE9QSGlvdjZEc2pDZVRsYzhLZlVfaVJaZHRSMW9oRW5XRVM1aUl0U19CQzlMWF83UjNYMVdIUHo0OGZNNUR0amlDXzRET3U1enZxdUFJZjE4dmE4SEM4UQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-28T10:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T10:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmNWRmhEY1NjNlZBczd2V1hfNzNUUnNDdEtJNWF2TU0zUHdLanhzdm1KOUpHNndoaUFRRlZsZDFWb1VZeHIxQVo4bmZwMGhFTGx2Q0ZDd21faGVoZEVWTE9QSGlvdjZEc2pDZVRsYzhLZlVfaVJaZHRSMW9oRW5XRVM1aUl0U19CQzlMWF83UjNYMVdIUHo0OGZNNUR0amlDXzRET3U1enZxdUFJZjE4dmE4SEM4UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "通用效仿特斯拉转型科技公司",
-   "title_zh": "通用正将自身定位为类似特斯拉的科技公司",
-   "sentiment": 0
   }
  ]
 }
