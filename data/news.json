@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-29T16:07:29.994608+00:00",
+ "updated_at": "2026-10-29T16:22:31.407913+00:00",
  "market": {
-  "price": 406.14,
+  "price": 406.15,
   "change_pct": 0.48,
   "as_of": "2026-10-29",
   "next_earnings": {
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（110条已评分）"
+     "note": "今日新闻情绪 +0.14（111条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.14 vs 20日均线 $379.38"
+     "note": "现价 $406.15 vs 20日均线 $379.38"
     },
     {
      "key": "分析师动向",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.5,
    "ma20": 379.38,
-   "as_of": "2026-10-29T16:07:29.983974+00:00"
+   "as_of": "2026-10-29T16:22:31.397257+00:00"
   },
   "pe_ttm": 112.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 110
+   "avg": 0.14,
+   "count": 111
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f147ebfc39eb",
+   "title": "Tesla Breaks Compatibility With Third-Party V2L Devices - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUJhTDI2UDJJMEdhVjlZRHBjeW1maVdNOTFvZDlPaXlFU3NjanhXX1RHN3MwWHY4cFhBSm04b1BSZVVidUI5M2hLM0F2Tk93blYyOG00eXhEZmI1M0NOT091VzVxSElfekllazRWLTdHQVVSRHpYcmptZkpKX05zZWdpeVpvXzdfSGxXdThLaHVGUHdJNkZFVFd3",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-29T16:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-29T16:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUJhTDI2UDJJMEdhVjlZRHBjeW1maVdNOTFvZDlPaXlFU3NjanhXX1RHN3MwWHY4cFhBSm04b1BSZVVidUI5M2hLM0F2Tk93blYyOG00eXhEZmI1M0NOT091VzVxSElfekllazRWLTdHQVVSRHpYcmptZkpKX05zZWdpeVpvXzdfSGxXdThLaHVGUHdJNkZFVFd3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "82c0a1d462b4",
+   "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’ - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGZLWFRSRFh5eE0zOG9yaUgwbHdIQ0o4ZGZuRkFtbS1mUFlMTmdCYk4zREgxbWsteDdDcUprc3BCY3g3ZUt6aTBGdlQ0Z2ZNMXJjOGNjcWNFcGxPY3RMUjZTV0FYcU9ad0NnX2ViblFIUnZUakVCd2thQzF3LUZaT01DSnk0OXlKR0hONmhpaEJlcHhx",
+   "source": "Electrek",
+   "published_at": "2026-10-29T16:15:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-29T16:15:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGZLWFRSRFh5eE0zOG9yaUgwbHdIQ0o4ZGZuRkFtbS1mUFlMTmdCYk4zREgxbWsteDdDcUprc3BCY3g3ZUt6aTBGdlQ0Z2ZNMXJjOGNjcWNFcGxPY3RMUjZTV0FYcU9ad0NnX2ViblFIUnZUakVCd2thQzF3LUZaT01DSnk0OXlKR0hONmhpaEJlcHhx"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e8d157e37650",
    "title": "Kim Komando's Tech Tips & Advice: Tesla, Space X Merger? - MySA",
@@ -228,26 +262,6 @@
    "sentiment": 0
   },
   {
-   "id": "4a412c2954c0",
-   "title": "Tesla vs. Ford: Which Stock Has an Edge After Q3 Earnings? - Zacks Investment Research",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFo5WXhFZGZUaThDUVdGRTktY1FzZGhkSnJmNlhncFk4b3lXNEFIbDc0UHVGZHZuemdmd2R4NFB0eHNyb3dDZFgwX1d0WlNfTGtBeF9FTlFlR3k1TGZ1OWtJcjdScjlSdWJXNk1tNTJPTDg4YXE4VkdiUHU5ekJraTdsRkl5alVweTF0SHhZSnZXUko5UGhCdTdPYVc",
-   "source": "Zacks Investment Research",
-   "published_at": "2026-10-29T14:49:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-29T14:49:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFo5WXhFZGZUaThDUVdGRTktY1FzZGhkSnJmNlhncFk4b3lXNEFIbDc0UHVGZHZuemdmd2R4NFB0eHNyb3dDZFgwX1d0WlNfTGtBeF9FTlFlR3k1TGZ1OWtJcjdScjlSdWJXNk1tNTJPTDg4YXE4VkdiUHU5ekJraTdsRkl5alVweTF0SHhZSnZXUko5UGhCdTdPYVc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "特斯拉与福特三季报后谁更占优",
-   "title_zh": "特斯拉与福特：三季报后谁更具优势",
-   "sentiment": 0
-  },
-  {
    "id": "8cea19e2f3f2",
    "title": "Musk Says A Tesla-SpaceX Merger Is \"A Good Idea,\" But Admits It Would Require 1.98 Billion \"Yes\" Votes. He Calls It \"Quite A High Hurdle\" - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPU2tab2p1UFBlVjZoczhmYnZjWW04RFltM3lXV3VOby1LQ2F4LW5vN1hkTlVYYTFXUDVjQXZveFJTQ3BZTWdIelZNX0RXaE0tT3ZvR2lFYUxMcHNVSERsUUdnU3c4dll5RnpGSTlSUVNDa1JqWE9TRnFHYXdJUEtpcFRWRTNBOTBMZWlNZDI1OFBYWHktN1VxQ0lfdlVFMDFoMzdTWVBTbDN4VHZLUDcwdjVUR2ZIVHk1SGhUUjNrMW1aTGNzVnRnMWNhc1RZRkNwOWpPS3JmVnlmVGQwblVuSWhwckMtazMtb3gxem9BSmJpWnJ1OEdDQm51WS1ZckNhZzhZ",
@@ -310,6 +324,31 @@
    "session": "盘中",
    "zh_summary": "财报综述提及特斯拉自动驾驶",
    "title_zh": "财报综述：康宁增长、Enphase受挫、特斯拉自动驾驶",
+   "sentiment": 0
+  },
+  {
+   "id": "4a412c2954c0",
+   "title": "Tesla vs. Ford: Which Stock Has an Edge After Q3 Earnings? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS03d0V4amtVVENVYVIxOG1hOUU1ZWNkWTB5N1owWldyZ042TWRvcThsWVFNNGhETFo2eWg0UEZGZldnOU04aE9kNjVzV3RaTXBvREo1bGZKWU9LWFBBeUF1eXRMZHV6bzllZEhXYzFockFvSldua2dnbEQ2cENQQVdJWTZLTm9nQWpmZUdNb0pqNTQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-29T14:39:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-29T14:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS03d0V4amtVVENVYVIxOG1hOUU1ZWNkWTB5N1owWldyZ042TWRvcThsWVFNNGhETFo2eWg0UEZGZldnOU04aE9kNjVzV3RaTXBvREo1bGZKWU9LWFBBeUF1eXRMZHV6bzllZEhXYzFockFvSldua2dnbEQ2cENQQVdJWTZLTm9nQWpmZUdNb0pqNTQ"
+    },
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-29T14:49:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFo5WXhFZGZUaThDUVdGRTktY1FzZGhkSnJmNlhncFk4b3lXNEFIbDc0UHVGZHZuemdmd2R4NFB0eHNyb3dDZFgwX1d0WlNfTGtBeF9FTlFlR3k1TGZ1OWtJcjdScjlSdWJXNk1tNTJPTDg4YXE4VkdiUHU5ekJraTdsRkl5alVweTF0SHhZSnZXUko5UGhCdTdPYVc"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中",
+   "zh_summary": "特斯拉与福特三季报后谁更占优",
+   "title_zh": "特斯拉与福特：三季报后谁更具优势",
    "sentiment": 0
   },
   {
@@ -551,6 +590,23 @@
    "zh_summary": "特斯拉更新分两阶段有硬性停止",
    "title_zh": "特斯拉更新时能开车吗？两阶段，一次硬性停止",
    "sentiment": 0
+  },
+  {
+   "id": "fd609a301018",
+   "title": "Pilot Opens First Megachargers for Tesla Semi Outside California - Autoguide.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmUxLUlmQXhyb3FhbENXVHRIY3VCMzRyQ3JvSlhIaDFfRUZlaHRxWXB6RTFDTTlzNHpIcENYd0ZsLVI3X2ViekRVX1BMbUh0aDQzODNlUTdiUEx0ZU5ocllENnBXeEJpZWpzTm95Sm5QZkhYN2dnaG1DSzNTOF9JVmstanVjbHkyUVBtV0Y5RWVoZXVNeV9mMkdSVUhWR2dmQmF3dm53NA",
+   "source": "Autoguide.com",
+   "published_at": "2026-10-29T13:13:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoguide.com",
+     "published_at": "2026-10-29T13:13:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmUxLUlmQXhyb3FhbENXVHRIY3VCMzRyQ3JvSlhIaDFfRUZlaHRxWXB6RTFDTTlzNHpIcENYd0ZsLVI3X2ViekRVX1BMbUh0aDQzODNlUTdiUEx0ZU5ocllENnBXeEJpZWpzTm95Sm5QZkhYN2dnaG1DSzNTOF9JVmstanVjbHkyUVBtV0Y5RWVoZXVNeV9mMkdSVUhWR2dmQmF3dm53NA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "ca8afad21101",
@@ -1338,6 +1394,23 @@
    "sentiment": -1
   },
   {
+   "id": "a25252d4582a",
+   "title": "第二代特斯拉Roadster秀完后，数位艺术家把它改成了四门轿车 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUUzcGJBWlR1cEFtc0VqTG1vaGRZSTNBc09GcnpUclgwQUJFTVpCRHB5T3JFUXFPVXFPU2hYMVVnZ3lLUDliN1JqVC10dlRiYXl6SmRhbVNMNVk",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T10:16:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T10:16:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUUzcGJBWlR1cEFtc0VqTG1vaGRZSTNBc09GcnpUclgwQUJFTVpCRHB5T3JFUXFPVXFPU2hYMVVnZ3lLUDliN1JqVC10dlRiYXl6SmRhbVNMNVk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "87b61c2f8539",
    "title": "After Earnings, We Raise Our Tesla Stock Fair Value Estimate. Are Shares a Buy? - Morningstar",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXI0NGNwSVZIZjV3R2Etb2ZVSHphNEY3RU1GZm5RckNCQWlaZFVYQWZMb1FSNzVCMGZNUUg4NFh0ZS1sVzZFRFprclQtM1ROTl9nMmVfUlZwU1dCUmljQ3ZiTTZxTldiZ3FGOFloRlVkMzRDdGRnblZrTjg4VEpsWWd2SGhQSTZHNjVsVXk0elFQRGRmNEtrWmpCeTFOTGJqZzV3WGd1Ul9wN29BSHc",
@@ -1690,6 +1763,23 @@
    "zh_summary": "特斯拉进军越南市场挑战VinFast",
    "title_zh": "特斯拉进军越南挑战VinFast，十年前进入中国时也曾面对比亚迪和充电困局",
    "sentiment": 1
+  },
+  {
+   "id": "ba12d5f2eb96",
+   "title": "【视频】2026款特斯拉Roadster首发亮相抢先看 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T08:13:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T08:13:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "559676537bc9",
@@ -6009,6 +6099,23 @@
    "sentiment": 0
   },
   {
+   "id": "6f7fd862c8f1",
+   "title": "特斯拉Roadster是怎么飞起来的？它的工作原理你看懂了吗？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bkEtMlVCM29xcmFKbGRIbWhSQjlteldzVGxXckRQZjg5QmhKMmowS0tKNWxaWER3aVFNSXZ2WGNPS2dPaEJEaS1CSk0wVjlUdWsxakhQc2xnODU1WXc",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T10:29:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T10:29:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56bkEtMlVCM29xcmFKbGRIbWhSQjlteldzVGxXckRQZjg5QmhKMmowS0tKNWxaWER3aVFNSXZ2WGNPS2dPaEJEaS1CSk0wVjlUdWsxakhQc2xnODU1WXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN3ZOcW5DcXBoOFVCUm1RMzY3UDc2OGNOcnFwLTczalhISmNnbVF6SnItZlpUODFPbGRDcDZJLWNEOURLZEVERVFqZ1IwNUR6ZzkxTXZXVlZ3RDQtSGFHQ1R3",
@@ -6354,131 +6461,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉无人驾驶车在成都展出",
    "title_zh": "特斯拉无人驾驶车在成都展出",
-   "sentiment": 1
-  },
-  {
-   "id": "53947cadad15",
-   "title": "Tesla Starts Hiring in Vietnam Weeks After Registering Subsidiary - eletric-vehicles.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUhDYVg5dGxJS2E1NXpsNU9KeTFlTDdORUlEUjJoMFRhcW5ZZGt4bXVwcmZVWnpXbmxKeDVseXlEVVpkQnk5c2pKV05HVkRlVkxSRVlydzBHRGg5MHZGaC14NEplWG1IcGNkXzhKanVCTWJqcVhtSXRUa2RXZVFRLWRSZVE2enptTUd5S1N3V3lDX3o0WlFXUjRBUHJMbGNqcWs0",
-   "source": "eletric-vehicles.com",
-   "published_at": "2026-10-28T09:04:56+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "eletric-vehicles.com",
-     "published_at": "2026-10-28T09:04:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUhDYVg5dGxJS2E1NXpsNU9KeTFlTDdORUlEUjJoMFRhcW5ZZGt4bXVwcmZVWnpXbmxKeDVseXlEVVpkQnk5c2pKV05HVkRlVkxSRVlydzBHRGg5MHZGaC14NEplWG1IcGNkXzhKanVCTWJqcVhtSXRUa2RXZVFRLWRSZVE2enptTUd5S1N3V3lDX3o0WlFXUjRBUHJMbGNqcWs0"
-    },
-    {
-     "name": "Electric Vehicles",
-     "published_at": "2026-10-28T09:04:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUhDYVg5dGxJS2E1NXpsNU9KeTFlTDdORUlEUjJoMFRhcW5ZZGt4bXVwcmZVWnpXbmxKeDVseXlEVVpkQnk5c2pKV05HVkRlVkxSRVlydzBHRGg5MHZGaC14NEplWG1IcGNkXzhKanVCTWJqcVhtSXRUa2RXZVFRLWRSZVE2enptTUd5S1N3V3lDX3o0WlFXUjRBUHJMbGNqcWs0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉越南注册子公司后开始招聘",
-   "title_zh": "特斯拉在越南注册子公司数周后开始招聘",
-   "sentiment": 1
-  },
-  {
-   "id": "94567a7d40ab",
-   "title": "Tesla Moves Into Vietnam: Subsidiary Registered, Hiring Underway - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVdGT29mSWRjRmxfQkRXNEk3SWhjYlV0b3JXNXpvbmE0eDBwUlo5eU5MS0plOUt1U0tKSXZ5MXY2ZGc1d0EtYjVTSFB5cVZhaFFxcjlCRTI1V0lPUS1peElSb1N5VlFDeE5NU3Y3Zk5vbEc1QlpDNTlZYWFNRlV5T3JVNkNOcnpTQlFHV21JUE40N19CY0ljb19PNGtmZw",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-28T09:03:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-28T09:03:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVdGT29mSWRjRmxfQkRXNEk3SWhjYlV0b3JXNXpvbmE0eDBwUlo5eU5MS0plOUt1U0tKSXZ5MXY2ZGc1d0EtYjVTSFB5cVZhaFFxcjlCRTI1V0lPUS1peElSb1N5VlFDeE5NU3Y3Zk5vbEc1QlpDNTlZYWFNRlV5T3JVNkNOcnpTQlFHV21JUE40N19CY0ljb19PNGtmZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉在越南注册子公司并招聘",
-   "title_zh": "特斯拉进军越南：子公司已注册并开始招聘",
-   "sentiment": 1
-  },
-  {
-   "id": "79dd84a3ed40",
-   "title": "特斯拉Semi重卡加州高速起火致车道关闭 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NRHZzQXAzRFB2SlJCSFBad2xleWgySERoU09fMGtRZlM1OGRKVmVVZUgyYlF2dWtYY1I5U05TcTdMVzR1aklicWQ4QUVJYnk4Mm5RRE1vbmZPeHBOb3c",
-   "source": "DoNews",
-   "published_at": "2026-10-28T08:58:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-28T08:58:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NRHZzQXAzRFB2SlJCSFBad2xleWgySERoU09fMGtRZlM1OGRKVmVVZUgyYlF2dWtYY1I5U05TcTdMVzR1aklicWQ4QUVJYnk4Mm5RRE1vbmZPeHBOb3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Semi重卡加州高速起火",
-   "title_zh": "特斯拉Semi重卡加州高速起火致车道关闭",
-   "sentiment": -1
-  },
-  {
-   "id": "2768e5710bc1",
-   "title": "Gary Black Has a Warning for Tesla Bulls Betting on Robotaxi Dominance - Tesla (NASDAQ:TSLA) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUThPVFlkekpmY1JEbkg4SjZwTVRrSEd6SGwtcXJzTnR1YWdwOENHcDZ0dm5uMXk0QkZLQVRLRWNINVVUUjQyc3N4YlhhdzdOVzh6Mk9uRWVyclRUSUp4VExMSU5lclZiNHF0LVpGa204eHdGZWc1Tk5tVk9oOEdSWFpLcDd1aTN2NURldW1TWTZsdTNTTS1jcGg2WlJFOHlIZC1kUjRuVzhDaGhvMTNCQTZVSjVwTXZIMG9fT1JTLWgtbG5ueEVub216M0p3dEQtUmFKTQ",
-   "source": "Benzinga",
-   "published_at": "2026-10-28T08:57:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-28T08:57:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUThPVFlkekpmY1JEbkg4SjZwTVRrSEd6SGwtcXJzTnR1YWdwOENHcDZ0dm5uMXk0QkZLQVRLRWNINVVUUjQyc3N4YlhhdzdOVzh6Mk9uRWVyclRUSUp4VExMSU5lclZiNHF0LVpGa204eHdGZWc1Tk5tVk9oOEdSWFpLcDd1aTN2NURldW1TWTZsdTNTTS1jcGg2WlJFOHlIZC1kUjRuVzhDaGhvMTNCQTZVSjVwTXZIMG9fT1JTLWgtbG5ueEVub216M0p3dEQtUmFKTQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "布莱克警告押注无人驾驶主导的投资者",
-   "title_zh": "加里·布莱克警告押注Robotaxi主导地位的多头",
-   "sentiment": -1
-  },
-  {
-   "id": "d33e0b8ec69c",
-   "title": "$特斯拉(TSLA.US)$$美光科技(MU.US)$ 是时候关单换另一个策略了^^学好期权及投资逻辑很重... - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDh0aFpOUnAxUHRwOUMtQ2Naa3dQVnlUQ2N6VTFsUUE0WC1ySE02X2VrSnJhRXh1MkdtVXBKamJoY0ZmZERvakFHWmZnYTYyLV81MW94VllTTi05RXNsRTVGNlh6dFE1TmpNUmF3QjI5RENJdjM3aTk3c2VySktQU1E3bjdCT3dSYkVNTDFkV3ZrVExNOUpTaDNWNDlMX081WU0wdEk2TnE3Zw",
-   "source": "Moomoo",
-   "published_at": "2026-10-28T08:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-28T08:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDh0aFpOUnAxUHRwOUMtQ2Naa3dQVnlUQ2N6VTFsUUE0WC1ySE02X2VrSnJhRXh1MkdtVXBKamJoY0ZmZERvakFHWmZnYTYyLV81MW94VllTTi05RXNsRTVGNlh6dFE1TmpNUmF3QjI5RENJdjM3aTk3c2VySktQU1E3bjdCT3dSYkVNTDFkV3ZrVExNOUpTaDNWNDlMX081WU0wdEk2TnE3Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉美光期权换策略讨论",
-   "title_zh": "特斯拉与美光：是时候关单换另一个策略",
-   "sentiment": 0
-  },
-  {
-   "id": "f3a9c1a5135d",
-   "title": "Tesla's Megapack Energy Storage Systems are in High Demand - Industrial Info Resources",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWlNYnV6elIwNk41bl9KQk5PVi1FNGdMY3pwSGdkZjdmTzEyb3J0MzB4NXd3VmRiV0wwdVZXTXRBM0hMLW1wZzlyVkN0Uy1Md0NUdnVnc1cwUWt2WTJaaFprdkVNdWVkX0FUOEwyeVA2YUJBMkhNQzFWR0ZUaUc3ajlCOExGVjJsak0wSGltUEtUZVgzcWcxQXRJY0JKODBGaDBfcTVUdFNpcl8xQnc",
-   "source": "Industrial Info Resources",
-   "published_at": "2026-10-28T08:54:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Industrial Info Resources",
-     "published_at": "2026-10-28T08:54:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWlNYnV6elIwNk41bl9KQk5PVi1FNGdMY3pwSGdkZjdmTzEyb3J0MzB4NXd3VmRiV0wwdVZXTXRBM0hMLW1wZzlyVkN0Uy1Md0NUdnVnc1cwUWt2WTJaaFprdkVNdWVkX0FUOEwyeVA2YUJBMkhNQzFWR0ZUaUc3ajlCOExGVjJsak0wSGltUEtUZVgzcWcxQXRJY0JKODBGaDBfcTVUdFNpcl8xQnc"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "特斯拉Megapack储能系统需求旺盛",
-   "title_zh": "特斯拉Megapack储能系统需求旺盛",
    "sentiment": 1
   }
  ]
