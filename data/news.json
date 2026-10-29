@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T07:37:28.254830+00:00",
+ "updated_at": "2026-10-29T07:52:32.607159+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.22（18条已评分）"
+     "note": "今日新闻情绪 +0.27（22条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-29T07:37:28.242290+00:00"
+   "as_of": "2026-10-29T07:52:32.599384+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.22,
-   "count": 18
+   "avg": 0.27,
+   "count": 22
   }
  },
  "meta": {
@@ -119,7 +119,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81VWdjUDhER0tuZGdaR3k1MF9lRDI0cUI0Ni1SclJFOEJmUy1uWlBXQ0dWUW1SdlFJRzVxNkV4RHRrWmc4cENJMUlnQjg1cUpJRDBfZTlRaUYzeWFXWFlMeE5mS0tlTkQ4Q0NnNW14Wll3X3k2MlhJa09HOF84LUE",
    "source": "新浪财经",
    "published_at": "2026-10-29T06:58:05+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "新浪财经",
@@ -140,6 +140,11 @@
      "name": "手机新浪网",
      "published_at": "2026-10-29T07:24:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aGhpLTJueHVaV3Z5eWZnd1NoNlBpaTUtRWpOQ21nYWtYTkR5S1BUZGVaTEs0Tm9NcUdDR0ExZzlrdkZGclJfcGFuMDdqbnJ4eE84QVRiZm90dmdNMURoOTVUdUo5RjRGS0pJZ05KZjNwajREa2FLWlRIN29Cdw"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-29T07:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBocHpIUHBBNlVBcG9ZZ3ZkRGVibzNadE8zcktPbmVmOXVTWVJBWi10SUtFN3BJRDk0a3ZYM0NuSEFzdUFxbVNyd2lMRHQxc29nWTV6WTI3N1U"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -3986,6 +3991,23 @@
    "sentiment": 1
   },
   {
+   "id": "2cfa51832234",
+   "title": "19万的Model 3买不到了！特斯拉或返销美版到加拿大：售价直接翻倍 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU",
+   "source": "中华网",
+   "published_at": "2026-10-28T10:30:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-28T10:30:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwd3Nqd0lHRGF0Z29OWjBiLXdiRnktZFEyR2FMU2FiU2QyLTJ5RERPTUxsXzNuMWtkMk1kV01wRmdrZmdwQkU4RnhjaVBRX1NpaWtndmRZUTRqOEZzRndqOXFXRnBMRVM0TlRYd0hVaHU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "f157202f7b60",
    "title": "AI不让叫了？特朗普持续施压，特斯拉跟进改名 - 观察者网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iN3ZOcW5DcXBoOFVCUm1RMzY3UDc2OGNOcnFwLTczalhISmNnbVF6SnItZlpUODFPbGRDcDZJLWNEOURLZEVERVFqZ1IwNUR6ZzkxTXZXVlZ3RDQtSGFHQ1R3",
@@ -5298,12 +5320,17 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pT1dib0t4clZBaHVlZ2JIdkcyekYtQ214eEs0TDNTUVpQQmg1OW4zUVBDOVlPMEFfendrWVRlc3E1cm91X2NTcHNfTHB3NmljdVBpXzNlVnJudkHSAWBBVV95cUxPWmRnc3BhY21qckpWRkdIdjg1RmhtM1lpRHBnZE13VlNQZHJwSkNjMWZaYjVuTkVmTjRVNTlzaUk4ejNPbUdYcEhhaGpnTjFVUkVfeDFjcV9xbnZHbnZ6Z1k",
    "source": "KTVU",
    "published_at": "2026-10-28T05:31:19+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "KTVU",
      "published_at": "2026-10-28T05:31:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pT1dib0t4clZBaHVlZ2JIdkcyekYtQ214eEs0TDNTUVpQQmg1OW4zUVBDOVlPMEFfendrWVRlc3E1cm91X2NTcHNfTHB3NmljdVBpXzNlVnJudkHSAWBBVV95cUxPWmRnc3BhY21qckpWRkdIdjg1RmhtM1lpRHBnZE13VlNQZHJwSkNjMWZaYjVuTkVmTjRVNTlzaUk4ejNPbUdYcEhhaGpnTjFVUkVfeDFjcV9xbnZHbnZ6Z1k"
+    },
+    {
+     "name": "CBS News",
+     "published_at": "2026-10-29T07:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1VndUQ1WnAxZ0ktOXluRzFuc1NfWG84UzNoTUVlSG02emRKSExrM1RINWljc25kMmFhSnZEX05nVWMyWG5CTDJicF9lVm9HcFliU1Atd2tkcWdzeTZfNlljMnhoNW14ZExoSkF6ZjlNdmJVLXdGOWtNM3BQMC1TVkpRRUhJcDVPNnVkTmxjUkRsRWNtX0NHeGxJRHVnZw"
     }
    ],
    "category": "其他",
@@ -6450,26 +6477,6 @@
    "zh_summary": "特斯拉净利润暴降43%",
    "title_zh": "特斯拉净利润暴降43%，但马斯克，似乎不关心造车了？ - QQ News",
    "sentiment": -2
-  },
-  {
-   "id": "54f10508a0eb",
-   "title": "Tesla Semi turns freight industry heads in Chattanooga - Chattanooga Times Free Press",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEVnRXlJcEVOaWNDYTFaaVhmZ1JsQzlZejl0OWJTTEktZjIyUEpfeXVJTlctSGRuUU1hNEJUVnNrVVBBVExKMGJ0YUVVOHpNYzdfTFFPTktraWNXOGNZRUJ4bndVSjF5Qmk2VDBTSmt5aHE5UjhoeGQ0NWwtREpXbEhxNW44ZzZ1QVlmdjZDY3VmNDFCMnc",
-   "source": "Chattanooga Times Free Press",
-   "published_at": "2026-10-28T00:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Chattanooga Times Free Press",
-     "published_at": "2026-10-28T00:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEVnRXlJcEVOaWNDYTFaaVhmZ1JsQzlZejl0OWJTTEktZjIyUEpfeXVJTlctSGRuUU1hNEJUVnNrVVBBVExKMGJ0YUVVOHpNYzdfTFFPTktraWNXOGNZRUJ4bndVSjF5Qmk2VDBTSmt5aHE5UjhoeGQ0NWwtREpXbEhxNW44ZzZ1QVlmdjZDY3VmNDFCMnc"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Semi获查塔努加货运业关注",
-   "title_zh": "特斯拉Semi引起查塔努加货运业关注",
-   "sentiment": 1
   }
  ]
 }
