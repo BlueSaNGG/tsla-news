@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T15:07:31.245139+00:00",
+ "updated_at": "2026-10-29T15:22:29.934673+00:00",
  "market": {
-  "price": 405.34,
-  "change_pct": 0.28,
+  "price": 406.16,
+  "change_pct": 0.48,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（98条已评分）"
+     "note": "今日新闻情绪 +0.15（101条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.34 vs 20日均线 $379.34"
+     "note": "现价 $406.16 vs 20日均线 $379.38"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.3,
-   "ma20": 379.34,
-   "as_of": "2026-10-29T15:07:31.235447+00:00"
+   "implied_upside_pct": -1.5,
+   "ma20": 379.38,
+   "as_of": "2026-10-29T15:22:29.923841+00:00"
   },
-  "pe_ttm": 112.1,
+  "pe_ttm": 112.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 98
+   "avg": 0.15,
+   "count": 101
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "805b102ce367",
+   "title": "特斯拉进军越南启动采购招聘，供应链本土化对Tier1供应商意味着什么？ - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80bHhlLU1NMWwzdG5jeHl3VW5nOE5zcmktUjdEWDB2TXdtOXRpRmxBUmFhM3BkeHNNaDU5TWEzVmptVWp6UHd3dHNlUVZWLUVhQnI2ei1qRjFPUjQ",
+   "source": "网通社",
+   "published_at": "2026-10-29T15:03:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-29T15:03:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80bHhlLU1NMWwzdG5jeHl3VW5nOE5zcmktUjdEWDB2TXdtOXRpRmxBUmFhM3BkeHNNaDU5TWEzVmptVWp6UHd3dHNlUVZWLUVhQnI2ei1qRjFPUjQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2582e650bd73",
+   "title": "Seoul Police Book 80 Tesla Owners Over Imported and Homemade Full Self-Driving Unlock Devices — Now Prosecutors Weigh Charges Carrying Up to Two Years - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHlpeFVEUFhra3pmX0dOWERLaDNYVG5yVUFSeGhVTWk1QXBsMHBQODF0Mk9oRmZ6eGt5NW05OFdaVVZsWU5qM1pQNTN3M1B4M2JZczJIcjlESTJuMlZSNDhNRDZDQ3VXZktSMEU2UktPTWRNSnM4Znc3MkNDdnlzbE5XVzdmSmd6SVlF",
+   "source": "Yahoo",
+   "published_at": "2026-10-29T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-29T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHlpeFVEUFhra3pmX0dOWERLaDNYVG5yVUFSeGhVTWk1QXBsMHBQODF0Mk9oRmZ6eGt5NW05OFdaVVZsWU5qM1pQNTN3M1B4M2JZczJIcjlESTJuMlZSNDhNRDZDQ3VXZktSMEU2UktPTWRNSnM4Znc3MkNDdnlzbE5XVzdmSmd6SVlF"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "248511cf09f2",
    "title": "【视频】特斯拉电动卡车自燃，道路封锁10多个小时，动力电池备受质疑？ - 汽车之家",
@@ -153,10 +187,15 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0lSVmRHYXZ5bWdJbWhTeTg0TDRIRDBXeXhqeUhBaWktRU9LMm9xdnhyRWp0UUtVZ3RLS3hjSXUtY0xxTGNaMG02MmlITnBZckFXVGhfSTB2cEhwVDZHSVZWOFNnWlhJZDQzbUpkMy0wc2VJUVJ4UmZaVnlxMURiaGVvaHRaNUJOMklYdDZ4Y2FHSGRn",
    "source": "www.thestreet.com",
    "published_at": "2026-10-29T14:47:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.thestreet.com",
+     "published_at": "2026-10-29T14:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0lSVmRHYXZ5bWdJbWhTeTg0TDRIRDBXeXhqeUhBaWktRU9LMm9xdnhyRWp0UUtVZ3RLS3hjSXUtY0xxTGNaMG02MmlITnBZckFXVGhfSTB2cEhwVDZHSVZWOFNnWlhJZDQzbUpkMy0wc2VJUVJ4UmZaVnlxMURiaGVvaHRaNUJOMklYdDZ4Y2FHSGRn"
+    },
+    {
+     "name": "TheStreet",
      "published_at": "2026-10-29T14:47:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0lSVmRHYXZ5bWdJbWhTeTg0TDRIRDBXeXhqeUhBaWktRU9LMm9xdnhyRWp0UUtVZ3RLS3hjSXUtY0xxTGNaMG02MmlITnBZckFXVGhfSTB2cEhwVDZHSVZWOFNnWlhJZDQzbUpkMy0wc2VJUVJ4UmZaVnlxMURiaGVvaHRaNUJOMklYdDZ4Y2FHSGRn"
     }
@@ -246,6 +285,23 @@
     "pct": 0.22,
     "window_h": 0.3
    }
+  },
+  {
+   "id": "0e21bdb485c2",
+   "title": "$TSLA 261102 390.00P$ 今天看这个会不会像昨天一样给我进帐 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWs5aXhvVzRETVBOSVR0c0RjRFQ4Z0I5Q3c5ZGxVTmU2VmlqVHNIdWhDS2JIbnpHVUtVOTJLOUJyV1pVcFhRRTJUWGNhZk9ab1BDa2tTaXVKY0U2N0g3WnZ5ckF0R1ZlVnRlWTZBNGwwQWJIWEZmVHBjb042SnN0My10SWpnVmxQVzhIUTRiVEIzZWRyUDExWE9KYXZnQVlwRXRNbDlSNGZVLUI5clVjZ0paQTI3ZGNLZXpXb3ByZzZQdw",
+   "source": "Moomoo",
+   "published_at": "2026-10-29T14:05:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-29T14:05:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWs5aXhvVzRETVBOSVR0c0RjRFQ4Z0I5Q3c5ZGxVTmU2VmlqVHNIdWhDS2JIbnpHVUtVOTJLOUJyV1pVcFhRRTJUWGNhZk9ab1BDa2tTaXVKY0U2N0g3WnZ5ckF0R1ZlVnRlWTZBNGwwQWJIWEZmVHBjb042SnN0My10SWpnVmxQVzhIUTRiVEIzZWRyUDExWE9KYXZnQVlwRXRNbDlSNGZVLUI5clVjZ0paQTI3ZGNLZXpXb3ByZzZQdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "d619bfce9a96",
@@ -1113,6 +1169,23 @@
    "sentiment": 0
   },
   {
+   "id": "fd6b07d08c9a",
+   "title": "Musk宣称特斯拉Robotaxi胜过Waymo，但Waymo的行驶里程仍是其7倍 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0x1SEp6U0F2QVZLNTFHXzI1N0F0WWZGSlNZMHN2bTBWdWJMcjFKV2s4YTBBM0hFQ1l1MTNkOUFYUEdIQlBQTjFUUmpYeC1PR3dHQ3dwNFczcGtaUTNFd1luRktfb0dkZFl5UEVQZnNzVUhSVFBtZGRrTlM5eFpQQzhKcHhlZ2px",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T10:31:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T10:31:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0x1SEp6U0F2QVZLNTFHXzI1N0F0WWZGSlNZMHN2bTBWdWJMcjFKV2s4YTBBM0hFQ1l1MTNkOUFYUEdIQlBQTjFUUmpYeC1PR3dHQ3dwNFczcGtaUTNFd1luRktfb0dkZFl5UEVQZnNzVUhSVFBtZGRrTlM5eFpQQzhKcHhlZ2px"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "c6e2b098477e",
    "title": "特斯拉进军越南市场并启动招聘，东南亚出海版图再扩大 - 网通社",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQU1BWGdpdmZfeWVLNkF0dkFYSDBlaUhIcHRDcWxlZEdRaGlSamNDbVEtQUFuS1VkbDQ1clRZOUx1VENkTncxY3p6amFMdmtkMU8zbUtyeU9KTDg",
@@ -1345,6 +1418,23 @@
     "pct": -0.24,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "4d55512d6412",
+   "title": "退役电池干不了储能？日产特斯拉车主的省钱生意来了 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYXVBNENJMlVMbDFXVHhMUW1VWURWX3M2bTVEQ1JaTzhaN2hCc1A1WDVIVkNhRTJZTjVsb0d1WkJfRGVJcGI5cnRBQWJQQm93T3JFMzREbmMyZVU",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T09:10:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T09:10:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYXVBNENJMlVMbDFXVHhMUW1VWURWX3M2bTVEQ1JaTzhaN2hCc1A1WDVIVkNhRTJZTjVsb0d1WkJfRGVJcGI5cnRBQWJQQm93T3JFMzREbmMyZVU"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
   },
   {
    "id": "04c7034c2b8f",
@@ -6379,106 +6469,6 @@
    "session": "盘前",
    "zh_summary": "美国一特斯拉Semi重卡起火司机逃生",
    "title_zh": "美国一特斯拉Semi电动重卡起火，司机成功逃生",
-   "sentiment": -1
-  },
-  {
-   "id": "a58817355cc6",
-   "title": "Electrek： 特斯拉开始在越南招聘员工 - UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjI2b0UtdEYtVmpRUEhJaFFzVkNxMzNBeEppQk9UNkZEYTgzcDdkeGxESWtCanBqaWtrLXJsWTVLNnRtWDRGZHpraGo2TllrLWlNS2ZlTEdMSUIyY2g1R1lNNGFkRzc2Tm9FSHoxX19WMnk3UHJ3R2dYWXJkNjRYV3BRbWtNd2ZpaEE",
-   "source": "UA.NEWS",
-   "published_at": "2026-10-28T08:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "UA.NEWS",
-     "published_at": "2026-10-28T08:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjI2b0UtdEYtVmpRUEhJaFFzVkNxMzNBeEppQk9UNkZEYTgzcDdkeGxESWtCanBqaWtrLXJsWTVLNnRtWDRGZHpraGo2TllrLWlNS2ZlTEdMSUIyY2g1R1lNNGFkRzc2Tm9FSHoxX19WMnk3UHJ3R2dYWXJkNjRYV3BRbWtNd2ZpaEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉开始在越南招聘员工",
-   "title_zh": "特斯拉开始在越南招聘员工",
-   "sentiment": 1
-  },
-  {
-   "id": "42dec8ca0080",
-   "title": "特斯拉为消费者准备了一辆无人驾驶机器人出租车 - VOI.ID",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aT25odDByU2RmOE1scEdsa0ttZmNDT0J2YW5Wc0xxdkx2ZDI0WFdIUFpKb0FhcnBRRi1oblF2WTJILVVE0gFCQVVfeXFMTWRtMWt4S1ItelVTRGhSTEY1N0xrMGRhY29LLXlWRW1wTlZodnk3SW1OQ0VwRmdhRDNWWFhzaWw0OFJB",
-   "source": "VOI.ID",
-   "published_at": "2026-10-28T08:38:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VOI.ID",
-     "published_at": "2026-10-28T08:38:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5aT25odDByU2RmOE1scEdsa0ttZmNDT0J2YW5Wc0xxdkx2ZDI0WFdIUFpKb0FhcnBRRi1oblF2WTJILVVE0gFCQVVfeXFMTWRtMWt4S1ItelVTRGhSTEY1N0xrMGRhY29LLXlWRW1wTlZodnk3SW1OQ0VwRmdhRDNWWFhzaWw0OFJB"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉为消费者准备无人驾驶出租车",
-   "title_zh": "特斯拉为消费者准备了一辆无人驾驶机器人出租车 - VOI.ID",
-   "sentiment": 1
-  },
-  {
-   "id": "dfb2f75ea5fa",
-   "title": "10月28日友升股份涨停：新能源车零部件，汽车零部件，特斯拉概念热股_个股掘金 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55WlZDbTFjWDg3YmRDUUxINW9BbENQZHp0ZnJ5U0lCcXEtblhZZTlSelBxczhuR2tfZC1DRDNtc3BZSjRXbWRCYk44Zjlvcl94cWJKQ2UzeHFyQ01PRk1UaQ",
-   "source": "证券之星",
-   "published_at": "2026-10-28T08:34:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-28T08:34:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55WlZDbTFjWDg3YmRDUUxINW9BbENQZHp0ZnJ5U0lCcXEtblhZZTlSelBxczhuR2tfZC1DRDNtc3BZSjRXbWRCYk44Zjlvcl94cWJKQ2UzeHFyQ01PRk1UaQ"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "友升股份涨停，特斯拉概念热股",
-   "title_zh": "10月28日友升股份涨停，特斯拉概念热股",
-   "sentiment": 0
-  },
-  {
-   "id": "46c7ec6c78f3",
-   "title": "Tesla, Inc. $TSLA Stock: Generali Asset Management SPA SGR Grows Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmgzdGVPZkRLRDFRMnhwbkxkZ0pEZ2YwSnJJXzVkUWw3ZWdDbWt5VGpXc1pUV2JYUHBfVG1PYzkySWctRlhwYlU1ZnFraXVTU3JxbENfWHBtOHI5anNuR0hJY1htNXV0QktENGdRY0hQbG1PMHFWTmVZUnBFQW1tS09mOHZEOHAycEhSMmYyWlAzVHpsdFMwa0JJMjNfT3NJNlF3LXhHYXVSYjB2OTRYR0pFdThxOEo2RVJPM2Y3UktWR0M3aXc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:33:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:33:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmgzdGVPZkRLRDFRMnhwbkxkZ0pEZ2YwSnJJXzVkUWw3ZWdDbWt5VGpXc1pUV2JYUHBfVG1PYzkySWctRlhwYlU1ZnFraXVTU3JxbENfWHBtOHI5anNuR0hJY1htNXV0QktENGdRY0hQbG1PMHFWTmVZUnBFQW1tS09mOHZEOHAycEhSMmYyWlAzVHpsdFMwa0JJMjNfT3NJNlF3LXhHYXVSYjB2OTRYR0pFdThxOEo2RVJPM2Y3UktWR0M3aXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Generali资管增持特斯拉股份",
-   "title_zh": "Generali资管增持$TSLA股份",
-   "sentiment": 1
-  },
-  {
-   "id": "0b36e6b4406f",
-   "title": "特斯拉Semi起火车头烧毁，822kWh电池致封路18小时 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Pemx1V0tnU05hYWNNbVF5OG1YT0pEcmlyOEdvcFE3SWpGamVUcnhodGpNbGd2UDhsRUdZaUVuMlNPZ3luZzljQ1VhRThmYkU2cXJ1eUZISkR0Z1U",
-   "source": "汽车之家",
-   "published_at": "2026-10-28T08:30:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T08:30:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Pemx1V0tnU05hYWNNbVF5OG1YT0pEcmlyOEdvcFE3SWpGamVUcnhodGpNbGd2UDhsRUdZaUVuMlNPZ3luZzljQ1VhRThmYkU2cXJ1eUZISkR0Z1U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉Semi起火封路18小时",
-   "title_zh": "特斯拉Semi起火车头烧毁，822kWh电池致封路18小时",
    "sentiment": -1
   }
  ]
