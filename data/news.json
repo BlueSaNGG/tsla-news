@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T07:22:39.107283+00:00",
+ "updated_at": "2026-10-29T07:37:28.254830+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（16条已评分）"
+     "note": "今日新闻情绪 +0.22（18条已评分）"
     },
     {
      "key": "动量",
@@ -41,8 +41,8 @@
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 55,
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-29T07:22:39.098120+00:00"
+   "as_of": "2026-10-29T07:37:28.242290+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 16
+   "avg": 0.22,
+   "count": 18
   }
  },
  "meta": {
@@ -88,12 +88,35 @@
    "sentiment": 1
   },
   {
+   "id": "02c4453d3bbd",
+   "title": "Key facts: Tesla (TSLA) 1.7M FSD Users; Barclays Upgrade; 450x PE - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFZJaWRRamJxZXQ4amY2LWo3Um5HREFMemhuLTVybWg3ZEM3SzVyY1hsVHV0bmx2cG1UQ3F4ak8zMUNGYzlDYWtnQUk3elFMdlJ1TVFJd045c1Nvb0NNX1dobUU2NmluM3d3VkpIY1NCZXFkNHV0MjhDVEpHZEREXzdJLWFYYzBzanhHVWExMF9nN0ZWMTZsU1AtTldMWk9ETUs1WTF2SlR6MWtlX0JweHQ2ZzVTTHVwUnI0cDNycw",
+   "source": "TradingView",
+   "published_at": "2026-10-29T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-29T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFZJaWRRamJxZXQ4amY2LWo3Um5HREFMemhuLTVybWg3ZEM3SzVyY1hsVHV0bmx2cG1UQ3F4ak8zMUNGYzlDYWtnQUk3elFMdlJ1TVFJd045c1Nvb0NNX1dobUU2NmluM3d3VkpIY1NCZXFkNHV0MjhDVEpHZEREXzdJLWFYYzBzanhHVWExMF9nN0ZWMTZsU1AtTldMWk9ETUs1WTF2SlR6MWtlX0JweHQ2ZzVTTHVwUnI0cDNycw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "Barclays",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
+  },
+  {
    "id": "d7e1f43212e0",
    "title": "买了 FSD 却不能用，韩国 89 名车主起诉特斯拉遭法院驳回 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81VWdjUDhER0tuZGdaR3k1MF9lRDI0cUI0Ni1SclJFOEJmUy1uWlBXQ0dWUW1SdlFJRzVxNkV4RHRrWmc4cENJMUlnQjg1cUpJRDBfZTlRaUYzeWFXWFlMeE5mS0tlTkQ4Q0NnNW14Wll3X3k2MlhJa09HOF84LUE",
    "source": "新浪财经",
    "published_at": "2026-10-29T06:58:05+00:00",
-   "outlets_count": 2,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "新浪财经",
@@ -104,10 +127,21 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-29T06:58:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zSDJDbFI0MTU2Ri0xX3ZBT2VvaWFMcWFpa1Y0MmVfa2FMaFhJRDU4Z25qWEVPNGVfZ2wxYzg5ODdtQ0wxV0dXSS1mQWo"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-29T06:58:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vTUhyV2RSa2F0NFNmYU93RUg0OS1MWERwU01FM2dvN1k4YVZ0SENGN0xabW42UmhNZnE2djdEZy1Hb2dFRGJoTg"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-29T07:24:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aGhpLTJueHVaV3Z5eWZnd1NoNlBpaTUtRWpOQ21nYWtYTkR5S1BUZGVaTEs0Tm9NcUdDR0ExZzlrdkZGclJfcGFuMDdqbnJ4eE84QVRiZm90dmdNMURoOTVUdUo5RjRGS0pJZ05KZjNwajREa2FLWlRIN29Cdw"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "韩国法院驳回89名车主FSD退款诉讼",
    "title_zh": "买了 FSD 却不能用，韩国 89 名车主起诉特斯拉遭法院驳回 - 新浪财经",
    "sentiment": 1
@@ -136,6 +170,23 @@
    "zh_summary": "Model 3停车状态车内起火",
    "title_zh": "特斯拉Model 3停车状态车内起火 三星手机成怀疑对象 - 驱动之家",
    "sentiment": -1
+  },
+  {
+   "id": "f526ffe6aa7f",
+   "title": "【国际动态】特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOUpyVEpGOVNEaHYwYnVyM3JpYXNfV2M2UkFLTy1SVk15NXR2bUpFbzVPMU5kaFdmWHI4REt0WThRbFUwYnVOX1FDR1ZBZXZBODczMVZlNDB1ZDVpeHlYVmNqSnI0dDhyME8xRDgyRW9CamtybVZoRXB2YXFHSWZYSmtyMFdpZ0M0ZDBXRDNnWXRJdThoc1o1UUlTN3l2bzYxb0xUUDJMa3c1OFFpRGJxZ2xVWGprcXgwOEh3OHlvbG9ia0lGX0x2UWNXWXhFUGJVQ1J5MVdPRFh5SW9f",
+   "source": "手机新浪网",
+   "published_at": "2026-10-29T06:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-29T06:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOUpyVEpGOVNEaHYwYnVyM3JpYXNfV2M2UkFLTy1SVk15NXR2bUpFbzVPMU5kaFdmWHI4REt0WThRbFUwYnVOX1FDR1ZBZXZBODczMVZlNDB1ZDVpeHlYVmNqSnI0dDhyME8xRDgyRW9CamtybVZoRXB2YXFHSWZYSmtyMFdpZ0M0ZDBXRDNnWXRJdThoc1o1UUlTN3l2bzYxb0xUUDJMa3c1OFFpRGJxZ2xVWGprcXgwOEh3OHlvbG9ia0lGX0x2UWNXWXhFUGJVQ1J5MVdPRFh5SW9f"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "db168b87378b",
@@ -176,6 +227,40 @@
    "zh_summary": "车主电池衰减超30%获换两台新Powerwall",
    "title_zh": "车主电池衰减超30%后获保修更换两台Powerwall 3",
    "sentiment": -1
+  },
+  {
+   "id": "b15e21133313",
+   "title": "特斯拉Roadster不承担走量任务，试探电动超跑上限 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2xtVmtTenM3cGE5MU9rTFBVUkhaaTdUYTE5M2hSSVNxWFY1SVVyakRoR1ZFSFNRU0VfU1lFQnJLNXNjZzNEYWVtWXd5dERLektodFJpQjRwbFNSdG1TRFhSREU2MjZJYUpkYUNHXzN6ZmhxNGRvVVptSEE2bWowSjdOZHh3NUpyZ1JKNmdKY1RoUmp5Rlh2YlZmNEFPYWtTUW00LVdUdEVRVlpYVEd4SEo0OUY5NWlqaWtjQWFpNEdQeW83dURMR1d6VXhpTnRua1BNcmR4ZTVKbWc",
+   "source": "手机新浪网",
+   "published_at": "2026-10-29T06:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-29T06:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2xtVmtTenM3cGE5MU9rTFBVUkhaaTdUYTE5M2hSSVNxWFY1SVVyakRoR1ZFSFNRU0VfU1lFQnJLNXNjZzNEYWVtWXd5dERLektodFJpQjRwbFNSdG1TRFhSREU2MjZJYUpkYUNHXzN6ZmhxNGRvVVptSEE2bWowSjdOZHh3NUpyZ1JKNmdKY1RoUmp5Rlh2YlZmNEFPYWtTUW00LVdUdEVRVlpYVEd4SEo0OUY5NWlqaWtjQWFpNEdQeW83dURMR1d6VXhpTnRua1BNcmR4ZTVKbWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0a596348153f",
+   "title": "2008年特斯拉初代Roadster推出 二代车型重新亮相 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTgyMm56N0pFel9SRnZuRk95bGtiWlZFYTZXbll3bUpEb2llTlBoU3VEUWdWZ09LUjhwTDdCQ0R0eHpaTDg3dXptUkZMT0FSZU0xNVlPZGxzQnRudVBSX2FDNlZKRjNLcEhnWVlMVE9Wa3daNGFWUk9NTlA2ekN6SUlWb0lxelAxWlBPNlp6VXMyczhWM29VbVVLUUw3bVJsN3Q3TDh3eU00aF9RTVZLX0ItQnJpQWw2TTlTbGliZ3VFcC1wT3hEdWRNcWJING00U1piYk5pTDItRzA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-29T06:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-29T06:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTgyMm56N0pFel9SRnZuRk95bGtiWlZFYTZXbll3bUpEb2llTlBoU3VEUWdWZ09LUjhwTDdCQ0R0eHpaTDg3dXptUkZMT0FSZU0xNVlPZGxzQnRudVBSX2FDNlZKRjNLcEhnWVlMVE9Wa3daNGFWUk9NTlA2ekN6SUlWb0lxelAxWlBPNlp6VXMyczhWM29VbVVLUUw3bVJsN3Q3TDh3eU00aF9RTVZLX0ItQnJpQWw2TTlTbGliZ3VFcC1wT3hEdWRNcWJING00U1piYk5pTDItRzA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ad09810d057c",
@@ -6373,91 +6458,6 @@
    "zh_summary": "特斯拉Semi获查塔努加货运业关注",
    "title_zh": "特斯拉Semi引起查塔努加货运业关注",
    "sentiment": 1
-  },
-  {
-   "id": "671335cb20ca",
-   "title": "七点半之前 特斯拉Model Y的三只时钟 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnhvM1Y4THdvUFhDY09fOVMzOENiSkd3TEpwSFh4eXdoWjBUN3hQS1Fic0FQRUxoMEtIQnhpZmMzc3IxTzVqakl1U2hwX2pjb3VKbUsxMmhkRURLcmdXb194eDZ5TWJkYldHVDM0cG5IZDdPcTBFUVh4OXJoOThMQg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-28T00:49:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-28T00:49:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnhvM1Y4THdvUFhDY09fOVMzOENiSkd3TEpwSFh4eXdoWjBUN3hQS1Fic0FQRUxoMEtIQnhpZmMzc3IxTzVqakl1U2hwX2pjb3VKbUsxMmhkRURLcmdXb194eDZ5TWJkYldHVDM0cG5IZDdPcTBFUVh4OXJoOThMQg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Model Y的三只时钟",
-   "title_zh": "七点半之前 特斯拉Model Y的三只时钟",
-   "sentiment": 0
-  },
-  {
-   "id": "bf65bd5f8332",
-   "title": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN",
-   "source": "Stocktwits",
-   "published_at": "2026-10-28T00:36:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-28T00:36:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "晨星称特斯拉极具吸引力建议买入",
-   "title_zh": "TSLA盘前下跌，晨星称特斯拉极具吸引力值得买入",
-   "sentiment": 0
-  },
-  {
-   "id": "a063834420fa",
-   "title": "马斯克疯狂“整活”，特斯拉全面“跳票” - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43U0xZUEd5RHVWWTBWNTN4M3hVSEVHcHNtWWMydWFkY05YZVNnS3NUS1A0NkNPZ3N6SDRNMElNZVFaUkhDNkpaWDZaMVI3ZHNSa1ZTdlJyVnlnazRlQlpMR1g1OVRDc2xJSHdMVXBjOURTRlVyWVM4T1p1a3dNUQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-28T00:36:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-28T00:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43U0xZUEd5RHVWWTBWNTN4M3hVSEVHcHNtWWMydWFkY05YZVNnS3NUS1A0NkNPZ3N6SDRNMElNZVFaUkhDNkpaWDZaMVI3ZHNSa1ZTdlJyVnlnazRlQlpMR1g1OVRDc2xJSHdMVXBjOURTRlVyWVM4T1p1a3dNUQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-28T00:36:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克多项计划再度跳票",
-   "title_zh": "马斯克疯狂“整活”，特斯拉全面“跳票” - 新浪财经",
-   "sentiment": -1
-  },
-  {
-   "id": "45c8852d71d0",
-   "title": "Tesla Owner Says He Couldn’t Find the Door Release After a Head-On Crash and Fire, Then NHTSA Denied His Petition and Promised a Rulemaking - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGZCTnBsR3EyT3dMb19yWGpjNFZLNWt0V1JCOUxKdVlaQ3VpdUt0RW5KdFdZc3NZdEtvZTVLNDNmR3VNSmtQMENMRUtEWHB0NmdtNGJvMHVqQ2hrMVM4QTV5NXF5ZlF1SVRLVEMyZFB1QlVveG5vSndYbkpWVTR2a2ZCakVDVE5mR0JDQWVGVVpVb3hSSVNr",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-28T00:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-28T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGZCTnBsR3EyT3dMb19yWGpjNFZLNWt0V1JCOUxKdVlaQ3VpdUt0RW5KdFdZc3NZdEtvZTVLNDNmR3VNSmtQMENMRUtEWHB0NmdtNGJvMHVqQ2hrMVM4QTV5NXF5ZlF1SVRLVEMyZFB1QlVveG5vSndYbkpWVTR2a2ZCakVDVE5mR0JDQWVGVVpVb3hSSVNr"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "车主撞车起火后找不到车门开关",
-   "title_zh": "特斯拉车主称撞车起火后找不到车门开关，NHTSA驳回请愿并承诺立法",
-   "sentiment": -1
   }
  ]
 }
