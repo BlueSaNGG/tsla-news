@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T19:52:34.360615+00:00",
+ "updated_at": "2026-10-29T20:07:31.692962+00:00",
  "market": {
-  "price": 404.08,
-  "change_pct": -0.03,
+  "price": 403.3,
+  "change_pct": -0.23,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.0%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.13（135条已评分）"
+     "note": "今日新闻情绪 +0.12（136条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.08 vs 20日均线 $379.28"
+     "note": "现价 $403.30 vs 20日均线 $379.24"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.0,
-   "ma20": 379.28,
-   "as_of": "2026-10-29T19:52:34.351128+00:00"
+   "implied_upside_pct": -0.8,
+   "ma20": 379.24,
+   "as_of": "2026-10-29T20:07:31.683999+00:00"
   },
-  "pe_ttm": 111.8,
+  "pe_ttm": 111.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.13,
-   "count": 135
+   "avg": 0.12,
+   "count": 136
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "0ae54006f441",
+   "title": "Tesla 2026.38.6 Rolling Out: What's in It and How to Get It - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81c2lLcUxERmhvSFRVQkN6Q2VaRElhU1FRTHRCWTl5MktSdE9xQjJYTGdaeUQ1N2xWWlZfa1A3TlNtTEszV3lhWUdPLTRrODBjWnZ0bWZDYThNN01XbmRfd1ZsbnJfYUta",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-29T20:03:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-29T20:03:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81c2lLcUxERmhvSFRVQkN6Q2VaRElhU1FRTHRCWTl5MktSdE9xQjJYTGdaeUQ1N2xWWlZfa1A3TlNtTEszV3lhWUdPLTRrODBjWnZ0bWZDYThNN01XbmRfd1ZsbnJfYUta"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "85c6b8405133",
+   "title": "How the Ford Bronco and Tesla Model S helped shape Chery’s iCaur - CarExpert",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTdGLVZUbXlVRlZaZTU2dGJNYkV3bDN5RTd5aEg5bXF5TUZ0T1hXcl9FMTlMa1dOOWUzaHlYd01BV1NDaUtaUlRMVEJoVFhpNXR4TGdNY1lYZHdCb0UtWnl1SzR5X1FxcHp5dTBVVFBld1hQYVdZMTJhZFEtZTFXZmZzSWtyUVZiSDB3M0pKY3MzVWxuR2diM280MzlnUTdXUE1N",
+   "source": "CarExpert",
+   "published_at": "2026-10-29T20:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CarExpert",
+     "published_at": "2026-10-29T20:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTdGLVZUbXlVRlZaZTU2dGJNYkV3bDN5RTd5aEg5bXF5TUZ0T1hXcl9FMTlMa1dOOWUzaHlYd01BV1NDaUtaUlRMVEJoVFhpNXR4TGdNY1lYZHdCb0UtWnl1SzR5X1FxcHp5dTBVVFBld1hQYVdZMTJhZFEtZTFXZmZzSWtyUVZiSDB3M0pKY3MzVWxuR2diM280MzlnUTdXUE1N"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "7613fc4d006f",
    "title": "【视频】21年特斯拉model-3 - 汽车之家",
@@ -6426,46 +6460,6 @@
    "zh_summary": "特斯拉手册将AI改称超级智能",
    "title_zh": "特朗普推SI更名 特斯拉手册改AI为超级智能",
    "sentiment": 0
-  },
-  {
-   "id": "244c540a65e7",
-   "title": "【视频】特斯拉净利润跌43%别急着唱衰，FSD才是真考题！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSUN1LWw2NF9uclNMV0ZseWlwQ0gxZkNUM0VJRVUzNGVEYTBHYl83ZV9oWHZvWEZPYTNHLTFNZEJMNVAtbGNsaFNRSkpGTFBIakJoeDVzcERvMFdlb3VRNXhtY2hnOF9LR2pv",
-   "source": "汽车之家",
-   "published_at": "2026-10-28T10:54:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T10:54:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVSUN1LWw2NF9uclNMV0ZseWlwQ0gxZkNUM0VJRVUzNGVEYTBHYl83ZV9oWHZvWEZPYTNHLTFNZEJMNVAtbGNsaFNRSkpGTFBIakJoeDVzcERvMFdlb3VRNXhtY2hnOF9LR2pv"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "特斯拉净利润跌43%，FSD才是真考题",
-   "title_zh": "【视频】特斯拉净利润跌43%别急着唱衰，FSD才是真考题！",
-   "sentiment": 0
-  },
-  {
-   "id": "04d546c3bc9b",
-   "title": "150元破解FSD！韩国80名特斯拉车主因非法激活智驾功能被移送检方 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WU202aDludVl1VUJRWGdFOGZkMmVxSXBiMWMwc0pmYVp5cHZfcG1FRS1BSUZSYmk3ZzNXNjh0U2pIaF9Za1locjFDbDdtM19sN2NTSUlCZGtKSUt1",
-   "source": "网通社",
-   "published_at": "2026-10-28T10:51:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-28T10:51:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WU202aDludVl1VUJRWGdFOGZkMmVxSXBiMWMwc0pmYVp5cHZfcG1FRS1BSUZSYmk3ZzNXNjh0U2pIaF9Za1locjFDbDdtM19sN2NTSUlCZGtKSUt1"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "韩国80名车主非法激活FSD被移送",
-   "title_zh": "150元破解FSD！韩国80名特斯拉车主因非法激活智驾功能被移送检方",
-   "sentiment": -1
   }
  ]
 }
