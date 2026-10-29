@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T18:07:34.446409+00:00",
+ "updated_at": "2026-10-29T18:22:34.040759+00:00",
  "market": {
-  "price": 404.92,
-  "change_pct": 0.17,
+  "price": 405.99,
+  "change_pct": 0.44,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（124条已评分）"
+     "note": "今日新闻情绪 +0.15（127条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.92 vs 20日均线 $379.32"
+     "note": "现价 $405.99 vs 20日均线 $379.37"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.2,
-   "ma20": 379.32,
-   "as_of": "2026-10-29T18:07:34.435853+00:00"
+   "implied_upside_pct": -1.5,
+   "ma20": 379.37,
+   "as_of": "2026-10-29T18:22:34.033505+00:00"
   },
-  "pe_ttm": 112.0,
+  "pe_ttm": 112.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.15,
-   "count": 124
+   "count": 127
   }
  },
  "meta": {
@@ -4360,12 +4360,17 @@
   },
   {
    "id": "2c0287163627",
-   "title": "Why Tesla’s Upside Is About More Than a SpaceX Merger - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3lzMFZhT2Zzb2F3ZWphSFRJZmd2eWVlVU9xSlEzbl92ZXU3SmR0Wl9fVDQ1MU5leDhUbDF6TzJEMndsVFZ6Xzk5VUZoSVdFUjAxdERJSGhOUkVNTUtIdE9jd2haX3U1UkNNeFpzbWF4UVpXVF9oQ2NfNkJGcUdLSVZXRE5RUGFCbEMyclZoWDBmaWM",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T17:17:49+00:00",
-   "outlets_count": 1,
+   "title": "Why Tesla’s Upside Is About More Than a SpaceX Merger - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkZ6d2VSejRhakk0NVV4bTJVbVBRU2VnaVpDbFNWeV92VVk3cHU5S09zRWJfQWYwTUkzbG83eWpBYW10dVZpMVgwTTI0dEo3TFQ2dkdHN0JnbmRycUxWbU9FRlFpNWROcV9IVEpBWVc1X0wtanpYSE9VY2lBSjN4T2xJRmxJNFl2cUotbm90VWMwam9TUVlkMmI1b1hybkthVWtFSElUamw4OGdWZjJXanVWenQ2b3FTTG9EdGh1Zm1jTEZZc1NXbFp0VncwSGxFVXFB",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-28T17:15:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-28T17:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkZ6d2VSejRhakk0NVV4bTJVbVBRU2VnaVpDbFNWeV92VVk3cHU5S09zRWJfQWYwTUkzbG83eWpBYW10dVZpMVgwTTI0dEo3TFQ2dkdHN0JnbmRycUxWbU9FRlFpNWROcV9IVEpBWVc1X0wtanpYSE9VY2lBSjN4T2xJRmxJNFl2cUotbm90VWMwam9TUVlkMmI1b1hybkthVWtFSElUamw4OGdWZjJXanVWenQ2b3FTTG9EdGh1Zm1jTEZZc1NXbFp0VncwSGxFVXFB"
+    },
     {
      "name": "MarketBeat",
      "published_at": "2026-10-28T17:17:49+00:00",
