@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T18:22:34.040759+00:00",
+ "updated_at": "2026-10-29T18:37:32.530607+00:00",
  "market": {
-  "price": 405.99,
-  "change_pct": 0.44,
+  "price": 405.27,
+  "change_pct": 0.26,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（127条已评分）"
+     "note": "今日新闻情绪 +0.14（126条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $405.99 vs 20日均线 $379.37"
+     "note": "现价 $405.27 vs 20日均线 $379.34"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.5,
-   "ma20": 379.37,
-   "as_of": "2026-10-29T18:22:34.033505+00:00"
+   "implied_upside_pct": -1.3,
+   "ma20": 379.34,
+   "as_of": "2026-10-29T18:37:32.525716+00:00"
   },
-  "pe_ttm": 112.3,
+  "pe_ttm": 112.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 127
+   "avg": 0.14,
+   "count": 126
   }
  },
  "meta": {
@@ -595,26 +595,6 @@
    "zh_summary": "SpaceX与特斯拉合并或可沿用马斯克青睐代码",
    "title_zh": "SpaceX与特斯拉合并中马斯克青睐的代码可免费沿用",
    "sentiment": 0
-  },
-  {
-   "id": "1a4730789b41",
-   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0",
-   "source": "InsideEVs",
-   "published_at": "2026-10-29T14:28:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-29T14:28:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "Cybercab改进结构电池可维修性",
-   "title_zh": "Model Y结构电池难维修，Cybercab解决此问题",
-   "sentiment": 1
   },
   {
    "id": "8cda8bae6500",
@@ -4279,6 +4259,26 @@
    "sentiment": 1
   },
   {
+   "id": "1a4730789b41",
+   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0",
+   "source": "InsideEVs",
+   "published_at": "2026-10-28T18:30:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-28T18:30:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "Cybercab改进结构电池可维修性",
+   "title_zh": "Model Y结构电池难维修，Cybercab解决此问题",
+   "sentiment": 1
+  },
+  {
    "id": "2d343c3708d4",
    "title": "Tesla Semi Bursts into Flames, Fire Shuts Down California Highway - autoevolution",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3ltRlc0QktzVVNIQ09WMmEwWGR1ZTdlSFBsSDQzRmhrTWVtTzJCNXBwTUZyMm14eFEzZ1pYX3VucEVzWmg4X3VQWVNyeHBWUWpvbFpMdUlDMC1ZMEQwSzNRNnhZbllvN3pNcDlyTW1IMXh2bUJSMFV0blNUOEh6X1ZHR1JGNTlyUjhBamMzWlNHMWZadjFIZzZPQVlKcjl5Zi1EOF9ncmlyb0Jkd25YSg",
@@ -4303,12 +4303,12 @@
    "title": "Tesla Semi catches fire in California: what we know - Teslarati",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xc1VFOFREaFRuTEtKcm00S1M3b0E2QUlZVWl4Y1I4QWdJdWphNkF1TWRkOTdLU2tUVkVjNzVqZ1o2bGJYVzl5ZFFaSi1lak9KRmx4VDlHMEhseG1kbjVUWTBlbkttNUZvYXZCOC1RUmdoMTdmSFd2R2N3UW5KOEE",
    "source": "Teslarati",
-   "published_at": "2026-10-28T18:11:15+00:00",
+   "published_at": "2026-10-28T17:40:08+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Teslarati",
-     "published_at": "2026-10-28T18:11:15+00:00",
+     "published_at": "2026-10-28T17:40:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xc1VFOFREaFRuTEtKcm00S1M3b0E2QUlZVWl4Y1I4QWdJdWphNkF1TWRkOTdLU2tUVkVjNzVqZ1o2bGJYVzl5ZFFaSi1lak9KRmx4VDlHMEhseG1kbjVUWTBlbkttNUZvYXZCOC1RUmdoMTdmSFd2R2N3UW5KOEE"
     }
    ],
