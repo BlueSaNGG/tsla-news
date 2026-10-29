@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T05:52:31.562338+00:00",
+ "updated_at": "2026-10-29T06:07:25.909965+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.20（5条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-29T05:52:31.557752+00:00"
+   "as_of": "2026-10-29T06:07:25.899228+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.2,
+   "count": 5
   }
  },
  "meta": {
@@ -113,12 +113,22 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbm5KSTRvSy1TbnA5LWZRbDJFVnNJcWI1NnhiajlISWdaUE1taWQzaGRXS1ZQZWVwcmtnOXZIWjhvWVczMVh1RkQ0ZE5GQzREd1hENVlBamtWS1pTYXNsME50aE4zcW0wQy1mQkhmYnFMdW1zVXBOQThic2x1VEhTenpFU3BBMHl6Y21NbWtyeXhxZ0hKaWJsaQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-29T05:36:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-29T05:36:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbm5KSTRvSy1TbnA5LWZRbDJFVnNJcWI1NnhiajlISWdaUE1taWQzaGRXS1ZQZWVwcmtnOXZIWjhvWVczMVh1RkQ0ZE5GQzREd1hENVlBamtWS1pTYXNsME50aE4zcW0wQy1mQkhmYnFMdW1zVXBOQThic2x1VEhTenpFU3BBMHl6Y21NbWtyeXhxZ0hKaWJsaQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-29T05:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXNySFBORzdqcW82VGNOdk1RODJKVU4wMzFYOGZvaTNpXzFpNmUyZzFZaWVQWk12TXBVaWRjdF9pdHExQWRKeVdvcDNnWTU2X0JTMlIwWVFDUnRJcGhlVlBJTVE1OXI3MktDbWF5VnhjaXdsdUhYbXduRzJIbGYwbU1ZZy13VklEbGpfeTQ1dWdQTHRoUHdiVTd5VmxYdGc"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-29T05:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnJqdm0wTmNLWUVVdTdaNktwRUNBaHB3YXdIa1lrRWZsNlNZeWRLcWgtSGpTeHJNMWJOQ2lqbGQ2ZS1YaXh3X0JnTmtZenNiVjZBRHZkaTRFc2VETHhBS3haZGM3czJRcVRQcFNjdlRRS1l3MVJ5QmZXUEw4TTZhR0dMYw"
     }
    ],
    "category": "车型产品",
@@ -126,6 +136,23 @@
    "zh_summary": "特斯拉欧洲销量强劲但存隐忧",
    "title_zh": "特斯拉在欧洲势头强劲，但仍有一大隐忧",
    "sentiment": 0
+  },
+  {
+   "id": "e78c837ae781",
+   "title": "业内：商业航天或跨越进入特斯拉时刻 智能化趋势显现 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdVZFTFR1d2c4RGczY3ZIZTNUYm1qdXFBWjBHZVhwQ1hfUXZoM284eW11ZU9zQzFFcHNfNjc2aVNOODlSalAtTlhQMTlwaEdXUV9jQUpSa0ppUFJQOEVOYTZIa3pTamwwQ3MxOV91UkQ",
+   "source": "中华网",
+   "published_at": "2026-10-29T05:31:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-29T05:31:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdVZFTFR1d2c4RGczY3ZIZTNUYm1qdXFBWjBHZVhwQ1hfUXZoM284eW11ZU9zQzFFcHNfNjc2aVNOODlSalAtTlhQMTlwaEdXUV9jQUpSa0ppUFJQOEVOYTZIa3pTamwwQ3MxOV91UkQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "3d726bb70d1b",
@@ -4315,6 +4342,23 @@
    "sentiment": 0
   },
   {
+   "id": "c0045a885f6a",
+   "title": "特斯拉计划用Optimus为Robotaxi充电 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wV1JPUmFPdDdzT3VSS0lBclpkcFd5Ukh2VkhWMGlTN2lwTEY5bV8yT2hsXzhvLUNvU2ptUEkwN2FLN2E2a3hGOUNOdTVLYllXb2owX3VHaGY0OHM",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T08:18:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T08:18:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wV1JPUmFPdDdzT3VSS0lBclpkcFd5Ukh2VkhWMGlTN2lwTEY5bV8yT2hsXzhvLUNvU2ptUEkwN2FLN2E2a3hGOUNOdTVLYllXb2owX3VHaGY0OHM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "ff63ebfdf85d",
    "title": "Tesla buyer says her new car's windshield is still cracked 2 months after Tesla promised a fix - The Cool Down",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRm85R0h0RUUwUER2RnItT2lkdFczOUNWaE84d240NV9oMHFLZFQ2SmctUUtnelE3Y25uazhtN203aHRreGs0MTk4eWJvNFFjYXVpTjJFQlBLWG80NW52MjJId3VnU0JvY0duOGoyV3VMQkVIcl9pNHhlbmJTcVVMSzg0bkdtOENRU090M0dR",
@@ -5884,31 +5928,6 @@
    "sentiment": 1
   },
   {
-   "id": "86387f1d7a1c",
-   "title": "特斯拉拟用Optimus为Robotaxi充电，终极目标无线充电 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRy1hbUJBbzFvUnB5amFKX0FOUm9oTkw5a2NQNjRmdVI3cFp5TWNieVg2YlhSM0R0WDlrNE9qWmZyVFBGekFLd2E0dG0",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-28T01:21:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-28T01:21:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRy1hbUJBbzFvUnB5amFKX0FOUm9oTkw5a2NQNjRmdVI3cFp5TWNieVg2YlhSM0R0WDlrNE9qWmZyVFBGekFLd2E0dG0"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T08:18:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wV1JPUmFPdDdzT3VSS0lBclpkcFd5Ukh2VkhWMGlTN2lwTEY5bV8yT2hsXzhvLUNvU2ptUEkwN2FLN2E2a3hGOUNOdTVLYllXb2owX3VHaGY0OHM"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉计划用Optimus为Robotaxi充电",
-   "title_zh": "特斯拉计划用Optimus为Robotaxi充电",
-   "sentiment": 1
-  },
-  {
    "id": "4749f840bbdf",
    "title": "Zoox、Waymo与特斯拉三辆无人出租车在奥斯汀窄路相遇陷入死锁 - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UdDF0WVk4dXBmcTJsOFJHdFIzeDhhTnF4LXIwUF9VUzlOR0M3OFNfSFNlYm8zYW9qRjYtRlJwZzRnZmZDYWtMbkNpXzRVUVdsYlgzdmI3MktjeDA",
@@ -6394,26 +6413,6 @@
    "session": "盘后",
    "zh_summary": "特斯拉股价重返400美元上方",
    "title_zh": "特斯拉股价重返400美元上方，市场反应积极",
-   "sentiment": 1
-  },
-  {
-   "id": "a542edc46768",
-   "title": "Tesla Cybercabs now outnumber Model Ys in Texas Robotaxi fleet - Drive Tesla Canada",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVhfQWI4QV9JTFNjblNRNUxqVndMQWFSOE9IMWh1d2liLUQ5bVF6dVIzdUlJQ0NURDlqaTRMTkhSNWNwc3VaX0tYN29saGlZLUlhQWJ4TnhLeVFsZlF0SUhGUm13eDFXSEJqZHhMdXIza3lXa2JUN0Fualoxc2NKZk9acWVQSTVtQmlQRkxSdWJOQQ",
-   "source": "Drive Tesla Canada",
-   "published_at": "2026-10-27T22:04:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Drive Tesla Canada",
-     "published_at": "2026-10-27T22:04:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVhfQWI4QV9JTFNjblNRNUxqVndMQWFSOE9IMWh1d2liLUQ5bVF6dVIzdUlJQ0NURDlqaTRMTkhSNWNwc3VaX0tYN29saGlZLUlhQWJ4TnhLeVFsZlF0SUhGUm13eDFXSEJqZHhMdXIza3lXa2JUN0Fualoxc2NKZk9acWVQSTVtQmlQRkxSdWJOQQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "德州Robotaxi车队Cybercab成主力",
-   "title_zh": "德州Robotaxi车队中Cybercab数量超过Model Y",
    "sentiment": 1
   }
  ]
