@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T06:52:26.803590+00:00",
+ "updated_at": "2026-10-29T07:07:34.275279+00:00",
  "market": {
   "price": 404.22,
   "change_pct": -0.8,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（12条已评分）"
+     "note": "今日新闻情绪 +0.20（15条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -1.0,
    "ma20": 376.78,
-   "as_of": "2026-10-29T06:52:26.797632+00:00"
+   "as_of": "2026-10-29T07:07:34.268606+00:00"
   },
   "pe_ttm": 111.8,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 12
+   "avg": 0.2,
+   "count": 15
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6527dc17d65d",
+   "title": "特斯拉Model 3停车状态车内起火 三星手机成怀疑对象 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bzB6UVRyWUJEc2tHS25BU2wzZzlHNlJGOE43YjM0SEk0YUdXOVZGUE9KWjVKRDljaGtyM3Q3YVpib2dLY1E2QTJRbEF2T09KRmxRc0NkQlA",
+   "source": "驱动之家",
+   "published_at": "2026-10-29T06:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-29T06:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bzB6UVRyWUJEc2tHS25BU2wzZzlHNlJGOE43YjM0SEk0YUdXOVZGUE9KWjVKRDljaGtyM3Q3YVpib2dLY1E2QTJRbEF2T09KRmxRc0NkQlA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
   {
    "id": "db168b87378b",
    "title": "Tesla wins court battle over delayed FSD features in South Korea (TSLA:NASDAQ) - Seeking Alpha",
@@ -133,7 +150,7 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmZVZFWHQwaTF1dWNrTC1OVW9pVDR0TVNVRFdNSURjcW9YZHBNWlUzMU50OGh1N2QxWnFRWENScEFCT3hLOXNuNm5GRFpUekR4X1phd3JIMWxIUVpuUmhlY1ZfMmU0MkROWl9GYnByUFlZSVhT",
    "source": "金融界",
    "published_at": "2026-10-29T06:22:19+00:00",
-   "outlets_count": 2,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "金融界",
@@ -144,10 +161,26 @@
      "name": "搜狐网",
      "published_at": "2026-10-29T06:22:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX29YZFRaeUQ4cGZkcjk5OWwwbktrWDBpY0pUTjI5eGZScDVkTUJjejZhdHE4c0l5UVJHdkVxYklCa1lYTXhuWVhxZlVybk1MRTNsMGFRYm1HUGE3eXBMMDI4T25UYlRnOXhJRWw0N0hSeGZkbzlseVE0NjI1b1dfdFl5cWw1ZC11"
+    },
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-29T06:22:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MUTZ0V3ltWEN6cW5oZlBoSkFvbUI4REVhR3JZenRRS2l1WXowbU9IcjZBOVFCVFE5bWZSaTJieGZOaVlRbEJRekJwVXdOTEh4NmpaTTVpdlNmVUxmNFE"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-29T06:47:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZdGVTVG9tZV9uS0tUcXY5YWhMNDlyZklxd2lfR200UFY0V3RYdkZJWlFsQTNwdVFaSXFYVzh1ZTkyTDFjTzcwWDRSNWN4NHc1a3FQTHREQ2NmMVlH"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-29T06:48:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVh5SWR3V3k4RlltVjFBR3hCUnJKeUtreWQ3N2xkVUdzYmdIQXF1MVNpcnkycTVOd01hcWY5N25VdWRvS2c5QUNMeG5wdWJQNXlNQnpJaEF3amlQZmQxVU5rdFJvR0ZhS2hXNzltYkJCc3BiY2wzdGFUcEVGS05IMEZyWFN1ZzhPd1ctaThoMGE2b3JaSGNRTVR6T284T1h3TER1VGJfZXBrR2s"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "特斯拉在雄安成立汽车销售服务公司",
    "title_zh": "特斯拉在雄安成立汽车销售服务公司 注册资本100万美元 - 金融界",
    "sentiment": 0
@@ -434,12 +467,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rMmp2dHZnaGVnNmV4UXo0RkYwampXYmR4TFZCV1JvWmNVTzBlUVVTUEFhQ3BnSGR2ZFB3ZDNxTDBuNFBrZDJCQ0R3N2FaS0tSU0oyQTU2VkY",
    "source": "驱动之家",
    "published_at": "2026-10-29T04:28:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-29T04:28:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rMmp2dHZnaGVnNmV4UXo0RkYwampXYmR4TFZCV1JvWmNVTzBlUVVTUEFhQ3BnSGR2ZFB3ZDNxTDBuNFBrZDJCQ0R3N2FaS0tSU0oyQTU2VkY"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-29T04:28:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uOXJVU2tvYUpsWC1pajVmNzJwWHh4c2VGdE44bGFlb09qbWNlcFUxSTVNa1kwb1huTWtUVzNFLU1TYW9ycEY3bGttSnE"
     }
    ],
    "category": "车型产品",
@@ -2875,26 +2913,6 @@
    "session": "盘中",
    "zh_summary": "机构预测特斯拉2026至2027年股价",
    "title_zh": "特斯拉2026至2027年股价预测",
-   "sentiment": 0
-  },
-  {
-   "id": "3ba2e7eda7ba",
-   "title": "Tesla Model Y L: Owner shares quick observations and impressions - Team-BHP",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ",
-   "source": "Team-BHP",
-   "published_at": "2026-10-28T13:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Team-BHP",
-     "published_at": "2026-10-28T13:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTZpNFgzRjE1Ti1LZGRCbVFjZ2pneF90Q181eG45T2tnYUNNdjg2V0Z4UE5wUjFoR0dLeFc3ZkFfTlZWMDlXelY1YXhlMUpOT2NzNFAyUGNlNzVlZlpLVm15TzZSMHYxWE5PT09BZ3lZTlR4RlRfcTZmWEE5UUdBVXpiR19jaUswRXRXRUdDN1hEVHRmWmVIQ9IBngFBVV95cUxPcjk4Y2dCbnFsU29VdEdQTTI2UEx6X3BtMWVoWmRWSTY4Y29Jb2ZwTFpDQ1FUUlZCbEJLYVNsMktudkZnS20zZWVhdVIzNzFhTTRDTGIxbEVRelVlZ1lMNm9zMUppV05VV0NER2htbzZkWW0yTWh1NmcyS1pwdXE3OG5WeF95MHFnajBwVnRTZGVleTljUUlPUWZBdE5vQQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "车主分享Model Y L初步体验印象",
-   "title_zh": "特斯拉Model Y L车主分享初步体验印象",
    "sentiment": 0
   },
   {
@@ -6344,26 +6362,6 @@
    "sentiment": 0
   },
   {
-   "id": "a063834420fa",
-   "title": "马斯克疯狂“整活”，特斯拉全面“跳票” - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR",
-   "source": "新浪财经",
-   "published_at": "2026-10-28T00:36:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-28T00:36:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘后",
-   "zh_summary": "马斯克多项计划再度跳票",
-   "title_zh": "马斯克疯狂“整活”，特斯拉全面“跳票” - 新浪财经",
-   "sentiment": -1
-  },
-  {
    "id": "bf65bd5f8332",
    "title": "TSLA Stock Slips Premarket: Morningstar Calls Tesla ‘Very Attractive’ After Earnings Rout — ‘Now’s A Good Time’ To Buy - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVRKc3kzZi1oeC1oSDk5ZW9tRl91ekJqZURhZnN4UmhiaTlLWFBpR1R5OTVKT1hFd2ItWFdhUVFHbUU4OEhYUUM1ZkhaTV9OWS1LNGpkR1Mwcm1WaWZMUnRkRTJLLTF0clhMb0RXU05VcXIwUUdsaldRX2wxcGFJVWtIZmFaUFZPS0t4RHI3ZVBXWFVMVHNQWkN0dEt5bm9iS0MyOG1hOUstWG5ZUGVN",
@@ -6382,6 +6380,31 @@
    "zh_summary": "晨星称特斯拉极具吸引力建议买入",
    "title_zh": "TSLA盘前下跌，晨星称特斯拉极具吸引力值得买入",
    "sentiment": 0
+  },
+  {
+   "id": "a063834420fa",
+   "title": "马斯克疯狂“整活”，特斯拉全面“跳票” - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43U0xZUEd5RHVWWTBWNTN4M3hVSEVHcHNtWWMydWFkY05YZVNnS3NUS1A0NkNPZ3N6SDRNMElNZVFaUkhDNkpaWDZaMVI3ZHNSa1ZTdlJyVnlnazRlQlpMR1g1OVRDc2xJSHdMVXBjOURTRlVyWVM4T1p1a3dNUQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-28T00:36:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-28T00:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43U0xZUEd5RHVWWTBWNTN4M3hVSEVHcHNtWWMydWFkY05YZVNnS3NUS1A0NkNPZ3N6SDRNMElNZVFaUkhDNkpaWDZaMVI3ZHNSa1ZTdlJyVnlnazRlQlpMR1g1OVRDc2xJSHdMVXBjOURTRlVyWVM4T1p1a3dNUQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-28T00:36:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkN3J1YWhyRVluQXFZMDIzdEJ1WlRtejd5Y2JYNTlHdHVUY0hOZTAyRU8xOGhIOUlsV2M3UDUwRGo4eXVUY1VobUM1MWQtWWVSMmhJMndsUFk4blpsaEhsM1pZOVdOQTJaTFJlUFFR"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后",
+   "zh_summary": "马斯克多项计划再度跳票",
+   "title_zh": "马斯克疯狂“整活”，特斯拉全面“跳票” - 新浪财经",
+   "sentiment": -1
   },
   {
    "id": "45c8852d71d0",
