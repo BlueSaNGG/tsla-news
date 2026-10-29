@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T19:22:43.208371+00:00",
+ "updated_at": "2026-10-29T19:37:39.727239+00:00",
  "market": {
-  "price": 404.63,
-  "change_pct": 0.1,
+  "price": 403.73,
+  "change_pct": -0.12,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.13（128条已评分）"
+     "note": "今日新闻情绪 +0.11（132条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.63 vs 20日均线 $379.30"
+     "note": "现价 $403.73 vs 20日均线 $379.26"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.1,
-   "ma20": 379.3,
-   "as_of": "2026-10-29T19:22:43.200809+00:00"
+   "implied_upside_pct": -0.9,
+   "ma20": 379.26,
+   "as_of": "2026-10-29T19:37:39.718584+00:00"
   },
-  "pe_ttm": 111.9,
+  "pe_ttm": 111.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.13,
-   "count": 128
+   "avg": 0.11,
+   "count": 132
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6904d841ce03",
+   "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWF3X1JTYXYtY3o0SWRKLVNCb1ZvTkt6OWVmTk5KaGVNaTBrUUhxR19uSDhES1RNeDdSeE03X0pBM3lGNC0zRm5Dalo3UFBhRkRMdEdadmcxV1Z5Smtlb2ZsQ25RZXlPTHM4OFh1M1FPNTloT0VxcnhOLVFPTXJWSEhCTDZ0Vm8",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-29T19:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-29T19:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWF3X1JTYXYtY3o0SWRKLVNCb1ZvTkt6OWVmTk5KaGVNaTBrUUhxR19uSDhES1RNeDdSeE03X0pBM3lGNC0zRm5Dalo3UFBhRkRMdEdadmcxV1Z5Smtlb2ZsQ25RZXlPTHM4OFh1M1FPNTloT0VxcnhOLVFPTXJWSEhCTDZ0Vm8"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "fce2e6ff651b",
+   "title": "Tesla video contradicts women’s robbery claim, both arrested for false report - Click2Houston",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWlSV3RvblpDeS1COHI5RHBfYzZsbUk5YlRFM2pGd0sxQlpUVE1Yc2x4alJBTE9YRE91MDJid3J0d2o4WmFRVkhIdy1Kenpya2VxaEI2Xy1DLW1ZT0tCeVRVWlJvZjk3bUFUTHZnSkx3RGdxdkFSdEhMY1JoZUNYNm03TmVBUW9PdmpZZEZFNUlMdXJXMGY0dzVOVmZGcUYwcHBsWGFlYm5DUUlRa0p5UzExVTV4bGZuLUxpUjFEZEdXREIxb0JJ",
+   "source": "Click2Houston",
+   "published_at": "2026-10-29T19:29:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Click2Houston",
+     "published_at": "2026-10-29T19:29:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWlSV3RvblpDeS1COHI5RHBfYzZsbUk5YlRFM2pGd0sxQlpUVE1Yc2x4alJBTE9YRE91MDJid3J0d2o4WmFRVkhIdy1Kenpya2VxaEI2Xy1DLW1ZT0tCeVRVWlJvZjk3bUFUTHZnSkx3RGdxdkFSdEhMY1JoZUNYNm03TmVBUW9PdmpZZEZFNUlMdXJXMGY0dzVOVmZGcUYwcHBsWGFlYm5DUUlRa0p5UzExVTV4bGZuLUxpUjFEZEdXREIxb0JJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "1d8f7efee41b",
    "title": "Worker alleges Tesla invented her disability - then fired her over it - www.hcamag.com",
@@ -178,12 +212,17 @@
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNVZxeWxFMlpvdWkxZnh4bWxBTlExUy1sdjBaNXpac0FXWnM2c2x6LWw0WXBjZ2VKazlvTnMtdXNJUXpBYVRubEJDcTh1Ul9sM3JPMEIyQ3hwdWhDZlBFTjBoUVZVQ0R0Yl9kRnFKbFRNRlcxb2NkSzV3c3hjTTBOcXh2S1RHRDREYmNNSnVlSnhFT0pESWw4V2ZmSjNtRUJiMmxBTXl4SUhpajF0RVdDOEQwZk96OTllRklsd1laTkJaY3IwZEJpeWhIM0toNmpXMjgtaXVjMTFMbkQyVENsOENjX0dtLXYyaUM5OHRB",
    "source": "KING5.com",
    "published_at": "2026-10-29T18:43:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "KING5.com",
      "published_at": "2026-10-29T18:43:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNVZxeWxFMlpvdWkxZnh4bWxBTlExUy1sdjBaNXpac0FXWnM2c2x6LWw0WXBjZ2VKazlvTnMtdXNJUXpBYVRubEJDcTh1Ul9sM3JPMEIyQ3hwdWhDZlBFTjBoUVZVQ0R0Yl9kRnFKbFRNRlcxb2NkSzV3c3hjTTBOcXh2S1RHRDREYmNNSnVlSnhFT0pESWw4V2ZmSjNtRUJiMmxBTXl4SUhpajF0RVdDOEQwZk96OTllRklsd1laTkJaY3IwZEJpeWhIM0toNmpXMjgtaXVjMTFMbkQyVENsOENjX0dtLXYyaUM5OHRB"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-29T18:43:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2FvT2o4YTQybUFoNC0waVZVcmpTTGx5dHlvWWhZUlc2UUx6ZVhGbXZmcFREdXJVRUhGMzhKZTRzRjdFd090Tzl2TWtlNllCY3RNT1dWOU02dkVLYzJoNEhnbWNPNXVra3B0bVpjUWNuTi0xWXBKMS1RLU5ESm1lVXRsVWo4SVVXRWJJWkF5LVk"
     }
    ],
    "category": "其他",
@@ -191,6 +230,23 @@
    "zh_summary": "司机倒车撞伤收车员后被捕",
    "title_zh": "阿灵顿司机倒车撞伤收车员后被捕",
    "sentiment": 0
+  },
+  {
+   "id": "3ee750d205f5",
+   "title": "Tesla Model Y earns five-star Green NCAP rating with record-low lifecycle emissions - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTZpTDdPbEpfNjRFUDk0SlFhaEdxc0xkWGpRSjA3aFk5eGpBc1JvbVhlUGVRb3VJMy1xNnl4NkxkQ2VweVVlbkR1dDZGcXVCQmVKYjRBaUV0SjFaZlEySndCeERSN3c0bnJSdV85T2ZHTEliaGtURGdOWGE3S3lnWkZmZk9KUVRDZVVKbGpyNE81YW0zT3VJ",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-29T18:24:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-29T18:24:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTZpTDdPbEpfNjRFUDk0SlFhaEdxc0xkWGpRSjA3aFk5eGpBc1JvbVhlUGVRb3VJMy1xNnl4NkxkQ2VweVVlbkR1dDZGcXVCQmVKYjRBaUV0SjFaZlEySndCeERSN3c0bnJSdV85T2ZHTEliaGtURGdOWGE3S3lnWkZmZk9KUVRDZVVKbGpyNE81YW0zT3VJ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "bf1c3e45d65d",
@@ -6401,71 +6457,6 @@
    "zh_summary": "特斯拉越南招聘5个岗位",
    "title_zh": "特斯拉在越南招聘5个岗位",
    "sentiment": 0
-  },
-  {
-   "id": "c39a4c611cfc",
-   "title": "Turo Tesla FSD Rentals: 0 Safety Data Exists [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMW81V0V2ak1idmJQOWp3NDQ2dHdyNDB5clU5MEZJVWJlRzdscWdrNTFSMG1oOU9feDlCekU3MU1rUlQ4UlpueFkwUEw1S3d2RjNsZXp4TmRGalFIQmdLa2RYRFdWT0FkaFVoN05xMDhLLVFPV3c5SDlnNFlzc2xWRUIyN191dw",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-28T10:37:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-28T10:37:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMW81V0V2ak1idmJQOWp3NDQ2dHdyNDB5clU5MEZJVWJlRzdscWdrNTFSMG1oOU9feDlCekU3MU1rUlQ4UlpueFkwUEw1S3d2RjNsZXp4TmRGalFIQmdLa2RYRFdWT0FkaFVoN05xMDhLLVFPV3c5SDlnNFlzc2xWRUIyN191dw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Turo特斯拉FSD租赁零安全数据",
-   "title_zh": "Turo特斯拉FSD租赁尚无安全数据",
-   "sentiment": -1
-  },
-  {
-   "id": "cb236e760128",
-   "title": "9月新能源二手车保值率出炉：理想超越特斯拉拿下第一 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TWmdnSDZzeC1mY1QwXzNuem5uNUkyZ05zcW90OVlnakh0a0dvZGNBS3lMVU1NRTlmdUFzRTRZRDRWRnFJWHhsaW5uMG5zTkJLdnVoOEgtY2M",
-   "source": "驱动之家",
-   "published_at": "2026-10-28T10:37:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-28T10:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TWmdnSDZzeC1mY1QwXzNuem5uNUkyZ05zcW90OVlnakh0a0dvZGNBS3lMVU1NRTlmdUFzRTRZRDRWRnFJWHhsaW5uMG5zTkJLdnVoOEgtY2M"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-28T10:37:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVG5jS3daUW9OS1habjZ4dkdrYk9mNGx3TTRiYU5vdTNDRGpsT1RyZmw3RDZ0X3dtazBvU2hkdkUySlgxTmh5LU1VQXNQWnpSTFVSN1BNS2lZcTN3Q3FSckRBN0hWWW40b3BSbkZCaUpvOW11azRVU29YQndaMEU"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "9月新能源二手车保值率理想超特斯拉",
-   "title_zh": "9月新能源二手车保值率出炉：理想超越特斯拉拿下第一",
-   "sentiment": -1
-  },
-  {
-   "id": "a044848d333a",
-   "title": "Turo Verifies Tesla FSD Rentals via API, Oct. 28 [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWJjVXpqTmVrNUpEUzhnR0VyMmYwVWwwUWtDNll6ZENiRnNCRVVmWkpXTXczQXRuMVZtS25ZZ0lwelBWUUlyaGp6T1l4aUl1Nl9yYU52Uzl6RUtnd0tUMDNlRWphWVNIdVpvYWR3V1dkaGFVTEs1cGFYT0NueTBQZU55Z2dsMWRvNURR",
-   "source": "shattered.io",
-   "published_at": "2026-10-28T10:34:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-28T10:34:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWJjVXpqTmVrNUpEUzhnR0VyMmYwVWwwUWtDNll6ZENiRnNCRVVmWkpXTXczQXRuMVZtS25ZZ0lwelBWUUlyaGp6T1l4aUl1Nl9yYU52Uzl6RUtnd0tUMDNlRWphWVNIdVpvYWR3V1dkaGFVTEs1cGFYT0NueTBQZU55Z2dsMWRvNURR"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Turo通过API验证特斯拉FSD租赁",
-   "title_zh": "Turo通过API验证特斯拉FSD租赁车辆",
-   "sentiment": 1
   }
  ]
 }
