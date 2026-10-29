@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T01:22:36.356490+00:00",
+ "updated_at": "2026-10-29T01:37:28.395251+00:00",
  "market": {
-  "price": 407.46,
-  "change_pct": 4.04,
+  "price": 404.22,
+  "change_pct": -0.8,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（196条已评分）"
+     "note": "今日新闻情绪 -0.00（202条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $407.46 vs 20日均线 $374.31"
+     "note": "现价 $404.22 vs 20日均线 $376.78"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.8,
-   "ma20": 374.31,
-   "as_of": "2026-10-29T01:22:36.348389+00:00"
+   "implied_upside_pct": -1.0,
+   "ma20": 376.78,
+   "as_of": "2026-10-29T01:37:28.386597+00:00"
   },
-  "pe_ttm": 112.7,
+  "pe_ttm": 111.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 196
+   "avg": -0.0,
+   "count": 202
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3289202f1f8d",
+   "title": "机器人临时充当插枪工 特斯拉Robotaxi充电瞄准无线方案 - 太平洋汽车",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zV0h2ZXhXOHZJZWhXaVZ5dXRqaHdFOHhCNFN0bFpNbG85T3h2Vjl0cmNMR1c4OFUzSGE3emlncW5WVWdSUFpQV3ZCck4wMVBXaDd1VFJHb245MUtaRmc",
+   "source": "太平洋汽车",
+   "published_at": "2026-10-29T01:26:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "太平洋汽车",
+     "published_at": "2026-10-29T01:26:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zV0h2ZXhXOHZJZWhXaVZ5dXRqaHdFOHhCNFN0bFpNbG85T3h2Vjl0cmNMR1c4OFUzSGE3emlncW5WVWdSUFpQV3ZCck4wMVBXaDd1VFJHb245MUtaRmc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "1e2d770fe2bf",
+   "title": "二手特斯拉怎么买靠谱？建议先选车型，再核验平台服务边界 - 新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oS1R0WEFHNVFIWW1HUG5lUW5pVFE0TlRZU1Q3ZmpWR1hGSXFIU3o5Zms0UUFkT0phck9CNFJqY2R3UVRyY1dFUnZpblM1dlJBOGkwT0Z2QmhSUzVlWTlwcTlJX0wtT2dVUjJsT0FVVV9xR1h0b3c",
+   "source": "新浪新闻_手机新浪网",
+   "published_at": "2026-10-29T01:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪新闻_手机新浪网",
+     "published_at": "2026-10-29T01:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oS1R0WEFHNVFIWW1HUG5lUW5pVFE0TlRZU1Q3ZmpWR1hGSXFIU3o5Zms0UUFkT0phck9CNFJqY2R3UVRyY1dFUnZpblM1dlJBOGkwT0Z2QmhSUzVlWTlwcTlJX0wtT2dVUjJsT0FVVV9xR1h0b3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "f024425b5dd0",
    "title": "Tesla FSD V14: 2x Fewer Interventions, No Data [2026] - https://tech-insider.org/",
@@ -766,6 +800,23 @@
    "zh_summary": "华尔街日报聘请奥凯恩报道特斯拉",
    "title_zh": "华尔街日报聘请奥凯恩报道特斯拉",
    "sentiment": 0
+  },
+  {
+   "id": "8e5af811d814",
+   "title": "New Bill Would Bring Back U.S. EV Tax Credit, Doubled to $15K - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZ0UV9aTnp1VENMOFEzYXdhN2tBbTVpZDU1a3dpS1BsOUU1b2E2eDN1QnE2azRGdkt4ajlaa0JydW1keFhDTzZ2VDVTVUhWN0pnZk5KejhKU3BLMFpNOUZ2MjdjbGNjc1BXVWZ6c2tCb1I1Z1NGaVJ4SXJNS3hIbTRHN3V4T3AtZl9yZl9IYnd1S1kydnNGSVFWaGU",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-28T19:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-28T19:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZ0UV9aTnp1VENMOFEzYXdhN2tBbTVpZDU1a3dpS1BsOUU1b2E2eDN1QnE2azRGdkt4ajlaa0JydW1keFhDTzZ2VDVTVUhWN0pnZk5KejhKU3BLMFpNOUZ2MjdjbGNjc1BXVWZ6c2tCb1I1Z1NGaVJ4SXJNS3hIbTRHN3V4T3AtZl9yZl9IYnd1S1kydnNGSVFWaGU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "a05cf0de8458",
@@ -4984,6 +5035,23 @@
    "sentiment": 0
   },
   {
+   "id": "2b616a05282c",
+   "title": "特斯拉拟用Optimus给Robotaxi充电，2027年交付 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4OXh5TjZ1azNWZThOU1pRbm1OVjlUMlJ6cnUzNzJjMXFiRS1qWV9Wd3NmOXRDcWVKQ3hybDY2cFdQMmRqd3FYVkt4bHNKTklvZmZIcDJYS3RLejA",
+   "source": "汽车之家",
+   "published_at": "2026-10-28T01:45:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-28T01:45:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4OXh5TjZ1azNWZThOU1pRbm1OVjlUMlJ6cnUzNzJjMXFiRS1qWV9Wd3NmOXRDcWVKQ3hybDY2cFdQMmRqd3FYVkt4bHNKTklvZmZIcDJYS3RLejA"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘后"
+  },
+  {
    "id": "569e23e40852",
    "title": "Tesla Robotaxi vs Waymo: 438K Miles vs 7x Gap [2026] - shattered.io",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSkpiU0tqbUI1d0RnV2tmT2w2by1KS0YwaEpndTdhcGItQXpaZm5vXzJQZ2NScFVyOG0ySXJqQ005VWxjaXhsdjE5bldsb201VThfTEltbUtVTDNNdlFzVGdERS0xX3BGcUoyTnYwaDV3VXJROC0tMmwyYw",
@@ -5187,40 +5255,6 @@
    "zh_summary": "鲸鱼建仓1100万美元特斯拉看涨期权",
    "title_zh": "鲸鱼在特斯拉股价突破210日均线之际建仓1100万美元看涨期权",
    "sentiment": 1
-  },
-  {
-   "id": "86387f1d7a1c",
-   "title": "特斯拉拟用Optimus为Robotaxi充电，终极目标无线充电 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRy1hbUJBbzFvUnB5amFKX0FOUm9oTkw5a2NQNjRmdVI3cFp5TWNieVg2YlhSM0R0WDlrNE9qWmZyVFBGekFLd2E0dG0",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-28T01:21:53+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-28T01:21:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRy1hbUJBbzFvUnB5amFKX0FOUm9oTkw5a2NQNjRmdVI3cFp5TWNieVg2YlhSM0R0WDlrNE9qWmZyVFBGekFLd2E0dG0"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-28T01:45:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4OXh5TjZ1azNWZThOU1pRbm1OVjlUMlJ6cnUzNzJjMXFiRS1qWV9Wd3NmOXRDcWVKQ3hybDY2cFdQMmRqd3FYVkt4bHNKTklvZmZIcDJYS3RLejA"
-    },
-    {
-     "name": "金融界",
-     "published_at": "2026-10-28T10:45:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1ZlJKQmhhMGNWT0pNdXhRQWREenphRlVMNi1ma3dkYTRxb0JjSHlsLWt3azF6Uks4OFZTTmR2QklYcTFtUlVqd1FjZDFsUXNSM2NLOGU1QkUySkNXbDZxMWJRQ1R6VUpoNm1vQlUyaw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉拟用Optimus为Robotaxi充电",
-   "title_zh": "特斯拉拟用Optimus给Robotaxi充电，2027年交付",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -1.22,
-    "window_h": 2.0
-   }
   },
   {
    "id": "4749f840bbdf",
@@ -6373,66 +6407,6 @@
    "zh_summary": "特斯拉Robotaxi将很快扩展至迈阿密坦帕",
    "title_zh": "马斯克称特斯拉Robotaxi海滩扩展至迈阿密和坦帕即将到来",
    "sentiment": 1
-  },
-  {
-   "id": "2d4f441ac94c",
-   "title": "Dark Helmet Tesla Model S Plaid Wins at Willow Springs - My Car Portal",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnhITlFFLTlqRWEtcFhINVNrWG5ZdEd4V2ZIa0ZubExUcHVKZnVYRFFjY3pud0NQelAwNFVZcnZScXhBc3JmVUlxQ193ejZUM2kzeHZncjBzSy1lQ0FTMDBoUVQwVzlmaGFvenl6bENwLU9KNGJ5OFVSTU5GNVRtblE4QUNSUQ",
-   "source": "My Car Portal",
-   "published_at": "2026-10-27T18:07:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "My Car Portal",
-     "published_at": "2026-10-27T18:07:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnhITlFFLTlqRWEtcFhINVNrWG5ZdEd4V2ZIa0ZubExUcHVKZnVYRFFjY3pud0NQelAwNFVZcnZScXhBc3JmVUlxQ193ejZUM2kzeHZncjBzSy1lQ0FTMDBoUVQwVzlmaGFvenl6bENwLU9KNGJ5OFVSTU5GNVRtblE4QUNSUQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "特斯拉Model S Plaid柳泉赛道获胜",
-   "title_zh": "特斯拉Model S Plaid在柳泉赛道夺冠",
-   "sentiment": 0
-  },
-  {
-   "id": "76f1fbf535ff",
-   "title": "Tesla Robotaxi Fleet Tops 1,000 in Texas as Cybercab Passes Model Y - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG1STFpFeEZSSkZ2NFk3anl0RVBNLUdaNFFOVTVkZGh3bF9qMzFKMkF2clpWUUtzdktaamRZUDZFQk9vYVZBRmxDVWRBdTdvMVE5U3RKLVg1UlV3UlJaQ2lwS0JmRkFHZ1lrM09TQU1yQmZiYU84VzJ0TlUySzFOZ21yMGQ2VDdTaWxCeWtvNGZxNnJRUjU3RTZrN0FERmpjUUZibg",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-27T18:05:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-27T18:05:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG1STFpFeEZSSkZ2NFk3anl0RVBNLUdaNFFOVTVkZGh3bF9qMzFKMkF2clpWUUtzdktaamRZUDZFQk9vYVZBRmxDVWRBdTdvMVE5U3RKLVg1UlV3UlJaQ2lwS0JmRkFHZ1lrM09TQU1yQmZiYU84VzJ0TlUySzFOZ21yMGQ2VDdTaWxCeWtvNGZxNnJRUjU3RTZrN0FERmpjUUZibg"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉德州Robotaxi车队超1000辆",
-   "title_zh": "特斯拉德州Robotaxi车队超1000辆，Cybercab超越Model Y",
-   "sentiment": 2
-  },
-  {
-   "id": "7831f5833eaa",
-   "title": "Tesla disabled homeowner's recalled Powerwall without notice, and service isn't until February - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3pMYTJzOWFXOW93QVRLMjhidWQ0cnplb1lTdExzOUxCSkdVMWl4RkstZERSalJVTGo2RUxyZ1I1QnRya0t2MHVtRTg1Ny13UDZaN0ZBbWtnQUtXUGtNYU82UzFGWkVid19BQ2RMdWkwXzJjRDBjVTg5UVNpNksxLWxXUTRFN2RZRi1vbmFB",
-   "source": "The Cool Down",
-   "published_at": "2026-10-27T18:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-10-27T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3pMYTJzOWFXOW93QVRLMjhidWQ0cnplb1lTdExzOUxCSkdVMWl4RkstZERSalJVTGo2RUxyZ1I1QnRya0t2MHVtRTg1Ny13UDZaN0ZBbWtnQUtXUGtNYU82UzFGWkVid19BQ2RMdWkwXzJjRDBjVTg5UVNpNksxLWxXUTRFN2RZRi1vbmFB"
-    }
-   ],
-   "category": "能源",
-   "session": "盘中",
-   "zh_summary": "特斯拉擅自停用召回的Powerwall",
-   "title_zh": "特斯拉未经通知停用业主召回的Powerwall，维修要等到二月",
-   "sentiment": -1
   }
  ]
 }
