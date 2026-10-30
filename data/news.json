@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T06:37:33.817656+00:00",
+ "updated_at": "2026-10-30T06:52:29.786462+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.57（7条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.33（9条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T06:37:33.801643+00:00"
+   "as_of": "2026-10-30T06:52:29.780423+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.57,
-   "count": 7
+   "avg": 0.33,
+   "count": 9
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a9567dcac22f",
+   "title": "The Case Against a SpaceX and Tesla Merger - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnBvSTYxa2RpNjRMLXRMZW1TT1RTb0tZaF9EbWt5YXltbWFyMlJISkxPZnRsc3FBMUE4QnpLZ2NDMVpfQ0pEcjk2akFNTDVDclVLeE9FaHU5TVpjelpra3ZZU2RSZ2ZTRVdOZ25Tb1dqYzd0dUJRb292bzhSNTJ0Sk1vYjJVRFdiSVlycGVn",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-30T06:38:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-30T06:38:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnBvSTYxa2RpNjRMLXRMZW1TT1RTb0tZaF9EbWt5YXltbWFyMlJISkxPZnRsc3FBMUE4QnpLZ2NDMVpfQ0pEcjk2akFNTDVDclVLeE9FaHU5TVpjelpra3ZZU2RSZ2ZTRVdOZ25Tb1dqYzd0dUJRb292bzhSNTJ0Sk1vYjJVRFdiSVlycGVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "1b857fb00d99",
    "title": "【视频】特斯拉跑车还没交付，为什么已经赢了一场？ - 汽车之家",
@@ -1496,6 +1513,23 @@
    "zh_summary": "拖车后Model 3安全带与泊车辅助故障",
    "title_zh": "车主称185美元拖车导致Model 3安全带与泊车辅助故障",
    "sentiment": 0
+  },
+  {
+   "id": "c3efc12fe429",
+   "title": "【图】可回收火箭一样移动？特斯拉全新Roadster发布 刷新认知 国内可订 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T23:00:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T23:00:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjeUp3cE1FZkRxdUwyUElWb0hLbFZGOEc0WldKNXNCdUxkaGFfSi1Kb2ZSN2VwbGlRRG9DYWJ5OURtME0wTE9WS1ZUNm1rTjJ4Y1VlX1gza3M4ZXJwQ2ZLZDln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "c3b5fc7989e3",
@@ -6440,46 +6474,6 @@
    "session": "盘后",
    "zh_summary": "保险公司为特斯拉Roadster报价",
    "title_zh": "询问保险公司对特斯拉Roadster的报价结果",
-   "sentiment": 0
-  },
-  {
-   "id": "6767f3a3d6e5",
-   "title": "Tesla Ends Up Below a Bel-Air Home, Woman Blames It On Full Self-Driving Mode - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUdhYnQxNElPM3VtODI0ZWNIRkltZ0xKcEtwbm1pZ3dOQnRlMzVhN0czc0pMeHRSX1VZQ3ZLdWRzc2ptaTBOS0pwWnppZEtVYnRfTURZZGwxRjZseEtVdk8wWW5VVWgyWEVxczZJUGFfTkxuTUgxa3l3NjJENHhiMjE4MFIzU0o3VTNwajlPSUE4aWtzUGc",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-28T20:06:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-28T20:06:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUdhYnQxNElPM3VtODI0ZWNIRkltZ0xKcEtwbm1pZ3dOQnRlMzVhN0czc0pMeHRSX1VZQ3ZLdWRzc2ptaTBOS0pwWnppZEtVYnRfTURZZGwxRjZseEtVdk8wWW5VVWgyWEVxczZJUGFfTkxuTUgxa3l3NjJENHhiMjE4MFIzU0o3VTNwajlPSUE4aWtzUGc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉冲入贝莱尔民宅车主归咎FSD",
-   "title_zh": "特斯拉冲入贝莱尔住宅下，车主归咎于FSD",
-   "sentiment": -1
-  },
-  {
-   "id": "12d296851702",
-   "title": "Tesla Considered Other Innovative Ways to Color the Cybercab - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG9LbmhuNTNZNzBuckc1ZzdpV3UtVk1qbEhMMGV2QWlUNklNN0MzUExKMTV2eHR6djZFeGhzRk1MeDZTdzV6eDRHQXlvTnc0THZmem8tMU52cHVlZ2JQYXpGUUo1VTRZejFtNnJveVVqUG5idWtycUZjTVhMSjNDS09pNzgxLTZGYUJPbm9iQnRGYzJVUFdYVWJTOU9SWnV4",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-28T20:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-28T20:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMG9LbmhuNTNZNzBuckc1ZzdpV3UtVk1qbEhMMGV2QWlUNklNN0MzUExKMTV2eHR6djZFeGhzRk1MeDZTdzV6eDRHQXlvTnc0THZmem8tMU52cHVlZ2JQYXpGUUo1VTRZejFtNnJveVVqUG5idWtycUZjTVhMSjNDS09pNzgxLTZGYUJPbm9iQnRGYzJVUFdYVWJTOU9SWnV4"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉曾考虑Cybercab其他上色方式",
-   "title_zh": "特斯拉曾考虑给Cybercab上色的其他创新方式",
    "sentiment": 0
   }
  ]
