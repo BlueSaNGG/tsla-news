@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T18:07:29.458867+00:00",
+ "updated_at": "2026-10-30T18:22:33.101074+00:00",
  "market": {
-  "price": 395.36,
-  "change_pct": -1.97,
+  "price": 395.1,
+  "change_pct": -2.03,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（124条已评分）"
+     "note": "今日新闻情绪 +0.07（127条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $395.36 vs 20日均线 $380.44"
+     "note": "现价 $395.10 vs 20日均线 $380.46"
     },
     {
      "key": "分析师动向",
@@ -49,15 +49,15 @@
    "target_median": 400.0,
    "target_count": 19,
    "implied_upside_pct": 1.2,
-   "ma20": 380.44,
-   "as_of": "2026-10-30T18:07:29.451414+00:00"
+   "ma20": 380.46,
+   "as_of": "2026-10-30T18:22:33.096614+00:00"
   },
   "pe_ttm": 109.3,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+1.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 124
+   "avg": 0.07,
+   "count": 127
   }
  },
  "meta": {
@@ -106,6 +106,23 @@
    "zh_summary": "特斯拉取消购车推荐奖励，改以FSD奖励车主",
    "title_zh": "特斯拉取消购车推荐奖励，现以FSD奖励推荐车主",
    "sentiment": 0
+  },
+  {
+   "id": "19a07554e7fe",
+   "title": "Tesla owner's $8,000 tax warning to EV drivers as 'only downside' exposed - Yahoo Finance Australia",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkpWZW90Mk1nY1N2UGh1bUdCelUwNHZwYnFDV0JpWFItSl92YV90eUxval9NQTNXMUhKVXR5VkwxRzF6ODM3aWxOdDV3THAyV2lRbi1ET3I2TG02bmZGaWVnd1BLZkM0eGxsZUljQWRscnVsWDdXOTNMQmRCSGZ2M1hGTUk3SHFoWERVdzlZZ2NqUlZ1dDBVRmpzcXJGRmhWeE1pV1IzNV9MOEJWRzhGeHNCQ1h5V1pTZEp4UUtQQTZOSi03LVN4VDBqZEtUZUVZVkYzVzE1NW0",
+   "source": "Yahoo Finance Australia",
+   "published_at": "2026-10-30T18:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-30T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkpWZW90Mk1nY1N2UGh1bUdCelUwNHZwYnFDV0JpWFItSl92YV90eUxval9NQTNXMUhKVXR5VkwxRzF6ODM3aWxOdDV3THAyV2lRbi1ET3I2TG02bmZGaWVnd1BLZkM0eGxsZUljQWRscnVsWDdXOTNMQmRCSGZ2M1hGTUk3SHFoWERVdzlZZ2NqUlZ1dDBVRmpzcXJGRmhWeE1pV1IzNV9MOEJWRzhGeHNCQ1h5V1pTZEp4UUtQQTZOSi03LVN4VDBqZEtUZUVZVkYzVzE1NW0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4cf1cca1875c",
@@ -247,7 +264,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZlTWhQaUZpeDd6ekpYdjdMTFQ3blFMckZ0b3VLSmQ3TXMxekpYeXpwbUtraXAzYnp3Wk1nREhNVU1WMjFaVVR5WDdzLWRPOUFBMGxmSTh5aERKQmt2bnJfcU9PVWNGSGlFdm5WRGNTTXJqaXFRTFpwRVNQZUJMSGtlMWlPTXA4",
    "source": "GuruFocus",
    "published_at": "2026-10-30T16:45:29+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "GuruFocus",
@@ -258,13 +275,22 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-30T17:20:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGZHVWwyYXNnMFptWHVONEtUUGZMVDVKYWtuWkczdXNxYTdvZHhrVlItV3llSUJFbkF4TjNMTjloNko4d3B5RnhkbDk2Zm0wclNkN3daR1lCYU1CSElaSFlNcVJLeENrT1p2MW9MWlE2eGY1SmxhOGdpcUhncEtFY2xtRm5SSVNkRlBpN2l0dGdzNDNKTVVldE53"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-30T17:20:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTW1IUXRfa2tJQ1dFRkh2LVBVWHlMd0FMX0JWTkVVVXh1Y1daMUk4Qm1YT0tyeWhoMlBNV012ZnVrNEVlYVBWWkl1ZGJyWkNkTWxIc0d3N2loQTZNT1Q2QjFBaW9WU3FCcThLUFRyblExeHBtc2hYVXY5YzQyR1NrTWhIN3hEaVRnSFp2MGkyLXJodVJZdU9HOW9rVExkQ2FCTHo4TWR3"
     }
    ],
    "category": "政策监管",
    "session": "盘中",
    "zh_summary": "SpaceX与特斯拉交易面临中国问题",
    "title_zh": "SpaceX与特斯拉交易面临重大中国问题",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -1.03,
+    "window_h": 1.5
+   }
   },
   {
    "id": "442da1b5f257",
@@ -1060,6 +1086,23 @@
    "zh_summary": "特斯拉推0息购车方案首付降至3.99万元",
    "title_zh": "特斯拉上线“特从容”金融方案：0息购车首付门槛降至3.99万元 - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "aa8e6414617c",
+   "title": "4680电池难产！特斯拉起了个大早，赶了个晚集 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VeWVIMFJDMkhCci12ODhwVzBXcWNmWW5JSWgzaWQ3Q1dpcEU3YjBBSlFBcEp0Tm1JQ3I1UzdQM1RoalplUVJXYjBURXdRMWljSlFzZi1icDBtWWc",
+   "source": "汽车之家",
+   "published_at": "2026-10-30T12:09:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-30T12:09:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VeWVIMFJDMkhCci12ODhwVzBXcWNmWW5JSWgzaWQ3Q1dpcEU3YjBBSlFBcEp0Tm1JQ3I1UzdQM1RoalplUVJXYjBURXdRMWljSlFzZi1icDBtWWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "aa3aaa7d5343",
@@ -3026,6 +3069,23 @@
    "zh_summary": "特斯拉推5年0息及弹性尾款优惠",
    "title_zh": "特斯拉购车优惠：“5年0息 ”“弹性尾款” - 电子工程专辑",
    "sentiment": 1
+  },
+  {
+   "id": "569ac3469f7f",
+   "title": "特斯拉推出全新“5 年 0 息”方-汽车-汽车区-虎扑社区 - 虎扑体育网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2TTk5MjlUOVdQQV9JTTRQZ20ySEdyR2VuTzk1Vk1XWURBNk9TSHFxRzl3N2JfRDFaQlNnY3o0V0tFWXp0UWp3MEMwOA",
+   "source": "虎扑体育网",
+   "published_at": "2026-10-30T03:28:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎扑体育网",
+     "published_at": "2026-10-30T03:28:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2TTk5MjlUOVdQQV9JTTRQZ20ySEdyR2VuTzk1Vk1XWURBNk9TSHFxRzl3N2JfRDFaQlNnY3o0V0tFWXp0UWp3MEMwOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "208eb4dfc684",
@@ -6395,71 +6455,6 @@
    "zh_summary": "休斯顿Robotaxi地图市中心缺失",
    "title_zh": "特斯拉休斯顿Robotaxi地图呈火箭形，市中心缺失",
    "sentiment": -1
-  },
-  {
-   "id": "649e9194d87c",
-   "title": "Italy Backs Tesla Assisted Driving EU Approval: 5 Key Points - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFh0NmxZbkNpX2pmN29jWXI5X3p3STVPN2thbzJBOUIxSGJfMlJ4UWNjY3p4cnBSMWVoMDV4aVB0UEdzeTB2OTNERGN0VTBrUzBmZnFRd3NfQ3dSenQxZ3lTYlVPc0s3SnJCYW0xYWNtUkk4RXVIMjBjY19hUFJ1OWZuTUs0bENjSE9UZDJNWFBoUnlTSGoxa0tR",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-10-29T11:04:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-10-29T11:04:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFh0NmxZbkNpX2pmN29jWXI5X3p3STVPN2thbzJBOUIxSGJfMlJ4UWNjY3p4cnBSMWVoMDV4aVB0UEdzeTB2OTNERGN0VTBrUzBmZnFRd3NfQ3dSenQxZ3lTYlVPc0s3SnJCYW0xYWNtUkk4RXVIMjBjY19hUFJ1OWZuTUs0bENjSE9UZDJNWFBoUnlTSGoxa0tR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "意大利支持特斯拉辅助驾驶欧盟审批",
-   "title_zh": "意大利支持特斯拉辅助驾驶获欧盟批准",
-   "sentiment": 1
-  },
-  {
-   "id": "4e2e5043ea55",
-   "title": "2026.38.6 Official Tesla Release Notes - Software Updates - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEFUd0JkTGFWcmU5MHhzZDMybTNQeTdvTDl3aDBXYTk5bFo4Y0pIRWY5Z3F1V2I5RUs2RWI2N3FzcHluZi1HUmtkbDVmVGR0QTFMNXBNTnl0T19BSmExUklLUWtsa0puZDJKZVlwY3VYdVRyLW9zYS1ycHd1V3JqeUNPNA",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-29T11:01:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-29T11:01:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEFUd0JkTGFWcmU5MHhzZDMybTNQeTdvTDl3aDBXYTk5bFo4Y0pIRWY5Z3F1V2I5RUs2RWI2N3FzcHluZi1HUmtkbDVmVGR0QTFMNXBNTnl0T19BSmExUklLUWtsa0puZDJKZVlwY3VYdVRyLW9zYS1ycHd1V3JqeUNPNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉发布2026.38.6版软件更新说明",
-   "title_zh": "特斯拉2026.38.6版官方软件更新说明",
-   "sentiment": 0
-  },
-  {
-   "id": "f69f95496239",
-   "title": "Jim Farley's Ford Takes a Leaf Out of Elon Musk-Led Tesla's Book, Produces Over 5,000 Massive Aluminum Pa - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQY24yd1BieGlDSlZmMDlremRpQ1lhVEx3WEpEM3UtZTNoZ1Q5bDF1Tm5GZGpQWlBTTk9kc1RlX2VSODVPSFNGUE9Db3BCaVpBbXRzMXZiRm82NmJZWUJYT3lkMVBqOWZHa2JOT0tJWHRxY3FOemlGR0RWSXJJWjN4SjgwUXNoX0dnLVNxTklLbkdHMFRoeXFZMm9DUklJUlByU3gyZXNxbTdkNFU5NXJ4OEh0YVFfZHNHbmlkZ2x2V1hwUjR2YWFtVXZOUkVVM1BTcDE0dHlaNnFMOTZONXEtLUdzZnltM1luaFo3X0lfM0JvcWxhRG9FeDEtLVdzMVBUa2VaSVdESmowTFhaTk1GWU10cXBIdmxfYnlMZXU1MWxxNHVi",
-   "source": "Benzinga",
-   "published_at": "2026-10-29T10:48:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-29T10:48:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQY24yd1BieGlDSlZmMDlremRpQ1lhVEx3WEpEM3UtZTNoZ1Q5bDF1Tm5GZGpQWlBTTk9kc1RlX2VSODVPSFNGUE9Db3BCaVpBbXRzMXZiRm82NmJZWUJYT3lkMVBqOWZHa2JOT0tJWHRxY3FOemlGR0RWSXJJWjN4SjgwUXNoX0dnLVNxTklLbkdHMFRoeXFZMm9DUklJUlByU3gyZXNxbTdkNFU5NXJ4OEh0YVFfZHNHbmlkZ2x2V1hwUjR2YWFtVXZOUkVVM1BTcDE0dHlaNnFMOTZONXEtLUdzZnltM1luaFo3X0lfM0JvcWxhRG9FeDEtLVdzMVBUa2VaSVdESmowTFhaTk1GWU10cXBIdmxfYnlMZXU1MWxxNHVi"
-    },
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-30T00:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc2phd3V5d21BcmJpRXBxbFlLNWFQTHNFZXhEbzBoNlJnMEhvZ1p6SzRSTmJxc0pjbXJzOXl6a3Nad0I0cFVtVWF4dWZjVVZGdnhXc0ZpS2RPc3gtNkF6aEs3WUNSclJCQmxxcXVzencxMWtkNFVYQmpTY1ktZ1FyQ3RGMVVMejNkbU0xV1lwNlgyWFpkSjVoZl9B"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "福特效仿特斯拉生产大型铝部件",
-   "title_zh": "福特效仿特斯拉，生产超5000个大型铝部件",
-   "sentiment": 0
   }
  ]
 }
