@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T16:07:33.998237+00:00",
+ "updated_at": "2026-10-30T16:22:32.760018+00:00",
  "market": {
-  "price": 400.05,
-  "change_pct": -0.8,
+  "price": 399.9,
+  "change_pct": -0.84,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.0%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（108条已评分）"
+     "note": "今日新闻情绪 +0.07（112条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $400.05 vs 20日均线 $380.71"
+     "note": "现价 $399.90 vs 20日均线 $380.70"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.0,
-   "ma20": 380.71,
-   "as_of": "2026-10-30T16:07:33.992867+00:00"
+   "implied_upside_pct": 0.0,
+   "ma20": 380.7,
+   "as_of": "2026-10-30T16:22:32.754068+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 108
+   "avg": 0.07,
+   "count": 112
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3faf77ff2308",
+   "title": "Tesla launches new 0% financing plan and discounts in China - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLU9TMDZpckk5eTFJbjVYTXZ4OE5KQmdzUVo3a3FtZHhZR0NuR3AxQXM3R2dib0xkQ3JzRmh4czljbENzY3prSUlPUkxnc2ZBT1VMRjE1TlJDeDV3OUtxOTY1QWFUZHpDb3RSTnlzeHB3SlZ3dEFycWVkc1hiSmxkNkJRaC1Ud21HUVMtb3pyVkZwamY2Tkkza05B",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-30T16:19:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-30T16:19:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLU9TMDZpckk5eTFJbjVYTXZ4OE5KQmdzUVo3a3FtZHhZR0NuR3AxQXM3R2dib0xkQ3JzRmh4czljbENzY3prSUlPUkxnc2ZBT1VMRjE1TlJDeDV3OUtxOTY1QWFUZHpDb3RSTnlzeHB3SlZ3dEFycWVkc1hiSmxkNkJRaC1Ud21HUVMtb3pyVkZwamY2Tkkza05B"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "1023f64a18fb",
+   "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WaTdpWnNaS0NYSXlYakplYXo0X1ZKYTVQX05UYW1SVURINExjak1Hd1lsX2ViQnNJLWJwZ3ZNN3E0OEwzUTVXNjA3T3JUMTA5MzdqbXdsNV9VYkpJMXNLVnBZZmd4YnlvQThOY0pJUFRIUDRwNXQ0",
+   "source": "InsideEVs",
+   "published_at": "2026-10-30T16:09:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-10-30T16:09:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WaTdpWnNaS0NYSXlYakplYXo0X1ZKYTVQX05UYW1SVURINExjak1Hd1lsX2ViQnNJLWJwZ3ZNN3E0OEwzUTVXNjA3T3JUMTA5MzdqbXdsNV9VYkpJMXNLVnBZZmd4YnlvQThOY0pJUFRIUDRwNXQ0"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "7b26e2b3adda",
    "title": "小鹏汇天创始人谈特斯拉飞车 欢迎马斯克体验飞行汽车 - 中华网",
@@ -166,6 +200,23 @@
    "zh_summary": "特斯拉微调加拿大Model 3配置器",
    "title_zh": "特斯拉在订单暂停期间微调加拿大Model 3配置器",
    "sentiment": -1
+  },
+  {
+   "id": "b8e0eb6b6375",
+   "title": "Rivian’s R2 Could Fill A ‘Relatively Unique Position And Product Void’ Between Tesla And Ford, Says Jefferies – Sees 45% Upside Potential - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWozNXY3bVZscWk2SnM4RlRTLUpENXE0YUc2MDRSaHFkdGZFX0hSUEVDS1d1cTN1LUhCTzZjUVcxVlZzZU41QjdheU81WDk3bDd3N0xTNWw4T3dFRG9SVjA1b3J0UlhhYWk2NWdvcEp4V19JTzdkSllRaTd4SVl6VkowbVNDOExZZU1NeTA5SkJaQTh1WnZtcFJpSml5QmxHNV80QzkxUl9QdmJyNnJpUEpOcDJEeVhzZmc2ejdERkFDTFNQRVNwM3N2QV9pOVlkZ2F3OWt3bXpNdkg1SGRwTHlUTmZhOUxiaVFLckg4TDZ3WUZSV3Q1YndiUS0yRWV5ZGpWWEtWWjVhRzNXTGZ5bXhzZldyaVY3VHJEQw",
+   "source": "TradingView",
+   "published_at": "2026-10-30T15:34:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-30T15:34:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWozNXY3bVZscWk2SnM4RlRTLUpENXE0YUc2MDRSaHFkdGZFX0hSUEVDS1d1cTN1LUhCTzZjUVcxVlZzZU41QjdheU81WDk3bDd3N0xTNWw4T3dFRG9SVjA1b3J0UlhhYWk2NWdvcEp4V19JTzdkSllRaTd4SVl6VkowbVNDOExZZU1NeTA5SkJaQTh1WnZtcFJpSml5QmxHNV80QzkxUl9QdmJyNnJpUEpOcDJEeVhzZmc2ejdERkFDTFNQRVNwM3N2QV9pOVlkZ2F3OWt3bXpNdkg1SGRwTHlUTmZhOUxiaVFLckg4TDZ3WUZSV3Q1YndiUS0yRWV5ZGpWWEtWWjVhRzNXTGZ5bXhzZldyaVY3VHJEQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c18f19fdea1e",
@@ -2682,6 +2733,37 @@
    "zh_summary": "特斯拉更新让Robotaxi中小睡更方便",
    "title_zh": "特斯拉最新更新让Robotaxi中小睡更轻松",
    "sentiment": 1
+  },
+  {
+   "id": "705f7625c689",
+   "title": "首付降到4万以内 特斯拉推出“5年0息”购车方案 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81T2RQRDh0bkVTX29mS2Z4dGVJQkJRS0xQMFJEZnhrMER0WFdxdEF5dlViSXVNeDVGVWdZTENEVmVnWnEyaWc1SGdRTWJlMHIwZnZONkdzMUUwemx2WmFlaWN1b2U1S2FUdmw5OU02dWRWX1JiYW1qRQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-30T03:39:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-30T03:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81T2RQRDh0bkVTX29mS2Z4dGVJQkJRS0xQMFJEZnhrMER0WFdxdEF5dlViSXVNeDVGVWdZTENEVmVnWnEyaWc1SGdRTWJlMHIwZnZONkdzMUUwemx2WmFlaWN1b2U1S2FUdmw5OU02dWRWX1JiYW1qRQ"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-30T04:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vdk9wcWluQm8tdEotMnBHRTJIeEw2ODlzUVpoTlhtY2NqT3I4V0tud2g4bDBocXAxbWwxcTlBOUVJaDlVZmFsWlZTS3QtUVA1alVfRWtDNmJIeEZza0c1aTN6ZElqMnVKaXlScFhWXzBVUWYzUTR3eUJMUFI5XzA"
+    },
+    {
+     "name": "金融界",
+     "published_at": "2026-10-30T05:11:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FTW1lZjNDc3VPTE1FN0EwcENfcXlFU19tSzlqMURDUVM2TkFwSUlBN1dkcTVZSWZYcW02X2NHNVVjNEw5bi1ELTctZERLRkNtX1dKNjNCRDhWMGRibGp3cEF4eXNrdy1fRXB6dlJFcEJPUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "price_reaction": {
+    "pct": 3.22,
+    "window_h": 2.0
+   }
   },
   {
    "id": "c546d1c270b0",
@@ -6385,106 +6467,6 @@
    "zh_summary": "飞天神车秀难挽特斯拉基本盘",
    "title_zh": "飞天神车秀，救不了特斯拉的基本盘",
    "sentiment": -1
-  },
-  {
-   "id": "7a1feb0cf136",
-   "title": "Locals Sent Tesla FSD Down Bratislava’s Toughest Streets. It Needed Help - InsideEVs",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtOThWVDJCd2lYTUtrWFpra0pHaENpTlQxY2pBdmFaZHJSc3JmbHVxbXpPbm9aRTFvNjZBMmVyN3hGMWZWX2lNbG1EM3VJSUVQWHh3Y3FqUnZmQ3Y2cUpmemtrYWdaZ29tLTc0djFNX2R1WW1GZmwxdA",
-   "source": "InsideEVs",
-   "published_at": "2026-10-29T09:34:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InsideEVs",
-     "published_at": "2026-10-29T09:34:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtOThWVDJCd2lYTUtrWFpra0pHaENpTlQxY2pBdmFaZHJSc3JmbHVxbXpPbm9aRTFvNjZBMmVyN3hGMWZWX2lNbG1EM3VJSUVQWHh3Y3FqUnZmQ3Y2cUpmemtrYWdaZ29tLTc0djFNX2R1WW1GZmwxdA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉FSD挑战布拉迪斯拉发难路需人工干预",
-   "title_zh": "当地人让特斯拉FSD走布拉迪斯拉发最难街道仍需帮助",
-   "sentiment": -1
-  },
-  {
-   "id": "b9a3e7a1f718",
-   "title": "Opinion: While the Odds of a SpaceX-Tesla Merger Are Climbing, Combining 2 Wrongs Won't Make a Right on Wall Street - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnZUaVdpWWJkMWRtay0wT1BNekxUcVlvUmlvTlBLbHFVRzNJOEZrTW9zeU1RX1A4aW9KY0FYeHI3dkxLZ1FSQzl6T3V4SWRCaGpSbXlKaURPaWg2T3o0YVVIdzhaZG5JbWlmamdOOVdZMFVaejNGN1h1eElwbTB6MnR1WU9Ub2pmX2pyLUVNX3hzX2pLdDAySTlFRHdWTXFOZHZXcWFZZlJMOGhJVUZaNFM3ZE45eVlDR19pd0JPY3hHYXBFdUZLSEdUMndGb3Z2MDdn",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-29T09:16:26+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-29T09:16:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnZUaVdpWWJkMWRtay0wT1BNekxUcVlvUmlvTlBLbHFVRzNJOEZrTW9zeU1RX1A4aW9KY0FYeHI3dkxLZ1FSQzl6T3V4SWRCaGpSbXlKaURPaWg2T3o0YVVIdzhaZG5JbWlmamdOOVdZMFVaejNGN1h1eElwbTB6MnR1WU9Ub2pmX2pyLUVNX3hzX2pLdDAySTlFRHdWTXFOZHZXcWFZZlJMOGhJVUZaNFM3ZE45eVlDR19pd0JPY3hHYXBFdUZLSEdUMndGb3Z2MDdn"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-29T09:26:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHJtWGg5QnFWa3QydWRMdS1UdS1MclJIZzB6ZEVsVXZ4WXN5TkdmbWR6M1hLeXdHaGpTMnI0aTV2T05GQ2tHNXhyNDNFbVJxVWF5bHllNy1Sc1B6S2dKb1llWk9CRDMwc2xDS1dFTGFvQTJuNkVYVV9weTVSNXhGcg"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-29T09:26:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQazFiZl9idjZTYmRMNXo3WVN2dGlUS1JwQjlCR1hfd3E1SGx4ZF8wVG5pN3U4Y0NOTDBZS0RodG0wVGYzQ2pwRG1kNDN3UGVVRF93WktnTjk1UkExVllFMjROQWtPU0NVZXpvTFZnWHB4Q3dsSWx6amthak5obDVOdDI3UkFQSjVsSG9RaU1QUUljN3hOWVBiRWVUTWJ6Q2VRNkh3Y2tTMktFc0p6ay03ZDFhb0MyWjZLZkswOGt6UWlsQ0k5TkQwZVl1XzRQOTFvMVFab2RhVThJOWN0Z3NVYk1JMTBUa3R1MnFTNVI0bnJnNWxSSXpad0RINTNjSzBsWTB0MGZZRV9qamY4V245WkhuVFBBRGc1SUNWanRlUnZEZjg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-29T09:26:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzB0VkhUVXN6RGhqa3Fma1J3WGdtUjg2Vlprc28yQXBLVXdxVkhTbG9KN2lXZXU2ZE9OYzhvTjVfTWIwMVRVUjRkcGJheGQ2amtlei1yNG81SldUM2xWMzNudWM1OXZORWptcnJka01pNU9TMWlUcmRVaVZja2ZZZkIwZlhzblFXVTFsc3NHbXR3T3BHY2FXcEZBS2U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "观点称SpaceX与特斯拉合并未必利好",
-   "title_zh": "观点：SpaceX与特斯拉合并几率上升，但合并两个错误也无济于事",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.24,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "4d55512d6412",
-   "title": "退役电池干不了储能？日产特斯拉车主的省钱生意来了 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYXVBNENJMlVMbDFXVHhMUW1VWURWX3M2bTVEQ1JaTzhaN2hCc1A1WDVIVkNhRTJZTjVsb0d1WkJfRGVJcGI5cnRBQWJQQm93T3JFMzREbmMyZVU",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T09:10:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T09:10:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYXVBNENJMlVMbDFXVHhMUW1VWURWX3M2bTVEQ1JaTzhaN2hCc1A1WDVIVkNhRTJZTjVsb0d1WkJfRGVJcGI5cnRBQWJQQm93T3JFMzREbmMyZVU"
-    }
-   ],
-   "category": "能源",
-   "session": "盘前",
-   "zh_summary": "退役电池再利用成日产特斯拉车主省钱生意",
-   "title_zh": "退役电池干不了储能？日产特斯拉车主的省钱生意来了",
-   "sentiment": 0
-  },
-  {
-   "id": "04c7034c2b8f",
-   "title": "日产特斯拉电池退役潮，2030年或迎千亿后市场 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zVWgwS1Z1Y3VjNElzd3dNdkxRa2tDMUNONlFGakZIcnVoaWJENnRlOGJsMjA1U3dKRXVaLTNyXzVpNE5IX3lJbE9UTnd0MGh6b2FtaUJlbW1zZ1dGTjNKcm5Jck5QbnJXUHA0",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T09:09:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T09:09:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zVWgwS1Z1Y3VjNElzd3dNdkxRa2tDMUNONlFGakZIcnVoaWJENnRlOGJsMjA1U3dKRXVaLTNyXzVpNE5IX3lJbE9UTnd0MGh6b2FtaUJlbW1zZ1dGTjNKcm5Jck5QbnJXUHA0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "日产与特斯拉电池退役潮，2030年或迎千亿后市场",
-   "title_zh": "日产特斯拉电池退役潮，2030年或迎千亿后市场 - 汽车之家",
-   "sentiment": 0
   }
  ]
 }
