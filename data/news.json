@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T19:07:37.036842+00:00",
+ "updated_at": "2026-10-30T19:22:39.484975+00:00",
  "market": {
-  "price": 396.58,
-  "change_pct": -1.67,
+  "price": 398.51,
+  "change_pct": -1.19,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 51% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.9%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（132条已评分）"
+     "note": "今日新闻情绪 +0.06（135条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $396.58 vs 20日均线 $380.54"
+     "note": "现价 $398.51 vs 20日均线 $380.63"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 51,
+   "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.9,
-   "ma20": 380.54,
-   "as_of": "2026-10-30T19:07:37.030162+00:00"
+   "implied_upside_pct": 0.4,
+   "ma20": 380.63,
+   "as_of": "2026-10-30T19:22:39.464802+00:00"
   },
-  "pe_ttm": 109.7,
+  "pe_ttm": 110.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 132
+   "avg": 0.06,
+   "count": 135
   }
  },
  "meta": {
@@ -67,6 +67,91 @@
   }
  },
  "stories": [
+  {
+   "id": "02b448e5f8b4",
+   "title": "首付降至3.99万，特斯拉购车门槛腰斩 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGh0eVRPZk00VWNCM29pSm4yY1NPaVgxeHgwZVZDR29vNmxSM19WTVlSWVp6bUZMUk9ZYU53Tl9UaXc4emkzYXRxNFBnSy1zNG90VHBkbGxhRHhYSF9jVzVuVVFUYWc0WW1nTy1WUXBPX01HX2s4eVR5eGozSm9lbQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-30T19:16:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-30T19:16:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGh0eVRPZk00VWNCM29pSm4yY1NPaVgxeHgwZVZDR29vNmxSM19WTVlSWVp6bUZMUk9ZYU53Tl9UaXc4emkzYXRxNFBnSy1zNG90VHBkbGxhRHhYSF9jVzVuVVFUYWc0WW1nTy1WUXBPX01HX2s4eVR5eGozSm9lbQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉首付降至3.99万购车门槛腰斩",
+   "title_zh": "首付降至3.99万，特斯拉购车门槛腰斩 - 手机新浪网",
+   "sentiment": 1
+  },
+  {
+   "id": "69183b95113e",
+   "title": "【视频】特斯拉新车都能飞上天了？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tV3hwN0JWc0NnQzBOZmJISko4V2FxR2htWk5UQlZyVU5WTnZwamxOc29PQW00OUR5emhJUFNad3RqdFlwX1NrRXctcXpvUGd0M3p1ZGFGSkFMWlk",
+   "source": "汽车之家",
+   "published_at": "2026-10-30T19:14:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-30T19:14:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tV3hwN0JWc0NnQzBOZmJISko4V2FxR2htWk5UQlZyVU5WTnZwamxOc29PQW00OUR5emhJUFNad3RqdFlwX1NrRXctcXpvUGd0M3p1ZGFGSkFMWlk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "视频称特斯拉新车能飞上天",
+   "title_zh": "【视频】特斯拉新车都能飞上天了？ - 汽车之家",
+   "sentiment": 0
+  },
+  {
+   "id": "bef8411b21a3",
+   "title": "Next-gen Tesla Roadster’s jet-inspired futuristic UI is built around the pilot - Tesla Oracle",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTVpamo4cWRid3ZBNU5TZWROcS1QZVktZlYxa3liWDJkdGl5VzBxeGNWOEZmZXFqM1JpTnk0c2t2MTctaW4yc09FT3hXaERaSGU4bzBoSmdkNGtMcy1RTktDQXQtXzZmcDF3UWpZd1czYUlvNmRfUllkUEl4WlViU3dXUGhCaDVIMlR6V0NEXzM1dmNYZEd0TmxleXpPNXMwSDdjQXpuQVgtZ0NrSHFSaHBHQjQtcjN4",
+   "source": "Tesla Oracle",
+   "published_at": "2026-10-30T19:11:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tesla Oracle",
+     "published_at": "2026-10-30T19:11:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTVpamo4cWRid3ZBNU5TZWROcS1QZVktZlYxa3liWDJkdGl5VzBxeGNWOEZmZXFqM1JpTnk0c2t2MTctaW4yc09FT3hXaERaSGU4bzBoSmdkNGtMcy1RTktDQXQtXzZmcDF3UWpZd1czYUlvNmRfUllkUEl4WlViU3dXUGhCaDVIMlR6V0NEXzM1dmNYZEd0TmxleXpPNXMwSDdjQXpuQVgtZ0NrSHFSaHBHQjQtcjN4"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "新一代Roadster喷气式未来座舱围绕飞行员设计",
+   "title_zh": "新一代Roadster喷气式未来座舱围绕飞行员设计",
+   "sentiment": 0
+  },
+  {
+   "id": "948e8a1524d4",
+   "title": "Tesla Stocks Move Lower With Cybercab Certification Response Due Today - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTg3d2xFc3ZQLXVBdVM4eHdmY1NidDBrREFGMjJ3eUd6dlhUSi1OLXRtWWZOVUNOc2ROTmdQaEg0eHE2eDZwUmF4eVFLR1pZWWNSa0x2eVB1MWlfbjJITEowRU9KaWpCTWphdmFMNEVyLWtaelpRRU1Ta3RGZ2FMTDhkeUdwVlRsd19NNmRGWDNWb1JDS2V0SWNubnBWZw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-30T19:06:52+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T19:06:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTg3d2xFc3ZQLXVBdVM4eHdmY1NidDBrREFGMjJ3eUd6dlhUSi1OLXRtWWZOVUNOc2ROTmdQaEg0eHE2eDZwUmF4eVFLR1pZWWNSa0x2eVB1MWlfbjJITEowRU9KaWpCTWphdmFMNEVyLWtaelpRRU1Ta3RGZ2FMTDhkeUdwVlRsd19NNmRGWDNWb1JDS2V0SWNubnBWZw"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-30T19:06:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdGp0cHZKYXp6MkJDal9LZFU0Y2VDczQ2SDF2aDlsMlhEcTNHdnE2Sm0yZlFpSE4tWFZSNDhWQmRIUFotMFJsT2hRaHFCLTRXLW45TDdHREtIM3E3WFJ2b1p4OElTNHF1RlRSR2F5eW4zNW44OFEwMGIta3pUWElqNUtyTF9IVGVjZklUUGNydzVfTkFfaDg4Z2FPZUVhdVZhLUYzZGhIYjM5N1VVUVNxUTZMV3V5UG93SGEwWFlFRE1kaEFPM0ZPMkp3"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "特斯拉股价走低，Cybercab认证回应今日到期",
+   "title_zh": "特斯拉股价走低，Cybercab认证回应今日到期",
+   "sentiment": -1
+  },
   {
    "id": "e86a9abdb8aa",
    "title": "Tesla is set to open reservations for its Optimus robot later this year - The San Francisco Standard",
@@ -1146,7 +1231,7 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0xMU0JFek1iWFlwN0NtZ0wzQ19tV01LTlpKM3dSVjRIdF9BMnRDTGxTMWJIZ3Z0MW5Xb2M0MHVIeFhqY0pMOFZRNUF0dHNibm84c3BwX0dHaW5WZm1nakJFRlJPTUozMG9uMjFfTnE2NTl1bFZOaDgwSjNTeGVjeTdFX0tLYkowMUhINEV0YVF1REczQ1NzOVBHNU8wODdHUl9HOVNn",
    "source": "Investing.com",
    "published_at": "2026-10-30T12:25:27+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Investing.com",
@@ -1157,13 +1242,22 @@
      "name": "Yahoo Finance Singapore",
      "published_at": "2026-10-30T12:50:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzFnM3pUZ190QXpBRE01cDluUnF2aWVDakszRExBcjlwRDlZaC10SlJNUHdZeWQ3Q25Kb3NGRk5tazlvX3Q0TTRJbTB6TFhqX1JRdW5hRE9UUlJIS2JfWUF3c3ZsSkZ0aEgtTTd6M3lLZUd5UFJNVWVwMG1WRzRfeDg2bjluZw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T12:50:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXRSU0FmMzVDSGxmaHExRDh1bDhfU3NnWDBoZzR5UTVzdFk0V1JiOXRnSHl4SDRMOGo2YzhHNG1MaE5FSWRVQ2UxTzNYeGFLTl9kd3pvV05EckxoX3k1cVhqUGpRNHlhbU9zYS12WDZaUW1rVk9xZTNkZDlrYXloU2tUaHUweWF4VG9IYVJlSldRdjJtdi1ydHNwTQ"
     }
    ],
    "category": "政策监管",
    "session": "盘前",
    "zh_summary": "北京或阻止SpaceX与特斯拉合并",
    "title_zh": "北京为何可能阻止SpaceX与特斯拉合并",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 3.22,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b5fbe87537a0",
@@ -2014,12 +2108,17 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjY3WkVQYmlrVG54YkRFVWotQWRlb25nUzZCcEpjb2dodVk3bzZrWHlyOVBYVXNCQ0ZtN1o3Q09oVVhSb0ZoN2tQdlJoekF3ZHJUOGpRR2tQdGNZWUlpNXpLcnV2NzlKTVQxNkdqQTZJMFV1TGQya2Y1MDNiYkJNVXUyZkc2ZG96RzE4SHdaTXdReGE2T0FqdDNveXUzdUUtU2J6RFNBWQ",
    "source": "Manteca Bulletin",
    "published_at": "2026-10-30T08:50:50+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Manteca Bulletin",
      "published_at": "2026-10-30T08:50:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjY3WkVQYmlrVG54YkRFVWotQWRlb25nUzZCcEpjb2dodVk3bzZrWHlyOVBYVXNCQ0ZtN1o3Q09oVVhSb0ZoN2tQdlJoekF3ZHJUOGpRR2tQdGNZWUlpNXpLcnV2NzlKTVQxNkdqQTZJMFV1TGQya2Y1MDNiYkJNVXUyZkc2ZG96RzE4SHdaTXdReGE2T0FqdDNveXUzdUUtU2J6RFNBWQ"
+    },
+    {
+     "name": "Hoodline",
+     "published_at": "2026-10-30T19:12:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkNUTS0xdDBKNzNHdkxnV1BxQjFZbXIwLWNDN1FPQlBJSEN4ZlNiWjVjVm1KNTFpcVRpMFZ1Z2ItWDE2Ukxrc29NVFlRLUgzcGs3MXVTS0FHYVM1TThGd0lZSXJQdFZJT2dGdEFQYXhpSUwwWUhPS3Jkank4dHhNYzd0dVN6aHRrQktLclRQcmNfV3dQZmloV1R5dzhBNFFHZ0lLWWFCVQ"
     }
    ],
    "category": "其他",
@@ -6394,86 +6493,6 @@
    "zh_summary": "休斯顿Robotaxi扩展后乘客反映绕路",
    "title_zh": "特斯拉Robotaxi休斯顿扩展后乘客报告绕路",
    "sentiment": -1
-  },
-  {
-   "id": "bf15fce90084",
-   "title": "Great News for Tesla Stock Investors as a Merger with SpaceX is More Likely - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelZoc0xVMzMtZVE2NjZCbklGZHhOcG9fdmVjcEhfaWd2c1dZdnVwdU1WbVpNZ3BVVU4yWC1sNXREZFBCX3BXbXg3azlmVXBiOHZJTnRvekQwaU9VU0VCWlJ6b0kzOHhJeUpZOTFSdm1LNl8tOXF1Y1VXcEtfREZpR210SWwtUDVlbHd0VTgzajdwTFVobFJsakswMDZGVkJIY3E3dzlJblJkaVMtaGJrOUxPOU1tTW1uZ3c",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-29T11:39:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-29T11:39:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelZoc0xVMzMtZVE2NjZCbklGZHhOcG9fdmVjcEhfaWd2c1dZdnVwdU1WbVpNZ3BVVU4yWC1sNXREZFBCX3BXbXg3azlmVXBiOHZJTnRvekQwaU9VU0VCWlJ6b0kzOHhJeUpZOTFSdm1LNl8tOXF1Y1VXcEtfREZpR210SWwtUDVlbHd0VTgzajdwTFVobFJsakswMDZGVkJIY3E3dzlJblJkaVMtaGJrOUxPOU1tTW1uZ3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉与SpaceX合并可能性上升",
-   "title_zh": "特斯拉与SpaceX合并可能性上升，特斯拉股东迎好消息",
-   "sentiment": 1
-  },
-  {
-   "id": "454808808827",
-   "title": "美银证券维持特斯拉(TSLA.US)买入评级，维持目标价460美元 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEFxbkJJS0RuUGtDTzA5b2pNUmp3Tzk1VVBIaEQ4dDczRWtPNEtlV1huc2VXM0RyQUM2bFZRTjhnajgyZHRvUkhxdW14U2ZjOFhpYjhEeGNqUUdSRUN1MHNUMUVSOGMwRThGdDRTeHFSRk1kakNLS1VhSTVtSzJva0RKM3FqZ3ZVVW1NQ2dqRTNOMjZLR0N4N3FUWUxxSGZ2X2YydGZWQ0dvWkpaMFZzWnlPZEllLWlBenRGTA",
-   "source": "Moomoo",
-   "published_at": "2026-10-29T11:38:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-29T11:38:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONEFxbkJJS0RuUGtDTzA5b2pNUmp3Tzk1VVBIaEQ4dDczRWtPNEtlV1huc2VXM0RyQUM2bFZRTjhnajgyZHRvUkhxdW14U2ZjOFhpYjhEeGNqUUdSRUN1MHNUMUVSOGMwRThGdDRTeHFSRk1kakNLS1VhSTVtSzJva0RKM3FqZ3ZVVW1NQ2dqRTNOMjZLR0N4N3FUWUxxSGZ2X2YydGZWQ0dvWkpaMFZzWnlPZEllLWlBenRGTA"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "美银维持特斯拉买入评级目标价460美元",
-   "title_zh": "美银证券维持特斯拉(TSLA.US)买入评级，维持目标价460美元",
-   "sentiment": 0
-  },
-  {
-   "id": "793fce5c7b40",
-   "title": "杨立昆称特斯拉飞行汽车不实用，马斯克回怼：我朝你放屁！ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aV1RaYnlRQ0hqSXRxRml2c0VBWnQ1OXZBQW1wQ240bVhReW0zaE96Z0dKb0hWMmZreldUTjZpRjhHbzR6VDZRUkE4SnNSLUQ2alBrLVlybU9rTUo3Q3g0ZzBaQXIybEJDNUVleVcwTEhxOTZxWTFvNE9NUWdCSm8",
-   "source": "手机新浪网",
-   "published_at": "2026-10-29T11:37:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-29T11:37:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aV1RaYnlRQ0hqSXRxRml2c0VBWnQ1OXZBQW1wQ240bVhReW0zaE96Z0dKb0hWMmZreldUTjZpRjhHbzR6VDZRUkE4SnNSLUQ2alBrLVlybU9rTUo3Q3g0ZzBaQXIybEJDNUVleVcwTEhxOTZxWTFvNE9NUWdCSm8"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "杨立昆称飞行汽车不实用遭马斯克回怼",
-   "title_zh": "杨立昆称特斯拉飞行汽车不实用，马斯克回怼：我朝你放屁！",
-   "sentiment": 0
-  },
-  {
-   "id": "c8f505020555",
-   "title": "Tesla confirms when $30,000 Cybercab will go on sale, but there's a major catch regarding who can actually buy one - Supercar Blondie",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51UFlhbmFqeC1kSW9SdVd1SFFibGZYTmtDRnpJa1VnS3JtTVFJZkxySmh2cGg1dnNRSjRnWHUtWEtWSXdybnRuTEFGUWpyVFhvV1RyUWNVaGtPUEgzZDB0VXJ6LS1NTXJUZExaX2RB",
-   "source": "Supercar Blondie",
-   "published_at": "2026-10-29T11:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Supercar Blondie",
-     "published_at": "2026-10-29T11:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51UFlhbmFqeC1kSW9SdVd1SFFibGZYTmtDRnpJa1VnS3JtTVFJZkxySmh2cGg1dnNRSjRnWHUtWEtWSXdybnRuTEFGUWpyVFhvV1RyUWNVaGtPUEgzZDB0VXJ6LS1NTXJUZExaX2RB"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉确认3万美元Cybercab上市时间",
-   "title_zh": "特斯拉确认3万美元Cybercab上市时间，但购买资格有限制",
-   "sentiment": 1
   }
  ]
 }
