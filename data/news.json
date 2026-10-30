@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T19:37:35.427582+00:00",
+ "updated_at": "2026-10-30T19:52:33.120688+00:00",
  "market": {
-  "price": 398.9,
-  "change_pct": -1.09,
+  "price": 398.54,
+  "change_pct": -1.18,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.07（138条已评分）"
+     "note": "今日新闻情绪 +0.06（140条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $398.90 vs 20日均线 $380.64"
+     "note": "现价 $398.54 vs 20日均线 $380.63"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.3,
-   "ma20": 380.64,
-   "as_of": "2026-10-30T19:37:35.420618+00:00"
+   "implied_upside_pct": 0.4,
+   "ma20": 380.63,
+   "as_of": "2026-10-30T19:52:33.112949+00:00"
   },
-  "pe_ttm": 110.3,
+  "pe_ttm": 110.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 138
+   "avg": 0.06,
+   "count": 140
   }
  },
  "meta": {
@@ -381,6 +381,23 @@
    "zh_summary": "美银警告特斯拉与SpaceX合并面临中国监管风险",
    "title_zh": "美银警告：特斯拉与SpaceX合并或面临中国最大监管风险",
    "sentiment": -1
+  },
+  {
+   "id": "bf942d7c65e0",
+   "title": "首付低至3.99万元！特斯拉“特从容”0息金融政策上线 - 太平洋汽车",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84ckgxUnlzTW94NUctdm9EcmxHZ1hxU1FOWFJObk1uQUN6N1QzWFhQMUY2YXozUUFHdGUybkswLUFvbTBDTEZPM0dzNXBWNnRYTlNOYXpGYndmRVgzb0E",
+   "source": "太平洋汽车",
+   "published_at": "2026-10-30T17:38:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "太平洋汽车",
+     "published_at": "2026-10-30T17:38:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84ckgxUnlzTW94NUctdm9EcmxHZ1hxU1FOWFJObk1uQUN6N1QzWFhQMUY2YXozUUFHdGUybkswLUFvbTBDTEZPM0dzNXBWNnRYTlNOYXpGYndmRVgzb0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4cf1cca1875c",
@@ -2358,6 +2375,23 @@
    "sentiment": 0
   },
   {
+   "id": "4d07c6544a22",
+   "title": "特斯拉官宣：再次大降价！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibHVsbklOMHo2YjRTWjN3RE0wWEdLeDR0VTNLZ2xTTmtDQVU2VUpFaGljamZpNkFVRi1Ha2xmWm9vMnp6M2NhUlgtekNJZzBrc2ZtQkM2V2ctUVU",
+   "source": "汽车之家",
+   "published_at": "2026-10-30T07:48:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-30T07:48:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibHVsbklOMHo2YjRTWjN3RE0wWEdLeDR0VTNLZ2xTTmtDQVU2VUpFaGljamZpNkFVRi1Ha2xmWm9vMnp6M2NhUlgtekNJZzBrc2ZtQkM2V2ctUVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "582562fd44ce",
    "title": "前Autopilot负责人炮轰特斯拉纯视觉方案：无视物理规律 奇怪的宗教立场 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nRW9jd3hTNDJPcFdzY21GUC1NaFBobG04aDBuc0I0XzJZcXlfbVVhMnppODhGOURDNG1vZjFsUUVjWDlVYzFFZVBWQkF5alF6Njgtdkw1ZVA",
@@ -3640,7 +3674,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3owWEhnZTZCMUJ5NXBQQURaeE5FbDgxeDMxRU84T2tfUThwZUY5YkdYZnpfRkFobExVUzQ4TXFQTFVTeEk2bmVCR2RpTDZ2WXE3c2ZPRnVzRkFHcnA2Y2tEN1dxZkt0Z01McWVHbm1ILXkwbVBxVUlHRG1xQzhIS1kwb1EyYk5lUThJUg",
    "source": "搜狐网",
    "published_at": "2026-10-30T02:21:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -3656,6 +3690,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-30T03:07:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCSzhISXIyeEVEYkdueEk5TVpxUlFrTml4N2ZaUDd1aXlMTlJhbTFfUFh4dTJVQ1MxRXlpbmUweFgtT3dYVVdYRERrT1Vha0M4a2ZLYzd6cWNGWV9MVXhrVDNGME10OEhnYU8zZnNWb0Faa1pmVExFdw"
+    },
+    {
+     "name": "湖南红网",
+     "published_at": "2026-10-30T13:39:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1abzRhUUxXUGVqYndDU3RGem5fQ0l2TndrV1c0VHBrYXRkLW9LWWw3TG5jZnFiOVhwVml5eVYwdlFvUXBnUmhEMU5XYjN1dUNFVF9KWkRtV3dmWXZocXhxRjJrcEI"
     }
    ],
    "category": "其他",
@@ -6453,46 +6492,6 @@
    "zh_summary": "特斯拉三季度答卷有信号被忽略",
    "title_zh": "特斯拉三季度答卷，有些信号被忽略_投资者网_媒体广场_财经 - 证券之星",
    "sentiment": 0
-  },
-  {
-   "id": "46f4416115d7",
-   "title": "Tesla staying in Waller County after buildings sold to new owner - Covering Katy News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUExc0hmWW9VODBqN045THFwWXRBNEd4djFiR250R3ozT1hFVFpJcWlpc1JoZkFOYmkyZ0xyLXhtWU8tSWxtdTQ5SVBKT3dLR3M3QjhTWTZPay1BMi00UWE0ZG5kcmU2OGt3ZmdrU1RoMDFtclpWWjNlY2hfeTlTd25EWTRoXzRrYzZnclprTGZrOHRPVXIyY2NuLVcyQjQ",
-   "source": "Covering Katy News",
-   "published_at": "2026-10-29T11:54:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Covering Katy News",
-     "published_at": "2026-10-29T11:54:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUExc0hmWW9VODBqN045THFwWXRBNEd4djFiR250R3ozT1hFVFpJcWlpc1JoZkFOYmkyZ0xyLXhtWU8tSWxtdTQ5SVBKT3dLR3M3QjhTWTZPay1BMi00UWE0ZG5kcmU2OGt3ZmdrU1RoMDFtclpWWjNlY2hfeTlTd25EWTRoXzRrYzZnclprTGZrOHRPVXIyY2NuLVcyQjQ"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉留在沃勒县，厂房易主后继续运营",
-   "title_zh": "厂房出售给新业主后，特斯拉仍留在沃勒县",
-   "sentiment": 0
-  },
-  {
-   "id": "680377918f42",
-   "title": "【视频】特斯拉在韩国遭遇集体诉讼？车主买到一个半成品FSD? - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLW9Kemt3Z1lZMFNfbm9KNWpScWZRZ3ZGTnBKRkh4Wk9DNmZka3VHOWFmTjBsLVVXQzh1dEd5ZkNHbXJLRnhjTGVDVmM0Y2xHcnBtbHNyelNtZTA",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T11:53:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T11:53:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MLW9Kemt3Z1lZMFNfbm9KNWpScWZRZ3ZGTnBKRkh4Wk9DNmZka3VHOWFmTjBsLVVXQzh1dEd5ZkNHbXJLRnhjTGVDVmM0Y2xHcnBtbHNyelNtZTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉在韩国遭遇FSD集体诉讼",
-   "title_zh": "【视频】特斯拉在韩国遭遇集体诉讼？车主买到一个半成品FSD?",
-   "sentiment": -1
   }
  ]
 }
