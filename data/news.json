@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T20:07:40.386000+00:00",
+ "updated_at": "2026-10-30T20:22:27.977394+00:00",
  "market": {
-  "price": 399.3,
-  "change_pct": -0.99,
+  "price": 399.81,
+  "change_pct": -0.87,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（142条已评分）"
+     "note": "今日新闻情绪 +0.06（145条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $399.30 vs 20日均线 $380.67"
+     "note": "现价 $399.81 vs 20日均线 $380.70"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.2,
-   "ma20": 380.67,
-   "as_of": "2026-10-30T20:07:40.380507+00:00"
+   "implied_upside_pct": 0.0,
+   "ma20": 380.7,
+   "as_of": "2026-10-30T20:22:27.970985+00:00"
   },
-  "pe_ttm": 110.4,
+  "pe_ttm": 110.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.06,
-   "count": 142
+   "count": 145
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ed7a1f2a9232",
+   "title": "Tesla App 4.62 for Foldables, Explained in 5 Points - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGN6NlFDMHVCclBHbUpfdjFHa0J3aHAyMEVNTkxXaWZKR2Y4QXdHZlJrSHVBaWpsWC13ckhFWElnTF9MM1BpVkUyd2JsTkZDQ2JmSkRTd3lKOEl1TUJ5RHctUUd1TzZldmtmQXE0WFd0RG5kR2hLenBTSmEwcjBReUVCbGhGTEpJODRZbVRR",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-30T20:06:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-30T20:06:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGN6NlFDMHVCclBHbUpfdjFHa0J3aHAyMEVNTkxXaWZKR2Y4QXdHZlJrSHVBaWpsWC13ckhFWElnTF9MM1BpVkUyd2JsTkZDQ2JmSkRTd3lKOEl1TUJ5RHctUUd1TzZldmtmQXE0WFd0RG5kR2hLenBTSmEwcjBReUVCbGhGTEpJODRZbVRR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "bfe044412788",
    "title": "【视频】我的爱车：特斯拉Roadster，高速公路之旅！ - 汽车之家",
@@ -6473,26 +6490,6 @@
    "zh_summary": "特斯拉股价迎来好消息",
    "title_zh": "特斯拉股民的好消息",
    "sentiment": 1
-  },
-  {
-   "id": "2599e42f1d7f",
-   "title": "Here are Thursday's biggest analyst calls: Nvidia, Anthropic, Apple, Tesla, Chevron, Microsoft, Alphabet & more - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVA5WXFSbjhHemhHc0pudjZKVlU3X1JOMzVMLUdGMUI1Y3JOYXBRZHNBOUg1bEYxOWJJT042czBjSW5CWnc3Mi1vSjc4M3lkZ0ZkZ09sRkZYSlVDaHJRVkNGVFhBNzcwTXBrUHduZXh3VjZPNU93SkYzaWRTeVlORTRDS3hsVlJuLWc",
-   "source": "CNBC",
-   "published_at": "2026-10-29T12:08:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-29T12:08:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVA5WXFSbjhHemhHc0pudjZKVlU3X1JOMzVMLUdGMUI1Y3JOYXBRZHNBOUg1bEYxOWJJT042czBjSW5CWnc3Mi1vSjc4M3lkZ0ZkZ09sRkZYSlVDaHJRVkNGVFhBNzcwTXBrUHduZXh3VjZPNU93SkYzaWRTeVlORTRDS3hsVlJuLWc"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "周四华尔街大行点评含特斯拉",
-   "title_zh": "周四华尔街重要分析师点评：英伟达、特斯拉等",
-   "sentiment": 0
   }
  ]
 }
