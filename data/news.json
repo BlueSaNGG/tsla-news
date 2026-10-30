@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T17:52:41.971127+00:00",
+ "updated_at": "2026-10-30T18:07:29.458867+00:00",
  "market": {
-  "price": 396.61,
-  "change_pct": -1.66,
+  "price": 395.36,
+  "change_pct": -1.97,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.9%"
+     "note": "目标价中位数 $400（19家），隐含空间 +1.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.07（123条已评分）"
+     "note": "今日新闻情绪 +0.08（124条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $396.61 vs 20日均线 $380.54"
+     "note": "现价 $395.36 vs 20日均线 $380.44"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 51,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.9,
-   "ma20": 380.54,
-   "as_of": "2026-10-30T17:52:41.960193+00:00"
+   "implied_upside_pct": 1.2,
+   "ma20": 380.44,
+   "as_of": "2026-10-30T18:07:29.451414+00:00"
   },
-  "pe_ttm": 109.7,
+  "pe_ttm": 109.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+1.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 123
+   "avg": 0.08,
+   "count": 124
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "8d4c714f2929",
+   "title": "Tesla-SpaceX Merger Could Face The Biggest Regulatory Risk In China, BofA Warns - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGxodlNrVzVMWlN4YnpIVEFqMzFYOXpjNnNCZXo4QUs5NzUtZEJ4a0M4czlpWS1WOTB6Sk5UbVRPWnc0R01YcVRnTi1lM1hFbU5vbUdTQ3lzX0F3LUFndDdwVkNzNEhIWms2d1A5Y002UF9UWWtrUXppSkQ1bzVfS0ZYcTcyQ3dsUjNzQ3dXRkVRSHhucmdYTU1FalppSFptc2VVQnZ2T2tUQ05NZk1UTy02ZmQtVUE4ZjBPNmFVcXpibTZ6dkFLRnFXVkdiMDRyYU1vNFota0Fhb0E",
+   "source": "Stocktwits",
+   "published_at": "2026-10-30T18:04:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-30T18:04:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGxodlNrVzVMWlN4YnpIVEFqMzFYOXpjNnNCZXo4QUs5NzUtZEJ4a0M4czlpWS1WOTB6Sk5UbVRPWnc0R01YcVRnTi1lM1hFbU5vbUdTQ3lzX0F3LUFndDdwVkNzNEhIWms2d1A5Y002UF9UWWtrUXppSkQ1bzVfS0ZYcTcyQ3dsUjNzQ3dXRkVRSHhucmdYTU1FalppSFptc2VVQnZ2T2tUQ05NZk1UTy02ZmQtVUE4ZjBPNmFVcXpibTZ6dkFLRnFXVkdiMDRyYU1vNFota0Fhb0E"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "1443bc726d0b",
+   "title": "Tesla drops car referral rewards, now pays owners in FSD for referrals - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX01kMURRdVUyMndBZE1ObXF2S1Q5ZWg0a2o1WDVXeE9MbzV3bUI3MnVYb1E3WnpPTk9jZkhCUXQ5ZjdiWnc2S2Q0NERhcTVJYzlpYTJuSFRSZjVhaUVhSmM3TzVJQnVsZkRqSGRxT2lsUGxDNFduSVBxWHNhbzN1OGptdUc",
+   "source": "Electrek",
+   "published_at": "2026-10-30T18:04:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-30T18:04:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX01kMURRdVUyMndBZE1ObXF2S1Q5ZWg0a2o1WDVXeE9MbzV3bUI3MnVYb1E3WnpPTk9jZkhCUXQ5ZjdiWnc2S2Q0NERhcTVJYzlpYTJuSFRSZjVhaUVhSmM3TzVJQnVsZkRqSGRxT2lsUGxDNFduSVBxWHNhbzN1OGptdUc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "4cf1cca1875c",
+   "title": "Tesla’s rocket-shaped Houston service map: The Good, Bad, and Ugly of the week - Houston Public Media",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOejZoZmduc2kwUUpqWHRVUmxaeGczMzlUVG9sNjc2TnV2WXJzaGRiWlYyNU01eFFhQ0Fab01PNUwxOFZaQ0VTMVNzb0hsdGprQUc1ZmNXVmVsSlFHdk1WU0hHR19vVUZITUpVamZ0OVBEdjVwektIbDh0SHgzMVdldi1ZV1c0V1pwcnZSWFkzQWJVN3IzNWtHR294TGdBYVRZSnJjTGZzQ3dxTGx5eGU5SW15QzkxX2F6U2FOQ0tyNVBJSlI3OU5HNnJUVGRLeHNZT19zRFhXQXd3QXR4MGhUZUZWcWJ6ZG5odkpha1psMnHSAfgBQVVfeXFMTWFBR0pMZGluanF4dE95eVd1N213N1RVLTdBcExDOGhyUnplc1RWb01IczZMcXpWd2lacHZHMy1IWUktYkhQOExqNVlGVUNYSXJmT19qUGFTeFRVNjZSaVJaQmJuZEFFVFYzZ2l2SFJmSV9TaW9IR24yZnJRTWp4YTFqOXlKOUpKVk5NTmpvM3YxblZWQ0VMRDUtbF9PaGdJWGY4SVN3bUxCMGxvVDdpZ0pYV2Z4eGh3UVJrYTF0T3NTVTlTaks5aFhWc2pLZlRqNktMN20yT24zYWpWeUwyYzNianRaWXdTNi1KblMyTDBDU0lsTEhJUnY",
+   "source": "Houston Public Media",
+   "published_at": "2026-10-30T17:33:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Houston Public Media",
+     "published_at": "2026-10-30T17:33:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOejZoZmduc2kwUUpqWHRVUmxaeGczMzlUVG9sNjc2TnV2WXJzaGRiWlYyNU01eFFhQ0Fab01PNUwxOFZaQ0VTMVNzb0hsdGprQUc1ZmNXVmVsSlFHdk1WU0hHR19vVUZITUpVamZ0OVBEdjVwektIbDh0SHgzMVdldi1ZV1c0V1pwcnZSWFkzQWJVN3IzNWtHR294TGdBYVRZSnJjTGZzQ3dxTGx5eGU5SW15QzkxX2F6U2FOQ0tyNVBJSlI3OU5HNnJUVGRLeHNZT19zRFhXQXd3QXR4MGhUZUZWcWJ6ZG5odkpha1psMnHSAfgBQVVfeXFMTWFBR0pMZGluanF4dE95eVd1N213N1RVLTdBcExDOGhyUnplc1RWb01IczZMcXpWd2lacHZHMy1IWUktYkhQOExqNVlGVUNYSXJmT19qUGFTeFRVNjZSaVJaQmJuZEFFVFYzZ2l2SFJmSV9TaW9IR24yZnJRTWp4YTFqOXlKOUpKVk5NTmpvM3YxblZWQ0VMRDUtbF9PaGdJWGY4SVN3bUxCMGxvVDdpZ0pYV2Z4eGh3UVJrYTF0T3NTVTlTaks5aFhWc2pLZlRqNktMN20yT24zYWpWeUwyYzNianRaWXdTNi1KblMyTDBDU0lsTEhJUnY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "b843fba83dbd",
    "title": "2023款特斯拉Model 3夜间停车车内起火，车载电池与三电系统安全参数全拆解 - 网通社",
@@ -6399,66 +6450,6 @@
    "session": "盘前",
    "zh_summary": "福特效仿特斯拉生产大型铝部件",
    "title_zh": "福特效仿特斯拉，生产超5000个大型铝部件",
-   "sentiment": 0
-  },
-  {
-   "id": "7b3a066ac5a7",
-   "title": "Why Should Tesla Stock Holders Watch This One Number? - Trefis",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHRfQWJDVE5Cc3g2TnNpUVB0cVRTLVZtWmE3cG1WZG9NdTZUN1lEdV82Q2VCSmhCMWdfajE4VDVGZ2dta0phMU9HSjlxeEdOVFl5N25NMVYxcE9RTUpZVVhvRF9UdXZLR0UzU1Z6bEs2VnFGbElNSmY5c2xaOW51RlV2aWdYZDViRE93Vl9ZNnJTenU4V2h2Njh6V21ZNjRLbWxsN0tRY3Vkak9tdmw1TXhLVQ",
-   "source": "Trefis",
-   "published_at": "2026-10-29T10:38:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Trefis",
-     "published_at": "2026-10-29T10:38:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHRfQWJDVE5Cc3g2TnNpUVB0cVRTLVZtWmE3cG1WZG9NdTZUN1lEdV82Q2VCSmhCMWdfajE4VDVGZ2dta0phMU9HSjlxeEdOVFl5N25NMVYxcE9RTUpZVVhvRF9UdXZLR0UzU1Z6bEs2VnFGbElNSmY5c2xaOW51RlV2aWdYZDViRE93Vl9ZNnJTenU4V2h2Njh6V21ZNjRLbWxsN0tRY3Vkak9tdmw1TXhLVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "分析称特斯拉股东应关注关键指标",
-   "title_zh": "特斯拉股东为何应关注这一关键数字",
-   "sentiment": 0
-  },
-  {
-   "id": "09aba26d61f3",
-   "title": "How The Tesla Roadster's Insane SpaceX Tech Could Rewrite The Performance Car Playbook - CarBuzz",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OHI5eXBxWmtWbWJ5a0ZGck9qWEdpcVZXLXZQcmFrTjh5Qk9fcVdmQ1lmOXhrQ1ROTjRLRURDVTJoLTBodW13WlpESkNoaVNqelZsTmNidVdrYXM",
-   "source": "CarBuzz",
-   "published_at": "2026-10-29T10:33:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CarBuzz",
-     "published_at": "2026-10-29T10:33:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OHI5eXBxWmtWbWJ5a0ZGck9qWEdpcVZXLXZQcmFrTjh5Qk9fcVdmQ1lmOXhrQ1ROTjRLRURDVTJoLTBodW13WlpESkNoaVNqelZsTmNidVdrYXM"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "特斯拉跑车SpaceX技术或改写性能车规则",
-   "title_zh": "特斯拉跑车的SpaceX疯狂技术或改写性能车规则",
-   "sentiment": 0
-  },
-  {
-   "id": "fd6b07d08c9a",
-   "title": "Musk宣称特斯拉Robotaxi胜过Waymo，但Waymo的行驶里程仍是其7倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0x1SEp6U0F2QVZLNTFHXzI1N0F0WWZGSlNZMHN2bTBWdWJMcjFKV2s4YTBBM0hFQ1l1MTNkOUFYUEdIQlBQTjFUUmpYeC1PR3dHQ3dwNFczcGtaUTNFd1luRktfb0dkZFl5UEVQZnNzVUhSVFBtZGRrTlM5eFpQQzhKcHhlZ2px",
-   "source": "搜狐网",
-   "published_at": "2026-10-29T10:31:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-29T10:31:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0x1SEp6U0F2QVZLNTFHXzI1N0F0WWZGSlNZMHN2bTBWdWJMcjFKV2s4YTBBM0hFQ1l1MTNkOUFYUEdIQlBQTjFUUmpYeC1PR3dHQ3dwNFczcGtaUTNFd1luRktfb0dkZFl5UEVQZnNzVUhSVFBtZGRrTlM5eFpQQzhKcHhlZ2px"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "马斯克称Robotaxi胜Waymo但里程落后",
-   "title_zh": "Musk宣称特斯拉Robotaxi胜过Waymo，但Waymo里程仍是其7倍",
    "sentiment": 0
   }
  ]
