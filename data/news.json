@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T19:22:39.484975+00:00",
+ "updated_at": "2026-10-30T19:37:35.427582+00:00",
  "market": {
-  "price": 398.51,
-  "change_pct": -1.19,
+  "price": 398.9,
+  "change_pct": -1.09,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 52% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（135条已评分）"
+     "note": "今日新闻情绪 +0.07（138条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $398.51 vs 20日均线 $380.63"
+     "note": "现价 $398.90 vs 20日均线 $380.64"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 52,
+   "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.4,
-   "ma20": 380.63,
-   "as_of": "2026-10-30T19:22:39.464802+00:00"
+   "implied_upside_pct": 0.3,
+   "ma20": 380.64,
+   "as_of": "2026-10-30T19:37:35.420618+00:00"
   },
-  "pe_ttm": 110.2,
+  "pe_ttm": 110.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 135
+   "avg": 0.07,
+   "count": 138
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "53e70a04fdf3",
+   "title": "Tesla: Paying Peak Multiples For Promises That Keep Slipping (Rating Downgrade) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUZnVThvVXJQUjdTSjVTLXdQcVVRNFJBdTVVNVRnakIzVnpqVkNWNUZBb01XZkl0WF9Xc0NFMHFpTTZoU3VkYklPdjFaVnVCVEttSVJBSGVaaEpvME5haEptU2Y4UWJNSndObGVDcEt0M1B3WV9PNHdiYVY1dFktUkc4Tk1wbW1Va09xNmJKWjhBaDlrUk0tX1M5RmRBZjhJa1FkdEJwME9pR2JnTjE0",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-30T19:30:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-30T19:30:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUZnVThvVXJQUjdTSjVTLXdQcVVRNFJBdTVVNVRnakIzVnpqVkNWNUZBb01XZkl0WF9Xc0NFMHFpTTZoU3VkYklPdjFaVnVCVEttSVJBSGVaaEpvME5haEptU2Y4UWJNSndObGVDcEt0M1B3WV9PNHdiYVY1dFktUkc4Tk1wbW1Va09xNmJKWjhBaDlrUk0tX1M5RmRBZjhJa1FkdEJwME9pR2JnTjE0"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "faef391fd273",
+   "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTAwY05JaXRmVFE3azNWMlQtZkV4OVRYTnpZMW9YWFJKV3ZLY0N2dkdPcU4wR2pYVmdkZ3lDbGNKc0lGUXFqUDlsb3Z0UFg5elktbURDLUxScmVya2N2S1Z1SEFFQXBCTnJuUmxtZmZ6T3BwdzJNSzVHcDlzbTVWc012VDQ2TWZjT0pMcTZtanUtbkw2MjlpYTFvSQ",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-30T19:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-30T19:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTAwY05JaXRmVFE3azNWMlQtZkV4OVRYTnpZMW9YWFJKV3ZLY0N2dkdPcU4wR2pYVmdkZ3lDbGNKc0lGUXFqUDlsb3Z0UFg5elktbURDLUxScmVya2N2S1Z1SEFFQXBCTnJuUmxtZmZ6T3BwdzJNSzVHcDlzbTVWc012VDQ2TWZjT0pMcTZtanUtbkw2MjlpYTFvSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "02b448e5f8b4",
    "title": "首付降至3.99万，特斯拉购车门槛腰斩 - 手机新浪网",
@@ -2483,26 +2517,6 @@
    "sentiment": -1
   },
   {
-   "id": "6fe45d2be876",
-   "title": "特斯拉油门踩断尊界 V800支架裂超100万 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNS1YWmxPUlNPME9GeFpfU2FSX2gzY0l5Vk4tWVRVQUFqYmxrdXlrR196eEsycThHRkVNalBIU2xHdklCbzRFNlo0ZXVvOU9tSk8zUWM2YkhxS00",
-   "source": "汽车之家",
-   "published_at": "2026-10-30T07:30:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-30T07:30:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNS1YWmxPUlNPME9GeFpfU2FSX2gzY0l5Vk4tWVRVQUFqYmxrdXlrR196eEsycThHRkVNalBIU2xHdklCbzRFNlo0ZXVvOU9tSk8zUWM2YkhxS00"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉油门踩断引争议",
-   "title_zh": "特斯拉油门踩断尊界 V800支架裂超100万 - 汽车之家",
-   "sentiment": -1
-  },
-  {
    "id": "b44c6e5cee6f",
    "title": "前特斯拉Autopilot负责人抨击纯视觉方案：无视物理规律的技术执念 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2RqaW9JWEhqN1dZSkFGeGNGeGxCOUMyUjhQZGZpbE5rNlgweVFPUkQ4ejk1UUdlMUdVQ2JBMTVSZlZYM0UycmV1bFRSMkZaXzFrRW92ZzRYR2JwVlY4bjdIdmVYS0huOF81bHNpaS1DZjZyX3JTWG1SaHRvY2IxeVBQU3B5c0Yy",
@@ -3084,6 +3098,26 @@
    "zh_summary": "SpaceX与特斯拉合并传闻",
    "title_zh": "SpaceX与特斯拉合并、Anthropic AI律师：科技新闻",
    "sentiment": 0
+  },
+  {
+   "id": "6fe45d2be876",
+   "title": "特斯拉油门踩断尊界 V800支架裂超100万 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNS1YWmxPUlNPME9GeFpfU2FSX2gzY0l5Vk4tWVRVQUFqYmxrdXlrR196eEsycThHRkVNalBIU2xHdklCbzRFNlo0ZXVvOU9tSk8zUWM2YkhxS00",
+   "source": "汽车之家",
+   "published_at": "2026-10-30T04:36:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-30T04:36:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNS1YWmxPUlNPME9GeFpfU2FSX2gzY0l5Vk4tWVRVQUFqYmxrdXlrR196eEsycThHRkVNalBIU2xHdklCbzRFNlo0ZXVvOU9tSk8zUWM2YkhxS00"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉油门踩断引争议",
+   "title_zh": "特斯拉油门踩断尊界 V800支架裂超100万 - 汽车之家",
+   "sentiment": -1
   },
   {
    "id": "46c2d5b607f2",
@@ -6452,46 +6486,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉在韩国遭遇FSD集体诉讼",
    "title_zh": "【视频】特斯拉在韩国遭遇集体诉讼？车主买到一个半成品FSD?",
-   "sentiment": -1
-  },
-  {
-   "id": "f85369d52443",
-   "title": "How Tesla Blundered - Trefis",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGdpdVU3b2xZZ21JRS01eG5JVEFibHF0X2dVNlAtZEttVDJhbHQ1bF9QVzZqeXphZUVyVlZNYVFmSWJkd2ZhempNdklDNVA5QlRsaVd5UkNjQ1dDdVN0ZW9HWTJJZW1ZbXl4aGZSa08tYXlLUjFwUHZsSzlURG9tU0dxZGg4Rjg",
-   "source": "Trefis",
-   "published_at": "2026-10-29T11:48:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Trefis",
-     "published_at": "2026-10-29T11:48:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGdpdVU3b2xZZ21JRS01eG5JVEFibHF0X2dVNlAtZEttVDJhbHQ1bF9QVzZqeXphZUVyVlZNYVFmSWJkd2ZhempNdklDNVA5QlRsaVd5UkNjQ1dDdVN0ZW9HWTJJZW1ZbXl4aGZSa08tYXlLUjFwUHZsSzlURG9tU0dxZGg4Rjg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "分析称特斯拉犯下失误",
-   "title_zh": "特斯拉如何犯错",
-   "sentiment": -1
-  },
-  {
-   "id": "3b2f07fb5901",
-   "title": "Tesla Robotaxi riders report detours after Houston service expands - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWXpCVHlmMmJteHo3SzJJa0dQQ29ja2dzZjBVLUc2X2xVUzFjLVlfMWdFaGduV2NsOWs2Tnh1ZjJWZTU1V2xSQ1ppZWlxdXgyZDg5ajRWVUZpblFHNi1BdjNZaXUwb2hvMTBSeTU0WVJDcHJjekE",
-   "source": "The Next Web",
-   "published_at": "2026-10-29T11:44:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-29T11:44:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWXpCVHlmMmJteHo3SzJJa0dQQ29ja2dzZjBVLUc2X2xVUzFjLVlfMWdFaGduV2NsOWs2Tnh1ZjJWZTU1V2xSQ1ppZWlxdXgyZDg5ajRWVUZpblFHNi1BdjNZaXUwb2hvMTBSeTU0WVJDcHJjekE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "休斯顿Robotaxi扩展后乘客反映绕路",
-   "title_zh": "特斯拉Robotaxi休斯顿扩展后乘客报告绕路",
    "sentiment": -1
   }
  ]
