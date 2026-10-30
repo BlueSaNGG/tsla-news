@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-30T13:22:35.889207+00:00",
+ "updated_at": "2026-10-30T13:37:26.519994+00:00",
  "market": {
-  "price": 403.3,
-  "change_pct": -0.23,
-  "as_of": "2026-10-29",
+  "price": 390.21,
+  "change_pct": -3.25,
+  "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
    "label": "Q3 2026 财报",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 48% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 +2.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（82条已评分）"
+     "note": "今日新闻情绪 +0.09（86条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.30 vs 20日均线 $379.24"
+     "note": "现价 $390.21 vs 20日均线 $380.22"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 48,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.8,
-   "ma20": 379.24,
-   "as_of": "2026-10-30T13:22:35.876607+00:00"
+   "implied_upside_pct": 2.5,
+   "ma20": 380.22,
+   "as_of": "2026-10-30T13:37:26.504805+00:00"
   },
-  "pe_ttm": 111.5,
+  "pe_ttm": 107.9,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+2.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.09,
-   "count": 82
+   "count": 86
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "01c6c9e590a5",
+   "title": "Rivian Reports 38% Q3 Revenue Jump as R2 Becomes Its Best-Selling Vehicle - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFFGZjM3SUVoYVZkQnNzNUVQV3Fvb091bExhM2FpcHFNRnN0anNSR0dRQlp3bzZsa1ptOHBkZ1VDaHlfRmxOUlBGYXNfVHlfd1phd3BwQTEzVUJIN09KU1dObTVSRTFzTDFUSVVUR0lhOHV5YzFTRkY5NWctN2lWZllSSjM1THM",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-30T13:24:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-30T13:24:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFFGZjM3SUVoYVZkQnNzNUVQV3Fvb091bExhM2FpcHFNRnN0anNSR0dRQlp3bzZsa1ptOHBkZ1VDaHlfRmxOUlBGYXNfVHlfd1phd3BwQTEzVUJIN09KU1dObTVSRTFzTDFUSVVUR0lhOHV5YzFTRkY5NWctN2lWZllSSjM1THM"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "7333534053fc",
    "title": "Tesla Robotaxi Now Operates 20 Hours Per Day - Drive Tesla Canada",
@@ -890,7 +907,11 @@
    "session": "盘前",
    "zh_summary": "机构看多特斯拉等股，Alphabet遭下调",
    "title_zh": "Stocktwits华尔街综述：特斯拉等获看多评级",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "018c2266c76a",
@@ -1241,7 +1262,11 @@
    "breaking": true,
    "zh_summary": "前Autopilot负责人批评特斯拉纯视觉方案",
    "title_zh": "前Autopilot负责人炮轰特斯拉纯视觉方案：无视物理规律奇怪的宗教立场",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cfe06a029a8a",
@@ -1302,6 +1327,23 @@
    "zh_summary": "特斯拉推5年0息分期首付门槛降低",
    "title_zh": "特斯拉上线特从容分期方案：5年0息首付门槛再降",
    "sentiment": 1
+  },
+  {
+   "id": "c59fd8ffbebc",
+   "title": "【视频】跟特斯拉掰手腕，小鹏Mona L05全球车正式上市13.98万交个鹏友！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZaDFjQ1dnTEdaN0NaUDZ1ZHV1eG9RTjVMbVU5eXZ4TlJfMEE4RW5Jd0M5QzhOM0JzRWdlWTVBaUIwOTRFc3NVaUhXY2c0RWpfS0szT25NUkctVjA",
+   "source": "汽车之家",
+   "published_at": "2026-10-30T07:31:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-30T07:31:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZaDFjQ1dnTEdaN0NaUDZ1ZHV1eG9RTjVMbVU5eXZ4TlJfMEE4RW5Jd0M5QzhOM0JzRWdlWTVBaUIwOTRFc3NVaUhXY2c0RWpfS0szT25NUkctVjA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e0fa395d88c9",
@@ -1371,7 +1413,11 @@
    "session": "盘前",
    "zh_summary": "前Autopilot负责人批纯视觉方案",
    "title_zh": "前特斯拉Autopilot负责人抨击纯视觉方案：无视物理规律的技术执念",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2c9164e80fd4",
@@ -1379,10 +1425,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4",
    "source": "tech-insider.org",
    "published_at": "2026-10-30T07:20:33+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-30T07:20:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-30T07:20:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4"
     }
@@ -1591,7 +1642,11 @@
    "session": "盘前",
    "zh_summary": "反对SpaceX与特斯拉合并的观点",
    "title_zh": "反对SpaceX与特斯拉合并的理由",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "1b857fb00d99",
@@ -2316,7 +2371,11 @@
    "session": "盘后",
    "zh_summary": "分析师称特斯拉与SpaceX合并具战略意义",
    "title_zh": "分析师称特斯拉与SpaceX合并具战略意义，但SpaceX需近两倍增长",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "ee40a9a58b9a",
@@ -2426,7 +2485,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉推特从容方案0利息首付3.99万元",
    "title_zh": "特斯拉推出全新购车方案“特从容”：0利息首付低至3.99万元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "89b02a49f46b",
@@ -2481,7 +2544,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉中国调价，Model 3尾款立减升至1万元",
    "title_zh": "特斯拉中国调整购车政策，Model 3尾款立减升至1万元",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "01eb1f2077c0",
@@ -2801,7 +2868,11 @@
    "session": "盘后",
    "zh_summary": "特斯拉推特从容分期，Model 3首付3.99万",
    "title_zh": "特斯拉推出特从容分期购车方案，Model 3首付3.99万元起",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.47,
+    "window_h": 0.1
+   }
   },
   {
    "id": "6685be9699b1",
@@ -6434,46 +6505,6 @@
     "pct": -0.24,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "f526ffe6aa7f",
-   "title": "【国际动态】特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOUpyVEpGOVNEaHYwYnVyM3JpYXNfV2M2UkFLTy1SVk15NXR2bUpFbzVPMU5kaFdmWHI4REt0WThRbFUwYnVOX1FDR1ZBZXZBODczMVZlNDB1ZDVpeHlYVmNqSnI0dDhyME8xRDgyRW9CamtybVZoRXB2YXFHSWZYSmtyMFdpZ0M0ZDBXRDNnWXRJdThoc1o1UUlTN3l2bzYxb0xUUDJMa3c1OFFpRGJxZ2xVWGprcXgwOEh3OHlvbG9ia0lGX0x2UWNXWXhFUGJVQ1J5MVdPRFh5SW9f",
-   "source": "手机新浪网",
-   "published_at": "2026-10-29T06:51:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-29T06:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOUpyVEpGOVNEaHYwYnVyM3JpYXNfV2M2UkFLTy1SVk15NXR2bUpFbzVPMU5kaFdmWHI4REt0WThRbFUwYnVOX1FDR1ZBZXZBODczMVZlNDB1ZDVpeHlYVmNqSnI0dDhyME8xRDgyRW9CamtybVZoRXB2YXFHSWZYSmtyMFdpZ0M0ZDBXRDNnWXRJdThoc1o1UUlTN3l2bzYxb0xUUDJMa3c1OFFpRGJxZ2xVWGprcXgwOEh3OHlvbG9ia0lGX0x2UWNXWXhFUGJVQ1J5MVdPRFh5SW9f"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Optimus机器人将为Robotaxi插拔充电枪",
-   "title_zh": "特斯拉计划用Optimus机器人为Robotaxi充电",
-   "sentiment": 1
-  },
-  {
-   "id": "db168b87378b",
-   "title": "Tesla wins court battle over delayed FSD features in South Korea (TSLA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEp0Vkl0TllLMjd6MzhSZ3JRVUY4YmhaMFl0UFJUcDhLajBDZlpsWnZCSHJpZTMxNkw3bkZUT2lqN2otcU9HT21WOHd1U3JvNC0tQTg1T3ljb2MwRWJvTWpPaV95aVZxMVduWURRTUd0WGw4bFltc29JWnVNbk85TDRUM1lGTVNpdldBajBuVTJDeEh0SFZWdHFfM2UteHhLMm9QeQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-29T06:48:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-29T06:48:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEp0Vkl0TllLMjd6MzhSZ3JRVUY4YmhaMFl0UFJUcDhLajBDZlpsWnZCSHJpZTMxNkw3bkZUT2lqN2otcU9HT21WOHd1U3JvNC0tQTg1T3ljb2MwRWJvTWpPaV95aVZxMVduWURRTUd0WGw4bFltc29JWnVNbk85TDRUM1lGTVNpdldBajBuVTJDeEh0SFZWdHFfM2UteHhLMm9QeQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉赢得韩国FSD延迟功能诉讼",
-   "title_zh": "特斯拉赢得韩国FSD延迟功能诉讼案",
-   "sentiment": 1
   }
  ]
 }
