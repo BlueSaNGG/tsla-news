@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:07:29.024008+00:00",
+ "updated_at": "2026-10-30T07:22:26.753769+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（10条已评分）"
+     "note": "今日新闻情绪 +0.14（14条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T07:07:29.001677+00:00"
+   "as_of": "2026-10-30T07:22:26.742864+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 10
+   "avg": 0.14,
+   "count": 14
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2f01a5df4475",
+   "title": "25万纯电选择只有特斯拉和理想 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUjZaVFNpbENHVzNjQ294ZUNTOXJHams2SVhldExrTURoa295S2dsYm1JM3JyR05KQzd0M25OUUhpdnhEQWFsYmVLNWJ3S1lSLWZkQkpWanhUQ19XTlZLSnJySzQ5OEd0aUlRR3p5c19jRVdKQ3BFX242Zjc5akZjaGt6YTN1dnZWTjdxRw",
+   "source": "搜狐网",
+   "published_at": "2026-10-30T07:11:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T07:11:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUjZaVFNpbENHVzNjQ294ZUNTOXJHams2SVhldExrTURoa295S2dsYm1JM3JyR05KQzd0M25OUUhpdnhEQWFsYmVLNWJ3S1lSLWZkQkpWanhUQ19XTlZLSnJySzQ5OEd0aUlRR3p5c19jRVdKQ3BFX242Zjc5akZjaGt6YTN1dnZWTjdxRw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "c2d596354cda",
    "title": "Tesla Cybercab Hit in Austin: What Owners Should Know - BASENOR - Tesla Accessories",
@@ -6471,26 +6488,6 @@
    "zh_summary": "Waymo扩张，特斯拉等对手加速追赶",
    "title_zh": "Waymo持续扩张，特斯拉等对手加速追赶",
    "sentiment": 0
-  },
-  {
-   "id": "bda89d45df25",
-   "title": "9th Circuit Vacates 3 Tesla FSD Classes in LoSavio [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE13Q0pQR09hLWJ3d05FVmFwb2pneVFmcDRVTVV3emlZekIxN2hxR2l1LW5Oazd3RDB3VExBTlFfUzZmZkZvVmZGUXFoSURpWkVnOVZiTlpDWV9aNHNjMmF2cndfSG5VYUtfZXZEMVVyTm9TV3hwYUlLY1dYem9vbFln",
-   "source": "shattered.io",
-   "published_at": "2026-10-28T20:45:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-28T20:45:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE13Q0pQR09hLWJ3d05FVmFwb2pneVFmcDRVTVV3emlZekIxN2hxR2l1LW5Oazd3RDB3VExBTlFfUzZmZkZvVmZGUXFoSURpWkVnOVZiTlpDWV9aNHNjMmF2cndfSG5VYUtfZXZEMVVyTm9TV3hwYUlLY1dYem9vbFln"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "美国第九巡回法院撤销三起FSD集体诉讼",
-   "title_zh": "第九巡回法院撤销三起特斯拉FSD集体诉讼",
-   "sentiment": 1
   }
  ]
 }
