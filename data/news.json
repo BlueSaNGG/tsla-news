@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T10:52:29.207333+00:00",
+ "updated_at": "2026-10-30T11:07:26.274160+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（57条已评分）"
+     "note": "今日新闻情绪 +0.06（64条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T10:52:29.201250+00:00"
+   "as_of": "2026-10-30T11:07:26.268054+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 57
+   "avg": 0.06,
+   "count": 64
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "87a5859cb0ca",
+   "title": "想带马斯克飞一圈！小鹏汇天赵德力：我们的飞行汽车更实用 敢和特斯拉竞争 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ycW5RRGxlZkZiUmdFa09Fa3c0TUt4cUpieHlOeGhLYVFjcnZMSDVyTUZ3Qml6dGVXa3kzUWo4N0I1TFFsUmY4NHZrN3hRMUtOMElxaEYxVms",
+   "source": "驱动之家",
+   "published_at": "2026-10-30T10:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-30T10:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ycW5RRGxlZkZiUmdFa09Fa3c0TUt4cUpieHlOeGhLYVFjcnZMSDVyTUZ3Qml6dGVXa3kzUWo4N0I1TFFsUmY4NHZrN3hRMUtOMElxaEYxVms"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
   {
    "id": "5fc35f55995d",
    "title": "【视频】笑不活了！特斯拉把万圣节玩成惊悚游戏 - 汽车之家",
@@ -6479,31 +6496,6 @@
    "zh_summary": "特斯拉计划2027年底交付Optimus机器人",
    "title_zh": "特斯拉计划于2027年底交付Optimus人形机器人",
    "sentiment": 1
-  },
-  {
-   "id": "77f91e170235",
-   "title": "10个客户7个对比Model Y！2026款理想i6订单暴增：特斯拉底盘太硬被吐槽 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rMmp2dHZnaGVnNmV4UXo0RkYwampXYmR4TFZCV1JvWmNVTzBlUVVTUEFhQ3BnSGR2ZFB3ZDNxTDBuNFBrZDJCQ0R3N2FaS0tSU0oyQTU2VkY",
-   "source": "驱动之家",
-   "published_at": "2026-10-29T04:28:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-29T04:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rMmp2dHZnaGVnNmV4UXo0RkYwampXYmR4TFZCV1JvWmNVTzBlUVVTUEFhQ3BnSGR2ZFB3ZDNxTDBuNFBrZDJCQ0R3N2FaS0tSU0oyQTU2VkY"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-29T04:28:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uOXJVU2tvYUpsWC1pajVmNzJwWHh4c2VGdE44bGFlb09qbWNlcFUxSTVNa1kwb1huTWtUVzNFLU1TYW9ycEY3bGttSnE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "理想i6订单暴增，特斯拉底盘被吐槽",
-   "title_zh": "理想i6订单暴增，7成客户对比Model Y",
-   "sentiment": -1
   }
  ]
 }
