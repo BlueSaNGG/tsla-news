@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T17:07:42.879594+00:00",
+ "updated_at": "2026-10-30T17:22:32.818616+00:00",
  "market": {
-  "price": 398.95,
-  "change_pct": -1.08,
+  "price": 398.52,
+  "change_pct": -1.19,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.07（120条已评分）"
+     "note": "今日新闻情绪 +0.08（122条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $398.95 vs 20日均线 $380.65"
+     "note": "现价 $398.52 vs 20日均线 $380.63"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.3,
-   "ma20": 380.65,
-   "as_of": "2026-10-30T17:07:42.868986+00:00"
+   "implied_upside_pct": 0.4,
+   "ma20": 380.63,
+   "as_of": "2026-10-30T17:22:32.811965+00:00"
   },
-  "pe_ttm": 110.3,
+  "pe_ttm": 110.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 120
+   "avg": 0.08,
+   "count": 122
   }
  },
  "meta": {
@@ -93,12 +93,17 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEVSRW9acE5rN2E1Wm9XU1hIT1dsVGh4eTE3QndNLXNzT3hEdEQ4RE5fanJ1RGJtcmFsMVZTZHpmRW5DbEdtX0pGN0xtempCX01EWGxTRlRhMExzNUhwdlZaUnNsNW9nVWJxYmJ3ZEVKV2RSZkFKMWdmN0xLeHV2NDVRM1dKSkJaZ1pMUkVNT3RHNHRVQnNMczhURVBVQnRRSWx0WWRlZVh5RVlIYm5ERWZuZVljMVRZVllCRmlfbw",
    "source": "The Motley Fool",
    "published_at": "2026-10-30T16:59:26+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-30T16:59:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEVSRW9acE5rN2E1Wm9XU1hIT1dsVGh4eTE3QndNLXNzT3hEdEQ4RE5fanJ1RGJtcmFsMVZTZHpmRW5DbEdtX0pGN0xtempCX01EWGxTRlRhMExzNUhwdlZaUnNsNW9nVWJxYmJ3ZEVKV2RSZkFKMWdmN0xLeHV2NDVRM1dKSkJaZ1pMUkVNT3RHNHRVQnNMczhURVBVQnRRSWx0WWRlZVh5RVlIYm5ERWZuZVljMVRZVllCRmlfbw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T17:09:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2hDZ0tYR2FJMlhjTTBEdGYxWjJVay13TWpyWjlBN2Zqa0d3Y1N2TVdqVkZmekotWEFsRk9TOG5lWnR2cGNXZjRqSmNUYzJpM19UZmZsSk0takxITHpYVnpQbmRRYnFvb0ZyRTBmVnEzXzBQYkxJSk5lRnZmZHN2X2taYV9aOUlXOEpkNWpTdzBlbFZQM0h1bGZ3dmVndw"
     }
    ],
    "category": "财报",
