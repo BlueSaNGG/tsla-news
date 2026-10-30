@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T16:37:29.943533+00:00",
+ "updated_at": "2026-10-30T16:52:29.016080+00:00",
  "market": {
-  "price": 400.57,
-  "change_pct": -0.68,
+  "price": 399.43,
+  "change_pct": -0.96,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（115条已评分）"
+     "note": "今日新闻情绪 +0.08（117条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $400.57 vs 20日均线 $380.74"
+     "note": "现价 $399.43 vs 20日均线 $380.68"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.1,
-   "ma20": 380.74,
-   "as_of": "2026-10-30T16:37:29.934682+00:00"
+   "implied_upside_pct": 0.1,
+   "ma20": 380.68,
+   "as_of": "2026-10-30T16:52:29.008512+00:00"
   },
-  "pe_ttm": 110.8,
+  "pe_ttm": 110.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.1%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.08,
-   "count": 115
+   "count": 117
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "1b2527f07eff",
+   "title": "赛博对话电动Emma邀阿飞一苒探讨特斯拉惊天一跳 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDJhMUpzcVo1ZDRnY3hWcnVDQlNJSjdNWnlNSzMzdFBkc3hsVGtJTy00dHFGdzhoQmdic1Q5WHB0YU9wSy0xNUMxOXdLel9xLVUzVXI1WTZKSUJud05QWHJYbGJzXzVuMVE4Vy1MRXpRem1VMnFNNDRPMWZkdGV6MQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-30T16:49:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-30T16:49:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDJhMUpzcVo1ZDRnY3hWcnVDQlNJSjdNWnlNSzMzdFBkc3hsVGtJTy00dHFGdzhoQmdic1Q5WHB0YU9wSy0xNUMxOXdLel9xLVUzVXI1WTZKSUJud05QWHJYbGJzXzVuMVE4Vy1MRXpRem1VMnFNNDRPMWZkdGV6MQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2dbabd331fc4",
+   "title": "SpaceX-Tesla Deal Faces Major China Problem - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZlTWhQaUZpeDd6ekpYdjdMTFQ3blFMckZ0b3VLSmQ3TXMxekpYeXpwbUtraXAzYnp3Wk1nREhNVU1WMjFaVVR5WDdzLWRPOUFBMGxmSTh5aERKQmt2bnJfcU9PVWNGSGlFdm5WRGNTTXJqaXFRTFpwRVNQZUJMSGtlMWlPTXA4",
+   "source": "GuruFocus",
+   "published_at": "2026-10-30T16:45:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-30T16:45:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZlTWhQaUZpeDd6ekpYdjdMTFQ3blFMckZ0b3VLSmQ3TXMxekpYeXpwbUtraXAzYnp3Wk1nREhNVU1WMjFaVVR5WDdzLWRPOUFBMGxmSTh5aERKQmt2bnJfcU9PVWNGSGlFdm5WRGNTTXJqaXFRTFpwRVNQZUJMSGtlMWlPTXA4"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "442da1b5f257",
+   "title": "A Good Friend's Tesla Model S Lease is Ending. Here's What I Told Him to Get as a Replacement - Autoblog",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmdENng1YnpEZGNseElVQ09qNXpkZURYTEtvc254dktfVGtEY2plcUozcVVTTjF0X3YybFVIa21NRXJSanlSTEpoWHdyVlhKSkhsWUdYZm1XRllaakFSMmlwOG53QmlTTjZWeGRvZ001MkFSazZITXhJOE5GbU13NkpxeXdQaGc3X2xrMnhZX2ozblBkeVhuWHVmY2hJa3hJYTZYN1hqWEJKOUFOcDhSMVNXcUJRejljdkVCNHpXRDhOZw",
+   "source": "Autoblog",
+   "published_at": "2026-10-30T16:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Autoblog",
+     "published_at": "2026-10-30T16:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmdENng1YnpEZGNseElVQ09qNXpkZURYTEtvc254dktfVGtEY2plcUozcVVTTjF0X3YybFVIa21NRXJSanlSTEpoWHdyVlhKSkhsWUdYZm1XRllaakFSMmlwOG53QmlTTjZWeGRvZ001MkFSazZITXhJOE5GbU13NkpxeXdQaGc3X2xrMnhZX2ozblBkeVhuWHVmY2hJa3hJYTZYN1hqWEJKOUFOcDhSMVNXcUJRejljdkVCNHpXRDhOZw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "82af7654e63c",
    "title": "Tesla Stock Could Rebound as These 3 Growth Drivers Take Center Stage - 24/7 Wall St.",
@@ -3940,6 +3991,23 @@
    "sentiment": 1
   },
   {
+   "id": "616da40badaa",
+   "title": "特斯拉财报会实录：大举押注机器人、自动驾驶与储能 资本开支持续扩张 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag",
+   "source": "财联社",
+   "published_at": "2026-10-29T22:51:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-29T22:51:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FUGRIYVVDS2s2MmV0akUzUzk4eVhSU0I0b25pUmY1NlJlNUZLalExLVJvaG5XalItb2hXQXRNN2NOUFJUeHVSag"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
    "id": "77e706ca6ec9",
    "title": "Tesla asks shareholders to re-elect Elon Musk and two board members - Drive Tesla Canada",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUEwY0pWS2h2anRrbkFCZDRqdHlxYTM5Z05pWVZ2NlNRamk0MTR3LVRib0JMWWZGM3lWY3pORzJOazNid1UyS0RIUThUVjNJS0ZMQVFQTEYyUV9HTXJiOUh6WWoxVFhfQkNkNEM2WmJHc2VYbEx2OWhBZGc1eGRRQ3JuMVo4Qlpsa0NoeUVfMGJWQQ",
@@ -6351,120 +6419,6 @@
    "zh_summary": "晨星上调特斯拉公允价值估计",
    "title_zh": "财报后晨星上调特斯拉公允价值，股票值得买吗",
    "sentiment": 1
-  },
-  {
-   "id": "d282100a17d0",
-   "title": "Another country says YES to Tesla FSD! Europe is getting harder to keep up with. Latvia just became the 10th EU country to approve FSD Supervised. And that means all three Baltic states are now on board. Tesla owners will soon be able to get the technolog - X",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vbWZISk1UcE1VQk5jOEZhVzB0YjcwNEZJbHFJU19pY0hVX3FqR2dJclJBeExnUzR0bEZEU29FWHVSYlpIWTBiWkNlUnZlTFp0S1NBX0owYTloVXZSZmRpVm9MUy1aekxzYnp6cw",
-   "source": "X",
-   "published_at": "2026-10-29T10:00:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "X",
-     "published_at": "2026-10-29T10:00:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vbWZISk1UcE1VQk5jOEZhVzB0YjcwNEZJbHFJU19pY0hVX3FqR2dJclJBeExnUzR0bEZEU29FWHVSYlpIWTBiWkNlUnZlTFp0S1NBX0owYTloVXZSZmRpVm9MUy1aekxzYnp6cw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "拉脱维亚批准FSD监管版，波罗的海三国全部获批",
-   "title_zh": "拉脱维亚批准特斯拉FSD监管版，成为欧盟第10个批准国",
-   "sentiment": 1
-  },
-  {
-   "id": "03f0c491f7ab",
-   "title": "何小鹏谈巴黎体验特斯拉：我们比特斯拉FSD更强 - 热点科技",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mVDUtOXQ2ZzhKMW4tdkhab1hKaUNYUnhBODBhZW90NHFwdWJkMGdGYm5vckVrMm5TSXdvWXNXbFhOcE0tTDNrZFJoMlg3b1U",
-   "source": "热点科技",
-   "published_at": "2026-10-29T10:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "热点科技",
-     "published_at": "2026-10-29T10:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mVDUtOXQ2ZzhKMW4tdkhab1hKaUNYUnhBODBhZW90NHFwdWJkMGdGYm5vckVrMm5TSXdvWXNXbFhOcE0tTDNrZFJoMlg3b1U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "何小鹏称小鹏FSD比特斯拉更强",
-   "title_zh": "何小鹏谈巴黎体验特斯拉：我们比特斯拉FSD更强 - 热点科技",
-   "sentiment": 0
-  },
-  {
-   "id": "98935cb89dab",
-   "title": "SpaceX launched a Tesla Roadster into space in 2018. Where is it now? - Tallahassee Democrat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp1UUZTblM3dUtXejJPY3dheXR3MU9oQXc0OTA4cmZ3WDcyUWNXd2w3NHd0cllEelpmWm9leEJmSEVZaHpFRkExWjBmZGFpS2VIald0V0Fad25SMW5WZzdlZEYyOFJUa1puUG4tS0JnanJqVWkzTWs1eFBaVl9LOUZZcHQwOVo2WnhVYXJGc2dNcUk2VmRfc2ZTTzNsWkhfeXR3cG9Dclh4cU5KNnlIMWdObDF1Rk5mb1VpeFp0UG4",
-   "source": "Tallahassee Democrat",
-   "published_at": "2026-10-29T09:50:52+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "Tallahassee Democrat",
-     "published_at": "2026-10-29T09:50:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdkp1UUZTblM3dUtXejJPY3dheXR3MU9oQXc0OTA4cmZ3WDcyUWNXd2w3NHd0cllEelpmWm9leEJmSEVZaHpFRkExWjBmZGFpS2VIald0V0Fad25SMW5WZzdlZEYyOFJUa1puUG4tS0JnanJqVWkzTWs1eFBaVl9LOUZZcHQwOVo2WnhVYXJGc2dNcUk2VmRfc2ZTTzNsWkhfeXR3cG9Dclh4cU5KNnlIMWdObDF1Rk5mb1VpeFp0UG4"
-    },
-    {
-     "name": "Daytona Beach News-Journal",
-     "published_at": "2026-10-29T09:51:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1dYZUdpWHotOXBUSjJGWm5uT0laZmY5QjRlWW9nNWRlWmdRUHBMdmNmOTZ1T2lxTnFZa25GNEVHb0UwUUxoa2lnbG9ZdV9vMEJDN0QyYjN2US1QR2I4T3k5dUFQcUhXeVdHcXo1alJTSXZXQ0JQRWRWYWRRQ2hYdTdGRTFXd21OSngwNlhabUViR3NocDVjai1nYnhSb0MxdUoyekZYblZ3TFdLbl93TDFkYVdOMGg4dV9WeUNlSm8zSHA2c0JKX3ZB"
-    },
-    {
-     "name": "The Florida Times-Union",
-     "published_at": "2026-10-29T09:50:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWNzMXJiQUJLcXZKTW9BOHFMTUxoSW50dFVsdTRVOWtCT3BxdWRfSGtxdXhGc1J6QTFhV2t0d05Zd2JyUWd1eTZ6TVhaQ0FDMGI3N2JkWTRDd1NCT3I4MENCdFFXSm1vSjg5TDBxaUh4VFZsd01jOG5jc05YaHdTSUNEUEJ6ZFNzUGM5MXZEYVp2QWM4czJCQW4yQjJkU3JmTXBTQ1VLaExLTmktTEdRSlNrRjBRX1RfVU9BeElGUWJGQQ"
-    },
-    {
-     "name": "Leesburg Daily Commercial",
-     "published_at": "2026-10-29T09:51:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRpQ1U0ZUtoZ19LOTduZUJPbWpwZHdubllRZDBwNnRhLXlULXFHbFJ0dVc3UnMza0MxRWt0N3l2aU13aERoUUVPWjYyNmsxcU9lZTREeHF6UWpwdHI2c0Y0QUxleGluTDBwTlR4Z2N1aWlkZXRQT1NXUUhUQXZ6QW5HME5pS1FXRVNzeGl5aC1VdGJndy01UTRMTXgwUm1MbHd1Z20wVWg2NWF4bTlvbFhqdGt0SDJXd2lTQV9yX1IwX0xpYkE"
-    },
-    {
-     "name": "The Destin Log",
-     "published_at": "2026-10-29T09:51:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMmcxY3JJbkhPbFBSUkVTSm41OFNZSEU5U1V6c015UGhHRGs5QnNnbkZBZ2hhVGFKcnVtbjN4QVpwbURmVjNoekpsd2k2aGVmbWFjcTltM1BpMWFFUVdVZDFzaXplOHBtYVdNMGV1cU9CSHBTTjhqb08wcGRmbGg1cUFNVkZBVDdLem1zb1lkZzlfVTg3elkwYmNYNFBHNi1ZVmZmMXJkUC00SnFDeVAtNHBfaWFUMUduS3RzZjVFWTBlZw"
-    },
-    {
-     "name": "Florida Today",
-     "published_at": "2026-10-29T13:10:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlo0cUVhTGttQWREYVJDOG9IWjdWd0dGZFRsZ2hPbXdsbGZneEF0WEVBX1hpM0VGLTY2UGpMYWhIamRwR2V1SVFQQWpmLURrbGtldmt6MVJKMGVhanRUQlVLWllRb0JrNlQwMWNoNjc0WElsSWZrdWpBcUU0RFN1WFpseVJvQTFCRFd6azI3dHkwTVZpUk1FOHEwTk91ZU1FNWxsMFYyWWItdmZSRTFyajdhNndlWXBDV2JYZWIxakFCZWNCalNldzl3Umo"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "2018年送入太空的特斯拉跑车今何在",
-   "title_zh": "SpaceX于2018年将特斯拉跑车送入太空，如今它在哪？",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.24,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "3def6a2a2135",
-   "title": "Tesla's Free Cash Flow Beat: Good News, Bad News, and What It Means for the Future - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUs4aVBzUmFsX3JOZ19xT19FdGxyWmFlT2E1ZW1xczZ4ZWNWTVpHT1B3em0xcms3NUF1OFJidnBwNVQ2ZEdyUzJpdUp0Und6R05EUHJ2bUdrc2l5bmx0bHVYTW5fd3hzRGZDMWdELTRRY3JXbTNrMDFvUlpuNjRIY191eGhQT3pjaDJwRlFxY3ZEaFExLUtF",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-29T09:49:29+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-29T09:49:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUs4aVBzUmFsX3JOZ19xT19FdGxyWmFlT2E1ZW1xczZ4ZWNWTVpHT1B3em0xcms3NUF1OFJidnBwNVQ2ZEdyUzJpdUp0Und6R05EUHJ2bUdrc2l5bmx0bHVYTW5fd3hzRGZDMWdELTRRY3JXbTNrMDFvUlpuNjRIY191eGhQT3pjaDJwRlFxY3ZEaFExLUtF"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-29T10:11:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVDJYeURvZGdOY0xqQUtreEdFRF9DbFlPU3dPaHBPU29adXU2YzFLbzRPMjB0b3ZOaDhrcDl4SHItaVFEYU1LcHdMQVhqWGgtVS1lSWJFd3pLWFNnclcwSzBDeWF5SlVuSDR0ckwzLWdDSGhleEkxS28xMVUxZEhzeGtMbXpENm8tZFNWWEx6N2U4SGZVUkd6S1FER1ltbnZKQk5VOEQ2YVNxVl9OOC1hRVh4T1NVQ3BNRzNtc29WUGxvTmkxdHMyZ3hpUVhGSVdXeUs3M3VnYTlDY1dwYUhIc3huUDlCTkNuOG81V1luQkpnVGtPWTBrclNB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉自由现金流超预期，好坏参半",
-   "title_zh": "特斯拉自由现金流超预期：好消息、坏消息与未来展望",
-   "sentiment": 0
   }
  ]
 }
