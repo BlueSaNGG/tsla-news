@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T15:07:26.537915+00:00",
+ "updated_at": "2026-10-30T15:22:38.488763+00:00",
  "market": {
-  "price": 402.06,
-  "change_pct": -0.31,
+  "price": 401.52,
+  "change_pct": -0.44,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（99条已评分）"
+     "note": "今日新闻情绪 +0.05（103条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.06 vs 20日均线 $380.81"
+     "note": "现价 $401.52 vs 20日均线 $380.78"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.5,
-   "ma20": 380.81,
-   "as_of": "2026-10-30T15:07:26.529161+00:00"
+   "implied_upside_pct": -0.4,
+   "ma20": 380.78,
+   "as_of": "2026-10-30T15:22:38.476496+00:00"
   },
-  "pe_ttm": 111.2,
+  "pe_ttm": 111.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 99
+   "avg": 0.05,
+   "count": 103
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "c18f19fdea1e",
+   "title": "Tesla Extends Robotaxi Hours to 2 AM, Adds New Calm Mode That Hides FSD Visuals - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1pKNXh0MDJ3dERlVEU2dGUwaWE3YUtubHhWeFBBYXV2TmZhaGlKanJlRURQbExxQnZONjlkTWs3eW5ObUFVR010bnNTSFNoY2ZqenZkQjZHSDkwM3dDOEhtOHZxaHFONHEyLWZCVzd1eXYwdVdMbHJwYzlZdFdFaTJQWXdFTDB4d0tiSkNzXzRjRER6aG41R3lwSVFyWlBHRU5hdmtKY3FRcEptVkROVHI3OTR6OW9U",
+   "source": "Not a Tesla App",
+   "published_at": "2026-10-30T15:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-10-30T15:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1pKNXh0MDJ3dERlVEU2dGUwaWE3YUtubHhWeFBBYXV2TmZhaGlKanJlRURQbExxQnZONjlkTWs3eW5ObUFVR010bnNTSFNoY2ZqenZkQjZHSDkwM3dDOEhtOHZxaHFONHEyLWZCVzd1eXYwdVdMbHJwYzlZdFdFaTJQWXdFTDB4d0tiSkNzXzRjRER6aG41R3lwSVFyWlBHRU5hdmtKY3FRcEptVkROVHI3OTR6OW9U"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "52a3ef73ee20",
+   "title": "Tesla Pushes Australia to Fast-Track AV Laws by 2027 - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUtieEFrV0tlR0dfZkJNUzVYdkJtWWxKM3c2bDhYZnV0X2t0cWJRdGFUcldTWE5nRVE0WndDOHp5WjZNamlxNl9takRjYWE0bHRtbG04ckQ5ZWV6eDdWNElvbTloQklRRUVXOVYxSTFTZE94b2JDelU5TTUzYjU1bGhVSFFkNkh2QXBUSGdwb20",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-30T15:06:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-30T15:06:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUtieEFrV0tlR0dfZkJNUzVYdkJtWWxKM3c2bDhYZnV0X2t0cWJRdGFUcldTWE5nRVE0WndDOHp5WjZNamlxNl9takRjYWE0bHRtbG04ckQ5ZWV6eDdWNElvbTloQklRRUVXOVYxSTFTZE94b2JDelU5TTUzYjU1bGhVSFFkNkh2QXBUSGdwb20"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e4f358f33aa3",
    "title": "Tesla FSD's Momentum in 5 Numbers That Tell the Story - BASENOR - Tesla Accessories",
@@ -126,6 +160,23 @@
    "zh_summary": "特斯拉Robotaxi新增平静模式",
    "title_zh": "特斯拉Robotaxi新增平静模式",
    "sentiment": 1
+  },
+  {
+   "id": "83bb10c317cb",
+   "title": "Florida Man Blames Self-Driving Cybertruck During DUI Arrest, but Was Tesla Actually Driving? - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUNxZHdfTG9OUExzY3lHeWI4V3VCaU5QRkdRWVlpWVhNSV82aE5rUEh0OW9vVTFySlZMN0R4bS1PdmtlcTZQSDRuakMxX2lORWFtMEI2dHNyaHExVl9ZQ3RVRjJxaFZIY1JYcGo4Q0JsWU0xcmtoVHJaenBGYjQ4N2VIbmVLT1JvV25XUVFmSHZpZnQ1cU8tazdBeFVhTVE",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-30T14:53:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-30T14:53:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUNxZHdfTG9OUExzY3lHeWI4V3VCaU5QRkdRWVlpWVhNSV82aE5rUEh0OW9vVTFySlZMN0R4bS1PdmtlcTZQSDRuakMxX2lORWFtMEI2dHNyaHExVl9ZQ3RVRjJxaFZIY1JYcGo4Q0JsWU0xcmtoVHJaenBGYjQ4N2VIbmVLT1JvV25XUVFmSHZpZnQ1cU8tazdBeFVhTVE"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "8828d661861e",
@@ -1058,7 +1109,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOam9VQk40a2ZSQXJ1OEM5Z1B5UnJacjJwMnBwMUpqQ2RObGdRRDNBeTlOQnh2dkEtYTBmWmxpY2ZrdGtFWDRtc3VuN3NNUmJVVE5GRy05TWRhWEtZQjFlVFVySnlqb2ozRWhncGhrWTdsa3FpVlZORzlMRjA0TEowX25hWHhiN1NQ",
    "source": "搜狐网",
    "published_at": "2026-10-30T09:12:47+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -1069,13 +1120,22 @@
      "name": "汽车之家",
      "published_at": "2026-10-30T09:16:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdEJEYjZGY1IyMFZvN2FvVTFta0Q4QmUtNlhYYVZXdzdLOGFDX0EyaWRrMnA5SUhLdHY0dDBXRmc4OHZ0Z2RLc0pRRmdMY1NfYjlCOGxvNFZVU2M"
+    },
+    {
+     "name": "爱咖号",
+     "published_at": "2026-10-30T11:46:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nd1FWQzFmOHNuY3paZlBmdEhGbFViUEdfMS1Bbk9xQmIyYVRlamhtekd3cUkwelA2ckJudlA1ZnRXY2JxRmlQdS1rUjlDUFR0YkJtaG5uZXM"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "特斯拉改打价值战首付3.99万起",
    "title_zh": "首付3.99万元起，特斯拉不打价格战改打价值战",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 3.37,
+    "window_h": 1.9
+   }
   },
   {
    "id": "3e1135a01bb5",
@@ -6416,66 +6476,6 @@
    "zh_summary": "特斯拉进军越南市场挑战VinFast",
    "title_zh": "特斯拉进军越南挑战VinFast，十年前进入中国时也曾面对比亚迪和充电困局",
    "sentiment": 1
-  },
-  {
-   "id": "ba12d5f2eb96",
-   "title": "【视频】2026款特斯拉Roadster首发亮相抢先看 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T08:13:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T08:13:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qem83c0VaM2RubVZCV3VqenhVVHJaQlNvVXdSMG1MUkJhdG9OUkZoWldFNkx0cUVhbDNaOXY1Z0FPV0VmMXFjWVB6U0o1bmJaWU5SQUo0Z29DclU3bHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "2026款特斯拉Roadster首发亮相",
-   "title_zh": "【视频】2026款特斯拉Roadster首发亮相抢先看 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "559676537bc9",
-   "title": "16-year-old boy riding electric scooter killed in crash with Tesla in Somerset County - WRNJ Radio",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWNURW9HWTRieWxfSTZaM2ozUW1wWkVBQnV1eHp4b2xPV014bmtqa1RseVFpcHhoTjh5MjNJNC1FOVZWWHlBekRKM1lnanJwcFFZOGxwRXlnQ09Jc3duRC0wd1l0SGJVN0ZCaXpaTjNiaGdCQWRvSmRxT25GenhEMFFHV3BSaGZDWFpIZkxRVlVqdFhGd0FWQ2xCYk5NV09ZLVo2c0Z1dHNDNVRl",
-   "source": "WRNJ Radio",
-   "published_at": "2026-10-29T08:12:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WRNJ Radio",
-     "published_at": "2026-10-29T08:12:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWNURW9HWTRieWxfSTZaM2ozUW1wWkVBQnV1eHp4b2xPV014bmtqa1RseVFpcHhoTjh5MjNJNC1FOVZWWHlBekRKM1lnanJwcFFZOGxwRXlnQ09Jc3duRC0wd1l0SGJVN0ZCaXpaTjNiaGdCQWRvSmRxT25GenhEMFFHV3BSaGZDWFpIZkxRVlVqdFhGd0FWQ2xCYk5NV09ZLVo2c0Z1dHNDNVRl"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "16岁少年骑滑板车与特斯拉相撞身亡",
-   "title_zh": "16岁少年骑电动滑板车与特斯拉相撞身亡",
-   "sentiment": -1
-  },
-  {
-   "id": "ab5a008f7cab",
-   "title": "Tesla Robotaxi users are reporting strange routing choices as the service expands - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2FlRkRxSXpCaDVWOWtXajRrdzROdWZJN3NqVXZyaFJEOGo2UXhMR0dEb1o0UjAyNThoVUhSUkZST1h3MlVOZGQ1MVdIYUplbkJpeEUwWnpXX0xsUzZKS05fZlZSWHNQU2tyNmdPenRJay1qSG5ZVmhPVzY5WE5tTlRCWEpqcHZLa0IxcVJ3c0JMQmQ2cjA1aGNiWUpmcG5vRm1DZk9GVXZtN1U",
-   "source": "Business Insider",
-   "published_at": "2026-10-29T08:11:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-29T08:11:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2FlRkRxSXpCaDVWOWtXajRrdzROdWZJN3NqVXZyaFJEOGo2UXhMR0dEb1o0UjAyNThoVUhSUkZST1h3MlVOZGQ1MVdIYUplbkJpeEUwWnpXX0xsUzZKS05fZlZSWHNQU2tyNmdPenRJay1qSG5ZVmhPVzY5WE5tTlRCWEpqcHZLa0IxcVJ3c0JMQmQ2cjA1aGNiWUpmcG5vRm1DZk9GVXZtN1U"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Robotaxi用户反映路线选择异常",
-   "title_zh": "Robotaxi用户报告服务扩张中出现奇怪路线选择",
-   "sentiment": -1
   }
  ]
 }
