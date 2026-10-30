@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T08:37:25.931386+00:00",
+ "updated_at": "2026-10-30T08:52:25.179470+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（29条已评分）"
+     "note": "今日新闻情绪 +0.09（32条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T08:37:25.918704+00:00"
+   "as_of": "2026-10-30T08:52:25.170174+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 29
+   "avg": 0.09,
+   "count": 32
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "2c400337c26b",
+   "title": "Tesla plans Manteca showroom, service center on Atherton - Manteca Bulletin",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjY3WkVQYmlrVG54YkRFVWotQWRlb25nUzZCcEpjb2dodVk3bzZrWHlyOVBYVXNCQ0ZtN1o3Q09oVVhSb0ZoN2tQdlJoekF3ZHJUOGpRR2tQdGNZWUlpNXpLcnV2NzlKTVQxNkdqQTZJMFV1TGQya2Y1MDNiYkJNVXUyZkc2ZG96RzE4SHdaTXdReGE2T0FqdDNveXUzdUUtU2J6RFNBWQ",
+   "source": "Manteca Bulletin",
+   "published_at": "2026-10-30T08:50:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Manteca Bulletin",
+     "published_at": "2026-10-30T08:50:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjY3WkVQYmlrVG54YkRFVWotQWRlb25nUzZCcEpjb2dodVk3bzZrWHlyOVBYVXNCQ0ZtN1o3Q09oVVhSb0ZoN2tQdlJoekF3ZHJUOGpRR2tQdGNZWUlpNXpLcnV2NzlKTVQxNkdqQTZJMFV1TGQya2Y1MDNiYkJNVXUyZkc2ZG96RzE4SHdaTXdReGE2T0FqdDNveXUzdUUtU2J6RFNBWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "83f54a6d10ac",
+   "title": "3.99万开走 Model3/Y！特斯拉“特从容”金融方案，算账给你看 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tdEZxV2Y4WGJWdjFxdWwtbzRtejJROWxLZjJ3Zmxmc09TSG5NRFRCZERveW5kRFFxdFlBTFgxeGVUVmo3OUc5YmQ0TXptMElQLVBEX1lYSHZScW8",
+   "source": "汽车之家",
+   "published_at": "2026-10-30T08:39:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-30T08:39:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tdEZxV2Y4WGJWdjFxdWwtbzRtejJROWxLZjJ3Zmxmc09TSG5NRFRCZERveW5kRFFxdFlBTFgxeGVUVmo3OUc5YmQ0TXptMElQLVBEX1lYSHZScW8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "b4b3c95f6856",
    "title": "前Autopilot负责人炮轰特斯拉纯视觉，通用推激光雷达 - 汽车之家",
@@ -93,12 +127,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pTVRLSkxRbFdOX2RpeXZvMzFEU0hDbmdOMFlFMXJ1MkIxWGtZTE5Sc3ExejU3bkdscUlGaExsREJQZnItdlpNdXB5S1FRc0JIMld5TFZDWEVQbFJLd1dFZVJB",
    "source": "观点网",
    "published_at": "2026-10-30T08:22:09+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "观点网",
      "published_at": "2026-10-30T08:22:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pTVRLSkxRbFdOX2RpeXZvMzFEU0hDbmdOMFlFMXJ1MkIxWGtZTE5Sc3ExejU3bkdscUlGaExsREJQZnItdlpNdXB5S1FRc0JIMld5TFZDWEVQbFJLd1dFZVJB"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T08:22:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHdQYXNEOEV5RFhOQUtEdXlrZHNma0psQS1jVXFaNndxbklhc3dtNnZPbmpaNjFkWjZYdV9VYmlSNVM4aFQtaml2Z0x6R0dOOHF4NnFBbWlXLWU4cjhTcjFPMWdMaFlPOVBHcWJuekJBNjdEZXQ3ODdCZWFDOWgzQW11YTBUbVNT"
     }
    ],
    "category": "其他",
@@ -6497,46 +6536,6 @@
    "zh_summary": "特斯拉FSD V14.3.13开始推送",
    "title_zh": "特斯拉FSD V14.3.13版本现已开始推送 用户可OTA升级",
    "sentiment": 1
-  },
-  {
-   "id": "a77c4ca39e04",
-   "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined - Electrek",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQelQ0Vlh1dHowMG1TTjFJNjBfN2tueHZXYkVqbVBtVjBTeDRRYkNFdVdURmxCMjFIMEhLcHVzZ0wtYVpCMXdvSWVXX2pXVGZoRXg0dzBxWmVjWUhTQmpPQm9mUDdzaEFPbDlfV09MXy15UlgxUDlyNjNHRXlhSFMwTGJadkNDVDRiNFNKMGR5cw",
-   "source": "Electrek",
-   "published_at": "2026-10-29T00:44:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electrek",
-     "published_at": "2026-10-29T00:44:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQelQ0Vlh1dHowMG1TTjFJNjBfN2tueHZXYkVqbVBtVjBTeDRRYkNFdVdURmxCMjFIMEhLcHVzZ0wtYVpCMXdvSWVXX2pXVGZoRXg0dzBxWmVjWUhTQmpPQm9mUDdzaEFPbDlfV09MXy15UlgxUDlyNjNHRXlhSFMwTGJadkNDVDRiNFNKMGR5cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "比亚迪员工达102万超四大车企总和",
-   "title_zh": "比亚迪员工达102万，超过丰田、通用、福特和特斯拉总和",
-   "sentiment": 0
-  },
-  {
-   "id": "d1191ef829af",
-   "title": "2017 Tesla Roadster Concept Vs. The All-New Roadster: What Changed In 10 Years? - CarBuzz",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dU5jR1c4Zm94b2N4Z0RPQ09ieS1rd3ZfdFBERWV5d3NxdkN6WFJyTTRZV3RmUUZybTNLb0tGdjhFYm1pTElTZ3N3RE8xY1pPNGlleGJjMkpURVJkeVZZOFNudTg0Z3J5",
-   "source": "CarBuzz",
-   "published_at": "2026-10-29T00:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CarBuzz",
-     "published_at": "2026-10-29T00:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dU5jR1c4Zm94b2N4Z0RPQ09ieS1rd3ZfdFBERWV5d3NxdkN6WFJyTTRZV3RmUUZybTNLb0tGdjhFYm1pTElTZ3N3RE8xY1pPNGlleGJjMkpURVJkeVZZOFNudTg0Z3J5"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "新款Roadster对比2017概念车十年变化",
-   "title_zh": "2017款特斯拉Roadster概念车与全新Roadster十年变化对比",
-   "sentiment": 0
   }
  ]
 }
