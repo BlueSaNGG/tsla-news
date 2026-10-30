@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T10:07:42.421877+00:00",
+ "updated_at": "2026-10-30T10:22:24.694748+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（51条已评分）"
+     "note": "今日新闻情绪 +0.08（53条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T10:07:42.409335+00:00"
+   "as_of": "2026-10-30T10:22:24.687939+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.08,
-   "count": 51
+   "count": 53
   }
  },
  "meta": {
@@ -211,6 +211,23 @@
    "zh_summary": "岚图泰山对比称特斯拉FSD差距明显",
    "title_zh": "跟岚图泰山X8走一趟北京胡同，特斯拉FSD差距藏不住",
    "sentiment": -1
+  },
+  {
+   "id": "2ec23abbd177",
+   "title": "保加利亚首个特斯拉储能电站开工 - 见道网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZXB0VTdhN1JHUm5STVVtRlhfZkVfRFVfZXFJd25Dakp0RHFJTkt3WGV1NnA0V1RzNnFnal9XZ1VTNWMyaW03cEZGVVNzTVJucFpuaA",
+   "source": "见道网",
+   "published_at": "2026-10-30T09:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "见道网",
+     "published_at": "2026-10-30T09:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZXB0VTdhN1JHUm5STVVtRlhfZkVfRFVfZXFJd25Dakp0RHFJTkt3WGV1NnA0V1RzNnFnal9XZ1VTNWMyaW03cEZGVVNzTVJucFpuaA"
+    }
+   ],
+   "category": "能源",
+   "session": "盘前"
   },
   {
    "id": "91f249940fb3",
@@ -3968,7 +3985,7 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96ZDlGNWo4ZU9fZDFxQmtudEFHWDBFMzNIMzVXNXRGSHcwejdpYy1KaURSQlBDd3d0bXh0aWtYUGV1WUNpeFJtUG5PWktCN0h4SGtxZ0dCMHNGOUR0WFE0ZmhaVVcxZ1BYRmlPT0FFelphb3RZLWZ5MHlpSTB6UQ",
    "source": "中国新闻网",
    "published_at": "2026-10-29T13:35:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "中国新闻网",
@@ -3979,13 +3996,22 @@
      "name": "搜狐网",
      "published_at": "2026-10-30T09:44:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjM1bG1KOG5yMHpIQVRrMUdfR3pISkFnN25yR1RKQlZ3Z3R1TFpFS3ZiOExLMVd5N0tZTEtYZkw0ZTdMOWE0Ul83LVZZVDNoek5TNE9lZGU3Vm0xbF9NOHppS1RrZHRlbWJ1S3FWbEdMU24wdEc3ZHh6dTFMSnlCZU4ybGtkSnph"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-30T09:57:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGaFNub2VTNjBVZzhabmNzM3h6TGx4anJhekx4YXlKWldFX2dBc3pRSlE3aGpBZGdpNk1FaFU4RF9oelBTWU82TUtELVZrdHBDVXFYMEVjOG9td2pjR1BRSGhzck5leTh4TE5Db0k5bnNpOUJDU1kxVw"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "盘中",
    "zh_summary": "特斯拉Cybercab西南地区首秀",
    "title_zh": "特斯拉无人驾驶网约车Cybercab西南首秀-中新网视频 - 中国新闻网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 1.23,
+    "window_h": 2.0
+   }
   },
   {
    "id": "3786829440fa",
@@ -6480,31 +6506,6 @@
    "zh_summary": "特斯拉FSD韩国已预订80单",
    "title_zh": "特斯拉FSD韩国：已预订80，设备21台",
    "sentiment": 1
-  },
-  {
-   "id": "310853121497",
-   "title": "拆解特斯拉与比亚迪：一样卖电车，却是两套不一样的生意！ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOVlZLWRBbXVyemZnVXd3NHFCejFIR2lnOTVRWmdmYmh2cXJzdEVHTFBFUG1UdTRQcV8wXzQ3bXlqOC03d2tLem9GRkx5U283N0pmNC04Tkd1Y2M",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T02:43:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T02:43:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOVlZLWRBbXVyemZnVXd3NHFCejFIR2lnOTVRWmdmYmh2cXJzdEVHTFBFUG1UdTRQcV8wXzQ3bXlqOC03d2tLem9GRkx5U283N0pmNC04Tkd1Y2M"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-29T06:24:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rbmNkTDVBNGU4clNpRmtONkxTM2sydkFHMDlOSW5rYWs2QmVQalB3X2R3bWJtNmRSX3dickFlUTV1aDNHWTFwQXpvODhNUndqemwxY3F2TnZxLUIyWG5WaGt2bjE1RkZYYkJFdVkyYjM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "拆解特斯拉与比亚迪两种电车生意模式",
-   "title_zh": "拆解特斯拉与比亚迪：两套不一样的电车生意",
-   "sentiment": 0
   }
  ]
 }
