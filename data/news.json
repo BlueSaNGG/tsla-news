@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T23:52:33.146823+00:00",
+ "updated_at": "2026-10-30T00:07:36.740087+00:00",
  "market": {
-  "price": 403.3,
-  "change_pct": -0.23,
+  "price": 404.22,
+  "change_pct": -0.8,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.0%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.30 vs 20日均线 $379.24"
+     "note": "现价 $404.22 vs 20日均线 $376.78"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.8,
-   "ma20": 379.24,
-   "as_of": "2026-10-29T23:52:33.139532+00:00"
+   "implied_upside_pct": -1.0,
+   "ma20": 376.78,
+   "as_of": "2026-10-30T00:07:36.730213+00:00"
   },
-  "pe_ttm": 111.5,
+  "pe_ttm": 111.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.12,
    "count": 156
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "37209077bff4",
+   "title": "Chase Auto Is Advertising Tesla FSD to Its Customers - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3JqS1NLSC00SEU4QlVSREhjOFJ6Wmo2QVFCbUs1am94WmluS3lscU9ZZFY0X0tOc0tsQ2VjSGZzTlFsMlAxZ05xcFg5RnJLLUZMS1Q2M1ItOFV3aDZWeS16ZGJIYUwtMEN0ajFDUHVWLTV3ZDVYZmNBWkE5T0tpeXZuX2J1WllfR3U0WG9DcXk",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-30T00:04:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-30T00:04:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3JqS1NLSC00SEU4QlVSREhjOFJ6Wmo2QVFCbUs1am94WmluS3lscU9ZZFY0X0tOc0tsQ2VjSGZzTlFsMlAxZ05xcFg5RnJLLUZMS1Q2M1ItOFV3aDZWeS16ZGJIYUwtMEN0ajFDUHVWLTV3ZDVYZmNBWkE5T0tpeXZuX2J1WllfR3U0WG9DcXk"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
+  {
+   "id": "0ee45b13607f",
+   "title": "特斯拉与SpaceX合并传闻聚焦X代码 特斯拉SpaceX合并传闻：一个“X”代码，为何牵动卫星通信竞争？ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0VnSlBrS0YtQjg4T2RHa0E1OXc0emFOMVFlenpaSlJBM0JxTFhRb0pTUlpDWmhrT1RxeHJHQVdWWkQ0YVhVcHgxOWVFaW1vS2JWYjVVVFg2TmNUOGxFTHVNWTVGVmNSY0JiUi0yTmEtaXltd3Y5eFJQbDZiNEE3cjdEMlVKXy1k",
+   "source": "搜狐网",
+   "published_at": "2026-10-30T00:03:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T00:03:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0VnSlBrS0YtQjg4T2RHa0E1OXc0emFOMVFlenpaSlJBM0JxTFhRb0pTUlpDWmhrT1RxeHJHQVdWWkQ0YVhVcHgxOWVFaW1vS2JWYjVVVFg2TmNUOGxFTHVNWTVGVmNSY0JiUi0yTmEtaXltd3Y5eFJQbDZiNEE3cjdEMlVKXy1k"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
+  {
+   "id": "d8b124313b23",
+   "title": "特斯拉SpaceX合并传闻聚焦X代码 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1FrQk1qUktFQWh6d0pVZ0VlbGllczB5MmE3cUwwNGV1aS1haDFISjVQcFRNV2N4ZmlVaTEzYUJvWVBXT1JfUDBDWGhQLUVUYTc4UjNQUFZucjctWEJDQ1dqR0lJUmtfSXYtVVBpQ1pQUDg4RXdKaUo3TnBoTEt6NUJnU1pWemFp",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T23:58:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T23:58:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1FrQk1qUktFQWh6d0pVZ0VlbGllczB5MmE3cUwwNGV1aS1haDFISjVQcFRNV2N4ZmlVaTEzYUJvWVBXT1JfUDBDWGhQLUVUYTc4UjNQUFZucjctWEJDQ1dqR0lJUmtfSXYtVVBpQ1pQUDg4RXdKaUo3TnBoTEt6NUJnU1pWemFp"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "e7cc02198c13",
    "title": "Tesla owner says $185 tow left her Model 3's seatbelts and parking assist malfunctioning - The Cool Down",
@@ -3411,26 +3462,6 @@
    "sentiment": 1
   },
   {
-   "id": "3fc9f89fe372",
-   "title": "【视频】特斯拉Model Y 2021款长续航全轮驱动版 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tWHpMWXRJSUloR2lCd0QzUkYtTjRoTVdhRGExXzdzVDBJd3M0QVpEcGtlM3R4MWl4M2diU1pLbGk0TFo3Rl9PLUgwUjhreUZiSndhZ2RvRDlraVU",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T05:23:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T05:23:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tWHpMWXRJSUloR2lCd0QzUkYtTjRoTVdhRGExXzdzVDBJd3M0QVpEcGtlM3R4MWl4M2diU1pLbGk0TFo3Rl9PLUgwUjhreUZiSndhZ2RvRDlraVU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "介绍特斯拉Model Y 2021款长续航版",
-   "title_zh": "【视频】特斯拉Model Y 2021款长续航全轮驱动版 - 汽车之家",
-   "sentiment": 0
-  },
-  {
    "id": "3d726bb70d1b",
    "title": "Tesla Roadster UI: Jet-Style Display, 2028 Build [2026] - shattered.io",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLUxpN3pCNldNNUJQdWZBNUVhQkpQb2hWeFl3RXRKalNub2ZCazBYblRXUXlZMmppVFJDT1lRdThtSjZSVVNWSVA4WnpBd2xFUFg2LWNaZEVPNWpoR1lLSjNxemszbkR0djMzU044anBoQnA4djZWYkNEbXhJN1RWRFd4TjBJdTVQSVE",
@@ -3908,6 +3939,26 @@
     "pct": -0.24,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "27933e5ab0f3",
+   "title": "【视频】22款特斯拉Model Y 后轮驱动版 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNWw2Q1dIMEN6Sm5ldjNxSFZhTXRlS3hQUTZnamY4OTA2MGpIakR0eXhVczFPWDdzbW5hVHU3VVcxV2pPRm1NQnljYWFiZGE3UU5jS09neG94QjA",
+   "source": "汽车之家",
+   "published_at": "2026-10-29T01:58:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-29T01:58:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNWw2Q1dIMEN6Sm5ldjNxSFZhTXRlS3hQUTZnamY4OTA2MGpIakR0eXhVczFPWDdzbW5hVHU3VVcxV2pPRm1NQnljYWFiZGE3UU5jS09neG94QjA"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后",
+   "zh_summary": "介绍特斯拉Model Y 2021款长续航版",
+   "title_zh": "【视频】特斯拉Model Y 2021款长续航全轮驱动版 - 汽车之家",
+   "sentiment": 0
   },
   {
    "id": "d41f43c8c9c1",
@@ -6410,66 +6461,6 @@
    "session": "盘前",
    "zh_summary": "Turo与特斯拉推进自动驾驶租车",
    "title_zh": "Turo与特斯拉向自动驾驶租车迈出下一步",
-   "sentiment": 1
-  },
-  {
-   "id": "417ed5e68c74",
-   "title": "Tesla’s Cybercab Robotaxi Is Probably Not “Unsupervised.” Here’s Why - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1djenZoVlpxM01NRjJSOW5qcUJwZnlHdTVCaTkwdXo1bjNyUXY1MVhUd2hVUGY3UVpUVU1MWGpEMW11b0dZYk9TeXVtUl9UZlNsTUhmNzN2RUlpUzF1aUUzTDBsRE85X1NKbEV1ZXhKbVh2UWVyWGNVd09qLVhwUG44UzVzbmVfQ2VrTUtHazgwNGF1Q0dVWlM5bWlwYnpPVk1aYV83X3R4UEttTWNiNk5jQmRfekwxMnc",
-   "source": "Forbes",
-   "published_at": "2026-10-28T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Forbes",
-     "published_at": "2026-10-28T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1djenZoVlpxM01NRjJSOW5qcUJwZnlHdTVCaTkwdXo1bjNyUXY1MVhUd2hVUGY3UVpUVU1MWGpEMW11b0dZYk9TeXVtUl9UZlNsTUhmNzN2RUlpUzF1aUUzTDBsRE85X1NKbEV1ZXhKbVh2UWVyWGNVd09qLVhwUG44UzVzbmVfQ2VrTUtHazgwNGF1Q0dVWlM5bWlwYnpPVk1aYV83X3R4UEttTWNiNk5jQmRfekwxMnc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "福布斯质疑Cybercab非真无人驾驶",
-   "title_zh": "福布斯：特斯拉Cybercab可能并非真正无人驾驶",
-   "sentiment": -1
-  },
-  {
-   "id": "ce5e09d48af3",
-   "title": "Tesla Stock Forecast: TSLA Triangle Breakout Targets $411.90 as Cybercabs Overtake Model Ys - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMURaQzNGYWJvZjhXWUhpNUpZVzhDaFpJcnRSQ01Sc2Ntdm1MTUVIRHRxVi11dGpfSVJ6YjhWODU5NGJmdlNFQTB2ZFlOUnhmc0s1Y2hVb2ZacEhwVFppZUZGZFpJc0ZnLWVkUWxuekhyLTBRUTRmNk96TThCYl9UN29XenNNX0EyU3dhSzVlak9QY0d1TUtYVlJaZGF1ei0wcWVMR3gyVGtZTmVGUVpJcDBLYW05NHpZRkhWZjNQNFdQUktKemNESkRqQTJ6b1Y0enpfUWU0LWNwZll0cF9uYjBGdGlaS3lIOThGSms5dXZrcFptY1VBWUk1WGttdw",
-   "source": "TradingKey",
-   "published_at": "2026-10-28T11:52:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-28T11:52:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMURaQzNGYWJvZjhXWUhpNUpZVzhDaFpJcnRSQ01Sc2Ntdm1MTUVIRHRxVi11dGpfSVJ6YjhWODU5NGJmdlNFQTB2ZFlOUnhmc0s1Y2hVb2ZacEhwVFppZUZGZFpJc0ZnLWVkUWxuekhyLTBRUTRmNk96TThCYl9UN29XenNNX0EyU3dhSzVlak9QY0d1TUtYVlJaZGF1ei0wcWVMR3gyVGtZTmVGUVpJcDBLYW05NHpZRkhWZjNQNFdQUktKemNESkRqQTJ6b1Y0enpfUWU0LWNwZll0cF9uYjBGdGlaS3lIOThGSms5dXZrcFptY1VBWUk1WGttdw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "TSLA三角突破目标411.90美元",
-   "title_zh": "TSLA三角突破目标411.90美元，Cybercab超越Model Y",
-   "sentiment": 1
-  },
-  {
-   "id": "a76024811f97",
-   "title": "Tesla Stock Heads for Third Day of Gains. It's About More Than SpaceX. - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUpUemEzdU83b2hOLUduMGlkekNnZmFqZ0VlcFNUVXlSTWc4dDZyRkQzdkEyVk1mNU9qN3YycWxrNzlqdXFSZUJYMEwtOXJrM3duamw1TVNFb1dVZ2F4cC1SN3JGQm9mZUtBajE0UDhPYnFKRG5fRUdBMTFwaEJGYU1HbmZxZjZBSjF4NG9GcmF6WWc",
-   "source": "Moomoo",
-   "published_at": "2026-10-28T11:52:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-28T11:52:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUpUemEzdU83b2hOLUduMGlkekNnZmFqZ0VlcFNUVXlSTWc4dDZyRkQzdkEyVk1mNU9qN3YycWxrNzlqdXFSZUJYMEwtOXJrM3duamw1TVNFb1dVZ2F4cC1SN3JGQm9mZUtBajE0UDhPYnFKRG5fRUdBMTFwaEJGYU1HbmZxZjZBSjF4NG9GcmF6WWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉股价连续第三日上涨",
-   "title_zh": "特斯拉股价将连续第三日上涨，原因不止SpaceX",
    "sentiment": 1
   }
  ]
