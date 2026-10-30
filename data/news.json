@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T13:37:26.519994+00:00",
+ "updated_at": "2026-10-30T13:52:28.762787+00:00",
  "market": {
-  "price": 390.21,
-  "change_pct": -3.25,
+  "price": 392.61,
+  "change_pct": -2.65,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 48% 分位"
+     "note": "现价处于52周区间 49% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +2.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 +1.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（86条已评分）"
+     "note": "今日新闻情绪 +0.07（88条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $390.21 vs 20日均线 $380.22"
+     "note": "现价 $392.61 vs 20日均线 $380.33"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 48,
+   "price_52w_pct": 49,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 2.5,
-   "ma20": 380.22,
-   "as_of": "2026-10-30T13:37:26.504805+00:00"
+   "implied_upside_pct": 1.9,
+   "ma20": 380.33,
+   "as_of": "2026-10-30T13:52:28.755024+00:00"
   },
-  "pe_ttm": 107.9,
+  "pe_ttm": 108.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+2.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+1.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 86
+   "avg": 0.07,
+   "count": 88
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "358a7b1340a2",
+   "title": "Tesla Stock (TSLA) Falls Flat As China Says its Flying Cars Can Soar Past the Roadster - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXRiRzJUVVdubEdMUXY2MnRzckRYNjhKZlE1YmJFVmFKSlBXRDgyaHpaajl4X0tpdTM5Y3BvaE1kRXFkMjdaa2pyODBQc0ZYM1pOa3ZNMnFIb3p5SXU2b1lWZGVLNzNTUml4UEZXZWduQWVfWXBxc2I4M0pLVHZIeG1hSWQ2SkhuOU1Id3c0RjBjMnRaa1pnZFN6SFNnOEExQVBqMUhfejU5YVJlUUo2QVNXaVQ",
+   "source": "TipRanks",
+   "published_at": "2026-10-30T13:43:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-30T13:43:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXRiRzJUVVdubEdMUXY2MnRzckRYNjhKZlE1YmJFVmFKSlBXRDgyaHpaajl4X0tpdTM5Y3BvaE1kRXFkMjdaa2pyODBQc0ZYM1pOa3ZNMnFIb3p5SXU2b1lWZGVLNzNTUml4UEZXZWduQWVfWXBxc2I4M0pLVHZIeG1hSWQ2SkhuOU1Id3c0RjBjMnRaa1pnZFN6SFNnOEExQVBqMUhfejU5YVJlUUo2QVNXaVQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "01c6c9e590a5",
    "title": "Rivian Reports 38% Q3 Revenue Jump as R2 Becomes Its Best-Selling Vehicle - Drive Tesla Canada",
@@ -6473,40 +6490,6 @@
    "zh_summary": "韩国法院驳回89名车主FSD退款诉讼",
    "title_zh": "买了 FSD 却不能用，韩国 89 名车主起诉特斯拉遭法院驳回 - 新浪财经",
    "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.24,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "6527dc17d65d",
-   "title": "特斯拉Model 3停车状态车内起火 三星手机成怀疑对象 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bzB6UVRyWUJEc2tHS25BU2wzZzlHNlJGOE43YjM0SEk0YUdXOVZGUE9KWjVKRDljaGtyM3Q3YVpib2dLY1E2QTJRbEF2T09KRmxRc0NkQlA",
-   "source": "驱动之家",
-   "published_at": "2026-10-29T06:51:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-29T06:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12bzB6UVRyWUJEc2tHS25BU2wzZzlHNlJGOE43YjM0SEk0YUdXOVZGUE9KWjVKRDljaGtyM3Q3YVpib2dLY1E2QTJRbEF2T09KRmxRc0NkQlA"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-29T06:51:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12WHN2dWd5VFMwWmdEVHViME9PaVZ6VWdrT2F1SFZqX1lWSzFJMHg2QkxNUDBCYUdrZHZEY2kxWERlaGdNTTNpSm4yRjQ"
-    },
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-29T07:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQnh5eG01c1NrQ29ucF9fa3BLUHNiM3NuNVFWMm12bF9OdEtZNXBZTHVETFhUSEJoLXIyanlObDJrc2c0T0prZS1TeE9URWM5RU5JUTdZckF6Tm9HaUM5Rw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "Model 3停车状态车内起火",
-   "title_zh": "特斯拉Model 3停车状态车内起火 三星手机成怀疑对象 - 驱动之家",
-   "sentiment": -1,
    "price_reaction": {
     "pct": -0.24,
     "window_h": 0.1
