@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T14:37:26.863098+00:00",
+ "updated_at": "2026-10-30T14:52:30.572614+00:00",
  "market": {
-  "price": 397.67,
-  "change_pct": -1.39,
+  "price": 402.6,
+  "change_pct": -0.17,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 52% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.6%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（94条已评分）"
+     "note": "今日新闻情绪 +0.02（96条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $397.67 vs 20日均线 $380.59"
+     "note": "现价 $402.60 vs 20日均线 $380.83"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 52,
+   "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.6,
-   "ma20": 380.59,
-   "as_of": "2026-10-30T14:37:26.858439+00:00"
+   "implied_upside_pct": -0.6,
+   "ma20": 380.83,
+   "as_of": "2026-10-30T14:52:30.559221+00:00"
   },
-  "pe_ttm": 110.0,
+  "pe_ttm": 111.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 94
+   "avg": 0.02,
+   "count": 96
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8828d661861e",
+   "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFhwRzNaU2N2QzdWQk9CN0t1MmZFcDh6b1c2d1dRdlRWWXlTS2ZrVU5tY0kwZ3RWRXdKOWZaajduZk1lbjhlWUhLM1QtTmYzMTlxNnNtMlQ4MU5tMTNIenp0X1ctaXJuWmRvWU96UzNRMVptWUE2cFo2MjBkWElkUWtVTHZ3VlhFWGJOakxZYzNEOFlrUUE",
+   "source": "Teslarati",
+   "published_at": "2026-10-30T14:43:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-30T14:43:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFhwRzNaU2N2QzdWQk9CN0t1MmZFcDh6b1c2d1dRdlRWWXlTS2ZrVU5tY0kwZ3RWRXdKOWZaajduZk1lbjhlWUhLM1QtTmYzMTlxNnNtMlQ4MU5tMTNIenp0X1ctaXJuWmRvWU96UzNRMVptWUE2cFo2MjBkWElkUWtVTHZ3VlhFWGJOakxZYzNEOFlrUUE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "429b904884c0",
    "title": "Tesla Model Y Owners Who Switched to the Cadillac Lyriq Say the Ride Won Them Over, but 2 Tesla Features Are Hard to Give Up - Torque News",
@@ -233,6 +250,23 @@
    "sentiment": 1
   },
   {
+   "id": "a469b5a6ffae",
+   "title": "没有方向盘和踏板，特斯拉无人驾驶“未来座驾”西南首秀｜报花探店 - 四川新闻",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10SU12TWdXZWtqWFpCZHNYRlpqdkd5eXpTbG1KaVpERS1sVG5ZMHhWVlZFYmgyalFRakpxcGZQRDUyU1VfWVFFMHlhcFdHYUItUFpudVFNbUxxcXJSbWRUYWMtUQ",
+   "source": "四川新闻",
+   "published_at": "2026-10-30T13:12:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "四川新闻",
+     "published_at": "2026-10-30T13:12:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10SU12TWdXZWtqWFpCZHNYRlpqdkd5eXpTbG1KaVpERS1sVG5ZMHhWVlZFYmgyalFRakpxcGZQRDUyU1VfWVFFMHlhcFdHYUItUFpudVFNbUxxcXJSbWRUYWMtUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "30ca929b4422",
    "title": "‘Game over for America’: Tesla CEO Elon Musk warns of democratic sweep in 2028 - The American Bazaar",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHFyYk9DZ2hKVnEyeWEwbHhPVF9wNEdyOG5seWxpWFpLbjJMWm1UYzhQcUNMX2EtSEpDYlBkalMxTzZkblFsdzVuU1BFYUhVM2MzOHZ6T2M1OHVDUVpYRzd5VVVOQWotWjVBdkYwU0RyVWZ5WFR5eGxTd2k5WlpLWndqWEQ2bTVONEdYWGFydFQ0WXJCdEhMODhNZDFCSzB1NkF1U1VIdnE",
@@ -271,6 +305,23 @@
    "zh_summary": "特斯拉上线金融方案降低购车门槛",
    "title_zh": "降低购车门槛！特斯拉上线金融方案 - 搜狐网",
    "sentiment": 1
+  },
+  {
+   "id": "7015066d191b",
+   "title": "tesla-semi-fire - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXdBQVl1MG4zbmVKejA1em1qMVRyMDF2dVFWMERQRG9fMWNjUjJaeFE2bjIyV3JaRVltMWFoeGg5SURaM3l5bUhxS3N0bGx6YmdWZGgtdEEwbVVPX3hENEJEdjlpVEFUM0JnWFFKYmJzblByZEx6WW1DZkhoZVowN0JuelB2Vnd5Rm9MWE9BNE1jQWFT",
+   "source": "Teslarati",
+   "published_at": "2026-10-30T12:42:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-10-30T12:42:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXdBQVl1MG4zbmVKejA1em1qMVRyMDF2dVFWMERQRG9fMWNjUjJaeFE2bjIyV3JaRVltMWFoeGg5SURaM3l5bUhxS3N0bGx6YmdWZGgtdEEwbVVPX3hENEJEdjlpVEFUM0JnWFFKYmJzblByZEx6WW1DZkhoZVowN0JuelB2Vnd5Rm9MWE9BNE1jQWFT"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
   },
   {
    "id": "c6143d436c76",
@@ -6416,66 +6467,6 @@
    "zh_summary": "特斯拉在雄安投资成立汽车销售服务公司",
    "title_zh": "特斯拉在雄安投资成立汽车销售服务公司",
    "sentiment": 1
-  },
-  {
-   "id": "dc80838de81e",
-   "title": "特斯拉汽车销售服务（雄安）有限公司成立 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cDRMN2tVU011RWpCSVVRTGZRVGVBVEw0Y3hGVjNOM0JnNUs1RmEtV2VocXVNTURzcjFCVjZNTDZGSjM1ZVVRSXFlcWd2U2JfQTMyWkc1dkV1UQ",
-   "source": "网通社",
-   "published_at": "2026-10-29T07:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-29T07:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cDRMN2tVU011RWpCSVVRTGZRVGVBVEw0Y3hGVjNOM0JnNUs1RmEtV2VocXVNTURzcjFCVjZNTDZGSjM1ZVVRSXFlcWd2U2JfQTMyWkc1dkV1UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉汽车销售服务雄安公司成立",
-   "title_zh": "特斯拉汽车销售服务（雄安）有限公司成立 - 网通社",
-   "sentiment": 0
-  },
-  {
-   "id": "d2ccc38c5ce2",
-   "title": "特斯拉FSD韩国案败诉，45000元选装包退款被驳 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KUXkzcDFqZ1pLcXRFbWxUR21mZDJnNVhCcHh2YW9tZlpJZHVUYk5OMlJjMnNSa09uYlpDU0Vrci1TU19uWXVCOG9XMjZ6QWhyOGNqZVhBNDF2YmM",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T07:36:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T07:36:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KUXkzcDFqZ1pLcXRFbWxUR21mZDJnNVhCcHh2YW9tZlpJZHVUYk5OMlJjMnNSa09uYlpDU0Vrci1TU19uWXVCOG9XMjZ6QWhyOGNqZVhBNDF2YmM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉FSD韩国案退款请求被驳回",
-   "title_zh": "特斯拉FSD韩国案败诉，45000元选装包退款被驳 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "430c13ed3010",
-   "title": "Tesla truck fire shuts down Interstate 880 in Hayward - CBS News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1VndUQ1WnAxZ0ktOXluRzFuc1NfWG84UzNoTUVlSG02emRKSExrM1RINWljc25kMmFhSnZEX05nVWMyWG5CTDJicF9lVm9HcFliU1Atd2tkcWdzeTZfNlljMnhoNW14ZExoSkF6ZjlNdmJVLXdGOWtNM3BQMC1TVkpRRUhJcDVPNnVkTmxjUkRsRWNtX0NHeGxJRHVnZw",
-   "source": "CBS News",
-   "published_at": "2026-10-29T07:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CBS News",
-     "published_at": "2026-10-29T07:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1VndUQ1WnAxZ0ktOXluRzFuc1NfWG84UzNoTUVlSG02emRKSExrM1RINWljc25kMmFhSnZEX05nVWMyWG5CTDJicF9lVm9HcFliU1Atd2tkcWdzeTZfNlljMnhoNW14ZExoSkF6ZjlNdmJVLXdGOWtNM3BQMC1TVkpRRUhJcDVPNnVkTmxjUkRsRWNtX0NHeGxJRHVnZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉卡车起火致880号州际公路关闭",
-   "title_zh": "特斯拉卡车起火致海沃德880号州际公路关闭",
-   "sentiment": -1
   }
  ]
 }
