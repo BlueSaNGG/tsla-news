@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T17:22:32.818616+00:00",
+ "updated_at": "2026-10-30T17:37:30.812532+00:00",
  "market": {
-  "price": 398.52,
-  "change_pct": -1.19,
+  "price": 398.17,
+  "change_pct": -1.27,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.5%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $398.52 vs 20日均线 $380.63"
+     "note": "现价 $398.17 vs 20日均线 $380.62"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.4,
-   "ma20": 380.63,
-   "as_of": "2026-10-30T17:22:32.811965+00:00"
+   "implied_upside_pct": 0.5,
+   "ma20": 380.62,
+   "as_of": "2026-10-30T17:37:30.799978+00:00"
   },
-  "pe_ttm": 110.2,
+  "pe_ttm": 110.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.08,
    "count": 122
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b843fba83dbd",
+   "title": "2023款特斯拉Model 3夜间停车车内起火，车载电池与三电系统安全参数全拆解 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUHB2OWw0YlBwdlRwZVZJWXN5RnV1QUNWWnIwTHhWbG5XS09TT3JCMDNWRWdMazBIN2dxNDlUdE4xQUduaWx2Q2lrUFk0V2p0N25iSHplcmNjRHM",
+   "source": "网通社",
+   "published_at": "2026-10-30T17:16:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-30T17:16:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUHB2OWw0YlBwdlRwZVZJWXN5RnV1QUNWWnIwTHhWbG5XS09TT3JCMDNWRWdMazBIN2dxNDlUdE4xQUduaWx2Q2lrUFk0V2p0N25iSHplcmNjRHM"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "735cc8fa4380",
    "title": "Terafab, Explained in 5 Points: The Tesla-SpaceX Chip Fab Rising in Texas - BASENOR - Tesla Accessories",
@@ -93,7 +110,7 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEVSRW9acE5rN2E1Wm9XU1hIT1dsVGh4eTE3QndNLXNzT3hEdEQ4RE5fanJ1RGJtcmFsMVZTZHpmRW5DbEdtX0pGN0xtempCX01EWGxTRlRhMExzNUhwdlZaUnNsNW9nVWJxYmJ3ZEVKV2RSZkFKMWdmN0xLeHV2NDVRM1dKSkJaZ1pMUkVNT3RHNHRVQnNMczhURVBVQnRRSWx0WWRlZVh5RVlIYm5ERWZuZVljMVRZVllCRmlfbw",
    "source": "The Motley Fool",
    "published_at": "2026-10-30T16:59:26+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -104,13 +121,22 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-30T17:09:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2hDZ0tYR2FJMlhjTTBEdGYxWjJVay13TWpyWjlBN2Zqa0d3Y1N2TVdqVkZmekotWEFsRk9TOG5lWnR2cGNXZjRqSmNUYzJpM19UZmZsSk0takxITHpYVnpQbmRRYnFvb0ZyRTBmVnEzXzBQYkxJSk5lRnZmZHN2X2taYV9aOUlXOEpkNWpTdzBlbFZQM0h1bGZ3dmVndw"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-30T17:10:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM1pXZ3BMUkFhRnpUMHRyUmN5emFHNk5xUUNCTW44TEtsQ1ZHakRacEczMTd5Zk1haFh3cjVjc1hCdDE0T1JKTVZlM0RadkJJTE1TTXZLR1U0d0RRT1pYa2l5QkZQMFdvSExmTWdDbkh0NkhhdVQzMzFfYnZhZDlzR196WHYtVlZjZU5nRWtiT1k4RWlmUlU1RUhrVUEyLXp6cjRkaC1wZ3M4QVE5aW9zQWFtRTQ0a0JQSXRuME4wSWc4Vlo0SGpiUGp0TDlJbG9mZm1rMkRySFFmUUozZVUxM1ZhTGNJOUV6WjF4cHVXMGF1dXNlbnM5Yw"
     }
    ],
    "category": "财报",
    "session": "盘中",
    "zh_summary": "特斯拉或将开启全新收入来源",
    "title_zh": "特斯拉或将解锁全新收入来源，值得买入？",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.18,
+    "window_h": 0.6
+   }
   },
   {
    "id": "1b2527f07eff",
@@ -358,12 +384,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWozNXY3bVZscWk2SnM4RlRTLUpENXE0YUc2MDRSaHFkdGZFX0hSUEVDS1d1cTN1LUhCTzZjUVcxVlZzZU41QjdheU81WDk3bDd3N0xTNWw4T3dFRG9SVjA1b3J0UlhhYWk2NWdvcEp4V19JTzdkSllRaTd4SVl6VkowbVNDOExZZU1NeTA5SkJaQTh1WnZtcFJpSml5QmxHNV80QzkxUl9QdmJyNnJpUEpOcDJEeVhzZmc2ejdERkFDTFNQRVNwM3N2QV9pOVlkZ2F3OWt3bXpNdkg1SGRwTHlUTmZhOUxiaVFLckg4TDZ3WUZSV3Q1YndiUS0yRWV5ZGpWWEtWWjVhRzNXTGZ5bXhzZldyaVY3VHJEQw",
    "source": "TradingView",
    "published_at": "2026-10-30T15:34:54+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-30T15:34:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOTWozNXY3bVZscWk2SnM4RlRTLUpENXE0YUc2MDRSaHFkdGZFX0hSUEVDS1d1cTN1LUhCTzZjUVcxVlZzZU41QjdheU81WDk3bDd3N0xTNWw4T3dFRG9SVjA1b3J0UlhhYWk2NWdvcEp4V19JTzdkSllRaTd4SVl6VkowbVNDOExZZU1NeTA5SkJaQTh1WnZtcFJpSml5QmxHNV80QzkxUl9QdmJyNnJpUEpOcDJEeVhzZmc2ejdERkFDTFNQRVNwM3N2QV9pOVlkZ2F3OWt3bXpNdkg1SGRwTHlUTmZhOUxiaVFLckg4TDZ3WUZSV3Q1YndiUS0yRWV5ZGpWWEtWWjVhRzNXTGZ5bXhzZldyaVY3VHJEQw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T15:34:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzhHbGRhXzEyQ21PcTNadTJfQzZSYVJzUmtfNW1jRGpYNER0TDNDMTJyWDJzT2xIRXFpZVYxVVF1RjFYNThobkI1dE1RMnlXRlFrWXdtTkM4bGxkbHpnXzJxZy1tb0x6Z2g5LTlRRjdTdFlUWFNENlhGWXpyS1hCU1h4TTNMaTU1ZkxRWjhxZGhVdkhWQU1pZFhQN2s"
     }
    ],
    "category": "其他",
@@ -4515,12 +4546,17 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWF3X1JTYXYtY3o0SWRKLVNCb1ZvTkt6OWVmTk5KaGVNaTBrUUhxR19uSDhES1RNeDdSeE03X0pBM3lGNC0zRm5Dalo3UFBhRkRMdEdadmcxV1Z5Smtlb2ZsQ25RZXlPTHM4OFh1M1FPNTloT0VxcnhOLVFPTXJWSEhCTDZ0Vm8",
    "source": "Not a Tesla App",
    "published_at": "2026-10-29T19:32:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Not a Tesla App",
      "published_at": "2026-10-29T19:32:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQWF3X1JTYXYtY3o0SWRKLVNCb1ZvTkt6OWVmTk5KaGVNaTBrUUhxR19uSDhES1RNeDdSeE03X0pBM3lGNC0zRm5Dalo3UFBhRkRMdEdadmcxV1Z5Smtlb2ZsQ25RZXlPTHM4OFh1M1FPNTloT0VxcnhOLVFPTXJWSEhCTDZ0Vm8"
+    },
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-30T17:14:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSTl5cXVlYUlnbXBmSTJrSDhiTVI2eDVKUEZMSFpGc1p5V2JOcDFDTS1NNlI5T0tqOFFsSFlPbHdrekdCTWFIVnpDMTc1R3VZRVVYclA5dTljcWk2ZXQ1TGxFSG4xbDh4V3NvbGxTdENXdw"
     }
    ],
    "category": "车型产品",
@@ -6416,26 +6452,6 @@
    "zh_summary": "特斯拉FSD登陆欧洲但尚不完美",
    "title_zh": "特斯拉FSD登陆欧洲，但尚不完美",
    "sentiment": 0
-  },
-  {
-   "id": "c6e2b098477e",
-   "title": "特斯拉进军越南市场并启动招聘，东南亚出海版图再扩大 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQU1BWGdpdmZfeWVLNkF0dkFYSDBlaUhIcHRDcWxlZEdRaGlSamNDbVEtQUFuS1VkbDQ1clRZOUx1VENkTncxY3p6amFMdmtkMU8zbUtyeU9KTDg",
-   "source": "网通社",
-   "published_at": "2026-10-29T10:21:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-29T10:21:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQU1BWGdpdmZfeWVLNkF0dkFYSDBlaUhIcHRDcWxlZEdRaGlSamNDbVEtQUFuS1VkbDQ1clRZOUx1VENkTncxY3p6amFMdmtkMU8zbUtyeU9KTDg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉进军越南并启动招聘",
-   "title_zh": "特斯拉进军越南市场并启动招聘，东南亚出海版图再扩大",
-   "sentiment": 1
   }
  ]
 }
