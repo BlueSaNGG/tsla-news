@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T18:22:33.101074+00:00",
+ "updated_at": "2026-10-30T18:37:29.956521+00:00",
  "market": {
-  "price": 395.1,
-  "change_pct": -2.03,
+  "price": 394.37,
+  "change_pct": -2.21,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 51% 分位"
+     "note": "现价处于52周区间 50% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +1.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 +1.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.07（127条已评分）"
+     "note": "今日新闻情绪 +0.05（129条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $395.10 vs 20日均线 $380.46"
+     "note": "现价 $394.37 vs 20日均线 $380.43"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 51,
+   "price_52w_pct": 50,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 1.2,
-   "ma20": 380.46,
-   "as_of": "2026-10-30T18:22:33.096614+00:00"
+   "implied_upside_pct": 1.4,
+   "ma20": 380.43,
+   "as_of": "2026-10-30T18:37:29.948519+00:00"
   },
-  "pe_ttm": 109.3,
+  "pe_ttm": 109.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+1.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+1.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 127
+   "avg": 0.05,
+   "count": 129
   }
  },
  "meta": {
@@ -68,24 +68,60 @@
  },
  "stories": [
   {
-   "id": "8d4c714f2929",
-   "title": "Tesla-SpaceX Merger Could Face The Biggest Regulatory Risk In China, BofA Warns - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGxodlNrVzVMWlN4YnpIVEFqMzFYOXpjNnNCZXo4QUs5NzUtZEJ4a0M4czlpWS1WOTB6Sk5UbVRPWnc0R01YcVRnTi1lM1hFbU5vbUdTQ3lzX0F3LUFndDdwVkNzNEhIWms2d1A5Y002UF9UWWtrUXppSkQ1bzVfS0ZYcTcyQ3dsUjNzQ3dXRkVRSHhucmdYTU1FalppSFptc2VVQnZ2T2tUQ05NZk1UTy02ZmQtVUE4ZjBPNmFVcXpibTZ6dkFLRnFXVkdiMDRyYU1vNFota0Fhb0E",
-   "source": "Stocktwits",
-   "published_at": "2026-10-30T18:04:59+00:00",
+   "id": "a93829a8fa7a",
+   "title": "Tesla CEO Musk Says Gates Still Holds ‘Massive’ Short, Funds His Critics - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcE5VSnNoQWp3RGFIRldfemJfenlJaXRnQ3dlMVpaMFJlSVZjV2VDcUhuTVhxRE80T0ROdmFVWXZxRlF4Z2gxajk2d2N4eUd4TDFpbjRtMzhLYjZtYWFPNGs4MTFUNUt3Q2ViSWMtbkV1S3NEbVd6LVhCMWJXdThqTjB4VTlaUXJERkNBZWVydlVtNWtubEp4TVNScXJfaTM1Ry1EMl90bEc",
+   "source": "Electric Vehicles",
+   "published_at": "2026-10-30T18:32:28+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "Stocktwits",
-     "published_at": "2026-10-30T18:04:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGxodlNrVzVMWlN4YnpIVEFqMzFYOXpjNnNCZXo4QUs5NzUtZEJ4a0M4czlpWS1WOTB6Sk5UbVRPWnc0R01YcVRnTi1lM1hFbU5vbUdTQ3lzX0F3LUFndDdwVkNzNEhIWms2d1A5Y002UF9UWWtrUXppSkQ1bzVfS0ZYcTcyQ3dsUjNzQ3dXRkVRSHhucmdYTU1FalppSFptc2VVQnZ2T2tUQ05NZk1UTy02ZmQtVUE4ZjBPNmFVcXpibTZ6dkFLRnFXVkdiMDRyYU1vNFota0Fhb0E"
+     "name": "Electric Vehicles",
+     "published_at": "2026-10-30T18:32:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcE5VSnNoQWp3RGFIRldfemJfenlJaXRnQ3dlMVpaMFJlSVZjV2VDcUhuTVhxRE80T0ROdmFVWXZxRlF4Z2gxajk2d2N4eUd4TDFpbjRtMzhLYjZtYWFPNGs4MTFUNUt3Q2ViSWMtbkV1S3NEbVd6LVhCMWJXdThqTjB4VTlaUXJERkNBZWVydlVtNWtubEp4TVNScXJfaTM1Ry1EMl90bEc"
     }
    ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "美银警告特斯拉与SpaceX合并面临中国监管风险",
-   "title_zh": "美银警告：特斯拉与SpaceX合并或面临中国最大监管风险",
-   "sentiment": -1
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
+   "id": "0b134beec708",
+   "title": "Tesla Update in a Drive-Thru: 1 Hour Stuck [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkh4ZXZXeWMyQ2tDYkxjQ0REdXd2Ql9IZWp3UUxKZlFuX2c5SHdIbzJhVWxBRmwyYm9Gcm9Ybk1kMVRHX2VGLWlqdHpESlRjT01GTmZSczRzanN1QnNJMGFLOTM5MXRXeFVKeW5CODJEc3RSWmpGUWdtVWM2NTdTMQ",
+   "source": "shattered.io",
+   "published_at": "2026-10-30T18:31:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-30T18:31:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQkh4ZXZXeWMyQ2tDYkxjQ0REdXd2Ql9IZWp3UUxKZlFuX2c5SHdIbzJhVWxBRmwyYm9Gcm9Ybk1kMVRHX2VGLWlqdHpESlRjT01GTmZSczRzanN1QnNJMGFLOTM5MXRXeFVKeW5CODJEc3RSWmpGUWdtVWM2NTdTMQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "88887e26d32c",
+   "title": "South Korea Refers 80 Tesla Drivers to Prosecutors Over FSD Unlocking - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkU5b1Rid3cySnRZeGdFTGFqcEx2S2t4ZmlnNEd5QzVKN0JKTC02bVctYUlHZ0JXUDNrdmJQZURnS0w1MFFFLU5MZWtJN3VnNG85akh1RkFrUE5pYmo4RXAxNklNWXlDSkpIQXRzRXRsVFVYeGZWMUJPV2V1WDFsNFZzbXEwWFBTaTZ3WDF6M2Q5bzE2S3llZDZpQkQtaXM",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-30T18:24:53+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-30T18:24:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkU5b1Rid3cySnRZeGdFTGFqcEx2S2t4ZmlnNEd5QzVKN0JKTC02bVctYUlHZ0JXUDNrdmJQZURnS0w1MFFFLU5MZWtJN3VnNG85akh1RkFrUE5pYmo4RXAxNklNWXlDSkpIQXRzRXRsVFVYeGZWMUJPV2V1WDFsNFZzbXEwWFBTaTZ3WDF6M2Q5bzE2S3llZDZpQkQtaXM"
+    },
+    {
+     "name": "Gadget Review",
+     "published_at": "2026-10-30T18:24:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHEwa3hBYXRvajN1bVBMUjZxWlV6N3E3TlRFNVl5T0RSMEp4d0hUOHp1NUhEdlp6ay1VOF93MHRTZzkycEtub3M3QnpLTzRqQ3dzSmt2bGpwMGdBNVphXzduOUZuZVladFNxOVNsOHRwT1JSTnZDek1weFJ5WUhPQzEzQXY0aVptbUMzWDV6WlJvRGE4eEVlNGhCYTlhejQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "1443bc726d0b",
@@ -125,6 +161,31 @@
    "session": "盘中",
    "zh_summary": "特斯拉车主警告电动车8000美元税收",
    "title_zh": "特斯拉车主向电动车主发出$8,000税收警告",
+   "sentiment": -1
+  },
+  {
+   "id": "8d4c714f2929",
+   "title": "Tesla-SpaceX Merger Could Face The Biggest Regulatory Risk In China, BofA Warns - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjU1YVJ1ZXZUQWpGRjNKVWthTVhDTi1XeEpVMmJWMXV0d2d1c1lTRGtLM1loYWxCWk8zdGUzSVpxdUp1Vkl3NFpLNlAzeW1BVWpJSTRZdGluVnRLV0VvNnVFUzlVS1p0STdENVR3dXBiRndCWHR0dDcwby1uMkRtZWVITElBOFVJSkNVVmwzUVpqTWhYMjNmMWJJNA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-30T17:58:59+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T17:58:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjU1YVJ1ZXZUQWpGRjNKVWthTVhDTi1XeEpVMmJWMXV0d2d1c1lTRGtLM1loYWxCWk8zdGUzSVpxdUp1Vkl3NFpLNlAzeW1BVWpJSTRZdGluVnRLV0VvNnVFUzlVS1p0STdENVR3dXBiRndCWHR0dDcwby1uMkRtZWVITElBOFVJSkNVVmwzUVpqTWhYMjNmMWJJNA"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-30T18:04:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRGxodlNrVzVMWlN4YnpIVEFqMzFYOXpjNnNCZXo4QUs5NzUtZEJ4a0M4czlpWS1WOTB6Sk5UbVRPWnc0R01YcVRnTi1lM1hFbU5vbUdTQ3lzX0F3LUFndDdwVkNzNEhIWms2d1A5Y002UF9UWWtrUXppSkQ1bzVfS0ZYcTcyQ3dsUjNzQ3dXRkVRSHhucmdYTU1FalppSFptc2VVQnZ2T2tUQ05NZk1UTy02ZmQtVUE4ZjBPNmFVcXpibTZ6dkFLRnFXVkdiMDRyYU1vNFota0Fhb0E"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中",
+   "zh_summary": "美银警告特斯拉与SpaceX合并面临中国监管风险",
+   "title_zh": "美银警告：特斯拉与SpaceX合并或面临中国最大监管风险",
    "sentiment": -1
   },
   {
@@ -6404,66 +6465,6 @@
    "zh_summary": "D4vd被捕 其特斯拉车内发现15岁未成年人",
    "title_zh": "D4vd被捕：其特斯拉车内发现一名15岁未成年人",
    "sentiment": 0
-  },
-  {
-   "id": "06473f04f57e",
-   "title": "这开太带感了 特斯拉拖拉机！太够劲儿了！ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm1BLVViNnNkSTVfVFVJNEFiNGdOX1Y5X2pmM05MWm5TM3NuYk80YkQ5aS11M2NldUVja01EeVNmSFgwOGxIbFM0MExmMXVCX2J5dFpjSG1BRjN6RWc5RkVlSGtVbEVkekJnN05wMmMxTDctRDhWRTdKRGlMWUUzWQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-29T11:17:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-29T11:17:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQm1BLVViNnNkSTVfVFVJNEFiNGdOX1Y5X2pmM05MWm5TM3NuYk80YkQ5aS11M2NldUVja01EeVNmSFgwOGxIbFM0MExmMXVCX2J5dFpjSG1BRjN6RWc5RkVlSGtVbEVkekJnN05wMmMxTDctRDhWRTdKRGlMWUUzWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉拖拉机驾驶感受带劲",
-   "title_zh": "这开太带感了 特斯拉拖拉机！太够劲儿了！ - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "50ace9b4b27d",
-   "title": "【视频】特斯拉造车疯狂堆料？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MMDNXNTZLMm1FYWRtT0RrMXYwZU55NFdPcXpVNExHQ2hTYWNmMHZHNzR4VjE4SjV1Z0pOYmc4cUpxNTlQMVRXYnQ5QWZOQTNkbl9kQS0wVk0xelU",
-   "source": "汽车之家",
-   "published_at": "2026-10-29T11:15:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-29T11:15:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MMDNXNTZLMm1FYWRtT0RrMXYwZU55NFdPcXpVNExHQ2hTYWNmMHZHNzR4VjE4SjV1Z0pOYmc4cUpxNTlQMVRXYnQ5QWZOQTNkbl9kQS0wVk0xelU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉造车用料引发讨论",
-   "title_zh": "【视频】特斯拉造车疯狂堆料？ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "0b31d5dcee2f",
-   "title": "Tesla’s rocket-shaped Houston Robotaxi map has a hole where downtown should be - Martin Cid Magazine",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEVJNVlucEdZdmo4dXdSVi1pbUVrT1QzSG5mOFN0YkRQVkwyb2lKWVI4RndhNDJILV83U1lvYjZlVzJmZ21nRDJod0JSdVFrbWVWMTFxTzZfbS1RSTVJRUZZQi0xUkgyTUhqemdQUXJVdDVITmxyc051RlREQ3Byd3JDRzhaSC11ek5QUHFNeEhBRjQzYzJUNmRGU2RaRUk",
-   "source": "Martin Cid Magazine",
-   "published_at": "2026-10-29T11:11:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Martin Cid Magazine",
-     "published_at": "2026-10-29T11:11:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEVJNVlucEdZdmo4dXdSVi1pbUVrT1QzSG5mOFN0YkRQVkwyb2lKWVI4RndhNDJILV83U1lvYjZlVzJmZ21nRDJod0JSdVFrbWVWMTFxTzZfbS1RSTVJRUZZQi0xUkgyTUhqemdQUXJVdDVITmxyc051RlREQ3Byd3JDRzhaSC11ek5QUHFNeEhBRjQzYzJUNmRGU2RaRUk"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "休斯顿Robotaxi地图市中心缺失",
-   "title_zh": "特斯拉休斯顿Robotaxi地图呈火箭形，市中心缺失",
-   "sentiment": -1
   }
  ]
 }
