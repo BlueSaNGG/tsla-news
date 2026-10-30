@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T18:52:32.148009+00:00",
+ "updated_at": "2026-10-30T19:07:37.036842+00:00",
  "market": {
-  "price": 395.53,
-  "change_pct": -1.93,
+  "price": 396.58,
+  "change_pct": -1.67,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,7 +27,7 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +1.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.9%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $395.53 vs 20日均线 $380.48"
+     "note": "现价 $396.58 vs 20日均线 $380.54"
     },
     {
      "key": "分析师动向",
@@ -48,13 +48,13 @@
    "price_52w_pct": 51,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 1.1,
-   "ma20": 380.48,
-   "as_of": "2026-10-30T18:52:32.133534+00:00"
+   "implied_upside_pct": 0.9,
+   "ma20": 380.54,
+   "as_of": "2026-10-30T19:07:37.030162+00:00"
   },
-  "pe_ttm": 109.4,
+  "pe_ttm": 109.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+1.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.05,
    "count": 132
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "e86a9abdb8aa",
+   "title": "Tesla is set to open reservations for its Optimus robot later this year - The San Francisco Standard",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydi14SkhhWXNPcUhScTJtc1ZiTzZrSy1mV1hLbEtTNUEycFlTTVYyNjNpXzNFQ3B3R3FQQmFLVUxFVTd2WkpLOTRKeExCaEhuRVJ3Qml3eVdITjdwanJnY2RKU1dXaUFSaHpTNGFoNGg",
+   "source": "The San Francisco Standard",
+   "published_at": "2026-10-30T19:01:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The San Francisco Standard",
+     "published_at": "2026-10-30T19:01:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydi14SkhhWXNPcUhScTJtc1ZiTzZrSy1mV1hLbEtTNUEycFlTTVYyNjNpXzNFQ3B3R3FQQmFLVUxFVTd2WkpLOTRKeExCaEhuRVJ3Qml3eVdITjdwanJnY2RKU1dXaUFSaHpTNGFoNGg"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "f60d1bfdb248",
+   "title": "Tesla Robotaxi Adds 'Quiet Mode' as Houston Police Union Backs Driverless Rides Over Drunk Driving - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QU2hOZ2tHam5EZnd0SUx1aFRpNzc1ck4xWTZJaWpSX1R6MjVZWnZPNHdUS01CV1dxTGxDa09BdXlTM3dBOUFULVlISGU4UTNZRlVDZ2FtTjg4bmllbUNCWFNNV2tkVWlsRUIzZUdZUjBjUVVZS0E",
+   "source": "BigGo Finance",
+   "published_at": "2026-10-30T18:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BigGo Finance",
+     "published_at": "2026-10-30T18:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QU2hOZ2tHam5EZnd0SUx1aFRpNzc1ck4xWTZJaWpSX1R6MjVZWnZPNHdUS01CV1dxTGxDa09BdXlTM3dBOUFULVlISGU4UTNZRlVDZ2FtTjg4bmllbUNCWFNNV2tkVWlsRUIzZUdZUjBjUVVZS0E"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "971dedfa21ca",
+   "title": "You Can Now “Drive” the Tesla Roadster in Your Browser – Without Buying a $250,000 Car - Gadget Review",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXU4OTJoU09nUHhfaVcwbjA0UnJEVVRQYmw5X0xlOGlZb1NnUHNqZk1HOEtZc3VEX1djMFhEZnhoT0FOdWF0ajZNOXZjeWl1TjQxZ3NfYTkzaWpialUyNHhIZ0diUF9KODlBdWRhOWpSVE9hSkp0TVR3dEwyZmhOU3I3UWZ3anQxbmd2eWNCUUxtQ1lra1JzcFNWZEZvNFBKbWNocE8xVXdLYUxvMWc",
+   "source": "Gadget Review",
+   "published_at": "2026-10-30T18:38:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gadget Review",
+     "published_at": "2026-10-30T18:38:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXU4OTJoU09nUHhfaVcwbjA0UnJEVVRQYmw5X0xlOGlZb1NnUHNqZk1HOEtZc3VEX1djMFhEZnhoT0FOdWF0ajZNOXZjeWl1TjQxZ3NfYTkzaWpialUyNHhIZ0diUF9KODlBdWRhOWpSVE9hSkp0TVR3dEwyZmhOU3I3UWZ3anQxbmd2eWNCUUxtQ1lra1JzcFNWZEZvNFBKbWNocE8xVXdLYUxvMWc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "a93829a8fa7a",
    "title": "Tesla CEO Musk Says Gates Still Holds ‘Massive’ Short, Funds His Critics - Electric Vehicles",
@@ -6414,71 +6465,6 @@
    "zh_summary": "特斯拉确认3万美元Cybercab上市时间",
    "title_zh": "特斯拉确认3万美元Cybercab上市时间，但购买资格有限制",
    "sentiment": 1
-  },
-  {
-   "id": "59f3863de190",
-   "title": "The Zacks Analyst Blog Highlights Tesla, Netflix, American Express, InterGroup and Moving iMage Technologies - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmhhQ1lkZmJJejE3RkhaWExxVXp1WnFwNVYzU2pJR1lUZUE5QmpxaDQxS0dBTmF4aXpwdmJzNXgtSmJNOUNncnl6TDB2ZkE2T1U3YjQzZzlidVRhb2doX1VxNWJmUnphZWotZnlDaUR6TGVBdzBsTHRjLUdwVzh2OFRVNGN1eGN4T3NBd2psS3ozUURyZnRuT2hNakZpZDlZamc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-29T11:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-29T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmhhQ1lkZmJJejE3RkhaWExxVXp1WnFwNVYzU2pJR1lUZUE5QmpxaDQxS0dBTmF4aXpwdmJzNXgtSmJNOUNncnl6TDB2ZkE2T1U3YjQzZzlidVRhb2doX1VxNWJmUnphZWotZnlDaUR6TGVBdzBsTHRjLUdwVzh2OFRVNGN1eGN4T3NBd2psS3ozUURyZnRuT2hNakZpZDlZamc"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Zacks分析博客聚焦特斯拉等公司",
-   "title_zh": "Zacks分析博客聚焦特斯拉、奈飞等公司",
-   "sentiment": 0
-  },
-  {
-   "id": "c9e1edb3b846",
-   "title": "The Zacks Analyst Blog Highlights Tesla and SpaceX - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0hGNnRJLXFCa1lOR0YzdEJBcTJCRmJPOTVGX19KNjR5UnRiYWxXZmpGMk9MVFFXRHV4YlFWQkRvS0RUWkRKdHdoU1NyV2xrM0VrYXM3WDVrZXZKVjNkQ0tmYlE0d0xhb25kVGw2M0I1ZHl6Qk95Zk44c3FkZnlrSVhWbU5VOW1pMWc2djY3c25GZVRURFd4cUFMcVFSTk1feWc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-29T11:26:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-29T11:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0hGNnRJLXFCa1lOR0YzdEJBcTJCRmJPOTVGX19KNjR5UnRiYWxXZmpGMk9MVFFXRHV4YlFWQkRvS0RUWkRKdHdoU1NyV2xrM0VrYXM3WDVrZXZKVjNkQ0tmYlE0d0xhb25kVGw2M0I1ZHl6Qk95Zk44c3FkZnlrSVhWbU5VOW1pMWc2djY3c25GZVRURFd4cUFMcVFSTk1feWc"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-29T13:30:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWm9yRGZqMENyMXNrVFR0VC1tdUxuWWtVb0hBd0xGYnJscWJ3eGFFaDA2aklRTXg5THBvMTY4X3lySkUyMWRpM3F4dFNUSFhhc19ucU5wMTU5ZTM3aFlqNHl5UG83Z1dPcnV2amNpRjU4a0VqTlFLc0ZXVzZvaVgwRFV3UHI4Wkh5NWtBNFRseFZoS0xPV0xIMWdMS29WeGg0QVM0OGRxbEUwcEk0Z0ZETjMxTlhxemtPVXBCZlFfSVFPRW5OZjZGd2h3Vmd6N2dD"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Zacks分析博客聚焦特斯拉与SpaceX",
-   "title_zh": "Zacks分析博客聚焦特斯拉和SpaceX",
-   "sentiment": 0
-  },
-  {
-   "id": "5d57482f6948",
-   "title": "D4vd Arrested: 15-Year-Old Found in Tesla [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFNwXzFoQW42WVBkdEhKMkNuNks3SDFISDVFM2RyZzc4bHltX3l0VE5EZmdKWERsWUM2dEdzenFxOV9mel9JNjhRbGxXdDhVTktzX1J1dk5RZXA3ZW5jQVc0NXRoc2tQSndJRy11MDRGNWY2bXNqeUNXUGVxYVdjUE5uQUdocW8",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-29T11:22:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-29T11:22:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFNwXzFoQW42WVBkdEhKMkNuNks3SDFISDVFM2RyZzc4bHltX3l0VE5EZmdKWERsWUM2dEdzenFxOV9mel9JNjhRbGxXdDhVTktzX1J1dk5RZXA3ZW5jQVc0NXRoc2tQSndJRy11MDRGNWY2bXNqeUNXUGVxYVdjUE5uQUdocW8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "D4vd被捕 其特斯拉车内发现15岁未成年人",
-   "title_zh": "D4vd被捕：其特斯拉车内发现一名15岁未成年人",
-   "sentiment": 0
   }
  ]
 }
