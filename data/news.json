@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T15:22:38.488763+00:00",
+ "updated_at": "2026-10-30T15:37:30.918168+00:00",
  "market": {
-  "price": 401.52,
-  "change_pct": -0.44,
+  "price": 400.18,
+  "change_pct": -0.77,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（103条已评分）"
+     "note": "今日新闻情绪 +0.07（106条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.52 vs 20日均线 $380.78"
+     "note": "现价 $400.18 vs 20日均线 $380.72"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.4,
-   "ma20": 380.78,
-   "as_of": "2026-10-30T15:22:38.476496+00:00"
+   "implied_upside_pct": -0.0,
+   "ma20": 380.72,
+   "as_of": "2026-10-30T15:37:30.901299+00:00"
   },
-  "pe_ttm": 111.0,
+  "pe_ttm": 110.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 103
+   "avg": 0.07,
+   "count": 106
   }
  },
  "meta": {
@@ -186,6 +186,23 @@
    "zh_summary": "佛州男子酒驾被捕称Cybertruck自动驾驶",
    "title_zh": "佛州男子酒驾被捕归咎于Cybertruck自动驾驶",
    "sentiment": 0
+  },
+  {
+   "id": "302a763d461a",
+   "title": "A Tesla Dashcam Caught a Zoox Robotaxi Involved in an Accident, But Was It Really at Fault? - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlVvWDc5bDg3TXdZWFhVeS1sNFdpOGZjOVk1RU5MQWhCNHduNnBDU0N3SmRScEhpVVE1ZWJyeHRBckpUZDFSQWhyVnRKQ2Rxc2ZuTmZXa2lLaHh4S3JGMkNFamxDdE5DT19QR0pUcnVhYkpzdlBYZUg1R2Y3ZE9nUGRIQzMxckJSSUtsb2M5RFNzT2p1ZU1WSFUzTnRKYVJtb0xGY0dSeFY",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-30T14:49:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-30T14:49:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlVvWDc5bDg3TXdZWFhVeS1sNFdpOGZjOVk1RU5MQWhCNHduNnBDU0N3SmRScEhpVVE1ZWJyeHRBckpUZDFSQWhyVnRKQ2Rxc2ZuTmZXa2lLaHh4S3JGMkNFamxDdE5DT19QR0pUcnVhYkpzdlBYZUg1R2Y3ZE9nUGRIQzMxckJSSUtsb2M5RFNzT2p1ZU1WSFUzTnRKYVJtb0xGY0dSeFY"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   },
   {
    "id": "8828d661861e",
@@ -6465,26 +6482,6 @@
    "zh_summary": "特斯拉欧洲注册量创历史新高",
    "title_zh": "特斯拉欧洲注册量创历史新高，中国品牌崛起带来隐忧 - NAI500",
    "sentiment": 0
-  },
-  {
-   "id": "81518d607510",
-   "title": "特斯拉进军越南挑战VinFast，十年前进入中国时也曾面对比亚迪和充电困局 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55WFliNW9QS3JYcHlkWERtM29VeHJuZHZPLWFXRHc5bjFsby1rNGJsR2RwbHo4RTBINUdiQmhkQk9HRWVIREdnU3pxY0FpWUpsUE9JenRVZUZxZ0E",
-   "source": "网通社",
-   "published_at": "2026-10-29T08:18:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-29T08:18:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55WFliNW9QS3JYcHlkWERtM29VeHJuZHZPLWFXRHc5bjFsby1rNGJsR2RwbHo4RTBINUdiQmhkQk9HRWVIREdnU3pxY0FpWUpsUE9JenRVZUZxZ0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉进军越南市场挑战VinFast",
-   "title_zh": "特斯拉进军越南挑战VinFast，十年前进入中国时也曾面对比亚迪和充电困局",
-   "sentiment": 1
   }
  ]
 }
