@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T05:52:32.999063+00:00",
+ "updated_at": "2026-10-30T06:07:29.925640+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（2条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.67（6条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T05:52:32.991157+00:00"
+   "as_of": "2026-10-30T06:07:29.913280+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 2
+   "avg": 0.67,
+   "count": 6
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e1dd4c97d595",
+   "title": "特斯拉Model3“尾款立减”升至1万元 购车优惠再升级 - 中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tRnk4VzhEQTNObXNfZVhkQmdyMW05Uy1hLXk5bkhMNzktaE5yaXlMV1Ftb2cwb0JyVm5PR3NvR1d6Y3JfTU53UEFQa3pKRDJ6VGZnWTJhZjByLVhPVkFRbkpidmlRNjZjbDJ0WWFBRUQ",
+   "source": "中华网",
+   "published_at": "2026-10-30T05:51:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华网",
+     "published_at": "2026-10-30T05:51:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tRnk4VzhEQTNObXNfZVhkQmdyMW05Uy1hLXk5bkhMNzktaE5yaXlMV1Ftb2cwb0JyVm5PR3NvR1d6Y3JfTU53UEFQa3pKRDJ6VGZnWTJhZjByLVhPVkFRbkpidmlRNjZjbDJ0WWFBRUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "907134aaf502",
    "title": "首付3.99万元开走Model 3！特斯拉中国再调购车政策 10月30日，特斯拉推出全新分期购车金融方案“特从容”，主打低首付、低月供、低尾款、0利息。以Model 3后轮驱动版（23.55万元）为例，享受限时尾款立减1万元，首付3.99万元起，尾款3.99万元，五年月供最高约24 - 搜狐网",
@@ -1706,6 +1723,23 @@
    "zh_summary": "特斯拉Cybercab无障碍乘坐须知",
    "title_zh": "特斯拉Cybercab无障碍：乘客须知",
    "sentiment": 0
+  },
+  {
+   "id": "a214854aeb9c",
+   "title": "Hidden Gems in the SpaceX Filing: Soaring Compute Rates and Deep Tesla Ties - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHJuY2Q5amVSaURUb18yYXZxS2Z1Z1VCUnNkbUpzb2tPck83ZUxZNzI2U2RPdDRKbnJlaVVVMjNkOTRJbnp1SVNPUGZpWVgwTWsya0IxY3VHanUwQ0xfQTFUdkJQS1FVSHdKZ29hcUVnNGZMcWU0VGVVNU9kZkVYbGdtYw",
+   "source": "Barron's",
+   "published_at": "2026-10-29T21:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-29T21:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHJuY2Q5amVSaURUb18yYXZxS2Z1Z1VCUnNkbUpzb2tPck83ZUxZNzI2U2RPdDRKbnJlaVVVMjNkOTRJbnp1SVNPUGZpWVgwTWsya0IxY3VHanUwQ0xfQTFUdkJQS1FVSHdKZ29hcUVnNGZMcWU0VGVVNU9kZkVYbGdtYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "1c1f980459b8",
@@ -6440,46 +6474,6 @@
    "session": "盘中",
    "zh_summary": "特斯拉涨4% ARK维持$4,400目标",
    "title_zh": "特斯拉涨4%，ARK维持$4,400目标价",
-   "sentiment": 1
-  },
-  {
-   "id": "ea078df8d6f6",
-   "title": "Top Stock Reports for Tesla, Netflix & American Express - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbno2dUgyZ20wcTc5dS1SQUNYc1htMDN2aExfdFFCcVhSRVUxbWJJRjZsdElaT1lpUE0wcXF0QkJjTHRQM2lKVWdTblV4dmNSYUVEOHROX0RjemprT1BxUkpxbGdUc1FQS2ZPVUNKbnlaYUdiSmJfTk5Cd2lHR09PaVFUeVdGaXRhQzNILTFxaDNoei1ZTEZGWGVqOTY",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-28T19:08:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T19:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbno2dUgyZ20wcTc5dS1SQUNYc1htMDN2aExfdFFCcVhSRVUxbWJJRjZsdElaT1lpUE0wcXF0QkJjTHRQM2lKVWdTblV4dmNSYUVEOHROX0RjemprT1BxUkpxbGdUc1FQS2ZPVUNKbnlaYUdiSmJfTk5Cd2lHR09PaVFUeVdGaXRhQzNILTFxaDNoei1ZTEZGWGVqOTY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "雅虎发布特斯拉等公司研报",
-   "title_zh": "雅虎发布特斯拉、奈飞与美国运通研报",
-   "sentiment": 0
-  },
-  {
-   "id": "1eedd6589f08",
-   "title": "The New Tesla Roadster Has A Slick Retro-Futuristic User Interface - Motor1.com",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kOFZCbmVJcXZGNDJTVV9TX1g5SVJONkZOY0dNNW0xUkp3NlE1c2dBbUJBeDl0VDYwVjBQUnNnckMwUUR4WUdyclBDUnJYamZoMjRncVlYQUkxQUpOOThodFo3b05qdFItNHNvWWtjQlFUYWN1eGxGMElR",
-   "source": "Motor1.com",
-   "published_at": "2026-10-28T19:02:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Motor1.com",
-     "published_at": "2026-10-28T19:02:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kOFZCbmVJcXZGNDJTVV9TX1g5SVJONkZOY0dNNW0xUkp3NlE1c2dBbUJBeDl0VDYwVjBQUnNnckMwUUR4WUdyclBDUnJYamZoMjRncVlYQUkxQUpOOThodFo3b05qdFItNHNvWWtjQlFUYWN1eGxGMElR"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "新款Roadster采用复古未来风界面",
-   "title_zh": "新款特斯拉Roadster采用时尚复古未来风用户界面",
    "sentiment": 1
   }
  ]
