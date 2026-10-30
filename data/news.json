@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T03:07:42.343183+00:00",
+ "updated_at": "2026-10-30T03:22:32.448754+00:00",
  "market": {
   "price": 403.3,
   "change_pct": -0.23,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（194条已评分）"
+     "note": "今日新闻情绪 +0.15（196条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.8,
    "ma20": 379.24,
-   "as_of": "2026-10-30T03:07:42.333507+00:00"
+   "as_of": "2026-10-30T03:22:32.437641+00:00"
   },
   "pe_ttm": 111.5,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 194
+   "avg": 0.15,
+   "count": 196
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a5f4e4270fbd",
+   "title": "Tesla's robotaxi cash flow could bankroll SpaceX's AI ambitions: Ark Invest - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDFsX0k4eDNmLTVSNFNWQ2gxZXVWb3lKbDBEV0xyRF9KcTBxMXpsUlFsYVNBRFoyU2JfOXMzdkYwUFpDMEpKclZQanBOMGlTN1Q5RTBTWkFaaWVrMkdVWVlOQUJsYm5EejYtbVBZUTFPSWF5OGZjM1FhbXZkVVlSc0hFTGFwZzNHWjNoYTVLVUpDeDRBc0M4cXJTMUNpMlhET2JEd0R6SEM",
+   "source": "CNBC",
+   "published_at": "2026-10-30T03:09:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-30T03:09:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDFsX0k4eDNmLTVSNFNWQ2gxZXVWb3lKbDBEV0xyRF9KcTBxMXpsUlFsYVNBRFoyU2JfOXMzdkYwUFpDMEpKclZQanBOMGlTN1Q5RTBTWkFaaWVrMkdVWVlOQUJsYm5EejYtbVBZUTFPSWF5OGZjM1FhbXZkVVlSc0hFTGFwZzNHWjNoYTVLVUpDeDRBc0M4cXJTMUNpMlhET2JEd0R6SEM"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘后"
+  },
   {
    "id": "2eaf34b7d84f",
    "title": "2026车企品牌价值榜：特斯拉品牌价值跌38%，比亚迪价值85亿美元 - 汽车之家",
@@ -158,6 +175,23 @@
    "sentiment": 0
   },
   {
+   "id": "b76dd8fd98e8",
+   "title": "特斯拉上线特从容金融方案 Model 3/Y首付3.99万元起享五年零息 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZQY1J2RE9wZzd3a3IwQm81Zi1jOUF3RnNmOFpSUWQ4VFBUUmFtTTQ5OUFJN2gyNDREdS1ldVNWbHFTdF9aVmxuVUg5SVVkNUl4M2M3V0xfNjBBeGRPUlZFZVhRZ2c2NW1hWjFXQ1FVdGx6dUppTjFCWFE4Wktha2JTWTJENUY3",
+   "source": "搜狐网",
+   "published_at": "2026-10-30T02:39:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T02:39:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZQY1J2RE9wZzd3a3IwQm81Zi1jOUF3RnNmOFpSUWQ4VFBUUmFtTTQ5OUFJN2gyNDREdS1ldVNWbHFTdF9aVmxuVUg5SVVkNUl4M2M3V0xfNjBBeGRPUlZFZVhRZ2c2NW1hWjFXQ1FVdGx6dUppTjFCWFE4Wktha2JTWTJENUY3"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘后"
+  },
+  {
    "id": "f67e231e3474",
    "title": "最低首付3.99万起特斯拉Model 3/Model Y等车型推出全新金融方案_热点推荐 - 证券之星",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN21ZZDZrV3VjRlRXN0dDT2lGbXp4V1hYN1Jsd09HOVZtQVA0OEZwV3V3RVJXWTdlaUt4M2E0X2JHV3lJaGhaMU5UeDdXX3hEa21CbC1lUGRsZjdKbkM4MA",
@@ -183,12 +217,22 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3owWEhnZTZCMUJ5NXBQQURaeE5FbDgxeDMxRU84T2tfUThwZUY5YkdYZnpfRkFobExVUzQ4TXFQTFVTeEk2bmVCR2RpTDZ2WXE3c2ZPRnVzRkFHcnA2Y2tEN1dxZkt0Z01McWVHbm1ILXkwbVBxVUlHRG1xQzhIS1kwb1EyYk5lUThJUg",
    "source": "搜狐网",
    "published_at": "2026-10-30T02:21:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-30T02:21:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3owWEhnZTZCMUJ5NXBQQURaeE5FbDgxeDMxRU84T2tfUThwZUY5YkdYZnpfRkFobExVUzQ4TXFQTFVTeEk2bmVCR2RpTDZ2WXE3c2ZPRnVzRkFHcnA2Y2tEN1dxZkt0Z01McWVHbm1ILXkwbVBxVUlHRG1xQzhIS1kwb1EyYk5lUThJUg"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-30T03:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWY2VNOVVEZk1zNTJZbmtiak5xNWZRTXk3ckt4Z2cxZzF2SlVERUhqdjhUTmJWZGtQcExaYjRaTzB4YjYyWmJZUjB5dHZPOFJWa0ZzcHYwMFotSEk2WTdlc0U5a2o1cDFicHROeVVNTzRxTkozZEZETHRjclJjTkU"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-30T03:07:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCSzhISXIyeEVEYkdueEk5TVpxUlFrTml4N2ZaUDd1aXlMTlJhbTFfUFh4dTJVQ1MxRXlpbmUweFgtT3dYVVdYRERrT1Vha0M4a2ZLYzd6cWNGWV9MVXhrVDNGME10OEhnYU8zZnNWb0Faa1pmVExFdw"
     }
    ],
    "category": "其他",
@@ -631,6 +675,23 @@
    "zh_summary": "特斯拉人形机器人首份工作是插枪",
    "title_zh": "特斯拉人形机器人首份工作是插枪 补最后半米 - 中华网",
    "sentiment": 1
+  },
+  {
+   "id": "9535e25d1bdb",
+   "title": "Banking records, Tesla sale highlighted as prosecution nears end of Naresh Bhatt murder case - WTOP News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONk81Z2VDeE04bmo5aE9sN2hXTlVoR2JzR2FoTldlTG5kek5GT3ppNW5KaDY2SHAxWWRQbzVUVUpqNGw0TTZPVFhaN3NqcW1HbGgwekJOZGNFd0huLUE1LXFxMG8zTHpiTmhBQU1KaU1QcEFHMVlCLXg3OW45cnVqRmF5bFlMUjhVNDlZLTNoT1dwYTZHQ1lVWXMtWXYwZ3A0VXFCanZkcmxKRFNwQnRuZm9fNFFfb2w1Zk5SQTM1cG5rN1pT",
+   "source": "WTOP News",
+   "published_at": "2026-10-30T00:24:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WTOP News",
+     "published_at": "2026-10-30T00:24:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONk81Z2VDeE04bmo5aE9sN2hXTlVoR2JzR2FoTldlTG5kek5GT3ppNW5KaDY2SHAxWWRQbzVUVUpqNGw0TTZPVFhaN3NqcW1HbGgwekJOZGNFd0huLUE1LXFxMG8zTHpiTmhBQU1KaU1QcEFHMVlCLXg3OW45cnVqRmF5bFlMUjhVNDlZLTNoT1dwYTZHQ1lVWXMtWXYwZ3A0VXFCanZkcmxKRFNwQnRuZm9fNFFfb2w1Zk5SQTM1cG5rN1pT"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "37209077bff4",
@@ -6402,76 +6463,6 @@
    "zh_summary": "特斯拉休斯顿无人车地图部分造假",
    "title_zh": "特斯拉休斯顿火箭形无人车地图部分造假",
    "sentiment": -1
-  },
-  {
-   "id": "3b4c61e1a35e",
-   "title": "Tesla Driver Accidentally Uses Emergency Drive Away [VIDEO] - Not a Tesla App",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0VVZUhCdVBad29takZ5Yy1KblItbWdKWWNRZm15QWFtRmduVEZQQkZVaTN3ZU9YVk9UWWJadGRHNmpoeWVsR1ktM3FCNjk0MUtRSnhvTk96ek05dmZEWndfSU82THZtWG9zdExoWHBJRGRleEFzVi1naWJjWnlQeUY2c05zV0dSNE1ZOUxCTXdpa1dVTWVuUVItbVc",
-   "source": "Not a Tesla App",
-   "published_at": "2026-10-28T15:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Not a Tesla App",
-     "published_at": "2026-10-28T15:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0VVZUhCdVBad29takZ5Yy1KblItbWdKWWNRZm15QWFtRmduVEZQQkZVaTN3ZU9YVk9UWWJadGRHNmpoeWVsR1ktM3FCNjk0MUtRSnhvTk96ek05dmZEWndfSU82THZtWG9zdExoWHBJRGRleEFzVi1naWJjWnlQeUY2c05zV0dSNE1ZOUxCTXdpa1dVTWVuUVItbVc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉车主误触紧急驶离功能",
-   "title_zh": "特斯拉车主误用紧急驶离功能",
-   "sentiment": 0
-  },
-  {
-   "id": "c2b77f01751b",
-   "title": "Electric Trailer Reportedly Beats Tesla Semi’s Financial Returns in 61% of Simulations - Gadget Review",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSG9peWpIbjktTW1oZ2ktUkdmV2FOdXlXc0hKSU9rNVJXSHl1N2xOUUZRTFV6bG0wSXlxeElNN0FUMW9mWmRyUmtiMXY5anRxdGw4X0lYVUtXZkFQRXFkcTJsUV9xQUJoczBHWERwdzhaZVhOTXljR3prdlVhOEdIRnh2bEVyZE9WSTBqRkhSaEs1anJhTkQ3Z2ROMlNkaU4tV1pONlRIaDJBT1oyYWQtZTg0UQ",
-   "source": "Gadget Review",
-   "published_at": "2026-10-28T15:18:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Gadget Review",
-     "published_at": "2026-10-28T15:18:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSG9peWpIbjktTW1oZ2ktUkdmV2FOdXlXc0hKSU9rNVJXSHl1N2xOUUZRTFV6bG0wSXlxeElNN0FUMW9mWmRyUmtiMXY5anRxdGw4X0lYVUtXZkFQRXFkcTJsUV9xQUJoczBHWERwdzhaZVhOTXljR3prdlVhOEdIRnh2bEVyZE9WSTBqRkhSaEs1anJhTkQ3Z2ROMlNkaU4tV1pONlRIaDJBT1oyYWQtZTg0UQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T15:18:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXhZS2dVVmVTeVZheVpSRms0NXdEc1BMQzhRa0EtQWdXSFVxRkRaNy01cVFvd3pTbGVsMldPNVB1TUI1OHgwZDk4RnVlRFVHR1VXZi1kM1BEOWloRnY1SHQwUzMwdXk1dWNpbU43eHVKU0RRWkRfalNKSmxIUlNGeVFoTWUxWGVwVGhMMEFES1lsX1o2eExwakk4ZWw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘中",
-   "zh_summary": "电动挂车模拟收益61%胜特斯拉Semi",
-   "title_zh": "电动挂车在61%模拟中收益胜过特斯拉Semi",
-   "sentiment": -1
-  },
-  {
-   "id": "bc9ead06daba",
-   "title": "Tesla eyes San Antonio for Cybercab launch as robotaxi race heats up - CultureMap San Antonio",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTktldjRac2xrMTlnQUVlblY4VHZGcURFUUIxVW8wWmU1ajJnY3pnQ2FIRDFYWXNIM0RTWWdGZ1g2WTFkVE52bFhScldoUzZmWFkxbzlHanh3MWFkcVhEel82emJUN1FJQjlBc1JRSmVWdGpaT3E3X0NXdEtISlhuWEVfSXVlNENBVnJLWHd0bWNBM2hCX3ZMd0V5MERTMXRFWUhKdkNPS3cwT0VfR3A3LVl6YjhFQQ",
-   "source": "CultureMap San Antonio",
-   "published_at": "2026-10-28T15:17:46+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CultureMap San Antonio",
-     "published_at": "2026-10-28T15:17:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTktldjRac2xrMTlnQUVlblY4VHZGcURFUUIxVW8wWmU1ajJnY3pnQ2FIRDFYWXNIM0RTWWdGZ1g2WTFkVE52bFhScldoUzZmWFkxbzlHanh3MWFkcVhEel82emJUN1FJQjlBc1JRSmVWdGpaT3E3X0NXdEtISlhuWEVfSXVlNENBVnJLWHd0bWNBM2hCX3ZMd0V5MERTMXRFWUhKdkNPS3cwT0VfR3A3LVl6YjhFQQ"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-28T16:15:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3pqeTF2VFZyVFVyWHJUbzY2NktOSFFYSm5NWF85aC1ua1ZfaTBmalBTUExYeTFPMmVuV0tNSmU4Rzc5alI2dTFBdGI5MVh0am1rU2N3SlB5OUhLd19PNFlBRUJ0dDNrb29Od3h4Nnl4OWNzZENRTGxUaVFBTlN4aA"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘中",
-   "zh_summary": "特斯拉拟在圣安东尼奥推Cybercab",
-   "title_zh": "特斯拉拟在圣安东尼奥推出Cybercab",
-   "sentiment": 1
   }
  ]
 }
