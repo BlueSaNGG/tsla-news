@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T16:52:29.016080+00:00",
+ "updated_at": "2026-10-30T17:07:42.879594+00:00",
  "market": {
-  "price": 399.43,
-  "change_pct": -0.96,
+  "price": 398.95,
+  "change_pct": -1.08,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（117条已评分）"
+     "note": "今日新闻情绪 +0.07（120条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $399.43 vs 20日均线 $380.68"
+     "note": "现价 $398.95 vs 20日均线 $380.65"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.1,
-   "ma20": 380.68,
-   "as_of": "2026-10-30T16:52:29.008512+00:00"
+   "implied_upside_pct": 0.3,
+   "ma20": 380.65,
+   "as_of": "2026-10-30T17:07:42.868986+00:00"
   },
-  "pe_ttm": 110.5,
+  "pe_ttm": 110.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.3%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 117
+   "avg": 0.07,
+   "count": 120
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "735cc8fa4380",
+   "title": "Terafab, Explained in 5 Points: The Tesla-SpaceX Chip Fab Rising in Texas - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcnhFci1VbE1YU3BhVVlwWnotUGR4dl83b1M1YXZWQWlnZTBvWVBjdXg0MFJtemRVOENQQVh2aHQ4YmpxcmEtc25oUTVhTnZ1MjBLVS1IVng5aWNzTGZleUtYSEZvTlFGR1Y4Z0ZnZzdFV3dHS0pnMEFlZHNZamRBSlFaNVU4dkRFVzhBdE9mUkxQVDVJaU15RXE2YVdNR3ZSR3JuWEdyQlAzUQ",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-10-30T17:04:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-10-30T17:04:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcnhFci1VbE1YU3BhVVlwWnotUGR4dl83b1M1YXZWQWlnZTBvWVBjdXg0MFJtemRVOENQQVh2aHQ4YmpxcmEtc25oUTVhTnZ1MjBLVS1IVng5aWNzTGZleUtYSEZvTlFGR1Y4Z0ZnZzdFV3dHS0pnMEFlZHNZamRBSlFaNVU4dkRFVzhBdE9mUkxQVDVJaU15RXE2YVdNR3ZSR3JuWEdyQlAzUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "cf28e0877c85",
+   "title": "Tesla Could Be About to Unlock a Brand-New Revenue Stream. Time to Buy the Stock? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEVSRW9acE5rN2E1Wm9XU1hIT1dsVGh4eTE3QndNLXNzT3hEdEQ4RE5fanJ1RGJtcmFsMVZTZHpmRW5DbEdtX0pGN0xtempCX01EWGxTRlRhMExzNUhwdlZaUnNsNW9nVWJxYmJ3ZEVKV2RSZkFKMWdmN0xLeHV2NDVRM1dKSkJaZ1pMUkVNT3RHNHRVQnNMczhURVBVQnRRSWx0WWRlZVh5RVlIYm5ERWZuZVljMVRZVllCRmlfbw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-30T16:59:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-30T16:59:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEVSRW9acE5rN2E1Wm9XU1hIT1dsVGh4eTE3QndNLXNzT3hEdEQ4RE5fanJ1RGJtcmFsMVZTZHpmRW5DbEdtX0pGN0xtempCX01EWGxTRlRhMExzNUhwdlZaUnNsNW9nVWJxYmJ3ZEVKV2RSZkFKMWdmN0xLeHV2NDVRM1dKSkJaZ1pMUkVNT3RHNHRVQnNMczhURVBVQnRRSWx0WWRlZVh5RVlIYm5ERWZuZVljMVRZVllCRmlfbw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "1b2527f07eff",
    "title": "赛博对话电动Emma邀阿飞一苒探讨特斯拉惊天一跳 - 手机新浪网",
@@ -6390,46 +6424,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉进军越南并启动招聘",
    "title_zh": "特斯拉进军越南市场并启动招聘，东南亚出海版图再扩大",
-   "sentiment": 1
-  },
-  {
-   "id": "7eef9444b55d",
-   "title": "Former Tesla Autopilot Chief Slams Elon Musk's Vision-Only Strategy as a 'Weird Religious Stance That Ign - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNb256N1FRRGIyWVBCV1BBbVNnTEYyMnVySUlhSW5hMGVrcExkdUlUemRzbVNBOXFDM3RmbVNmbEFHTnNwQ0NjdndMajhiNzFoMWREWENTdlJKN0xOSlZlTDg0UDVMelM1NXNFMkFpZ3hQeXhtSHYxX3V1YTVyVzNJV2dST1R0TlpUZDNuVnpjU3B5MDlSZkhEWEJFaWJBNjB1aW1NYnFWaHpVVnlJZkVEOUdKSC1PMW9LZmQ3dUNFOTZFOG9QeVIwUF9oX1RieXFOWkd4X1hNeUk3eUEtTlBZN3RSaG90a2pEc3dEU1dYLXpZSmxTMWNvUHJncVc",
-   "source": "Benzinga",
-   "published_at": "2026-10-29T10:18:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-29T10:18:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNb256N1FRRGIyWVBCV1BBbVNnTEYyMnVySUlhSW5hMGVrcExkdUlUemRzbVNBOXFDM3RmbVNmbEFHTnNwQ0NjdndMajhiNzFoMWREWENTdlJKN0xOSlZlTDg0UDVMelM1NXNFMkFpZ3hQeXhtSHYxX3V1YTVyVzNJV2dST1R0TlpUZDNuVnpjU3B5MDlSZkhEWEJFaWJBNjB1aW1NYnFWaHpVVnlJZkVEOUdKSC1PMW9LZmQ3dUNFOTZFOG9QeVIwUF9oX1RieXFOWkd4X1hNeUk3eUEtTlBZN3RSaG90a2pEc3dEU1dYLXpZSmxTMWNvUHJncVc"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "前Autopilot主管批评马斯克纯视觉策略",
-   "title_zh": "前特斯拉Autopilot主管抨击马斯克纯视觉策略",
-   "sentiment": -1
-  },
-  {
-   "id": "87b61c2f8539",
-   "title": "After Earnings, We Raise Our Tesla Stock Fair Value Estimate. Are Shares a Buy? - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXI0NGNwSVZIZjV3R2Etb2ZVSHphNEY3RU1GZm5RckNCQWlaZFVYQWZMb1FSNzVCMGZNUUg4NFh0ZS1sVzZFRFprclQtM1ROTl9nMmVfUlZwU1dCUmljQ3ZiTTZxTldiZ3FGOFloRlVkMzRDdGRnblZrTjg4VEpsWWd2SGhQSTZHNjVsVXk0elFQRGRmNEtrWmpCeTFOTGJqZzV3WGd1Ul9wN29BSHc",
-   "source": "Morningstar",
-   "published_at": "2026-10-29T10:08:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Morningstar",
-     "published_at": "2026-10-29T10:08:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXI0NGNwSVZIZjV3R2Etb2ZVSHphNEY3RU1GZm5RckNCQWlaZFVYQWZMb1FSNzVCMGZNUUg4NFh0ZS1sVzZFRFprclQtM1ROTl9nMmVfUlZwU1dCUmljQ3ZiTTZxTldiZ3FGOFloRlVkMzRDdGRnblZrTjg4VEpsWWd2SGhQSTZHNjVsVXk0elFQRGRmNEtrWmpCeTFOTGJqZzV3WGd1Ul9wN29BSHc"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "晨星上调特斯拉公允价值估计",
-   "title_zh": "财报后晨星上调特斯拉公允价值，股票值得买吗",
    "sentiment": 1
   }
  ]
