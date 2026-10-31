@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T10:22:24.275974+00:00",
+ "updated_at": "2026-10-31T10:37:26.369389+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（40条已评分）"
+     "note": "今日新闻情绪 -0.04（45条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-10-31T10:22:24.269502+00:00"
+   "as_of": "2026-10-31T10:37:26.362149+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 40
+   "avg": -0.04,
+   "count": 45
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "66579e409e26",
+   "title": "150元设备非法破解价值6.4万的特斯拉FSD，韩国80名车主被移送检方 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWd6bHV6YWZzRUlPTE1wWDktbTlpYkx5ZzhaMGdjUUN6OE85aFJZRTc5NGYyLUVKRmRZXzlPSFd6ajNBeEFZYk5kZHRsa1AtYk9qdEF0NXZNQVVnT3A2RXRXRlFQOTZRVEVoSVhienhlNnVFTDAzaXhFOXlMeDV5OQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-31T10:31:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-31T10:31:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWd6bHV6YWZzRUlPTE1wWDktbTlpYkx5ZzhaMGdjUUN6OE85aFJZRTc5NGYyLUVKRmRZXzlPSFd6ajNBeEFZYk5kZHRsa1AtYk9qdEF0NXZNQVVnT3A2RXRXRlFQOTZRVEVoSVhienhlNnVFTDAzaXhFOXlMeDV5OQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "4a11c7795f10",
    "title": "Tesla’s flying Roadster is a 'sideshow,' says longtime EV journalist - Detroit Free Press",
@@ -106,26 +123,6 @@
    "zh_summary": "弗吉尼亚退休基金减持特斯拉股份",
    "title_zh": "弗吉尼亚退休系统等减持特斯拉$TSLA股票",
    "sentiment": -1
-  },
-  {
-   "id": "88a87f16dd40",
-   "title": "2026 Tesla Model Y vs. 2027 Cadillac Optiq: Is Luxury Worth It? - Edmunds",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BR3g5THZhWUpoTkZJLWxtUW9UWDJwcG9lc2x6aGdncXp5NjhRR0cyeC1TS0RrQUpuejdkc2MtakpwNjM1YXR2NkE3T0hxd1VPT2luZkstckZCSzJzRWM5T1FtRTZmSGNXNGZySDhaVnAwM0NKNmdrVQ",
-   "source": "Edmunds",
-   "published_at": "2026-10-31T10:05:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Edmunds",
-     "published_at": "2026-10-31T10:05:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BR3g5THZhWUpoTkZJLWxtUW9UWDJwcG9lc2x6aGdncXp5NjhRR0cyeC1TS0RrQUpuejdkc2MtakpwNjM1YXR2NkE3T0hxd1VPT2luZkstckZCSzJzRWM5T1FtRTZmSGNXNGZySDhaVnAwM0NKNmdrVQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Model Y对比凯迪拉克Optiq豪华值不值",
-   "title_zh": "2026款特斯拉Model Y对比2027款凯迪拉克Optiq，豪华是否值得？",
-   "sentiment": 0
   },
   {
    "id": "f717614a4f34",
@@ -383,12 +380,17 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTlRqNUF1VHZFX3hBMFdFYjVtTzljcDNsS0pMbjVNZ2hDdUtvaWZLYUJRcmxzTTZQUUhrYjAxWjhIQjZPWTJva25MN3g5bUZUZW5nT1FtNWFsVUl5TXFZOER3b3h1LUpFOXdGMWZaVERxdWhORVE",
    "source": "新浪财经",
    "published_at": "2026-10-31T07:37:27+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-31T07:37:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTlRqNUF1VHZFX3hBMFdFYjVtTzljcDNsS0pMbjVNZ2hDdUtvaWZLYUJRcmxzTTZQUUhrYjAxWjhIQjZPWTJva25MN3g5bUZUZW5nT1FtNWFsVUl5TXFZOER3b3h1LUpFOXdGMWZaVERxdWhORVE"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-31T10:15:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMFphT3ZNMjVtaEFCSlhsRGlPTmhLVkJ0S0dfQ3lvVUtVd3RmMlJwdVJJQUticzFyczF2Q0FTM1A0OHBrZFZ1Zlh6WmpOMlBiWlI3N3pzcWs4aTN5VTZ5VFVta1NiUHhPaG90c0VnUU96MklpNEhtY3NXVVo3TlBJeDRmeUY1cmtfYmVDag"
     }
    ],
    "category": "马斯克",
