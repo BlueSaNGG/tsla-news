@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-31T01:07:31.267727+00:00",
+ "updated_at": "2026-10-31T01:22:39.142319+00:00",
  "market": {
-  "price": 403.3,
-  "change_pct": -0.23,
+  "price": 399.81,
+  "change_pct": -0.87,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,12 +22,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.0%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.30 vs 20日均线 $379.24"
+     "note": "现价 $399.81 vs 20日均线 $380.70"
     },
     {
      "key": "分析师动向",
@@ -45,16 +45,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.8,
-   "ma20": 379.24,
-   "as_of": "2026-10-31T01:07:31.259414+00:00"
+   "implied_upside_pct": 0.0,
+   "ma20": 380.7,
+   "as_of": "2026-10-31T01:22:39.135192+00:00"
   },
-  "pe_ttm": 111.5,
+  "pe_ttm": 110.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.05,
    "count": 168
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "690a09e7c317",
+   "title": "Tesla is ready for Halloween 😂 Writer: Sol - X",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0VzeVlFZ2t6c1JsX3lpVU1ua1NWSnNUeURURENGNVJVcEVGQnpSUUNNaWdEaU1HbXV4amJPYTdoaFE0RGdoRlFNVUpWd20zcG5tWEVOMTVqQ0J0ZElaXzRGZExNSDZyRmwyeQ",
+   "source": "X",
+   "published_at": "2026-10-31T01:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "X",
+     "published_at": "2026-10-31T01:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0VzeVlFZ2t6c1JsX3lpVU1ua1NWSnNUeURURENGNVJVcEVGQnpSUUNNaWdEaU1HbXV4amJPYTdoaFE0RGdoRlFNVUpWd20zcG5tWEVOMTVqQ0J0ZElaXzRGZExNSDZyRmwyeQ"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘后"
+  },
   {
    "id": "21b10d81d624",
    "title": "汽车早报｜多家车企发布三季度财报 特斯拉推出全新“5年0息”分期购车金融方案 - Jiemian.com",
@@ -6444,26 +6461,6 @@
    "zh_summary": "马斯克称飞行Roadster无需特殊推进剂",
    "title_zh": "马斯克称飞行Roadster推进器无需特殊推进剂",
    "sentiment": 0
-  },
-  {
-   "id": "155430b1bb28",
-   "title": "Musk Said Unsupervised FSD Would Reach End Users by the End of 2025, Then Tesla Pointed to Q2 2027 for Cars Inside Its Robotaxi Fleet - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWJkejdES1ktSnN1RERjdU9JcXVnVXYwTzV4N1NHVy0tRHB1dUtHZ3FVcEdrVUlWSUJpcm9uM0xmdFN6RHEyMDI1Z0hyOVd1cE5zZDhRTEFWY0VhZExHdHZ4RHVCc014eEtGT3lFNkQ5WENCSHMzUHZEcXNpZ29scE9pU1doV2RUb09pOHM2X1hBTWtXMl9lVTVGa2s",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-29T14:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-29T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWJkejdES1ktSnN1RERjdU9JcXVnVXYwTzV4N1NHVy0tRHB1dUtHZ3FVcEdrVUlWSUJpcm9uM0xmdFN6RHEyMDI1Z0hyOVd1cE5zZDhRTEFWY0VhZExHdHZ4RHVCc014eEtGT3lFNkQ5WENCSHMzUHZEcXNpZ29scE9pU1doV2RUb09pOHM2X1hBTWtXMl9lVTVGa2s"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "无监督FSD目标推迟至2027年二季度",
-   "title_zh": "马斯克称无监督FSD年底落地，特斯拉指向2027年二季度",
-   "sentiment": -1
   }
  ]
 }
