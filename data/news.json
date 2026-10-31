@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T07:37:28.560123+00:00",
+ "updated_at": "2026-10-31T07:52:24.748805+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（22条已评分）"
+     "note": "今日新闻情绪 +0.00（25条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-10-31T07:37:28.553597+00:00"
+   "as_of": "2026-10-31T07:52:24.742454+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.0,
-   "count": 22
+   "count": 25
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1b50f5cbe06e",
+   "title": "【视频】特斯拉也有一个越野梦 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xRlZSM2FqM1ozM3A4elRJWGZ0NGtWd1ZRQ0R4ZzYza3NWTlplMEZyTzVJbU5Wb1BjcWJ0NXpmRVJCVEt0YTZuUzB0V1NNdDlrRUdXYzlhazJHbFE",
+   "source": "汽车之家",
+   "published_at": "2026-10-31T07:41:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-31T07:41:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xRlZSM2FqM1ozM3A4elRJWGZ0NGtWd1ZRQ0R4ZzYza3NWTlplMEZyTzVJbU5Wb1BjcWJ0NXpmRVJCVEt0YTZuUzB0V1NNdDlrRUdXYzlhazJHbFE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "ec889df87bcb",
    "title": "Tesla-SpaceX Merger Hinges on 50% of All Shares [2026] - shattered.io",
@@ -126,6 +143,23 @@
    "zh_summary": "2026年特斯拉Model Y是否值得买",
    "title_zh": "2026年特斯拉Model Y还值得买吗？3个维度说清+FAQ - 手机新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "a2b44719f697",
+   "title": "【视频】21款特斯拉model3黑色3D6电机 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNlREalhfY0xOaUp2WDJjUFFPelk2bjk3b0NLMXcyX2c4VDhxSEh3dXN4cnBRS25PUVlVODBld3FhSVVpdlh6NHItcDYtOS1zTU82ZzFhTGhoOUpyb2E3clVCYmNhYmRod2M0",
+   "source": "汽车之家",
+   "published_at": "2026-10-31T06:52:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-31T06:52:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jNlREalhfY0xOaUp2WDJjUFFPelk2bjk3b0NLMXcyX2c4VDhxSEh3dXN4cnBRS25PUVlVODBld3FhSVVpdlh6NHItcDYtOS1zTU82ZzFhTGhoOUpyb2E3clVCYmNhYmRod2M0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "b6f4cf290c61",
@@ -933,12 +967,17 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zSzU5NU1JVjE1XzdGX0t4V002Y0JDVktyQWYyS1U2MlMzbzlvM01IeTFhU0xkTTNXNG9lVE9INlY2ZjRTQ0VMVzBWVVZWYVBJdTJJN1pPdjItLXdzSGNXNHlyNkljODU2dnh6WWwzRUZ4NWlLaXUtaA",
    "source": "新浪财经",
    "published_at": "2026-10-31T01:10:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-31T01:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zSzU5NU1JVjE1XzdGX0t4V002Y0JDVktyQWYyS1U2MlMzbzlvM01IeTFhU0xkTTNXNG9lVE9INlY2ZjRTQ0VMVzBWVVZWYVBJdTJJN1pPdjItLXdzSGNXNHlyNkljODU2dnh6WWwzRUZ4NWlLaXUtaA"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-31T01:40:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE1IZWs4YTRkZnM1M1NfcFdEM2Jvbnh5QS1Oalk2cXZUUkZMczBQS3c1UVlFOUhzOGFmZktxb1BQMk55YzNma1VlUE9UZnRaSlJtek1XNzBhTzRDNi1YUGgtREh4MllqSW91dUNiWERFTWl3ZW1pS0NxQ1NFZ1Bma1QzNTFvYkxjYlNfag"
     }
    ],
    "category": "其他",
@@ -1851,6 +1890,23 @@
    "zh_summary": "2023款Model 3夜间停车起火拆解",
    "title_zh": "2023款特斯拉Model 3夜间停车起火，电池拆解",
    "sentiment": -1
+  },
+  {
+   "id": "26ac82c19580",
+   "title": "Tesla Semi Wins Top Gear Tech Award - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSTl5cXVlYUlnbXBmSTJrSDhiTVI2eDVKUEZMSFpGc1p5V2JOcDFDTS1NNlI5T0tqOFFsSFlPbHdrekdCTWFIVnpDMTc1R3VZRVVYclA5dTljcWk2ZXQ1TGxFSG4xbDh4V3NvbGxTdENXdw",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-10-30T17:14:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-10-30T17:14:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kSTl5cXVlYUlnbXBmSTJrSDhiTVI2eDVKUEZMSFpGc1p5V2JOcDFDTS1NNlI5T0tqOFFsSFlPbHdrekdCTWFIVnpDMTc1R3VZRVVYclA5dTljcWk2ZXQ1TGxFSG4xbDh4V3NvbGxTdENXdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
   },
   {
    "id": "735cc8fa4380",
@@ -3302,6 +3358,28 @@
    "zh_summary": "视频解读特斯拉最新政策",
    "title_zh": "【视频】课代表为你解读特斯拉最新政策 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "a739ead9f13d",
+   "title": "特斯拉无人驾驶电动车Cybercab在中国西南地区首秀 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjM1bG1KOG5yMHpIQVRrMUdfR3pISkFnN25yR1RKQlZ3Z3R1TFpFS3ZiOExLMVd5N0tZTEtYZkw0ZTdMOWE0Ul83LVZZVDNoek5TNE9lZGU3Vm0xbF9NOHppS1RrZHRlbWJ1S3FWbEdMU24wdEc3ZHh6dTFMSnlCZU4ybGtkSnph",
+   "source": "搜狐网",
+   "published_at": "2026-10-30T09:44:33+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T09:44:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjM1bG1KOG5yMHpIQVRrMUdfR3pISkFnN25yR1RKQlZ3Z3R1TFpFS3ZiOExLMVd5N0tZTEtYZkw0ZTdMOWE0Ul83LVZZVDNoek5TNE9lZGU3Vm0xbF9NOHppS1RrZHRlbWJ1S3FWbEdMU24wdEc3ZHh6dTFMSnlCZU4ybGtkSnph"
+    },
+    {
+     "name": "中国新闻网",
+     "published_at": "2026-10-30T09:44:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5TnlSU2JzaWg5RG9xWmNyVXJWQXFrWW80U2pCNVRsblhfalZvQXJneFlSSzJoWHVyVUY1ajgwdm44c0k5dXFtcXNyYko4dGN5WEE0UFhqS09ySDVXdE51V25EUk1rcl84"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "a3db13936188",
@@ -4880,26 +4958,6 @@
    "sentiment": 1
   },
   {
-   "id": "3593a1f3ba8a",
-   "title": "Tesla Stock (TSLA) Falls 0.2% to $403.30 (Oct 29) - Gotrade",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KZ0d5WE9vS2JTMFNERmFqa2ZLa0JuSXNQSnEzb1ZHV1hNVEtkalhxMjZRQjZ2SlgwX25ReF9KZEdrbmI5WFdWeXFDaUVDX1JEYmIxalBxdHFjR3NvNW90Yk4zU1IyTDdZUXRobkFkT1l4REZBVW5BbldQanl0Zw",
-   "source": "Gotrade",
-   "published_at": "2026-10-30T03:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gotrade",
-     "published_at": "2026-10-30T03:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KZ0d5WE9vS2JTMFNERmFqa2ZLa0JuSXNQSnEzb1ZHV1hNVEtkalhxMjZRQjZ2SlgwX25ReF9KZEdrbmI5WFdWeXFDaUVDX1JEYmIxalBxdHFjR3NvNW90Yk4zU1IyTDdZUXRobkFkT1l4REZBVW5BbldQanl0Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉股价跌0.2%至$403.30",
-   "title_zh": "特斯拉股价跌0.2%至$403.30（10月29日）",
-   "sentiment": -1
-  },
-  {
    "id": "569ac3469f7f",
    "title": "特斯拉推出全新“5 年 0 息”方-汽车-汽车区-虎扑社区 - 虎扑体育网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2TTk5MjlUOVdQQV9JTTRQZ20ySEdyR2VuTzk1Vk1XWURBNk9TSHFxRzl3N2JfRDFaQlNnY3o0V0tFWXp0UWp3MEMwOA",
@@ -6364,66 +6422,6 @@
    "zh_summary": "SpaceX算力费率飙升，与特斯拉深度关联",
    "title_zh": "SpaceX文件暗藏亮点：算力费率飙升与特斯拉深度关联",
    "sentiment": 1
-  },
-  {
-   "id": "1c1f980459b8",
-   "title": "Tesla’s Robotaxi Wants 40 Minutes to Drive Two Blocks – And Riders Are Baffled - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXFhdjJnbjladjdLbmloMmlIWmJFa0pHOGxlLUhWeEtVdUkybXBJR2xpRU0zTUgzX0JSWnRVOU95TVR0dVFXX1cwbUR5YVRJejlJdS1EVDc1WnFBdDVnUjNXYnFhUUYxalNsQ2pNUDZOWHIwSnhldTdTZWlFT0E1dTQxdTVWdVpXT1JSYVlySjNGZGpyVjZkdnNMU0ZFbGs",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-29T20:56:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-29T20:56:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXFhdjJnbjladjdLbmloMmlIWmJFa0pHOGxlLUhWeEtVdUkybXBJR2xpRU0zTUgzX0JSWnRVOU95TVR0dVFXX1cwbUR5YVRJejlJdS1EVDc1WnFBdDVnUjNXYnFhUUYxalNsQ2pNUDZOWHIwSnhldTdTZWlFT0E1dTQxdTVWdVpXT1JSYVlySjNGZGpyVjZkdnNMU0ZFbGs"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘后",
-   "zh_summary": "特斯拉Robotaxi两街区开40分钟引困惑",
-   "title_zh": "特斯拉Robotaxi两街区开40分钟，乘客困惑",
-   "sentiment": -1
-  },
-  {
-   "id": "e0319a3c5844",
-   "title": "\"How Did He Get His Drivers License?\" Dashcam Footage Shows Tesla Driver Attempt (And Fail) To Outrun Oncoming Traffic - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc09mUjJZd2VzN3E5S0Z6Q3N1R29XUlZEVVdtUDZyRTBvOFN4VTdEYkNWV18wZEdwbTB2VFlMTzgxWUhQZGRMOEtTcXFKYzItSEZTQ3ZYRFc2Sk85RlM0UU0yZzJnOWhhQmM1eFVBR1hOWG5haDM2SHNGczdJQVFZclgwX3l1bThfTHhqejhXSjkxdXJ5VWt6cU42MklMeUV1QW1zWg",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-29T20:45:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-29T20:45:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc09mUjJZd2VzN3E5S0Z6Q3N1R29XUlZEVVdtUDZyRTBvOFN4VTdEYkNWV18wZEdwbTB2VFlMTzgxWUhQZGRMOEtTcXFKYzItSEZTQ3ZYRFc2Sk85RlM0UU0yZzJnOWhhQmM1eFVBR1hOWG5haDM2SHNGczdJQVFZclgwX3l1bThfTHhqejhXSjkxdXJ5VWt6cU42MklMeUV1QW1zWg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "行车记录仪拍特斯拉司机超车迎面车流失败",
-   "title_zh": "行车记录仪：特斯拉司机试图超车迎面车流失败",
-   "sentiment": 0
-  },
-  {
-   "id": "f0b789036764",
-   "title": "Tesla Owner Attempts Battery Replacement, Leaves Mechanic With Three-Month Software Nightmare - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0wtYjZBQ2RaeEVpS0dYclRMTW5LSFdZVFJXWkNOOXZ6STQwSTYxenRFUVl3LVM2cS01NU11N0Y2VUNrdzVvWGJRMU9jUGd2cWhnalE5bUVjYTRhS1ZhWUhjRTRTcGx4TUp3bzVCNzgyM2pTWFE0SERMamFwSVZZX0lTRHJFRjdtSS1RdHFtd0pRT1FHR0tramFERUxqalV0R1dacXd1czdERWM",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-29T20:30:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-29T20:30:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0wtYjZBQ2RaeEVpS0dYclRMTW5LSFdZVFJXWkNOOXZ6STQwSTYxenRFUVl3LVM2cS01NU11N0Y2VUNrdzVvWGJRMU9jUGd2cWhnalE5bUVjYTRhS1ZhWUhjRTRTcGx4TUp3bzVCNzgyM2pTWFE0SERMamFwSVZZX0lTRHJFRjdtSS1RdHFtd0pRT1FHR0tramFERUxqalV0R1dacXd1czdERWM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "车主换电池后软件故障困扰修车厂三月",
-   "title_zh": "特斯拉车主换电池，修车厂陷入三个月软件噩梦",
-   "sentiment": -1
   }
  ]
 }
