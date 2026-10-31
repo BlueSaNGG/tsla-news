@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T06:37:27.359360+00:00",
+ "updated_at": "2026-10-31T06:52:29.798218+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（16条已评分）"
+     "note": "今日新闻情绪 -0.05（21条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-10-31T06:37:27.351656+00:00"
+   "as_of": "2026-10-31T06:52:29.789980+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 16
+   "avg": -0.05,
+   "count": 21
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b6f4cf290c61",
+   "title": "Tesla FSD Referral Program [2026]: Free Month + $99 Credit - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWU1CeWFncG5wWXZJWW1iS0lJU2hwZENMNXIxbXNVeWtHcXhrMEFhNjczSHkzUHJicUxoNEZGbXhBWGhvekgwNi1FajI4SVpCM2hYMkhLc2pGZWs2aFg5REJLUjQ1NHJyY3M1b0JidjJtaEE4UVNmTW5xNEVzYzR1dlV0dk4",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-31T06:35:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-31T06:35:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWU1CeWFncG5wWXZJWW1iS0lJU2hwZENMNXIxbXNVeWtHcXhrMEFhNjczSHkzUHJicUxoNEZGbXhBWGhvekgwNi1FajI4SVpCM2hYMkhLc2pGZWs2aFg5REJLUjQ1NHJyY3M1b0JidjJtaEE4UVNmTW5xNEVzYzR1dlV0dk4"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "周末"
+  },
   {
    "id": "43e9d3058800",
    "title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens - The Motley Fool",
@@ -6399,26 +6416,6 @@
    "zh_summary": "特斯拉Semi获Top Gear科技奖",
    "title_zh": "特斯拉Semi获Top Gear 2027科技奖",
    "sentiment": 1
-  },
-  {
-   "id": "fce2e6ff651b",
-   "title": "Tesla video contradicts women’s robbery claim, both arrested for false report - Click2Houston",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWlSV3RvblpDeS1COHI5RHBfYzZsbUk5YlRFM2pGd0sxQlpUVE1Yc2x4alJBTE9YRE91MDJid3J0d2o4WmFRVkhIdy1Kenpya2VxaEI2Xy1DLW1ZT0tCeVRVWlJvZjk3bUFUTHZnSkx3RGdxdkFSdEhMY1JoZUNYNm03TmVBUW9PdmpZZEZFNUlMdXJXMGY0dzVOVmZGcUYwcHBsWGFlYm5DUUlRa0p5UzExVTV4bGZuLUxpUjFEZEdXREIxb0JJ",
-   "source": "Click2Houston",
-   "published_at": "2026-10-29T19:29:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Click2Houston",
-     "published_at": "2026-10-29T19:29:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWlSV3RvblpDeS1COHI5RHBfYzZsbUk5YlRFM2pGd0sxQlpUVE1Yc2x4alJBTE9YRE91MDJid3J0d2o4WmFRVkhIdy1Kenpya2VxaEI2Xy1DLW1ZT0tCeVRVWlJvZjk3bUFUTHZnSkx3RGdxdkFSdEhMY1JoZUNYNm03TmVBUW9PdmpZZEZFNUlMdXJXMGY0dzVOVmZGcUYwcHBsWGFlYm5DUUlRa0p5UzExVTV4bGZuLUxpUjFEZEdXREIxb0JJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特斯拉视频证伪抢劫指控两人被捕",
-   "title_zh": "特斯拉视频证伪抢劫指控，两人因虚假报案被捕",
-   "sentiment": 0
   }
  ]
 }
