@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T05:37:30.633824+00:00",
+ "updated_at": "2026-11-01T05:52:28.806566+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-01T05:37:30.621926+00:00"
+   "as_of": "2026-11-01T05:52:28.795410+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 2
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3f4e09cf7ed7",
+   "title": "特斯拉调整美区推荐奖励 购车福利取消改为赠送FSD月卡 - 3DM",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01bERORUt2NVJuWXVOc1pUTjRjTHplcUx3TTY4TU1Ld1BKeXhxUXpCWFBZcXZOOHpQckZySm5VSFNSbm5OX3FIUllkVnI3S29hcmJfWFR4Uk1UWWgz",
+   "source": "3DM",
+   "published_at": "2026-11-01T05:34:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "3DM",
+     "published_at": "2026-11-01T05:34:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01bERORUt2NVJuWXVOc1pUTjRjTHplcUx3TTY4TU1Ld1BKeXhxUXpCWFBZcXZOOHpQckZySm5VSFNSbm5OX3FIUllkVnI3S29hcmJfWFR4Uk1UWWgz"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "38330cab03da",
+   "title": "Tesla Roadster's Rocket Thrusters Aren't New - These Guys Did It Nearly 100 Years Ago - CarBuzz",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVnpqTkRicEpnYlBCaDktMkZSSGl1cTkyS0h5UmxncnBuSUo1ZDJsWERkVkVZZUNLbEhRTGNkdnNOUy1ZaFBtVWhGRm45eWxhWlVkQm5Rd1VBZWNOWUl5UDFtVGNFNDN4dTZwWUdXS0JqTXRlMC1UMTBCa01JQQ",
+   "source": "CarBuzz",
+   "published_at": "2026-11-01T05:33:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CarBuzz",
+     "published_at": "2026-11-01T05:33:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVnpqTkRicEpnYlBCaDktMkZSSGl1cTkyS0h5UmxncnBuSUo1ZDJsWERkVkVZZUNLbEhRTGNkdnNOUy1ZaFBtVWhGRm45eWxhWlVkQm5Rd1VBZWNOWUl5UDFtVGNFNDN4dTZwWUdXS0JqTXRlMC1UMTBCa01JQQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
+  },
   {
    "id": "560e68ba0b60",
    "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA) - Yahoo Finance",
@@ -577,6 +611,23 @@
    "zh_summary": "特斯拉海外推FSD推荐奖励计划",
    "title_zh": "特斯拉海外推FSD推荐奖励计划 - DoNews",
    "sentiment": 1
+  },
+  {
+   "id": "785ae57c3974",
+   "title": "特斯拉官宣：直降4万 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RzFaaGJIWWZKeWExdmstNjNSMWV4RWphZGY4aXU1bFNsYlhfY2ViX0hZX3NOcktFTXZNUUcwU0NfNTByVFRnX1kxNlpQLU51MnFTT094aDJNVVE",
+   "source": "汽车之家",
+   "published_at": "2026-10-31T23:42:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-31T23:42:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RzFaaGJIWWZKeWExdmstNjNSMWV4RWphZGY4aXU1bFNsYlhfY2ViX0hZX3NOcktFTXZNUUcwU0NfNTByVFRnX1kxNlpQLU51MnFTT094aDJNVVE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "e52e1b644c85",
@@ -6360,76 +6411,6 @@
     "pct": 0.47,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "2c9164e80fd4",
-   "title": "Tesla Robotaxi Houston: 254 Sq Mi, 10x Larger [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-30T07:20:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-30T07:20:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4"
-    },
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-30T07:20:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWlXRjN5czZ6QWFlVFp2UVpNY0FaUW9WbVJTeFJlTzBHdUxKamY1eDVTN3RjVDRkajVsMHZXRTlYLXBVeVFDYVZLYTljanVFNTdSNWotZkRhM2pDUnBRMzhqVEx4QVNiaWttWmkxanZvcV9icWVQd1BtRmM1bEljdUpKX1BTY0xXZXU4"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi休斯顿覆盖254平方英里",
-   "title_zh": "特斯拉Robotaxi休斯顿覆盖254平方英里，扩大10倍",
-   "sentiment": 1
-  },
-  {
-   "id": "bede320ec37e",
-   "title": "马斯克锐评苹果顶配Mac Studio迷你主机售价：相比之下 特斯拉真便宜！ - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qeVpxNUpSY3diOEltdVFPS1h2OHJfQnpoRHpGUFZZeHhVUkYxcXM3WkV5bUllZlc3SWVBbnZfWXByak1jWk12WXVJM242eVpXLVF6cDZxSGY",
-   "source": "驱动之家",
-   "published_at": "2026-10-30T07:18:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-30T07:18:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qeVpxNUpSY3diOEltdVFPS1h2OHJfQnpoRHpGUFZZeHhVUkYxcXM3WkV5bUllZlc3SWVBbnZfWXByak1jWk12WXVJM242eVpXLVF6cDZxSGY"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-30T07:19:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DdE1pZ3V1XzA4dE5kTGt5TEpVbjN6YXZ4WVhYamhOaHpzUDZscU9iTjduallGZ0R4OFZMMllKU2RfOXhZMml2NzVEWnVuUzNWb0sxb1hpMElTN0t4am5ORVUxcVU2cExsNHJfc2xPN2dlbHJwb1pQaHBYdUs"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "马斯克调侃苹果主机售价比特斯拉贵",
-   "title_zh": "马斯克锐评苹果顶配Mac Studio迷你主机售价：相比之下特斯拉真便宜",
-   "sentiment": 0
-  },
-  {
-   "id": "b9162a0d0ca3",
-   "title": "没有方向盘，没有脚踏板！特斯拉无人驾驶出租车Cybercab现场体验 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzJFeDI3NzJsSVZfNjQ4WlkwNnJ0ZEJZSzFJUjVEVlBtOFMyblhvZmU0UC0tb1hMaVc3ZVpNa3VSei1BalZOZ1lTdjlENXV3VUMwdUF6cFM0ZVhpTHdYZkFaZG1TcF9iRElYcHB1RDBWa1BPbGxqdjU0SGNmeTJrREdxZzNrWVR3",
-   "source": "搜狐网",
-   "published_at": "2026-10-30T07:15:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-30T07:15:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzJFeDI3NzJsSVZfNjQ4WlkwNnJ0ZEJZSzFJUjVEVlBtOFMyblhvZmU0UC0tb1hMaVc3ZVpNa3VSei1BalZOZ1lTdjlENXV3VUMwdUF6cFM0ZVhpTHdYZkFaZG1TcF9iRElYcHB1RDBWa1BPbGxqdjU0SGNmeTJrREdxZzNrWVR3"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab无方向盘实车体验",
-   "title_zh": "没有方向盘，没有脚踏板！特斯拉Cybercab现场体验",
-   "sentiment": 1
   }
  ]
 }
