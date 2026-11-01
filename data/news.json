@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T05:52:28.806566+00:00",
+ "updated_at": "2026-11-01T06:07:37.151143+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.25（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-01T05:52:28.795410+00:00"
+   "as_of": "2026-11-01T06:07:37.144765+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.25,
+   "count": 4
   }
  },
  "meta": {
@@ -106,6 +106,23 @@
    "zh_summary": "特斯拉Roadster火箭推进器并非首创",
    "title_zh": "特斯拉Roadster火箭推进器并非新发明，近百年前已有先例",
    "sentiment": 0
+  },
+  {
+   "id": "31c38586b25f",
+   "title": "Tesla owner fled fire through a window — federal rules don't require door-release labels - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU94Z2lYc2g3WHdzelZfeHkyQ2dtV2NLZ2V1Q1VMTEdWc2JaQ250bmhBRG5MRmdqdUhEa24zSkRnYlZQemh6VGZ4RTZBWGVRVGlmN3ZsZDY3R1ZaeWhsUHBjVjhqeDhCaGdtazRzbjU4YUNZdEEzVGZ4bUM1YW9uUnltZ2ZXdGhXS0FQbU0tU3gyWWdUSjdTZERmaw",
+   "source": "Yahoo Autos",
+   "published_at": "2026-11-01T05:31:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-11-01T05:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU94Z2lYc2g3WHdzelZfeHkyQ2dtV2NLZ2V1Q1VMTEdWc2JaQ250bmhBRG5MRmdqdUhEa24zSkRnYlZQemh6VGZ4RTZBWGVRVGlmN3ZsZDY3R1ZaeWhsUHBjVjhqeDhCaGdtazRzbjU4YUNZdEEzVGZ4bUM1YW9uUnltZ2ZXdGhXS0FQbU0tU3gyWWdUSjdTZERmaw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "560e68ba0b60",
@@ -6381,45 +6398,6 @@
    "zh_summary": "反对特斯拉与SpaceX合并的观点",
    "title_zh": "反对特斯拉与SpaceX合并的理由",
    "sentiment": 0
-  },
-  {
-   "id": "b44c6e5cee6f",
-   "title": "前特斯拉Autopilot负责人抨击纯视觉方案：无视物理规律的技术执念 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2RqaW9JWEhqN1dZSkFGeGNGeGxCOUMyUjhQZGZpbE5rNlgweVFPUkQ4ejk1UUdlMUdVQ2JBMTVSZlZYM0UycmV1bFRSMkZaXzFrRW92ZzRYR2JwVlY4bjdIdmVYS0huOF81bHNpaS1DZjZyX3JTWG1SaHRvY2IxeVBQU3B5c0Yy",
-   "source": "搜狐网",
-   "published_at": "2026-10-30T07:24:54+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-30T07:24:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2RqaW9JWEhqN1dZSkFGeGNGeGxCOUMyUjhQZGZpbE5rNlgweVFPUkQ4ejk1UUdlMUdVQ2JBMTVSZlZYM0UycmV1bFRSMkZaXzFrRW92ZzRYR2JwVlY4bjdIdmVYS0huOF81bHNpaS1DZjZyX3JTWG1SaHRvY2IxeVBQU3B5c0Yy"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-30T07:24:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Lc2JOT1ZpQWlsYS1NdE1jVnVwZE0xai1WRnFJLWtFSkltdGJadktuSW5vYU1iNVpNTEZEeGZjNE5YTUdnM1pXZg"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-30T07:24:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FM3ljTUJ4cnpXWFllWmZ0LTZIZWhhRlVkcUVoMUU0X0wyay1FTmZ4SnV6WXV0M1o2RGZjRXFFQU4wMGxTRkVTWXNMQkY"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T08:35:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGgxTUpPakVwZGRwckZJekgxWFE4ekdRcUg1RUNvVDdGUzBWd1U4ckR3NC1xbzJlZFlkZ1VlNXBBQnU3SmVFbWUtT3FwVzVOZ2FSUmVwZUdxNzJyZUF5Z1FPZklxZjdFVzNQN2N1ZkYzVVZOeHZFZWlSakZWU0NoZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "前Autopilot负责人批纯视觉方案",
-   "title_zh": "前特斯拉Autopilot负责人抨击纯视觉方案：无视物理规律的技术执念",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.47,
-    "window_h": 0.1
-   }
   }
  ]
 }
