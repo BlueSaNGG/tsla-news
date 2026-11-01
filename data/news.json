@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T23:52:30.164619+00:00",
+ "updated_at": "2026-11-01T00:07:27.534898+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.02（84条已评分）"
+     "note": "今日新闻情绪 +0.06（94条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-10-31T23:52:30.155772+00:00"
+   "as_of": "2026-11-01T00:07:27.529215+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.02,
-   "count": 84
+   "avg": 0.06,
+   "count": 94
   }
  },
  "meta": {
@@ -67,26 +67,6 @@
   }
  },
  "stories": [
-  {
-   "id": "e52e1b644c85",
-   "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验FSD监督版，可获免费订阅或积分 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1FNdzZVTlpJU19VM0lRTVpjalZJZURLWDRRZ25BbjJQMjhuNnpWeFdteFdzT2NwZjhaNTRWSnhuc1k2QlFiX183Vmg4Y05VX2hHYXZZLW11OE9WTXF2Uy1mVTNhYURxVnYwZjJ4cjA2SHpyY0t3bW8zMk1rb05sNlV1ZVNtOFlnZnhwag",
-   "source": "搜狐网",
-   "published_at": "2026-10-31T23:49:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-31T23:49:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1FNdzZVTlpJU19VM0lRTVpjalZJZURLWDRRZ25BbjJQMjhuNnpWeFdteFdzT2NwZjhaNTRWSnhuc1k2QlFiX183Vmg4Y05VX2hHYXZZLW11OE9WTXF2Uy1mVTNhYURxVnYwZjJ4cjA2SHpyY0t3bW8zMk1rb05sNlV1ZVNtOFlnZnhwag"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉海外推FSD推荐奖励计划",
-   "title_zh": "特斯拉海外推FSD推荐奖励：邀友体验获订阅积分",
-   "sentiment": 1
-  },
   {
    "id": "dada0ffb924b",
    "title": "特斯拉海外推FSD推荐奖励计划 - DoNews",
@@ -105,6 +85,31 @@
    "session": "周末",
    "zh_summary": "特斯拉海外推FSD推荐奖励计划",
    "title_zh": "特斯拉海外推FSD推荐奖励计划 - DoNews",
+   "sentiment": 1
+  },
+  {
+   "id": "e52e1b644c85",
+   "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验FSD监督版，可获免费订阅或积分 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWnp4Z24xOU5MMExtc2ZqY0JqVUpqRk1nNDdvenB4Nl9CWHE2ZzRMa2MtUEtZRkI3ek10ZmtUZVFPUnR4VzdSUmhmOUwxSmc1RXhub0dfeEgzR3E5d2xNeWJULV9wSjlCdDVxMkJXS1d3SXpMcFJsUmhEV3Q",
+   "source": "新浪财经",
+   "published_at": "2026-10-31T23:43:12+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-31T23:43:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWnp4Z24xOU5MMExtc2ZqY0JqVUpqRk1nNDdvenB4Nl9CWHE2ZzRMa2MtUEtZRkI3ek10ZmtUZVFPUnR4VzdSUmhmOUwxSmc1RXhub0dfeEgzR3E5d2xNeWJULV9wSjlCdDVxMkJXS1d3SXpMcFJsUmhEV3Q"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-31T23:49:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1FNdzZVTlpJU19VM0lRTVpjalZJZURLWDRRZ25BbjJQMjhuNnpWeFdteFdzT2NwZjhaNTRWSnhuc1k2QlFiX183Vmg4Y05VX2hHYXZZLW11OE9WTXF2Uy1mVTNhYURxVnYwZjJ4cjA2SHpyY0t3bW8zMk1rb05sNlV1ZVNtOFlnZnhwag"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "特斯拉海外推FSD推荐奖励计划",
+   "title_zh": "特斯拉海外推FSD推荐奖励：邀友体验获订阅积分",
    "sentiment": 1
   },
   {
@@ -841,6 +846,23 @@
    "zh_summary": "Pilot佐治亚州首开特斯拉充电站",
    "title_zh": "Pilot在佐治亚州开设首个特斯拉Megacharger站点",
    "sentiment": 1
+  },
+  {
+   "id": "4f3460a964fb",
+   "title": "Pilot, Tesla Open First Megacharger Site to Power Heavy-Duty EVs - The Buzz - Electric Vehicle News",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA",
+   "source": "The Buzz - Electric Vehicle News",
+   "published_at": "2026-10-31T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Buzz - Electric Vehicle News",
+     "published_at": "2026-10-31T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f97b92146747",
@@ -2481,6 +2503,23 @@
    "zh_summary": "特斯拉新车4万元即可提车",
    "title_zh": "4万就能提特斯拉新车！官方这招真够狠的 - 凤凰网科技",
    "sentiment": 1
+  },
+  {
+   "id": "569ac3469f7f",
+   "title": "特斯拉推出全新“5 年 0 息”方-汽车-汽车区-虎扑社区 - 虎扑体育",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51RVdTM1QwZWlldXZEbE5ISUpIc1FJMFQ1MUg3Uk5RVUlUTENJOHVCYjY5bGNodGRFMmNtVGFXTHFBWUpaOTFWNk94a21YOGc",
+   "source": "虎扑体育",
+   "published_at": "2026-10-30T23:00:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎扑体育",
+     "published_at": "2026-10-30T23:00:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51RVdTM1QwZWlldXZEbE5ISUpIc1FJMFQ1MUg3Uk5RVUlUTENJOHVCYjY5bGNodGRFMmNtVGFXTHFBWUpaOTFWNk94a21YOGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "b0942cacb4d1",
@@ -6342,46 +6381,6 @@
    "zh_summary": "特斯拉推出5年0息优惠",
    "title_zh": "特斯拉推出“5年0息” - 新浪财经",
    "sentiment": 1
-  },
-  {
-   "id": "11c9ade2bf3f",
-   "title": "首付3.99万元开走特斯拉！特斯拉推出“特从容”0息购车方案 - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEJBZ0F3bnVsMHJmQlN3NzR0S0hTdnFnc2ctQWlsdnBxeVh1Q1lVV2NUck9Tck9FTUZhX1JNZWh4Sk5ST3Y5QW5RcjZDZHF1NnQ4V1V0MkFtVHlkc19Lb1dhaEMxY2FqeFdlZUdhRVNUNDhVWFdtZ0FRVkxOTE9vdV8ydEV2SDdHS3NOUS11dw",
-   "source": "21财经",
-   "published_at": "2026-10-30T03:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-30T03:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEJBZ0F3bnVsMHJmQlN3NzR0S0hTdnFnc2ctQWlsdnBxeVh1Q1lVV2NUck9Tck9FTUZhX1JNZWh4Sk5ST3Y5QW5RcjZDZHF1NnQ4V1V0MkFtVHlkc19Lb1dhaEMxY2FqeFdlZUdhRVNUNDhVWFdtZ0FRVkxOTE9vdV8ydEV2SDdHS3NOUS11dw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉推0息购车首付3.99万元",
-   "title_zh": "首付3.99万元开走特斯拉！特斯拉推出“特从容”0息购车方案 - 21财经",
-   "sentiment": 1
-  },
-  {
-   "id": "8e950862a3c9",
-   "title": "Model 3限时立减1万元，特斯拉0息首付低至3.99万元 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekY0bmM0WTZ6bklDYkpuRXJsRWRKRGl5TGNKWmJDbjd0cU9fbUQ1bXE0QVVfN0NUODdoQ0U0NUEtckhVa1d1OVRvbXNDaDRSeHRvWF9IamRYRzhFSkQzeHczaVVRMDFkLWtHeC1oVG9la1pwQ0xJUUFDV3BWQWU5Tmp2NUtOR0ZNM1FTeQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-30T03:55:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-30T03:55:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekY0bmM0WTZ6bklDYkpuRXJsRWRKRGl5TGNKWmJDbjd0cU9fbUQ1bXE0QVVfN0NUODdoQ0U0NUEtckhVa1d1OVRvbXNDaDRSeHRvWF9IamRYRzhFSkQzeHczaVVRMDFkLWtHeC1oVG9la1pwQ0xJUUFDV3BWQWU5Tmp2NUtOR0ZNM1FTeQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Model 3限时立减1万元",
-   "title_zh": "Model 3限时立减1万元，特斯拉0息首付低至3.99万元 - 搜狐网",
-   "sentiment": 0
   }
  ]
 }
