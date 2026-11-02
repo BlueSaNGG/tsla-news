@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T18:22:33.948472+00:00",
+ "updated_at": "2026-11-02T18:37:32.460281+00:00",
  "market": {
-  "price": 408.54,
-  "change_pct": 2.18,
+  "price": 408.01,
+  "change_pct": 2.05,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 58% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -2.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -2.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（118条已评分）"
+     "note": "今日新闻情绪 +0.28（120条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $408.54 vs 20日均线 $382.19"
+     "note": "现价 $408.01 vs 20日均线 $382.16"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 58,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -2.1,
-   "ma20": 382.19,
-   "as_of": "2026-11-02T18:22:33.940385+00:00"
+   "implied_upside_pct": -2.0,
+   "ma20": 382.16,
+   "as_of": "2026-11-02T18:37:32.452635+00:00"
   },
-  "pe_ttm": 113.0,
+  "pe_ttm": 112.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.0%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.28,
-   "count": 118
+   "count": 120
   }
  },
  "meta": {
@@ -1224,6 +1224,23 @@
    "sentiment": 1
   },
   {
+   "id": "0c3a7322de93",
+   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1302,6 +1319,23 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
+  },
+  {
+   "id": "3bed1e27b719",
+   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d6c199c41444",
@@ -6575,46 +6609,6 @@
    "zh_summary": "晨星称财报大跌后特斯拉极具吸引力",
    "title_zh": "TSLA盘前下跌，晨星称财报大跌后极具吸引力",
    "sentiment": 1
-  },
-  {
-   "id": "fecae2c3a267",
-   "title": "特斯拉Roadster 2跳票9年，官方称2028年量产 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVVGdG4yM1pQUnlhdlB2MWVGNU41TDRMTEY2SEZIaVlRMGtpR0J4c2pwUVZlcVR6cGdKcWl0U0tHa3I0cWh2amtSVF94VkJSTzZBYWFmc1FmQzJSTTVRWFdlczFQRFoxQTR1VVRGRUJEMmFnSncydWtvMmNDa3ZDaA",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T00:19:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T00:19:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVVGdG4yM1pQUnlhdlB2MWVGNU41TDRMTEY2SEZIaVlRMGtpR0J4c2pwUVZlcVR6cGdKcWl0U0tHa3I0cWh2amtSVF94VkJSTzZBYWFmc1FmQzJSTTVRWFdlczFQRFoxQTR1VVRGRUJEMmFnSncydWtvMmNDa3ZDaA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster 2跳票9年，2028年量产",
-   "title_zh": "特斯拉Roadster 2跳票9年，官方称2028年量产 - 手机新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "29a063b7cf42",
-   "title": "特斯拉飞行汽车发布会24分钟引全球讨论 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYS03Uno0clpuRjY3a3RIRDlCMVlYM21JeTBidnFkRnQ4UWM4WTZPQXJYUkF3WTljZk9qMHpEbTdVN0Ric0NtSEMzMEdhUTR4T05NdTB4MWNaRlByclczbkQ5WS1mXzdpMXVISDd0V2RFdHp4NkZKVEIyZU1NN01ibA",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T00:19:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T00:19:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYS03Uno0clpuRjY3a3RIRDlCMVlYM21JeTBidnFkRnQ4UWM4WTZPQXJYUkF3WTljZk9qMHpEbTdVN0Ric0NtSEMzMEdhUTR4T05NdTB4MWNaRlByclczbkQ5WS1mXzdpMXVISDd0V2RFdHp4NkZKVEIyZU1NN01ibA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行汽车发布会引全球讨论",
-   "title_zh": "特斯拉飞行汽车发布会24分钟引全球讨论 - 手机新浪网",
-   "sentiment": 0
   }
  ]
 }
