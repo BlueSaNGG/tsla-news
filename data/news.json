@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T08:37:44.848439+00:00",
+ "updated_at": "2026-11-02T08:52:25.159671+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.64（14条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.38（16条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-02T08:37:44.840801+00:00"
+   "as_of": "2026-11-02T08:52:25.152237+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.64,
-   "count": 14
+   "avg": 0.38,
+   "count": 16
   }
  },
  "meta": {
@@ -86,6 +86,23 @@
    "zh_summary": "特斯拉FSD新版本事故并现多项退化",
    "title_zh": "特斯拉FSD v14.3.13卷入事故并出现多项退化",
    "sentiment": -2
+  },
+  {
+   "id": "a345efbfd0e7",
+   "title": "Tesla registrations surge across Northern Europe in October - Euronext Markets: Real-time Stock Market Data | live",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFNnWFBMMnp4d2VTZ1RodGhIZzAxbEN0cFQ3LWFsTGVKZW9EUnBHM3JNSV9zWHlRX25SYTNSZnR0QUlQM1Q3MXVYZjFWOEdCWEUteTIybzZOcllqUTJNT0tTQ0tkbE5xRGRMR3FyZm5HWnJWU1VzZHlGb0I3dll2NGNwR2VhNGF4RTBoR2k0Q2tOTkVqaVlXY3NkUHJrZi1KWGc",
+   "source": "Euronext Markets: Real-time Stock Market Data | live",
+   "published_at": "2026-11-02T08:15:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Euronext Markets: Real-time Stock Market Data | live",
+     "published_at": "2026-11-02T08:15:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbFNnWFBMMnp4d2VTZ1RodGhIZzAxbEN0cFQ3LWFsTGVKZW9EUnBHM3JNSV9zWHlRX25SYTNSZnR0QUlQM1Q3MXVYZjFWOEdCWEUteTIybzZOcllqUTJNT0tTQ0tkbE5xRGRMR3FyZm5HWnJWU1VzZHlGb0I3dll2NGNwR2VhNGF4RTBoR2k0Q2tOTkVqaVlXY3NkUHJrZi1KWGc"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前"
   },
   {
    "id": "274ca2522c42",
@@ -2583,6 +2600,23 @@
    "sentiment": -1
   },
   {
+   "id": "58db73aa032a",
+   "title": "Tesla, Inc. $TSLA Shares Acquired by Vise Technologies Inc. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMndnRXNPazRKMVRUMEREWF9hcDFwSEdEVG1kZjFfQ2xWbkxiRVFlX05qZjg0cUlrNlVOMUVQN2NzTlFVYXkydlFjNzRoWUg5SzlZTXM3S3czb0ZrdVpHanVvZEl2LURHWW1YZFUwZlJWelR6UlhYS1prQmE0ZEx0V0VKb19qbzlRRXFmYlhpMVQxSlYzVjEtaGRLUm5pZGtKUVUyMlFINUlPVDNlU2JfdjY1Y1E2NU0",
+   "source": "MarketBeat",
+   "published_at": "2026-11-01T11:31:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-01T11:31:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMndnRXNPazRKMVRUMEREWF9hcDFwSEdEVG1kZjFfQ2xWbkxiRVFlX05qZjg0cUlrNlVOMUVQN2NzTlFVYXkydlFjNzRoWUg5SzlZTXM3S3czb0ZrdVpHanVvZEl2LURHWW1YZFUwZlJWelR6UlhYS1prQmE0ZEx0V0VKb19qbzlRRXFmYlhpMVQxSlYzVjEtaGRLUm5pZGtKUVUyMlFINUlPVDNlU2JfdjY1Y1E2NU0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "307fe95bc584",
    "title": "特斯拉Roadster腾空特技引热议，自媒体人指出并非真正飞行 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1J0Y293MG1PQ2hWZXpIZlMxTGNoZV8tRVBSaVpjVzd2RUdMM1c4MXAzdWFhcnUwdFRlQXFGeDhta0o0RWFCakhzWU1pZTlndDh6Wjg0MVdTQjV4XzNrcHNvTWJhTXp4VFZHWUlqUGcxYmNsdVFlbE5zU1d2V0Q3OA",
@@ -2641,6 +2675,23 @@
    "zh_summary": "Summit Global增持特斯拉股份",
    "title_zh": "Summit Global增持特斯拉$TSLA股份",
    "sentiment": 1
+  },
+  {
+   "id": "c1137b24c4c9",
+   "title": "Tesla, Inc. $TSLA Stake Lowered by Moss Adams Wealth Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX3I2dzdkVXRQVFpSZWJnNzRRUjBYd2RjSm8ySElzbWliSkNlR1Fud3p1dFQzd3NZaThBUVVYb0hkbkh4SkVqZC1mSXFyTEEyN3VDTzRyYnVsTXJ2QngwQUhpd1hjeHc5MlE4dVJSNEh1bU14SUJGUDQta0g3Q0t3Q1IzcWJxcFJEaEx0VkVqaUFXUDFsRmxicVhBYkFYb2xsQTU2M0RtNUVMeEZfNm5OamRrMlFZZWpiMFc3Zm5PdU8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-01T11:05:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-01T11:05:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX3I2dzdkVXRQVFpSZWJnNzRRUjBYd2RjSm8ySElzbWliSkNlR1Fud3p1dFQzd3NZaThBUVVYb0hkbkh4SkVqZC1mSXFyTEEyN3VDTzRyYnVsTXJ2QngwQUhpd1hjeHc5MlE4dVJSNEh1bU14SUJGUDQta0g3Q0t3Q1IzcWJxcFJEaEx0VkVqaUFXUDFsRmxicVhBYkFYb2xsQTU2M0RtNUVMeEZfNm5OamRrMlFZZWpiMFc3Zm5PdU8"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "e01de4abc672",
@@ -3396,6 +3447,23 @@
    "zh_summary": "Cybercab扩张或改变特斯拉投资逻辑",
    "title_zh": "Cybercab扩张或将改变特斯拉股票投资逻辑(TSLA)",
    "sentiment": 1
+  },
+  {
+   "id": "3cdc45f39a29",
+   "title": "Elon Musk Tesla SpaceX Wealth Claim: Who Really Got Rich? TSLA Reacts - Coin Gabbar",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQREZybVp6UEhrcF9hajlRa0NfZjlZVXNMdmo3a1lPZDBWVkpSMURkclBMWmZaM0c1Q1dQWU9BUllHZXpha0s5Ung2X18yaTdZY0dLTV9pSTRZVFNvcE1CM19PYm10NDYzcWsyQWpvOGxZb0Q5S2Ywa3hxVERjeHBvbU9NLURQNHMtRGFqM2Z2SEE0MHlteGc",
+   "source": "Coin Gabbar",
+   "published_at": "2026-11-01T05:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Coin Gabbar",
+     "published_at": "2026-11-01T05:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQREZybVp6UEhrcF9hajlRa0NfZjlZVXNMdmo3a1lPZDBWVkpSMURkclBMWmZaM0c1Q1dQWU9BUllHZXpha0s5Ung2X18yaTdZY0dLTV9pSTRZVFNvcE1CM19PYm10NDYzcWsyQWpvOGxZb0Q5S2Ywa3hxVERjeHBvbU9NLURQNHMtRGFqM2Z2SEE0MHlteGc"
+    }
+   ],
+   "category": "马斯克",
+   "session": "周末"
   },
   {
    "id": "e8ba603483d5",
@@ -5235,6 +5303,40 @@
    "sentiment": -1
   },
   {
+   "id": "ccdbe92a7f90",
+   "title": "2,062 Tesla, Inc. $TSLA Shares Purchased by Parcion Private Wealth LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFQzOFNoVHZxdjJIbVhmRjhYaGxCTUU1R2s4QTQtRHI0OC1XMlZuRm5TMFVhcWJpZmRiRTd5NVNEczFETmJaejhtTk8zZXMtTUE1UVc2bk96c2I3Nm1XajZBaUZOLTNObUpTTmRRbTBuNVNPWmtEUDUyUkFDckI4cnlhSHFHbURGYUU3cnJoWEZadWVldnl3ejJieEVud0ViRGM4NmtYS3ZjVlRHamxwM29yTWYxUlRVZlMxcW1wT2wzNklqbnc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-31T10:22:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-31T10:22:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFQzOFNoVHZxdjJIbVhmRjhYaGxCTUU1R2s4QTQtRHI0OC1XMlZuRm5TMFVhcWJpZmRiRTd5NVNEczFETmJaejhtTk8zZXMtTUE1UVc2bk96c2I3Nm1XajZBaUZOLTNObUpTTmRRbTBuNVNPWmtEUDUyUkFDckI4cnlhSHFHbURGYUU3cnJoWEZadWVldnl3ejJieEVud0ViRGM4NmtYS3ZjVlRHamxwM29yTWYxUlRVZlMxcW1wT2wzNklqbnc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "736436fd650a",
+   "title": "International Assets Investment Management LLC Acquires 235,992 Shares of Tesla, Inc. $TSLA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUktTZVlqa1p3dmVlWEg1UklxUVZ6WVNVMXlDS0xmVzVudThSVGhPWm1VUHg2UFJ5dTdGNUJWVFp0UUdlYjNPVC1iMFpVQmFld1hFX2dGSXZuN1E0azhKY1NlWDhockJBV1JhY1BfV216U05oQWNyWklRZ0ZoZTNmX2JMclZteDdBZC1zUW9MS3QtUGNjVWx5TVljc2ZNdnlGZ2stNWIwUjExX0pwVjUzZEhnQmJlWWxCQkFMS25SWU9RcGotOG5hZkdsZ1h5X0hyV2JYdkNVekw3NkphUWdUZzh3",
+   "source": "MarketBeat",
+   "published_at": "2026-10-31T10:19:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-31T10:19:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUktTZVlqa1p3dmVlWEg1UklxUVZ6WVNVMXlDS0xmVzVudThSVGhPWm1VUHg2UFJ5dTdGNUJWVFp0UUdlYjNPVC1iMFpVQmFld1hFX2dGSXZuN1E0azhKY1NlWDhockJBV1JhY1BfV216U05oQWNyWklRZ0ZoZTNmX2JMclZteDdBZC1zUW9MS3QtUGNjVWx5TVljc2ZNdnlGZ2stNWIwUjExX0pwVjUzZEhnQmJlWWxCQkFMS25SWU9RcGotOG5hZkdsZ1h5X0hyV2JYdkNVekw3NkphUWdUZzh3"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "4a11c7795f10",
    "title": "Tesla’s flying Roadster is a 'sideshow,' says longtime EV journalist - Detroit Free Press",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnJkSFJzdVJmeHNZY3JkTVVrbWJ1MzUxUEVnZVF5X2RNY3ZIbnV4SGtYZkV1QW1nN2FDMjNRampTdmZIYWVxWGRyQURNeDJKMmlwQXFJYUZRZktwQlRsV3duU2ZNSVVKMlRraVM2dmZ3VlpMWml1a3pZbmJpa1BvWi0zVGdaSUppWkdXeFlib1NkUFdXWF9YRDVYRVBHR3BEMVNVV09QS21SUDNtOUthY1JhZUEzNlpsQUxGT0xSeTIwWWRWV1RPeg",
@@ -5273,6 +5375,23 @@
    "zh_summary": "弗吉尼亚退休基金减持特斯拉股份",
    "title_zh": "弗吉尼亚退休系统等减持特斯拉$TSLA股票",
    "sentiment": -1
+  },
+  {
+   "id": "88a87f16dd40",
+   "title": "2026 Tesla Model Y vs. 2027 Cadillac Optiq: Is Luxury Worth It? - Edmunds",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BR3g5THZhWUpoTkZJLWxtUW9UWDJwcG9lc2x6aGdncXp5NjhRR0cyeC1TS0RrQUpuejdkc2MtakpwNjM1YXR2NkE3T0hxd1VPT2luZkstckZCSzJzRWM5T1FtRTZmSGNXNGZySDhaVnAwM0NKNmdrVQ",
+   "source": "Edmunds",
+   "published_at": "2026-10-31T10:05:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Edmunds",
+     "published_at": "2026-10-31T10:05:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BR3g5THZhWUpoTkZJLWxtUW9UWDJwcG9lc2x6aGdncXp5NjhRR0cyeC1TS0RrQUpuejdkc2MtakpwNjM1YXR2NkE3T0hxd1VPT2luZkstckZCSzJzRWM5T1FtRTZmSGNXNGZySDhaVnAwM0NKNmdrVQ"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "f717614a4f34",
@@ -5483,6 +5602,40 @@
    "zh_summary": "曼特卡120旁路之T代表特斯拉",
    "title_zh": "曼特卡'T'代表特斯拉与战略性120号旁路",
    "sentiment": 0
+  },
+  {
+   "id": "aeea27a5647f",
+   "title": "2,131 Tesla, Inc. $TSLA Shares Bought by Arta Finance Wealth Management LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ05jcTc4NFp5WDNEcHpYS1Y4b1BkTGhSRHhTUzhyODdtMlZrdzg5QTZ5OVpZaDdPMDhCX0xCMDIydGRhZ3VIa0pkUllKc2lIMFhTYkJmRWdpOGwzOUtuZy0zTDV5MXp3YmFNUml0RGo4cHJ6eWluZFZlY09KeFp0Z3BOaXVfZk5qdm43RmtnYWJmV3JTOHV2Wnp0dWdOV1VWOWJFQ0lXcnZ3OUlkaEpjRXUwM08wQmtyeUNWYjNndmxIdVlOUXc1N29GY00",
+   "source": "MarketBeat",
+   "published_at": "2026-10-31T08:23:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-31T08:23:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ05jcTc4NFp5WDNEcHpYS1Y4b1BkTGhSRHhTUzhyODdtMlZrdzg5QTZ5OVpZaDdPMDhCX0xCMDIydGRhZ3VIa0pkUllKc2lIMFhTYkJmRWdpOGwzOUtuZy0zTDV5MXp3YmFNUml0RGo4cHJ6eWluZFZlY09KeFp0Z3BOaXVfZk5qdm43RmtnYWJmV3JTOHV2Wnp0dWdOV1VWOWJFQ0lXcnZ3OUlkaEpjRXUwM08wQmtyeUNWYjNndmxIdVlOUXc1N29GY00"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "48a900a1c40f",
+   "title": "CHICAGO TRUST Co NA Buys 1,842 Shares of Tesla, Inc. $TSLA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmZRZjBjZ1kxUHVfYWVxM0h2blhwampkLWFPV3A2dk1DQjlrc3ZyMmtyZWs2Yk1vUDlGcmdudTJ5X09QSjhJRUJhYmEzY2FJR2JpbXJKZk0zNmVjWmNTSzBVQzVsWG1wWnVrS20yMzRPcXE5Y0RSeW4xMkRuLWcyU1lfZW9nR3YxLUpqa09DS0lqR2tZVnFqdGZWVGVudURqT0pGZnZrWi14ZWN6YVdZaEI3QVY0UQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-31T08:21:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-31T08:21:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmZRZjBjZ1kxUHVfYWVxM0h2blhwampkLWFPV3A2dk1DQjlrc3ZyMmtyZWs2Yk1vUDlGcmdudTJ5X09QSjhJRUJhYmEzY2FJR2JpbXJKZk0zNmVjWmNTSzBVQzVsWG1wWnVrS20yMzRPcXE5Y0RSeW4xMkRuLWcyU1lfZW9nR3YxLUpqa09DS0lqR2tZVnFqdGZWVGVudURqT0pGZnZrWi14ZWN6YVdZaEI3QVY0UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "183e74e91c6e",
@@ -6207,201 +6360,6 @@
    "session": "周末",
    "zh_summary": "特斯拉跨界探索引热议国产车奋起直追",
    "title_zh": "特斯拉跨界探索引热议，国产汽车奋起直追",
-   "sentiment": 0
-  },
-  {
-   "id": "fc0246969eed",
-   "title": "Betting on Archer Aviation or Joby Aviation Being the Tesla of eVTOLs? They Could End Up More Like Lucid. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTdFUFEtNmVhT0RVUmlvbHNhLUZoOHZrVk9LNzlVY3dkZHJjZ3psVHFjbXVEV1FSREhoNXR5aktMSDFmUEVQSkxWRWQyYm5mOV9ZaTBFZkNGYzlSS0ExM2IyYzlSYmdxUFNCbkdEa3pNemhiZDczN1F4Qmx0dkVrVnVUY3lOMDV2VUgwWW5CQ2R5Rmp2V1hr",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-31T05:04:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-31T05:04:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTdFUFEtNmVhT0RVUmlvbHNhLUZoOHZrVk9LNzlVY3dkZHJjZ3psVHFjbXVEV1FSREhoNXR5aktMSDFmUEVQSkxWRWQyYm5mOV9ZaTBFZkNGYzlSS0ExM2IyYzlSYmdxUFNCbkdEa3pNemhiZDczN1F4Qmx0dkVrVnVUY3lOMDV2VUgwWW5CQ2R5Rmp2V1hr"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-31T05:24:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVUg2UXB1bm5TWUlaSzI3elVVMktsZWFpcm1fLTBxNjZYd1JlWUVndXNvQnVYQWdnREh6enp6WnMzazNOMG42Ty11dlhnUDdEZ3JMSGg5aDgtVTFmTjFQS2pLWFM4MG1ucWhZcnMzU1g5UGNxZkVEVWNCMjFYUW1pVWc5OFF1RmZENUo1QVVpUjRPN1BXbHJOWTNPMVl5Y0NVUjg1Qlh0M1pGUEQwZndkMEhuSXZ6SWRGckdmOWxIUUxsWEhtQ0Q5bmI0VGphc3F4WVpwS3pMU1VxajFQT0U0Sk1pRVFfU0FNOFo0SHB1YXYtUzlVYlpId2E0dnhsRFJmeFhOUmFzR3J2WlBqemtzR0ZoOW1GajQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Archer与Joby或成空中特斯拉",
-   "title_zh": "Archer与Joby能否成空中特斯拉？或如Lucid",
-   "sentiment": 0
-  },
-  {
-   "id": "7bd6ff01d2a2",
-   "title": "BTC news: Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve - CoinDesk",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXpTTENaaWs4VGtuVWdtbUxHWWlWdEQ2LXkwZ0R6c2hmRE5UYUVSX0RCXzhtUklINlpJMWdBd0hzX05XRk1MQ01fQ3BZejkwVW84LWxDUnFzUTZUWWRUbmcxQ0c0Z1ZwNXFLWTJENE5ycVlsRjhMdXhzd1hDdUg4QWhjbUdzU1U5M1ZQdWItRWRMZlNuNEF1NWdwS3dxS21CQUhBaFdESUZqYUk2bzI3T21OY2JDdVBSb3pXdUlMX3JLbU53T2xpd213WEwyUQ",
-   "source": "CoinDesk",
-   "published_at": "2026-10-31T05:01:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CoinDesk",
-     "published_at": "2026-10-31T05:01:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXpTTENaaWs4VGtuVWdtbUxHWWlWdEQ2LXkwZ0R6c2hmRE5UYUVSX0RCXzhtUklINlpJMWdBd0hzX05XRk1MQ01fQ3BZejkwVW84LWxDUnFzUTZUWWRUbmcxQ0c0Z1ZwNXFLWTJENE5ycVlsRjhMdXhzd1hDdUg4QWhjbUdzU1U5M1ZQdWItRWRMZlNuNEF1NWdwS3dxS21CQUhBaFdESUZqYUk2bzI3T21OY2JDdVBSb3pXdUlMX3JLbU53T2xpd213WEwyUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "币安被盗比特币超特斯拉持仓",
-   "title_zh": "币安被盗比特币超特斯拉持仓且超萨尔瓦多两倍",
-   "sentiment": 0
-  },
-  {
-   "id": "c266089a19b2",
-   "title": "荷兰9月：特斯拉拿下冠亚军，比亚迪涨277.4%首进品牌前十 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVZIcEp2aVdCaFp5c3JJbjNUWXhLSEdCQjBGVG1YcTVBUGJpUC1jUFlXRFppanVxREltVUdpZm5GV0w0RWNvMG1yYmx2b0tMYTkxTE9lNEF0UlN3YkJWamxUM3hRSjdTbTFsOU5ha1l3LU1NTFo0RWVXY1JWUDZBZzJnV1luZFk3",
-   "source": "搜狐网",
-   "published_at": "2026-10-31T04:48:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-31T04:48:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVZIcEp2aVdCaFp5c3JJbjNUWXhLSEdCQjBGVG1YcTVBUGJpUC1jUFlXRFppanVxREltVUdpZm5GV0w0RWNvMG1yYmx2b0tMYTkxTE9lNEF0UlN3YkJWamxUM3hRSjdTbTFsOU5ha1l3LU1NTFo0RWVXY1JWUDZBZzJnV1luZFk3"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-31T04:48:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTXc3V0lhT2xaYldDMUtnbVRCQUhqMEc2UWttWDJ3QUpxbE5pWTZJV3hNZ3RWM04zU0NObjhkQ1dQUkQ2eTdzWC11bHN5N1RMd2JjVlExZ1BKcnllZkdVc1ZYTDZUTDFHY0p5VXMxRFRnazM3Q3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "荷兰9月特斯拉包揽冠亚军",
-   "title_zh": "荷兰9月：特斯拉拿下冠亚军，比亚迪涨277.4%首进品牌前十",
-   "sentiment": 1
-  },
-  {
-   "id": "44f7910abaae",
-   "title": "Tesla Roadster Evolution: 2 Gens, $200K Price [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1lpR0R0TFk0ZWlrN2docWtCSkFrUVhpWVNIQ0xaOXVoSXAxcUx2NFZ4RTNmdmtOMDg1UW4xWk83ZXpMWW90WFB1YjQzdWNmYnJfa0kzNGpUNk5GT04tdFhGaWhuOUt0emhTbnkwZ1o4eVg1dnphZG44LTV6YTRyYl9KMEU",
-   "source": "shattered.io",
-   "published_at": "2026-10-31T04:31:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-31T04:31:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1lpR0R0TFk0ZWlrN2docWtCSkFrUVhpWVNIQ0xaOXVoSXAxcUx2NFZ4RTNmdmtOMDg1UW4xWk83ZXpMWW90WFB1YjQzdWNmYnJfa0kzNGpUNk5GT04tdFhGaWhuOUt0emhTbnkwZ1o4eVg1dnphZG44LTV6YTRyYl9KMEU"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster两代演变，售价20万美元",
-   "title_zh": "特斯拉Roadster演变：两代车型，售价$200K",
-   "sentiment": 0
-  },
-  {
-   "id": "6367f4e36add",
-   "title": "特斯拉Roadster传说中的飞行模式，离地几秒是噱头还是黑科技 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkk0cEZ2RjhHaHZOd3BiR3ZpQU1aWHpuU2l5MWlsU3ZkclRwSllfalA2VDN3ZHRiNHRWVDF3VzVmY1FmV2tCLURQZWJtaU1iYTlBbFRiNEFnS3ZqdEpsYnZoLUVYYzNEcTFtMjNBajgyNmp6dUtLOG4zbUM4WVlaVA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T04:20:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T04:20:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkk0cEZ2RjhHaHZOd3BiR3ZpQU1aWHpuU2l5MWlsU3ZkclRwSllfalA2VDN3ZHRiNHRWVDF3VzVmY1FmV2tCLURQZWJtaU1iYTlBbFRiNEFnS3ZqdEpsYnZoLUVYYzNEcTFtMjNBajgyNmp6dUtLOG4zbUM4WVlaVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster飞行模式引讨论",
-   "title_zh": "特斯拉Roadster传说中的飞行模式，离地几秒是噱头还是黑科技",
-   "sentiment": 0
-  },
-  {
-   "id": "b16b46561f1c",
-   "title": "Tesla Roadster Through the Years: 2008 to 2028 [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazNCdDdsZ194VFZwaExjZlZScjNMTVJIcHo0ZnhVaWdITEFYTUNiUjJJc1Y2TUhkRHdyYm5mTkZTOWdyUTBDVm5CcndzOElrTkVWb3UzQ3hPUVRaTjNNWDBYcThWdmk1SDAwQmswellLMHFfTFlDOUh2aW5Ubm5WRFZQQ0VIM2JL",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-31T04:06:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-31T04:06:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazNCdDdsZ194VFZwaExjZlZScjNMTVJIcHo0ZnhVaWdITEFYTUNiUjJJc1Y2TUhkRHdyYm5mTkZTOWdyUTBDVm5CcndzOElrTkVWb3UzQ3hPUVRaTjNNWDBYcThWdmk1SDAwQmswellLMHFfTFlDOUh2aW5Ubm5WRFZQQ0VIM2JL"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "特斯拉Roadster历代车型回顾",
-   "title_zh": "特斯拉Roadster历程：2008至2028年",
-   "sentiment": 0
-  },
-  {
-   "id": "975980eb5fd2",
-   "title": "【视频】特斯拉这些细节的安全冗余，做的真心非常到位 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZUZnWjg5Y0FHNW1nbUFuUXR2YmJVUHEtNlIzaUItUTN4Zng1cnZuVmFuVk5LT2x5VDNCcVRucHZZOGR3VjJySDNzLXozREtzcWxUSGp3V0FiVVk",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T04:04:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T04:04:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tZUZnWjg5Y0FHNW1nbUFuUXR2YmJVUHEtNlIzaUItUTN4Zng1cnZuVmFuVk5LT2x5VDNCcVRucHZZOGR3VjJySDNzLXozREtzcWxUSGp3V0FiVVk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特斯拉安全冗余细节获肯定",
-   "title_zh": "【视频】特斯拉这些细节的安全冗余，做的真心非常到位 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "4511b83d21a0",
-   "title": "【视频】23年特斯拉modelY标准续航，实表7.1万公里 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LQnpFQzI0VXBqTlYzVnhKSVhBMzZ6enhZQVFyMDY0d0p0RWVXZlFwZVZOM2NkYnFRdHNhRThZYXlncmdaU2RWOUN5U1JTZlN0XzZoeXVtS3RFSVE",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T03:59:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T03:59:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LQnpFQzI0VXBqTlYzVnhKSVhBMzZ6enhZQVFyMDY0d0p0RWVXZlFwZVZOM2NkYnFRdHNhRThZYXlncmdaU2RWOUN5U1JTZlN0XzZoeXVtS3RFSVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "23款Model Y实表7.1万公里",
-   "title_zh": "【视频】23年特斯拉modelY标准续航，实表7.1万公里 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "0886ee78b53f",
-   "title": "How Many Tesla Superchargers Are There In The US (And Who Can Use Them)? - www.bgr.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95b0N6bkNleGpmd19ONTZhUDlnUnN0NXRybUVfVk84ZmNCMHlQVWJON1JOS3doU0dUeExDSWdualp1bFY5R3NrOVR4SUlseFhNcndTR3VXV1phZXZTRVlKY0hXUC1VMXRZNXVkY1NCNGE1QTdkcHlKckRHVFFOQQ",
-   "source": "www.bgr.com",
-   "published_at": "2026-10-31T03:50:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "www.bgr.com",
-     "published_at": "2026-10-31T03:50:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95b0N6bkNleGpmd19ONTZhUDlnUnN0NXRybUVfVk84ZmNCMHlQVWJON1JOS3doU0dUeExDSWdualp1bFY5R3NrOVR4SUlseFhNcndTR3VXV1phZXZTRVlKY0hXUC1VMXRZNXVkY1NCNGE1QTdkcHlKckRHVFFOQQ"
-    },
-    {
-     "name": "BGR",
-     "published_at": "2026-10-31T04:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95b0N6bkNleGpmd19ONTZhUDlnUnN0NXRybUVfVk84ZmNCMHlQVWJON1JOS3doU0dUeExDSWdualp1bFY5R3NrOVR4SUlseFhNcndTR3VXV1phZXZTRVlKY0hXUC1VMXRZNXVkY1NCNGE1QTdkcHlKckRHVFFOQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "美国特斯拉超充站数量及可用人群",
-   "title_zh": "美国有多少特斯拉超级充电站，谁能用？",
    "sentiment": 0
   }
  ]
