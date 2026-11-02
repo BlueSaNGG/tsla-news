@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T14:37:27.847771+00:00",
+ "updated_at": "2026-11-02T14:52:40.249015+00:00",
  "market": {
-  "price": 409.57,
-  "change_pct": 2.44,
+  "price": 398.02,
+  "change_pct": -0.45,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 58% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -2.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（72条已评分）"
+     "note": "今日新闻情绪 +0.30（73条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $409.57 vs 20日均线 $382.25"
+     "note": "现价 $398.02 vs 20日均线 $381.65"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 58,
+   "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -2.3,
-   "ma20": 382.25,
-   "as_of": "2026-11-02T14:37:27.838838+00:00"
+   "implied_upside_pct": 0.5,
+   "ma20": 381.65,
+   "as_of": "2026-11-02T14:52:40.242560+00:00"
   },
-  "pe_ttm": 113.3,
+  "pe_ttm": 110.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 72
+   "avg": 0.3,
+   "count": 73
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "6633bdf5c103",
+   "title": "$特斯拉 (TSLA.US)$ 407.50 以2.5买入，以4.8卖出 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZExLb0U2eV9lZXhZdERnZ2k4dVBqS1g3dTBzaEtJbThQNXlYODZPRGwxZU5MR1ZqR2VQWnZfVTVZQndOQ1ROWkYzWi16S1FQSmI1dmZCaTVET0R2UF9HUDl2TElXekdYaE5odVBPYXlyNkljZjltaEJ5UzBiWE83ZTRKYnhjbERKWHNxMkJhRm5DS1ZvWXlFN0F3",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T14:46:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T14:46:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZExLb0U2eV9lZXhZdERnZ2k4dVBqS1g3dTBzaEtJbThQNXlYODZPRGwxZU5MR1ZqR2VQWnZfVTVZQndOQ1ROWkYzWi16S1FQSmI1dmZCaTVET0R2UF9HUDl2TElXekdYaE5odVBPYXlyNkljZjltaEJ5UzBiWE83ZTRKYnhjbERKWHNxMkJhRm5DS1ZvWXlFN0F3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b6c2422b7a11",
+   "title": "Tesla lobbies for Vietnam as US tariff deadline closes in - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWURFY1lLMFAtdmdXa2JoNHkycWY0QXIxZkZBOWp6Y2JEc0ZyS1UwdWtacnZrcDl0UktUWHhLeWx2dkE1QjBseTg1ODhaQlUydS0tQlQ5SnBEanBEVDZLYi1vaEhHN2NQOXBHcndQM3gtZTVKMGpIN3V6cm90SEN0SHBwckswMEVPV0ZmZ083ZnJabjR0ZF9hYjY3bw",
+   "source": "Automotive World",
+   "published_at": "2026-11-02T14:46:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-11-02T14:46:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWURFY1lLMFAtdmdXa2JoNHkycWY0QXIxZkZBOWp6Y2JEc0ZyS1UwdWtacnZrcDl0UktUWHhLeWx2dkE1QjBseTg1ODhaQlUydS0tQlQ5SnBEanBEVDZLYi1vaEhHN2NQOXBHcndQM3gtZTVKMGpIN3V6cm90SEN0SHBwckswMEVPV0ZmZ083ZnJabjR0ZF9hYjY3bw"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "023371366a4b",
+   "title": "Tesla Registrations Jump 69% in Seven European Markets in October - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1k4RGZOemZYNlpYRmZtVVFxYmlBWVRBZ0ZlTGhVYjRjWGQ5Smo0TXFwWVhVYmV4XzVXUHE2bVZOeXNOd2VnX0lzY3E2ZV95dUdGUDR1dHM1VXlENUFiS1Znb0h3LWhDSlZVODlBSEU1ajlHNTRvX0VuUkVQOGE3YkMwa2tiQzJISjVIR3JIRW9BMFFRQjgxenRmUU5veDROekE",
+   "source": "Electric Vehicles",
+   "published_at": "2026-11-02T14:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-11-02T14:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1k4RGZOemZYNlpYRmZtVVFxYmlBWVRBZ0ZlTGhVYjRjWGQ5Smo0TXFwWVhVYmV4XzVXUHE2bVZOeXNOd2VnX0lzY3E2ZV95dUdGUDR1dHM1VXlENUFiS1Znb0h3LWhDSlZVODlBSEU1ajlHNTRvX0VuUkVQOGE3YkMwa2tiQzJISjVIR3JIRW9BMFFRQjgxenRmUU5veDROekE"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "4904c6fff2fc",
+   "title": "Canada’s Chinese EV imports stall at zero in October - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01RmJSTklRY19Bamg1WmFPZmg5TlZWaWNCV0pIZEJxWnpONmViRE93UUQ1OFVTV2F4STNVYWFfRkRMQXFTN2hzWnhzY3FzZzNGdVduVGJRUUlLUTFpeDRNVWZQZ3V5XzFNNFlFTnp1RV9EZGp0a3Q5RnZKMGI",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-11-02T14:30:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-02T14:30:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01RmJSTklRY19Bamg1WmFPZmg5TlZWaWNCV0pIZEJxWnpONmViRE93UUQ1OFVTV2F4STNVYWFfRkRMQXFTN2hzWnhzY3FzZzNGdVduVGJRUUlLUTFpeDRNVWZQZ3V5XzFNNFlFTnp1RV9EZGp0a3Q5RnZKMGI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "561b2f79ab4d",
    "title": "Tesla's China Problem Gets Harder to Ignore - Yahoo Finance",
@@ -3441,7 +3509,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zVVluMFRLM0VBN3dRNTRQZU9mMnZfZHY0aEhldXFRd1NpQ0JlQXE2UU5BWjFPQzFYTHlXU2ZOdm1JMmwwZ0lxVGlUdy02NWkwWkRISHFvMnVTaVBUeEZybA",
    "source": "CAIJING.COM.CN",
    "published_at": "2026-11-01T16:08:03+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "CAIJING.COM.CN",
@@ -3452,13 +3520,22 @@
      "name": "手机新浪网",
      "published_at": "2026-11-02T07:27:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RMHByUmdnR1dUSmtZVW5CSk5fTFZKVmVoVE1kQ2dsenZDMnhfZ05lbTd4TW55czlWcXJUX2ZaZS05Sk1NZVg4WTU1V2VYaDVrYUdTQ3ZxZ1pIN2FWSnQ3UFNfLTM1ZlB6bzFKeWJ0bVB6T0l3MnNCNkpVNE1LRUE"
+    },
+    {
+     "name": "正观新闻",
+     "published_at": "2026-11-02T08:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bjB5ZGZrbUl1ZGxUN2x6QlpRbXl0SURRMk0yTkxROWVFWEJMQW56WDJxZFBKRGo3YUUxMVBzRmNPRUtqWjlIQ0xSckJpS3JnS0VTYTFkTnM"
     }
    ],
    "category": "其他",
    "session": "周末",
    "zh_summary": "1年车龄纯电保值率榜：特斯拉上榜",
    "title_zh": "10月纯电保值率榜：小米YU7等居前三，特斯拉上榜",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -2.62,
+    "window_h": 0.4
+   }
   },
   {
    "id": "ceca64ce41fa",
@@ -6481,86 +6558,6 @@
    "zh_summary": "飞行汽车Alef售价30万美元领先特斯拉",
    "title_zh": "Alef飞行汽车售价30万美元，领先特斯拉11年",
    "sentiment": 0
-  },
-  {
-   "id": "49f5b5d27108",
-   "title": "Alef Tells Tesla: 11 Years in the Flying Car Race [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1OSzRNSzQ2UTVhblczN1B4V285RVV5LS1PRl85ZDNEOUNyNXR4amhwX3c2UWk2M1NwSEF1bzR0WDZHWkQzLVZYYjlsek5HdnZmNnFyWG5JV1ZLQU16d0F3N0tNY2txTDQ3V2dsQlFIYnhpVXVZWGNOOTBiamNRVHF6alEtMlFjUWRkWkFkbEQ",
-   "source": "shattered.io",
-   "published_at": "2026-10-31T13:26:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-31T13:26:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1OSzRNSzQ2UTVhblczN1B4V285RVV5LS1PRl85ZDNEOUNyNXR4amhwX3c2UWk2M1NwSEF1bzR0WDZHWkQzLVZYYjlsek5HdnZmNnFyWG5JV1ZLQU16d0F3N0tNY2txTDQ3V2dsQlFIYnhpVXVZWGNOOTBiamNRVHF6alEtMlFjUWRkWkFkbEQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Alef谈11年飞行汽车竞赛经历",
-   "title_zh": "Alef谈特斯拉：11年飞行汽车竞赛",
-   "sentiment": 0
-  },
-  {
-   "id": "1ff718b25825",
-   "title": "哪些车有自动避让系统？华为/特斯拉/蔚来3大阵营实测，7万到50万全盘点+FAQ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zb2tka3l3ci0zdXhMYUVydXJYN3c3a0I4blhuVHdzR1pPOVZfbkJSenJWUGc5TW5QMmVlTHV4TGF1bVVWemlhT1NYQWtGUENUNzFYNXdEdGVydi1EOGdZVDk1dTlZR25yQ3d1WUJwczlRTTBRcUZQWFUzaWtaWTg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T13:19:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T13:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zb2tka3l3ci0zdXhMYUVydXJYN3c3a0I4blhuVHdzR1pPOVZfbkJSenJWUGc5TW5QMmVlTHV4TGF1bVVWemlhT1NYQWtGUENUNzFYNXdEdGVydi1EOGdZVDk1dTlZR25yQ3d1WUJwczlRTTBRcUZQWFUzaWtaWTg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "华为特斯拉蔚来自动避让系统实测",
-   "title_zh": "华为/特斯拉/蔚来自动避让系统实测盘点",
-   "sentiment": 0
-  },
-  {
-   "id": "4ca960a9b949",
-   "title": "(TSLA) Advanced Equity Analysis (TSLA:CA) - Stock Traders Daily",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWRPdW5pcWtLYUtWalZrSzhudTlMczF6S1d4Y1JaNGFPd3BVUU5KampTM1h1REZHMkFCWndpMFJLMnl6YVhoT0NiOUprbE0xdGZpWldTcUVqbC1EbGktd2RUdzVzeklsRnNzQXVOZ2t3TjVyWnAxTHpWYTN4dXVkQXFRTWZWbFRGWi0xZWNXMUM",
-   "source": "Stock Traders Daily",
-   "published_at": "2026-10-31T13:15:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Traders Daily",
-     "published_at": "2026-10-31T13:15:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWRPdW5pcWtLYUtWalZrSzhudTlMczF6S1d4Y1JaNGFPd3BVUU5KampTM1h1REZHMkFCWndpMFJLMnl6YVhoT0NiOUprbE0xdGZpWldTcUVqbC1EbGktd2RUdzVzeklsRnNzQXVOZ2t3TjVyWnAxTHpWYTN4dXVkQXFRTWZWbFRGWi0xZWNXMUM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "TSLA高级股票分析报告",
-   "title_zh": "TSLA高级股票分析",
-   "sentiment": 0
-  },
-  {
-   "id": "604b11b6b249",
-   "title": "【视频】岚图追光S对比Model Y：特斯拉毛坯房遇到精装修卷王 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMWM1aWF5bEpZZ2FNbVJoeFd4QVdvQXEzcUEyYU9XMzhSSE5iR1JwbnVZNlJBdnJ0cGd4SWs1X2haSFhaaUUtRVpGM1lvN2Q4TXVKcVI2alpSdXc",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T13:09:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T13:09:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMWM1aWF5bEpZZ2FNbVJoeFd4QVdvQXEzcUEyYU9XMzhSSE5iR1JwbnVZNlJBdnJ0cGd4SWs1X2haSFhaaUUtRVpGM1lvN2Q4TXVKcVI2alpSdXc"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "岚图追光S对比Model Y",
-   "title_zh": "【视频】岚图追光S对比Model Y：特斯拉毛坯房遇到精装修卷王 - 汽车之家",
-   "sentiment": -1
   }
  ]
 }
