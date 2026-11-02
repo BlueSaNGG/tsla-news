@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T17:52:30.394181+00:00",
+ "updated_at": "2026-11-02T18:07:29.205622+00:00",
  "market": {
-  "price": 407.9,
-  "change_pct": 2.02,
+  "price": 408.47,
+  "change_pct": 2.17,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 58% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.9%"
+     "note": "目标价中位数 $400（19家），隐含空间 -2.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（115条已评分）"
+     "note": "今日新闻情绪 +0.28（118条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $407.90 vs 20日均线 $382.16"
+     "note": "现价 $408.47 vs 20日均线 $382.19"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 58,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.9,
-   "ma20": 382.16,
-   "as_of": "2026-11-02T17:52:30.387876+00:00"
+   "implied_upside_pct": -2.1,
+   "ma20": 382.19,
+   "as_of": "2026-11-02T18:07:29.193677+00:00"
   },
-  "pe_ttm": 112.8,
+  "pe_ttm": 113.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.1%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 115
+   "avg": 0.28,
+   "count": 118
   }
  },
  "meta": {
@@ -258,7 +258,7 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1pPVFo3V1p0VGFzdm9fRHN3YTd3RXZ2Q1pOeEIybEZsNmctX2NlanhtUWNzM1VWOFIzdko5MTY3RDBUZ0xOMUZiMkVocU9hbkdyWGFGVkRjWGxISnRZN1EyaHk4WUZVNHhxVWh2NEV6eTB2Ym5zQWRYM0duUnV0VVdhREJqejBtbGFjOUE5NkF0ODgtMHR2MC1IS3JLMU0",
    "source": "www.marketscreener.com",
    "published_at": "2026-11-02T16:54:01+00:00",
-   "outlets_count": 4,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "www.marketscreener.com",
@@ -279,6 +279,16 @@
      "name": "Reuters",
      "published_at": "2026-11-02T17:18:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWh5eXBDbWNyMzlfVWtULUdfRHFvNjlub0dDUmlJWTJNdmRPQnYxeWd3cGM5WkJfa3ZrTTNBX2dmVFRIdU5kWXpURXBPMXpuSEg2WVk3RUtwcDktcWFQQWdxVWNmRnZiWnplaDNEZ2lPaDZrNjhTdVhaSHRDN3hkczVXaFJQaXU1bEdN"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-02T17:18:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQXZ6N2VYTjEyb01oNGRJa0xuN3c5NlpLLTJURXFlVkctZzZhSWZZT2ZDc1VvUEg2UUMxV2VQb3lwZHBGdFBPbXIzeURZQUlQdUx5NjhyWkZMSEk0LUZvOU5GZ0Z4UW1ySTJBemxPUW9YM19uTmdKQjk1Q0JWMktGektTemNuV0IwbS1Ici1lajI0X3g4SXpBSndNS1RfaWc4cXRYUDZkZVM5MGpIZmRsM1VSTQ"
+    },
+    {
+     "name": "Latest news from Azerbaijan",
+     "published_at": "2026-11-02T17:56:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85Y29uemdSSWxTR0ZwM3dZMVgwQkFPN0tZQmx6SDdWM1JySVdFMnFMVlIzSEhjLTkwRnR2emM1ZllYR2lPaUhVbDVyTlUtZ3U1S0Z5aE11bE83LVFlSGZUUVFfQlVFaGhyUkMyUmktZTc1Mkk"
     }
    ],
    "category": "其他",
