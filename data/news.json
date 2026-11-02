@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T19:37:29.388669+00:00",
+ "updated_at": "2026-11-02T19:52:29.776369+00:00",
  "market": {
-  "price": 403.49,
-  "change_pct": 0.92,
+  "price": 403.3,
+  "change_pct": 0.87,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（129条已评分）"
+     "note": "今日新闻情绪 +0.28（131条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.49 vs 20日均线 $381.94"
+     "note": "现价 $403.30 vs 20日均线 $381.92"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.9,
-   "ma20": 381.94,
-   "as_of": "2026-11-02T19:37:29.380458+00:00"
+   "implied_upside_pct": -0.8,
+   "ma20": 381.92,
+   "as_of": "2026-11-02T19:52:29.768136+00:00"
   },
-  "pe_ttm": 111.6,
+  "pe_ttm": 111.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.28,
-   "count": 129
+   "count": 131
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ca3208c3d77c",
+   "title": "特斯拉动能回收可调节吗？两档力度+三种停止模式，选错续航差5%+FAQ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ga3BoTHpOWndkYmlxOGpacWtsMVctNjZWanJhbkVJR0d2X3RYT1dxM2pERTVRbWJ6MWNMQkU3Y0poMTZ1UWpReTM5NGJqX3JEejYtcVhPbF8wblJueUgw",
+   "source": "新浪网",
+   "published_at": "2026-11-02T19:48:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-11-02T19:48:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ga3BoTHpOWndkYmlxOGpacWtsMVctNjZWanJhbkVJR0d2X3RYT1dxM2pERTVRbWJ6MWNMQkU3Y0poMTZ1UWpReTM5NGJqX3JEejYtcVhPbF8wblJueUgw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "9db1cb6d4400",
    "title": "TSLA Stock Rises as Tesla Registrations Jump 248% - FinanceFeeds",
@@ -1429,6 +1446,23 @@
    "sentiment": 1
   },
   {
+   "id": "0c3a7322de93",
+   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1509,6 +1543,23 @@
    "sentiment": 0
   },
   {
+   "id": "3bed1e27b719",
+   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "d6c199c41444",
    "title": "Welch Group LLC Purchases 5,540 Shares of Tesla, Inc. $TSLA - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUFFTTc4Z3FJWE9VVk80UmFwT2R2bGU0U0c4TUxaUXVQWVNYYTRVbjFTa1BoR1FTUXVfeUpfSHlMbURyU2pXc2VKWTNaSWpydks2VC1rVE13MmhWMzllNTBfaW9KektBVDJMenR1R1RMUGtJYUY4bWdndTBMTnFQSzdRaHRObk1NVENHMUFDTVZUbjRWMEtHWU5pZXR2aEZlUUdFcWtpMGhfWi1SR3l0Qnl1QnlOUEk",
@@ -1579,11 +1630,16 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0ZvdGxJN0laM2ZFSHR6QVUxaGxUbVcwM3JrX3duMXhPZXprUkJMY18xU0cwS0k2amNYVEY4NEJWTGZJVk5kQzhXVTlfT2xxbndmYV9ydk5JOFNYRmYxRFR2dzAtTGx2cjJ2VGE4SGVOVG50TGU3dmZqRXd4djlwWEZ3QkFmQXk4bmc",
    "source": "driveteslacanada.ca",
    "published_at": "2026-11-02T13:13:07+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "driveteslacanada.ca",
      "published_at": "2026-11-02T13:13:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0ZvdGxJN0laM2ZFSHR6QVUxaGxUbVcwM3JrX3duMXhPZXprUkJMY18xU0cwS0k2amNYVEY4NEJWTGZJVk5kQzhXVTlfT2xxbndmYV9ydk5JOFNYRmYxRFR2dzAtTGx2cjJ2VGE4SGVOVG50TGU3dmZqRXd4djlwWEZ3QkFmQXk4bmc"
+    },
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-02T17:04:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0ZvdGxJN0laM2ZFSHR6QVUxaGxUbVcwM3JrX3duMXhPZXprUkJMY18xU0cwS0k2amNYVEY4NEJWTGZJVk5kQzhXVTlfT2xxbndmYV9ydk5JOFNYRmYxRFR2dzAtTGx2cjJ2VGE4SGVOVG50TGU3dmZqRXd4djlwWEZ3QkFmQXk4bmc"
     }
    ],
@@ -1612,6 +1668,23 @@
    "zh_summary": "特斯拉在瑞典挪威势头向好，丹麦承压",
    "title_zh": "特斯拉在瑞典挪威势头向好，丹麦市场承压",
    "sentiment": 0
+  },
+  {
+   "id": "ccc6df547112",
+   "title": "活动团体计划公布亿万富豪住址，首批资料涉及马斯克与特斯拉 - Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XTzJSYzlzMERFYnBJVUtmeDRZblo5emR2dF80eXZhSWo1LUd1MERGWDJIVFFYUzdKNk5ra182VkdRTVZ2Y1JTUWl1c0JVbURMd0FOTGJOWUozVzIwdU9SY2JvdEpZY2RvOUt0QS1R",
+   "source": "Mezha.net",
+   "published_at": "2026-11-02T13:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mezha.net",
+     "published_at": "2026-11-02T13:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XTzJSYzlzMERFYnBJVUtmeDRZblo5emR2dF80eXZhSWo1LUd1MERGWDJIVFFYUzdKNk5ra182VkdRTVZ2Y1JTUWl1c0JVbURMd0FOTGJOWUozVzIwdU9SY2JvdEpZY2RvOUt0QS1R"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "dc9f8817f44f",
@@ -2673,6 +2746,40 @@
    "zh_summary": "拉脱维亚批准FSD，特斯拉美国市占率52%",
    "title_zh": "特斯拉美国市占率约52%，拉脱维亚批准FSD",
    "sentiment": 1
+  },
+  {
+   "id": "329af7b1d95f",
+   "title": "btw nice jam for moomoo, tesla put value up - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGR0THowWXFSSlcwd2VDVWJEQUFfbnVkTmt1NlZLN2FKdnlxdXpfSDdERG9LbS1YbHBmQXF6SmJBUzhXLWt1OWhFSGpVVmptNVJyTlJGZ0hjcnpVQ1FGWmVjVjZwN0N0S0h6bm1wZTlnNHF5ZUtzR1dLc3FIR1JyeEdnTW5FazhUQWNjUXlkUm5qRDhZZkprekQ0MW4",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T08:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGR0THowWXFSSlcwd2VDVWJEQUFfbnVkTmt1NlZLN2FKdnlxdXpfSDdERG9LbS1YbHBmQXF6SmJBUzhXLWt1OWhFSGpVVmptNVJyTlJGZ0hjcnpVQ1FGWmVjVjZwN0N0S0h6bm1wZTlnNHF5ZUtzR1dLc3FIR1JyeEdnTW5FazhUQWNjUXlkUm5qRDhZZkprekQ0MW4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0524e62a32d0",
+   "title": "顺便说一句，给moomoo的Jam不错，特斯拉股价因此上涨了 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3h1dVhEeWxNNDgxcndGd3ZtSjI0Z3diem0wTG56eTllVUVHSWNVRmE4ckZHaEZxdUUtUERteUNodzU3eHpWOVNWbGJzUFYxenVKZFkyUjliLUNvSlRNaEhSRGs5RmpsY25oaEV4TUxldi1KdmlMcG5OSk4tTXA4c2pEQTdzbmFmWGdRbm5ib2trSmUtdXFWTnFjU183blBUdEJB",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T08:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3h1dVhEeWxNNDgxcndGd3ZtSjI0Z3diem0wTG56eTllVUVHSWNVRmE4ckZHaEZxdUUtUERteUNodzU3eHpWOVNWbGJzUFYxenVKZFkyUjliLUNvSlRNaEhSRGs5RmpsY25oaEV4TUxldi1KdmlMcG5OSk4tTXA4c2pEQTdzbmFmWGdRbm5ib2trSmUtdXFWTnFjU183blBUdEJB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "06d74cc7043b",
@@ -6417,151 +6524,6 @@
    "session": "周末",
    "zh_summary": "焕新版Model Y二手选购合集",
    "title_zh": "【视频】焕新版特斯拉Model Y合集！想买二手焕新版的来看一看 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "2cd107e541b3",
-   "title": "【视频】特斯拉还有多少降价空间？FSD何时入华？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kTjBHdGR3cjNxQmJISnNQdFFUeUtSU2RLdG50XzV5N1F1M3RCMW44NUctQW84SkVOdmdOMjQ5YV8wTnRDQWJPNWJKb2FzVXFNQW8yTWRUSXRBZlE",
-   "source": "汽车之家",
-   "published_at": "2026-11-01T02:21:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-01T02:21:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kTjBHdGR3cjNxQmJISnNQdFFUeUtSU2RLdG50XzV5N1F1M3RCMW44NUctQW84SkVOdmdOMjQ5YV8wTnRDQWJPNWJKb2FzVXFNQW8yTWRUSXRBZlE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉降价空间与FSD入华引关注",
-   "title_zh": "【视频】特斯拉还有多少降价空间？FSD何时入华？ - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "26c124954afb",
-   "title": "特斯拉美国取消购车推荐奖励，改赠FSD使用权 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvZnBVMENfRW40Nzh5dVNjVEdRTjJEa2hVSUVSWnpGb0d3Mm9YTVdRZUhERE1SQ1A1dTlILVZvQVZmRG5ocmU5aFU2azN1aEpSOVNXVUljaFhic1FJeWc",
-   "source": "DoNews",
-   "published_at": "2026-11-01T01:47:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-11-01T01:47:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvZnBVMENfRW40Nzh5dVNjVEdRTjJEa2hVSUVSWnpGb0d3Mm9YTVdRZUhERE1SQ1A1dTlILVZvQVZmRG5ocmU5aFU2azN1aEpSOVNXVUljaFhic1FJeWc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉美取消购车推荐奖励改赠FSD",
-   "title_zh": "特斯拉美国取消购车推荐奖励，改赠FSD使用权 - DoNews",
-   "sentiment": 0
-  },
-  {
-   "id": "b9720721b921",
-   "title": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZm4zeTZWZklzRndCYTNXeDdrcENKNlBtY3k1eUxtWEw5Y0pCd0d1eXlzTFQyN3hhR1N5TDVfS3d0a0pHcGRQMldkT2s5RDVleTlTN0s4Z2hDZXpFWXR1ZllyVWRvY3V6WXZYWTFoc04",
-   "source": "新浪网",
-   "published_at": "2026-11-01T01:35:53+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-11-01T01:35:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZm4zeTZWZklzRndCYTNXeDdrcENKNlBtY3k1eUxtWEw5Y0pCd0d1eXlzTFQyN3hhR1N5TDVfS3d0a0pHcGRQMldkT2s5RDVleTlTN0s4Z2hDZXpFWXR1ZllyVWRvY3V6WXZYWTFoc04"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-01T02:04:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXg5d2swbGZiU2lVSmhkNi1sekpiOGhkWW1qWlo3ZTU0M0hoUlRhWlhodGd3dWZjanlOV1FxWlE0WldpeDdHeWZvMnZ0SUh0S3Y2bnhSWXhZX3RqMVN4a3AyYXhRZVdObU9FNzdZNkJCdzFDeHhyNkZuUV9EMF9lVUh3NmNOeDZuSlYxTQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-11-01T01:48:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tSlkyajcyR18xWXNpS0NrcklBWmFqNnRfVHRacmRpS0wyc3Ntd0I5UlF3TzZDR042UG1tS05pSUQyTnljR2RDTlEzZ1JZckhQTUZSbi02X2laNmJzZlpDbVhaNDgtaDkyV0F5TThtWHJLMmY0R0w5OWFNWmQ"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-11-01T02:13:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRktNVVV5MzNkVlgyNGIwTlU4M25CN3NnYkNEYTBGeFpTT0Eydjh0UW9JVjN2SDFEcTh0TzllYjJpX0tSblZ2QTJjYi0weEpjczYtVkc4XzU0M3VMbHJCN19pQzk1OWplcU9jZ1lKNFJUTDdsalRoX0RhWGRlcThvdVJIQmlNUzVDTUx3V09OSEtGRFB5c3JrTnJJWGtyQ3Z1QTdlMTNoTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "特斯拉海外砍掉买车推荐奖励",
-   "title_zh": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励 - 新浪网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "67fb0efae3c6",
-   "title": "特斯拉美国调整推荐计划，车主推荐好友购车不再得现金奖励 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDZFd6dDVzZGR3X295Z2FvQnowRjZia3YyUzBQWlFNc2hWZlZkakx6QnFldHJBaXB5T0xrM3dNZDROWF9YSmc0N1ltZGhpNm5zYnNrOHdrM1BHbTVQRlpEMEZYWHpOeFlpRmlFTV9YVzZtd1B1dmhfcWJOWm0zZw",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T01:35:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T01:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDZFd6dDVzZGR3X295Z2FvQnowRjZia3YyUzBQWlFNc2hWZlZkakx6QnFldHJBaXB5T0xrM3dNZDROWF9YSmc0N1ltZGhpNm5zYnNrOHdrM1BHbTVQRlpEMEZYWHpOeFlpRmlFTV9YVzZtd1B1dmhfcWJOWm0zZw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-11-01T01:35:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WT0hXeFNBNmM2Q1pRd0xkTFZVaG5fQlNidy1Nbk9PUlU3X3FuM29jVHR3aWVReWdDSEVHZ3RabVptS2pfWm5ZaWd6RDJCOWtWMlBQQXdpaDcyc01RZkhoV1lnZnpaMi0xdTV0SmdKMTA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉美国取消推荐购车现金奖励",
-   "title_zh": "特斯拉美国调整推荐计划，车主推荐好友购车不再得现金奖励 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "fe1524226e14",
-   "title": "特斯拉飞车实用价值引追问，嘉宾称核心是创造人类未做过的事 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDFFQ01EUksyZVNsMFJRZUVXNjZBR0otR0xpdmQxTHh2azI3UkNobkgtNnB5dmhFS2RHWGV5MG9IeTRtNkpocW10TldnbnozTXVldFRubTRmWXUtQW5UV3V6cU5jMUF4T282Nzh4aElQQUFIdFNKSWJuVFh1U3VXdg",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T01:16:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T01:16:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDFFQ01EUksyZVNsMFJRZUVXNjZBR0otR0xpdmQxTHh2azI3UkNobkgtNnB5dmhFS2RHWGV5MG9IeTRtNkpocW10TldnbnozTXVldFRubTRmWXUtQW5UV3V6cU5jMUF4T282Nzh4aElQQUFIdFNKSWJuVFh1U3VXdg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞车实用价值引追问",
-   "title_zh": "特斯拉飞车实用价值引追问，嘉宾称核心是创造人类未做过的事",
-   "sentiment": 0
-  },
-  {
-   "id": "37a0de14d24d",
-   "title": "你以为特斯拉研发飞行跑车是为了抢占低空出行市场？ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekpYVmc3NHo4aldZMXdFcGRMUEdPcndVXzNRMzBaQmFnUkFuNnFRX1I4SURFMDA2V1hIakM5d0NnUnNhTFhOZkNYRjdrb2x5SmI4RTA3ZDJ5RWJ2ZXNVVF9RMlViOUIza0xMNzRVSUo0NXpid3QybmwycW1kbTVWQg",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T01:12:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T01:12:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekpYVmc3NHo4aldZMXdFcGRMUEdPcndVXzNRMzBaQmFnUkFuNnFRX1I4SURFMDA2V1hIakM5d0NnUnNhTFhOZkNYRjdrb2x5SmI4RTA3ZDJ5RWJ2ZXNVVF9RMlViOUIza0xMNzRVSUo0NXpid3QybmwycW1kbTVWQg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉研发飞行跑车引讨论",
-   "title_zh": "你以为特斯拉研发飞行跑车是为了抢占低空出行市场？",
    "sentiment": 0
   }
  ]
