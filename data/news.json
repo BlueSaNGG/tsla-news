@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T20:52:30.320773+00:00",
+ "updated_at": "2026-11-02T21:07:27.493957+00:00",
  "market": {
-  "price": 402.39,
-  "change_pct": 0.65,
+  "price": 403.82,
+  "change_pct": 1.0,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.6%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（145条已评分）"
+     "note": "今日新闻情绪 +0.25（147条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.39 vs 20日均线 $381.88"
+     "note": "现价 $403.82 vs 20日均线 $381.95"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.6,
-   "ma20": 381.88,
-   "as_of": "2026-11-02T20:52:30.312283+00:00"
+   "implied_upside_pct": -0.9,
+   "ma20": 381.95,
+   "as_of": "2026-11-02T21:07:27.487380+00:00"
   },
-  "pe_ttm": 111.3,
+  "pe_ttm": 111.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.6%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 145
+   "avg": 0.25,
+   "count": 147
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "60eb24a07a5b",
+   "title": "EVgo Q3 Preview: Tesla Partnership And NACS Retrofits May Transform The Business - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3lZM2tZNmJhb0xaOFh1NDJiWGRTTVZLTHhxX1h5NEUxeWRrWC1aOG1LRjV1Q3RpY25RbU9QRExKWGR6ZHJJZk9sNzE2T29qSXoxSGJta0lERDV4ZnN4V1ZvcjluY0tqb0xoMURmNWR3eElQaTNVVVRNTmljOVJkVXlIVnVZQTZIRi1jdGxJNWZLOVBaMmFKTFE3TDV0TkYyLUhtQ0hzbURMU3dmRE5FOUdxMXFwRndHZjBvcQ",
+   "source": "Seeking Alpha",
+   "published_at": "2026-11-02T20:45:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-11-02T20:45:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3lZM2tZNmJhb0xaOFh1NDJiWGRTTVZLTHhxX1h5NEUxeWRrWC1aOG1LRjV1Q3RpY25RbU9QRExKWGR6ZHJJZk9sNzE2T29qSXoxSGJta0lERDV4ZnN4V1ZvcjluY0tqb0xoMURmNWR3eElQaTNVVVRNTmljOVJkVXlIVnVZQTZIRi1jdGxJNWZLOVBaMmFKTFE3TDV0TkYyLUhtQ0hzbURMU3dmRE5FOUdxMXFwRndHZjBvcQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "39cf8c88d47a",
    "title": "BMW Launches Urban Driver Assist to Challenge Tesla FSD - The Tech Buzz",
@@ -2194,7 +2211,7 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw",
    "source": "tech-insider.org",
    "published_at": "2026-11-02T11:37:15+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "tech-insider.org",
@@ -2205,13 +2222,22 @@
      "name": "https://tech-insider.org/",
      "published_at": "2026-11-02T11:37:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw"
+    },
+    {
+     "name": "shattered.io",
+     "published_at": "2026-11-02T20:47:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUV5RGl0ZnB1aGtnQUhVVzZnbEdxZmJhc1F4aDhCUjY1bmd1NVltWF84Z05TNmVmV3YzM290UmZseG5lWFR4RF9LVkFyQUtkVHpjTHVwZDU2aG12MEJFbmpUalNGUnhKN3ZacHZzNElKU29jWVptWXRHTjZLS0gzdEpoLTFWanFhYTdNUGtpYVI1UlBFN0ZGVzliNEg"
     }
    ],
    "category": "交付量",
    "session": "盘前",
    "zh_summary": "特斯拉北欧注册量瑞典增248%",
    "title_zh": "特斯拉北欧注册量：瑞典2026年增长248%",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.59,
+    "window_h": 2.0
+   }
   },
   {
    "id": "8482490fcef6",
@@ -6506,26 +6532,6 @@
      "name": "https://tech-insider.org/",
      "published_at": "2026-11-01T06:07:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYllwUFNGc2FzWGN3V3lPNXlsTzMyUnhGTWRMdURnSmM5b3ZDVE4taXBPZ1c4RHNITXQ3TEZFWDVmTVBBdkp0ZFJTcmlOQlRnQ2pqbnJhck1IODZ2akJzSzNpa05VbC1qbHBWYWk3Zmg3N1U0MlZSOFJJVTFVdlY4ODA3QjBJMlRp"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉拆除Model S产线转产Optimus",
-   "title_zh": "特斯拉Model S产线46天拆除，为Optimus让路",
-   "sentiment": 0
-  },
-  {
-   "id": "3618b1d82ea3",
-   "title": "Tesla Model S Factory Teardown: 46 Days for Optimus [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjhjeWkyVWtTUm5TSTVleDQwWG5neWlfcGxMS0ZxM1hoTlVQQVEyeGtnZXJjbVFjbGJmeGYxNUVtVGEwaG42QjJwVkxyTlYtU1paOGhBLXktRTd6ZDBTNTJaVWlISjl2OXBLYi1taEtNbWlaRnh0UWRDQy1KcllBUklzWS0",
-   "source": "shattered.io",
-   "published_at": "2026-11-01T05:58:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-11-01T05:58:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjhjeWkyVWtTUm5TSTVleDQwWG5neWlfcGxMS0ZxM1hoTlVQQVEyeGtnZXJjbVFjbGJmeGYxNUVtVGEwaG42QjJwVkxyTlYtU1paOGhBLXktRTd6ZDBTNTJaVWlISjl2OXBLYi1taEtNbWlaRnh0UWRDQy1KcllBUklzWS0"
     }
    ],
    "category": "车型产品",
