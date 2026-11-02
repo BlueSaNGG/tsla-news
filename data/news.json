@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T17:37:33.752751+00:00",
+ "updated_at": "2026-11-02T17:52:30.394181+00:00",
  "market": {
-  "price": 409.1,
-  "change_pct": 2.32,
+  "price": 407.9,
+  "change_pct": 2.02,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 58% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -2.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（113条已评分）"
+     "note": "今日新闻情绪 +0.26（115条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $409.10 vs 20日均线 $382.22"
+     "note": "现价 $407.90 vs 20日均线 $382.16"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 58,
+   "price_52w_pct": 57,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -2.2,
-   "ma20": 382.22,
-   "as_of": "2026-11-02T17:37:33.746407+00:00"
+   "implied_upside_pct": -1.9,
+   "ma20": 382.16,
+   "as_of": "2026-11-02T17:52:30.387876+00:00"
   },
-  "pe_ttm": 113.1,
+  "pe_ttm": 112.8,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 113
+   "avg": 0.26,
+   "count": 115
   }
  },
  "meta": {
@@ -67,6 +67,57 @@
   }
  },
  "stories": [
+  {
+   "id": "b11adc1d0fd3",
+   "title": "特斯拉与SpaceX技术联动 Roadster用航天方案落地跑车 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXRVRUhxbVlSaFNMM1NNaVRLT1lxRDNOZDJqTE0xcWRzLVRRYTg3NUVJUE5NLVJNa0lyMk41TktXR3FPLWZYWFk5Yy1CMkd2a3BtcVVXUjFvVnZUQnh1QmlIOE9QTC1qY0dXc0NwVmh4bHJyU1BhU1MxNTlTWUZRcQ",
+   "source": "手机新浪网",
+   "published_at": "2026-11-02T17:48:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-11-02T17:48:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXRVRUhxbVlSaFNMM1NNaVRLT1lxRDNOZDJqTE0xcWRzLVRRYTg3NUVJUE5NLVJNa0lyMk41TktXR3FPLWZYWFk5Yy1CMkd2a3BtcVVXUjFvVnZUQnh1QmlIOE9QTC1qY0dXc0NwVmh4bHJyU1BhU1MxNTlTWUZRcQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "71ffa8d0e82c",
+   "title": "特斯拉Roadster火箭版搭载RCS冷气推进系统 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVFwUGNFY1VsUU5MT1h0aXhTejMtWTlvN05JbXpGeHZ6M3JrOHZzSjM4VTJOQWJrR3pRenlzOXRmbzY4UTRlTG92U0hXQm81ejdTUWkxQzZhbWdZY3dsUkx0R2pEak5zY3EtUW44QkRKaVFDMjdTU05mTGJpTmszcQ",
+   "source": "手机新浪网",
+   "published_at": "2026-11-02T17:47:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-11-02T17:47:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVFwUGNFY1VsUU5MT1h0aXhTejMtWTlvN05JbXpGeHZ6M3JrOHZzSjM4VTJOQWJrR3pRenlzOXRmbzY4UTRlTG92U0hXQm81ejdTUWkxQzZhbWdZY3dsUkx0R2pEak5zY3EtUW44QkRKaVFDMjdTU05mTGJpTmszcQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2c83d0df8ee9",
+   "title": "Fans Release Tesla Roadster-Themed Browser Game, Tesla Stock (NASDAQ:TSLA) Gains - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlEtZXo5cXd0ZVF1VVplMlozZUpQa0FLZG5DWUEzb0E4WFkyYTk4Ujhsc3pKYTA2QkN5OFdWbWdGalI5eDhfVm5DYmEwaGROVDQ4WGxfUzBhcE0xaUd2STJmZHlKTC1FVklZdDhiaUJEZkpGRkhCczVna1h4T19GTzRQWlBuSWdETkJsNDFibVB3TWQzTlNqSWxncnpIek1tVjJGZjI5cVZZdw",
+   "source": "TipRanks",
+   "published_at": "2026-11-02T17:35:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-11-02T17:35:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlEtZXo5cXd0ZVF1VVplMlozZUpQa0FLZG5DWUEzb0E4WFkyYTk4Ujhsc3pKYTA2QkN5OFdWbWdGalI5eDhfVm5DYmEwaGROVDQ4WGxfUzBhcE0xaUd2STJmZHlKTC1FVklZdDhiaUJEZkpGRkhCczVna1h4T19GTzRQWlBuSWdETkJsNDFibVB3TWQzTlNqSWxncnpIek1tVjJGZjI5cVZZdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
   {
    "id": "acbe0f2c80af",
    "title": "Derek Smith Law Group Represents Former Tesla Employee in Lawsuit - The National Law Review",
@@ -113,7 +164,7 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjg5S2ZDejhjREFoLURfSTJxUVYwWE0xeTh5ekM3d0lGVExaQ0pRV09CZU5VMFRlTXJjelZNOXRNMmVWUi03ZFNuUUFBaV82YkRzcE5RMzhQcGtxc1puYk5ob0FFUzB0Rnd6ZVJ1NXYxdXNpSU1lZmNmVVpkUW1PRVN1TXNSZ3RQQmdkMXpldGJsaDRpYnNfcjFOS1RaUV9RclBkTkFwdHJFYUx6U1o5Yw",
    "source": "www.marketscreener.com",
    "published_at": "2026-11-02T17:14:31+00:00",
-   "outlets_count": 3,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "www.marketscreener.com",
@@ -129,10 +180,21 @@
      "name": "Reuters",
      "published_at": "2026-11-02T17:17:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnZIZ3dNNWpLaHFlZEozOV9PNEFIejlUQ2U4YTZiTnE0SFRwbGdzbTdITmllTEpEbzZSMmNNckZ2UC0xNmJoa1c5WW5KVHBTcnp6QUdSWk1yd0VhSHU0R3FxUlJjdml0a0d0bmRsMWZ2VW9BOC1uTFFfa2pqZTBfOGVJNzhwazJ4aTZtWVhuRktXYXdlYWl3c0JBUGRXUQ"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-11-02T17:17:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvVFpXd0FTeFNBTTBTRWlkU2t3QXZJOGhCRWtmQmlFNUQxVnU0X0hhem12QnVkQ0V5NXJJSTF4djhtTWNmZGhsRFREd0JPMXE5a0xETmt0cW1oaGVzaDR3SDctSzM4NkF5SVJuU1cxWTNmNUtaVjBr"
+    },
+    {
+     "name": "Global Banking & Finance Review",
+     "published_at": "2026-11-02T17:22:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2djMWpYZktLR3htUEROVUtPRS0xYmVrWElCRmxOU2dOajhPNDlqZ0VhLW5pOEpXbVIxY3lDTHBhaVNuN2tTY09TUEY5MmJYbWltd09uY0Z3S0xack0tSnFRUUJ3b185VjNubWhfR3JWcmlSM0RWaThqanVHdUUwRGI5X0o0RE45am1vUEJmc3gxSVpZLTA2bQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "特斯拉意大利10月新车销量同比增94%",
    "title_zh": "特斯拉意大利10月新车销量同比增长94%",
    "sentiment": 1,
@@ -6539,91 +6601,6 @@
    "zh_summary": "特斯拉海外推FSD推荐奖励计划",
    "title_zh": "特斯拉海外推FSD推荐奖励计划 - DoNews",
    "sentiment": 1
-  },
-  {
-   "id": "aefa6fb620cd",
-   "title": "TSLA Stock Up 7% Ahead Of Cybercab Launch Event — Fund Manager Sees Selloff Ahead, Citing Past Patterns - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWkU4MHpqWkkzN2V1NC1MeW1PaXRiV1hBUk43MVh3bW5Za0l4cm5NZWJhUUFvS3FGb1ExdVA5dXU1VHMwZFNzLU9nVm44dTN3U1c0S19SQ1hXZFZLSGFnWGNaZF9tcVR0bDhFa2R6UjVDMnNLenpSOS03Z2t6MTNkRVNXbXdpWkpQcXlPNzBWUEQ1ZXotZXFqRVBfME1KYkRXbXRnZ25yWV8tVF9YcmNmWjlRdGRXT2poLVExcTE4aVdGcXc1YXpNd0hLQ2V0UWFoUTE0aFRQV1A4MFp2c0xSelVhUWFRalJQMHgyR1VudEVkR2diM3c",
-   "source": "Stocktwits",
-   "published_at": "2026-10-31T23:44:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-31T23:44:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWkU4MHpqWkkzN2V1NC1MeW1PaXRiV1hBUk43MVh3bW5Za0l4cm5NZWJhUUFvS3FGb1ExdVA5dXU1VHMwZFNzLU9nVm44dTN3U1c0S19SQ1hXZFZLSGFnWGNaZF9tcVR0bDhFa2R6UjVDMnNLenpSOS03Z2t6MTNkRVNXbXdpWkpQcXlPNzBWUEQ1ZXotZXFqRVBfME1KYkRXbXRnZ25yWV8tVF9YcmNmWjlRdGRXT2poLVExcTE4aVdGcXc1YXpNd0hLQ2V0UWFoUTE0aFRQV1A4MFp2c0xSelVhUWFRalJQMHgyR1VudEVkR2diM3c"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "TSLA涨7%迎Cybercab发布，基金经理看空",
-   "title_zh": "TSLA在Cybercab发布前涨7%，基金经理预计将回调",
-   "sentiment": 0
-  },
-  {
-   "id": "785ae57c3974",
-   "title": "特斯拉官宣：直降4万 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RzFaaGJIWWZKeWExdmstNjNSMWV4RWphZGY4aXU1bFNsYlhfY2ViX0hZX3NOcktFTXZNUUcwU0NfNTByVFRnX1kxNlpQLU51MnFTT094aDJNVVE",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T23:42:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T23:42:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RzFaaGJIWWZKeWExdmstNjNSMWV4RWphZGY4aXU1bFNsYlhfY2ViX0hZX3NOcktFTXZNUUcwU0NfNTByVFRnX1kxNlpQLU51MnFTT094aDJNVVE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉官宣直降4万",
-   "title_zh": "特斯拉官宣：直降4万 - 汽车之家",
-   "sentiment": -1
-  },
-  {
-   "id": "e52e1b644c85",
-   "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验FSD监督版，可获免费订阅或积分 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYSmY3N21pUlBWdGxlVkl0WS1kblhiVnZtdjk5LXo2YWdhU2tjTGtBMlVvQ0FpUVZ6eXNBalZWNy0xU3BwMkhhQjFpM1I4bUR6eF9DZ3V4cnlOYm5lR2RhRC1HeHlucG1hcUloMlVpUEE",
-   "source": "新浪网",
-   "published_at": "2026-10-31T23:38:59+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-31T23:38:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYSmY3N21pUlBWdGxlVkl0WS1kblhiVnZtdjk5LXo2YWdhU2tjTGtBMlVvQ0FpUVZ6eXNBalZWNy0xU3BwMkhhQjFpM1I4bUR6eF9DZ3V4cnlOYm5lR2RhRC1HeHlucG1hcUloMlVpUEE"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-31T23:43:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EWnp4Z24xOU5MMExtc2ZqY0JqVUpqRk1nNDdvenB4Nl9CWHE2ZzRMa2MtUEtZRkI3ek10ZmtUZVFPUnR4VzdSUmhmOUwxSmc1RXhub0dfeEgzR3E5d2xNeWJULV9wSjlCdDVxMkJXS1d3SXpMcFJsUmhEV3Q"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-31T23:49:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1FNdzZVTlpJU19VM0lRTVpjalZJZURLWDRRZ25BbjJQMjhuNnpWeFdteFdzT2NwZjhaNTRWSnhuc1k2QlFiX183Vmg4Y05VX2hHYXZZLW11OE9WTXF2Uy1mVTNhYURxVnYwZjJ4cjA2SHpyY0t3bW8zMk1rb05sNlV1ZVNtOFlnZnhwag"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-11-01T00:59:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIczFXVWF5UWR1cmIxa0dSWVM0eWxraVRGNzFpaExCcjN3NlBUUUNfZ0JZNGdiS2N3OUh0dGcxLUJHWFNSV3d2MjVrNjc"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T23:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Sa3BMdDFhWHEzT2ZLSUM3X0FSVzBjYWNSSmpKYTdITzRSaGZ5amd4ZjhnbXRkT0hSbHVvcUk1aVFPZVE4MGx4V1pmVTZFcVJiTks2VWJaZndpeXR0RWhubldiN0JwdjE5MlQzUjJSeUh2X19PbEFtWVlEMU9OQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "特斯拉海外推FSD推荐奖励计划",
-   "title_zh": "特斯拉海外推FSD推荐奖励：邀友体验获订阅积分",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.2,
-    "window_h": 0.1
-   }
   }
  ]
 }
