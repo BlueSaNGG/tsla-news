@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T14:52:40.249015+00:00",
+ "updated_at": "2026-11-02T15:07:27.646785+00:00",
  "market": {
-  "price": 398.02,
-  "change_pct": -0.45,
+  "price": 399.57,
+  "change_pct": -0.06,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 52% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（73条已评分）"
+     "note": "今日新闻情绪 +0.30（77条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $398.02 vs 20日均线 $381.65"
+     "note": "现价 $399.57 vs 20日均线 $381.74"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 52,
+   "price_52w_pct": 53,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.5,
-   "ma20": 381.65,
-   "as_of": "2026-11-02T14:52:40.242560+00:00"
+   "implied_upside_pct": 0.1,
+   "ma20": 381.74,
+   "as_of": "2026-11-02T15:07:27.634718+00:00"
   },
-  "pe_ttm": 110.1,
+  "pe_ttm": 110.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.1%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.3,
-   "count": 73
+   "count": 77
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "4f8a13f65e82",
+   "title": "车企开启“0息乱战” 特斯拉小米等加入战斗 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDRwalFKZHg4b1lpU0ttckNRcG9JRkxQanZoNkQtUWZmbzhPb044WnNyQjdSMWpDQjRQMFJhQ2xSMXI1RHQ1WmpXd0xGaHlhZUE5UnBDSVgxT1c4QVNhbERYdTVSdmFpeGVPYTJnWjZLZ20zTEc4NjVtRm1zYmFXZjlRY1FHeWtX",
+   "source": "搜狐网",
+   "published_at": "2026-11-02T15:06:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-11-02T15:06:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDRwalFKZHg4b1lpU0ttckNRcG9JRkxQanZoNkQtUWZmbzhPb044WnNyQjdSMWpDQjRQMFJhQ2xSMXI1RHQ1WmpXd0xGaHlhZUE5UnBDSVgxT1c4QVNhbERYdTVSdmFpeGVPYTJnWjZLZ20zTEc4NjVtRm1zYmFXZjlRY1FHeWtX"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e38cf774a6fe",
+   "title": "Tesla Robotaxi Adds This New City, But Stock Rally Fizzles - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW5RRDhDVmtyVlFCY09uaWNBX19Cc1I3NmFwSkVra1cyYzdPdEpnVjRkamtTdjgyQ2NxNHJtYXg2VXFncGFDZ3dibi1ZN2ROamNDc2UtcVdzdU1FRmtPOXMyMkhVWDItdFRnYWFjUFFLUFdiajNMMlgzSGt2R05EODZrNi1uWVAxcGIyRGhR",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-11-02T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-11-02T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW5RRDhDVmtyVlFCY09uaWNBX19Cc1I3NmFwSkVra1cyYzdPdEpnVjRkamtTdjgyQ2NxNHJtYXg2VXFncGFDZ3dibi1ZN2ROamNDc2UtcVdzdU1FRmtPOXMyMkhVWDItdFRnYWFjUFFLUFdiajNMMlgzSGt2R05EODZrNi1uWVAxcGIyRGhR"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "911eed0418e5",
+   "title": "Tesla Could Soon Bring Grok to Intel-Based Cars - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaElIbm5aVW84ang3QkkyOGZ2Umsya2lLN0lmTWQwUjk3bEtCclJUdFkyYzV1R19jb2NXdFJrOEFpR1ktanpjN1pMaTB3bkItd2pzYTA5TUZZRHdHWTdwS2xHUk1FMlFucjA1U2VjZEhoUDF2akxwdGI4akdEN1RKTzFhSk8",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-11-02T14:59:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-02T14:59:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaElIbm5aVW84ang3QkkyOGZ2Umsya2lLN0lmTWQwUjk3bEtCclJUdFkyYzV1R19jb2NXdFJrOEFpR1ktanpjN1pMaTB3bkItd2pzYTA5TUZZRHdHWTdwS2xHUk1FMlFucjA1U2VjZEhoUDF2akxwdGI4akdEN1RKTzFhSk8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e9c71b589d14",
+   "title": "$特斯拉 (TSLA.US)$ 拉高出货 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnBEdWtDTkRFdEZqWS0tbUNWYmVnZVJldU9OeWZULUprakhjWlY4eGZ1LXJzdUJVRUVQbVhFa21oYmRuLVNJS2ZvVlM5bmlHXzhuNW5YZXVtbEZjVVFqNng5N2RiU1VpQkE1c1pqZ3RSR1M0czJxeWJNVjk5ZENzWGU2bXRzRk5QWF9sc1ZLVQ",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T14:57:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T14:57:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnBEdWtDTkRFdEZqWS0tbUNWYmVnZVJldU9OeWZULUprakhjWlY4eGZ1LXJzdUJVRUVQbVhFa21oYmRuLVNJS2ZvVlM5bmlHXzhuNW5YZXVtbEZjVVFqNng5N2RiU1VpQkE1c1pqZ3RSR1M0czJxeWJNVjk5ZENzWGU2bXRzRk5QWF9sc1ZLVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6633bdf5c103",
    "title": "$特斯拉 (TSLA.US)$ 407.50 以2.5买入，以4.8卖出 - Moomoo",
@@ -106,6 +174,23 @@
    "zh_summary": "特斯拉游说越南应对关税截止期",
    "title_zh": "特斯拉在关税截止前游说越南",
    "sentiment": 0
+  },
+  {
+   "id": "f9a314c3bb55",
+   "title": "英伟达、微软、谷歌、亚马逊、SpaceX、特斯拉，集体上涨 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51aVNyY1hiRm1NQUdWUlBGTDVkODIxcVBlWjhOVzdUUUd2d21UYkU4OHBKNmw4b1EyUWROcEVoZkxJckxkeUN6bXJSdTYwTmE1VkJ2NmJQQVN5c2lZSTIyRWhfWWhpWTcwRmdaa0pJQUR3UQ",
+   "source": "新浪网",
+   "published_at": "2026-11-02T14:39:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-11-02T14:39:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51aVNyY1hiRm1NQUdWUlBGTDVkODIxcVBlWjhOVzdUUUd2d21UYkU4OHBKNmw4b1EyUWROcEVoZkxJckxkeUN6bXJSdTYwTmE1VkJ2NmJQQVN5c2lZSTIyRWhfWWhpWTcwRmdaa0pJQUR3UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "023371366a4b",
@@ -148,17 +233,39 @@
    "sentiment": 0
   },
   {
+   "id": "712b28d6cfda",
+   "title": "Tesla Cybertruck Owners Are Seeing Their Trucks’ Value Increase by Tens of Thousands of Dollars. One Owner Says, “I Bought the Truck for $59K, and It’s Now Listed for $86K” - Torque News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHhWQUl5aV9PblBKVnNtTXpSQzdNWlQxUE0tU1ZORE5WZ1o3TldMVENnRUJFTUFyVHQ0MGpQYk9RUXhCeS1WQzQ2ZXFTTF9OVC11NnlQcjNZSkZzMUtlTkxMWll3SFBFN1VOZTgzaGJ3NV9xM1dfLXJ6czgxblpSNlpSTWtULTJTMUhUNjduVnhYVmEtd2RfS2U0RHpzSWJnTUxDbnNYWHlXTUpJU29uTW5YSnUyRHdJZnI5NjJSaw",
+   "source": "Torque News",
+   "published_at": "2026-11-02T14:26:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Torque News",
+     "published_at": "2026-11-02T14:26:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHhWQUl5aV9PblBKVnNtTXpSQzdNWlQxUE0tU1ZORE5WZ1o3TldMVENnRUJFTUFyVHQ0MGpQYk9RUXhCeS1WQzQ2ZXFTTF9OVC11NnlQcjNZSkZzMUtlTkxMWll3SFBFN1VOZTgzaGJ3NV9xM1dfLXJ6czgxblpSNlpSTWtULTJTMUhUNjduVnhYVmEtd2RfS2U0RHpzSWJnTUxDbnNYWHlXTUpJU29uTW5YSnUyRHdJZnI5NjJSaw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
    "id": "561b2f79ab4d",
    "title": "Tesla's China Problem Gets Harder to Ignore - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc00zSG9sYnc3eXByamZacE9MSGNDZGRFeWw2V2xXZHNaNzVJNkZpQ1E5UHBCTmJoSDByRjZhUTMxZ0gyWnAwN1VWUmE5dXpkbzZFM0oyc3U2MG0zeWFFWXI1N2prcUx1UHpyUE01QTlYWjRScHJ5ZzRveGRxU0s5QWJ0d0xFYmFQcHNJZWphVE5BUzhBalN6SVBVYzk5UQ",
    "source": "Yahoo Finance",
    "published_at": "2026-11-02T14:04:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-11-02T14:04:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc00zSG9sYnc3eXByamZacE9MSGNDZGRFeWw2V2xXZHNaNzVJNkZpQ1E5UHBCTmJoSDByRjZhUTMxZ0gyWnAwN1VWUmE5dXpkbzZFM0oyc3U2MG0zeWFFWXI1N2prcUx1UHpyUE01QTlYWjRScHJ5ZzRveGRxU0s5QWJ0d0xFYmFQcHNJZWphVE5BUzhBalN6SVBVYzk5UQ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-02T14:04:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnpQbmlxZFBOMzlTdGwyS0hQQV9jRUNIeEhjQlh2UVZHNnIyMzlSTE0xdkppQXRib3pwcmVrcGE3N1NLejNaT3R6ZndLVEtVNkVKQmRXWlZjS2t0OEpZbi1lTU5mRmZQelhzRWtTNWgzMW85cU5wZnNfeHB1Ulg0NW95NkV4LVpSN2ZibEhZTUMtd1dVVFRlb2VFZFNwUkZXMHRhZjNR"
     }
    ],
    "category": "政策监管",
@@ -232,6 +339,23 @@
    "zh_summary": "跟随分析观点避开市场风险",
    "title_zh": "分析有价值，跟随其观点避开不少雷",
    "sentiment": 0
+  },
+  {
+   "id": "127f9e2ffc98",
+   "title": "Nio stock price analysis: the plot thickens for this Tesla rival - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOblRXdTJWUnU2ZDd1ZDlzSElHWHg2UTBPaG9vcUV4Ui10T21rYThhSllzRTE0cnY2MHhubGpkYlVPaWdEMU90QWZnMTFyZDd5WjhhMXVWRGR0WWVoM3h1WDlIQ25VMXBsYlcyUWw3WVk2S3o4ZFhXak5WZXFuMV9XLUtMbkt1NDdJSnFOOUNxRkNyT0RIZnpnbm1OOTJ0RVNsZ1VsLURBMEVqX05MSktVa0U3bjJaRHdZVVRGbg",
+   "source": "TradingView",
+   "published_at": "2026-11-02T13:48:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-02T13:48:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOblRXdTJWUnU2ZDd1ZDlzSElHWHg2UTBPaG9vcUV4Ui10T21rYThhSllzRTE0cnY2MHhubGpkYlVPaWdEMU90QWZnMTFyZDd5WjhhMXVWRGR0WWVoM3h1WDlIQ25VMXBsYlcyUWw3WVk2S3o4ZFhXak5WZXFuMV9XLUtMbkt1NDdJSnFOOUNxRkNyT0RIZnpnbm1OOTJ0RVNsZ1VsLURBMEVqX05MSktVa0U3bjJaRHdZVVRGbg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b42104de9d47",
@@ -1178,7 +1302,7 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcmJ6NzlucHlCMkRERWdzTldwY2syQUNJcDhJbWJKQ0VRbHdhQWFxZmdYZ1JMajNyWTViNG5HaXpaSUFuTnlqOVlUTk5WWXNMRGlLNnp2LUhhVHV6SDRmR19yR3BwY0FuQkl2LWt3ZURTcDhheGN2aGlRLUw0T01xZmd5dEMtSy1renczYWFlN1VRbklUdVU0QVBvYnV6c2l3NkdWZDJZR2QxVG5nRWJR",
    "source": "Investing.com",
    "published_at": "2026-11-02T09:22:30+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "Investing.com",
@@ -1199,6 +1323,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-11-02T11:55:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWczVjNINWo3YWwxOHREOXRENldlVDZsOHc2TmtiMk10eUVYTk84TWl0dFlHOHhkTzFsRk9lZWZlNXJrS3M0UjJPLTlGcU5KZjZCUjlSX3R4dTg4Wm50VkZZT0pGY2loTHNfMTFFMk5KVnV1cWNGcUJKVUFlYVQzTW9jMXBORlczaDQwM3pFNkhoY3pjamtRV0M5aUZ2c3dYQ0dsTVpiMA"
+    },
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-11-02T14:57:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3ZKbEl2a2hFYkZ4bElIUW5EN1dRTmFFaDB4aHhYSnhfb2wzQThXb3VKQUJXeHVKeGRVMFVocXVCLXpmNV9oMEIya1ZpU3JTNFNka3ZUMGNyU2dtZ3FPcVRTZi1MOVBmdFF0X2h5b2hsMXN6TUlhTy15YlZlYUhjalpGRUhHSDYwd0M0eg"
     }
    ],
    "category": "交付量",
@@ -6429,146 +6558,6 @@
    "session": "周末",
    "zh_summary": "节目解析特斯拉车辆是否为飞行汽车",
    "title_zh": "特斯拉那台车到底是不是飞行汽车",
-   "sentiment": 0
-  },
-  {
-   "id": "a7d214dc5c07",
-   "title": "赛博对话电动Emma 三人剖析特斯拉Roadster - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUUwybGhMclZ0b1liMnpITll1cVpES1lid0d0ZWcxTDd3d0FCcmFrSUFDckF2Y3VJQWxtbTNTTmVuTy1iVXZjSWJEUU1ac3hGUEhEc19LTFV2U29waWFNcTF1U3g2T1Btd1BLanJOdEdaYi1HRlVIdzEyZENoem5rRA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T14:10:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T14:10:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUUwybGhMclZ0b1liMnpITll1cVpES1lid0d0ZWcxTDd3d0FCcmFrSUFDckF2Y3VJQWxtbTNTTmVuTy1iVXZjSWJEUU1ac3hGUEhEc19LTFV2U29waWFNcTF1U3g2T1Btd1BLanJOdEdaYi1HRlVIdzEyZENoem5rRA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "三人剖析特斯拉Roadster跑车",
-   "title_zh": "赛博对话电动Emma 三人剖析特斯拉Roadster - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "3370dff8a09b",
-   "title": "Man has turned his Tesla Cybertruck into one big Pikachu Pokémon wrap with entire truck covered in yellow - supercarblondie.com",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1Qkx0VWwxYllwa25ldGJNNlNZQ3kxc21qRk94aWN1RzdFSDFpbGdvd0NkX0c2WXU5cEE5OHdOTVg0XzVHVWtENTBpQ3NUZFVjQzJzclpKMnBYaGRtcTRtTmV5ZkVNbC1jTnpFdUhkY0Q4THpx",
-   "source": "supercarblondie.com",
-   "published_at": "2026-10-31T14:04:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "supercarblondie.com",
-     "published_at": "2026-10-31T14:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1Qkx0VWwxYllwa25ldGJNNlNZQ3kxc21qRk94aWN1RzdFSDFpbGdvd0NkX0c2WXU5cEE5OHdOTVg0XzVHVWtENTBpQ3NUZFVjQzJzclpKMnBYaGRtcTRtTmV5ZkVNbC1jTnpFdUhkY0Q4THpx"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "男子把赛博卡车贴成皮卡丘",
-   "title_zh": "男子将特斯拉赛博卡车全身贴成皮卡丘",
-   "sentiment": 0
-  },
-  {
-   "id": "3f615100e085",
-   "title": "A Florida man faced up to 5 years in prison for fleeing police — until his Tesla's camera acquitted him two years later - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFZeEQ1SmZjTHNuSHNhSEgybU9id2JNckhMaVBhQ21ENkdJOGNzQmE2amF5akxjd2JUSFJSWVhfZU5laHgzRklCVWstLU8yWXZWcGZSZmgwRkx6cGpORU5CbDNCWlpiNW5BXzNQVUFncHNqOGxvRjJCOGtZeUptZU5jTXM5UmJIaVVlTnRIWEI1LXMx",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-31T14:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-31T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEFZeEQ1SmZjTHNuSHNhSEgybU9id2JNckhMaVBhQ21ENkdJOGNzQmE2amF5akxjd2JUSFJSWVhfZU5laHgzRklCVWstLU8yWXZWcGZSZmgwRkx6cGpORU5CbDNCWlpiNW5BXzNQVUFncHNqOGxvRjJCOGtZeUptZU5jTXM5UmJIaVVlTnRIWEI1LXMx"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉摄像头助男子洗脱罪名",
-   "title_zh": "佛州男子靠特斯拉摄像头洗脱罪名",
-   "sentiment": 0
-  },
-  {
-   "id": "a7670e741d96",
-   "title": "The R2 Is Rivian's Key to Profitability, but It Won't Be Easy To Replace Tesla As the EV Champion - autoevolution",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG92VjMzZXNWWXRXdmdncVI5U2M4UFhaTHJmUmNUTGx4MnJ3UklsWno2TXhHYndqZ2Y0NXJCME0yaEZJSFJwM0w4ZjFJR1VrcWpuVFVxOV9GeWRDWlBTUmN3M2xSZVVGQlUzemk3NkszakNpMnI1RFFFTWM3VUFXU3M5ZEw2UFdnX0d0dFNBNTlCUFVqaVM4bVJsd2xfeFhyaE02b2gtWHhWdHdxMjdlMWZQY3Y3TEswSkJrdmNkeTBDLW1lTUtZN3BUMjh1VnRQRUlibEhBaFYyQTQ",
-   "source": "autoevolution",
-   "published_at": "2026-10-31T13:46:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "autoevolution",
-     "published_at": "2026-10-31T13:46:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG92VjMzZXNWWXRXdmdncVI5U2M4UFhaTHJmUmNUTGx4MnJ3UklsWno2TXhHYndqZ2Y0NXJCME0yaEZJSFJwM0w4ZjFJR1VrcWpuVFVxOV9GeWRDWlBTUmN3M2xSZVVGQlUzemk3NkszakNpMnI1RFFFTWM3VUFXU3M5ZEw2UFdnX0d0dFNBNTlCUFVqaVM4bVJsd2xfeFhyaE02b2gtWHhWdHdxMjdlMWZQY3Y3TEswSkJrdmNkeTBDLW1lTUtZN3BUMjh1VnRQRUlibEhBaFYyQTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Rivian R2难撼特斯拉电车霸主地位",
-   "title_zh": "Rivian R2是盈利关键，但取代特斯拉电车霸主地位不易",
-   "sentiment": 1
-  },
-  {
-   "id": "b221e6f8515f",
-   "title": "Tesla, Inc. (TSLA) Stock forecasts - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3FqamZEQTFUMHpaNmV4Q0wtMEFCZU9HZTNMYnFOcE9qYWg3QjFBdE1WVkRsSVMwZGJ5aU81VUFCUmpWV2VxeDZYWi1yX2ZNWkNoZF84Zl9rbGhPR0JGckRHbHBBODNWcEExMWlBQy1XVm9YUXF2b0hFUXhHWHRNeHQyaFdxcWszVjIxOQ",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-31T13:34:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-31T13:34:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3FqamZEQTFUMHpaNmV4Q0wtMEFCZU9HZTNMYnFOcE9qYWg3QjFBdE1WVkRsSVMwZGJ5aU81VUFCUmpWV2VxeDZYWi1yX2ZNWkNoZF84Zl9rbGhPR0JGckRHbHBBODNWcEExMWlBQy1XVm9YUXF2b0hFUXhHWHRNeHQyaFdxcWszVjIxOQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "雅虎财经发布TSLA股票预测",
-   "title_zh": "特斯拉(TSLA)股票预测 - 雅虎财经英国",
-   "sentiment": 0
-  },
-  {
-   "id": "4dc6ccdd21b0",
-   "title": "Tesla video clears Florida man of felony charges - MoneyWise.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnZYekZMd2l5bXR0Z0YzeDk0cUpKUlN1NGJOeDYxdFVDbjRXS1NpdlluY0tuNDFseWNxdHZJUXpKZHM0aHdBd1lBN29fdmdpU1JuQ0FIRUdwU01JektHaVlCUnpSNGV1SHpJWWlNaVNVSF9GNnFuTUxTRnkzMEZOOF8wUGhqZw",
-   "source": "MoneyWise.com",
-   "published_at": "2026-10-31T13:31:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MoneyWise.com",
-     "published_at": "2026-10-31T13:31:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdnZYekZMd2l5bXR0Z0YzeDk0cUpKUlN1NGJOeDYxdFVDbjRXS1NpdlluY0tuNDFseWNxdHZJUXpKZHM0aHdBd1lBN29fdmdpU1JuQ0FIRUdwU01JektHaVlCUnpSNGV1SHpJWWlNaVNVSF9GNnFuTUxTRnkzMEZOOF8wUGhqZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉视频助佛州男子洗清重罪指控",
-   "title_zh": "特斯拉视频助佛州男子洗清重罪指控",
-   "sentiment": 0
-  },
-  {
-   "id": "6b44b22a3ed1",
-   "title": "Alef Flying Car [2026]: $300K, 11 Years Ahead of Tesla - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1OSzRNSzQ2UTVhblczN1B4V285RVV5LS1PRl85ZDNEOUNyNXR4amhwX3c2UWk2M1NwSEF1bzR0WDZHWkQzLVZYYjlsek5HdnZmNnFyWG5JV1ZLQU16d0F3N0tNY2txTDQ3V2dsQlFIYnhpVXVZWGNOOTBiamNRVHF6alEtMlFjUWRkWkFkbEQ",
-   "source": "shattered.io",
-   "published_at": "2026-10-31T13:26:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-31T13:26:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbi1OSzRNSzQ2UTVhblczN1B4V285RVV5LS1PRl85ZDNEOUNyNXR4amhwX3c2UWk2M1NwSEF1bzR0WDZHWkQzLVZYYjlsek5HdnZmNnFyWG5JV1ZLQU16d0F3N0tNY2txTDQ3V2dsQlFIYnhpVXVZWGNOOTBiamNRVHF6alEtMlFjUWRkWkFkbEQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "飞行汽车Alef售价30万美元领先特斯拉",
-   "title_zh": "Alef飞行汽车售价30万美元，领先特斯拉11年",
    "sentiment": 0
   }
  ]
