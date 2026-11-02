@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T08:22:23.873689+00:00",
+ "updated_at": "2026-11-02T08:37:44.848439+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.60（10条已评分）"
+     "note": "今日新闻情绪 +0.64（14条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-02T08:22:23.859912+00:00"
+   "as_of": "2026-11-02T08:37:44.840801+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.6,
-   "count": 10
+   "avg": 0.64,
+   "count": 14
   }
  },
  "meta": {
@@ -68,17 +68,44 @@
  },
  "stories": [
   {
+   "id": "4d5d0206e8fd",
+   "title": "Tesla FSD v14.3.13 gets involved in a crash and shows multiple regressions (review videos) - Tesla Oracle",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUMxYmRNLXVEaExEa1VfVFdfWFhONjd2ODVKX3E1UlF5VlZnMmdteTU0ZG9oVHBqMFBveDZ6Y1VaWF96bkxsWlRSekQ0TnVpOHp6WXJfODNyOW1ldWtaVDJUc3VjSFRGZ1Y3aXdKM2JodTR4bTNWVzBRZm5vYklRMTRZcUNhdlBVWWg0VHdFZzB0V3RuNFR4bkM0dUNVc2ZCMDluNG52MjJ4dTdVREU1c1U0UDd4VnF6aVJDOXlwSmkyaGlWeGQ0",
+   "source": "Tesla Oracle",
+   "published_at": "2026-11-02T08:15:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tesla Oracle",
+     "published_at": "2026-11-02T08:15:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUMxYmRNLXVEaExEa1VfVFdfWFhONjd2ODVKX3E1UlF5VlZnMmdteTU0ZG9oVHBqMFBveDZ6Y1VaWF96bkxsWlRSekQ0TnVpOHp6WXJfODNyOW1ldWtaVDJUc3VjSFRGZ1Y3aXdKM2JodTR4bTNWVzBRZm5vYklRMTRZcUNhdlBVWWg0VHdFZzB0V3RuNFR4bkM0dUNVc2ZCMDluNG52MjJ4dTdVREU1c1U0UDd4VnF6aVJDOXlwSmkyaGlWeGQ0"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
+  {
    "id": "274ca2522c42",
    "title": "Tesla registrations surge across Northern Europe in October - marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkF1cjJOQTlzYm54UmtUdTRzTF9pSlA0NFlKUUh1UTlJa2FtS1g1czlBcTJieW1zN0VMQ2NYTjk1YXNXbXVkRTVsd3laOHdvTWxocDM4MmxBbks1NE1VMGRMZUt1UldEazBkQ3lQRXlDQ0NCemhqNjQ0bWkwTkZjUWhKVkl2d25PS1NtanZVMm1FVTljWE9iQ01STGg4VkJwMTdoaW0zYkdpbkRwY1I0UnZ3",
    "source": "marketscreener.com",
    "published_at": "2026-11-02T08:13:23+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "marketscreener.com",
      "published_at": "2026-11-02T08:13:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkF1cjJOQTlzYm54UmtUdTRzTF9pSlA0NFlKUUh1UTlJa2FtS1g1czlBcTJieW1zN0VMQ2NYTjk1YXNXbXVkRTVsd3laOHdvTWxocDM4MmxBbks1NE1VMGRMZUt1UldEazBkQ3lQRXlDQ0NCemhqNjQ0bWkwTkZjUWhKVkl2d25PS1NtanZVMm1FVTljWE9iQ01STGg4VkJwMTdoaW0zYkdpbkRwY1I0UnZ3"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-11-02T08:15:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMEhZX2YzSENiWGpRU3I0TnNEQ3JnSHlJNWNZV1pMVjQzazhhX2Jodi1iNTB1QnVDaC16Q1h6dUNVbC1Hak5yb0NabGZfSEtkSWt5cU5kV1hKMXJoWWZWX3JzRXUyTjNEQ0dZZXI1UGFYaUYwb0k5Tnd4bGxwWUo0MVMxY29qdFFHTjNlREpR"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-11-02T08:15:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGxMVkRlMy14clJIR0dtYmlpSGRyajRjOWJqQzVkamhudWhBSjVETHliSS1HMEJGc21oWWVrNzNJWW1sREpZZXJReWRXWVB5ek5IZFJiM1NPUUN3SVZaNF9tanI0UHFTaGhJcE91cUg0RVlzSHVrX2JYUmo1QWFEZXkybmJZYVNZYWxhWlFnWEN6TDBVU1dBN0NPWlB0WjUxcU5J"
     }
    ],
    "category": "交付量",
@@ -166,6 +193,23 @@
    "zh_summary": "特斯拉周线突破下降通道",
    "title_zh": "特斯拉周K突破下降通道，能否延续近期强劲升势？ - 富途牛牛",
    "sentiment": 1
+  },
+  {
+   "id": "d8c71e9c99f4",
+   "title": "马斯克指责盖茨资助攻击者并做空特斯拉 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nd2JlOW1wWWgweW5ZOGlKSGUtZ0dTcG5TVFE5ZmFiSThBeWxMczFfV3ByeXRpZGl0MFJGdU81bW0xeURfTm02ZGFHczQzcG1yTUw4czRFNUFhcmtHcTBzMk5lNzVpRWY0Zkx4RFFITjY",
+   "source": "手机新浪网",
+   "published_at": "2026-11-02T07:52:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-11-02T07:52:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Nd2JlOW1wWWgweW5ZOGlKSGUtZ0dTcG5TVFE5ZmFiSThBeWxMczFfV3ByeXRpZGl0MFJGdU81bW0xeURfTm02ZGFHczQzcG1yTUw4czRFNUFhcmtHcTBzMk5lNzVpRWY0Zkx4RFFITjY"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
   },
   {
    "id": "1f42cfb50f95",
@@ -318,12 +362,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDhnRU8xU3gwVjFYZ2NZVmp1ZzgzcnlQMFNDRTdxRnVmOVRnWXpWV25QMkNHS1MwNmVuRHVtTmU4d3hTQ2N5TUYxRTM4YUs5M3lheHdMSjJZbU9Gcng4V2lMNldUX1NSVkVvYmpfM3ozNDNNQ1pJWXY3YUxIVVpuWUxub25aZlBJTm1ESTliZTVTTFhlcGlia1pGSGlSNExlX2Mwa0Z3UGFGZGhDczlTVmZHc1VEdFZndUZF",
    "source": "marketscreener.com",
    "published_at": "2026-11-02T06:14:19+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "marketscreener.com",
      "published_at": "2026-11-02T06:14:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDhnRU8xU3gwVjFYZ2NZVmp1ZzgzcnlQMFNDRTdxRnVmOVRnWXpWV25QMkNHS1MwNmVuRHVtTmU4d3hTQ2N5TUYxRTM4YUs5M3lheHdMSjJZbU9Gcng4V2lMNldUX1NSVkVvYmpfM3ozNDNNQ1pJWXY3YUxIVVpuWUxub25aZlBJTm1ESTliZTVTTFhlcGlia1pGSGlSNExlX2Mwa0Z3UGFGZGhDczlTVmZHc1VEdFZndUZF"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-11-02T08:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUlFY3dLdHdGdWhUN29PSjdPcnRhWjRTV25TaktXWWxMcllkSHZxQkh1Y1VhbkU1c1owMmpJZFhsbm9EWVdZMllmcG10NWl3aE5KU3p1Sk0xOXNHNFE1VDJ3VzRibEliYXJPdkp4QVN4ekVwYmlPWldvSDcyX3d0Z1JqNHdYdVJzLWhYY3QtOXR6RjZkOFJvUXJMRzdkZ2JSUGc"
     }
    ],
    "category": "交付量",
@@ -813,7 +862,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZ09KOG9nSEZuLWxUVGFJdmxKdWZXby1CSVBwc0ZsSFpOYlZKeHVsMHl5MGpGTE9xeXhhNWZZd3JaeHBmOHBoRXlDNnFtWkdpLU5oXzNFRDhnZ1FR",
    "source": "Moomoo",
    "published_at": "2026-11-02T02:51:48+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Moomoo",
@@ -824,6 +873,11 @@
      "name": "富途牛牛",
      "published_at": "2026-11-02T02:51:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3BQXzdCUmlNb0p0RnY1ZERqUkhzcXZWYXNlNFdtY0x6aXZHZFcyRUFFOExibTVHbUVSUzRNNVFISWZicGxtdmdhc2k2OVgwUC1feWtpMmMzTXF2M3ZJbVFUWkVTOERPT0dLYXRURzJNYWNnSDNMMURWdk9fMW1ULV83cW5zbG45eUpPRDJFM3pZLUFmM3d4TC1NSQ"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-11-02T03:23:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55c1pWeG9zM0VTZ2ZOaldJOWVfR3FteERzTUpBT2dVYlZIa09EZzRmeEFBTlgtQ0xXNDNadmMzMjNCMkd1SzRVWGlwV1BPMzloWkJlcU9udUFzdGpUVGloTEZhZUpnNVlVRnZCUktLNA"
     }
    ],
    "category": "分析师",
@@ -6342,46 +6396,6 @@
    "session": "盘后",
    "zh_summary": "美国特斯拉超充站数量及可用人群",
    "title_zh": "美国有多少特斯拉超级充电站，谁能用？",
-   "sentiment": 0
-  },
-  {
-   "id": "458e0e2c8ac2",
-   "title": "【视频】到店咨询二手特斯拉，均可获赠特斯拉保温杯一个 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVmVzQmFEZFRsRE1DVDVrZnFOMzNQNU9panIybXhmOXNDT1pfTE1EVEhxUVNiWmVOWHhTTHZoQmFJU01SZWZ3N21hRExfdUdKQW9HSUo5dkR5dGM",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T03:19:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T03:19:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVmVzQmFEZFRsRE1DVDVrZnFOMzNQNU9panIybXhmOXNDT1pfTE1EVEhxUVNiWmVOWHhTTHZoQmFJU01SZWZ3N21hRExfdUdKQW9HSUo5dkR5dGM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "到店咨询二手特斯拉可获赠保温杯",
-   "title_zh": "【视频】到店咨询二手特斯拉，均可获赠特斯拉保温杯一个 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "90f010275dc5",
-   "title": "【视频】精品特斯拉Model Y推荐！公里数小车况好，又有差价 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ScEhkZzJDY0NKbUVtZnQ2UW40QTRyZGxXcXYyaGV3bTE0cTVLVThuU1N0Ti1NU3ZTSWI0YVFLdXRWVU5EdURTdGwxT3NpWUhrRGpLU0lxaERXUUE",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T03:14:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T03:14:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ScEhkZzJDY0NKbUVtZnQ2UW40QTRyZGxXcXYyaGV3bTE0cTVLVThuU1N0Ti1NU3ZTSWI0YVFLdXRWVU5EdURTdGwxT3NpWUhrRGpLU0lxaERXUUE"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘后",
-   "zh_summary": "二手Model Y推荐，车况好有差价",
-   "title_zh": "精品特斯拉Model Y推荐，公里数小车况好又有差价",
    "sentiment": 0
   }
  ]
