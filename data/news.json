@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T17:07:26.861172+00:00",
+ "updated_at": "2026-11-02T17:22:25.459376+00:00",
  "market": {
-  "price": 412.73,
-  "change_pct": 3.23,
+  "price": 411.2,
+  "change_pct": 2.85,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 60% 分位"
+     "note": "现价处于52周区间 59% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -3.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -2.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（107条已评分）"
+     "note": "今日新闻情绪 +0.25（111条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $412.73 vs 20日均线 $382.40"
+     "note": "现价 $411.20 vs 20日均线 $382.32"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 60,
+   "price_52w_pct": 59,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -3.1,
-   "ma20": 382.4,
-   "as_of": "2026-11-02T17:07:26.852512+00:00"
+   "implied_upside_pct": -2.7,
+   "ma20": 382.32,
+   "as_of": "2026-11-02T17:22:25.452807+00:00"
   },
-  "pe_ttm": 114.1,
-  "pe_pct_5y": 53,
-  "valuation_sentence": "现价处5年P/E 53%分位，目标价隐含-3.1%空间：估值适中，预期中性",
+  "pe_ttm": 113.7,
+  "pe_pct_5y": 52,
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.7%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 107
+   "avg": 0.25,
+   "count": 111
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6c1bba23303a",
+   "title": "Tesla new car sales in Italy up 94% year-on-year in October - www.marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjg5S2ZDejhjREFoLURfSTJxUVYwWE0xeTh5ekM3d0lGVExaQ0pRV09CZU5VMFRlTXJjelZNOXRNMmVWUi03ZFNuUUFBaV82YkRzcE5RMzhQcGtxc1puYk5ob0FFUzB0Rnd6ZVJ1NXYxdXNpSU1lZmNmVVpkUW1PRVN1TXNSZ3RQQmdkMXpldGJsaDRpYnNfcjFOS1RaUV9RclBkTkFwdHJFYUx6U1o5Yw",
+   "source": "www.marketscreener.com",
+   "published_at": "2026-11-02T17:14:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.marketscreener.com",
+     "published_at": "2026-11-02T17:14:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjg5S2ZDejhjREFoLURfSTJxUVYwWE0xeTh5ekM3d0lGVExaQ0pRV09CZU5VMFRlTXJjelZNOXRNMmVWUi03ZFNuUUFBaV82YkRzcE5RMzhQcGtxc1puYk5ob0FFUzB0Rnd6ZVJ1NXYxdXNpSU1lZmNmVVpkUW1PRVN1TXNSZ3RQQmdkMXpldGJsaDRpYnNfcjFOS1RaUV9RclBkTkFwdHJFYUx6U1o5Yw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "bdd593f8267e",
    "title": "意大利交通部：特斯拉(TSLA.O)10月在意大利的新车注册量同比增长94.14%。 - 富途牛牛",
@@ -133,13 +150,13 @@
    ],
    "category": "其他",
    "session": "盘中",
+   "zh_summary": "特斯拉葡萄牙10月销量同比增186.1%",
+   "title_zh": "特斯拉10月葡萄牙销量增长186.1%",
+   "sentiment": 1,
    "price_reaction": {
     "pct": 0.29,
     "window_h": 0.2
-   },
-   "zh_summary": "特斯拉葡萄牙10月销量同比增186.1%",
-   "title_zh": "特斯拉10月葡萄牙销量增长186.1%",
-   "sentiment": 1
+   }
   },
   {
    "id": "3f0a84531fc0",
@@ -1023,6 +1040,23 @@
    "sentiment": 1
   },
   {
+   "id": "0c3a7322de93",
+   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1101,6 +1135,23 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
+  },
+  {
+   "id": "3bed1e27b719",
+   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d6c199c41444",
@@ -1606,6 +1657,23 @@
    "zh_summary": "特斯拉Roadster定位遭质疑",
    "title_zh": "特斯拉Roadster定位遭质疑，国内飞行汽车锚定真实场景 - 手机新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "eca661fc201f",
+   "title": "I Drove Hands-Free All Week Using Full Self-Driving in a Tesla Model Y L. This Is Why I’m Hooked - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3dHdWUwS2txS2I5RFU2cnFxWElXREU0SVdjcE1iRG5OTERoRmNselEyN2x6WjdudnNGbGIxQVc3TXQ5bGZGRUR6VXplbk84UlB0RERlRExvVGR5UUhlTmltaVlMRWRPU0dEWE5Cc0JzNUozNVRhZHVva2U0ajNfRlV3TmQ4QUJEaUlWLTJuX3daeWJDQXgwQ1Nn",
+   "source": "Yahoo Autos",
+   "published_at": "2026-11-02T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-11-02T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3dHdWUwS2txS2I5RFU2cnFxWElXREU0SVdjcE1iRG5OTERoRmNselEyN2x6WjdudnNGbGIxQVc3TXQ5bGZGRUR6VXplbk84UlB0RERlRExvVGR5UUhlTmltaVlMRWRPU0dEWE5Cc0JzNUozNVRhZHVva2U0ajNfRlV3TmQ4QUJEaUlWLTJuX3daeWJDQXgwQ1Nn"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
   },
   {
    "id": "d7b9cabbfe6f",
@@ -6524,86 +6592,6 @@
     "pct": 0.2,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "53b5b291d814",
-   "title": "特斯拉Roadster飞行汽车百万值不值 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlJ6bkpnVFhuLUtMOHg2ZkZYdGNJOThtZzJzeFpSTlhGdnZ3Z2dSN3JsekYxNE9tc2tQNHFoNFBLdm5LYmhIOGZIUDgwb0paYVlVcjdfTDByMUltX29EY1V0dnMwVnBOTmptSXpZaDkxQnlOeHRyblhPWG1OMGdjcg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T22:46:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T22:46:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlJ6bkpnVFhuLUtMOHg2ZkZYdGNJOThtZzJzeFpSTlhGdnZ3Z2dSN3JsekYxNE9tc2tQNHFoNFBLdm5LYmhIOGZIUDgwb0paYVlVcjdfTDByMUltX29EY1V0dnMwVnBOTmptSXpZaDkxQnlOeHRyblhPWG1OMGdjcg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Roadster飞行汽车百万售价值不值",
-   "title_zh": "特斯拉Roadster飞行汽车百万值不值 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "3b3277263896",
-   "title": "TSLA Stock Rises Overnight: Tesla’s Long-Delayed Roadster Event Is Back On — Musk Teases ‘Timing Is Everything’ - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOblRHc05SRmg5VG51Yi1CYktPelczMDg5YTcyNDZSMW9rSUNPUjVXUE5Ba0s5c19CcDJFUXpUUXZjVWhSalI4Vk9IOC1XaVZrNkNoUFkxX1V4RGdkQ3REOWg3bFpGdVZiY1BsTkRUSHpGMGsyWFJwTWN4amxtc1lMQnQwRVJaVUxQWVFNSEVUQXBXNThyUmZ0eHVLd1JVSTBubmxTWTVZOXFWY2dhM1hybjNvbWcxZW5GWGREZmc5OXQ3N1hqQzM2djgwdmZJdw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-31T22:44:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-31T22:44:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOblRHc05SRmg5VG51Yi1CYktPelczMDg5YTcyNDZSMW9rSUNPUjVXUE5Ba0s5c19CcDJFUXpUUXZjVWhSalI4Vk9IOC1XaVZrNkNoUFkxX1V4RGdkQ3REOWg3bFpGdVZiY1BsTkRUSHpGMGsyWFJwTWN4amxtc1lMQnQwRVJaVUxQWVFNSEVUQXBXNThyUmZ0eHVLd1JVSTBubmxTWTVZOXFWY2dhM1hybjNvbWcxZW5GWGREZmc5OXQ3N1hqQzM2djgwdmZJdw"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster发布活动重启",
-   "title_zh": "特斯拉Roadster活动重启，马斯克称时机最重要",
-   "sentiment": 1
-  },
-  {
-   "id": "9ce03d13414c",
-   "title": "特斯拉10月金融战报：特从容方案上线，Model 3/Y首付3.99万起 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53LVJCY01wWEZPSHhOcUItX2VxMEQxbEoybTA5elZCU3NMN2drdTFDTXZOSWd5YW9yOFZDQVZ3a2FMS3JGT3NkaDhrcExFX1Rkb3hDbG5BWFVFOU0",
-   "source": "网通社",
-   "published_at": "2026-10-31T21:43:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-31T21:43:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53LVJCY01wWEZPSHhOcUItX2VxMEQxbEoybTA5elZCU3NMN2drdTFDTXZOSWd5YW9yOFZDQVZ3a2FMS3JGT3NkaDhrcExFX1Rkb3hDbG5BWFVFOU0"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉推特从容方案首付3.99万起",
-   "title_zh": "特斯拉10月金融方案上线：Model 3/Y首付3.99万起",
-   "sentiment": 1
-  },
-  {
-   "id": "dbbc114519eb",
-   "title": "TSLA Stock Slips Overnight Even As Musk Hypes Cybercab Speed And Cathie Wood’s ARK Sees Trillions Ahead - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjAtejV0VkJaNGtRaHJPRzIxWDVqWHBaZGF5Mkh1bHZsTDdydXU2clU1V0loYnZsWWY3cHpxQ2MzSlNWR1hjb2tNZFN0bnYyUXZBbGlXcGw5ZnJ1cUZoeGVZV3dWUTR1dFdBa0pZVGJjeFNtRzRJcHZZUWFLWWhSUW16S3d6c1FxdmVoSmVaVWJ1UTRqaXliR1UyX0pDQUN3YVI0Ykd4QUxqRUhfS2N5elh4UW1lckxHTUpQTw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-31T21:04:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-31T21:04:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjAtejV0VkJaNGtRaHJPRzIxWDVqWHBaZGF5Mkh1bHZsTDdydXU2clU1V0loYnZsWWY3cHpxQ2MzSlNWR1hjb2tNZFN0bnYyUXZBbGlXcGw5ZnJ1cUZoeGVZV3dWUTR1dFdBa0pZVGJjeFNtRzRJcHZZUWFLWWhSUW16S3d6c1FxdmVoSmVaVWJ1UTRqaXliR1UyX0pDQUN3YVI0Ykd4QUxqRUhfS2N5elh4UW1lckxHTUpQTw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉股价隔夜下跌",
-   "title_zh": "特斯拉股价隔夜下跌，Cybercab与ARK看多",
-   "sentiment": -1
   }
  ]
 }
