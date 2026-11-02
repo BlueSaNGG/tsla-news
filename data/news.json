@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T14:07:27.038787+00:00",
+ "updated_at": "2026-11-02T14:22:41.163117+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -17,7 +17,7 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（67条已评分）"
+     "note": "今日新闻情绪 +0.29（68条已评分）"
     },
     {
      "key": "动量",
@@ -41,8 +41,8 @@
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 53,
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-02T14:07:27.030275+00:00"
+   "as_of": "2026-11-02T14:22:41.154908+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 67
+   "avg": 0.29,
+   "count": 68
   }
  },
  "meta": {
@@ -67,6 +67,46 @@
   }
  },
  "stories": [
+  {
+   "id": "561b2f79ab4d",
+   "title": "Tesla's China Problem Gets Harder to Ignore - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc00zSG9sYnc3eXByamZacE9MSGNDZGRFeWw2V2xXZHNaNzVJNkZpQ1E5UHBCTmJoSDByRjZhUTMxZ0gyWnAwN1VWUmE5dXpkbzZFM0oyc3U2MG0zeWFFWXI1N2prcUx1UHpyUE01QTlYWjRScHJ5ZzRveGRxU0s5QWJ0d0xFYmFQcHNJZWphVE5BUzhBalN6SVBVYzk5UQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T14:04:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T14:04:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc00zSG9sYnc3eXByamZacE9MSGNDZGRFeWw2V2xXZHNaNzVJNkZpQ1E5UHBCTmJoSDByRjZhUTMxZ0gyWnAwN1VWUmE5dXpkbzZFM0oyc3U2MG0zeWFFWXI1N2prcUx1UHpyUE01QTlYWjRScHJ5ZzRveGRxU0s5QWJ0d0xFYmFQcHNJZWphVE5BUzhBalN6SVBVYzk5UQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "263cbff38818",
+   "title": "Rivian Climbs 4% as UBS Upgrade Bets on R2 Ramp; Lucid and Tesla Edge Higher - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnIzMmdJQ2RRbTF1ekFEVUg1alRvSGRlWmJxQWtRY0drUVNOZU5sek9xTVhndlhxMWxzSmdhQm9IYVJGaHhPQmN5N2dITF93aEYxRFlGdjMwQ0V0VGpXNVlxRzdzcTBvVjFXazM4RHh4YlRSdU1rQVZlQWRsSHlzUUFJNDhENm1qZ3lId2dWV0I4Rk4tRTVGZTZ1XzNjTzZPTFhYX3A2YjdCaWdieWgzclR1M1VwME5aY3c",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-11-02T14:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-11-02T14:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnIzMmdJQ2RRbTF1ekFEVUg1alRvSGRlWmJxQWtRY0drUVNOZU5sek9xTVhndlhxMWxzSmdhQm9IYVJGaHhPQmN5N2dITF93aEYxRFlGdjMwQ0V0VGpXNVlxRzdzcTBvVjFXazM4RHh4YlRSdU1rQVZlQWRsSHlzUUFJNDhENm1qZ3lId2dWV0I4Rk4tRTVGZTZ1XzNjTzZPTFhYX3A2YjdCaWdieWgzclR1M1VwME5aY3c"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "UBS",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
+  },
   {
    "id": "ee364c72e286",
    "title": "Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth - Not a Tesla App",
@@ -146,6 +186,23 @@
    "zh_summary": "特斯拉在沃斯堡推出Robotaxi服务",
    "title_zh": "特斯拉在沃斯堡推出Robotaxi，该市不在下一批名单中",
    "sentiment": 1
+  },
+  {
+   "id": "0c3a7322de93",
+   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "66751b43e5ba",
@@ -228,6 +285,23 @@
    "sentiment": 0
   },
   {
+   "id": "3bed1e27b719",
+   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "d6c199c41444",
    "title": "Welch Group LLC Purchases 5,540 Shares of Tesla, Inc. $TSLA - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUFFTTc4Z3FJWE9VVk80UmFwT2R2bGU0U0c4TUxaUXVQWVNYYTRVbjFTa1BoR1FTUXVfeUpfSHlMbURyU2pXc2VKWTNaSWpydks2VC1rVE13MmhWMzllNTBfaW9KektBVDJMenR1R1RMUGtJYUY4bWdndTBMTnFQSzdRaHRObk1NVENHMUFDTVZUbjRWMEtHWU5pZXR2aEZlUUdFcWtpMGhfWi1SR3l0Qnl1QnlOUEk",
@@ -273,12 +347,17 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmJNR1JINndiVUtjRWJ2N0RnbHpCSzNhSmNvUmNaR0ZiaklDa0pvdGVDeFJXMGhjVTRLOWNleHl3UWgybkhSTFN4S01NOHkxeVF5X0hzbUZabFFvWnh2ekFFWTllTF8weEV4MDduZnFadGRicDd4YXdwQ0NraUFlaA",
    "source": "The Cool Down",
    "published_at": "2026-11-02T13:15:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Cool Down",
      "published_at": "2026-11-02T13:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmJNR1JINndiVUtjRWJ2N0RnbHpCSzNhSmNvUmNaR0ZiaklDa0pvdGVDeFJXMGhjVTRLOWNleHl3UWgybkhSTFN4S01NOHkxeVF5X0hzbUZabFFvWnh2ekFFWTllTF8weEV4MDduZnFadGRicDd4YXdwQ0NraUFlaA"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-11-02T13:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmdVZkR2VHR2OGxjVzFsazFPWGkyYXJVbzhCRnozMGFEOV85QVNBckR2YnFjVnVacEhtOTE3RUM4YU1Na3NmTVZrdmJCTkpTTXBWQkFvMUNzck5RNW9KNEk4aGRqZVlBZ1dldmFnQUR1Q1BwUVFyQ0lnQ3F1S00wRmNsVmVQLUNfMV96YlZDSVVST05hX2xNQUlCdTlzUTJLU0tn"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -1203,7 +1282,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkF1cjJOQTlzYm54UmtUdTRzTF9pSlA0NFlKUUh1UTlJa2FtS1g1czlBcTJieW1zN0VMQ2NYTjk1YXNXbXVkRTVsd3laOHdvTWxocDM4MmxBbks1NE1VMGRMZUt1UldEazBkQ3lQRXlDQ0NCemhqNjQ0bWkwTkZjUWhKVkl2d25PS1NtanZVMm1FVTljWE9iQ01STGg4VkJwMTdoaW0zYkdpbkRwY1I0UnZ3",
    "source": "marketscreener.com",
    "published_at": "2026-11-02T08:13:23+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "marketscreener.com",
@@ -1224,6 +1303,11 @@
      "name": "www.marketscreener.com",
      "published_at": "2026-11-02T11:03:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGZyUjNtMGtLelNRaHZtcGtpb2l1WDcyYlR6c0tVdkl6Y2J4cWlsdkNPSzd6TnA1RHdacGdNMUhSTi1SakJXby05MlBTdmVMNkY4TUI4VU1kdm9vdXE0Q1h5R1p0bWRaejA3eDNrWnR5SWc2UFFDQzVxYTlaZ2diYTUyZzlRMm01eFZIa2lUb1NYMVZtOHJGdzZLdnNqZUJyUmdZdHUtS3BsOUJnaVAzeQ"
+    },
+    {
+     "name": "Global Banking & Finance Review",
+     "published_at": "2026-11-02T09:07:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalE3ZC1SX3F3b0REemZMNjVUbFVjcFRGTkRSMVNmSzZpdXA2Nld4RXFDYlVpak1LTTh6M0xOMXRybXpPMFI5TlhqN1I3LTdjQmxoN2VoOHJIUlhUa2p6QVBQOFlsS20xTk02eUdqQ2tWMVhNbEJ3QjhBNjR1YUxkT3JnLXl2TFN4MnpqeHduZDk3alBUckhtSWotcTRwQQ"
     }
    ],
    "category": "交付量",
@@ -1475,26 +1559,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉三星反对美国对越南加征关税",
    "title_zh": "特斯拉与三星反对美国在11月29日前对越南加征关税",
-   "sentiment": 0
-  },
-  {
-   "id": "8e6bb1d92356",
-   "title": "【视频】23年11月特斯拉Model Y - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ENFdOMTUtcVluSFdkUnU4MW9EaXd2TnFBZUlHZnA4MHFCUkZNc2Q2LWYtX1JsUGVfdlBUdVhTaFNOZWcyMVZ6OWpoQ2xsTXFiU0pXNUFSVGUzbFR2OVRJWXlkYnpfQ01YVmp3",
-   "source": "汽车之家",
-   "published_at": "2026-11-02T06:35:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-02T06:35:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ENFdOMTUtcVluSFdkUnU4MW9EaXd2TnFBZUlHZnA4MHFCUkZNc2Q2LWYtX1JsUGVfdlBUdVhTaFNOZWcyMVZ6OWpoQ2xsTXFiU0pXNUFSVGUzbFR2OVRJWXlkYnpfQ01YVmp3"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "2023年11月特斯拉Model Y视频",
-   "title_zh": "【视频】23年11月特斯拉Model Y - 汽车之家",
    "sentiment": 0
   },
   {
@@ -2294,7 +2358,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EdGRnS2lQcDdDTjByM2lOWVZLd2R4eW52a0xVRW9SbE1PcG9IM2lNbXJmZktHWVpwdlRLRnlNdktCcVpyeHFrRU53YzFzX21vNGVtSDFNZlk",
    "source": "驱动之家",
    "published_at": "2026-11-02T01:57:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -2310,10 +2374,16 @@
      "name": "新浪财经",
      "published_at": "2026-11-02T01:57:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQ3VtQlZ0WVI2RU1mTjlNWjRZbnEzOVZOUWNxOFRkS2t5b0xQRERiY3FKb0lWcDNpY0I4SFBJY09EZzYwMEN1anVDUTVGSkJJaXNSV21SWnNuX2hDR1NseHRDcFFzcFE5dXNwLVMtMEtxeDdRa2Zqejd5b2VIeVU"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-11-02T01:57:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxNzFBNXNiVWREXy14TXM4ZDVtV2ZleHVCaVpaT2U1VUpzTTg5RTB2eFJzTWJGVTZHeDZFdGktX2QzS1ljZmxzNQ"
     }
    ],
    "category": "Robotaxi与FSD",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "特斯拉Cybercab万圣节载骷髅夜间行驶",
    "title_zh": "猛鬼电车上街！特斯拉Cybercab万圣节整活：载骷髅夜间狂飙 - 驱动之家",
    "sentiment": 0
@@ -3477,6 +3547,26 @@
    "zh_summary": "特斯拉Model 3限时尾款立减1万",
    "title_zh": "特斯拉Model 3限时尾款立减1万，首付3.99万起",
    "sentiment": -1
+  },
+  {
+   "id": "4ca6a5eb8547",
+   "title": "【视频】21年特斯拉model3 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpMF9oVXlleUo1cE1wQkFzMjdSY1VzUTJDMHB3VmJSOXRpVVo5Tk5kN0hyd095emZwVVpmTG5oTFBvNXc3ZnZBTnZQWm5fRGEtbzR1ekJCYnhLcE0",
+   "source": "汽车之家",
+   "published_at": "2026-11-01T14:35:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-01T14:35:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpMF9oVXlleUo1cE1wQkFzMjdSY1VzUTJDMHB3VmJSOXRpVVo5Tk5kN0hyd095emZwVVpmTG5oTFBvNXc3ZnZBTnZQWm5fRGEtbzR1ekJCYnhLcE0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "2023年11月特斯拉Model Y视频",
+   "title_zh": "【视频】23年11月特斯拉Model Y - 汽车之家",
+   "sentiment": 0
   },
   {
    "id": "16b07134add1",
@@ -6394,91 +6484,6 @@
    "zh_summary": "特斯拉海外推FSD邀请计划，买断车主获99美元积分",
    "title_zh": "特斯拉海外推FSD邀请计划，买断车主获99美元积分",
    "sentiment": 0
-  },
-  {
-   "id": "8d51677ab2ab",
-   "title": "一苒评特斯拉Roadster告别传统超跑 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjg0LU05ZU03SGZFLW9CUjR2ZGlUOXNUMUQzOU9BMHExUDUxOXQtbE95WVpBRXZTdFpuWWFmdHFIaElQOUN6c2h0SFVOUlZoZFF5V0Q0VHNHUV9GUld0YkhHc2daNDF6MENnSVpkcmdHQ1BFZXpNZFpDazVlanBMeg",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T12:28:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T12:28:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjg0LU05ZU03SGZFLW9CUjR2ZGlUOXNUMUQzOU9BMHExUDUxOXQtbE95WVpBRXZTdFpuWWFmdHFIaElQOUN6c2h0SFVOUlZoZFF5V0Q0VHNHUV9GUld0YkhHc2daNDF6MENnSVpkcmdHQ1BFZXpNZFpDazVlanBMeg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster告别传统超跑",
-   "title_zh": "一苒评特斯拉Roadster告别传统超跑 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "1111d1e089d7",
-   "title": "【视频】深圳仓广州百台特斯拉！这期推荐几台性价比超高的Model 3 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VZHR3N2hCbE9aRTV4MUJvTDVJYzQ4bEtyS2wxVlp5VlZTcU4yNmFmdUNXWjBkNWdabHdJSnJwX3Z5ZjdhXzZpa01FZXdTWVJoRGZpZUVIQXFNMEk",
-   "source": "汽车之家",
-   "published_at": "2026-10-31T12:27:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-31T12:27:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VZHR3N2hCbE9aRTV4MUJvTDVJYzQ4bEtyS2wxVlp5VlZTcU4yNmFmdUNXWjBkNWdabHdJSnJwX3Z5ZjdhXzZpa01FZXdTWVJoRGZpZUVIQXFNMEk"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "深圳仓广州百台特斯拉推荐高性价比Model 3",
-   "title_zh": "深圳仓广州百台特斯拉，推荐几台高性价比Model 3",
-   "sentiment": 0
-  },
-  {
-   "id": "114105b4d60c",
-   "title": "Pilot Opens First Tesla Megacharger Site in Georgia - www.thebuzzevnews.com",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA",
-   "source": "www.thebuzzevnews.com",
-   "published_at": "2026-10-31T12:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "www.thebuzzevnews.com",
-     "published_at": "2026-10-31T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA"
-    },
-    {
-     "name": "The Buzz - Electric Vehicle News",
-     "published_at": "2026-10-31T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Pilot佐治亚州首开特斯拉充电站",
-   "title_zh": "Pilot在佐治亚州开设首个特斯拉Megacharger站点",
-   "sentiment": 1
-  },
-  {
-   "id": "4f3460a964fb",
-   "title": "Pilot, Tesla Open First Megacharger Site to Power Heavy-Duty EVs - The Buzz - Electric Vehicle News",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA",
-   "source": "The Buzz - Electric Vehicle News",
-   "published_at": "2026-10-31T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Buzz - Electric Vehicle News",
-     "published_at": "2026-10-31T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50VERUbzdlbTc5ZThxZklYeXluVER0SGtoN1BvcG81VkphRkJhUG9XcFdhc2REMGlmWUhCMm5leUxsT1dnUlhJWUxwdVRJQ0pEZ19TalFiRHJCS1hKQ3dkckxKNTVGOHVuMEFTZUI0NA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉与Pilot首开重型电车充电站",
-   "title_zh": "Pilot与特斯拉开设首个重型电动汽车充电站",
-   "sentiment": 1
   }
  ]
 }
