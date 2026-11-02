@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T20:37:28.546049+00:00",
+ "updated_at": "2026-11-02T20:52:30.320773+00:00",
  "market": {
-  "price": 402.15,
-  "change_pct": 0.59,
+  "price": 402.39,
+  "change_pct": 0.65,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（140条已评分）"
+     "note": "今日新闻情绪 +0.24（145条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $402.15 vs 20日均线 $381.87"
+     "note": "现价 $402.39 vs 20日均线 $381.88"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.5,
-   "ma20": 381.87,
-   "as_of": "2026-11-02T20:37:28.541250+00:00"
+   "implied_upside_pct": -0.6,
+   "ma20": 381.88,
+   "as_of": "2026-11-02T20:52:30.312283+00:00"
   },
-  "pe_ttm": 111.2,
+  "pe_ttm": 111.3,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 140
+   "avg": 0.24,
+   "count": 145
   }
  },
  "meta": {
@@ -1649,6 +1649,23 @@
    "sentiment": 1
   },
   {
+   "id": "0c3a7322de93",
+   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1727,6 +1744,23 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
+  },
+  {
+   "id": "3bed1e27b719",
+   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d6c199c41444",
@@ -3382,6 +3416,23 @@
    "zh_summary": "Top Gear质疑Roadster加速说法",
    "title_zh": "Top Gear质疑特斯拉Roadster 0.59秒加速说法",
    "sentiment": 0
+  },
+  {
+   "id": "9b191f701669",
+   "title": "Tesla Roadster’s 10 Thrusters: Flying Car or Stunt? [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3hHTDNTaEVmOWhVMHd4M0lEMVR2RG9lUnF5Tm50Mzd0ZnVOOUV0S0lHQ2RBMUFXd0doanl2Xzk5QWg1VklOTTYxaGp4OElOTFdmYnBDa0xVNDdtUXlaTXotal9zWWNvRXh5bWtYWVZfdjJuVTdWSUVRSHJXa3JhcDN0V1FpLTJsemo1VWF0bjZsdw",
+   "source": "shattered.io",
+   "published_at": "2026-11-02T05:16:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-11-02T05:16:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3hHTDNTaEVmOWhVMHd4M0lEMVR2RG9lUnF5Tm50Mzd0ZnVOOUV0S0lHQ2RBMUFXd0doanl2Xzk5QWg1VklOTTYxaGp4OElOTFdmYnBDa0xVNDdtUXlaTXotal9zWWNvRXh5bWtYWVZfdjJuVTdWSUVRSHJXa3JhcDN0V1FpLTJsemo1VWF0bjZsdw"
+    }
+   ],
+   "category": "车型产品",
+   "session": "周末"
   },
   {
    "id": "b5f9c302eec3",
@@ -6473,71 +6524,6 @@
    "zh_summary": "特斯拉拆除Model S产线转产Optimus",
    "title_zh": "特斯拉Model S产线46天拆除，为Optimus让路",
    "sentiment": 0
-  },
-  {
-   "id": "3f4e09cf7ed7",
-   "title": "特斯拉调整美区推荐奖励 购车福利取消改为赠送FSD月卡 - 3DM",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01bERORUt2NVJuWXVOc1pUTjRjTHplcUx3TTY4TU1Ld1BKeXhxUXpCWFBZcXZOOHpQckZySm5VSFNSbm5OX3FIUllkVnI3S29hcmJfWFR4Uk1UWWgz",
-   "source": "3DM",
-   "published_at": "2026-11-01T05:34:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "3DM",
-     "published_at": "2026-11-01T05:34:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01bERORUt2NVJuWXVOc1pUTjRjTHplcUx3TTY4TU1Ld1BKeXhxUXpCWFBZcXZOOHpQckZySm5VSFNSbm5OX3FIUllkVnI3S29hcmJfWFR4Uk1UWWgz"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉美区推荐奖励改为赠送FSD月卡",
-   "title_zh": "特斯拉调整美区推荐奖励 购车福利取消改为赠送FSD月卡 - 3DM",
-   "sentiment": 0
-  },
-  {
-   "id": "38330cab03da",
-   "title": "Tesla Roadster's Rocket Thrusters Aren't New - These Guys Did It Nearly 100 Years Ago - CarBuzz",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVnpqTkRicEpnYlBCaDktMkZSSGl1cTkyS0h5UmxncnBuSUo1ZDJsWERkVkVZZUNLbEhRTGNkdnNOUy1ZaFBtVWhGRm45eWxhWlVkQm5Rd1VBZWNOWUl5UDFtVGNFNDN4dTZwWUdXS0JqTXRlMC1UMTBCa01JQQ",
-   "source": "CarBuzz",
-   "published_at": "2026-11-01T05:33:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CarBuzz",
-     "published_at": "2026-11-01T05:33:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVnpqTkRicEpnYlBCaDktMkZSSGl1cTkyS0h5UmxncnBuSUo1ZDJsWERkVkVZZUNLbEhRTGNkdnNOUy1ZaFBtVWhGRm45eWxhWlVkQm5Rd1VBZWNOWUl5UDFtVGNFNDN4dTZwWUdXS0JqTXRlMC1UMTBCa01JQQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster火箭推进器并非首创",
-   "title_zh": "特斯拉Roadster火箭推进器并非新发明，近百年前已有先例",
-   "sentiment": 0
-  },
-  {
-   "id": "31c38586b25f",
-   "title": "Tesla owner fled fire through a window — federal rules don't require door-release labels - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU94Z2lYc2g3WHdzelZfeHkyQ2dtV2NLZ2V1Q1VMTEdWc2JaQ250bmhBRG5MRmdqdUhEa24zSkRnYlZQemh6VGZ4RTZBWGVRVGlmN3ZsZDY3R1ZaeWhsUHBjVjhqeDhCaGdtazRzbjU4YUNZdEEzVGZ4bUM1YW9uUnltZ2ZXdGhXS0FQbU0tU3gyWWdUSjdTZERmaw",
-   "source": "Yahoo Autos",
-   "published_at": "2026-11-01T05:31:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-11-01T05:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaU94Z2lYc2g3WHdzelZfeHkyQ2dtV2NLZ2V1Q1VMTEdWc2JaQ250bmhBRG5MRmdqdUhEa24zSkRnYlZQemh6VGZ4RTZBWGVRVGlmN3ZsZDY3R1ZaeWhsUHBjVjhqeDhCaGdtazRzbjU4YUNZdEEzVGZ4bUM1YW9uUnltZ2ZXdGhXS0FQbU0tU3gyWWdUSjdTZERmaw"
-    },
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-11-01T05:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3E2eFNkN2pGQTc0TE9Lc2MxSHgwVmx4dnl0d0FWWFl3V1BCNUp1ck5qVWdmdlUyblU4MWpjOHdQT1Ywc29HX2VBN2tXZ0pyQjNmNUxNeUM5dnpRWG1QTzcxYlpWZElvY19GU0NJSW9wNkJlWURTdGZkZmJjdjNCVVpIV2ZmbWhw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车主破窗逃出起火车辆",
-   "title_zh": "特斯拉车主破窗逃离起火车辆，联邦法规未要求车门释放标识",
-   "sentiment": -1
   }
  ]
 }
