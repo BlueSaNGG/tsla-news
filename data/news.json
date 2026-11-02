@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T20:07:33.455524+00:00",
+ "updated_at": "2026-11-02T20:22:32.309182+00:00",
  "market": {
-  "price": 404.32,
-  "change_pct": 1.13,
+  "price": 403.2,
+  "change_pct": 0.85,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（135条已评分）"
+     "note": "今日新闻情绪 +0.26（136条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.32 vs 20日均线 $381.99"
+     "note": "现价 $403.20 vs 20日均线 $381.92"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.1,
-   "ma20": 381.99,
-   "as_of": "2026-11-02T20:07:33.446777+00:00"
+   "implied_upside_pct": -0.8,
+   "ma20": 381.92,
+   "as_of": "2026-11-02T20:22:32.305111+00:00"
   },
-  "pe_ttm": 111.8,
+  "pe_ttm": 111.5,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 135
+   "avg": 0.26,
+   "count": 136
   }
  },
  "meta": {
@@ -67,6 +67,74 @@
   }
  },
  "stories": [
+  {
+   "id": "e9847e0038e0",
+   "title": "BMW plans urban driver assistance for 2027, aiming to rival Tesla FSD - Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcmdBNzdsSElZeHRHRmhDZzVOOUt5WEQwLTV2SDBBTUdMcFFfbm5fRXdLQS11TjdOT0NqTEREODIxMW5oM0dGWmp4T1d1RXBFUU5hdDhXNHVnTHBBcHBXdy1faE1xdVljNUE0Z1M2R2NON1V4U0NtX0h0R01nN0k",
+   "source": "Mezha.net",
+   "published_at": "2026-11-02T20:12:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mezha.net",
+     "published_at": "2026-11-02T20:12:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hcmdBNzdsSElZeHRHRmhDZzVOOUt5WEQwLTV2SDBBTUdMcFFfbm5fRXdLQS11TjdOT0NqTEREODIxMW5oM0dGWmp4T1d1RXBFUU5hdDhXNHVnTHBBcHBXdy1faE1xdVljNUE0Z1M2R2NON1V4U0NtX0h0R01nN0k"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "e257126ae6c6",
+   "title": "Tesla Drops New Cybercab Backpack, Tees, and Gold Cup - Not a Tesla App",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM3V1Qm1DSXhfVnVpV1NyQ1Z6eDYwREdveG9yMWNkVFZRVEdzTzIxMEJMUnFtUC12SmY4VzhPb1ZHNmRXQmVkQThvODVpRkpRbkNWNW9hUkx3N2ZBeXhDVjZsQXhRek05YUdDTWVGemtnaVNROFRqZW9RWGZtdzNCazVuSEJXUUVLaV9fTHRoOUNtTFFI",
+   "source": "Not a Tesla App",
+   "published_at": "2026-11-02T20:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Not a Tesla App",
+     "published_at": "2026-11-02T20:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM3V1Qm1DSXhfVnVpV1NyQ1Z6eDYwREdveG9yMWNkVFZRVEdzTzIxMEJMUnFtUC12SmY4VzhPb1ZHNmRXQmVkQThvODVpRkpRbkNWNW9hUkx3N2ZBeXhDVjZsQXhRek05YUdDTWVGemtnaVNROFRqZW9RWGZtdzNCazVuSEJXUUVLaV9fTHRoOUNtTFFI"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "0ad3ffa8d424",
+   "title": "Tesla urges US to consider supply chains before imposing Vietnam tariffs - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGRqa1ItaE9IazA3U0ZSQW8tbVZ5MjNxT3JVNS1BZ3BHamhsSGpsbGtocHpCTmhDb2JEcjlwRXZmUG1jVGZWT19JRVRSVk9paTY3WFVXek4tc1JCT2RfREhFR3FhWDZVVkZBbFFCbGRsaEhlMHBMSVgwMGJuV0pCZGNGWQ",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-11-02T20:08:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-02T20:08:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGRqa1ItaE9IazA3U0ZSQW8tbVZ5MjNxT3JVNS1BZ3BHamhsSGpsbGtocHpCTmhDb2JEcjlwRXZmUG1jVGZWT19JRVRSVk9paTY3WFVXek4tc1JCT2RfREhFR3FhWDZVVkZBbFFCbGRsaEhlMHBMSVgwMGJuV0pCZGNGWQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "7beb932c6d7c",
+   "title": "Tesla Drops Cybercab Merch Collection: Prices and Details - BASENOR - Tesla Accessories",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXNJVllWMzBfem9ka1lyR004RVpRQ214MkVDNEtHTzlabkhzckNsZjJWanMydDNKSXlZN0JtOF9LS2g3aEEtUzZEOWZjNEd6MHJUZVFGTk9KVkp6d05rX1BENy1QYjdhRDRXSHpnaTJ6YlU5TlV3TkFoXzVRX05PZnFlWDNOSEIwODJfSXAtQ0xvd05Cemc",
+   "source": "BASENOR - Tesla Accessories",
+   "published_at": "2026-11-02T20:04:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BASENOR - Tesla Accessories",
+     "published_at": "2026-11-02T20:04:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXNJVllWMzBfem9ka1lyR004RVpRQ214MkVDNEtHTzlabkhzckNsZjJWanMydDNKSXlZN0JtOF9LS2g3aEEtUzZEOWZjNEd6MHJUZVFGTk9KVkp6d05rX1BENy1QYjdhRDRXSHpnaTJ6YlU5TlV3TkFoXzVRX05PZnFlWDNOSEIwODJfSXAtQ0xvd05Cemc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "451183bf76cc",
    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027 - The Verge",
@@ -1469,6 +1537,23 @@
    "sentiment": 1
   },
   {
+   "id": "0c3a7322de93",
+   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1547,6 +1632,23 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
+  },
+  {
+   "id": "3bed1e27b719",
+   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T13:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T13:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d6c199c41444",
@@ -6418,131 +6520,6 @@
    "zh_summary": "特斯拉车主内部存在车型鄙视链",
    "title_zh": "开特斯拉的也有鄙视链，开Y的看不起3的。 ​ - 手机新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "709ee44f41bd",
-   "title": "特斯拉第二代Roadster，进不了北京？ #微博视频精选大赏##特斯拉做飞行汽车的真正目标# ​ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbDl2bmZOWk83VHl2bE5fRW9qNUU5Y29NUGxOTzJrMmt3WXR1cWNVcS1pcFF4VWlEVjhwVGRVb3NOSERINER1VzVTWUpETHB3bFJieldSYV9INFZXZDRleWRYOTlhN3RCdjhJY1JPQ1VUbFZVdEVGTkpEay1ZMGtPbg",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T04:43:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T04:43:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbDl2bmZOWk83VHl2bE5fRW9qNUU5Y29NUGxOTzJrMmt3WXR1cWNVcS1pcFF4VWlEVjhwVGRVb3NOSERINER1VzVTWUpETHB3bFJieldSYV9INFZXZDRleWRYOTlhN3RCdjhJY1JPQ1VUbFZVdEVGTkpEay1ZMGtPbg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉第二代Roadster进不了北京",
-   "title_zh": "特斯拉第二代Roadster进不了北京？",
-   "sentiment": 0
-  },
-  {
-   "id": "393094689cb6",
-   "title": "2026年Q3车企财报与特斯拉新政：长安广汽承压，特斯拉推“5年0息” - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAybWw0dUIyWTVvYVVwaVM5TFdWM3cwbDMtU1ZHcVE1NmxobF90d0Y4Qk1aaEhiRHB2ZEZvLXFKNk9BSEFnR0ZPVGtzLXB3WFJNLTFYS3VRQWw3cms",
-   "source": "网通社",
-   "published_at": "2026-11-01T04:28:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-11-01T04:28:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAybWw0dUIyWTVvYVVwaVM5TFdWM3cwbDMtU1ZHcVE1NmxobF90d0Y4Qk1aaEhiRHB2ZEZvLXFKNk9BSEFnR0ZPVGtzLXB3WFJNLTFYS3VRQWw3cms"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "特斯拉推5年0息购车方案",
-   "title_zh": "2026年Q3车企财报：长安广汽承压，特斯拉推5年0息",
-   "sentiment": 1
-  },
-  {
-   "id": "a3d32a93c9de",
-   "title": "Tesla's Driverless Cybercab Now Outnumbers the Model Y in Texas - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXFOeVFtU1dvc0stekpKSGdGUHRBVm0wY212LXNBcEFsZlkxT2ZWZFFsdFdUMjhqRG9XS1lPZmx3Y3hPWGR3Q1VFLTJ0M1IybXRXalozYVEwRWZhS195c0xCZVlYVDF2S2ZmaUFDMDlFdDA5Sm1rcnVTLTl5eDdkOElEZXZ0VTJkRzQzeGVvNU9YdXBG",
-   "source": "Startup Fortune",
-   "published_at": "2026-11-01T04:19:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-11-01T04:19:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXFOeVFtU1dvc0stekpKSGdGUHRBVm0wY212LXNBcEFsZlkxT2ZWZFFsdFdUMjhqRG9XS1lPZmx3Y3hPWGR3Q1VFLTJ0M1IybXRXalozYVEwRWZhS195c0xCZVlYVDF2S2ZmaUFDMDlFdDA5Sm1rcnVTLTl5eDdkOElEZXZ0VTJkRzQzeGVvNU9YdXBG"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "得州无人驾驶Cybercab超Model Y",
-   "title_zh": "特斯拉无人驾驶Cybercab在得州数量超过Model Y",
-   "sentiment": 2
-  },
-  {
-   "id": "ce03491a4774",
-   "title": "丹麦9月：特斯拉涨3.0%首夺月度冠军，比亚迪涨36.3%进品牌榜前二十，纯电份额88.8%创新高 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tVDg2OHNXQ0d5Y3pFUS1jSGJWV3llX2VFZ2k0TEJaTWd5MlFRMkFsUThNWWdYZnBzdXNZTjV3VjkwSV9SNTYySFR6T3hCc0s3TmlyR2t3a1g5M1pCQWU0T0NqdW9hWldidjUtTV9BaFlTaFRvMWc",
-   "source": "新浪财经",
-   "published_at": "2026-11-01T04:04:49+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-11-01T04:04:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tVDg2OHNXQ0d5Y3pFUS1jSGJWV3llX2VFZ2k0TEJaTWd5MlFRMkFsUThNWWdYZnBzdXNZTjV3VjkwSV9SNTYySFR6T3hCc0s3TmlyR2t3a1g5M1pCQWU0T0NqdW9hWldidjUtTV9BaFlTaFRvMWc"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-01T04:04:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVU4RlZhWmd3djcxNlI4MXZDOXpqRUZtVWdEb29ySFRrdWlZVDA3MG53YnhyZkJXbFVhejlKUkY2VU1veDNTdC1lelJlMjNTSFc0SkRJb2daMmRSazBNLUlaSVNQTzktWTN5NVdZODA2UTF6MHR2NzlxWDg5ei12MndkSE11SUw0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "丹麦9月特斯拉涨3%首夺月度冠军",
-   "title_zh": "丹麦9月特斯拉涨3%首夺月度冠军，比亚迪涨36.3%进前二十",
-   "sentiment": 1
-  },
-  {
-   "id": "4c31744f867b",
-   "title": "【视频】焕新版特斯拉Model Y合集！想买二手焕新版的来看一看 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aW5kWm5jVzVUVDVORjRHR2k5cjFoemEySkxwRXZGVEREUmMyWXBjajY1RVVsOUMzZFBObnA5NWExMXhxb0pBZDgzLVlMWU9xalpNaGVpQWx2YTA",
-   "source": "汽车之家",
-   "published_at": "2026-11-01T03:24:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-01T03:24:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aW5kWm5jVzVUVDVORjRHR2k5cjFoemEySkxwRXZGVEREUmMyWXBjajY1RVVsOUMzZFBObnA5NWExMXhxb0pBZDgzLVlMWU9xalpNaGVpQWx2YTA"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "焕新版Model Y二手选购合集",
-   "title_zh": "【视频】焕新版特斯拉Model Y合集！想买二手焕新版的来看一看 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "d008d9f607c7",
-   "title": "特斯拉在海外推出全新奖励计划：车主邀请朋友体验 FSD 监督版，可获免费订阅或积分 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIczFXVWF5UWR1cmIxa0dSWVM0eWxraVRGNzFpaExCcjN3NlBUUUNfZ0JZNGdiS2N3OUh0dGcxLUJHWFNSV3d2MjVrNjc",
-   "source": "凤凰网科技",
-   "published_at": "2026-11-01T00:59:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-11-01T00:59:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIczFXVWF5UWR1cmIxa0dSWVM0eWxraVRGNzFpaExCcjN3NlBUUUNfZ0JZNGdiS2N3OUh0dGcxLUJHWFNSV3d2MjVrNjc"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉海外推FSD体验奖励计划",
-   "title_zh": "特斯拉海外推奖励计划邀友体验FSD监督版获积分",
-   "sentiment": 1
   }
  ]
 }
