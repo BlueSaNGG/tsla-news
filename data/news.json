@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T12:52:26.195514+00:00",
+ "updated_at": "2026-11-02T13:07:24.702678+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（51条已评分）"
+     "note": "今日新闻情绪 +0.22（54条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-02T12:52:26.190178+00:00"
+   "as_of": "2026-11-02T13:07:24.694361+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 51
+   "avg": 0.22,
+   "count": 54
   }
  },
  "meta": {
@@ -68,17 +68,56 @@
  },
  "stories": [
   {
+   "id": "dc9f8817f44f",
+   "title": "美对越知识产权调查月底届满 特斯拉与三星反对加征新关税 - 联合早报",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PMi1lblZTSDFTcmlOYUFDZVppVnRwNW9TV055YlN4bS1JeE9uYlhRMExsMGRmcEZwZDBNQm9CYVpOOU9fTjFPRFEwemhtN1Y0TndBRW9wVXU3VXlOdEdZV2RCX3BBSGc",
+   "source": "联合早报",
+   "published_at": "2026-11-02T12:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "联合早报",
+     "published_at": "2026-11-02T12:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PMi1lblZTSDFTcmlOYUFDZVppVnRwNW9TV055YlN4bS1JeE9uYlhRMExsMGRmcEZwZDBNQm9CYVpOOU9fTjFPRFEwemhtN1Y0TndBRW9wVXU3VXlOdEdZV2RCX3BBSGc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "12d09f55cee1",
+   "title": "Why Musk Is Tesla Stock’s Midterm Risk - Trefis",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSk5VSk90ejFYVFY2VTBxVnRUQVV4QjFEeVU0UGt3Y3pYOHpCUDRIZTcxdnBmTnZIZEN6Q1dZSmpMdWhTSmN6VXdDdWtKcWhkR1RqRndCaW9HMDFDSGpLRVpSc1lwNFhyQ3EzR0FyeVJTa0dMbVdseF9DMmtlOEhzQjh6ZUlycDNNbld3WVR2S2g1RHNpWlYwUXc2ZjllYlFP",
+   "source": "Trefis",
+   "published_at": "2026-11-02T12:49:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Trefis",
+     "published_at": "2026-11-02T12:49:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSk5VSk90ejFYVFY2VTBxVnRUQVV4QjFEeVU0UGt3Y3pYOHpCUDRIZTcxdnBmTnZIZEN6Q1dZSmpMdWhTSmN6VXdDdWtKcWhkR1RqRndCaW9HMDFDSGpLRVpSc1lwNFhyQ3EzR0FyeVJTa0dMbVdseF9DMmtlOEhzQjh6ZUlycDNNbld3WVR2S2g1RHNpWlYwUXc2ZjllYlFP"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "640bb81a281b",
    "title": "Tesla Faces a Robo-Taxi Revolution in China. Musk’s Ambitions Have a Tough Test. - Barron's",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85bHJGMjI4eW5HTUJHaXZhWVpJYlVaNHdXSS0za0lyeV9DcWhUNjVaRjItZzFpOFVvOHF0TUdTaVlnQ3RvbFAtN1NReFphRkJvYjB2MFRteFYxR0FQSDJZT0pXZUozUm5Fc3B1T0o5RDFOd2Y5TmNuRm5jb01KQUU",
    "source": "Barron's",
    "published_at": "2026-11-02T12:49:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barron's",
      "published_at": "2026-11-02T12:49:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85bHJGMjI4eW5HTUJHaXZhWVpJYlVaNHdXSS0za0lyeV9DcWhUNjVaRjItZzFpOFVvOHF0TUdTaVlnQ3RvbFAtN1NReFphRkJvYjB2MFRteFYxR0FQSDJZT0pXZUozUm5Fc3B1T0o5RDFOd2Y5TmNuRm5jb01KQUU"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T12:53:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0Q3cW15aEN2LVFveFBrRHZROWRiaVg1WEhQSFFKTVpWN0V1UFBiUmptM3lSZTRIcjRoLXg4MThkTlZ2VmstUFdVbGRrRG53Y0FfSzAzOFY4by0zN3dER2ZjYW4tUHRMeTFyeUNKOE9sLWgzZ3lBckNOTUxjZzVxOXhtT0pUeEFfMnhfNzBrZ1RNYnZTMjZSMnZBV0RMX2xz"
     }
    ],
    "category": "马斯克",
@@ -228,26 +267,6 @@
    "sentiment": -1
   },
   {
-   "id": "fd8c810e8ef2",
-   "title": "Tesla Has Best Norway October as Chinese Brands Hit Record - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yVjlIMDNfVTdLTDZpeDJWYVVYTjhTbGphQ1JaVG1HOThYbU5pczQ1dmhlMzRQSjZRdHZ6OWZTeDRIcWRHbXNXMmlEU2xac1k",
-   "source": "GuruFocus",
-   "published_at": "2026-11-02T11:51:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-11-02T11:51:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yVjlIMDNfVTdLTDZpeDJWYVVYTjhTbGphQ1JaVG1HOThYbU5pczQ1dmhlMzRQSjZRdHZ6OWZTeDRIcWRHbXNXMmlEU2xac1k"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉挪威10月销量创最佳纪录",
-   "title_zh": "特斯拉迎来挪威史上最佳10月，中国品牌亦创纪录",
-   "sentiment": 1
-  },
-  {
    "id": "6d7e0166f2d5",
    "title": "Tesla Model 3 RWD 110 Review - AutoApp",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94N1dHeGY0cVl3Z2VOTGh1VlFIa0VVUU1vX3FzX0s1VENieVhPdlJRSWI5Rk0zRzlyWVE5M2FOOTItd0UwVEx6VmhCeVJLaVpzcVJmbHRBaHNnNXNteHdJTWtR",
@@ -308,15 +327,45 @@
    "sentiment": 1
   },
   {
+   "id": "fd8c810e8ef2",
+   "title": "Tesla Has Best Norway October as Chinese Brands Hit Record - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNU9MeGpYd0dJZVJOWWJzT3hRdTNXbFhqakU5WW8tQnVrdUN6UkpLeXEwTnN2empaa2t0QlB0SUxreWNEUm9CVmVURnlHbnBXRDFRRjZiUThrbHhuTGtuUUZTWjIwZGNHT1cyUG5BNzZSRlhMQXRKOF9iLWJ6OWdZT1Q3c3JKZnhuZWo3Y3lwdmNvS3hVeVdEVlA5bVN3WHpMNWdnNTJuU2tfTW10eEdmSzNmQ2N4dkstcEE",
+   "source": "TradingView",
+   "published_at": "2026-11-02T11:38:01+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-02T11:38:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNU9MeGpYd0dJZVJOWWJzT3hRdTNXbFhqakU5WW8tQnVrdUN6UkpLeXEwTnN2empaa2t0QlB0SUxreWNEUm9CVmVURnlHbnBXRDFRRjZiUThrbHhuTGtuUUZTWjIwZGNHT1cyUG5BNzZSRlhMQXRKOF9iLWJ6OWdZT1Q3c3JKZnhuZWo3Y3lwdmNvS3hVeVdEVlA5bVN3WHpMNWdnNTJuU2tfTW10eEdmSzNmQ2N4dkstcEE"
+    },
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-11-02T11:51:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yVjlIMDNfVTdLTDZpeDJWYVVYTjhTbGphQ1JaVG1HOThYbU5pczQ1dmhlMzRQSjZRdHZ6OWZTeDRIcWRHbXNXMmlEU2xac1k"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "特斯拉挪威10月销量创最佳纪录",
+   "title_zh": "特斯拉迎来挪威史上最佳10月，中国品牌亦创纪录",
+   "sentiment": 1
+  },
+  {
    "id": "2aa2a112bdc2",
    "title": "Tesla Registrations Northern Europe: Sweden +248% [2026] - tech-insider.org",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw",
    "source": "tech-insider.org",
    "published_at": "2026-11-02T11:37:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-11-02T11:37:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-11-02T11:37:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWlSSkE4V1JfQ1ZrblozM1BmejhhcDB0QmJfZ0pFaTBCSlJ4U1JnakU3R18wRGx6b2c1NVNmMTFZSjZpVHJqUmNWa3ZlbU5va0dZME1vQkxQTi1RZS0tanVoU3lBMTV2MUdoejFMdk91OHd6WjVSWE9nYVgxamVub09XSTFZUGcxMFJkSUVOeTBzWGJvX2NCeUVsbXZTdw"
     }
@@ -6414,46 +6463,6 @@
    "session": "周末",
    "zh_summary": "特斯拉万圣节用Cybercab载骷髅兜风",
    "title_zh": "特斯拉万圣节让Cybercab载着骷髅兜风",
-   "sentiment": 0
-  },
-  {
-   "id": "97fa77b4e733",
-   "title": "A flying-car startup says Tesla just joined a race it has been running for years - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjZReV9WdU90TTVZWDZiWldPUXFjZUx4dDRZWlI3UHJ6QVBsQWV1ZjZ1MFFtb3k2MDByZnNNOUZ0Nzl2RDFoVUF4TGVjTW5lbWRuNTFBNG9MYkNhVHdOVnZDWVVVbXdTU0l2NmlxMmdUdmpaa2kzRjI2NVRZWVRUbmlNT3RPOUJYZWN2TjB5MlIyOUdZdVhYRUNGallvQQ",
-   "source": "Business Insider",
-   "published_at": "2026-10-31T09:49:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-31T09:49:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcjZReV9WdU90TTVZWDZiWldPUXFjZUx4dDRZWlI3UHJ6QVBsQWV1ZjZ1MFFtb3k2MDByZnNNOUZ0Nzl2RDFoVUF4TGVjTW5lbWRuNTFBNG9MYkNhVHdOVnZDWVVVbXdTU0l2NmlxMmdUdmpaa2kzRjI2NVRZWVRUbmlNT3RPOUJYZWN2TjB5MlIyOUdZdVhYRUNGallvQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "飞行汽车初创称特斯拉加入竞赛",
-   "title_zh": "飞行汽车初创称特斯拉加入其多年竞赛",
-   "sentiment": 0
-  },
-  {
-   "id": "5bce58fca01d",
-   "title": "特斯拉Robotaxi量产成生死题，无人出行巨头蜕变待验证 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamVaU0I1bm1QTDBUVHJ5WEJzeVhSaU13c1FSRUN6Ulk1blNUOFd4U3pzcGU5NjhJakxxUm9KLWxQbEJxNTFLVkVCRm5ldUdUNDhHZVJXaXB2SGJuZ2hXMG1MTXo5WWZ3SGVTRi12TThSTzhwbWc5WFItNkdvb2pucQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T09:48:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T09:48:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamVaU0I1bm1QTDBUVHJ5WEJzeVhSaU13c1FSRUN6Ulk1blNUOFd4U3pzcGU5NjhJakxxUm9KLWxQbEJxNTFLVkVCRm5ldUdUNDhHZVJXaXB2SGJuZ2hXMG1MTXo5WWZ3SGVTRi12TThSTzhwbWc5WFItNkdvb2pucQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "特斯拉Robotaxi量产成关键考验",
-   "title_zh": "特斯拉Robotaxi量产成生死题，无人出行巨头蜕变待验证",
    "sentiment": 0
   }
  ]
