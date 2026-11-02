@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T19:07:39.121546+00:00",
+ "updated_at": "2026-11-02T19:22:35.582881+00:00",
  "market": {
-  "price": 406.23,
-  "change_pct": 1.61,
+  "price": 404.89,
+  "change_pct": 1.27,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -1.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（120条已评分）"
+     "note": "今日新闻情绪 +0.28（129条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $406.23 vs 20日均线 $382.07"
+     "note": "现价 $404.89 vs 20日均线 $382.01"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 56,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.5,
-   "ma20": 382.07,
-   "as_of": "2026-11-02T19:07:39.110746+00:00"
+   "implied_upside_pct": -1.2,
+   "ma20": 382.01,
+   "as_of": "2026-11-02T19:22:35.573873+00:00"
   },
-  "pe_ttm": 112.4,
+  "pe_ttm": 112.0,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.2%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.28,
-   "count": 120
+   "count": 129
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "316bdb0c2bda",
+   "title": "Tesla Stock Moves Higher: What's Going On? - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpzVENuQkVTR0RRNFNpdHJsX1FUWTZ6em04R3JwT0xaQ1kzV3V4QUp0QUVqb3M1cDlQZFYyemRORi1NVTl1WHd0U0tFUWFrRkxEdDQ1aVNBdjh0OUdsRG5va240TUtmdDRLb3NpMDJYdHlWQzZPRGE4Y1loeXpxdUFiZlljajl5dmpCeDBsRnd2SnJaNEVEUDJmSllNX0dVeGc",
+   "source": "Benzinga",
+   "published_at": "2026-11-02T19:11:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-11-02T19:11:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXpzVENuQkVTR0RRNFNpdHJsX1FUWTZ6em04R3JwT0xaQ1kzV3V4QUp0QUVqb3M1cDlQZFYyemRORi1NVTl1WHd0U0tFUWFrRkxEdDQ1aVNBdjh0OUdsRG5va240TUtmdDRLb3NpMDJYdHlWQzZPRGE4Y1loeXpxdUFiZlljajl5dmpCeDBsRnd2SnJaNEVEUDJmSllNX0dVeGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "bfb09cf261b7",
+   "title": "Electric Trucking: Why 2,500 Tesla Semis Will Transform Freight - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHlBbVlQZmJ3Q2N5UlpidXNZS0dvZWdINl9Ea2hLSWg3TmZUOVpOX0d0X19BSk1QV3JtS1kzcmN5d1pPQmZWRXktUkFvLTNzekh0NFNVbjVqcVNxMmpFaExOTV80bkJ5YzNCVHhUYjBGM0FQUTJUNHVOUUd2M2paVXRwdUN0d3AwZ2doTQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T18:52:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T18:52:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHlBbVlQZmJ3Q2N5UlpidXNZS0dvZWdINl9Ea2hLSWg3TmZUOVpOX0d0X19BSk1QV3JtS1kzcmN5d1pPQmZWRXktUkFvLTNzekh0NFNVbjVqcVNxMmpFaExOTV80bkJ5YzNCVHhUYjBGM0FQUTJUNHVOUUd2M2paVXRwdUN0d3AwZ2doTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "17b6fbe8e18c",
    "title": "长途自驾特斯拉15万纯电和同价位插混谁更省心？3个维度说透+FAQ - 新浪网",
@@ -6517,46 +6551,6 @@
    "session": "周末",
    "zh_summary": "特斯拉研发飞行跑车引讨论",
    "title_zh": "你以为特斯拉研发飞行跑车是为了抢占低空出行市场？",
-   "sentiment": 0
-  },
-  {
-   "id": "4f4e52a8604a",
-   "title": "FSD v12 on Older Tesla Hardware: 5 Details That Matter - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2tUbi1FaWV3MTd0V3p1RW5Xam1ibXhmdWs4eWM1Y1lNa0NMN0JxbFU1M1dZLTM4TEJjb19PdDBEazI5aFEyeTdpc3FHX3JxaTNLdEhMdGh5c0FnLUtRbC1kUVVQVmxiQUFoeDNBWlY0VFplQl8tTGZwSW1yOTktR3VaMWc0OXR5OHRSRWJ2TFcwZw",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-11-01T01:03:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-11-01T01:03:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2tUbi1FaWV3MTd0V3p1RW5Xam1ibXhmdWs4eWM1Y1lNa0NMN0JxbFU1M1dZLTM4TEJjb19PdDBEazI5aFEyeTdpc3FHX3JxaTNLdEhMdGh5c0FnLUtRbC1kUVVQVmxiQUFoeDNBWlY0VFplQl8tTGZwSW1yOTktR3VaMWc0OXR5OHRSRWJ2TFcwZw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "旧硬件FSD v12五点解析",
-   "title_zh": "旧款特斯拉硬件上的FSD v12：五个关键细节",
-   "sentiment": 0
-  },
-  {
-   "id": "abc1898c2cdd",
-   "title": "Merging SpaceX, Tesla makes more sense for Musk than its investors - The Hindu",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTFmallvTzdDazBBMU1tRkQyUkhiQ0stbXVJdERpTjBYN0pqT3UtYWpGQjQzRzRVNEdQejRRcjZHYU8zSl9VUmlULU9vcmZSeG5qblBNYXBKbXY0VVBTWGY0YTB5el9QbW5oNF9wMUJQOWlObmNTVXlpVUQwNXVIWnJmblM4YmFiM2xWbHpnXzVfVVpJWlBqRE04UXoyT0thTnFSMno1N084Yng1eGhRYnpXWDdQLXRuNUU40gHCAUFVX3lxTE9pZUVTdTZBOENKWUk4R3Q2MXNPSGVGdk1KN3dVV1g0aTRmcEtOcHpXQk1LelVxdUJYNUprYXktNUVuamFUdmYxemZ5aWpGcDZLNThQT29rTHJRVHRwTnBDU1JpX2dfWnZqRW5zbmstZ2VNN2ZqOGtJZjF4cjFleDNLamNzdlAweUtET2VTem5jeE9IdWpZbGJQMWNTd09kNWU1b0hsWW5fWmIyQlZoc2cwM05GaFBISjFVZlIwQVhhcTBn",
-   "source": "The Hindu",
-   "published_at": "2026-11-01T01:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Hindu",
-     "published_at": "2026-11-01T01:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTFmallvTzdDazBBMU1tRkQyUkhiQ0stbXVJdERpTjBYN0pqT3UtYWpGQjQzRzRVNEdQejRRcjZHYU8zSl9VUmlULU9vcmZSeG5qblBNYXBKbXY0VVBTWGY0YTB5el9QbW5oNF9wMUJQOWlObmNTVXlpVUQwNXVIWnJmblM4YmFiM2xWbHpnXzVfVVpJWlBqRE04UXoyT0thTnFSMno1N084Yng1eGhRYnpXWDdQLXRuNUU40gHCAUFVX3lxTE9pZUVTdTZBOENKWUk4R3Q2MXNPSGVGdk1KN3dVV1g0aTRmcEtOcHpXQk1LelVxdUJYNUprYXktNUVuamFUdmYxemZ5aWpGcDZLNThQT29rTHJRVHRwTnBDU1JpX2dfWnZqRW5zbmstZ2VNN2ZqOGtJZjF4cjFleDNLamNzdlAweUtET2VTem5jeE9IdWpZbGJQMWNTd09kNWU1b0hsWW5fWmIyQlZoc2cwM05GaFBISjFVZlIwQVhhcTBn"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "SpaceX与特斯拉合并引讨论",
-   "title_zh": "SpaceX与特斯拉合并对马斯克更有利",
    "sentiment": 0
   }
  ]
