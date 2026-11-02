@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T03:07:33.726578+00:00",
+ "updated_at": "2026-11-02T03:22:34.431452+00:00",
  "market": {
   "price": 399.81,
   "change_pct": -0.87,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（114条已评分）"
+     "note": "今日新闻情绪 +0.09（117条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": 0.0,
    "ma20": 380.7,
-   "as_of": "2026-11-02T03:07:33.718407+00:00"
+   "as_of": "2026-11-02T03:22:34.424715+00:00"
   },
   "pe_ttm": 110.6,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 114
+   "avg": 0.09,
+   "count": 117
   }
  },
  "meta": {
@@ -2910,7 +2910,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUWtpN2taMnZxUGNfTEZKN1d4VTcwWEh5V1VSS2ctNUNzQ0prTVhhS2lWS0ZXdlJINmhnYVFwQUFfalYtT2xNV0hpaEFoZGhBRDRWeUVDdnc",
    "source": "驱动之家",
    "published_at": "2026-11-01T00:32:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "驱动之家",
@@ -2936,11 +2936,15 @@
      "name": "凤凰网科技",
      "published_at": "2026-11-01T00:32:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9reEQ2S254U0xUWGdkREhOVTFjVTh1ZFBtVWhkWGlqRWIyWHBHQzhESUl5MlNjc0dFaXNpbXJQaGZfTDBkRmpjUWtuQkY"
+    },
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-11-01T10:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUEhsU1lwTW1aR1BWRW1oYUdNelBQT196R240NFFGNXNZLUZ3SVRNRGZLcmZtM1hGY2dvZ0R6dExzVzRBeVJFMnU2cjItWG1jbUc4"
     }
    ],
    "category": "其他",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "特斯拉砍掉买车推荐奖励只送FSD",
    "title_zh": "曝特斯拉砍掉买车推荐奖励：以后只送FSD一个月换一个月",
    "sentiment": 0
@@ -4370,26 +4374,6 @@
    "zh_summary": "弗吉尼亚退休基金减持特斯拉股份",
    "title_zh": "弗吉尼亚退休系统等减持特斯拉$TSLA股票",
    "sentiment": -1
-  },
-  {
-   "id": "88a87f16dd40",
-   "title": "2026 Tesla Model Y vs. 2027 Cadillac Optiq: Is Luxury Worth It? - Edmunds",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BR3g5THZhWUpoTkZJLWxtUW9UWDJwcG9lc2x6aGdncXp5NjhRR0cyeC1TS0RrQUpuejdkc2MtakpwNjM1YXR2NkE3T0hxd1VPT2luZkstckZCSzJzRWM5T1FtRTZmSGNXNGZySDhaVnAwM0NKNmdrVQ",
-   "source": "Edmunds",
-   "published_at": "2026-10-31T10:05:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Edmunds",
-     "published_at": "2026-10-31T10:05:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BR3g5THZhWUpoTkZJLWxtUW9UWDJwcG9lc2x6aGdncXp5NjhRR0cyeC1TS0RrQUpuejdkc2MtakpwNjM1YXR2NkE3T0hxd1VPT2luZkstckZCSzJzRWM5T1FtRTZmSGNXNGZySDhaVnAwM0NKNmdrVQ"
-    }
-   ],
-   "category": "车型产品",
-   "session": "周末",
-   "zh_summary": "Model Y对比凯迪拉克Optiq豪华值不值",
-   "title_zh": "2026款Model Y对比2027款凯迪拉克Optiq，豪华值不值？",
-   "sentiment": 0
   },
   {
    "id": "f717614a4f34",
@@ -6360,6 +6344,23 @@
    "zh_summary": "新一代Roadster喷气式未来座舱围绕飞行员设计",
    "title_zh": "新一代Roadster喷气式未来座舱围绕飞行员设计",
    "sentiment": 0
+  },
+  {
+   "id": "1443bc726d0b",
+   "title": "Tesla drops car referral rewards, now pays owners in FSD for referrals - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX01kMURRdVUyMndBZE1ObXF2S1Q5ZWg0a2o1WDVXeE9MbzV3bUI3MnVYb1E3WnpPTk9jZkhCUXQ5ZjdiWnc2S2Q0NERhcTVJYzlpYTJuSFRSZjVhaUVhSmM3TzVJQnVsZkRqSGRxT2lsUGxDNFduSVBxWHNhbzN1OGptdUc",
+   "source": "Electrek",
+   "published_at": "2026-10-30T19:02:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-10-30T19:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX01kMURRdVUyMndBZE1ObXF2S1Q5ZWg0a2o1WDVXeE9MbzV3bUI3MnVYb1E3WnpPTk9jZkhCUXQ5ZjdiWnc2S2Q0NERhcTVJYzlpYTJuSFRSZjVhaUVhSmM3TzVJQnVsZkRqSGRxT2lsUGxDNFduSVBxWHNhbzN1OGptdUc"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
   }
  ]
 }
