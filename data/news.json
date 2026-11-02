@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T17:22:25.459376+00:00",
+ "updated_at": "2026-11-02T17:37:33.752751+00:00",
  "market": {
-  "price": 411.2,
-  "change_pct": 2.85,
+  "price": 409.1,
+  "change_pct": 2.32,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 59% 分位"
+     "note": "现价处于52周区间 58% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -2.7%"
+     "note": "目标价中位数 $400（19家），隐含空间 -2.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（111条已评分）"
+     "note": "今日新闻情绪 +0.27（113条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $411.20 vs 20日均线 $382.32"
+     "note": "现价 $409.10 vs 20日均线 $382.22"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 59,
+   "price_52w_pct": 58,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -2.7,
-   "ma20": 382.32,
-   "as_of": "2026-11-02T17:22:25.452807+00:00"
+   "implied_upside_pct": -2.2,
+   "ma20": 382.22,
+   "as_of": "2026-11-02T17:37:33.746407+00:00"
   },
-  "pe_ttm": 113.7,
+  "pe_ttm": 113.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.7%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-2.2%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 111
+   "avg": 0.27,
+   "count": 113
   }
  },
  "meta": {
@@ -68,24 +68,72 @@
  },
  "stories": [
   {
+   "id": "acbe0f2c80af",
+   "title": "Derek Smith Law Group Represents Former Tesla Employee in Lawsuit - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalFmMURHUVhOcDdzMWZ3bV9uQXV0Qk8yQlJvdXJTT2NUay1fb0JFb2ZBOHZzdkZ5c09JR21LaG1fbng5OXd0YkhSbXhRdHgtTUFnbHJRZmZwZXp3V21qbnBDNWxzUGVSdElnazJjdk1zeU9ycjJIaEMyeUJwUnlkZzBINjVjaWhFRHBGWEViOFg0ZXBzUjZEcjZQRXAwWjdtaVF4UkRqR1VjdE9KWUEyaQ",
+   "source": "The National Law Review",
+   "published_at": "2026-11-02T17:26:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The National Law Review",
+     "published_at": "2026-11-02T17:26:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalFmMURHUVhOcDdzMWZ3bV9uQXV0Qk8yQlJvdXJTT2NUay1fb0JFb2ZBOHZzdkZ5c09JR21LaG1fbng5OXd0YkhSbXhRdHgtTUFnbHJRZmZwZXp3V21qbnBDNWxzUGVSdElnazJjdk1zeU9ycjJIaEMyeUJwUnlkZzBINjVjaWhFRHBGWEViOFg0ZXBzUjZEcjZQRXAwWjdtaVF4UkRqR1VjdE9KWUEyaQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "e3f097a123b3",
+   "title": "意大利交通部表示：特斯拉今年1月至10月在意大利的新车注册量同比增长20.69% - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HV3UzaXRVb0FCVDRDZmNtZi1zcEZIM1VpSlZUdEluYWl4ek5JNWVRSXJ5cWJ4VEZDN3NIYUZDa1BPUjdLYUxuMlpqQmdwNlRtY25MYUVhaTI5NnVkTFVIaw",
+   "source": "东方财富",
+   "published_at": "2026-11-02T17:21:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-11-02T17:21:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HV3UzaXRVb0FCVDRDZmNtZi1zcEZIM1VpSlZUdEluYWl4ek5JNWVRSXJ5cWJ4VEZDN3NIYUZDa1BPUjdLYUxuMlpqQmdwNlRtY25MYUVhaTI5NnVkTFVIaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "6c1bba23303a",
    "title": "Tesla new car sales in Italy up 94% year-on-year in October - www.marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjg5S2ZDejhjREFoLURfSTJxUVYwWE0xeTh5ekM3d0lGVExaQ0pRV09CZU5VMFRlTXJjelZNOXRNMmVWUi03ZFNuUUFBaV82YkRzcE5RMzhQcGtxc1puYk5ob0FFUzB0Rnd6ZVJ1NXYxdXNpSU1lZmNmVVpkUW1PRVN1TXNSZ3RQQmdkMXpldGJsaDRpYnNfcjFOS1RaUV9RclBkTkFwdHJFYUx6U1o5Yw",
    "source": "www.marketscreener.com",
    "published_at": "2026-11-02T17:14:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "www.marketscreener.com",
      "published_at": "2026-11-02T17:14:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjg5S2ZDejhjREFoLURfSTJxUVYwWE0xeTh5ekM3d0lGVExaQ0pRV09CZU5VMFRlTXJjelZNOXRNMmVWUi03ZFNuUUFBaV82YkRzcE5RMzhQcGtxc1puYk5ob0FFUzB0Rnd6ZVJ1NXYxdXNpSU1lZmNmVVpkUW1PRVN1TXNSZ3RQQmdkMXpldGJsaDRpYnNfcjFOS1RaUV9RclBkTkFwdHJFYUx6U1o5Yw"
+    },
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-11-02T17:14:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjg5S2ZDejhjREFoLURfSTJxUVYwWE0xeTh5ekM3d0lGVExaQ0pRV09CZU5VMFRlTXJjelZNOXRNMmVWUi03ZFNuUUFBaV82YkRzcE5RMzhQcGtxc1puYk5ob0FFUzB0Rnd6ZVJ1NXYxdXNpSU1lZmNmVVpkUW1PRVN1TXNSZ3RQQmdkMXpldGJsaDRpYnNfcjFOS1RaUV9RclBkTkFwdHJFYUx6U1o5Yw"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-11-02T17:17:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnZIZ3dNNWpLaHFlZEozOV9PNEFIejlUQ2U4YTZiTnE0SFRwbGdzbTdITmllTEpEbzZSMmNNckZ2UC0xNmJoa1c5WW5KVHBTcnp6QUdSWk1yd0VhSHU0R3FxUlJjdml0a0d0bmRsMWZ2VW9BOC1uTFFfa2pqZTBfOGVJNzhwazJ4aTZtWVhuRktXYXdlYWl3c0JBUGRXUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "特斯拉意大利10月新车销量同比增94%",
    "title_zh": "特斯拉意大利10月新车销量同比增长94%",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.62,
+    "window_h": 0.4
+   }
   },
   {
    "id": "bdd593f8267e",
@@ -133,7 +181,7 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1pPVFo3V1p0VGFzdm9fRHN3YTd3RXZ2Q1pOeEIybEZsNmctX2NlanhtUWNzM1VWOFIzdko5MTY3RDBUZ0xOMUZiMkVocU9hbkdyWGFGVkRjWGxISnRZN1EyaHk4WUZVNHhxVWh2NEV6eTB2Ym5zQWRYM0duUnV0VVdhREJqejBtbGFjOUE5NkF0ODgtMHR2MC1IS3JLMU0",
    "source": "www.marketscreener.com",
    "published_at": "2026-11-02T16:54:01+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "www.marketscreener.com",
@@ -149,10 +197,16 @@
      "name": "StreetInsider",
      "published_at": "2026-11-02T17:01:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1RtLVl4UUtGM05uWHhpTXVGdUpoOXNGWlpLWmM1eWhTU09sa2ozR0dJQ09HSGw0TlVZMzlnTUlNaXV5QmhVRlV4S3dVamg4U254TkZ1bnlxT1NJN1o5NWVyUTFiVTRIMlRWeHl0WnRxSlNfYUdmbWdXS2tENFVWem00U1VFandkdGJOWTdVZmlGc3U1RXhUV2VaYlVjbFVBemd4S1V0SVdyY3FPR0c3RFp3"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-11-02T17:18:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWh5eXBDbWNyMzlfVWtULUdfRHFvNjlub0dDUmlJWTJNdmRPQnYxeWd3cGM5WkJfa3ZrTTNBX2dmVFRIdU5kWXpURXBPMXpuSEg2WVk3RUtwcDktcWFQQWdxVWNmRnZiWnplaDNEZ2lPaDZrNjhTdVhaSHRDN3hkczVXaFJQaXU1bEdN"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "特斯拉葡萄牙10月销量同比增186.1%",
    "title_zh": "特斯拉10月葡萄牙销量增长186.1%",
    "sentiment": 1,
@@ -1043,26 +1097,6 @@
    "sentiment": 1
   },
   {
-   "id": "0c3a7322de93",
-   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T13:41:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T13:41:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Pinnacle增持特斯拉1742股",
-   "title_zh": "Pinnacle增持特斯拉1742股",
-   "sentiment": 1
-  },
-  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1141,26 +1175,6 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
-  },
-  {
-   "id": "3bed1e27b719",
-   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T13:29:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T13:29:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Sicart增持特斯拉股份",
-   "title_zh": "Sicart增持特斯拉股份",
-   "sentiment": 1
   },
   {
    "id": "d6c199c41444",
