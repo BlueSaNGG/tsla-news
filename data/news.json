@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T20:22:32.309182+00:00",
+ "updated_at": "2026-11-02T20:37:28.546049+00:00",
  "market": {
-  "price": 403.2,
-  "change_pct": 0.85,
+  "price": 402.15,
+  "change_pct": 0.59,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.8%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（136条已评分）"
+     "note": "今日新闻情绪 +0.25（140条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $403.20 vs 20日均线 $381.92"
+     "note": "现价 $402.15 vs 20日均线 $381.87"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.8,
-   "ma20": 381.92,
-   "as_of": "2026-11-02T20:22:32.305111+00:00"
+   "implied_upside_pct": -0.5,
+   "ma20": 381.87,
+   "as_of": "2026-11-02T20:37:28.541250+00:00"
   },
-  "pe_ttm": 111.5,
+  "pe_ttm": 111.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.8%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 136
+   "avg": 0.25,
+   "count": 140
   }
  },
  "meta": {
@@ -67,6 +67,91 @@
   }
  },
  "stories": [
+  {
+   "id": "39cf8c88d47a",
+   "title": "BMW Launches Urban Driver Assist to Challenge Tesla FSD - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUpyQnhrSFJCSkRaTFlENi1NM0VrNnpvU0ZmS1lYREh5NGdQS0FMcEJXbmxGcFZaS2NHbTBwbkpTZkE4OC1oMEFMcC0zT1ZUX19RUllOb0pHM3V2WTRqelluVFJQNjRRRFUydTZwU2djUGZubUlxeUtpOXpzOEYwUFZkMjAydnUwdG5GcXVtZHFqQQ",
+   "source": "The Tech Buzz",
+   "published_at": "2026-11-02T20:34:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-11-02T20:34:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUpyQnhrSFJCSkRaTFlENi1NM0VrNnpvU0ZmS1lYREh5NGdQS0FMcEJXbmxGcFZaS2NHbTBwbkpTZkE4OC1oMEFMcC0zT1ZUX19RUllOb0pHM3V2WTRqelluVFJQNjRRRFUydTZwU2djUGZubUlxeUtpOXpzOEYwUFZkMjAydnUwdG5GcXVtZHFqQQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "95ee60e21a2e",
+   "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFlmWlNycnUzRGpkdFRocElibE5DVjRHQXlZRVFmdVd1RWJpNERCSW9uMDFtMVdQanBDZTZPc25QYkFsWmZjZEFwRlNldl90bmVJbW9OTUR2QTFELXZMMnRBS1dLYWxub09IRUU2UWVBRlduT0NqbTFQQ1dKQVhKT3YwUE96RXJf",
+   "source": "Electrek",
+   "published_at": "2026-11-02T20:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-11-02T20:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFlmWlNycnUzRGpkdFRocElibE5DVjRHQXlZRVFmdVd1RWJpNERCSW9uMDFtMVdQanBDZTZPc25QYkFsWmZjZEFwRlNldl90bmVJbW9OTUR2QTFELXZMMnRBS1dLYWxub09IRUU2UWVBRlduT0NqbTFQQ1dKQVhKT3YwUE96RXJf"
+    }
+   ],
+   "category": "能源",
+   "session": "盘中"
+  },
+  {
+   "id": "80bbcdfcb3c6",
+   "title": "BMW's Tesla FSD Rival Hits City Streets In 2027 - InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMThSQ3hrZGRKZTRDRmdKWWdxZXV4cFZQT0J1S0VQUFI0QVFYVGFUVzJGOV81QTh0c25rZnpla1hQd3B0aGMxY3Z3ZFo5WWZZSmdJendnT2VvWFYxc0RHQW40VkdTcmJoQTh6Wg",
+   "source": "InsideEVs",
+   "published_at": "2026-11-02T20:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InsideEVs",
+     "published_at": "2026-11-02T20:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwMThSQ3hrZGRKZTRDRmdKWWdxZXV4cFZQT0J1S0VQUFI0QVFYVGFUVzJGOV81QTh0c25rZnpla1hQd3B0aGMxY3Z3ZFo5WWZZSmdJendnT2VvWFYxc0RHQW40VkdTcmJoQTh6Wg"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "be9962bad10a",
+   "title": "Here's What The Original Tesla Roadster Cost In 2008 Vs. What It's Worth Today - Jalopnik",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvc3VUTDg5RDR5OTJTZUZ6a0lxUUFxRHpoUDJ6RVNRUmI4aUhLbzcwU3ZGak1XQ2h6OU4xQWh1bFJUclJ1RmZ5QnJTaDc2bTVvUlVVNlM2ekhDZ1dHRDZGX3dWQ28wNUZXN1Q4TWtSNkk4OGh1eFdwa2cycy0",
+   "source": "Jalopnik",
+   "published_at": "2026-11-02T20:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jalopnik",
+     "published_at": "2026-11-02T20:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvc3VUTDg5RDR5OTJTZUZ6a0lxUUFxRHpoUDJ6RVNRUmI4aUhLbzcwU3ZGak1XQ2h6OU4xQWh1bFJUclJ1RmZ5QnJTaDc2bTVvUlVVNlM2ekhDZ1dHRDZGX3dWQ28wNUZXN1Q4TWtSNkk4OGh1eFdwa2cycy0"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中"
+  },
+  {
+   "id": "660ba8d3f653",
+   "title": "Tesla adds Fort Worth to its growing Texas robotaxi network - Austin American-Statesman",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFpfbjVLTldkUFNCTllLVHRsVDhtYjJKeFdlRzlGYU9jUkJWR281RGlfVXdDekRoaWZIS3FPcHRaUVhfY3hCRUtael9TZ2lleXZUVHh4Y1VNZ0R2WTd6V2R4R3Nfb2JudDZ1ZjdYWWxkRGJQeDYydlg1U21JQUFpWEpZTnUyQnlrTDdlODRUWFE",
+   "source": "Austin American-Statesman",
+   "published_at": "2026-11-02T20:20:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Austin American-Statesman",
+     "published_at": "2026-11-02T20:20:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFpfbjVLTldkUFNCTllLVHRsVDhtYjJKeFdlRzlGYU9jUkJWR281RGlfVXdDekRoaWZIS3FPcHRaUVhfY3hCRUtael9TZ2lleXZUVHh4Y1VNZ0R2WTd6V2R4R3Nfb2JudDZ1ZjdYWWxkRGJQeDYydlg1U21JQUFpWEpZTnUyQnlrTDdlODRUWFE"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "e9847e0038e0",
    "title": "BMW plans urban driver assistance for 2027, aiming to rival Tesla FSD - Mezha.net",
@@ -1549,26 +1634,6 @@
    "sentiment": 1
   },
   {
-   "id": "0c3a7322de93",
-   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T13:41:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T13:41:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Pinnacle增持1742股特斯拉股票",
-   "title_zh": "Pinnacle买入1742股特斯拉$TSLA股票",
-   "sentiment": 1
-  },
-  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1647,26 +1712,6 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
-  },
-  {
-   "id": "3bed1e27b719",
-   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T13:29:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T13:29:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Sicart Associates买入特斯拉股票",
-   "title_zh": "Sicart Associates LLC买入特斯拉$TSLA股票",
-   "sentiment": 1
   },
   {
    "id": "d6c199c41444",
@@ -6478,66 +6523,6 @@
    "zh_summary": "特斯拉车主破窗逃出起火车辆",
    "title_zh": "特斯拉车主破窗逃离起火车辆，联邦法规未要求车门释放标识",
    "sentiment": -1
-  },
-  {
-   "id": "560e68ba0b60",
-   "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA) - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEk0d2laOU1MdVlPQ3NSS3dGa2Z5cDlWMldMNC1JOGVIenRXT0Vmc0xSMDg0bUhvV05sUENPV0RKdkpkMV9HZjB2YkdhbzhKeWxkRXFIaW9XNzdXQU1WOEk1YXBCdWJXZnhsSWlGaElWSjlMdzhPQjFYcW9kNlN0cnp6UHlLbkZFN1h5MFZ6bGdrVmZjV0dqazQwWWNMcU1aZGRv",
-   "source": "Yahoo Finance",
-   "published_at": "2026-11-01T05:16:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-11-01T05:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEk0d2laOU1MdVlPQ3NSS3dGa2Z5cDlWMldMNC1JOGVIenRXT0Vmc0xSMDg0bUhvV05sUENPV0RKdkpkMV9HZjB2YkdhbzhKeWxkRXFIaW9XNzdXQU1WOEk1YXBCdWJXZnhsSWlGaElWSjlMdzhPQjFYcW9kNlN0cnp6UHlLbkZFN1h5MFZ6bGdrVmZjV0dqazQwWWNMcU1aZGRv"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "Cybercab扩张或改变特斯拉投资逻辑",
-   "title_zh": "Cybercab扩张或将改变特斯拉股票投资逻辑(TSLA)",
-   "sentiment": 1
-  },
-  {
-   "id": "3cdc45f39a29",
-   "title": "Elon Musk Tesla SpaceX Wealth Claim: Who Really Got Rich? TSLA Reacts - Coin Gabbar",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQREZybVp6UEhrcF9hajlRa0NfZjlZVXNMdmo3a1lPZDBWVkpSMURkclBMWmZaM0c1Q1dQWU9BUllHZXpha0s5Ung2X18yaTdZY0dLTV9pSTRZVFNvcE1CM19PYm10NDYzcWsyQWpvOGxZb0Q5S2Ywa3hxVERjeHBvbU9NLURQNHMtRGFqM2Z2SEE0MHlteGc",
-   "source": "Coin Gabbar",
-   "published_at": "2026-11-01T05:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Coin Gabbar",
-     "published_at": "2026-11-01T05:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQREZybVp6UEhrcF9hajlRa0NfZjlZVXNMdmo3a1lPZDBWVkpSMURkclBMWmZaM0c1Q1dQWU9BUllHZXpha0s5Ung2X18yaTdZY0dLTV9pSTRZVFNvcE1CM19PYm10NDYzcWsyQWpvOGxZb0Q5S2Ywa3hxVERjeHBvbU9NLURQNHMtRGFqM2Z2SEE0MHlteGc"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "马斯克财富来源引讨论",
-   "title_zh": "马斯克财富：究竟谁真正致富？",
-   "sentiment": 0
-  },
-  {
-   "id": "e8ba603483d5",
-   "title": "开特斯拉的也有鄙视链，开Y的看不起3的。 ​ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXFfaTZMMFotUGw1clk4WXFROWFJN2Z2dWNCVlFKaTZxUkxCMi04ZE9PVUpJYTVpMzhLUjNlQnJtLXpvalpzQjhXM0I5eW1SemZCZEtjNFBzd0oyMGZJZ0xvV0E2V3dWS1JFSU1semJMdkNxMlB5T0tFRlJ4Si1Reg",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T05:10:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T05:10:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObXFfaTZMMFotUGw1clk4WXFROWFJN2Z2dWNCVlFKaTZxUkxCMi04ZE9PVUpJYTVpMzhLUjNlQnJtLXpvalpzQjhXM0I5eW1SemZCZEtjNFBzd0oyMGZJZ0xvV0E2V3dWS1JFSU1semJMdkNxMlB5T0tFRlJ4Si1Reg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车主内部存在车型鄙视链",
-   "title_zh": "开特斯拉的也有鄙视链，开Y的看不起3的。 ​ - 手机新浪网",
-   "sentiment": 0
   }
  ]
 }
