@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T19:22:35.582881+00:00",
+ "updated_at": "2026-11-02T19:37:29.388669+00:00",
  "market": {
-  "price": 404.89,
-  "change_pct": 1.27,
+  "price": 403.49,
+  "change_pct": 0.92,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,12 +22,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 56% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -1.2%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
     },
     {
      "key": "新闻情绪",
@@ -37,7 +37,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $404.89 vs 20日均线 $382.01"
+     "note": "现价 $403.49 vs 20日均线 $381.94"
     },
     {
      "key": "分析师动向",
@@ -45,16 +45,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 56,
+   "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -1.2,
-   "ma20": 382.01,
-   "as_of": "2026-11-02T19:22:35.573873+00:00"
+   "implied_upside_pct": -0.9,
+   "ma20": 381.94,
+   "as_of": "2026-11-02T19:37:29.380458+00:00"
   },
-  "pe_ttm": 112.0,
+  "pe_ttm": 111.6,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-1.2%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.28,
    "count": 129
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9db1cb6d4400",
+   "title": "TSLA Stock Rises as Tesla Registrations Jump 248% - FinanceFeeds",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTmo1cC1SOF9EMmNHa3BPS3dJbThObS01amgzM2VKZ19jOXEwckNOX2FDNEo0YkQyckU2X1c5ZVFhOGdsbW1rWU5EX3hWb054VmhPYkRrY0FONXd6WWpOSHpPTFM4R3RPYy02TkpjRTdrbXBVaFUyMmVQSWpzTDA",
+   "source": "FinanceFeeds",
+   "published_at": "2026-11-02T19:28:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FinanceFeeds",
+     "published_at": "2026-11-02T19:28:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTmo1cC1SOF9EMmNHa3BPS3dJbThObS01amgzM2VKZ19jOXEwckNOX2FDNEo0YkQyckU2X1c5ZVFhOGdsbW1rWU5EX3hWb054VmhPYkRrY0FONXd6WWpOSHpPTFM4R3RPYy02TkpjRTdrbXBVaFUyMmVQSWpzTDA"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘中"
+  },
+  {
+   "id": "7103116c1272",
+   "title": "Tesla shooting star at $414 signals pullback risk: Live levels - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTFDbVA2end0dmtLYVhSYkxaYUlrY3J3T01YdnZrRGFVRHRLSHF2VXRnSVlqcDVHekpycjZXcFh1bE9nZDk0eGhWMERneERNUVF3aGdCYjV1QnotaGZCaFpBWWxzUUs0b1ZCRDVyd2xnN2p0ai0zSDdGRTcxSTI5OGRVY2Z2aFBTc3Z6SU5RU05ZV3l6bXR1R2NRY2ZVa3c0WldQUlM4dmkyUzdBSE9VRVZRanpoTzJLRmpPTTJpdw",
+   "source": "Investing.com",
+   "published_at": "2026-11-02T19:20:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-11-02T19:20:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTFDbVA2end0dmtLYVhSYkxaYUlrY3J3T01YdnZrRGFVRHRLSHF2VXRnSVlqcDVHekpycjZXcFh1bE9nZDk0eGhWMERneERNUVF3aGdCYjV1QnotaGZCaFpBWWxzUUs0b1ZCRDVyd2xnN2p0ai0zSDdGRTcxSTI5OGRVY2Z2aFBTc3Z6SU5RU05ZV3l6bXR1R2NRY2ZVa3c0WldQUlM4dmkyUzdBSE9VRVZRanpoTzJLRmpPTTJpdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "316bdb0c2bda",
    "title": "Tesla Stock Moves Higher: What's Going On? - Benzinga",
@@ -93,12 +127,17 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHlBbVlQZmJ3Q2N5UlpidXNZS0dvZWdINl9Ea2hLSWg3TmZUOVpOX0d0X19BSk1QV3JtS1kzcmN5d1pPQmZWRXktUkFvLTNzekh0NFNVbjVqcVNxMmpFaExOTV80bkJ5YzNCVHhUYjBGM0FQUTJUNHVOUUd2M2paVXRwdUN0d3AwZ2doTQ",
    "source": "Yahoo Finance",
    "published_at": "2026-11-02T18:52:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-11-02T18:52:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHlBbVlQZmJ3Q2N5UlpidXNZS0dvZWdINl9Ea2hLSWg3TmZUOVpOX0d0X19BSk1QV3JtS1kzcmN5d1pPQmZWRXktUkFvLTNzekh0NFNVbjVqcVNxMmpFaExOTV80bkJ5YzNCVHhUYjBGM0FQUTJUNHVOUUd2M2paVXRwdUN0d3AwZ2doTQ"
+    },
+    {
+     "name": "FreightWaves",
+     "published_at": "2026-11-02T18:52:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFlvMVlVQWU3UDg5eXRsLUJITTAyWGVmRjJ6MGN0blphak1SY0dXa2ZCX3FPTk1MUXpsOTE5S0NLcFZGMjV4cjhDQkxyb1ZTNEtnXzZya0RTRXhXVF9GR1U0TlpXa2pLa3RtLXBvMndKU0trNnZVS0JvcldGRU1Gc0NCRFFReDFqREQtR3hhbkROTUdHY1IxbVNDOA"
     }
    ],
    "category": "其他",
@@ -1384,26 +1423,6 @@
    "sentiment": 1
   },
   {
-   "id": "0c3a7322de93",
-   "title": "1,742 Tesla, Inc. $TSLA Shares Purchased by Pinnacle Financial Group LLC IL - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T13:41:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T13:41:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzlqMWMzcXp4ZGNIc3hmbmtjaFpuSzBBTW9RaUdabi1HNWpJTlltMUtkcWxWWDdTUWNQTmxZSU5tTlpsdk9uVVUxMVJzSmNDU25YemtZU0NnX2tQU2htanVyNzlObnVZMzJHa0lsSDlXWElndTlDVFFxdXVCOVdObzVLTW1aVnlYOXpLbURjNnRWeXBHQ0ZxSGFhaE5TQ1NQQTRtckdjWTJqR0J5RUhZNUNzM2J5STNSYjgyaWRqM09ZVE5PVXRqQUNEelo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Pinnacle增持1742股特斯拉股票",
-   "title_zh": "Pinnacle金融集团增持1742股特斯拉股票",
-   "sentiment": 1
-  },
-  {
    "id": "66751b43e5ba",
    "title": "Tesla, Inc. $TSLA Stake Boosted by Virtue Capital Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlBjbHZUb3Zrd0NRVG16NFBsRm02elJvZXVVWElydVBEQU5OcG1XazgwNk9GS2FOYWZ1MHM5V3hhWjUtbnJEazlOSnJpNk1jY1ozZlNjOXg0N3p1UjdabWV5NlRXRm8wYjBaSmJRZG91bFhWUVpnV3JfdE9Za3FZMC1ZRm1NblhuZmY0NGZyY0tsbnpUT216RmNYNzB6dnJ6YVN4Yl8yQ2h5QnUzQmFVdG9HOUpsenozd0hRb1VXNA",
@@ -1482,26 +1501,6 @@
    "zh_summary": "Model Y L免提驾驶7天实测对比",
    "title_zh": "特斯拉Model Y L免提驾驶：7天实测与宣称对比",
    "sentiment": 0
-  },
-  {
-   "id": "3bed1e27b719",
-   "title": "Tesla, Inc. $TSLA Shares Bought by Sicart Associates LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T13:29:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T13:29:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXdlX2RIN1JodU5mNUtzUTd6YnB3WE4xbHFtN2JIMTluZ3FBOHBfWHNENDJLb2l5Sm1WOVRkSnE4R3E0aGtPeTMycjBmT3l5MmYxaXZ5LWg3blJYVHNPNzZ0S0RQSlU4Q0VTQnVhV2E4WnpjTC01ZTdVRmJFV2Q4ajV6emdKUk9MdG4zaHByaFpRSjJ5aFJ6dkt5Zm1LeUZxQnpaX2drWFVFOFIyNWVzN0pfME8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Sicart增持特斯拉股票",
-   "title_zh": "Sicart Associates增持特斯拉股票",
-   "sentiment": 1
   },
   {
    "id": "d6c199c41444",
