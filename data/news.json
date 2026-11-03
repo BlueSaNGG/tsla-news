@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T06:52:27.275500+00:00",
+ "updated_at": "2026-11-03T07:07:21.518550+00:00",
  "market": {
   "price": 403.82,
   "change_pct": 1.0,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.25（220条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.9,
    "ma20": 381.95,
-   "as_of": "2026-11-03T06:52:27.268943+00:00"
+   "as_of": "2026-11-03T07:07:21.506562+00:00"
   },
   "pe_ttm": 111.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 220
+   "avg": 1.0,
+   "count": 1
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "551ba2a362ee",
+   "title": "【视频】性价比特斯拉Model 3 2022款后轮驱动版 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52WjBvMlFEVUNTbzlnYVhlOVNIM0o2Z0hYSHRfR1dDNkIxU1lla0x4LWR5ZTgzRUtJbjc0WE12ZnZDaHBBckVDVWkwNjVwdHZNbkZjTHI3VFh4b2M",
+   "source": "汽车之家",
+   "published_at": "2026-11-03T06:53:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-03T06:53:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52WjBvMlFEVUNTbzlnYVhlOVNIM0o2Z0hYSHRfR1dDNkIxU1lla0x4LWR5ZTgzRUtJbjc0WE12ZnZDaHBBckVDVWkwNjVwdHZNbkZjTHI3VFh4b2M"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘前"
+  },
+  {
+   "id": "7d7f9bcb0b0c",
+   "title": "特斯拉Robotaxi又下一城：沃斯堡突袭上线 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aX3FTWEZnYUJ6SVJQVEVNTGtyeG5Ra2t2LW03SUk3d2d6VEdDSEZKbXdMODVGMHVLak14NzBvMlo2R1ZuOXduZl9ubG8",
+   "source": "凤凰网科技",
+   "published_at": "2026-11-03T06:48:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-11-03T06:48:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aX3FTWEZnYUJ6SVJQVEVNTGtyeG5Ra2t2LW03SUk3d2d6VEdDSEZKbXdMODVGMHVLak14NzBvMlo2R1ZuOXduZl9ubG8"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "7fdaefb00f1a",
    "title": "特斯拉Robotaxi正式落地美国沃斯堡 - DoNews",
@@ -6554,46 +6588,6 @@
    "session": "周末",
    "zh_summary": "渐冻症患者称Neuralink助其重拾散步",
    "title_zh": "渐冻症患者称Neuralink让他重新与儿子散步",
-   "sentiment": 0
-  },
-  {
-   "id": "c1e44fb3e1db",
-   "title": "特斯拉推出FSD监督版推荐奖励计划，老车主拉新可获免费订阅或积分 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50dnpLbjRlRjkzV3RRdk1idVRBZE1QSU8tOV9vcjRhWG5iR3Q1VFBDeWJlcXNVQ1lXM1d4UjV2VFR4Q0JjSHlvR3QwcjZsTjBMN0FscXZnbVd2b1k",
-   "source": "网通社",
-   "published_at": "2026-11-01T18:10:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-11-01T18:10:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50dnpLbjRlRjkzV3RRdk1idVRBZE1QSU8tOV9vcjRhWG5iR3Q1VFBDeWJlcXNVQ1lXM1d4UjV2VFR4Q0JjSHlvR3QwcjZsTjBMN0FscXZnbVd2b1k"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉推FSD推荐奖励计划",
-   "title_zh": "特斯拉推FSD监督版推荐奖励，老车主拉新获订阅或积分",
-   "sentiment": 1
-  },
-  {
-   "id": "7721718b4d5c",
-   "title": "三十万订金百万售价 特斯拉飞行汽车值不值 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRko1Q0wxNFczYl8zWkpGeHZmc21keDZFRkVGX3d0TTBzWHpGLTJZMFNqSm81V1Nic2Y0bU5hMGlPUDBSeHdEY0xqYUlFR0NfNlF6T0lDd0FZc0RVMkV4MDFOanFqd1lZNXQ2NTM0b3Axd3piaUpxZ1d4Yk9jRWRadA",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T18:04:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T18:04:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRko1Q0wxNFczYl8zWkpGeHZmc21keDZFRkVGX3d0TTBzWHpGLTJZMFNqSm81V1Nic2Y0bU5hMGlPUDBSeHdEY0xqYUlFR0NfNlF6T0lDd0FZc0RVMkV4MDFOanFqd1lZNXQ2NTM0b3Axd3piaUpxZ1d4Yk9jRWRadA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行汽车订金三十万售价百万",
-   "title_zh": "三十万订金百万售价 特斯拉飞行汽车值不值 - 手机新浪网",
    "sentiment": 0
   }
  ]
