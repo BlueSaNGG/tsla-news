@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T15:22:25.464837+00:00",
+ "updated_at": "2026-11-03T15:37:26.277434+00:00",
  "market": {
-  "price": 401.56,
-  "change_pct": -0.56,
+  "price": 401.92,
+  "change_pct": -0.47,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（62条已评分）"
+     "note": "今日新闻情绪 +0.05（65条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.56 vs 20日均线 $382.99"
+     "note": "现价 $401.92 vs 20日均线 $383.01"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.4,
-   "ma20": 382.99,
-   "as_of": "2026-11-03T15:22:25.449099+00:00"
+   "implied_upside_pct": -0.5,
+   "ma20": 383.01,
+   "as_of": "2026-11-03T15:37:26.271422+00:00"
   },
-  "pe_ttm": 111.1,
+  "pe_ttm": 111.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.05,
-   "count": 62
+   "count": 65
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "702410bb2e7b",
+   "title": "Tesla Receives Approval for Assisted Driving Changes in Europe Ahead of Wider Rollout - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1N5MXpuSy0xSEVfZmZHelJ4MERFRlJlMEM1dUFZTnRrYS03a213LXJscFU5cjhrZWZpWmhpbmFfZFNhUjMyb2JXeG9sOXNTSWZ0MXZfVG1vMHFLQlkyOU41X3ZQbVJJUzdtSVIzV2N3WWxJZERRUmdTdEFYQWFrWFNFUXQ5ek5FOF9Deg",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-11-03T15:26:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-03T15:26:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1N5MXpuSy0xSEVfZmZHelJ4MERFRlJlMEM1dUFZTnRrYS03a213LXJscFU5cjhrZWZpWmhpbmFfZFNhUjMyb2JXeG9sOXNTSWZ0MXZfVG1vMHFLQlkyOU41X3ZQbVJJUzdtSVIzV2N3WWxJZERRUmdTdEFYQWFrWFNFUXQ5ek5FOF9Deg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "1eb702cd887f",
+   "title": "Tesla in self-driving mode loses control, crashes in L.A. County: deputies - KTLA",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWR5eWtfdVNJZUtRU0JlMXRqaFR0Vy1wQVF4dl82WDRPaFVnVFZONkg2QWZScjVaQmxTSjB4MkZxRGxoS3ljS0FVMk1nV3Jia1daX3kyNmpNbzd6dFRTaVBfRDlHWE5BT2dDNzY0VU1RTjZyM3dNd0lkV1NoNS15SXIxcGx6Z0s5QWdGODU5MUQxY1h0TUdYZEFaX2UtTVUtY3l6aTY0ZknSAa4BQVVfeXFMT3ZiSWJ5Rm1CMUhKQnZYY0lZa0p1OUZfQkNocFB0MU5oRlR0X2VyWXlKSlpacVo2WmlrMEI0X3VEb21pV05FQkRUY0owZmlwazQ2eWxCSDdRbGZSYks0YTFXc1AyMzk3eHpVX1ZvZ2lZWHZqb3p6SEx6ZTVlM2FGellzSV9LX2ZFQjBNaWFVVDExd0ROcG1iMU1JNVZYeEJLR1VQU3dmTVRGQm9pY0d3",
+   "source": "KTLA",
+   "published_at": "2026-11-03T15:15:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KTLA",
+     "published_at": "2026-11-03T15:15:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWR5eWtfdVNJZUtRU0JlMXRqaFR0Vy1wQVF4dl82WDRPaFVnVFZONkg2QWZScjVaQmxTSjB4MkZxRGxoS3ljS0FVMk1nV3Jia1daX3kyNmpNbzd6dFRTaVBfRDlHWE5BT2dDNzY0VU1RTjZyM3dNd0lkV1NoNS15SXIxcGx6Z0s5QWdGODU5MUQxY1h0TUdYZEFaX2UtTVUtY3l6aTY0ZknSAa4BQVVfeXFMT3ZiSWJ5Rm1CMUhKQnZYY0lZa0p1OUZfQkNocFB0MU5oRlR0X2VyWXlKSlpacVo2WmlrMEI0X3VEb21pV05FQkRUY0owZmlwazQ2eWxCSDdRbGZSYks0YTFXc1AyMzk3eHpVX1ZvZ2lZWHZqb3p6SEx6ZTVlM2FGellzSV9LX2ZFQjBNaWFVVDExd0ROcG1iMU1JNVZYeEJLR1VQU3dmTVRGQm9pY0d3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "894ecebd6600",
    "title": "$特斯拉 (TSLA.US)$ 小心点，现在的波动都没啥意义，就是想杀期权 - Moomoo",
@@ -126,6 +160,23 @@
    "zh_summary": "TSLA限价触碰单触发",
    "title_zh": "TSLA限价触碰单",
    "sentiment": 0
+  },
+  {
+   "id": "d327eb7d3192",
+   "title": "特斯拉“起飞”引爆全网，武汉干了一件更难的事 - 极目新闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU1ZWlg3cjZTMnloUVpsWTN3dnE5X3Vodzd0bEFPTkdHM2NoNXVkaFcwUC1ueGUtM1NDWl9iS1M1Q0xpMlk2QWZEeWY4LU5LMUNCMzIxbDYyT0E",
+   "source": "极目新闻",
+   "published_at": "2026-11-03T14:42:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "极目新闻",
+     "published_at": "2026-11-03T14:42:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU1ZWlg3cjZTMnloUVpsWTN3dnE5X3Vodzd0bEFPTkdHM2NoNXVkaFcwUC1ueGUtM1NDWl9iS1M1Q0xpMlk2QWZEeWY4LU5LMUNCMzIxbDYyT0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "122ff2781d46",
@@ -582,6 +633,23 @@
    "sentiment": 0
   },
   {
+   "id": "e9c6485d7945",
+   "title": "(TSLA) Investment Analysis (TSLA:CA) - Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEJxVG1kWGRNckh5ZWpWcU9uTmxSVXBtZmR0VFMzRDdMR24yN2hDOU11dHRuejB5ZmZVbXlqZWhYR1Zqa25KdE5xLXRNZ1FLY0M1MGt1YnVZUlJmMWw0SXNTeW5CWXNDYXp2NzlsMHdhUnNrMjBHNElEZXhDWUZ3OHJoZzBEQXMxLWc",
+   "source": "Stock Traders Daily",
+   "published_at": "2026-11-03T11:51:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stock Traders Daily",
+     "published_at": "2026-11-03T11:51:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEJxVG1kWGRNckh5ZWpWcU9uTmxSVXBtZmR0VFMzRDdMR24yN2hDOU11dHRuejB5ZmZVbXlqZWhYR1Zqa25KdE5xLXRNZ1FLY0M1MGt1YnVZUlJmMWw0SXNTeW5CWXNDYXp2NzlsMHdhUnNrMjBHNElEZXhDWUZ3OHJoZzBEQXMxLWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "97f0c0de2407",
    "title": "【视频】理想i8VS特斯拉Model YL，6座纯电SUV谁更强？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mU1VVMlNfajhHakc0RUNuMmRRMlRPa0YxVDQ2ZGtKdUI0WTAwY0pXR0lkdHUwR2pmdG13dmd1RmEwWG1FWll1TnRaRzlCaUdLdVFTSGZhclBORFU",
@@ -761,7 +829,7 @@
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDUxVnY3bkNaOXk3dW5DTldjTnUycDlXMHJWZncta3NwVDBVMk9EeE1zREFaUkpqcTVXR18tSFJCbkVqckdBRkYweGJCUDREN1UtWDVGdXNVb1F2SElOWktDUlVyazlaUFBsb2FRMTAzR1VENThtbF9qTEEwYUswSjZQTnJHWHBLQUpsY21SX24zejI2a2RGUjd4UWQ4M2RXU192OExISnVRM0l2YkZKSWJDbVVwelpnNDREaUtudGVPWDdhbkNQM3ZBaHI5WDdFRDdpOWNNVm5GdTJSM2ZxMUtn",
    "source": "TradingView",
    "published_at": "2026-11-03T11:00:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "TradingView",
@@ -777,10 +845,16 @@
      "name": "Reuters",
      "published_at": "2026-11-03T11:14:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenlkU0tVOVBzcm1oVTFKMjNPUVlJY25RNjBfUXo5OGFPeWg2S01zM0lTa3ZXa216UjhPTVlXdzU1RXU4aWtJVnZ4cmJQX19xV1M1NG5HbWFLYm9ReUp0VUFBMThuS1JHMzJRZGxLZnNmNVlCb0lOQ2tfamowMU9TRnRLZ2l1X1I0Qkk5YWotZ1pIeXVyNHp0MEZ3V2h4ZVpmX2lXMlRqbHlTaU1VQUd1N1NKa3lNa25hdXZuSlBTNUZLVDJfUU1CTE1n"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "published_at": "2026-11-03T11:07:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdmgtRHlEWU1GSXJ2YjhhSnQ2TldHSVdNM0dIUVZGcUtwbVZTN0l3OC00dVM1WjR0YjYyRzJ4bVA3VXRnR1doU0oyLXBrenkwTkhYV0dEdkE2R2JSVWdBbDBuN2lhTWpLUi1oOTB3eXh6ajRFRXg4RmNGWDVocGZiN1cybVJfVWtjUEE0R1dZWkdUb0JEUlkwWTVjdlZNZFltanZYbFY5YW9mM3l1OUtkWDc0M2c0ZzVkeXV1Yk15V2xITHlRcEJ2S1JyVXhKcWozcjJIakxjZHM3XzhicHc1UEhLV21neDJkU3NEbmJuaXJ5OE52RDRyUElVS0Y5YjBUYm05SFRUY2xuZw"
     }
    ],
    "category": "马斯克",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "合并后马斯克获投票控制权无万亿薪酬",
    "title_zh": "合并下马斯克获投票控制权，但无$1万亿薪酬",
    "sentiment": 0,
@@ -1909,31 +1983,6 @@
    "sentiment": 1
   },
   {
-   "id": "75b7c00e8501",
-   "title": "发行价16.98元，盘中冲至66元！这家苹果、特斯拉、宁德时代背后的材料商上市首日大涨 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vMWVkRDNlUVl2b2pISnB4c1AydWthTnMySVliWkxSTThTTEVCaXlWUGRNOUJWSUx3anFHSlZyNE5lejhLUDMzcWZJX2t3OG90eFFKY1hjaW5XcjhpVnEwSUxiOWFiZw",
-   "source": "东方财富",
-   "published_at": "2026-11-03T03:24:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-11-03T03:24:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vMWVkRDNlUVl2b2pISnB4c1AydWthTnMySVliWkxSTThTTEVCaXlWUGRNOUJWSUx3anFHSlZyNE5lejhLUDMzcWZJX2t3OG90eFFKY1hjaW5XcjhpVnEwSUxiOWFiZw"
-    },
-    {
-     "name": "中金在线",
-     "published_at": "2026-11-03T06:13:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OUjhIZF9pRUpIQWg0aWVjTjNkSFphOUNPYTFfNGJ2NXdNeGlvTnNQSzhzUGQtR3FWSjhxaGVaUm9hb0w5LUc5d1hXeGptOUxGbTFGbkN3NHR3OVhDajk1cUVvZHVGTnk5TUJKb0lR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "材料商上市首日盘中冲至66元",
-   "title_zh": "特斯拉等背后的材料商上市首日大涨",
-   "sentiment": 0
-  },
-  {
    "id": "e9b5307477de",
    "title": "暴涨超500%！华为、特斯拉小伙伴，两次“熔断” - 凤凰网",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11REpYWGtPV3NlRy1Id2RWQjJRbUh4THZWUmhPZzJna2NrWGNWVVBad3BhcmlfVjZIa0NSTTZkZHREZDJzRlgyOWE4ekQzR1Vx",
@@ -2240,6 +2289,31 @@
    "session": "盘后",
    "zh_summary": "特斯拉Roadster腾空表演仍属特技演示",
    "title_zh": "特斯拉Roadster腾空表演，飞行汽车仍属特技演示 - 手机新浪网",
+   "sentiment": 0
+  },
+  {
+   "id": "75b7c00e8501",
+   "title": "发行价16.98元，盘中冲至66元！这家苹果、特斯拉、宁德时代背后的材料商上市首日大涨 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vMWVkRDNlUVl2b2pISnB4c1AydWthTnMySVliWkxSTThTTEVCaXlWUGRNOUJWSUx3anFHSlZyNE5lejhLUDMzcWZJX2t3OG90eFFKY1hjaW5XcjhpVnEwSUxiOWFiZw",
+   "source": "东方财富",
+   "published_at": "2026-11-03T00:29:43+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-11-03T00:29:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vMWVkRDNlUVl2b2pISnB4c1AydWthTnMySVliWkxSTThTTEVCaXlWUGRNOUJWSUx3anFHSlZyNE5lejhLUDMzcWZJX2t3OG90eFFKY1hjaW5XcjhpVnEwSUxiOWFiZw"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-11-03T06:13:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OUjhIZF9pRUpIQWg0aWVjTjNkSFphOUNPYTFfNGJ2NXdNeGlvTnNQSzhzUGQtR3FWSjhxaGVaUm9hb0w5LUc5d1hXeGptOUxGbTFGbkN3NHR3OVhDajk1cUVvZHVGTnk5TUJKb0lR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "材料商上市首日盘中冲至66元",
+   "title_zh": "特斯拉等背后的材料商上市首日大涨",
    "sentiment": 0
   },
   {
@@ -6499,86 +6573,6 @@
    "zh_summary": "特斯拉三季度销量微跌净利润跌43%",
    "title_zh": "特斯拉Q3销量微跌，净利润却跌43%，研发费用涨69% - 搜狐网",
    "sentiment": -1
-  },
-  {
-   "id": "5d08f2916213",
-   "title": "【视频】特斯拉FSD不会撞吗？超1500次严重碰撞却比人类驾驶安全？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1idE9nNDlXR2tYZk1MWExKQ0NoSVdyc2dWRVBmNGxjdEN6SUFfcUp4U0sxdllwNnhvMEJMbjFkbGRqMnExeklEZDdVdlN2UjdZM3VBQ29RZmtjSG8",
-   "source": "汽车之家",
-   "published_at": "2026-11-02T05:46:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-02T05:46:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1idE9nNDlXR2tYZk1MWExKQ0NoSVdyc2dWRVBmNGxjdEN6SUFfcUp4U0sxdllwNnhvMEJMbjFkbGRqMnExeklEZDdVdlN2UjdZM3VBQ29RZmtjSG8"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉FSD超1500次严重碰撞仍比人类安全",
-   "title_zh": "【视频】特斯拉FSD不会撞吗？超1500次严重碰撞却比人类驾驶安全？",
-   "sentiment": 0
-  },
-  {
-   "id": "8f0ee2f7e777",
-   "title": "Tesla owners who tap Emergency Drive Away for fun are in for a surprise - Teslarati",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uckdCSDhJS3ZDaDFaajdwbjdBY0dHNm1tYW9NWXEyVmpqcjZVV09aOERRRS1FTTh1bUhUUkhwek5WZWhqS3F5dEM3eHF2RENON3NtWmFwQ2VBMi12aU44VjVIcXl1QkZNZjFxZWlCd2VyZGhy",
-   "source": "Teslarati",
-   "published_at": "2026-11-02T05:37:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Teslarati",
-     "published_at": "2026-11-02T05:37:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uckdCSDhJS3ZDaDFaajdwbjdBY0dHNm1tYW9NWXEyVmpqcjZVV09aOERRRS1FTTh1bUhUUkhwek5WZWhqS3F5dEM3eHF2RENON3NtWmFwQ2VBMi12aU44VjVIcXl1QkZNZjFxZWlCd2VyZGhy"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉车主误触紧急驶离功能将有意外",
-   "title_zh": "误触紧急驶离功能的特斯拉车主将有意外",
-   "sentiment": 0
-  },
-  {
-   "id": "83ad7dc28b70",
-   "title": "Gary Black Says Tesla Is Losing EV Share to ‘No-Name’ Rivals Despite ‘Huge First-Mover Advantage’—Warns T - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPREFvVVdiNm1DZjV2QXJPSG5qaGc0OEpja3R4alJIaHNjd0pNUm9kSnc2cHloMnBfMEpvSlJ1RTlBcXJMQ2E4NTlXZzNxTWtYNzR0NkFMc2haWnVoU0NzTW8zcXd6UnNTVWFwbFFMa0h0V3FRZ2ZLaHFBZGFYazRDQl9qVDlHbjM3SWNkcGF4LS1mbHM0Q3gxbzNWZVRjUmRPbkZ4T2tFdTFSZGx5Mm1XaEVBOFQ2X2lZTjBkX1hqN3NCdXp4UWJRMGtYaVZhMUJaZXczUXlCdEx2cG9FSTNtZThDVG9VbGNMZWVXZmNkbS1EVnlOTF9HTm95UkxfNDN0OFJOdXRJRkk5d1k3",
-   "source": "Benzinga",
-   "published_at": "2026-11-02T05:35:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-11-02T05:35:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPREFvVVdiNm1DZjV2QXJPSG5qaGc0OEpja3R4alJIaHNjd0pNUm9kSnc2cHloMnBfMEpvSlJ1RTlBcXJMQ2E4NTlXZzNxTWtYNzR0NkFMc2haWnVoU0NzTW8zcXd6UnNTVWFwbFFMa0h0V3FRZ2ZLaHFBZGFYazRDQl9qVDlHbjM3SWNkcGF4LS1mbHM0Q3gxbzNWZVRjUmRPbkZ4T2tFdTFSZGx5Mm1XaEVBOFQ2X2lZTjBkX1hqN3NCdXp4UWJRMGtYaVZhMUJaZXczUXlCdEx2cG9FSTNtZThDVG9VbGNMZWVXZmNkbS1EVnlOTF9HTm95UkxfNDN0OFJOdXRJRkk5d1k3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "分析师称特斯拉正输给无名对手",
-   "title_zh": "Gary Black称特斯拉正输给无名竞争对手",
-   "sentiment": -1
-  },
-  {
-   "id": "def82206e7b0",
-   "title": "特斯拉飞行汽车源自SpaceX冷气推进系统 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96YmJ4MDBibTl0blQ3MURfQXowYkhzYTRuLUxzaDFkN3FyLUJJM1NOODR6TFVWaFEtWHh2MS1zbFoyOEMxeERZT1c1c0FoZGliakdRNTFIaTd1SlZCdV9kQ2tReEJzN2k0M1dEc0I0bXFzNUE",
-   "source": "手机新浪网",
-   "published_at": "2026-11-02T05:32:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-02T05:32:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96YmJ4MDBibTl0blQ3MURfQXowYkhzYTRuLUxzaDFkN3FyLUJJM1NOODR6TFVWaFEtWHh2MS1zbFoyOEMxeERZT1c1c0FoZGliakdRNTFIaTd1SlZCdV9kQ2tReEJzN2k0M1dEc0I0bXFzNUE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉飞行汽车源自SpaceX冷气推进",
-   "title_zh": "特斯拉飞行汽车源自SpaceX冷气推进系统",
-   "sentiment": 0
   }
  ]
 }
