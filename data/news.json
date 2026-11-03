@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T07:07:21.518550+00:00",
+ "updated_at": "2026-11-03T07:22:24.590756+00:00",
  "market": {
   "price": 403.82,
   "change_pct": 1.0,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（1条已评分）"
+     "note": "今日新闻情绪 +0.67（3条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.9,
    "ma20": 381.95,
-   "as_of": "2026-11-03T07:07:21.506562+00:00"
+   "as_of": "2026-11-03T07:22:24.580689+00:00"
   },
   "pe_ttm": 111.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 1
+   "avg": 0.67,
+   "count": 3
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "56690895405f",
+   "title": "A short downtown trip becomes a 43-minute detour in Tesla's Robotaxi app, former employee reports - The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlQ4TTFUSVZCSy1hNk9NeUxuR0hWVGVwdnBOTUppSE9IdkoxdlBTaW5kcGF3WU9QTGRpSnhiM2lmX2g3NlVxOEJIRWZUV1NvMm5FNlEyRjRLYUR5SXlLdndpRXJjR21QVllFTVUzQUFHT3g5UGw2c3RMTEd1Mjk1RFFhX1Nrb25uZFZv",
+   "source": "The Cool Down",
+   "published_at": "2026-11-03T07:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Cool Down",
+     "published_at": "2026-11-03T07:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlQ4TTFUSVZCSy1hNk9NeUxuR0hWVGVwdnBOTUppSE9IdkoxdlBTaW5kcGF3WU9QTGRpSnhiM2lmX2g3NlVxOEJIRWZUV1NvMm5FNlEyRjRLYUR5SXlLdndpRXJjR21QVllFTVUzQUFHT3g5UGw2c3RMTEd1Mjk1RFFhX1Nrb25uZFZv"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前"
+  },
   {
    "id": "551ba2a362ee",
    "title": "【视频】性价比特斯拉Model 3 2022款后轮驱动版 - 汽车之家",
@@ -593,7 +610,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1TGwzMHNEZkRuTk9oVDRWeUJQRkJ1cWNnZ2FoQnU2UDNjdGpIU3ZjU1hTT3lOOWJ5TXRwVGxtYXNCSWJPRDY3cUhwYTk3Q0I0bmJwcVZ4TE82ZERka3JtNQ",
    "source": "证券之星",
    "published_at": "2026-11-03T02:58:36+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "证券之星",
@@ -604,6 +621,11 @@
      "name": "中金在线",
      "published_at": "2026-11-03T03:15:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ia1B1ZWtueDRXdXhmVXowXzBZUEhCXzNXeWZZY0wyTTVFRkFvNjdLQVNfNEJ2enQ4RHU5WjJuYk5KckRJOXB6MkdHZ2xhaUpMbFJNaVBrV3piR3NmV1FsSXZKNi1fTmFKQktUSA"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-03T06:02:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ENG9IRy1UOGJRUHRmOWZaZWp2bS1NaE1LUmFrNGNPSWJ2N3o2MVRfMnY3RkprV1FoTkJmaWNrdGlxMVdiVjhvNFJ0aXVqQUZOb0ZCRDFtczJqSm1RbWFvNFJR"
     }
    ],
    "category": "其他",
@@ -6574,26 +6596,6 @@
    "session": "周末",
    "zh_summary": "马斯克权衡特斯拉与SpaceX合并",
    "title_zh": "马斯克为何考虑特斯拉与SpaceX合并及其对投资者影响",
-   "sentiment": 0
-  },
-  {
-   "id": "f3c4a6b03bb3",
-   "title": "ALS Patient Says Neuralink Put Him Back on Walks With His Son - TeslaNorth.com",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10eW1Wb1FXYTN0WlF1LXV2a1lyWUJhLWR4NTdTWEZXZVZMcWVrVVlwX1hMSEJ2QmNQY2kwQVNqaDJCbzNVOFd2X2J5c2pRdjFxem5Yc21lRjlIdnQtRC1QZXJlWDhJeVE4V1kwdGR3ZERNbGNfWGdFUg",
-   "source": "TeslaNorth.com",
-   "published_at": "2026-11-01T18:21:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TeslaNorth.com",
-     "published_at": "2026-11-01T18:21:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10eW1Wb1FXYTN0WlF1LXV2a1lyWUJhLWR4NTdTWEZXZVZMcWVrVVlwX1hMSEJ2QmNQY2kwQVNqaDJCbzNVOFd2X2J5c2pRdjFxem5Yc21lRjlIdnQtRC1QZXJlWDhJeVE4V1kwdGR3ZERNbGNfWGdFUg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "渐冻症患者称Neuralink助其重拾散步",
-   "title_zh": "渐冻症患者称Neuralink让他重新与儿子散步",
    "sentiment": 0
   }
  ]
