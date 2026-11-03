@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T19:37:29.282995+00:00",
+ "updated_at": "2026-11-03T19:52:25.857138+00:00",
  "market": {
-  "price": 398.91,
-  "change_pct": -1.22,
+  "price": 398.02,
+  "change_pct": -1.44,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.3%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（79条已评分）"
+     "note": "今日新闻情绪 +0.01（103条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $398.91 vs 20日均线 $382.86"
+     "note": "现价 $398.02 vs 20日均线 $382.82"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.3,
-   "ma20": 382.86,
-   "as_of": "2026-11-03T19:37:29.274406+00:00"
+   "implied_upside_pct": 0.5,
+   "ma20": 382.82,
+   "as_of": "2026-11-03T19:52:25.850704+00:00"
   },
-  "pe_ttm": 110.3,
+  "pe_ttm": 110.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.3%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 79
+   "avg": 0.01,
+   "count": 103
   }
  },
  "meta": {
@@ -67,6 +67,86 @@
   }
  },
  "stories": [
+  {
+   "id": "17a38c60d5cb",
+   "title": "Driverless Tesla Robotaxis are now cruising on Fort Worth streets - CultureMap Fort Worth",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmZmV21hRVVVMnozSUpfNGZoMXhBSTgtaFF5cWJPcC1GQk9jRzFNUmw3UWZyYnE5aTZTbkc2TWNyWG15NFFxbmF1MkprMXFJNkVDQWVZQTdSX3QtR3ZHQlRZVzhnTmhIUDdLWHlFTUNmeEc1Z0dLaFh6WVQ4cDYzWnBfUlNzOXl5d3c",
+   "source": "CultureMap Fort Worth",
+   "published_at": "2026-11-03T19:49:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CultureMap Fort Worth",
+     "published_at": "2026-11-03T19:49:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmZmV21hRVVVMnozSUpfNGZoMXhBSTgtaFF5cWJPcC1GQk9jRzFNUmw3UWZyYnE5aTZTbkc2TWNyWG15NFFxbmF1MkprMXFJNkVDQWVZQTdSX3QtR3ZHQlRZVzhnTmhIUDdLWHlFTUNmeEc1Z0dLaFh6WVQ4cDYzWnBfUlNzOXl5d3c"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "特斯拉无人出租车在沃思堡上路",
+   "title_zh": "特斯拉无人驾驶出租车现已在沃思堡街头行驶",
+   "sentiment": 1
+  },
+  {
+   "id": "2ec5c1be8c15",
+   "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0lidWItaVliVUJkaGI1aVNqX3ViOWFGWEN5VGVnMl9vX251NW9FSGhkb1VJNXVfbHF1MzNQTk13c2lZVDFidFkzWG83cXZJX01pbzJkbGpLR19DanMzS3poMFI3bEREZmlyQzhaQy1MVDN5QUlVRHBLYU14XzVReVU4NTRhRXRJS0RyMGVyczhQUQ",
+   "source": "Teslarati",
+   "published_at": "2026-11-03T19:48:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-11-03T19:48:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0lidWItaVliVUJkaGI1aVNqX3ViOWFGWEN5VGVnMl9vX251NW9FSGhkb1VJNXVfbHF1MzNQTk13c2lZVDFidFkzWG83cXZJX01pbzJkbGpLR19DanMzS3poMFI3bEREZmlyQzhaQy1MVDN5QUlVRHBLYU14XzVReVU4NTRhRXRJS0RyMGVyczhQUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中",
+   "zh_summary": "特斯拉FSD在欧洲面临调整",
+   "title_zh": "特斯拉完全自动驾驶在欧洲遭遇一些调整",
+   "sentiment": -1
+  },
+  {
+   "id": "713a1c0d5cb6",
+   "title": "Tesla Model Y Crash in Mexico City: 5 Facts [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaloyRkpxWG1wUWxIQk1CVi01bTdQZ1B5RHEzUWpkUUtUSjhVZ2F6OU91SzI3amt6eDJFWFpILWFGR3hrM0t0cVlEV2NUa0xIVTdLQ3pNZlRfaHJMLS1YN01lZ1pCY0ZMamVCRU5aRnpXMHRlTW1MazVma1k5TFpGU0liMHVwYjNhbnc",
+   "source": "shattered.io",
+   "published_at": "2026-11-03T19:40:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-11-03T19:40:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaloyRkpxWG1wUWxIQk1CVi01bTdQZ1B5RHEzUWpkUUtUSjhVZ2F6OU91SzI3amt6eDJFWFpILWFGR3hrM0t0cVlEV2NUa0xIVTdLQ3pNZlRfaHJMLS1YN01lZ1pCY0ZMamVCRU5aRnpXMHRlTW1MazVma1k5TFpGU0liMHVwYjNhbnc"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "特斯拉Model Y在墨西哥城发生事故",
+   "title_zh": "墨西哥城特斯拉Model Y事故：5个事实",
+   "sentiment": -1
+  },
+  {
+   "id": "7fd88bcecd75",
+   "title": "Tesla shows off Roadster ‘kickflip’ over vehicle lineup in crazy new POV video - Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwT2Y5b0JXOE5kVWJrMTVfa09GLVBkZ1FDb2FGUW4ydkYta3JDb0wxX09vN0ZydDBTQVZ0ZFFHa1lyQlZzVWEzR1FpWWk1SWJia1pRLXM0akFjZmdJZ29jclZja0dnVWFvQk1FdXBydEZuTEZsaXp5aWVfYTNzNFU",
+   "source": "Teslarati",
+   "published_at": "2026-11-03T19:25:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Teslarati",
+     "published_at": "2026-11-03T19:25:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwT2Y5b0JXOE5kVWJrMTVfa09GLVBkZ1FDb2FGUW4ydkYta3JDb0wxX09vN0ZydDBTQVZ0ZFFHa1lyQlZzVWEzR1FpWWk1SWJia1pRLXM0akFjZmdJZ29jclZja0dnVWFvQk1FdXBydEZuTEZsaXp5aWVfYTNzNFU"
+    }
+   ],
+   "category": "车型产品",
+   "session": "盘中",
+   "zh_summary": "特斯拉发布Roadster飞跃车队新视频",
+   "title_zh": "特斯拉发布Roadster飞跃车队的新视角视频",
+   "sentiment": 0
+  },
   {
    "id": "cc1448477029",
    "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe - Not a Tesla App",
@@ -165,6 +245,26 @@
    "session": "盘中",
    "zh_summary": "特斯拉与SpaceX合并或让马斯克获56%投票权",
    "title_zh": "特斯拉与SpaceX合并或使马斯克获得56%投票权",
+   "sentiment": 0
+  },
+  {
+   "id": "c6120c533f74",
+   "title": "Tesla, Amazon and Netflix Reject OKX-ICE Tokenized Stock Plans as 56 Companies Push Back - Coinpedia",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FuUmdMSkJ5U2VWalU1MnVBTjM2OG4wWUxPQzdsdV85ekplYWZPN1B2NVdtVTZtS2RoU3p6RmxzYWlDeERfUFUxelR0bWFuSTdzR3ViRXBOYnlBR1dUVXN3MGpUVnM5VU1lSXoyaTdvNmoxM0xwSW85Z3VjdVE5YmRSb3dvdlRfWEFpTmhFbG5uR0dhc3UyYnlYYlhMblFIdzhvSUNXQ080YWxGQzBscFJ1UVREVjJyWDNsR1NtbDFyQdIBuwFBVV95cUxPWDBYS3dnYS1hdkxsVzhnY1BuLWZ0RmlXNGJYd0NlWHhVVDN0b0QzbkNiaU1HemxHNEtyUjJRZk5NUWNPNGt2T0NEejNYOTV3LXdNREpTa19FQ0RickFFS21ybUtIdFlVWXk4bFVXUGp4R2xwYVpZYnpjaHVRaWNtUWJCTWJvZXc4WXpKblpfajlWTnRMV3JzU0NsRHJ5MDNFYnhieEwzYkVLaFQwX3ZJWWVzY3RCZ1ZYQi1v",
+   "source": "Coinpedia",
+   "published_at": "2026-11-03T18:53:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Coinpedia",
+     "published_at": "2026-11-03T18:53:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FuUmdMSkJ5U2VWalU1MnVBTjM2OG4wWUxPQzdsdV85ekplYWZPN1B2NVdtVTZtS2RoU3p6RmxzYWlDeERfUFUxelR0bWFuSTdzR3ViRXBOYnlBR1dUVXN3MGpUVnM5VU1lSXoyaTdvNmoxM0xwSW85Z3VjdVE5YmRSb3dvdlRfWEFpTmhFbG5uR0dhc3UyYnlYYlhMblFIdzhvSUNXQ080YWxGQzBscFJ1UVREVjJyWDNsR1NtbDFyQdIBuwFBVV95cUxPWDBYS3dnYS1hdkxsVzhnY1BuLWZ0RmlXNGJYd0NlWHhVVDN0b0QzbkNiaU1HemxHNEtyUjJRZk5NUWNPNGt2T0NEejNYOTV3LXdNREpTa19FQ0RickFFS21ybUtIdFlVWXk4bFVXUGp4R2xwYVpZYnpjaHVRaWNtUWJCTWJvZXc4WXpKblpfajlWTnRMV3JzU0NsRHJ5MDNFYnhieEwzYkVLaFQwX3ZJWWVzY3RCZ1ZYQi1v"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉等拒绝OKX-ICE代币化股票计划",
+   "title_zh": "特斯拉、亚马逊和奈飞拒绝OKX-ICE代币化股票计划",
    "sentiment": 0
   },
   {
@@ -313,17 +413,42 @@
    "sentiment": -1
   },
   {
+   "id": "8601a24b6d0f",
+   "title": "Tesla: Current and upcoming models, prices, specs, and more - Electrek",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg",
+   "source": "Electrek",
+   "published_at": "2026-11-03T17:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electrek",
+     "published_at": "2026-11-03T17:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IaWtMS3AxdnhqLXNOTXJmaGRJdmdnMVUwV0lsMmJJbGZ1TlFNX0pMV0VfTkZpMXFwOFZnT2E2UWhrM0dhVFlEUg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "特斯拉现售及未来车型价格配置汇总",
+   "title_zh": "特斯拉现有及未来车型、价格、配置等一览",
+   "sentiment": 0
+  },
+  {
    "id": "b7403aa8f341",
    "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue - Decrypt",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGFrcG9iTzdubmVDS1E5ZnBlanlWVzlHR1JFcGZ1cHpveEZ5Ykc5OTVLbVVsdnVPY2I5N1RRSHNMYjhxeThXd2VTSGxLYlNXU184ZzVFMWhURGlFOVAtbVM2cHJWUmZjeF9zZjhvZEFGbFdXNEQzMVZHblQ4QVZJUGlEc0M",
    "source": "Decrypt",
    "published_at": "2026-11-03T17:46:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Decrypt",
      "published_at": "2026-11-03T17:46:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGFrcG9iTzdubmVDS1E5ZnBlanlWVzlHR1JFcGZ1cHpveEZ5Ykc5OTVLbVVsdnVPY2I5N1RRSHNMYjhxeThXd2VTSGxLYlNXU184ZzVFMWhURGlFOVAtbVM2cHJWUmZjeF9zZjhvZEFGbFdXNEQzMVZHblQ4QVZJUGlEc0M"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-03T17:46:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkdfc1hYVVREcUhwQ1JMcV96UVRkUVJ0T0lmeFgzVGpFaDlwc0RENnlHMGd5YkZqdTRueEdCZVhRaDZHRzZkZkNkQV83VHZfaUtMTmRKTlBZZnJ6NzNfejMyYkpvQkJPS3hPYnp2OWtWQWYzSWJFSUwzMnVOUlJGU2NfN1dPeEFGN0VlSnA3VGZaZURQUXFkcA"
     }
    ],
    "category": "马斯克",
@@ -1006,6 +1131,26 @@
    "zh_summary": "TSLA守住$400，关注$415阻力",
    "title_zh": "TSLA守住$400，交易员关注$415阻力",
    "sentiment": 0
+  },
+  {
+   "id": "09984cd9a6db",
+   "title": "【视频】比亚迪20万以上车型销量，远超BBA特斯拉鸿蒙五界，断档领先 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5d1U2R211YmE3Ukx0ZS1neFI0OTlYXzFiTkJ0eGs3VWhtb0g4cm1zNUM3TmhPZDQwS0puc01HZFBtNXBCUlNJMTVGOEY3MWtSMkVMRDMtVmZiWk0",
+   "source": "汽车之家",
+   "published_at": "2026-11-03T13:49:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-03T13:49:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5d1U2R211YmE3Ukx0ZS1neFI0OTlYXzFiTkJ0eGs3VWhtb0g4cm1zNUM3TmhPZDQwS0puc01HZFBtNXBCUlNJMTVGOEY3MWtSMkVMRDMtVmZiWk0"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前",
+   "zh_summary": "比亚迪20万以上车型销量远超BBA特斯拉",
+   "title_zh": "【视频】比亚迪20万以上车型销量，远超BBA特斯拉鸿蒙五界，断档领先",
+   "sentiment": -1
   },
   {
    "id": "663d49e83f52",
@@ -3130,6 +3275,26 @@
    "zh_summary": "特斯拉德州超级工厂获自贸区批准",
    "title_zh": "特斯拉德州超级工厂获外国贸易区批准",
    "sentiment": 1
+  },
+  {
+   "id": "e5d4b6c6010f",
+   "title": "一年调9次购车政策，“老实人”才买特斯拉 - 中金在线",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TTU5rZjZJcEZ0c3ZROEVsd3F6My13c1l3UG1UMm1WaUxjdG1aZENCTTRmNFR0dUtOUDJqaDBmR0NMaVllSG1GdzBqNGtWd1dHRnItV0Y5M09yZm52OTZNVFAxLWdkVjJtWlBn",
+   "source": "中金在线",
+   "published_at": "2026-11-03T00:05:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中金在线",
+     "published_at": "2026-11-03T00:05:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TTU5rZjZJcEZ0c3ZROEVsd3F6My13c1l3UG1UMm1WaUxjdG1aZENCTTRmNFR0dUtOUDJqaDBmR0NMaVllSG1GdzBqNGtWd1dHRnItV0Y5M09yZm52OTZNVFAxLWdkVjJtWlBn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特斯拉一年调整9次购车政策",
+   "title_zh": "一年调9次购车政策，“老实人”才买特斯拉 - 中金在线",
+   "sentiment": -1
   },
   {
    "id": "5e4cc713a8ea",
@@ -6031,6 +6196,26 @@
    "sentiment": -1
   },
   {
+   "id": "ddad876ad4fb",
+   "title": "Tesla Registrations Surge in Sweden, Norway and Denmark as European EV Demand Grows - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWczVjNINWo3YWwxOHREOXRENldlVDZsOHc2TmtiMk10eUVYTk84TWl0dFlHOHhkTzFsRk9lZWZlNXJrS3M0UjJPLTlGcU5KZjZCUjlSX3R4dTg4Wm50VkZZT0pGY2loTHNfMTFFMk5KVnV1cWNGcUJKVUFlYVQzTW9jMXBORlczaDQwM3pFNkhoY3pjamtRV0M5aUZ2c3dYQ0dsTVpiMA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T11:55:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T11:55:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWczVjNINWo3YWwxOHREOXRENldlVDZsOHc2TmtiMk10eUVYTk84TWl0dFlHOHhkTzFsRk9lZWZlNXJrS3M0UjJPLTlGcU5KZjZCUjlSX3R4dTg4Wm50VkZZT0pGY2loTHNfMTFFMk5KVnV1cWNGcUJKVUFlYVQzTW9jMXBORlczaDQwM3pFNkhoY3pjamtRV0M5aUZ2c3dYQ0dsTVpiMA"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前",
+   "zh_summary": "特斯拉在北欧三国注册量大涨",
+   "title_zh": "特斯拉在瑞典、挪威和丹麦注册量激增",
+   "sentiment": 1
+  },
+  {
    "id": "6d7e0166f2d5",
    "title": "Tesla Model 3 RWD 110 Review - AutoApp",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94N1dHeGY0cVl3Z2VOTGh1VlFIa0VVUU1vX3FzX0s1VENieVhPdlJRSWI5Rk0zRzlyWVE5M2FOOTItd0UwVEx6VmhCeVJLaVpzcVJmbHRBaHNnNXNteHdJTWtR",
@@ -6377,201 +6562,6 @@
     "pct": 0.2,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "e08f5409a600",
-   "title": "Tesla's October Registrations Surge in Northern Europe, Sweden Jumps 248% - BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYNkFVYlVWdDRxazdDLUZzakY1SVRKSjJ6WXd1MVRUWjBDbXdQMmVqRDJFb19rY0RyWmVkeFJWRUQ5Mi1yb0FpbVV5MGJRMlprRWhDMHdfSmRpeFBxVHB5ZGJnZDRodDJ1YmVNRkd0WllQeTJRRmc",
-   "source": "BigGo Finance",
-   "published_at": "2026-11-02T10:25:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-11-02T10:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYNkFVYlVWdDRxazdDLUZzakY1SVRKSjJ6WXd1MVRUWjBDbXdQMmVqRDJFb19rY0RyWmVkeFJWRUQ5Mi1yb0FpbVV5MGJRMlprRWhDMHdfSmRpeFBxVHB5ZGJnZDRodDJ1YmVNRkd0WllQeTJRRmc"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉10月北欧注册量激增",
-   "title_zh": "特斯拉10月北欧注册量激增，瑞典涨248%",
-   "sentiment": 1
-  },
-  {
-   "id": "0477fff0633b",
-   "title": "SpaceX推进套件加持，特斯拉Roadster引入航天思路 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWRhZ1dqWFp5ZTBtcTBWQ2RzVzFjb2tPbG5RRS1ackZNelFCZUZCaG9PYzl3Q1RwVkRDNExscEk5bWJSdXQ3cmw0RnVNdVRXV1p5T09xdGxVaHBwRnpjT2RYZmlBYnNQeUhOSEsyM2FENUJ1bnNjSXg0RUJmdk93YQ",
-   "source": "手机新浪网",
-   "published_at": "2026-11-02T10:13:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-02T10:13:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWRhZ1dqWFp5ZTBtcTBWQ2RzVzFjb2tPbG5RRS1ackZNelFCZUZCaG9PYzl3Q1RwVkRDNExscEk5bWJSdXQ3cmw0RnVNdVRXV1p5T09xdGxVaHBwRnpjT2RYZmlBYnNQeUhOSEsyM2FENUJ1bnNjSXg0RUJmdk93YQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster引入SpaceX推进套件",
-   "title_zh": "SpaceX推进套件加持，特斯拉Roadster引入航天思路",
-   "sentiment": 1
-  },
-  {
-   "id": "04d2bda5b7e1",
-   "title": "特斯拉Roadster联手SpaceX 航天技术落地超跑 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjE3OTltQjhhSkZza3VMbHFUS3pCQXQ2QTRzVEFxXzNlUnlkem1BSTh3S2V4SlNPbFNDMmNUVmxuNFRWTGdsYS15bWp0UmZLaXVUejI5Y04ycVVONDF2NXFycF9BemtRYVRvdzRWTUVvWjZlenJDVnUzRVZzc0xWXw",
-   "source": "手机新浪网",
-   "published_at": "2026-11-02T10:13:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-02T10:13:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjE3OTltQjhhSkZza3VMbHFUS3pCQXQ2QTRzVEFxXzNlUnlkem1BSTh3S2V4SlNPbFNDMmNUVmxuNFRWTGdsYS15bWp0UmZLaXVUejI5Y04ycVVONDF2NXFycF9BemtRYVRvdzRWTUVvWjZlenJDVnUzRVZzc0xWXw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Roadster联手SpaceX应用航天技术",
-   "title_zh": "特斯拉Roadster联手SpaceX航天技术落地超跑",
-   "sentiment": 1
-  },
-  {
-   "id": "fb287daacf64",
-   "title": "1-9月销量出炉，零跑反超特斯拉/小米逼近理想，新能源又变天了? - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU9OUVA5cG5URVVpSXFhMWh4TlNsQVNKdVY1WG1SSzB6VGs5TjNqUWZiVW9Pc0Z4cFBSSzhVZGRUZHVkXzZFdHo1U2NsekFvQVBhRWVDS3IyWFdubndvWmZBTmEta2l6RFU1OU9jUTNCQWROc0lqVy1GM0tpQ2ZzQlUyTzBJMWFNUTByNw",
-   "source": "搜狐网",
-   "published_at": "2026-11-02T10:12:13+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-02T10:12:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU9OUVA5cG5URVVpSXFhMWh4TlNsQVNKdVY1WG1SSzB6VGs5TjNqUWZiVW9Pc0Z4cFBSSzhVZGRUZHVkXzZFdHo1U2NsekFvQVBhRWVDS3IyWFdubndvWmZBTmEta2l6RFU1OU9jUTNCQWROc0lqVy1GM0tpQ2ZzQlUyTzBJMWFNUTByNw"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-02T10:17:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMRkYwb0FBOUc3ZHRCVVpTLW5sU2xrMDFZSzMxVGR3dEtXTjJDSVRvaUQ0RjVJaU94YjEwMklxQU5BYk5RZ05FZW5Samd0ZTF1Y054TkJlS2hUYlk"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "1-9月零跑销量反超特斯拉",
-   "title_zh": "1-9月销量出炉，零跑反超特斯拉",
-   "sentiment": -1
-  },
-  {
-   "id": "1ed026a369a1",
-   "title": "We Raised Our Fair Value Estimates for Tesla and SpaceX. Are They Buys? - Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBUSXhoVm5xdHVYY3QwQjJxdmswcU9wWDRlTjZHeUcxWFFWRVFJczBXYW42X1dOQWREMTczOVc5VENYNTl3SUhHQzBpUkMyU0FWMTFmS0ZVTlp5YmFmd25lVkNnY2JyTmo3cUNlekhuZkhlbHUyLVkzN1h1T0o5Sk5oRDNpX0dGMDJfdTQyYTR5TkZ3MjF3MXBDWUdtb29OSVhLbktzZmc",
-   "source": "Morningstar",
-   "published_at": "2026-11-02T10:06:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Morningstar",
-     "published_at": "2026-11-02T10:06:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTBUSXhoVm5xdHVYY3QwQjJxdmswcU9wWDRlTjZHeUcxWFFWRVFJczBXYW42X1dOQWREMTczOVc5VENYNTl3SUhHQzBpUkMyU0FWMTFmS0ZVTlp5YmFmd25lVkNnY2JyTmo3cUNlekhuZkhlbHUyLVkzN1h1T0o5Sk5oRDNpX0dGMDJfdTQyYTR5TkZ3MjF3MXBDWUdtb29OSVhLbktzZmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "晨星上调特斯拉与SpaceX公允价值",
-   "title_zh": "晨星上调特斯拉与SpaceX公允价值估计",
-   "sentiment": 1
-  },
-  {
-   "id": "109623b71fde",
-   "title": "【视频】特斯拉全新购车金融方案3.99万新车开回家 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TmUyYUNaUFJ2WVBpY0pZRVZweHpHNTlLZjZ2ZXBLV1Q5d2FFZnhOblNFZWg3b0g1NnVNMnJpanZPV2dRQ2VqbzhfejZuUzlObU8wRzFBcWJ6Qms",
-   "source": "汽车之家",
-   "published_at": "2026-11-02T10:03:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-02T10:03:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TmUyYUNaUFJ2WVBpY0pZRVZweHpHNTlLZjZ2ZXBLV1Q5d2FFZnhOblNFZWg3b0g1NnVNMnJpanZPV2dRQ2VqbzhfejZuUzlObU8wRzFBcWJ6Qms"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉新金融方案3.99万可购车",
-   "title_zh": "【视频】特斯拉全新购车金融方案3.99万新车开回家 - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "3b2f17c2b730",
-   "title": "特斯拉取消汽车推荐奖励，改为以全自动驾驶软件奖励推荐人 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1JieFZ3cVlDOFYxU21SOGhkVTUxaWhTUHpweG5SQ0xkWmd3QXZSaThBSGRHYkZON0IyQ2xZdlpOamNKVHJ0NGJaU083UGRXdFBMM2FpZExZdHFqeXMtWUZJcVF5M08zeHprS040aGVHTE5xUjVFZnp3dldmVHVCMnVPX29SeTIw",
-   "source": "搜狐网",
-   "published_at": "2026-11-02T10:00:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-02T10:00:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1JieFZ3cVlDOFYxU21SOGhkVTUxaWhTUHpweG5SQ0xkWmd3QXZSaThBSGRHYkZON0IyQ2xZdlpOamNKVHJ0NGJaU083UGRXdFBMM2FpZExZdHFqeXMtWUZJcVF5M08zeHprS040aGVHTE5xUjVFZnp3dldmVHVCMnVPX29SeTIw"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉取消汽车推荐奖励改推FSD奖励",
-   "title_zh": "特斯拉取消汽车推荐奖励，改为以全自动驾驶软件奖励推荐人 - 搜狐网",
-   "sentiment": 0
-  },
-  {
-   "id": "cb05c97db7cd",
-   "title": "没方向盘没刹车，我坐进了只有俩座的特斯拉Cybercab - 热点科技",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pb3Y0T1oxQ3lOM0h2cXg0aDB6ZWRoV29wX0NJTnRIQ2pyOGEyR1pLQWJaNWh4Zm4yZzJUejhLcGlVczExTGlHRzEwXzBiZDQ",
-   "source": "热点科技",
-   "published_at": "2026-11-02T10:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "热点科技",
-     "published_at": "2026-11-02T10:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pb3Y0T1oxQ3lOM0h2cXg0aDB6ZWRoV29wX0NJTnRIQ2pyOGEyR1pLQWJaNWh4Zm4yZzJUejhLcGlVczExTGlHRzEwXzBiZDQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-02T10:21:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3cyMGdXcVdWNW9QNVNldHFRSzRWeFNNb1FOUkh4OVpwSWdsRmVHeW9kMjFuYll4M1NnbzhQRktxMFhMVE84Qnc0eFBtMW5ZalFKNDhuaVRBRUVMWHNPMXZ0cmlNNWNEQ21ONHktNjF6b29sOGUzdl9PSFlTaklsakE2a09tZE9W"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "体验无方向盘双座特斯拉",
-   "title_zh": "没方向盘没刹车，我坐进了只有俩座的特斯拉 - 搜狐网",
-   "sentiment": 0
-  },
-  {
-   "id": "f193c85b6569",
-   "title": "Texas family finds missing cat inside their own Tesla, but freeing her takes 40 minutes - The Cool Down",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeEhMdjMxX2wtNmF1Nk9hZ21EWFUzaVV6T3had2MwdmluNGN4LWlJTUZ2RzA2NlFKX0ZIYkFPR21ESERaMG5keVNXbmVPd1lfYmQ1VHBSTHJaeEtSQldWd1BJM2dLd2ZwMVNsRTdzUVR6RDhQNnlmZmFLcmtoREplOA",
-   "source": "The Cool Down",
-   "published_at": "2026-11-02T09:59:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Cool Down",
-     "published_at": "2026-11-02T09:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeEhMdjMxX2wtNmF1Nk9hZ21EWFUzaVV6T3had2MwdmluNGN4LWlJTUZ2RzA2NlFKX0ZIYkFPR21ESERaMG5keVNXbmVPd1lfYmQ1VHBSTHJaeEtSQldWd1BJM2dLd2ZwMVNsRTdzUVR6RDhQNnlmZmFLcmtoREplOA"
-    },
-    {
-     "name": "Yahoo",
-     "published_at": "2026-11-02T09:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEE5VDd5bkRvVlFpLTNtLWRscjRDZGRLS3ZYQV83VUJPNWpSZGdyS1o1YXBpcFJyWkppbUlMQXFYcV96SzYxU2cxOXVwc1k0azlrZFVIcXFfUTJiWXpCa0tEUm5Ja01Db0xLZVRkS29CYlp6RjJ1Nk9HbDFQRWZqRzlkS3ZkX0FB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德州家庭在自家特斯拉内找到失踪猫",
-   "title_zh": "德州家庭在自家特斯拉里找到失踪的猫，救出它花了40分钟",
-   "sentiment": 0
   }
  ]
 }
