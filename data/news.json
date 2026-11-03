@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T14:37:26.704334+00:00",
+ "updated_at": "2026-11-03T14:52:24.258181+00:00",
  "market": {
-  "price": 401.71,
-  "change_pct": -0.52,
+  "price": 402.23,
+  "change_pct": -0.39,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.4%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（27条已评分）"
+     "note": "今日新闻情绪 +0.02（56条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.71 vs 20日均线 $383.03"
+     "note": "现价 $402.23 vs 20日均线 $383.03"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.4,
+   "implied_upside_pct": -0.6,
    "ma20": 383.03,
-   "as_of": "2026-11-03T14:37:26.696739+00:00"
+   "as_of": "2026-11-03T14:52:24.248801+00:00"
   },
-  "pe_ttm": 111.1,
+  "pe_ttm": 111.2,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.6%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 27
+   "avg": 0.02,
+   "count": 56
   }
  },
  "meta": {
@@ -68,24 +68,24 @@
  },
  "stories": [
   {
-   "id": "1949304ad6db",
-   "title": "Tesla China records 10.3% sales growth in October as momentum continues - driveteslacanada.ca",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWVzFEclNOaU01T2FncW5rQk4wczdkWEVBZFRIajZXMW5USUVSRGJZZGp4d2JyTmZERE1fME02cWZGX2lPV2luaWk5R2VjY2JLTkhubU9UVXhqcG9UV2tEYnZQZW9IN21jazhyTElHbmVXTjFrak9haFBfMA",
-   "source": "driveteslacanada.ca",
-   "published_at": "2026-11-03T14:18:48+00:00",
+   "id": "fdb8bf46781a",
+   "title": "How a SpaceX-Tesla merger could hand Musk majority control - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ZLTFotSFpIcXNockdTX0wxZjJDTkp6cE1VNTN1c1A3NUpUREdPMjUyamFRTUQ3RUh1YkJwdWdrdElIcWlSdEhHS1NRZnp4SWw1TTQtXzJOTlF3RWNsLUJpSTBKcmxSQUlLVThyZW5kWEdwc1F2T3loLUg3THFicFlLNkhjdw",
+   "source": "Yahoo",
+   "published_at": "2026-11-03T14:30:01+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "driveteslacanada.ca",
-     "published_at": "2026-11-03T14:18:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWVzFEclNOaU01T2FncW5rQk4wczdkWEVBZFRIajZXMW5USUVSRGJZZGp4d2JyTmZERE1fME02cWZGX2lPV2luaWk5R2VjY2JLTkhubU9UVXhqcG9UV2tEYnZQZW9IN21jazhyTElHbmVXTjFrak9haFBfMA"
+     "name": "Yahoo",
+     "published_at": "2026-11-03T14:30:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ZLTFotSFpIcXNockdTX0wxZjJDTkp6cE1VNTN1c1A3NUpUREdPMjUyamFRTUQ3RUh1YkJwdWdrdElIcWlSdEhHS1NRZnp4SWw1TTQtXzJOTlF3RWNsLUJpSTBKcmxSQUlLVThyZW5kWEdwc1F2T3loLUg3THFicFlLNkhjdw"
     }
    ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "特斯拉中国10月销量增长10.3%",
-   "title_zh": "特斯拉中国10月销量增长10.3%势头延续",
-   "sentiment": 1
+   "category": "马斯克",
+   "session": "盘中",
+   "zh_summary": "SpaceX与特斯拉合并或让马斯克获多数控制权",
+   "title_zh": "SpaceX与特斯拉合并或让马斯克获得多数控制权",
+   "sentiment": 0
   },
   {
    "id": "ace28b0d2598",
@@ -106,6 +106,31 @@
    "zh_summary": "特斯拉售后青海千里救援车主",
    "title_zh": "特斯拉售后千里救援，青海抛锚车主获陪跑",
    "sentiment": 0
+  },
+  {
+   "id": "1949304ad6db",
+   "title": "Tesla China records 10.3% sales growth in October as momentum continues - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWVzFEclNOaU01T2FncW5rQk4wczdkWEVBZFRIajZXMW5USUVSRGJZZGp4d2JyTmZERE1fME02cWZGX2lPV2luaWk5R2VjY2JLTkhubU9UVXhqcG9UV2tEYnZQZW9IN21jazhyTElHbmVXTjFrak9haFBfMA",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-11-03T14:18:03+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-03T14:18:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWVzFEclNOaU01T2FncW5rQk4wczdkWEVBZFRIajZXMW5USUVSRGJZZGp4d2JyTmZERE1fME02cWZGX2lPV2luaWk5R2VjY2JLTkhubU9UVXhqcG9UV2tEYnZQZW9IN21jazhyTElHbmVXTjFrak9haFBfMA"
+    },
+    {
+     "name": "driveteslacanada.ca",
+     "published_at": "2026-11-03T14:18:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWVzFEclNOaU01T2FncW5rQk4wczdkWEVBZFRIajZXMW5USUVSRGJZZGp4d2JyTmZERE1fME02cWZGX2lPV2luaWk5R2VjY2JLTkhubU9UVXhqcG9UV2tEYnZQZW9IN21jazhyTElHbmVXTjFrak9haFBfMA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前",
+   "zh_summary": "特斯拉中国10月销量增长10.3%",
+   "title_zh": "特斯拉中国10月销量增长10.3%势头延续",
+   "sentiment": 1
   },
   {
    "id": "68f3d3bd8047",
@@ -213,12 +238,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEFZeV9rM2gtZzZCNFktY2hPRzRTN2xOZFhGMThJZWNYdjFYcndCb3BCdkMtd3VSdFBMeWxTWnZubUdjbXJiR0tkdnJ0dnJXSEVLVjZFaFVIUlgzbHF0R3hWZFQtYjl4UU1MU05wdHF3MEFPVjQxc2RnWEhQMmN5Vmg1aWRIZzJPSmtj",
    "source": "The Cool Down",
    "published_at": "2026-11-03T13:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Cool Down",
      "published_at": "2026-11-03T13:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEFZeV9rM2gtZzZCNFktY2hPRzRTN2xOZFhGMThJZWNYdjFYcndCb3BCdkMtd3VSdFBMeWxTWnZubUdjbXJiR0tkdnJ0dnJXSEVLVjZFaFVIUlgzbHF0R3hWZFQtYjl4UU1MU05wdHF3MEFPVjQxc2RnWEhQMmN5Vmg1aWRIZzJPSmtj"
+    },
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-11-03T13:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFB0UDBPd3I1aU5TVzBpMldmUkVQVG9EV2xYTzF5TDhaV3VybFFjc3ItVWNhNU1LQmtBS05NZzdNczN5YmM4WVZiSnQ3THNZelFGd2xMdGRVMEFud1Nud3p2RTNobllYcG5TUFMyNVg5TmFkYTBzcnBkTDRkaEtGMTBYZEI0RTJTZ3JXMXYtcXZ3WUliZzdpZHJrXzVOajg"
     }
    ],
    "category": "其他",
@@ -473,31 +503,6 @@
    "sentiment": -1
   },
   {
-   "id": "d2021a97a740",
-   "title": "Tesla's China Wholesale Sales Sink Sequentially in October to Second-Lowest in 2026 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMktIc2ZQVHpsRExqSTR4M0tBdzl1WHl4N3VxbVl1UU4yUXVhS3VpS0RPTkhoRWpKQnI5OTRsRlNVcUl1cGhHcUdFWnJIZl9KY3REVHhLUDNuWGxpLTZGUUI4X0Z4clIzRmxZZExsX2NqdjNURXZta3NGb3pSUzNpY3F2Smlaa0FxdmZFWlprNjRNNEVzczhaMG5lVmJTdi1YR3hOV2hhQXk",
-   "source": "Moomoo",
-   "published_at": "2026-11-03T11:16:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-11-03T11:16:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMktIc2ZQVHpsRExqSTR4M0tBdzl1WHl4N3VxbVl1UU4yUXVhS3VpS0RPTkhoRWpKQnI5OTRsRlNVcUl1cGhHcUdFWnJIZl9KY3REVHhLUDNuWGxpLTZGUUI4X0Z4clIzRmxZZExsX2NqdjNURXZta3NGb3pSUzNpY3F2Smlaa0FxdmZFWlprNjRNNEVzczhaMG5lVmJTdi1YR3hOV2hhQXk"
-    },
-    {
-     "name": "www.marketscreener.com",
-     "published_at": "2026-11-03T11:40:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzl4ZlJCcDF3ODlrVDZGMEEwUm4ySU9wbUNGQ2pNM1JsWUZ4YWFLV1EtNUlhMGVtQjhxT3RWM0NYNmlLajRadnY5RlR6X2tmQWdYemJiTG9GcllQSG5RQWwwdUhPRUZRWWZldDNuTi1hZmJzR0FreU1maVdLRjIzX1FWdm5ZbnJNY1lwZjgtZjhQM1ZfUlFFWmtsQUlkOUJKcnlXVHpLZHE0U3BJVlF6bXJ4MU5QNnNCNFJaUTE5RHBXT3Zab2p2Q1k0Ukxmd1c2LUE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉中国10月批发销量环比大降",
-   "title_zh": "特斯拉中国10月批发销量环比降至年内次低",
-   "sentiment": -1
-  },
-  {
    "id": "1c7f289d4047",
    "title": "特斯拉10月在华批发销量环比下滑，创2026年第二低水平 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDN3THJ4RjhINWx3dlc0U0gzS1cyQXpOQjNWemx6cUVpQWdYMTBTelU1Wm0wRWRKSnRIbEk4dmhZRTBEZ3haT3ZNb1dtcjJyMnVkVkZxX1pOTUVjdUEwZ3ljckZvXy1MZDNnSGhIOHRpRGlpWGVQaEpNa2NuVFhFRXNPcUNZSEVJZW13MGRRX0RoV0VXbVp0dUlkXzcyMXBNaGpqYldnV25mbVpORlZ3",
@@ -536,6 +541,40 @@
    "zh_summary": "XLY于10月30日卖出特斯拉",
    "title_zh": "XLY于10月30日卖出亚马逊与特斯拉",
    "sentiment": 0
+  },
+  {
+   "id": "d2021a97a740",
+   "title": "Tesla's China Wholesale Sales Sink Sequentially in October to Second-Lowest in 2026 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZld0bi12Tm1KV2xiel9sRnF2aEt6SncwOTYwN3hqRHQ1bDI4ZlFINU1HaE8xLUhXVlVxSDFXQlh6cDJzYzJIOXhMOXBvV0M3ejJVZlVrSnhzTFNjbEQtU3lwcXhZQ1VneEZhdWRJUGtxeF9aLVBwR1E4S2tPUWVWZ3UzblZrSWpscmpBOXBxMlRSZXExWlpJN2Y1TEhlUQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-03T11:02:28+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-03T11:02:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZld0bi12Tm1KV2xiel9sRnF2aEt6SncwOTYwN3hqRHQ1bDI4ZlFINU1HaE8xLUhXVlVxSDFXQlh6cDJzYzJIOXhMOXBvV0M3ejJVZlVrSnhzTFNjbEQtU3lwcXhZQ1VneEZhdWRJUGtxeF9aLVBwR1E4S2tPUWVWZ3UzblZrSWpscmpBOXBxMlRSZXExWlpJN2Y1TEhlUQ"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-03T11:16:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMktIc2ZQVHpsRExqSTR4M0tBdzl1WHl4N3VxbVl1UU4yUXVhS3VpS0RPTkhoRWpKQnI5OTRsRlNVcUl1cGhHcUdFWnJIZl9KY3REVHhLUDNuWGxpLTZGUUI4X0Z4clIzRmxZZExsX2NqdjNURXZta3NGb3pSUzNpY3F2Smlaa0FxdmZFWlprNjRNNEVzczhaMG5lVmJTdi1YR3hOV2hhQXk"
+    },
+    {
+     "name": "www.marketscreener.com",
+     "published_at": "2026-11-03T11:40:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzl4ZlJCcDF3ODlrVDZGMEEwUm4ySU9wbUNGQ2pNM1JsWUZ4YWFLV1EtNUlhMGVtQjhxT3RWM0NYNmlLajRadnY5RlR6X2tmQWdYemJiTG9GcllQSG5RQWwwdUhPRUZRWWZldDNuTi1hZmJzR0FreU1maVdLRjIzX1FWdm5ZbnJNY1lwZjgtZjhQM1ZfUlFFWmtsQUlkOUJKcnlXVHpLZHE0U3BJVlF6bXJ4MU5QNnNCNFJaUTE5RHBXT3Zab2p2Q1k0Ukxmd1c2LUE"
+    }
+   ],
+   "category": "交付量",
+   "session": "盘前",
+   "zh_summary": "特斯拉中国10月批发销量环比大降",
+   "title_zh": "特斯拉中国10月批发销量环比降至年内次低",
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.1,
+    "window_h": 0.4
+   }
   },
   {
    "id": "aedfb6ab8046",
@@ -583,13 +622,13 @@
    ],
    "category": "马斯克",
    "session": "盘前",
+   "zh_summary": "合并后马斯克获投票控制权无万亿薪酬",
+   "title_zh": "合并下马斯克获投票控制权，但无$1万亿薪酬",
+   "sentiment": 0,
    "price_reaction": {
     "pct": -0.12,
     "window_h": 0.1
-   },
-   "zh_summary": "合并后马斯克获投票控制权无万亿薪酬",
-   "title_zh": "合并下马斯克获投票控制权，但无$1万亿薪酬",
-   "sentiment": 0
+   }
   },
   {
    "id": "b90a5dbdbfb1",
@@ -696,12 +735,12 @@
    "title": "Elon Musk Fires Back at Democrat James Talarico Over Tesla Loan - Tesla (NASDAQ:TSLA) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMU5RVnhmUy0yMlJYRnN6Qy1ObmlPQmFwek1wcmFXS1N3c3Z2N2Q2dzRCQTdUMmlYei1uZy1rQWpzZGttR1g2OVh5bWhNR1VjM3Nzc3VmVkUyZTJMMWNid1dCLVhwTktVOUYxclZpeUVPa3ZlWENSaC1LdHZEOXJ0T2wyMndUUEkwWEdNNnpOR1Z1aWQ0OEo5X0hlTU1VTGxFaEc4NXRZNkNHUDRGOGZFVWNLNVRRRXc2YThDZVZBenRiZTJFNE5Yc19PS2hCZw",
    "source": "Benzinga",
-   "published_at": "2026-11-03T10:32:43+00:00",
+   "published_at": "2026-11-03T10:32:38+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Benzinga",
-     "published_at": "2026-11-03T10:32:43+00:00",
+     "published_at": "2026-11-03T10:32:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMU5RVnhmUy0yMlJYRnN6Qy1ObmlPQmFwek1wcmFXS1N3c3Z2N2Q2dzRCQTdUMmlYei1uZy1rQWpzZGttR1g2OVh5bWhNR1VjM3Nzc3VmVkUyZTJMMWNid1dCLVhwTktVOUYxclZpeUVPa3ZlWENSaC1LdHZEOXJ0T2wyMndUUEkwWEdNNnpOR1Z1aWQ0OEo5X0hlTU1VTGxFaEc4NXRZNkNHUDRGOGZFVWNLNVRRRXc2YThDZVZBenRiZTJFNE5Yc19PS2hCZw"
     }
    ],
@@ -6526,26 +6565,6 @@
    "zh_summary": "特斯拉三星反对美对越南新关税",
    "title_zh": "美对越南智财调查将截止，特斯拉三星反对新关税",
    "sentiment": 0
-  },
-  {
-   "id": "fca34e188c47",
-   "title": "多家车企开启双11促销：小米澎程“3年0息” 特斯拉尾款最高减1万元 - 新蓝网",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UEIxcDZ3a1Exam9Fcjl3eXQ1a1JvY2NRa1pmcFV1TnVLcFFEdWFpeC13Mjd3cVlfRXlELXBtemhHWkkzMXEtVjBfbEtTTzA",
-   "source": "新蓝网",
-   "published_at": "2026-11-02T04:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新蓝网",
-     "published_at": "2026-11-02T04:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80UEIxcDZ3a1Exam9Fcjl3eXQ1a1JvY2NRa1pmcFV1TnVLcFFEdWFpeC13Mjd3cVlfRXlELXBtemhHWkkzMXEtVjBfbEtTTzA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉双11尾款最高减1万元",
-   "title_zh": "多家车企双11促销，特斯拉尾款最高减1万元",
-   "sentiment": -1
   }
  ]
 }
