@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T07:22:24.590756+00:00",
+ "updated_at": "2026-11-03T07:37:25.311382+00:00",
  "market": {
   "price": 403.82,
   "change_pct": 1.0,
@@ -16,8 +16,8 @@
    "estimated": true
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -31,8 +31,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.67（3条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.25（4条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.9,
    "ma20": 381.95,
-   "as_of": "2026-11-03T07:22:24.580689+00:00"
+   "as_of": "2026-11-03T07:37:25.304635+00:00"
   },
   "pe_ttm": 111.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 3
+   "avg": 0.25,
+   "count": 4
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "87cd8f8c5772",
+   "title": "特斯拉10月在欧洲多个市场的注册量大幅上升 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56LWVKTDJHelgzVHVLUDhnY1NKWWdTaEkyZV9uUnZXVnYtYXphU3JNbkc5bDBlcTBCM0gxRzFLR1k1M2RhQ3I1bXc2SG5wOFFaMDdXeS1pMXA1SkRLbU9rVXhEN25CdFRTNTJV",
+   "source": "汽车之家",
+   "published_at": "2026-11-03T07:25:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-03T07:25:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56LWVKTDJHelgzVHVLUDhnY1NKWWdTaEkyZV9uUnZXVnYtYXphU3JNbkc5bDBlcTBCM0gxRzFLR1k1M2RhQ3I1bXc2SG5wOFFaMDdXeS1pMXA1SkRLbU9rVXhEN25CdFRTNTJV"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "56690895405f",
    "title": "A short downtown trip becomes a 43-minute detour in Tesla's Robotaxi app, former employee reports - The Cool Down",
@@ -4191,6 +4208,23 @@
    "sentiment": 1
   },
   {
+   "id": "109623b71fde",
+   "title": "【视频】特斯拉全新购车金融方案3.99万新车开回家 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TmUyYUNaUFJ2WVBpY0pZRVZweHpHNTlLZjZ2ZXBLV1Q5d2FFZnhOblNFZWg3b0g1NnVNMnJpanZPV2dRQ2VqbzhfejZuUzlObU8wRzFBcWJ6Qms",
+   "source": "汽车之家",
+   "published_at": "2026-11-02T10:03:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-02T10:03:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TmUyYUNaUFJ2WVBpY0pZRVZweHpHNTlLZjZ2ZXBLV1Q5d2FFZnhOblNFZWg3b0g1NnVNMnJpanZPV2dRQ2VqbzhfejZuUzlObU8wRzFBcWJ6Qms"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "3b2f17c2b730",
    "title": "特斯拉取消汽车推荐奖励，改为以全自动驾驶软件奖励推荐人 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1JieFZ3cVlDOFYxU21SOGhkVTUxaWhTUHpweG5SQ0xkWmd3QXZSaThBSGRHYkZON0IyQ2xZdlpOamNKVHJ0NGJaU083UGRXdFBMM2FpZExZdHFqeXMtWUZJcVF5M08zeHprS040aGVHTE5xUjVFZnp3dldmVHVCMnVPX29SeTIw",
@@ -4773,12 +4807,17 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWlhqNWRTQTQxRWZSemlyRzNfUFlfenR0RDhTNW1ab2tNWjlwV3Fsa3hTWXdteEVVVmllOVBnX2RrdHBHZGhpWGpCUTZqRElUMHc",
    "source": "搜狐网",
    "published_at": "2026-11-02T07:49:22+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-11-02T07:49:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWlhqNWRTQTQxRWZSemlyRzNfUFlfenR0RDhTNW1ab2tNWjlwV3Fsa3hTWXdteEVVVmllOVBnX2RrdHBHZGhpWGpCUTZqRElUMHc"
+    },
+    {
+     "name": "中金在线",
+     "published_at": "2026-11-03T00:05:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TTU5rZjZJcEZ0c3ZROEVsd3F6My13c1l3UG1UMm1WaUxjdG1aZENCTTRmNFR0dUtOUDJqaDBmR0NMaVllSG1GdzBqNGtWd1dHRnItV0Y5M09yZm52OTZNVFAxLWdkVjJtWlBn"
     }
    ],
    "category": "其他",
@@ -6559,46 +6598,6 @@
    "session": "周末",
    "zh_summary": "嘉宾谈百万特斯拉Roadster是否值得",
    "title_zh": "百万特斯拉Roadster值不值 嘉宾称心动后冷静 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "30054ee603a4",
-   "title": "Tesla Model Y Cross Country Trip: FSD V14 Test [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEpIWHpBc1BiR0Q2NEVSbVBwb25fUFhScjRYNUoweXNBOE5lT1plUVZZY2xsOGQtTlJJMHdqQ1FvZzVPcC1tMjlVbHZCMDBPWktxMDh2S0dWRzRiQ0E1dEo3RXU0M3hjdlZTc0pmUHZDLVdra3JrQzVrblFkSVMwY3NMaks",
-   "source": "shattered.io",
-   "published_at": "2026-11-01T18:31:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-11-01T18:31:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEpIWHpBc1BiR0Q2NEVSbVBwb25fUFhScjRYNUoweXNBOE5lT1plUVZZY2xsOGQtTlJJMHdqQ1FvZzVPcC1tMjlVbHZCMDBPWktxMDh2S0dWRzRiQ0E1dEo3RXU0M3hjdlZTc0pmUHZDLVdra3JrQzVrblFkSVMwY3NMaks"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "周末",
-   "zh_summary": "Model Y跨州长途测试FSD V14",
-   "title_zh": "特斯拉Model Y跨州长途测试FSD V14",
-   "sentiment": 0
-  },
-  {
-   "id": "e5bad51a2e19",
-   "title": "Why Elon Musk is weighing a Tesla-SpaceX merger: What a combined entity could mean for his business empire and investors - Livemint",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPekRCVXZTd0k5Y0tRNmdaVERYVmNiZUdjVU5TZ3E4NG11TnNxTjBHX19ScXdTUDNFWkx2dHZUdGVhbXJHYjRieEFNNHYxY1lETjNjNUdCUVNGZm85YmpfeW9Bam8zNUl3VUNkeDRBeTBZWHhEdU0ydXZlLV9pWmVpWWZEWXFQSUNSTE5jbjBjQkNZWWJYUS1lZW5WalFxVUg3cjctT0QyQk1jLVRHQjJsMDRoc0pqS0VIUjFySTBYQ0lMMWN5Mk9oaVBhVzBZdmZlTWJ6MWtkR3BJX192WkFlMjVJNld4QnJscUFRSlptZWJNS0hOWnZfWHhEZXkwbmcwTy1DMW1n0gGLAkFVX3lxTE1Oc3gtWHdSbk1xejVLdWRWTzMzaU56NUJOVDZ2UVVsV1J4b05pT2JpZ1ZSM2hWM19jdHZrbDdKM1FDQ29pYTlncHF5NVRuODBKa0NCUEFIb0ZMSUJSNElmNWMtUDdnaDdKSTVtREV6SUlhY3VFRDk2UVdLZ1I2V2JNR1h2WmMyVFduTW9vNU5NWGZkVXp6ZGdpYzJoWHNmN25pTURtdUN3elVKaWpGSDVUU3FSaTljUTgzWFpWY1FCaFZ0anZMd3VnMk05bU16b19SVDc4bjh5dy1rRll4enk3Zi1TTjEtOVRLc0IzU1BELWZPTmhXQVJYVEJWUVNMdWQtaVFlR0xwdFJMbw",
-   "source": "Livemint",
-   "published_at": "2026-11-01T18:25:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Livemint",
-     "published_at": "2026-11-01T18:25:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPekRCVXZTd0k5Y0tRNmdaVERYVmNiZUdjVU5TZ3E4NG11TnNxTjBHX19ScXdTUDNFWkx2dHZUdGVhbXJHYjRieEFNNHYxY1lETjNjNUdCUVNGZm85YmpfeW9Bam8zNUl3VUNkeDRBeTBZWHhEdU0ydXZlLV9pWmVpWWZEWXFQSUNSTE5jbjBjQkNZWWJYUS1lZW5WalFxVUg3cjctT0QyQk1jLVRHQjJsMDRoc0pqS0VIUjFySTBYQ0lMMWN5Mk9oaVBhVzBZdmZlTWJ6MWtkR3BJX192WkFlMjVJNld4QnJscUFRSlptZWJNS0hOWnZfWHhEZXkwbmcwTy1DMW1n0gGLAkFVX3lxTE1Oc3gtWHdSbk1xejVLdWRWTzMzaU56NUJOVDZ2UVVsV1J4b05pT2JpZ1ZSM2hWM19jdHZrbDdKM1FDQ29pYTlncHF5NVRuODBKa0NCUEFIb0ZMSUJSNElmNWMtUDdnaDdKSTVtREV6SUlhY3VFRDk2UVdLZ1I2V2JNR1h2WmMyVFduTW9vNU5NWGZkVXp6ZGdpYzJoWHNmN25pTURtdUN3elVKaWpGSDVUU3FSaTljUTgzWFpWY1FCaFZ0anZMd3VnMk05bU16b19SVDc4bjh5dy1rRll4enk3Zi1TTjEtOVRLc0IzU1BELWZPTmhXQVJYVEJWUVNMdWQtaVFlR0xwdFJMbw"
-    }
-   ],
-   "category": "马斯克",
-   "session": "周末",
-   "zh_summary": "马斯克权衡特斯拉与SpaceX合并",
-   "title_zh": "马斯克为何考虑特斯拉与SpaceX合并及其对投资者影响",
    "sentiment": 0
   }
  ]
