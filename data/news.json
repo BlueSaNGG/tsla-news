@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T02:22:23.436882+00:00",
+ "updated_at": "2026-11-03T02:37:23.079209+00:00",
  "market": {
-  "price": 399.81,
-  "change_pct": -0.87,
+  "price": 403.82,
+  "change_pct": 1.0,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.0%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（183条已评分）"
+     "note": "今日新闻情绪 +0.24（184条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $399.81 vs 20日均线 $380.70"
+     "note": "现价 $403.82 vs 20日均线 $381.95"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 55,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.0,
-   "ma20": 380.7,
-   "as_of": "2026-11-03T02:22:23.430532+00:00"
+   "implied_upside_pct": -0.9,
+   "ma20": 381.95,
+   "as_of": "2026-11-03T02:37:23.073604+00:00"
   },
-  "pe_ttm": 110.6,
+  "pe_ttm": 111.7,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.0%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.24,
-   "count": 183
+   "count": 184
   }
  },
  "meta": {
@@ -563,7 +563,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTVBtZ0RCRXMyeTRtazhxejRKUU9fOXFiWDhoYnY3X2NfQm9ia19pNWMxLVc0UUJIOFNqdk5RZ3hEeXpmY0o5OHZRdW5kY08zcmZzU2k1Z0pRMHUyMkxxOV9MM3RzdjdLbjNvZ05YVGJxektWdHptU2JJb0YtdV9aMlhHYkI1RWtBLXhab3J0dw",
    "source": "The Motley Fool",
    "published_at": "2026-11-02T22:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -574,6 +574,11 @@
      "name": "The Globe and Mail",
      "published_at": "2026-11-02T22:24:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdTNNS1FuQWFocXFaMGdfUnRrbEdyTnlFeTZKV2ZHWHg0LUREblhWLWlvQ294YmxCdThPYkpCREZSYTVvZEFUamJkX0swamZtSVJ6WExsSy1zY2Y4dE1zMC1seDh4ZV9CNEkxUkE2WkU5MDFfMmhQWUNWV28tcld2clBac3hHSV90Y1FuSTM3bzdLNEpnTkxNRUpQb1FaOWZxbGtLNDVqZjdTbmswV2FhbmJpaW11QS1iMFZOaGxHcVpyZHJFYmYwVE9fZ1VBekUtaEZCNGVyRWwwTGRLeDh6YWdSbEwydzItazNR"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-11-02T22:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45dW9ENHpZSXZiWi1hdmlxdWtuRVN1OTY4bW1NSllNaXlSd24yTnJpaW90b0hSSUU5ZTJIMDIyZzRhblF1S09PUWJ1MkhIaTNSRXVMVmxJY0Vwb0RfLUhKXzR6WG9Ucm5kd0VPNnlfVE9IeHZNUXBocVhn"
     }
    ],
    "category": "其他",
