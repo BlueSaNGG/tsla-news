@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T15:37:26.277434+00:00",
+ "updated_at": "2026-11-03T15:52:28.475277+00:00",
  "market": {
-  "price": 401.92,
-  "change_pct": -0.47,
+  "price": 401.82,
+  "change_pct": -0.5,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-10-21",
@@ -32,12 +32,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（65条已评分）"
+     "note": "今日新闻情绪 +0.04（68条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.92 vs 20日均线 $383.01"
+     "note": "现价 $401.82 vs 20日均线 $383.01"
     },
     {
      "key": "分析师动向",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.5,
    "ma20": 383.01,
-   "as_of": "2026-11-03T15:37:26.271422+00:00"
+   "as_of": "2026-11-03T15:52:28.463033+00:00"
   },
-  "pe_ttm": 111.2,
+  "pe_ttm": 111.1,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 65
+   "avg": 0.04,
+   "count": 68
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "fbe892e0d582",
+   "title": "Tesla Cybercab Test Fleet Expands to Detroit - Drive Tesla Canada",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IOVJfLTFvZnJIN0NMc1VGanFsVlFmX0FhWjdUZ0FRWXFzTkNlb2hEWGdqNk5rQmpVeVNfaXJvc0h6UFlsZTVJVkNuX2tJVHBONkxZeTRQNVFHOXktWVdzU3ZJZkx5akhraThITFVRYzdTUQ",
+   "source": "Drive Tesla Canada",
+   "published_at": "2026-11-03T15:46:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Drive Tesla Canada",
+     "published_at": "2026-11-03T15:46:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IOVJfLTFvZnJIN0NMc1VGanFsVlFmX0FhWjdUZ0FRWXFzTkNlb2hEWGdqNk5rQmpVeVNfaXJvc0h6UFlsZTVJVkNuX2tJVHBONkxZeTRQNVFHOXktWVdzU3ZJZkx5akhraThITFVRYzdTUQ"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
+  {
+   "id": "302e2817ab02",
+   "title": "特斯拉又整活，3.99万元开新车什么套路？ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeFJvSmRqYkU2X2JCY0lDTlBOOTF1VWUySzB3cHZIVC1OemJxMTVrSGIwcXAzR3l4RnRIUmZxSGZMVWh2OEFuRHcwTnFpMkhpcDJVNVA1amdjX28",
+   "source": "汽车之家",
+   "published_at": "2026-11-03T15:35:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-11-03T15:35:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeFJvSmRqYkU2X2JCY0lDTlBOOTF1VWUySzB3cHZIVC1OemJxMTVrSGIwcXAzR3l4RnRIUmZxSGZMVWh2OEFuRHcwTnFpMkhpcDJVNVA1amdjX28"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "702410bb2e7b",
    "title": "Tesla Receives Approval for Assisted Driving Changes in Europe Ahead of Wider Rollout - Drive Tesla Canada",
@@ -213,7 +247,7 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2ZLTFotSFpIcXNockdTX0wxZjJDTkp6cE1VNTN1c1A3NUpUREdPMjUyamFRTUQ3RUh1YkJwdWdrdElIcWlSdEhHS1NRZnp4SWw1TTQtXzJOTlF3RWNsLUJpSTBKcmxSQUlLVThyZW5kWEdwc1F2T3loLUg3THFicFlLNkhjdw",
    "source": "Yahoo",
    "published_at": "2026-11-03T14:30:01+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo",
@@ -229,10 +263,16 @@
      "name": "Reuters",
      "published_at": "2026-11-03T15:01:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4QW9qSjh5dzhQaVI0OEJMRFRUVHFWMkhtRlBrTml5enRTMmZvZUctb1BKY2pEaHhnbnk3bTM1TVNTVTNYWEVJLUxsaS1nSmtxYVdIcFRKNGc3S0VxSWdkamU2eFB3eWc"
+    },
+    {
+     "name": "The Detroit News",
+     "published_at": "2026-11-03T15:40:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXBkYWh6OXVTa0p6M08xLVkxMV91YzFRMXBIS212UlhPdTltcW9RVjFDQmJ0VTNjek5pZXhlT1owcl9FR1BZVEZMMDM3OVh5WHd2ZnA0bFVQbDNvWFVNMDRhaVB3M05mNnlxMV9wcTBEZC1rYzZPdjEtQmNqQzU2eTlBM2ZJNDlRTlpuQ251SGs0VEd6WGdLOXp6RzU2a3N1RURtV0tLSUx6RmhrNzFBcXJ1bTNlb3pNS185VEIxUE5kSXA2Q21EWEJkZU44S0pGQmJQcGFB"
     }
    ],
    "category": "马斯克",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "SpaceX与特斯拉合并或让马斯克获多数控制权",
    "title_zh": "SpaceX与特斯拉合并或让马斯克获得多数控制权",
    "sentiment": 0,
@@ -639,26 +679,6 @@
    "session": "盘前",
    "zh_summary": "SpaceX与特斯拉二选一长期持有",
    "title_zh": "SpaceX与特斯拉二选一长期持有选谁？",
-   "sentiment": 0
-  },
-  {
-   "id": "e9c6485d7945",
-   "title": "(TSLA) Investment Analysis (TSLA:CA) - Stock Traders Daily",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEJxVG1kWGRNckh5ZWpWcU9uTmxSVXBtZmR0VFMzRDdMR24yN2hDOU11dHRuejB5ZmZVbXlqZWhYR1Zqa25KdE5xLXRNZ1FLY0M1MGt1YnVZUlJmMWw0SXNTeW5CWXNDYXp2NzlsMHdhUnNrMjBHNElEZXhDWUZ3OHJoZzBEQXMxLWc",
-   "source": "Stock Traders Daily",
-   "published_at": "2026-11-03T11:51:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Traders Daily",
-     "published_at": "2026-11-03T11:51:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEJxVG1kWGRNckh5ZWpWcU9uTmxSVXBtZmR0VFMzRDdMR24yN2hDOU11dHRuejB5ZmZVbXlqZWhYR1Zqa25KdE5xLXRNZ1FLY0M1MGt1YnVZUlJmMWw0SXNTeW5CWXNDYXp2NzlsMHdhUnNrMjBHNElEZXhDWUZ3OHJoZzBEQXMxLWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "TSLA投资分析报告",
-   "title_zh": "TSLA投资分析（TSLA:CA）",
    "sentiment": 0
   },
   {
@@ -6565,26 +6585,6 @@
    "zh_summary": "特斯拉Robotaxi落地沃斯堡",
    "title_zh": "特斯拉Robotaxi落地沃斯堡：6个关键细节",
    "sentiment": 1
-  },
-  {
-   "id": "8d4e943b5c0d",
-   "title": "特斯拉Q3销量微跌，净利润却跌43%，研发费用涨69% - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREhXYkhuN0FhRG1rbnNUWW5tVlU2RnN0V09wWXk1bXpJeXpjWFhNOXM5YjVfVjhuc3hKcnRjci1GVjlENEp3TUxJOW42OEhLWEpmZlMybXJ0b0lDanNfSjBFQ1ZLMVhsaHRuc3M1X2ZxRHFTaFFZWnppM1lqRkc0QzVPaFNERjJN",
-   "source": "搜狐网",
-   "published_at": "2026-11-02T05:48:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-02T05:48:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREhXYkhuN0FhRG1rbnNUWW5tVlU2RnN0V09wWXk1bXpJeXpjWFhNOXM5YjVfVjhuc3hKcnRjci1GVjlENEp3TUxJOW42OEhLWEpmZlMybXJ0b0lDanNfSjBFQ1ZLMVhsaHRuc3M1X2ZxRHFTaFFZWnppM1lqRkc0QzVPaFNERjJN"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "特斯拉三季度销量微跌净利润跌43%",
-   "title_zh": "特斯拉Q3销量微跌，净利润却跌43%，研发费用涨69% - 搜狐网",
-   "sentiment": -1
   }
  ]
 }
