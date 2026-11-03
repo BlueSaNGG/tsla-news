@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T16:22:26.048932+00:00",
+ "updated_at": "2026-11-03T16:37:24.706178+00:00",
  "market": {
-  "price": 399.73,
-  "change_pct": -1.01,
+  "price": 397.91,
+  "change_pct": -1.46,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-10-21",
@@ -22,22 +22,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 +0.1%"
+     "note": "目标价中位数 $400（19家），隐含空间 +0.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.07（74条已评分）"
+     "note": "今日新闻情绪 +0.08（76条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $399.73 vs 20日均线 $382.90"
+     "note": "现价 $397.91 vs 20日均线 $382.81"
     },
     {
      "key": "分析师动向",
@@ -45,19 +45,19 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 52,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": 0.1,
-   "ma20": 382.9,
-   "as_of": "2026-11-03T16:22:26.043076+00:00"
+   "implied_upside_pct": 0.5,
+   "ma20": 382.81,
+   "as_of": "2026-11-03T16:37:24.700133+00:00"
   },
-  "pe_ttm": 110.6,
+  "pe_ttm": 110.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.1%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含+0.5%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 74
+   "avg": 0.08,
+   "count": 76
   }
  },
  "meta": {
@@ -68,15 +68,59 @@
  },
  "stories": [
   {
+   "id": "8f916ea6a3f1",
+   "title": "80 Tesla owners facing prosecution in South Korea - electrive.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZU1yM3pSRVVNVTl0SklXcWtqQXVxYS1tS1ZENDBFNWdqdkNjREltbFp1bDZpUUZ0eFlNY185MklrNXVKbnM2dnhPOVhrNVBrT09RTGxVdi1xcDJOd1FxQ1JvODZ0NE9aM3Z0aF9VZ3JNY0R5QmJkUTFnYjg5aGtHMGEtQzVER3Z5VDg5VEIxWXc",
+   "source": "electrive.com",
+   "published_at": "2026-11-03T16:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "electrive.com",
+     "published_at": "2026-11-03T16:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZU1yM3pSRVVNVTl0SklXcWtqQXVxYS1tS1ZENDBFNWdqdkNjREltbFp1bDZpUUZ0eFlNY185MklrNXVKbnM2dnhPOVhrNVBrT09RTGxVdi1xcDJOd1FxQ1JvODZ0NE9aM3Z0aF9VZ3JNY0R5QmJkUTFnYjg5aGtHMGEtQzVER3Z5VDg5VEIxWXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b3c85fd556b6",
+   "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms - CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWVrdWktem04Q1E3cWpqaUZoMl9nMTllMi03bV92NXlQb2hMSHMtMnUxSWF4VDlqVjRhMzBhY3U4WEpuc3lLZDdKVmNIdDV4dUFIMV9NNnAzcTFuMmZfNXVUSlVNV0o5YUViRS1nX0loVGJsTE9QNmJGX3ZHNWpRb19Yb1U5NWM1Z3JKTlE5TzFDV0FiUDNqam1rWDRuZ1dmTjFyUE1oOFhpU3g3WDhyWjFKSFREMlF1WERQOENFRkFYdmht",
+   "source": "CoinDesk",
+   "published_at": "2026-11-03T16:17:51+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "CoinDesk",
+     "published_at": "2026-11-03T16:17:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWVrdWktem04Q1E3cWpqaUZoMl9nMTllMi03bV92NXlQb2hMSHMtMnUxSWF4VDlqVjRhMzBhY3U4WEpuc3lLZDdKVmNIdDV4dUFIMV9NNnAzcTFuMmZfNXVUSlVNV0o5YUViRS1nX0loVGJsTE9QNmJGX3ZHNWpRb19Yb1U5NWM1Z3JKTlE5TzFDV0FiUDNqam1rWDRuZ1dmTjFyUE1oOFhpU3g3WDhyWjFKSFREMlF1WERQOENFRkFYdmht"
+    },
+    {
+     "name": "The Defiant",
+     "published_at": "2026-11-03T16:34:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFhHRC1uazY5Nm5NR3JQQUhfODA4eFV0azJ3Y0thYnA5NEVmZXNGWnVSZFh6clBCRjVSdU84bE1kZUNEMjdTRnpQUDFEelRlbUtYWi03dkFoTWoxX1lOdVYtclcxLWs3YklRNzRLVlVfN2Q4cmo4d2JPQW9FeWZyaUdUWWNPWllrQlZ6VUxMaHZqVlQ2bkI2UXdrc29JY1NQOG9ac1FxSHQ5OWlQTzQ0bzVlS09kQ2Q2"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "70f2197228be",
    "title": "Global markets live: Apple, Meta Platforms, Tesla, Blackstone, Pfizer… - www.marketscreener.com",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2hCM0hjX25LU1ZWNENZWjJXdmcwdWpaNlNHWnM5N05OMmVucGZ6VEJRWGotaERsaVBCRnBBNFlCekZheTVSX3pyajhMS3BzN0FUT1ZNdDRacFFFM2JsYWtseVNyRkRYdTZQQkFmR29McDBMZWtjNl95RmN4UjFmOFpDNzJOWnlhQy1CSlRjMjVEX25DYzh6b0VWVlREMG9sWEFSakU4Sk9OcFR6czc2T093Y1FCbjBsbG5B",
    "source": "www.marketscreener.com",
    "published_at": "2026-11-03T16:14:40+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.marketscreener.com",
+     "published_at": "2026-11-03T16:14:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2hCM0hjX25LU1ZWNENZWjJXdmcwdWpaNlNHWnM5N05OMmVucGZ6VEJRWGotaERsaVBCRnBBNFlCekZheTVSX3pyajhMS3BzN0FUT1ZNdDRacFFFM2JsYWtseVNyRkRYdTZQQkFmR29McDBMZWtjNl95RmN4UjFmOFpDNzJOWnlhQy1CSlRjMjVEX25DYzh6b0VWVlREMG9sWEFSakU4Sk9OcFR6czc2T093Y1FCbjBsbG5B"
+    },
+    {
+     "name": "marketscreener.com",
      "published_at": "2026-11-03T16:14:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2hCM0hjX25LU1ZWNENZWjJXdmcwdWpaNlNHWnM5N05OMmVucGZ6VEJRWGotaERsaVBCRnBBNFlCekZheTVSX3pyajhMS3BzN0FUT1ZNdDRacFFFM2JsYWtseVNyRkRYdTZQQkFmR29McDBMZWtjNl95RmN4UjFmOFpDNzJOWnlhQy1CSlRjMjVEX25DYzh6b0VWVlREMG9sWEFSakU4Sk9OcFR6czc2T093Y1FCbjBsbG5B"
     }
@@ -493,31 +537,6 @@
    "sentiment": -1
   },
   {
-   "id": "09867f9bde83",
-   "title": "Tesla’s China-Made EV Sales Rise For 12th Straight Month – European Recovery Adds To Momentum - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3E2M3haRkZNaUY4X0NYWWJETERHNUU5T3U2RUs4cF9ReWw4dlJSMlJqM1dfcVNEVjhDdnA4UmZ6clRzLXd2aU9VNDBXbXpSNDI5clUwQjgzQjhrOGpuS1k4dVFVOWxoSm9HU2lucmduU3BNWXBwandTTFhJVTc2MFM3WWZjaVBrMFJfOVVuYTl0Z2xQNW1UQmQ0SGdYME1NZ3BhcWxxWmxIT3N6X1JXbi0zdkVxUk03TC10c3dEeHp1YVFMSDRKZ1VSRW5lNTVSWlNFWktHMVZObmZFeUY4UjNBVXVFRzJtRU13",
-   "source": "Stocktwits",
-   "published_at": "2026-11-03T13:57:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-11-03T13:57:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3E2M3haRkZNaUY4X0NYWWJETERHNUU5T3U2RUs4cF9ReWw4dlJSMlJqM1dfcVNEVjhDdnA4UmZ6clRzLXd2aU9VNDBXbXpSNDI5clUwQjgzQjhrOGpuS1k4dVFVOWxoSm9HU2lucmduU3BNWXBwandTTFhJVTc2MFM3WWZjaVBrMFJfOVVuYTl0Z2xQNW1UQmQ0SGdYME1NZ3BhcWxxWmxIT3N6X1JXbi0zdkVxUk03TC10c3dEeHp1YVFMSDRKZ1VSRW5lNTVSWlNFWktHMVZObmZFeUY4UjNBVXVFRzJtRU13"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-11-03T14:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE00MldqZmxTYU5obDRyRkE5dEtTM1VmaWhZN0t3M1IyMUJlNEhhVTFrRHZwb2VXdEd4Z3VnR2ctb2R1dXpieGpweTl4amVaY1lhNFZUTndLaUkyeDk2d0pIaTRhZHp1ZHkzc1M4NkVKdHpNejFJbDdvUTctRlFuVVFfV0ZZMU1MM3ZYNk5lYzlEXzNF"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "特斯拉中国产销量连涨12个月",
-   "title_zh": "特斯拉中国产销量连涨12个月，欧洲复苏添势",
-   "sentiment": 1
-  },
-  {
    "id": "94cf11d5d43f",
    "title": "TSLA Stock Holds Above $400 as Traders Watch $415 Resistance - FXLeaders",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTdqRmthN19URWI0LW9mRzMzS1VYRHFxOC15RTd6UkNBUDVWZnF4d1RMbGloWnJzcTZFenJMVm54WWpCTGpyZDBCWkhGaWxrV0MybVRROGxuS2dkMHFmU1lnRTdNT2lHYWlxRHcyd3p6NjVVcm42SWQyX3doUVpQcGFPc0x2VHlRcE1pYXh1RWxCX3BZbmYteDlNVmVrZTV6c0xZ",
@@ -766,6 +785,31 @@
    "zh_summary": "SpaceX与特斯拉二选一长期持有",
    "title_zh": "SpaceX与特斯拉二选一长期持有选谁？",
    "sentiment": 0
+  },
+  {
+   "id": "09867f9bde83",
+   "title": "Tesla’s China-Made EV Sales Rise For 12th Straight Month – European Recovery Adds To Momentum - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3E2M3haRkZNaUY4X0NYWWJETERHNUU5T3U2RUs4cF9ReWw4dlJSMlJqM1dfcVNEVjhDdnA4UmZ6clRzLXd2aU9VNDBXbXpSNDI5clUwQjgzQjhrOGpuS1k4dVFVOWxoSm9HU2lucmduU3BNWXBwandTTFhJVTc2MFM3WWZjaVBrMFJfOVVuYTl0Z2xQNW1UQmQ0SGdYME1NZ3BhcWxxWmxIT3N6X1JXbi0zdkVxUk03TC10c3dEeHp1YVFMSDRKZ1VSRW5lNTVSWlNFWktHMVZObmZFeUY4UjNBVXVFRzJtRU13",
+   "source": "Stocktwits",
+   "published_at": "2026-11-03T11:41:23+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-11-03T11:41:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3E2M3haRkZNaUY4X0NYWWJETERHNUU5T3U2RUs4cF9ReWw4dlJSMlJqM1dfcVNEVjhDdnA4UmZ6clRzLXd2aU9VNDBXbXpSNDI5clUwQjgzQjhrOGpuS1k4dVFVOWxoSm9HU2lucmduU3BNWXBwandTTFhJVTc2MFM3WWZjaVBrMFJfOVVuYTl0Z2xQNW1UQmQ0SGdYME1NZ3BhcWxxWmxIT3N6X1JXbi0zdkVxUk03TC10c3dEeHp1YVFMSDRKZ1VSRW5lNTVSWlNFWktHMVZObmZFeUY4UjNBVXVFRzJtRU13"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-03T14:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE00MldqZmxTYU5obDRyRkE5dEtTM1VmaWhZN0t3M1IyMUJlNEhhVTFrRHZwb2VXdEd4Z3VnR2ctb2R1dXpieGpweTl4amVaY1lhNFZUTndLaUkyeDk2d0pIaTRhZHp1ZHkzc1M4NkVKdHpNejFJbDdvUTctRlFuVVFfV0ZZMU1MM3ZYNk5lYzlEXzNF"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前",
+   "zh_summary": "特斯拉中国产销量连涨12个月",
+   "title_zh": "特斯拉中国产销量连涨12个月，欧洲复苏添势",
+   "sentiment": 1
   },
   {
    "id": "97f0c0de2407",
@@ -6561,46 +6605,6 @@
    "zh_summary": "特斯拉三星反对美对越南新关税",
    "title_zh": "特斯拉和三星联手反对！要求白宫放弃越南商品征收新关税 - 财联社",
    "sentiment": 0
-  },
-  {
-   "id": "c23f932e75c7",
-   "title": "马斯克转发 F1世界冠军盛赞特斯拉FSD - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PT3phTHRBTjh6NGN5RF9YazlZUzNyXzRoc1B1MGJNTGpNckdDZkYzRmZDY25HMUU5OUMzLVhLVkI1MzEyeHd1UWF1Znc1ZFNZV1lMX3FQMkxVLXBh",
-   "source": "Moomoo",
-   "published_at": "2026-11-02T07:31:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-11-02T07:31:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PT3phTHRBTjh6NGN5RF9YazlZUzNyXzRoc1B1MGJNTGpNckdDZkYzRmZDY25HMUU5OUMzLVhLVkI1MzEyeHd1UWF1Znc1ZFNZV1lMX3FQMkxVLXBh"
-    }
-   ],
-   "category": "马斯克",
-   "session": "盘前",
-   "zh_summary": "F1世界冠军盛赞特斯拉FSD",
-   "title_zh": "马斯克转发 F1世界冠军盛赞特斯拉FSD - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "c2f85c25ea22",
-   "title": "挪威数据汇编机构OFV表示，特斯拉(TSLA.O)10月在挪威的新车注册量同比增长131%。 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnlzWDBOS0xHYjU3dmRieGhRWjRVbXczNm9qNTVrLThTUFgtMmpwUDR6NzE4dWpkQ1pYT2JucEZZN0N4dTZwak1CbTRlR2xwNnJZVm5ZUGpSZUdOOFFMc0VSZjRETEJpel9VdjIwRUU5UjNhLXBTSG1EUzA5bmpjR3Z2VUxoNU14TFoxNUVoanQ5Zml6cU4wNjlvbm9HYTc2LUhwUw",
-   "source": "富途牛牛",
-   "published_at": "2026-11-02T07:08:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-11-02T07:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnlzWDBOS0xHYjU3dmRieGhRWjRVbXczNm9qNTVrLThTUFgtMmpwUDR6NzE4dWpkQ1pYT2JucEZZN0N4dTZwak1CbTRlR2xwNnJZVm5ZUGpSZUdOOFFMc0VSZjRETEJpel9VdjIwRUU5UjNhLXBTSG1EUzA5bmpjR3Z2VUxoNU14TFoxNUVoanQ5Zml6cU4wNjlvbm9HYTc2LUhwUw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉挪威10月注册量同比增131%",
-   "title_zh": "特斯拉10月挪威新车注册量同比增长131%",
-   "sentiment": 1
   }
  ]
 }
