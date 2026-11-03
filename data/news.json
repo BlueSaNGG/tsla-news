@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T08:52:25.529870+00:00",
+ "updated_at": "2026-11-03T09:07:22.814880+00:00",
  "market": {
   "price": 403.82,
   "change_pct": 1.0,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（11条已评分）"
+     "note": "今日新闻情绪 +0.25（12条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.9,
    "ma20": 381.95,
-   "as_of": "2026-11-03T08:52:25.523339+00:00"
+   "as_of": "2026-11-03T09:07:22.800523+00:00"
   },
   "pe_ttm": 111.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 11
+   "avg": 0.25,
+   "count": 12
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "92c7bfada145",
+   "title": "Tesla Could Soon Start Taking Orders For Its Humanoid Robot - Motor1.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFNRMThaWl9nQjdEaHVUbDVLWW9wd2xPM1RkVXpMdGJEdmRSbHRyUEhqYWZYQmRNQkVTQVM0STVnUnpLUVZWQmdaMi05endhalZCM0tQZmF0TEFqdUlHNWxEc0daaGlIWVVxQzdBOWFuWldnRExJaHYzTGF5bmhlMXZid29LT2Jq",
+   "source": "Motor1.com",
+   "published_at": "2026-11-03T09:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Motor1.com",
+     "published_at": "2026-11-03T09:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFNRMThaWl9nQjdEaHVUbDVLWW9wd2xPM1RkVXpMdGJEdmRSbHRyUEhqYWZYQmRNQkVTQVM0STVnUnpLUVZWQmdaMi05endhalZCM0tQZmF0TEFqdUlHNWxEc0daaGlIWVVxQzdBOWFuWldnRExJaHYzTGF5bmhlMXZid29LT2Jq"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "7b3a04c1c90a",
    "title": "19,400 Tesla, Inc. $TSLA Shares Bought by Aware Super Pty Ltd as trustee of Aware Super - MarketBeat",
@@ -6570,26 +6587,6 @@
    "session": "周末",
    "zh_summary": "朝鲜黑客比特币持有量超特斯拉",
    "title_zh": "朝鲜黑客比特币被盗持有量超过特斯拉",
-   "sentiment": 0
-  },
-  {
-   "id": "f38e64498ce7",
-   "title": "朝鲜黑客窃取的比特币数量超过特斯拉持有量：“仅比特币就价值14亿美元” - 아시아경제",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tWFA0d2RJaU9BNXZIVW8wVHJNNEtuYko3WTdxV1VyYzAxX3JWNV9vdTlBYTNlWXhjNG55d1RNVzdtWWdGckR5TXBLMFVZSm1mTW9Ual90X0dkSFA2SnhCSHF1Rmo",
-   "source": "아시아경제",
-   "published_at": "2026-11-01T21:20:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "아시아경제",
-     "published_at": "2026-11-01T21:20:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tWFA0d2RJaU9BNXZIVW8wVHJNNEtuYko3WTdxV1VyYzAxX3JWNV9vdTlBYTNlWXhjNG55d1RNVzdtWWdGckR5TXBLMFVZSm1mTW9Ual90X0dkSFA2SnhCSHF1Rmo"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "朝鲜黑客窃币超特斯拉持有量",
-   "title_zh": "朝鲜黑客窃取的比特币数量超过特斯拉持有量：“仅比特币就价值14亿美元”",
    "sentiment": 0
   }
  ]
