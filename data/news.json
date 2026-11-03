@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T03:07:25.939319+00:00",
+ "updated_at": "2026-11-03T03:22:23.996568+00:00",
  "market": {
   "price": 403.82,
   "change_pct": 1.0,
@@ -32,7 +32,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（184条已评分）"
+     "note": "今日新闻情绪 +0.24（185条已评分）"
     },
     {
      "key": "动量",
@@ -50,14 +50,14 @@
    "target_count": 19,
    "implied_upside_pct": -0.9,
    "ma20": 381.95,
-   "as_of": "2026-11-03T03:07:25.933226+00:00"
+   "as_of": "2026-11-03T03:22:23.990501+00:00"
   },
   "pe_ttm": 111.7,
   "pe_pct_5y": 52,
   "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.9%空间：估值适中，预期中性",
   "day_sentiment": {
    "avg": 0.24,
-   "count": 184
+   "count": 185
   }
  },
  "meta": {
@@ -67,6 +67,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b6d9eeb81c2a",
+   "title": "特斯拉又曝新技术？手机可调单独车轮悬架高度？新专利用途揭晓_热点推荐 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1TGwzMHNEZkRuTk9oVDRWeUJQRkJ1cWNnZ2FoQnU2UDNjdGpIU3ZjU1hTT3lOOWJ5TXRwVGxtYXNCSWJPRDY3cUhwYTk3Q0I0bmJwcVZ4TE82ZERka3JtNQ",
+   "source": "证券之星",
+   "published_at": "2026-11-03T02:58:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-11-03T02:58:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1TGwzMHNEZkRuTk9oVDRWeUJQRkJ1cWNnZ2FoQnU2UDNjdGpIU3ZjU1hTT3lOOWJ5TXRwVGxtYXNCSWJPRDY3cUhwYTk3Q0I0bmJwcVZ4TE82ZERka3JtNQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "de1e294988a5",
    "title": "Samsung Foundry Rides Tesla and Qualcomm Deals Toward a Turnaround - Startup Fortune",
@@ -106,6 +123,23 @@
    "zh_summary": "特斯拉提醒勿测试紧急驶离功能",
    "title_zh": "特斯拉提醒勿测试紧急驶离功能 违规尝试或面临高额费用 - 汽车之家",
    "sentiment": 0
+  },
+  {
+   "id": "24474d4ee1bd",
+   "title": "[产业脉动]特斯拉FSD获准的条件是“承担证明安全的责任” - 아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qS2lKbHlxU0g5S0NLbjVLX25Nc28wNXRnMV8zMFZFVkhPUzFVVlBsQ1JMTlZxaVpaNzdzRUFYbEsyZGxaVjJuWFVFWHI1cjF2THdwRUpPaUt6WW9ELTZyb3c4STU",
+   "source": "아시아경제",
+   "published_at": "2026-11-03T02:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "아시아경제",
+     "published_at": "2026-11-03T02:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qS2lKbHlxU0g5S0NLbjVLX25Nc28wNXRnMV8zMFZFVkhPUzFVVlBsQ1JMTlZxaVpaNzdzRUFYbEsyZGxaVjJuWFVFWHI1cjF2THdwRUpPaUt6WW9ELTZyb3c4STU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7958325201de",
@@ -158,12 +192,17 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRHA0b2JqSFd0YWw5SkwtZF9ndUVlNUszWmlUcEFlUnM3ZmpKd1g0Z1Fyd1ZMajhJRnA1VmJOUFlxc0FLT0ZoU0xXcEtHLUQzMDhHeXpjeDVpRW1MeTVJVmhsNA",
    "source": "东方财富",
    "published_at": "2026-11-03T01:34:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-11-03T01:34:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRHA0b2JqSFd0YWw5SkwtZF9ndUVlNUszWmlUcEFlUnM3ZmpKd1g0Z1Fyd1ZMajhJRnA1VmJOUFlxc0FLT0ZoU0xXcEtHLUQzMDhHeXpjeDVpRW1MeTVJVmhsNA"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-11-03T01:35:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SOGt4NU9TSm0yZFZ6UFY2eGRxWmp3TTFtdDQxNTBHM2dZNEd2V2tTTmZIZXlnN1BPbU5rcG9hcmhOMGRkYUNLLXhhbEkwbmpKT2YwbnVGU05nX0kwbDNDd0RUcEV3ZjhZcks1N0E1c1Y"
     }
    ],
    "category": "Robotaxi与FSD",
@@ -423,12 +462,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YNnVSYWd0MmNfd3FWZVR5WHVJaTNhNGhoTm9kR2owUG5Ya1daMGJ3MFJ2Q05aeloxcVBXNXBIN2dDTWRoZVNlT081dWlDbmJnb1d2aVVwTXc",
    "source": "驱动之家",
    "published_at": "2026-11-02T23:18:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-11-02T23:18:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YNnVSYWd0MmNfd3FWZVR5WHVJaTNhNGhoTm9kR2owUG5Ya1daMGJ3MFJ2Q05aeloxcVBXNXBIN2dDTWRoZVNlT081dWlDbmJnb1d2aVVwTXc"
+    },
+    {
+     "name": "风闻",
+     "published_at": "2026-11-03T03:04:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xR1c2U0l5bnliUnVyb2hvdmlMb09Mb3NDRDRjS2ZnR0MwMUZDekFqZ1hvZ2pBdUNwS0lwYTZ0WnF6TTQteU9fUlBmVUV2Vi1GV0pYV1ktV2tiUEU"
     }
    ],
    "category": "其他",
@@ -3217,26 +3261,6 @@
    "sentiment": 1
   },
   {
-   "id": "63b0e4365067",
-   "title": "没方向盘没刹车，我坐进了只有俩座的特斯拉 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3cyMGdXcVdWNW9QNVNldHFRSzRWeFNNb1FOUkh4OVpwSWdsRmVHeW9kMjFuYll4M1NnbzhQRktxMFhMVE84Qnc0eFBtMW5ZalFKNDhuaVRBRUVMWHNPMXZ0cmlNNWNEQ21ONHktNjF6b29sOGUzdl9PSFlTaklsakE2a09tZE9W",
-   "source": "搜狐网",
-   "published_at": "2026-11-02T10:21:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-11-02T10:21:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3cyMGdXcVdWNW9QNVNldHFRSzRWeFNNb1FOUkh4OVpwSWdsRmVHeW9kMjFuYll4M1NnbzhQRktxMFhMVE84Qnc0eFBtMW5ZalFKNDhuaVRBRUVMWHNPMXZ0cmlNNWNEQ21ONHktNjF6b29sOGUzdl9PSFlTaklsakE2a09tZE9W"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "体验无方向盘双座特斯拉",
-   "title_zh": "没方向盘没刹车，我坐进了只有俩座的特斯拉 - 搜狐网",
-   "sentiment": 0
-  },
-  {
    "id": "0477fff0633b",
    "title": "SpaceX推进套件加持，特斯拉Roadster引入航天思路 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWRhZ1dqWFp5ZTBtcTBWQ2RzVzFjb2tPbG5RRS1ackZNelFCZUZCaG9PYzl3Q1RwVkRDNExscEk5bWJSdXQ3cmw0RnVNdVRXV1p5T09xdGxVaHBwRnpjT2RYZmlBYnNQeUhOSEsyM2FENUJ1bnNjSXg0RUJmdk93YQ",
@@ -3339,6 +3363,31 @@
    "session": "盘前",
    "zh_summary": "特斯拉取消汽车推荐奖励改推FSD奖励",
    "title_zh": "特斯拉取消汽车推荐奖励，改为以全自动驾驶软件奖励推荐人 - 搜狐网",
+   "sentiment": 0
+  },
+  {
+   "id": "cb05c97db7cd",
+   "title": "没方向盘没刹车，我坐进了只有俩座的特斯拉Cybercab - 热点科技",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pb3Y0T1oxQ3lOM0h2cXg0aDB6ZWRoV29wX0NJTnRIQ2pyOGEyR1pLQWJaNWh4Zm4yZzJUejhLcGlVczExTGlHRzEwXzBiZDQ",
+   "source": "热点科技",
+   "published_at": "2026-11-02T10:00:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "热点科技",
+     "published_at": "2026-11-02T10:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pb3Y0T1oxQ3lOM0h2cXg0aDB6ZWRoV29wX0NJTnRIQ2pyOGEyR1pLQWJaNWh4Zm4yZzJUejhLcGlVczExTGlHRzEwXzBiZDQ"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-11-02T10:21:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3cyMGdXcVdWNW9QNVNldHFRSzRWeFNNb1FOUkh4OVpwSWdsRmVHeW9kMjFuYll4M1NnbzhQRktxMFhMVE84Qnc0eFBtMW5ZalFKNDhuaVRBRUVMWHNPMXZ0cmlNNWNEQ21ONHktNjF6b29sOGUzdl9PSFlTaklsakE2a09tZE9W"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘前",
+   "zh_summary": "体验无方向盘双座特斯拉",
+   "title_zh": "没方向盘没刹车，我坐进了只有俩座的特斯拉 - 搜狐网",
    "sentiment": 0
   },
   {
@@ -6534,46 +6583,6 @@
    "session": "周末",
    "zh_summary": "特斯拉飞行汽车定金33.2万",
    "title_zh": "特斯拉飞行汽车定金33.2万，整车预估超百万 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "795632f8f562",
-   "title": "特斯拉Roadster技术秀获流量热度难提商业价值 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUMtVnAtTXVKaGRyTjdZdDRkRU15NFdwbUlTQUcxcldGWGFBRm1ac0JkMTlkZ2JjbDRNTTRDbzh0QzZrRUNEdF8yeTR5UXNQSC1fWG1DOGlxQjhsOWZIenVMRGwtRFhWNld0SDF4WEFjdjhSUUVNS2s4ckw0MWx6Uw",
-   "source": "手机新浪网",
-   "published_at": "2026-11-01T11:47:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-11-01T11:47:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUMtVnAtTXVKaGRyTjdZdDRkRU15NFdwbUlTQUcxcldGWGFBRm1ac0JkMTlkZ2JjbDRNTTRDbzh0QzZrRUNEdF8yeTR5UXNQSC1fWG1DOGlxQjhsOWZIenVMRGwtRFhWNld0SDF4WEFjdjhSUUVNS2s4ckw0MWx6Uw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉Roadster技术秀难提商业价值",
-   "title_zh": "特斯拉Roadster技术秀获流量热度难提商业价值 - 手机新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "58db73aa032a",
-   "title": "Tesla, Inc. $TSLA Shares Acquired by Vise Technologies Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMndnRXNPazRKMVRUMEREWF9hcDFwSEdEVG1kZjFfQ2xWbkxiRVFlX05qZjg0cUlrNlVOMUVQN2NzTlFVYXkydlFjNzRoWUg5SzlZTXM3S3czb0ZrdVpHanVvZEl2LURHWW1YZFUwZlJWelR6UlhYS1prQmE0ZEx0V0VKb19qbzlRRXFmYlhpMVQxSlYzVjEtaGRLUm5pZGtKUVUyMlFINUlPVDNlU2JfdjY1Y1E2NU0",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T11:31:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T11:31:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMndnRXNPazRKMVRUMEREWF9hcDFwSEdEVG1kZjFfQ2xWbkxiRVFlX05qZjg0cUlrNlVOMUVQN2NzTlFVYXkydlFjNzRoWUg5SzlZTXM3S3czb0ZrdVpHanVvZEl2LURHWW1YZFUwZlJWelR6UlhYS1prQmE0ZEx0V0VKb19qbzlRRXFmYlhpMVQxSlYzVjEtaGRLUm5pZGtKUVUyMlFINUlPVDNlU2JfdjY1Y1E2NU0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Vise Technologies增持特斯拉股票",
-   "title_zh": "Vise Technologies增持特斯拉股票",
    "sentiment": 0
   }
  ]
