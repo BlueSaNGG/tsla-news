@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T15:52:28.475277+00:00",
+ "updated_at": "2026-11-03T16:07:24.611947+00:00",
  "market": {
-  "price": 401.82,
-  "change_pct": -0.5,
+  "price": 401.67,
+  "change_pct": -0.53,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-10-21",
@@ -27,17 +27,17 @@
     {
      "key": "目标价空间",
      "score": -1,
-     "note": "目标价中位数 $400（19家），隐含空间 -0.5%"
+     "note": "目标价中位数 $400（19家），隐含空间 -0.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（68条已评分）"
+     "note": "今日新闻情绪 +0.06（70条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $401.82 vs 20日均线 $383.01"
+     "note": "现价 $401.67 vs 20日均线 $383.00"
     },
     {
      "key": "分析师动向",
@@ -48,16 +48,16 @@
    "price_52w_pct": 54,
    "target_median": 400.0,
    "target_count": 19,
-   "implied_upside_pct": -0.5,
-   "ma20": 383.01,
-   "as_of": "2026-11-03T15:52:28.463033+00:00"
+   "implied_upside_pct": -0.4,
+   "ma20": 383.0,
+   "as_of": "2026-11-03T16:07:24.606003+00:00"
   },
   "pe_ttm": 111.1,
   "pe_pct_5y": 52,
-  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.5%空间：估值适中，预期中性",
+  "valuation_sentence": "现价处5年P/E 52%分位，目标价隐含-0.4%空间：估值适中，预期中性",
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 68
+   "avg": 0.06,
+   "count": 70
   }
  },
  "meta": {
@@ -67,6 +67,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8a32f0fe532b",
+   "title": "QUICK SPARK: Elon Musk Says 'Vote Red' — SpaceX And Tesla Have Much To Gain - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVZKR1VtbHM5NDhoS1V6aXhVZ2xPOHNLVlpycUJXTkMzWHRpYWc3MFBLOE9jWVJadWpXUThTS1VHekVFelZfYnBlQnF0RUNFd0lIaTdyNjhvZ3drUzVzNktreWtPakgzZzVGRW9aUjhrSnhKMmxEWk9FRlBfXzQyMjBBSE1TMHdQRGljcGhxQ1Q4dXJXaU1mZ0F3",
+   "source": "Benzinga",
+   "published_at": "2026-11-03T15:53:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-11-03T15:53:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVZKR1VtbHM5NDhoS1V6aXhVZ2xPOHNLVlpycUJXTkMzWHRpYWc3MFBLOE9jWVJadWpXUThTS1VHekVFelZfYnBlQnF0RUNFd0lIaTdyNjhvZ3drUzVzNktreWtPakgzZzVGRW9aUjhrSnhKMmxEWk9FRlBfXzQyMjBBSE1TMHdQRGljcGhxQ1Q4dXJXaU1mZ0F3"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
+  },
+  {
+   "id": "08875de22af3",
+   "title": "Tesla FSD Speed Margin Cut to 10% From 50% as Dutch Regulator Signs Off - Electric Vehicles",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEJrek52by1jTGNib2JiamR0UExVYmZEbjhZVDBOMzdTZEQzWlRLeUpVVzktUHRUS1dGd0t3cm4zdXp0d2ppcEl6RkNlVHNKNkk0VW9yMW9UbnBRd05yTEZQZ3dtb2ttbU1PSUI4d2QwZ2ZuZ3RfdG5CcVFJWTJtR3hGTHM0dHRrRE5vWThHU29hd09HUTlHZWJpNjA2TmFFSVRzSURNLTU",
+   "source": "Electric Vehicles",
+   "published_at": "2026-11-03T15:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electric Vehicles",
+     "published_at": "2026-11-03T15:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEJrek52by1jTGNib2JiamR0UExVYmZEbjhZVDBOMzdTZEQzWlRLeUpVVzktUHRUS1dGd0t3cm4zdXp0d2ppcEl6RkNlVHNKNkk0VW9yMW9UbnBRd05yTEZQZ3dtb2ttbU1PSUI4d2QwZ2ZuZ3RfdG5CcVFJWTJtR3hGTHM0dHRrRE5vWThHU29hd09HUTlHZWJpNjA2TmFFSVRzSURNLTU"
+    }
+   ],
+   "category": "Robotaxi与FSD",
+   "session": "盘中"
+  },
   {
    "id": "fbe892e0d582",
    "title": "Tesla Cybercab Test Fleet Expands to Detroit - Drive Tesla Canada",
@@ -86,6 +120,23 @@
    "zh_summary": "特斯拉Cybercab测试车队扩至底特律",
    "title_zh": "特斯拉Cybercab测试车队扩展到底特律",
    "sentiment": 1
+  },
+  {
+   "id": "d4a8c9fc9287",
+   "title": "Elon Musk could gain majority voting control of a combined Tesla-SpaceX - The Detroit News",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXBkYWh6OXVTa0p6M08xLVkxMV91YzFRMXBIS212UlhPdTltcW9RVjFDQmJ0VTNjek5pZXhlT1owcl9FR1BZVEZMMDM3OVh5WHd2ZnA0bFVQbDNvWFVNMDRhaVB3M05mNnlxMV9wcTBEZC1rYzZPdjEtQmNqQzU2eTlBM2ZJNDlRTlpuQ251SGs0VEd6WGdLOXp6RzU2a3N1RURtV0tLSUx6RmhrNzFBcXJ1bTNlb3pNS185VEIxUE5kSXA2Q21EWEJkZU44S0pGQmJQcGFB",
+   "source": "The Detroit News",
+   "published_at": "2026-11-03T15:40:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Detroit News",
+     "published_at": "2026-11-03T15:40:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXBkYWh6OXVTa0p6M08xLVkxMV91YzFRMXBIS212UlhPdTltcW9RVjFDQmJ0VTNjek5pZXhlT1owcl9FR1BZVEZMMDM3OVh5WHd2ZnA0bFVQbDNvWFVNMDRhaVB3M05mNnlxMV9wcTBEZC1rYzZPdjEtQmNqQzU2eTlBM2ZJNDlRTlpuQ251SGs0VEd6WGdLOXp6RzU2a3N1RURtV0tLSUx6RmhrNzFBcXJ1bTNlb3pNS185VEIxUE5kSXA2Q21EWEJkZU44S0pGQmJQcGFB"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘中"
   },
   {
    "id": "302e2817ab02",
@@ -688,6 +739,23 @@
    "sentiment": 0
   },
   {
+   "id": "e9c6485d7945",
+   "title": "(TSLA) Investment Analysis (TSLA:CA) - Stock Traders Daily",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEJxVG1kWGRNckh5ZWpWcU9uTmxSVXBtZmR0VFMzRDdMR24yN2hDOU11dHRuejB5ZmZVbXlqZWhYR1Zqa25KdE5xLXRNZ1FLY0M1MGt1YnVZUlJmMWw0SXNTeW5CWXNDYXp2NzlsMHdhUnNrMjBHNElEZXhDWUZ3OHJoZzBEQXMxLWc",
+   "source": "Stock Traders Daily",
+   "published_at": "2026-11-03T11:51:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stock Traders Daily",
+     "published_at": "2026-11-03T11:51:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEJxVG1kWGRNckh5ZWpWcU9uTmxSVXBtZmR0VFMzRDdMR24yN2hDOU11dHRuejB5ZmZVbXlqZWhYR1Zqa25KdE5xLXRNZ1FLY0M1MGt1YnVZUlJmMWw0SXNTeW5CWXNDYXp2NzlsMHdhUnNrMjBHNElEZXhDWUZ3OHJoZzBEQXMxLWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "97f0c0de2407",
    "title": "【视频】理想i8VS特斯拉Model YL，6座纯电SUV谁更强？ - 汽车之家",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mU1VVMlNfajhHakc0RUNuMmRRMlRPa0YxVDQ2ZGtKdUI0WTAwY0pXR0lkdHUwR2pmdG13dmd1RmEwWG1FWll1TnRaRzlCaUdLdVFTSGZhclBORFU",
@@ -1047,12 +1115,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXF3blJpampWTDJLZ1lRLW1Pc2hKd3lXNGplRW9pZlNoY3R0eklLeTJ6djV3b0JFS01Nc3doV3EtcUxwdWIzM1V3QXNoZDRsblBXamdVMEp4cldPa0hvMkFKc1NyV1Mxc0lHVjkyUVNVXzAyaWJSTDd4UlBnV3Z5S1pjanZEeGR0",
    "source": "搜狐网",
    "published_at": "2026-11-03T10:11:50+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-11-03T10:11:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXF3blJpampWTDJLZ1lRLW1Pc2hKd3lXNGplRW9pZlNoY3R0eklLeTJ6djV3b0JFS01Nc3doV3EtcUxwdWIzM1V3QXNoZDRsblBXamdVMEp4cldPa0hvMkFKc1NyV1Mxc0lHVjkyUVNVXzAyaWJSTDd4UlBnV3Z5S1pjanZEeGR0"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-11-03T10:11:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUtlenJIWUEzVUZMU01jOG8xV3VPVjY1Y0p5djIxN1pHaWNSQXFiNHYzZnU4RlpjZjk2SUl3bnpIODRRdF9KS0d0a21JZjlHZjg5ZUZMUElpZ3BieVdiZ2VLYjdQaVZvWXVmS0dPYWdVUk4yM1NIb3V0dVFVR1pyOTFQUXNMQQ"
     }
    ],
    "category": "交付量",
@@ -1084,15 +1157,15 @@
   {
    "id": "8beeb0c498cd",
    "title": "【视频】你买得起特斯拉Model Y，但你能养得起吗？ - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CRk9MOUp3NmNUQmUtcnMxVXZrMklUNnNaN01JeVBTd1JTcTdXSGxwWkFuWksxeHQ5NWdnUVJQRThHR0ZEUTA4X1puSElKQS0zMlJJY0pIeHdKRlNrbDVtRS1BTVlZcVVzc2ZZ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SF84VkhFanJtcWN4V2M3NzBlcm5KUUp0Ym0zZUJBNzF1cC1rS1ROaElKNHhFcHFlNkEzYWpaXzdXR3NMS0xUN252V1NVWnlyRktqLVZuTDFVRnM",
    "source": "汽车之家",
-   "published_at": "2026-11-03T09:59:24+00:00",
+   "published_at": "2026-11-03T09:58:35+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "汽车之家",
-     "published_at": "2026-11-03T09:59:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CRk9MOUp3NmNUQmUtcnMxVXZrMklUNnNaN01JeVBTd1JTcTdXSGxwWkFuWksxeHQ5NWdnUVJQRThHR0ZEUTA4X1puSElKQS0zMlJJY0pIeHdKRlNrbDVtRS1BTVlZcVVzc2ZZ"
+     "published_at": "2026-11-03T09:58:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SF84VkhFanJtcWN4V2M3NzBlcm5KUUp0Ym0zZUJBNzF1cC1rS1ROaElKNHhFcHFlNkEzYWpaXzdXR3NMS0xUN252V1NVWnlyRktqLVZuTDFVRnM"
     }
    ],
    "category": "车型产品",
@@ -1167,7 +1240,7 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVBRV2p0UEJVQ0dWYldUZUFzSEsyM1Z0bExxTHpBRGd3aThzWGNCeWN3c0toVi1iRFdmbzZnSjdKV1RxMFNnV2ZGNERZMXdmZ3RjUTdXa3Vqb1U3cmNfUlpWTk5XN2VhMV9Ic2ZqQ3pVbXMxcEJoV3NHXzZnTHJJX2k3cmF4S05XanpoTGJ1NTlPRTg3Zlg2YnM4dmRCMW5QcEVCa1RsZnM1UHA1VWprdENic1lpZ0YxSjY0RjEwYw",
    "source": "TradingView",
    "published_at": "2026-11-03T09:34:24+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "TradingView",
@@ -1193,6 +1266,11 @@
      "name": "The Mighty 790 KFGO",
      "published_at": "2026-11-03T10:48:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZE1hTVlsZDhNT0NBZHdTYV8yTkZfdDhqMEg1cFBlNDBuRHdhczBBb0ZYTUlWRklxd2VGY25SQ0g2a09aN1ZwVzJmRmJ3YURlMFpoSEhuck50eEF3Q3lXQUFTY3NDWHRQdEtDX2o1bUg2QXJxSnJKcVhEUU5HQ18yb2ZTZG4weVk"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "published_at": "2026-11-03T10:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMnpzRmpXRjJKbUU2clF2SFVUN05yUGx4SVY1MVVvd25IOGFOb0czQ3U1ZW9ValdoWC1tNTBwc3JDbXlfaGVCYUIxTk9hNURSTHpTWWNWR1pxRktGRFJnSEV3UUJIeWxiRExHd0ZQbWk0QTA1RUViemN2eXVYVWl0UzRfYWJWalgweXBnS1EyNUZUblliYXV3ZTFGbnRaai10bUljS0F0U1ZTNnBKLWo3QkFoN3Z4YW5BNVVBY1UwaVlBRnpLaGR5MjNvaGllLUF5LW9Sajg4Y3o2WVlDWW5wa3BreFNYUQ"
     }
    ],
    "category": "政策监管",
@@ -1577,6 +1655,23 @@
    "sentiment": 1
   },
   {
+   "id": "2f10051fb9d0",
+   "title": "Musk Pay in SpaceX-Tesla Merger: 56% Vote, No $1T [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnk2MFFMc21JLXdkbWpPeG45NEM2VTZkcEFBWDg1Z202T0FKQ243QjdqLUhxcWsyalNZdFV4RjZ3UUhNN3VzblA3dnNyS0xIYVB2SXhqajVYUl8tLWVIN0ZiUk93VXAwelhIQkZyUDJmR1hlQ0pvdGdKU2RuNkNHWlQxb2k0QTBETXlQemNUOA",
+   "source": "shattered.io",
+   "published_at": "2026-11-03T06:26:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-11-03T06:26:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnk2MFFMc21JLXdkbWpPeG45NEM2VTZkcEFBWDg1Z202T0FKQ243QjdqLUhxcWsyalNZdFV4RjZ3UUhNN3VzblA3dnNyS0xIYVB2SXhqajVYUl8tLWVIN0ZiUk93VXAwelhIQkZyUDJmR1hlQ0pvdGdKU2RuNkNHWlQxb2k0QTBETXlQemNUOA"
+    }
+   ],
+   "category": "马斯克",
+   "session": "盘前"
+  },
+  {
    "id": "31efd45e839a",
    "title": "Tesla sales dip in October, but Model Y remains well ahead of last year - The Driven",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0RIQ3BaZmFqNGpSZlpqeHhyN1FTZzNjOGY4VlBqckU1MVlzZV9DTG9WdGktQlNmTlVKbFJuZVkyLV80TlhGcTJabm5ubUNYczVMb2tmbk1KWGR5X0xtRHlXaEtNTFpmM1lVSy1CQmFyRUJKYU5qTG81ME5MQUlfVDRTS183ck8xMExQQUlZdmd0Y3BaNl9DclFaSjhiTHYzaW9HVjRn",
@@ -1602,12 +1697,17 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYVF0aWJsQnhjNjlVczVnMVNLQ0NtaU15aEZJcDUwazdhVmxkWVhfVHR5b3FTUjYzNzlzM1YzUWtQTUJxdy1DUUNuSzBvUDA2SzdqZ29KM1pfRWR5V09N",
    "source": "手机新浪网",
    "published_at": "2026-11-03T05:45:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-11-03T05:45:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fYVF0aWJsQnhjNjlVczVnMVNLQ0NtaU15aEZJcDUwazdhVmxkWVhfVHR5b3FTUjYzNzlzM1YzUWtQTUJxdy1DUUNuSzBvUDA2SzdqZ29KM1pfRWR5V09N"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-11-03T15:55:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWenA4aXNtSnlwdEpERC1DVV9IYWhiVXpndHp6M2NSTEktVUh1bmFuY3NoN0xPTHBlLWl0RHIxMTJyQnVxS3ltSUNqUlExS3AzR1hrakF4WHhGZDRBZUpF"
     }
    ],
    "category": "车型产品",
@@ -6476,120 +6576,6 @@
    "session": "盘前",
    "zh_summary": "特斯拉Cybercab现身成都，无方向盘脚踏板",
    "title_zh": "特斯拉Cybercab来成都了，没有方向盘，没有脚踏板",
-   "sentiment": 1
-  },
-  {
-   "id": "8e6bb1d92356",
-   "title": "【视频】23年11月特斯拉Model Y - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOHMtWFluS0pJVkpEUUt3OGRsaWRnUkVKT19QMnI5b002MUhNS0ZUXzlkN1ZpNVJRQ2tGdmZYWWxadDhILTdpZnZBNXp6UTV2Tk9TN2ljWW5EeDg",
-   "source": "汽车之家",
-   "published_at": "2026-11-02T06:36:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-02T06:36:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOHMtWFluS0pJVkpEUUt3OGRsaWRnUkVKT19QMnI5b002MUhNS0ZUXzlkN1ZpNVJRQ2tGdmZYWWxadDhILTdpZnZBNXp6UTV2Tk9TN2ljWW5EeDg"
-    }
-   ],
-   "category": "车型产品",
-   "session": "盘前",
-   "zh_summary": "23年11月特斯拉Model Y视频",
-   "title_zh": "【视频】23年11月特斯拉Model Y - 汽车之家",
-   "sentiment": 0
-  },
-  {
-   "id": "2c0de2ca4b29",
-   "title": "特斯拉Cybercab万圣节整活载骷髅夜间狂飙- Tesla 特斯拉 - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsU215M3FLWnctbXI5TXdPUGV2QWM1SURzVDRkaTdWV2FNb3dsUTdDWEZ3UmluMzh5U3d3NUxuUlRMVzhLd3NYREk4TmtEUm9qQWdlR2FQU3hIeGZSRUVkcQ",
-   "source": "cnBeta.COM",
-   "published_at": "2026-11-02T06:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-11-02T06:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsU215M3FLWnctbXI5TXdPUGV2QWM1SURzVDRkaTdWV2FNb3dsUTdDWEZ3UmluMzh5U3d3NUxuUlRMVzhLd3NYREk4TmtEUm9qQWdlR2FQU3hIeGZSRUVkcQ"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Cybercab万圣节载骷髅夜行",
-   "title_zh": "特斯拉Cybercab万圣节整活载骷髅夜间狂飙",
-   "sentiment": 0
-  },
-  {
-   "id": "b6b02f754847",
-   "title": "【视频】无人驾驶电动车西南首秀，静态体验Tesla Cybercab - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bzNWWUZ4ZUlsMXd4ajduYndmYzBVdzZmSGZHZXR3NHVYaGYwYXBqZldoV0NpUUI4WnNFZFRGTXZXc2NRckkyOUo0WlNyQnlLN2xnM1FmblZkV0JtU3VqU1NYWnpaS1RQcEZj",
-   "source": "汽车之家",
-   "published_at": "2026-11-02T06:16:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-02T06:16:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bzNWWUZ4ZUlsMXd4ajduYndmYzBVdzZmSGZHZXR3NHVYaGYwYXBqZldoV0NpUUI4WnNFZFRGTXZXc2NRckkyOUo0WlNyQnlLN2xnM1FmblZkV0JtU3VqU1NYWnpaS1RQcEZj"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "Cybercab西南首秀静态体验",
-   "title_zh": "【视频】无人驾驶电动车西南首秀，静态体验Tesla Cybercab",
-   "sentiment": 1
-  },
-  {
-   "id": "9d00415d4aaf",
-   "title": "Tesla new registrations in Denmark rise 34% year-on-year in October - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDhnRU8xU3gwVjFYZ2NZVmp1ZzgzcnlQMFNDRTdxRnVmOVRnWXpWV25QMkNHS1MwNmVuRHVtTmU4d3hTQ2N5TUYxRTM4YUs5M3lheHdMSjJZbU9Gcng4V2lMNldUX1NSVkVvYmpfM3ozNDNNQ1pJWXY3YUxIVVpuWUxub25aZlBJTm1ESTliZTVTTFhlcGlia1pGSGlSNExlX2Mwa0Z3UGFGZGhDczlTVmZHc1VEdFZndUZF",
-   "source": "marketscreener.com",
-   "published_at": "2026-11-02T06:14:19+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-11-02T06:14:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDhnRU8xU3gwVjFYZ2NZVmp1ZzgzcnlQMFNDRTdxRnVmOVRnWXpWV25QMkNHS1MwNmVuRHVtTmU4d3hTQ2N5TUYxRTM4YUs5M3lheHdMSjJZbU9Gcng4V2lMNldUX1NSVkVvYmpfM3ozNDNNQ1pJWXY3YUxIVVpuWUxub25aZlBJTm1ESTliZTVTTFhlcGlia1pGSGlSNExlX2Mwa0Z3UGFGZGhDczlTVmZHc1VEdFZndUZF"
-    },
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-11-02T08:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUlFY3dLdHdGdWhUN29PSjdPcnRhWjRTV25TaktXWWxMcllkSHZxQkh1Y1VhbkU1c1owMmpJZFhsbm9EWVdZMllmcG10NWl3aE5KU3p1Sk0xOXNHNFE1VDJ3VzRibEliYXJPdkp4QVN4ekVwYmlPWldvSDcyX3d0Z1JqNHdYdVJzLWhYY3QtOXR6RjZkOFJvUXJMRzdkZ2JSUGc"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-11-02T07:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeUgybXpTWHJ3SVpzTVczcVlmdlhIUmlzZFFHbVdHcnZfTVpUTUdMMkllWk1OUW02MlpkUzJjMlk4T1A2QVlwSE1XOUpwUGhqZWt3WlY1Q0J1S0hlWFBWWGhqcE9tdnhRNzExcFZBRVpFTHpPUWVIU3Q2Y0QwU0NjSkc4NWx1U2FGVVl2NXVEbHNIeE9RcmtjSnpsRHpJLVk5b3JHUFdmN2NfMWoybGpCdzlCcHFpSjk2M09EMldFQVV3TDhDejhoQUh3NjB5ZzNhWVE"
-    }
-   ],
-   "category": "交付量",
-   "session": "盘前",
-   "zh_summary": "特斯拉10月丹麦注册量同比增34%",
-   "title_zh": "特斯拉10月丹麦新注册量同比增长34%",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f99f7d1f1b11",
-   "title": "Tesla Robotaxi Hits Fort Worth: 6 Details That Matter - BASENOR - Tesla Accessories",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMm91TngwVFpadm1Lb0tsMDRUdUV1dU9mZmZKcFhuLXJ6WXJHLW92Si10OHBpdVNVaFBnV21pTDYydGl5R3pUeXd4bmpORHZkYmMwYmgzSTdVRElTNHVQejJ4WTQweXg4dXhwY3Q5ZjhTTXdlaGU2bVROM1RCNElheWNPckM1cjVFVE02SUhweVE",
-   "source": "BASENOR - Tesla Accessories",
-   "published_at": "2026-11-02T06:05:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BASENOR - Tesla Accessories",
-     "published_at": "2026-11-02T06:05:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMm91TngwVFpadm1Lb0tsMDRUdUV1dU9mZmZKcFhuLXJ6WXJHLW92Si10OHBpdVNVaFBnV21pTDYydGl5R3pUeXd4bmpORHZkYmMwYmgzSTdVRElTNHVQejJ4WTQweXg4dXhwY3Q5ZjhTTXdlaGU2bVROM1RCNElheWNPckM1cjVFVE02SUhweVE"
-    }
-   ],
-   "category": "Robotaxi与FSD",
-   "session": "盘前",
-   "zh_summary": "特斯拉Robotaxi落地沃斯堡",
-   "title_zh": "特斯拉Robotaxi落地沃斯堡：6个关键细节",
    "sentiment": 1
   }
  ]
